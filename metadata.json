@@ -1,0 +1,7 @@
+{
+  "name": "FlashLingo AI",
+  "description": "Um aplicativo inteligente de flashcards para aprender inglês, gerando baralhos personalizados com IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
