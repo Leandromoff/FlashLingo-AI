@@ -38,7 +38,19 @@ const retryApiCall = async <T>(fn: () => Promise<T>, retries = 3, baseDelay = 20
   throw lastError;
 };
 
-export const generateFlashcards = async (topic: string, deckNumber: number = 1, excludedWords: string[] = [], language: SupportedLanguage = 'en'): Promise<FlashcardData[]> => {
+const getCefrDescription = (level: number): string => {
+  switch (level) {
+    case 1: return "CEFR A1 (Beginner) - Basic survival vocabulary, simple concrete nouns/verbs.";
+    case 2: return "CEFR A2 (Elementary) - Routine descriptions, common social phrases.";
+    case 3: return "CEFR B1 (Intermediate) - Opinions, unexpected situations, connected text.";
+    case 4: return "CEFR B1+ (Upper Intermediate) - Specific technical terms, more complex abstract ideas.";
+    case 5: return "CEFR B2 (Advanced) - Idioms, phrasal verbs, native-level nuance and slang.";
+    case 6: return "CEFR C1 (Proficient) - Complex, structured, and implicit meaning. Academic or professional fluency.";
+    default: return "CEFR A1 (Beginner)";
+  }
+};
+
+export const generateFlashcards = async (topic: string, difficultyLevel: number = 1, excludedWords: string[] = [], language: SupportedLanguage = 'en'): Promise<FlashcardData[]> => {
   return retryApiCall(async () => {
     try {
       const modelId = "gemini-2.5-flash";
@@ -55,38 +67,41 @@ export const generateFlashcards = async (topic: string, deckNumber: number = 1, 
           targetLangName = 'French';
           phoneticExample = "'oui' -> 'ui', 'boulangerie' -> 'bu-lan-je-rri', 'maison' -> 'me-zon'";
           break;
+        case 'it':
+          targetLangName = 'Italian';
+          phoneticExample = "'ciao' -> 'tcháu', 'grazie' -> 'grá-tsie', 'gelato' -> 'dje-lá-to'";
+          break;
+        case 'de':
+          targetLangName = 'German';
+          phoneticExample = "'hallo' -> 'rá-lo', 'danke' -> 'dán-ke', 'nacht' -> 'nárr-t'";
+          break;
         default:
           targetLangName = 'English';
       }
       
-      // Format excluded words for the prompt
+      // Format excluded words for the prompt with stricter language
       const excludedList = excludedWords.length > 0 
-        ? `CRITICAL NEGATIVE CONSTRAINT: Do NOT generate any of the following words (already learned/reviewed): [${excludedWords.join(', ')}].` 
+        ? `STRICT NEGATIVE FILTER: You MUST NOT generate any of the following words (duplicates are forbidden): [${excludedWords.join(', ')}]. If a word from this list comes to mind, discard it and choose another.` 
         : 'No exclusions for this deck.';
+
+      const levelStrategy = getCefrDescription(difficultyLevel);
 
       const prompt = `You are an expert ${targetLangName} curriculum designer acting as an API. 
       Create a vocabulary deck for the topic: "${topic}".
       
-      CONTEXT: The user is playing Deck ${deckNumber} of 5 learning ${targetLangName}.
+      TARGET LEVEL: ${levelStrategy}
       
       ${excludedList}
-      
-      CEFR LEVEL STRATEGY (Follow this progression strictly):
-      - Deck 1: CEFR A1 (Beginner) - Basic survival vocabulary, simple concrete nouns/verbs.
-      - Deck 2: CEFR A2 (Elementary) - Routine descriptions, common social phrases.
-      - Deck 3: CEFR B1 (Intermediate) - Opinions, unexpected situations, connected text.
-      - Deck 4: CEFR B1+ (Upper Intermediate) - Specific technical terms, more complex abstract ideas.
-      - Deck 5: CEFR B2 (Advanced) - Idioms, phrasal verbs, native-level nuance and slang.
 
       TASK:
-      1. Generate a list of 10 DISTINCT ${targetLangName} words or short phrases specifically for Deck ${deckNumber} based on the CEFR strategy above.
-      2. VERIFY that none of the generated words appear in the CRITICAL NEGATIVE CONSTRAINT list above. If a word is in that list, you MUST choose a different one.
+      1. Generate a list of 10 DISTINCT ${targetLangName} words or short phrases specifically matching the TARGET LEVEL described above.
+      2. VERIFY against the NEGATIVE FILTER. Do not output words that are in the excluded list.
       3. For each word, provide:
          - Portuguese translation.
          - Standard Phonetic pronunciation (IPA).
          - Portuguese-style phonetic transcription (how a Brazilian would read it to sound like ${targetLangName}, e.g., ${phoneticExample}).
          - The word split into syllables (e.g., ["fan", "tas", "tic"]).
-         - An example sentence in ${targetLangName} (matching the CEFR complexity of the Deck).
+         - An example sentence in ${targetLangName} (matching the complexity of the Target Level).
          - Portuguese translation of the sentence.`;
 
       const response = await ai.models.generateContent({
@@ -99,7 +114,7 @@ export const generateFlashcards = async (topic: string, deckNumber: number = 1, 
             items: {
               type: Type.OBJECT,
               properties: {
-                word: { type: Type.STRING, description: `The ${targetLangName} word or phrase` },
+                word: { type: Type.STRING, description: `The ${targetLangName} word or phrase (MUST NOT be in excluded list)` },
                 translation: { type: Type.STRING, description: "Portuguese translation" },
                 pronunciation: { type: Type.STRING, description: "Standard pronunciation (IPA)" },
                 portuguesePhonetic: { type: Type.STRING, description: `Phonetic transcription adapted for Portuguese speakers learning ${targetLangName}` },
@@ -263,6 +278,8 @@ export const playLocalAudio = (text: string, language: SupportedLanguage = 'en',
     switch (language) {
       case 'es': utterance.lang = 'es-ES'; break;
       case 'fr': utterance.lang = 'fr-FR'; break;
+      case 'it': utterance.lang = 'it-IT'; break;
+      case 'de': utterance.lang = 'de-DE'; break;
       default: utterance.lang = 'en-US';
     }
 
@@ -339,6 +356,8 @@ export const evaluatePronunciation = async (audioBlob: Blob, targetText: string,
     switch (language) {
       case 'es': targetLangName = 'Spanish'; break;
       case 'fr': targetLangName = 'French'; break;
+      case 'it': targetLangName = 'Italian'; break;
+      case 'de': targetLangName = 'German'; break;
     }
 
     const prompt = `

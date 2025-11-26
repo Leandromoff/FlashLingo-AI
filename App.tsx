@@ -3,9 +3,9 @@ import { generateFlashcards } from './services/geminiService';
 import { AppState, StudySession, FlashcardData, PREDEFINED_TOPICS, SupportedLanguage } from './types';
 import Card from './components/Card';
 import ProgressBar from './components/ProgressBar';
-import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, Lock, ArrowRight, Music2, Mic, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight } from 'lucide-react';
+import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, Lock, ArrowRight, Music2, Mic, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, FastForward, Gauge, Trash2 } from 'lucide-react';
 
-const MAX_LEVEL = 5;
+const MAX_LEVEL = 6;
 
 const TOPIC_POOL = [
   // Tecnologia & Futuro
@@ -92,6 +92,22 @@ const FlagFR = () => (
   </svg>
 );
 
+const FlagIT = () => (
+  <svg className="w-8 h-6 rounded shadow-sm object-cover ring-1 ring-slate-900/10" viewBox="0 0 32 24" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#fff" d="M0 0h32v24H0z"/>
+    <path fill="#009246" d="M0 0h11v24H0z"/>
+    <path fill="#CE2B37" d="M21 0h11v24H21z"/>
+  </svg>
+);
+
+const FlagDE = () => (
+  <svg className="w-8 h-6 rounded shadow-sm object-cover ring-1 ring-slate-900/10" viewBox="0 0 32 24" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#FFCE00" d="M0 0h32v24H0z"/>
+    <path fill="#000" d="M0 0h32v8H0z"/>
+    <path fill="#DD0000" d="M0 8h32v8H0z"/>
+  </svg>
+);
+
 const App: React.FC = () => {
   const [appState, setAppState] = useState<AppState>(AppState.HOME);
   const [customTopic, setCustomTopic] = useState('');
@@ -99,6 +115,9 @@ const App: React.FC = () => {
   const [loadingContext, setLoadingContext] = useState<{ level: number; label: string } | null>(null);
   const [isCardFlipped, setIsCardFlipped] = useState(false);
   const [errorMsg, setErrorMsg] = useState('');
+  const [isDevMode, setIsDevMode] = useState(false);
+  // manualLevel is replaced by selectedLevels array. Empty array means 'Auto' (default).
+  const [selectedLevels, setSelectedLevels] = useState<number[]>([]);
   
   // Trending Topics Carousel State
   const [trendingPool] = useState(() => {
@@ -112,7 +131,7 @@ const App: React.FC = () => {
   const [targetLanguage, setTargetLanguage] = useState<SupportedLanguage>(() => {
     const saved = localStorage.getItem('flashlingo_target_language');
     // Validation to ensure saved value is a supported type
-    if (saved === 'en' || saved === 'es' || saved === 'fr') return saved;
+    if (saved === 'en' || saved === 'es' || saved === 'fr' || saved === 'it' || saved === 'de') return saved;
     return 'en';
   });
 
@@ -173,15 +192,21 @@ const App: React.FC = () => {
 
   const getLevel = (topicId: string) => topicLevels[getTopicKey(topicId)] || 1;
 
-  const resetProgress = (topicId: string, e?: React.MouseEvent) => {
-    if (e) e.stopPropagation();
-
-    if (window.confirm('Tem certeza que deseja reiniciar o progresso deste baralho? Todas as palavras aprendidas e a lista de revisão serão apagadas.')) {
-      const key = getTopicKey(topicId);
-      setTopicLevels(prev => { const n = { ...prev }; delete n[key]; return n; });
-      setTopicWords(prev => { const n = { ...prev }; delete n[key]; return n; });
-      setTopicReviews(prev => { const n = { ...prev }; delete n[key]; return n; });
+  const resetProgress = (topicId: string, e?: React.MouseEvent, force: boolean = false) => {
+    // Aggressively stop propagation
+    if (e) {
+      e.preventDefault();
+      e.stopPropagation();
     }
+
+    // Force reset without confirmation for immediate UI feedback
+    const key = getTopicKey(topicId);
+    setTopicLevels(prev => { const n = { ...prev }; delete n[key]; return n; });
+    setTopicWords(prev => { const n = { ...prev }; delete n[key]; return n; });
+    setTopicReviews(prev => { const n = { ...prev }; delete n[key]; return n; });
+    
+    // Also disable dev mode when resetting
+    setIsDevMode(false);
   };
 
   // Carousel Navigation
@@ -201,19 +226,62 @@ const App: React.FC = () => {
   }, [isCarouselPaused, nextTrending]);
 
   const currentTrendingTopics = trendingPool.slice(trendingIndex, trendingIndex + ITEMS_PER_VIEW);
-  // Handle wrap-around for display if pool length isn't divisible by view size perfectly, 
-  // though slice handles out of bounds gracefully, logic above ensures index is valid.
-  // If slice returns fewer items at the end, we might want to pad from start, but for simplicity:
   const displayTopics = currentTrendingTopics.length < ITEMS_PER_VIEW 
       ? [...currentTrendingTopics, ...trendingPool.slice(0, ITEMS_PER_VIEW - currentTrendingTopics.length)]
       : currentTrendingTopics;
 
+  // Level Definitions for UI
+  const LEVEL_OPTIONS = [
+    { value: null, label: 'Auto' },
+    { value: 1, label: 'A1' },
+    { value: 2, label: 'A2' },
+    { value: 3, label: 'B1' },
+    { value: 4, label: 'B1+' },
+    { value: 5, label: 'B2' },
+    { value: 6, label: 'C1' },
+  ];
+
+  const handleLevelToggle = (val: number | null) => {
+    if (val === null) {
+      // If Auto is clicked, clear all selections
+      setSelectedLevels([]);
+      return;
+    }
+
+    setSelectedLevels(prev => {
+      // If the level is already selected, remove it
+      if (prev.includes(val)) {
+        return prev.filter(v => v !== val);
+      }
+      // Otherwise add it and sort
+      return [...prev, val].sort((a, b) => a - b);
+    });
+  };
 
   const startSession = async (topicLabel: string, topicId: string, isBonusRound = false) => {
     const key = getTopicKey(topicId);
-    const currentLevel = getLevel(topicId);
     
-    setLoadingContext({ level: isBonusRound ? 99 : currentLevel, label: topicLabel }); // 99 indicates bonus visually
+    // VISUAL LEVEL: Controls the progress bar "Deck X / 6"
+    let visualLevel = getLevel(topicId);
+    if (isDevMode) {
+      visualLevel = MAX_LEVEL;
+    }
+
+    // DIFFICULTY LEVEL: Controls the content complexity (A1-C1)
+    // Default: Match visual level (Auto behavior)
+    let difficultyLevel = visualLevel;
+
+    // Custom Mode: Distribute selected levels across the 6 visual decks
+    // Example: User selected [A1 (1), B2 (5)]. 
+    // Deck 1 -> A1 (Index 0)
+    // Deck 2 -> B2 (Index 1)
+    // Deck 3 -> A1 (Index 0) ...
+    if (selectedLevels.length > 0) {
+      const index = (visualLevel - 1) % selectedLevels.length;
+      difficultyLevel = selectedLevels[index];
+    }
+
+    setLoadingContext({ level: isBonusRound ? 99 : visualLevel, label: topicLabel }); 
     setAppState(AppState.LOADING);
     setErrorMsg('');
     
@@ -226,20 +294,19 @@ const App: React.FC = () => {
         if (reviewCards.length === 0) {
           throw new Error("Lista de revisão vazia.");
         }
-        // Shuffle the review cards
         cards = [...reviewCards].sort(() => Math.random() - 0.5);
       } else {
         // NORMAL ROUND: Generate via API
-        // If level 1, start fresh (ignore exclusion list to allow resets to work properly)
-        // Otherwise, pass the FULL history of generated words to avoid repetition
-        const excludedWords = currentLevel === 1 ? [] : (topicWords[key] || []);
-        cards = await generateFlashcards(topicLabel, currentLevel, excludedWords, targetLanguage);
+        // CRITICAL FIX: Always pass previously learned words to exclusion list to prevent repetition,
+        // regardless of level or custom mode.
+        const excludedWords = topicWords[key] || [];
+        cards = await generateFlashcards(topicLabel, difficultyLevel, excludedWords, targetLanguage);
       }
 
       setSession({
         topicId,
         topicLabel,
-        level: currentLevel,
+        level: visualLevel, // We keep the visual level for progress tracking
         isBonus: isBonusRound,
         language: targetLanguage,
         cards,
@@ -277,7 +344,9 @@ const App: React.FC = () => {
         if (isLastCard) {
           const key = `${prev.topicId}_${prev.language}`;
 
-          // 1. Always Advance Level (unless it's max level or bonus round)
+          // 1. Advance Level logic
+          // Only advance if: NOT bonus, and NOT max level.
+          // Note: Even in custom mode, we advance the "Visual Level" from 1 to 6.
           if (!prev.isBonus && prev.level < MAX_LEVEL) {
             setTopicLevels(levels => ({
               ...levels,
@@ -285,7 +354,7 @@ const App: React.FC = () => {
             }));
           }
 
-          // 2. SAVE ALL WORDS FROM THIS SESSION TO EXCLUSION LIST
+          // 2. SAVE ALL WORDS (Prevent Repetition in future decks)
           if (!prev.isBonus) {
              const allSessionWords = prev.cards.map(c => c.word);
              setTopicWords(words => {
@@ -298,10 +367,11 @@ const App: React.FC = () => {
              });
           }
 
-          // 3. Accumulate "Unknown" words to Review List (Bonus Deck Queue)
+          // 3. Accumulate "Unknown" (Add to Bonus Deck)
           if (!known) {
              setTopicReviews(reviews => {
                 const existing = reviews[key] || [];
+                // Check if card is already in review to avoid duplicate objects
                 const isAlreadyInReview = existing.some(c => c.word === currentCard.word);
                 if (!isAlreadyInReview) {
                     return { ...reviews, [key]: [...existing, currentCard] };
@@ -310,6 +380,7 @@ const App: React.FC = () => {
              });
           } 
           
+          // 4. Remove "Known" from Bonus Deck
           if (prev.isBonus && known) {
              setTopicReviews(reviews => {
                 const existing = reviews[key] || [];
@@ -317,6 +388,7 @@ const App: React.FC = () => {
              });
           }
           
+          // 5. Batch Add Unknowns (for intermediate saves if needed, but mainly covered above)
           if (!prev.isBonus && newUnknownCards.length > 0) {
              setTopicReviews(reviews => {
                 const existing = reviews[key] || [];
@@ -344,7 +416,7 @@ const App: React.FC = () => {
         };
       });
     }, 100);
-  }, [session]);
+  }, [session, selectedLevels]); // Added selectedLevels to deps
 
   const resetApp = () => {
     setAppState(AppState.HOME);
@@ -365,70 +437,135 @@ const App: React.FC = () => {
       <h1 className="text-4xl font-extrabold text-slate-900 dark:text-white mb-6 text-center">FlashLingo AI</h1>
       
       {/* Configuration Controls */}
-      <div className="flex flex-col items-center gap-4 mb-10 w-full">
+      <div className="flex flex-col items-center gap-4 mb-8 w-full">
          
-         {/* Multi-Language Selector */}
-         <div className="flex items-center gap-2 bg-white dark:bg-slate-800 p-1.5 rounded-full border border-slate-200 dark:border-slate-700 shadow-sm">
-            <button
-              onClick={() => setTargetLanguage('en')}
-              className={`p-1.5 rounded-full transition-all ${targetLanguage === 'en' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`}
-              title="Inglês"
-            >
-              <FlagUS />
-            </button>
-            <button
-              onClick={() => setTargetLanguage('es')}
-              className={`p-1.5 rounded-full transition-all ${targetLanguage === 'es' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`}
-              title="Espanhol"
-            >
-              <FlagES />
-            </button>
-            <button
-              onClick={() => setTargetLanguage('fr')}
-              className={`p-1.5 rounded-full transition-all ${targetLanguage === 'fr' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`}
-              title="Francês"
-            >
-              <FlagFR />
-            </button>
+         {/* Row 1: Language & Main Settings */}
+         <div className="flex flex-wrap justify-center gap-3 w-full">
+            {/* Multi-Language Selector */}
+            <div className="flex items-center gap-2 bg-white dark:bg-slate-800 p-1.5 rounded-full border border-slate-200 dark:border-slate-700 shadow-sm">
+                <button
+                onClick={() => setTargetLanguage('en')}
+                className={`p-1.5 rounded-full transition-all ${targetLanguage === 'en' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`}
+                title="Inglês"
+                >
+                <FlagUS />
+                </button>
+                <button
+                onClick={() => setTargetLanguage('es')}
+                className={`p-1.5 rounded-full transition-all ${targetLanguage === 'es' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`}
+                title="Espanhol"
+                >
+                <FlagES />
+                </button>
+                <button
+                onClick={() => setTargetLanguage('fr')}
+                className={`p-1.5 rounded-full transition-all ${targetLanguage === 'fr' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`}
+                title="Francês"
+                >
+                <FlagFR />
+                </button>
+                <button
+                onClick={() => setTargetLanguage('it')}
+                className={`p-1.5 rounded-full transition-all ${targetLanguage === 'it' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`}
+                title="Italiano"
+                >
+                <FlagIT />
+                </button>
+                <button
+                onClick={() => setTargetLanguage('de')}
+                className={`p-1.5 rounded-full transition-all ${targetLanguage === 'de' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`}
+                title="Alemão"
+                >
+                <FlagDE />
+                </button>
+            </div>
+
+            <div className="flex gap-3">
+                <button
+                onClick={() => setIsDarkMode(!isDarkMode)}
+                title={isDarkMode ? 'Modo Claro' : 'Modo Escuro'}
+                className={`flex items-center justify-center p-2 w-10 h-10 rounded-full transition-all border ${
+                    isDarkMode 
+                    ? 'bg-slate-800 text-yellow-400 border-slate-700 hover:bg-slate-700' 
+                    : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50'
+                }`}
+                >
+                {isDarkMode ? <Sun size={20} /> : <Moon size={20} />}
+                </button>
+
+                <button
+                onClick={() => setEnableKaraoke(!enableKaraoke)}
+                title="Modo Karaokê"
+                className={`flex items-center justify-center gap-2 px-4 py-2 rounded-full text-xs font-bold transition-all border ${
+                    enableKaraoke 
+                    ? 'bg-indigo-100 dark:bg-indigo-900/50 text-indigo-700 dark:text-indigo-300 border-indigo-200 dark:border-indigo-800' 
+                    : 'bg-white dark:bg-slate-800 text-slate-400 dark:text-slate-500 border-slate-200 dark:border-slate-700'
+                }`}
+                >
+                <Music2 size={16} />
+                </button>
+
+                <button
+                onClick={() => setEnablePronunciation(!enablePronunciation)}
+                title="Avaliação de Pronúncia"
+                className={`flex items-center justify-center gap-2 px-4 py-2 rounded-full text-xs font-bold transition-all border ${
+                    enablePronunciation 
+                    ? 'bg-indigo-100 dark:bg-indigo-900/50 text-indigo-700 dark:text-indigo-300 border-indigo-200 dark:border-indigo-800' 
+                    : 'bg-white dark:bg-slate-800 text-slate-400 dark:text-slate-500 border-slate-200 dark:border-slate-700'
+                }`}
+                >
+                <Mic size={16} />
+                </button>
+                
+                 <button
+                    onClick={() => setIsDevMode(!isDevMode)}
+                    title={`Modo Teste (Forçar Nível ${MAX_LEVEL})`}
+                    className={`flex items-center justify-center gap-2 px-4 py-2 rounded-full text-xs font-bold transition-all border ${
+                        isDevMode 
+                        ? 'bg-purple-600 text-white border-purple-700 shadow-md' 
+                        : 'bg-white dark:bg-slate-800 text-slate-400 dark:text-slate-500 border-slate-200 dark:border-slate-700'
+                    }`}
+                >
+                <FastForward size={16} />
+                </button>
+            </div>
          </div>
 
-         <div className="flex gap-3">
-            {/* Dark Mode Toggle - Icon Only */}
-            <button
-              onClick={() => setIsDarkMode(!isDarkMode)}
-              title={isDarkMode ? 'Modo Claro' : 'Modo Escuro'}
-              className={`flex items-center justify-center p-2 w-10 h-10 rounded-full transition-all border ${
-                isDarkMode 
-                  ? 'bg-slate-800 text-yellow-400 border-slate-700 hover:bg-slate-700' 
-                  : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50'
-              }`}
-            >
-              {isDarkMode ? <Sun size={20} /> : <Moon size={20} />}
-            </button>
+         {/* Row 2: Level Selection (Multi-select) */}
+         <div className="flex flex-col items-center gap-2 w-full">
+            <span className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase flex items-center gap-1">
+                <Gauge size={12} /> Nível de Dificuldade
+            </span>
+            <div className="flex flex-wrap justify-center gap-1 p-1 bg-slate-100 dark:bg-slate-900 rounded-lg w-full max-w-md border border-slate-200 dark:border-slate-800">
+                {LEVEL_OPTIONS.map((opt) => {
+                    // Logic to determine if button is active
+                    const isActive = opt.value === null 
+                        ? selectedLevels.length === 0 // Auto is active if list is empty
+                        : selectedLevels.includes(opt.value);
 
-            <button
-              onClick={() => setEnableKaraoke(!enableKaraoke)}
-              title="Modo Karaokê"
-              className={`flex items-center justify-center gap-2 px-4 py-2 rounded-full text-xs font-bold transition-all border ${
-                enableKaraoke 
-                  ? 'bg-indigo-100 dark:bg-indigo-900/50 text-indigo-700 dark:text-indigo-300 border-indigo-200 dark:border-indigo-800' 
-                  : 'bg-white dark:bg-slate-800 text-slate-400 dark:text-slate-500 border-slate-200 dark:border-slate-700'
-              }`}
-            >
-              <Music2 size={16} />
-            </button>
-
-            <button
-              onClick={() => setEnablePronunciation(!enablePronunciation)}
-              title="Avaliação de Pronúncia"
-              className={`flex items-center justify-center gap-2 px-4 py-2 rounded-full text-xs font-bold transition-all border ${
-                enablePronunciation 
-                  ? 'bg-indigo-100 dark:bg-indigo-900/50 text-indigo-700 dark:text-indigo-300 border-indigo-200 dark:border-indigo-800' 
-                  : 'bg-white dark:bg-slate-800 text-slate-400 dark:text-slate-500 border-slate-200 dark:border-slate-700'
-              }`}
-            >
-              <Mic size={16} />
-            </button>
+                    return (
+                        <button
+                            key={opt.label}
+                            onClick={() => handleLevelToggle(opt.value)}
+                            className={`flex-1 min-w-[3rem] py-1.5 px-2 rounded-md text-xs font-bold transition-all ${
+                                isActive
+                                    ? 'bg-white dark:bg-indigo-600 text-indigo-600 dark:text-white shadow-sm ring-1 ring-black/5 dark:ring-white/10'
+                                    : 'text-slate-500 dark:text-slate-400 hover:bg-white/50 dark:hover:bg-slate-800'
+                            }`}
+                        >
+                            {opt.label}
+                            {opt.value !== null && isActive && (
+                              <span className="ml-1 text-[8px] align-top bg-indigo-100 dark:bg-indigo-500/50 px-1 rounded-full">✓</span>
+                            )}
+                        </button>
+                    );
+                })}
+            </div>
+            {selectedLevels.length > 0 && (
+              <span className="text-[10px] text-slate-400 dark:text-slate-600">
+                Os {MAX_LEVEL} baralhos serão adaptados aos níveis selecionados.
+              </span>
+            )}
          </div>
       </div>
 
@@ -436,52 +573,77 @@ const App: React.FC = () => {
         {PREDEFINED_TOPICS.map((topic) => {
           const key = getTopicKey(topic.id);
           const level = getLevel(topic.id);
-          const progressPercent = ((level - 1) / MAX_LEVEL) * 100;
+          
+          const visualDisplayLevel = isDevMode ? MAX_LEVEL : level;
+          
+          const progressPercent = ((visualDisplayLevel - 1) / MAX_LEVEL) * 100;
           const reviewCount = (topicReviews[key] || []).length;
           
+          // Determine if we should show the reset button (if there is any progress)
+          const hasProgress = level > 1 || reviewCount > 0;
+
           return (
             <div
               key={topic.id}
-              onClick={() => startSession(topic.label, topic.id)}
-              className="relative flex items-center p-5 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl shadow-sm hover:shadow-md hover:border-indigo-300 dark:hover:border-indigo-500 transition-all group text-left overflow-hidden cursor-pointer"
+              className="relative bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl shadow-sm hover:shadow-md transition-all group overflow-hidden flex"
             >
-               {level > 1 && (
-                  <button 
-                    onClick={(e) => resetProgress(topic.id, e)}
-                    className="absolute top-3 right-3 p-1.5 bg-slate-50 dark:bg-slate-700 hover:bg-red-100 dark:hover:bg-red-900/30 text-slate-300 dark:text-slate-500 hover:text-red-600 dark:hover:text-red-400 rounded-full transition-all opacity-0 group-hover:opacity-100 z-20"
-                    title="Reiniciar Baralhos"
-                  >
-                    <RotateCcw size={16} />
-                  </button>
-               )}
-
-               <div className="absolute bottom-0 left-0 h-1 bg-slate-100 dark:bg-slate-700 w-full">
+               {/* Progress Bar (Visual) - Positioned Absolute at Bottom */}
+               <div className="absolute bottom-0 left-0 h-1 bg-slate-100 dark:bg-slate-700 w-full z-10 pointer-events-none">
                  <div 
                    className="h-full bg-indigo-500 transition-all duration-1000" 
                    style={{ width: `${progressPercent}%` }} 
                  />
                </div>
 
-              <div className="text-3xl mr-4 group-hover:scale-110 transition-transform">{topic.icon}</div>
-              <div className="flex-1">
-                <div className="flex justify-between items-center mb-1">
-                  <span className="font-bold text-slate-800 dark:text-white text-lg group-hover:text-indigo-700 dark:group-hover:text-indigo-400">{topic.label}</span>
-                  <span className="text-xs font-bold bg-indigo-50 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border border-indigo-100 dark:border-indigo-800 px-2 py-1 rounded-lg mr-6">
-                    BARALHO {level} / {MAX_LEVEL}
-                  </span>
-                </div>
-                <div className="flex gap-3 text-sm">
-                   {reviewCount > 0 && (
-                     <span className="text-amber-500 dark:text-amber-400 font-bold flex items-center gap-1 text-xs">
-                       <Star size={12} className="fill-current" />
-                       {reviewCount} para revisar
-                     </span>
+               {/* LEFT SIDE: Main Click Area (Starts Session) */}
+               <div 
+                 onClick={() => startSession(topic.label, topic.id)}
+                 className="flex-1 p-5 flex items-center relative z-20 cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors"
+               >
+                  <div className="text-3xl mr-4 group-hover:scale-110 transition-transform">{topic.icon}</div>
+                  <div className="flex-1">
+                    <div className="flex justify-between items-center mb-1">
+                      <span className="font-bold text-slate-800 dark:text-white text-lg group-hover:text-indigo-700 dark:group-hover:text-indigo-400">{topic.label}</span>
+                      <span className="text-xs font-bold bg-indigo-50 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border border-indigo-100 dark:border-indigo-800 px-2 py-1 rounded-lg mr-2 whitespace-nowrap">
+                        BARALHO {visualDisplayLevel} / {MAX_LEVEL}
+                      </span>
+                    </div>
+                    <div className="flex gap-3 text-sm min-h-[1.25rem]">
+                      {reviewCount > 0 && (
+                        <span className="text-amber-500 dark:text-amber-400 font-bold flex items-center gap-1 text-xs animate-pulse">
+                          <Star size={12} className="fill-current" />
+                          {reviewCount} para revisar
+                        </span>
+                      )}
+                    </div>
+                  </div>
+               </div>
+               
+               {/* RIGHT SIDE: Action Buttons (Reset & Start) */}
+               <div className="flex items-center gap-1 border-l border-slate-100 dark:border-slate-700 bg-slate-50 dark:bg-slate-900/50 px-2 z-50">
+                   
+                   {/* Reset Button */}
+                   {hasProgress && (
+                     <button
+                       type="button"
+                       onClick={(e) => resetProgress(topic.id, e)}
+                       className="p-3 text-slate-300 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 rounded-full transition-colors"
+                       title="Reiniciar Progresso"
+                     >
+                       <RotateCcw size={20} />
+                     </button>
                    )}
-                </div>
-              </div>
-              <div className="ml-3 text-slate-300 dark:text-slate-600 group-hover:text-indigo-500 dark:group-hover:text-indigo-400">
-                <ArrowRight size={20} />
-              </div>
+
+                   {/* Start Arrow Button */}
+                   <button
+                     type="button"
+                     onClick={() => startSession(topic.label, topic.id)}
+                     className="p-3 text-slate-300 hover:text-indigo-500 hover:bg-indigo-50 dark:hover:bg-indigo-900/20 rounded-full transition-colors"
+                     title="Iniciar"
+                   >
+                     <ArrowRight size={20} />
+                   </button>
+               </div>
             </div>
           );
         })}
@@ -562,6 +724,20 @@ const App: React.FC = () => {
      let langLabel = 'Inglês';
      if (targetLanguage === 'es') langLabel = 'Espanhol';
      if (targetLanguage === 'fr') langLabel = 'Francês';
+     if (targetLanguage === 'it') langLabel = 'Italiano';
+     if (targetLanguage === 'de') langLabel = 'Alemão';
+     
+     // Determine what label to show during loading
+     let levelDisplay = `Baralho ${loadingContext?.level || 1}`;
+     
+     // If user selected levels, we can be more specific, but "Baralho X" keeps consistency of the visual progress
+     if (selectedLevels.length > 0) {
+        // Calculate the actual difficulty being loaded
+        const index = ((loadingContext?.level || 1) - 1) % selectedLevels.length;
+        const difficulty = selectedLevels[index];
+        const cefrLabel = LEVEL_OPTIONS.find(l => l.value === difficulty)?.label;
+        levelDisplay = `Baralho ${loadingContext?.level} (${cefrLabel})`;
+     }
 
      return (
         <div className="flex flex-col items-center justify-center min-h-[60vh]">
@@ -572,7 +748,7 @@ const App: React.FC = () => {
             </div>
           </div>
           <h2 className="mt-6 text-xl font-bold text-slate-800 dark:text-white">
-            {isBonus ? 'Preparando Revisão Final...' : `Gerando Baralho ${loadingContext?.level || 1}...`}
+            {isBonus ? 'Gerando Baralho Bônus...' : `Gerando ${levelDisplay}...`}
           </h2>
           <p className="text-slate-500 dark:text-slate-400 mt-2">Criando desafio de {langLabel} para "{loadingContext?.label || customTopic}"</p>
         </div>
@@ -595,6 +771,17 @@ const App: React.FC = () => {
     const badgeClass = session.isBonus 
         ? 'bg-amber-100 dark:bg-amber-900/50 text-amber-700 dark:text-amber-400' 
         : 'bg-indigo-100 dark:bg-indigo-900/50 text-indigo-700 dark:text-indigo-400';
+    
+    // Determine label for header
+    let headerLabel = `BARALHO ${session.level}`;
+    
+    // If using custom selected levels, show which CEFR level this deck represents
+    if (!session.isBonus && selectedLevels.length > 0) {
+        const index = (session.level - 1) % selectedLevels.length;
+        const difficulty = selectedLevels[index];
+        const cefrLabel = LEVEL_OPTIONS.find(l => l.value === difficulty)?.label;
+        headerLabel = `BARALHO ${session.level} (${cefrLabel})`;
+    }
 
     return (
       <div className="max-w-xl mx-auto px-6 py-8 flex flex-col items-center min-h-screen justify-center">
@@ -605,7 +792,7 @@ const App: React.FC = () => {
                {session.topicLabel}
              </div>
              <div className="text-slate-400 dark:text-slate-500 text-xs font-bold">
-               {session.isBonus ? 'BARALHO BÔNUS' : `BARALHO ${session.level}`}
+               {session.isBonus ? 'BARALHO BÔNUS' : headerLabel}
              </div>
            </div>
            <div className="w-8"></div>
@@ -634,14 +821,27 @@ const App: React.FC = () => {
     const score = Math.round((session.knownCount / session.cards.length) * 100);
     
     // Logic for final progression
+    // If Auto Mode, we check max level.
+    // If Custom Mode, we still treat "MAX_LEVEL" as the visual end of the topic.
+    const isManualMode = selectedLevels.length > 0;
     const isMaxLevel = session.level >= MAX_LEVEL && !session.isBonus;
     const key = `${session.topicId}_${session.language}`;
     const reviewList = topicReviews[key] || [];
     const hasReviewItems = reviewList.length > 0;
+    
+    // Course completion logic
+    // Even in manual mode, finishing deck MAX_LEVEL clears the topic visually.
+    const isCourseComplete = !hasReviewItems && (session.isBonus || isMaxLevel);
+    
     const nextLevel = session.level + 1;
-
-    // Condition to finish the game: It was a bonus round OR it was max level with no review items
-    const isCourseComplete = (session.isBonus) || (isMaxLevel && !hasReviewItems);
+    // Calculate the label for the NEXT button
+    let nextLevelLabel = `Baralho ${nextLevel}`;
+    if (isManualMode && nextLevel <= MAX_LEVEL) {
+        const index = (nextLevel - 1) % selectedLevels.length;
+        const difficulty = selectedLevels[index];
+        const cefrLabel = LEVEL_OPTIONS.find(l => l.value === difficulty)?.label;
+        nextLevelLabel = `Baralho ${nextLevel} (${cefrLabel})`;
+    }
 
     return (
       <div className="max-w-2xl mx-auto px-6 py-12 flex flex-col items-center">
@@ -681,18 +881,19 @@ const App: React.FC = () => {
               className="w-full bg-indigo-600 dark:bg-indigo-500 text-white py-4 rounded-xl font-bold hover:bg-indigo-700 dark:hover:bg-indigo-600 transition-all shadow-lg shadow-indigo-200 dark:shadow-none flex justify-center items-center gap-2"
             >
               <Sparkles size={20} />
-              Jogar Baralho {nextLevel}
+              Jogar {nextLevelLabel}
             </button>
           )}
 
-          {/* Scenario 2: Reached Max Level, has Review Items -> Offer Bonus Deck */}
-          {isMaxLevel && hasReviewItems && (
+          {/* Scenario 2: Reached Max Level OR Bonus Round with Remaining Items -> Offer Bonus Deck */}
+          {/* CHANGED: Added condition (session.isBonus || isMaxLevel) so it doesn't show on intermediate levels */}
+          {hasReviewItems && (session.isBonus || isMaxLevel) && (
              <button
               onClick={() => startSession(session.topicLabel, session.topicId, true)}
               className="w-full bg-amber-500 text-white py-4 rounded-xl font-bold hover:bg-amber-600 transition-all shadow-lg shadow-amber-200 dark:shadow-none flex justify-center items-center gap-2 animate-pulse"
             >
-              <Star size={20} className="fill-current" />
-              Desafiar Baralho Bônus ({reviewList.length} palavras)
+              {session.isBonus ? <RotateCcw size={20} /> : <Star size={20} className="fill-current" />}
+              {session.isBonus ? 'Tentar Revisão Novamente' : `Desafiar Baralho Bônus`}
             </button>
           )}
 
@@ -703,31 +904,28 @@ const App: React.FC = () => {
                   <Trophy size={20} />
                   Parabéns! Você zerou este tópico.
                 </div>
-                {/* Option to play bonus again if errors persist */}
-                {session.isBonus && hasReviewItems && (
-                    <button
-                    onClick={() => startSession(session.topicLabel, session.topicId, true)}
-                    className="w-full bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-400 border border-amber-200 dark:border-amber-800/50 py-3 rounded-xl font-bold hover:bg-amber-200 dark:hover:bg-amber-900/50 transition-colors flex justify-center items-center gap-2"
-                    >
-                    <RotateCcw size={16} />
-                    Tentar Revisão Novamente ({reviewList.length} restantes)
-                    </button>
-                )}
                 <button
                   onClick={(e) => resetProgress(session.topicId, e)}
                   className="w-full bg-white dark:bg-slate-800 border-2 border-red-100 dark:border-red-900/30 text-red-400 py-3 rounded-xl font-bold hover:border-red-300 hover:text-red-600 transition-colors flex justify-center items-center gap-2"
                 >
                   <RotateCcw size={16} />
-                  Reiniciar Curso do Zero
+                  Reiniciar Baralho
                 </button>
             </div>
           )}
 
           <button
-            onClick={resetApp}
+            onClick={() => {
+                // If the course is fully complete OR if we are exiting a Bonus session (regardless of score),
+                // we reset progress (to level 1) and disable dev mode to ensure a clean slate.
+                if (isCourseComplete || session.isBonus) {
+                   resetProgress(session.topicId, undefined, true);
+                }
+                resetApp();
+            }}
             className="w-full bg-white dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 py-3 rounded-xl font-bold hover:border-slate-300 dark:hover:border-slate-600 transition-colors"
           >
-            Voltar ao Início
+            {isCourseComplete || session.isBonus ? 'Concluir e Reiniciar' : 'Voltar ao Início'}
           </button>
         </div>
       </div>

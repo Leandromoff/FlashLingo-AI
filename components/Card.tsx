@@ -234,18 +234,19 @@ const Card: React.FC<CardProps> = ({
   const renderWord = () => {
     const syllables = data.syllables && data.syllables.length > 0 ? data.syllables : [data.word];
     const fullWordLower = data.word.toLowerCase();
+    
+    // Group syllables into words to prevent breaking inside a word
+    const words: { syllables: { text: string; index: number }[] }[] = [];
+    let currentWord: { text: string; index: number }[] = [];
     let cursor = 0;
 
-    return (
-      <div className="flex flex-wrap justify-center items-end">
-        {syllables.map((syllable, index) => {
-          const syllableLower = syllable.toLowerCase();
-          // Find syllable in remaining text
-          const matchIndex = fullWordLower.indexOf(syllableLower, cursor);
-          
-          let hasSpaceAfter = false;
-          
-          if (matchIndex !== -1) {
+    syllables.forEach((syllable, index) => {
+        const syllableLower = syllable.toLowerCase();
+        // Look for the syllable in the text starting from cursor
+        const matchIndex = fullWordLower.indexOf(syllableLower, cursor);
+        let hasSpaceAfter = false;
+
+        if (matchIndex !== -1) {
             const endOfSyllable = matchIndex + syllable.length;
             
             // Check if there is a space before the next syllable starts
@@ -261,22 +262,48 @@ const Card: React.FC<CardProps> = ({
                 }
             }
             cursor = endOfSyllable;
-          }
+        }
 
-          return (
-            <span 
-              key={index}
-              className={`transition-colors duration-75 leading-none ${
-                activeSyllableIndex === index 
-                  ? 'bg-yellow-200 dark:bg-amber-600 text-slate-900 dark:text-white rounded-lg' 
-                  : 'text-slate-800 dark:text-slate-100'
-              } ${hasSpaceAfter ? 'mr-3' : ''}`}
-            >
-              {syllable}
-            </span>
-          );
-        })}
+        currentWord.push({ text: syllable, index });
+
+        // If space detected or it's the last syllable, finalize the word group
+        if (hasSpaceAfter || index === syllables.length - 1) {
+            words.push({ syllables: currentWord });
+            currentWord = [];
+        }
+    });
+
+    return (
+      <div className="flex flex-wrap justify-center items-end gap-x-3 gap-y-2 w-full text-4xl md:text-5xl font-extrabold text-center">
+        {words.map((wordGroup, i) => (
+          <span key={i} className="whitespace-nowrap inline-flex">
+            {wordGroup.syllables.map((syl) => (
+                <span 
+                key={syl.index}
+                className={`transition-colors duration-75 leading-none ${
+                    activeSyllableIndex === syl.index 
+                    ? 'bg-yellow-200 dark:bg-amber-600 text-slate-900 dark:text-white rounded-lg' 
+                    : 'text-slate-800 dark:text-slate-100'
+                }`}
+                >
+                {syl.text}
+                </span>
+            ))}
+          </span>
+        ))}
       </div>
+    );
+  };
+
+  const renderPhoneticChunk = (text: string, className: string) => {
+    // Split text by spaces and wrap each part in whitespace-nowrap to prevent breaking at hyphens
+    const parts = text.trim().split(/\s+/);
+    return (
+      <span className={`inline-flex flex-wrap justify-center gap-x-2 ${className}`}>
+        {parts.map((part, i) => (
+          <span key={i} className="whitespace-nowrap">{part}</span>
+        ))}
+      </span>
     );
   };
 
@@ -310,6 +337,8 @@ const Card: React.FC<CardProps> = ({
     switch (targetLanguage) {
       case 'es': return 'Espanhol';
       case 'fr': return 'Francês';
+      case 'it': return 'Italiano';
+      case 'de': return 'Alemão';
       default: return 'Inglês';
     }
   };
@@ -331,25 +360,25 @@ const Card: React.FC<CardProps> = ({
           <div className="flex flex-col items-center text-center space-y-3 w-full">
             
             {/* Word Section */}
-            <div className="flex flex-col items-center gap-2 mt-2">
-              <h2 className="text-4xl md:text-5xl font-extrabold break-words w-full">
-                {renderWord()}
-              </h2>
+            <div className="flex flex-col items-center gap-2 mt-2 w-full">
+              {renderWord()}
               
               {/* Combined Phonetic Pill */}
-              <div className="flex items-center gap-3 bg-slate-50 dark:bg-slate-900/50 px-4 py-1.5 rounded-full border border-slate-100 dark:border-slate-700">
+              <div className="flex flex-wrap justify-center items-center gap-x-3 gap-y-2 bg-slate-50 dark:bg-slate-900/50 px-4 py-2 rounded-2xl border border-slate-100 dark:border-slate-700 text-center">
                 {/* Standard IPA */}
-                <span className="text-slate-500 dark:text-slate-400 font-mono text-lg">
-                  {data.pronunciation.replace(/[\/\[\]]/g, '')}
-                </span>
+                {renderPhoneticChunk(
+                    data.pronunciation.replace(/[\/\[\]]/g, ''), 
+                    "text-slate-500 dark:text-slate-400 font-mono text-lg"
+                )}
 
-                {/* Visual Divider */}
-                <div className="w-px h-4 bg-slate-300/50 dark:bg-slate-600/50"></div>
+                {/* Visual Divider - Hidden on very small screens if it wraps */}
+                <span className="hidden sm:inline-block w-px h-4 bg-slate-300/50 dark:bg-slate-600/50"></span>
 
                 {/* Portuguese Phonetic */}
-                <span className="text-indigo-400/75 dark:text-indigo-400 font-medium text-lg tracking-wide">
-                  {data.portuguesePhonetic}
-                </span>
+                {renderPhoneticChunk(
+                    data.portuguesePhonetic,
+                    "text-indigo-400/75 dark:text-indigo-400 font-medium text-lg tracking-wide"
+                )}
               </div>
             </div>
             

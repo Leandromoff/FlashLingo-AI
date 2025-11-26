@@ -1,5 +1,5 @@
 
-export type SupportedLanguage = 'en' | 'es' | 'fr';
+export type SupportedLanguage = 'en' | 'es' | 'fr' | 'it' | 'de';
 
 export interface FlashcardData {
   id: string;
