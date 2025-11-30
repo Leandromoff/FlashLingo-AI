@@ -43,13 +43,13 @@ const Card: React.FC<CardProps> = ({
   const durationRef = useRef<number>(0);
   const animationFrameRef = useRef<number>(0);
 
-  // Reset evaluation when card changes
+  // Reset states when card changes
   useEffect(() => {
     setEvalResult(null);
     stopRecordingInternal(); // Ensure recording stops if user flips fast
     setIsAnalyzing(false);
   }, [data.id]);
-
+  
   // Cleanup animation on unmount or data change
   useEffect(() => {
     return () => {
@@ -345,22 +345,22 @@ const Card: React.FC<CardProps> = ({
 
   return (
     <div 
-      className="group w-full h-[500px] cursor-pointer perspective-1000"
+      className="group w-full h-[600px] cursor-pointer perspective-1000"
       onClick={onFlip}
     >
       <div className={`relative w-full h-full transition-all duration-500 transform-style-3d shadow-xl dark:shadow-2xl dark:shadow-indigo-900/20 rounded-3xl ${isFlipped ? 'rotate-y-180' : ''}`}>
         
         {/* FRONT OF CARD */}
-        <div className="absolute inset-0 w-full h-full bg-white dark:bg-slate-800 rounded-3xl backface-hidden flex flex-col items-center justify-center p-6 border-2 border-slate-100 dark:border-slate-700 overflow-hidden">
-          <span className="absolute top-6 left-6 text-xs font-bold text-indigo-500 dark:text-indigo-400 uppercase tracking-widest">
+        <div className="absolute inset-0 w-full h-full bg-white dark:bg-slate-800 rounded-3xl backface-hidden flex flex-col items-center justify-between p-6 border-2 border-slate-100 dark:border-slate-700 overflow-hidden">
+          <span className="absolute top-6 left-6 text-xs font-bold text-indigo-500 dark:text-indigo-400 uppercase tracking-widest z-10">
             {getLanguageLabel()}
           </span>
           
           {/* Content Container */}
-          <div className="flex flex-col items-center text-center space-y-3 w-full">
+          <div className="flex flex-col items-center text-center w-full flex-grow justify-center mt-6">
             
             {/* Word Section */}
-            <div className="flex flex-col items-center gap-2 mt-2 w-full">
+            <div className="flex flex-col items-center gap-2 w-full mt-8">
               {renderWord()}
               
               {/* Combined Phonetic Pill */}
@@ -383,7 +383,7 @@ const Card: React.FC<CardProps> = ({
             </div>
             
             {/* Controls Container */}
-            <div className="flex flex-col items-center mb-1">
+            <div className="flex flex-col items-center mb-2 mt-8">
               <div className="flex items-center gap-3">
                 {/* Local Audio */}
                 <button 
@@ -456,8 +456,8 @@ const Card: React.FC<CardProps> = ({
             <div className="w-16 h-1 bg-slate-100 dark:bg-slate-700 rounded-full my-1"></div>
 
             {/* Sentence Section */}
-            <div className="w-full bg-slate-50 dark:bg-slate-900/50 p-4 rounded-2xl border border-slate-100 dark:border-slate-700 mt-1">
-              <p className="text-slate-600 dark:text-slate-300 text-lg italic font-medium mb-3">
+            <div className="w-full bg-slate-50 dark:bg-slate-900/50 p-3 rounded-2xl border border-slate-100 dark:border-slate-700 mt-1">
+              <p className="text-slate-600 dark:text-slate-300 text-base italic font-medium mb-2 line-clamp-3">
                 "{data.exampleSentence}"
               </p>
               
@@ -465,24 +465,24 @@ const Card: React.FC<CardProps> = ({
                  <button 
                   onClick={(e) => handleLocalPlay(data.exampleSentence, false, e)}
                   disabled={playingSource !== null || isRecording}
-                  className="p-2 rounded-full bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600 text-slate-400 dark:text-slate-500 hover:text-amber-500 hover:border-amber-200 transition-all"
+                  className="p-1.5 rounded-full bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600 text-slate-400 dark:text-slate-500 hover:text-amber-500 hover:border-amber-200 transition-all"
                 >
-                  <Zap size={16} className={playingSource === 'local' ? "fill-current text-amber-500" : ""} />
+                  <Zap size={14} className={playingSource === 'local' ? "fill-current text-amber-500" : ""} />
                 </button>
 
                 <button 
                   onClick={(e) => handleCloudPlay(data.exampleSentence, false, e)}
                   disabled={playingSource !== null || isRecording}
-                  className="p-2 rounded-full bg-white dark:bg-slate-800 border border-indigo-100 dark:border-slate-600 text-indigo-400 dark:text-indigo-500 hover:text-indigo-600 dark:hover:text-indigo-400 hover:bg-indigo-50 dark:hover:bg-slate-700 transition-all shadow-sm"
+                  className="p-1.5 rounded-full bg-white dark:bg-slate-800 border border-indigo-100 dark:border-slate-600 text-indigo-400 dark:text-indigo-500 hover:text-indigo-600 dark:hover:text-indigo-400 hover:bg-indigo-50 dark:hover:bg-slate-700 transition-all shadow-sm"
                 >
-                  {playingSource === 'cloud' ? <Loader2 size={16} className="animate-spin" /> : <Sparkles size={16} />}
+                  {playingSource === 'cloud' ? <Loader2 size={14} className="animate-spin" /> : <Sparkles size={14} />}
                 </button>
               </div>
             </div>
           </div>
 
           {/* Bottom Actions Container (FRONT) */}
-          <div className="absolute bottom-6 w-full px-8 flex items-center justify-between gap-4">
+          <div className="w-full px-4 flex items-center justify-between gap-4 mt-auto pt-4">
              {/* Estudar Button */}
              <button 
                onClick={(e) => { e.stopPropagation(); onStudy(); }}

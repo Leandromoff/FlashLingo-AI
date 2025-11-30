@@ -1,5 +1,5 @@
 import { GoogleGenAI, Type, Modality } from "@google/genai";
-import { FlashcardData, PronunciationResult, SupportedLanguage } from "../types";
+import { FlashcardData, PronunciationResult, SupportedLanguage, StoryData } from "../types";
 
 // Initialize the Gemini client
 // Note: The API key is expected to be in process.env.API_KEY
@@ -160,6 +160,60 @@ export const generateFlashcards = async (topic: string, difficultyLevel: number 
   });
 };
 
+export const generateContextualStory = async (words: string[], language: SupportedLanguage = 'en'): Promise<StoryData> => {
+    return retryApiCall(async () => {
+        const modelId = "gemini-2.5-flash";
+        
+        let targetLangName = 'English';
+        switch (language) {
+          case 'es': targetLangName = 'Spanish'; break;
+          case 'fr': targetLangName = 'French'; break;
+          case 'it': targetLangName = 'Italian'; break;
+          case 'de': targetLangName = 'German'; break;
+        }
+
+        const prompt = `
+        You are a creative writer for language learners.
+        
+        TASK:
+        Write a SHORT, FUNNY, and COHERENT story or dialogue (50-100 words) in ${targetLangName} that incorporates ALL of the following words:
+        [${words.join(', ')}]
+
+        REQUIREMENTS:
+        1. The story must make sense but should be amusing.
+        2. Highlight the usage of the provided words naturally.
+        3. Provide a Title in ${targetLangName}.
+        4. Provide a full translation of the story in PORTUGUESE (Brazil).
+
+        CRITICAL: The 'translation' field MUST be in Portuguese (Brazil), NOT in ${targetLangName}.
+
+        Return JSON.
+        `;
+
+        const response = await ai.models.generateContent({
+            model: modelId,
+            contents: prompt,
+            config: {
+                responseMimeType: "application/json",
+                responseSchema: {
+                    type: Type.OBJECT,
+                    properties: {
+                        title: { type: Type.STRING },
+                        content: { type: Type.STRING, description: `The story text in ${targetLangName}` },
+                        translation: { type: Type.STRING, description: "The full story translated to Portuguese (Brazil)" }
+                    },
+                    required: ["title", "content", "translation"]
+                }
+            }
+        });
+
+        const text = response.text;
+        if (!text) throw new Error("No data received for story.");
+        
+        return JSON.parse(text) as StoryData;
+    });
+};
+
 // Audio Context Singleton and Cache
 let audioContext: AudioContext | null = null;
 const audioCache = new Map<string, AudioBuffer>();
@@ -236,17 +290,18 @@ const fetchAndCacheAudio = async (text: string): Promise<AudioBuffer> => {
 
 // --- CLOUD AUDIO (GEMINI) ---
 // Added onPlayStart callback to provide duration
-export const playCloudAudio = async (text: string, onPlayStart?: (duration: number) => void): Promise<void> => {
+export const playCloudAudio = async (text: string, onPlayStart?: (duration: number) => void, playbackRate: number = 1.0): Promise<void> => {
   try {
     const buffer = await fetchAndCacheAudio(text);
     if (onPlayStart) {
-      onPlayStart(buffer.duration);
+      // Adjusted duration = actual duration / rate (e.g., 10s / 0.5 = 20s)
+      onPlayStart(buffer.duration / playbackRate);
     }
-    await playBuffer(getAudioContext(), buffer);
+    await playBuffer(getAudioContext(), buffer, playbackRate);
   } catch (error) {
     console.error("Gemini TTS Error (showing local fallback):", error);
     // Fallback if cloud fails even after retries
-    await playLocalAudio(text, 'en', onPlayStart);
+    await playLocalAudio(text, 'en', onPlayStart, undefined, playbackRate);
   }
 };
 
@@ -261,7 +316,19 @@ export const preloadCloudAudio = (text: string): void => {
 };
 
 // --- LOCAL AUDIO (BROWSER) ---
-export const playLocalAudio = (text: string, language: SupportedLanguage = 'en', onPlayStart?: (duration: number) => void): Promise<void> => {
+
+// GLOBAL VARIABLE TO PREVENT GARBAGE COLLECTION
+// This is critical for Chrome/Safari compatibility. If the utterance is not stored globally,
+// the garbage collector might delete it while speaking, causing audio stutter or stop.
+let activeUtterance: SpeechSynthesisUtterance | null = null;
+
+export const playLocalAudio = (
+  text: string, 
+  language: SupportedLanguage = 'en', 
+  onPlayStart?: (duration: number) => void,
+  onBoundary?: (charIndex: number) => void,
+  playbackRate: number = 1.0
+): Promise<void> => {
   return new Promise((resolve) => {
     if (!('speechSynthesis' in window)) {
       console.warn("Browser does not support speech synthesis");
@@ -271,8 +338,13 @@ export const playLocalAudio = (text: string, language: SupportedLanguage = 'en',
 
     // Cancel any ongoing speech
     window.speechSynthesis.cancel();
+    // Force clear reference
+    activeUtterance = null;
 
     const utterance = new SpeechSynthesisUtterance(text);
+    
+    // Keep reference alive
+    activeUtterance = utterance;
     
     // Set locale based on language
     switch (language) {
@@ -283,26 +355,42 @@ export const playLocalAudio = (text: string, language: SupportedLanguage = 'en',
       default: utterance.lang = 'en-US';
     }
 
-    utterance.rate = 0.9; // Slightly slower for clarity
+    // Adjust rate based on parameter. 
+    // Standard rate is 1. We might want to cap it to reasonable limits.
+    // 0.9 is our base "normal", so we multiply by playbackRate.
+    utterance.rate = 0.9 * playbackRate;
 
     // Estimate duration for local audio since browser doesn't provide it reliably beforehand
     // Average speaking rate ~ 150wpm => ~2.5 words/sec. 
-    // We add a base buffer. This is an approximation for the UI animation.
-    const wordCount = text.split(' ').length;
-    const estimatedDuration = Math.max(0.6, wordCount * 0.4);
+    // We increase per-word time estimate for mobile/slower fallback animation
+    // ~0.5s per word + buffer
+    const wordCount = text.split(/\s+/).length;
+    const baseDuration = Math.max(1.0, wordCount * 0.5); 
+    const estimatedDuration = baseDuration / playbackRate;
 
     utterance.onstart = () => {
       if (onPlayStart) {
         onPlayStart(estimatedDuration);
       }
     };
+    
+    // Boundary event for Karaoke
+    if (onBoundary) {
+      utterance.onboundary = (event) => {
+        // charIndex typically returns the index of the character in the text
+        onBoundary(event.charIndex);
+      };
+    }
 
     // Handle end of speech to resolve promise
     utterance.onend = () => {
+      activeUtterance = null; // Clean up reference
       resolve();
     };
 
-    utterance.onerror = () => {
+    utterance.onerror = (e) => {
+      console.error("Speech Error:", e);
+      activeUtterance = null; // Clean up reference
       resolve(); // Resolve even on error to unblock UI
     };
 
@@ -311,7 +399,7 @@ export const playLocalAudio = (text: string, language: SupportedLanguage = 'en',
 };
 
 // Helper to play an existing buffer
-const playBuffer = (ctx: AudioContext, buffer: AudioBuffer): Promise<void> => {
+const playBuffer = (ctx: AudioContext, buffer: AudioBuffer, playbackRate: number = 1.0): Promise<void> => {
   return new Promise(async (resolve) => {
     // Ensure context is running (required by browsers after user gesture)
     if (ctx.state === 'suspended') {
@@ -320,6 +408,10 @@ const playBuffer = (ctx: AudioContext, buffer: AudioBuffer): Promise<void> => {
 
     const source = ctx.createBufferSource();
     source.buffer = buffer;
+    
+    // Apply playback rate
+    source.playbackRate.value = playbackRate;
+
     source.connect(ctx.destination);
     
     source.onended = () => {

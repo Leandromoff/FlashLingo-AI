@@ -17,11 +17,18 @@ export interface PronunciationResult {
   feedback: string;
 }
 
+export interface StoryData {
+  title: string;
+  content: string;
+  translation: string;
+}
+
 export enum AppState {
   HOME = 'HOME',
   LOADING = 'LOADING',
   STUDY = 'STUDY',
   SUMMARY = 'SUMMARY',
+  STORY = 'STORY',
   ERROR = 'ERROR'
 }
 

@@ -1,9 +1,9 @@
-import React, { useState, useCallback, useEffect } from 'react';
-import { generateFlashcards } from './services/geminiService';
-import { AppState, StudySession, FlashcardData, PREDEFINED_TOPICS, SupportedLanguage } from './types';
+import React, { useState, useCallback, useEffect, useRef } from 'react';
+import { generateFlashcards, generateContextualStory, playLocalAudio, playCloudAudio } from './services/geminiService';
+import { AppState, StudySession, FlashcardData, PREDEFINED_TOPICS, SupportedLanguage, StoryData } from './types';
 import Card from './components/Card';
 import ProgressBar from './components/ProgressBar';
-import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, Lock, ArrowRight, Music2, Mic, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, FastForward, Gauge, Trash2 } from 'lucide-react';
+import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, Lock, ArrowRight, Music2, Mic, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, FastForward, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle } from 'lucide-react';
 
 const MAX_LEVEL = 6;
 
@@ -112,6 +112,8 @@ const App: React.FC = () => {
   const [appState, setAppState] = useState<AppState>(AppState.HOME);
   const [customTopic, setCustomTopic] = useState('');
   const [session, setSession] = useState<StudySession | null>(null);
+  const [storyData, setStoryData] = useState<StoryData | null>(null);
+  const [showStoryTranslation, setShowStoryTranslation] = useState(false);
   const [loadingContext, setLoadingContext] = useState<{ level: number; label: string } | null>(null);
   const [isCardFlipped, setIsCardFlipped] = useState(false);
   const [errorMsg, setErrorMsg] = useState('');
@@ -119,6 +121,16 @@ const App: React.FC = () => {
   // manualLevel is replaced by selectedLevels array. Empty array means 'Auto' (default).
   const [selectedLevels, setSelectedLevels] = useState<number[]>([]);
   
+  // Karaoke & Audio State for Story
+  const [storyKaraokeCharIndex, setStoryKaraokeCharIndex] = useState(-1);
+  const [storyPlaybackSpeed, setStoryPlaybackSpeed] = useState(1); // 1.0, 0.75, 0.5
+  const storyAnimationRef = useRef<number>(0);
+  const storyStartTimeRef = useRef<number>(0);
+  const storyDurationRef = useRef<number>(0);
+  
+  // Mobile Detection for disabling Story Karaoke
+  const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
   // Trending Topics Carousel State
   const [trendingPool] = useState(() => {
     return [...TOPIC_POOL].sort(() => 0.5 - Math.random());
@@ -186,6 +198,13 @@ const App: React.FC = () => {
       document.documentElement.classList.remove('dark');
     }
   }, [isDarkMode]);
+
+  // Cleanup story animation
+  useEffect(() => {
+    return () => {
+      if (storyAnimationRef.current) cancelAnimationFrame(storyAnimationRef.current);
+    };
+  }, []);
 
   // Helper to get unique key per language (e.g., 'travel_en' vs 'travel_es')
   const getTopicKey = (topicId: string) => `${topicId}_${targetLanguage}`;
@@ -324,6 +343,25 @@ const App: React.FC = () => {
     }
   };
 
+  const loadStory = async () => {
+      if (!session) return;
+      setLoadingContext({ level: 999, label: "Criando História..." });
+      setAppState(AppState.LOADING);
+      setShowStoryTranslation(false); // Reset translation toggle
+      setStoryKaraokeCharIndex(-1);
+      setStoryPlaybackSpeed(1); // Reset speed to 1x
+      try {
+          const words = session.cards.map(c => c.word).slice(0, 15); // Limit to 15 words max to avoid overloading
+          const data = await generateContextualStory(words, session.language);
+          setStoryData(data);
+          setAppState(AppState.STORY);
+      } catch (error) {
+          console.error(error);
+          setErrorMsg('Não foi possível gerar a história. Tente novamente.');
+          setAppState(AppState.ERROR);
+      }
+  };
+
   const handleCardResult = useCallback((known: boolean) => {
     if (!session) return;
 
@@ -423,6 +461,61 @@ const App: React.FC = () => {
     setSession(null);
     setLoadingContext(null);
     setCustomTopic('');
+    setStoryData(null);
+    if (storyAnimationRef.current) cancelAnimationFrame(storyAnimationRef.current);
+    setStoryKaraokeCharIndex(-1);
+  };
+
+  // --- STORY AUDIO HANDLERS ---
+  
+  const animateStoryKaraoke = (textLength: number) => {
+    const now = performance.now();
+    const elapsed = (now - storyStartTimeRef.current) / 1000; // in seconds
+    const progress = Math.min(1, elapsed / storyDurationRef.current);
+    
+    // Calculate current estimated char index
+    const currentCharIndex = Math.floor(progress * textLength);
+    setStoryKaraokeCharIndex(currentCharIndex);
+    
+    if (progress < 1) {
+        storyAnimationRef.current = requestAnimationFrame(() => animateStoryKaraoke(textLength));
+    } else {
+        setStoryKaraokeCharIndex(-1);
+    }
+  };
+  
+  const handlePlayStoryLocal = () => {
+      if (!storyData || !session) return;
+      if (storyAnimationRef.current) cancelAnimationFrame(storyAnimationRef.current);
+      setStoryKaraokeCharIndex(0);
+      
+      playLocalAudio(storyData.content, session.language, undefined, (charIndex) => {
+          setStoryKaraokeCharIndex(charIndex);
+      }, storyPlaybackSpeed).then(() => {
+          setStoryKaraokeCharIndex(-1);
+      });
+  };
+
+  const handlePlayStoryCloud = () => {
+      if (!storyData) return;
+      if (storyAnimationRef.current) cancelAnimationFrame(storyAnimationRef.current);
+      setStoryKaraokeCharIndex(0);
+      
+      playCloudAudio(storyData.content, (duration) => {
+          storyStartTimeRef.current = performance.now();
+          storyDurationRef.current = duration; // Already adjusted for speed in service
+          animateStoryKaraoke(storyData.content.length);
+      }, storyPlaybackSpeed).then(() => {
+          if (storyAnimationRef.current) cancelAnimationFrame(storyAnimationRef.current);
+          setStoryKaraokeCharIndex(-1);
+      });
+  };
+
+  const cyclePlaybackSpeed = () => {
+    // Cycle: 1 -> 0.75 -> 0.5 -> 1
+    if (storyPlaybackSpeed === 1) setStoryPlaybackSpeed(0.75);
+    else if (storyPlaybackSpeed === 0.75) setStoryPlaybackSpeed(0.5);
+    else setStoryPlaybackSpeed(1);
   };
 
   // --- VIEWS ---
@@ -579,32 +672,26 @@ const App: React.FC = () => {
           const progressPercent = ((visualDisplayLevel - 1) / MAX_LEVEL) * 100;
           const reviewCount = (topicReviews[key] || []).length;
           
-          // Determine if we should show the reset button (if there is any progress)
-          const hasProgress = level > 1 || reviewCount > 0;
-
           return (
             <div
               key={topic.id}
-              className="relative bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl shadow-sm hover:shadow-md transition-all group overflow-hidden flex"
+              onClick={() => startSession(topic.label, topic.id)}
+              className="relative bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl p-5 cursor-pointer shadow-sm hover:shadow-md transition-all hover:scale-[1.02] group overflow-hidden"
             >
-               {/* Progress Bar (Visual) - Positioned Absolute at Bottom */}
-               <div className="absolute bottom-0 left-0 h-1 bg-slate-100 dark:bg-slate-700 w-full z-10 pointer-events-none">
-                 <div 
-                   className="h-full bg-indigo-500 transition-all duration-1000" 
-                   style={{ width: `${progressPercent}%` }} 
-                 />
-               </div>
-
-               {/* LEFT SIDE: Main Click Area (Starts Session) */}
-               <div 
-                 onClick={() => startSession(topic.label, topic.id)}
-                 className="flex-1 p-5 flex items-center relative z-20 cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors"
-               >
+              <div className="absolute bottom-0 left-0 h-1 bg-slate-100 dark:bg-slate-700 w-full">
+                <div 
+                  className="h-full bg-indigo-500 transition-all duration-1000" 
+                  style={{ width: `${progressPercent}%` }} 
+                />
+              </div>
+              
+              <div className="flex items-center justify-between">
+                <div className="flex items-center">
                   <div className="text-3xl mr-4 group-hover:scale-110 transition-transform">{topic.icon}</div>
-                  <div className="flex-1">
-                    <div className="flex justify-between items-center mb-1">
-                      <span className="font-bold text-slate-800 dark:text-white text-lg group-hover:text-indigo-700 dark:group-hover:text-indigo-400">{topic.label}</span>
-                      <span className="text-xs font-bold bg-indigo-50 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border border-indigo-100 dark:border-indigo-800 px-2 py-1 rounded-lg mr-2 whitespace-nowrap">
+                  <div>
+                    <div className="flex items-center mb-1">
+                      <span className="font-bold text-slate-800 dark:text-white text-lg mr-2 group-hover:text-indigo-700 dark:group-hover:text-indigo-400">{topic.label}</span>
+                      <span className="text-xs font-bold bg-indigo-50 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border border-indigo-100 dark:border-indigo-800 px-2 py-1 rounded-lg">
                         BARALHO {visualDisplayLevel} / {MAX_LEVEL}
                       </span>
                     </div>
@@ -617,33 +704,25 @@ const App: React.FC = () => {
                       )}
                     </div>
                   </div>
-               </div>
-               
-               {/* RIGHT SIDE: Action Buttons (Reset & Start) */}
-               <div className="flex items-center gap-1 border-l border-slate-100 dark:border-slate-700 bg-slate-50 dark:bg-slate-900/50 px-2 z-50">
-                   
-                   {/* Reset Button */}
-                   {hasProgress && (
-                     <button
-                       type="button"
-                       onClick={(e) => resetProgress(topic.id, e)}
-                       className="p-3 text-slate-300 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 rounded-full transition-colors"
-                       title="Reiniciar Progresso"
-                     >
-                       <RotateCcw size={20} />
-                     </button>
-                   )}
+                </div>
 
-                   {/* Start Arrow Button */}
-                   <button
-                     type="button"
-                     onClick={() => startSession(topic.label, topic.id)}
-                     className="p-3 text-slate-300 hover:text-indigo-500 hover:bg-indigo-50 dark:hover:bg-indigo-900/20 rounded-full transition-colors"
-                     title="Iniciar"
-                   >
-                     <ArrowRight size={20} />
-                   </button>
-               </div>
+                {/* Reset and Navigation */}
+                <div className="flex items-center gap-3">
+                   {(visualDisplayLevel > 1 || reviewCount > 0) && (
+                      <button
+                        onClick={(e) => resetProgress(topic.id, e)}
+                        className="p-2 text-slate-300 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 rounded-full transition-colors z-20"
+                        title="Reiniciar Progresso"
+                      >
+                        <RotateCcw size={20} />
+                      </button>
+                   )}
+                   <div className="text-slate-300 dark:text-slate-600 group-hover:text-indigo-500 dark:group-hover:text-indigo-400 transition-colors">
+                     <ArrowRight size={24} />
+                   </div>
+                </div>
+
+              </div>
             </div>
           );
         })}
@@ -721,6 +800,8 @@ const App: React.FC = () => {
 
   const renderLoading = () => {
      const isBonus = loadingContext?.level === 99;
+     const isStory = loadingContext?.level === 999;
+     
      let langLabel = 'Inglês';
      if (targetLanguage === 'es') langLabel = 'Espanhol';
      if (targetLanguage === 'fr') langLabel = 'Francês';
@@ -731,7 +812,7 @@ const App: React.FC = () => {
      let levelDisplay = `Baralho ${loadingContext?.level || 1}`;
      
      // If user selected levels, we can be more specific, but "Baralho X" keeps consistency of the visual progress
-     if (selectedLevels.length > 0) {
+     if (!isBonus && !isStory && selectedLevels.length > 0) {
         // Calculate the actual difficulty being loaded
         const index = ((loadingContext?.level || 1) - 1) % selectedLevels.length;
         const difficulty = selectedLevels[index];
@@ -742,15 +823,25 @@ const App: React.FC = () => {
      return (
         <div className="flex flex-col items-center justify-center min-h-[60vh]">
           <div className="relative">
-            <div className={`w-16 h-16 border-4 rounded-full animate-spin ${isBonus ? 'border-amber-200 border-t-amber-600 dark:border-amber-900 dark:border-t-amber-500' : 'border-indigo-200 border-t-indigo-600 dark:border-indigo-900 dark:border-t-indigo-500'}`}></div>
+            <div className={`w-16 h-16 border-4 rounded-full animate-spin ${
+                isStory ? 'border-purple-200 border-t-purple-600 dark:border-purple-900 dark:border-t-purple-500' :
+                isBonus ? 'border-amber-200 border-t-amber-600 dark:border-amber-900 dark:border-t-amber-500' : 
+                'border-indigo-200 border-t-indigo-600 dark:border-indigo-900 dark:border-t-indigo-500'
+            }`}></div>
             <div className="absolute inset-0 flex items-center justify-center">
-              {isBonus ? <Star size={20} className="text-amber-600 dark:text-amber-500 animate-pulse fill-current" /> : <Sparkles size={20} className="text-indigo-600 dark:text-indigo-500 animate-pulse" />}
+              {isStory ? <BookOpenText size={20} className="text-purple-600 dark:text-purple-500 animate-pulse" /> : 
+               isBonus ? <Star size={20} className="text-amber-600 dark:text-amber-500 animate-pulse fill-current" /> : 
+               <Sparkles size={20} className="text-indigo-600 dark:text-indigo-500 animate-pulse" />}
             </div>
           </div>
           <h2 className="mt-6 text-xl font-bold text-slate-800 dark:text-white">
-            {isBonus ? 'Gerando Baralho Bônus...' : `Gerando ${levelDisplay}...`}
+            {isStory ? 'Escrevendo História...' : isBonus ? 'Gerando Baralho Bônus...' : `Gerando ${levelDisplay}...`}
           </h2>
-          <p className="text-slate-500 dark:text-slate-400 mt-2">Criando desafio de {langLabel} para "{loadingContext?.label || customTopic}"</p>
+          <p className="text-slate-500 dark:text-slate-400 mt-2">
+            {isStory 
+                ? 'Conectando as palavras que você aprendeu...' 
+                : `Criando desafio de ${langLabel} para "${loadingContext?.label || customTopic}"`}
+          </p>
         </div>
       );
   };
@@ -815,6 +906,127 @@ const App: React.FC = () => {
       </div>
     );
   };
+  
+  const renderStory = () => {
+      if (!storyData || !session) return null;
+
+      const renderStoryContent = (text: string) => {
+        // Words learned in the current session
+        const words = session.cards.map(c => c.word.toLowerCase());
+        const uniqueWords = (Array.from(new Set(words)) as string[]).sort((a, b) => b.length - a.length);
+
+        // Split text into tokens (words and separators) while tracking indices
+        // We use a regex that captures delimiters (whitespace, punctuation) to preserve them
+        // This regex splits by words but keeps the delimiters in the array
+        const tokens = text.split(/([^\wÀ-ÿ]+)/g).filter(Boolean); // Include accented chars in word definition
+
+        let runningCharIndex = 0;
+
+        return tokens.map((token, i) => {
+            const tokenStart = runningCharIndex;
+            const tokenEnd = runningCharIndex + token.length;
+            runningCharIndex = tokenEnd;
+            
+            // Check if this token matches a learned word (case insensitive)
+            const isLearnedWord = uniqueWords.some(w => w === token.toLowerCase());
+            
+            // Check if this token is currently being spoken (Karaoke)
+            // We highlight if the current char index is within this token
+            // DISABLED ON MOBILE as requested due to sync issues
+            const isSpeaking = !isMobile && storyKaraokeCharIndex >= tokenStart && storyKaraokeCharIndex < tokenEnd;
+            
+            // Styling logic
+            // FIX: Always apply padding (px-0.5) to avoid layout shift when background color appears
+            let className = "rounded px-0.5 transition-colors duration-75 inline-block";
+            
+            if (isSpeaking && enableKaraoke) {
+                className += " bg-yellow-200 dark:bg-yellow-600/50 text-slate-900 dark:text-white";
+            }
+            if (isLearnedWord) {
+                // If speaking, mix styles, otherwise just bold
+                className += ` font-extrabold ${!isSpeaking ? 'text-indigo-600 dark:text-indigo-400' : ''}`;
+            }
+
+            return (
+                <span key={i} className={className}>
+                    {token}
+                </span>
+            );
+        });
+      };
+      
+      return (
+          <div className="max-w-xl mx-auto px-6 py-8 flex flex-col items-center min-h-screen">
+            <div className="w-full flex justify-between items-center mb-6">
+                 <button onClick={() => setAppState(AppState.SUMMARY)} className="text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 p-2 flex items-center gap-1">
+                     <ArrowLeft size={20} /> Voltar
+                 </button>
+                 <span className="text-sm font-bold text-slate-400 uppercase tracking-wider">Modo Storytelling</span>
+                 <div className="w-8"></div>
+            </div>
+            
+            <div className="bg-white dark:bg-slate-800 rounded-3xl p-6 shadow-xl border border-slate-200 dark:border-slate-700 w-full mb-6">
+                <div className="flex items-center gap-3 mb-4 justify-center">
+                    <BookOpenText size={24} className="text-purple-500" />
+                    <h2 className="text-xl font-bold text-slate-800 dark:text-white text-center">{storyData.title}</h2>
+                </div>
+                
+                <div className="prose dark:prose-invert max-w-none text-lg leading-relaxed text-slate-700 dark:text-slate-300 mb-6 bg-slate-50 dark:bg-slate-900/50 p-4 rounded-2xl border border-slate-100 dark:border-slate-700 min-h-[150px]">
+                    <p className="animate-in fade-in duration-300" key={showStoryTranslation ? 'pt' : 'en'}>
+                        {showStoryTranslation 
+                            ? storyData.translation 
+                            : renderStoryContent(storyData.content)
+                        }
+                    </p>
+                </div>
+                
+                <div className="flex flex-wrap justify-center gap-3 mb-2">
+                     <button
+                        onClick={cyclePlaybackSpeed}
+                        disabled={storyKaraokeCharIndex !== -1}
+                        className="flex items-center justify-center gap-1 w-12 h-9 rounded-full bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 text-xs font-bold hover:bg-slate-200 dark:hover:bg-slate-600 transition-colors disabled:opacity-50"
+                        title="Velocidade"
+                     >
+                        <GaugeCircle size={14} />
+                        {storyPlaybackSpeed}x
+                     </button>
+                     <button 
+                        onClick={handlePlayStoryLocal}
+                        disabled={storyKaraokeCharIndex !== -1}
+                        className="flex items-center gap-2 px-4 py-2 rounded-full bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 text-sm font-bold hover:bg-amber-100 hover:text-amber-600 dark:hover:bg-slate-600 transition-colors disabled:opacity-50"
+                     >
+                         <Volume2 size={16} /> Ouvir Rápido
+                     </button>
+                     <button 
+                         onClick={handlePlayStoryCloud}
+                         disabled={storyKaraokeCharIndex !== -1}
+                         className="flex items-center gap-2 px-4 py-2 rounded-full bg-purple-100 dark:bg-purple-900/30 text-purple-600 dark:text-purple-400 text-sm font-bold hover:bg-purple-200 dark:hover:bg-purple-800/50 transition-colors disabled:opacity-50"
+                     >
+                         <Sparkles size={16} /> Ouvir Natural
+                     </button>
+                     <button 
+                         onClick={() => setShowStoryTranslation(!showStoryTranslation)}
+                         className={`flex items-center gap-2 px-4 py-2 rounded-full text-sm font-bold transition-colors ${
+                             showStoryTranslation 
+                             ? 'bg-slate-200 dark:bg-slate-600 text-slate-800 dark:text-slate-200' 
+                             : 'bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600 text-slate-500 hover:bg-slate-50 dark:hover:bg-slate-700'
+                         }`}
+                     >
+                         {showStoryTranslation ? <EyeOff size={16} /> : <Languages size={16} />}
+                         {showStoryTranslation ? 'Ver Original' : 'Ver Tradução'}
+                     </button>
+                </div>
+            </div>
+            
+             <button
+              onClick={() => setAppState(AppState.SUMMARY)}
+              className="w-full bg-slate-900 dark:bg-slate-700 text-white py-4 rounded-xl font-bold hover:bg-slate-800 dark:hover:bg-slate-600 transition-all shadow-lg"
+            >
+              Continuar
+            </button>
+          </div>
+      )
+  }
 
   const renderSummary = () => {
     if (!session) return null;
@@ -873,7 +1085,18 @@ const App: React.FC = () => {
 
         {/* Actions */}
         <div className="flex flex-col gap-3 w-full">
-          
+            
+          {/* Story Button (New Feature) */}
+          {score > 0 && (
+              <button 
+                onClick={loadStory}
+                className="w-full bg-purple-50 dark:bg-purple-900/20 text-purple-600 dark:text-purple-400 border border-purple-200 dark:border-purple-800 py-3 rounded-xl font-bold hover:bg-purple-100 dark:hover:bg-purple-900/40 transition-colors flex justify-center items-center gap-2 mb-2"
+              >
+                  <BookOpenText size={20} />
+                  Criar História com estas palavras
+              </button>
+          )}
+
           {/* Scenario 1: Standard Progression (Not Max Level) */}
           {!isMaxLevel && !session.isBonus && (
              <button
@@ -939,6 +1162,7 @@ const App: React.FC = () => {
       {appState === AppState.ERROR && renderError()}
       {appState === AppState.STUDY && renderStudy()}
       {appState === AppState.SUMMARY && renderSummary()}
+      {appState === AppState.STORY && renderStory()}
     </div>
   );
 };
