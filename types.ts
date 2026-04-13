@@ -24,7 +24,6 @@ export enum AppState {
 export interface StudySession {
   topicId: string;
   topicLabel: string;
-  level: number;
   isBonus?: boolean; // New flag for the review deck
   language: SupportedLanguage; // Track language of the session
   cards: FlashcardData[];

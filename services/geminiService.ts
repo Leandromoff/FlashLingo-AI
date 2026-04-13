@@ -79,7 +79,6 @@ const getCefrDescription = (level: number): string => {
 
 export const generateFlashcards = async (
   topic: string, 
-  difficultyLevel: number = 1, 
   excludedWords: string[] = [], 
   language: SupportedLanguage = 'en'
 ): Promise<FlashcardData[]> => {
@@ -117,12 +116,10 @@ export const generateFlashcards = async (
         ? `STRICT NEGATIVE FILTER: You MUST NOT generate any of the following words (duplicates are forbidden): [${excludedWords.join(', ')}]. If a word from this list comes to mind, discard it and choose another.` 
         : 'No exclusions for this deck.';
 
-      const levelStrategy = getCefrDescription(difficultyLevel);
-
       const prompt = `You are an expert ${targetLangName} curriculum designer acting as an API. 
       Create a flashcard deck for the topic: "${topic}".
       
-      TARGET LEVEL: ${levelStrategy}
+      TARGET LEVEL: CEFR A2-B1 (Pre-intermediate to Intermediate)
       MODE: GENERAL TOPIC
       
       ${excludedList}

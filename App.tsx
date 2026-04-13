@@ -8,7 +8,7 @@ import { FlagUS, FlagES, FlagFR, FlagIT, FlagDE } from './components/Flags';
 import { useLocalStorage } from './hooks/useLocalStorage';
 import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, FastForward, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap } from 'lucide-react';
 
-const MAX_LEVEL = 6;
+const CARDS_PER_DECK = 10;
 
 const TOPIC_POOL = [
   // Tecnologia & Futuro
@@ -66,14 +66,14 @@ const App: React.FC = () => {
   // Persistent State for Target Language
   const [targetLanguage, setTargetLanguage] = useLocalStorage<SupportedLanguage>('flashlingo_target_language', 'en');
 
-  // Persistent state for levels (decks) - Keyed by language to separate progress
-  const [topicLevels, setTopicLevels] = useLocalStorage<Record<string, number>>('flashlingo_levels', {});
-
   // Persistent state for Learned Words per Topic (prevent duplicates)
   const [topicWords, setTopicWords] = useLocalStorage<Record<string, string[]>>('flashlingo_words', {});
 
   // Persistent state for REVIEW QUEUE (Bonus Deck words)
   const [topicReviews, setTopicReviews] = useLocalStorage<Record<string, FlashcardData[]>>('flashlingo_reviews', {});
+
+  // Persistent state for Active Sessions (Hybrid Approach)
+  const [activeSessions, setActiveSessions] = useLocalStorage<Record<string, StudySession>>('flashlingo_active_sessions', {});
 
   // Preferences
   const [enableKaraoke, setEnableKaraoke] = useLocalStorage<boolean>('flashlingo_enable_karaoke', false);
@@ -91,27 +91,23 @@ const App: React.FC = () => {
   // Helper to get unique key per language (e.g., 'travel_en' vs 'travel_es')
   const getTopicKey = (topicId: string) => `${topicId}_${targetLanguage}`;
 
-  const getLevel = (topicId: string) => topicLevels[getTopicKey(topicId)] || 1;
-
   const resetProgress = (topicId: string, e?: React.MouseEvent, force: boolean = false) => {
     if (e) {
       e.preventDefault();
       e.stopPropagation();
     }
     const key = getTopicKey(topicId);
-    setTopicLevels(prev => { const n = { ...prev }; delete n[key]; return n; });
     setTopicWords(prev => { const n = { ...prev }; delete n[key]; return n; });
     setTopicReviews(prev => { const n = { ...prev }; delete n[key]; return n; });
+    setActiveSessions(prev => { const n = { ...prev }; delete n[key]; return n; });
     setIsDevMode(false);
   };
 
   const startSession = async (topicLabel: string, topicId: string, isBonusRound = false) => {
     const key = getTopicKey(topicId);
     
-    let visualLevel = getLevel(topicId);
-    if (isDevMode) visualLevel = MAX_LEVEL;
-
-    let difficultyLevel = visualLevel;
+    // Clear any existing active session when starting a fresh one
+    setActiveSessions(prev => { const n = { ...prev }; delete n[key]; return n; });
 
     setAppState(AppState.LOADING);
     setErrorMsg('');
@@ -138,14 +134,13 @@ const App: React.FC = () => {
             }));
         } else {
           const excludedWords = topicWords[key] || [];
-          cards = await generateFlashcards(topicLabel, difficultyLevel, excludedWords, targetLanguage);
+          cards = await generateFlashcards(topicLabel, excludedWords, targetLanguage);
         }
       }
 
       setSession({
         topicId,
         topicLabel,
-        level: visualLevel, 
         isBonus: isBonusRound,
         language: targetLanguage,
         cards,
@@ -160,6 +155,16 @@ const App: React.FC = () => {
       console.error(error);
       setErrorMsg('Falha ao carregar baralho. Tente novamente.');
       setAppState(AppState.ERROR);
+    }
+  };
+
+  const resumeSession = (topicId: string) => {
+    const key = getTopicKey(topicId);
+    const savedSession = activeSessions[key];
+    if (savedSession) {
+      setSession(savedSession);
+      setAppState(AppState.STUDY);
+      setIsCardFlipped(false);
     }
   };
 
@@ -179,69 +184,70 @@ const App: React.FC = () => {
         // This prevents updates if the user exited quickly
         if (!prev) return null;
         
-        const newKnownCount = known ? prev.knownCount + 1 : prev.knownCount;
-        const newUnknownCount = known ? prev.unknownCount : prev.unknownCount + 1;
         const currentCard = prev.cards[prev.currentIndex];
         const isLastCard = prev.currentIndex >= prev.cards.length - 1;
+        const key = `${prev.topicId}_${prev.language}`;
 
-        const newUnknownCards = known ? prev.unknownCards : [...prev.unknownCards, currentCard];
-
-        if (isLastCard) {
-          const key = `${prev.topicId}_${prev.language}`;
-
-          if (!prev.isBonus && prev.level < MAX_LEVEL) {
-            setTopicLevels(levels => ({ ...levels, [key]: prev.level + 1 }));
-          }
-
-          if (!prev.isBonus) {
-             const allSessionWords = prev.cards.map(c => c.word);
-             setTopicWords(words => {
-               const currentHistory = words[key] || [];
-               const updatedHistory = Array.from(new Set([...currentHistory, ...allSessionWords]));
-               return { ...words, [key]: updatedHistory };
-             });
-          }
-
-          if (!known) {
-             setTopicReviews(reviews => {
-                const existing = reviews[key] || [];
-                const isAlreadyInReview = existing.some(c => c.word === currentCard.word);
-                if (!isAlreadyInReview) return { ...reviews, [key]: [...existing, currentCard] };
-                return reviews;
-             });
-          } 
-          
-          if (prev.isBonus && known) {
-             setTopicReviews(reviews => {
-                const existing = reviews[key] || [];
-                return { ...reviews, [key]: existing.filter(c => c.word !== currentCard.word) };
-             });
-          }
-          
-          if (!prev.isBonus && newUnknownCards.length > 0) {
-             setTopicReviews(reviews => {
-                const existing = reviews[key] || [];
-                const uniqueNew = newUnknownCards.filter(nc => !existing.some(ec => ec.word === nc.word));
-                return { ...reviews, [key]: [...existing, ...uniqueNew] };
-             });
-          }
-
-          setAppState(AppState.SUMMARY);
-          return {
-            ...prev,
-            knownCount: newKnownCount,
-            unknownCount: newUnknownCount,
-            unknownCards: newUnknownCards
-          };
+        // --- REAL-TIME SAVING (Hybrid Approach) ---
+        if (known) {
+          setTopicWords(words => {
+            const currentHistory = words[key] || [];
+            if (!currentHistory.includes(currentCard.word)) {
+              return { ...words, [key]: [...currentHistory, currentCard.word] };
+            }
+            return words;
+          });
         }
 
-        return {
+        if (!known) {
+          setTopicReviews(reviews => {
+            const existing = reviews[key] || [];
+            if (!existing.some(c => c.word === currentCard.word)) {
+              return { ...reviews, [key]: [...existing, currentCard] };
+            }
+            return reviews;
+          });
+        } 
+        
+        if (prev.isBonus && known) {
+          setTopicReviews(reviews => {
+            const existing = reviews[key] || [];
+            return { ...reviews, [key]: existing.filter(c => c.word !== currentCard.word) };
+          });
+        }
+        // ------------------------------------------
+
+        const newKnownCount = known ? prev.knownCount + 1 : prev.knownCount;
+        const newUnknownCount = known ? prev.unknownCount : prev.unknownCount + 1;
+        const newUnknownCards = known ? prev.unknownCards : [...prev.unknownCards, currentCard];
+
+        const nextSessionState = {
           ...prev,
           currentIndex: prev.currentIndex + 1,
           knownCount: newKnownCount,
           unknownCount: newUnknownCount,
           unknownCards: newUnknownCards
         };
+
+        if (isLastCard) {
+          // Clear active session since it's finished
+          setActiveSessions(sessions => {
+            const newSessions = { ...sessions };
+            delete newSessions[key];
+            return newSessions;
+          });
+
+          setAppState(AppState.SUMMARY);
+          return nextSessionState;
+        }
+
+        // Save active session progress
+        setActiveSessions(sessions => ({
+          ...sessions,
+          [key]: nextSessionState
+        }));
+
+        return nextSessionState;
       });
     }, 150); // Increased slightly to match animation better
   }, []); // Removed 'session' from dependency array to prevent race condition, using ref instead
@@ -292,28 +298,28 @@ const App: React.FC = () => {
           const learnedCount = (topicWords[key] || []).length;
           const totalCards = (topic.isStatic && STATIC_DECKS[topic.id] && STATIC_DECKS[topic.id][targetLanguage]) 
             ? STATIC_DECKS[topic.id][targetLanguage].length 
-            : 0;
+            : CARDS_PER_DECK;
           
-          const level = getLevel(topic.id);
-          const visualDisplayLevel = isDevMode ? MAX_LEVEL : level;
           const displayLearnedCount = isDevMode ? totalCards : learnedCount;
-          const progressPercent = totalCards > 0 ? (displayLearnedCount / totalCards) * 100 : ((visualDisplayLevel - 1) / MAX_LEVEL) * 100;
+          const progressPercent = Math.min(100, (displayLearnedCount / totalCards) * 100);
           const reviewCount = (topicReviews[key] || []).length;
+          const activeSession = activeSessions[key];
+          const isComplete = displayLearnedCount >= totalCards && reviewCount === 0;
           
           return (
-            <div key={topic.id} className="relative bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl p-0 cursor-pointer shadow-sm hover:shadow-md transition-all hover:scale-[1.02] group overflow-hidden flex">
-               {/* Left Side - Main Action (Start Session) */}
+            <div key={topic.id} className="relative bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl p-0 cursor-pointer shadow-sm hover:shadow-md transition-all hover:scale-[1.02] group overflow-hidden flex flex-col sm:flex-row">
+               {/* Left Side - Main Info */}
                <div 
-                 onClick={() => startSession(topic.label, topic.id)}
+                 onClick={() => activeSession ? resumeSession(topic.id) : (isComplete ? null : (reviewCount > 0 ? startSession(topic.label, topic.id, true) : startSession(topic.label, topic.id)))}
                  className="flex-1 p-5 flex items-center justify-between"
                >
                    <div className="absolute bottom-0 left-0 h-1 bg-slate-100 dark:bg-slate-700 w-full"><div className="h-full bg-indigo-500 transition-all duration-1000" style={{ width: `${progressPercent}%` }} /></div>
-                   <div className="flex items-center">
-                    <div>
+                   <div className="flex items-center w-full">
+                    <div className="w-full">
                         <div className="flex items-center mb-1">
                         <span className="font-bold text-slate-800 dark:text-white text-lg mr-2 group-hover:text-indigo-700 dark:group-hover:text-indigo-400">{topic.label}</span>
                         <span className="text-xs font-bold bg-indigo-50 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border border-indigo-100 dark:border-indigo-800 px-2 py-1 rounded-lg">
-                          {totalCards > 0 ? `${displayLearnedCount} / ${totalCards}` : `BARALHO ${visualDisplayLevel} / ${MAX_LEVEL}`}
+                          {isComplete ? '100% CONCLUÍDO' : `${displayLearnedCount} / ${totalCards} PALAVRAS`}
                         </span>
                         </div>
                         <div className="flex gap-3 text-sm min-h-[1.25rem]">{reviewCount > 0 && (<span className="text-amber-500 dark:text-amber-400 font-bold flex items-center gap-1 text-xs animate-pulse"><Star size={12} className="fill-current" />{reviewCount} para revisar</span>)}</div>
@@ -321,23 +327,42 @@ const App: React.FC = () => {
                     </div>
                </div>
 
-               {/* Right Side - Actions (Reset / Arrow) */}
-               <div className="flex items-center border-l border-slate-100 dark:border-slate-700 bg-slate-50/50 dark:bg-slate-900/20">
-                    {(visualDisplayLevel > 1 || reviewCount > 0) && (
+               {/* Right Side - Actions */}
+               <div className="flex items-center border-t sm:border-t-0 sm:border-l border-slate-100 dark:border-slate-700 bg-slate-50/50 dark:bg-slate-900/20">
+                    {activeSession ? (
+                        <button 
+                            onClick={(e) => { e.stopPropagation(); resumeSession(topic.id); }}
+                            className="h-full w-full sm:w-auto px-6 py-3 sm:py-0 bg-amber-500 hover:bg-amber-600 text-white font-bold transition-colors flex items-center justify-center gap-2"
+                        >
+                            Continuar ({activeSession.currentIndex}/{activeSession.cards.length})
+                        </button>
+                    ) : isComplete ? (
                         <button 
                             onClick={(e) => resetProgress(topic.id, e)} 
-                            className="h-full px-4 text-slate-300 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 transition-colors flex items-center justify-center" 
+                            className="h-full px-6 py-3 sm:py-0 text-green-600 hover:text-green-700 bg-green-50 hover:bg-green-100 dark:bg-green-900/20 dark:hover:bg-green-900/40 transition-colors flex items-center justify-center gap-2 font-bold" 
                             title="Reiniciar Progresso"
                         >
-                            <RotateCcw size={18} />
+                            <Trophy size={18} /> Concluído
                         </button>
+                    ) : (
+                        <>
+                            {(displayLearnedCount > 0 || reviewCount > 0) && (
+                                <button 
+                                    onClick={(e) => resetProgress(topic.id, e)} 
+                                    className="h-full px-4 py-3 sm:py-0 text-slate-300 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 transition-colors flex items-center justify-center" 
+                                    title="Reiniciar Progresso"
+                                >
+                                    <RotateCcw size={18} />
+                                </button>
+                            )}
+                            <div 
+                                onClick={() => reviewCount > 0 ? startSession(topic.label, topic.id, true) : startSession(topic.label, topic.id)}
+                                className="h-full px-4 py-3 sm:py-0 flex items-center justify-center text-slate-300 dark:text-slate-600 group-hover:text-indigo-500 dark:group-hover:text-indigo-400 transition-colors"
+                            >
+                                <ArrowRight size={24} />
+                            </div>
+                        </>
                     )}
-                    <div 
-                        onClick={() => startSession(topic.label, topic.id)}
-                        className="h-full px-4 flex items-center justify-center text-slate-300 dark:text-slate-600 group-hover:text-indigo-500 dark:group-hover:text-indigo-400 transition-colors"
-                    >
-                        <ArrowRight size={24} />
-                    </div>
                </div>
             </div>
           );
@@ -385,14 +410,13 @@ const App: React.FC = () => {
     if (!session || !session.cards[session.currentIndex]) return null;
     const currentCard = session.cards[session.currentIndex];
     const badgeClass = session.isBonus ? 'bg-amber-100 dark:bg-amber-900/50 text-amber-700 dark:text-amber-400' : 'bg-indigo-100 dark:bg-indigo-900/50 text-indigo-700 dark:text-indigo-400';
-    let headerLabel = `BARALHO ${session.level}`;
     return (
       <div className="max-w-xl mx-auto px-6 py-8 flex flex-col items-center min-h-screen justify-center">
         <div className="w-full flex justify-between items-center mb-8">
            <button onClick={resetApp} className="text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 p-2"><X size={24} /></button>
            <div className="flex flex-col items-center">
              <div className={`px-4 py-1 rounded-full text-xs font-bold uppercase tracking-wide mb-1 border-0 ${badgeClass}`}>{session.topicLabel}</div>
-             <div className="text-slate-400 dark:text-slate-500 text-xs font-bold">{session.isBonus ? 'BARALHO BÔNUS' : headerLabel}</div>
+             <div className="text-slate-400 dark:text-slate-500 text-xs font-bold">{session.isBonus ? 'REVISÃO' : 'APRENDIZADO'}</div>
            </div>
            <div className="w-8"></div>
         </div>
@@ -405,28 +429,55 @@ const App: React.FC = () => {
   const renderSummary = () => {
     if (!session) return null;
     const score = Math.round((session.knownCount / session.cards.length) * 100);
-    const isMaxLevel = session.level >= MAX_LEVEL && !session.isBonus;
     const key = `${session.topicId}_${session.language}`;
     const reviewList = topicReviews[key] || [];
     const hasReviewItems = reviewList.length > 0;
-    const isCourseComplete = !hasReviewItems && (session.isBonus || isMaxLevel);
-    const nextLevel = session.level + 1;
-    let nextLevelLabel = `Baralho ${nextLevel}`;
+    
+    // Check total learned words to see if the deck is complete
+    const learnedCount = (topicWords[key] || []).length;
+    const staticTopic = PREDEFINED_TOPICS.find(t => t.id === session.topicId);
+    const totalCards = staticTopic?.isStatic && STATIC_DECKS[session.topicId] && STATIC_DECKS[session.topicId][session.language]
+      ? STATIC_DECKS[session.topicId][session.language].length 
+      : CARDS_PER_DECK;
+      
+    const isCourseComplete = !hasReviewItems && (learnedCount >= totalCards);
+    
     return (
       <div className="max-w-2xl mx-auto px-6 py-12 flex flex-col items-center">
         <div className={`p-4 rounded-full mb-6 ${isCourseComplete ? 'bg-yellow-100 dark:bg-yellow-900/50 text-yellow-600 dark:text-yellow-400' : 'bg-indigo-100 dark:bg-indigo-900/50 text-indigo-600 dark:text-indigo-400'}`}>{isCourseComplete ? <Trophy size={48} /> : <BookOpen size={48} />}</div>
-        <h2 className="text-3xl font-extrabold text-slate-800 dark:text-white mb-2 text-center">{isCourseComplete ? 'Curso Finalizado!' : session.isBonus ? 'Revisão Concluída' : 'Baralho Completo!'}</h2>
-        <p className="text-slate-500 dark:text-slate-400 mb-8 text-center">{isCourseComplete ? `Você dominou o tópico ${session.topicLabel}.` : session.isBonus ? 'Continue praticando para zerar a lista de revisão.' : 'Ótimo trabalho! Vamos avançar.'}</p>
+        <h2 className="text-3xl font-extrabold text-slate-800 dark:text-white mb-2 text-center">{isCourseComplete ? 'Tópico Concluído!' : session.isBonus ? 'Revisão Concluída' : 'Sessão Finalizada!'}</h2>
+        <p className="text-slate-500 dark:text-slate-400 mb-8 text-center">
+          {isCourseComplete 
+            ? `Você dominou o tópico ${session.topicLabel}.` 
+            : session.isBonus 
+              ? (hasReviewItems ? 'Continue praticando para zerar a lista de revisão.' : 'Revisão zerada! Tópico concluído.') 
+              : (hasReviewItems ? 'Você tem algumas palavras para revisar.' : 'Ótimo trabalho!')}
+        </p>
         <div className="bg-white dark:bg-slate-800 p-8 rounded-3xl shadow-lg border border-slate-100 dark:border-slate-700 w-full mb-8 text-center">
           <div className="text-sm text-slate-400 uppercase font-bold tracking-widest mb-2">Aproveitamento</div>
           <div className="text-6xl font-black mb-2 text-slate-800 dark:text-white">{score}%</div>
           <p className="text-slate-500 dark:text-slate-400 font-medium">{session.unknownCount > 0 ? `${session.unknownCount} palavras adicionadas à revisão.` : 'Nenhum erro novo nesta sessão!'}</p>
         </div>
         <div className="flex flex-col gap-3 w-full">
-          {!isMaxLevel && !session.isBonus && (<button onClick={() => startSession(session.topicLabel, session.topicId)} className="w-full bg-indigo-600 dark:bg-indigo-500 text-white py-4 rounded-xl font-bold hover:bg-indigo-700 dark:hover:bg-indigo-600 transition-all shadow-lg shadow-indigo-200 dark:shadow-none flex justify-center items-center gap-2"><Sparkles size={20} /> Jogar {nextLevelLabel}</button>)}
-          {hasReviewItems && (session.isBonus || isMaxLevel) && (<button onClick={() => startSession(session.topicLabel, session.topicId, true)} className="w-full bg-amber-500 text-white py-4 rounded-xl font-bold hover:bg-amber-600 transition-all shadow-lg shadow-amber-200 dark:shadow-none flex justify-center items-center gap-2 animate-pulse">{session.isBonus ? <RotateCcw size={20} /> : <Star size={20} className="fill-current" />}{session.isBonus ? 'Tentar Revisão Novamente' : `Desafiar Baralho Bônus`}</button>)}
-          {isCourseComplete && (<div className="w-full flex flex-col gap-3"><div className="w-full bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-300 py-4 rounded-xl font-bold flex justify-center items-center gap-2 border border-green-200 dark:border-green-800/50"><Trophy size={20} /> Parabéns! Você zerou este tópico.</div><button onClick={(e) => resetProgress(session.topicId, e)} className="w-full bg-white dark:bg-slate-800 border-2 border-red-100 dark:border-red-900/30 text-red-400 py-3 rounded-xl font-bold hover:border-red-300 hover:text-red-600 transition-colors flex justify-center items-center gap-2"><RotateCcw size={16} /> Reiniciar Baralho</button></div>)}
-          <button onClick={() => { if (isCourseComplete || session.isBonus) { resetProgress(session.topicId, undefined, true); } resetApp(); }} className="w-full bg-white dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 py-3 rounded-xl font-bold hover:border-slate-300 dark:hover:border-slate-600 transition-colors">{isCourseComplete || session.isBonus ? 'Concluir e Reiniciar' : 'Voltar'}</button>
+          {hasReviewItems && (
+            <button onClick={() => startSession(session.topicLabel, session.topicId, true)} className="w-full bg-amber-500 text-white py-4 rounded-xl font-bold hover:bg-amber-600 transition-all shadow-lg shadow-amber-200 dark:shadow-none flex justify-center items-center gap-2 animate-pulse">
+              {session.isBonus ? <RotateCcw size={20} /> : <Star size={20} className="fill-current" />}
+              {session.isBonus ? 'Tentar Revisão Novamente' : 'Revisar Erros'}
+            </button>
+          )}
+          {isCourseComplete && (
+            <div className="w-full flex flex-col gap-3">
+              <div className="w-full bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-300 py-4 rounded-xl font-bold flex justify-center items-center gap-2 border border-green-200 dark:border-green-800/50">
+                <Trophy size={20} /> Parabéns! Você zerou este tópico.
+              </div>
+              <button onClick={(e) => resetProgress(session.topicId, e)} className="w-full bg-white dark:bg-slate-800 border-2 border-red-100 dark:border-red-900/30 text-red-400 py-3 rounded-xl font-bold hover:border-red-300 hover:text-red-600 transition-colors flex justify-center items-center gap-2">
+                <RotateCcw size={16} /> Reiniciar Baralho
+              </button>
+            </div>
+          )}
+          <button onClick={() => resetApp()} className="w-full bg-white dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 py-3 rounded-xl font-bold hover:border-slate-300 dark:hover:border-slate-600 transition-colors">
+            Voltar ao Menu Principal
+          </button>
         </div>
       </div>
     );
