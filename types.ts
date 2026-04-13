@@ -10,17 +10,7 @@ export interface FlashcardData {
   syllables: string[]; // Array of syllables for karaoke effect
   exampleSentence: string;
   exampleTranslation: string;
-}
-
-export interface PronunciationResult {
-  score: number;
-  feedback: string;
-}
-
-export interface StoryData {
-  title: string;
-  content: string;
-  translation: string;
+  grammarExplanation?: string; // New field for grammatical context
 }
 
 export enum AppState {
@@ -28,7 +18,6 @@ export enum AppState {
   LOADING = 'LOADING',
   STUDY = 'STUDY',
   SUMMARY = 'SUMMARY',
-  STORY = 'STORY',
   ERROR = 'ERROR'
 }
 
@@ -46,9 +35,44 @@ export interface StudySession {
 }
 
 export const PREDEFINED_TOPICS = [
-  { id: 'travel', label: 'Viagem & Aeroporto', icon: '✈️' },
-  { id: 'food', label: 'Comida & Restaurante', icon: '🍔' },
-  { id: 'business', label: 'Negócios & Trabalho', icon: '💼' },
-  { id: 'slang', label: 'Gírias Comuns', icon: '😎' },
-  { id: 'emotions', label: 'Emoções & Sentimentos', icon: '🎭' },
+  { 
+    id: 'move_put', 
+    label: 'Mover, Mudar, Colocar & Pôr', 
+    isStatic: true
+  },
+  {
+    id: 'share_rent',
+    label: 'Dividir, Compartilhar & Alugar',
+    isStatic: true
+  },
+  {
+    id: 'to_be_1',
+    label: 'Ser, Estar I',
+    isStatic: true
+  },
+  {
+    id: 'to_be_2',
+    label: 'Ser, Estar II',
+    isStatic: true
+  },
+  {
+    id: 'to_be',
+    label: 'Ser, Estar III',
+    isStatic: true
+  },
+  {
+    id: 'begin_choose',
+    label: 'Iniciar, Começar & Escolher',
+    isStatic: true
+  },
+  {
+    id: 'lose_find',
+    label: 'Perder, Encontrar & Achar',
+    isStatic: true
+  },
+  {
+    id: 'lucky_man',
+    label: 'Música - Lucky Man',
+    isStatic: true
+  }
 ];

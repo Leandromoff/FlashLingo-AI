@@ -1,69 +1,57 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { FlashcardData, PronunciationResult, SupportedLanguage } from '../types';
-import { RefreshCw, Loader2, Sparkles, Zap, Mic, Check, X } from 'lucide-react';
-import { playCloudAudio, playLocalAudio, preloadCloudAudio, evaluatePronunciation } from '../services/geminiService';
+import { FlashcardData, SupportedLanguage } from '../types';
+import { RefreshCw, Loader2, Sparkles, Zap, Check, X, Eye } from 'lucide-react';
+import { playCloudAudio, playLocalAudio, preloadCloudAudio } from '../services/geminiService';
 
 interface CardProps {
   data: FlashcardData;
   isFlipped: boolean;
   onFlip: () => void;
   enableKaraoke: boolean;
-  enablePronunciation: boolean;
   targetLanguage: SupportedLanguage;
   onStudy: () => void;
   onKnow: () => void;
 }
 
-type AudioSource = 'cloud' | 'local' | null;
+type AudioSource = 'cloud' | 'local' | 'visual' | null;
 
 const Card: React.FC<CardProps> = ({ 
   data, 
   isFlipped, 
   onFlip, 
   enableKaraoke, 
-  enablePronunciation, 
   targetLanguage,
   onStudy,
   onKnow
 }) => {
   const [playingSource, setPlayingSource] = useState<AudioSource>(null);
   const [activeSyllableIndex, setActiveSyllableIndex] = useState<number>(-1);
-  
-  // Recording States
-  const [isRecording, setIsRecording] = useState(false);
-  const [isAnalyzing, setIsAnalyzing] = useState(false);
-  const [evalResult, setEvalResult] = useState<PronunciationResult | null>(null);
-  const mediaRecorderRef = useRef<MediaRecorder | null>(null);
-  const chunksRef = useRef<Blob[]>([]);
-  // Use ReturnType<typeof setTimeout> to handle both browser (number) and Node (Timeout object) environments
-  const recordingTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const [showGrammar, setShowGrammar] = useState<boolean>(false);
 
-  // Refs for animation
+  // Refs for animation and mounting status
   const startTimeRef = useRef<number>(0);
   const durationRef = useRef<number>(0);
   const animationFrameRef = useRef<number>(0);
+  const isMounted = useRef<boolean>(true);
 
-  // Reset states when card changes
+  // Track component mount status
   useEffect(() => {
-    setEvalResult(null);
-    stopRecordingInternal(); // Ensure recording stops if user flips fast
-    setIsAnalyzing(false);
-  }, [data.id]);
-  
-  // Cleanup animation on unmount or data change
-  useEffect(() => {
+    isMounted.current = true;
     return () => {
+      isMounted.current = false;
+      // Stop any playing audio when the component unmounts
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+      }
       if (animationFrameRef.current) {
         cancelAnimationFrame(animationFrameRef.current);
       }
-      if (recordingTimeoutRef.current) {
-        clearTimeout(recordingTimeoutRef.current);
-      }
     };
-  }, [data.id]);
+  }, []);
 
   // Function to handle frame updates for karaoke effect
   const animateSyllables = () => {
+    if (!isMounted.current) return;
     const now = performance.now();
     const elapsed = (now - startTimeRef.current) / 1000; // in seconds
     const progress = Math.min(1, elapsed / durationRef.current);
@@ -82,7 +70,7 @@ const Card: React.FC<CardProps> = ({
   };
 
   const startKaraoke = (duration: number) => {
-    if (!enableKaraoke) return;
+    if (!enableKaraoke || !isMounted.current) return;
 
     if (animationFrameRef.current) cancelAnimationFrame(animationFrameRef.current);
     
@@ -94,60 +82,38 @@ const Card: React.FC<CardProps> = ({
     }
   };
 
-  // Auto-play local audio when card changes AND pre-load cloud audio
+  // Pre-load cloud audio when card changes
   useEffect(() => {
-    let mounted = true;
     setActiveSyllableIndex(-1);
+    setShowGrammar(false);
 
-    const autoPlayAndPreload = async () => {
-      if (isFlipped) return;
-
-      preloadCloudAudio(data.word);
-      preloadCloudAudio(data.exampleSentence);
-
-      try {
-        setPlayingSource('local');
-        await new Promise(resolve => setTimeout(resolve, 150));
-        
-        if (mounted) {
-          await playLocalAudio(data.word, targetLanguage, (duration) => {
-             if (mounted) startKaraoke(duration);
-          });
-        }
-      } catch (error) {
-        console.error("Auto-play failed:", error);
-      } finally {
-        if (mounted) {
-          setPlayingSource(null);
-          setActiveSyllableIndex(-1);
-        }
-      }
-    };
-
-    autoPlayAndPreload();
+    if (!isFlipped) {
+      preloadCloudAudio(data.word, targetLanguage);
+    }
 
     return () => {
-      mounted = false;
       if (animationFrameRef.current) cancelAnimationFrame(animationFrameRef.current);
     };
-  }, [data.id, data.word, data.exampleSentence, targetLanguage]); 
+  }, [data.id, data.word, data.exampleSentence, targetLanguage, isFlipped]); 
 
   const handleCloudPlay = async (text: string, isMainWord: boolean, e: React.MouseEvent) => {
     e.stopPropagation();
     if (playingSource) return;
 
-    setPlayingSource('cloud');
+    if (isMounted.current) setPlayingSource('cloud');
     try {
       await playCloudAudio(text, (duration) => {
-        if (isMainWord) {
+        if (isMainWord && isMounted.current) {
             startKaraoke(duration);
         }
-      });
+      }, 1.0, targetLanguage);
     } catch (error) {
       console.error("Cloud speech failed", error);
     } finally {
-      setPlayingSource(null);
-      setActiveSyllableIndex(-1);
+      if (isMounted.current) {
+        setPlayingSource(null);
+        setActiveSyllableIndex(-1);
+      }
     }
   };
 
@@ -155,79 +121,42 @@ const Card: React.FC<CardProps> = ({
     e.stopPropagation();
     if (playingSource) return;
     
-    setPlayingSource('local');
+    if (isMounted.current) setPlayingSource('local');
     try {
       await playLocalAudio(text, targetLanguage, (duration) => {
-        if (isMainWord) {
+        if (isMainWord && isMounted.current) {
             startKaraoke(duration);
         }
       });
     } finally {
-      setPlayingSource(null);
-      setActiveSyllableIndex(-1);
+      if (isMounted.current) {
+        setPlayingSource(null);
+        setActiveSyllableIndex(-1);
+      }
     }
   };
 
-  // --- RECORDING LOGIC ---
-  
-  const stopRecordingInternal = () => {
-    if (recordingTimeoutRef.current) {
-      clearTimeout(recordingTimeoutRef.current);
-      recordingTimeoutRef.current = null;
-    }
-    
-    if (mediaRecorderRef.current && mediaRecorderRef.current.state !== 'inactive') {
-      mediaRecorderRef.current.stop();
-      setIsRecording(false);
-    }
-  };
-
-  const startRecording = async (e: React.MouseEvent) => {
+  const handleVisualKaraoke = async (text: string, isMainWord: boolean, e: React.MouseEvent) => {
     e.stopPropagation();
+    if (playingSource) return;
     
-    if (isAnalyzing) return;
-    if (isRecording) {
-        // Allow manual stop if desired, though it auto-stops
-        stopRecordingInternal();
-        return;
-    }
-
+    if (isMounted.current) setPlayingSource('visual');
     try {
-      setEvalResult(null);
-      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
-      const mediaRecorder = new MediaRecorder(stream);
-      mediaRecorderRef.current = mediaRecorder;
-      chunksRef.current = [];
-
-      mediaRecorder.ondataavailable = (event) => {
-        if (event.data.size > 0) {
-          chunksRef.current.push(event.data);
-        }
-      };
-
-      mediaRecorder.onstop = async () => {
-        const audioBlob = new Blob(chunksRef.current, { type: 'audio/webm' });
-        setIsAnalyzing(true);
-        
-        const result = await evaluatePronunciation(audioBlob, data.word, targetLanguage);
-        
-        setEvalResult(result);
-        setIsAnalyzing(false);
-        
-        stream.getTracks().forEach(track => track.stop());
-      };
-
-      mediaRecorder.start();
-      setIsRecording(true);
-
-      // Auto stop after 3.5 seconds
-      recordingTimeoutRef.current = setTimeout(() => {
-        stopRecordingInternal();
-      }, 3500);
-
-    } catch (err) {
-      console.error("Microphone access denied:", err);
-      alert("Permita o acesso ao microfone para usar este recurso.");
+      // Estimate duration based on word count, similar to playLocalAudio
+      const wordCount = text.split(/\s+/).length;
+      const estimatedDuration = Math.max(1.0, wordCount * 0.5);
+      
+      if (isMainWord && isMounted.current) {
+          startKaraoke(estimatedDuration);
+      }
+      
+      // Wait for the estimated duration
+      await new Promise(resolve => setTimeout(resolve, estimatedDuration * 1000));
+    } finally {
+      if (isMounted.current) {
+        setPlayingSource(null);
+        setActiveSyllableIndex(-1);
+      }
     }
   };
 
@@ -246,6 +175,10 @@ const Card: React.FC<CardProps> = ({
         const matchIndex = fullWordLower.indexOf(syllableLower, cursor);
         let hasSpaceAfter = false;
 
+        if (syllable.endsWith(' ')) {
+            hasSpaceAfter = true;
+        }
+
         if (matchIndex !== -1) {
             const endOfSyllable = matchIndex + syllable.length;
             
@@ -256,7 +189,7 @@ const Card: React.FC<CardProps> = ({
                 
                 if (nextMatchIndex !== -1) {
                     const gap = fullWordLower.slice(endOfSyllable, nextMatchIndex);
-                    if (gap.includes(' ')) {
+                    if (gap.includes(' ') || nextSyllable.startsWith(' ')) {
                         hasSpaceAfter = true;
                     }
                 }
@@ -274,7 +207,7 @@ const Card: React.FC<CardProps> = ({
     });
 
     return (
-      <div className="flex flex-wrap justify-center items-end gap-x-3 gap-y-2 w-full text-4xl md:text-5xl font-extrabold text-center">
+      <div className="flex flex-wrap justify-center items-end gap-x-3 gap-y-2 w-full text-center text-2xl md:text-3xl font-extrabold">
         {words.map((wordGroup, i) => (
           <span key={i} className="whitespace-nowrap inline-flex">
             {wordGroup.syllables.map((syl) => (
@@ -282,11 +215,11 @@ const Card: React.FC<CardProps> = ({
                 key={syl.index}
                 className={`transition-colors duration-75 leading-none ${
                     activeSyllableIndex === syl.index 
-                    ? 'bg-yellow-200 dark:bg-amber-600 text-slate-900 dark:text-white rounded-lg' 
-                    : 'text-slate-800 dark:text-slate-100'
+                    ? 'bg-yellow-200 dark:bg-amber-600 text-slate-900 dark:text-white rounded-lg'
+                    : ''
                 }`}
                 >
-                {syl.text}
+                {syl.text.trim()}
                 </span>
             ))}
           </span>
@@ -304,32 +237,6 @@ const Card: React.FC<CardProps> = ({
           <span key={i} className="whitespace-nowrap">{part}</span>
         ))}
       </span>
-    );
-  };
-
-  const renderFeedbackBars = () => {
-    if (!evalResult) return null;
-    const { score } = evalResult;
-
-    return (
-      <div className="flex flex-col items-center mt-3 animate-in fade-in slide-in-from-top-2">
-        <div className="flex gap-1.5">
-          {/* Bar 1: Red (Always active if result exists - base level) */}
-          <div className={`h-1.5 w-8 rounded-full transition-colors ${
-            score >= 0 ? 'bg-red-500' : 'bg-slate-200 dark:bg-slate-700'
-          }`} />
-          
-          {/* Bar 2: Yellow (Active if score >= 40) */}
-          <div className={`h-1.5 w-8 rounded-full transition-colors ${
-            score >= 40 ? 'bg-yellow-400' : 'bg-slate-200 dark:bg-slate-700'
-          }`} />
-          
-          {/* Bar 3: Green (Active if score >= 70) */}
-          <div className={`h-1.5 w-8 rounded-full transition-colors ${
-            score >= 70 ? 'bg-green-500' : 'bg-slate-200 dark:bg-slate-700'
-          }`} />
-        </div>
-      </div>
     );
   };
 
@@ -388,7 +295,7 @@ const Card: React.FC<CardProps> = ({
                 {/* Local Audio */}
                 <button 
                   onClick={(e) => handleLocalPlay(data.word, true, e)}
-                  disabled={playingSource !== null || isRecording}
+                  disabled={playingSource !== null}
                   className={`flex items-center justify-center w-10 h-10 rounded-full transition-colors border ${
                     playingSource === 'local'
                       ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50 shadow-inner'
@@ -402,7 +309,7 @@ const Card: React.FC<CardProps> = ({
                 {/* Cloud Audio */}
                 <button 
                   onClick={(e) => handleCloudPlay(data.word, true, e)}
-                  disabled={playingSource !== null || isRecording}
+                  disabled={playingSource !== null}
                   className={`flex items-center justify-center w-10 h-10 rounded-full transition-colors border ${
                     playingSource === 'cloud'
                       ? 'bg-indigo-100 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border-indigo-200 dark:border-indigo-800/50 cursor-wait' 
@@ -417,66 +324,21 @@ const Card: React.FC<CardProps> = ({
                   )}
                 </button>
 
-                {/* Microphone Button with Auto-Stop Viz (CONDITIONAL) */}
-                {enablePronunciation && (
-                  <div className="relative">
-                    <button 
-                      onClick={startRecording}
-                      disabled={playingSource !== null || isAnalyzing}
-                      className={`flex items-center justify-center w-10 h-10 rounded-full transition-all border relative z-10 ${
-                        isRecording
-                          ? 'bg-red-500 text-white border-red-600 shadow-md' 
-                          : isAnalyzing
-                          ? 'bg-slate-100 dark:bg-slate-700 text-slate-400 dark:text-slate-500 border-slate-200 dark:border-slate-600'
-                          : 'bg-white dark:bg-slate-700 text-slate-500 dark:text-slate-300 border-slate-200 dark:border-slate-600 hover:border-red-200 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20'
-                      }`}
-                      title={isRecording ? "Gravando..." : "Avaliar Pronúncia"}
-                    >
-                      {isAnalyzing ? (
-                        <Loader2 size={18} className="animate-spin" />
-                      ) : isRecording ? (
-                        <Mic size={18} className="animate-pulse" />
-                      ) : (
-                        <Mic size={18} />
-                      )}
-                    </button>
-                    {/* Simple ring animation for recording timer */}
-                    {isRecording && (
-                      <span className="absolute inset-0 rounded-full border-2 border-red-200 animate-ping"></span>
-                    )}
-                  </div>
+                {/* Visual Karaoke */}
+                {enableKaraoke && (
+                  <button 
+                    onClick={(e) => handleVisualKaraoke(data.word, true, e)}
+                    disabled={playingSource !== null}
+                    className={`flex items-center justify-center w-10 h-10 rounded-full transition-colors border ${
+                      playingSource === 'visual'
+                        ? 'bg-emerald-100 dark:bg-emerald-900/30 text-emerald-600 dark:text-emerald-500 border-emerald-200 dark:border-emerald-800/50 shadow-inner'
+                        : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
+                    }`}
+                    title="Leitura Guiada (Sem Áudio)"
+                  >
+                    <Eye size={18} className={playingSource === 'visual' ? "fill-current" : ""} />
+                  </button>
                 )}
-              </div>
-
-              {/* Pronunciation Feedback (CONDITIONAL) */}
-              {enablePronunciation && renderFeedbackBars()}
-            </div>
-
-            {/* Divider */}
-            <div className="w-16 h-1 bg-slate-100 dark:bg-slate-700 rounded-full my-1"></div>
-
-            {/* Sentence Section */}
-            <div className="w-full bg-slate-50 dark:bg-slate-900/50 p-3 rounded-2xl border border-slate-100 dark:border-slate-700 mt-1">
-              <p className="text-slate-600 dark:text-slate-300 text-base italic font-medium mb-2 line-clamp-3">
-                "{data.exampleSentence}"
-              </p>
-              
-              <div className="flex justify-center gap-3">
-                 <button 
-                  onClick={(e) => handleLocalPlay(data.exampleSentence, false, e)}
-                  disabled={playingSource !== null || isRecording}
-                  className="p-1.5 rounded-full bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600 text-slate-400 dark:text-slate-500 hover:text-amber-500 hover:border-amber-200 transition-all"
-                >
-                  <Zap size={14} className={playingSource === 'local' ? "fill-current text-amber-500" : ""} />
-                </button>
-
-                <button 
-                  onClick={(e) => handleCloudPlay(data.exampleSentence, false, e)}
-                  disabled={playingSource !== null || isRecording}
-                  className="p-1.5 rounded-full bg-white dark:bg-slate-800 border border-indigo-100 dark:border-slate-600 text-indigo-400 dark:text-indigo-500 hover:text-indigo-600 dark:hover:text-indigo-400 hover:bg-indigo-50 dark:hover:bg-slate-700 transition-all shadow-sm"
-                >
-                  {playingSource === 'cloud' ? <Loader2 size={14} className="animate-spin" /> : <Sparkles size={14} />}
-                </button>
               </div>
             </div>
           </div>
@@ -519,30 +381,65 @@ const Card: React.FC<CardProps> = ({
         </div>
 
         {/* BACK OF CARD */}
-        <div className="absolute inset-0 w-full h-full bg-indigo-600 dark:bg-indigo-700 rounded-3xl rotate-y-180 backface-hidden flex flex-col items-center justify-center p-8 text-white">
+        <div className="absolute inset-0 w-full h-full bg-indigo-600 dark:bg-indigo-700 rounded-3xl rotate-y-180 backface-hidden flex flex-col items-center justify-center p-8 text-white overflow-y-auto">
           <span className="absolute top-6 left-6 text-xs font-bold text-indigo-200 uppercase tracking-widest">
             Português
           </span>
 
-          <div className="flex flex-col items-center text-center space-y-6 w-full">
+          <div className="flex flex-col items-center text-center space-y-4 w-full h-full justify-center">
             
-            <div>
+            <div className="shrink-0">
                <p className="text-indigo-200 text-xs uppercase font-bold mb-2">Palavra</p>
-               <h3 className="text-4xl font-bold leading-tight">
+               <h3 className="text-3xl font-bold leading-tight">
                 {data.translation}
               </h3>
             </div>
             
             <div className="w-full border-t border-indigo-500/50"></div>
             
-            <div className="w-full bg-indigo-800/30 dark:bg-slate-900/20 p-4 rounded-2xl">
-              <p className="text-indigo-300 text-xs uppercase font-bold mb-2">Exemplo traduzido</p>
-              <p className="text-white text-lg font-medium italic leading-relaxed">
+            <div className="w-full bg-indigo-800/30 dark:bg-slate-900/20 p-4 rounded-2xl shrink-0">
+              <div className="flex justify-between items-center mb-2">
+                <p className="text-indigo-300 text-xs uppercase font-bold">Exemplo traduzido</p>
+                <button 
+                  onClick={(e) => handleLocalPlay(data.exampleSentence, false, e)}
+                  disabled={playingSource !== null}
+                  className="p-1 rounded-full bg-white/10 hover:bg-white/20 border border-white/20 text-indigo-200 transition-all"
+                >
+                  <Zap size={12} className={playingSource === 'local' ? "fill-current text-amber-400" : ""} />
+                </button>
+              </div>
+              <p className="text-indigo-100 text-sm font-medium mb-2 opacity-80">
+                "{data.exampleSentence}"
+              </p>
+              <p className="text-white text-lg font-bold italic leading-relaxed">
                 "{data.exampleTranslation}"
               </p>
             </div>
+
+            {/* Grammar Explanation Block */}
+            {data.grammarExplanation && (
+              <div className="w-full flex flex-col items-center gap-2 shrink-0">
+                {!showGrammar ? (
+                  <button 
+                    onClick={(e) => { e.stopPropagation(); setShowGrammar(true); }}
+                    className="flex items-center gap-2 px-4 py-2 bg-white/10 hover:bg-white/20 border border-white/20 rounded-xl text-xs font-bold uppercase tracking-wider transition-all"
+                  >
+                    <Sparkles size={14} /> Ver Gramática
+                  </button>
+                ) : (
+                  <div className="w-full bg-white/10 dark:bg-slate-900/40 p-4 rounded-2xl border border-white/10 dark:border-slate-700/50 animate-in fade-in slide-in-from-bottom-2 duration-300">
+                    <p className="text-indigo-200 text-xs uppercase font-bold mb-2 flex items-center justify-center gap-1">
+                      <Sparkles size={12} /> Gramática
+                    </p>
+                    <p className="text-white text-sm leading-relaxed font-light">
+                      {data.grammarExplanation}
+                    </p>
+                  </div>
+                )}
+              </div>
+            )}
             
-            <p className="text-indigo-300 text-sm mt-4 animate-pulse">Toque para voltar</p>
+            <p className="text-indigo-300 text-sm mt-2 animate-pulse shrink-0">Toque para voltar</p>
           </div>
         </div>
 

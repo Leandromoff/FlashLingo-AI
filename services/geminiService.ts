@@ -1,12 +1,39 @@
 import { GoogleGenAI, Type, Modality } from "@google/genai";
-import { FlashcardData, PronunciationResult, SupportedLanguage, StoryData } from "../types";
+import { FlashcardData, SupportedLanguage } from "../types";
 
 // Initialize the Gemini client
-// Note: The API key is expected to be in process.env.API_KEY
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+// Always use process.env.GEMINI_API_KEY for the Gemini API.
+const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
 // Helper: Wait function for delays
 const wait = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
+
+// Helper: Robust JSON cleaning and parsing
+const cleanAndParseJSON = (text: string): any => {
+  if (!text) throw new Error("Empty response from AI");
+  
+  let cleanText = text.trim();
+  
+  // Find the first '[' or '{' to ignore any intro text
+  const firstBracket = cleanText.search(/\[|\{/);
+  const lastBracket = Math.max(cleanText.lastIndexOf(']'), cleanText.lastIndexOf('}'));
+
+  if (firstBracket !== -1 && lastBracket !== -1 && lastBracket > firstBracket) {
+    cleanText = cleanText.substring(firstBracket, lastBracket + 1);
+  } else {
+      // Fallback: Remove markdown code blocks if the regex above didn't catch it
+      if (cleanText.startsWith("```")) {
+        cleanText = cleanText.replace(/^```(json)?\n?/, "").replace(/\n?```$/, "");
+      }
+  }
+  
+  try {
+    return JSON.parse(cleanText);
+  } catch (e) {
+    console.error("JSON Parse Error. Raw Text:", text, "Cleaned Text:", cleanText);
+    throw new Error("Failed to parse AI response as JSON");
+  }
+};
 
 // Helper: Retry Logic for API calls (Exponential Backoff)
 const retryApiCall = async <T>(fn: () => Promise<T>, retries = 3, baseDelay = 2000): Promise<T> => {
@@ -40,20 +67,26 @@ const retryApiCall = async <T>(fn: () => Promise<T>, retries = 3, baseDelay = 20
 
 const getCefrDescription = (level: number): string => {
   switch (level) {
-    case 1: return "CEFR A1 (Beginner) - Basic survival vocabulary, simple concrete nouns/verbs.";
-    case 2: return "CEFR A2 (Elementary) - Routine descriptions, common social phrases.";
+    case 1: return "CEFR A1 (Elementary) - Basic survival vocabulary, simple concrete nouns/verbs.";
+    case 2: return "CEFR A2 (Pre-intermediate) - Routine descriptions, common social phrases.";
     case 3: return "CEFR B1 (Intermediate) - Opinions, unexpected situations, connected text.";
-    case 4: return "CEFR B1+ (Upper Intermediate) - Specific technical terms, more complex abstract ideas.";
-    case 5: return "CEFR B2 (Advanced) - Idioms, phrasal verbs, native-level nuance and slang.";
-    case 6: return "CEFR C1 (Proficient) - Complex, structured, and implicit meaning. Academic or professional fluency.";
-    default: return "CEFR A1 (Beginner)";
+    case 4: return "CEFR B1+ (Intermediate Plus) - Specific technical terms, more complex abstract ideas.";
+    case 5: return "CEFR B2 (Upper Intermediate) - Idioms, phrasal verbs, native-level nuance and slang.";
+    case 6: return "CEFR C1 (Advanced) - Complex, structured, and implicit meaning. Academic or professional fluency.";
+    default: return "CEFR A1 (Elementary)";
   }
 };
 
-export const generateFlashcards = async (topic: string, difficultyLevel: number = 1, excludedWords: string[] = [], language: SupportedLanguage = 'en'): Promise<FlashcardData[]> => {
+export const generateFlashcards = async (
+  topic: string, 
+  difficultyLevel: number = 1, 
+  excludedWords: string[] = [], 
+  language: SupportedLanguage = 'en'
+): Promise<FlashcardData[]> => {
   return retryApiCall(async () => {
     try {
-      const modelId = "gemini-2.5-flash";
+      const modelId = "gemini-3-flash-preview";
+      const itemCount = 10;
       
       let targetLangName = 'English';
       let phoneticExample = "'night' -> 'nait', 'teacher' -> 'tí-tcher'";
@@ -87,22 +120,24 @@ export const generateFlashcards = async (topic: string, difficultyLevel: number 
       const levelStrategy = getCefrDescription(difficultyLevel);
 
       const prompt = `You are an expert ${targetLangName} curriculum designer acting as an API. 
-      Create a vocabulary deck for the topic: "${topic}".
+      Create a flashcard deck for the topic: "${topic}".
       
       TARGET LEVEL: ${levelStrategy}
+      MODE: GENERAL TOPIC
       
       ${excludedList}
 
       TASK:
-      1. Generate a list of 10 DISTINCT ${targetLangName} words or short phrases specifically matching the TARGET LEVEL described above.
+      1. Generate a list of ${itemCount} DISTINCT ${targetLangName} items specifically matching the TARGET LEVEL and MODE described above.
       2. VERIFY against the NEGATIVE FILTER. Do not output words that are in the excluded list.
-      3. For each word, provide:
+      3. For each item, provide:
          - Portuguese translation.
          - Standard Phonetic pronunciation (IPA).
          - Portuguese-style phonetic transcription (how a Brazilian would read it to sound like ${targetLangName}, e.g., ${phoneticExample}).
-         - The word split into syllables (e.g., ["fan", "tas", "tic"]).
+         - The item split into syllables (e.g., ["fan", "tas", "tic"]).
          - An example sentence in ${targetLangName} (matching the complexity of the Target Level).
-         - Portuguese translation of the sentence.`;
+         - Portuguese translation of the sentence.
+         - A short Grammatical Explanation in Portuguese (explain why this word/phrase is used here, or the rule behind it).`;
 
       const response = await ai.models.generateContent({
         model: modelId,
@@ -114,7 +149,7 @@ export const generateFlashcards = async (topic: string, difficultyLevel: number 
             items: {
               type: Type.OBJECT,
               properties: {
-                word: { type: Type.STRING, description: `The ${targetLangName} word or phrase (MUST NOT be in excluded list)` },
+                word: { type: Type.STRING, description: `The ${targetLangName} word, phrase, or grammar point` },
                 translation: { type: Type.STRING, description: "Portuguese translation" },
                 pronunciation: { type: Type.STRING, description: "Standard pronunciation (IPA)" },
                 portuguesePhonetic: { type: Type.STRING, description: `Phonetic transcription adapted for Portuguese speakers learning ${targetLangName}` },
@@ -125,19 +160,16 @@ export const generateFlashcards = async (topic: string, difficultyLevel: number 
                 },
                 exampleSentence: { type: Type.STRING, description: `Example sentence in ${targetLangName}` },
                 exampleTranslation: { type: Type.STRING, description: "Portuguese translation of the example sentence" },
+                grammarExplanation: { type: Type.STRING, description: "Brief grammatical explanation or usage note in Portuguese" },
               },
-              required: ["word", "translation", "pronunciation", "portuguesePhonetic", "syllables", "exampleSentence", "exampleTranslation"],
+              required: ["word", "translation", "pronunciation", "portuguesePhonetic", "syllables", "exampleSentence", "exampleTranslation", "grammarExplanation"],
             },
           },
         },
       });
 
       const text = response.text;
-      if (!text) {
-        throw new Error("No data received from Gemini.");
-      }
-
-      const rawData = JSON.parse(text);
+      const rawData = cleanAndParseJSON(text);
 
       // Add IDs to the cards
       const cards: FlashcardData[] = rawData.map((item: any, index: number) => ({
@@ -148,7 +180,8 @@ export const generateFlashcards = async (topic: string, difficultyLevel: number 
         portuguesePhonetic: item.portuguesePhonetic || item.pronunciation, // Fallback
         syllables: item.syllables || [item.word], // Fallback
         exampleSentence: item.exampleSentence,
-        exampleTranslation: item.exampleTranslation
+        exampleTranslation: item.exampleTranslation,
+        grammarExplanation: item.grammarExplanation
       }));
 
       return cards;
@@ -160,63 +193,60 @@ export const generateFlashcards = async (topic: string, difficultyLevel: number 
   });
 };
 
-export const generateContextualStory = async (words: string[], language: SupportedLanguage = 'en'): Promise<StoryData> => {
-    return retryApiCall(async () => {
-        const modelId = "gemini-2.5-flash";
-        
-        let targetLangName = 'English';
-        switch (language) {
-          case 'es': targetLangName = 'Spanish'; break;
-          case 'fr': targetLangName = 'French'; break;
-          case 'it': targetLangName = 'Italian'; break;
-          case 'de': targetLangName = 'German'; break;
-        }
-
-        const prompt = `
-        You are a creative writer for language learners.
-        
-        TASK:
-        Write a SHORT, FUNNY, and COHERENT story or dialogue (50-100 words) in ${targetLangName} that incorporates ALL of the following words:
-        [${words.join(', ')}]
-
-        REQUIREMENTS:
-        1. The story must make sense but should be amusing.
-        2. Highlight the usage of the provided words naturally.
-        3. Provide a Title in ${targetLangName}.
-        4. Provide a full translation of the story in PORTUGUESE (Brazil).
-
-        CRITICAL: The 'translation' field MUST be in Portuguese (Brazil), NOT in ${targetLangName}.
-
-        Return JSON.
-        `;
-
-        const response = await ai.models.generateContent({
-            model: modelId,
-            contents: prompt,
-            config: {
-                responseMimeType: "application/json",
-                responseSchema: {
-                    type: Type.OBJECT,
-                    properties: {
-                        title: { type: Type.STRING },
-                        content: { type: Type.STRING, description: `The story text in ${targetLangName}` },
-                        translation: { type: Type.STRING, description: "The full story translated to Portuguese (Brazil)" }
-                    },
-                    required: ["title", "content", "translation"]
-                }
-            }
-        });
-
-        const text = response.text;
-        if (!text) throw new Error("No data received for story.");
-        
-        return JSON.parse(text) as StoryData;
-    });
-};
-
 // Audio Context Singleton and Cache
 let audioContext: AudioContext | null = null;
+// Updated Cache: Key is now "language_text" to prevent cross-language cache collisions
 const audioCache = new Map<string, AudioBuffer>();
+
+// --- PERSISTENT CACHE (IndexedDB) ---
+const DB_NAME = 'FlashLingoAudioCache';
+const STORE_NAME = 'audios';
+const DB_VERSION = 1;
+
+const openDB = (): Promise<IDBDatabase> => {
+  return new Promise((resolve, reject) => {
+    const request = indexedDB.open(DB_NAME, DB_VERSION);
+    request.onupgradeneeded = () => {
+      const db = request.result;
+      if (!db.objectStoreNames.contains(STORE_NAME)) {
+        db.createObjectStore(STORE_NAME);
+      }
+    };
+    request.onsuccess = () => resolve(request.result);
+    request.onerror = () => reject(request.error);
+  });
+};
+
+const getFromDB = async (key: string): Promise<Uint8Array | null> => {
+  try {
+    const db = await openDB();
+    return new Promise((resolve, reject) => {
+      const transaction = db.transaction(STORE_NAME, 'readonly');
+      const store = transaction.objectStore(STORE_NAME);
+      const request = store.get(key);
+      request.onsuccess = () => resolve(request.result || null);
+      request.onerror = () => reject(request.error);
+    });
+  } catch (e) {
+    console.debug('IndexedDB read skipped:', e);
+    return null;
+  }
+};
+
+const saveToDB = async (key: string, data: Uint8Array): Promise<void> => {
+  try {
+    const db = await openDB();
+    return new Promise((resolve, reject) => {
+      const transaction = db.transaction(STORE_NAME, 'readwrite');
+      const store = transaction.objectStore(STORE_NAME);
+      const request = store.put(data, key);
+      request.onsuccess = () => resolve();
+      request.onerror = () => reject(request.error);
+    });
+  } catch (e) {
+    console.warn('IndexedDB write error:', e);
+  }
+};
 
 const getAudioContext = () => {
   if (!audioContext) {
@@ -225,20 +255,44 @@ const getAudioContext = () => {
   return audioContext;
 };
 
+// Helper: Create AudioBuffer from raw PCM bytes (Int16)
+const createBufferFromBytes = (ctx: AudioContext, bytes: Uint8Array): AudioBuffer => {
+  const dataInt16 = new Int16Array(bytes.buffer);
+  const buffer = ctx.createBuffer(1, dataInt16.length, 24000);
+  const channelData = buffer.getChannelData(0);
+  
+  // Normalize Int16 to Float32 [-1.0, 1.0]
+  for (let i = 0; i < dataInt16.length; i++) {
+    channelData[i] = dataInt16[i] / 32768.0;
+  }
+  return buffer;
+};
+
 // Helper: Fetch and Cache Audio Buffer (Does not play)
-const fetchAndCacheAudio = async (text: string): Promise<AudioBuffer> => {
+const fetchAndCacheAudio = async (text: string, language: SupportedLanguage = 'en'): Promise<AudioBuffer> => {
   const ctx = getAudioContext();
 
   if (!text || !text.trim()) {
     throw new Error("Text is empty");
   }
 
-  // Check Cache first
-  if (audioCache.has(text)) {
-    return audioCache.get(text)!;
+  // Generate cache key
+  const cacheKey = `${language}_${text}`;
+
+  // 1. Check Memory Cache first
+  if (audioCache.has(cacheKey)) {
+    return audioCache.get(cacheKey)!;
   }
 
-  // Request audio generation from Gemini with Retry
+  // 2. Check Persistent Cache (IndexedDB)
+  const persistedBytes = await getFromDB(cacheKey);
+  if (persistedBytes) {
+    const buffer = createBufferFromBytes(ctx, persistedBytes);
+    audioCache.set(cacheKey, buffer);
+    return buffer;
+  }
+
+  // 3. Request audio generation from Gemini with Retry
   const response = await retryApiCall(async () => {
     return await ai.models.generateContent({
       model: "gemini-2.5-flash-preview-tts",
@@ -272,27 +326,28 @@ const fetchAndCacheAudio = async (text: string): Promise<AudioBuffer> => {
     bytes[i] = binaryString.charCodeAt(i);
   }
 
-  // Create AudioBuffer from PCM data (Int16)
-  const dataInt16 = new Int16Array(bytes.buffer);
-  const buffer = ctx.createBuffer(1, dataInt16.length, 24000);
-  const channelData = buffer.getChannelData(0);
-  
-  // Normalize Int16 to Float32 [-1.0, 1.0]
-  for (let i = 0; i < dataInt16.length; i++) {
-    channelData[i] = dataInt16[i] / 32768.0;
-  }
+  // Create AudioBuffer
+  const buffer = createBufferFromBytes(ctx, bytes);
 
-  // Store in cache
-  audioCache.set(text, buffer);
+  // Store in Memory Cache
+  audioCache.set(cacheKey, buffer);
+  
+  // Store in Persistent Cache (IndexedDB) - fire and forget
+  saveToDB(cacheKey, bytes).catch(err => console.warn("Failed to persist audio:", err));
   
   return buffer;
 };
 
 // --- CLOUD AUDIO (GEMINI) ---
 // Added onPlayStart callback to provide duration
-export const playCloudAudio = async (text: string, onPlayStart?: (duration: number) => void, playbackRate: number = 1.0): Promise<void> => {
+export const playCloudAudio = async (
+  text: string, 
+  onPlayStart?: (duration: number) => void, 
+  playbackRate: number = 1.0,
+  language: SupportedLanguage = 'en'
+): Promise<void> => {
   try {
-    const buffer = await fetchAndCacheAudio(text);
+    const buffer = await fetchAndCacheAudio(text, language);
     if (onPlayStart) {
       // Adjusted duration = actual duration / rate (e.g., 10s / 0.5 = 20s)
       onPlayStart(buffer.duration / playbackRate);
@@ -301,15 +356,15 @@ export const playCloudAudio = async (text: string, onPlayStart?: (duration: numb
   } catch (error) {
     console.error("Gemini TTS Error (showing local fallback):", error);
     // Fallback if cloud fails even after retries
-    await playLocalAudio(text, 'en', onPlayStart, undefined, playbackRate);
+    await playLocalAudio(text, language, onPlayStart, undefined, playbackRate);
   }
 };
 
 // --- PRELOAD CLOUD AUDIO (Background Fetch) ---
-export const preloadCloudAudio = (text: string): void => {
+export const preloadCloudAudio = (text: string, language: SupportedLanguage = 'en'): void => {
   if (!text) return;
   // Fire and forget - triggers fetch to populate cache
-  fetchAndCacheAudio(text).catch(err => {
+  fetchAndCacheAudio(text, language).catch(err => {
     // Silently fail for preloads, legitimate plays will handle errors
     console.debug("Preload failed (silent):", err);
   });
@@ -389,7 +444,10 @@ export const playLocalAudio = (
     };
 
     utterance.onerror = (e) => {
-      console.error("Speech Error:", e);
+      // Ignore 'interrupted' as it's a normal behavior when we cancel previous speech
+      if (e.error !== 'interrupted') {
+        console.error("Speech Error:", e.error);
+      }
       activeUtterance = null; // Clean up reference
       resolve(); // Resolve even on error to unblock UI
     };
@@ -420,89 +478,4 @@ const playBuffer = (ctx: AudioContext, buffer: AudioBuffer, playbackRate: number
 
     source.start();
   });
-};
-
-// --- PRONUNCIATION EVALUATION ---
-
-// Helper to convert Blob to Base64 string
-const blobToBase64 = (blob: Blob): Promise<string> => {
-  return new Promise((resolve, reject) => {
-    const reader = new FileReader();
-    reader.readAsDataURL(blob);
-    reader.onloadend = () => {
-      const base64data = reader.result as string;
-      // Remove the Data URL prefix (e.g., "data:audio/webm;base64,")
-      const base64Content = base64data.split(',')[1];
-      resolve(base64Content);
-    };
-    reader.onerror = reject;
-  });
-};
-
-export const evaluatePronunciation = async (audioBlob: Blob, targetText: string, language: SupportedLanguage = 'en'): Promise<PronunciationResult> => {
-  try {
-    const base64Audio = await blobToBase64(audioBlob);
-    const mimeType = audioBlob.type || 'audio/webm';
-    
-    let targetLangName = 'English';
-    switch (language) {
-      case 'es': targetLangName = 'Spanish'; break;
-      case 'fr': targetLangName = 'French'; break;
-      case 'it': targetLangName = 'Italian'; break;
-      case 'de': targetLangName = 'German'; break;
-    }
-
-    const prompt = `
-      Act as a STRICT ${targetLangName} Phonetics Coach.
-      Analyze the attached audio file where a user attempts to say: "${targetText}".
-      
-      CRITICAL SCORING RULES:
-      1. **SILENCE/NOISE CHECK**: If the audio is silent, contains only background noise, or the user says nothing resembling a word, YOU MUST RETURN SCORE: 0.
-      2. **PHONETIC ANALYSIS**: Compare the user's spoken phonemes directly against the standard pronunciation for "${targetText}".
-      3. **SCORING SCALE**:
-         - **0**: Silêncio ou palavra errada.
-         - **1-39**: Erros graves de fonemas (som errado).
-         - **40-69**: Compreensível, mas com sotaque forte.
-         - **70-100**: Pronúncia nativa.
-
-      Return ONLY valid JSON.
-    `;
-
-    // Wrap evaluation in retry logic
-    const response = await retryApiCall(async () => {
-      return await ai.models.generateContent({
-        model: "gemini-2.5-flash",
-        contents: {
-          parts: [
-            { inlineData: { mimeType, data: base64Audio } },
-            { text: prompt }
-          ]
-        },
-        config: {
-          responseMimeType: "application/json",
-          responseSchema: {
-            type: Type.OBJECT,
-            properties: {
-              score: { type: Type.NUMBER, description: "Score from 0 to 100. 0 if silent." },
-              feedback: { type: Type.STRING, description: "Concise feedback in Portuguese" }
-            },
-            required: ["score", "feedback"]
-          }
-        }
-      });
-    }, 2, 1500); // Fewer retries for eval to avoid long waits on UI
-
-    const resultText = response.text;
-    if (!resultText) throw new Error("No result from evaluation");
-    
-    return JSON.parse(resultText) as PronunciationResult;
-
-  } catch (error) {
-    console.error("Pronunciation eval error:", error);
-    // If all retries fail, return a neutral/error state rather than crashing
-    return {
-      score: 0,
-      feedback: "Erro de conexão. Tente novamente."
-    };
-  }
 };
