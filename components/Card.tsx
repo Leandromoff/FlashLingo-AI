@@ -7,7 +7,6 @@ interface CardProps {
   data: FlashcardData;
   isFlipped: boolean;
   onFlip: () => void;
-  enableKaraoke: boolean;
   targetLanguage: SupportedLanguage;
   onStudy: () => void;
   onKnow: () => void;
@@ -19,13 +18,13 @@ const Card: React.FC<CardProps> = ({
   data, 
   isFlipped, 
   onFlip, 
-  enableKaraoke, 
   targetLanguage,
   onStudy,
   onKnow
 }) => {
   const [playingSource, setPlayingSource] = useState<AudioSource>(null);
   const [activeSyllableIndex, setActiveSyllableIndex] = useState<number>(-1);
+  const [activeWordIndex, setActiveWordIndex] = useState<number>(-1);
   const [showGrammar, setShowGrammar] = useState<boolean>(false);
 
   // Refs for animation and mounting status
@@ -33,6 +32,7 @@ const Card: React.FC<CardProps> = ({
   const durationRef = useRef<number>(0);
   const animationFrameRef = useRef<number>(0);
   const isMounted = useRef<boolean>(true);
+  const currentTextType = useRef<'word' | 'sentence'>('word');
 
   // Track component mount status
   useEffect(() => {
@@ -50,41 +50,53 @@ const Card: React.FC<CardProps> = ({
   }, []);
 
   // Function to handle frame updates for karaoke effect
-  const animateSyllables = () => {
+  const animateKaraoke = () => {
     if (!isMounted.current) return;
     const now = performance.now();
     const elapsed = (now - startTimeRef.current) / 1000; // in seconds
     const progress = Math.min(1, elapsed / durationRef.current);
     
-    // Calculate which syllable should be active based on linear time distribution
-    const syllables = data.syllables && data.syllables.length > 0 ? data.syllables : [data.word];
-    const totalSyllables = syllables.length;
-    
-    if (progress < 1) {
-      const currentIndex = Math.floor(progress * totalSyllables);
-      setActiveSyllableIndex(currentIndex);
-      animationFrameRef.current = requestAnimationFrame(animateSyllables);
+    if (currentTextType.current === 'word') {
+      const syllables = data.syllables && data.syllables.length > 0 ? data.syllables : [data.word];
+      const totalSyllables = syllables.length;
+      
+      if (progress < 1) {
+        const currentIndex = Math.floor(progress * totalSyllables);
+        setActiveSyllableIndex(currentIndex);
+        animationFrameRef.current = requestAnimationFrame(animateKaraoke);
+      } else {
+        setActiveSyllableIndex(-1);
+      }
     } else {
-      setActiveSyllableIndex(-1);
+      const words = data.exampleSentence.split(/\s+/);
+      const totalWords = words.length;
+      
+      if (progress < 1) {
+        const currentIndex = Math.floor(progress * totalWords);
+        setActiveWordIndex(currentIndex);
+        animationFrameRef.current = requestAnimationFrame(animateKaraoke);
+      } else {
+        setActiveWordIndex(-1);
+      }
     }
   };
 
-  const startKaraoke = (duration: number) => {
-    if (!enableKaraoke || !isMounted.current) return;
+  const startKaraoke = (duration: number, type: 'word' | 'sentence' = 'word') => {
+    if (!isMounted.current) return;
 
     if (animationFrameRef.current) cancelAnimationFrame(animationFrameRef.current);
     
+    currentTextType.current = type;
     startTimeRef.current = performance.now();
     durationRef.current = duration;
     
-    if (data.syllables && data.syllables.length > 0) {
-        animateSyllables();
-    }
+    animateKaraoke();
   };
 
   // Pre-load cloud audio when card changes
   useEffect(() => {
     setActiveSyllableIndex(-1);
+    setActiveWordIndex(-1);
     setShowGrammar(false);
 
     if (!isFlipped) {
@@ -102,17 +114,12 @@ const Card: React.FC<CardProps> = ({
 
     if (isMounted.current) setPlayingSource('cloud');
     try {
-      await playCloudAudio(text, (duration) => {
-        if (isMainWord && isMounted.current) {
-            startKaraoke(duration);
-        }
-      }, 1.0, targetLanguage);
+      await playCloudAudio(text, undefined, 1.0, targetLanguage);
     } catch (error) {
       console.error("Cloud speech failed", error);
     } finally {
       if (isMounted.current) {
         setPlayingSource(null);
-        setActiveSyllableIndex(-1);
       }
     }
   };
@@ -123,15 +130,10 @@ const Card: React.FC<CardProps> = ({
     
     if (isMounted.current) setPlayingSource('local');
     try {
-      await playLocalAudio(text, targetLanguage, (duration) => {
-        if (isMainWord && isMounted.current) {
-            startKaraoke(duration);
-        }
-      });
+      await playLocalAudio(text, targetLanguage, undefined);
     } finally {
       if (isMounted.current) {
         setPlayingSource(null);
-        setActiveSyllableIndex(-1);
       }
     }
   };
@@ -142,12 +144,12 @@ const Card: React.FC<CardProps> = ({
     
     if (isMounted.current) setPlayingSource('visual');
     try {
-      // Estimate duration based on word count, similar to playLocalAudio
+      // Estimate duration based on word count
       const wordCount = text.split(/\s+/).length;
       const estimatedDuration = Math.max(1.0, wordCount * 0.5);
       
-      if (isMainWord && isMounted.current) {
-          startKaraoke(estimatedDuration);
+      if (isMounted.current) {
+          startKaraoke(estimatedDuration, isMainWord ? 'word' : 'sentence');
       }
       
       // Wait for the estimated duration
@@ -156,8 +158,29 @@ const Card: React.FC<CardProps> = ({
       if (isMounted.current) {
         setPlayingSource(null);
         setActiveSyllableIndex(-1);
+        setActiveWordIndex(-1);
       }
     }
+  };
+
+  const renderSentence = () => {
+    const words = data.exampleSentence.split(/\s+/);
+    return (
+      <p className="text-indigo-100 text-sm font-medium mb-2 opacity-80 flex flex-wrap justify-center gap-x-1">
+        {words.map((word, i) => (
+          <span 
+            key={i} 
+            className={`transition-colors duration-75 px-0.5 rounded ${
+              activeWordIndex === i 
+              ? 'bg-amber-400 text-indigo-900 font-bold' 
+              : ''
+            }`}
+          >
+            {word}
+          </span>
+        ))}
+      </p>
+    );
   };
 
   const renderWord = () => {
@@ -325,20 +348,18 @@ const Card: React.FC<CardProps> = ({
                 </button>
 
                 {/* Visual Karaoke */}
-                {enableKaraoke && (
-                  <button 
-                    onClick={(e) => handleVisualKaraoke(data.word, true, e)}
-                    disabled={playingSource !== null}
-                    className={`flex items-center justify-center w-10 h-10 rounded-full transition-colors border ${
-                      playingSource === 'visual'
-                        ? 'bg-emerald-100 dark:bg-emerald-900/30 text-emerald-600 dark:text-emerald-500 border-emerald-200 dark:border-emerald-800/50 shadow-inner'
-                        : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
-                    }`}
-                    title="Leitura Guiada (Sem Áudio)"
-                  >
-                    <Eye size={18} className={playingSource === 'visual' ? "fill-current" : ""} />
-                  </button>
-                )}
+                <button 
+                  onClick={(e) => handleVisualKaraoke(data.word, true, e)}
+                  disabled={playingSource !== null}
+                  className={`flex items-center justify-center w-10 h-10 rounded-full transition-colors border ${
+                    playingSource === 'visual'
+                      ? 'bg-emerald-100 dark:bg-emerald-900/30 text-emerald-600 dark:text-emerald-500 border-emerald-200 dark:border-emerald-800/50 shadow-inner'
+                      : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
+                  }`}
+                  title="Leitura Guiada (Sem Áudio)"
+                >
+                  <Eye size={18} className={playingSource === 'visual' ? "fill-current" : ""} />
+                </button>
               </div>
             </div>
           </div>
@@ -400,17 +421,29 @@ const Card: React.FC<CardProps> = ({
             <div className="w-full bg-indigo-800/30 dark:bg-slate-900/20 p-4 rounded-2xl shrink-0">
               <div className="flex justify-between items-center mb-2">
                 <p className="text-indigo-300 text-xs uppercase font-bold">Exemplo traduzido</p>
-                <button 
-                  onClick={(e) => handleLocalPlay(data.exampleSentence, false, e)}
-                  disabled={playingSource !== null}
-                  className="p-1 rounded-full bg-white/10 hover:bg-white/20 border border-white/20 text-indigo-200 transition-all"
-                >
-                  <Zap size={12} className={playingSource === 'local' ? "fill-current text-amber-400" : ""} />
-                </button>
+                <div className="flex gap-2">
+                  <button 
+                    onClick={(e) => handleVisualKaraoke(data.exampleSentence, false, e)}
+                    disabled={playingSource !== null}
+                    className={`p-1 rounded-full transition-all border ${
+                      playingSource === 'visual' 
+                        ? 'bg-emerald-400 text-indigo-900 border-emerald-300' 
+                        : 'bg-white/10 hover:bg-white/20 border-white/20 text-indigo-200'
+                    }`}
+                    title="Leitura Guiada"
+                  >
+                    <Eye size={12} className={playingSource === 'visual' ? "fill-current" : ""} />
+                  </button>
+                  <button 
+                    onClick={(e) => handleLocalPlay(data.exampleSentence, false, e)}
+                    disabled={playingSource !== null}
+                    className="p-1 rounded-full bg-white/10 hover:bg-white/20 border border-white/20 text-indigo-200 transition-all"
+                  >
+                    <Zap size={12} className={playingSource === 'local' ? "fill-current text-amber-400" : ""} />
+                  </button>
+                </div>
               </div>
-              <p className="text-indigo-100 text-sm font-medium mb-2 opacity-80">
-                "{data.exampleSentence}"
-              </p>
+              {renderSentence()}
               <p className="text-white text-lg font-bold italic leading-relaxed">
                 "{data.exampleTranslation}"
               </p>

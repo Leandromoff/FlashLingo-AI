@@ -76,7 +76,6 @@ const App: React.FC = () => {
   const [activeSessions, setActiveSessions] = useLocalStorage<Record<string, StudySession>>('flashlingo_active_sessions', {});
 
   // Preferences
-  const [enableKaraoke, setEnableKaraoke] = useLocalStorage<boolean>('flashlingo_enable_karaoke', false);
   const [isDarkMode, setIsDarkMode] = useLocalStorage<boolean>('flashlingo_dark_mode', true);
 
   // Dark Mode Effect
@@ -286,7 +285,6 @@ const App: React.FC = () => {
 
             <div className="flex gap-3">
                 <button onClick={() => setIsDarkMode(!isDarkMode)} title={isDarkMode ? 'Modo Claro' : 'Modo Escuro'} className={`flex items-center justify-center p-2 w-10 h-10 rounded-full transition-all border ${isDarkMode ? 'bg-slate-800 text-yellow-400 border-slate-700 hover:bg-slate-700' : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50'}`}>{isDarkMode ? <Sun size={20} /> : <Moon size={20} />}</button>
-                <button onClick={() => setEnableKaraoke(!enableKaraoke)} title="Modo Karaokê" className={`flex items-center justify-center gap-2 px-4 py-2 rounded-full text-xs font-bold transition-all border ${enableKaraoke ? 'bg-indigo-100 dark:bg-indigo-900/50 text-indigo-700 dark:text-indigo-300 border-indigo-200 dark:border-indigo-800' : 'bg-white dark:bg-slate-800 text-slate-400 dark:text-slate-500 border-slate-200 dark:border-slate-700'}`}><Music2 size={16} /></button>
                 <button onClick={() => setIsDevMode(!isDevMode)} title={`Modo Teste`} className={`flex items-center justify-center gap-2 px-4 py-2 rounded-full text-xs font-bold transition-all border ${isDevMode ? 'bg-purple-600 text-white border-purple-700 shadow-md' : 'bg-white dark:bg-slate-800 text-slate-400 dark:text-slate-500 border-slate-200 dark:border-slate-700'}`}><FastForward size={16} /></button>
             </div>
           </div>
@@ -421,7 +419,7 @@ const App: React.FC = () => {
            <div className="w-8"></div>
         </div>
         <ProgressBar current={session.currentIndex} total={session.cards.length} />
-        <div className="w-full mb-10"><Card data={currentCard} isFlipped={isCardFlipped} onFlip={() => setIsCardFlipped(!isCardFlipped)} enableKaraoke={enableKaraoke} targetLanguage={session.language} onStudy={() => handleCardResult(false)} onKnow={() => handleCardResult(true)} /></div>
+        <div className="w-full mb-10"><Card data={currentCard} isFlipped={isCardFlipped} onFlip={() => setIsCardFlipped(!isCardFlipped)} targetLanguage={session.language} onStudy={() => handleCardResult(false)} onKnow={() => handleCardResult(true)} /></div>
       </div>
     );
   };
