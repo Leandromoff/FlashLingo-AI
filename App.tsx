@@ -6,7 +6,7 @@ import Card from './components/Card';
 import ProgressBar from './components/ProgressBar';
 import { FlagUS, FlagES, FlagFR, FlagIT, FlagDE } from './components/Flags';
 import { useLocalStorage } from './hooks/useLocalStorage';
-import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, FastForward, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap } from 'lucide-react';
+import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, FastForward, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap, Wrench } from 'lucide-react';
 
 const CARDS_PER_DECK = 10;
 
@@ -290,98 +290,118 @@ const App: React.FC = () => {
           </div>
       </div>
 
-      <div className="w-full grid grid-cols-1 gap-4 mb-8">
-        {PREDEFINED_TOPICS.map((topic) => {
-          const key = getTopicKey(topic.id);
-          const learnedCount = (topicWords[key] || []).length;
-          const totalCards = (topic.isStatic && STATIC_DECKS[topic.id] && STATIC_DECKS[topic.id][targetLanguage]) 
-            ? STATIC_DECKS[topic.id][targetLanguage].length 
-            : CARDS_PER_DECK;
-          
-          const displayLearnedCount = isDevMode ? totalCards : learnedCount;
-          const progressPercent = Math.min(100, (displayLearnedCount / totalCards) * 100);
-          const reviewCount = (topicReviews[key] || []).length;
-          const activeSession = activeSessions[key];
-          const isComplete = displayLearnedCount >= totalCards && reviewCount === 0;
-          
-          return (
-            <div key={topic.id} className="relative bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl p-0 cursor-pointer shadow-sm hover:shadow-md transition-all hover:scale-[1.02] group overflow-hidden flex flex-col sm:flex-row">
-               {/* Left Side - Main Info */}
-               <div 
-                 onClick={() => activeSession ? resumeSession(topic.id) : (isComplete ? null : (reviewCount > 0 ? startSession(topic.label, topic.id, true) : startSession(topic.label, topic.id)))}
-                 className="flex-1 p-5 flex items-center justify-between"
-               >
-                   <div className="absolute bottom-0 left-0 h-1 bg-slate-100 dark:bg-slate-700 w-full"><div className="h-full bg-indigo-500 transition-all duration-1000" style={{ width: `${progressPercent}%` }} /></div>
-                   <div className="flex items-center w-full">
-                    <div className="w-full">
-                        <div className="flex items-center mb-1">
-                        <span className="font-bold text-slate-800 dark:text-white text-lg mr-2 group-hover:text-indigo-700 dark:group-hover:text-indigo-400">{topic.label}</span>
-                        <span className="text-xs font-bold bg-indigo-50 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border border-indigo-100 dark:border-indigo-800 px-2 py-1 rounded-lg">
-                          {isComplete ? '100% CONCLUÍDO' : `${displayLearnedCount} / ${totalCards}`}
-                        </span>
+      {targetLanguage !== 'en' ? (
+        <div className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-3xl p-10 flex flex-col items-center justify-center text-center mt-4">
+          <div className="bg-amber-100 dark:bg-amber-900/30 p-5 rounded-full mb-5">
+            <Wrench className="text-amber-600 dark:text-amber-400" size={40} />
+          </div>
+          <h2 className="text-2xl font-bold text-slate-800 dark:text-white mb-3">Em Construção</h2>
+          <p className="text-slate-500 dark:text-slate-400 max-w-md">
+            O aprendizado para este idioma estará disponível em breve! Estamos trabalhando a todo vapor para trazer os melhores conteúdos e cards adaptados.
+          </p>
+          <button 
+            onClick={() => setTargetLanguage('en')}
+            className="mt-8 px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-bold rounded-xl transition-colors shadow-sm"
+          >
+            Voltar para o Inglês
+          </button>
+        </div>
+      ) : (
+        <>
+          <div className="w-full grid grid-cols-1 gap-4 mb-8">
+            {PREDEFINED_TOPICS.map((topic) => {
+              const key = getTopicKey(topic.id);
+              const learnedCount = (topicWords[key] || []).length;
+              const totalCards = (topic.isStatic && STATIC_DECKS[topic.id] && STATIC_DECKS[topic.id][targetLanguage]) 
+                ? STATIC_DECKS[topic.id][targetLanguage].length 
+                : CARDS_PER_DECK;
+              
+              const displayLearnedCount = isDevMode ? totalCards : learnedCount;
+              const progressPercent = Math.min(100, (displayLearnedCount / totalCards) * 100);
+              const reviewCount = (topicReviews[key] || []).length;
+              const activeSession = activeSessions[key];
+              const isComplete = displayLearnedCount >= totalCards && reviewCount === 0;
+              
+              return (
+                <div key={topic.id} className="relative bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl p-0 cursor-pointer shadow-sm hover:shadow-md transition-all hover:scale-[1.02] group overflow-hidden flex flex-col sm:flex-row">
+                   {/* Left Side - Main Info */}
+                   <div 
+                     onClick={() => activeSession ? resumeSession(topic.id) : (isComplete ? null : (reviewCount > 0 ? startSession(topic.label, topic.id, true) : startSession(topic.label, topic.id)))}
+                     className="flex-1 p-5 flex items-center justify-between"
+                   >
+                       <div className="absolute bottom-0 left-0 h-1 bg-slate-100 dark:bg-slate-700 w-full"><div className="h-full bg-indigo-500 transition-all duration-1000" style={{ width: `${progressPercent}%` }} /></div>
+                       <div className="flex items-center w-full">
+                        <div className="w-full">
+                            <div className="flex items-center mb-1">
+                            <span className="font-bold text-slate-800 dark:text-white text-lg mr-2 group-hover:text-indigo-700 dark:group-hover:text-indigo-400">{topic.label}</span>
+                            <span className="text-xs font-bold bg-indigo-50 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border border-indigo-100 dark:border-indigo-800 px-2 py-1 rounded-lg">
+                              {isComplete ? '100% CONCLUÍDO' : `${displayLearnedCount} / ${totalCards}`}
+                            </span>
+                            </div>
+                            <div className="flex gap-3 text-sm min-h-[1.25rem]">{reviewCount > 0 && (<span className="text-amber-500 dark:text-amber-400 font-bold flex items-center gap-1 text-xs animate-pulse"><Star size={12} className="fill-current" />{reviewCount} para revisar</span>)}</div>
                         </div>
-                        <div className="flex gap-3 text-sm min-h-[1.25rem]">{reviewCount > 0 && (<span className="text-amber-500 dark:text-amber-400 font-bold flex items-center gap-1 text-xs animate-pulse"><Star size={12} className="fill-current" />{reviewCount} para revisar</span>)}</div>
-                    </div>
-                    </div>
-               </div>
+                        </div>
+                   </div>
 
-               {/* Right Side - Actions */}
-               <div className="flex items-center border-t sm:border-t-0 sm:border-l border-slate-100 dark:border-slate-700 bg-slate-50/50 dark:bg-slate-900/20">
-                    {activeSession ? (
-                        <>
-                            <button 
-                                onClick={(e) => resetProgress(topic.id, e)} 
-                                className="h-full px-4 py-3 sm:py-0 text-slate-300 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 transition-colors flex items-center justify-center border-r border-slate-100 dark:border-slate-700" 
-                                title="Reiniciar Progresso"
-                            >
-                                <RotateCcw size={18} />
-                            </button>
-                            <button 
-                                onClick={(e) => { e.stopPropagation(); resumeSession(topic.id); }}
-                                className="h-full w-full sm:w-auto px-6 py-3 sm:py-0 bg-amber-500 hover:bg-amber-600 text-white font-bold transition-colors flex items-center justify-center gap-2"
-                            >
-                                Continuar ({activeSession.currentIndex}/{activeSession.cards.length})
-                            </button>
-                        </>
-                    ) : isComplete ? (
-                        <button 
-                            onClick={(e) => resetProgress(topic.id, e)} 
-                            className="h-full px-6 py-3 sm:py-0 text-green-600 hover:text-green-700 bg-green-50 hover:bg-green-100 dark:bg-green-900/20 dark:hover:bg-green-900/40 transition-colors flex items-center justify-center gap-2 font-bold" 
-                            title="Reiniciar Progresso"
-                        >
-                            <Trophy size={18} /> Concluído
-                        </button>
-                    ) : (
-                        <>
-                            {(displayLearnedCount > 0 || reviewCount > 0) && (
+                   {/* Right Side - Actions */}
+                   <div className="flex items-center border-t sm:border-t-0 sm:border-l border-slate-100 dark:border-slate-700 bg-slate-50/50 dark:bg-slate-900/20">
+                        {activeSession ? (
+                            <>
                                 <button 
                                     onClick={(e) => resetProgress(topic.id, e)} 
-                                    className="h-full px-4 py-3 sm:py-0 text-slate-300 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 transition-colors flex items-center justify-center" 
+                                    className="h-full px-4 py-3 sm:py-0 text-slate-300 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 transition-colors flex items-center justify-center border-r border-slate-100 dark:border-slate-700" 
                                     title="Reiniciar Progresso"
                                 >
                                     <RotateCcw size={18} />
                                 </button>
-                            )}
-                            <div 
-                                onClick={() => reviewCount > 0 ? startSession(topic.label, topic.id, true) : startSession(topic.label, topic.id)}
-                                className="h-full px-4 py-3 sm:py-0 flex items-center justify-center text-slate-300 dark:text-slate-600 group-hover:text-indigo-500 dark:group-hover:text-indigo-400 transition-colors"
+                                <button 
+                                    onClick={(e) => { e.stopPropagation(); resumeSession(topic.id); }}
+                                    className="h-full w-full sm:w-auto px-6 py-3 sm:py-0 bg-amber-500 hover:bg-amber-600 text-white font-bold transition-colors flex items-center justify-center gap-2"
+                                >
+                                    Continuar ({activeSession.currentIndex}/{activeSession.cards.length})
+                                </button>
+                            </>
+                        ) : isComplete ? (
+                            <button 
+                                onClick={(e) => resetProgress(topic.id, e)} 
+                                className="h-full px-6 py-3 sm:py-0 text-green-600 hover:text-green-700 bg-green-50 hover:bg-green-100 dark:bg-green-900/20 dark:hover:bg-green-900/40 transition-colors flex items-center justify-center gap-2 font-bold" 
+                                title="Reiniciar Progresso"
                             >
-                                <ArrowRight size={24} />
-                            </div>
-                        </>
-                    )}
-               </div>
-            </div>
-          );
-        })}
-      </div>
-
-      <div className="w-full mt-6 bg-white dark:bg-slate-800 p-5 rounded-3xl border border-slate-200 dark:border-slate-700 shadow-sm">
-          <div className="flex gap-2 mb-4">
-          <input type="text" value={customTopic} onChange={(e) => setCustomTopic(e.target.value)} placeholder="Ex: Culinária, Viagens, Star Wars..." className="flex-1 px-4 py-3 rounded-xl border border-slate-300 dark:border-slate-700 bg-slate-50 dark:bg-slate-900 text-slate-900 dark:text-white outline-none focus:ring-2 focus:ring-indigo-500 placeholder-slate-400" />
-          <button onClick={() => customTopic && startSession(customTopic, customTopic)} disabled={!customTopic} className="bg-indigo-600 dark:bg-indigo-500 text-white px-4 sm:px-6 py-3 rounded-xl font-bold disabled:opacity-50 hover:bg-indigo-700 dark:hover:bg-indigo-600 transition-colors flex items-center gap-2"><Sparkles size={18} /><span className="hidden sm:inline">Gerar</span></button>
+                                <Trophy size={18} /> Concluído
+                            </button>
+                        ) : (
+                            <>
+                                {(displayLearnedCount > 0 || reviewCount > 0) && (
+                                    <button 
+                                        onClick={(e) => resetProgress(topic.id, e)} 
+                                        className="h-full px-4 py-3 sm:py-0 text-slate-300 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 transition-colors flex items-center justify-center" 
+                                        title="Reiniciar Progresso"
+                                    >
+                                        <RotateCcw size={18} />
+                                    </button>
+                                )}
+                                <div 
+                                    onClick={() => reviewCount > 0 ? startSession(topic.label, topic.id, true) : startSession(topic.label, topic.id)}
+                                    className="h-full px-4 py-3 sm:py-0 flex items-center justify-center text-slate-300 dark:text-slate-600 group-hover:text-indigo-500 dark:group-hover:text-indigo-400 transition-colors"
+                                >
+                                    <ArrowRight size={24} />
+                                </div>
+                            </>
+                        )}
+                   </div>
+                </div>
+              );
+            })}
           </div>
-      </div>
+
+          <div className="w-full mt-6 bg-white dark:bg-slate-800 p-5 rounded-3xl border border-slate-200 dark:border-slate-700 shadow-sm">
+              <div className="flex gap-2 mb-4">
+              <input type="text" value={customTopic} onChange={(e) => setCustomTopic(e.target.value)} placeholder="Ex: Culinária, Viagens, Star Wars..." className="flex-1 px-4 py-3 rounded-xl border border-slate-300 dark:border-slate-700 bg-slate-50 dark:bg-slate-900 text-slate-900 dark:text-white outline-none focus:ring-2 focus:ring-indigo-500 placeholder-slate-400" />
+              <button onClick={() => customTopic && startSession(customTopic, customTopic)} disabled={!customTopic} className="bg-indigo-600 dark:bg-indigo-500 text-white px-4 sm:px-6 py-3 rounded-xl font-bold disabled:opacity-50 hover:bg-indigo-700 dark:hover:bg-indigo-600 transition-colors flex items-center gap-2"><Sparkles size={18} /><span className="hidden sm:inline">Gerar</span></button>
+              </div>
+          </div>
+        </>
+      )}
     </div>
   );
 
