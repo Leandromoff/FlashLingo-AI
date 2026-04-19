@@ -1,3 +1,1189 @@
+
+export const KNOW_WORK_LIVE_DECK: FlashcardData[] = [
+  {
+    id: 'kwl_1',
+    word: 'to know',
+    translation: 'saber, conhecer',
+    pronunciation: '/tʊ nəʊ/',
+    portuguesePhonetic: 'tchu nôu',
+    syllables: ['to', 'know'],
+    exampleSentence: 'I didn\'t know it was a great opportunity.',
+    exampleTranslation: 'Eu não sabia que era uma ótima oportunidade.'
+  },
+  {
+    id: 'kwl_2',
+    word: 'knew',
+    translation: 'sabia, conhecia',
+    pronunciation: '/njuː/',
+    portuguesePhonetic: 'niu',
+    syllables: ['knew'],
+    exampleSentence: 'When we knew who our new boss was, we all wanted to change jobs.',
+    exampleTranslation: 'Quando nós soubemos quem era o nosso novo chefe, todos nós quisemos mudar de emprego.'
+  },
+  {
+    id: 'kwl_3',
+    word: 'to work',
+    translation: 'trabalhar',
+    pronunciation: '/tʊ wɜːk/',
+    portuguesePhonetic: 'tchu uârk',
+    syllables: ['to', 'work'],
+    exampleSentence: 'They didn\'t work together. They had the same employer.',
+    exampleTranslation: 'Eles não trabalhavam juntos. Eles tinham o mesmo empregador.'
+  },
+  {
+    id: 'kwl_4',
+    word: 'worked',
+    translation: 'trabalhou, trabalhava',
+    pronunciation: '/wɜːkt/',
+    portuguesePhonetic: 'uârkêd',
+    syllables: ['worked'],
+    exampleSentence: 'I worked for IBM some years ago.',
+    exampleTranslation: 'Eu trabalhei para a IBM alguns anos atrás.'
+  },
+  {
+    id: 'kwl_5',
+    word: 'to live',
+    translation: 'morar, viver',
+    pronunciation: '/tʊ lɪv/',
+    portuguesePhonetic: 'tchu liv',
+    syllables: ['to', 'live'],
+    exampleSentence: 'I didn\'t live near our workplace.',
+    exampleTranslation: 'Eu não morava perto do nosso local de trabalho.'
+  },
+  {
+    id: 'kwl_6',
+    word: 'lived',
+    translation: 'morou, morava',
+    pronunciation: '/lɪvd/',
+    portuguesePhonetic: 'livd',
+    syllables: ['lived'],
+    exampleSentence: 'The job was near the place I lived, but they didn\'t pay well.',
+    exampleTranslation: 'O emprego era perto do lugar que eu morava, mas eles não pagavam bem.'
+  },
+  {
+    id: 'kwl_7',
+    word: 'profession',
+    translation: 'profissão',
+    pronunciation: '/prəˈfeʃ.ən/',
+    portuguesePhonetic: 'prô fê shân',
+    syllables: ['pro', 'fes', 'sion'],
+    exampleSentence: 'His profession is a sales manager.',
+    exampleTranslation: 'A profissão dele é gerente de vendas.'
+  },
+  {
+    id: 'kwl_8',
+    word: 'career',
+    translation: 'carreira',
+    pronunciation: '/kəˈrɪər/',
+    portuguesePhonetic: 'câ rir',
+    syllables: ['ca', 'reer'],
+    exampleSentence: 'I didn\'t have a career at that time.',
+    exampleTranslation: 'Eu não tinha uma carreira naquela época.'
+  },
+  {
+    id: 'kwl_9',
+    word: 'resume',
+    translation: 'currículo',
+    pronunciation: '/ˈrez.jʊ.meɪ/',
+    portuguesePhonetic: 'ré zu mei',
+    syllables: ['res', 'u', 'me'],
+    exampleSentence: 'His resume wasn\'t so good, but he got the job.',
+    exampleTranslation: 'O currículo dele não era tão bom, mas ele conseguiu o emprego.'
+  },
+  {
+    id: 'kwl_10',
+    word: 'chance',
+    translation: 'chance',
+    pronunciation: '/tʃɑːns/',
+    portuguesePhonetic: 'tchéns',
+    syllables: ['chance'],
+    exampleSentence: 'I didn\'t know there was a chance of a salary raise.',
+    exampleTranslation: 'Eu não sabia que havia chance de aumento de salário.'
+  },
+  {
+    id: 'kwl_11',
+    word: 'choice',
+    translation: 'escolha',
+    pronunciation: '/tʃɔɪs/',
+    portuguesePhonetic: 'tchois',
+    syllables: ['choice'],
+    exampleSentence: 'That career opportunity was a very good choice.',
+    exampleTranslation: 'Aquela oportunidade de carreira foi uma escolha muito boa.'
+  },
+  {
+    id: 'kwl_12',
+    word: 'opportunity',
+    translation: 'oportunidade',
+    pronunciation: '/ˌɒp.əˈtʃuː.nə.ti/',
+    portuguesePhonetic: 'ó pâr tchu nâ ti',
+    syllables: ['op', 'por', 'tu', 'ni', 'ty'],
+    exampleSentence: 'We didn\'t know it was a great opportunity.',
+    exampleTranslation: 'Nós não sabíamos que era uma ótima oportunidade.'
+  },
+  {
+    id: 'kwl_13',
+    word: 'employee',
+    translation: 'funcionário',
+    pronunciation: '/ɪmˈplɔɪ.iː/',
+    portuguesePhonetic: 'im ploi i',
+    syllables: ['em', 'ploy', 'ee'],
+    exampleSentence: 'He didn\'t know his employees very well.',
+    exampleTranslation: 'Ele não conhecia bem seus funcionários.'
+  },
+  {
+    id: 'kwl_14',
+    word: 'employer',
+    translation: 'empregador',
+    pronunciation: '/ɪmˈplɔɪ.ər/',
+    portuguesePhonetic: 'im plói âr',
+    syllables: ['em', 'ploy', 'er'],
+    exampleSentence: 'They didn\'t work together. They had the same employer.',
+    exampleTranslation: 'Eles não trabalhavam juntos. Eles tinham o mesmo empregador.'
+  },
+  {
+    id: 'kwl_15',
+    word: 'benefit',
+    translation: 'benefício',
+    pronunciation: '/ˈben.ɪ.fɪt/',
+    portuguesePhonetic: 'bé ni fĩt',
+    syllables: ['ben', 'e', 'fit'],
+    exampleSentence: 'You didn\'t work only for salary or benefits.',
+    exampleTranslation: 'Você não trabalhava só pelo salário ou benefícios.'
+  },
+  {
+    id: 'kwl_16',
+    word: 'salary',
+    translation: 'salário',
+    pronunciation: '/ˈsæl.ər.i/',
+    portuguesePhonetic: 'sé lâ ri',
+    syllables: ['sal', 'ar', 'y'],
+    exampleSentence: 'The opportunity wasn\'t so good, but the salary was high.',
+    exampleTranslation: 'A oportunidade não era tão boa, mas o salário era alto.'
+  },
+  {
+    id: 'kwl_17',
+    word: 'raise',
+    translation: 'aumento',
+    pronunciation: '/reɪz/',
+    portuguesePhonetic: 'reiz',
+    syllables: ['raise'],
+    exampleSentence: 'I\'m so happy! I got the promotion and a raise.',
+    exampleTranslation: 'Eu estou tão feliz! Eu consegui a promoção e um aumento.'
+  },
+  {
+    id: 'kwl_18',
+    word: 'spreadsheet',
+    translation: 'planilha',
+    pronunciation: '/ˈspred.ʃiːt/',
+    portuguesePhonetic: 'spréd shit',
+    syllables: ['spread', 'sheet'],
+    exampleSentence: 'He didn\'t send me the spreadsheets on time.',
+    exampleTranslation: 'Ele não me enviou as planilhas a tempo.'
+  },
+  {
+    id: 'kwl_19',
+    word: 'minimum wage',
+    translation: 'salário mínimo',
+    pronunciation: '/ˌmɪn.ɪ.məm ˈweɪdʒ/',
+    portuguesePhonetic: 'mí ni mâm ueidj',
+    syllables: ['min', 'i', 'mum', 'wage'],
+    exampleSentence: 'She didn\'t know she was working for minimum wage.',
+    exampleTranslation: 'Ela não sabia que estava trabalhando por salário mínimo.'
+  },
+  {
+    id: 'kwl_20',
+    word: 'do for a living',
+    translation: 'fazer para viver',
+    pronunciation: '/duː fɔːr ə ˈlɪv.ɪŋ/',
+    portuguesePhonetic: 'du fór a lí vin',
+    syllables: ['do', 'for', 'a', 'liv', 'ing'],
+    exampleSentence: 'What do you do for a living?',
+    exampleTranslation: 'O que você faz para viver?'
+  },
+  {
+    id: 'kwl_21',
+    word: 'get a promotion',
+    translation: 'conseguir uma promoção',
+    pronunciation: '/ɡet ə prəˈməʊ.ʃən/',
+    portuguesePhonetic: 'gét a prô môu shân',
+    syllables: ['get', 'a', 'pro', 'mo', 'tion'],
+    exampleSentence: 'I want to get that promotion.',
+    exampleTranslation: 'Eu quero conseguir aquela promoção.'
+  },
+  {
+    id: 'kwl_22',
+    word: 'look for a job',
+    translation: 'procurar emprego',
+    pronunciation: '/lʊk fɔːr ə dʒɒb/',
+    portuguesePhonetic: 'luk fór a djób',
+    syllables: ['look', 'for', 'a', 'job'],
+    exampleSentence: 'I\'m looking for a job in the music business.',
+    exampleTranslation: 'Eu estou procurando um emprego no negócio da música.'
+  },
+  {
+    id: 'kwl_23',
+    word: 'on time',
+    translation: 'na hora, no prazo',
+    pronunciation: '/ɒn taɪm/',
+    portuguesePhonetic: 'ón táim',
+    syllables: ['on', 'time'],
+    exampleSentence: 'She really wanted that job, but didn\'t send her resume on time.',
+    exampleTranslation: 'Ela realmente queria aquele emprego, mas não enviou seu currículo na hora.'
+  },
+  {
+    id: 'kwl_24',
+    word: 'close to',
+    translation: 'perto de',
+    pronunciation: '/kləʊs tʊ/',
+    portuguesePhonetic: 'clôus tchu',
+    syllables: ['close', 'to'],
+    exampleSentence: 'Louise didn\'t live close to her work.',
+    exampleTranslation: 'Louise não morava perto do seu trabalho.'
+  },
+  {
+    id: 'kwl_25',
+    word: 'to work for',
+    translation: 'trabalhar para',
+    pronunciation: '/tʊ wɜːk fɔːr/',
+    portuguesePhonetic: 'tchu uârk fór',
+    syllables: ['to', 'work', 'for'],
+    exampleSentence: 'Louis needed a new job. He didn\'t want to work for her.',
+    exampleTranslation: 'Louis precisava de um emprego novo. Ele não queria trabalhar para ela.'
+  },
+  {
+    id: 'kwl_26',
+    word: 'sales manager',
+    translation: 'gerente de vendas',
+    pronunciation: '/seɪlz ˈmæn.ɪ.dʒər/',
+    portuguesePhonetic: 'sêilz mé nâ djâr',
+    syllables: ['sales', 'man', 'ag', 'er'],
+    exampleSentence: 'He worked as a sales manager.',
+    exampleTranslation: 'Ele trabalhava como gerente de vendas.'
+  },
+  {
+    id: 'kwl_27',
+    word: 'position',
+    translation: 'cargo, posição',
+    pronunciation: '/pəˈzɪʃ.ən/',
+    portuguesePhonetic: 'pô zí shân',
+    syllables: ['po', 'si', 'tion'],
+    exampleSentence: 'What position are you looking for?',
+    exampleTranslation: 'Qual cargo você está procurando?'
+  },
+  {
+    id: 'kwl_28',
+    word: 'in common',
+    translation: 'em comum',
+    pronunciation: '/ɪn ˈkɒm.ən/',
+    portuguesePhonetic: 'in có mân',
+    syllables: ['in', 'com', 'mon'],
+    exampleSentence: 'They had a career in common.',
+    exampleTranslation: 'Eles tinham uma carreira em comum.'
+  },
+  {
+    id: 'kwl_29',
+    word: 'to miss',
+    translation: 'perder (oportunidade)',
+    pronunciation: '/tʊ mɪs/',
+    portuguesePhonetic: 'tchu mis',
+    syllables: ['to', 'miss'],
+    exampleSentence: 'You didn\'t miss that promotion opportunity because your career is international.',
+    exampleTranslation: 'Você não perdeu aquela oportunidade de promoção porque sua carreira é internacional.'
+  }
+];
+
+
+export const TRAVEL_STAY_NEED_DECK: FlashcardData[] = [
+  {
+    id: 'tsn_1',
+    word: 'to travel',
+    translation: 'viajar',
+    pronunciation: '/tʊ ˈtræv.əl/',
+    portuguesePhonetic: 'tchu tré vâu',
+    syllables: ['to', 'trav', 'el'],
+    exampleSentence: 'They needed to travel to Europe.',
+    exampleTranslation: 'Eles precisavam viajar para a Europa.'
+  },
+  {
+    id: 'tsn_2',
+    word: 'traveled',
+    translation: 'viajou, viajamos',
+    pronunciation: '/ˈtræv.əld/',
+    portuguesePhonetic: 'tré vậud',
+    syllables: ['trav', 'eled'],
+    exampleSentence: 'She always traveled first class, but this time she went economy.',
+    exampleTranslation: 'Ela sempre viajou na primeira classe, mas desta vez foi na econômica.'
+  },
+  {
+    id: 'tsn_3',
+    word: 'to stay',
+    translation: 'ficar, hospedar-se',
+    pronunciation: '/tʊ steɪ/',
+    portuguesePhonetic: 'tchu stei',
+    syllables: ['to', 'stay'],
+    exampleSentence: 'He wanted to stay at a hotel.',
+    exampleTranslation: 'Ele queria ficar em um hotel.'
+  },
+  {
+    id: 'tsn_4',
+    word: 'stayed',
+    translation: 'ficou, ficamos',
+    pronunciation: '/steɪd/',
+    portuguesePhonetic: 'steid',
+    syllables: ['stayed'],
+    exampleSentence: 'They stayed in a great hostel in Amsterdam.',
+    exampleTranslation: 'Eles ficaram em um ótimo hostel em Amsterdã.'
+  },
+  {
+    id: 'tsn_5',
+    word: 'to need',
+    translation: 'precisar',
+    pronunciation: '/tʊ niːd/',
+    portuguesePhonetic: 'tchu nid',
+    syllables: ['to', 'need'],
+    exampleSentence: 'First, you need to cancel my reservation.',
+    exampleTranslation: 'Primeiro, você precisa cancelar minha reserva.'
+  },
+  {
+    id: 'tsn_6',
+    word: 'needed',
+    translation: 'precisou, precisava',
+    pronunciation: '/ˈniː.dɪd/',
+    portuguesePhonetic: 'ní dêd',
+    syllables: ['need', 'ed'],
+    exampleSentence: 'I needed a flight reservation for that night.',
+    exampleTranslation: 'Eu precisava de uma reserva de voo para aquela noite.'
+  },
+  {
+    id: 'tsn_7',
+    word: 'flight',
+    translation: 'voo',
+    pronunciation: '/flaɪt/',
+    portuguesePhonetic: 'flait',
+    syllables: ['flight'],
+    exampleSentence: 'We cancelled our reservations one day before the flight.',
+    exampleTranslation: 'Nós cancelamos nossas reservas um dia antes do voo.'
+  },
+  {
+    id: 'tsn_8',
+    word: 'reservation',
+    translation: 'reserva',
+    pronunciation: '/ˌrez.əˈveɪ.ʃən/',
+    portuguesePhonetic: 'ré zâr vei shân',
+    syllables: ['res', 'er', 'va', 'tion'],
+    exampleSentence: 'First, you need to cancel my reservation.',
+    exampleTranslation: 'Primeiro, você precisa cancelar minha reserva.'
+  },
+  {
+    id: 'tsn_9',
+    word: 'itinerary',
+    translation: 'itinerário',
+    pronunciation: '/aɪˈtɪn.ər.ər.i/',
+    portuguesePhonetic: 'ai ti nê ré ri',
+    syllables: ['i', 'tin', 'er', 'ar', 'y'],
+    exampleSentence: 'Sue had problems with her itinerary.',
+    exampleTranslation: 'Sue teve problemas com seu itinerário.'
+  },
+  {
+    id: 'tsn_10',
+    word: 'boarding pass',
+    translation: 'cartão de embarque',
+    pronunciation: '/ˈbɔː.dɪŋ pɑːs/',
+    portuguesePhonetic: 'bór din pás',
+    syllables: ['board', 'ing', 'pass'],
+    exampleSentence: 'Paul had his passport, but not the boarding pass.',
+    exampleTranslation: 'Paul tinha seu passaporte, mas não o cartão de embarque.'
+  },
+  {
+    id: 'tsn_11',
+    word: 'economy',
+    translation: 'econômico, classe econômica',
+    pronunciation: '/ɪˈkɒn.ə.mi/',
+    portuguesePhonetic: 'i có nâ mi',
+    syllables: ['e', 'con', 'o', 'my'],
+    exampleSentence: 'She always traveled first class, but this time she went economy.',
+    exampleTranslation: 'Ela sempre viajou na primeira classe, mas desta vez foi na econômica.'
+  },
+  {
+    id: 'tsn_12',
+    word: 'first class',
+    translation: 'primeira classe',
+    pronunciation: '/ˌfɜːst ˈklɑːs/',
+    portuguesePhonetic: 'fârst clés',
+    syllables: ['first', 'class'],
+    exampleSentence: 'She always traveled first class, but this time she went economy.',
+    exampleTranslation: 'Ela sempre viajou na primeira classe, mas desta vez foi na econômica.'
+  },
+  {
+    id: 'tsn_13',
+    word: 'baggage drop',
+    translation: 'despacho de bagagem',
+    pronunciation: '/ˈbæɡ.ɪdʒ drɒp/',
+    portuguesePhonetic: 'bé gédj dróp',
+    syllables: ['bag', 'gage', 'drop'],
+    exampleSentence: 'He had to leave his luggage at the baggage drop.',
+    exampleTranslation: 'Ele teve que deixar sua bagagem no despacho de bagagem.'
+  },
+  {
+    id: 'tsn_14',
+    word: 'visa',
+    translation: 'visto',
+    pronunciation: '/ˈviː.zə/',
+    portuguesePhonetic: 'ví zâ',
+    syllables: ['vi', 'sa'],
+    exampleSentence: 'Alejandro was Argentinian and he needed a visa and a hotel reservation to go to the U.S.',
+    exampleTranslation: 'Alejandro era argentino e precisava de um visto e uma reserva de hotel para ir aos EUA.'
+  },
+  {
+    id: 'tsn_15',
+    word: 'accommodation',
+    translation: 'acomodação',
+    pronunciation: '/əˌkɒm.əˈdeɪ.ʃən/',
+    portuguesePhonetic: 'a có mâ dei shân',
+    syllables: ['ac', 'com', 'mo', 'da', 'tion'],
+    exampleSentence: 'We had accommodation in Lisbon and Barcelona.',
+    exampleTranslation: 'Nós tínhamos acomodação em Lisboa e Barcelona.'
+  },
+  {
+    id: 'tsn_16',
+    word: 'inn',
+    translation: 'pousada',
+    pronunciation: '/ɪn/',
+    portuguesePhonetic: 'in',
+    syllables: ['inn'],
+    exampleSentence: 'We stayed in an amazing inn in Chicago.',
+    exampleTranslation: 'Nós ficamos em uma pousada incrível em Chicago.'
+  },
+  {
+    id: 'tsn_17',
+    word: 'bed and breakfast',
+    translation: 'cama e café / pousada com café da manhã',
+    pronunciation: '/ˌbed ən ˈbrek.fəst/',
+    portuguesePhonetic: 'béd ân brék fâst',
+    syllables: ['bed', 'and', 'break', 'fast'],
+    exampleSentence: 'The bed and breakfast we stayed in was really expensive.',
+    exampleTranslation: 'A pousada com café da manhã em que ficamos era muito cara.'
+  },
+  {
+    id: 'tsn_18',
+    word: 'go through customs',
+    translation: 'passar pela alfândega',
+    pronunciation: '/ɡəʊ θruː ˈkʌs.təmz/',
+    portuguesePhonetic: 'gôu thru câs tậmz',
+    syllables: ['go', 'through', 'cus', 'toms'],
+    exampleSentence: 'Excuse me, I need to go through customs.',
+    exampleTranslation: 'Com licença, preciso passar pela alfândega.'
+  },
+  {
+    id: 'tsn_19',
+    word: 'book a flight',
+    translation: 'reservar um voo',
+    pronunciation: '/bʊk ə flaɪt/',
+    portuguesePhonetic: 'buk a fláit',
+    syllables: ['book', 'a', 'flight'],
+    exampleSentence: 'I\'d like to book a flight to next Friday.',
+    exampleTranslation: 'Gostaria de reservar um voo para a próxima sexta-feira.'
+  },
+  {
+    id: 'tsn_20',
+    word: 'get a shot',
+    translation: 'tirar uma foto',
+    pronunciation: '/ɡet ə ʃɒt/',
+    portuguesePhonetic: 'gét a shót',
+    syllables: ['get', 'a', 'shot'],
+    exampleSentence: 'Let me get a shot of you two.',
+    exampleTranslation: 'Deixa eu tirar uma foto de vocês dois.'
+  },
+  {
+    id: 'tsn_21',
+    word: 'hostel',
+    translation: 'hostel, albergue',
+    pronunciation: '/ˈhɒs.təl/',
+    portuguesePhonetic: 'rós têu',
+    syllables: ['hos', 'tel'],
+    exampleSentence: 'They stayed in a great hostel in Amsterdam.',
+    exampleTranslation: 'Eles ficaram em um ótimo hostel em Amsterdã.'
+  },
+  {
+    id: 'tsn_22',
+    word: 'cancel a reservation',
+    translation: 'cancelar uma reserva',
+    pronunciation: '/ˈkæn.səl ə ˌrez.əˈveɪ.ʃən/',
+    portuguesePhonetic: 'cán sêu a ré zâr vei shân',
+    syllables: ['can', 'cel', 'a', 'res', 'er', 'va', 'tion'],
+    exampleSentence: 'We cancelled our reservations one day before the flight.',
+    exampleTranslation: 'Nós cancelamos nossas reservas um dia antes do voo.'
+  },
+  {
+    id: 'tsn_23',
+    word: 'wait for',
+    translation: 'esperar por',
+    pronunciation: '/weɪt fɔːr/',
+    portuguesePhonetic: 'uêit fór',
+    syllables: ['wait', 'for'],
+    exampleSentence: 'They were waiting for him while he was going through customs.',
+    exampleTranslation: 'Eles estavam esperando por ele enquanto ele passava pela alfândega.'
+  },
+  {
+    id: 'tsn_24',
+    word: 'luggage',
+    translation: 'bagagem',
+    pronunciation: '/ˈlʌɡ.ɪdʒ/',
+    portuguesePhonetic: 'lâ gédj',
+    syllables: ['lug', 'gage'],
+    exampleSentence: 'He had to leave his luggage at the baggage drop.',
+    exampleTranslation: 'Ele teve que deixar sua bagagem no despacho de bagagem.'
+  },
+  {
+    id: 'tsn_25',
+    word: 'passport',
+    translation: 'passaporte',
+    pronunciation: '/ˈpɑːs.pɔːt/',
+    portuguesePhonetic: 'pás pórt',
+    syllables: ['pass', 'port'],
+    exampleSentence: 'Paul had his passport, but not the boarding pass.',
+    exampleTranslation: 'Paul tinha seu passaporte, mas não o cartão de embarque.'
+  },
+  {
+    id: 'tsn_26',
+    word: 'different countries',
+    translation: 'países diferentes',
+    pronunciation: '/ˈdɪf.ər.ənt ˈkʌn.triz/',
+    portuguesePhonetic: 'dí frênt cân triz',
+    syllables: ['dif', 'fer', 'ent', 'coun', 'tries'],
+    exampleSentence: 'He needed a visa for three different countries.',
+    exampleTranslation: 'Ele precisava de um visto para três países diferentes.'
+  },
+  {
+    id: 'tsn_27',
+    word: 'have problems with',
+    translation: 'ter problemas com',
+    pronunciation: '/hæv ˈprɒb.ləmz wɪð/',
+    portuguesePhonetic: 'rév pró blâmz uíd',
+    syllables: ['have', 'prob', 'lems', 'with'],
+    exampleSentence: 'Sue had problems with her itinerary.',
+    exampleTranslation: 'Sue teve problemas com seu itinerário.'
+  }
+];
+
+
+export const GO_HAVE_VISIT_DECK: FlashcardData[] = [
+  {
+    id: 'ghv_1',
+    word: 'to go',
+    translation: 'ir',
+    pronunciation: '/tʊ ɡəʊ/',
+    portuguesePhonetic: 'tchu gôu',
+    syllables: ['to', 'go'],
+    exampleSentence: 'Do you want to go to medical school?',
+    exampleTranslation: 'Você quer ir para a faculdade de medicina?'
+  },
+  {
+    id: 'ghv_2',
+    word: 'went',
+    translation: 'foi, foram, fomos',
+    pronunciation: '/went/',
+    portuguesePhonetic: 'uént',
+    syllables: ['went'],
+    exampleSentence: 'They went to Italy last year.',
+    exampleTranslation: 'Eles foram para a Itália no ano passado.'
+  },
+  {
+    id: 'ghv_3',
+    word: 'to have',
+    translation: 'ter, tomar, comer',
+    pronunciation: '/tʊ hæv/',
+    portuguesePhonetic: 'tchu ráv',
+    syllables: ['to', 'have'],
+    exampleSentence: 'I want to have a beer.',
+    exampleTranslation: 'Eu quero tomar uma cerveja.'
+  },
+  {
+    id: 'ghv_4',
+    word: 'had',
+    translation: 'teve, tomou, comeu',
+    pronunciation: '/hæd/',
+    portuguesePhonetic: 'réd',
+    syllables: ['had'],
+    exampleSentence: 'They had chicken stew for dinner.',
+    exampleTranslation: 'Eles comeram ensopado de frango no jantar.'
+  },
+  {
+    id: 'ghv_5',
+    word: 'to visit',
+    translation: 'visitar',
+    pronunciation: '/tʊ ˈvɪz.ɪt/',
+    portuguesePhonetic: 'tchu ví zĩt',
+    syllables: ['to', 'vis', 'it'],
+    exampleSentence: 'He wanted to visit Central Park, but the weather was bad.',
+    exampleTranslation: 'Ele queria visitar o Central Park, mas o tempo estava ruim.'
+  },
+  {
+    id: 'ghv_6',
+    word: 'visited',
+    translation: 'visitou, visitamos',
+    pronunciation: '/ˈvɪz.ɪ.tɪd/',
+    portuguesePhonetic: 'ví zi têd',
+    syllables: ['vis', 'it', 'ed'],
+    exampleSentence: 'We visited the opera house in Sydney last year.',
+    exampleTranslation: 'Nós visitamos a casa de ópera em Sydney no ano passado.'
+  },
+  {
+    id: 'ghv_7',
+    word: 'food truck',
+    translation: 'food truck',
+    pronunciation: '/fuːd trʌk/',
+    portuguesePhonetic: 'fud trâk',
+    syllables: ['food', 'truck'],
+    exampleSentence: 'There was a food truck in front of the concert hall.',
+    exampleTranslation: 'Havia um food truck na frente da sala de concertos.'
+  },
+  {
+    id: 'ghv_8',
+    word: 'bakery',
+    translation: 'padaria',
+    pronunciation: '/ˈbeɪ.kər.i/',
+    portuguesePhonetic: 'béi kâ ri',
+    syllables: ['bak', 'er', 'y'],
+    exampleSentence: 'We had breakfast at the bakery this morning.',
+    exampleTranslation: 'Nós tomamos café da manhã na padaria esta manhã.'
+  },
+  {
+    id: 'ghv_9',
+    word: 'café',
+    translation: 'café, cafeteria',
+    pronunciation: '/ˈkæf.eɪ/',
+    portuguesePhonetic: 'ké fei',
+    syllables: ['ca', 'fé'],
+    exampleSentence: 'He wanted to go to the café.',
+    exampleTranslation: 'Ele queria ir à cafeteria.'
+  },
+  {
+    id: 'ghv_10',
+    word: 'art gallery',
+    translation: 'galeria de arte',
+    pronunciation: '/ɑːt ˈɡæl.ər.i/',
+    portuguesePhonetic: 'árt gé lâ ri',
+    syllables: ['art', 'gal', 'ler', 'y'],
+    exampleSentence: 'They went to an art gallery.',
+    exampleTranslation: 'Eles foram a uma galeria de arte.'
+  },
+  {
+    id: 'ghv_11',
+    word: 'concert hall',
+    translation: 'sala de concertos',
+    pronunciation: '/ˈkɒn.sət hɔːl/',
+    portuguesePhonetic: 'cón sârt ról',
+    syllables: ['con', 'cert', 'hall'],
+    exampleSentence: 'There was a food truck in front of the concert hall.',
+    exampleTranslation: 'Havia um food truck na frente da sala de concertos.'
+  },
+  {
+    id: 'ghv_12',
+    word: 'opera house',
+    translation: 'casa de ópera',
+    pronunciation: '/ˈɒp.ər.ə haʊs/',
+    portuguesePhonetic: 'óp rá rauz',
+    syllables: ['op', 'er', 'a', 'house'],
+    exampleSentence: 'Billy was so excited about the opera house.',
+    exampleTranslation: 'Billy estava tão empolgado com a casa de ópera.'
+  },
+  {
+    id: 'ghv_13',
+    word: 'library',
+    translation: 'biblioteca',
+    pronunciation: '/ˈlaɪ.brər.i/',
+    portuguesePhonetic: 'lái bré ri',
+    syllables: ['li', 'brar', 'y'],
+    exampleSentence: 'We went to the library to study.',
+    exampleTranslation: 'Nós fomos à biblioteca para estudar.'
+  },
+  {
+    id: 'ghv_14',
+    word: 'cathedral',
+    translation: 'catedral',
+    pronunciation: '/kəˈθiː.drəl/',
+    portuguesePhonetic: 'câ thi drâu',
+    syllables: ['ca', 'the', 'dral'],
+    exampleSentence: 'The cathedral was ten blocks away from the hotel.',
+    exampleTranslation: 'A catedral ficava a dez quarteirões do hotel.'
+  },
+  {
+    id: 'ghv_15',
+    word: 'zoo',
+    translation: 'zoológico',
+    pronunciation: '/zuː/',
+    portuguesePhonetic: 'zu',
+    syllables: ['zoo'],
+    exampleSentence: 'The weather was really good yesterday, so we went to the zoo.',
+    exampleTranslation: 'O tempo estava muito bom ontem, então nós fomos ao zoológico.'
+  },
+  {
+    id: 'ghv_16',
+    word: 'go for it',
+    translation: 'vai em frente',
+    pronunciation: '/ɡəʊ fɔːr ɪt/',
+    portuguesePhonetic: 'gôu fór it',
+    syllables: ['go', 'for', 'it'],
+    exampleSentence: 'He really wanted to work in Berlin, and he went for it.',
+    exampleTranslation: 'Ele realmente queria trabalhar em Berlim, e ele foi em frente.'
+  },
+  {
+    id: 'ghv_17',
+    word: 'medical school',
+    translation: 'faculdade de medicina',
+    pronunciation: '/ˈmed.ɪ.kəl skuːl/',
+    portuguesePhonetic: 'mé di câl skul',
+    syllables: ['med', 'i', 'cal', 'school'],
+    exampleSentence: 'We had to go to medical school.',
+    exampleTranslation: 'Nós tivemos que ir para a faculdade de medicina.'
+  },
+  {
+    id: 'ghv_18',
+    word: 'excited about',
+    translation: 'empolgado com',
+    pronunciation: '/ɪkˈsaɪ.tɪd əˈbaʊt/',
+    portuguesePhonetic: 'ik sái têd a baut',
+    syllables: ['ex', 'cit', 'ed', 'a', 'bout'],
+    exampleSentence: 'They were really excited about the night at the opera house.',
+    exampleTranslation: 'Eles estavam muito empolgados com a noite na casa de ópera.'
+  },
+  {
+    id: 'ghv_19',
+    word: 'have fun',
+    translation: 'divertir-se',
+    pronunciation: '/hæv fʌn/',
+    portuguesePhonetic: 'rév fân',
+    syllables: ['have', 'fun'],
+    exampleSentence: 'Julie and I went to an amazing bar in Cuzco. We had a lot of fun!',
+    exampleTranslation: 'Julie e eu fomos a um bar incrível em Cuzco. Nos divertimos muito!'
+  },
+  {
+    id: 'ghv_20',
+    word: 'have breakfast',
+    translation: 'tomar café da manhã',
+    pronunciation: '/hæv ˈbrek.fəst/',
+    portuguesePhonetic: 'rév brék fâst',
+    syllables: ['have', 'break', 'fast'],
+    exampleSentence: 'We had breakfast at the bakery this morning.',
+    exampleTranslation: 'Nós tomamos café da manhã na padaria esta manhã.'
+  },
+  {
+    id: 'ghv_21',
+    word: 'places to visit',
+    translation: 'lugares para visitar',
+    pronunciation: '/ˈpleɪ.sɪz tʊ ˈvɪz.ɪt/',
+    portuguesePhonetic: 'pléi sêz tchu ví zĩt',
+    syllables: ['pla', 'ces', 'to', 'vis', 'it'],
+    exampleSentence: 'There were many places to visit downtown.',
+    exampleTranslation: 'Havia muitos lugares para visitar no centro.'
+  },
+  {
+    id: 'ghv_22',
+    word: 'have pizza',
+    translation: 'comer pizza',
+    pronunciation: '/hæv ˈpiːt.sə/',
+    portuguesePhonetic: 'rév pít sâ',
+    syllables: ['have', 'piz', 'za'],
+    exampleSentence: 'We had some pizza at an old pizza place downtown.',
+    exampleTranslation: 'Nós comemos pizza em uma antiga pizzaria no centro.'
+  },
+  {
+    id: 'ghv_23',
+    word: 'have beer',
+    translation: 'tomar cerveja',
+    pronunciation: '/hæv bɪər/',
+    portuguesePhonetic: 'rév bír',
+    syllables: ['have', 'beer'],
+    exampleSentence: 'We went to the bar after the meeting and had some beer.',
+    exampleTranslation: 'Nós fomos ao bar depois da reunião e tomamos cerveja.'
+  },
+  {
+    id: 'ghv_24',
+    word: 'have wine',
+    translation: 'tomar vinho',
+    pronunciation: '/hæv waɪn/',
+    portuguesePhonetic: 'rév uáin',
+    syllables: ['have', 'wine'],
+    exampleSentence: 'They had wine with the steak.',
+    exampleTranslation: 'Eles tomaram vinho com o bife.'
+  },
+  {
+    id: 'ghv_25',
+    word: 'weather',
+    translation: 'clima, tempo',
+    pronunciation: '/ˈweð.ər/',
+    portuguesePhonetic: 'ué thâr',
+    syllables: ['weath', 'er'],
+    exampleSentence: 'We had great weather during the trip.',
+    exampleTranslation: 'Nós tivemos um ótimo tempo durante a viagem.'
+  },
+  {
+    id: 'ghv_26',
+    word: 'downtown',
+    translation: 'centro da cidade',
+    pronunciation: '/ˌdaʊnˈtaʊn/',
+    portuguesePhonetic: 'dáun táun',
+    syllables: ['down', 'town'],
+    exampleSentence: 'There were many places to visit downtown.',
+    exampleTranslation: 'Havia muitos lugares para visitar no centro.'
+  },
+  {
+    id: 'ghv_27',
+    word: 'ten blocks away',
+    translation: 'a dez quarteirões de distância',
+    pronunciation: '/ten blɒks əˈweɪ/',
+    portuguesePhonetic: 'tén blóks a uêi',
+    syllables: ['ten', 'blocks', 'a', 'way'],
+    exampleSentence: 'The cathedral was ten blocks away from the hotel.',
+    exampleTranslation: 'A catedral ficava a dez quarteirões do hotel.'
+  },
+  {
+    id: 'ghv_28',
+    word: 'last year',
+    translation: 'ano passado',
+    pronunciation: '/lɑːst jɪər/',
+    portuguesePhonetic: 'lást yír',
+    syllables: ['last', 'year'],
+    exampleSentence: 'We visited the opera house in Sydney last year.',
+    exampleTranslation: 'Nós visitamos a casa de ópera em Sydney no ano passado.'
+  },
+  {
+    id: 'ghv_29',
+    word: 'for dinner',
+    translation: 'para o jantar',
+    pronunciation: '/fɔːr ˈdɪn.ər/',
+    portuguesePhonetic: 'fór dí nâr',
+    syllables: ['for', 'din', 'ner'],
+    exampleSentence: 'They had chicken stew for dinner.',
+    exampleTranslation: 'Eles comeram ensopado de frango no jantar.'
+  },
+  {
+    id: 'ghv_30',
+    word: 'amazing bar',
+    translation: 'bar incrível',
+    pronunciation: '/əˈmeɪ.zɪŋ bɑːr/',
+    portuguesePhonetic: 'a mêi zin bár',
+    syllables: ['a', 'maz', 'ing', 'bar'],
+    exampleSentence: 'Julie and I went to an amazing bar in Cuzco.',
+    exampleTranslation: 'Julie e eu fomos a um bar incrível em Cuzco.'
+  },
+  {
+    id: 'ghv_31',
+    word: 'after the meeting',
+    translation: 'depois da reunião',
+    pronunciation: '/ˈɑːf.tər ðə ˈmiː.tɪŋ/',
+    portuguesePhonetic: 'áf târ dâ mí tin',
+    syllables: ['af', 'ter', 'the', 'meet', 'ing'],
+    exampleSentence: 'We went to the bar after the meeting and had some beer.',
+    exampleTranslation: 'Nós fomos ao bar depois da reunião e tomamos cerveja.'
+  }
+];
+
+
+export const DRINK_EAT_WANT_DECK: FlashcardData[] = [
+  {
+    id: 'dew_1a',
+    word: 'to drink',
+    translation: 'beber',
+    pronunciation: '/drɪŋk/',
+    portuguesePhonetic: 'drink',
+    syllables: ['to', 'drink'],
+    exampleSentence: 'She wanted to drink wine, but there wasn\'t any in that place.',
+    exampleTranslation: 'Ela queria beber vinho, mas não tinha nenhum naquele lugar.'
+  },
+  {
+    id: 'dew_1b',
+    word: 'drank',
+    translation: 'bebeu',
+    pronunciation: '/dræŋk/',
+    portuguesePhonetic: 'drénk',
+    syllables: ['drank'],
+    exampleSentence: 'She drank because she wasn\'t driving.',
+    exampleTranslation: 'Ela bebeu porque não estava dirigindo.'
+  },
+  {
+    id: 'dew_2a',
+    word: 'to eat',
+    translation: 'comer',
+    pronunciation: '/iːt/',
+    portuguesePhonetic: 'it',
+    syllables: ['to', 'eat'],
+    exampleSentence: 'I wanted to eat everything. It was delicious.',
+    exampleTranslation: 'Eu queria comer tudo. Estava delicioso.'
+  },
+  {
+    id: 'dew_2b',
+    word: 'ate',
+    translation: 'comeu',
+    pronunciation: '/et/ ou /eɪt/',
+    portuguesePhonetic: 'eit',
+    syllables: ['ate'],
+    exampleSentence: 'The first time he ate there was in 2008.',
+    exampleTranslation: 'A primeira vez que ele comeu lá foi em 2008.'
+  },
+  {
+    id: 'dew_3a',
+    word: 'to want',
+    translation: 'querer',
+    pronunciation: '/wɒnt/',
+    portuguesePhonetic: 'uónt',
+    syllables: ['to', 'want'],
+    exampleSentence: 'She wanted to go to a local cuisine restaurant.',
+    exampleTranslation: 'Ela queria ir a um restaurante de culinária local.'
+  },
+  {
+    id: 'dew_3b',
+    word: 'wanted',
+    translation: 'queria, quis',
+    pronunciation: '/ˈwɒn.tɪd/',
+    portuguesePhonetic: 'uón tid',
+    syllables: ['wan', 'ted'],
+    exampleSentence: 'I wanted to eat everything. It was delicious.',
+    exampleTranslation: 'Eu queria comer tudo. Estava delicioso.'
+  },
+  {
+    id: 'dew_4',
+    word: 'wine',
+    translation: 'vinho',
+    pronunciation: '/waɪn/',
+    portuguesePhonetic: 'uain',
+    syllables: ['wine'],
+    exampleSentence: 'She wanted to drink wine, but there wasn\'t any in that place.',
+    exampleTranslation: 'Ela queria beber vinho, mas não tinha nenhum naquele lugar.'
+  },
+  {
+    id: 'dew_5',
+    word: 'beer',
+    translation: 'cerveja',
+    pronunciation: '/bɪər/',
+    portuguesePhonetic: 'bir',
+    syllables: ['beer'],
+    exampleSentence: 'Can I have a beer, please?',
+    exampleTranslation: 'Você pode me dar uma cerveja, por favor?'
+  },
+  {
+    id: 'dew_6',
+    word: 'cocktail',
+    translation: 'coquetel',
+    pronunciation: '/ˈkɒk.teɪl/',
+    portuguesePhonetic: 'cók teil',
+    syllables: ['cock', 'tail'],
+    exampleSentence: 'We ate seafood and drank cocktails at the hotel last week.',
+    exampleTranslation: 'Nós comemos frutos do mar e bebemos coquetéis no hotel semana passada.'
+  },
+  {
+    id: 'dew_7',
+    word: 'coconut water',
+    translation: 'água de coco',
+    pronunciation: '/ˈkəʊ.kə.nʌt ˈwɔː.tər/',
+    portuguesePhonetic: 'côu cô nât uó târ',
+    syllables: ['co', 'co', 'nut', 'wa', 'ter'],
+    exampleSentence: 'I drank a lot of coconut water at the beach.',
+    exampleTranslation: 'Eu bebi muita água de coco na praia.'
+  },
+  {
+    id: 'dew_8',
+    word: 'soda water',
+    translation: 'água com gás',
+    pronunciation: '/ˈsəʊ.də ˈwɔː.tər/',
+    portuguesePhonetic: 'sôu dâ uó târ',
+    syllables: ['so', 'da', 'wa', 'ter'],
+    exampleSentence: 'I would like some soda water, please.',
+    exampleTranslation: 'Eu gostaria de um pouco de água com gás, por favor.'
+  },
+  {
+    id: 'dew_9',
+    word: 'steak',
+    translation: 'bife',
+    pronunciation: '/steɪk/',
+    portuguesePhonetic: 'steik',
+    syllables: ['steak'],
+    exampleSentence: 'I wanted to eat a steak for dinner.',
+    exampleTranslation: 'Eu queria comer um bife no jantar.'
+  },
+  {
+    id: 'dew_10',
+    word: 'ribs',
+    translation: 'costela',
+    pronunciation: '/rɪbz/',
+    portuguesePhonetic: 'ribz',
+    syllables: ['ribs'],
+    exampleSentence: 'I ate an incredible dish with shrimp and ribs.',
+    exampleTranslation: 'Eu comi um prato incrível com camarão e costela.'
+  },
+  {
+    id: 'dew_11',
+    word: 'stew',
+    translation: 'ensopado',
+    pronunciation: '/stjuː/',
+    portuguesePhonetic: 'stiu',
+    syllables: ['stew'],
+    exampleSentence: 'They make a very good stew here.',
+    exampleTranslation: 'Eles fazem um ensopado muito bom aqui.'
+  },
+  {
+    id: 'dew_12',
+    word: 'omelet',
+    translation: 'omelete',
+    pronunciation: '/ˈɒm.lət/',
+    portuguesePhonetic: 'óm lêt',
+    syllables: ['om', 'e', 'let'],
+    exampleSentence: 'I ate an omelet for breakfast.',
+    exampleTranslation: 'Eu comi uma omelete no café da manhã.'
+  },
+  {
+    id: 'dew_13',
+    word: 'shrimp',
+    translation: 'camarão',
+    pronunciation: '/ʃrɪmp/',
+    portuguesePhonetic: 'shrimp',
+    syllables: ['shrimp'],
+    exampleSentence: 'Robert ate shrimp at the local cuisine restaurant.',
+    exampleTranslation: 'Robert comeu camarão no restaurante de culinária local.'
+  },
+  {
+    id: 'dew_14',
+    word: 'meatloaf',
+    translation: 'bolo de carne',
+    pronunciation: '/ˈmiːt.ləʊf/',
+    portuguesePhonetic: 'mit lôuf',
+    syllables: ['meat', 'loaf'],
+    exampleSentence: 'We ate meatloaf for lunch.',
+    exampleTranslation: 'Nós comemos bolo de carne no almoço.'
+  },
+  {
+    id: 'dew_15',
+    word: 'seafood',
+    translation: 'frutos do mar',
+    pronunciation: '/ˈsiː.fuːd/',
+    portuguesePhonetic: 'si fud',
+    syllables: ['sea', 'food'],
+    exampleSentence: 'We loved the seafood at that restaurant.',
+    exampleTranslation: 'Nós adoramos os frutos do mar naquele restaurante.'
+  },
+  {
+    id: 'dew_16',
+    word: 'street food',
+    translation: 'comida de rua',
+    pronunciation: '/striːt fuːd/',
+    portuguesePhonetic: 'strit fud',
+    syllables: ['street', 'food'],
+    exampleSentence: 'We ate a lot of street food in Thailand.',
+    exampleTranslation: 'Nós comemos muita comida de rua na Tailândia.'
+  },
+  {
+    id: 'dew_17',
+    word: 'local cuisine',
+    translation: 'culinária local',
+    pronunciation: '/ˈləʊ.kəl kwɪˈziːn/',
+    portuguesePhonetic: 'lôu cẩu cui zin',
+    syllables: ['lo', 'cal', 'cui', 'sine'],
+    exampleSentence: 'She wanted to go to a local cuisine restaurant.',
+    exampleTranslation: 'Ela queria ir a um restaurante de culinária local.'
+  },
+  {
+    id: 'dew_18',
+    word: 'special dish',
+    translation: 'prato especial',
+    pronunciation: '/ˈspeʃ.əl dɪʃ/',
+    portuguesePhonetic: 'spé shâl dish',
+    syllables: ['spe', 'cial', 'dish'],
+    exampleSentence: 'They make special dishes at that restaurant.',
+    exampleTranslation: 'Eles fazem pratos especiais naquele restaurante.'
+  },
+  {
+    id: 'dew_19',
+    word: 'make a toast',
+    translation: 'fazer um brinde',
+    pronunciation: '/meɪk ə təʊst/',
+    portuguesePhonetic: 'meik a tôust',
+    syllables: ['make', 'a', 'toast'],
+    exampleSentence: 'Let\'s make a toast to our vacations. Cheers!',
+    exampleTranslation: 'Vamos fazer um brinde às nossas férias. Saúde!'
+  },
+  {
+    id: 'dew_20',
+    word: 'all-you-can-eat',
+    translation: 'coma à vontade / rodízio',
+    pronunciation: '/ˌɔːl.jə.kənˈiːt/',
+    portuguesePhonetic: 'ól iu cen it',
+    syllables: ['all', 'you', 'can', 'eat'],
+    exampleSentence: 'We ate in an all-you-can-eat restaurant.',
+    exampleTranslation: 'Nós comemos em um restaurante rodízio.'
+  },
+  {
+    id: 'dew_21',
+    word: 'tap water',
+    translation: 'água da torneira',
+    pronunciation: '/tæp ˈwɔː.tər/',
+    portuguesePhonetic: 'tép uó târ',
+    syllables: ['tap', 'wa', 'ter'],
+    exampleSentence: 'Can I have some tap water, please?',
+    exampleTranslation: 'Você pode me dar um pouco de água da torneira, por favor?'
+  },
+  {
+    id: 'dew_22',
+    word: 'bottled water',
+    translation: 'água engarrafada',
+    pronunciation: '/ˈbɒt.əld ˈwɔː.tər/',
+    portuguesePhonetic: 'bó tậud uó târ',
+    syllables: ['bot', 'tled', 'wa', 'ter'],
+    exampleSentence: 'They always drink bottled water when they are traveling.',
+    exampleTranslation: 'Eles sempre bebem água engarrafada quando estão viajando.'
+  },
+  {
+    id: 'dew_23',
+    word: 'scrambled eggs',
+    translation: 'ovos mexidos',
+    pronunciation: '/ˈskræm.bəld eɡz/',
+    portuguesePhonetic: 'skrém bâud égz',
+    syllables: ['scram', 'bled', 'eggs'],
+    exampleSentence: 'He ate scrambled eggs and baked beans for breakfast.',
+    exampleTranslation: 'Ele comeu ovos mexidos e feijão assado no café da manhã.'
+  },
+  {
+    id: 'dew_24',
+    word: 'baked beans',
+    translation: 'feijão assado',
+    pronunciation: '/ˌbeɪkt ˈbiːnz/',
+    portuguesePhonetic: 'beikt binz',
+    syllables: ['baked', 'beans'],
+    exampleSentence: 'He ate scrambled eggs and baked beans for breakfast.',
+    exampleTranslation: 'Ele comeu ovos mexidos e feijão assado no café da manhã.'
+  },
+  {
+    id: 'dew_25',
+    word: 'roasted, baked, or fried',
+    translation: 'assado (carne), assado (forno) ou frito',
+    pronunciation: '/ˈrəʊ.stɪd, beɪkt, ɔːr fraɪd/',
+    portuguesePhonetic: 'rôus tid, beikt, or fraid',
+    syllables: ['roast', 'ed', 'baked', 'or', 'fried'],
+    exampleSentence: 'How do you prefer your chicken? Roasted, baked, or fried?',
+    exampleTranslation: 'Como você prefere seu frango? Assado, assado no forno ou frito?'
+  },
+  {
+    id: 'dew_26',
+    word: 'vacation',
+    translation: 'férias',
+    pronunciation: '/veɪˈkeɪ.ʃən/',
+    portuguesePhonetic: 'vei kei shân',
+    syllables: ['va', 'ca', 'tion'],
+    exampleSentence: 'He wanted to spend his vacation in the countryside, not on the beach.',
+    exampleTranslation: 'Ele queria passar as férias no interior, não na praia.'
+  },
+  {
+    id: 'dew_27',
+    word: 'glass of wine',
+    translation: 'taça de vinho',
+    pronunciation: '/ɡlɑːs əv waɪn/',
+    portuguesePhonetic: 'glés âv uain',
+    syllables: ['glass', 'of', 'wine'],
+    exampleSentence: 'What would you like to drink? I would like to drink a glass of wine, please.',
+    exampleTranslation: 'O que você gostaria de beber? Eu gostaria de beber uma taça de vinho, por favor.'
+  }
+];
+
 import { FlashcardData } from '../types';
 
 export const MOVE_PUT_DECK: FlashcardData[] = [
@@ -2658,6 +3844,474 @@ export const LUCKY_MAN_DECK: FlashcardData[] = [
   }
 ];
 
+
+export const LISTEN_WATCH_DECK: FlashcardData[] = [
+  {
+    id: 'listen_watch_1',
+    word: 'listen',
+    translation: 'ouvir',
+    pronunciation: '/ˈlɪs.ən/',
+    portuguesePhonetic: 'lís ên',
+    syllables: ['lis', 'ten'],
+    exampleSentence: 'They weren\'t listening to music.',
+    exampleTranslation: 'Eles não estavam escutando música.'
+  },
+  {
+    id: 'listen_watch_2',
+    word: 'watch',
+    translation: 'assistir',
+    pronunciation: '/wɒtʃ/',
+    portuguesePhonetic: 'uótch',
+    syllables: ['watch'],
+    exampleSentence: 'I wasn\'t watching it. It wasn\'t interesting.',
+    exampleTranslation: 'Eu não estava assistindo. Não era interessante.'
+  },
+  {
+    id: 'listen_watch_3',
+    word: 'comedy',
+    translation: 'comédia',
+    pronunciation: '/ˈkɒm.ə.di/',
+    portuguesePhonetic: 'có me di',
+    syllables: ['com', 'e', 'dy'],
+    exampleSentence: 'We were watching a comedy at her house last night.',
+    exampleTranslation: 'Nós estávamos assistindo uma comédia na casa dela ontem à noite.'
+  },
+  {
+    id: 'listen_watch_4',
+    word: 'horror',
+    translation: 'terror',
+    pronunciation: '/ˈhɒr.ər/',
+    portuguesePhonetic: 'ró rar',
+    syllables: ['hor', 'ror'],
+    exampleSentence: 'We weren\'t watching that horror movie — it was too scary.',
+    exampleTranslation: 'Nós não estávamos assistindo aquele filme de terror — era muito assustador.'
+  },
+  {
+    id: 'listen_watch_5',
+    word: 'action',
+    translation: 'ação',
+    pronunciation: '/ˈæk.ʃən/',
+    portuguesePhonetic: 'ék xân',
+    syllables: ['ac', 'tion'],
+    exampleSentence: 'She loves action movies.',
+    exampleTranslation: 'Ela ama filmes de ação.'
+  },
+  {
+    id: 'listen_watch_6',
+    word: 'thriller',
+    translation: 'suspense',
+    pronunciation: '/ˈθrɪl.ər/',
+    portuguesePhonetic: 'thrí lar',
+    syllables: ['thril', 'ler'],
+    exampleSentence: 'While you were watching a thriller, she was taking a shower.',
+    exampleTranslation: 'Enquanto vocês estavam assistindo um suspense, ela estava tomando banho.'
+  },
+  {
+    id: 'listen_watch_7',
+    word: 'romance',
+    translation: 'romance',
+    pronunciation: '/rəʊˈmæns/',
+    portuguesePhonetic: 'rou méns',
+    syllables: ['ro', 'mance'],
+    exampleSentence: 'What kind of movies does she like? She likes romance.',
+    exampleTranslation: 'Que tipo de filmes ela gosta? Ela gosta de romance.'
+  },
+  {
+    id: 'listen_watch_8',
+    word: 'documentary',
+    translation: 'documentário',
+    pronunciation: '/ˌdɒk.jəˈmen.tər.i/',
+    portuguesePhonetic: 'dó quium mén ta rí',
+    syllables: ['doc', 'u', 'men', 'ta', 'ry'],
+    exampleSentence: 'He wasn\'t really watching the documentary, he was sleeping.',
+    exampleTranslation: 'Ele não estava realmente assistindo ao documentário, ele estava dormindo.'
+  },
+  {
+    id: 'listen_watch_9',
+    word: 'subtitle',
+    translation: 'legenda',
+    pronunciation: '/ˈsʌbˌtaɪ.təl/',
+    portuguesePhonetic: 'sâb tai tôu',
+    syllables: ['sub', 'ti', 'tle'],
+    exampleSentence: 'The movie is in French, but it has English subtitles.',
+    exampleTranslation: 'O filme é em francês, mas tem legendas em inglês.'
+  },
+  {
+    id: 'listen_watch_10',
+    word: 'dubbed',
+    translation: 'dublado',
+    pronunciation: '/dʌbd/',
+    portuguesePhonetic: 'dâbd',
+    syllables: ['dubbed'],
+    exampleSentence: 'My father prefers old dubbed movies.',
+    exampleTranslation: 'Meu pai prefere filmes velhos dublados.'
+  },
+  {
+    id: 'listen_watch_11',
+    word: 'play',
+    translation: 'peça teatral',
+    pronunciation: '/pleɪ/',
+    portuguesePhonetic: 'plei',
+    syllables: ['play'],
+    exampleSentence: 'They weren\'t having fun with that play.',
+    exampleTranslation: 'Eles não estava se divertindo com aquela peça teatral.'
+  },
+  {
+    id: 'listen_watch_12',
+    word: 'podcast',
+    translation: 'podcast',
+    pronunciation: '/ˈpɒd.kɑːst/',
+    portuguesePhonetic: 'pód kast',
+    syllables: ['pod', 'cast'],
+    exampleSentence: 'He was listening to a podcast while he was driving.',
+    exampleTranslation: 'Ele estava escutando um podcast enquanto ele estava dirigindo.'
+  },
+  {
+    id: 'listen_watch_13',
+    word: 'song',
+    translation: 'música, canção',
+    pronunciation: '/sɒŋ/',
+    portuguesePhonetic: 'sóng',
+    syllables: ['song'],
+    exampleSentence: 'He was listening to his favorite pop song.',
+    exampleTranslation: 'Ele estava ouvindo sua música pop favorita.'
+  },
+  {
+    id: 'listen_watch_14',
+    word: 'rock',
+    translation: 'rock',
+    pronunciation: '/rɒk/',
+    portuguesePhonetic: 'rók',
+    syllables: ['rock'],
+    exampleSentence: 'I like to listen to rock music while I am running.',
+    exampleTranslation: 'Eu gosto de ouvir rock enquanto eu estou correndo.'
+  },
+  {
+    id: 'listen_watch_15',
+    word: 'pop',
+    translation: 'pop',
+    pronunciation: '/pɒp/',
+    portuguesePhonetic: 'póp',
+    syllables: ['pop'],
+    exampleSentence: 'He was listening to his favorite pop song.',
+    exampleTranslation: 'Ele estava ouvindo sua música pop favorita.'
+  },
+  {
+    id: 'listen_watch_16',
+    word: 'electronic music',
+    translation: 'música eletrônica',
+    pronunciation: '/ɪˌlekˈtrɒn.ɪk ˈmjuː.zɪk/',
+    portuguesePhonetic: 'i lék tró ník myú zík',
+    syllables: ['e', 'lec', 'tron', 'ic', 'mu', 'sic'],
+    exampleSentence: 'She was listening to electronic music while she was cooking.',
+    exampleTranslation: 'Ela estava escutando música eletrônica enquanto ela estava cozinhando.'
+  },
+  {
+    id: 'listen_watch_17',
+    word: 'classical music',
+    translation: 'música clássica',
+    pronunciation: '/ˈklæs.ɪ.kəl ˈmjuː.zɪk/',
+    portuguesePhonetic: 'klé si kôu myú zík',
+    syllables: ['clas', 'si', 'cal', 'mu', 'sic'],
+    exampleSentence: 'John listens to classical music while he is working.',
+    exampleTranslation: 'John ouve música clássica enquanto ele está trabalhando.'
+  },
+  {
+    id: 'listen_watch_18',
+    word: 'while',
+    translation: 'enquanto',
+    pronunciation: '/waɪl/',
+    portuguesePhonetic: 'uáil',
+    syllables: ['while'],
+    exampleSentence: 'While you were watching a thriller, she was taking a shower.',
+    exampleTranslation: 'Enquanto vocês estavam assistindo um suspense, ela estava tomando banho.'
+  },
+  {
+    id: 'listen_watch_19',
+    word: 'music',
+    translation: 'música',
+    pronunciation: '/ˈmjuː.zɪk/',
+    portuguesePhonetic: 'myú zík',
+    syllables: ['mu', 'sic'],
+    exampleSentence: 'What kind of music do you like?',
+    exampleTranslation: 'Que tipo de música você gosta?'
+  },
+  {
+    id: 'listen_watch_20',
+    word: 'turn on / turn off',
+    translation: 'ligar / desligar',
+    pronunciation: '/tɜrn ɔn / tɜrn ɔf/',
+    portuguesePhonetic: 'târn ón / târn óf',
+    syllables: ['turn', 'on', 'turn', 'off'],
+    exampleSentence: 'Can you turn on the TV? Or turn off the radio, please.',
+    exampleTranslation: 'Você pode ligar a TV? Ou desligar o rádio, por favor.'
+  },
+  {
+    id: 'listen_watch_21',
+    word: 'popcorn',
+    translation: 'pipoca',
+    pronunciation: '/ˈpɒp.kɔːn/',
+    portuguesePhonetic: 'póp kórn',
+    syllables: ['pop', 'corn'],
+    exampleSentence: 'We were eating popcorn.',
+    exampleTranslation: 'Nós estávamos comendo pipoca.'
+  },
+  {
+    id: 'listen_watch_22',
+    word: 'reggae',
+    translation: 'reggae',
+    pronunciation: '/ˈreɡ.eɪ/',
+    portuguesePhonetic: 'ré guei',
+    syllables: ['reg', 'gae'],
+    exampleSentence: 'I was listening to reggae music.',
+    exampleTranslation: 'Eu estava ouvindo reggae.'
+  }
+];
+
+
+export const POST_FOLLOW_DECK: FlashcardData[] = [
+  {
+    id: 'post_follow_1',
+    word: 'post',
+    translation: 'postar, postagem',
+    pronunciation: '/pəʊst/',
+    portuguesePhonetic: 'pôust',
+    syllables: ['post'],
+    exampleSentence: 'She only posts pictures of her trips on her timeline.',
+    exampleTranslation: 'Ela só posta fotos de viagens na linha do tempo dela.'
+  },
+  {
+    id: 'post_follow_2',
+    word: 'follow',
+    translation: 'seguir',
+    pronunciation: '/ˈfɒl.əʊ/',
+    portuguesePhonetic: 'fó lôu',
+    syllables: ['fol', 'low'],
+    exampleSentence: 'Were you following that digital influencer?',
+    exampleTranslation: 'Você estava seguindo aquele influenciador digital?'
+  },
+  {
+    id: 'post_follow_3',
+    word: 'social media',
+    translation: 'mídia social',
+    pronunciation: '/ˌsəʊ.ʃəl ˈmiː.di.ə/',
+    portuguesePhonetic: 'sôu xal mi di a',
+    syllables: ['so', 'cial', 'me', 'di', 'a'],
+    exampleSentence: 'I wasn\'t following that media influencer.',
+    exampleTranslation: 'Eu não estava seguindo aquele influenciador de mídia.'
+  },
+  {
+    id: 'post_follow_4',
+    word: 'profile',
+    translation: 'perfil',
+    pronunciation: '/ˈprəʊ.faɪl/',
+    portuguesePhonetic: 'prôu faiu',
+    syllables: ['pro', 'file'],
+    exampleSentence: 'I need to change the profile pictures of my channel.',
+    exampleTranslation: 'Eu preciso mudar as fotos de perfil do meu canal.'
+  },
+  {
+    id: 'post_follow_5',
+    word: 'picture',
+    translation: 'foto',
+    pronunciation: '/ˈpɪk.tʃər/',
+    portuguesePhonetic: 'pík tchar',
+    syllables: ['pic', 'ture'],
+    exampleSentence: 'Was he sharing his pictures on her post?',
+    exampleTranslation: 'Ele estava compartilhando suas fotos na postagem dela?'
+  },
+  {
+    id: 'post_follow_6',
+    word: 'follower',
+    translation: 'seguidor',
+    pronunciation: '/ˈfɒl.əʊ.ər/',
+    portuguesePhonetic: 'fó lô war',
+    syllables: ['fol', 'low', 'er'],
+    exampleSentence: 'Some followers were making really bad comments about that digital influencer.',
+    exampleTranslation: 'Alguns seguidores estavam fazendo comentários muito ruins sobre aquele influenciador digital.'
+  },
+  {
+    id: 'post_follow_7',
+    word: 'view',
+    translation: 'visualização',
+    pronunciation: '/vjuː/',
+    portuguesePhonetic: 'viu',
+    syllables: ['view'],
+    exampleSentence: 'Their channel was having more than 1k views a day.',
+    exampleTranslation: 'O canal deles estava tendo mais de mil visualizações por dia.'
+  },
+  {
+    id: 'post_follow_8',
+    word: 'timeline',
+    translation: 'linha do tempo',
+    pronunciation: '/ˈtaɪm.laɪn/',
+    portuguesePhonetic: 'taim lain',
+    syllables: ['time', 'line'],
+    exampleSentence: 'He is so young, but there are amazing pictures on this timeline.',
+    exampleTranslation: 'Ele é tão jovem, mas tem fotos incríveis nesta linha do tempo.'
+  },
+  {
+    id: 'post_follow_9',
+    word: 'comment',
+    translation: 'comentário',
+    pronunciation: '/ˈkɒm.ent/',
+    portuguesePhonetic: 'kó ment',
+    syllables: ['com', 'ment'],
+    exampleSentence: 'Were many followers posting comments?',
+    exampleTranslation: 'Tinham muitos seguidores postando comentários?'
+  },
+  {
+    id: 'post_follow_10',
+    word: 'news feed',
+    translation: 'feed de notícias',
+    pronunciation: '/ˈnjuːz ˌfiːd/',
+    portuguesePhonetic: 'niuz fid',
+    syllables: ['news', 'feed'],
+    exampleSentence: 'I saw his post on my news feed.',
+    exampleTranslation: 'Eu vi a postagem dele no meu feed de notícias.'
+  },
+  {
+    id: 'post_follow_11',
+    word: 'notification',
+    translation: 'notificação',
+    pronunciation: '/ˌnəʊ.tɪ.fɪˈkeɪ.ʃən/',
+    portuguesePhonetic: 'nou ti fi kei xân',
+    syllables: ['no', 'ti', 'fi', 'ca', 'tion'],
+    exampleSentence: 'They weren\'t sending notifications about the end of the channel.',
+    exampleTranslation: 'Eles não estavam enviando notificações sobre o fim do canal.'
+  },
+  {
+    id: 'post_follow_12',
+    word: 'digital influencer',
+    translation: 'influenciador digital',
+    pronunciation: '/ˈdɪdʒ.ɪ.təl ˈɪn.flu.ən.sər/',
+    portuguesePhonetic: 'dí ji tâu in flu ên sâr',
+    syllables: ['dig', 'i', 'tal', 'in', 'flu', 'en', 'cer'],
+    exampleSentence: 'Everyone is following that digital influencer.',
+    exampleTranslation: 'Todo mundo está seguindo aquele influenciador digital.'
+  },
+  {
+    id: 'post_follow_13',
+    word: 'channel',
+    translation: 'canal',
+    pronunciation: '/ˈtʃæn.əl/',
+    portuguesePhonetic: 'tché nôu',
+    syllables: ['chan', 'nel'],
+    exampleSentence: 'I\'m subscribing to ten channels at the moment.',
+    exampleTranslation: 'Estou inscrito em dez canais no momento.'
+  },
+  {
+    id: 'post_follow_14',
+    word: 'setting',
+    translation: 'configuração',
+    pronunciation: '/ˈset.ɪŋ/',
+    portuguesePhonetic: 'sé ting',
+    syllables: ['set', 'ting'],
+    exampleSentence: 'Why were you changing the settings of your channel?',
+    exampleTranslation: 'Por que você estava mudando as configurações do seu canal?'
+  },
+  {
+    id: 'post_follow_15',
+    word: 'virus',
+    translation: 'vírus',
+    pronunciation: '/ˈvaɪ.rəs/',
+    portuguesePhonetic: 'vai râs',
+    syllables: ['vi', 'rus'],
+    exampleSentence: 'Because a follower was trying to send me a virus.',
+    exampleTranslation: 'Porque um seguidor estava tentando me enviar um vírus.'
+  },
+  {
+    id: 'post_follow_16',
+    word: 'unfriend',
+    translation: 'desfazer amizade',
+    pronunciation: '/ʌnˈfrend/',
+    portuguesePhonetic: 'ân frénd',
+    syllables: ['un', 'friend'],
+    exampleSentence: 'I don\'t usually unfriend followers.',
+    exampleTranslation: 'Eu normalmente não desfaço amizade com seguidores.'
+  },
+  {
+    id: 'post_follow_17',
+    word: 'go viral',
+    translation: 'viralizar',
+    pronunciation: '/ɡəʊ ˈvaɪ.rəl/',
+    portuguesePhonetic: 'gôu vai râu',
+    syllables: ['go', 'vi', 'ral'],
+    exampleSentence: 'My posts never go viral.',
+    exampleTranslation: 'Minhas postagens nunca viralizam.'
+  },
+  {
+    id: 'post_follow_18',
+    word: 'subscribe',
+    translation: 'inscrever-se',
+    pronunciation: '/səbˈskraɪb/',
+    portuguesePhonetic: 'sâb skraib',
+    syllables: ['sub', 'scribe'],
+    exampleSentence: 'Nobody is subscribing to my channel because he is famous on TV.',
+    exampleTranslation: 'Ninguém está se inscrevendo no meu canal porque ele é famoso na TV.'
+  },
+  {
+    id: 'post_follow_19',
+    word: 'share',
+    translation: 'compartilhar',
+    pronunciation: '/ʃeər/',
+    portuguesePhonetic: 'chér',
+    syllables: ['share'],
+    exampleSentence: 'Was he sharing his pictures on her post?',
+    exampleTranslation: 'Ele estava compartilhando suas fotos na postagem dela?'
+  },
+  {
+    id: 'post_follow_20',
+    word: 'Youtuber',
+    translation: 'Youtuber',
+    pronunciation: '/ˈjuːˌtjuː.bər/',
+    portuguesePhonetic: 'yu tu bâr',
+    syllables: ['You', 'tu', 'ber'],
+    exampleSentence: 'Everyone is following that Youtuber.',
+    exampleTranslation: 'Todo mundo está seguindo aquele Youtuber.'
+  },
+  {
+    id: 'post_follow_21',
+    word: 'listen to a song',
+    translation: 'escutar canção',
+    pronunciation: '/ˈlɪs.ən tʊ eɪ sɒŋ/',
+    portuguesePhonetic: 'li sân tu a sóng',
+    syllables: ['lis', 'ten', 'to', 'a', 'song'],
+    exampleSentence: 'Were they listening to the song from your post?',
+    exampleTranslation: 'Eles estavam ouvindo a canção da sua postagem?'
+  },
+  {
+    id: 'post_follow_22',
+    word: 'post pictures',
+    translation: 'postar fotos',
+    pronunciation: '/pəʊst ˈpɪk.tʃərz/',
+    portuguesePhonetic: 'pôust pík tcharz',
+    syllables: ['post', 'pic', 'tures'],
+    exampleSentence: 'Was Jane posting pictures of the hostel?',
+    exampleTranslation: 'Jane estava postando fotos do albergue?'
+  },
+  {
+    id: 'post_follow_23',
+    word: 'unfriend someone',
+    translation: 'desfazer amizade',
+    pronunciation: '/ʌnˈfrend ˈsʌm.wʌn/',
+    portuguesePhonetic: 'ân frénd sâm uân',
+    syllables: ['un', 'friend', 'some', 'one'],
+    exampleSentence: 'Why don\'t you unfriend her?',
+    exampleTranslation: 'Por que você não desfaz amizade com ela?'
+  },
+  {
+    id: 'post_follow_24',
+    word: 'Not only interesting posts',
+    translation: 'Nem apenas postagens interessantes',
+    pronunciation: '/nɒt ˈəʊn.li ˈɪn.trə.stɪŋ pəʊsts/',
+    portuguesePhonetic: 'nót ôun li in trâ stin pôusts',
+    syllables: ['Not', 'on', 'ly', 'in', 'ter', 'est', 'ing', 'posts'],
+    exampleSentence: 'Not only interesting posts go viral.',
+    exampleTranslation: 'Nem apenas postagens interessantes viralizam.'
+  }
+];
+
 export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   move_put: {
     en: MOVE_PUT_DECK
@@ -2682,5 +4336,23 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   lucky_man: {
     en: LUCKY_MAN_DECK
+  },
+  listen_watch: {
+    en: LISTEN_WATCH_DECK
+  },
+  post_follow: {
+    en: POST_FOLLOW_DECK
+  },
+  drink_eat_want: {
+    en: DRINK_EAT_WANT_DECK
+  },
+  go_have_visit: {
+    en: GO_HAVE_VISIT_DECK
+  },
+  travel_stay_need: {
+    en: TRAVEL_STAY_NEED_DECK
+  },
+  know_work_live: {
+    en: KNOW_WORK_LIVE_DECK
   }
 };

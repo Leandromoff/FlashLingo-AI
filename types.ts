@@ -36,37 +36,67 @@ export interface StudySession {
 export const PREDEFINED_TOPICS = [
   { 
     id: 'move_put', 
-    label: 'Mover, Mudar, Colocar & Pôr', 
+    label: '61 Mover, Mudar, Colocar & Pôr', 
     isStatic: true
   },
   {
     id: 'share_rent',
-    label: 'Dividir, Compartilhar & Alugar',
-    isStatic: true
-  },
-  {
-    id: 'to_be_1',
-    label: 'Ser, Estar I',
-    isStatic: true
-  },
-  {
-    id: 'to_be_2',
-    label: 'Ser, Estar II',
-    isStatic: true
-  },
-  {
-    id: 'to_be',
-    label: 'Ser, Estar III',
-    isStatic: true
-  },
-  {
-    id: 'begin_choose',
-    label: 'Iniciar, Começar & Escolher',
+    label: '63 Dividir, Compartilhar & Alugar',
     isStatic: true
   },
   {
     id: 'lose_find',
-    label: 'Perder, Encontrar & Achar',
+    label: '65 Perder, Encontrar & Achar',
+    isStatic: true
+  },
+  {
+    id: 'to_be_1',
+    label: '67 Ser, Estar I',
+    isStatic: true
+  },
+  {
+    id: 'to_be_2',
+    label: '69 Ser, Estar II',
+    isStatic: true
+  },
+  {
+    id: 'to_be',
+    label: '71 Ser, Estar III',
+    isStatic: true
+  },
+  {
+    id: 'begin_choose',
+    label: '73 Iniciar, Começar & Escolher',
+    isStatic: true
+  },
+  {
+    id: 'listen_watch',
+    label: '75 Ouvir & Assistir',
+    isStatic: true
+  },
+  {
+    id: 'post_follow',
+    label: '77 Postar & Seguir',
+    isStatic: true
+  },
+  {
+    id: 'drink_eat_want',
+    label: '79 Comer, Beber & Querer',
+    isStatic: true
+  },
+  {
+    id: 'go_have_visit',
+    label: '81 Ir, Ter & Visitar',
+    isStatic: true
+  },
+  {
+    id: 'travel_stay_need',
+    label: '83 Viajar, Ficar & Precisar',
+    isStatic: true
+  },
+  {
+    id: 'know_work_live',
+    label: '85 Saber, Trabalhar & Morar',
     isStatic: true
   },
   {

@@ -317,7 +317,7 @@ const App: React.FC = () => {
                         <div className="flex items-center mb-1">
                         <span className="font-bold text-slate-800 dark:text-white text-lg mr-2 group-hover:text-indigo-700 dark:group-hover:text-indigo-400">{topic.label}</span>
                         <span className="text-xs font-bold bg-indigo-50 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border border-indigo-100 dark:border-indigo-800 px-2 py-1 rounded-lg">
-                          {isComplete ? '100% CONCLUÍDO' : `${displayLearnedCount} / ${totalCards} PALAVRAS`}
+                          {isComplete ? '100% CONCLUÍDO' : `${displayLearnedCount} / ${totalCards}`}
                         </span>
                         </div>
                         <div className="flex gap-3 text-sm min-h-[1.25rem]">{reviewCount > 0 && (<span className="text-amber-500 dark:text-amber-400 font-bold flex items-center gap-1 text-xs animate-pulse"><Star size={12} className="fill-current" />{reviewCount} para revisar</span>)}</div>
@@ -328,12 +328,21 @@ const App: React.FC = () => {
                {/* Right Side - Actions */}
                <div className="flex items-center border-t sm:border-t-0 sm:border-l border-slate-100 dark:border-slate-700 bg-slate-50/50 dark:bg-slate-900/20">
                     {activeSession ? (
-                        <button 
-                            onClick={(e) => { e.stopPropagation(); resumeSession(topic.id); }}
-                            className="h-full w-full sm:w-auto px-6 py-3 sm:py-0 bg-amber-500 hover:bg-amber-600 text-white font-bold transition-colors flex items-center justify-center gap-2"
-                        >
-                            Continuar ({activeSession.currentIndex}/{activeSession.cards.length})
-                        </button>
+                        <>
+                            <button 
+                                onClick={(e) => resetProgress(topic.id, e)} 
+                                className="h-full px-4 py-3 sm:py-0 text-slate-300 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 transition-colors flex items-center justify-center border-r border-slate-100 dark:border-slate-700" 
+                                title="Reiniciar Progresso"
+                            >
+                                <RotateCcw size={18} />
+                            </button>
+                            <button 
+                                onClick={(e) => { e.stopPropagation(); resumeSession(topic.id); }}
+                                className="h-full w-full sm:w-auto px-6 py-3 sm:py-0 bg-amber-500 hover:bg-amber-600 text-white font-bold transition-colors flex items-center justify-center gap-2"
+                            >
+                                Continuar ({activeSession.currentIndex}/{activeSession.cards.length})
+                            </button>
+                        </>
                     ) : isComplete ? (
                         <button 
                             onClick={(e) => resetProgress(topic.id, e)} 

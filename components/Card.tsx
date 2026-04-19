@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { FlashcardData, SupportedLanguage } from '../types';
-import { RefreshCw, Loader2, Sparkles, Zap, Check, X, Eye } from 'lucide-react';
+import { RefreshCw, Loader2, Sparkles, Zap, Check, X, Eye, Snail } from 'lucide-react';
 import { playCloudAudio, playLocalAudio, preloadCloudAudio } from '../services/geminiService';
 
 interface CardProps {
@@ -12,7 +12,7 @@ interface CardProps {
   onKnow: () => void;
 }
 
-type AudioSource = 'cloud' | 'local' | 'visual' | null;
+type AudioSource = 'cloud' | 'local' | 'visual' | 'slow' | null;
 
 const Card: React.FC<CardProps> = ({ 
   data, 
@@ -124,6 +124,24 @@ const Card: React.FC<CardProps> = ({
     }
   };
 
+  const handleSlowPlay = async (text: string, isMainWord: boolean, e: React.MouseEvent) => {
+    e.stopPropagation();
+    if (playingSource) return;
+
+    if (isMounted.current) setPlayingSource('slow');
+    try {
+      await playCloudAudio(text, undefined, 0.6, targetLanguage);
+    } catch (error) {
+      console.error("Cloud speech failed (slow)", error);
+      // Fallback a bit slower too
+      await playLocalAudio(text, targetLanguage, undefined, undefined, 0.6);
+    } finally {
+      if (isMounted.current) {
+        setPlayingSource(null);
+      }
+    }
+  };
+
   const handleLocalPlay = async (text: string, isMainWord: boolean, e: React.MouseEvent) => {
     e.stopPropagation();
     if (playingSource) return;
@@ -166,13 +184,13 @@ const Card: React.FC<CardProps> = ({
   const renderSentence = () => {
     const words = data.exampleSentence.split(/\s+/);
     return (
-      <p className="text-indigo-100 text-sm font-medium mb-2 opacity-80 flex flex-wrap justify-center gap-x-1">
+      <p className="text-slate-600 dark:text-slate-400 text-sm font-medium mb-2 flex flex-wrap justify-center gap-x-1">
         {words.map((word, i) => (
           <span 
             key={i} 
-            className={`transition-colors duration-75 px-0.5 rounded ${
+            className={`transition-colors duration-75 px-1 rounded ${
               activeWordIndex === i 
-              ? 'bg-amber-400 text-indigo-900 font-bold' 
+              ? 'bg-indigo-100 text-indigo-700 dark:bg-indigo-900/50 dark:text-indigo-300 font-bold' 
               : ''
             }`}
           >
@@ -347,6 +365,24 @@ const Card: React.FC<CardProps> = ({
                   )}
                 </button>
 
+                {/* Slow Cloud Audio (Turtle Mode) */}
+                <button 
+                  onClick={(e) => handleSlowPlay(data.word, true, e)}
+                  disabled={playingSource !== null}
+                  className={`flex items-center justify-center w-10 h-10 rounded-full transition-colors border ${
+                    playingSource === 'slow'
+                      ? 'bg-indigo-100 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border-indigo-200 dark:border-indigo-800/50 cursor-wait' 
+                      : 'bg-indigo-50 dark:bg-slate-700 text-indigo-700 dark:text-indigo-400 border-indigo-100 dark:border-slate-600 hover:bg-indigo-100 dark:hover:bg-slate-600 shadow-sm'
+                  }`}
+                  title="Áudio Lento (Modo Tartaruga)"
+                >
+                  {playingSource === 'slow' ? (
+                    <Loader2 size={18} className="animate-spin" />
+                  ) : (
+                    <Snail size={18} />
+                  )}
+                </button>
+
                 {/* Visual Karaoke */}
                 <button 
                   onClick={(e) => handleVisualKaraoke(data.word, true, e)}
@@ -402,49 +438,57 @@ const Card: React.FC<CardProps> = ({
         </div>
 
         {/* BACK OF CARD */}
-        <div className="absolute inset-0 w-full h-full bg-indigo-600 dark:bg-indigo-700 rounded-3xl rotate-y-180 backface-hidden flex flex-col items-center justify-center p-8 text-white overflow-y-auto">
-          <span className="absolute top-6 left-6 text-xs font-bold text-indigo-200 uppercase tracking-widest">
+        <div className="absolute inset-0 w-full h-full bg-slate-50 dark:bg-slate-900 border-2 border-slate-200 dark:border-slate-800 rounded-3xl rotate-y-180 backface-hidden flex flex-col items-center justify-center p-8 text-slate-800 dark:text-white overflow-y-auto">
+          <span className="absolute top-6 left-6 text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest">
             Português
           </span>
 
           <div className="flex flex-col items-center text-center space-y-4 w-full h-full justify-center">
             
             <div className="shrink-0">
-               <p className="text-indigo-200 text-xs uppercase font-bold mb-2">Palavra</p>
+               <p className="text-slate-400 dark:text-slate-500 text-xs uppercase font-bold mb-2">Palavra</p>
                <h3 className="text-3xl font-bold leading-tight">
                 {data.translation}
               </h3>
             </div>
             
-            <div className="w-full border-t border-indigo-500/50"></div>
+            <div className="w-full border-t border-slate-200 dark:border-slate-700/50"></div>
             
-            <div className="w-full bg-indigo-800/30 dark:bg-slate-900/20 p-4 rounded-2xl shrink-0">
+            <div className="w-full bg-white dark:bg-slate-800/80 border border-slate-100 dark:border-slate-700 p-4 rounded-2xl shrink-0">
               <div className="flex justify-between items-center mb-2">
-                <p className="text-indigo-300 text-xs uppercase font-bold">Exemplo traduzido</p>
+                <p className="text-slate-400 dark:text-slate-400 text-xs uppercase font-bold">Exemplo traduzido</p>
                 <div className="flex gap-2">
                   <button 
                     onClick={(e) => handleVisualKaraoke(data.exampleSentence, false, e)}
                     disabled={playingSource !== null}
-                    className={`p-1 rounded-full transition-all border ${
+                    className={`p-1.5 rounded-full transition-all border ${
                       playingSource === 'visual' 
-                        ? 'bg-emerald-400 text-indigo-900 border-emerald-300' 
-                        : 'bg-white/10 hover:bg-white/20 border-white/20 text-indigo-200'
+                        ? 'bg-emerald-100 text-emerald-600 border-emerald-200 dark:bg-emerald-900/30 dark:text-emerald-400 dark:border-emerald-800' 
+                        : 'bg-indigo-50 hover:bg-indigo-100 border-indigo-100 text-indigo-600 dark:bg-indigo-500/10 dark:hover:bg-indigo-500/20 dark:border-indigo-500/20 dark:text-indigo-400'
                     }`}
                     title="Leitura Guiada"
                   >
                     <Eye size={12} className={playingSource === 'visual' ? "fill-current" : ""} />
                   </button>
                   <button 
+                    onClick={(e) => handleSlowPlay(data.exampleSentence, false, e)}
+                    disabled={playingSource !== null}
+                    className="p-1.5 rounded-full transition-all border bg-indigo-50 hover:bg-indigo-100 border-indigo-100 text-indigo-600 dark:bg-indigo-500/10 dark:hover:bg-indigo-500/20 dark:border-indigo-500/20 dark:text-indigo-400"
+                    title="Áudio Lento"
+                  >
+                    <Snail size={12} className={playingSource === 'slow' ? "fill-current text-indigo-500 dark:text-indigo-400" : ""} />
+                  </button>
+                  <button 
                     onClick={(e) => handleLocalPlay(data.exampleSentence, false, e)}
                     disabled={playingSource !== null}
-                    className="p-1 rounded-full bg-white/10 hover:bg-white/20 border border-white/20 text-indigo-200 transition-all"
+                    className="p-1.5 rounded-full transition-all border bg-indigo-50 hover:bg-indigo-100 border-indigo-100 text-indigo-600 dark:bg-indigo-500/10 dark:hover:bg-indigo-500/20 dark:border-indigo-500/20 dark:text-indigo-400"
                   >
-                    <Zap size={12} className={playingSource === 'local' ? "fill-current text-amber-400" : ""} />
+                    <Zap size={12} className={playingSource === 'local' ? "fill-current text-amber-500 dark:text-amber-400" : ""} />
                   </button>
                 </div>
               </div>
               {renderSentence()}
-              <p className="text-white text-lg font-bold italic leading-relaxed">
+              <p className="text-slate-700 dark:text-slate-300 text-lg font-bold italic leading-relaxed">
                 "{data.exampleTranslation}"
               </p>
             </div>
@@ -455,16 +499,16 @@ const Card: React.FC<CardProps> = ({
                 {!showGrammar ? (
                   <button 
                     onClick={(e) => { e.stopPropagation(); setShowGrammar(true); }}
-                    className="flex items-center gap-2 px-4 py-2 bg-white/10 hover:bg-white/20 border border-white/20 rounded-xl text-xs font-bold uppercase tracking-wider transition-all"
+                    className="flex items-center gap-2 px-4 py-2 bg-slate-100 hover:bg-slate-200 border border-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 dark:border-slate-700 rounded-xl text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 transition-all"
                   >
-                    <Sparkles size={14} /> Ver Gramática
+                    <Sparkles size={14} className="text-indigo-500 dark:text-indigo-400" /> Ver Gramática
                   </button>
                 ) : (
-                  <div className="w-full bg-white/10 dark:bg-slate-900/40 p-4 rounded-2xl border border-white/10 dark:border-slate-700/50 animate-in fade-in slide-in-from-bottom-2 duration-300">
-                    <p className="text-indigo-200 text-xs uppercase font-bold mb-2 flex items-center justify-center gap-1">
-                      <Sparkles size={12} /> Gramática
+                  <div className="w-full bg-slate-100 dark:bg-slate-800/80 p-4 rounded-2xl border border-slate-200 dark:border-slate-700 animate-in fade-in slide-in-from-bottom-2 duration-300">
+                    <p className="text-slate-400 dark:text-slate-400 text-xs uppercase font-bold mb-2 flex items-center justify-center gap-1">
+                      <Sparkles size={12} className="text-indigo-500 dark:text-indigo-400" /> Gramática
                     </p>
-                    <p className="text-white text-sm leading-relaxed font-light">
+                    <p className="text-slate-700 dark:text-slate-300 text-sm leading-relaxed font-light">
                       {data.grammarExplanation}
                     </p>
                   </div>
@@ -472,7 +516,7 @@ const Card: React.FC<CardProps> = ({
               </div>
             )}
             
-            <p className="text-indigo-300 text-sm mt-2 animate-pulse shrink-0">Toque para voltar</p>
+            <p className="text-slate-400 dark:text-slate-500 text-sm mt-2 animate-pulse shrink-0">Toque para voltar</p>
           </div>
         </div>
 
