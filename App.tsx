@@ -55,6 +55,10 @@ const TOPIC_POOL = [
 ];
 
 const App: React.FC = () => {
+  const [isAuthenticated, setIsAuthenticated] = useLocalStorage('flashlingo_auth', false);
+  const [password, setPassword] = useState('');
+  const [loginError, setLoginError] = useState(false);
+
   const [appState, setAppState] = useState<AppState>(AppState.HOME);
 
   const [customTopic, setCustomTopic] = useState('');
@@ -509,6 +513,56 @@ const App: React.FC = () => {
       </div>
     );
   };
+
+  const handleLogin = (e: React.FormEvent) => {
+    e.preventDefault();
+    const pw = password.trim().toLowerCase();
+    if (pw === 'europa' || pw === 'amarula') {
+      setIsAuthenticated(true);
+      setLoginError(false);
+    } else {
+      setLoginError(true);
+    }
+  };
+
+  if (!isAuthenticated) {
+    return (
+      <div className="min-h-screen bg-slate-50 dark:bg-slate-950 flex flex-col items-center justify-center p-4 transition-colors duration-300">
+        <div className="bg-white dark:bg-slate-900 shadow-xl rounded-3xl p-8 max-w-sm w-full mx-auto border border-slate-100 dark:border-slate-800">
+          <div className="flex justify-center mb-6">
+            <div className="bg-indigo-100 dark:bg-indigo-900/40 p-4 rounded-2xl">
+              <BrainCircuit className="text-indigo-600 dark:text-indigo-400" size={48} />
+            </div>
+          </div>
+          <h1 className="text-2xl font-black text-center mb-2 dark:text-slate-50">Acesso Restrito</h1>
+          <p className="text-slate-500 dark:text-slate-400 text-center mb-8">Digite a palavra-chave para entrar.</p>
+          
+          <form onSubmit={handleLogin} className="space-y-4">
+            <div>
+              <input
+                type="password"
+                value={password}
+                onChange={(e) => {
+                  setPassword(e.target.value);
+                  setLoginError(false);
+                }}
+                className={`w-full px-4 py-3 rounded-xl border-2 ${loginError ? 'border-red-400 bg-red-50 dark:bg-red-900/20 text-red-900 dark:text-red-100' : 'border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-900 dark:text-slate-50'} focus:border-indigo-400 focus:outline-none focus:ring-4 focus:ring-indigo-100 dark:focus:ring-indigo-900/30 transition-all font-medium`}
+                placeholder="Palavra-chave"
+                autoFocus
+              />
+              {loginError && <p className="text-red-500 text-sm mt-2 font-medium">Palavra-chave incorreta.</p>}
+            </div>
+            <button
+              type="submit"
+              className="w-full bg-indigo-500 hover:bg-indigo-600 active:bg-indigo-700 text-white font-bold py-3 px-6 rounded-xl transition-colors"
+            >
+              Entrar
+            </button>
+          </form>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-50 font-sans transition-colors duration-300">

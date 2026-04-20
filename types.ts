@@ -34,6 +34,51 @@ export interface StudySession {
 }
 
 export const PREDEFINED_TOPICS = [
+  {
+    id: 'start_finish',
+    label: '31 Começar & Terminar',
+    isStatic: true
+  },
+  {
+    id: 'write_think',
+    label: '35 Escrever, Pensar & Achar',
+    isStatic: true
+  },
+  {
+    id: 'to_be_intro',
+    label: '37 Ser, Estar',
+    isStatic: true
+  },
+  {
+    id: 'to_be_negative',
+    label: '39 to be | ser, estar (forma negativa)',
+    isStatic: true
+  },
+  {
+    id: 'to_be_interrogative',
+    label: '41 to be | ser, estar (forma interrogativa)',
+    isStatic: true
+  },
+  {
+    id: 'to_make_give',
+    label: '43 to make | fazer to give | dar',
+    isStatic: true
+  },
+  {
+    id: 'to_open_close',
+    label: '45 to open | abrir to close | fechar',
+    isStatic: true
+  },
+  {
+    id: 'to_call_wait',
+    label: '47 to call | chamar, ligar to wait | esperar',
+    isStatic: true
+  },
+  {
+    id: 'to_wear_change',
+    label: '49 to wear | vestir, usar to change | trocar, mudar',
+    isStatic: true
+  },
   { 
     id: 'move_put', 
     label: '61 Mover, Mudar, Colocar & Pôr', 
