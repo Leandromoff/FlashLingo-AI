@@ -9,6 +9,7 @@ import { useLocalStorage } from './hooks/useLocalStorage';
 import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, FastForward, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap, Wrench } from 'lucide-react';
 
 const CARDS_PER_DECK = 10;
+const SESSION_DURATION = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
 
 const TOPIC_POOL = [
   // Tecnologia & Futuro
@@ -55,7 +56,32 @@ const TOPIC_POOL = [
 ];
 
 const App: React.FC = () => {
-  const [isAuthenticated, setIsAuthenticated] = useLocalStorage('flashlingo_auth', false);
+  const [authTimestamp, setAuthTimestamp] = useLocalStorage<number | null>('flashlingo_auth_timestamp', null);
+  
+  // Helper to check if session is still valid
+  const checkIsAuthenticated = useCallback(() => {
+    if (!authTimestamp) return false;
+    return Date.now() - authTimestamp < SESSION_DURATION;
+  }, [authTimestamp]);
+
+  const [isAuthenticated, setIsAuthenticated] = useState(checkIsAuthenticated());
+
+  // Update authentication status when timestamp changes
+  useEffect(() => {
+    setIsAuthenticated(checkIsAuthenticated());
+  }, [authTimestamp, checkIsAuthenticated]);
+
+  // Periodic check to auto-logout if session expires while app is open
+  useEffect(() => {
+    if (!isAuthenticated) return;
+    const interval = setInterval(() => {
+      if (!checkIsAuthenticated()) {
+        setIsAuthenticated(false);
+      }
+    }, 60000); // Check every minute
+    return () => clearInterval(interval);
+  }, [isAuthenticated, checkIsAuthenticated]);
+
   const [password, setPassword] = useState('');
   const [loginError, setLoginError] = useState(false);
 
@@ -518,7 +544,7 @@ const App: React.FC = () => {
     e.preventDefault();
     const pw = password.trim().toLowerCase();
     if (pw === 'europa' || pw === 'amarula') {
-      setIsAuthenticated(true);
+      setAuthTimestamp(Date.now());
       setLoginError(false);
     } else {
       setLoginError(true);
