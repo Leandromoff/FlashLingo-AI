@@ -3660,189 +3660,6 @@ export const TO_BE_2_DECK: FlashcardData[] = [
   }
 ];
 
-export const LUCKY_MAN_DECK: FlashcardData[] = [
-  {
-    id: 'lucky_man_1',
-    word: "It's like thunder",
-    translation: 'É como um trovão',
-    pronunciation: "/ɪts laɪk ˈθʌndər/",
-    portuguesePhonetic: 'its láic thân-der',
-    syllables: ["It's", ' like', ' thun', 'der'],
-    exampleSentence: "It's like thunder, lightning, the way you love me is frightening.",
-    exampleTranslation: 'É como trovão, relâmpago, o jeito que você me ama é assustador.'
-  },
-  {
-    id: 'lucky_man_2',
-    word: 'Happiness, more or less',
-    translation: 'Felicidade, mais ou menos',
-    pronunciation: "/ˈhæpinəs, mɔːr ɔːr lɛs/",
-    portuguesePhonetic: 'ré-pi-nes, mór ór lés',
-    syllables: ['Hap', 'pi', 'ness,', ' more', ' or', ' less'],
-    exampleSentence: 'Happiness, more or less, it\'s just a change in me.',
-    exampleTranslation: 'Felicidade, mais ou menos, é apenas uma mudança em mim.'
-  },
-  {
-    id: 'lucky_man_3',
-    word: "It's just a change in me, something in my liberty",
-    translation: 'É apenas uma mudança em mim, algo na minha liberdade',
-    pronunciation: "/ɪts dʒʌst ə tʃeɪndʒ ɪn mi, ˈsʌmθɪŋ ɪn maɪ ˈlɪbərti/",
-    portuguesePhonetic: 'its djâst a tchêindj in mi, sâm-thin in mai lí-ber-ti',
-    syllables: ["It's", ' just', ' a', ' change', ' in', ' me,', ' some', 'thing', ' in', ' my', ' lib', 'er', 'ty'],
-    exampleSentence: "It's just a change in me, something in my liberty.",
-    exampleTranslation: 'É apenas uma mudança em mim, algo na minha liberdade.'
-  },
-  {
-    id: 'lucky_man_4',
-    word: 'Happiness, coming and going',
-    translation: 'Felicidade, indo e vindo',
-    pronunciation: "/ˈhæpinəs, ˈkʌmɪŋ ænd ˈɡoʊɪŋ/",
-    portuguesePhonetic: 'ré-pi-nes, câ-min énd gôu-in',
-    syllables: ['Hap', 'pi', 'ness,', ' com', 'ing', ' and', ' go', 'ing'],
-    exampleSentence: 'Happiness, coming and going, I watch you look at me.',
-    exampleTranslation: 'Felicidade, indo e vindo, eu vejo você me olhar.'
-  },
-  {
-    id: 'lucky_man_5',
-    word: 'I watch you look at me, watch my fever growing',
-    translation: 'Eu vejo você me olhar, vejo minha febre aumentar',
-    pronunciation: "/aɪ wɑːtʃ ju lʊk æt mi, wɑːtʃ maɪ ˈfiːvər ˈɡroʊɪŋ/",
-    portuguesePhonetic: 'ai uótch iu luc ét mi, uótch mai fí-ver grôu-in',
-    syllables: ['I', ' watch', ' you', ' look', ' at', ' me,', ' watch', ' my', ' fe', 'ver', ' grow', 'ing'],
-    exampleSentence: 'I watch you look at me, watch my fever growing.',
-    exampleTranslation: 'Eu vejo você me olhar, vejo minha febre aumentar.'
-  },
-  {
-    id: 'lucky_man_6',
-    word: 'I know just where I am',
-    translation: 'Eu sei exatamente onde estou',
-    pronunciation: "/aɪ noʊ dʒʌst wɛər aɪ æm/",
-    portuguesePhonetic: 'ai nôu djâst uér ai ém',
-    syllables: ['I', ' know', ' just', ' where', ' I', ' am'],
-    exampleSentence: 'I know just where I am, but how many corners do I have to turn?',
-    exampleTranslation: 'Eu sei exatamente onde estou, mas quantas esquinas eu tenho que virar?'
-  },
-  {
-    id: 'lucky_man_7',
-    word: 'How many corners do I have to turn?',
-    translation: 'Quantas esquinas eu tenho que virar?',
-    pronunciation: "/haʊ ˈmɛni ˈkɔːrnərz du aɪ hæv tu tɜːrn/",
-    portuguesePhonetic: 'ráu mé-ni cór-nerz du ai rév tchu tãrn',
-    syllables: ['How', ' man', 'y', ' cor', 'ners', ' do', ' I', ' have', ' to', ' turn?'],
-    exampleSentence: 'How many corners do I have to turn before I find you?',
-    exampleTranslation: 'Quantas esquinas eu tenho que virar antes de te encontrar?'
-  },
-  {
-    id: 'lucky_man_8',
-    word: 'How many times do I have to learn',
-    translation: 'Quantas vezes eu tenho que aprender',
-    pronunciation: "/haʊ ˈmɛni taɪmz du aɪ hæv tu lɜːrn/",
-    portuguesePhonetic: 'ráu mé-ni táimz du ai rév tchu lãrn',
-    syllables: ['How', ' man', 'y', ' times', ' do', ' I', ' have', ' to', ' learn'],
-    exampleSentence: 'How many times do I have to learn this lesson?',
-    exampleTranslation: 'Quantas vezes eu tenho que aprender esta lição?'
-  },
-  {
-    id: 'lucky_man_9',
-    word: 'All the love I have is in my mind',
-    translation: 'Todo o amor que eu tenho está na minha mente',
-    pronunciation: "/ɔːl ðə lʌv aɪ hæv ɪz ɪn maɪ maɪnd/",
-    portuguesePhonetic: 'ól dâ lâv ai rév iz in mai máind',
-    syllables: ['All', ' the', ' love', ' I', ' have', ' is', ' in', ' my', ' mind'],
-    exampleSentence: 'All the love I have is in my mind, and I hope you understand.',
-    exampleTranslation: 'Todo o amor que eu tenho está na minha mente, e eu espero que você entenda.'
-  },
-  {
-    id: 'lucky_man_10',
-    word: "Well, I'm a lucky man",
-    translation: 'Bem, eu sou um homem de sorte',
-    pronunciation: "/wɛl, aɪm ə ˈlʌki mæn/",
-    portuguesePhonetic: 'uél, áim a lâ-ki mén',
-    syllables: ['Well,', " I'm", ' a', ' luck', 'y', ' man'],
-    exampleSentence: "Well, I'm a lucky man with fire in my hands.",
-    exampleTranslation: 'Bem, eu sou um homem de sorte com fogo em minhas mãos.'
-  },
-  {
-    id: 'lucky_man_11',
-    word: 'With fire in my hands',
-    translation: 'Com fogo em minhas mãos',
-    pronunciation: "/wɪð ˈfaɪər ɪn maɪ hændz/",
-    portuguesePhonetic: 'uíð fái-er in mai réndz',
-    syllables: ['With', ' fire', ' in', ' my', ' hands'],
-    exampleSentence: 'I feel powerful, with fire in my hands.',
-    exampleTranslation: 'Eu me sinto poderoso, com fogo em minhas mãos.'
-  },
-  {
-    id: 'lucky_man_12',
-    word: 'Happiness, something in my own place',
-    translation: 'Felicidade, algo no meu próprio lugar',
-    pronunciation: "/ˈhæpinəs, ˈsʌmθɪŋ ɪn maɪ oʊn pleɪs/",
-    portuguesePhonetic: 'ré-pi-nes, sâm-thin in mai ôun plêis',
-    syllables: ['Hap', 'pi', 'ness,', ' some', 'thing', ' in', ' my', ' own', ' place'],
-    exampleSentence: 'Happiness, something in my own place, I feel no disgrace.',
-    exampleTranslation: 'Felicidade, algo no meu próprio lugar, não sinto vergonha.'
-  },
-  {
-    id: 'lucky_man_13',
-    word: "I'm stood here naked, smiling, I feel no disgrace",
-    translation: 'Estou aqui parado nu, sorrindo, não sinto vergonha',
-    pronunciation: "/aɪm stʊd hɪər ˈneɪkɪd, ˈsmaɪlɪŋ, aɪ fiːl noʊ dɪsˈɡreɪs/",
-    portuguesePhonetic: 'áim stúd rir nêi-kid, smái-lin, ai fíl nôu diz-grêis',
-    syllables: ["I'm", ' stood', ' here', ' na', 'ked,', ' smil', 'ing,', ' I', ' feel', ' no', ' dis', 'grace'],
-    exampleSentence: "I'm stood here naked, smiling, I feel no disgrace with who I am.",
-    exampleTranslation: 'Estou aqui parado nu, sorrindo, não sinto vergonha de quem eu sou.'
-  },
-  {
-    id: 'lucky_man_14',
-    word: 'With who I am',
-    translation: 'Com quem eu sou',
-    pronunciation: "/wɪð huː aɪ æm/",
-    portuguesePhonetic: 'uíð rú ai ém',
-    syllables: ['With', ' who', ' I', ' am'],
-    exampleSentence: 'I am happy with who I am.',
-    exampleTranslation: 'Eu sou feliz com quem eu sou.'
-  },
-  {
-    id: 'lucky_man_15',
-    word: 'I know just who I am',
-    translation: 'Eu sei exatamente quem eu sou',
-    pronunciation: "/aɪ noʊ dʒʌst huː aɪ æm/",
-    portuguesePhonetic: 'ai nôu djâst rú ai ém',
-    syllables: ['I', ' know', ' just', ' who', ' I', ' am'],
-    exampleSentence: 'I know just who I am, and I hope you understand.',
-    exampleTranslation: 'Eu sei exatamente quem eu sou, e eu espero que você entenda.'
-  },
-  {
-    id: 'lucky_man_16',
-    word: 'I hope you understand',
-    translation: 'Eu espero que você entenda',
-    pronunciation: "/aɪ hoʊp ju ˌʌndərˈstænd/",
-    portuguesePhonetic: 'ai rôup iu ân-der-sténd',
-    syllables: ['I', ' hope', ' you', ' un', 'der', 'stand'],
-    exampleSentence: 'I hope you understand why I have to leave.',
-    exampleTranslation: 'Eu espero que você entenda por que eu tenho que ir.'
-  },
-  {
-    id: 'lucky_man_17',
-    word: "Got a love that'll never die",
-    translation: 'Tenho um amor que nunca morrerá',
-    pronunciation: "/ɡɒt ə lʌv ðætəl ˈnɛvər daɪ/",
-    portuguesePhonetic: 'gót a lâv dé-tâl né-ver dái',
-    syllables: ['Got', ' a', ' love', ' that', "'ll", ' nev', 'er', ' die'],
-    exampleSentence: "I got a love that'll never die, no matter what happens.",
-    exampleTranslation: 'Eu tenho um amor que nunca morrerá, não importa o que aconteça.'
-  },
-  {
-    id: 'lucky_man_18',
-    word: "Don't think I'm lying, I'm flying",
-    translation: 'Não pense que estou mentindo, estou voando',
-    pronunciation: "/doʊnt θɪŋk aɪm ˈlaɪɪŋ, aɪm ˈflaɪɪŋ/",
-    portuguesePhonetic: 'dôunt thinc áim lái-in, áim flái-in',
-    syllables: ["Don't", ' think', " I'm", ' ly', 'ing,', " I'm", ' fly', 'ing'],
-    exampleSentence: "Don't think I'm lying, I'm flying, come on now!",
-    exampleTranslation: 'Não pense que estou mentindo, estou voando, vamos lá agora!'
-  }
-];
-
 
 export const LISTEN_WATCH_DECK: FlashcardData[] = [
   {
@@ -6473,6 +6290,7 @@ export const TO_BE_NEGATIVE_DECK: FlashcardData[] = [
 
 
 
+
 export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
   {
     id: 'to_be_interrogative_1',
@@ -6536,6 +6354,16 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
   },
   {
     id: 'to_be_interrogative_7',
+    word: "Are you? (plural)",
+    translation: "Vocês são, estão?",
+    pronunciation: "/ɑr ju?/",
+    portuguesePhonetic: "ar iu?",
+    syllables: ["Are"," you?"],
+    exampleSentence: "Are you? (plural)",
+    exampleTranslation: "Vocês são, estão?"
+  },
+  {
+    id: 'to_be_interrogative_8',
     word: "Are they?",
     translation: "Eles(as) são, estão?",
     pronunciation: "/ɑr ðeɪ?/",
@@ -6545,7 +6373,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Eles(as) são, estão?"
   },
   {
-    id: 'to_be_interrogative_8',
+    id: 'to_be_interrogative_9',
     word: "January",
     translation: "janeiro",
     pronunciation: "/ˈdʒænjuˌɛri/",
@@ -6555,7 +6383,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "janeiro"
   },
   {
-    id: 'to_be_interrogative_9',
+    id: 'to_be_interrogative_10',
     word: "February",
     translation: "fevereiro",
     pronunciation: "/ˈfɛbruˌɛri/",
@@ -6565,7 +6393,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "fevereiro"
   },
   {
-    id: 'to_be_interrogative_10',
+    id: 'to_be_interrogative_11',
     word: "March",
     translation: "março",
     pronunciation: "/mɑrtʃ/",
@@ -6575,7 +6403,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "março"
   },
   {
-    id: 'to_be_interrogative_11',
+    id: 'to_be_interrogative_12',
     word: "April",
     translation: "abril",
     pronunciation: "/ˈeɪprəl/",
@@ -6585,7 +6413,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "abril"
   },
   {
-    id: 'to_be_interrogative_12',
+    id: 'to_be_interrogative_13',
     word: "May",
     translation: "maio",
     pronunciation: "/meɪ/",
@@ -6595,7 +6423,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "maio"
   },
   {
-    id: 'to_be_interrogative_13',
+    id: 'to_be_interrogative_14',
     word: "June",
     translation: "junho",
     pronunciation: "/dʒun/",
@@ -6605,7 +6433,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "junho"
   },
   {
-    id: 'to_be_interrogative_14',
+    id: 'to_be_interrogative_15',
     word: "July",
     translation: "julho",
     pronunciation: "/dʒuˈlaɪ/",
@@ -6615,7 +6443,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "julho"
   },
   {
-    id: 'to_be_interrogative_15',
+    id: 'to_be_interrogative_16',
     word: "August",
     translation: "agosto",
     pronunciation: "/ˈɔɡəst/",
@@ -6625,7 +6453,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "agosto"
   },
   {
-    id: 'to_be_interrogative_16',
+    id: 'to_be_interrogative_17',
     word: "September",
     translation: "setembro",
     pronunciation: "/sɛpˈtɛmbər/",
@@ -6635,7 +6463,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "setembro"
   },
   {
-    id: 'to_be_interrogative_17',
+    id: 'to_be_interrogative_18',
     word: "October",
     translation: "outubro",
     pronunciation: "/ɑkˈtoʊbər/",
@@ -6645,7 +6473,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "outubro"
   },
   {
-    id: 'to_be_interrogative_18',
+    id: 'to_be_interrogative_19',
     word: "November",
     translation: "novembro",
     pronunciation: "/noʊˈvɛmbər/",
@@ -6655,7 +6483,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "novembro"
   },
   {
-    id: 'to_be_interrogative_19',
+    id: 'to_be_interrogative_20',
     word: "December",
     translation: "dezembro",
     pronunciation: "/dɪˈsɛmbər/",
@@ -6665,7 +6493,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "dezembro"
   },
   {
-    id: 'to_be_interrogative_20',
+    id: 'to_be_interrogative_21',
     word: "birthday",
     translation: "aniversário",
     pronunciation: "/ˈbɜrθˌdeɪ/",
@@ -6675,7 +6503,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "aniversário"
   },
   {
-    id: 'to_be_interrogative_21',
+    id: 'to_be_interrogative_22',
     word: "young",
     translation: "jovem",
     pronunciation: "/jʌŋ/",
@@ -6685,7 +6513,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "jovem"
   },
   {
-    id: 'to_be_interrogative_22',
+    id: 'to_be_interrogative_23',
     word: "ready",
     translation: "pronto(a)",
     pronunciation: "/ˈrɛdi/",
@@ -6695,7 +6523,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "pronto(a)"
   },
   {
-    id: 'to_be_interrogative_23',
+    id: 'to_be_interrogative_24',
     word: "who",
     translation: "quem",
     pronunciation: "/hu/",
@@ -6705,7 +6533,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "quem"
   },
   {
-    id: 'to_be_interrogative_24',
+    id: 'to_be_interrogative_25',
     word: "How old are you?",
     translation: "Quantos anos você tem?",
     pronunciation: "/haʊ oʊld ɑr ju?/",
@@ -6715,7 +6543,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Quantos anos você tem?"
   },
   {
-    id: 'to_be_interrogative_25',
+    id: 'to_be_interrogative_26',
     word: "I'm 20 years old.",
     translation: "Eu tenho 20 anos.",
     pronunciation: "/aɪm ˈtwɛnti jɪrz oʊld./",
@@ -6725,7 +6553,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Eu tenho 20 anos."
   },
   {
-    id: 'to_be_interrogative_26',
+    id: 'to_be_interrogative_27',
     word: "When is your birthday?",
     translation: "Quando é o seu aniversário?",
     pronunciation: "/wɛn ɪz jʊr ˈbɜrθˌdeɪ?/",
@@ -6735,7 +6563,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Quando é o seu aniversário?"
   },
   {
-    id: 'to_be_interrogative_27',
+    id: 'to_be_interrogative_28',
     word: "It's on May 2nd.",
     translation: "É em 2 de maio.",
     pronunciation: "/ɪts ɑn meɪ ˈsɛkənd./",
@@ -6745,7 +6573,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "É em 2 de maio."
   },
   {
-    id: 'to_be_interrogative_28',
+    id: 'to_be_interrogative_29',
     word: "Are you ready?",
     translation: "Você está pronto?",
     pronunciation: "/ɑr ju ˈrɛdi?/",
@@ -6755,7 +6583,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Você está pronto?"
   },
   {
-    id: 'to_be_interrogative_29',
+    id: 'to_be_interrogative_30',
     word: "Is she Brazilian?",
     translation: "Ela é brasileira?",
     pronunciation: "/ɪz ʃi brəˈzɪljən?/",
@@ -6765,7 +6593,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Ela é brasileira?"
   },
   {
-    id: 'to_be_interrogative_30',
+    id: 'to_be_interrogative_31',
     word: "Are they at the office?",
     translation: "Eles estão no escritório?",
     pronunciation: "/ɑr ðeɪ æt ði ˈɔfɪs?/",
@@ -6775,7 +6603,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Eles estão no escritório?"
   },
   {
-    id: 'to_be_interrogative_31',
+    id: 'to_be_interrogative_32',
     word: "Is your father a manager?",
     translation: "Seu pai é gerente?",
     pronunciation: "/ɪz jʊr ˈfɑðər ə ˈmænɪdʒər?/",
@@ -6785,7 +6613,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Seu pai é gerente?"
   },
   {
-    id: 'to_be_interrogative_32',
+    id: 'to_be_interrogative_33',
     word: "Is the movie bad?",
     translation: "O filme é ruim?",
     pronunciation: "/ɪz ðə ˈmuvi bæd?/",
@@ -6795,7 +6623,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "O filme é ruim?"
   },
   {
-    id: 'to_be_interrogative_33',
+    id: 'to_be_interrogative_34',
     word: "Is the boss a referee?",
     translation: "O chefe é árbitro?",
     pronunciation: "/ɪz ðə bɔs ə ˌrɛfəˈri?/",
@@ -6805,7 +6633,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "O chefe é árbitro?"
   },
   {
-    id: 'to_be_interrogative_34',
+    id: 'to_be_interrogative_35',
     word: "Are the students there?",
     translation: "Os alunos estão lá?",
     pronunciation: "/ɑr ðə ˈstudənts ðɛr?/",
@@ -6815,7 +6643,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Os alunos estão lá?"
   },
   {
-    id: 'to_be_interrogative_35',
+    id: 'to_be_interrogative_36',
     word: "Who is he?",
     translation: "Quem é ele?",
     pronunciation: "/hu ɪz hi?/",
@@ -6825,7 +6653,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Quem é ele?"
   },
   {
-    id: 'to_be_interrogative_36',
+    id: 'to_be_interrogative_37',
     word: "Am I late?",
     translation: "Eu estou atrasado?",
     pronunciation: "/æm aɪ leɪt?/",
@@ -6835,7 +6663,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Eu estou atrasado?"
   },
   {
-    id: 'to_be_interrogative_37',
+    id: 'to_be_interrogative_38',
     word: "Are you Brazilian?",
     translation: "Você é brasileiro?",
     pronunciation: "/ɑr ju brəˈzɪljən?/",
@@ -6845,7 +6673,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Você é brasileiro?"
   },
   {
-    id: 'to_be_interrogative_38',
+    id: 'to_be_interrogative_39',
     word: "Is she a student?",
     translation: "Ela é estudante?",
     pronunciation: "/ɪz ʃi ə ˈstudənt?/",
@@ -6855,7 +6683,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Ela é estudante?"
   },
   {
-    id: 'to_be_interrogative_39',
+    id: 'to_be_interrogative_40',
     word: "Is he a sales clerk?",
     translation: "Ele é vendedor?",
     pronunciation: "/ɪz hi ə seɪlz klɜrk?/",
@@ -6865,7 +6693,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Ele é vendedor?"
   },
   {
-    id: 'to_be_interrogative_40',
+    id: 'to_be_interrogative_41',
     word: "Is it a good book?",
     translation: "É um bom livro?",
     pronunciation: "/ɪz ɪt ə ɡʊd bʊk?/",
@@ -6875,7 +6703,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "É um bom livro?"
   },
   {
-    id: 'to_be_interrogative_41',
+    id: 'to_be_interrogative_42',
     word: "Are we ready to start?",
     translation: "Nós estamos prontos para começar?",
     pronunciation: "/ɑr wi ˈrɛdi tə stɑrt?/",
@@ -6885,7 +6713,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Nós estamos prontos para começar?"
   },
   {
-    id: 'to_be_interrogative_42',
+    id: 'to_be_interrogative_43',
     word: "Are they with you?",
     translation: "Eles estão com você?",
     pronunciation: "/ɑr ðeɪ wɪθ ju?/",
@@ -6895,7 +6723,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Eles estão com você?"
   },
   {
-    id: 'to_be_interrogative_43',
+    id: 'to_be_interrogative_44',
     word: "Who are you?",
     translation: "Quem é você?",
     pronunciation: "/hu ɑr ju?/",
@@ -6905,7 +6733,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Quem é você?"
   },
   {
-    id: 'to_be_interrogative_44',
+    id: 'to_be_interrogative_45',
     word: "Who are those people?",
     translation: "Quem são aquelas pessoas?",
     pronunciation: "/hu ɑr ðoʊz ˈpipəl?/",
@@ -6915,7 +6743,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Quem são aquelas pessoas?"
   },
   {
-    id: 'to_be_interrogative_45',
+    id: 'to_be_interrogative_46',
     word: "How old is she?",
     translation: "Quantos anos ela tem?",
     pronunciation: "/haʊ oʊld ɪz ʃi?/",
@@ -6925,7 +6753,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Quantos anos ela tem?"
   },
   {
-    id: 'to_be_interrogative_46',
+    id: 'to_be_interrogative_47',
     word: "She's ten years old.",
     translation: "Ela tem dez anos.",
     pronunciation: "/ʃiz tɛn jɪrz oʊld./",
@@ -6935,17 +6763,17 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Ela tem dez anos."
   },
   {
-    id: 'to_be_interrogative_47',
-    word: "When is your birthday?",
-    translation: "Quando é o seu aniversário?",
-    pronunciation: "/wɛn ɪz jʊr ˈbɜrθˌdeɪ?/",
-    portuguesePhonetic: "uen iz iór bãrth-dei?",
-    syllables: ["When"," is"," your"," birth","day?"],
-    exampleSentence: "When is your birthday?",
-    exampleTranslation: "Quando é o seu aniversário?"
+    id: 'to_be_interrogative_48',
+    word: "When is her birthday?",
+    translation: "Quando é o aniversário dela?",
+    pronunciation: "/wɛn ɪz hɜr ˈbɜrθˌdeɪ?/",
+    portuguesePhonetic: "uen iz rãr bãrth-dei?",
+    syllables: ["When"," is"," her"," birth","day?"],
+    exampleSentence: "When is her birthday?",
+    exampleTranslation: "Quando é o aniversário dela?"
   },
   {
-    id: 'to_be_interrogative_48',
+    id: 'to_be_interrogative_49',
     word: "It's in April.",
     translation: "É em abril.",
     pronunciation: "/ɪts ɪn ˈeɪprəl./",
@@ -6955,7 +6783,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "É em abril."
   },
   {
-    id: 'to_be_interrogative_49',
+    id: 'to_be_interrogative_50',
     word: "sixteenth",
     translation: "16th — décimo sexto",
     pronunciation: "/sɪkˈstinθ/",
@@ -6965,7 +6793,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "16th — décimo sexto"
   },
   {
-    id: 'to_be_interrogative_50',
+    id: 'to_be_interrogative_51',
     word: "seventeenth",
     translation: "17th — décimo sétimo",
     pronunciation: "/ˌsɛvənˈtinθ/",
@@ -6975,7 +6803,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "17th — décimo sétimo"
   },
   {
-    id: 'to_be_interrogative_51',
+    id: 'to_be_interrogative_52',
     word: "eighteenth",
     translation: "18th — décimo oitavo",
     pronunciation: "/eɪˈtinθ/",
@@ -6985,7 +6813,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "18th — décimo oitavo"
   },
   {
-    id: 'to_be_interrogative_52',
+    id: 'to_be_interrogative_53',
     word: "nineteenth",
     translation: "19th — décimo nono",
     pronunciation: "/naɪnˈtinθ/",
@@ -6995,7 +6823,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "19th — décimo nono"
   },
   {
-    id: 'to_be_interrogative_53',
+    id: 'to_be_interrogative_54',
     word: "twentieth",
     translation: "20th — vigésimo",
     pronunciation: "/ˈtwɛntiəθ/",
@@ -7005,7 +6833,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "20th — vigésimo"
   },
   {
-    id: 'to_be_interrogative_54',
+    id: 'to_be_interrogative_55',
     word: "twenty-first",
     translation: "21st — vigésimo primeiro",
     pronunciation: "/ˈtwɛnti-fɜrst/",
@@ -7015,7 +6843,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "21st — vigésimo primeiro"
   },
   {
-    id: 'to_be_interrogative_55',
+    id: 'to_be_interrogative_56',
     word: "twenty-second",
     translation: "22nd — vigésimo segundo",
     pronunciation: "/ˈtwɛnti-ˈsɛkənd/",
@@ -7025,7 +6853,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "22nd — vigésimo segundo"
   },
   {
-    id: 'to_be_interrogative_56',
+    id: 'to_be_interrogative_57',
     word: "twenty-third",
     translation: "23rd — vigésimo terceiro",
     pronunciation: "/ˈtwɛnti-θɜrd/",
@@ -7035,7 +6863,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "23rd — vigésimo terceiro"
   },
   {
-    id: 'to_be_interrogative_57',
+    id: 'to_be_interrogative_58',
     word: "twenty-fourth",
     translation: "24th — vigésimo quarto",
     pronunciation: "/ˈtwɛnti-fɔrθ/",
@@ -7045,7 +6873,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "24th — vigésimo quarto"
   },
   {
-    id: 'to_be_interrogative_58',
+    id: 'to_be_interrogative_59',
     word: "twenty-fifth",
     translation: "25th — vigésimo quinto",
     pronunciation: "/ˈtwɛnti-fɪfθ/",
@@ -7055,7 +6883,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "25th — vigésimo quinto"
   },
   {
-    id: 'to_be_interrogative_59',
+    id: 'to_be_interrogative_60',
     word: "twenty-ninth",
     translation: "29th — vigésimo nono",
     pronunciation: "/ˈtwɛnti-naɪnθ/",
@@ -7065,7 +6893,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "29th — vigésimo nono"
   },
   {
-    id: 'to_be_interrogative_60',
+    id: 'to_be_interrogative_61',
     word: "thirtieth",
     translation: "30th — trigésimo",
     pronunciation: "/ˈθɜrtiəθ/",
@@ -7075,7 +6903,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "30th — trigésimo"
   },
   {
-    id: 'to_be_interrogative_61',
+    id: 'to_be_interrogative_62',
     word: "thirty-first",
     translation: "31st — trigésimo primeiro",
     pronunciation: "/ˈθɜrti-fɜrst/",
@@ -7085,7 +6913,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "31st — trigésimo primeiro"
   },
   {
-    id: 'to_be_interrogative_62',
+    id: 'to_be_interrogative_63',
     word: "in October",
     translation: "em outubro",
     pronunciation: "/ɪn ɑkˈtoʊbər/",
@@ -7095,7 +6923,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "em outubro"
   },
   {
-    id: 'to_be_interrogative_63',
+    id: 'to_be_interrogative_64',
     word: "in April",
     translation: "em abril",
     pronunciation: "/ɪn ˈeɪprəl/",
@@ -7105,7 +6933,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "em abril"
   },
   {
-    id: 'to_be_interrogative_64',
+    id: 'to_be_interrogative_65',
     word: "on October 29th",
     translation: "em 29 de outubro",
     pronunciation: "/ɑn ɑkˈtoʊbər ˈtwɛnti-naɪnθ/",
@@ -7115,7 +6943,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "em 29 de outubro"
   },
   {
-    id: 'to_be_interrogative_65',
+    id: 'to_be_interrogative_66',
     word: "My birthday is in October.",
     translation: "Meu aniversário é em outubro.",
     pronunciation: "/maɪ ˈbɜrθˌdeɪ ɪz ɪn ɑkˈtoʊbər./",
@@ -7125,7 +6953,7 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     exampleTranslation: "Meu aniversário é em outubro."
   },
   {
-    id: 'to_be_interrogative_66',
+    id: 'to_be_interrogative_67',
     word: "My birthday is on October 29th.",
     translation: "Meu aniversário é em 29 de outubro.",
     pronunciation: "/maɪ ˈbɜrθˌdeɪ ɪz ɑn ɑkˈtoʊbər ˈtwɛnti-naɪnθ./",
@@ -7133,7 +6961,250 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     syllables: ["My"," birth","day"," is"," on"," Oc","to","ber"," 29th."],
     exampleSentence: "My birthday is on October 29th.",
     exampleTranslation: "Meu aniversário é em 29 de outubro."
+  }
+];
+
+export const CONNECTORS_DECK: FlashcardData[] = [
+  {
+    id: 'connectors_1',
+    word: 'Otherwise',
+    translation: 'Caso contrário',
+    pronunciation: '/ˈʌð.ə.waɪz/',
+    portuguesePhonetic: 'á-der-uáiz',
+    syllables: ['Oth', 'er', 'wise'],
+    exampleSentence: 'You should leave now, otherwise you\'ll miss the train.',
+    exampleTranslation: 'Você deve sair agora, caso contrário perderá o trem.'
   },
+  {
+    id: 'connectors_2',
+    word: 'In addition',
+    translation: 'Além disso',
+    pronunciation: '/ɪn əˈdɪʃ.ən/',
+    portuguesePhonetic: 'in a-dí-shân',
+    syllables: ['In', ' ad', 'di', 'tion'],
+    exampleSentence: 'In addition to his salary, he gets a bonus.',
+    exampleTranslation: 'Além de seu salário, ele recebe um bônus.'
+  },
+  {
+    id: 'connectors_3',
+    word: 'For example',
+    translation: 'Por exemplo',
+    pronunciation: '/fɔːr ɪɡˈzɑːm.pl̩/',
+    portuguesePhonetic: 'fór eg-zém-pôu',
+    syllables: ['For', ' ex', 'am', 'ple'],
+    exampleSentence: 'I love fruits, for example, apples and oranges.',
+    exampleTranslation: 'Eu amo frutas, por exemplo, maçãs e laranjas.'
+  },
+  {
+    id: 'connectors_4',
+    word: 'For instance',
+    translation: 'Por exemplo',
+    pronunciation: '/fɔːr ˈɪn.stəns/',
+    portuguesePhonetic: 'fór ín-stâns',
+    syllables: ['For', ' in', 'stance'],
+    exampleSentence: 'We can visit many places, for instance, the museum.',
+    exampleTranslation: 'Podemos visitar muitos lugares, por exemplo, o museu.'
+  },
+  {
+    id: 'connectors_5',
+    word: 'As a result',
+    translation: 'Como resultado',
+    pronunciation: '/æz ə rɪˈzʌlt/',
+    portuguesePhonetic: 'éz a ri-zâult',
+    syllables: ['As', ' a', ' re', 'sult'],
+    exampleSentence: 'He didn\'t study; as a result, he failed the test.',
+    exampleTranslation: 'Ele não estudou; como resultado, reprovou no teste.'
+  },
+  {
+    id: 'connectors_6',
+    word: 'In fact',
+    translation: 'Na verdade',
+    pronunciation: '/ɪn fækt/',
+    portuguesePhonetic: 'in féct',
+    syllables: ['In', ' fact'],
+    exampleSentence: 'I like her; in fact, she is my best friend.',
+    exampleTranslation: 'Eu gosto dela; na verdade, ela é minha melhor amiga.'
+  },
+  {
+    id: 'connectors_7',
+    word: 'At first',
+    translation: 'No início',
+    pronunciation: '/æt fɜːst/',
+    portuguesePhonetic: 'ét fãrst',
+    syllables: ['At', ' first'],
+    exampleSentence: 'At first, I was nervous, but then I relaxed.',
+    exampleTranslation: 'No início, eu estava nervoso, mas depois relaxei.'
+  },
+  {
+    id: 'connectors_8',
+    word: 'Then',
+    translation: 'Então',
+    pronunciation: '/ðen/',
+    portuguesePhonetic: 'dén',
+    syllables: ['Then'],
+    exampleSentence: 'First wash your hands, then eat your lunch.',
+    exampleTranslation: 'Primeiro lave as mãos, então coma seu almoço.'
+  },
+  {
+    id: 'connectors_9',
+    word: 'Finally',
+    translation: 'Por fim',
+    pronunciation: '/ˈfaɪ.nəl.i/',
+    portuguesePhonetic: 'fái-na-li',
+    syllables: ['Fi', 'nal', 'ly'],
+    exampleSentence: 'Finally, they reached the top of the mountain.',
+    exampleTranslation: 'Por fim, eles chegaram ao topo da montanha.'
+  },
+  {
+    id: 'connectors_10',
+    word: 'Even if',
+    translation: 'Mesmo se',
+    pronunciation: '/ˈiː.vən ɪf/',
+    portuguesePhonetic: 'í-vên if',
+    syllables: ['E', 'ven', ' if'],
+    exampleSentence: 'I will go even if it rains.',
+    exampleTranslation: 'Eu irei mesmo se chover.'
+  },
+  {
+    id: 'connectors_11',
+    word: 'In order to',
+    translation: 'A fim de',
+    pronunciation: '/ɪn ˈɔː.dər tuː/',
+    portuguesePhonetic: 'in ór-der tchu',
+    syllables: ['In', ' or', 'der', ' to'],
+    exampleSentence: 'She studied hard in order to pass the exam.',
+    exampleTranslation: 'Ela estudou muito a fim de passar no exame.'
+  },
+  {
+    id: 'connectors_12',
+    word: 'That is why',
+    translation: 'É por isso que',
+    pronunciation: '/ðæt ɪz waɪ/',
+    portuguesePhonetic: 'dét iz uái',
+    syllables: ['That', ' is', ' why'],
+    exampleSentence: 'He is very talented; that is why he won.',
+    exampleTranslation: 'Ele é muito talentoso; é por isso que ele venceu.'
+  },
+  {
+    id: 'connectors_13',
+    word: 'Although',
+    translation: 'Embora',
+    pronunciation: '/ɔːlˈðəʊ/',
+    portuguesePhonetic: 'ól-dôu',
+    syllables: ['Al', 'though'],
+    exampleSentence: 'Although it was cold, we went for a swim.',
+    exampleTranslation: 'Embora estivesse frio, fomos nadar.'
+  },
+  {
+    id: 'connectors_14',
+    word: 'However',
+    translation: 'No entanto',
+    pronunciation: '/haʊˈev.ər/',
+    portuguesePhonetic: 'râu-é-ver',
+    syllables: ['How', 'ev', 'er'],
+    exampleSentence: 'He practiced a lot; however, he didn\'t win.',
+    exampleTranslation: 'Ele praticou muito; no entanto, não venceu.'
+  },
+  {
+    id: 'connectors_15',
+    word: 'Therefore',
+    translation: 'Portanto',
+    pronunciation: '/ˈðeə.fɔːr/',
+    portuguesePhonetic: 'dér-fór',
+    syllables: ['There', 'fore'],
+    exampleSentence: 'I think, therefore I am.',
+    exampleTranslation: 'Eu penso, portanto sou.'
+  },
+  {
+    id: 'connectors_16',
+    word: 'Moreover',
+    translation: 'Ainda mais',
+    pronunciation: '/mɔːˈrəʊ.vər/',
+    portuguesePhonetic: 'mór-ôu-ver',
+    syllables: ['More', 'o', 'ver'],
+    exampleSentence: 'It is a beautiful city; moreover, it\'s very clean.',
+    exampleTranslation: 'É uma cidade bonita; ainda mais, é muito limpa.'
+  },
+  {
+    id: 'connectors_17',
+    word: 'Besides',
+    translation: 'Além disso',
+    pronunciation: '/bɪˈsaɪdz/',
+    portuguesePhonetic: 'bi-sáidz',
+    syllables: ['Be', 'sides'],
+    exampleSentence: 'Besides being smart, she is also very kind.',
+    exampleTranslation: 'Além de ser esperta, ela também é muito gentil.'
+  },
+  {
+    id: 'connectors_18',
+    word: 'Because',
+    translation: 'Porque',
+    pronunciation: '/bɪˈkɒz/',
+    portuguesePhonetic: 'bi-cóz',
+    syllables: ['Be', 'cause'],
+    exampleSentence: 'I\'m tired because I worked all day.',
+    exampleTranslation: 'Estou cansado porque trabalhei o dia todo.'
+  },
+  {
+    id: 'connectors_19',
+    word: 'Since',
+    translation: 'Desde',
+    pronunciation: '/sɪns/',
+    portuguesePhonetic: 'síns',
+    syllables: ['Since'],
+    exampleSentence: 'I have been here since morning.',
+    exampleTranslation: 'Estou aqui desde manhã.'
+  },
+  {
+    id: 'connectors_20',
+    word: 'So',
+    translation: 'Então',
+    pronunciation: '/səʊ/',
+    portuguesePhonetic: 'sôu',
+    syllables: ['So'],
+    exampleSentence: 'It was late, so I went home.',
+    exampleTranslation: 'Estava tarde, então fui para casa.'
+  },
+  {
+    id: 'connectors_21',
+    word: 'Unless',
+    translation: 'A menos que',
+    pronunciation: '/ʌnˈles/',
+    portuguesePhonetic: 'ân-lés',
+    syllables: ['Un', 'less'],
+    exampleSentence: 'I won\'t go unless you come with me.',
+    exampleTranslation: 'Eu não irei a menos que você venha comigo.'
+  },
+  {
+    id: 'connectors_22',
+    word: 'Even though',
+    translation: 'Mesmo que',
+    pronunciation: '/ˈiː.vən ðəʊ/',
+    portuguesePhonetic: 'í-vên dôu',
+    syllables: ['E', 'ven', ' though'],
+    exampleSentence: 'I enjoyed the trip even though it was short.',
+    exampleTranslation: 'Eu aproveitei a viagem mesmo que tenha sido curta.'
+  },
+  {
+    id: 'connectors_23',
+    word: 'While',
+    translation: 'Enquanto',
+    pronunciation: '/waɪl/',
+    portuguesePhonetic: 'uáil',
+    syllables: ['While'],
+    exampleSentence: 'I listened to music while I was cleaning.',
+    exampleTranslation: 'Eu ouvi música enquanto estava limpando.'
+  },
+  {
+    id: 'connectors_24',
+    word: 'Instead',
+    translation: 'Ao invés',
+    pronunciation: '/ɪnˈsted/',
+    portuguesePhonetic: 'in-stéd',
+    syllables: ['In', 'stead'],
+    exampleSentence: 'I\'ll have tea instead of coffee today.',
+    exampleTranslation: 'Eu tomarei chá ao invés de café hoje.'
+  }
 ];
 
 
@@ -9309,5 +9380,8 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   know_work_live: {
     en: KNOW_WORK_LIVE_DECK
+  },
+  connectors: {
+    en: CONNECTORS_DECK
   }
 };

@@ -145,8 +145,8 @@ export const PREDEFINED_TOPICS = [
     isStatic: true
   },
   {
-    id: 'lucky_man',
-    label: 'Música - Lucky Man',
+    id: 'connectors',
+    label: 'Conectores',
     isStatic: true
   }
 ];
