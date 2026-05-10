@@ -145,6 +145,16 @@ export const PREDEFINED_TOPICS = [
     isStatic: true
   },
   {
+    id: 'common_things',
+    label: 'V-A1 - COMMON THINGS (Objetos Comuns)',
+    isStatic: true
+  },
+  {
+    id: 'common_verbs',
+    label: 'V-A1 - COMMON VERBS (Verbos Comuns)',
+    isStatic: true
+  },
+  {
     id: 'connectors',
     label: 'Conectores',
     isStatic: true

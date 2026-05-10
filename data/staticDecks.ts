@@ -9317,6 +9317,415 @@ export const TO_WEAR_CHANGE_DECK: FlashcardData[] = [
   },
 ];
 
+
+
+export const COMMON_THINGS_DECK: FlashcardData[] = [
+  {
+    id: 'common_things_' + 1,
+    word: "a house",
+    translation: "uma casa",
+    pronunciation: "/ə haʊs/",
+    portuguesePhonetic: "a ráus",
+    syllables: ["a"," house"],
+    exampleSentence: "a house",
+    exampleTranslation: "uma casa"
+  },
+  {
+    id: 'common_things_' + 2,
+    word: "a car",
+    translation: "um carro",
+    pronunciation: "/ə kɑr/",
+    portuguesePhonetic: "a car",
+    syllables: ["a"," car"],
+    exampleSentence: "a car",
+    exampleTranslation: "um carro"
+  },
+  {
+    id: 'common_things_' + 3,
+    word: "a bicycle",
+    translation: "uma bicicleta",
+    pronunciation: "/ə ˈbaɪsɪkəl/",
+    portuguesePhonetic: "a baí-si-col",
+    syllables: ["a"," bi","cy","cle"],
+    exampleSentence: "a bicycle",
+    exampleTranslation: "uma bicicleta"
+  },
+  {
+    id: 'common_things_' + 4,
+    word: "a book",
+    translation: "um livro",
+    pronunciation: "/ə bʊk/",
+    portuguesePhonetic: "a buc",
+    syllables: ["a"," book"],
+    exampleSentence: "a book",
+    exampleTranslation: "um livro"
+  },
+  {
+    id: 'common_things_' + 5,
+    word: "a pen",
+    translation: "uma caneta",
+    pronunciation: "/ə pɛn/",
+    portuguesePhonetic: "a pen",
+    syllables: ["a"," pen"],
+    exampleSentence: "a pen",
+    exampleTranslation: "uma caneta"
+  },
+  {
+    id: 'common_things_' + 6,
+    word: "a notebook",
+    translation: "um caderno",
+    pronunciation: "/ə ˈnoʊtˌbʊk/",
+    portuguesePhonetic: "a nôut-buc",
+    syllables: ["a"," note","book"],
+    exampleSentence: "a notebook",
+    exampleTranslation: "um caderno"
+  },
+  {
+    id: 'common_things_' + 7,
+    word: "a backpack",
+    translation: "uma mochila",
+    pronunciation: "/ə ˈbækˌpæk/",
+    portuguesePhonetic: "a béc-péc",
+    syllables: ["a"," back","pack"],
+    exampleSentence: "a backpack",
+    exampleTranslation: "uma mochila"
+  },
+  {
+    id: 'common_things_' + 8,
+    word: "a watch",
+    translation: "um relógio (de pulso)",
+    pronunciation: "/ə wɑtʃ/",
+    portuguesePhonetic: "a uótch",
+    syllables: ["a"," watch"],
+    exampleSentence: "a watch",
+    exampleTranslation: "um relógio (de pulso)"
+  },
+  {
+    id: 'common_things_' + 9,
+    word: "a computer",
+    translation: "um computador",
+    pronunciation: "/ə kəmˈpjutər/",
+    portuguesePhonetic: "a com-piú-ter",
+    syllables: ["a"," com","pu","ter"],
+    exampleSentence: "a computer",
+    exampleTranslation: "um computador"
+  },
+  {
+    id: 'common_things_' + 10,
+    word: "a TV",
+    translation: "uma televisão",
+    pronunciation: "/ə ˌtiˈvi/",
+    portuguesePhonetic: "a ti-ví",
+    syllables: ["a"," TV"],
+    exampleSentence: "a TV",
+    exampleTranslation: "uma televisão"
+  },
+  {
+    id: 'common_things_' + 11,
+    word: "glasses",
+    translation: "óculos",
+    pronunciation: "/ˈɡlæsɪz/",
+    portuguesePhonetic: "glé-siz",
+    syllables: ["glas","ses"],
+    exampleSentence: "glasses",
+    exampleTranslation: "óculos"
+  },
+  {
+    id: 'common_things_' + 12,
+    word: "shoes",
+    translation: "sapatos",
+    pronunciation: "/ʃuz/",
+    portuguesePhonetic: "xuz",
+    syllables: ["shoes"],
+    exampleSentence: "shoes",
+    exampleTranslation: "sapatos"
+  },
+  {
+    id: 'common_things_' + 13,
+    word: "a wallet",
+    translation: "uma carteira",
+    pronunciation: "/ə ˈwɑlət/",
+    portuguesePhonetic: "a uó-let",
+    syllables: ["a"," wal","let"],
+    exampleSentence: "a wallet",
+    exampleTranslation: "uma carteira"
+  },
+  {
+    id: 'common_things_' + 14,
+    word: "a key",
+    translation: "uma chave",
+    pronunciation: "/ə ki/",
+    portuguesePhonetic: "a qui",
+    syllables: ["a"," key"],
+    exampleSentence: "a key",
+    exampleTranslation: "uma chave"
+  },
+  {
+    id: 'common_things_' + 15,
+    word: "a mobile phone",
+    translation: "um celular",
+    pronunciation: "/ə ˈmoʊbəl foʊn/",
+    portuguesePhonetic: "a môu-bou fôun",
+    syllables: ["a"," mo","bile"," phone"],
+    exampleSentence: "a mobile phone",
+    exampleTranslation: "um celular"
+  },
+  {
+    id: 'common_things_' + 16,
+    word: "headphones",
+    translation: "fones de ouvido",
+    pronunciation: "/ˈhɛdˌfoʊnz/",
+    portuguesePhonetic: "réd-fôunz",
+    syllables: ["head","phones"],
+    exampleSentence: "headphones",
+    exampleTranslation: "fones de ouvido"
+  },
+  {
+    id: 'common_things_' + 17,
+    word: "an umbrella",
+    translation: "um guarda-chuva",
+    pronunciation: "/ən ʌmˈbrɛlə/",
+    portuguesePhonetic: "an am-bré-la",
+    syllables: ["an"," um","brel","la"],
+    exampleSentence: "an umbrella",
+    exampleTranslation: "um guarda-chuva"
+  },
+  {
+    id: 'common_things_' + 18,
+    word: "a passport",
+    translation: "um passaporte",
+    pronunciation: "/ə ˈpæsˌpɔrt/",
+    portuguesePhonetic: "a pés-port",
+    syllables: ["a"," pass","port"],
+    exampleSentence: "a passport",
+    exampleTranslation: "um passaporte"
+  },
+  {
+    id: 'common_things_' + 19,
+    word: "a hat",
+    translation: "um chapéu",
+    pronunciation: "/ə hæt/",
+    portuguesePhonetic: "a rét",
+    syllables: ["a"," hat"],
+    exampleSentence: "a hat",
+    exampleTranslation: "um chapéu"
+  },
+  {
+    id: 'common_things_' + 20,
+    word: "a bottle of water",
+    translation: "uma garrafa de água",
+    pronunciation: "/ə ˈbɑtəl əv ˈwɔtər/",
+    portuguesePhonetic: "a bó-tou on uó-ter",
+    syllables: ["a"," bot","tle"," of"," wa","ter"],
+    exampleSentence: "a bottle of water",
+    exampleTranslation: "uma garrafa de água"
+  }
+];
+
+
+export const COMMON_VERBS_DECK: FlashcardData[] = [
+  {
+    id: 'common_verbs_' + 1,
+    word: "call a friend",
+    translation: "ligar para um amigo",
+    pronunciation: "/kɔl ə frɛnd/",
+    portuguesePhonetic: "cól a frend",
+    syllables: ["call"," a"," friend"],
+    exampleSentence: "call a friend",
+    exampleTranslation: "ligar para um amigo"
+  },
+  {
+    id: 'common_verbs_' + 2,
+    word: "cook dinner",
+    translation: "cozinhar o jantar",
+    pronunciation: "/kʊk ˈdɪnər/",
+    portuguesePhonetic: "cuc di-ner",
+    syllables: ["cook"," din","ner"],
+    exampleSentence: "cook dinner",
+    exampleTranslation: "cozinhar o jantar"
+  },
+  {
+    id: 'common_verbs_' + 3,
+    word: "do exercise",
+    translation: "fazer exercício",
+    pronunciation: "/du ˈɛksərˌsaɪz/",
+    portuguesePhonetic: "du éc-ser-saiz",
+    syllables: ["do"," ex","er","cise"],
+    exampleSentence: "do exercise",
+    exampleTranslation: "fazer exercício"
+  },
+  {
+    id: 'common_verbs_' + 4,
+    word: "go on holiday",
+    translation: "tirar férias",
+    pronunciation: "/ɡoʊ ɑn ˈhɑlɪˌdeɪ/",
+    portuguesePhonetic: "gôu an ró-li-dei",
+    syllables: ["go"," on"," ho","li","day"],
+    exampleSentence: "go on holiday",
+    exampleTranslation: "tirar férias"
+  },
+  {
+    id: 'common_verbs_' + 5,
+    word: "go to bed",
+    translation: "ir para a cama",
+    pronunciation: "/ɡoʊ tə bɛd/",
+    portuguesePhonetic: "gôu tchu béd",
+    syllables: ["go"," to"," bed"],
+    exampleSentence: "go to bed",
+    exampleTranslation: "ir para a cama"
+  },
+  {
+    id: 'common_verbs_' + 6,
+    word: "go to work",
+    translation: "ir para o trabalho",
+    pronunciation: "/ɡoʊ tə wɜrk/",
+    portuguesePhonetic: "gôu tchu uãrc",
+    syllables: ["go"," to"," work"],
+    exampleSentence: "go to work",
+    exampleTranslation: "ir para o trabalho"
+  },
+  {
+    id: 'common_verbs_' + 7,
+    word: "have some coffee",
+    translation: "tomar um café",
+    pronunciation: "/hæv sʌm ˈkɔfi/",
+    portuguesePhonetic: "rév sâm có-fi",
+    syllables: ["have"," some"," cof","fee"],
+    exampleSentence: "have some coffee",
+    exampleTranslation: "tomar um café"
+  },
+  {
+    id: 'common_verbs_' + 8,
+    word: "have dinner",
+    translation: "jantar",
+    pronunciation: "/hæv ˈdɪnər/",
+    portuguesePhonetic: "rév di-ner",
+    syllables: ["have"," din","ner"],
+    exampleSentence: "have dinner",
+    exampleTranslation: "jantar"
+  },
+  {
+    id: 'common_verbs_' + 9,
+    word: "listen to music",
+    translation: "ouvir música",
+    pronunciation: "/ˈlɪsən tə ˈmjuzɪk/",
+    portuguesePhonetic: "li-sen tchu miú-zic",
+    syllables: ["lis","ten"," to"," mu","sic"],
+    exampleSentence: "listen to music",
+    exampleTranslation: "ouvir música"
+  },
+  {
+    id: 'common_verbs_' + 10,
+    word: "play football",
+    translation: "jogar futebol",
+    pronunciation: "/pleɪ ˈfʊtˌbɔl/",
+    portuguesePhonetic: "plêi fut-ból",
+    syllables: ["play"," foot","ball"],
+    exampleSentence: "play football",
+    exampleTranslation: "jogar futebol"
+  },
+  {
+    id: 'common_verbs_' + 11,
+    word: "play the guitar",
+    translation: "tocar violão/guitarra",
+    pronunciation: "/pleɪ ðə ɡɪˈtɑr/",
+    portuguesePhonetic: "plêi dâ gi-tár",
+    syllables: ["play"," the"," gui","tar"],
+    exampleSentence: "play the guitar",
+    exampleTranslation: "tocar violão/guitarra"
+  },
+  {
+    id: 'common_verbs_' + 12,
+    word: "play video games",
+    translation: "jogar videogame",
+    pronunciation: "/pleɪ ˈvɪdioʊ ɡeɪmz/",
+    portuguesePhonetic: "plêi ví-di-ou guêims",
+    syllables: ["play"," vi","de","o"," games"],
+    exampleSentence: "play video games",
+    exampleTranslation: "jogar videogame"
+  },
+  {
+    id: 'common_verbs_' + 13,
+    word: "read a book",
+    translation: "ler um livro",
+    pronunciation: "/rid ə bʊk/",
+    portuguesePhonetic: "rid a buc",
+    syllables: ["read"," a"," book"],
+    exampleSentence: "read a book",
+    exampleTranslation: "ler um livro"
+  },
+  {
+    id: 'common_verbs_' + 14,
+    word: "send a text",
+    translation: "enviar uma mensagem de texto",
+    pronunciation: "/sɛnd ə tɛkst/",
+    portuguesePhonetic: "send a tésct",
+    syllables: ["send"," a"," text"],
+    exampleSentence: "send a text",
+    exampleTranslation: "enviar uma mensagem de texto"
+  },
+  {
+    id: 'common_verbs_' + 15,
+    word: "study English",
+    translation: "estudar inglês",
+    pronunciation: "/ˈstʌdi ˈɪŋɡlɪʃ/",
+    portuguesePhonetic: "stâ-di in-glix",
+    syllables: ["stu","dy"," Eng","lish"],
+    exampleSentence: "study English",
+    exampleTranslation: "estudar inglês"
+  },
+  {
+    id: 'common_verbs_' + 16,
+    word: "take a photo",
+    translation: "tirar uma foto",
+    pronunciation: "/teɪk ə ˈfoʊtoʊ/",
+    portuguesePhonetic: "têic a fôu-tou",
+    syllables: ["take"," a"," pho","to"],
+    exampleSentence: "take a photo",
+    exampleTranslation: "tirar uma foto"
+  },
+  {
+    id: 'common_verbs_' + 17,
+    word: "visit a museum",
+    translation: "visitar um museu",
+    pronunciation: "/ˈvɪzɪt ə mjuˈziəm/",
+    portuguesePhonetic: "ví-zit a miú-zí-am",
+    syllables: ["vi","sit"," a"," mu","se","um"],
+    exampleSentence: "visit a museum",
+    exampleTranslation: "visitar um museu"
+  },
+  {
+    id: 'common_verbs_' + 18,
+    word: "watch TV",
+    translation: "assistir televisão",
+    pronunciation: "/wɑtʃ ˌtiˈvi/",
+    portuguesePhonetic: "uótch ti-ví",
+    syllables: ["watch"," TV"],
+    exampleSentence: "watch TV",
+    exampleTranslation: "assistir televisão"
+  },
+  {
+    id: 'common_verbs_' + 19,
+    word: "wear glasses",
+    translation: "usar óculos",
+    pronunciation: "/wɛr ˈɡlæsɪz/",
+    portuguesePhonetic: "uér glé-siz",
+    syllables: ["wear"," glas","ses"],
+    exampleSentence: "wear glasses",
+    exampleTranslation: "usar óculos"
+  },
+  {
+    id: 'common_verbs_' + 20,
+    word: "send an email",
+    translation: "enviar um e-mail",
+    pronunciation: "/sɛnd ən ˈiˌmeɪl/",
+    portuguesePhonetic: "send an í-meil",
+    syllables: ["send"," an"," e","mail"],
+    exampleSentence: "send an email",
+    exampleTranslation: "enviar um e-mail"
+  }
+];
+
 export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   write_think: {
     en: WRITE_THINK_DECK
@@ -9380,6 +9789,12 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   know_work_live: {
     en: KNOW_WORK_LIVE_DECK
+  },
+  common_things: {
+    en: COMMON_THINGS_DECK
+  },
+  common_verbs: {
+    en: COMMON_VERBS_DECK
   },
   connectors: {
     en: CONNECTORS_DECK
