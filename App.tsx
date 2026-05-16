@@ -6,7 +6,7 @@ import Card from './components/Card';
 import ProgressBar from './components/ProgressBar';
 import { FlagUS, FlagES, FlagFR, FlagIT, FlagDE } from './components/Flags';
 import { useLocalStorage } from './hooks/useLocalStorage';
-import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, FastForward, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap, Wrench } from 'lucide-react';
+import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap, Wrench } from 'lucide-react';
 
 const CARDS_PER_DECK = 10;
 const SESSION_DURATION = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
@@ -91,7 +91,6 @@ const App: React.FC = () => {
   const [session, setSession] = useState<StudySession | null>(null);
   const [isCardFlipped, setIsCardFlipped] = useState(false);
   const [errorMsg, setErrorMsg] = useState('');
-  const [isDevMode, setIsDevMode] = useState(false);
   
   // Persistent State for Target Language
   const [targetLanguage, setTargetLanguage] = useLocalStorage<SupportedLanguage>('flashlingo_target_language', 'en');
@@ -129,7 +128,6 @@ const App: React.FC = () => {
     setTopicWords(prev => { const n = { ...prev }; delete n[key]; return n; });
     setTopicReviews(prev => { const n = { ...prev }; delete n[key]; return n; });
     setActiveSessions(prev => { const n = { ...prev }; delete n[key]; return n; });
-    setIsDevMode(false);
   };
 
   const startSession = async (topicLabel: string, topicId: string, isBonusRound = false) => {
@@ -173,8 +171,8 @@ const App: React.FC = () => {
         isBonus: isBonusRound,
         language: targetLanguage,
         cards,
-        currentIndex: isDevMode && cards.length > 0 ? cards.length - 1 : 0,
-        knownCount: isDevMode && cards.length > 0 ? cards.length - 1 : 0,
+        currentIndex: 0,
+        knownCount: 0,
         unknownCount: 0,
         unknownCards: []
       });
@@ -315,7 +313,6 @@ const App: React.FC = () => {
 
             <div className="flex gap-3">
                 <button onClick={() => setIsDarkMode(!isDarkMode)} title={isDarkMode ? 'Modo Claro' : 'Modo Escuro'} className={`flex items-center justify-center p-2 w-10 h-10 rounded-full transition-all border ${isDarkMode ? 'bg-slate-800 text-yellow-400 border-slate-700 hover:bg-slate-700' : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50'}`}>{isDarkMode ? <Sun size={20} /> : <Moon size={20} />}</button>
-                <button onClick={() => setIsDevMode(!isDevMode)} title={`Modo Teste`} className={`flex items-center justify-center gap-2 px-4 py-2 rounded-full text-xs font-bold transition-all border ${isDevMode ? 'bg-purple-600 text-white border-purple-700 shadow-md' : 'bg-white dark:bg-slate-800 text-slate-400 dark:text-slate-500 border-slate-200 dark:border-slate-700'}`}><FastForward size={16} /></button>
             </div>
           </div>
       </div>
@@ -346,7 +343,7 @@ const App: React.FC = () => {
                 ? STATIC_DECKS[topic.id][targetLanguage].length 
                 : CARDS_PER_DECK;
               
-              const displayLearnedCount = isDevMode ? totalCards : learnedCount;
+              const displayLearnedCount = learnedCount;
               const progressPercent = Math.min(100, (displayLearnedCount / totalCards) * 100);
               const reviewCount = (topicReviews[key] || []).length;
               const activeSession = activeSessions[key];

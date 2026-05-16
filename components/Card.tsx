@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { FlashcardData, SupportedLanguage } from '../types';
 import { RefreshCw, Loader2, Sparkles, Zap, Check, X, Eye, Snail } from 'lucide-react';
-import { playCloudAudio, playLocalAudio, preloadCloudAudio } from '../services/geminiService';
+import { playLocalAudio } from '../services/geminiService';
 
 interface CardProps {
   data: FlashcardData;
@@ -12,7 +12,7 @@ interface CardProps {
   onKnow: () => void;
 }
 
-type AudioSource = 'cloud' | 'local' | 'visual' | 'slow' | null;
+type AudioSource = 'local' | 'visual' | 'slow' | null;
 
 const Card: React.FC<CardProps> = ({ 
   data, 
@@ -93,36 +93,15 @@ const Card: React.FC<CardProps> = ({
     animateKaraoke();
   };
 
-  // Pre-load cloud audio when card changes
   useEffect(() => {
     setActiveSyllableIndex(-1);
     setActiveWordIndex(-1);
     setShowGrammar(false);
 
-    if (!isFlipped) {
-      preloadCloudAudio(data.word, targetLanguage);
-    }
-
     return () => {
       if (animationFrameRef.current) cancelAnimationFrame(animationFrameRef.current);
     };
   }, [data.id, data.word, data.exampleSentence, targetLanguage, isFlipped]); 
-
-  const handleCloudPlay = async (text: string, isMainWord: boolean, e: React.MouseEvent) => {
-    e.stopPropagation();
-    if (playingSource) return;
-
-    if (isMounted.current) setPlayingSource('cloud');
-    try {
-      await playCloudAudio(text, undefined, 1.0, targetLanguage);
-    } catch (error) {
-      console.error("Cloud speech failed", error);
-    } finally {
-      if (isMounted.current) {
-        setPlayingSource(null);
-      }
-    }
-  };
 
   const handleSlowPlay = async (text: string, isMainWord: boolean, e: React.MouseEvent) => {
     e.stopPropagation();
@@ -130,11 +109,7 @@ const Card: React.FC<CardProps> = ({
 
     if (isMounted.current) setPlayingSource('slow');
     try {
-      await playCloudAudio(text, undefined, 0.6, targetLanguage);
-    } catch (error) {
-      console.error("Cloud speech failed (slow)", error);
-      // Fallback a bit slower too
-      await playLocalAudio(text, targetLanguage, undefined, undefined, 0.6);
+      await playLocalAudio(text, targetLanguage, undefined, undefined, 0.5);
     } finally {
       if (isMounted.current) {
         setPlayingSource(null);
@@ -347,40 +322,18 @@ const Card: React.FC<CardProps> = ({
                   <Zap size={18} className={playingSource === 'local' ? "fill-current" : ""} />
                 </button>
 
-                {/* Cloud Audio */}
-                <button 
-                  onClick={(e) => handleCloudPlay(data.word, true, e)}
-                  disabled={playingSource !== null}
-                  className={`flex items-center justify-center w-10 h-10 rounded-full transition-colors border ${
-                    playingSource === 'cloud'
-                      ? 'bg-indigo-100 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border-indigo-200 dark:border-indigo-800/50 cursor-wait' 
-                      : 'bg-indigo-50 dark:bg-slate-700 text-indigo-700 dark:text-indigo-400 border-indigo-100 dark:border-slate-600 hover:bg-indigo-100 dark:hover:bg-slate-600 shadow-sm'
-                  }`}
-                  title="Áudio Natural"
-                >
-                  {playingSource === 'cloud' ? (
-                    <Loader2 size={18} className="animate-spin" />
-                  ) : (
-                    <Sparkles size={18} />
-                  )}
-                </button>
-
-                {/* Slow Cloud Audio (Turtle Mode) */}
+                {/* Slow Audio (Turtle Mode) */}
                 <button 
                   onClick={(e) => handleSlowPlay(data.word, true, e)}
                   disabled={playingSource !== null}
                   className={`flex items-center justify-center w-10 h-10 rounded-full transition-colors border ${
                     playingSource === 'slow'
-                      ? 'bg-indigo-100 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border-indigo-200 dark:border-indigo-800/50 cursor-wait' 
-                      : 'bg-indigo-50 dark:bg-slate-700 text-indigo-700 dark:text-indigo-400 border-indigo-100 dark:border-slate-600 hover:bg-indigo-100 dark:hover:bg-slate-600 shadow-sm'
+                      ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50 shadow-inner' 
+                      : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
                   }`}
                   title="Áudio Lento (Modo Tartaruga)"
                 >
-                  {playingSource === 'slow' ? (
-                    <Loader2 size={18} className="animate-spin" />
-                  ) : (
-                    <Snail size={18} />
-                  )}
+                  <Snail size={18} className={playingSource === 'slow' ? "fill-current" : ""} />
                 </button>
 
                 {/* Visual Karaoke */}
@@ -473,17 +426,25 @@ const Card: React.FC<CardProps> = ({
                   <button 
                     onClick={(e) => handleSlowPlay(data.exampleSentence, false, e)}
                     disabled={playingSource !== null}
-                    className="p-1.5 rounded-full transition-all border bg-indigo-50 hover:bg-indigo-100 border-indigo-100 text-indigo-600 dark:bg-indigo-500/10 dark:hover:bg-indigo-500/20 dark:border-indigo-500/20 dark:text-indigo-400"
+                    className={`p-1.5 rounded-full transition-all border ${
+                      playingSource === 'slow'
+                        ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50'
+                        : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
+                    }`}
                     title="Áudio Lento"
                   >
-                    <Snail size={12} className={playingSource === 'slow' ? "fill-current text-indigo-500 dark:text-indigo-400" : ""} />
+                    <Snail size={12} className={playingSource === 'slow' ? "fill-current" : ""} />
                   </button>
                   <button 
                     onClick={(e) => handleLocalPlay(data.exampleSentence, false, e)}
                     disabled={playingSource !== null}
-                    className="p-1.5 rounded-full transition-all border bg-indigo-50 hover:bg-indigo-100 border-indigo-100 text-indigo-600 dark:bg-indigo-500/10 dark:hover:bg-indigo-500/20 dark:border-indigo-500/20 dark:text-indigo-400"
+                    className={`p-1.5 rounded-full transition-all border ${
+                      playingSource === 'local'
+                        ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50'
+                        : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
+                    }`}
                   >
-                    <Zap size={12} className={playingSource === 'local' ? "fill-current text-amber-500 dark:text-amber-400" : ""} />
+                    <Zap size={12} className={playingSource === 'local' ? "fill-current" : ""} />
                   </button>
                 </div>
               </div>

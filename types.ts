@@ -36,112 +36,112 @@ export interface StudySession {
 export const PREDEFINED_TOPICS = [
   {
     id: 'start_finish',
-    label: '31 Começar & Terminar',
+    label: 'Lesson 31',
     isStatic: true
   },
   {
     id: 'write_think',
-    label: '35 Escrever, Pensar & Achar',
+    label: 'Lesson 35',
     isStatic: true
   },
   {
     id: 'to_be_intro',
-    label: '37 Ser, Estar',
+    label: 'Lesson 37',
     isStatic: true
   },
   {
     id: 'to_be_negative',
-    label: '39 to be | ser, estar (forma negativa)',
+    label: 'Lesson 39',
     isStatic: true
   },
   {
     id: 'to_be_interrogative',
-    label: '41 to be | ser, estar (forma interrogativa)',
+    label: 'Lesson 41',
     isStatic: true
   },
   {
     id: 'to_make_give',
-    label: '43 to make | fazer to give | dar',
+    label: 'Lesson 43',
     isStatic: true
   },
   {
     id: 'to_open_close',
-    label: '45 to open | abrir to close | fechar',
+    label: 'Lesson 45',
     isStatic: true
   },
   {
     id: 'to_call_wait',
-    label: '47 to call | chamar, ligar to wait | esperar',
+    label: 'Lesson 47',
     isStatic: true
   },
   {
     id: 'to_wear_change',
-    label: '49 to wear | vestir, usar to change | trocar, mudar',
+    label: 'Lesson 49',
     isStatic: true
   },
   { 
     id: 'move_put', 
-    label: '61 Mover, Mudar, Colocar & Pôr', 
+    label: 'Lesson 61', 
     isStatic: true
   },
   {
     id: 'share_rent',
-    label: '63 Dividir, Compartilhar & Alugar',
+    label: 'Lesson 63',
     isStatic: true
   },
   {
     id: 'lose_find',
-    label: '65 Perder, Encontrar & Achar',
+    label: 'Lesson 65',
     isStatic: true
   },
   {
     id: 'to_be_1',
-    label: '67 Ser, Estar I',
+    label: 'Lesson 67',
     isStatic: true
   },
   {
     id: 'to_be_2',
-    label: '69 Ser, Estar II',
+    label: 'Lesson 69',
     isStatic: true
   },
   {
     id: 'to_be',
-    label: '71 Ser, Estar III',
+    label: 'Lesson 71',
     isStatic: true
   },
   {
     id: 'begin_choose',
-    label: '73 Iniciar, Começar & Escolher',
+    label: 'Lesson 73',
     isStatic: true
   },
   {
     id: 'listen_watch',
-    label: '75 Ouvir & Assistir',
+    label: 'Lesson 75',
     isStatic: true
   },
   {
     id: 'post_follow',
-    label: '77 Postar & Seguir',
+    label: 'Lesson 77',
     isStatic: true
   },
   {
     id: 'drink_eat_want',
-    label: '79 Comer, Beber & Querer',
+    label: 'Lesson 79',
     isStatic: true
   },
   {
     id: 'go_have_visit',
-    label: '81 Ir, Ter & Visitar',
+    label: 'Lesson 81',
     isStatic: true
   },
   {
     id: 'travel_stay_need',
-    label: '83 Viajar, Ficar & Precisar',
+    label: 'Lesson 83',
     isStatic: true
   },
   {
     id: 'know_work_live',
-    label: '85 Saber, Trabalhar & Morar',
+    label: 'Lesson 85',
     isStatic: true
   },
   {

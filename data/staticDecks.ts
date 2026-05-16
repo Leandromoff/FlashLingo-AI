@@ -9772,6 +9772,9 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   begin_choose: {
     en: BEGIN_CHOOSE_DECK
   },
+  lose_find: {
+    en: LOSE_FIND_DECK
+  },
   listen_watch: {
     en: LISTEN_WATCH_DECK
   },
