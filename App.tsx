@@ -6,7 +6,7 @@ import Card from './components/Card';
 import ProgressBar from './components/ProgressBar';
 import { FlagUS, FlagES, FlagFR, FlagIT, FlagDE } from './components/Flags';
 import { useLocalStorage } from './hooks/useLocalStorage';
-import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap, Wrench } from 'lucide-react';
+import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, ChevronDown, ChevronUp, Folder, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap, Wrench } from 'lucide-react';
 
 const CARDS_PER_DECK = 10;
 const SESSION_DURATION = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
@@ -115,6 +115,16 @@ const App: React.FC = () => {
       document.documentElement.classList.remove('dark');
     }
   }, [isDarkMode]);
+
+  // Collapsible Groups State
+  const [expandedGroups, setExpandedGroups] = useLocalStorage<Record<string, boolean>>('flashlingo_expanded_groups', {
+    'W2': false,
+    'W4': false
+  });
+
+  const toggleGroup = (groupKey: string) => {
+    setExpandedGroups(prev => ({ ...prev, [groupKey]: !prev[groupKey] }));
+  };
 
   // Helper to get unique key per language (e.g., 'travel_en' vs 'travel_es')
   const getTopicKey = (topicId: string) => `${topicId}_${targetLanguage}`;
@@ -335,8 +345,45 @@ const App: React.FC = () => {
         </div>
       ) : (
         <>
-          <div className="w-full grid grid-cols-1 gap-4 mb-8">
-            {PREDEFINED_TOPICS.map((topic) => {
+          {['W2', 'W4'].map(groupName => {
+            const groupTopics = PREDEFINED_TOPICS.filter((t: any) => t.group === groupName);
+            if (groupTopics.length === 0) return null;
+            const isExpanded = expandedGroups[groupName] === true; // default false
+            
+            let totalGroupLearned = 0;
+            let totalGroupCards = 0;
+            groupTopics.forEach(topic => {
+              const key = getTopicKey(topic.id);
+              totalGroupLearned += (topicWords[key] || []).length;
+              totalGroupCards += (topic.isStatic && STATIC_DECKS[topic.id] && STATIC_DECKS[topic.id][targetLanguage]) 
+                ? STATIC_DECKS[topic.id][targetLanguage].length 
+                : CARDS_PER_DECK;
+            });
+
+            return (
+              <div key={groupName} className="w-full mb-8">
+                <button 
+                  className="w-full flex items-center justify-between cursor-pointer py-4 px-5 bg-indigo-600 dark:bg-indigo-900 border border-indigo-700 dark:border-indigo-800 rounded-xl shadow-md mb-4 transition-colors hover:bg-indigo-700 dark:hover:bg-indigo-800 focus:outline-none focus:ring-4 focus:ring-indigo-300 dark:focus:ring-indigo-500 text-left"
+                  onClick={() => toggleGroup(groupName)}
+                  aria-expanded={isExpanded}
+                >
+                  <div className="flex items-center gap-4">
+                    <BookOpenText size={24} className="text-white bg-indigo-500/50 p-1.5 rounded-lg" />
+                    <h3 className="text-xl font-bold text-white">
+                      {groupName === 'Outros' ? 'Outros' : `Maço ${groupName}`}
+                    </h3>
+                    <span className="bg-indigo-800/80 text-indigo-100 font-medium px-3 py-1 rounded-full text-sm shadow-inner">
+                      {groupTopics.length} baralhos • {totalGroupLearned}/{totalGroupCards}
+                    </span>
+                  </div>
+                  <div>
+                    {isExpanded ? <ChevronDown size={24} className="text-white transition-transform" /> : <ChevronLeft size={24} className="text-white transition-transform" />}
+                  </div>
+                </button>
+                
+                <div className={`overflow-hidden transition-all duration-500 ease-in-out ${isExpanded ? 'max-h-[5000px] opacity-100 mt-4' : 'max-h-0 opacity-0'}`}>
+                  <div className="w-full grid grid-cols-1 gap-4">
+                    {groupTopics.map((topic) => {
               const key = getTopicKey(topic.id);
               const learnedCount = (topicWords[key] || []).length;
               const totalCards = (topic.isStatic && STATIC_DECKS[topic.id] && STATIC_DECKS[topic.id][targetLanguage]) 
@@ -418,8 +465,12 @@ const App: React.FC = () => {
                    </div>
                 </div>
               );
-            })}
-          </div>
+                    })}
+                  </div>
+                </div>
+              </div>
+            );
+          })}
 
           <div className="w-full mt-6 bg-white dark:bg-slate-800 p-5 rounded-3xl border border-slate-200 dark:border-slate-700 shadow-sm">
               <div className="flex gap-2 mb-4">
