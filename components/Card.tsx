@@ -27,6 +27,188 @@ const Card: React.FC<CardProps> = ({
   const [activeWordIndex, setActiveWordIndex] = useState<number>(-1);
   const [showGrammar, setShowGrammar] = useState<boolean>(false);
 
+  // Autoplay preference states loaded from and saved to localStorage
+  const [autoplayLocal, setAutoplayLocal] = useState<boolean>(() => {
+    try {
+      const saved = localStorage.getItem('flashlingo_autoplay_local');
+      return saved ? JSON.parse(saved) : false;
+    } catch {
+      return false;
+    }
+  });
+  const [autoplaySlow, setAutoplaySlow] = useState<boolean>(() => {
+    try {
+      const saved = localStorage.getItem('flashlingo_autoplay_slow');
+      return saved ? JSON.parse(saved) : false;
+    } catch {
+      return false;
+    }
+  });
+  const [autoplayVisual, setAutoplayVisual] = useState<boolean>(() => {
+    try {
+      const saved = localStorage.getItem('flashlingo_autoplay_visual');
+      return saved ? JSON.parse(saved) : false;
+    } catch {
+      return false;
+    }
+  });
+  const [autoplayKnow, setAutoplayKnow] = useState<boolean>(() => {
+    try {
+      const saved = localStorage.getItem('flashlingo_autoplay_know');
+      return saved ? JSON.parse(saved) : false;
+    } catch {
+      return false;
+    }
+  });
+
+  // Keep track of which specific plays have been executed for the current card ID to prevent duplicate plays.
+  // This allows us to trigger them immediately when the user toggles a checkbox from false to true on the current card
+  // OR automatically when moving to a new card.
+  const autoplayTrackRef = useRef<{ id: string | null; local: boolean; slow: boolean; visual: boolean; know: boolean }>({
+    id: null,
+    local: false,
+    slow: false,
+    visual: false,
+    know: false,
+  });
+
+  useEffect(() => {
+    localStorage.setItem('flashlingo_autoplay_local', JSON.stringify(autoplayLocal));
+  }, [autoplayLocal]);
+
+  useEffect(() => {
+    localStorage.setItem('flashlingo_autoplay_slow', JSON.stringify(autoplaySlow));
+  }, [autoplaySlow]);
+
+  useEffect(() => {
+    localStorage.setItem('flashlingo_autoplay_visual', JSON.stringify(autoplayVisual));
+  }, [autoplayVisual]);
+
+  useEffect(() => {
+    localStorage.setItem('flashlingo_autoplay_know', JSON.stringify(autoplayKnow));
+  }, [autoplayKnow]);
+
+  // Enforce invariant: autoplayKnow requires at least one audio/reading option to be active
+  useEffect(() => {
+    if (autoplayKnow && !autoplayLocal && !autoplaySlow && !autoplayVisual) {
+      setAutoplayKnow(false);
+    }
+  }, [autoplayLocal, autoplaySlow, autoplayVisual, autoplayKnow]);
+
+  // Autoplay sequence effect running programmatically in the requested sequence:
+  // Fast Audio ('local') -> Slow Audio ('slow') -> Visual Reading ('visual') -> Auto Advance
+  useEffect(() => {
+    if (isFlipped) return;
+
+    // Is it a new card? Reset our execution tracking
+    if (autoplayTrackRef.current.id !== data.id) {
+      autoplayTrackRef.current = {
+        id: data.id,
+        local: false,
+        slow: false,
+        visual: false,
+        know: false,
+      };
+    }
+
+    // Determine what needs to run: enabled items that have not played yet for this card
+    const shouldPlayLocal = autoplayLocal && !autoplayTrackRef.current.local;
+    const shouldPlaySlow = autoplaySlow && !autoplayTrackRef.current.slow;
+    const shouldPlayVisual = autoplayVisual && !autoplayTrackRef.current.visual;
+    const shouldAutoKnow = autoplayKnow && !autoplayTrackRef.current.know;
+
+    if (!shouldPlayLocal && !shouldPlaySlow && !shouldPlayVisual && !shouldAutoKnow) {
+      return;
+    }
+
+    let isCancelled = false;
+
+    const playAutoplaySequence = async () => {
+      // 500ms delay to let sliding transitions finish smoothly
+      await new Promise(resolve => setTimeout(resolve, 500));
+      if (isCancelled || !isMounted.current) return;
+
+      // 1. Local Autoplay (Áudio Rápido)
+      if (shouldPlayLocal && !isCancelled && isMounted.current) {
+        if (playingSource === null) {
+          setPlayingSource('local');
+          autoplayTrackRef.current.local = true;
+          try {
+            await playLocalAudio(data.word, targetLanguage, undefined);
+          } catch (e) {
+            console.error("Autoplay local error:", e);
+          } finally {
+            if (!isCancelled && isMounted.current) {
+              setPlayingSource(null);
+            }
+          }
+          await new Promise(resolve => setTimeout(resolve, 600));
+        }
+      }
+
+      // 2. Slow Autoplay (Modo Tartaruga)
+      if (shouldPlaySlow && !isCancelled && isMounted.current) {
+        if (playingSource === null) {
+          setPlayingSource('slow');
+          autoplayTrackRef.current.slow = true;
+          try {
+            await playLocalAudio(data.word, targetLanguage, undefined, undefined, 0.5);
+          } catch (e) {
+            console.error("Autoplay slow error:", e);
+          } finally {
+            if (!isCancelled && isMounted.current) {
+              setPlayingSource(null);
+            }
+          }
+          await new Promise(resolve => setTimeout(resolve, 600));
+        }
+      }
+
+      // 3. Visual Karaoke Autoplay (Leitura Guiada)
+      if (shouldPlayVisual && !isCancelled && isMounted.current) {
+        if (playingSource === null) {
+          setPlayingSource('visual');
+          autoplayTrackRef.current.visual = true;
+          try {
+            const syllables = data.syllables && data.syllables.length > 0 ? data.syllables : [data.word];
+            const estimatedDuration = Math.max(1.0, syllables.length * 0.4);
+            
+            if (!isCancelled && isMounted.current) {
+              startKaraoke(estimatedDuration, 'word');
+            }
+            await new Promise(resolve => setTimeout(resolve, estimatedDuration * 1000));
+          } catch (e) {
+            console.error("Autoplay visual error:", e);
+          } finally {
+            if (!isCancelled && isMounted.current) {
+              setPlayingSource(null);
+              setActiveSyllableIndex(-1);
+            }
+          }
+        }
+      }
+
+      // 4. Auto Advance (Já sei) if enabled
+      if (shouldAutoKnow && !isCancelled && isMounted.current) {
+        autoplayTrackRef.current.know = true;
+        // Wait another 800ms for a natural pause before advancing
+        await new Promise(resolve => setTimeout(resolve, 800));
+        if (!isCancelled && isMounted.current) {
+          onKnow();
+        }
+      }
+    };
+
+    playAutoplaySequence();
+
+    return () => {
+      isCancelled = true;
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+      }
+    };
+  }, [data.id, isFlipped, autoplayLocal, autoplaySlow, autoplayVisual, autoplayKnow, targetLanguage]);
+
   // Refs for animation and mounting status
   const startTimeRef = useRef<number>(0);
   const durationRef = useRef<number>(0);
@@ -97,6 +279,12 @@ const Card: React.FC<CardProps> = ({
     setActiveSyllableIndex(-1);
     setActiveWordIndex(-1);
     setShowGrammar(false);
+    setPlayingSource(null);
+
+    // Cancel speech synthesis immediately to stop current audio on card/language/flip changes
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+    }
 
     return () => {
       if (animationFrameRef.current) cancelAnimationFrame(animationFrameRef.current);
@@ -307,48 +495,113 @@ const Card: React.FC<CardProps> = ({
             
             {/* Controls Container */}
             <div className="flex flex-col items-center mb-2 mt-8">
-              <div className="flex items-center gap-3">
-                {/* Local Audio */}
-                <button 
-                  onClick={(e) => handleLocalPlay(data.word, true, e)}
-                  disabled={playingSource !== null}
-                  className={`flex items-center justify-center w-10 h-10 rounded-full transition-colors border ${
-                    playingSource === 'local'
-                      ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50 shadow-inner'
-                      : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
-                  }`}
-                  title="Áudio Rápido"
-                >
-                  <Zap size={18} className={playingSource === 'local' ? "fill-current" : ""} />
-                </button>
+              <div className="flex items-center gap-6 md:gap-8 justify-center">
+                
+                {/* Local Audio (Áudio Rápido) Column */}
+                <div className="flex flex-col items-center gap-2" onClick={(e) => e.stopPropagation()}>
+                  <button 
+                    onClick={(e) => handleLocalPlay(data.word, true, e)}
+                    disabled={playingSource !== null}
+                    className={`flex items-center justify-center w-11 h-11 rounded-full transition-colors border ${
+                      playingSource === 'local'
+                        ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50 shadow-inner'
+                        : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
+                    }`}
+                    title="Áudio Rápido"
+                  >
+                    <Zap size={18} className={playingSource === 'local' ? "fill-current" : ""} />
+                  </button>
+                  <button 
+                    type="button"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setAutoplayLocal(!autoplayLocal);
+                    }}
+                    className={`relative inline-flex h-3 w-6.5 items-center rounded-full transition-colors duration-200 focus:outline-none ${
+                      autoplayLocal 
+                        ? 'bg-green-500' 
+                        : 'bg-slate-200 dark:bg-slate-700 border border-slate-300 dark:border-slate-650'
+                    }`}
+                    title={autoplayLocal ? "Auto Play Ativado" : "Auto Play Desativado"}
+                  >
+                    <span
+                      className={`inline-block h-2 w-2 transform rounded-full bg-white transition-all duration-200 ${
+                        autoplayLocal ? 'translate-x-[14px]' : 'translate-x-[2px]'
+                      }`}
+                    />
+                  </button>
+                </div>
 
-                {/* Slow Audio (Turtle Mode) */}
-                <button 
-                  onClick={(e) => handleSlowPlay(data.word, true, e)}
-                  disabled={playingSource !== null}
-                  className={`flex items-center justify-center w-10 h-10 rounded-full transition-colors border ${
-                    playingSource === 'slow'
-                      ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50 shadow-inner' 
-                      : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
-                  }`}
-                  title="Áudio Lento (Modo Tartaruga)"
-                >
-                  <Snail size={18} className={playingSource === 'slow' ? "fill-current" : ""} />
-                </button>
+                {/* Slow Audio (Modo Tartaruga) Column */}
+                <div className="flex flex-col items-center gap-2" onClick={(e) => e.stopPropagation()}>
+                  <button 
+                    onClick={(e) => handleSlowPlay(data.word, true, e)}
+                    disabled={playingSource !== null}
+                    className={`flex items-center justify-center w-11 h-11 rounded-full transition-colors border ${
+                      playingSource === 'slow'
+                        ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50 shadow-inner' 
+                        : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
+                    }`}
+                    title="Áudio Lento (Modo Tartaruga)"
+                  >
+                    <Snail size={18} className={playingSource === 'slow' ? "fill-current" : ""} />
+                  </button>
+                  <button 
+                    type="button"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setAutoplaySlow(!autoplaySlow);
+                    }}
+                    className={`relative inline-flex h-3 w-6.5 items-center rounded-full transition-colors duration-200 focus:outline-none ${
+                      autoplaySlow 
+                        ? 'bg-green-500' 
+                        : 'bg-slate-200 dark:bg-slate-700 border border-slate-300 dark:border-slate-650'
+                    }`}
+                    title={autoplaySlow ? "Auto Play Ativado" : "Auto Play Desativado"}
+                  >
+                    <span
+                      className={`inline-block h-2 w-2 transform rounded-full bg-white transition-all duration-200 ${
+                        autoplaySlow ? 'translate-x-[14px]' : 'translate-x-[2px]'
+                      }`}
+                    />
+                  </button>
+                </div>
 
-                {/* Visual Karaoke */}
-                <button 
-                  onClick={(e) => handleVisualKaraoke(data.word, true, e)}
-                  disabled={playingSource !== null}
-                  className={`flex items-center justify-center w-10 h-10 rounded-full transition-colors border ${
-                    playingSource === 'visual'
-                      ? 'bg-emerald-100 dark:bg-emerald-900/30 text-emerald-600 dark:text-emerald-500 border-emerald-200 dark:border-emerald-800/50 shadow-inner'
-                      : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
-                  }`}
-                  title="Leitura Guiada (Sem Áudio)"
-                >
-                  <Eye size={18} className={playingSource === 'visual' ? "fill-current" : ""} />
-                </button>
+                {/* Visual Karaoke (Leitura Guiada) Column */}
+                <div className="flex flex-col items-center gap-2" onClick={(e) => e.stopPropagation()}>
+                  <button 
+                    onClick={(e) => handleVisualKaraoke(data.word, true, e)}
+                    disabled={playingSource !== null}
+                    className={`flex items-center justify-center w-11 h-11 rounded-full transition-colors border ${
+                      playingSource === 'visual'
+                        ? 'bg-emerald-100 dark:bg-emerald-900/30 text-emerald-600 dark:text-emerald-500 border-emerald-200 dark:border-emerald-800/50 shadow-inner'
+                        : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
+                    }`}
+                    title="Leitura Guiada (Sem Áudio)"
+                  >
+                    <Eye size={18} className={playingSource === 'visual' ? "fill-current" : ""} />
+                  </button>
+                  <button 
+                    type="button"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setAutoplayVisual(!autoplayVisual);
+                    }}
+                    className={`relative inline-flex h-3 w-6.5 items-center rounded-full transition-colors duration-200 focus:outline-none ${
+                      autoplayVisual 
+                        ? 'bg-green-500' 
+                        : 'bg-slate-200 dark:bg-slate-700 border border-slate-300 dark:border-slate-650'
+                    }`}
+                    title={autoplayVisual ? "Auto Play Ativado" : "Auto Play Desativado"}
+                  >
+                    <span
+                      className={`inline-block h-2 w-2 transform rounded-full bg-white transition-all duration-200 ${
+                        autoplayVisual ? 'translate-x-[14px]' : 'translate-x-[2px]'
+                      }`}
+                    />
+                  </button>
+                </div>
+
               </div>
             </div>
           </div>
@@ -376,17 +629,41 @@ const Card: React.FC<CardProps> = ({
                 <RefreshCw size={32} />
              </button>
 
-             {/* Known Button */}
-             <button 
-               onClick={(e) => { e.stopPropagation(); onKnow(); }}
-               className="flex flex-col items-center gap-1 text-green-600 dark:text-green-400 hover:scale-105 transition-transform p-2 group/btn"
-               title="Já sei"
-             >
-               <div className="p-3 bg-green-50 dark:bg-green-900/30 rounded-full border border-green-100 dark:border-green-900/50 group-hover/btn:bg-green-100 dark:group-hover/btn:bg-green-900/50 transition-colors">
-                  <Check size={24} strokeWidth={3} />
-               </div>
-               <span className="text-[10px] font-bold uppercase tracking-wider opacity-70 group-hover/btn:opacity-100">Já sei</span>
-             </button>
+             {/* Known Button with Autoplay Toggle */}
+             <div className="flex flex-col items-center gap-1.5" onClick={(e) => e.stopPropagation()}>
+               <button 
+                 onClick={(e) => { e.stopPropagation(); onKnow(); }}
+                 className="flex flex-col items-center gap-1 text-green-600 dark:text-green-400 hover:scale-105 transition-transform p-2 group/btn"
+                 title="Já sei"
+               >
+                 <div className="p-3 bg-green-50 dark:bg-green-900/30 rounded-full border border-green-100 dark:border-green-900/50 group-hover/btn:bg-green-100 dark:group-hover/btn:bg-green-900/50 transition-colors">
+                    <Check size={24} strokeWidth={3} />
+                 </div>
+               </button>
+               <button 
+                 type="button"
+                 onClick={(e) => {
+                   e.stopPropagation();
+                   const nextVal = !autoplayKnow;
+                   if (nextVal && !autoplayLocal && !autoplaySlow && !autoplayVisual) {
+                     setAutoplayLocal(true);
+                   }
+                   setAutoplayKnow(nextVal);
+                 }}
+                 className={`relative inline-flex h-3 w-6.5 items-center rounded-full transition-colors duration-200 focus:outline-none ${
+                   autoplayKnow 
+                     ? 'bg-green-500' 
+                     : 'bg-slate-200 dark:bg-slate-700 border border-slate-300 dark:border-slate-650'
+                 }`}
+                 title={autoplayKnow ? "Avanço Automático Ativado" : "Avanço Automático Desativado"}
+               >
+                 <span
+                   className={`inline-block h-2 w-2 transform rounded-full bg-white transition-all duration-200 ${
+                     autoplayKnow ? 'translate-x-[14px]' : 'translate-x-[2px]'
+                   }`}
+                 />
+               </button>
+             </div>
           </div>
         </div>
 

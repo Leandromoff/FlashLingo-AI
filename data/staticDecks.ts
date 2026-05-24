@@ -9143,5 +9143,44 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   know_work_live: {
     en: KNOW_WORK_LIVE_DECK
+  },
+  move_put_revisao: {
+    en: MOVE_PUT_DECK
+  },
+  share_rent_revisao: {
+    en: SHARE_RENT_DECK
+  },
+  to_be_1_revisao: {
+    en: TO_BE_1_DECK
+  },
+  to_be_2_revisao: {
+    en: TO_BE_2_DECK
+  },
+  to_be_revisao: {
+    en: TO_BE_DECK
+  },
+  begin_choose_revisao: {
+    en: BEGIN_CHOOSE_DECK
+  },
+  lose_find_revisao: {
+    en: LOSE_FIND_DECK
+  },
+  listen_watch_revisao: {
+    en: LISTEN_WATCH_DECK
+  },
+  post_follow_revisao: {
+    en: POST_FOLLOW_DECK
+  },
+  drink_eat_want_revisao: {
+    en: DRINK_EAT_WANT_DECK
+  },
+  go_have_visit_revisao: {
+    en: GO_HAVE_VISIT_DECK
+  },
+  travel_stay_need_revisao: {
+    en: TRAVEL_STAY_NEED_DECK
+  },
+  know_work_live_revisao: {
+    en: KNOW_WORK_LIVE_DECK
   }
 };

@@ -119,7 +119,8 @@ const App: React.FC = () => {
   // Collapsible Groups State
   const [expandedGroups, setExpandedGroups] = useLocalStorage<Record<string, boolean>>('flashlingo_expanded_groups', {
     'W2': false,
-    'W4': false
+    'W4': false,
+    'W4 revisão': false
   });
 
   const toggleGroup = (groupKey: string) => {
@@ -190,7 +191,7 @@ const App: React.FC = () => {
       setIsCardFlipped(false);
     } catch (error) {
       console.error(error);
-      setErrorMsg('Falha ao carregar baralho. Tente novamente.');
+      setErrorMsg('Falha ao carregar deck. Tente novamente.');
       setAppState(AppState.ERROR);
     }
   };
@@ -345,7 +346,7 @@ const App: React.FC = () => {
         </div>
       ) : (
         <>
-          {['W2', 'W4'].map(groupName => {
+          {['W2', 'W4', 'W4 revisão'].map(groupName => {
             const groupTopics = PREDEFINED_TOPICS.filter((t: any) => t.group === groupName);
             if (groupTopics.length === 0) return null;
             const isExpanded = expandedGroups[groupName] === true; // default false
@@ -370,10 +371,10 @@ const App: React.FC = () => {
                   <div className="flex items-center gap-4">
                     <BookOpenText size={24} className="text-white bg-indigo-500/50 p-1.5 rounded-lg" />
                     <h3 className="text-xl font-bold text-white">
-                      {groupName === 'Outros' ? 'Outros' : `Maço ${groupName}`}
+                      {groupName}
                     </h3>
                     <span className="bg-indigo-800/80 text-indigo-100 font-medium px-3 py-1 rounded-full text-sm shadow-inner">
-                      {groupTopics.length} baralhos • {totalGroupLearned}/{totalGroupCards}
+                      {groupTopics.length} decks • {totalGroupLearned}/{totalGroupCards}
                     </span>
                   </div>
                   <div>
@@ -496,7 +497,7 @@ const App: React.FC = () => {
             <div className={`w-16 h-16 border-4 rounded-full animate-spin ${isBonus ? 'border-amber-200 border-t-amber-600 dark:border-amber-900 dark:border-t-amber-500' : 'border-indigo-200 border-t-indigo-600 dark:border-indigo-900 dark:border-t-indigo-500'}`}></div>
             <div className="absolute inset-0 flex items-center justify-center">{isBonus ? <Star size={20} className="text-amber-600 dark:text-amber-500 animate-pulse fill-current" /> : <Sparkles size={20} className="text-indigo-600 dark:text-indigo-500 animate-pulse" />}</div>
           </div>
-          <h2 className="mt-6 text-xl font-bold text-slate-800 dark:text-white">{isBonus ? 'Gerando Baralho Bônus...' : `Gerando Baralho...`}</h2>
+          <h2 className="mt-6 text-xl font-bold text-slate-800 dark:text-white">{isBonus ? 'Gerando Deck Bônus...' : `Gerando Deck...`}</h2>
           <p className="text-slate-500 dark:text-slate-400 mt-2">{`Criando desafio de ${langLabel} para "${customTopic}"`}</p>
         </div>
       );
@@ -526,7 +527,7 @@ const App: React.FC = () => {
            <div className="w-8"></div>
         </div>
         <ProgressBar current={session.currentIndex} total={session.cards.length} />
-        <div className="w-full mb-10"><Card data={currentCard} isFlipped={isCardFlipped} onFlip={() => setIsCardFlipped(!isCardFlipped)} targetLanguage={session.language} onStudy={() => handleCardResult(false)} onKnow={() => handleCardResult(true)} /></div>
+        <div className="w-full mb-10"><Card key={currentCard.id} data={currentCard} isFlipped={isCardFlipped} onFlip={() => setIsCardFlipped(!isCardFlipped)} targetLanguage={session.language} onStudy={() => handleCardResult(false)} onKnow={() => handleCardResult(true)} /></div>
       </div>
     );
   };
@@ -576,7 +577,7 @@ const App: React.FC = () => {
                 <Trophy size={20} /> Parabéns! Você zerou este tópico.
               </div>
               <button onClick={(e) => resetProgress(session.topicId, e)} className="w-full bg-white dark:bg-slate-800 border-2 border-red-100 dark:border-red-900/30 text-red-400 py-3 rounded-xl font-bold hover:border-red-300 hover:text-red-600 transition-colors flex justify-center items-center gap-2">
-                <RotateCcw size={16} /> Reiniciar Baralho
+                <RotateCcw size={16} /> Reiniciar Deck
               </button>
             </div>
           )}
