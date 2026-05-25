@@ -668,15 +668,6 @@ const Card: React.FC<CardProps> = ({
                 </div>
 
               </div>
-              {isWakeLockActive && (
-                <div className="mt-4 text-xs text-amber-500/80 dark:text-amber-400 font-semibold flex items-center justify-center gap-1.5 bg-amber-50 dark:bg-amber-900/20 px-3 py-1.5 rounded-full border border-amber-100 dark:border-amber-900/50 shadow-sm">
-                  <span className="relative flex h-2 w-2">
-                    <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-400 opacity-75"></span>
-                    <span className="relative inline-flex rounded-full h-2 w-2 bg-amber-500"></span>
-                  </span>
-                  Tela Sempre Ativa
-                </div>
-              )}
             </div>
           </div>
 
