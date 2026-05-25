@@ -144,6 +144,16 @@ const App: React.FC = () => {
   const startSession = async (topicLabel: string, topicId: string, isBonusRound = false) => {
     const key = getTopicKey(topicId);
     
+    // Default autoplay settings to disabled on starting/initiating any deck study session
+    try {
+      localStorage.setItem('flashlingo_autoplay_local', 'false');
+      localStorage.setItem('flashlingo_autoplay_slow', 'false');
+      localStorage.setItem('flashlingo_autoplay_visual', 'false');
+      localStorage.setItem('flashlingo_autoplay_know', 'false');
+    } catch (e) {
+      console.error("Failed to reset autocomplete: ", e);
+    }
+
     // Clear any existing active session when starting a fresh one
     setActiveSessions(prev => { const n = { ...prev }; delete n[key]; return n; });
 
@@ -356,9 +366,12 @@ const App: React.FC = () => {
             groupTopics.forEach(topic => {
               const key = getTopicKey(topic.id);
               totalGroupLearned += (topicWords[key] || []).length;
-              totalGroupCards += (topic.isStatic && STATIC_DECKS[topic.id] && STATIC_DECKS[topic.id][targetLanguage]) 
-                ? STATIC_DECKS[topic.id][targetLanguage].length 
-                : CARDS_PER_DECK;
+              let topicTotalCards = CARDS_PER_DECK;
+              if (topic.isStatic && STATIC_DECKS[topic.id] && STATIC_DECKS[topic.id][targetLanguage]) {
+                const uniqueWords = new Set(STATIC_DECKS[topic.id][targetLanguage].map(c => (c.word || '').trim()).filter(Boolean));
+                topicTotalCards = uniqueWords.size;
+              }
+              totalGroupCards += topicTotalCards;
             });
 
             return (
@@ -385,13 +398,15 @@ const App: React.FC = () => {
                 <div className={`overflow-hidden transition-all duration-500 ease-in-out ${isExpanded ? 'max-h-[5000px] opacity-100 mt-4' : 'max-h-0 opacity-0'}`}>
                   <div className="w-full grid grid-cols-1 gap-4">
                     {groupTopics.map((topic) => {
-              const key = getTopicKey(topic.id);
-              const learnedCount = (topicWords[key] || []).length;
-              const totalCards = (topic.isStatic && STATIC_DECKS[topic.id] && STATIC_DECKS[topic.id][targetLanguage]) 
-                ? STATIC_DECKS[topic.id][targetLanguage].length 
-                : CARDS_PER_DECK;
-              
-              const displayLearnedCount = learnedCount;
+               const key = getTopicKey(topic.id);
+               const learnedCount = (topicWords[key] || []).length;
+               let totalCards = CARDS_PER_DECK;
+               if (topic.isStatic && STATIC_DECKS[topic.id] && STATIC_DECKS[topic.id][targetLanguage]) {
+                 const uniqueWords = new Set(STATIC_DECKS[topic.id][targetLanguage].map(c => (c.word || '').trim()).filter(Boolean));
+                 totalCards = uniqueWords.size;
+               }
+               
+               const displayLearnedCount = learnedCount;
               const progressPercent = Math.min(100, (displayLearnedCount / totalCards) * 100);
               const reviewCount = (topicReviews[key] || []).length;
               const activeSession = activeSessions[key];
@@ -542,9 +557,11 @@ const App: React.FC = () => {
     // Check total learned words to see if the deck is complete
     const learnedCount = (topicWords[key] || []).length;
     const staticTopic = PREDEFINED_TOPICS.find(t => t.id === session.topicId);
-    const totalCards = staticTopic?.isStatic && STATIC_DECKS[session.topicId] && STATIC_DECKS[session.topicId][session.language]
-      ? STATIC_DECKS[session.topicId][session.language].length 
-      : CARDS_PER_DECK;
+    let totalCards = CARDS_PER_DECK;
+    if (staticTopic?.isStatic && STATIC_DECKS[session.topicId] && STATIC_DECKS[session.topicId][session.language]) {
+      const uniqueWords = new Set(STATIC_DECKS[session.topicId][session.language].map(c => (c.word || '').trim()).filter(Boolean));
+      totalCards = uniqueWords.size;
+    }
       
     const isCourseComplete = !hasReviewItems && (learnedCount >= totalCards);
     

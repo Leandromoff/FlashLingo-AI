@@ -34,8 +34,13 @@ export interface StudySession {
 
 export const PREDEFINED_TOPICS = [
   { id: 'start_finish', label: 'Lesson 31', isStatic: true, group: 'W2' },
+  { id: 'homework_31', label: 'Homework 31', isStatic: true, group: 'W2' },
+  { id: 'lesson_33', label: 'Lesson 33', isStatic: true, group: 'W2' },
+  { id: 'homework_33', label: 'Homework 33', isStatic: true, group: 'W2' },
   { id: 'write_think', label: 'Lesson 35', isStatic: true, group: 'W2' },
+  { id: 'homework_35', label: 'Homework 35', isStatic: true, group: 'W2' },
   { id: 'to_be_intro', label: 'Lesson 37', isStatic: true, group: 'W2' },
+  { id: 'homework_37', label: 'Homework 37', isStatic: true, group: 'W2' },
   { id: 'to_be_negative', label: 'Lesson 39', isStatic: true, group: 'W2' },
   { id: 'to_be_interrogative', label: 'Lesson 41', isStatic: true, group: 'W2' },
   { id: 'to_make_give', label: 'Lesson 43', isStatic: true, group: 'W2' },

@@ -366,7 +366,7 @@ const Card: React.FC<CardProps> = ({
 
   const renderWord = () => {
     const syllables = data.syllables && data.syllables.length > 0 ? data.syllables : [data.word];
-    const fullWordLower = data.word.toLowerCase();
+    const fullWordLower = data.word.toLowerCase().replace(/’/g, "'");
     
     // Group syllables into words to prevent breaking inside a word
     const words: { syllables: { text: string; index: number }[] }[] = [];
@@ -374,7 +374,7 @@ const Card: React.FC<CardProps> = ({
     let cursor = 0;
 
     syllables.forEach((syllable, index) => {
-        const syllableLower = syllable.toLowerCase();
+        const syllableLower = syllable.toLowerCase().replace(/’/g, "'");
         // Look for the syllable in the text starting from cursor
         const matchIndex = fullWordLower.indexOf(syllableLower, cursor);
         let hasSpaceAfter = false;
@@ -383,12 +383,19 @@ const Card: React.FC<CardProps> = ({
             hasSpaceAfter = true;
         }
 
+        if (index < syllables.length - 1) {
+            const nextSyllable = syllables[index + 1];
+            if (nextSyllable.startsWith(' ')) {
+                hasSpaceAfter = true;
+            }
+        }
+
         if (matchIndex !== -1) {
             const endOfSyllable = matchIndex + syllable.length;
             
             // Check if there is a space before the next syllable starts
             if (index < syllables.length - 1) {
-                const nextSyllable = syllables[index + 1].toLowerCase();
+                const nextSyllable = syllables[index + 1].toLowerCase().replace(/’/g, "'");
                 const nextMatchIndex = fullWordLower.indexOf(nextSyllable, endOfSyllable);
                 
                 if (nextMatchIndex !== -1) {
@@ -399,6 +406,12 @@ const Card: React.FC<CardProps> = ({
                 }
             }
             cursor = endOfSyllable;
+        }
+
+        // Force finalization of the previous word group if the current syllable starts with a space
+        if (syllable.startsWith(' ') && currentWord.length > 0) {
+            words.push({ syllables: currentWord });
+            currentWord = [];
         }
 
         currentWord.push({ text: syllable, index });

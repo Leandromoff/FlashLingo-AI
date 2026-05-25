@@ -265,16 +265,24 @@ const createBufferFromBytes = (ctx: AudioContext, bytes: Uint8Array): AudioBuffe
   return buffer;
 };
 
+// Helper: Clean text for speech synthesis to prevent slash or special symbols reading
+const cleanTextForSpeech = (text: string): string => {
+  if (!text) return "";
+  // Ex: "to talk / speak about" -> "to talk , speak about"
+  return text.replace(/\s*\/\s*/g, " , ");
+};
+
 // Helper: Fetch and Cache Audio Buffer (Does not play)
 const fetchAndCacheAudio = async (text: string, language: SupportedLanguage = 'en'): Promise<AudioBuffer> => {
+  const cleanedText = cleanTextForSpeech(text);
   const ctx = getAudioContext();
 
-  if (!text || !text.trim()) {
+  if (!cleanedText || !cleanedText.trim()) {
     throw new Error("Text is empty");
   }
 
   // Generate cache key
-  const cacheKey = `${language}_${text}`;
+  const cacheKey = `${language}_${cleanedText}`;
 
   // 1. Check Memory Cache first
   if (audioCache.has(cacheKey)) {
@@ -295,7 +303,7 @@ const fetchAndCacheAudio = async (text: string, language: SupportedLanguage = 'e
       model: "gemini-2.5-flash-preview-tts",
       contents: [
         {
-          parts: [{ text }],
+          parts: [{ text: cleanedText }],
         }
       ],
       config: {
@@ -393,7 +401,8 @@ export const playLocalAudio = (
     // Force clear reference
     activeUtterance = null;
 
-    const utterance = new SpeechSynthesisUtterance(text);
+    const cleanedText = cleanTextForSpeech(text);
+    const utterance = new SpeechSynthesisUtterance(cleanedText);
     
     // Keep reference alive
     activeUtterance = utterance;
@@ -416,7 +425,7 @@ export const playLocalAudio = (
     // Average speaking rate ~ 150wpm => ~2.5 words/sec. 
     // We increase per-word time estimate for mobile/slower fallback animation
     // ~0.5s per word + buffer
-    const wordCount = text.split(/\s+/).length;
+    const wordCount = cleanedText.split(/\s+/).length;
     const baseDuration = Math.max(1.0, wordCount * 0.5); 
     const estimatedDuration = baseDuration / playbackRate;
 
