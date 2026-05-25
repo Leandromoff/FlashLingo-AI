@@ -26,6 +26,7 @@ const Card: React.FC<CardProps> = ({
   const [activeSyllableIndex, setActiveSyllableIndex] = useState<number>(-1);
   const [activeWordIndex, setActiveWordIndex] = useState<number>(-1);
   const [showGrammar, setShowGrammar] = useState<boolean>(false);
+  const [isWakeLockActive, setIsWakeLockActive] = useState<boolean>(false);
 
   // Autoplay preference states loaded from and saved to localStorage
   const [autoplayLocal, setAutoplayLocal] = useState<boolean>(() => {
@@ -208,6 +209,57 @@ const Card: React.FC<CardProps> = ({
       }
     };
   }, [data.id, isFlipped, autoplayLocal, autoplaySlow, autoplayVisual, autoplayKnow, targetLanguage]);
+
+  // Prevent screen sleep (Wake Lock) when autoplay/auto-advance is enabled
+  useEffect(() => {
+    let wakeLock: any = null;
+    const isAutoplayActive = autoplayLocal || autoplaySlow || autoplayVisual || autoplayKnow;
+
+    const requestWakeLock = async () => {
+      if (!isAutoplayActive) {
+        setIsWakeLockActive(false);
+        return;
+      }
+      if ('wakeLock' in navigator) {
+        try {
+          if (wakeLock) {
+            await wakeLock.release().catch(() => {});
+          }
+          wakeLock = await (navigator as any).wakeLock.request('screen');
+          setIsWakeLockActive(true);
+          
+          wakeLock.addEventListener('release', () => {
+            setIsWakeLockActive(false);
+          });
+        } catch (err) {
+          console.warn('Wake Lock request failed:', err);
+          setIsWakeLockActive(false);
+        }
+      }
+    };
+
+    const handleVisibilityChange = async () => {
+      if (document.visibilityState === 'visible') {
+        await requestWakeLock();
+      } else {
+        setIsWakeLockActive(false);
+      }
+    };
+
+    if (isAutoplayActive) {
+      requestWakeLock();
+      document.addEventListener('visibilitychange', handleVisibilityChange);
+    } else {
+      setIsWakeLockActive(false);
+    }
+
+    return () => {
+      document.removeEventListener('visibilitychange', handleVisibilityChange);
+      if (wakeLock) {
+        wakeLock.release().catch((err: any) => console.warn('Wake Lock release failed:', err));
+      }
+    };
+  }, [autoplayLocal, autoplaySlow, autoplayVisual, autoplayKnow]);
 
   // Refs for animation and mounting status
   const startTimeRef = useRef<number>(0);
@@ -616,6 +668,15 @@ const Card: React.FC<CardProps> = ({
                 </div>
 
               </div>
+              {isWakeLockActive && (
+                <div className="mt-4 text-xs text-amber-500/80 dark:text-amber-400 font-semibold flex items-center justify-center gap-1.5 bg-amber-50 dark:bg-amber-900/20 px-3 py-1.5 rounded-full border border-amber-100 dark:border-amber-900/50 shadow-sm">
+                  <span className="relative flex h-2 w-2">
+                    <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-400 opacity-75"></span>
+                    <span className="relative inline-flex rounded-full h-2 w-2 bg-amber-500"></span>
+                  </span>
+                  Tela Sempre Ativa
+                </div>
+              )}
             </div>
           </div>
 
