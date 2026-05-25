@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { FlashcardData, SupportedLanguage } from '../types';
-import { RefreshCw, Loader2, Sparkles, Zap, Check, X, Eye, Snail } from 'lucide-react';
+import { RefreshCw, Loader2, Sparkles, Zap, Check, X, Eye, EyeOff, Snail } from 'lucide-react';
 import { playLocalAudio } from '../services/geminiService';
 
 interface CardProps {
@@ -27,6 +27,18 @@ const Card: React.FC<CardProps> = ({
   const [activeWordIndex, setActiveWordIndex] = useState<number>(-1);
   const [showGrammar, setShowGrammar] = useState<boolean>(false);
   const [isWakeLockActive, setIsWakeLockActive] = useState<boolean>(false);
+  const [showPhonetics, setShowPhonetics] = useState<boolean>(() => {
+    try {
+      const saved = localStorage.getItem('flashlingo_show_phonetics');
+      return saved ? JSON.parse(saved) : false;
+    } catch {
+      return false;
+    }
+  });
+
+  useEffect(() => {
+    localStorage.setItem('flashlingo_show_phonetics', JSON.stringify(showPhonetics));
+  }, [showPhonetics]);
 
   // Autoplay preference states loaded from and saved to localStorage
   const [autoplayLocal, setAutoplayLocal] = useState<boolean>(() => {
@@ -531,6 +543,22 @@ const Card: React.FC<CardProps> = ({
           <span className="absolute top-6 left-6 text-xs font-bold text-indigo-500 dark:text-indigo-400 uppercase tracking-widest z-10">
             {getLanguageLabel()}
           </span>
+
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              setShowPhonetics(!showPhonetics);
+            }}
+            className={`absolute top-5 right-5 z-20 flex items-center gap-1.5 px-2.5 py-1.5 rounded-full text-xs font-bold transition-all shadow-sm border ${
+              showPhonetics
+                ? 'bg-indigo-50 text-indigo-600 border-indigo-100 dark:bg-indigo-950/40 dark:text-indigo-400 dark:border-indigo-900/50'
+                : 'bg-slate-100 text-slate-500 border-slate-200 dark:bg-slate-800 dark:text-slate-400 dark:border-slate-700'
+            }`}
+            title={showPhonetics ? 'Ocultar fonética' : 'Mostrar fonética'}
+          >
+            {showPhonetics ? <Eye size={14} /> : <EyeOff size={14} />}
+            <span>Fonética</span>
+          </button>
           
           {/* Content Container */}
           <div className="flex flex-col items-center text-center w-full flex-grow justify-center mt-6">
@@ -540,22 +568,43 @@ const Card: React.FC<CardProps> = ({
               {renderWord()}
               
               {/* Combined Phonetic Pill */}
-              <div className="flex flex-wrap justify-center items-center gap-x-3 gap-y-2 bg-slate-50 dark:bg-slate-900/50 px-4 py-2 rounded-2xl border border-slate-100 dark:border-slate-700 text-center">
-                {/* Standard IPA */}
-                {renderPhoneticChunk(
-                    data.pronunciation.replace(/[\/\[\]]/g, ''), 
-                    "text-slate-500 dark:text-slate-400 font-mono text-lg"
-                )}
+              {showPhonetics ? (
+                <div 
+                  className="flex flex-wrap justify-center items-center gap-x-3 gap-y-2 bg-slate-50 dark:bg-slate-900/50 px-4 py-2 rounded-2xl border border-slate-100 dark:border-slate-700 text-center cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-900/20 active:scale-98 transition-all"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setShowPhonetics(false);
+                  }}
+                  title="Clique para ocultar fonética"
+                >
+                  {/* Standard IPA */}
+                  {renderPhoneticChunk(
+                      data.pronunciation.replace(/[\/\[\]]/g, ''), 
+                      "text-slate-500 dark:text-slate-400 font-mono text-lg"
+                  )}
 
-                {/* Visual Divider - Hidden on very small screens if it wraps */}
-                <span className="hidden sm:inline-block w-px h-4 bg-slate-300/50 dark:bg-slate-600/50"></span>
+                  {/* Visual Divider - Hidden on very small screens if it wraps */}
+                  <span className="hidden sm:inline-block w-px h-4 bg-slate-300/50 dark:bg-slate-600/50"></span>
 
-                {/* Portuguese Phonetic */}
-                {renderPhoneticChunk(
-                    data.portuguesePhonetic,
-                    "text-indigo-400/75 dark:text-indigo-400 font-medium text-lg tracking-wide"
-                )}
-              </div>
+                  {/* Portuguese Phonetic */}
+                  {renderPhoneticChunk(
+                      data.portuguesePhonetic,
+                      "text-indigo-400/75 dark:text-indigo-400 font-medium text-lg tracking-wide"
+                  )}
+                </div>
+              ) : (
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setShowPhonetics(true);
+                  }}
+                  className="flex items-center gap-1.5 px-4 py-2 bg-slate-50 hover:bg-indigo-50/50 border border-dashed border-slate-250 dark:border-slate-750 dark:bg-slate-900/30 dark:hover:bg-indigo-950/20 text-slate-400 dark:text-slate-500 hover:text-indigo-500 hover:border-indigo-250 dark:hover:text-indigo-400 rounded-2xl text-sm font-semibold transition-all shadow-sm"
+                  title="Mostrar fonética"
+                >
+                  <Eye size={16} />
+                  <span>Mostrar Fonética</span>
+                </button>
+              )}
             </div>
             
             {/* Controls Container */}
@@ -737,6 +786,22 @@ const Card: React.FC<CardProps> = ({
           <span className="absolute top-6 left-6 text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest">
             Português
           </span>
+
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              setShowPhonetics(!showPhonetics);
+            }}
+            className={`absolute top-5 right-5 z-20 flex items-center gap-1.5 px-2.5 py-1.5 rounded-full text-xs font-bold transition-all shadow-sm border ${
+              showPhonetics
+                ? 'bg-indigo-50 text-indigo-600 border-indigo-100 dark:bg-indigo-950/40 dark:text-indigo-400 dark:border-indigo-900/50'
+                : 'bg-slate-100 text-slate-500 border-slate-200 dark:bg-slate-800 dark:text-slate-400 dark:border-slate-700'
+            }`}
+            title={showPhonetics ? 'Ocultar fonética' : 'Mostrar fonética'}
+          >
+            {showPhonetics ? <Eye size={14} /> : <EyeOff size={14} />}
+            <span>Fonética</span>
+          </button>
 
           <div className="flex flex-col items-center text-center space-y-4 w-full h-full justify-center">
             
