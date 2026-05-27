@@ -27,9 +27,18 @@ const Card: React.FC<CardProps> = ({
   const [activeWordIndex, setActiveWordIndex] = useState<number>(-1);
   const [showGrammar, setShowGrammar] = useState<boolean>(false);
   const [isWakeLockActive, setIsWakeLockActive] = useState<boolean>(false);
-  const [showPhonetics, setShowPhonetics] = useState<boolean>(() => {
+  const [showIpaPhonetics, setShowIpaPhonetics] = useState<boolean>(() => {
     try {
-      const saved = localStorage.getItem('flashlingo_show_phonetics');
+      const saved = localStorage.getItem('flashlingo_show_ipa_phonetics');
+      return saved ? JSON.parse(saved) : false;
+    } catch {
+      return false;
+    }
+  });
+
+  const [showPtPhonetics, setShowPtPhonetics] = useState<boolean>(() => {
+    try {
+      const saved = localStorage.getItem('flashlingo_show_pt_phonetics');
       return saved ? JSON.parse(saved) : false;
     } catch {
       return false;
@@ -37,8 +46,12 @@ const Card: React.FC<CardProps> = ({
   });
 
   useEffect(() => {
-    localStorage.setItem('flashlingo_show_phonetics', JSON.stringify(showPhonetics));
-  }, [showPhonetics]);
+    localStorage.setItem('flashlingo_show_ipa_phonetics', JSON.stringify(showIpaPhonetics));
+  }, [showIpaPhonetics]);
+
+  useEffect(() => {
+    localStorage.setItem('flashlingo_show_pt_phonetics', JSON.stringify(showPtPhonetics));
+  }, [showPtPhonetics]);
 
   // Autoplay preference states loaded from and saved to localStorage
   const [autoplayLocal, setAutoplayLocal] = useState<boolean>(() => {
@@ -544,21 +557,36 @@ const Card: React.FC<CardProps> = ({
             {getLanguageLabel()}
           </span>
 
-          <button
-            onClick={(e) => {
-              e.stopPropagation();
-              setShowPhonetics(!showPhonetics);
-            }}
-            className={`absolute top-5 right-5 z-20 flex items-center gap-1.5 px-2.5 py-1.5 rounded-full text-xs font-bold transition-all shadow-sm border ${
-              showPhonetics
-                ? 'bg-indigo-50 text-indigo-600 border-indigo-100 dark:bg-indigo-950/40 dark:text-indigo-400 dark:border-indigo-900/50'
-                : 'bg-slate-100 text-slate-500 border-slate-200 dark:bg-slate-800 dark:text-slate-400 dark:border-slate-700'
-            }`}
-            title={showPhonetics ? 'Ocultar fonética' : 'Mostrar fonética'}
+          <div 
+            onClick={(e) => e.stopPropagation()} 
+            className="absolute top-4 right-4 z-20 flex items-center gap-1.5 bg-slate-50/90 dark:bg-slate-800/90 p-1 rounded-full border border-slate-150 dark:border-slate-700 shadow-sm"
           >
-            {showPhonetics ? <Eye size={14} /> : <EyeOff size={14} />}
-            <span>Fonética</span>
-          </button>
+            <button
+              onClick={() => setShowIpaPhonetics(!showIpaPhonetics)}
+              className={`flex items-center gap-1 px-2.5 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
+                showIpaPhonetics
+                  ? 'bg-indigo-500 text-white shadow-sm'
+                  : 'bg-transparent text-slate-500 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-700'
+              }`}
+              title={showIpaPhonetics ? 'Ocultar IPA' : 'Mostrar IPA'}
+            >
+              <span>IPA</span>
+              {showIpaPhonetics ? <Eye size={11} /> : <EyeOff size={11} />}
+            </button>
+            <span className="text-slate-300 dark:text-slate-600 font-extralight text-xs">|</span>
+            <button
+              onClick={() => setShowPtPhonetics(!showPtPhonetics)}
+              className={`flex items-center gap-1 px-2.5 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
+                showPtPhonetics
+                  ? 'bg-indigo-500 text-white shadow-sm'
+                  : 'bg-transparent text-slate-500 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-700'
+              }`}
+              title={showPtPhonetics ? 'Ocultar Fonética PT' : 'Mostrar Fonética PT'}
+            >
+              <span>PT</span>
+              {showPtPhonetics ? <Eye size={11} /> : <EyeOff size={11} />}
+            </button>
+          </div>
           
           {/* Content Container */}
           <div className="flex flex-col items-center text-center w-full flex-grow justify-center mt-6">
@@ -567,43 +595,56 @@ const Card: React.FC<CardProps> = ({
             <div className="flex flex-col items-center gap-2 w-full mt-8">
               {renderWord()}
               
-              {/* Combined Phonetic Pill */}
-              {showPhonetics ? (
+              {/* Combined Phonetic Pill based on selections */}
+              {(showIpaPhonetics || showPtPhonetics) ? (
                 <div 
-                  className="flex flex-wrap justify-center items-center gap-x-3 gap-y-2 bg-slate-50 dark:bg-slate-900/50 px-4 py-2 rounded-2xl border border-slate-100 dark:border-slate-700 text-center cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-900/20 active:scale-98 transition-all"
+                  className="flex flex-wrap justify-center items-center gap-x-3 gap-y-2 bg-slate-50 dark:bg-slate-900/50 px-4 py-2 rounded-2xl border border-slate-100 dark:border-slate-700 text-center cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-900/40 active:scale-[0.98] transition-all"
                   onClick={(e) => {
                     e.stopPropagation();
-                    setShowPhonetics(false);
+                    setShowIpaPhonetics(false);
+                    setShowPtPhonetics(false);
                   }}
                   title="Clique para ocultar fonética"
                 >
                   {/* Standard IPA */}
-                  {renderPhoneticChunk(
+                  {showIpaPhonetics && renderPhoneticChunk(
                       data.pronunciation.replace(/[\/\[\]]/g, ''), 
                       "text-slate-500 dark:text-slate-400 font-mono text-lg"
                   )}
 
                   {/* Visual Divider - Hidden on very small screens if it wraps */}
-                  <span className="hidden sm:inline-block w-px h-4 bg-slate-300/50 dark:bg-slate-600/50"></span>
+                  {showIpaPhonetics && showPtPhonetics && (
+                    <span className="hidden sm:inline-block w-px h-4 bg-slate-300/50 dark:bg-slate-600/50"></span>
+                  )}
 
                   {/* Portuguese Phonetic */}
-                  {renderPhoneticChunk(
+                  {showPtPhonetics && renderPhoneticChunk(
                       data.portuguesePhonetic,
                       "text-indigo-400/75 dark:text-indigo-400 font-medium text-lg tracking-wide"
                   )}
                 </div>
               ) : (
-                <button
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    setShowPhonetics(true);
-                  }}
-                  className="flex items-center gap-1.5 px-4 py-2 bg-slate-50 hover:bg-indigo-50/50 border border-dashed border-slate-250 dark:border-slate-750 dark:bg-slate-900/30 dark:hover:bg-indigo-950/20 text-slate-400 dark:text-slate-500 hover:text-indigo-500 hover:border-indigo-250 dark:hover:text-indigo-400 rounded-2xl text-sm font-semibold transition-all shadow-sm"
-                  title="Mostrar fonética"
+                <div 
+                  className="flex items-center gap-2 mt-1"
+                  onClick={(e) => e.stopPropagation()}
                 >
-                  <Eye size={16} />
-                  <span>Mostrar Fonética</span>
-                </button>
+                  <button
+                    onClick={() => setShowIpaPhonetics(true)}
+                    className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-50 hover:bg-indigo-50/50 border border-dashed border-slate-200 dark:border-slate-700 dark:bg-slate-900/30 dark:hover:bg-indigo-950/20 text-slate-400 dark:text-slate-500 hover:text-indigo-500 hover:border-indigo-200 dark:hover:text-indigo-450 rounded-xl text-xs font-semibold transition-all shadow-sm"
+                    title="Mostrar IPA"
+                  >
+                    <span>IPA</span>
+                    <EyeOff size={11} />
+                  </button>
+                  <button
+                    onClick={() => setShowPtPhonetics(true)}
+                    className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-50 hover:bg-indigo-50/50 border border-dashed border-slate-200 dark:border-slate-700 dark:bg-slate-900/30 dark:hover:bg-indigo-950/20 text-slate-400 dark:text-slate-500 hover:text-indigo-500 hover:border-indigo-200 dark:hover:text-indigo-450 rounded-xl text-xs font-semibold transition-all shadow-sm"
+                    title="Mostrar Fonética PT"
+                  >
+                    <span>PT</span>
+                    <EyeOff size={11} />
+                  </button>
+                </div>
               )}
             </div>
             
@@ -787,21 +828,36 @@ const Card: React.FC<CardProps> = ({
             Português
           </span>
 
-          <button
-            onClick={(e) => {
-              e.stopPropagation();
-              setShowPhonetics(!showPhonetics);
-            }}
-            className={`absolute top-5 right-5 z-20 flex items-center gap-1.5 px-2.5 py-1.5 rounded-full text-xs font-bold transition-all shadow-sm border ${
-              showPhonetics
-                ? 'bg-indigo-50 text-indigo-600 border-indigo-100 dark:bg-indigo-950/40 dark:text-indigo-400 dark:border-indigo-900/50'
-                : 'bg-slate-100 text-slate-500 border-slate-200 dark:bg-slate-800 dark:text-slate-400 dark:border-slate-700'
-            }`}
-            title={showPhonetics ? 'Ocultar fonética' : 'Mostrar fonética'}
+          <div 
+            onClick={(e) => e.stopPropagation()} 
+            className="absolute top-4 right-4 z-20 flex items-center gap-1.5 bg-slate-150/90 dark:bg-slate-800/90 p-1 rounded-full border border-slate-200 dark:border-slate-700 shadow-sm"
           >
-            {showPhonetics ? <Eye size={14} /> : <EyeOff size={14} />}
-            <span>Fonética</span>
-          </button>
+            <button
+              onClick={() => setShowIpaPhonetics(!showIpaPhonetics)}
+              className={`flex items-center gap-1 px-2.5 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
+                showIpaPhonetics
+                  ? 'bg-indigo-500 text-white shadow-sm'
+                  : 'bg-transparent text-slate-500 hover:bg-slate-200 dark:text-slate-400 dark:hover:bg-slate-700'
+              }`}
+              title={showIpaPhonetics ? 'Ocultar IPA' : 'Mostrar IPA'}
+            >
+              <span>IPA</span>
+              {showIpaPhonetics ? <Eye size={11} /> : <EyeOff size={11} />}
+            </button>
+            <span className="text-slate-350 dark:text-slate-600 font-extralight text-xs">|</span>
+            <button
+              onClick={() => setShowPtPhonetics(!showPtPhonetics)}
+              className={`flex items-center gap-1 px-2.5 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
+                showPtPhonetics
+                  ? 'bg-indigo-500 text-white shadow-sm'
+                  : 'bg-transparent text-slate-500 hover:bg-slate-200 dark:text-slate-400 dark:hover:bg-slate-700'
+              }`}
+              title={showPtPhonetics ? 'Ocultar Fonética PT' : 'Mostrar Fonética PT'}
+            >
+              <span>PT</span>
+              {showPtPhonetics ? <Eye size={11} /> : <EyeOff size={11} />}
+            </button>
+          </div>
 
           <div className="flex flex-col items-center text-center space-y-4 w-full h-full justify-center">
             
