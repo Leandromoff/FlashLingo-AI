@@ -45,6 +45,15 @@ const Card: React.FC<CardProps> = ({
     }
   });
 
+  const [showTranslation, setShowTranslation] = useState<boolean>(() => {
+    try {
+      const saved = localStorage.getItem('flashlingo_show_translation');
+      return saved ? JSON.parse(saved) : false;
+    } catch {
+      return false;
+    }
+  });
+
   useEffect(() => {
     localStorage.setItem('flashlingo_show_ipa_phonetics', JSON.stringify(showIpaPhonetics));
   }, [showIpaPhonetics]);
@@ -52,6 +61,37 @@ const Card: React.FC<CardProps> = ({
   useEffect(() => {
     localStorage.setItem('flashlingo_show_pt_phonetics', JSON.stringify(showPtPhonetics));
   }, [showPtPhonetics]);
+
+  useEffect(() => {
+    localStorage.setItem('flashlingo_show_translation', JSON.stringify(showTranslation));
+  }, [showTranslation]);
+
+  const handleToggleIpa = () => {
+    const nextIpa = !showIpaPhonetics;
+    setShowIpaPhonetics(nextIpa);
+    if (nextIpa) {
+      setShowPtPhonetics(false);
+      setShowTranslation(false);
+    }
+  };
+
+  const handleTogglePt = () => {
+    const nextPt = !showPtPhonetics;
+    setShowPtPhonetics(nextPt);
+    if (nextPt) {
+      setShowIpaPhonetics(false);
+      setShowTranslation(false);
+    }
+  };
+
+  const handleToggleTranslation = () => {
+    const nextTrad = !showTranslation;
+    setShowTranslation(nextTrad);
+    if (nextTrad) {
+      setShowIpaPhonetics(false);
+      setShowPtPhonetics(false);
+    }
+  };
 
   // Autoplay preference states loaded from and saved to localStorage
   const [autoplayLocal, setAutoplayLocal] = useState<boolean>(() => {
@@ -559,11 +599,11 @@ const Card: React.FC<CardProps> = ({
 
           <div 
             onClick={(e) => e.stopPropagation()} 
-            className="absolute top-4 right-4 z-20 flex items-center gap-1.5 bg-slate-50/90 dark:bg-slate-800/90 p-1 rounded-full border border-slate-150 dark:border-slate-700 shadow-sm"
+            className="absolute top-4 right-4 z-20 flex items-center gap-1 bg-slate-50/90 dark:bg-slate-800/90 p-1 rounded-full border border-slate-150 dark:border-slate-700 shadow-sm"
           >
             <button
-              onClick={() => setShowIpaPhonetics(!showIpaPhonetics)}
-              className={`flex items-center gap-1 px-2.5 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
+              onClick={() => handleToggleIpa()}
+              className={`flex items-center gap-1 px-2 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
                 showIpaPhonetics
                   ? 'bg-indigo-500 text-white shadow-sm'
                   : 'bg-transparent text-slate-500 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-700'
@@ -573,10 +613,10 @@ const Card: React.FC<CardProps> = ({
               <span>IPA</span>
               {showIpaPhonetics ? <Eye size={11} /> : <EyeOff size={11} />}
             </button>
-            <span className="text-slate-300 dark:text-slate-600 font-extralight text-xs">|</span>
+            <span className="text-slate-300 dark:text-slate-600 font-extralight text-xs select-none">|</span>
             <button
-              onClick={() => setShowPtPhonetics(!showPtPhonetics)}
-              className={`flex items-center gap-1 px-2.5 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
+              onClick={() => handleTogglePt()}
+              className={`flex items-center gap-1 px-2 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
                 showPtPhonetics
                   ? 'bg-indigo-500 text-white shadow-sm'
                   : 'bg-transparent text-slate-500 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-700'
@@ -585,6 +625,19 @@ const Card: React.FC<CardProps> = ({
             >
               <span>PT</span>
               {showPtPhonetics ? <Eye size={11} /> : <EyeOff size={11} />}
+            </button>
+            <span className="text-slate-300 dark:text-slate-600 font-extralight text-xs select-none">|</span>
+            <button
+              onClick={() => handleToggleTranslation()}
+              className={`flex items-center gap-1 px-2 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
+                showTranslation
+                  ? 'bg-indigo-500 text-white shadow-sm'
+                  : 'bg-transparent text-slate-500 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-700'
+              }`}
+              title={showTranslation ? 'Ocultar Tradução' : 'Mostrar Tradução'}
+            >
+              <span>TD</span>
+              {showTranslation ? <Eye size={11} /> : <EyeOff size={11} />}
             </button>
           </div>
           
@@ -595,32 +648,35 @@ const Card: React.FC<CardProps> = ({
             <div className="flex flex-col items-center gap-2 w-full mt-8">
               {renderWord()}
               
-              {/* Combined Phonetic Pill based on selections */}
-              {(showIpaPhonetics || showPtPhonetics) ? (
+              {/* Combined Pill based on selections */}
+              {(showIpaPhonetics || showPtPhonetics || showTranslation) ? (
                 <div 
-                  className="flex flex-wrap justify-center items-center gap-x-3 gap-y-2 bg-slate-50 dark:bg-slate-900/50 px-4 py-2 rounded-2xl border border-slate-100 dark:border-slate-700 text-center cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-900/40 active:scale-[0.98] transition-all"
+                  className="flex flex-wrap justify-center items-center gap-x-3 gap-y-2 bg-slate-50 dark:bg-slate-900/50 px-4 py-2 rounded-2xl border border-slate-100 dark:border-slate-700 text-center cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-900/40 active:scale-[0.98] transition-all animate-in fade-in zoom-in-95 duration-200"
                   onClick={(e) => {
                     e.stopPropagation();
                     setShowIpaPhonetics(false);
                     setShowPtPhonetics(false);
+                    setShowTranslation(false);
                   }}
-                  title="Clique para ocultar fonética"
+                  title="Clique para ocultar"
                 >
                   {/* Standard IPA */}
                   {showIpaPhonetics && renderPhoneticChunk(
                       data.pronunciation.replace(/[\/\[\]]/g, ''), 
-                      "text-slate-500 dark:text-slate-400 font-mono text-lg"
-                  )}
-
-                  {/* Visual Divider - Hidden on very small screens if it wraps */}
-                  {showIpaPhonetics && showPtPhonetics && (
-                    <span className="hidden sm:inline-block w-px h-4 bg-slate-300/50 dark:bg-slate-600/50"></span>
+                      "text-indigo-400/75 dark:text-indigo-400 font-medium text-lg tracking-wide"
                   )}
 
                   {/* Portuguese Phonetic */}
                   {showPtPhonetics && renderPhoneticChunk(
                       data.portuguesePhonetic,
                       "text-indigo-400/75 dark:text-indigo-400 font-medium text-lg tracking-wide"
+                  )}
+
+                  {/* Translation */}
+                  {showTranslation && (
+                    <span className="text-indigo-400/75 dark:text-indigo-400 font-medium text-lg tracking-wide">
+                      {data.translation}
+                    </span>
                   )}
                 </div>
               ) : (
@@ -629,7 +685,7 @@ const Card: React.FC<CardProps> = ({
                   onClick={(e) => e.stopPropagation()}
                 >
                   <button
-                    onClick={() => setShowIpaPhonetics(true)}
+                    onClick={() => handleToggleIpa()}
                     className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-50 hover:bg-indigo-50/50 border border-dashed border-slate-200 dark:border-slate-700 dark:bg-slate-900/30 dark:hover:bg-indigo-950/20 text-slate-400 dark:text-slate-500 hover:text-indigo-500 hover:border-indigo-200 dark:hover:text-indigo-450 rounded-xl text-xs font-semibold transition-all shadow-sm"
                     title="Mostrar IPA"
                   >
@@ -637,11 +693,19 @@ const Card: React.FC<CardProps> = ({
                     <EyeOff size={11} />
                   </button>
                   <button
-                    onClick={() => setShowPtPhonetics(true)}
+                    onClick={() => handleTogglePt()}
                     className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-50 hover:bg-indigo-50/50 border border-dashed border-slate-200 dark:border-slate-700 dark:bg-slate-900/30 dark:hover:bg-indigo-950/20 text-slate-400 dark:text-slate-500 hover:text-indigo-500 hover:border-indigo-200 dark:hover:text-indigo-450 rounded-xl text-xs font-semibold transition-all shadow-sm"
                     title="Mostrar Fonética PT"
                   >
                     <span>PT</span>
+                    <EyeOff size={11} />
+                  </button>
+                  <button
+                    onClick={() => handleToggleTranslation()}
+                    className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-50 hover:bg-indigo-50/50 border border-dashed border-slate-200 dark:border-slate-700 dark:bg-slate-900/30 dark:hover:bg-indigo-950/20 text-slate-400 dark:text-slate-500 hover:text-indigo-500 hover:border-indigo-200 dark:hover:text-indigo-450 rounded-xl text-xs font-semibold transition-all shadow-sm"
+                    title="Mostrar Tradução"
+                  >
+                    <span>TD</span>
                     <EyeOff size={11} />
                   </button>
                 </div>
@@ -830,11 +894,11 @@ const Card: React.FC<CardProps> = ({
 
           <div 
             onClick={(e) => e.stopPropagation()} 
-            className="absolute top-4 right-4 z-20 flex items-center gap-1.5 bg-slate-150/90 dark:bg-slate-800/90 p-1 rounded-full border border-slate-200 dark:border-slate-700 shadow-sm"
+            className="absolute top-4 right-4 z-20 flex items-center gap-1 bg-slate-150/90 dark:bg-slate-800/90 p-1 rounded-full border border-slate-200 dark:border-slate-700 shadow-sm"
           >
             <button
-              onClick={() => setShowIpaPhonetics(!showIpaPhonetics)}
-              className={`flex items-center gap-1 px-2.5 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
+              onClick={() => handleToggleIpa()}
+              className={`flex items-center gap-1 px-2 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
                 showIpaPhonetics
                   ? 'bg-indigo-500 text-white shadow-sm'
                   : 'bg-transparent text-slate-500 hover:bg-slate-200 dark:text-slate-400 dark:hover:bg-slate-700'
@@ -844,10 +908,10 @@ const Card: React.FC<CardProps> = ({
               <span>IPA</span>
               {showIpaPhonetics ? <Eye size={11} /> : <EyeOff size={11} />}
             </button>
-            <span className="text-slate-350 dark:text-slate-600 font-extralight text-xs">|</span>
+            <span className="text-slate-350 dark:text-slate-600 font-extralight text-xs select-none">|</span>
             <button
-              onClick={() => setShowPtPhonetics(!showPtPhonetics)}
-              className={`flex items-center gap-1 px-2.5 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
+              onClick={() => handleTogglePt()}
+              className={`flex items-center gap-1 px-2 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
                 showPtPhonetics
                   ? 'bg-indigo-500 text-white shadow-sm'
                   : 'bg-transparent text-slate-500 hover:bg-slate-200 dark:text-slate-400 dark:hover:bg-slate-700'
@@ -856,6 +920,19 @@ const Card: React.FC<CardProps> = ({
             >
               <span>PT</span>
               {showPtPhonetics ? <Eye size={11} /> : <EyeOff size={11} />}
+            </button>
+            <span className="text-slate-350 dark:text-slate-600 font-extralight text-xs select-none">|</span>
+            <button
+              onClick={() => handleToggleTranslation()}
+              className={`flex items-center gap-1 px-2 py-1 rounded-full text-[10px] sm:text-[11px] font-bold transition-all ${
+                showTranslation
+                  ? 'bg-indigo-500 text-white shadow-sm'
+                  : 'bg-transparent text-slate-500 hover:bg-slate-200 dark:text-slate-400 dark:hover:bg-slate-700'
+              }`}
+              title={showTranslation ? 'Ocultar Tradução' : 'Mostrar Tradução'}
+            >
+              <span>TD</span>
+              {showTranslation ? <Eye size={11} /> : <EyeOff size={11} />}
             </button>
           </div>
 

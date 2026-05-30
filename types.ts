@@ -33,6 +33,12 @@ export interface StudySession {
 }
 
 export const PREDEFINED_TOPICS = [
+  { id: 'lesson_1', label: 'Lesson 1', isStatic: true, group: 'W2' },
+  { id: 'lesson_3', label: 'Lesson 3', isStatic: true, group: 'W2' },
+  { id: 'lesson_5', label: 'Lesson 5', isStatic: true, group: 'W2' },
+  { id: 'lesson_7', label: 'Lesson 7', isStatic: true, group: 'W2' },
+  { id: 'lesson_9', label: 'Lesson 9', isStatic: true, group: 'W2' },
+  { id: 'lesson_11', label: 'Lesson 11', isStatic: true, group: 'W2' },
   { id: 'start_finish', label: 'Lesson 31', isStatic: true, group: 'W2' },
   { id: 'homework_31', label: 'Homework 31', isStatic: true, group: 'W2' },
   { id: 'lesson_33', label: 'Lesson 33', isStatic: true, group: 'W2' },
@@ -42,6 +48,7 @@ export const PREDEFINED_TOPICS = [
   { id: 'to_be_intro', label: 'Lesson 37', isStatic: true, group: 'W2' },
   { id: 'homework_37', label: 'Homework 37', isStatic: true, group: 'W2' },
   { id: 'to_be_negative', label: 'Lesson 39', isStatic: true, group: 'W2' },
+  { id: 'homework_39', label: 'Homework 39', isStatic: true, group: 'W2' },
   { id: 'to_be_interrogative', label: 'Lesson 41', isStatic: true, group: 'W2' },
   { id: 'to_make_give', label: 'Lesson 43', isStatic: true, group: 'W2' },
   { id: 'to_open_close', label: 'Lesson 45', isStatic: true, group: 'W2' },

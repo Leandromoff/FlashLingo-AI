@@ -10838,7 +10838,3484 @@ export const HOMEWORK_35_DECK: FlashcardData[] = [
 
 
 
+export const HOMEWORK_39_DECK: FlashcardData[] = [
+  {
+    id: 'homework_39_1',
+    word: "I am not hungry, I am thirsty.",
+    translation: "Eu não estou com fome, eu estou com sede.",
+    pronunciation: "/aɪ æm nɑt ˈhʌŋɡri, aɪ æm ˈθɜrsti./",
+    portuguesePhonetic: "ai ém nat rân-gri, ai ém thãrs-ti.",
+    syllables: ["I", " am", " not", " hun", "gry,", " I", " am", " thirs", "ty."],
+    exampleSentence: "I am not hungry, I am thirsty.",
+    exampleTranslation: "Eu não estou com fome, eu estou com sede."
+  },
+  {
+    id: 'homework_39_2',
+    word: "They are not co-workers, they are classmates.",
+    translation: "Eles não são colegas de trabalho, eles são colegas de classe.",
+    pronunciation: "/ðeɪ ɑr nɑt koʊ-ˈwɜrkərz, ðeɪ ɑr ˈklæsˌmeɪts./",
+    portuguesePhonetic: "dêi ar nat côu-uãr-kers, dêi ar clés-meits.",
+    syllables: ["They", " are", " not", " co-", "work", "ers,", " they", " are", " class", "mates."],
+    exampleSentence: "They are not co-workers, they are classmates.",
+    exampleTranslation: "Eles não são colegas de trabalho, eles são colegas de classe."
+  },
+  {
+    id: 'homework_39_3',
+    word: "I’m a seller, she is an engineer and he is a manager.",
+    translation: "Eu sou vendedor, ela é engenheira e ele é gerente.",
+    pronunciation: "/aɪm ə ˈsɛlər, ʃi ɪz ən ˌɛndʒəˈnɪr ænd hi ɪz ə ˈmænɪdʒər./",
+    portuguesePhonetic: "aim a sé-ler, xi iz én en-dji-nir énd ri iz a mé-ne-djer.",
+    syllables: ["I’m", " a", " sel", "ler,", " she", " is", " an", " en", "gi", "neer", " and", " he", " is", " a", " man", "a", "ger."],
+    exampleSentence: "I’m a seller, she is an engineer and he is a manager.",
+    exampleTranslation: "Eu sou vendedor, ela é engenheira e ele é gerente."
+  },
+  {
+    id: 'homework_39_4',
+    word: "He is usually very kind, but he is very busy now.",
+    translation: "Ele é geralmente muito gentil, mas ele está muito ocupado agora.",
+    pronunciation: "/hi ɪz ˈjuʒuəli ˈvɛri kaɪnd, bʌt hi ɪz ˈvɛri ˈbɪzi naʊ./",
+    portuguesePhonetic: "ri iz iú-ju-a-li vé-ri caind, bât ri iz vé-ri bí-zi náu.",
+    syllables: ["He", " is", " u", "su", "al", "ly", " ve", "ry", " kind,", " but", " he", " is", " ve", "ry", " bu", "sy", " now."],
+    exampleSentence: "He is usually very kind, but he is very busy now.",
+    exampleTranslation: "Ele é geralmente muito gentil, mas ele está muito ocupado agora."
+  },
+  {
+    id: 'homework_39_5',
+    word: "We don’t like to eat bacon and sausage. It’s not healthy.",
+    translation: "Nós não gostamos de comer bacon e salsicha. Não é saudável.",
+    pronunciation: "/wi doʊnt laɪk tu item ˈbeɪkən ænd ˈsɔsɪdʒ. ɪts nɑt ˈhɛlθi./",
+    portuguesePhonetic: "ui dôunt laic tchu it bêi-con énd só-sidj. its nat rél-thi.",
+    syllables: ["We", " don’t", " like", " to", " eat", " ba", "con", " and", " sau", "sage.", " It’s", " not", " heal", "thy."],
+    exampleSentence: "We don’t like to eat bacon and sausage. It’s not healthy.",
+    exampleTranslation: "Nós não gostamos de comer bacon e salsicha. Não é saudável."
+  },
+  {
+    id: 'homework_39_6',
+    word: "What do you do? — I am a student. And you?",
+    translation: "O que você faz? — Eu sou estudante. E você?",
+    pronunciation: "/wʌt du ju du? — aɪ æm ə ˈstudənt. ænd ju?/",
+    portuguesePhonetic: "uát du iu du? — ai ém a stú-dent. énd iu?",
+    syllables: ["What", " do", " you", " do?", " —", " I", " am", " a", " stu", "dent.", " And", " you?"],
+    exampleSentence: "What do you do? — I am a student. And you?",
+    exampleTranslation: "O que você faz? — Eu sou estudante. E você?"
+  },
+  {
+    id: 'homework_39_7',
+    word: "I am not busy now. Do you want to talk to me?",
+    translation: "Eu não estou ocupada agora. Você quer falar comigo?",
+    pronunciation: "/aɪ æm nɑt ˈbɪzi naʊ. du ju wɑnt tu tɔk tu mi?/",
+    portuguesePhonetic: "ai ém nat bí-zi náu. du iu uánt tchu tóc tchu mi?",
+    syllables: ["I", " am", " not", " bu", "sy", " now.", " Do", " you", " want", " to", " talk", " to", " me?"],
+    exampleSentence: "I am not busy now. Do you want to talk to me?",
+    exampleTranslation: "Eu não estou ocupada agora. Você quer falar comigo?"
+  },
+  {
+    id: 'homework_39_8',
+    word: "They aren’t upset, they are tired. I’m sure!",
+    translation: "Eles não estão aborrecidos, eles estão cansados. Eu tenho certeza!",
+    pronunciation: "/ðeɪ ɑrənt əpˈsɛt, ðeɪ ɑr ˈtaɪərd. aɪm ʃʊr!/",
+    portuguesePhonetic: "dêi árênt ãp-sét, dêi ar tai-erd. aim xûr!",
+    syllables: ["They", " aren’t", " up", "set,", " they", " are", " tired.", " I’m", " sure!"],
+    exampleSentence: "They aren’t upset, they are tired. I’m sure!",
+    exampleTranslation: "Eles não estão aborrecidos, eles estão cansados. Eu tenho certeza!"
+  },
+  {
+    id: 'homework_39_9',
+    word: "My sister is very smart and beautiful.",
+    translation: "Minha irmã é muito esperta e bonita.",
+    pronunciation: "/maɪ ˈsɪstər ɪz ˈvɛri smɑrt ænd ˈbjutəfəl./",
+    portuguesePhonetic: "mai sís-ter iz vé-ri smárt énd biú-ti-ful.",
+    syllables: ["My", " sis", "ter", " is", " ve", "ry", " smart", " and", " beau", "ti", "ful."],
+    exampleSentence: "My sister is very smart and beautiful.",
+    exampleTranslation: "Minha irmã é muito esperta e bonita."
+  },
+  {
+    id: 'homework_39_10',
+    word: "They are worried about that problem.",
+    translation: "Eles estão preocupados com aquele problema.",
+    pronunciation: "/ðeɪ ɑr ˈwɜrid əˈbaʊt ðæt ˈprɑbləm./",
+    portuguesePhonetic: "dêi ar uô-rid a-báut dét pró-blem.",
+    syllables: ["They", " are", " wor", "ried", " a", "bout", " that", " prob", "lem."],
+    exampleSentence: "They are worried about that problem.",
+    exampleTranslation: "Eles estão preocupados com aquele problema."
+  },
+  {
+    id: 'homework_39_11',
+    word: "We aren’t tired. We don’t have to get up at six o’clock tomorrow.",
+    translation: "Nós não estamos cansados. Nós não temos que levantar às seis horas amanhã.",
+    pronunciation: "/wi ˈɑrənt ˈtaɪərd. wi doʊnt hæv tu ɡɛt ʌp æt sɪks əˈklɑk təˈmɑˌroʊ./",
+    portuguesePhonetic: "ui árênt tai-erd. ui dôunt rév tchu guét-âp ét sics o-clóc tu-mó-rou.",
+    syllables: ["We", " aren’t", " tired.", " We", " don’t", " have", " to", " get", " up", " at", " six", " o’", "clock", " to", "mor", "row."],
+    exampleSentence: "We aren’t tired. We don’t have to get up at six o’clock tomorrow.",
+    exampleTranslation: "Nós não estamos cansados. Nós não temos que levantar às seis horas amanhã."
+  },
+  {
+    id: 'homework_39_12',
+    word: "They aren’t upset.",
+    translation: "Eles não estão chateados.",
+    pronunciation: "/ðeɪ ˈɑrənt əpˈsɛt./",
+    portuguesePhonetic: "dêi árênt ãp-sét.",
+    syllables: ["They", " aren’t", " up", "set."],
+    exampleSentence: "They aren’t upset.",
+    exampleTranslation: "Eles não estão chateados."
+  },
+  {
+    id: 'homework_39_13',
+    word: "He isn’t worried about that exam.",
+    translation: "Ele não está preocupado com aquela prova.",
+    pronunciation: "/hi ˈɪzənt ˈwɜrid əˈbaʊt ðæt ɪɡˈzæm./",
+    portuguesePhonetic: "ri í-zent uô-rid a-báut dét ig-zém.",
+    syllables: ["He", " is", "n’t", " wor", "ried", " a", "bout", " that", " ex", "am."],
+    exampleSentence: "He isn’t worried about that exam.",
+    exampleTranslation: "Ele não está preocupado com aquela prova."
+  },
+  {
+    id: 'homework_39_14',
+    word: "She isn’t sad and she doesn’t want to stay home alone.",
+    translation: "Ela não está triste e ela não quer ficar em casa sozinha.",
+    pronunciation: "/ʃi ˈɪzənt sæd ænd ʃi ˈdʌzənt wɑnt tu steɪ hoʊm əˈloʊn./",
+    portuguesePhonetic: "xi í-zent séd énd xi dâ-zent uánt tchu stei rôum a-lôun.",
+    syllables: ["She", " is", "n’t", " sad", " and", " she", " does", "n’t", " want", " to", " stay", " home", " a", "lone."],
+    exampleSentence: "She isn’t sad and she doesn’t want to stay home alone.",
+    exampleTranslation: "Ela não está triste e ela não quer ficar em casa sozinha."
+  },
+  {
+    id: 'homework_39_15',
+    word: "I am not busy this month.",
+    translation: "Eu não estou ocupado este mês.",
+    pronunciation: "/aɪ æm nɑt ˈbɪzi ðɪs mʌnθ./",
+    portuguesePhonetic: "ai ém nat bí-zi diz mânth.",
+    syllables: ["I", " am", " not", " bu", "sy", " this", " month."],
+    exampleSentence: "I am not busy this month.",
+    exampleTranslation: "Eu não estou ocupado este mês."
+  },
+  {
+    id: 'homework_39_16',
+    word: "They aren’t thirsty. They don’t want a glass of water.",
+    translation: "Eles não estão com sede. Eles não querem um copo de água.",
+    pronunciation: "/ðeɪ ˈɑrənt ˈθɜrsti. ðeɪ doʊnt wɑnt ə ɡlæs ʌv ˈwɔtər./",
+    portuguesePhonetic: "dêi árênt thãrs-ti. dêi dôunt uánt a glés ov uó-ter.",
+    syllables: ["They", " aren’t", " thirs", "ty.", " They", " don’t", " want", " a", " glass", " of", " wa", "ter."],
+    exampleSentence: "They aren’t thirsty. They don’t want a glass of water.",
+    exampleTranslation: "Eles não estão com sede. Eles não querem um copo de água."
+  },
+  {
+    id: 'homework_39_17',
+    word: "She isn’t a lawyer. She doesn’t work downtown.",
+    translation: "Ela não é advogada. Ela não trabalha no centro.",
+    pronunciation: "/ʃi ˈɪzənt ə ˈlɔɪər. ʃi ˈdʌzənt wɜrk ˈdaʊnˈtaʊn./",
+    portuguesePhonetic: "xi í-zent a ló-ier. xi dâ-zent uãrk dáun-táun.",
+    syllables: ["She", " is", "n’t", " a", " law", "yer.", " She", " does", "n’t", " work", " down", "town."],
+    exampleSentence: "She isn’t a lawyer. She doesn’t work downtown.",
+    exampleTranslation: "Ela não é advogada. Ela não trabalha no centro."
+  },
+  {
+    id: 'homework_39_18',
+    word: "My parents aren’t hungry. They don’t want to have lunch now.",
+    translation: "Meus pais não estão com fome. Eles não querem almoçar agora.",
+    pronunciation: "/maɪ ˈpɛrənts ˈɑrənt ˈhʌŋɡri. ðeɪ doʊnt wɑnt tu hæv lʌntʃ naʊ./",
+    portuguesePhonetic: "mai pé-rents árênt rân-gri. dêi dôunt uánt tchu rév lântch náu.",
+    syllables: ["My", " par", "ents", " aren’t", " hun", "gry.", " They", " don’t", " want", " to", " have", " lunch", " now."],
+    exampleSentence: "My parents aren’t hungry. They don’t want to have lunch now.",
+    exampleTranslation: "Meus pais não estão com fome. Eles não querem almoçar agora."
+  },
+  {
+    id: 'homework_39_19',
+    word: "My sister is a designer. She loves her job.",
+    translation: "Minha irmã é designer. Ela ama o trabalho dela.",
+    pronunciation: "/maɪ ˈsɪstər ɪz ə dɪˈzaɪnər. ʃi lʌvz hɜr dʒɑb./",
+    portuguesePhonetic: "mai sís-ter iz a di-zai-ner. xi lâvs rãr djob.",
+    syllables: ["My", " sis", "ter", " is", " a", " de", "sign", "er.", " She", " loves", " her", " job."],
+    exampleSentence: "My sister is a designer. She loves her job.",
+    exampleTranslation: "Minha irmã é designer. Ela ama o trabalho dela."
+  },
+  {
+    id: 'homework_39_20',
+    word: "I’m not hungry now. Let’s eat after the class.",
+    translation: "Eu não estou com fome agora. Vamos comer depois da aula.",
+    pronunciation: "/aɪm nɑt ˈhʌŋɡri naʊ. lɛts it ˈæftər ðə klæs./",
+    portuguesePhonetic: "aim nat rân-gri náu. léts it éf-ter dâ clés.",
+    syllables: ["I’m", " not", " hun", "gry", " now.", " Let’s", " eat", " af", "ter", " the", " class."],
+    exampleSentence: "I’m not hungry now. Let’s eat after the class.",
+    exampleTranslation: "Eu não estou com fome agora. Vamos comer depois da aula."
+  },
+  {
+    id: 'homework_39_21',
+    word: "This is not my backpack and these are not my things.",
+    translation: "Esta não é minha mochila e estas não são minhas coisas.",
+    pronunciation: "/ðɪs ɪz nɑt maɪ ˈbækˌpæk ænd ðiz ɑr nɑt maɪ θɪŋz./",
+    portuguesePhonetic: "diz iz nat mai béc-péc énd díz ar nat mai thíngs.",
+    syllables: ["This", " is", " not", " my", " back", "pack", " and", " these", " are", " not", " my", " things."],
+    exampleSentence: "This is not my backpack and these are not my things.",
+    exampleTranslation: "Esta não é minha mochila e estas não são minhas coisas."
+  },
+  {
+    id: 'homework_39_22',
+    word: "They are usually late for work. They go by bus.",
+    translation: "Eles geralmente chegam atrasados ao trabalho. Eles vão de ônibus.",
+    pronunciation: "/ðeɪ ɑr ˈjuʒuəli leɪt fɔr wɜrk. ðeɪ ɡoʊ baɪ bʌs./",
+    portuguesePhonetic: "dêi ar iú-ju-a-li lêit for uãrk. dêi gôu bai bâs.",
+    syllables: ["They", " are", " u", "su", "al", "ly", " late", " for", " work.", " They", " go", " by", " bus."],
+    exampleSentence: "They are usually late for work. They go by bus.",
+    exampleTranslation: "Eles geralmente chegam atrasados ao trabalho. Eles vão de ônibus."
+  },
+  {
+    id: 'homework_39_23',
+    word: "How are you today?",
+    translation: "Como você está hoje?",
+    pronunciation: "/haʊ ɑr ju təˈdeɪ?/",
+    portuguesePhonetic: "ráu ar iu tchu-dêi?",
+    syllables: ["How", " are", " you", " to", "day?"],
+    exampleSentence: "How are you today?",
+    exampleTranslation: "Como você está hoje?"
+  }
+];
+
+
+
+export const LESSON_1_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_1_1',
+    word: "to eat",
+    translation: "comer",
+    pronunciation: "/tu it/",
+    portuguesePhonetic: "tchu ít",
+    syllables: ["to", " eat"],
+    exampleSentence: "to eat",
+    exampleTranslation: "comer"
+  },
+  {
+    id: 'lesson_1_2',
+    word: "to drink",
+    translation: "beber, tomar",
+    pronunciation: "/tu drɪŋk/",
+    portuguesePhonetic: "tchu drínc",
+    syllables: ["to", " drink"],
+    exampleSentence: "to drink",
+    exampleTranslation: "beber, tomar"
+  },
+  {
+    id: 'lesson_1_3',
+    word: "water",
+    translation: "água",
+    pronunciation: "/ˈwɔtər/",
+    portuguesePhonetic: "uó-ter",
+    syllables: ["wa", "ter"],
+    exampleSentence: "water",
+    exampleTranslation: "água"
+  },
+  {
+    id: 'lesson_1_4',
+    word: "coffee",
+    translation: "café",
+    pronunciation: "/ˈkɔfi/",
+    portuguesePhonetic: "có-fi",
+    syllables: ["cof", "fee"],
+    exampleSentence: "coffee",
+    exampleTranslation: "café"
+  },
+  {
+    id: 'lesson_1_5',
+    word: "milk",
+    translation: "leite",
+    pronunciation: "/mɪlk/",
+    portuguesePhonetic: "mílc",
+    syllables: ["milk"],
+    exampleSentence: "milk",
+    exampleTranslation: "leite"
+  },
+  {
+    id: 'lesson_1_6',
+    word: "tea",
+    translation: "chá",
+    pronunciation: "/ti/",
+    portuguesePhonetic: "tchi",
+    syllables: ["tea"],
+    exampleSentence: "tea",
+    exampleTranslation: "chá"
+  },
+  {
+    id: 'lesson_1_7',
+    word: "juice",
+    translation: "suco",
+    pronunciation: "/dʒus/",
+    portuguesePhonetic: "djus",
+    syllables: ["juice"],
+    exampleSentence: "juice",
+    exampleTranslation: "suco"
+  },
+  {
+    id: 'lesson_1_8',
+    word: "bread",
+    translation: "pão",
+    pronunciation: "/brɛd/",
+    portuguesePhonetic: "bréd",
+    syllables: ["bread"],
+    exampleSentence: "bread",
+    exampleTranslation: "pão"
+  },
+  {
+    id: 'lesson_1_9',
+    word: "cracker",
+    translation: "biscoito / bolacha salgada",
+    pronunciation: "/ˈkrækər/",
+    portuguesePhonetic: "cré-cer",
+    syllables: ["crack", "er"],
+    exampleSentence: "cracker",
+    exampleTranslation: "biscoito / bolacha salgada"
+  },
+  {
+    id: 'lesson_1_10',
+    word: "cookie",
+    translation: "biscoito / bolacha doce",
+    pronunciation: "/ˈkʊki/",
+    portuguesePhonetic: "cú-qui",
+    syllables: ["cook", "ie"],
+    exampleSentence: "cookie",
+    exampleTranslation: "biscoito / bolacha doce"
+  },
+  {
+    id: 'lesson_1_11',
+    word: "pancake",
+    translation: "panqueca",
+    pronunciation: "/ˈpænˌkeɪk/",
+    portuguesePhonetic: "pén-queic",
+    syllables: ["pan", "cake"],
+    exampleSentence: "pancake",
+    exampleTranslation: "panqueca"
+  },
+  {
+    id: 'lesson_1_12',
+    word: "ham",
+    translation: "presunto",
+    pronunciation: "/hæm/",
+    portuguesePhonetic: "rém",
+    syllables: ["ham"],
+    exampleSentence: "ham",
+    exampleTranslation: "presunto"
+  },
+  {
+    id: 'lesson_1_13',
+    word: "cheese",
+    translation: "queijo",
+    pronunciation: "/tʃiz/",
+    portuguesePhonetic: "tchis",
+    syllables: ["cheese"],
+    exampleSentence: "cheese",
+    exampleTranslation: "queijo"
+  },
+  {
+    id: 'lesson_1_14',
+    word: "butter",
+    translation: "manteiga",
+    pronunciation: "/ˈbʌtər/",
+    portuguesePhonetic: "bâ-ter",
+    syllables: ["but", "ter"],
+    exampleSentence: "butter",
+    exampleTranslation: "manteiga"
+  },
+  {
+    id: 'lesson_1_15',
+    word: "I",
+    translation: "eu",
+    pronunciation: "/aɪ/",
+    portuguesePhonetic: "ai",
+    syllables: ["I"],
+    exampleSentence: "I",
+    exampleTranslation: "eu"
+  },
+  {
+    id: 'lesson_1_16',
+    word: "you",
+    translation: "você",
+    pronunciation: "/ju/",
+    portuguesePhonetic: "iu",
+    syllables: ["you"],
+    exampleSentence: "you",
+    exampleTranslation: "você"
+  },
+  {
+    id: 'lesson_1_17',
+    word: "and",
+    translation: "e",
+    pronunciation: "/ænd/",
+    portuguesePhonetic: "énd",
+    syllables: ["and"],
+    exampleSentence: "and",
+    exampleTranslation: "e"
+  },
+  {
+    id: 'lesson_1_18',
+    word: "I eat crackers. And you?",
+    translation: "Eu como biscoitos salgados. E você?",
+    pronunciation: "/aɪ it ˈkrækərz. ænd ju?/",
+    portuguesePhonetic: "ai ít cré-cers. énd iu?",
+    syllables: ["I", " eat", " crack", "ers.", " And", " you?"],
+    exampleSentence: "I eat crackers. And you?",
+    exampleTranslation: "Eu como biscoitos salgados. E você?"
+  },
+  {
+    id: 'lesson_1_19',
+    word: "I drink coffee with milk.",
+    translation: "Eu bebo café com leite.",
+    pronunciation: "/aɪ drɪŋk ˈkɔfi wɪð mɪlk./",
+    portuguesePhonetic: "ai drínc có-fi uid mílc.",
+    syllables: ["I", " drink", " cof", "fee", " with", " milk."],
+    exampleSentence: "I drink coffee with milk.",
+    exampleTranslation: "Eu bebo café com leite."
+  },
+  {
+    id: 'lesson_1_20',
+    word: "I eat pancakes.",
+    translation: "Eu como panquecas.",
+    pronunciation: "/aɪ it ˈpænˌkeɪks./",
+    portuguesePhonetic: "ai ít pén-queics.",
+    syllables: ["I", " eat", " pan", "cakes."],
+    exampleSentence: "I eat pancakes.",
+    exampleTranslation: "Eu como panquecas."
+  },
+  {
+    id: 'lesson_1_21',
+    word: "You eat cookies.",
+    translation: "Você come bolachas doces.",
+    pronunciation: "/ju it ˈkʊkiz./",
+    portuguesePhonetic: "iu ít cú-quis.",
+    syllables: ["You", " eat", " cook", "ies."],
+    exampleSentence: "You eat cookies.",
+    exampleTranslation: "Você come bolachas doces."
+  },
+  {
+    id: 'lesson_1_22',
+    word: "I eat bread and ham.",
+    translation: "Eu como pão com presunto.",
+    pronunciation: "/aɪ it brɛd ænd hæm./",
+    portuguesePhonetic: "ai ít bréd énd rém.",
+    syllables: ["I", " eat", " bread", " and", " ham."],
+    exampleSentence: "I eat bread and ham.",
+    exampleTranslation: "Eu como pão com presunto."
+  },
+  {
+    id: 'lesson_1_23',
+    word: "I drink coffee.",
+    translation: "Eu bebo café.",
+    pronunciation: "/aɪ drɪŋk ˈkɔfi./",
+    portuguesePhonetic: "ai drínc có-fi.",
+    syllables: ["I", " drink", " cof", "fee."],
+    exampleSentence: "I drink coffee.",
+    exampleTranslation: "Eu bebo café."
+  },
+  {
+    id: 'lesson_1_24',
+    word: "You drink water.",
+    translation: "Você bebe água.",
+    pronunciation: "/ju drɪŋk ˈwɔtər./",
+    portuguesePhonetic: "iu drínc uó-ter.",
+    syllables: ["You", " drink", " wa", "ter."],
+    exampleSentence: "You drink water.",
+    exampleTranslation: "Você bebe água."
+  },
+  {
+    id: 'lesson_1_25',
+    word: "I drink coffee with milk.",
+    translation: "Eu bebo café com leite.",
+    pronunciation: "/aɪ drɪŋk ˈkɔfi wɪð mɪlk./",
+    portuguesePhonetic: "ai drínc có-fi uid mílc.",
+    syllables: ["I", " drink", " cof", "fee", " with", " milk."],
+    exampleSentence: "I drink coffee with milk.",
+    exampleTranslation: "Eu bebo café com leite."
+  },
+  {
+    id: 'lesson_1_26',
+    word: "I eat bread.",
+    translation: "Eu como pão.",
+    pronunciation: "/aɪ it brɛd./",
+    portuguesePhonetic: "ai ít bréd.",
+    syllables: ["I", " eat", " bread."],
+    exampleSentence: "I eat bread.",
+    exampleTranslation: "Eu como pão."
+  },
+  {
+    id: 'lesson_1_27',
+    word: "I eat cheese.",
+    translation: "Eu como queijo.",
+    pronunciation: "/aɪ it tʃiz./",
+    portuguesePhonetic: "ai ít tchis.",
+    syllables: ["I", " eat", " cheese."],
+    exampleSentence: "I eat cheese.",
+    exampleTranslation: "Eu como queijo."
+  },
+  {
+    id: 'lesson_1_28',
+    word: "You eat cookies.",
+    translation: "Você come biscoitos doces.",
+    pronunciation: "/ju it ˈkʊkiz./",
+    portuguesePhonetic: "iu ít cú-quis.",
+    syllables: ["You", " eat", " cook", "ies."],
+    exampleSentence: "You eat cookies.",
+    exampleTranslation: "Você come biscoitos doces."
+  },
+  {
+    id: 'lesson_1_29',
+    word: "I drink water.",
+    translation: "Eu bebo água.",
+    pronunciation: "/aɪ drɪŋk ˈwɔtər./",
+    portuguesePhonetic: "ai drínc uó-ter.",
+    syllables: ["I", " drink", " wa", "ter."],
+    exampleSentence: "I drink water.",
+    exampleTranslation: "Eu bebo água."
+  },
+  {
+    id: 'lesson_1_30',
+    word: "I drink milk.",
+    translation: "Eu bebo leite.",
+    pronunciation: "/aɪ drɪŋk mɪlk./",
+    portuguesePhonetic: "ai drínc mílc.",
+    syllables: ["I", " drink", " milk."],
+    exampleSentence: "I drink milk.",
+    exampleTranslation: "Eu bebo leite."
+  },
+  {
+    id: 'lesson_1_31',
+    word: "You drink juice.",
+    translation: "Você bebe suco.",
+    pronunciation: "/ju drɪŋk dʒus./",
+    portuguesePhonetic: "iu drínc djus.",
+    syllables: ["You", " drink", " juice."],
+    exampleSentence: "You drink juice.",
+    exampleTranslation: "Você bebe suco."
+  },
+  {
+    id: 'lesson_1_32',
+    word: "I eat bread and butter.",
+    translation: "Eu como pão com manteiga.",
+    pronunciation: "/aɪ it brɛd ænd ˈbʌtər./",
+    portuguesePhonetic: "ai ít bréd énd bâ-ter.",
+    syllables: ["I", " eat", " bread", " and", " but", "ter."],
+    exampleSentence: "I eat bread and butter.",
+    exampleTranslation: "Eu como pão com manteiga."
+  },
+  {
+    id: 'lesson_1_33',
+    word: "I drink coffee with milk.",
+    translation: "Eu bebo café com leite.",
+    pronunciation: "/aɪ drɪŋk ˈkɔfi wɪð mɪlk./",
+    portuguesePhonetic: "ai drínc có-fi uid mílc.",
+    syllables: ["I", " drink", " cof", "fee", " with", " milk."],
+    exampleSentence: "I drink coffee with milk.",
+    exampleTranslation: "Eu bebo café com leite."
+  },
+  {
+    id: 'lesson_1_34',
+    word: "I eat crackers and you drink tea.",
+    translation: "Eu como bolachas salgadas e você bebe chá.",
+    pronunciation: "/aɪ it ˈkrækərz ænd ju drɪŋk ti./",
+    portuguesePhonetic: "ai ít cré-cers énd iu drínc tchi.",
+    syllables: ["I", " eat", " crack", "ers", " and", " you", " drink", " tea."],
+    exampleSentence: "I eat crackers and you drink tea.",
+    exampleTranslation: "Eu como bolachas salgadas e você bebe chá."
+  },
+  {
+    id: 'lesson_1_35',
+    word: "I eat bread, ham, and cheese. And you?",
+    translation: "Eu como pão, presunto e queijo. E você?",
+    pronunciation: "/aɪ it brɛd, hæm, ænd tʃiz. ænd ju?/",
+    portuguesePhonetic: "ai ít bréd, rém, énd tchis. énd iu?",
+    syllables: ["I", " eat", " bread,", " ham,", " and", " cheese.", " And", " you?"],
+    exampleSentence: "I eat bread, ham, and cheese. And you?",
+    exampleTranslation: "Eu como pão, presunto e queijo. E você?"
+  },
+  {
+    id: 'lesson_1_36',
+    word: "to eat → I eat",
+    translation: "comer → eu como",
+    pronunciation: "/tu it → aɪ it/",
+    portuguesePhonetic: "tchu ít → ai ít",
+    syllables: ["to", " eat", " →", " I", " eat"],
+    exampleSentence: "to eat → I eat",
+    exampleTranslation: "comer → eu como"
+  },
+  {
+    id: 'lesson_1_37',
+    word: "to drink → you drink",
+    translation: "beber → você bebe",
+    pronunciation: "/tu drɪŋk → ju drɪŋk/",
+    portuguesePhonetic: "tchu drínc → iu drínc",
+    syllables: ["to", " drink", " →", " you", " drink"],
+    exampleSentence: "to drink → you drink",
+    exampleTranslation: "beber → você bebe"
+  },
+  {
+    id: 'lesson_1_38',
+    word: "I drink juice. And you?",
+    translation: "Eu bebo suco. E você?",
+    pronunciation: "/aɪ drɪŋk dʒus. ænd ju?/",
+    portuguesePhonetic: "ai drínc djus. énd iu?",
+    syllables: ["I", " drink", " juice.", " And", " you?"],
+    exampleSentence: "I drink juice. And you?",
+    exampleTranslation: "Eu bebo suco. E você?"
+  },
+  {
+    id: 'lesson_1_39',
+    word: "Good morning!",
+    translation: "Bom dia!",
+    pronunciation: "/ɡʊd ˈmɔrnɪŋ!/",
+    portuguesePhonetic: "gud môr-ning!",
+    syllables: ["Good", " morn", "ing!"],
+    exampleSentence: "Good morning!",
+    exampleTranslation: "Bom dia!"
+  },
+  {
+    id: 'lesson_1_40',
+    word: "Good afternoon!",
+    translation: "Boa tarde!",
+    pronunciation: "/ɡʊd ˌæftərˈnun!/",
+    portuguesePhonetic: "gud éf-ter-nun!",
+    syllables: ["Good", " af", "ter", "noon!"],
+    exampleSentence: "Good afternoon!",
+    exampleTranslation: "Boa tarde!"
+  },
+  {
+    id: 'lesson_1_41',
+    word: "Good evening!",
+    translation: "Boa noite!",
+    pronunciation: "/ɡʊd ˈivnɪŋ!/",
+    portuguesePhonetic: "gud ív-ning!",
+    syllables: ["Good", " eve", "ning!"],
+    exampleSentence: "Good evening!",
+    exampleTranslation: "Boa noite!"
+  }
+];
+
+
+
+export const LESSON_3_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_3_1',
+    word: "to want",
+    translation: "querer",
+    pronunciation: "/tu wɑnt/",
+    portuguesePhonetic: "tchu uánt",
+    syllables: ["to", " want"],
+    exampleSentence: "to want",
+    exampleTranslation: "querer"
+  },
+  {
+    id: 'lesson_3_2',
+    word: "to like",
+    translation: "gostar (de)",
+    pronunciation: "/tu laɪk/",
+    portuguesePhonetic: "tchu laic",
+    syllables: ["to", " like"],
+    exampleSentence: "to like",
+    exampleTranslation: "gostar (de)"
+  },
+  {
+    id: 'lesson_3_3',
+    word: "apple",
+    translation: "maçã",
+    pronunciation: "/ˈæpəl/",
+    portuguesePhonetic: "é-pol",
+    syllables: ["ap", "ple"],
+    exampleSentence: "apple",
+    exampleTranslation: "maçã"
+  },
+  {
+    id: 'lesson_3_4',
+    word: "orange",
+    translation: "laranja",
+    pronunciation: "/ˈɔrəndʒ/",
+    portuguesePhonetic: "ó-rindj",
+    syllables: ["or", "ange"],
+    exampleSentence: "orange",
+    exampleTranslation: "laranja"
+  },
+  {
+    id: 'lesson_3_5',
+    word: "banana",
+    translation: "banana",
+    pronunciation: "/bəˈnænə/",
+    portuguesePhonetic: "ba-né-na",
+    syllables: ["ba", "nan", "a"],
+    exampleSentence: "banana",
+    exampleTranslation: "banana"
+  },
+  {
+    id: 'lesson_3_6',
+    word: "fruit",
+    translation: "fruta",
+    pronunciation: "/frut/",
+    portuguesePhonetic: "frut",
+    syllables: ["fruit"],
+    exampleSentence: "fruit",
+    exampleTranslation: "fruta"
+  },
+  {
+    id: 'lesson_3_7',
+    word: "toast",
+    translation: "torrada",
+    pronunciation: "/toʊst/",
+    portuguesePhonetic: "tôust",
+    syllables: ["toast"],
+    exampleSentence: "toast",
+    exampleTranslation: "torrada"
+  },
+  {
+    id: 'lesson_3_8',
+    word: "jam",
+    translation: "geleia",
+    pronunciation: "/dʒæm/",
+    portuguesePhonetic: "djém",
+    syllables: ["jam"],
+    exampleSentence: "jam",
+    exampleTranslation: "geleia"
+  },
+  {
+    id: 'lesson_3_9',
+    word: "cereal",
+    translation: "cereal",
+    pronunciation: "/ˈsɪriəl/",
+    portuguesePhonetic: "sí-ri-al",
+    syllables: ["ce", "re", "al"],
+    exampleSentence: "cereal",
+    exampleTranslation: "cereal"
+  },
+  {
+    id: 'lesson_3_10',
+    word: "yogurt",
+    translation: "iogurte",
+    pronunciation: "/ˈjoʊɡərt/",
+    portuguesePhonetic: "iô-gurt",
+    syllables: ["yo", "gurt"],
+    exampleSentence: "yogurt",
+    exampleTranslation: "iogurte"
+  },
+  {
+    id: 'lesson_3_11',
+    word: "honey",
+    translation: "mel",
+    pronunciation: "/ˈhʌni/",
+    portuguesePhonetic: "râ-ni",
+    syllables: ["hon", "ey"],
+    exampleSentence: "honey",
+    exampleTranslation: "mel"
+  },
+  {
+    id: 'lesson_3_12',
+    word: "granola",
+    translation: "granola",
+    pronunciation: "/ɡrəˈnoʊlə/",
+    portuguesePhonetic: "gra-nôu-la",
+    syllables: ["gra", "no", "la"],
+    exampleSentence: "granola",
+    exampleTranslation: "granola"
+  },
+  {
+    id: 'lesson_3_13',
+    word: "egg",
+    translation: "ovo",
+    pronunciation: "/ɛɡ/",
+    portuguesePhonetic: "ég",
+    syllables: ["egg"],
+    exampleSentence: "egg",
+    exampleTranslation: "ovo"
+  },
+  {
+    id: 'lesson_3_14',
+    word: "pie",
+    translation: "torta",
+    pronunciation: "/paɪ/",
+    portuguesePhonetic: "pai",
+    syllables: ["pie"],
+    exampleSentence: "pie",
+    exampleTranslation: "torta"
+  },
+  {
+    id: 'lesson_3_15',
+    word: "chocolate",
+    translation: "chocolate",
+    pronunciation: "/ˈtʃɔklət/",
+    portuguesePhonetic: "tchó-clet",
+    syllables: ["choc", "o", "late"],
+    exampleSentence: "chocolate",
+    exampleTranslation: "chocolate"
+  },
+  {
+    id: 'lesson_3_16',
+    word: "I eat toast and jam for breakfast.",
+    translation: "Eu como torradas com geleia no café da manhã.",
+    pronunciation: "/aɪ it toʊst ænd dʒæm fɔr ˈbrɛkfəst./",
+    portuguesePhonetic: "ai ít tôust énd djém for bréc-fast.",
+    syllables: ["I", " eat", " toast", " and", " jam", " for", " break", "fast."],
+    exampleSentence: "I eat toast and jam for breakfast.",
+    exampleTranslation: "Eu como torradas com geleia no café da manhã."
+  },
+  {
+    id: 'lesson_3_17',
+    word: "I want a piece of chocolate, please.",
+    translation: "Eu quero um pedaço de chocolate, por favor.",
+    pronunciation: "/aɪ wɑnt ə pis ʌv ˈtʃɔklət, pliz./",
+    portuguesePhonetic: "ai uánt a pís ov tchó-clet, pliz.",
+    syllables: ["I", " want", " a", " piece", " of", " choc", "o", "late,", " please."],
+    exampleSentence: "I want a piece of chocolate, please.",
+    exampleTranslation: "Eu quero um pedaço de chocolate, por favor."
+  },
+  {
+    id: 'lesson_3_18',
+    word: "I want a slice of pie.",
+    translation: "Eu quero uma fatia de torta.",
+    pronunciation: "/aɪ wɑnt ə slaɪs ʌv paɪ./",
+    portuguesePhonetic: "ai uánt a sláis ov pai.",
+    syllables: ["I", " want", " a", " slice", " of", " pie."],
+    exampleSentence: "I want a slice of pie.",
+    exampleTranslation: "Eu quero uma fatia de torta."
+  },
+  {
+    id: 'lesson_3_19',
+    word: "I want banana and granola.",
+    translation: "Eu quero banana e granola.",
+    pronunciation: "/aɪ wɑnt bəˈnænə ænd ɡrəˈnoʊlə./",
+    portuguesePhonetic: "ai uánt ba-né-na énd gra-nôu-la.",
+    syllables: ["I", " want", " ba", "nan", "a", " and", " gra", "no", "la."],
+    exampleSentence: "I want banana and granola.",
+    exampleTranslation: "Eu quero banana e granola."
+  },
+  {
+    id: 'lesson_3_20',
+    word: "I don’t want chocolate pie.",
+    translation: "Eu não quero torta de chocolate.",
+    pronunciation: "/aɪ doʊnt wɑnt ˈtʃɔklət paɪ./",
+    portuguesePhonetic: "ai dôunt uánt tchó-clet pai.",
+    syllables: ["I", " don’t", " want", " choc", "o", "late", " pie."],
+    exampleSentence: "I don’t want chocolate pie.",
+    exampleTranslation: "Eu não quero torta de chocolate."
+  },
+  {
+    id: 'lesson_3_21',
+    word: "I like apples.",
+    translation: "Eu gosto de maçãs.",
+    pronunciation: "/aɪ laɪk ˈæpəlz./",
+    portuguesePhonetic: "ai laic é-pols.",
+    syllables: ["I", " like", " ap", "ples."],
+    exampleSentence: "I like apples.",
+    exampleTranslation: "Eu gosto de maçãs."
+  },
+  {
+    id: 'lesson_3_22',
+    word: "I don’t like jam.",
+    translation: "Eu não gosto de geleia.",
+    pronunciation: "/aɪ doʊnt laɪk dʒæm./",
+    portuguesePhonetic: "ai dôunt laic djém.",
+    syllables: ["I", " don’t", " like", " jam."],
+    exampleSentence: "I don’t like jam.",
+    exampleTranslation: "Eu não gosto de geleia."
+  },
+  {
+    id: 'lesson_3_23',
+    word: "I like to eat cereal and honey.",
+    translation: "Eu gosto de comer cereal com mel.",
+    pronunciation: "/aɪ laɪk tu it ˈsɪriəl ænd ˈhʌni./",
+    portuguesePhonetic: "ai laic tchu ít sí-ri-al énd râ-ni.",
+    syllables: ["I", " like", " to", " eat", " ce", "re", "al", " and", " hon", "ey."],
+    exampleSentence: "I like to eat cereal and honey.",
+    exampleTranslation: "Eu gosto de comer cereal com mel."
+  },
+  {
+    id: 'lesson_3_24',
+    word: "I want to drink orange juice.",
+    translation: "Eu quero beber suco de laranja.",
+    pronunciation: "/aɪ wɑnt tu drɪŋk ˈɔrəndʒ dʒus./",
+    portuguesePhonetic: "ai uánt tchu drínc ó-rindj djus.",
+    syllables: ["I", " want", " to", " drink", " or", "ange", " juice."],
+    exampleSentence: "I want to drink orange juice.",
+    exampleTranslation: "Eu quero beber suco de laranja."
+  },
+  {
+    id: 'lesson_3_25',
+    word: "I want yogurt and granola.",
+    translation: "Eu quero iogurte com granola.",
+    pronunciation: "/aɪ wɑnt ˈjoʊɡərt ænd ɡrəˈnoʊlə./",
+    portuguesePhonetic: "ai uánt iô-gurt énd gra-nôu-la.",
+    syllables: ["I", " want", " yo", "gurt", " and", " gra", "no", "la."],
+    exampleSentence: "I want yogurt and granola.",
+    exampleTranslation: "Eu quero iogurte com granola."
+  },
+  {
+    id: 'lesson_3_26',
+    word: "I don’t want eggs.",
+    translation: "Eu não quero ovos.",
+    pronunciation: "/aɪ doʊnt wɑnt ɛɡz./",
+    portuguesePhonetic: "ai dôunt uánt égs.",
+    syllables: ["I", " don’t", " want", " eggs."],
+    exampleSentence: "I don’t want eggs.",
+    exampleTranslation: "Eu não quero ovos."
+  },
+  {
+    id: 'lesson_3_27',
+    word: "I like to drink juice.",
+    translation: "Eu gosto de beber suco.",
+    pronunciation: "/aɪ laɪk tu drɪŋk dʒus./",
+    portuguesePhonetic: "ai laic tchu drínc djus.",
+    syllables: ["I", " like", " to", " drink", " juice."],
+    exampleSentence: "I like to drink juice.",
+    exampleTranslation: "Eu gosto de beber suco."
+  },
+  {
+    id: 'lesson_3_28',
+    word: "I want to drink milk.",
+    translation: "Eu quero beber leite.",
+    pronunciation: "/aɪ wɑnt tu drɪŋk mɪlk./",
+    portuguesePhonetic: "ai uánt tchu drínc mílc.",
+    syllables: ["I", " want", " to", " drink", " milk."],
+    exampleSentence: "I want to drink milk.",
+    exampleTranslation: "Eu quero beber leite."
+  },
+  {
+    id: 'lesson_3_29',
+    word: "I want to eat honey.",
+    translation: "Eu quero comer mel.",
+    pronunciation: "/aɪ wɑnt tu it ˈhʌni./",
+    portuguesePhonetic: "ai uánt tchu ít râ-ni.",
+    syllables: ["I", " want", " to", " eat", " hon", "ey."],
+    exampleSentence: "I want to eat honey.",
+    exampleTranslation: "Eu quero comer mel."
+  },
+  {
+    id: 'lesson_3_30',
+    word: "I like oranges.",
+    translation: "Eu gosto de laranjas.",
+    pronunciation: "/aɪ laɪk ˈɔrəndʒəz./",
+    portuguesePhonetic: "ai laic ó-rin-djez.",
+    syllables: ["I", " like", " or", "an", "ges."],
+    exampleSentence: "I like oranges.",
+    exampleTranslation: "Eu gosto de laranjas."
+  },
+  {
+    id: 'lesson_3_31',
+    word: "I don’t like apple juice.",
+    translation: "Eu não gosto de suco de maçã.",
+    pronunciation: "/aɪ doʊnt laɪk ˈæpəl dʒus./",
+    portuguesePhonetic: "ai dôunt laic é-pol djus.",
+    syllables: ["I", " don’t", " like", " ap", "ple", " juice."],
+    exampleSentence: "I don’t like apple juice.",
+    exampleTranslation: "Eu não gosto de suco de maçã."
+  },
+  {
+    id: 'lesson_3_32',
+    word: "I like chocolate pie.",
+    translation: "Eu gosto de torta de chocolate.",
+    pronunciation: "/aɪ laɪk ˈtʃɔklət paɪ./",
+    portuguesePhonetic: "ai laic tchó-clet pai.",
+    syllables: ["I", " like", " choc", "o", "late", " pie."],
+    exampleSentence: "I like chocolate pie.",
+    exampleTranslation: "Eu gosto de torta de chocolate."
+  },
+  {
+    id: 'lesson_3_33',
+    word: "I want a piece of cheese.",
+    translation: "Eu quero um pedaço de queijo.",
+    pronunciation: "/aɪ wɑnt ə pis ʌv tʃiz./",
+    portuguesePhonetic: "ai uánt a pís ov tchis.",
+    syllables: ["I", " want", " a", " piece", " of", " cheese."],
+    exampleSentence: "I want a piece of cheese.",
+    exampleTranslation: "Eu quero um pedaço de queijo."
+  },
+  {
+    id: 'lesson_3_34',
+    word: "I want to eat toast for breakfast.",
+    translation: "Eu quero comer torradas no café da manhã.",
+    pronunciation: "/aɪ wɑnt tu it toʊst fɔr ˈbrɛkfəst./",
+    portuguesePhonetic: "ai uánt tchu ít tôust for bréc-fast.",
+    syllables: ["I", " want", " to", " eat", " toast", " for", " break", "fast."],
+    exampleSentence: "I want to eat toast for breakfast.",
+    exampleTranslation: "Eu quero comer torradas no café da manhã."
+  },
+  {
+    id: 'lesson_3_35',
+    word: "I like to eat...",
+    translation: "Eu gosto de comer...",
+    pronunciation: "/aɪ laɪk tu it.../",
+    portuguesePhonetic: "ai laic tchu ít...",
+    syllables: ["I", " like", " to", " eat..."],
+    exampleSentence: "I like to eat...",
+    exampleTranslation: "Eu gosto de comer..."
+  },
+  {
+    id: 'lesson_3_36',
+    word: "I want to drink...",
+    translation: "Eu quero beber...",
+    pronunciation: "/aɪ wɑnt tu drɪŋk.../",
+    portuguesePhonetic: "ai uánt tchu drínc...",
+    syllables: ["I", " want", " to", " drink..."],
+    exampleSentence: "I want to drink...",
+    exampleTranslation: "Eu quero beber..."
+  },
+  {
+    id: 'lesson_3_37',
+    word: "I don’t like to eat...",
+    translation: "Eu não gosto de comer...",
+    pronunciation: "/aɪ doʊnt laɪk tu it.../",
+    portuguesePhonetic: "ai dôunt laic tchu ít...",
+    syllables: ["I", " don’t", " like", " to", " eat..."],
+    exampleSentence: "I don’t like to eat...",
+    exampleTranslation: "Eu não gosto de comer..."
+  },
+  {
+    id: 'lesson_3_38',
+    word: "I don’t want to drink...",
+    translation: "Eu não quero beber...",
+    pronunciation: "/aɪ doʊnt wɑnt tu drɪŋk.../",
+    portuguesePhonetic: "ai dôunt uánt tchu drínc...",
+    syllables: ["I", " don’t", " want", " to", " drink..."],
+    exampleSentence: "I don’t want to drink...",
+    exampleTranslation: "Eu não quero beber..."
+  },
+  {
+    id: 'lesson_3_39',
+    word: "chocolate cookie",
+    translation: "biscoito de chocolate",
+    pronunciation: "/ˈtʃɔklət ˈkʊki/",
+    portuguesePhonetic: "tchó-clet cú-qui",
+    syllables: ["choc", "o", "late", " cook", "ie"],
+    exampleSentence: "chocolate cookie",
+    exampleTranslation: "biscoito de chocolate"
+  },
+  {
+    id: 'lesson_3_40',
+    word: "apple pie",
+    translation: "torta de maçã",
+    pronunciation: "/ˈæpəl paɪ/",
+    portuguesePhonetic: "é-pol pai",
+    syllables: ["ap", "ple", " pie"],
+    exampleSentence: "apple pie",
+    exampleTranslation: "torta de maçã"
+  },
+  {
+    id: 'lesson_3_41',
+    word: "orange juice",
+    translation: "suco de laranja",
+    pronunciation: "/ˈɔrəndʒ dʒus/",
+    portuguesePhonetic: "ó-rindj djus",
+    syllables: ["or", "ange", " juice"],
+    exampleSentence: "orange juice",
+    exampleTranslation: "suco de laranja"
+  },
+  {
+    id: 'lesson_3_42',
+    word: "orange jam",
+    translation: "geleia de laranja",
+    pronunciation: "/ˈɔrəndʒ dʒæm/",
+    portuguesePhonetic: "ó-rindj djém",
+    syllables: ["or", "ange", " jam"],
+    exampleSentence: "orange jam",
+    exampleTranslation: "geleia de laranja"
+  },
+  {
+    id: 'lesson_3_43',
+    word: "apple tea",
+    translation: "chá de maçã",
+    pronunciation: "/ˈæpəl ti/",
+    portuguesePhonetic: "é-pol tchi",
+    syllables: ["ap", "ple", " tea"],
+    exampleSentence: "apple tea",
+    exampleTranslation: "chá de maçã"
+  },
+  {
+    id: 'lesson_3_44',
+    word: "Bye! See you.",
+    translation: "Tchau! Até mais.",
+    pronunciation: "/baɪ! si ju./",
+    portuguesePhonetic: "bai! si iu.",
+    syllables: ["Bye!", " See", " you."],
+    exampleSentence: "Bye! See you.",
+    exampleTranslation: "Tchau! Até mais."
+  },
+  {
+    id: 'lesson_3_45',
+    word: "See you later!",
+    translation: "Até mais tarde!",
+    pronunciation: "/si ju ˈleɪtər!/",
+    portuguesePhonetic: "si iu lêi-ter!",
+    syllables: ["See", " you", " la", "ter!"],
+    exampleSentence: "See you later!",
+    exampleTranslation: "Até mais tarde!"
+  },
+  {
+    id: 'lesson_3_46',
+    word: "Good night!",
+    translation: "Boa noite!",
+    pronunciation: "/ɡʊd naɪt!/",
+    portuguesePhonetic: "gud nait!",
+    syllables: ["Good", " night!"],
+    exampleSentence: "Good night!",
+    exampleTranslation: "Boa noite!"
+  }
+];
+
+
+
+export const LESSON_5_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_5_1',
+    word: "to prefer",
+    translation: "preferir",
+    pronunciation: "/tu prɪˈfɜr/",
+    portuguesePhonetic: "tchu pri-fãr",
+    syllables: ["to", " pre", "fer"],
+    exampleSentence: "to prefer",
+    exampleTranslation: "preferir"
+  },
+  {
+    id: 'lesson_5_2',
+    word: "to love",
+    translation: "amar, adorar",
+    pronunciation: "/tu lʌv/",
+    portuguesePhonetic: "tchu lâv",
+    syllables: ["to", " love"],
+    exampleSentence: "to love",
+    exampleTranslation: "amar, adorar"
+  },
+  {
+    id: 'lesson_5_3',
+    word: "beef",
+    translation: "carne bovina",
+    pronunciation: "/bif/",
+    portuguesePhonetic: "bif",
+    syllables: ["beef"],
+    exampleSentence: "beef",
+    exampleTranslation: "carne bovina"
+  },
+  {
+    id: 'lesson_5_4',
+    word: "chicken",
+    translation: "frango",
+    pronunciation: "/ˈtʃɪkən/",
+    portuguesePhonetic: "tchí-quen",
+    syllables: ["chick", "en"],
+    exampleSentence: "chicken",
+    exampleTranslation: "frango"
+  },
+  {
+    id: 'lesson_5_5',
+    word: "fish",
+    translation: "peixe",
+    pronunciation: "/fɪʃ/",
+    portuguesePhonetic: "fix",
+    syllables: ["fish"],
+    exampleSentence: "fish",
+    exampleTranslation: "peixe"
+  },
+  {
+    id: 'lesson_5_6',
+    word: "bacon",
+    translation: "bacon",
+    pronunciation: "/ˈbeɪkən/",
+    portuguesePhonetic: "bêi-con",
+    syllables: ["ba", "con"],
+    exampleSentence: "bacon",
+    exampleTranslation: "bacon"
+  },
+  {
+    id: 'lesson_5_7',
+    word: "sausage",
+    translation: "linguiça, salsicha",
+    pronunciation: "/ˈsɔsɪdʒ/",
+    portuguesePhonetic: "só-sidj",
+    syllables: ["sau", "sage"],
+    exampleSentence: "sausage",
+    exampleTranslation: "linguiça, salsicha"
+  },
+  {
+    id: 'lesson_5_8',
+    word: "tomato",
+    translation: "tomate",
+    pronunciation: "/təˈmeɪtoʊ/",
+    portuguesePhonetic: "tchu-mêi-tou",
+    syllables: ["to", "ma", "to"],
+    exampleSentence: "tomato",
+    exampleTranslation: "tomate"
+  },
+  {
+    id: 'lesson_5_9',
+    word: "rice",
+    translation: "arroz",
+    pronunciation: "/raɪs/",
+    portuguesePhonetic: "rais",
+    syllables: ["rice"],
+    exampleSentence: "rice",
+    exampleTranslation: "arroz"
+  },
+  {
+    id: 'lesson_5_10',
+    word: "beans",
+    translation: "feijão",
+    pronunciation: "/binz/",
+    portuguesePhonetic: "bins",
+    syllables: ["beans"],
+    exampleSentence: "beans",
+    exampleTranslation: "feijão"
+  },
+  {
+    id: 'lesson_5_11',
+    word: "French fries",
+    translation: "batatas fritas",
+    pronunciation: "/frɛntʃ fraɪz/",
+    portuguesePhonetic: "frentch frais",
+    syllables: ["French", " fries"],
+    exampleSentence: "French fries",
+    exampleTranslation: "batatas fritas"
+  },
+  {
+    id: 'lesson_5_12',
+    word: "sandwich",
+    translation: "sanduíche",
+    pronunciation: "/ˈsændwɪtʃ/",
+    portuguesePhonetic: "sénd-uitch",
+    syllables: ["sand", "wich"],
+    exampleSentence: "sandwich",
+    exampleTranslation: "sanduíche"
+  },
+  {
+    id: 'lesson_5_13',
+    word: "salad",
+    translation: "salada",
+    pronunciation: "/ˈsæləd/",
+    portuguesePhonetic: "sé-lad",
+    syllables: ["sal", "ad"],
+    exampleSentence: "salad",
+    exampleTranslation: "salada"
+  },
+  {
+    id: 'lesson_5_14',
+    word: "vegetables",
+    translation: "legumes, verduras",
+    pronunciation: "/ˈvɛdʒtəbəlz/",
+    portuguesePhonetic: "védj-ta-bols",
+    syllables: ["veg", "e", "ta", "bles"],
+    exampleSentence: "vegetables",
+    exampleTranslation: "legumes, verduras"
+  },
+  {
+    id: 'lesson_5_15',
+    word: "soda",
+    translation: "refrigerante",
+    pronunciation: "/ˈsoʊdə/",
+    portuguesePhonetic: "sôu-da",
+    syllables: ["so", "da"],
+    exampleSentence: "soda",
+    exampleTranslation: "refrigerante"
+  },
+  {
+    id: 'lesson_5_16',
+    word: "or",
+    translation: "ou",
+    pronunciation: "/ɔr/",
+    portuguesePhonetic: "or",
+    syllables: ["or"],
+    exampleSentence: "or",
+    exampleTranslation: "ou"
+  },
+  {
+    id: 'lesson_5_17',
+    word: "what",
+    translation: "o que, qual",
+    pronunciation: "/wʌt/",
+    portuguesePhonetic: "uát",
+    syllables: ["what"],
+    exampleSentence: "what",
+    exampleTranslation: "o que, qual"
+  },
+  {
+    id: 'lesson_5_18',
+    word: "I want a glass of water, please.",
+    translation: "Eu quero um copo de água, por favor.",
+    pronunciation: "/aɪ wɑnt ə ɡlæs ʌv ˈwɔtər, pliz./",
+    portuguesePhonetic: "ai uánt a glés ov uó-ter, pliz.",
+    syllables: ["I", " want", " a", " glass", " of", " wa", "ter,", " please."],
+    exampleSentence: "I want a glass of water, please.",
+    exampleTranslation: "Eu quero um copo de água, por favor."
+  },
+  {
+    id: 'lesson_5_19',
+    word: "I want a cup of tea.",
+    translation: "Eu quero uma xícara de chá.",
+    pronunciation: "/aɪ wɑnt ə kʌp ʌv ti./",
+    portuguesePhonetic: "ai uánt a câp ov tchi.",
+    syllables: ["I", " want", " a", " cup", " of", " tea."],
+    exampleSentence: "I want a cup of tea.",
+    exampleTranslation: "Eu quero uma xícara de chá."
+  },
+  {
+    id: 'lesson_5_20',
+    word: "I eat rice and beans for lunch.",
+    translation: "Eu como arroz e feijão no almoço.",
+    pronunciation: "/aɪ it raɪs ænd bɪnz fɔr lʌntʃ./",
+    portuguesePhonetic: "ai ít rais énd bins for lântch.",
+    syllables: ["I", " eat", " rice", " and", " beans", " for", " lunch."],
+    exampleSentence: "I eat rice and beans for lunch.",
+    exampleTranslation: "Eu como arroz e feijão no almoço."
+  },
+  {
+    id: 'lesson_5_21',
+    word: "I prefer to eat fish for dinner.",
+    translation: "Eu prefiro comer peixe no jantar.",
+    pronunciation: "/aɪ prɪˈfɜr tu it fɪʃ fɔr ˈdɪnər./",
+    portuguesePhonetic: "ai pri-fãr tchu ít fix for dín-ner.",
+    syllables: ["I", " pre", "fer", " to", " eat", " fish", " for", " din", "ner."],
+    exampleSentence: "I prefer to eat fish for dinner.",
+    exampleTranslation: "Eu prefiro comer peixe no jantar."
+  },
+  {
+    id: 'lesson_5_22',
+    word: "Do you eat fish?",
+    translation: "Você come peixe?",
+    pronunciation: "/du ju it fɪʃ?/",
+    portuguesePhonetic: "du iu ít fix?",
+    syllables: ["Do", " you", " eat", " fish?"],
+    exampleSentence: "Do you eat fish?",
+    exampleTranslation: "Você come peixe?"
+  },
+  {
+    id: 'lesson_5_23',
+    word: "Do you want to eat French fries?",
+    translation: "Você quer comer batatas fritas?",
+    pronunciation: "/du ju wɑnt tu it frɛntʃ fraɪz?/",
+    portuguesePhonetic: "du iu uánt tchu ít frentch frais?",
+    syllables: ["Do", " you", " want", " to", " eat", " French", " fries?"],
+    exampleSentence: "Do you want to eat French fries?",
+    exampleTranslation: "Você quer comer batatas fritas?"
+  },
+  {
+    id: 'lesson_5_24',
+    word: "Do you eat bread for breakfast?",
+    translation: "Você come pão no café da manhã?",
+    pronunciation: "/du ju it brɛd fɔr ˈbrɛkfəst?/",
+    portuguesePhonetic: "du iu ít bréd for bréc-fast?",
+    syllables: ["Do", " you", " eat", " bread", " for", " break", "fast?"],
+    exampleSentence: "Do you eat bread for breakfast?",
+    exampleTranslation: "Você come pão no café da manhã?"
+  },
+  {
+    id: 'lesson_5_25',
+    word: "What do you eat for dinner?",
+    translation: "O que você come no jantar?",
+    pronunciation: "/wʌt du ju it fɔr ˈdɪnər?/",
+    portuguesePhonetic: "uát du iu ít for dín-ner?",
+    syllables: ["What", " do", " you", " eat", " for", " din", "ner?"],
+    exampleSentence: "What do you eat for dinner?",
+    exampleTranslation: "O que você come no jantar?"
+  },
+  {
+    id: 'lesson_5_26',
+    word: "What do you want to drink?",
+    translation: "O que você quer beber?",
+    pronunciation: "/wʌt du ju wɑnt tu drɪŋk?/",
+    portuguesePhonetic: "uát du iu uánt tchu drínc?",
+    syllables: ["What", " do", " you", " want", " to", " drink?"],
+    exampleSentence: "What do you want to drink?",
+    exampleTranslation: "O que você quer beber?"
+  },
+  {
+    id: 'lesson_5_27',
+    word: "What do you like to eat?",
+    translation: "O que você gosta de comer?",
+    pronunciation: "/wʌt du ju laɪk tu it?/",
+    portuguesePhonetic: "uát du iu laic tchu ít?",
+    syllables: ["What", " do", " you", " like", " to", " eat?"],
+    exampleSentence: "What do you like to eat?",
+    exampleTranslation: "O que você gosta de comer?"
+  },
+  {
+    id: 'lesson_5_28',
+    word: "I prefer to drink a glass of water.",
+    translation: "Eu prefiro beber um copo de água.",
+    pronunciation: "/aɪ prɪˈfɜr tu drɪŋk ə ɡlæs ʌv ˈwɔtər./",
+    portuguesePhonetic: "ai pri-fãr tchu drínc a glés ov uó-ter.",
+    syllables: ["I", " pre", "fer", " to", " drink", " a", " glass", " of", " wa", "ter."],
+    exampleSentence: "I prefer to drink a glass of water.",
+    exampleTranslation: "Eu prefiro beber um copo de água."
+  },
+  {
+    id: 'lesson_5_29',
+    word: "I prefer to eat beef and vegetables.",
+    translation: "Eu prefiro comer carne e legumes.",
+    pronunciation: "/aɪ prɪˈfɜr tu it bif ænd ˈvɛdʒtəbəlz./",
+    portuguesePhonetic: "ai pri-fãr tchu ít bif énd védj-ta-bols.",
+    syllables: ["I", " pre", "fer", " to", " eat", " beef", " and", " veg", "e", "ta", "bles."],
+    exampleSentence: "I prefer to eat beef and vegetables.",
+    exampleTranslation: "Eu prefiro comer carne e legumes."
+  },
+  {
+    id: 'lesson_5_30',
+    word: "I prefer juice to soda.",
+    translation: "Eu prefiro suco a refrigerante.",
+    pronunciation: "/aɪ prɪˈfɜr dʒus tu ˈsoʊdə./",
+    portuguesePhonetic: "ai pri-fãr djus tchu sôu-da.",
+    syllables: ["I", " pre", "fer", " juice", " to", " so", "da."],
+    exampleSentence: "I prefer juice to soda.",
+    exampleTranslation: "Eu prefiro suco a refrigerante."
+  },
+  {
+    id: 'lesson_5_31',
+    word: "I love French fries.",
+    translation: "Eu adoro batatas fritas.",
+    pronunciation: "/aɪ lʌv frɛntʃ fraɪz./",
+    portuguesePhonetic: "ai lâv frentch frais.",
+    syllables: ["I", " love", " French", " fries."],
+    exampleSentence: "I love French fries.",
+    exampleTranslation: "Eu adoro batatas fritas."
+  },
+  {
+    id: 'lesson_5_32',
+    word: "I prefer to eat chicken and salad for lunch.",
+    translation: "Eu prefiro comer frango e salada no almoço.",
+    pronunciation: "/aɪ prɪˈfɜr tu it ˈtʃɪkən ænd ˈsæləd fɔr lʌntʃ./",
+    portuguesePhonetic: "ai pri-fãr tchu ít tchí-quen énd sé-lad for lântch.",
+    syllables: ["I", " pre", "fer", " to", " eat", " chick", "en", " and", " sal", "ad", " for", " lunch."],
+    exampleSentence: "I prefer to eat chicken and salad for lunch.",
+    exampleTranslation: "Eu prefiro comer frango e salada no almoço."
+  },
+  {
+    id: 'lesson_5_33',
+    word: "Do you like sausages and bacon?",
+    translation: "Você gosta de linguiça e bacon?",
+    pronunciation: "/du ju laɪk ˈsɔsɪdʒəz ænd ˈbeɪkən?/",
+    portuguesePhonetic: "du iu laic só-si-djez énd bêi-con?",
+    syllables: ["Do", " you", " like", " sau", "sa", "ges", " and", " ba", "con?"],
+    exampleSentence: "Do you like sausages and bacon?",
+    exampleTranslation: "Você gosta de linguiça e bacon?"
+  },
+  {
+    id: 'lesson_5_34',
+    word: "Do you want to drink juice?",
+    translation: "Você quer beber suco?",
+    pronunciation: "/du ju wɑnt tu drɪŋk dʒus?/",
+    portuguesePhonetic: "du iu uánt tchu drínc djus?",
+    syllables: ["Do", " you", " want", " to", " drink", " juice?"],
+    exampleSentence: "Do you want to drink juice?",
+    exampleTranslation: "Você quer beber suco?"
+  },
+  {
+    id: 'lesson_5_35',
+    word: "Do you want to eat fish or beef for dinner?",
+    translation: "Você quer comer peixe ou carne no jantar?",
+    pronunciation: "/du ju wɑnt tu eat fɪʃ ɔr bif fɔr ˈdɪnər?/",
+    portuguesePhonetic: "du iu uánt tchu ít fix or bif for dín-ner?",
+    syllables: ["Do", " you", " want", " to", " eat", " fish", " or", " beef", " for", " din", "ner?"],
+    exampleSentence: "Do you want to eat fish or beef for dinner.",
+    exampleTranslation: "Você quer comer peixe ou carne no jantar."
+  },
+  {
+    id: 'lesson_5_36',
+    word: "What do you like?",
+    translation: "Do que você gosta?",
+    pronunciation: "/wʌt du ju laɪk?/",
+    portuguesePhonetic: "uát du iu laic?",
+    syllables: ["What", " do", " you", " like?"],
+    exampleSentence: "What do you like?",
+    exampleTranslation: "Do que você gosta?"
+  },
+  {
+    id: 'lesson_5_37',
+    word: "What do you want to eat?",
+    translation: "O que você quer comer?",
+    pronunciation: "/wʌt du ju wɑnt tu it?/",
+    portuguesePhonetic: "uát du iu uánt tchu ít?",
+    syllables: ["What", " do", " you", " want", " to", " eat?"],
+    exampleSentence: "What do you want to eat?",
+    exampleTranslation: "O que você quer comer?"
+  },
+  {
+    id: 'lesson_5_38',
+    word: "Do you eat beef?",
+    translation: "Você come carne?",
+    pronunciation: "/du ju it bif?/",
+    portuguesePhonetic: "du iu ít bif?",
+    syllables: ["Do", " you", " eat", " beef?"],
+    exampleSentence: "Do you eat beef?",
+    exampleTranslation: "Você come carne?"
+  },
+  {
+    id: 'lesson_5_39',
+    word: "Yes, I do.",
+    translation: "Sim, eu como.",
+    pronunciation: "/jɛs, aɪ du./",
+    portuguesePhonetic: "iés, ai du.",
+    syllables: ["Yes,", " I", " do."],
+    exampleSentence: "Yes, I do.",
+    exampleTranslation: "Sim, eu como."
+  },
+  {
+    id: 'lesson_5_40',
+    word: "Do you drink soda?",
+    translation: "Você bebe refrigerante?",
+    pronunciation: "/du ju drɪŋk ˈsoʊdə?/",
+    portuguesePhonetic: "du iu drínc sôu-da?",
+    syllables: ["Do", " you", " drink", " so", "da?"],
+    exampleSentence: "Do you drink soda?",
+    exampleTranslation: "Você bebe refrigerante?"
+  },
+  {
+    id: 'lesson_5_41',
+    word: "No, I don't.",
+    translation: "Não, eu não bebo.",
+    pronunciation: "/noʊ, aɪ doʊnt./",
+    portuguesePhonetic: "nôu, ai dôunt.",
+    syllables: ["No,", " I", " don't."],
+    exampleSentence: "No, I don't.",
+    exampleTranslation: "Não, eu não bebo."
+  },
+  {
+    id: 'lesson_5_42',
+    word: "What do you eat...?",
+    translation: "O que você come...?",
+    pronunciation: "/wʌt du ju it...?/",
+    portuguesePhonetic: "uát du iu ít...",
+    syllables: ["What", " do", " you", " eat...?"],
+    exampleSentence: "What do you eat...?",
+    exampleTranslation: "O que você come...?"
+  },
+  {
+    id: 'lesson_5_43',
+    word: "What do you want to...?",
+    translation: "O que você quer...?",
+    pronunciation: "/wʌt du ju wɑnt tu.../",
+    portuguesePhonetic: "uát du iu uánt tchu...",
+    syllables: ["What", " do", " you", " want", " to...?"],
+    exampleSentence: "What do you want to...?",
+    exampleTranslation: "O que você quer...?"
+  },
+  {
+    id: 'lesson_5_44',
+    word: "What do you like to drink?",
+    translation: "O que você gosta de beber?",
+    pronunciation: "/wʌt du ju laɪk tu drɪŋk?/",
+    portuguesePhonetic: "uát du iu laic tchu drínc?",
+    syllables: ["What", " do", " you", " like", " to", " drink?"],
+    exampleSentence: "What do you like to drink?",
+    exampleTranslation: "O que você gosta de beber?"
+  },
+  {
+    id: 'lesson_5_45',
+    word: "vegetable → vegetables",
+    translation: "legume → legumes",
+    pronunciation: "/ˈvɛdʒtəbəl → ˈvɛdʒtəbəlz/",
+    portuguesePhonetic: "védj-ta-bol → védj-ta-bols",
+    syllables: ["veg", "e", "ta", "ble", " →", " veg", "e", "ta", "bles"],
+    exampleSentence: "vegetable → vegetables",
+    exampleTranslation: "legume → legumes"
+  },
+  {
+    id: 'lesson_5_46',
+    word: "tomato → tomatoes",
+    translation: "tomate → tomates",
+    pronunciation: "/təˈmeɪtoʊ → təˈmeɪtoʊz/",
+    portuguesePhonetic: "tchu-mêi-tou → tchu-mêi-tous",
+    syllables: ["to", "ma", "to", " →", " to", "ma", "toes"],
+    exampleSentence: "tomato → tomatoes",
+    exampleTranslation: "tomate → tomates"
+  },
+  {
+    id: 'lesson_5_47',
+    word: "sandwich → sandwiches",
+    translation: "sanduíche → sanduíches",
+    pronunciation: "/ˈsændwɪtʃ → ˈsændwɪtʃəz/",
+    portuguesePhonetic: "sénd-uitch → sénd-ui-tchez",
+    syllables: ["sand", "wich", " →", " sand", "wich", "es"],
+    exampleSentence: "sandwich → sandwiches",
+    exampleTranslation: "sanduíche → sanduíches"
+  },
+  {
+    id: 'lesson_5_48',
+    word: "French fries = fries",
+    translation: "batatas fritas = fritas (forma abreviada)",
+    pronunciation: "/frɛntʃ fraɪz ˈequal; fraɪz/",
+    portuguesePhonetic: "frentch frais i-cual frais",
+    syllables: ["French", " fries", " =", " fries"],
+    exampleSentence: "French fries = fries",
+    exampleTranslation: "batatas fritas = fritas (forma abreviada)"
+  },
+  {
+    id: 'lesson_5_49',
+    word: "a glass of water",
+    translation: "um copo de água",
+    pronunciation: "/ə ɡlæs ʌv ˈwɔtər/",
+    portuguesePhonetic: "a glés ov uó-ter",
+    syllables: ["a", " glass", " of", " wa", "ter"],
+    exampleSentence: "a glass of water",
+    exampleTranslation: "um copo de água"
+  },
+  {
+    id: 'lesson_5_50',
+    word: "a cup of tea",
+    translation: "uma xícara de chá",
+    pronunciation: "/ə kʌp ʌv ti/",
+    portuguesePhonetic: "a câp ov tchi",
+    syllables: ["a", " cup", " of", " tea"],
+    exampleSentence: "a cup of tea",
+    exampleTranslation: "uma xícara de chá"
+  },
+  {
+    id: 'lesson_5_51',
+    word: "for lunch",
+    translation: "no almoço",
+    pronunciation: "/fɔr lʌntʃ/",
+    portuguesePhonetic: "for lântch",
+    syllables: ["for", " lunch"],
+    exampleSentence: "for lunch",
+    exampleTranslation: "no almoço"
+  },
+  {
+    id: 'lesson_5_52',
+    word: "for dinner",
+    translation: "no jantar",
+    pronunciation: "/fɔr ˈdɪnər/",
+    portuguesePhonetic: "for dín-ner",
+    syllables: ["for", " din", "ner"],
+    exampleSentence: "for dinner",
+    exampleTranslation: "no jantar"
+  },
+  {
+    id: 'lesson_5_53',
+    word: "for breakfast",
+    translation: "no café da manhã",
+    pronunciation: "/fɔr ˈbrɛkfəst/",
+    portuguesePhonetic: "for bréc-fast",
+    syllables: ["for", " break", "fast"],
+    exampleSentence: "for breakfast",
+    exampleTranslation: "no café da manhã"
+  },
+  {
+    id: 'lesson_5_54',
+    word: "juice or soda",
+    translation: "suco ou refrigerante",
+    pronunciation: "/dʒus ɔr ˈsoʊdə/",
+    portuguesePhonetic: "djus or sôu-da",
+    syllables: ["juice", " or", " so", "da"],
+    exampleSentence: "juice or soda",
+    exampleTranslation: "suco ou refrigerante"
+  },
+  {
+    id: 'lesson_5_55',
+    word: "fish or beef",
+    translation: "peixe ou carne bovina",
+    pronunciation: "/fɪʃ ɔr bif/",
+    portuguesePhonetic: "fix or bif",
+    syllables: ["fish", " or", " beef"],
+    exampleSentence: "fish or beef",
+    exampleTranslation: "peixe ou carne bovina"
+  }
+];
+
+
+
+export const LESSON_7_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_7_1',
+    word: "to speak",
+    translation: "falar",
+    pronunciation: "/tu spik/",
+    portuguesePhonetic: "tchu spíc",
+    syllables: ["to", " speak"],
+    exampleSentence: "to speak",
+    exampleTranslation: "falar"
+  },
+  {
+    id: 'lesson_7_2',
+    word: "to study",
+    translation: "estudar",
+    pronunciation: "/tu ˈstʌdi/",
+    portuguesePhonetic: "tchu stâ-di",
+    syllables: ["to", " stud", "y"],
+    exampleSentence: "to study",
+    exampleTranslation: "estudar"
+  },
+  {
+    id: 'lesson_7_3',
+    word: "Portuguese",
+    translation: "português",
+    pronunciation: "/ˌpɔrtʃuˈɡiz/",
+    portuguesePhonetic: "pôr-tchu-guis",
+    syllables: ["Por", "tu", "guese"],
+    exampleSentence: "Portuguese",
+    exampleTranslation: "português"
+  },
+  {
+    id: 'lesson_7_4',
+    word: "English",
+    translation: "inglês",
+    pronunciation: "/ˈɪŋɡlɪʃ/",
+    portuguesePhonetic: "ín-glix",
+    syllables: ["Eng", "lish"],
+    exampleSentence: "English",
+    exampleTranslation: "inglês"
+  },
+  {
+    id: 'lesson_7_5',
+    word: "French",
+    translation: "francês",
+    pronunciation: "/frɛntʃ/",
+    portuguesePhonetic: "frentch",
+    syllables: ["French"],
+    exampleSentence: "French",
+    exampleTranslation: "francês"
+  },
+  {
+    id: 'lesson_7_6',
+    word: "Spanish",
+    translation: "espanhol",
+    pronunciation: "/ˈspænɪʃ/",
+    portuguesePhonetic: "spé-nix",
+    syllables: ["Span", "ish"],
+    exampleSentence: "Spanish",
+    exampleTranslation: "espanhol"
+  },
+  {
+    id: 'lesson_7_7',
+    word: "Italian",
+    translation: "italiano",
+    pronunciation: "/ɪˈtæljən/",
+    portuguesePhonetic: "i-té-li-an",
+    syllables: ["I", "tal", "ian"],
+    exampleSentence: "Italian",
+    exampleTranslation: "italiano"
+  },
+  {
+    id: 'lesson_7_8',
+    word: "German",
+    translation: "alemão",
+    pronunciation: "/ˈdʒɜrmən/",
+    portuguesePhonetic: "djãr-man",
+    syllables: ["Ger", "man"],
+    exampleSentence: "German",
+    exampleTranslation: "alemão"
+  },
+  {
+    id: 'lesson_7_9',
+    word: "friend",
+    translation: "amigo(a)",
+    pronunciation: "/frɛnd/",
+    portuguesePhonetic: "frend",
+    syllables: ["friend"],
+    exampleSentence: "friend",
+    exampleTranslation: "amigo(a)"
+  },
+  {
+    id: 'lesson_7_10',
+    word: "teacher",
+    translation: "professor(a)",
+    pronunciation: "/ˈtitʃər/",
+    portuguesePhonetic: "tchí-tcher",
+    syllables: ["teach", "er"],
+    exampleSentence: "teacher",
+    exampleTranslation: "professor(a)"
+  },
+  {
+    id: 'lesson_7_11',
+    word: "my",
+    translation: "meu(s), minha(s)",
+    pronunciation: "/maɪ/",
+    portuguesePhonetic: "mai",
+    syllables: ["my"],
+    exampleSentence: "my",
+    exampleTranslation: "meu(s), minha(s)"
+  },
+  {
+    id: 'lesson_7_12',
+    word: "your",
+    translation: "seu(s), sua(s)",
+    pronunciation: "/jɔr/",
+    portuguesePhonetic: "iór",
+    syllables: ["your"],
+    exampleSentence: "your",
+    exampleTranslation: "seu(s), sua(s)"
+  },
+  {
+    id: 'lesson_7_13',
+    word: "we",
+    translation: "nós",
+    pronunciation: "/wi/",
+    portuguesePhonetic: "ui",
+    syllables: ["we"],
+    exampleSentence: "we",
+    exampleTranslation: "nós"
+  },
+  {
+    id: 'lesson_7_14',
+    word: "they",
+    translation: "eles, elas",
+    pronunciation: "/ðeɪ/",
+    portuguesePhonetic: "dêi",
+    syllables: ["they"],
+    exampleSentence: "they",
+    exampleTranslation: "eles, elas"
+  },
+  {
+    id: 'lesson_7_15',
+    word: "here",
+    translation: "aqui",
+    pronunciation: "/hɪr/",
+    portuguesePhonetic: "rír",
+    syllables: ["here"],
+    exampleSentence: "here",
+    exampleTranslation: "aqui"
+  },
+  {
+    id: 'lesson_7_16',
+    word: "there",
+    translation: "lá",
+    pronunciation: "/ðɛr/",
+    portuguesePhonetic: "dér",
+    syllables: ["there"],
+    exampleSentence: "there",
+    exampleTranslation: "lá"
+  },
+  {
+    id: 'lesson_7_17',
+    word: "too",
+    translation: "também",
+    pronunciation: "/tu/",
+    portuguesePhonetic: "tchu",
+    syllables: ["too"],
+    exampleSentence: "too",
+    exampleTranslation: "também"
+  },
+  {
+    id: 'lesson_7_18',
+    word: "with",
+    translation: "com",
+    pronunciation: "/wɪð/",
+    portuguesePhonetic: "uid",
+    syllables: ["with"],
+    exampleSentence: "with",
+    exampleTranslation: "com"
+  },
+  {
+    id: 'lesson_7_19',
+    word: "I drink coffee in the morning.",
+    translation: "Eu bebo café de manhã.",
+    pronunciation: "/aɪ drɪŋk ˈkɔfi ɪn ðə ˈmɔrnɪŋ./",
+    portuguesePhonetic: "ai drínc có-fi in dâ môr-ning.",
+    syllables: ["I", " drink", " cof", "fee", " in", " the", " morn", "ing."],
+    exampleSentence: "I drink coffee in the morning.",
+    exampleTranslation: "Eu bebo café de manhã."
+  },
+  {
+    id: 'lesson_7_20',
+    word: "You study English in the afternoon.",
+    translation: "Você estuda inglês à tarde.",
+    pronunciation: "/ju ˈstʌdi ˈɪŋɡlɪʃ ɪn ði ˌæftərˈnun./",
+    portuguesePhonetic: "iu stâ-di ín-glix in di éf-ter-nun.",
+    syllables: ["You", " stud", "y", " Eng", "lish", " in", " the", " af", "ter", "noon."],
+    exampleSentence: "You study English in the afternoon.",
+    exampleTranslation: "Você estuda inglês à tarde."
+  },
+  {
+    id: 'lesson_7_21',
+    word: "I study English at school.",
+    translation: "Eu estudo inglês na escola.",
+    pronunciation: "/aɪ ˈstʌdi ˈɪŋɡlɪʃ æt skul./",
+    portuguesePhonetic: "ai stâ-di ín-glix ét scul.",
+    syllables: ["I", " stud", "y", " Eng", "lish", " at", " school."],
+    exampleSentence: "I study English at school.",
+    exampleTranslation: "Eu estudo inglês na escola."
+  },
+  {
+    id: 'lesson_7_22',
+    word: "Do you want to study with me?",
+    translation: "Você quer estudar comigo?",
+    pronunciation: "/du ju wɑnt tu ˈstʌdi wɪð mi?/",
+    portuguesePhonetic: "du iu uánt tchu stâ-di uid mi?",
+    syllables: ["Do", " you", " want", " to", " stud", "y", " with", " me?"],
+    exampleSentence: "Do you want to study with me?",
+    exampleTranslation: "Você quer estudar comigo?"
+  },
+  {
+    id: 'lesson_7_23',
+    word: "We speak Italian at school.",
+    translation: "Nós falamos italiano na escola.",
+    pronunciation: "/wi spik ɪˈtæljən æt skul./",
+    portuguesePhonetic: "ui spíc i-té-li-an ét scul.",
+    syllables: ["We", " speak", " I", "tal", "ian", " at", " school."],
+    exampleSentence: "We speak Italian at school.",
+    exampleTranslation: "Nós falamos italiano na escola."
+  },
+  {
+    id: 'lesson_7_24',
+    word: "We study Spanish here, too.",
+    translation: "Nós estudamos espanhol aqui também.",
+    pronunciation: "/wi ˈstʌdi ˈspænɪʃ hɪr, tu./",
+    portuguesePhonetic: "ui stâ-di spé-nix rír, tchu.",
+    syllables: ["We", " stud", "y", " Span", "ish", " here,", " too."],
+    exampleSentence: "We study Spanish here, too.",
+    exampleTranslation: "Nós estudamos espanhol aqui também."
+  },
+  {
+    id: 'lesson_7_25',
+    word: "They study French there.",
+    translation: "Eles estudam francês lá.",
+    pronunciation: "/ðeɪ ˈstʌdi frɛntʃ ðɛr./",
+    portuguesePhonetic: "dêi stâ-di frentch dér.",
+    syllables: ["They", " stud", "y", " French", " there."],
+    exampleSentence: "They study French there.",
+    exampleTranslation: "Eles estudam francês lá."
+  },
+  {
+    id: 'lesson_7_26',
+    word: "They want to study here.",
+    translation: "Eles querem estudar aqui.",
+    pronunciation: "/ðeɪ wɑnt tu ˈstʌdi hɪr./",
+    portuguesePhonetic: "dêi uánt tchu stâ-di rír.",
+    syllables: ["They", " want", " to", " stud", "y", " here."],
+    exampleSentence: "They want to study here.",
+    exampleTranslation: "Eles querem estudar aqui."
+  },
+  {
+    id: 'lesson_7_27',
+    word: "We want to speak English.",
+    translation: "Nós queremos falar inglês.",
+    pronunciation: "/wi wɑnt tu spik ˈɪŋɡlɪʃ./",
+    portuguesePhonetic: "ui uánt tchu spíc ín-glix.",
+    syllables: ["We", " want", " to", " speak", " Eng", "lish."],
+    exampleSentence: "We want to speak English.",
+    exampleTranslation: "Nós queremos falar inglês."
+  },
+  {
+    id: 'lesson_7_28',
+    word: "They want to study German.",
+    translation: "Eles querem estudar alemão.",
+    pronunciation: "/ðeɪ wɑnt tu ˈstʌdi ˈdʒɜrmən./",
+    portuguesePhonetic: "dêi uánt tchu stâ-di djãr-man.",
+    syllables: ["They", " want", " to", " stud", "y", " Ger", "man."],
+    exampleSentence: "They want to study German.",
+    exampleTranslation: "Eles querem estudar alemão."
+  },
+  {
+    id: 'lesson_7_29',
+    word: "I like to speak English with my friends.",
+    translation: "Eu gosto de falar inglês com meus amigos.",
+    pronunciation: "/aɪ laɪk tu spik ˈɪŋɡlɪʃ wɪð maɪ frɛndz./",
+    portuguesePhonetic: "ai laic tchu spíc ín-glix uid mai frends.",
+    syllables: ["I", " like", " to", " speak", " Eng", "lish", " with", " my", " friends."],
+    exampleSentence: "I like to speak English with my friends.",
+    exampleTranslation: "Eu gosto de falar inglês com meus amigos."
+  },
+  {
+    id: 'lesson_7_30',
+    word: "They speak Spanish at school.",
+    translation: "Eles falam espanhol na escola.",
+    pronunciation: "/ðeɪ spik ˈspænɪʃ æt skul./",
+    portuguesePhonetic: "dêi spíc spé-nix ét scul.",
+    syllables: ["They", " speak", " Span", "ish", " at", " school."],
+    exampleSentence: "They speak Spanish at school.",
+    exampleTranslation: "Eles falam espanhol na escola."
+  },
+  {
+    id: 'lesson_7_31',
+    word: "They like to study Portuguese.",
+    translation: "Eles gostam de estudar português.",
+    pronunciation: "/ðeɪ laɪk tu ˈstʌdi ˌpɔrtʃuˈɡiz./",
+    portuguesePhonetic: "dêi laic tchu stâ-di pôr-tchu-guis.",
+    syllables: ["They", " like", " to", " stud", "y", " Por", "tu", "guese."],
+    exampleSentence: "They like to study Portuguese.",
+    exampleTranslation: "Eles gostam de estudar português."
+  },
+  {
+    id: 'lesson_7_32',
+    word: "We want to study Italian, too.",
+    translation: "Nós queremos estudar italiano também.",
+    pronunciation: "/wi wɑnt tu ˈstʌdi ɪˈtæljən, tu./",
+    portuguesePhonetic: "ui uánt tchu stâ-di i-té-li-an, tchu.",
+    syllables: ["We", " want", " to", " stud", "y", " I", "tal", "ian,", " too."],
+    exampleSentence: "We want to study Italian, too.",
+    exampleTranslation: "Nós queremos estudar italiano também."
+  },
+  {
+    id: 'lesson_7_33',
+    word: "Do you study here or there?",
+    translation: "Você estuda aqui ou lá?",
+    pronunciation: "/du ju ˈstʌdi hɪr ɔr ðɛr?/",
+    portuguesePhonetic: "du iu stâ-di rír or dér?",
+    syllables: ["Do", " you", " stud", "y", " here", " or", " there?"],
+    exampleSentence: "Do you study here or there?",
+    exampleTranslation: "Você estuda aqui ou lá?"
+  },
+  {
+    id: 'lesson_7_34',
+    word: "Do you want to study with me?",
+    translation: "Você quer estudar comigo?",
+    pronunciation: "/du ju wɑnt tu ˈstʌdi wɪð mi?/",
+    portuguesePhonetic: "du iu uánt tchu stâ-di uid mi?",
+    syllables: ["Do", " you", " want", " to", " stud", "y", " with", " me?"],
+    exampleSentence: "Do you want to study with me?",
+    exampleTranslation: "Você quer estudar comigo?"
+  },
+  {
+    id: 'lesson_7_35',
+    word: "Do you speak German with your teacher?",
+    translation: "Você fala alemão com seu professor?",
+    pronunciation: "/du ju spik ˈdʒɜrmən wɪð jɔr ˈtitʃər?/",
+    portuguesePhonetic: "du iu spíc djãr-man uid iór tchí-tcher?",
+    syllables: ["Do", " you", " speak", " Ger", "man", " with", " your", " teach", "er?"],
+    exampleSentence: "Do you speak German with your teacher?",
+    exampleTranslation: "Você fala alemão com seu professor?"
+  },
+  {
+    id: 'lesson_7_36',
+    word: "I speak Italian with my friend.",
+    translation: "Eu falo italiano com meu amigo.",
+    pronunciation: "/aɪ spik ɪˈtæljən wɪð maɪ frɛnd./",
+    portuguesePhonetic: "ai spíc i-té-li-an uid mai frend.",
+    syllables: ["I", " speak", " I", "tal", "ian", " with", " my", " friend."],
+    exampleSentence: "I speak Italian with my friend.",
+    exampleTranslation: "Eu falo italiano com meu amigo."
+  },
+  {
+    id: 'lesson_7_37',
+    word: "We want to study in the morning.",
+    translation: "Nós queremos estudar de manhã.",
+    pronunciation: "/wi wɑnt tu ˈstʌdi ɪn ðə ˈmɔrnɪŋ./",
+    portuguesePhonetic: "ui uánt tchu stâ-di in dâ môr-ning.",
+    syllables: ["We", " want", " to", " stud", "y", " in", " the", " morn", "ing."],
+    exampleSentence: "We want to study in the morning.",
+    exampleTranslation: "Nós queremos estudar de manhã."
+  },
+  {
+    id: 'lesson_7_38',
+    word: "Do you want to study in the afternoon?",
+    translation: "Você quer estudar à tarde?",
+    pronunciation: "/du ju wɑnt tu ˈstʌdi ɪn ðə ˌæftərˈnun?/",
+    portuguesePhonetic: "du iu uánt tchu stâ-di in dâ éf-ter-nun?",
+    syllables: ["Do", " you", " want", " to", " stud", "y", " in", " the", " af", "ter", "noon?"],
+    exampleSentence: "Do you want to study in the afternoon?",
+    exampleTranslation: "Você quer estudar à tarde?"
+  },
+  {
+    id: 'lesson_7_39',
+    word: "How do you spell your name?",
+    translation: "Como se soletra o seu nome?",
+    pronunciation: "/haʊ du ju spɛl jɔr neɪm?/",
+    portuguesePhonetic: "ráu du iu spel iór neim?",
+    syllables: ["How", " do", " you", " spell", " your", " name?"],
+    exampleSentence: "How do you spell your name?",
+    exampleTranslation: "Como se soletra o seu nome?"
+  },
+  {
+    id: 'lesson_7_40',
+    word: "with me",
+    translation: "comigo",
+    pronunciation: "/wɪð mi/",
+    portuguesePhonetic: "uid mi",
+    syllables: ["with", " me"],
+    exampleSentence: "with me",
+    exampleTranslation: "comigo"
+  },
+  {
+    id: 'lesson_7_41',
+    word: "with you",
+    translation: "com você",
+    pronunciation: "/wɪð ju/",
+    portuguesePhonetic: "uid iu",
+    syllables: ["with", " you"],
+    exampleSentence: "with you",
+    exampleTranslation: "com você"
+  },
+  {
+    id: 'lesson_7_42',
+    word: "in the morning",
+    translation: "de manhã",
+    pronunciation: "/ɪn ðə ˈmɔrnɪŋ/",
+    portuguesePhonetic: "in dâ môr-ning",
+    syllables: ["in", " the", " morn", "ing"],
+    exampleSentence: "in the morning",
+    exampleTranslation: "de manhã"
+  },
+  {
+    id: 'lesson_7_43',
+    word: "in the afternoon",
+    translation: "à tarde",
+    pronunciation: "/ɪn ðə ˌæftərˈnun/",
+    portuguesePhonetic: "in dâ éf-ter-nun",
+    syllables: ["in", " the", " af", "ter", "noon"],
+    exampleSentence: "in the afternoon",
+    exampleTranslation: "à tarde"
+  },
+  {
+    id: 'lesson_7_44',
+    word: "at school",
+    translation: "na escola",
+    pronunciation: "/æt skul/",
+    portuguesePhonetic: "ét scul",
+    syllables: ["at", " school"],
+    exampleSentence: "at school",
+    exampleTranslation: "na escola"
+  },
+  {
+    id: 'lesson_7_45',
+    word: "with my friends",
+    translation: "com meus amigos",
+    pronunciation: "/wɪð maɪ frɛndz/",
+    portuguesePhonetic: "uid mai frends",
+    syllables: ["with", " my", " friends"],
+    exampleSentence: "with my friends",
+    exampleTranslation: "com meus amigos"
+  },
+  {
+    id: 'lesson_7_46',
+    word: "with your teacher",
+    translation: "com seu professor",
+    pronunciation: "/wɪð jɔr ˈtitʃər/",
+    portuguesePhonetic: "uid iór tchí-tcher",
+    syllables: ["with", " your", " teach", "er"],
+    exampleSentence: "with your teacher",
+    exampleTranslation: "com seu professor"
+  },
+  {
+    id: 'lesson_7_47',
+    word: "speak English",
+    translation: "falar inglês",
+    pronunciation: "/spik ˈɪŋɡlɪʃ/",
+    portuguesePhonetic: "spíc ín-glix",
+    syllables: ["speak", " Eng", "lish"],
+    exampleSentence: "speak English",
+    exampleTranslation: "falar inglês"
+  },
+  {
+    id: 'lesson_7_48',
+    word: "study Portuguese",
+    translation: "estudar português",
+    pronunciation: "/ˈstʌdi ˌpɔrtʃuˈɡiz/",
+    portuguesePhonetic: "stâ-di pôr-tchu-guis",
+    syllables: ["stud", "y", " Por", "tu", "guese"],
+    exampleSentence: "study Portuguese",
+    exampleTranslation: "estudar português"
+  },
+  {
+    id: 'lesson_7_49',
+    word: "study German",
+    translation: "estudar alemão",
+    pronunciation: "/ˈstʌdi ˈdʒɜrmən/",
+    portuguesePhonetic: "stâ-di djãr-man",
+    syllables: ["stud", "y", " Ger", "man"],
+    exampleSentence: "study German",
+    exampleTranslation: "estudar alemão"
+  },
+  {
+    id: 'lesson_7_50',
+    word: "study Spanish",
+    translation: "estudar espanhol",
+    pronunciation: "/ˈstʌdi ˈspænɪʃ/",
+    portuguesePhonetic: "stâ-di spé-nix",
+    syllables: ["stud", "y", " Span", "ish"],
+    exampleSentence: "study Spanish",
+    exampleTranslation: "estudar espanhol"
+  },
+  {
+    id: 'lesson_7_51',
+    word: "study French",
+    translation: "estudar francês",
+    pronunciation: "/ˈstʌdi frɛntʃ/",
+    portuguesePhonetic: "stâ-di frentch",
+    syllables: ["stud", "y", " French"],
+    exampleSentence: "study French",
+    exampleTranslation: "estudar francês"
+  },
+  {
+    id: 'lesson_7_52',
+    word: "study Italian",
+    translation: "estudar italiano",
+    pronunciation: "/ˈstʌdi ɪˈtæljən/",
+    portuguesePhonetic: "stâ-di i-té-li-an",
+    syllables: ["stud", "y", " I", "tal", "ian"],
+    exampleSentence: "study Italian",
+    exampleTranslation: "estudar italiano"
+  }
+];
+
+export const LESSON_9_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_9_1',
+    word: "to live",
+    translation: "morar, viver",
+    pronunciation: "/tu lɪv/",
+    portuguesePhonetic: "tchu liv",
+    syllables: ["to", " live"],
+    exampleSentence: "to live",
+    exampleTranslation: "morar, viver"
+  },
+  {
+    id: 'lesson_9_2',
+    word: "to understand",
+    translation: "entender",
+    pronunciation: "/tu ˌʌndərˈstænd/",
+    portuguesePhonetic: "tchu ân-der-sténd",
+    syllables: ["to", " un", "der", "stand"],
+    exampleSentence: "to understand",
+    exampleTranslation: "entender"
+  },
+  {
+    id: 'lesson_9_3',
+    word: "classmate",
+    translation: "colega de classe",
+    pronunciation: "/ˈklæsˌmeɪt/",
+    portuguesePhonetic: "clés-meit",
+    syllables: ["class", "mate"],
+    exampleSentence: "classmate",
+    exampleTranslation: "colega de classe"
+  },
+  {
+    id: 'lesson_9_4',
+    word: "language",
+    translation: "língua, idioma",
+    pronunciation: "/ˈlæŋɡwɪdʒ/",
+    portuguesePhonetic: "lén-guidj",
+    syllables: ["lan", "guage"],
+    exampleSentence: "language",
+    exampleTranslation: "língua, idioma"
+  },
+  {
+    id: 'lesson_9_5',
+    word: "word",
+    translation: "palavra",
+    pronunciation: "/wɜrd/",
+    portuguesePhonetic: "uãrd",
+    syllables: ["word"],
+    exampleSentence: "word",
+    exampleTranslation: "palavra"
+  },
+  {
+    id: 'lesson_9_6',
+    word: "city",
+    translation: "cidade",
+    pronunciation: "/ˈsɪti/",
+    portuguesePhonetic: "sí-ti",
+    syllables: ["ci", "ty"],
+    exampleSentence: "city",
+    exampleTranslation: "cidade"
+  },
+  {
+    id: 'lesson_9_7',
+    word: "country",
+    translation: "país",
+    pronunciation: "/ˈkʌntri/",
+    portuguesePhonetic: "cân-tri",
+    syllables: ["coun", "try"],
+    exampleSentence: "country",
+    exampleTranslation: "país"
+  },
+  {
+    id: 'lesson_9_8',
+    word: "Brazil",
+    translation: "Brasil",
+    pronunciation: "/brəˈzɪl/",
+    portuguesePhonetic: "bra-zíl",
+    syllables: ["Bra", "zil"],
+    exampleSentence: "Brazil",
+    exampleTranslation: "Brasil"
+  },
+  {
+    id: 'lesson_9_9',
+    word: "Spain",
+    translation: "Espanha",
+    pronunciation: "/speɪn/",
+    portuguesePhonetic: "spein",
+    syllables: ["Spain"],
+    exampleSentence: "Spain",
+    exampleTranslation: "Espanha"
+  },
+  {
+    id: 'lesson_9_10',
+    word: "Germany",
+    translation: "Alemanha",
+    pronunciation: "/ˈdʒɜrməni/",
+    portuguesePhonetic: "djãr-ma-ni",
+    syllables: ["Ger", "ma", "ny"],
+    exampleSentence: "Germany",
+    exampleTranslation: "Alemanha"
+  },
+  {
+    id: 'lesson_9_11',
+    word: "Italy",
+    translation: "Itália",
+    pronunciation: "/ˈɪtəli/",
+    portuguesePhonetic: "í-ta-li",
+    syllables: ["It", "a", "ly"],
+    exampleSentence: "Italy",
+    exampleTranslation: "Itália"
+  },
+  {
+    id: 'lesson_9_12',
+    word: "the United States of America (U.S.A.)",
+    translation: "Estados Unidos da América (EUA)",
+    pronunciation: "/ði juˈnaɪtəd steɪts ʌv əˈmɛrɪkə/",
+    portuguesePhonetic: "di iu-nái-ted steits ov a-mé-ri-ca",
+    syllables: ["the", " U", "ni", "ted", " States", " of", " A", "mer", "i", "ca"],
+    exampleSentence: "the United States of America (U.S.A.)",
+    exampleTranslation: "Estados Unidos da América (EUA)"
+  },
+  {
+    id: 'lesson_9_13',
+    word: "alone",
+    translation: "sozinho(a)",
+    pronunciation: "/əˈloʊn/",
+    portuguesePhonetic: "a-lôun",
+    syllables: ["a", "lone"],
+    exampleSentence: "alone",
+    exampleTranslation: "sozinho(a)"
+  },
+  {
+    id: 'lesson_9_14',
+    word: "where",
+    translation: "onde, aonde",
+    pronunciation: "/wɛr/",
+    portuguesePhonetic: "uér",
+    syllables: ["where"],
+    exampleSentence: "where",
+    exampleTranslation: "onde, aonde"
+  },
+  {
+    id: 'lesson_9_15',
+    word: "abroad",
+    translation: "exterior (fora do país)",
+    pronunciation: "/əˈbrɔd/",
+    portuguesePhonetic: "a-bród",
+    syllables: ["a", "broad"],
+    exampleSentence: "abroad",
+    exampleTranslation: "exterior (fora do país)"
+  },
+  {
+    id: 'lesson_9_16',
+    word: "this",
+    translation: "este, esta, esse, essa",
+    pronunciation: "/ðɪs/",
+    portuguesePhonetic: "dis",
+    syllables: ["this"],
+    exampleSentence: "this",
+    exampleTranslation: "este, esta, esse, essa"
+  },
+  {
+    id: 'lesson_9_17',
+    word: "that",
+    translation: "aquele, aquela",
+    pronunciation: "/ðæt/",
+    portuguesePhonetic: "dét",
+    syllables: ["that"],
+    exampleSentence: "that",
+    exampleTranslation: "aquele, aquela"
+  },
+  {
+    id: 'lesson_9_18',
+    word: "in",
+    translation: "em, no, na",
+    pronunciation: "/ɪn/",
+    portuguesePhonetic: "in",
+    syllables: ["in"],
+    exampleSentence: "in",
+    exampleTranslation: "em, no, na"
+  },
+  {
+    id: 'lesson_9_19',
+    word: "I understand that word in English.",
+    translation: "Eu entendo aquela palavra em inglês.",
+    pronunciation: "/aɪ ˌʌndərˈstænd ðæt wɜrd ɪn ˈɪŋɡlɪʃ./",
+    portuguesePhonetic: "ai ân-der-sténd dét uãrd in ín-glix.",
+    syllables: ["I", " un", "der", "stand", " that", " word", " in", " Eng", "lish."],
+    exampleSentence: "I understand that word in English.",
+    exampleTranslation: "Eu entendo aquela palavra em inglês."
+  },
+  {
+    id: 'lesson_9_20',
+    word: "I live here, what about you?",
+    translation: "Eu moro aqui, e você?",
+    pronunciation: "/aɪ lɪv hɪr, wʌt əˈbaʊt ju?/",
+    portuguesePhonetic: "ai liv rír, uát a-báut iu?",
+    syllables: ["I", " live", " here,", " what", " a", "bout", " you?"],
+    exampleSentence: "I live here, what about you?",
+    exampleTranslation: "Eu moro aqui, e você?"
+  },
+  {
+    id: 'lesson_9_21',
+    word: "We don't live here.",
+    translation: "Nós não moramos aqui.",
+    pronunciation: "/wi doʊnt lɪv hɪr./",
+    portuguesePhonetic: "ui dôunt liv rír.",
+    syllables: ["We", " don't", " live", " here."],
+    exampleSentence: "We don't live here.",
+    exampleTranslation: "Nós não moramos aqui."
+  },
+  {
+    id: 'lesson_9_22',
+    word: "They don't understand Spanish.",
+    translation: "Eles não entendem espanhol.",
+    pronunciation: "/ðeɪ doʊnt ˌʌndərˈstænd ˈspænɪʃ./",
+    portuguesePhonetic: "dêi dôunt ân-der-sténd spé-nix.",
+    syllables: ["They", " don't", " un", "der", "stand", " Span", "ish."],
+    exampleSentence: "They don't understand Spanish.",
+    exampleTranslation: "Eles não entendem espanhol."
+  },
+  {
+    id: 'lesson_9_23',
+    word: "We don't want to study Portuguese.",
+    translation: "Nós não queremos estudar português.",
+    pronunciation: "/wi doʊnt wɑnt tu ˈstʌdi ˌpɔrtʃuˈɡiz./",
+    portuguesePhonetic: "ui dôunt uánt tchu stâ-di pôr-tchu-guis.",
+    syllables: ["We", " don't", " want", " to", " stud", "y", " Por", "tu", "guese."],
+    exampleSentence: "We don't want to study Portuguese.",
+    exampleTranslation: "Nós não queremos estudar português."
+  },
+  {
+    id: 'lesson_9_24',
+    word: "They don't want to live there.",
+    translation: "Eles não querem morar lá.",
+    pronunciation: "/ðeɪ doʊnt wɑnt tu lɪv ðɛr./",
+    portuguesePhonetic: "dêi dôunt uánt tchu liv dér.",
+    syllables: ["They", " don't", " want", " to", " live", " there."],
+    exampleSentence: "They don't want to live there.",
+    exampleTranslation: "Eles não querem morar lá."
+  },
+  {
+    id: 'lesson_9_25',
+    word: "Where do you live?",
+    translation: "Onde você mora?",
+    pronunciation: "/wɛr du ju lɪv?/",
+    portuguesePhonetic: "uér du iu liv?",
+    syllables: ["Where", " do", " you", " live?"],
+    exampleSentence: "Where do you live?",
+    exampleTranslation: "Onde você mora?"
+  },
+  {
+    id: 'lesson_9_26',
+    word: "Where do you study?",
+    translation: "Onde você estuda?",
+    pronunciation: "/wɛr du ju ˈstʌdi?/",
+    portuguesePhonetic: "uér du iu stâ-di?",
+    syllables: ["Where", " do", " you", " stud", "y?"],
+    exampleSentence: "Where do you study?",
+    exampleTranslation: "Onde você estuda?"
+  },
+  {
+    id: 'lesson_9_27',
+    word: "Where do you want to live?",
+    translation: "Onde você quer morar?",
+    pronunciation: "/wɛr du ju wɑnt tu lɪv?/",
+    portuguesePhonetic: "uér du iu uánt tchu liv?",
+    syllables: ["Where", " do", " you", " want", " to", " live?"],
+    exampleSentence: "Where do you want to live?",
+    exampleTranslation: "Onde você quer morar?"
+  },
+  {
+    id: 'lesson_9_28',
+    word: "We want to live abroad.",
+    translation: "Nós queremos morar no exterior.",
+    pronunciation: "/wi wɑnt tu lɪv əˈbrɔd./",
+    portuguesePhonetic: "ui uánt tchu liv a-bród.",
+    syllables: ["We", " want", " to", " live", " a", "broad."],
+    exampleSentence: "We want to live abroad.",
+    exampleTranslation: "Nós queremos morar no exterior."
+  },
+  {
+    id: 'lesson_9_29',
+    word: "Do you live alone?",
+    translation: "Você mora sozinho?",
+    pronunciation: "/du ju lɪv əˈloʊn?/",
+    portuguesePhonetic: "du iu liv a-lôun?",
+    syllables: ["Do", " you", " live", " a", "lone?"],
+    exampleSentence: "Do you live alone?",
+    exampleTranslation: "Você mora sozinho?"
+  },
+  {
+    id: 'lesson_9_30',
+    word: "I don't understand this word.",
+    translation: "Eu não entendo esta palavra.",
+    pronunciation: "/aɪ doʊnt ˌʌndərˈstænd ðɪs wɜrd./",
+    portuguesePhonetic: "ai dôunt ân-der-sténd dis uãrd.",
+    syllables: ["I", " don't", " un", "der", "stand", " this", " word."],
+    exampleSentence: "I don't understand this word.",
+    exampleTranslation: "Eu não entendo esta palavra."
+  },
+  {
+    id: 'lesson_9_31',
+    word: "Do you want to live in Italy?",
+    translation: "Você quer morar na Itália?",
+    pronunciation: "/du ju wɑnt tu lɪv ɪn ˈɪtəli?/",
+    portuguesePhonetic: "du iu uánt tchu liv in í-ta-li?",
+    syllables: ["Do", " you", " want", " to", " live", " in", " It", "a", "ly?"],
+    exampleSentence: "Do you want to live in Italy?",
+    exampleTranslation: "Você quer morar na Itália?"
+  },
+  {
+    id: 'lesson_9_32',
+    word: "They want to live in that country.",
+    translation: "Eles querem morar naquele país.",
+    pronunciation: "/ðeɪ wɑnt tu lɪv ɪn ðæt ˈkʌntri./",
+    portuguesePhonetic: "dêi uánt tchu liv in dét cân-tri.",
+    syllables: ["They", " want", " to", " live", " in", " that", " coun", "try."],
+    exampleSentence: "They want to live in that country.",
+    exampleTranslation: "Eles querem morar naquele país."
+  },
+  {
+    id: 'lesson_9_33',
+    word: "Do you want to live in this city?",
+    translation: "Você quer morar nesta cidade?",
+    pronunciation: "/du ju wɑnt tu lɪv ɪn ðɪs ˈsɪti?/",
+    portuguesePhonetic: "du iu uánt tchu liv in dis sí-ti?",
+    syllables: ["Do", " you", " want", " to", " live", " in", " this", " ci", "ty?"],
+    exampleSentence: "Do you want to live in this city?",
+    exampleTranslation: "Você quer morar nesta cidade?"
+  },
+  {
+    id: 'lesson_9_34',
+    word: "We don't live here.",
+    translation: "Nós não moramos aqui.",
+    pronunciation: "/wi doʊnt lɪv hɪr./",
+    portuguesePhonetic: "ui dôunt liv rír.",
+    syllables: ["We", " don't", " live", " here."],
+    exampleSentence: "We don't live here.",
+    exampleTranslation: "Nós não moramos aqui."
+  },
+  {
+    id: 'lesson_9_35',
+    word: "They don't understand that language.",
+    translation: "Eles não entendem aquele idioma.",
+    pronunciation: "/ðeɪ doʊnt ˌʌndərˈstænd ðæt ˈlæŋɡwɪdʒ./",
+    portuguesePhonetic: "dêi dôunt ân-der-sténd dét lén-guidj.",
+    syllables: ["They", " don't", " un", "der", "stand", " that", " lan", "guage."],
+    exampleSentence: "They don't understand that language.",
+    exampleTranslation: "Eles não entendem aquele idioma."
+  },
+  {
+    id: 'lesson_9_36',
+    word: "Where do you study English?",
+    translation: "Onde você estuda inglês?",
+    pronunciation: "/wɛr du ju ˈstʌdi ˈɪŋɡlɪʃ?/",
+    portuguesePhonetic: "uér du iu stâ-di ín-glix?",
+    syllables: ["Where", " do", " you", " stud", "y", " Eng", "lish?"],
+    exampleSentence: "Where do you study English?",
+    exampleTranslation: "Onde você estuda inglês?"
+  },
+  {
+    id: 'lesson_9_37',
+    word: "Where do you want to eat?",
+    translation: "O que você quer comer?",
+    pronunciation: "/wɛr du ju wɑnt tu it?/",
+    portuguesePhonetic: "uér du iu uánt tchu ít?",
+    syllables: ["Where", " do", " you", " want", " to", " eat?"],
+    exampleSentence: "Where do you want to eat?",
+    exampleTranslation: "O que você quer comer?"
+  },
+  {
+    id: 'lesson_9_38',
+    word: "in Brazil",
+    translation: "no Brasil",
+    pronunciation: "/ɪn brəˈzɪl/",
+    portuguesePhonetic: "in bra-zíl",
+    syllables: ["in", " Bra", "zil"],
+    exampleSentence: "in Brazil",
+    exampleTranslation: "no Brasil"
+  },
+  {
+    id: 'lesson_9_39',
+    word: "in this country",
+    translation: "neste país",
+    pronunciation: "/ɪn ðɪs ˈkʌntri/",
+    portuguesePhonetic: "in dis cân-tri",
+    syllables: ["in", " this", " coun", "try"],
+    exampleSentence: "in this country",
+    exampleTranslation: "neste país"
+  },
+  {
+    id: 'lesson_9_40',
+    word: "in that city",
+    translation: "naquela cidade",
+    pronunciation: "/ɪn ðæt ˈsɪti/",
+    portuguesePhonetic: "in dét sí-ti",
+    syllables: ["in", " that", " ci", "ty"],
+    exampleSentence: "in that city",
+    exampleTranslation: "naquela cidade"
+  },
+  {
+    id: 'lesson_9_41',
+    word: "What's your name?",
+    translation: "Qual é o seu nome?",
+    pronunciation: "/wʌts jɔr neɪm?/",
+    portuguesePhonetic: "uáts iór neim?",
+    syllables: ["What's", " your", " name?"],
+    exampleSentence: "What's your name?",
+    exampleTranslation: "Qual é o seu nome?"
+  },
+  {
+    id: 'lesson_9_42',
+    word: "What's your full name?",
+    translation: "Qual é o seu nome completo?",
+    pronunciation: "/wʌts jɔr fʊl neɪm?/",
+    portuguesePhonetic: "uáts iór ful neim?",
+    syllables: ["What's", " your", " full", " name?"],
+    exampleSentence: "What's your full name?",
+    exampleTranslation: "Qual é o seu nome completo?"
+  },
+  {
+    id: 'lesson_9_43',
+    word: "What's your first name?",
+    translation: "Qual é o seu primeiro nome?",
+    pronunciation: "/wʌts jɔr fɜrst neɪm?/",
+    portuguesePhonetic: "uáts iór fãrst neim?",
+    syllables: ["What's", " your", " first", " name?"],
+    exampleSentence: "What's your first name?",
+    exampleTranslation: "Qual é o seu primeiro nome?"
+  },
+  {
+    id: 'lesson_9_44',
+    word: "What's your last name / surname?",
+    translation: "Qual é o seu sobrenome?",
+    pronunciation: "/wʌts jɔr læst neɪm / ˈsɜrˌneɪm?/",
+    portuguesePhonetic: "uáts iór lést neim / sãr-neim?",
+    syllables: ["What's", " your", " last", " name", " /", " sur", "name?"],
+    exampleSentence: "What's your last name / surname?",
+    exampleTranslation: "Qual é o seu sobrenome?"
+  },
+  {
+    id: 'lesson_9_45',
+    word: "My name is…",
+    translation: "Meu nome é…",
+    pronunciation: "/maɪ neɪm ɪz…/",
+    portuguesePhonetic: "mai neim iz...",
+    syllables: ["My", " name", " is..."],
+    exampleSentence: "My name is…",
+    exampleTranslation: "Meu nome é…"
+  },
+  {
+    id: 'lesson_9_46',
+    word: "Nice to meet you.",
+    translation: "Prazer em conhecê-lo(a).",
+    pronunciation: "/naɪs tu mit ju./",
+    portuguesePhonetic: "nais tchu mít iu.",
+    syllables: ["Nice", " to", " meet", " you."],
+    exampleSentence: "Nice to meet you.",
+    exampleTranslation: "Prazer em conhecê-lo(a)."
+  },
+  {
+    id: 'lesson_9_47',
+    word: "Nice to meet you, too.",
+    translation: "Prazer em conhecê-lo(a) também.",
+    pronunciation: "/naɪs tu mit ju, tu./",
+    portuguesePhonetic: "nais tchu mít iu, tchu.",
+    syllables: ["Nice", " to", " meet", " you,", " too."],
+    exampleSentence: "Nice to meet you, too.",
+    exampleTranslation: "Prazer em conhecê-lo(a) também."
+  },
+  {
+    id: 'lesson_9_48',
+    word: "live abroad",
+    translation: "morar no exterior",
+    pronunciation: "/lɪv əˈbrɔd/",
+    portuguesePhonetic: "liv a-bród",
+    syllables: ["live", " a", "broad"],
+    exampleSentence: "live abroad",
+    exampleTranslation: "morar no exterior"
+  },
+  {
+    id: 'lesson_9_49',
+    word: "live alone",
+    translation: "morar sozinho",
+    pronunciation: "/lɪv əˈloʊn/",
+    portuguesePhonetic: "liv a-lôun",
+    syllables: ["live", " a", "lone"],
+    exampleSentence: "live alone",
+    exampleTranslation: "morar sozinho"
+  },
+  {
+    id: 'lesson_9_50',
+    word: "understand a language",
+    translation: "entender um idioma",
+    pronunciation: "/ˌʌndərˈstænd ə ˈlæŋɡwɪdʒ/",
+    portuguesePhonetic: "ân-der-sténd a lén-guidj",
+    syllables: ["un", "der", "stand", " a", " lan", "guage"],
+    exampleSentence: "understand a language",
+    exampleTranslation: "entender um idioma"
+  },
+  {
+    id: 'lesson_9_51',
+    word: "understand a word",
+    translation: "entender uma palavra",
+    pronunciation: "/ˌʌndərˈstænd ə wɜrd/",
+    portuguesePhonetic: "ân-der-sténd a uãrd",
+    syllables: ["un", "der", "stand", " a", " word"],
+    exampleSentence: "understand a word",
+    exampleTranslation: "entender uma palavra"
+  },
+  {
+    id: 'lesson_9_52',
+    word: "in Italy",
+    translation: "na Itália",
+    pronunciation: "/ɪn ˈɪtəli/",
+    portuguesePhonetic: "in í-ta-li",
+    syllables: ["in", " It", "a", "ly"],
+    exampleSentence: "in Italy",
+    exampleTranslation: "na Itália"
+  },
+  {
+    id: 'lesson_9_53',
+    word: "in Germany",
+    translation: "na Alemanha",
+    pronunciation: "/ɪn ˈdʒɜrməni/",
+    portuguesePhonetic: "in djãr-ma-ni",
+    syllables: ["in", " Ger", "ma", "ny"],
+    exampleSentence: "in Germany",
+    exampleTranslation: "na Alemanha"
+  },
+  {
+    id: 'lesson_9_54',
+    word: "in Spain",
+    translation: "na Espanha",
+    pronunciation: "/ɪn speɪn/",
+    portuguesePhonetic: "in spein",
+    syllables: ["in", " Spain"],
+    exampleSentence: "in Spain",
+    exampleTranslation: "na Espanha"
+  },
+  {
+    id: 'lesson_9_55',
+    word: "in the United States of America",
+    translation: "nos Estados Unidos da América",
+    pronunciation: "/ɪn ðə juˈnaɪtəd steɪts ʌv əˈmɛrɪkə/",
+    portuguesePhonetic: "in dâ iu-nái-ted steits ov a-mé-ri-ca",
+    syllables: ["in", " the", " U", "ni", "ted", " States", " of", " A", "mer", "i", "ca"],
+    exampleSentence: "in the United States of America",
+    exampleTranslation: "nos Estados Unidos da América"
+  },
+  {
+    id: 'lesson_9_56',
+    word: "this city",
+    translation: "esta cidade",
+    pronunciation: "/ðɪs ˈsɪti/",
+    portuguesePhonetic: "dis sí-ti",
+    syllables: ["this", " ci", "ty"],
+    exampleSentence: "this city",
+    exampleTranslation: "esta cidade"
+  },
+  {
+    id: 'lesson_9_57',
+    word: "that country",
+    translation: "aquele país",
+    pronunciation: "/ðæt ˈkʌntri/",
+    portuguesePhonetic: "dét cân-tri",
+    syllables: ["that", " coun", "try"],
+    exampleSentence: "that country",
+    exampleTranslation: "aquele país"
+  },
+  {
+    id: 'lesson_9_58',
+    word: "where do you live?",
+    translation: "onde você mora?",
+    pronunciation: "/wɛr du ju lɪv?/",
+    portuguesePhonetic: "uér du iu liv?",
+    syllables: ["where", " do", " you", " live?"],
+    exampleSentence: "where do you live?",
+    exampleTranslation: "onde você mora?"
+  },
+  {
+    id: 'lesson_9_59',
+    word: "where do you study?",
+    translation: "onde você estuda?",
+    pronunciation: "/wɛr du ju ˈstʌdi?/",
+    portuguesePhonetic: "uér du iu stâ-di?",
+    syllables: ["where", " do", " you", " stud", "y?"],
+    exampleSentence: "where do you study?",
+    exampleTranslation: "onde você estuda?"
+  },
+  {
+    id: 'lesson_9_60',
+    word: "where do you want to live?",
+    translation: "onde você quer morar?",
+    pronunciation: "/wɛr du ju wɑnt tu lɪv?/",
+    portuguesePhonetic: "uér du iu uánt tchu liv?",
+    syllables: ["where", " do", " you", " want", " to", " live?"],
+    exampleSentence: "where do you want to live?",
+    exampleTranslation: "onde você quer morar?"
+  }
+];
+
+export const LESSON_11_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_11_1',
+    word: "to go",
+    translation: "ir",
+    pronunciation: "/tu ɡoʊ/",
+    portuguesePhonetic: "tchu gôu",
+    syllables: ["to", " go"],
+    exampleSentence: "to go",
+    exampleTranslation: "ir"
+  },
+  {
+    id: 'lesson_11_2',
+    word: "to see",
+    translation: "ver",
+    pronunciation: "/tu si/",
+    portuguesePhonetic: "tchu si",
+    syllables: ["to", " see"],
+    exampleSentence: "to see",
+    exampleTranslation: "ver"
+  },
+  {
+    id: 'lesson_11_3',
+    word: "father",
+    translation: "pai",
+    pronunciation: "/ˈfɑðər/",
+    portuguesePhonetic: "fá-der",
+    syllables: ["fa", "ther"],
+    exampleSentence: "father",
+    exampleTranslation: "pai"
+  },
+  {
+    id: 'lesson_11_4',
+    word: "mother",
+    translation: "mãe",
+    pronunciation: "/ˈmʌðər/",
+    portuguesePhonetic: "mâ-der",
+    syllables: ["moth", "er"],
+    exampleSentence: "mother",
+    exampleTranslation: "mãe"
+  },
+  {
+    id: 'lesson_11_5',
+    word: "parents",
+    translation: "pais",
+    pronunciation: "/ˈpɛrənts/",
+    portuguesePhonetic: "pé-rents",
+    syllables: ["par", "ents"],
+    exampleSentence: "parents",
+    exampleTranslation: "pais"
+  },
+  {
+    id: 'lesson_11_6',
+    word: "brother",
+    translation: "irmão",
+    pronunciation: "/ˈbrʌðər/",
+    portuguesePhonetic: "brâ-der",
+    syllables: ["broth", "er"],
+    exampleSentence: "brother",
+    exampleTranslation: "irmão"
+  },
+  {
+    id: 'lesson_11_7',
+    word: "sister",
+    translation: "irmã",
+    pronunciation: "/ˈsɪstər/",
+    portuguesePhonetic: "sís-ter",
+    syllables: ["sis", "ter"],
+    exampleSentence: "sister",
+    exampleTranslation: "irmã"
+  },
+  {
+    id: 'lesson_11_8',
+    word: "children",
+    translation: "filhos, crianças",
+    pronunciation: "/ˈtʃɪldrən/",
+    portuguesePhonetic: "tchíl-dren",
+    syllables: ["chil", "dren"],
+    exampleSentence: "children",
+    exampleTranslation: "filhos, crianças"
+  },
+  {
+    id: 'lesson_11_9',
+    word: "husband",
+    translation: "marido, esposo",
+    pronunciation: "/ˈhʌzbənd/",
+    portuguesePhonetic: "râz-band",
+    syllables: ["hus", "band"],
+    exampleSentence: "husband",
+    exampleTranslation: "marido, esposo"
+  },
+  {
+    id: 'lesson_11_10',
+    word: "wife",
+    translation: "esposa",
+    pronunciation: "/waɪf/",
+    portuguesePhonetic: "uaif",
+    syllables: ["wife"],
+    exampleSentence: "wife",
+    exampleTranslation: "esposa"
+  },
+  {
+    id: 'lesson_11_11',
+    word: "family",
+    translation: "família",
+    pronunciation: "/ˈfæməli/",
+    portuguesePhonetic: "fé-mi-li",
+    syllables: ["fam", "i", "ly"],
+    exampleSentence: "family",
+    exampleTranslation: "família"
+  },
+  {
+    id: 'lesson_11_12',
+    word: "neighbor",
+    translation: "vizinho(a)",
+    pronunciation: "/ˈneɪbər/",
+    portuguesePhonetic: "nêi-bor",
+    syllables: ["neigh", "bor"],
+    exampleSentence: "neighbor",
+    exampleTranslation: "vizinho(a)"
+  },
+  {
+    id: 'lesson_11_13',
+    word: "boss",
+    translation: "chefe",
+    pronunciation: "/bɔs/",
+    portuguesePhonetic: "bós",
+    syllables: ["boss"],
+    exampleSentence: "boss",
+    exampleTranslation: "chefe"
+  },
+  {
+    id: 'lesson_11_14',
+    word: "co-worker",
+    translation: "colega de trabalho",
+    pronunciation: "/ˈkoʊˌwɜrkər/",
+    portuguesePhonetic: "côu-uãr-ker",
+    syllables: ["co-", "work", "er"],
+    exampleSentence: "co-worker",
+    exampleTranslation: "colega de trabalho"
+  },
+  {
+    id: 'lesson_11_15',
+    word: "class",
+    translation: "aula",
+    pronunciation: "/klæs/",
+    portuguesePhonetic: "clés",
+    syllables: ["class"],
+    exampleSentence: "class",
+    exampleTranslation: "aula"
+  },
+  {
+    id: 'lesson_11_16',
+    word: "work",
+    translation: "trabalho, emprego",
+    pronunciation: "/wɜrk/",
+    portuguesePhonetic: "uãrk",
+    syllables: ["work"],
+    exampleSentence: "work",
+    exampleTranslation: "trabalho, emprego"
+  },
+  {
+    id: 'lesson_11_17',
+    word: "France",
+    translation: "França",
+    pronunciation: "/fræns/",
+    portuguesePhonetic: "frens",
+    syllables: ["France"],
+    exampleSentence: "France",
+    exampleTranslation: "França"
+  },
+  {
+    id: 'lesson_11_18',
+    word: "the United Kingdom (U.K.)",
+    translation: "Reino Unido",
+    pronunciation: "/ði juˈnaɪtəd ˈkɪŋdəm/",
+    portuguesePhonetic: "di iu-nái-ted kín-dom",
+    syllables: ["the", " Unit", "ed", " King", "dom"],
+    exampleSentence: "the United Kingdom (U.K.)",
+    exampleTranslation: "Reino Unido"
+  },
+  {
+    id: 'lesson_11_19',
+    word: "I see my neighbor at work.",
+    translation: "Eu vejo meu vizinho no trabalho.",
+    pronunciation: "/aɪ si maɪ ˈneɪbər æt wɜrk./",
+    portuguesePhonetic: "ai si mai nêi-bor ét uãrk.",
+    syllables: ["I", " see", " my", " neigh", "bor", " at", " work."],
+    exampleSentence: "I see my neighbor at work.",
+    exampleTranslation: "Eu vejo meu vizinho no trabalho."
+  },
+  {
+    id: 'lesson_11_20',
+    word: "Do you study at home?",
+    translation: "Você estuda em casa?",
+    pronunciation: "/du ju ˈstʌdi æt hoʊm?/",
+    portuguesePhonetic: "du iu stâ-di ét rôum?",
+    syllables: ["Do", " you", " stud", "y", " at", " home?"],
+    exampleSentence: "Do you study at home?",
+    exampleTranslation: "Você estuda em casa?"
+  },
+  {
+    id: 'lesson_11_21',
+    word: "I see my parents in the evening.",
+    translation: "Eu vejo meus pais à noite.",
+    pronunciation: "/aɪ si maɪ ˈpɛrənts ɪn ðə ˈivnɪŋ./",
+    portuguesePhonetic: "ai si mai pé-rents in dâ ív-ning.",
+    syllables: ["I", " see", " my", " par", "ents", " in", " the", " eve", "ning."],
+    exampleSentence: "I see my parents in the evening.",
+    exampleTranslation: "Eu vejo meus pais à noite."
+  },
+  {
+    id: 'lesson_11_22',
+    word: "I don't study at night.",
+    translation: "Eu não estudo à noite.",
+    pronunciation: "/aɪ doʊnt ˈstʌdi æt naɪt./",
+    portuguesePhonetic: "ai dôunt stâ-di ét nait.",
+    syllables: ["I", " don't", " stud", "y", " at", " night."],
+    exampleSentence: "I don't study at night.",
+    exampleTranslation: "Eu não estudo à noite."
+  },
+  {
+    id: 'lesson_11_23',
+    word: "Do they live in Germany?",
+    translation: "Eles moram na Alemanha?",
+    pronunciation: "/du ðeɪ lɪv ɪn ˈdʒɜrməni?/",
+    portuguesePhonetic: "du dêi liv in djãr-ma-ni?",
+    syllables: ["Do", " they", " live", " in", " Ger", "ma", "ny?"],
+    exampleSentence: "Do they live in Germany?",
+    exampleTranslation: "Eles moram na Alemanha?"
+  },
+  {
+    id: 'lesson_11_24',
+    word: "Do they go to school in the morning?",
+    translation: "Eles vão para a escola de manhã?",
+    pronunciation: "/du ðeɪ ɡoʊ tu skul ɪn ðə ˈmɔrnɪŋ?/",
+    portuguesePhonetic: "du dêi gôu tchu scul in dâ môr-ning?",
+    syllables: ["Do", " they", " go", " to", " school", " in", " the", " morn", "ing?"],
+    exampleSentence: "Do they go to school in the morning?",
+    exampleTranslation: "Eles vão para a escola de manhã?"
+  },
+  {
+    id: 'lesson_11_25',
+    word: "Do they speak Italian?",
+    translation: "Eles falam italiano?",
+    pronunciation: "/du ðeɪ spik ɪˈtæljən?/",
+    portuguesePhonetic: "du dêi spíc i-té-li-an?",
+    syllables: ["Do", " they", " speak", " I", "tal", "ian?"],
+    exampleSentence: "Do they speak Italian?",
+    exampleTranslation: "Eles falam italiano?"
+  },
+  {
+    id: 'lesson_11_26',
+    word: "Where do they want to go?",
+    translation: "Aonde eles querem ir?",
+    pronunciation: "/wɛr du ðeɪ wɑnt tu ɡoʊ?/",
+    portuguesePhonetic: "uér du dêi uánt tchu gôu?",
+    syllables: ["Where", " do", " they", " want", " to", " go?"],
+    exampleSentence: "Where do they want to go?",
+    exampleTranslation: "Aonde eles querem ir?"
+  },
+  {
+    id: 'lesson_11_27',
+    word: "They want to go to Germany.",
+    translation: "Eles querem ir para a Alemanha.",
+    pronunciation: "/ðeɪ wɑnt tu ɡoʊ tu ˈdʒɜrməni./",
+    portuguesePhonetic: "dêi uánt tchu gôu tchu djãr-ma-ni.",
+    syllables: ["They", " want", " to", " go", " to", " Ger", "ma", "ny."],
+    exampleSentence: "They want to go to Germany.",
+    exampleTranslation: "Eles querem ir para a Alemanha."
+  },
+  {
+    id: 'lesson_11_28',
+    word: "We want to go to school.",
+    translation: "Nós queremos ir para a escola.",
+    pronunciation: "/wi wɑnt tu ɡoʊ tu skul./",
+    portuguesePhonetic: "ui uánt tchu gôu tchu scul.",
+    syllables: ["We", " want", " to", " go", " to", " school."],
+    exampleSentence: "We want to go to school.",
+    exampleTranslation: "Nós queremos ir para a escola."
+  },
+  {
+    id: 'lesson_11_29',
+    word: "They go to class in the evening.",
+    translation: "Eles vão para a aula à noite.",
+    pronunciation: "/ðeɪ ɡoʊ tu klæs ɪn ðə ˈivnɪŋ./",
+    portuguesePhonetic: "dêi gôu tchu clés in dâ ív-ning.",
+    syllables: ["They", " go", " to", " class", " in", " the", " eve", "ning."],
+    exampleSentence: "They go to class in the evening.",
+    exampleTranslation: "Eles vão para a aula à noite."
+  },
+  {
+    id: 'lesson_11_30',
+    word: "Do they want to go to the U.K.? ",
+    translation: "Eles querem ir para o Reino Unido?",
+    pronunciation: "/du ðeɪ wɑnt tu ɡoʊ tu ðə ˈuːˈkeɪ?/",
+    portuguesePhonetic: "du dêi uánt tchu gôu tchu dâ iu-kêi?",
+    syllables: ["Do", " they", " want", " to", " go", " to", " the", " U.", "K.?"],
+    exampleSentence: "Do they want to go to the U.K.?",
+    exampleTranslation: "Eles querem ir para o Reino Unido?"
+  },
+  {
+    id: 'lesson_11_31',
+    word: "I go to work in the morning.",
+    translation: "Eu vou para o trabalho de manhã.",
+    pronunciation: "/aɪ ɡoʊ tu wɜrk ɪn ðə ˈmɔrnɪŋ./",
+    portuguesePhonetic: "ai gôu tchu uãrk in dâ môr-ning.",
+    syllables: ["I", " go", " to", " work", " in", " the", " morn", "ing."],
+    exampleSentence: "I go to work in the morning.",
+    exampleTranslation: "Eu vou para o trabalho de manhã."
+  },
+  {
+    id: 'lesson_11_32',
+    word: "They go to school in the afternoon.",
+    translation: "Eles vão para a escola à tarde.",
+    pronunciation: "/ðeɪ ɡoʊ tu skul ɪn ðə ˌæftərˈnun./",
+    portuguesePhonetic: "dêi gôu tchu scul in dâ éf-ter-nun.",
+    syllables: ["They", " go", " to", " school", " in", " the", " af", "ter", "noon."],
+    exampleSentence: "They go to school in the afternoon.",
+    exampleTranslation: "Eles vão para a escola à tarde."
+  },
+  {
+    id: 'lesson_11_33',
+    word: "They want to go to France.",
+    translation: "Eles querem ir para a França.",
+    pronunciation: "/ðeɪ wɑnt tu ɡoʊ tu fræns./",
+    portuguesePhonetic: "dêi uánt tchu gôu tchu frens.",
+    syllables: ["They", " want", " to", " go", " to", " France."],
+    exampleSentence: "They want to go to France.",
+    exampleTranslation: "Eles querem ir para a França."
+  },
+  {
+    id: 'lesson_11_34',
+    word: "We don't like to go to class in the evening.",
+    translation: "Nós não gostamos de ir para a aula à noite.",
+    pronunciation: "/wi doʊnt laɪk tu ɡoʊ tu klæs ɪn ðə ˈivnɪŋ./",
+    portuguesePhonetic: "ui dôunt laic tchu gôu tchu clés in dâ ív-ning.",
+    syllables: ["We", " don't", " like", " to", " go", " to", " class", " in", " the", " eve", "ning."],
+    exampleSentence: "We don't like to go to class in the evening.",
+    exampleTranslation: "Nós não gostamos de ir para a aula à noite."
+  },
+  {
+    id: 'lesson_11_35',
+    word: "I want to go to the U.S.A.",
+    translation: "Eu quero ir para os Estados Unidos.",
+    pronunciation: "/aɪ wɑnt tu ɡoʊ tu ðə ˌjuː.ɛs.ˈeɪ./",
+    portuguesePhonetic: "ai uánt tchu gôu tchu dâ iu-es-êi.",
+    syllables: ["I", " want", " to", " go", " to", " the", " U.", "S.", "A."],
+    exampleSentence: "I want to go to the U.S.A.",
+    exampleTranslation: "Eu quero ir para os Estados Unidos."
+  },
+  {
+    id: 'lesson_11_36',
+    word: "I see my husband at home.",
+    translation: "Eu vejo meu esposo em casa.",
+    pronunciation: "/aɪ si maɪ ˈhʌzbənd æt hoʊm./",
+    portuguesePhonetic: "ai si mai râz-band ét rôum.",
+    syllables: ["I", " see", " my", " hus", "band", " at", " home."],
+    exampleSentence: "I see my husband at home.",
+    exampleTranslation: "Eu vejo meu esposo em casa."
+  },
+  {
+    id: 'lesson_11_37',
+    word: "Do they speak English at work?",
+    translation: "Eles falam inglês no trabalho?",
+    pronunciation: "/du ðeɪ spik ˈɪŋɡlɪʃ æt wɜrk?/",
+    portuguesePhonetic: "du dêi spíc ín-glix ét uãrk?",
+    syllables: ["Do", " they", " speak", " Eng", "lish", " at", " work?"],
+    exampleSentence: "Do they speak English at work?",
+    exampleTranslation: "Eles falam inglês no trabalho?"
+  },
+  {
+    id: 'lesson_11_38',
+    word: "Do they speak Italian or French?",
+    translation: "Eles falam italiano ou francês?",
+    pronunciation: "/du ðeɪ spik ɪˈtæljən ɔr frɛntʃ?/",
+    portuguesePhonetic: "du dêi spíc i-té-li-an or frentch?",
+    syllables: ["Do", " they", " speak", " I", "tal", "ian", " or", " French?"],
+    exampleSentence: "Do they speak Italian or French?",
+    exampleTranslation: "Eles falam italiano ou francês?"
+  },
+  {
+    id: 'lesson_11_39',
+    word: "Do you live with your family?",
+    translation: "Você mora com sua família?",
+    pronunciation: "/du ju lɪv wɪð jɔr ˈfæməli?/",
+    portuguesePhonetic: "du iu liv uid iór fé-mi-li?",
+    syllables: ["Do", " you", " live", " with", " your", " fam", "i", "ly?"],
+    exampleSentence: "Do you live with your family?",
+    exampleTranslation: "Você mora com sua família?"
+  },
+  {
+    id: 'lesson_11_40',
+    word: "Do you speak German with your teacher?",
+    translation: "Você fala alemão com seu professor?",
+    pronunciation: "/du ju spik ˈdʒɜrmən wɪð jɔr ˈtitʃər?/",
+    portuguesePhonetic: "du iu spíc djãr-man uid iór tchí-tcher?",
+    syllables: ["Do", " you", " speak", " Ger", "man", " with", " your", " teach", "er?"],
+    exampleSentence: "Do you speak German with your teacher?",
+    exampleTranslation: "Você fala alemão com seu professor?"
+  },
+  {
+    id: 'lesson_11_41',
+    word: "to go to the U.S.A.",
+    translation: "ir para os Estados Unidos",
+    pronunciation: "/tu ɡoʊ tu ðə ˌjuː.ɛs.ˈeɪ/",
+    portuguesePhonetic: "tchu gôu tchu dâ iu-es-êi",
+    syllables: ["to", " go", " to", " the", " U.", "S.", "A."],
+    exampleSentence: "to go to the U.S.A.",
+    exampleTranslation: "ir para os Estados Unidos"
+  },
+  {
+    id: 'lesson_11_42',
+    word: "to study in the U.S.A.",
+    translation: "estudar nos Estados Unidos",
+    pronunciation: "/tu ˈstʌdi ɪn ðə ˌjuː.ɛs.ˈeɪ/",
+    portuguesePhonetic: "tchu stâ-di in dâ iu-es-êi",
+    syllables: ["to", " stud", "y", " in", " the", " U.", "S.", "A."],
+    exampleSentence: "to study in the U.S.A.",
+    exampleTranslation: "estudar nos Estados Unidos"
+  },
+  {
+    id: 'lesson_11_43',
+    word: "at work",
+    translation: "no trabalho",
+    pronunciation: "/æt wɜrk/",
+    portuguesePhonetic: "ét uãrk",
+    syllables: ["at", " work"],
+    exampleSentence: "at work",
+    exampleTranslation: "no trabalho"
+  },
+  {
+    id: 'lesson_11_44',
+    word: "at home",
+    translation: "em casa",
+    pronunciation: "/æt hoʊm/",
+    portuguesePhonetic: "ét rôum",
+    syllables: ["at", " home"],
+    exampleSentence: "at home",
+    exampleTranslation: "em casa"
+  },
+  {
+    id: 'lesson_11_45',
+    word: "at school",
+    translation: "na escola",
+    pronunciation: "/æt skul/",
+    portuguesePhonetic: "ét scul",
+    syllables: ["at", " school"],
+    exampleSentence: "at school",
+    exampleTranslation: "na escola"
+  },
+  {
+    id: 'lesson_11_46',
+    word: "They live...",
+    translation: "Eles moram...",
+    pronunciation: "/ðeɪ lɪv.../",
+    portuguesePhonetic: "dêi liv...",
+    syllables: ["They", " live..."],
+    exampleSentence: "They live...",
+    exampleTranslation: "Eles moram..."
+  },
+  {
+    id: 'lesson_11_47',
+    word: "My parents live...",
+    translation: "Meus pais moram...",
+    pronunciation: "/maɪ ˈpɛrənts lɪv.../",
+    portuguesePhonetic: "mai pé-rents liv...",
+    syllables: ["My", " par", "ents", " live..."],
+    exampleSentence: "My parents live...",
+    exampleTranslation: "Meus pais moram..."
+  },
+  {
+    id: 'lesson_11_48',
+    word: "We speak...",
+    translation: "Nós falamos...",
+    pronunciation: "/wi spik.../",
+    portuguesePhonetic: "ui spíc...",
+    syllables: ["We", " speak..."],
+    exampleSentence: "We speak...",
+    exampleTranslation: "Nós falamos..."
+  },
+  {
+    id: 'lesson_11_49',
+    word: "My sister and I speak...",
+    translation: "Minha irmã e eu falamos...",
+    pronunciation: "/maɪ ˈsɪstər ænd aɪ spik.../",
+    portuguesePhonetic: "mai sís-ter énd ai spíc...",
+    syllables: ["My", " sis", "ter", " and", " I", " speak..."],
+    exampleSentence: "My sister and I speak...",
+    exampleTranslation: "Minha irmã e eu falamos..."
+  },
+  {
+    id: 'lesson_11_50',
+    word: "class → classes",
+    translation: "aula → aulas",
+    pronunciation: "/klæs → ˈklæsəz/",
+    portuguesePhonetic: "clés → clê-siz",
+    syllables: ["class", " →", " class", "es"],
+    exampleSentence: "class → classes",
+    exampleTranslation: "aula → aulas"
+  },
+  {
+    id: 'lesson_11_51',
+    word: "go to work",
+    translation: "ir para o trabalho",
+    pronunciation: "/ɡoʊ tu wɜrk/",
+    portuguesePhonetic: "gôu tchu uãrk",
+    syllables: ["go", " to", " work"],
+    exampleSentence: "go to work",
+    exampleTranslation: "ir para o trabalho"
+  },
+  {
+    id: 'lesson_11_52',
+    word: "go to school",
+    translation: "ir para a escola",
+    pronunciation: "/ɡoʊ tu skul/",
+    portuguesePhonetic: "gôu tchu scul",
+    syllables: ["go", " to", " school"],
+    exampleSentence: "go to school",
+    exampleTranslation: "ir para a escola"
+  },
+  {
+    id: 'lesson_11_53',
+    word: "go to class",
+    translation: "ir para a aula",
+    pronunciation: "/ɡoʊ tu klæs/",
+    portuguesePhonetic: "gôu tchu clés",
+    syllables: ["go", " to", " class"],
+    exampleSentence: "go to class",
+    exampleTranslation: "ir para a aula"
+  },
+  {
+    id: 'lesson_11_54',
+    word: "go to France",
+    translation: "ir para a França",
+    pronunciation: "/ɡoʊ tu fræns/",
+    portuguesePhonetic: "gôu tchu frens",
+    syllables: ["go", " to", " France"],
+    exampleSentence: "go to France",
+    exampleTranslation: "ir para a França"
+  },
+  {
+    id: 'lesson_11_55',
+    word: "go to Germany",
+    translation: "ir para a Alemanha",
+    pronunciation: "/ɡoʊ tu ˈdʒɜrməni/",
+    portuguesePhonetic: "gôu tchu djãr-ma-ni",
+    syllables: ["go", " to", " Ger", "ma", "ny"],
+    exampleSentence: "go to Germany",
+    exampleTranslation: "ir para a Alemanha"
+  },
+  {
+    id: 'lesson_11_56',
+    word: "go to the U.K.",
+    translation: "ir para o Reino Unido",
+    pronunciation: "/ɡoʊ tu ðə ˈuːˈkeɪ/",
+    portuguesePhonetic: "gôu tchu dâ iu-kêi",
+    syllables: ["go", " to", " the", " U.", "K."],
+    exampleSentence: "go to the U.K.",
+    exampleTranslation: "ir para o Reino Unido"
+  },
+  {
+    id: 'lesson_11_57',
+    word: "go to the U.S.A.",
+    translation: "ir para os Estados Unidos",
+    pronunciation: "/ɡoʊ tu ðə ˌjuː.ɛs.ˈeɪ/",
+    portuguesePhonetic: "gôu tchu dâ iu-es-êi",
+    syllables: ["go", " to", " the", " U.", "S.", "A."],
+    exampleSentence: "go to the U.S.A.",
+    exampleTranslation: "ir para os Estados Unidos"
+  },
+  {
+    id: 'lesson_11_58',
+    word: "see my parents",
+    translation: "ver meus pais",
+    pronunciation: "/si maɪ ˈpɛrənts/",
+    portuguesePhonetic: "si mai pé-rents",
+    syllables: ["see", " my", " par", "ents"],
+    exampleSentence: "see my parents",
+    exampleTranslation: "ver meus pais"
+  },
+  {
+    id: 'lesson_11_59',
+    word: "see my husband",
+    translation: "ver meu marido",
+    pronunciation: "/si maɪ ˈhʌzbənd/",
+    portuguesePhonetic: "si mai râz-band",
+    syllables: ["see", " my", " hus", "band"],
+    exampleSentence: "see my husband",
+    exampleTranslation: "ver meu marido"
+  },
+  {
+    id: 'lesson_11_60',
+    word: "live with my family",
+    translation: "morar com minha família",
+    pronunciation: "/lɪv wɪð maɪ ˈfæməli/",
+    portuguesePhonetic: "liv uid mai fé-mi-li",
+    syllables: ["live", " with", " my", " fam", "i", "ly"],
+    exampleSentence: "live with my family",
+    exampleTranslation: "morar com minha família"
+  },
+  {
+    id: 'lesson_11_61',
+    word: "at home",
+    translation: "em casa",
+    pronunciation: "/æt hoʊm/",
+    portuguesePhonetic: "ét rôum",
+    syllables: ["at", " home"],
+    exampleSentence: "at home",
+    exampleTranslation: "em casa"
+  },
+  {
+    id: 'lesson_11_62',
+    word: "at work",
+    translation: "no trabalho",
+    pronunciation: "/æt wɜrk/",
+    portuguesePhonetic: "ét uãrk",
+    syllables: ["at", " work"],
+    exampleSentence: "at work",
+    exampleTranslation: "no trabalho"
+  },
+  {
+    id: 'lesson_11_63',
+    word: "in the morning",
+    translation: "de manhã",
+    pronunciation: "/ɪn ðə ˈmɔrnɪŋ/",
+    portuguesePhonetic: "in dâ môr-ning",
+    syllables: ["in", " the", " morn", "ing"],
+    exampleSentence: "in the morning",
+    exampleTranslation: "de manhã"
+  },
+  {
+    id: 'lesson_11_64',
+    word: "in the afternoon",
+    translation: "à tarde",
+    pronunciation: "/ɪn ðə ˌæftərˈnun/",
+    portuguesePhonetic: "in dâ éf-ter-nun",
+    syllables: ["in", " the", " af", "ter", "noon"],
+    exampleSentence: "in the afternoon",
+    exampleTranslation: "à tarde"
+  },
+  {
+    id: 'lesson_11_65',
+    word: "in the evening",
+    translation: "à noite",
+    pronunciation: "/ɪn ðə ˈivnɪŋ/",
+    portuguesePhonetic: "in dâ ív-ning",
+    syllables: ["in", " the", " eve", "ning"],
+    exampleSentence: "in the evening",
+    exampleTranslation: "à noite"
+  },
+  {
+    id: 'lesson_11_66',
+    word: "at night",
+    translation: "à noite (durante a noite)",
+    pronunciation: "/æt naɪt/",
+    portuguesePhonetic: "ét nait",
+    syllables: ["at", " night"],
+    exampleSentence: "at night",
+    exampleTranslation: "à noite (durante a noite)"
+  }
+];
+
 export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
+  lesson_1: {
+    en: LESSON_1_DECK
+  },
+  lesson_3: {
+    en: LESSON_3_DECK
+  },
+  lesson_5: {
+    en: LESSON_5_DECK
+  },
+  lesson_7: {
+    en: LESSON_7_DECK
+  },
+  lesson_9: {
+    en: LESSON_9_DECK
+  },
+  lesson_11: {
+    en: LESSON_11_DECK
+  },
   write_think: {
     en: WRITE_THINK_DECK
   },
@@ -10847,6 +14324,9 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   to_be_negative: {
     en: TO_BE_NEGATIVE_DECK
+  },
+  homework_39: {
+    en: HOMEWORK_39_DECK
   },
   to_wear_change: {
     en: TO_WEAR_CHANGE_DECK
