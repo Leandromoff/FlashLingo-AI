@@ -269,7 +269,10 @@ const createBufferFromBytes = (ctx: AudioContext, bytes: Uint8Array): AudioBuffe
 const cleanTextForSpeech = (text: string): string => {
   if (!text) return "";
   // Ex: "to talk / speak about" -> "to talk , speak about"
-  return text.replace(/\s*\/\s*/g, " , ");
+  let cleaned = text.replace(/\s*\/\s*/g, " , ");
+  // Replace arrows (→, ->, =>, ⇒) with a comma for a natural pause, preventing TTS from reading "seta" (Portuguese) or "arrow" (English)
+  cleaned = cleaned.replace(/\s*(?:-->|->|==>|=>|→|⇒)\s*/g, " , ");
+  return cleaned;
 };
 
 // Helper: Fetch and Cache Audio Buffer (Does not play)
