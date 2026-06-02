@@ -1184,6 +1184,11 @@ export const DRINK_EAT_WANT_DECK: FlashcardData[] = [
 ];
 
 import { FlashcardData } from '../types';
+import { LESSON_14_VOCABULARY_A1_DECK } from './lesson14';
+import { LESSON_15_VOCABULARY_A1_DECK } from './lesson15';
+import { LESSON_16_VOCABULARY_A1_DECK } from './lesson16';
+import { LESSON_17_VOCABULARY_A1_DECK } from './lesson17';
+import { LESSON_18_VOCABULARY_A1_DECK } from './lesson18';
 
 export const MOVE_PUT_DECK: FlashcardData[] = [
   {
@@ -24085,6 +24090,2820 @@ export const LESSON_9_VOCABULARY_A1_DECK: FlashcardData[] = [
   }
 ];
 
+export const LESSON_10_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_10_vocab_a1_1',
+    word: "Head",
+    translation: "Cabeça",
+    pronunciation: "/hɛd/",
+    portuguesePhonetic: "réd",
+    syllables: ["Head"],
+    exampleSentence: "Head",
+    exampleTranslation: "Cabeça"
+  },
+  {
+    id: 'lesson_10_vocab_a1_2',
+    word: "Eyes",
+    translation: "Olhos",
+    pronunciation: "/aɪz/",
+    portuguesePhonetic: "áis",
+    syllables: ["Eyes"],
+    exampleSentence: "Eyes",
+    exampleTranslation: "Olhos"
+  },
+  {
+    id: 'lesson_10_vocab_a1_3',
+    word: "Ears",
+    translation: "Orelhas / ouvidos",
+    pronunciation: "/ɪərz/",
+    portuguesePhonetic: "íars",
+    syllables: ["Ears"],
+    exampleSentence: "Ears",
+    exampleTranslation: "Orelhas / ouvidos"
+  },
+  {
+    id: 'lesson_10_vocab_a1_4',
+    word: "Nose",
+    translation: "Nariz",
+    pronunciation: "/noʊz/",
+    portuguesePhonetic: "nóuz",
+    syllables: ["Nose"],
+    exampleSentence: "Nose",
+    exampleTranslation: "Nariz"
+  },
+  {
+    id: 'lesson_10_vocab_a1_5',
+    word: "Mouth",
+    translation: "Boca",
+    pronunciation: "/maʊθ/",
+    portuguesePhonetic: "máuθ",
+    syllables: ["Mouth"],
+    exampleSentence: "Mouth",
+    exampleTranslation: "Boca"
+  },
+  {
+    id: 'lesson_10_vocab_a1_6',
+    word: "Lips",
+    translation: "Lábios",
+    pronunciation: "/lɪps/",
+    portuguesePhonetic: "lips",
+    syllables: ["Lips"],
+    exampleSentence: "Lips",
+    exampleTranslation: "Lábios"
+  },
+  {
+    id: 'lesson_10_vocab_a1_7',
+    word: "Tooth — singular / Teeth — plural",
+    translation: "Dente — singular / Dentes — plural",
+    pronunciation: "/tuːθ / tiːθ/",
+    portuguesePhonetic: "túθ / tíθ",
+    syllables: ["Tooth", " /", " Teeth"],
+    exampleSentence: "Tooth — singular / Teeth — plural",
+    exampleTranslation: "Dente — singular / Dentes — plural"
+  },
+  {
+    id: 'lesson_10_vocab_a1_8',
+    word: "Tongue",
+    translation: "Língua",
+    pronunciation: "/tʌŋ/",
+    portuguesePhonetic: "tâng",
+    syllables: ["Tongue"],
+    exampleSentence: "Tongue",
+    exampleTranslation: "Língua"
+  },
+  {
+    id: 'lesson_10_vocab_a1_9',
+    word: "Neck",
+    translation: "Pescoço",
+    pronunciation: "/nɛk/",
+    portuguesePhonetic: "néc",
+    syllables: ["Neck"],
+    exampleSentence: "Neck",
+    exampleTranslation: "Pescoço"
+  },
+  {
+    id: 'lesson_10_vocab_a1_10',
+    word: "Shoulder",
+    translation: "Ombro",
+    pronunciation: "/ˈʃoʊldər/",
+    portuguesePhonetic: "chóul-der",
+    syllables: ["Shoul", "der"],
+    exampleSentence: "Shoulder",
+    exampleTranslation: "Ombro"
+  },
+  {
+    id: 'lesson_10_vocab_a1_11',
+    word: "Arm",
+    translation: "Braço",
+    pronunciation: "/ɑːrm/",
+    portuguesePhonetic: "árm",
+    syllables: ["Arm"],
+    exampleSentence: "Arm",
+    exampleTranslation: "Braço"
+  },
+  {
+    id: 'lesson_10_vocab_a1_12',
+    word: "Hands",
+    translation: "Mãos",
+    pronunciation: "/hændz/",
+    portuguesePhonetic: "rénds",
+    syllables: ["Hands"],
+    exampleSentence: "Hands",
+    exampleTranslation: "Mãos"
+  },
+  {
+    id: 'lesson_10_vocab_a1_13',
+    word: "Fingers",
+    translation: "Dedos da mão",
+    pronunciation: "/ˈfɪŋɡərz/",
+    portuguesePhonetic: "fín-guers",
+    syllables: ["Fin", "gers"],
+    exampleSentence: "Fingers",
+    exampleTranslation: "Dedos da mão"
+  },
+  {
+    id: 'lesson_10_vocab_a1_14',
+    word: "Chest",
+    translation: "Peito",
+    pronunciation: "/tʃɛst/",
+    portuguesePhonetic: "tchést",
+    syllables: ["Chest"],
+    exampleSentence: "Chest",
+    exampleTranslation: "Peito"
+  },
+  {
+    id: 'lesson_10_vocab_a1_15',
+    word: "Stomach",
+    translation: "Estômago / barriga",
+    pronunciation: "/ˈstʌmək/",
+    portuguesePhonetic: "stá-mac",
+    syllables: ["Stom", "ach"],
+    exampleSentence: "Stomach",
+    exampleTranslation: "Estômago / barriga"
+  },
+  {
+    id: 'lesson_10_vocab_a1_16',
+    word: "Back",
+    translation: "Costas",
+    pronunciation: "/bæk/",
+    portuguesePhonetic: "béc",
+    syllables: ["Back"],
+    exampleSentence: "Back",
+    exampleTranslation: "Costas"
+  },
+  {
+    id: 'lesson_10_vocab_a1_17',
+    word: "Legs",
+    translation: "Pernas",
+    pronunciation: "/lɛɡz/",
+    portuguesePhonetic: "légzs",
+    syllables: ["Legs"],
+    exampleSentence: "Legs",
+    exampleTranslation: "Pernas"
+  },
+  {
+    id: 'lesson_10_vocab_a1_18',
+    word: "Knee",
+    translation: "Joelho",
+    pronunciation: "/niː/",
+    portuguesePhonetic: "ní",
+    syllables: ["Knee"],
+    exampleSentence: "Knee",
+    exampleTranslation: "Joelho"
+  },
+  {
+    id: 'lesson_10_vocab_a1_19',
+    word: "Foot — singular / Feet — plural",
+    translation: "Pé — singular / Pés — plural",
+    pronunciation: "/fʊt / fiːt/",
+    portuguesePhonetic: "fút / fít",
+    syllables: ["Foot", " /", " Feet"],
+    exampleSentence: "Foot — singular / Feet — plural",
+    exampleTranslation: "Pé — singular / Pés — plural"
+  },
+  {
+    id: 'lesson_10_vocab_a1_20',
+    word: "Toes",
+    translation: "Dedos do pé",
+    pronunciation: "/toʊz/",
+    portuguesePhonetic: "tóuz",
+    syllables: ["Toes"],
+    exampleSentence: "Toes",
+    exampleTranslation: "Dedos do pé"
+  },
+  {
+    id: 'lesson_10_vocab_a1_21',
+    word: "When you say “yes”, you move your head up and down.",
+    translation: "Quando você diz “sim”, você move a cabeça para cima e para baixo.",
+    pronunciation: "/wɛn juː seɪ jɛs, juː muːv jɔːr hɛd ʌp ænd daʊn./",
+    portuguesePhonetic: "uén iu sêi iés, iu múv iór réd áp énd daun.",
+    syllables: ["When", " you", " say", " " + String.fromCharCode(8220) + "yes" + String.fromCharCode(8221) + ",", " you", " move", " your", " head", " up", " and", " down."],
+    exampleSentence: "When you say “yes”, you move your head up and down.",
+    exampleTranslation: "Quando você diz “sim”, você move a cabeça para cima e para baixo."
+  },
+  {
+    id: 'lesson_10_vocab_a1_22',
+    word: "You see with your eyes.",
+    translation: "Você vê com seus olhos.",
+    pronunciation: "/juː siː wɪð jɔːr aɪz./",
+    portuguesePhonetic: "iu sí uíd iór áis.",
+    syllables: ["You", " see", " with", " your", " eyes."],
+    exampleSentence: "You see with your eyes.",
+    exampleTranslation: "Você vê com seus olhos."
+  },
+  {
+    id: 'lesson_10_vocab_a1_23',
+    word: "You hear with your ears.",
+    translation: "Você ouve com seus ouvidos.",
+    pronunciation: "/juː hɪər wɪð jɔːr ɪərz./",
+    portuguesePhonetic: "iu híar uíd iór íars.",
+    syllables: ["You", " hear", " with", " your", " ears."],
+    exampleSentence: "You hear with your ears.",
+    exampleTranslation: "Você ouve com seus ouvidos."
+  },
+  {
+    id: 'lesson_10_vocab_a1_24',
+    word: "You smell with your nose.",
+    translation: "Você sente cheiro com seu nariz.",
+    pronunciation: "/juː smɛl wɪð jɔːr noʊz./",
+    portuguesePhonetic: "iu smél uíd iór nóuz.",
+    syllables: ["You", " smell", " with", " your", " nose."],
+    exampleSentence: "You smell with your nose.",
+    exampleTranslation: "Você sente cheiro com seu nariz."
+  },
+  {
+    id: 'lesson_10_vocab_a1_25',
+    word: "You use your mouth to eat and talk.",
+    translation: "Você usa sua boca para comer e falar.",
+    pronunciation: "/juː juːz jɔːr maʊθ tuː iːt ænd tɔːk./",
+    portuguesePhonetic: "iu iús iór máuθ tchu ít énd tóc.",
+    syllables: ["You", " use", " your", " mouth", " to", " eat", " and", " talk."],
+    exampleSentence: "You use your mouth to eat and talk.",
+    exampleTranslation: "Você usa sua boca para comer e falar."
+  },
+  {
+    id: 'lesson_10_vocab_a1_26',
+    word: "You kiss with your lips.",
+    translation: "Você beija com seus lábios.",
+    pronunciation: "/juː kɪs wɪð jɔːr lɪps./",
+    portuguesePhonetic: "iu quís uíd iór lips.",
+    syllables: ["You", " kiss", " with", " your", " lips."],
+    exampleSentence: "You kiss with your lips.",
+    exampleTranslation: "Você beija com seus lábios."
+  },
+  {
+    id: 'lesson_10_vocab_a1_27',
+    word: "You chew food with your white teeth.",
+    translation: "Você mastiga comida com seus dentes brancos.",
+    pronunciation: "/juː tʃuː fuːd wɪð jɔːr waɪt tiːθ./",
+    portuguesePhonetic: "iu tchú fúd uíd iór uáit tíθ.",
+    syllables: ["You", " chew", " food", " with", " your", " white", " teeth."],
+    exampleSentence: "You chew food with your white teeth.",
+    exampleTranslation: "Você mastiga comida com seus dentes brancos."
+  },
+  {
+    id: 'lesson_10_vocab_a1_28',
+    word: "You taste the food and wet your lips with your tongue.",
+    translation: "Você sente o gosto da comida e molha os lábios com sua língua.",
+    pronunciation: "/juː teɪst ðə fuːd ænd wɛt jɔːr lɪps wɪð jɔːr tʌŋ./",
+    portuguesePhonetic: "iu têist dâ fúd énd uét iór lips uíd iór tâng.",
+    syllables: ["You", " taste", " the", " food", " and", " wet", " your", " lips", " with", " your", " tongue."],
+    exampleSentence: "You taste the food and wet your lips with your tongue.",
+    exampleTranslation: "Você sente o gosto da comida e molha os lábios com sua língua."
+  },
+  {
+    id: 'lesson_10_vocab_a1_29',
+    word: "Your neck is below your head.",
+    translation: "Seu pescoço fica abaixo da sua cabeça.",
+    pronunciation: "/jɔːr nɛk ɪz bɪˈloʊ jɔːr hɛd./",
+    portuguesePhonetic: "iór néc íz bi-lóu iór réd.",
+    syllables: ["Your", " neck", " is", " be", "low", " your", " head."],
+    exampleSentence: "Your neck is below your head.",
+    exampleTranslation: "Seu pescoço fica abaixo da sua cabeça."
+  },
+  {
+    id: 'lesson_10_vocab_a1_30',
+    word: "Your shoulders are between your neck and arms.",
+    translation: "Seus ombros ficam entre seu pescoço e seus braços.",
+    pronunciation: "/jɔːr ˈʃoʊldərz ɑːr bɪˈtwiːn jɔːr nɛk ænd ɑːrmz./",
+    portuguesePhonetic: "iór chóul-ders ár bi-tuín iór néc énd árms.",
+    syllables: ["Your", " shoul", "ders", " are", " be", "tween", " your", " neck", " and", " arms."],
+    exampleSentence: "Your shoulders are between your neck and arms.",
+    exampleTranslation: "Seus ombros ficam entre seu pescoço e seus braços."
+  },
+  {
+    id: 'lesson_10_vocab_a1_31',
+    word: "Your arms go from your shoulders to your hands.",
+    translation: "Seus braços vão dos ombros até as mãos."
+    ,
+    pronunciation: "/jɔːr ɑːrmz ɡoʊ frɒm jɔːr ˈʃoʊldərz tuː jɔːr hændz./",
+    portuguesePhonetic: "iór árms góu fróm iór chóul-ders tchu iór rénds.",
+    syllables: ["Your", " arms", " go", " from", " your", " shoul", "ders", " to", " your", " hands."],
+    exampleSentence: "Your arms go from your shoulders to your hands.",
+    exampleTranslation: "Seus braços vão dos ombros até as mãos."
+  },
+  {
+    id: 'lesson_10_vocab_a1_32',
+    word: "You grab and hold things with your hands.",
+    translation: "Você pega e segura coisas com suas mãos.",
+    pronunciation: "/juː ɡræb ænd hoʊld θɪŋz wɪð jɔːr hændz./",
+    portuguesePhonetic: "iu gréb énd róuld thins uíd iór rénds.",
+    syllables: ["You", " grab", " and", " hold", " things", " with", " your", " hands."],
+    exampleSentence: "You grab and hold things with your hands.",
+    exampleTranslation: "Você pega e segura coisas com suas mãos."
+  },
+  {
+    id: 'lesson_10_vocab_a1_33',
+    word: "You have five fingers on each hand.",
+    translation: "Você tem cinco dedos em cada mão.",
+    pronunciation: "/juː hæv faɪv ˈfɪŋɡərz ɒn iːtʃ hænd./",
+    portuguesePhonetic: "iu rév fáiv fín-guers ón ítch rénd.",
+    syllables: ["You", " have", " five", " fin", "gers", " on", " each", " hand."],
+    exampleSentence: "You have five fingers on each hand.",
+    exampleTranslation: "Você tem cinco dedos em cada mão."
+  },
+  {
+    id: 'lesson_10_vocab_a1_34',
+    word: "Your chest is the front part of your body, between your stomach and neck.",
+    translation: "Seu peito é a parte da frente do seu corpo, entre o estômago e o pescoço.",
+    pronunciation: "/jɔːr tʃɛst ɪz ðə frʌnt pɑːrt ɒv jɔːr ˈbɒdi, bɪˈtwiːn jɔːr ˈstʌmək ænd nɛk./",
+    portuguesePhonetic: "iór tchést íz dâ frânt párt óv iór bó-di, bi-tuín iór stá-mac énd néc.",
+    syllables: ["Your", " chest", " is", " the", " front", " part", " of", " your", " bod", "y,", " be", "tween", " your", " stom", "ach", " and", " neck."],
+    exampleSentence: "Your chest is the front part of your body, between your stomach and neck.",
+    exampleTranslation: "Seu peito é a parte da frente do seu corpo, entre o estômago e o pescoço."
+  },
+  {
+    id: 'lesson_10_vocab_a1_35',
+    word: "When you eat, the food goes to your stomach.",
+    translation: "Quando você come, a comida vai para o seu estômago.",
+    pronunciation: "/wɛn juː iːt, ðə fuːd ɡoʊz tuː jɔːr ˈstʌmək./",
+    portuguesePhonetic: "uén iu ít, dâ fúd góus tchu iór stá-mac.",
+    syllables: ["When", " you", " eat,", " the", " food", " goes", " to", " your", " stom", "ach."],
+    exampleSentence: "When you eat, the food goes to your stomach.",
+    exampleTranslation: "Quando você come, a comida vai para o seu estômago."
+  },
+  {
+    id: 'lesson_10_vocab_a1_36',
+    word: "You carry a backpack on your back.",
+    translation: "Você carrega uma mochila nas costas.",
+    pronunciation: "/juː ˈkæri ə ˈbækpæk ɒn jɔːr bæk./",
+    portuguesePhonetic: "iu qué-ri a béc-péc ón iór béc.",
+    syllables: ["You", " car", "ry", " a", " back", "pack", " on", " your", " back."],
+    exampleSentence: "You carry a backpack on your back.",
+    exampleTranslation: "Você carrega uma mochila nas costas."
+  },
+  {
+    id: 'lesson_10_vocab_a1_37',
+    word: "You walk with your two legs.",
+    translation: "Você anda com suas duas pernas.",
+    pronunciation: "/juː wɔːk wɪð jɔːr tuː lɛɡz./",
+    portuguesePhonetic: "iu uóc uíd iór tchu légzs.",
+    syllables: ["You", " walk", " with", " your", " two", " legs."],
+    exampleSentence: "You walk with your two legs.",
+    exampleTranslation: "Você anda com suas duas pernas."
+  },
+  {
+    id: 'lesson_10_vocab_a1_38',
+    word: "Your knees are in the middle of your legs.",
+    translation: "Seus joelhos ficam no meio das suas pernas.",
+    pronunciation: "/jɔːr niːz ɑːr ɪn ðə ˈmɪdəl ɒv jɔːr lɛɡz./",
+    portuguesePhonetic: "iór nís ár ín dâ mí-dol óv iór légzs."
+    ,
+    syllables: ["Your", " knees", " are", " in", " the", " mid", "dle", " of", " your", " legs."],
+    exampleSentence: "Your knees are in the middle of your legs.",
+    exampleTranslation: "Seus joelhos ficam no meio das suas pernas."
+  },
+  {
+    id: 'lesson_10_vocab_a1_39',
+    word: "You wear shoes on your feet.",
+    translation: "Você usa sapatos nos pés.",
+    pronunciation: "/juː wɛər ʃuːz ɒn jɔːr fiːt./",
+    portuguesePhonetic: "iu uér chús ón iór fít.",
+    syllables: ["You", " wear", " shoes", " on", " your", " feet."],
+    exampleSentence: "You wear shoes on your feet.",
+    exampleTranslation: "Você usa sapatos nos pés."
+  },
+  {
+    id: 'lesson_10_vocab_a1_40',
+    word: "You have five toes on each foot.",
+    translation: "Você tem cinco dedos em cada pé.",
+    pronunciation: "/juː hæv faɪv toʊz ɒn iːtʃ fʊt./",
+    portuguesePhonetic: "iu rév fáiv tóuz ón ítch fút.",
+    syllables: ["You", " have", " five", " toes", " on", " each", " foot."],
+    exampleSentence: "You have five toes on each foot.",
+    exampleTranslation: "Você tem cinco dedos em cada pé."
+  },
+  {
+    id: 'lesson_10_vocab_a1_41',
+    word: "Sara is holding the baby in her arms.",
+    translation: "Sara está segurando o bebê em seus braços.",
+    pronunciation: "/ˈsɛərə ɪz ˈhoʊldɪŋ ðə ˈbeɪbi ɪn hɜːr ɑːrmz./",
+    portuguesePhonetic: "sé-ra íz róul-din dâ bêi-bi ín rãr árms.",
+    syllables: ["Sa", "ra", " is", " hold", "ing", " the", " ba", "by", " in", " her", " arms."],
+    exampleSentence: "Sara is holding the baby in her arms.",
+    exampleTranslation: "Sara está segurando o bebê em seus braços."
+  },
+  {
+    id: 'lesson_10_vocab_a1_42',
+    word: "Open your mouth and show me your tongue.",
+    translation: "Abra sua boca e mostre sua língua.",
+    pronunciation: "/ˈoʊpən jɔːr maʊθ ænd ʃoʊ miː jɔːr tʌŋ./",
+    portuguesePhonetic: "óu-pen iór máuθ énd chóu mí iór tâng.",
+    syllables: ["O", "pen", " your", " mouth", " and", " show", " me", " your", " tongue."],
+    exampleSentence: "Open your mouth and show me your tongue.",
+    exampleTranslation: "Abra sua boca e mostre sua língua."
+  },
+  {
+    id: 'lesson_10_vocab_a1_43',
+    word: "I brush my teeth three times a day.",
+    translation: "Eu escovo meus dentes três vezes ao dia.",
+    pronunciation: "/aɪ brʌʃ maɪ tiːθ θriː taɪmz ə deɪ./",
+    portuguesePhonetic: "ái brách mái tíθ θrí táims a dêi.",
+    syllables: ["I", " brush", " my", " teeth", " three", " times", " a", " day."],
+    exampleSentence: "I brush my teeth three times a day.",
+    exampleTranslation: "Eu escovo meus dentes três vezes ao dia."
+  },
+  {
+    id: 'lesson_10_vocab_a1_44',
+    word: "The baby’s eyes were closed because it was sleeping.",
+    translation: "Os olhos do bebê estavam fechados porque ele estava dormindo.",
+    pronunciation: "/ðə ˈbeɪbiz aɪz wɜːr kloʊzd bɪˈkɒz ɪt wɒz ˈsliːpɪŋ./",
+    portuguesePhonetic: "dâ bêi-bis áis uãr clóusd bi-cós it uós slí-pin.",
+    syllables: ["The", " ba", "by's", " eyes", " were", " closed", " " + String.fromCharCode(98) + "ecause", " it", " was", " sleep", "ing."],
+    exampleSentence: "The baby’s eyes were closed because it was sleeping.",
+    exampleTranslation: "Os olhos do bebê estavam fechados porque ele estava dormindo."
+  },
+  {
+    id: 'lesson_10_vocab_a1_45',
+    word: "I have five fingers on each hand.",
+    translation: "Eu tenho cinco dedos em cada mão.",
+    pronunciation: "/aɪ hæv faɪv ˈfɪŋɡərz ɒn iːtʃ hænd./",
+    portuguesePhonetic: "ái rév fáiv fín-guers ón ítch rénd.",
+    syllables: ["I", " have", " five", " fin", "gers", " on", " each", " hand."],
+    exampleSentence: "I have five fingers on each hand.",
+    exampleTranslation: "Eu tenho cinco dedos em cada mão."
+  },
+  {
+    id: 'lesson_10_vocab_a1_46',
+    word: "Your knees are in the middle of your legs.",
+    translation: "Seus joelhos ficam no meio das suas pernas.",
+    pronunciation: "/jɔːr niːz ɑːr ɪn ðə ˈmɪdəl ɒv jɔːr lɛɡz./",
+    portuguesePhonetic: "iór nís ár ín dâ mí-dol óv iór légzs.",
+    syllables: ["Your", " knees", " are", " in", " the", " mid", "dle", " of", " your", " legs."],
+    exampleSentence: "Your knees are in the middle of your legs.",
+    exampleTranslation: "Seus joelhos ficam no meio das suas pernas."
+  },
+  {
+    id: 'lesson_10_vocab_a1_47',
+    word: "John is lying on his back, looking up at the sky.",
+    translation: "John está deitado de costas, olhando para o céu.",
+    pronunciation: "/dʒɒn ɪz ˈlaɪɪŋ ɒn hɪz bæk, ˈlʊkɪŋ ʌp æt ðə skaɪ./",
+    portuguesePhonetic: "djón íz lái-in ón rís béc, lú-quin áp ét dâ scái.",
+    syllables: ["John", " is", " ly", "ing", " on", " his", " back,", " look", "ing", " up", " at", " the", " sky."],
+    exampleSentence: "John is lying on his back, looking up at the sky.",
+    exampleTranslation: "John está deitado de costas, olhando para o céu."
+  },
+  {
+    id: 'lesson_10_vocab_a1_48',
+    word: "Ken is wearing a blue hat on his head.",
+    translation: "Ken está usando um chapéu azul na cabeça.",
+    pronunciation: "/kɛn ɪz ˈwɛərɪŋ ə bluː hæt ɒn hɪz hɛd./",
+    portuguesePhonetic: "quén íz ué-rin a rét ón rís réd.",
+    syllables: ["Ken", " is", " wear", "ing", " a", " blue", " hat", " on", " his", " head."],
+    exampleSentence: "Ken is wearing a blue hat on his head.",
+    exampleTranslation: "Ken está usando um chapéu azul na cabeça."
+  },
+  {
+    id: 'lesson_10_vocab_a1_49',
+    word: "My feet were cold, so I put on some warm socks.",
+    translation: "Meus pés estavam frios, então coloquei meias quentes.",
+    pronunciation: "/maɪ fiːt wɜːr koʊld, soʊ aɪ pʊt ɒn sʌm wɔːm sɒks./",
+    portuguesePhonetic: "mái fít uãr cóuld, sóu ái pút ón sám uórm sócs.",
+    syllables: ["My", " feet", " were", " cold,", " so", " I", " put", " on", " some", " warm", " socks."],
+    exampleSentence: "My feet were cold, so I put on some warm socks.",
+    exampleTranslation: "Meus pés estavam frios, então coloquei meias quentes."
+  },
+  {
+    id: 'lesson_10_vocab_a1_50',
+    word: "The music was very loud, so I covered my ears with my hands.",
+    translation: "A música estava muito alta, então cobri meus ouvidos com as mãos.",
+    pronunciation: "/ðə ˈmjuːzɪk wɒz ˈvɛri laʊd, soʊ aɪ ˈkʌvərd maɪ ɪərz wɪð maɪ hændz./",
+    portuguesePhonetic: "dâ miú-zic uós vé-ri láud, sóu ái cá-verd mái íars uíd mái rénds.",
+    syllables: ["The", " mu", "sing", " was", " ver", "y", " loud,", " so", " I", " cov", "ered", " my", " ears", " with", " my", " hands."],
+    exampleSentence: "The music was very loud, so I covered my ears with my hands.",
+    exampleTranslation: "A música estava muito alta, então cobri meus ouvidos com as mãos."
+  },
+  {
+    id: 'lesson_10_vocab_a1_51',
+    word: "My feet hurt when I wear these shoes.",
+    translation: "Meus pés doem quando eu uso estes sapatos.",
+    pronunciation: "/maɪ fiːt hɜːrt wɛn aɪ wɛər ðiːz ʃuːz./",
+    portuguesePhonetic: "mái fít rãrt uén ái uér dís chús.",
+    syllables: ["My", " feet", " hurt", " when", " I", " wear", " these", " shoes."],
+    exampleSentence: "My feet hurt when I wear these shoes.",
+    exampleTranslation: "Meus pés doem quando eu uso estes sapatos."
+  },
+  {
+    id: 'lesson_10_vocab_a1_52',
+    word: "Claudia has blonde hair and blue eyes.",
+    translation: "Claudia tem cabelo loiro e olhos azuis.",
+    pronunciation: "/ˈklɔːdiə hæz blɒnd hɛər ænd bluː aɪz./",
+    portuguesePhonetic: "cló-dia réz blónd réar énd blú áis.",
+    syllables: ["Clau", "di", "a", " has", " blonde", " hair", " and", " blue", " eyes."],
+    exampleSentence: "Claudia has blonde hair and blue eyes.",
+    exampleTranslation: "Claudia tem cabelo loiro e olhos azuis."
+  },
+  {
+    id: 'lesson_10_vocab_a1_53',
+    word: "Tony’s stomach often hurts because he eats a lot of cake.",
+    translation: "O estômago do Tony frequentemente dói porque ele come muito bolo.",
+    pronunciation: "/ˈtoʊniz ˈstʌmək ˈɒfən hɜːrts bɪˈkɒz hiː iːts ə lɒt ɒv keɪk./",
+    portuguesePhonetic: "tóu-nis stá-mac ó-fan rãrts bi-cós rí íts a lót óv quêic.",
+    syllables: ["To", "ny's", " stom", "ach", " of", "ten", " hurts", " be", "cause", " he", " eats", " a", " lot", " of", " cake."],
+    exampleSentence: "Tony’s stomach often hurts because he eats a lot of cake.",
+    exampleTranslation: "O estômago do Tony frequentemente dói porque ele come muito bolo."
+  },
+  {
+    id: 'lesson_10_vocab_a1_54',
+    word: "We have five toes on each foot.",
+    translation: "Nós temos cinco dedos em cada pé.",
+    pronunciation: "/wiː hæv faɪv toʊz ɒn iːtʃ fʊt./",
+    portuguesePhonetic: "uí rév fáiv tóuz ón ítch fút.",
+    syllables: ["We", " have", " five", " toes", " on", " each", " foot."],
+    exampleSentence: "We have five toes on each foot.",
+    exampleTranslation: "Nós temos cinco dedos em cada pé."
+  },
+  {
+    id: 'lesson_10_vocab_a1_55',
+    word: "I can’t see the top of Jim’s head because he is wearing a hat.",
+    translation: "Eu não consigo ver o topo da cabeça do Jim porque ele está usando um chapéu.",
+    pronunciation: "/aɪ kænt siː ðə tɒp ɒv dʒɪmz hɛd bɪˈkɒz hiː ɪz ˈwɛərɪŋ ə hæt./",
+    portuguesePhonetic: "ái quént sí dâ tóp óv djíms réd bi-cós rí íz ué-rin a rét.",
+    syllables: ["I", " can't", " see", " the", " top", " of", " Jim's", " head", " be", "cause", " he", " is", " wear", "ing", " a", " hat."],
+    exampleSentence: "I can’t see the top of Jim’s head because he is wearing a hat.",
+    exampleTranslation: "Eu não consigo ver o topo da cabeça do Jim porque ele está usando um chapéu."
+  },
+  {
+    id: 'lesson_10_vocab_a1_56',
+    word: "Sally was wearing a ring on her finger.",
+    translation: "Sally estava usando um anel no dedo.",
+    pronunciation: "/ˈsæli wɒz ˈwɛərɪŋ ə rɪŋ ɒn hɜːr ˈfɪŋɡər./",
+    portuguesePhonetic: "sé-li uós ué-rin a rin ón rãr fín-guer.",
+    syllables: ["Sal", "ly", " was", " wear", "ing", " a", " ring", " on", " her", " fin", "ger."],
+    exampleSentence: "Sally was wearing a ring on her finger.",
+    exampleTranslation: "Sally estava usando um anel no dedo."
+  },
+  {
+    id: 'lesson_10_vocab_a1_57',
+    word: "Most adults have 34 teeth in their mouth.",
+    translation: "A maioria dos adultos tem 34 dentes na boca.",
+    pronunciation: "/moʊst ˈædʌlts hæv ˈθɜːrti fɔːr tiːθ ɪn ðɛər maʊθ./",
+    portuguesePhonetic: "móust á-dalts rév θãr-ti fór tíθ ín dér máuθ.",
+    syllables: ["Most", " a", "dults", " have", " 34", " teeth", " in", " their", " mouth."],
+    exampleSentence: "Most adults have 34 teeth in their mouth.",
+    exampleTranslation: "A maioria dos adultos tem 34 dentes na boca."
+  },
+  {
+    id: 'lesson_10_vocab_a1_58',
+    word: "Polly holds her mother’s hand when they cross the road.",
+    translation: "Polly segura a mão da mãe dela quando elas atravessam a rua.",
+    pronunciation: "/ˈpɒli hoʊldz hɜːr ˈmʌðərz hænd wɛn ðeɪ krɒs ðə roʊd./",
+    portuguesePhonetic: "pó-li róulds rãr má-ders rénd uén ðêi crós dâ róud.",
+    syllables: ["Pol", "ly", " holds", " her", " moth", "er's", " hand", " when", " they", " cross", " the", " road."],
+    exampleSentence: "Polly holds her mother’s hand when they cross the road.",
+    exampleTranslation: "Polly segura a mão da mãe dela quando elas atravessam a rua."
+  },
+  {
+    id: 'lesson_10_vocab_a1_59',
+    word: "When Ken opened his mouth, I could see his white teeth.",
+    translation: "Quando Ken abriu a boca, eu pude ver seus dentes brancos.",
+    pronunciation: "/wɛn kɛn ˈoʊpənd hɪz maʊθ, aɪ kʊd siː hɪz waɪt tiːθ./",
+    portuguesePhonetic: "uén quén óu-pend rís máuθ, ái cúd sí rís uáit tíθ.",
+    syllables: ["When", " Ken", " o", "pened", " his", " mouth,", " I", " could", " see", " his", " white", " teeth."],
+    exampleSentence: "When Ken opened his mouth, I could see his white teeth.",
+    exampleTranslation: "Quando Ken abriu a boca, eu pude ver seus dentes brancos."
+  },
+  {
+    id: 'lesson_10_vocab_a1_60',
+    word: "The smell was very bad, so I covered my nose.",
+    translation: "O cheiro estava muito ruim, então cobri meu nariz.",
+    pronunciation: "/ðə smɛl wɒz ˈvɛri bæd, soʊ aɪ ˈkʌvərd maɪ noʊz./",
+    portuguesePhonetic: "dâ smél uós vé-ri béd, sóu ái cá-verd mái nóuz.",
+    syllables: ["The", " smell", " was", " ver", "y", " bad,", " so", " I", " cov", "ered", " my", " nose."],
+    exampleSentence: "The smell was very bad, so I covered my nose.",
+    exampleTranslation: "O cheiro estava muito ruim, então cobri meu nariz."
+  }
+];
+
+export const LESSON_11_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: "lesson_11_vocab_a1_1",
+    word: "Shirt",
+    translation: "Camisa",
+    pronunciation: "/ʃɜːrt/",
+    portuguesePhonetic: "chãt",
+    syllables: ["Shirt"],
+    exampleSentence: "Shirt",
+    exampleTranslation: "Camisa"
+  },
+  {
+    id: "lesson_11_vocab_a1_2",
+    word: "Blouse",
+    translation: "Blusa",
+    pronunciation: "/blaʊz/",
+    portuguesePhonetic: "bláus",
+    syllables: ["Blouse"],
+    exampleSentence: "Blouse",
+    exampleTranslation: "Blusa"
+  },
+  {
+    id: "lesson_11_vocab_a1_3",
+    word: "Trousers (UK) / Pants (US)",
+    translation: "Calça",
+    pronunciation: "/ˈtraʊzərz / pænts/",
+    portuguesePhonetic: "trau-zers / pénts",
+    syllables: ["Trou", "sers", " / ", "Pants"],
+    exampleSentence: "Trousers (UK) / Pants (US)",
+    exampleTranslation: "Calça"
+  },
+  {
+    id: "lesson_11_vocab_a1_4",
+    word: "Suit",
+    translation: "Terno",
+    pronunciation: "/suːt/",
+    portuguesePhonetic: "sút",
+    syllables: ["Suit"],
+    exampleSentence: "Suit",
+    exampleTranslation: "Terno"
+  },
+  {
+    id: "lesson_11_vocab_a1_5",
+    word: "Dress",
+    translation: "Vestido",
+    pronunciation: "/drɛs/",
+    portuguesePhonetic: "drés",
+    syllables: ["Dress"],
+    exampleSentence: "Dress",
+    exampleTranslation: "Vestido"
+  },
+  {
+    id: "lesson_11_vocab_a1_6",
+    word: "Skirt",
+    translation: "Saia",
+    pronunciation: "/skɜːrt/",
+    portuguesePhonetic: "squãrt",
+    syllables: ["Skirt"],
+    exampleSentence: "Skirt",
+    exampleTranslation: "Saia"
+  },
+  {
+    id: "lesson_11_vocab_a1_7",
+    word: "Jeans",
+    translation: "Jeans / calça jeans",
+    pronunciation: "/dʒiːnz/",
+    portuguesePhonetic: "djíns",
+    syllables: ["Jeans"],
+    exampleSentence: "Jeans",
+    exampleTranslation: "Jeans / calça jeans"
+  },
+  {
+    id: "lesson_11_vocab_a1_8",
+    word: "Shorts",
+    translation: "Shorts / bermuda",
+    pronunciation: "/ʃɔːrts/",
+    portuguesePhonetic: "chorts",
+    syllables: ["Shorts"],
+    exampleSentence: "Shorts",
+    exampleTranslation: "Shorts / bermuda"
+  },
+  {
+    id: "lesson_11_vocab_a1_9",
+    word: "Sweater",
+    translation: "Suéter / blusa de frio",
+    pronunciation: "/ˈswɛtər/",
+    portuguesePhonetic: "sué-ter",
+    syllables: ["Sweat", "er"],
+    exampleSentence: "Sweater",
+    exampleTranslation: "Suéter / blusa de frio"
+  },
+  {
+    id: "lesson_11_vocab_a1_10",
+    word: "Underpants",
+    translation: "Cueca / calcinha / roupa íntima",
+    pronunciation: "/ˈʌndərpænts/",
+    portuguesePhonetic: "ân-der-pents",
+    syllables: ["Un", "der", "pants"],
+    exampleSentence: "Underpants",
+    exampleTranslation: "Cueca / calcinha / roupa íntima"
+  },
+  {
+    id: "lesson_11_vocab_a1_11",
+    word: "Jacket",
+    translation: "Jaqueta",
+    pronunciation: "/ˈdʒækɪt/",
+    portuguesePhonetic: "djé-quiti",
+    syllables: ["Jack", "et"],
+    exampleSentence: "Jacket",
+    exampleTranslation: "Jaqueta"
+  },
+  {
+    id: "lesson_11_vocab_a1_12",
+    word: "Coat",
+    translation: "Casaco",
+    pronunciation: "/koʊt/",
+    portuguesePhonetic: "cóut",
+    syllables: ["Coat"],
+    exampleSentence: "Coat",
+    exampleTranslation: "Casaco"
+  },
+  {
+    id: "lesson_11_vocab_a1_13",
+    word: "Hat",
+    translation: "Chapéu / boné",
+    pronunciation: "/hæt/",
+    portuguesePhonetic: "rét",
+    syllables: ["Hat"],
+    exampleSentence: "Hat",
+    exampleTranslation: "Chapéu / boné"
+  },
+  {
+    id: "lesson_11_vocab_a1_14",
+    word: "Socks",
+    translation: "Meias",
+    pronunciation: "/sɒks/",
+    portuguesePhonetic: "sócs",
+    syllables: ["Socks"],
+    exampleSentence: "Socks",
+    exampleTranslation: "Meias"
+  },
+  {
+    id: "lesson_11_vocab_a1_15",
+    word: "Shoes",
+    translation: "Sapatos",
+    pronunciation: "/ʃuːz/",
+    portuguesePhonetic: "chús",
+    syllables: ["Shoes"],
+    exampleSentence: "Shoes",
+    exampleTranslation: "Sapatos"
+  },
+  {
+    id: "lesson_11_vocab_a1_16",
+    word: "Boots",
+    translation: "Botas",
+    pronunciation: "/buːts/",
+    portuguesePhonetic: "búts",
+    syllables: ["Boots"],
+    exampleSentence: "Boots",
+    exampleTranslation: "Botas"
+  },
+  {
+    id: "lesson_11_vocab_a1_17",
+    word: "Gloves",
+    translation: "Luvas",
+    pronunciation: "/ɡlʌvz/",
+    portuguesePhonetic: "glávs",
+    syllables: ["Gloves"],
+    exampleSentence: "Gloves",
+    exampleTranslation: "Luvas"
+  },
+  {
+    id: "lesson_11_vocab_a1_18",
+    word: "Scarf",
+    translation: "Cachecol",
+    pronunciation: "/skɑːrf/",
+    portuguesePhonetic: "scárf",
+    syllables: ["Scarf"],
+    exampleSentence: "Scarf",
+    exampleTranslation: "Cachecol"
+  },
+  {
+    id: "lesson_11_vocab_a1_19",
+    word: "Tie",
+    translation: "Gravata",
+    pronunciation: "/taɪ/",
+    portuguesePhonetic: "tái",
+    syllables: ["Tie"],
+    exampleSentence: "Tie",
+    exampleTranslation: "Gravata"
+  },
+  {
+    id: "lesson_11_vocab_a1_20",
+    word: "Size",
+    translation: "Tamanho",
+    pronunciation: "/saɪz/",
+    portuguesePhonetic: "sáiz",
+    syllables: ["Size"],
+    exampleSentence: "Size",
+    exampleTranslation: "Tamanho"
+  },
+  {
+    id: "lesson_11_vocab_a1_21",
+    word: "A shirt is a piece of clothing for the upper body with buttons in the front.",
+    translation: "Uma camisa é uma peça de roupa para a parte superior do corpo, com botões na frente.",
+    pronunciation: "/ə ʃɜːrt ɪz ə piːs ɒv ˈkloʊðɪŋ fɔːr ðə ˈʌpər ˈbɒdi wɪð ˈbʌtənz ɪn ðə frʌnt./",
+    portuguesePhonetic: "a chãrt íz a pís óv clou-thin fór dâ á-per bó-di uíd bá-tons ín dâ frânt.",
+    syllables: ["A", " shirt", " is", " a", " piece", " of", " cloth", "ing", " for", " the", " up", "per", " bod", "y", " with", " but", "tons", " in", " the", " front."],
+    exampleSentence: "A shirt is a piece of clothing for the upper body with buttons in the front.",
+    exampleTranslation: "Uma camisa é uma peça de roupa para a parte superior do corpo, com botões na frente."
+  },
+  {
+    id: "lesson_11_vocab_a1_22",
+    word: "He’s wearing a black suit and a white shirt.",
+    translation: "Ele está usando um terno preto e uma camisa branca.",
+    pronunciation: "/hiːz ˈwɛərɪŋ ə blæk suːt ænd ə waɪt ʃɜːrt./",
+    portuguesePhonetic: "rís ué-rin a bléc sút énd a uáit chãrt.",
+    syllables: ["He's", " wear", "ing", " a", " black", " suit", " and", " a", " white", " shirt."],
+    exampleSentence: "He’s wearing a black suit and a white shirt.",
+    exampleTranslation: "Ele está usando um terno preto e uma camisa branca."
+  },
+  {
+    id: "lesson_11_vocab_a1_23",
+    word: "A blouse is like a shirt but for women.",
+    translation: "Uma blusa é como uma camisa, mas para mulheres.",
+    pronunciation: "/ə blaʊz ɪz laɪk ə ʃɜːrt bʌt fɔːr ˈwɪmɪn./",
+    portuguesePhonetic: "a bláus íz láic a chãrt bát fór uí-min.",
+    syllables: ["A", " blouse", " is", " like", " a", " shirt", " but", " for", " wom", "en."],
+    exampleSentence: "A blouse is like a shirt but for women.",
+    exampleTranslation: "Uma blusa é como uma camisa, mas para mulheres."
+  },
+  {
+    id: "lesson_11_vocab_a1_24",
+    word: "She always wears a blue or white blouse at work.",
+    translation: "Ela sempre usa uma blusa azul ou branca no trabalho.",
+    pronunciation: "/ʃiː ˈɔːlweɪz wɛərz ə bluː ɔːr waɪt blaʊz æt wɜːrk./",
+    portuguesePhonetic: "chí ól-uêis uérs a blú ór uáit bláus ét uãrk.",
+    syllables: ["She", " al", "ways", " wears", " a", " blue", " or", " white", " blouse", " at", " work."],
+    exampleSentence: "She always wears a blue or white blouse at work.",
+    exampleTranslation: "Ela sempre usa uma blusa azul ou branca no trabalho."
+  },
+  {
+    id: "lesson_11_vocab_a1_25",
+    word: "You wear trousers (UK) or pants (US) on your legs, with a separate part for each leg.",
+    translation: "Você usa calças nas pernas, com uma parte separada para cada perna.",
+    pronunciation: "/juː wɛər ˈtraʊzərz ɔːr pænts ɒn jɔːr lɛɡz, wɪð ə ˈsɛpərət pɑːrt fɔːr iːtʃ lɛɡ./",
+    portuguesePhonetic: "iu uér trau-zers ór pénts ón iór légzs, uíd a sé-pa-ret párt fór itch lég.",
+    syllables: ["You", " wear", " trou", "sers", " or", " pants", " on", " your", " legs,", " with", " a", " sep", "a", "rate", " part", " for", " each", " leg."],
+    exampleSentence: "You wear trousers (UK) or pants (US) on your legs, with a separate part for each leg.",
+    exampleTranslation: "Você usa calças nas pernas, com uma parte separada para cada perna."
+  },
+  {
+    id: "lesson_11_vocab_a1_26",
+    word: "She never wears trousers; she prefers to wear dresses or skirts.",
+    translation: "Ela nunca usa calças; ela prefere usar vestidos ou saias.",
+    pronunciation: "/ʃiː ˈnɛvər wɛərz ˈtraʊzərz; ʃiː priˈfɜːrz tuː wɛər ˈdrɛsɪz ɔːr skɜːrts./",
+    portuguesePhonetic: "chí né-ver uérs trau-zers; chí pri-fãrs tchu uér dré-sis ór squãrts.",
+    syllables: ["She", " nev", "er", " wears", " trou", "sers;", " she", " pre", "fers", " to", " wear", " dress", "es", " or", " skirts."],
+    exampleSentence: "She never wears trousers; she prefers to wear dresses or skirts.",
+    exampleTranslation: "Ela nunca usa calças; ela prefere usar vestidos ou saias."
+  },
+  {
+    id: "lesson_11_vocab_a1_27",
+    word: "A suit is a jacket and trousers that you wear at work or formal events.",
+    translation: "Um terno é uma jaqueta e uma calça que você usa no trabalho ou em eventos formais.",
+    pronunciation: "/ə suːt ɪz ə ˈdʒækɪt ænd ˈtraʊzərz ðæt juː wɛər æt wɜːrk ɔːr ˈfɔːrməl ɪˈvɛnts./",
+    portuguesePhonetic: "a sút íz a djé-quiti énd trau-zers dét iu uér ét uãrk ór fór-mol i-vénts.",
+    syllables: ["A", " suit", " is", " a", " jack", "et", " and", " trou", "sers", " that", " you", " wear", " at", " work", " or", " for", "mal", " e", "vents."],
+    exampleSentence: "A suit is a jacket and trousers that you wear at work or formal events.",
+    exampleTranslation: "Um terno é uma jaqueta e uma calça que você usa no trabalho ou em eventos formais."
+  },
+  {
+    id: "lesson_11_vocab_a1_28",
+    word: "He will wear a nice black suit at the wedding.",
+    translation: "Ele vai usar um belo terno preto no casamento.",
+    pronunciation: "/hiː wɪl wɛər ə naɪs blæk suːt æt ðə ˈwɛdɪŋ./",
+    portuguesePhonetic: "rí uíl uér a náis bléc sút ét dâ ué-din.",
+    syllables: ["He", " will", " wear", " a", " nice", " black", " suit", " at", " the", " wed", "ding."],
+    exampleSentence: "He will wear a nice black suit at the wedding.",
+    exampleTranslation: "Ele vai usar um belo terno preto no casamento."
+  },
+  {
+    id: "lesson_11_vocab_a1_29",
+    word: "A dress is a one-piece clothing for women that goes from shoulders to legs.",
+    translation: "Um vestido é uma peça única de roupa feminina que vai dos ombros até as pernas.",
+    pronunciation: "/ə drɛs ɪz ə wʌn-piːs ˈkloʊðɪŋ fɔːr ˈwɪmɪn ðæt ɡoʊz frɒm ˈʃoʊldərz tuː lɛɡz./",
+    portuguesePhonetic: "a drés íz a uân-pís clou-thin fór uí-min dét góus fróm chóul-ders tchu légzs.",
+    syllables: ["A", " dress", " is", " a", " one-", "piece", " cloth", "ing", " for", " wom", "en", " that", " goes", " from", " shoul", "ders", " to", " legs."],
+    exampleSentence: "A dress is a one-piece clothing for women that goes from shoulders to legs.",
+    exampleTranslation: "Um vestido é uma peça única de roupa feminina que vai dos ombros até as pernas."
+  },
+  {
+    id: "lesson_11_vocab_a1_30",
+    word: "A saree is a traditional dress that women wear in South Asia.",
+    translation: "Um saree é uma roupa tradicional que as mulheres usam no sul da Ásia.",
+    pronunciation: "/ə ˈsɑːri ɪz ə trəˈdɪʃənəl drɛs ðæt ˈwɪmɪn wɛər ɪn saʊθ ˈeɪʒə./",
+    portuguesePhonetic: "a sá-ri íz a tra-dí-cho-nol drés dét uí-min uér ín sauθ êi-ja.",
+    syllables: ["A", " sa", "ree", " is", " a", " tra", "di", "tion", "al", " dress", " that", " wom", "en", " wear", " in", " South", " A", "sia."],
+    exampleSentence: "A saree is a traditional dress that women wear in South Asia.",
+    exampleTranslation: "Um saree é uma roupa tradicional que as mulheres usam no sul da Ásia."
+  },
+  {
+    id: "lesson_11_vocab_a1_31",
+    word: "A skirt is a piece of clothing that women wear around their waist. It covers some or all of the legs.",
+    translation: "Uma saia é uma peça de roupa que mulheres usam ao redor da cintura. Ela cobre parte ou todas as pernas.",
+    pronunciation: "/ə skɜːrt ɪz ə piːs ɒv ˈkloʊðɪŋ ðæt ˈwɪmɪn wɛər əˈraʊnd ðɛər weɪst. ɪt ˈkʌvərz sʌm ɔːr ɔːl ɒv ðə lɛɡz./",
+    portuguesePhonetic: "a squãrt íz a pís óv clou-thin dét uí-min uér a-ráund dér uêist. it cá-vers sám ór ól óv dâ légzs.",
+    syllables: ["A", " skirt", " is", " a", " piece", " of", " cloth", "ing", " that", " wom", "en", " wear", " a", "round", " their", " waist.", " It", " cov", "ers", " some", " or", " all", " of", " the", " legs."],
+    exampleSentence: "A skirt is a piece of clothing that women wear around their waist. It covers some or all of the legs.",
+    exampleTranslation: "Uma saia é uma peça de roupa que mulheres usam ao redor da cintura. Ela cobre parte ou todas as pernas."
+  },
+  {
+    id: "lesson_11_vocab_a1_32",
+    word: "She never wears skirts; she prefers to wear trousers.",
+    translation: "Ela nunca usa saias; ela prefere usar calças.",
+    pronunciation: "/ʃiː ˈnɛvər wɛərz skɜːrts; ʃiː priˈfɜːrz tuː wɛər ˈtraʊzərz./",
+    portuguesePhonetic: "chí né-ver uérs squãrts; chí pri-fãrs tchu uér trau-zers.",
+    syllables: ["She", " nev", "er", " wears", " skirts;", " she", " pre", "fers", " to", " wear", " trou", "sers."],
+    exampleSentence: "She never wears skirts; she prefers to wear trousers.",
+    exampleTranslation: "Ela nunca usa saias; ela prefere usar calças."
+  },
+  {
+    id: "lesson_11_vocab_a1_33",
+    word: "Jeans are trousers that are strong and often blue.",
+    translation: "Jeans são calças resistentes e geralmente azuis.",
+    pronunciation: "/dʒiːnz ɑːr ˈtraʊzərz ðæt ɑːr strɒŋ ænd ˈɒfən bluː./",
+    portuguesePhonetic: "djíns ár trau-zers dét ár strón énd ó-fen blú.",
+    syllables: ["Jeans", " are", " trou", "sers", " that", " are", " strong", " and", " of", "ten", " blue."],
+    exampleSentence: "Jeans are trousers that are strong and often blue.",
+    exampleTranslation: "Jeans são calças resistentes e geralmente azuis."
+  },
+  {
+    id: "lesson_11_vocab_a1_34",
+    word: "I wear blue jeans almost every day because they’re comfortable.",
+    translation: "Eu uso jeans azul quase todos os dias porque eles são confortáveis.",
+    pronunciation: "/aɪ wɛər bluː dʒiːnz ˈɔːlmoʊst ˈɛvri deɪ bɪˈkɒz ðeɪr ˈkʌmftəbəl./",
+    portuguesePhonetic: "ái uér blú djíns ól-móust é-vri dêi bi-cós ðêir cámf-ta-bol.",
+    syllables: ["I", " wear", " blue", " jeans", " al", "most", " ev", "ery", " day", " be", "cause", " they're", " com", "fort", "a", "ble."],
+    exampleSentence: "I wear blue jeans almost every day because they’re comfortable.",
+    exampleTranslation: "Eu uso jeans azul quase todos os dias porque eles são confortáveis."
+  },
+  {
+    id: "lesson_11_vocab_a1_35",
+    word: "Shorts are like trousers but short; they don’t cover all the legs.",
+    translation: "Shorts são como calças, mas curtos; eles não cobrem toda a perna.",
+    pronunciation: "/ʃɔːrts ɑːr laɪk ˈtraʊzərz bʌt ʃɔːrt; ðeɪ doʊnt ˈkʌvər ɔːl ðə lɛɡz./",
+    portuguesePhonetic: "chórts ár láic trau-zers bát chórt; ðêi dóunt cá-ver ól dâ légzs.",
+    syllables: ["Shorts", " are", " like", " trou", "sers", " but", " short;", " they", " don't", " cov", "er", " all", " the", " legs."],
+    exampleSentence: "Shorts are like trousers but short; they don’t cover all the legs.",
+    exampleTranslation: "Shorts são como calças, mas curtos; eles não cobrem toda a perna."
+  },
+  {
+    id: "lesson_11_vocab_a1_36",
+    word: "I don’t want to wear trousers today because it’s hot. I’ll wear shorts.",
+    translation: "Eu não quero usar calça hoje porque está quente. Vou usar shorts.",
+    pronunciation: "/aɪ doʊnt wɒnt tuː wɛər ˈtraʊzərz təˈdeɪ bɪˈkɒz ɪts hɒt. aɪl wɛər ʃɔːrts./",
+    portuguesePhonetic: "ái dóunt uónt tchu uér trau-zers tchu-dêi bi-cós íts rót. áil uér chórts.",
+    syllables: ["I", " don't", " want", " to", " wear", " trou", "sers", " to", "day", " be", "cause", " it's", " hot.", " I'll", " wear", " shorts."],
+    exampleSentence: "I don’t want to wear trousers today because it’s hot. I’ll wear shorts.",
+    exampleTranslation: "Eu não quero usar calça hoje porque está quente. Vou usar shorts."
+  },
+  {
+    id: "lesson_11_vocab_a1_37",
+    word: "A sweater is a warm top that covers the upper body and arms.",
+    translation: "Um suéter é uma peça quente que cobre a parte superior do corpo e os braços.",
+    pronunciation: "/ə ˈswɛtər ɪz ə wɔːrm tɒp ðæt ˈkʌvərz ðə ˈʌpər ˈbɒdi ænd ɑːrmz./",
+    portuguesePhonetic: "a sué-ter íz a uórm tóp dét cá-vers dâ á-per bó-di énd árms.",
+    syllables: ["A", " sweat", "er", " is", " a", " warm", " top", " that", " cov", "ers", " the", " up", "per", " bod", "y", " and", " arms."],
+    exampleSentence: "A sweater is a warm top that covers the upper body and arms.",
+    exampleTranslation: "Um suéter é uma peça quente que cobre a parte superior do corpo e os braços."
+  },
+  {
+    id: "lesson_11_vocab_a1_38",
+    word: "When it gets cold, I like to wear a warm sweater under my coat.",
+    translation: "Quando fica frio, eu gosto de usar um suéter quente por baixo do meu casaco.",
+    pronunciation: "/wɛn ɪt ɡɛts koʊld, aɪ laɪk tuː wɛər ə wɔːrm ˈswɛtər ˈʌndər maɪ koʊt./",
+    portuguesePhonetic: "uén it ghéts cóuld, ái láic tchu uér a uórm sué-ter án-der mái cóut.",
+    syllables: ["When", " it", " gets", " cold,", " I", " like", " to", " wear", " a", " warm", " sweat", "er", " un", "der", " my", " coat."],
+    exampleSentence: "When it gets cold, I like to wear a warm sweater under my coat.",
+    exampleTranslation: "Quando fica frio, eu gosto de usar um suéter quente por baixo do meu casaco."
+  },
+  {
+    id: "lesson_11_vocab_a1_39",
+    word: "Underpants or underwear are the clothing under your trousers or dress/skirt.",
+    translation: "Cueca, calcinha ou roupa íntima são as roupas usadas por baixo da calça, vestido ou saia.",
+    pronunciation: "/ˈʌndərpænts ɔːr ˈʌndərwɛər ɑːr ðə ˈkloʊðɪŋ ˈʌndər jɔːr ˈtraʊzərz ɔːr drɛs/skɜːrt./",
+    portuguesePhonetic: "ân-der-pents ór án-der-uér ár dâ clou-thin án-der iór trau-zers ór drés/squãrt.",
+    syllables: ["Un", "der", "pants", " or", " un", "der", "wear", " are", " the", " cloth", "ing", " un", "der", " your", " trou", "sers", " or", " dress", "/", "skirt."],
+    exampleSentence: "Underpants or underwear are the clothing under your trousers or dress/skirt.",
+    exampleTranslation: "Cueca, calcinha ou roupa íntima são as roupas usadas por baixo da calça, vestido ou saia."
+  },
+  {
+    id: "lesson_11_vocab_a1_40",
+    word: "You should change your underpants every day.",
+    translation: "Você deve trocar sua roupa íntima todos os dias.",
+    pronunciation: "/juː ʃʊd tʃeɪndʒ jɔːr ˈʌndərpænts ˈɛvri deɪ./",
+    portuguesePhonetic: "iu chúd tchêindj iór ân-der-pents é-vri dêi.",
+    syllables: ["You", " should", " change", " your", " un", "der", "pants", " ev", "ery", " day."],
+    exampleSentence: "You should change your underpants every day.",
+    exampleTranslation: "Você deve trocar sua roupa íntima todos os dias."
+  },
+  {
+    id: "lesson_11_vocab_a1_41",
+    word: "A jacket is a piece of clothing for the upper body, similar to a coat, but a coat is warmer.",
+    translation: "Uma jaqueta é uma peça de roupa para a parte superior do corpo, parecida com um casaco, mas o casaco é mais quente.",
+    pronunciation: "/ə ˈdʒækɪt ɪz ə piːs ɒv ˈkloʊðɪŋ fɔːr ðə ˈʌpər ˈbɒdi, ˈsɪmɪlər tuː ə koʊt, bʌt ə koʊt ɪz ˈwɔːrmər./",
+    portuguesePhonetic: "a djé-quiti íz a pís óv clou-thin fór dâ á-per bó-di, sí-mi-lar tchu a cóut, bát a cóut íz uór-mer.",
+    syllables: ["A", " jack", "et", " is", " a", " piece", " of", " cloth", "ing", " for", " the", " up", "per", " bod", "y,", " sim", "i", "lar", " to", " a", " coat,", " but", " a", " coat", " is", " warm", "er."],
+    exampleSentence: "A jacket is a piece of clothing for the upper body, similar to a coat, but a coat is warmer.",
+    exampleTranslation: "Uma jaqueta é uma peça de roupa para a parte superior do corpo, parecida com um casaco, mas o casaco é mais quente."
+  },
+  {
+    id: "lesson_11_vocab_a1_42",
+    word: "I wear a warm coat in the winter, but in spring, when it’s warm, I wear a jacket.",
+    translation: "Eu uso um casaco quente no inverno, mas na primavera, quando está quente, eu uso uma jaqueta.",
+    pronunciation: "/aɪ wɛər ə wɔːrm koʊt ɪn ðə ˈwɪntər, bʌt ɪn sprɪŋ, wɛn ɪts wɔːrm, aɪ wɛər ə ˈdʒækɪt./",
+    portuguesePhonetic: "ái uér a uórm cóut ín dâ uín-ter, bát ín sprin, uén íts uórm, ái uér a djé-quiti.",
+    syllables: ["I", " wear", " a", " warm", " coat", " in", " the", " win", "ter,", " but", " in", " spring,", " when", " it's", " warm,", " I", " wear", " a", " jack", "et."],
+    exampleSentence: "I wear a warm coat in the winter, but in spring, when it’s warm, I wear a jacket.",
+    exampleTranslation: "Eu uso um casaco quente no inverno, mas na primavera, quando está quente, eu uso uma jaqueta."
+  },
+  {
+    id: "lesson_11_vocab_a1_43",
+    word: "A coat is a warm piece of clothing for the upper body that you wear over other clothes in cold weather to keep warm.",
+    translation: "Um casaco é uma peça de roupa quente para a parte superior do corpo, usada sobre outras roupas no frio para se manter aquecido.",
+    pronunciation: "/ə koʊt ɪz ə wɔːrm piːs ɒv ˈkloʊðɪŋ fɔːr ðə ˈʌpər ˈbɒdi ðæt juː wɛər ˈoʊvər ˈʌðər kloʊðz ɪn koʊld ˈwɛðər tuː kiːp wɔːm./",
+    portuguesePhonetic: "a cóut íz a uórm pís óv clou-thin fór dâ á-per bó-di dét iu uér óu-ver á-der clou-ds ín cóuld ué-der tchu quíp uórm.",
+    syllables: ["A", " coat", " is", " a", " warm", " piece", " of", " cloth", "ing", " for", " the", " up", "per", " bod", "y", " that", " you", " wear", " o", "ver", " oth", "er", " clothes", " in", " cold", " weath", "er", " to", " keep", " warm."],
+    exampleSentence: "A coat is a warm piece of clothing for the upper body that you wear over other clothes in cold weather to keep warm.",
+    exampleTranslation: "Um casaco é uma peça de roupa quente para a parte superior do corpo, usada sobre outras roupas no frio para se manter aquecido."
+  },
+  {
+    id: "lesson_11_vocab_a1_44",
+    word: "Put on your coat; it’s snowing outside.",
+    translation: "Coloque seu casaco; está nevando lá fora.",
+    pronunciation: "/pʊt ɒn jɔːr koʊt; ɪts ˈsnoʊɪŋ ˌaʊˈsaɪd./",
+    portuguesePhonetic: "pút ón iór cóut; íts snóu-in au-sáid.",
+    syllables: ["Put", " on", " your", " coat;", " it's", " snow", "ing", " out", "side."],
+    exampleSentence: "Put on your coat; it’s snowing outside.",
+    exampleTranslation: "Coloque seu casaco; está nevando lá fora."
+  },
+  {
+    id: "lesson_11_vocab_a1_45",
+    word: "A hat is a piece of clothing that you wear on your head.",
+    translation: "Um chapéu é uma peça de roupa que você usa na cabeça.",
+    pronunciation: "/ə hæt ɪz ə piːs ɒv ˈkloʊðɪŋ ðæt juː wɛər ɒn jɔːr hɛd./",
+    portuguesePhonetic: "a rét íz a pís óv clou-thin dét iu uér ón iór réd.",
+    syllables: ["A", " hat", " is", " a", " piece", " of", " cloth", "ing", " that", " you", " wear", " on", " your", " head."],
+    exampleSentence: "A hat is a piece of clothing that you wear on your head.",
+    exampleTranslation: "Um chapéu é uma peça de roupa que você usa na cabeça."
+  },
+  {
+    id: "lesson_11_vocab_a1_46",
+    word: "He always wears a hat to protect his head from the sun.",
+    translation: "Ele sempre usa um chapéu para proteger a cabeça do sol.",
+    pronunciation: "/hiː ˈɔːlweɪz wɛərz ə hæt tuː prəˈtɛkt hɪz hɛd frɒm ðə sʌn./",
+    portuguesePhonetic: "rí ól-uêis uérs a rét tchu pra-téct rís réd fróm dâ sân.",
+    syllables: ["He", " al", "ways", " wears", " a", " hat", " to", " pro", "tect", " his", " head", " from", " the", " sun."],
+    exampleSentence: "He always wears a hat to protect his head from the sun.",
+    exampleTranslation: "Ele sempre usa um chapéu para proteger a cabeça do sol."
+  },
+  {
+    id: "lesson_11_vocab_a1_47",
+    word: "Socks are a piece of clothing that you wear on your feet, under your shoes.",
+    translation: "Meias são peças de roupa que você usa nos pés, por baixo dos sapatos.",
+    pronunciation: "/sɒks ɑːr ə piːs ɒv ˈkloʊðɪŋ ðæt juː wɛər ɒn jɔːr fiːt, ˈʌndər jɔːr ʃuːz./",
+    portuguesePhonetic: "sócs ár a pís óv clou-thin dét iu uér ón iór fít, án-der iór chús.",
+    syllables: ["Socks", " are", " a", " piece", " of", " cloth", "ing", " that", " you", " wear", " on", " your", " feet,", " un", "der", " your", " shoes."],
+    exampleSentence: "Socks are a piece of clothing that you wear on your feet, under your shoes.",
+    exampleTranslation: "Meias são peças de roupa que você usa nos pés, por baixo dos sapatos."
+  },
+  {
+    id: "lesson_11_vocab_a1_48",
+    word: "I wear warm socks and boots in winter because my feet are often cold.",
+    translation: "Eu uso meias quentes e botas no inverno porque meus pés geralmente ficam frios.",
+    pronunciation: "/aɪ wɛər wɔːm sɒks ænd buːts ɪn ˈwɪntər bɪˈkɒz maɪ fiːt ɑːr ˈɒfən koʊld./",
+    portuguesePhonetic: "ái uér uórm sócs énd búts ín uín-ter bi-cós mái fít ár ó-fen cóuld.",
+    syllables: ["I", " wear", " warm", " socks", " and", " boots", " in", " win", "ter", " be", "cause", " my", " feet", " are", " of", "ten", " cold."],
+    exampleSentence: "I wear warm socks and boots in winter because my feet are often cold.",
+    exampleTranslation: "Eu uso meias quentes e botas no inverno porque meus pés geralmente ficam frios."
+  },
+  {
+    id: "lesson_11_vocab_a1_49",
+    word: "You wear shoes on your feet when you are outside.",
+    translation: "Você usa sapatos nos pés quando está fora de casa.",
+    pronunciation: "/juː wɛər ʃuːz ɒn jɔːr fiːt wɛn juː ɑːr ˌaʊˈsaɪd./",
+    portuguesePhonetic: "iu uér chús ón iór fít uén iu ár au-sáid.",
+    syllables: ["You", " wear", " shoes", " on", " your", " feet", " when", " you", " are", " out", "side."],
+    exampleSentence: "You wear shoes on your feet when you are outside.",
+    exampleTranslation: "Você usa sapatos nos pés quando está fora de casa."
+  },
+  {
+    id: "lesson_11_vocab_a1_50",
+    word: "These shoes are too small. My feet are hurting.",
+    translation: "Estes sapatos são pequenos demais. Meus pés estão doendo.",
+    pronunciation: "/ðiːz ʃuːz ɑːr tuː smɔːl. maɪ fiːt ɑːr ˈhɜːrtɪŋ./",
+    portuguesePhonetic: "dís chús ár tchu smól. mái fít ár rãr-tin.",
+    syllables: ["These", " shoes", " are", " too", " small.", " My", " feet", " are", " hurt", "ing."],
+    exampleSentence: "These shoes are too small. My feet are hurting.",
+    exampleTranslation: "Estes sapatos são pequenos demais. Meus pés estão doendo."
+  },
+  {
+    id: "lesson_11_vocab_a1_51",
+    word: "Boots are like shoes, but they cover your feet and part of your legs.",
+    translation: "Botas são como sapatos, mas cobrem seus pés e parte das pernas.",
+    pronunciation: "/buːts ɑːr laɪk ʃuːz, bʌt ðeɪ ˈkʌvər jɔːr fiːt ænd pɑːrt ɒv jɔːr lɛɡz./",
+    portuguesePhonetic: "búts ár láic chús, bát ðêi cá-vers iór fít énd párt óv iór légzs.",
+    syllables: ["Boots", " are", " like", " shoes,", " but", " they", " cov", "er", " your", " feet", " and", " part", " of", " your", " legs."],
+    exampleSentence: "Boots are like shoes, but they cover your feet and part of your legs.",
+    exampleTranslation: "Botas são como sapatos, mas cobrem seus pés e parte das pernas."
+  },
+  {
+    id: "lesson_11_vocab_a1_52",
+    word: "In the winter, I wear boots to keep my feet warm.",
+    translation: "No inverno, eu uso botas para manter meus pés aquecidos.",
+    pronunciation: "/ɪn ðə ˈwɪntər, aɪ wɛər buːts tuː kiːp maɪ fiːt wɔːm./",
+    portuguesePhonetic: "ín dâ uín-ter, ái uér búts tchu quíp mái fít uórm.",
+    syllables: ["In", " the", " win", "ter,", " I", " wear", " boots", " to", " keep", " my", " feet", " warm."],
+    exampleSentence: "In the winter, I wear boots to keep my feet warm.",
+    exampleTranslation: "No inverno, eu uso botas para manter meus pés aquecidos."
+  },
+  {
+    id: "lesson_11_vocab_a1_53",
+    word: "You wear gloves on your hands in winter.",
+    translation: "Você usa luvas nas mãos no inverno.",
+    pronunciation: "/juː wɛər ɡlʌvz ɒn jɔːr hændz ɪn ˈwɪntər./",
+    portuguesePhonetic: "iu uér glávs ón iór rénds ín uín-ter.",
+    syllables: ["You", " wear", " gloves", " on", " your", " hands", " in", " win", "ter."],
+    exampleSentence: "You wear gloves on your hands in winter.",
+    exampleTranslation: "Você usa luvas nas mãos no inverno."
+  },
+  {
+    id: "lesson_11_vocab_a1_54",
+    word: "My mom gave me a pair of gloves to keep my hands warm.",
+    translation: "Minha mãe me deu um par de luvas para manter minhas mãos aquecidas.",
+    pronunciation: "/maɪ mɒm ɡeɪv miː ə pɛər ɒv ɡlʌvz tuː kiːp maɪ hændz wɔːm./",
+    portuguesePhonetic: "mái móm ghêiv mí a pér óv glávs tchu quíp mái rénds uórm.",
+    syllables: ["My", " mom", " gave", " me", " a", " pair", " of", " gloves", " to", " keep", " my", " hands", " warm."],
+    exampleSentence: "My mom gave me a pair of gloves to keep my hands warm.",
+    exampleTranslation: "Minha mãe me deu um par de luvas para manter minhas mãos aquecidas."
+  },
+  {
+    id: "lesson_11_vocab_a1_55",
+    word: "You wear a scarf around your neck when it’s cold.",
+    translation: "Você usa um cachecol ao redor do pescoço quando está frio.",
+    pronunciation: "/juː wɛər ə skɑːrf əˈraʊnd jɔːr nɛk wɛn ɪts koʊld./",
+    portuguesePhonetic: "iu uér a scárf a-ráund iór néc uén íts cóuld.",
+    syllables: ["You", " wear", " a", " scarf", " a", "round", " your", " neck", " when", " it's", " cold."],
+    exampleSentence: "You wear a scarf around your neck when it’s cold.",
+    exampleTranslation: "Você usa um cachecol ao redor do pescoço quando está frio."
+  },
+  {
+    id: "lesson_11_vocab_a1_56",
+    word: "I’m wearing a scarf around my neck because it’s cold.",
+    translation: "Eu estou usando um cachecol ao redor do pescoço porque está frio.",
+    pronunciation: "/aɪm ˈwɛərɪŋ ə skɑːrf əˈraʊnd maɪ nɛk bɪˈkɒz ɪts koʊld./",
+    portuguesePhonetic: "áim ué-rin a scárf a-ráund mái néc bi-cós íts cóuld.",
+    syllables: ["I'm", " wear", "ing", " a", " scarf", " a", "round", " my", " neck", " be", "cause", " its", " cold."],
+    exampleSentence: "I’m wearing a scarf around my neck because it’s cold.",
+    exampleTranslation: "Eu estou usando um cachecol ao redor do pescoço porque está frio."
+  },
+  {
+    id: "lesson_11_vocab_a1_57",
+    word: "Men wear a tie around their neck on formal occasions.",
+    translation: "Homens usam gravata ao redor do pescoço em ocasiões formais.",
+    pronunciation: "/mɛn wɛər ə taɪ əˈraʊnd ðɛər nɛk ɒn ˈfɔːrməl əˈkeɪʒənz./",
+    portuguesePhonetic: "mén uér a tái a-ráund dér néc ón fór-mol a-quêi-jôns.",
+    syllables: ["Men", " wear", " a", " tie", " a", "round", " their", " neck", " on", " for", "mal", " oc", "ca", "sions."],
+    exampleSentence: "Men wear a tie around their neck on formal occasions.",
+    exampleTranslation: "Homens usam gravata ao redor do pescoço em ocasiões formais."
+  },
+  {
+    id: "lesson_11_vocab_a1_58",
+    word: "I don’t like wearing a tie because it feels uncomfortable around my neck.",
+    translation: "Eu não gosto de usar gravata porque ela fica desconfortável ao redor do meu pescoço.",
+    pronunciation: "/aɪ doʊnt laɪk ˈwɛərɪŋ ə taɪ bɪˈkɒz ɪt fiːlz ˌʌnˈkʌmftəbəl əˈraʊnd maɪ nɛk./",
+    portuguesePhonetic: "ái dóunt láic ué-rin a tái bi-cós it fíls ân-cámf-ta-bol a-ráund mái néc.",
+    syllables: ["I", " don't", " like", " wear", "ing", " a", " tie", " be", "cause", " it", " feels", " un", "com", "fort", "a", "ble", " a", "round", " my", " neck."],
+    exampleSentence: "I don’t like wearing a tie because it feels uncomfortable around my neck.",
+    exampleTranslation: "Eu não gosto de usar gravata porque ela fica desconfortável ao redor do meu pescoço."
+  },
+  {
+    id: "lesson_11_vocab_a1_59",
+    word: "When you buy clothes, you need to choose your size: small, medium, large, extra-large, etc.",
+    translation: "Quando você compra roupas, precisa escolher seu tamanho: pequeno, médio, grande, extra grande etc.",
+    pronunciation: "/wɛn juː baɪ kloʊðz, juː niːd tuː tʃuːz jɔːr saɪz: smɔːl, ˈmiːdiəm, lɑːrdʒ, ˈɛkstrə lɑːrdʒ, ɪtˈsɛtərə./",
+    portuguesePhonetic: "uén iu bái clou-ds, iu níd tchu tchús iór sáiz: smól, mí-dien, lárdj, éc-stra lárdj, et-cé-te-ra.",
+    syllables: ["When", " you", " buy", " clothes,", " you", " need", " to", " choose", " your", " size:", " small,", " me", "di", "um,", " large,", " ex", "tra-", "large,", " etc."],
+    exampleSentence: "When you buy clothes, you need to choose your size: small, medium, large, extra-large, etc.",
+    exampleTranslation: "Quando você compra roupas, precisa escolher seu tamanho: pequeno, médio, grande, extra grande etc."
+  },
+  {
+    id: "lesson_11_vocab_a1_60",
+    word: "“What size are you?” “I’m a medium.”",
+    translation: "“Qual é o seu tamanho?” “Eu uso médio.”",
+    pronunciation: "/wɒt saɪz ɑːr juː? aɪm ə ˈmiːdiəm./",
+    portuguesePhonetic: "uót sáiz ár iu? áim a mí-dien.",
+    syllables: ["“What", " size", " are", " you?”", " “I'm", " a", " me", "di", "um.”"],
+    exampleSentence: "“What size are you?” “I’m a medium.”",
+    exampleTranslation: "“Qual é o seu tamanho?” “Eu uso médio.”"
+  },
+  {
+    id: "lesson_11_vocab_a1_61",
+    word: "Wear",
+    translation: "Usar / vestir",
+    pronunciation: "/wɛər/",
+    portuguesePhonetic: "uér",
+    syllables: ["Wear"],
+    exampleSentence: "Wear",
+    exampleTranslation: "Usar / vestir"
+  },
+  {
+    id: "lesson_11_vocab_a1_62",
+    word: "Put on",
+    translation: "Colocar / vestir",
+    pronunciation: "/pʊt ɒn/",
+    portuguesePhonetic: "pút ón",
+    syllables: ["Put", " on"],
+    exampleSentence: "Put on",
+    exampleTranslation: "Colocar / vestir"
+  },
+  {
+    id: "lesson_11_vocab_a1_63",
+    word: "Take off",
+    translation: "Tirar",
+    pronunciation: "/teɪk ɒf/",
+    portuguesePhonetic: "têic óf",
+    syllables: ["Take", " off"],
+    exampleSentence: "Take off",
+    exampleTranslation: "Tirar"
+  },
+  {
+    id: "lesson_11_vocab_a1_64",
+    word: "Get dressed",
+    translation: "Vestir-se",
+    pronunciation: "/ɡɛt drɛst/",
+    portuguesePhonetic: "ghét drést",
+    syllables: ["Get", " dressed"],
+    exampleSentence: "Get dressed",
+    exampleTranslation: "Vestir-se"
+  },
+  {
+    id: "lesson_11_vocab_a1_65",
+    word: "Try on",
+    translation: "Experimentar",
+    pronunciation: "/traɪ ɒn/",
+    portuguesePhonetic: "trái ón",
+    syllables: ["Try", " on"],
+    exampleSentence: "Try on",
+    exampleTranslation: "Experimentar"
+  },
+  {
+    id: "lesson_11_vocab_a1_66",
+    word: "Hang up",
+    translation: "Pendurar",
+    pronunciation: "/hæŋ ʌp/",
+    portuguesePhonetic: "rén áp",
+    syllables: ["Hang", " up"],
+    exampleSentence: "Hang up",
+    exampleTranslation: "Pendurar"
+  },
+  {
+    id: "lesson_11_vocab_a1_67",
+    word: "Fit",
+    translation: "Servir / caber",
+    pronunciation: "/fɪt/",
+    portuguesePhonetic: "fít",
+    syllables: ["Fit"],
+    exampleSentence: "Fit",
+    exampleTranslation: "Servir / caber"
+  },
+  {
+    id: "lesson_11_vocab_a1_68",
+    word: "Do the laundry",
+    translation: "Lavar roupa",
+    pronunciation: "/duː ðə ˈlɔːndri/",
+    portuguesePhonetic: "dú dâ lón-dri",
+    syllables: ["Do", " the", " laun", "dry"],
+    exampleSentence: "Do the laundry",
+    exampleTranslation: "Lavar roupa"
+  },
+  {
+    id: "lesson_11_vocab_a1_69",
+    word: "If you wear a piece of clothing, you have it on your body.",
+    translation: "Se você usa uma peça de roupa, você a tem no corpo.",
+    pronunciation: "/ɪf juː wɛər ə piːs ɒv ˈkloʊðɪŋ, juː hæv ɪt ɒn jɔːr ˈbɒdi./",
+    portuguesePhonetic: "íf iu uér a pís óv clou-thin, iu rév it ón iór bó-di.",
+    syllables: ["If", " you", " wear", " a", " piece", " of", " cloth", "ing,", " you", " have", " it", " on", " your", " bod", "y."],
+    exampleSentence: "If you wear a piece of clothing, you have it on your body.",
+    exampleTranslation: "Se você usa uma peça de roupa, você a tem no corpo."
+  },
+  {
+    id: "lesson_11_vocab_a1_70",
+    word: "I like to wear comfortable clothes when I’m not at work.",
+    translation: "Eu gosto de usar roupas confortáveis quando não estou no trabalho.",
+    pronunciation: "/aɪ laɪk tuː wɛər ˈkʌmftəbəl kloʊðz wɛn aɪm nɒt æt wɜːrk./",
+    portuguesePhonetic: "ái láic tchu uér cámf-ta-bol clou-ds uén áim nót ét uãrk.",
+    syllables: ["I", " like", " to", " wear", " com", "fort", "a", "ble", " clothes", " when", " I'm", " not", " at", " work."],
+    exampleSentence: "I like to wear comfortable clothes when I’m not at work.",
+    exampleTranslation: "Eu gosto de usar roupas confortáveis quando não estou no trabalho."
+  },
+  {
+    id: "lesson_11_vocab_a1_71",
+    word: "When you put on clothes or make-up, you place them on your body to wear them.",
+    translation: "Quando você coloca roupas ou maquiagem, você as coloca no corpo para usá-las.",
+    pronunciation: "/wɛn juː pʊt ɒn kloʊðz ɔːr ˈmeɪkʌp, juː pleɪs ðɛm ɒn jɔːr ˈbɒdi tuː wɛər ðɛm./",
+    portuguesePhonetic: "uén iu pút ón clou-ds ór mêi-cáp, iu plêis dém ón iór bó-di tchu uér dém.",
+    syllables: ["When", " you", " put", " on", " clothes", " or", " make-", "up,", " you", " place", " them", " on", " your", " bod", "y", " to", " wear", " them."],
+    exampleSentence: "When you put on clothes or make-up, you place them on your body to wear them.",
+    exampleTranslation: "Quando você coloca roupas ou maquiagem, você as coloca no corpo para usá-las."
+  },
+  {
+    id: "lesson_11_vocab_a1_72",
+    word: "Put on your coat. It’s very cold outside.",
+    translation: "Coloque seu casaco. Está muito frio lá fora.",
+    pronunciation: "/pʊt ɒn jɔːr koʊt. ɪts ˈvɛri koʊld ˌaʊˈsaɪd./",
+    portuguesePhonetic: "pút ón iór cóut. íts vé-ri cóuld au-sáid.",
+    syllables: ["Put", " on", " your", " coat.", " It's", " ver", "y", " cold", " out", "side."],
+    exampleSentence: "Put on your coat. It’s very cold outside.",
+    exampleTranslation: "Coloque seu casaco. Está muito frio lá fora."
+  },
+  {
+    id: "lesson_11_vocab_a1_73",
+    word: "If you take off a piece of clothing, you remove it from your body and stop wearing it.",
+    translation: "Se você tira uma peça de roupa, você a remove do corpo e para de usá-la.",
+    pronunciation: "/ɪf juː teɪk ɒf ə piːs ɒv ˈkloʊðɪŋ, juː rɪˈmuːv ɪt frɒm jɔːr ˈbɒdi ænd stɒp ˈwɛərɪŋ ɪt./",
+    portuguesePhonetic: "íf iu uér a pís óv clou-thin, iu rév it ón iór bó-di énd stóp ué-rin it.",
+    syllables: ["If", " you", " take", " off", " a", " piece", " of", " cloth", "ing,", " you", " re", "move", " it", " from", " your", " bod", "y", " and", " stop", " wear", "ing", " it."],
+    exampleSentence: "If you take off a piece of clothing, you remove it from your body and stop wearing it.",
+    exampleTranslation: "Se você tira uma peça de roupa, você a remove do corpo e para de usá-la."
+  },
+  {
+    id: "lesson_11_vocab_a1_74",
+    word: "In Asia, people take off their shoes before they enter their homes.",
+    translation: "Na Ásia, as pessoas tiram os sapatos antes de entrar em casa.",
+    pronunciation: "/ɪn ˈeɪʒə, ˈpiːpəl teɪk ɒf ðɛər ʃuːz bɪˈfɔːr ðeɪ ˈɛntər ðɛər hoʊmz./",
+    portuguesePhonetic: "ín êi-ja, pí-poul têic óf dér chús bi-fór ðêi én-ter dér róums.",
+    syllables: ["In", " A", "sia,", " peo", "ple", " take", " off", " their", " shoes", " be", "fore", " they", " en", "ter", " their", " homes."],
+    exampleSentence: "In Asia, people take off their shoes before they enter their homes.",
+    exampleTranslation: "Na Ásia, as pessoas tiram os sapatos antes de entrar em casa."
+  },
+  {
+    id: "lesson_11_vocab_a1_75",
+    word: "When you get dressed, you put on clothes.",
+    translation: "Quando você se veste, você coloca roupas.",
+    pronunciation: "/wɛn juː ɡɛt drɛst, juː pʊt ɒn kloʊðz./",
+    portuguesePhonetic: "uén iu ghét drést, iu pút ón clou-ds.",
+    syllables: ["When", " you", " get", " dressed,", " you", " put", " on", " clothes."],
+    exampleSentence: "When you get dressed, you put on clothes.",
+    exampleTranslation: "Quando você se veste, você coloca roupas."
+  },
+  {
+    id: "lesson_11_vocab_a1_76",
+    word: "After I get up, I have a shower and get dressed.",
+    translation: "Depois que eu me levanto, tomo banho e me visto.",
+    pronunciation: "/ˈɑːftər aɪ ɡɛt ʌp, aɪ hæv ə ˈʃaʊər ænd ɡɛt drɛst./",
+    portuguesePhonetic: "áf-ter ái ghét áp, ái rév a chauh-er énd ghét drést.",
+    syllables: ["Af", "ter", " I", " get", " up,", " I", " have", " a", " show", "er", " and", " get", " dressed."],
+    exampleSentence: "After I get up, I have a shower and get dressed.",
+    exampleTranslation: "Depois que eu me levanto, tomo banho e me visto."
+  },
+  {
+    id: "lesson_11_vocab_a1_77",
+    word: "If you try on a piece of clothing, you put it on to see if it’s your size and you like it.",
+    translation: "Se você experimenta uma peça de roupa, você a coloca para ver se é do seu tamanho e se você gosta dela.",
+    pronunciation: "/ɪf juː traɪ ɒn ə piːs ɒv ˈkloʊðɪŋ, juː pʊt ɪt ɒn tuː siː ɪf ɪts jɔːr saɪz ænd juː laɪk ɪt./",
+    portuguesePhonetic: "íf iu trái ón a pís óv clou-thin, iu pút it ón tchu sí íf íts iór sáiz énd iu láic it.",
+    syllables: ["If", " you", " try", " on", " a", " piece", " of", " cloth", "ing,", " you", " put", " it", " on", " to", " see", " if", " it's", " your", " size", " and", " you", " like", " it."],
+    exampleSentence: "If you try on a piece of clothing, you put it on to see if it’s your size and you like it.",
+    exampleTranslation: "Se você experimenta uma peça de roupa, você a coloca para ver se é do seu tamanho e se você gosta dela."
+  },
+  {
+    id: "lesson_11_vocab_a1_78",
+    word: "In the store, you can try on the clothes before buying them.",
+    translation: "Na loja, você pode experimentar as roupas antes de comprá-las.",
+    pronunciation: "/ɪn ðə stɔːr, juː kæn traɪ ɒn ðə kloʊðz bɪˈfɔːr ˈbaɪɪŋ ðɛm./",
+    portuguesePhonetic: "ín dâ stór, iu quén trái ón dâ clou-ds bi-fór bái-in dém.",
+    syllables: ["In", " the", " store,", " you", " can", " try", " on", " the", " clothes", " be", "fore", " buy", "ing", " them."],
+    exampleSentence: "In the store, you can try on the clothes before buying them.",
+    exampleTranslation: "Na loja, você pode experimentar as roupas antes de comprá-las."
+  },
+  {
+    id: "lesson_11_vocab_a1_79",
+    word: "When we get home, we often hang up our coat or jacket in a wardrobe or on a hanger or a hook.",
+    translation: "Quando chegamos em casa, geralmente penduramos nosso casaco ou jaqueta em um guarda-roupa, cabide ou gancho.",
+    pronunciation: "/wɛn wiː ɡɛt hoʊm, wiː ˈɒfən hæŋ ʌp ˈaʊər koʊt ɔːr ˈdʒækɪt ɪn ə ˈwɔːdroʊb ɔːr ɒn ə ˈhæŋər ɔːr ə hʊk./",
+    portuguesePhonetic: "uén uí ghét róum, uí ó-fen rén áp aur cóut ór djé-quiti ín a uór-dróub ór ón a rên-guer ór a rúc.",
+    syllables: ["When", " we", " get", " home,", " we", " of", "ten", " hang", " up", " our", " coat", " or", " jack", "et", " in", " a", " ward", "robe", " or", " on", " a", " hang", "er", " or", " a", " hook."],
+    exampleSentence: "When we get home, we often hang up our coat or jacket in a wardrobe or on a hanger or a hook.",
+    exampleTranslation: "Quando chegamos em casa, geralmente penduramos nosso casaco ou jaqueta em um guarda-roupa, cabide ou gancho."
+  },
+  {
+    id: "lesson_11_vocab_a1_80",
+    word: "After washing, I hang up clothes to dry.",
+    translation: "Depois de lavar, eu penduro as roupas para secar.",
+    pronunciation: "/ˈɑːftər ˈwɒʃɪŋ, aɪ hæŋ ʌp kloʊðz tuː draɪ./",
+    portuguesePhonetic: "áf-ter uó-chin, ái rén áp clou-ds tchu drái.",
+    syllables: ["Af", "ter", " wash", "ing,", " I", " hang", " up", " clothes", " to", " dry."],
+    exampleSentence: "After washing, I hang up clothes to dry.",
+    exampleTranslation: "Depois de lavar, eu penduro as roupas para secar."
+  },
+  {
+    id: "lesson_11_vocab_a1_81",
+    word: "If a piece of clothing fits you, it is the right size. If it doesn’t fit, it’s too big or small for you.",
+    translation: "Se uma peça de roupa serve em você, ela é do tamanho certo. Se não serve, ela é grande ou pequena demais para você.",
+    pronunciation: "/ɪf ə piːs ɒv ˈkloʊðɪŋ fɪts juː, ɪt ɪz ðə raɪt saɪz. ɪf ɪt dʌznt fɪt, ɪts tuː bɪɡ ɔːr smɔːl fɔːr juː./",
+    portuguesePhonetic: "íf a pís óv clou-thin fíts iu, it íz dâ ráit sáiz. íf it dásnt fít, íts tchu bíg ór smól fór iu.",
+    syllables: ["If", " a", " piece", " of", " cloth", "ing", " fits", " you,", " it", " is", " the", " right", " size.", " If", " it", " doesn't", " fit,", " it's", " too", " big", " or", " small", " for", " you."],
+    exampleSentence: "If a piece of clothing fits you, it is the right size. If it doesn’t fit, it’s too big or small for you.",
+    exampleTranslation: "Se uma peça de roupa serve em você, ela é do tamanho certo. Se não serve, ela é grande ou pequena demais para você."
+  },
+  {
+    id: "lesson_11_vocab_a1_82",
+    word: "These shoes don’t fit me. I need a bigger size.",
+    translation: "Estes sapatos não servem em mim. Eu preciso de um tamanho maior.",
+    pronunciation: "/ðiːz ʃuːz doʊnt fɪt miː. aɪ niːd ə ˈbɪɡər saɪz./",
+    portuguesePhonetic: "dís chús dóunt fít mí. ái níd a bí-guer sáiz.",
+    syllables: ["These", " shoes", " don't", " fit", " me.", " I", " need", " a", " big", "ger", " size."],
+    exampleSentence: "These shoes don’t fit me. I need a bigger size.",
+    exampleTranslation: "Estes sapatos não servem em mim. Eu preciso de um tamanho maior."
+  },
+  {
+    id: "lesson_11_vocab_a1_83",
+    word: "When you do the laundry, you wash your dirty clothes, sheets, etc.",
+    translation: "Quando você lava roupa, você lava suas roupas sujas, lençóis etc.",
+    pronunciation: "/wɛn juː duː ðə ˈlɔːndri, juː wɒʃ jɔːr ˈdɜːrti kloʊðz, ʃiːts, ɪtˈsɛtərə./",
+    portuguesePhonetic: "uén iu dú dâ lón-dri, iu uóch iór dãr-ti clou-ds, chíts, et-cé-te-ra.",
+    syllables: ["When", " you", " do", " the", " laun", "dry,", " you", " wash", " your", " dirt", "y", " clothes,", " sheets,", " etc."],
+    exampleSentence: "When you do the laundry, you wash your dirty clothes, sheets, etc.",
+    exampleTranslation: "Quando você lava roupa, você lava suas roupas sujas, lençóis etc."
+  },
+  {
+    id: "lesson_11_vocab_a1_84",
+    word: "On Sundays, we do the laundry to clean all our clothes.",
+    translation: "Aos domingos, nós lavamos roupa para limpar todas as nossas roupas.",
+    pronunciation: "/ɒn ˈsʌndeɪz, wiː duː ðə ˈlɔːndri tuː kliːn ɔːl ˈaʊər kloʊðz./",
+    portuguesePhonetic: "ón sân-dêis, uí dú dâ lón-dri tchu clín ól aur clou-ds.",
+    syllables: ["On", " Sun", "days,", " we", " do", " the", " laun", "dry", " to", " clean", " all", " our", " clothes."],
+    exampleSentence: "On Sundays, we do the laundry to clean all our clothes.",
+    exampleTranslation: "Aos domingos, nós lavamos roupa para limpar todas as nossas roupas."
+  }
+];
+
+export const LESSON_12_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: "lesson_12_vocab_a1_1",
+    word: "Bedroom",
+    translation: "Quarto",
+    pronunciation: "/ˈbɛdruːm/",
+    portuguesePhonetic: "béd-rum",
+    syllables: ["Bed", "room"],
+    exampleSentence: "Bedroom",
+    exampleTranslation: "Quarto"
+  },
+  {
+    id: "lesson_12_vocab_a1_2",
+    word: "Bathroom",
+    translation: "Banheiro",
+    pronunciation: "/ˈbæθruːm/",
+    portuguesePhonetic: "bæθ-rum",
+    syllables: ["Bath", "room"],
+    exampleSentence: "Bathroom",
+    exampleTranslation: "Banheiro"
+  },
+  {
+    id: "lesson_12_vocab_a1_3",
+    word: "Toilet",
+    translation: "Vaso sanitário / banheiro pequeno",
+    pronunciation: "/ˈtɔɪlɪt/",
+    portuguesePhonetic: "tói-lit",
+    syllables: ["Toi", "let"],
+    exampleSentence: "Toilet",
+    exampleTranslation: "Vaso sanitário / banheiro pequeno"
+  },
+  {
+    id: "lesson_12_vocab_a1_4",
+    word: "Dining room",
+    translation: "Sala de jantar",
+    pronunciation: "/ˈdaɪnɪŋ ruːm/",
+    portuguesePhonetic: "dái-nin rúm",
+    syllables: ["Din", "ing", " room"],
+    exampleSentence: "Dining room",
+    exampleTranslation: "Sala de jantar"
+  },
+  {
+    id: "lesson_12_vocab_a1_5",
+    word: "Living room",
+    translation: "Sala de estar",
+    pronunciation: "/ˈlɪvɪŋ ruːm/",
+    portuguesePhonetic: "lí-vin rúm",
+    syllables: ["Liv", "ing", " room"],
+    exampleSentence: "Living room",
+    exampleTranslation: "Sala de estar"
+  },
+  {
+    id: "lesson_12_vocab_a1_6",
+    word: "Study",
+    translation: "Escritório / sala de estudos",
+    pronunciation: "/ˈstʌdi/",
+    portuguesePhonetic: "stá-di",
+    syllables: ["Stud", "y"],
+    exampleSentence: "Study",
+    exampleTranslation: "Escritório / sala de estudos"
+  },
+  {
+    id: "lesson_12_vocab_a1_7",
+    word: "Garage",
+    translation: "Garagem",
+    pronunciation: "/ɡəˈrɑːʒ/",
+    portuguesePhonetic: "ga-ráj",
+    syllables: ["Ga", "rage"],
+    exampleSentence: "Garage",
+    exampleTranslation: "Garagem"
+  },
+  {
+    id: "lesson_12_vocab_a1_8",
+    word: "Hall",
+    translation: "Hall / entrada / corredor",
+    pronunciation: "/hɔːl/",
+    portuguesePhonetic: "ról",
+    syllables: ["Hall"],
+    exampleSentence: "Hall",
+    exampleTranslation: "Hall / entrada / corredor"
+  },
+  {
+    id: "lesson_12_vocab_a1_9",
+    word: "Floor",
+    translation: "Chão / piso",
+    pronunciation: "/flɔːr/",
+    portuguesePhonetic: "flór",
+    syllables: ["Floor"],
+    exampleSentence: "Floor",
+    exampleTranslation: "Chão / piso"
+  },
+  {
+    id: "lesson_12_vocab_a1_10",
+    word: "Wall",
+    translation: "Parede",
+    pronunciation: "/wɔːl/",
+    portuguesePhonetic: "uól",
+    syllables: ["Wall"],
+    exampleSentence: "Wall",
+    exampleTranslation: "Parede"
+  },
+  {
+    id: "lesson_12_vocab_a1_11",
+    word: "Ceiling",
+    translation: "Teto",
+    pronunciation: "/ˈsiːlɪŋ/",
+    portuguesePhonetic: "sí-lin",
+    syllables: ["Ceil", "ing"],
+    exampleSentence: "Ceiling",
+    exampleTranslation: "Teto"
+  },
+  {
+    id: "lesson_12_vocab_a1_12",
+    word: "Balcony",
+    translation: "Sacada / varanda",
+    pronunciation: "/ˈbælkəni/",
+    portuguesePhonetic: "bél-co-ni",
+    syllables: ["Bal", "co", "ny"],
+    exampleSentence: "Balcony",
+    exampleTranslation: "Sacada / varanda"
+  },
+  {
+    id: "lesson_12_vocab_a1_13",
+    word: "Door",
+    translation: "Porta",
+    pronunciation: "/dɔːr/",
+    portuguesePhonetic: "dór",
+    syllables: ["Door"],
+    exampleSentence: "Door",
+    exampleTranslation: "Porta"
+  },
+  {
+    id: "lesson_12_vocab_a1_14",
+    word: "Window",
+    translation: "Janela",
+    pronunciation: "/ˈwɪndoʊ/",
+    portuguesePhonetic: "uín-dou",
+    syllables: ["Win", "dow"],
+    exampleSentence: "Window",
+    exampleTranslation: "Janela"
+  },
+  {
+    id: "lesson_12_vocab_a1_15",
+    word: "Stairs",
+    translation: "Escadas",
+    pronunciation: "/stɛərz/",
+    portuguesePhonetic: "stérs",
+    syllables: ["Stairs"],
+    exampleSentence: "Stairs",
+    exampleTranslation: "Escadas"
+  },
+  {
+    id: "lesson_12_vocab_a1_16",
+    word: "Garden (UK) / Backyard (US)",
+    translation: "Jardim / quintal",
+    pronunciation: "/ˈɡɑːrdən / ˌbækˈjɑːrd/",
+    portuguesePhonetic: "gár-den / béc-iárd",
+    syllables: ["Gar", "den", " / ", "Back", "yard"],
+    exampleSentence: "Garden (UK) / Backyard (US)",
+    exampleTranslation: "Jardim / quintal"
+  },
+  {
+    id: "lesson_12_vocab_a1_17",
+    word: "I sleep in my bedroom.",
+    translation: "Eu durmo no meu quarto.",
+    pronunciation: "/aɪ sliːp ɪn maɪ ˈbɛdruːm./",
+    portuguesePhonetic: "ái slíp ín mái béd-rum.",
+    syllables: ["I", " sleep", " in", " my", " bed", "room."],
+    exampleSentence: "I sleep in my bedroom.",
+    exampleTranslation: "Eu durmo no meu quarto."
+  },
+  {
+    id: "lesson_12_vocab_a1_18",
+    word: "I take baths in the bathroom.",
+    translation: "Eu tomo banho no banheiro.",
+    pronunciation: "/aɪ teɪk bæðz ɪn ðə ˈbæθruːm./",
+    portuguesePhonetic: "ái têic bæðs ín dâ bæθ-rum.",
+    syllables: ["I", " take", " baths", " in", " the", " bath", "room."],
+    exampleSentence: "I take baths in the bathroom.",
+    exampleTranslation: "Eu tomo banho no banheiro."
+  },
+  {
+    id: "lesson_12_vocab_a1_19",
+    word: "In my house, I have a large bathroom and a small toilet.",
+    translation: "Na minha casa, eu tenho um banheiro grande e um banheiro pequeno.",
+    pronunciation: "/ɪn maɪ haʊs, aɪ hæv ə lɑːrdʒ ˈbæθruːm ænd ə smɔːl ˈtɔɪlɪt./",
+    portuguesePhonetic: "ín mái ráus, ái rév a lárdj bæθ-rum énd a smól tói-lit.",
+    syllables: ["In", " my", " house,", " I", " have", " a", " large", " bath", "room", " and", " a", " small", " toi", "let."],
+    exampleSentence: "In my house, I have a large bathroom and a small toilet.",
+    exampleTranslation: "Na minha casa, eu tenho um banheiro grande e um banheiro pequeno."
+  },
+  {
+    id: "lesson_12_vocab_a1_20",
+    word: "We have lunch and dinner in the dining room.",
+    translation: "Nós almoçamos e jantamos na sala de jantar.",
+    pronunciation: "/wiː hæv lʌntʃ ænd ˈdɪnər ɪn ðə ˈdaɪnɪŋ ruːm./",
+    portuguesePhonetic: "uí rév lántch énd dí-ner ín dâ dái-nin rúm.",
+    syllables: ["We", " have", " lunch", " and", " din", "ner", " in", " the", " din", "ing", " room."],
+    exampleSentence: "We have lunch and dinner in the dining room.",
+    exampleTranslation: "Nós almoçamos e jantamos na sala de jantar."
+  },
+  {
+    id: "lesson_12_vocab_a1_21",
+    word: "I relax and watch TV in the living room.",
+    translation: "Eu relaxo e assisto TV na sala de estar.",
+    pronunciation: "/aɪ rɪˈlæks ænd wɒtʃ ˌtiːˈviː ɪn ðə ˈlɪvɪŋ ruːm./",
+    portuguesePhonetic: "ái ri-lécs énd uótch tivi ín dâ lí-vin rúm.",
+    syllables: ["I", " re", "lax", " and", " watch", " TV", " in", " the", " liv", "ing", " room."],
+    exampleSentence: "I relax and watch TV in the living room.",
+    exampleTranslation: "Eu relaxo e assisto TV na sala de estar."
+  },
+  {
+    id: "lesson_12_vocab_a1_22",
+    word: "I work or study in the study.",
+    translation: "Eu trabalho ou estudo no escritório / sala de estudos.",
+    pronunciation: "/aɪ wɜːrk ɔːr ˈstʌdi ɪn ðə ˈstʌdi./",
+    portuguesePhonetic: "ái uãrk ór stá-di ín dâ stá-di.",
+    syllables: ["I", " work", " or", " stud", "y", " in", " the", " stud", "y."],
+    exampleSentence: "I work or study in the study.",
+    exampleTranslation: "Eu trabalho ou estudo no escritório / sala de estudos."
+  },
+  {
+    id: "lesson_12_vocab_a1_23",
+    word: "I park my car in the garage.",
+    translation: "Eu estaciono meu carro na garagem.",
+    pronunciation: "/aɪ pɑːrk maɪ kɑːr ɪn ðə ɡəˈrɑːʒ./",
+    portuguesePhonetic: "ái párc mái cár ín dâ ga-ráj.",
+    syllables: ["I", " park", " my", " car", " in", " the", " ga", "rage."],
+    exampleSentence: "I park my car in the garage.",
+    exampleTranslation: "Eu estaciono meu carro na garagem."
+  },
+  {
+    id: "lesson_12_vocab_a1_24",
+    word: "When you enter my home, you are in the hall.",
+    translation: "Quando você entra na minha casa, você está no hall / entrada.",
+    pronunciation: "/wɛn juː ˈɛntər maɪ hoʊm, juː ɑːr ɪn ðə hɔːl./",
+    portuguesePhonetic: "uén iu én-ter mái róum, iu ár ín dâ ról.",
+    syllables: ["When", " you", " en", "ter", " my", " home,", " you", " are", " in", " the", " hall."],
+    exampleSentence: "When you enter my home, you are in the hall.",
+    exampleTranslation: "Quando você entra na minha casa, você está no hall / entrada."
+  },
+  {
+    id: "lesson_12_vocab_a1_25",
+    word: "We walk on the floor.",
+    translation: "Nós andamos no chão.",
+    pronunciation: "/wiː wɔːk ɒn ðə flɔːr./",
+    portuguesePhonetic: "uí uóc ón dâ flór.",
+    syllables: ["We", " walk", " on", " the", " floor."],
+    exampleSentence: "We walk on the floor.",
+    exampleTranslation: "Nós andamos no chão."
+  },
+  {
+    id: "lesson_12_vocab_a1_26",
+    word: "I have pictures on the wall.",
+    translation: "Eu tenho quadros / fotos na parede.",
+    pronunciation: "/aɪ hæv ˈpɪktʃərz ɒn ðə wɔːl./",
+    portuguesePhonetic: "ái rév píc-tchôrs ón dâ uól.",
+    syllables: ["I", " have", " pic", "tures", " on", " the", " wall."],
+    exampleSentence: "I have pictures on the wall.",
+    exampleTranslation: "Eu tenho quadros / fotos na parede."
+  },
+  {
+    id: "lesson_12_vocab_a1_27",
+    word: "The lights on the ceiling illuminate the room.",
+    translation: "As luzes no teto iluminam o cômodo.",
+    pronunciation: "/ðə laɪts ɒn ðə ˈsiːlɪŋ ɪˈluːmɪneɪt ðə ruːm./",
+    portuguesePhonetic: "dâ láits ón dâ sí-lin i-lú-mi-nêit dâ rúm.",
+    syllables: ["The", " lights", " on", " the", " ceil", "ing", " il", "lu", "mi", "nate", " the", " room."],
+    exampleSentence: "The lights on the ceiling illuminate the room.",
+    exampleTranslation: "As luzes no teto iluminam o cômodo."
+  },
+  {
+    id: "lesson_12_vocab_a1_28",
+    word: "I enjoy the view from my balcony.",
+    translation: "Eu aprecio a vista da minha sacada / varanda.",
+    pronunciation: "/aɪ ɪnˈdʒɔɪ ðə vjuː frɒm maɪ ˈbælkəni./",
+    portuguesePhonetic: "ái in-djói dâ viú fróm mái bél-co-ni.",
+    syllables: ["I", " en", "joy", " the", " view", " from", " my", " bal", "co", "ny."],
+    exampleSentence: "I enjoy the view from my balcony.",
+    exampleTranslation: "Eu aprecio a vista da minha sacada / varanda."
+  },
+  {
+    id: "lesson_12_vocab_a1_29",
+    word: "I use the door to enter or leave the room.",
+    translation: "Eu uso a porta para entrar ou sair do cômodo.",
+    pronunciation: "/aɪ juːz ðə dɔːr tuː ˈɛntər ɔːr liːv ðə ruːm./",
+    portuguesePhonetic: "ái iús dâ dór tchu én-ter ór lív dâ rúm." ,
+    syllables: ["I", " use", " the", " door", " to", " en", "ter", " or", " leave", " the", " room."],
+    exampleSentence: "I use the door to enter or leave the room.",
+    exampleTranslation: "Eu uso a porta para entrar ou sair do cômodo."
+  },
+  {
+    id: "lesson_12_vocab_a1_30",
+    word: "I can see outside through the window.",
+    translation: "Eu consigo ver o lado de fora pela janela.",
+    pronunciation: "/aɪ kæn siː ˌaʊˈsaɪd θruː ðə ˈwɪndoʊ./",
+    portuguesePhonetic: "ái quén sí au-sáid θrú dâ uín-dou.",
+    syllables: ["I", " can", " see", " out", "side", " through", " the", " win", "dow."],
+    exampleSentence: "I can see outside through the window.",
+    exampleTranslation: "Eu consigo ver o lado de fora pela janela."
+  },
+  {
+    id: "lesson_12_vocab_a1_31",
+    word: "I go up and down the stairs to go to another floor.",
+    translation: "Eu subo e desço as escadas para ir a outro andar.",
+    pronunciation: "/aɪ ɡoʊ ʌp ænd daʊn ðə stɛərz tuː ɡoʊ tuː əˈnʌðər flɔːr./",
+    portuguesePhonetic: "ái gôu áp énd dáun dâ stérs tchu gôu tchu a-ná-der flór.",
+    syllables: ["I", " go", " up", " and", " down", " the", " stairs", " to", " go", " to", " an", "oth", "er", " floor."],
+    exampleSentence: "I go up and down the stairs to go to another floor.",
+    exampleTranslation: "Eu subo e desço as escadas para ir a outro andar."
+  },
+  {
+    id: "lesson_12_vocab_a1_32",
+    word: "I grow plants and have barbecues in the garden.",
+    translation: "Eu cultivo plantas e faço churrascos no jardim / quintal.",
+    pronunciation: "/aɪ ɡroʊ plænts ænd hæv ˈbɑːrbɪkjuːz ɪn ðə ˈɡɑːrdən./",
+    portuguesePhonetic: "ái grôu plénts énd rév bái-bi-quiús ín dâ gár-den.",
+    syllables: ["I", " grow", " plants", " and", " have", " bar", "be", "cues", " in", " the", " gar", "den."],
+    exampleSentence: "I grow plants and have barbecues in the garden.",
+    exampleTranslation: "Eu cultivo plantas e faço churrascos no jardim / quintal."
+  },
+  {
+    id: "lesson_12_vocab_a1_33",
+    word: "I like to sit in this armchair to watch TV. It’s very comfortable.",
+    translation: "Eu gosto de sentar nesta poltrona para assistir TV. Ela é muito confortável.",
+    pronunciation: "/aɪ laɪk tuː sɪt ɪn ðɪs ˈɑːrmtʃɛər tuː wɒtʃ ˌtiːˈviː. ɪts ˈvɛri ˈkʌmftəbəl./",
+    portuguesePhonetic: "ái láic tchu sít ín dís árm-tchêir tchu uótch tivi. íts vé-ri cámf-ta-bol.",
+    syllables: ["I", " like", " to", " sit", " in", " this", " arm", "chair", " to", " watch", " TV.", " It's", " ver", "y", " com", "fort", "a", "ble."],
+    exampleSentence: "I like to sit in this armchair to watch TV. It’s very comfortable.",
+    exampleTranslation: "Eu gosto de sentar nesta poltrona para assistir TV. Ela é muito confortável."
+  },
+  {
+    id: "lesson_12_vocab_a1_34",
+    word: "In my bedroom, I have a big wardrobe with lots of clothes in it.",
+    translation: "No meu quarto, eu tenho um guarda-roupa grande com muitas roupas dentro.",
+    pronunciation: "/ɪn maɪ ˈbɛdruːm, aɪ hæv ə bɪɡ ˈwɔːrdroʊb wɪð lɒts ɒv kloʊðz ɪn ɪt./",
+    portuguesePhonetic: "ín mái béd-rum, ái rév a bíg uór-dróub uíd lóts óv clou-ds ín it.",
+    syllables: ["In", " my", " bed", "room,", " I", " have", " a", " big", " ward", "robe", " with", " lots", " of", " clothes", " in", " it."],
+    exampleSentence: "In my bedroom, I have a big wardrobe with lots of clothes in it.",
+    exampleTranslation: "No meu quarto, eu tenho um guarda-roupa grande com muitas roupas dentro."
+  },
+  {
+    id: "lesson_12_vocab_a1_35",
+    word: "Please leave the tea and cookies on the dining table.",
+    translation: "Por favor, deixe o chá e os biscoitos na mesa de jantar.",
+    pronunciation: "/pliːz liːv ðə tiː ænd ˈkʊkiz ɒn ðə ˈdaɪnɪŋ ˈteɪbəl./",
+    portuguesePhonetic: "plís lív dâ tí énd cú-quis ón dâ dái-nin têi-bol.",
+    syllables: ["Please", " leave", " the", " tea", " and", " cook", "ies", " on", " the", " din", "ing", " ta", "ble."],
+    exampleSentence: "Please leave the tea and cookies on the dining table.",
+    exampleTranslation: "Por favor, deixe o chá e os biscoitos na mesa de jantar."
+  },
+  {
+    id: "lesson_12_vocab_a1_36",
+    word: "Open that cupboard and take out three glasses.",
+    translation: "Abra aquele armário e pegue três copos.",
+    pronunciation: "/ˈoʊpən ðæt ˈkʌbərd ænd teɪk aʊt θriː ˈɡlæsɪz./",
+    portuguesePhonetic: "óu-pen dét cá-bórd énd têic áut θrí glé-sis.",
+    syllables: ["O", "pen", " that", " cup", "board", " and", " take", " out", " three", " glass", "es."],
+    exampleSentence: "Open that cupboard and take out three glasses.",
+    exampleTranslation: "Abra aquele armário e pegue três copos."
+  },
+  {
+    id: "lesson_12_vocab_a1_37",
+    word: "I keep my alarm clock on my bedside table.",
+    translation: "Eu deixo meu despertador na minha mesa de cabeceira.",
+    pronunciation: "/aɪ kiːp maɪ əˈlɑːrm klɒk ɒn maɪ ˈbɛdˌsaɪd ˈteɪbəl./",
+    portuguesePhonetic: "ái quíp mái a-lárm clóc ón mái béd-sáid têi-bol.",
+    syllables: ["I", " keep", " my", " a", "larm", " clock", " on", " my", " bed", "side", " ta", "ble."],
+    exampleSentence: "I keep my alarm clock on my bedside table.",
+    exampleTranslation: "Eu deixo meu despertador na minha mesa de cabeceira."
+  },
+  {
+    id: "lesson_12_vocab_a1_38",
+    word: "There’s a computer and a lamp on the desk.",
+    translation: "Há um computador e uma luminária na escrivaninha / mesa de trabalho.",
+    pronunciation: "/ðɛərz ə kəmˈpjuːtər ænd ə læmp ɒn ðə dɛsk./",
+    portuguesePhonetic: "dérs a com-piú-ter énd a lémp ón dâ désc." ,
+    syllables: ["There’s", " a", " com", "pu", "ter", " and", " a", " lamp", " on", " the", " desk."],
+    exampleSentence: "There’s a computer and a lamp on the desk.",
+    exampleTranslation: "Há um computador e uma luminária na escrivaninha / mesa de trabalho."
+  },
+  {
+    id: "lesson_12_vocab_a1_39",
+    word: "All the dirty dishes are in the sink.",
+    translation: "Todos os pratos sujos estão na pia.",
+    pronunciation: "/ɔːl ðə ˈdɜːrti ˈdɪʃɪz ɑːr ɪn ðə sɪŋk./",
+    portuguesePhonetic: "ól dâ dãr-ti dí-chis ár ín dâ sínc.",
+    syllables: ["All", " the", " dirt", "y", " dish", "es", " are", " in", " the", " sink."],
+    exampleSentence: "All the dirty dishes are in the sink.",
+    exampleTranslation: "Todos os pratos sujos estão na pia."
+  },
+  {
+    id: "lesson_12_vocab_a1_40",
+    word: "Please close the door when you leave.",
+    translation: "Por favor, feche a porta quando sair.",
+    pronunciation: "/pliːz kloʊz ðə dɔːr wɛn juː liːv./",
+    portuguesePhonetic: "plís clóuz dâ dór uén iu lív.",
+    syllables: ["Please", " close", " the", " door", " when", " you", " leave."],
+    exampleSentence: "Please close the door when you leave.",
+    exampleTranslation: "Por favor, feche a porta quando sair."
+  },
+  {
+    id: "lesson_12_vocab_a1_41",
+    word: "They have a spectacular sea view from the balcony.",
+    translation: "Eles têm uma vista espetacular para o mar da sacada / varanda.",
+    pronunciation: "/ðeɪ hæv ə spɛkˈtækjʊlər siː vjuː frɒm ðə ˈbælkəni./",
+    portuguesePhonetic: "ðêi rév a spec-té-quiu-lar sí viú fróm dâ bél-co-ni.",
+    syllables: ["They", " have", " a", " spec", "tac", "u", "lar", " sea", " view", " from", " the", " bal", "co", "ny."],
+    exampleSentence: "They have a spectacular sea view from the balcony.",
+    exampleTranslation: "Eles têm uma vista espetacular para o mar da sacada / varanda."
+  },
+  {
+    id: "lesson_12_vocab_a1_42",
+    word: "I keep my socks in the top drawer.",
+    translation: "Eu guardo minhas meias na gaveta de cima.",
+    pronunciation: "/aɪ kiːp maɪ sɒks ɪn ðə tɒp drɔːər./",
+    portuguesePhonetic: "ái quíp mái sócs ín dâ tóp dróu-er.",
+    syllables: ["I", " keep", " my", " socks", " in", " the", " top", " draw", "er."],
+    exampleSentence: "I keep my socks in the top drawer.",
+    exampleTranslation: "Eu guardo minhas meias na gaveta de cima."
+  }
+];
+
+export const LESSON_13_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: "lesson_13_vocab_a1_1",
+    word: "Town",
+    translation: "Cidade pequena / município",
+    pronunciation: "/taʊn/",
+    portuguesePhonetic: "táun",
+    syllables: ["Town"],
+    exampleSentence: "Town",
+    exampleTranslation: "Cidade pequena / município"
+  },
+  {
+    id: "lesson_13_vocab_a1_2",
+    word: "City",
+    translation: "Cidade grande",
+    pronunciation: "/ˈsɪti/",
+    portuguesePhonetic: "sí-ti",
+    syllables: ["Cit", "y"],
+    exampleSentence: "City",
+    exampleTranslation: "Cidade grande"
+  },
+  {
+    id: "lesson_13_vocab_a1_3",
+    word: "Village",
+    translation: "Vila / povoado",
+    pronunciation: "/ˈvɪlɪdʒ/",
+    portuguesePhonetic: "ví-lidj",
+    syllables: ["Vil", "lage"],
+    exampleSentence: "Village",
+    exampleTranslation: "Vila / povoado"
+  },
+  {
+    id: "lesson_13_vocab_a1_4",
+    word: "Neighbourhood (UK) / Neighborhood (US)",
+    translation: "Bairro / vizinhança",
+    pronunciation: "/ˈneɪbərhʊd/",
+    portuguesePhonetic: "nêi-bor-rud",
+    syllables: ["Neigh", "bour", "hood"],
+    exampleSentence: "Neighbourhood (UK) / Neighborhood (US)",
+    exampleTranslation: "Bairro / vizinhança"
+  },
+  {
+    id: "lesson_13_vocab_a1_5",
+    word: "City centre (UK) / Downtown (US)",
+    translation: "Centro da cidade",
+    pronunciation: "/ˈsɪti ˈsɛntər / ˌdaʊnˈtaʊn/",
+    portuguesePhonetic: "sí-ti sén-ter / dáun-táun",
+    syllables: ["Cit", "y", " cen", "tre", " / ", "Down", "town"],
+    exampleSentence: "City centre (UK) / Downtown (US)",
+    exampleTranslation: "Centro da cidade"
+  },
+  {
+    id: "lesson_13_vocab_a1_6",
+    word: "Street",
+    translation: "Rua",
+    pronunciation: "/striːt/",
+    portuguesePhonetic: "strít",
+    syllables: ["Street"],
+    exampleSentence: "Street",
+    exampleTranslation: "Rua"
+  },
+  {
+    id: "lesson_13_vocab_a1_7",
+    word: "Avenue",
+    translation: "Avenida",
+    pronunciation: "/ˈævənjuː/",
+    portuguesePhonetic: "é-və-niú",
+    syllables: ["Av", "e", "nue"],
+    exampleSentence: "Avenue",
+    exampleTranslation: "Avenida"
+  },
+  {
+    id: "lesson_13_vocab_a1_8",
+    word: "Square",
+    translation: "Praça",
+    pronunciation: "/skwɛər/",
+    portuguesePhonetic: "scuér",
+    syllables: ["Square"],
+    exampleSentence: "Square",
+    exampleTranslation: "Praça"
+  },
+  {
+    id: "lesson_13_vocab_a1_9",
+    word: "Park",
+    translation: "Parque",
+    pronunciation: "/pɑːrk/",
+    portuguesePhonetic: "párc",
+    syllables: ["Park"],
+    exampleSentence: "Park",
+    exampleTranslation: "Parque"
+  },
+  {
+    id: "lesson_13_vocab_a1_10",
+    word: "Museum",
+    translation: "Museu",
+    pronunciation: "/mjuːˈziːəm/",
+    portuguesePhonetic: "miú-zí-əm",
+    syllables: ["Mu", "se", "um"],
+    exampleSentence: "Museum",
+    exampleTranslation: "Museu"
+  },
+  {
+    id: "lesson_13_vocab_a1_11",
+    word: "Library",
+    translation: "Biblioteca",
+    pronunciation: "/ˈlaɪbrɛri/",
+    portuguesePhonetic: "lái-bre-ri",
+    syllables: ["Li", "brar", "y"],
+    exampleSentence: "Library",
+    exampleTranslation: "Biblioteca"
+  },
+  {
+    id: "lesson_13_vocab_a1_12",
+    word: "Restaurant",
+    translation: "Restaurante",
+    pronunciation: "/ˈrɛstərənt/",
+    portuguesePhonetic: "rés-to-rãnt",
+    syllables: ["Res", "tau", "rant"],
+    exampleSentence: "Restaurant",
+    exampleTranslation: "Restaurante"
+  },
+  {
+    id: "lesson_13_vocab_a1_13",
+    word: "Cafe",
+    translation: "Café / cafeteria",
+    pronunciation: "/kæˈfeɪ/",
+    portuguesePhonetic: "quê-féi",
+    syllables: ["Ca", "fe"],
+    exampleSentence: "Cafe",
+    exampleTranslation: "Café / cafeteria"
+  },
+  {
+    id: "lesson_13_vocab_a1_14",
+    word: "School",
+    translation: "Escola",
+    pronunciation: "/skuːl/",
+    portuguesePhonetic: "scúl",
+    syllables: ["School"],
+    exampleSentence: "School",
+    exampleTranslation: "Escola"
+  },
+  {
+    id: "lesson_13_vocab_a1_15",
+    word: "Hospital",
+    translation: "Hospital",
+    pronunciation: "/ˈhɒspɪtəl/",
+    portuguesePhonetic: "rós-pi-tol",
+    syllables: ["Hos", "pi", "tal"],
+    exampleSentence: "Hospital",
+    exampleTranslation: "Hospital"
+  },
+  {
+    id: "lesson_13_vocab_a1_16",
+    word: "Post office",
+    translation: "Correio / agência dos correios",
+    pronunciation: "/poʊst ˈɒfɪs/",
+    portuguesePhonetic: "póust ó-fis",
+    syllables: ["Post", " of", "fice"],
+    exampleSentence: "Post office",
+    exampleTranslation: "Correio / agência dos correios"
+  },
+  {
+    id: "lesson_13_vocab_a1_17",
+    word: "Bank",
+    translation: "Banco",
+    pronunciation: "/bæŋk/",
+    portuguesePhonetic: "bénc",
+    syllables: ["Bank"],
+    exampleSentence: "Bank",
+    exampleTranslation: "Banco"
+  },
+  {
+    id: "lesson_13_vocab_a1_18",
+    word: "Hotel",
+    translation: "Hotel",
+    pronunciation: "/hoʊˈtɛl/",
+    portuguesePhonetic: "rou-tél",
+    syllables: ["Ho", "tel"],
+    exampleSentence: "Hotel",
+    exampleTranslation: "Hotel"
+  },
+  {
+    id: "lesson_13_vocab_a1_19",
+    word: "Cinema (UK) / Movie theater (US)",
+    translation: "Cinema",
+    pronunciation: "/ˈsɪnəmə / ˈmuːvi ˈθiːətər/",
+    portuguesePhonetic: "sí-ne-ma / mú-vi θí-a-ter",
+    syllables: ["Cin", "e", "ma", " / ", "Mov", "ie", " the", "a", "ter"],
+    exampleSentence: "Cinema (UK) / Movie theater (US)",
+    exampleTranslation: "Cinema"
+  },
+  {
+    id: "lesson_13_vocab_a1_20",
+    word: "Theatre (UK) / Theater (US)",
+    translation: "Teatro",
+    pronunciation: "/ˈθɪətər/",
+    portuguesePhonetic: "θí-a-ter",
+    syllables: ["The", "a", "tre"],
+    exampleSentence: "Theatre (UK) / Theater (US)",
+    exampleTranslation: "Teatro"
+  },
+  {
+    id: "lesson_13_vocab_a1_21",
+    word: "Bus stop",
+    translation: "Ponto de ônibus",
+    pronunciation: "/bʌs stɒp/",
+    portuguesePhonetic: "bás stóp",
+    syllables: ["Bus", " stop"],
+    exampleSentence: "Bus stop",
+    exampleTranslation: "Ponto de ônibus"
+  },
+  {
+    id: "lesson_13_vocab_a1_22",
+    word: "Train station",
+    translation: "Estação de trem",
+    pronunciation: "/treɪn ˈsteɪʃən/",
+    portuguesePhonetic: "trêin stêi-chon",
+    syllables: ["Train", " sta", "tion"],
+    exampleSentence: "Train station",
+    exampleTranslation: "Estação de trem"
+  },
+  {
+    id: "lesson_13_vocab_a1_23",
+    word: "Airport",
+    translation: "Aeroporto",
+    pronunciation: "/ˈɛərpɔːrt/",
+    portuguesePhonetic: "ér-pórt",
+    syllables: ["Air", "port"],
+    exampleSentence: "Airport",
+    exampleTranslation: "Aeroporto"
+  },
+  {
+    id: "lesson_13_vocab_a1_24",
+    word: "Tourist attraction",
+    translation: "Atração turística",
+    pronunciation: "/ˈtʊərɪst əˈtrækʃən/",
+    portuguesePhonetic: "tú-rist a-tréc-chon",
+    syllables: ["Tour", "ist", " at", "trac", "tion"],
+    exampleSentence: "Tourist attraction",
+    exampleTranslation: "Atração turística"
+  },
+  {
+    id: "lesson_13_vocab_a1_25",
+    word: "A town is a place with streets and buildings where people live and work. A town is bigger than a village and smaller than a city.",
+    translation: "Uma cidade pequena é um lugar com ruas e prédios onde as pessoas vivem e trabalham. Uma cidade pequena é maior que uma vila e menor que uma cidade grande.",
+    pronunciation: "/ə taʊn ɪz ə pleɪs wɪð striːts ænd ˈbɪldɪŋz wɛər ˈpiːpəl lɪv ænd wɜːrk. ə taʊn ɪz ˈbɪɡər ðæn ə ˈvɪlɪdʒ ænd smɔːlər ðæn ə ˈsɪti./",
+    portuguesePhonetic: "a táun íz a plêis uíd stríts énd bíl-dins uér pí-pol lív énd uãrk. a táun íz bí-guer dên a ví-lidj énd smó-ler dên a sí-ti.",
+    syllables: ["A", " town", " is", " a", " place...", " bigger", " than...", " smaller", " than..."],
+    exampleSentence: "A town is a place with streets and buildings where people live and work. A town is bigger than a village and smaller than a city.",
+    exampleTranslation: "Uma cidade pequena é um lugar com ruas e prédios onde as pessoas vivem e trabalham. Uma cidade pequena é maior que uma vila e menor que uma cidade grande."
+  },
+  {
+    id: "lesson_13_vocab_a1_26",
+    word: "My grandparents live in a small town.",
+    translation: "Meus avós moram em uma cidade pequena.",
+    pronunciation: "/maɪ ˈɡrændˌpɛərənts lɪv ɪn ə smɔːl taʊn./",
+    portuguesePhonetic: "mái grénd-pé-rents lív ín a smól táun.",
+    syllables: ["My", " grand", "par", "ents", " live", " in", " a", " small", " town."],
+    exampleSentence: "My grandparents live in a small town.",
+    exampleTranslation: "Meus avós moram em uma cidade pequena."
+  },
+  {
+    id: "lesson_13_vocab_a1_27",
+    word: "A city is a very big town, like London or New York.",
+    translation: "Uma cidade grande é uma cidade muito grande, como Londres ou Nova York.",
+    pronunciation: "/ə ˈsɪti ɪz ə ˈvɛri bɪɡ taʊn, laɪk ˈlʌndən ɔːr njuː jɔːrk./",
+    portuguesePhonetic: "a sí-ti íz a vé-ri bíg táun, láic lán-don ór niú iórc.",
+    syllables: ["A", " ci", "ty", " is", " a", " ver", "y", " big", " town,", " like", " Lon", "don", " or", " New", " York."],
+    exampleSentence: "A city is a very big town, like London or New York.",
+    exampleTranslation: "Uma cidade grande é uma cidade muito grande, como Londres ou Nova York."
+  },
+  {
+    id: "lesson_13_vocab_a1_28",
+    word: "Tokyo is a very busy city.",
+    translation: "Tóquio é uma cidade muito movimentada.",
+    pronunciation: "/ˈtoʊkiˌoʊ ɪz ə ˈvɛri ˈbɪzi ˈsɪti./",
+    portuguesePhonetic: "tó-quio íz a vé-ri bí-zi sí-ti.",
+    syllables: ["To", "kyo", " is", " a", " ver", "y", " bu", "sy", " ci", "ty."],
+    exampleSentence: "Tokyo is a very busy city.",
+    exampleTranslation: "Tóquio é uma cidade muito movimentada."
+  },
+  {
+    id: "lesson_13_vocab_a1_29",
+    word: "A village is a very small town.",
+    translation: "Uma vila é uma cidade muito pequena / povoado.",
+    pronunciation: "/ə ˈvɪlɪdʒ ɪz ə ˈvɛri smɔːl taʊn./",
+    portuguesePhonetic: "a ví-lidj íz a vé-ri smól táun.",
+    syllables: ["A", " vil", "lage", " is", " a", " ver", "y", " small", " town."],
+    exampleSentence: "A village is a very small town.",
+    exampleTranslation: "Uma vila é uma cidade muito pequena / povoado."
+  },
+  {
+    id: "lesson_13_vocab_a1_30",
+    word: "The village has one school and one shop.",
+    translation: "A vila tem uma escola e uma loja.",
+    pronunciation: "/ðə ˈvɪlɪdʒ hæz wʌn skuːl ænd wʌn ʃɒp./",
+    portuguesePhonetic: "dâ ví-lidj réz uán scúl énd uán chóp.",
+    syllables: ["The", " vil", "lage", " has", " one", " school", " and", " one", " shop."],
+    exampleSentence: "The village has one school and one shop.",
+    exampleTranslation: "A vila tem uma escola e uma loja."
+  },
+  {
+    id: "lesson_13_vocab_a1_31",
+    word: "A neighbourhood (UK), or neighborhood (US), is an area in a town or city where people live near each other.",
+    translation: "Um bairro é uma área em uma cidade onde as pessoas moram perto umas das outras.",
+    pronunciation: "/ə ˈneɪbərhʊd ɪz ən ˈɛəriə ɪn ə taʊn ɔːr ˈsɪti wɛər ˈpiːpəl lɪv nɪər iːtʃ ˈʌðər./",
+    portuguesePhonetic: "a nêi-bor-rud íz ên é-ria ín a táun ór sí-ti uér pí-pol lív nír ítch á-der.",
+    syllables: ["A", " neigh", "bour", "hood", " is", " an", " ar", "ea", " in...", " where", " peo", "ple", " live", " near", " each", " oth", "er."],
+    exampleSentence: "A neighbourhood (UK), or neighborhood (US), is an area in a town or city where people live near each other.",
+    exampleTranslation: "Um bairro é uma área em uma cidade onde as pessoas moram perto umas das outras."
+  },
+  {
+    id: "lesson_13_vocab_a1_32",
+    word: "We have many friends in our neighbourhood.",
+    translation: "Nós temos muitos amigos em nosso bairro.",
+    pronunciation: "/wiː hæv ˈmɛni frɛndz ɪn ˈaʊər ˈneɪbərhʊd./",
+    portuguesePhonetic: "uí rév mé-ni frénds ín áur nêi-bor-rud.",
+    syllables: ["We", " have", " ma", "ny", " friends", " in", " our", " neigh", "bour", "hood."],
+    exampleSentence: "We have many friends in our neighbourhood.",
+    exampleTranslation: "Nós temos muitos amigos em nosso bairro."
+  },
+  {
+    id: "lesson_13_vocab_a1_33",
+    word: "Downtown (US), or city centre (UK), is the main part of a city where there are many shops, offices, and tall buildings.",
+    translation: "O centro da cidade é a parte principal de uma cidade, onde há muitas lojas, escritórios e prédios altos.",
+    pronunciation: "/ˌdaʊnˈtaʊn, ɔːr ˈsɪti ˈsɛntər, ɪz ðə meɪn pɑːrt ɒv ə ˈsɪti wɛər ðɛər ɑːr ˈmɛni ʃɒps, ˈɒfɪsɪz, ænd tɔːl ˈbɪldɪŋz./",
+    portuguesePhonetic: "dáun-táun, ór sí-ti sén-ter, íz dâ mêin párt óv a sí-ti uér dér ár mé-ni chops, ó-fi-sis, énd tól bíl-dins.",
+    syllables: ["Down", "town,", " or...", " is", " the", " main", " part", " of", " a", " ci", "ty...", " shops,", " of", "fi", "ces,", " and", " tall", " build", "ings."],
+    exampleSentence: "Downtown (US), or city centre (UK), is the main part of a city where there are many shops, offices, and tall buildings.",
+    exampleTranslation: "O centro da cidade é a parte principal de uma cidade, onde há muitas lojas, escritórios e prédios altos."
+  },
+  {
+    id: "lesson_13_vocab_a1_34",
+    word: "We went shopping downtown.",
+    translation: "Nós fomos fazer compras no centro.",
+    pronunciation: "/wiː wɛnt ˈʃɒpɪŋ ˌdaʊnˈtaʊn./",
+    portuguesePhonetic: "uí uént chó-pin dáun-táun.",
+    syllables: ["We", " went", " shop", "ping", " down", "town."],
+    exampleSentence: "We went shopping downtown.",
+    exampleTranslation: "Nós fomos fazer compras no centro."
+  },
+  {
+    id: "lesson_13_vocab_a1_35",
+    word: "We visited the city centre to see the tall buildings.",
+    translation: "Nós visitamos o centro da cidade para ver os prédios altos.",
+    pronunciation: "/wiː ˈvɪzɪtɪd ðə ˈsɪti ˈsɛntər tuː siː ðə tɔːl ˈbɪldɪŋz./",
+    portuguesePhonetic: "uí ví-zi-ted dâ sí-ti sén-ter tchu sí dâ tól bíl-dins.",
+    syllables: ["We", " vis", "it", "ed", " the", " ci", "ty", " cen", "tre", " to", " see", " the", " tall", " build", "ings."],
+    exampleSentence: "We visited the city centre to see the tall buildings.",
+    exampleTranslation: "Nós visitamos o centro da cidade para ver os prédios altos."
+  },
+  {
+    id: "lesson_13_vocab_a1_36",
+    word: "A street is a road in a city or town.",
+    translation: "Uma rua é uma via em uma cidade.",
+    pronunciation: "/ə striːt ɪz ə roʊd ɪn ə ˈsɪti ɔːr taʊn./",
+    portuguesePhonetic: "a strít íz a róud ín a sí-ti ór táun.",
+    syllables: ["A", " street", " is", " a", " road", " in", " a", " ci", "ty", " or", " town."],
+    exampleSentence: "A street is a road in a city or town.",
+    exampleTranslation: "Uma rua é uma via em uma cidade."
+  },
+  {
+    id: "lesson_13_vocab_a1_37",
+    word: "Our house is on Oak Street.",
+    translation: "Nossa casa fica na Rua Oak.",
+    pronunciation: "/ˈaʊər haʊs ɪz ɒn oʊk striːt./",
+    portuguesePhonetic: "áur ráus íz ón óuc strít.",
+    syllables: ["Our", " house", " is", " on", " Oak", " Street."],
+    exampleSentence: "Our house is on Oak Street.",
+    exampleTranslation: "Nossa casa fica na Rua Oak."
+  },
+  {
+    id: "lesson_13_vocab_a1_38",
+    word: "An avenue is a big, wide street in a city.",
+    translation: "Uma avenida é uma rua grande e larga em uma cidade.",
+    pronunciation: "/ən ˈævənjuː ɪz ə bɪɡ, waɪd striːt ɪn ə ˈsɪti./",
+    portuguesePhonetic: "ên é-və-niú íz a bíg, uáid strít ín a sí-ti.",
+    syllables: ["An", " av", "e", "nue", " is", " a", " big,", " wide", " street", " in", " a", " ci", "ty."],
+    exampleSentence: "An avenue is a big, wide street in a city.",
+    exampleTranslation: "Uma avenida é uma rua grande e larga em uma cidade."
+  },
+  {
+    id: "lesson_13_vocab_a1_39",
+    word: "We walked down the big avenue to see all the famous shops.",
+    translation: "Nós caminhamos pela grande avenida para ver todas as lojas famosas.",
+    pronunciation: "/wiː wɔːkt daʊn ðə bɪɡ ˈævənjuː tuː siː ɔːl ðə ˈfeɪməs ʃɒps./",
+    portuguesePhonetic: "uí uóct dáun dâ bíg é-və-niú tchu sí ól dâ fêi-mos chops.",
+    syllables: ["We", " walked", " down", " the", " big", " av", "e", "nue", " to", " see", " all", " the", " fa", "mous", " shops."],
+    exampleSentence: "We walked down the big avenue to see all the famous shops.",
+    exampleTranslation: "Nós caminhamos pela grande avenida para ver todas as lojas famosas."
+  },
+  {
+    id: "lesson_13_vocab_a1_40",
+    word: "A square is an open area in a city, usually with buildings around it.",
+    translation: "Uma praça é uma área aberta em uma cidade, geralmente com prédios ao redor.",
+    pronunciation: "/ə skwɛər ɪz ən ˈoʊpən ˈɛəriə ɪn ə ˈsɪti, ˈjuːʒuəli wɪð ˈbɪldɪŋz əˈraʊnd ɪt./",
+    portuguesePhonetic: "a scuér íz ên óu-pen é-ria ín a sí-ti, iú-ju-a-li uíd bíl-dins a-ráund it.",
+    syllables: ["A", " square", " is", " an", " o", "pen", " ar", "ea", " in...", " u", "su", "al", "ly...", " build", "ings", " a", "round", " it."],
+    exampleSentence: "A square is an open area in a city, usually with buildings around it.",
+    exampleTranslation: "Uma praça é uma área aberta em uma cidade, geralmente com prédios ao redor."
+  },
+  {
+    id: "lesson_13_vocab_a1_41",
+    word: "There are musicians playing in the town’s square.",
+    translation: "Há músicos tocando na praça da cidade.",
+    pronunciation: "/ðɛər ɑːr mjuːˈzɪʃənz ˈpleɪɪŋ ɪn ðə taʊnz skwɛər./",
+    portuguesePhonetic: "dér ár miú-zí-chans plêi-in ín dâ táuns scuér.",
+    syllables: ["There", " are", " mu", "si", "cians", " play", "ing", " in", " the", " town's", " square."],
+    exampleSentence: "There are musicians playing in the town’s square.",
+    exampleTranslation: "Há músicos tocando na praça da cidade."
+  },
+  {
+    id: "lesson_13_vocab_a1_42",
+    word: "A park is a place in a town or city with grass and trees where people can play or relax.",
+    translation: "Um parque é um lugar em uma cidade com grama e árvores onde as pessoas podem brincar ou relaxar.",
+    pronunciation: "/ə pɑːrk ɪz ə pleɪs ɪn ə taʊn ɔːr ˈsɪti wɪð ɡrɑːs ænd triːz wɛər ˈpiːpəl kæn pleɪ ɔːr rɪˈlæks./",
+    portuguesePhonetic: "a párc íz a plêis ín a táun ór sí-ti uíd grás énd trís uér pí-pol quén plêi ór ri-lécs.",
+    syllables: ["A", " park", " is", " a", " place", " in", " a", " town...", " grass", " and", " trees...", " peo", "ple", " can", " play", " or", " re", "lax."],
+    exampleSentence: "A park is a place in a town or city with grass and trees where people can play or relax.",
+    exampleTranslation: "Um parque é um lugar em uma cidade com grama e árvores onde as pessoas podem brincar ou relaxar."
+  },
+  {
+    id: "lesson_13_vocab_a1_43",
+    word: "We like to have picnics in the park.",
+    translation: "Nós gostamos de fazer piqueniques no parque.",
+    pronunciation: "/wiː laɪk tuː hæv ˈpɪknɪks ɪn ðə pɑːrk./",
+    portuguesePhonetic: "uí láic tchu rév píc-nics ín dâ párc.",
+    syllables: ["We", " like", " to", " have", " pic", "nics", " in", " the", " park."],
+    exampleSentence: "We like to have picnics in the park.",
+    exampleTranslation: "Nós gostamos de fazer piqueniques no parque."
+  },
+  {
+    id: "lesson_13_vocab_a1_44",
+    word: "A museum is a building where people can see interesting things, like art or historical objects.",
+    translation: "Um museum é um prédio onde as pessoas podem ver coisas interessantes, como arte ou objetos históricos.",
+    pronunciation: "/ə mjuːˈziːəm ɪz ə ˈbɪldɪŋ wɛər ˈpiːpəl kæn siː ˈɪntrəstɪŋ θɪŋz, laɪk ɑːrt ɔːr hɪˈstɒrɪkəl əbˈdʒɛkts./",
+    portuguesePhonetic: "a miú-zí-əm íz a bíl-din uér pí-pol quén sí ín-tres-tin θíns, láic árt ór rís-tó-ri-col ob-djécts.",
+    syllables: ["A", " mu", "se", "um", " is", " a...", " where", " peo", "ple", " can...", " in", "ter", "est", "ing...", " like", " art...", " his", "tor", "i", "cal..."],
+    exampleSentence: "A museum is a building where people can see interesting things, like art or historical objects.",
+    exampleTranslation: "Um museu é um prédio onde as pessoas podem ver coisas interessantes, como arte ou objetos históricos."
+  },
+  {
+    id: "lesson_13_vocab_a1_45",
+    word: "We saw dinosaur bones at the museum.",
+    translation: "Nós vimos ossos de dinossauro no museu.",
+    pronunciation: "/wiː sɔː ˈdaɪnəsɔːr boʊnz æt ðə mjuːˈziːəm./",
+    portuguesePhonetic: "uí só dái-no-sór bouns ét dâ miú-zí-əm.",
+    syllables: ["We", " saw", " di", "no", "saur", " bones", " at", " the", " mu", "se", "um."],
+    exampleSentence: "We saw dinosaur bones at the museum.",
+    exampleTranslation: "Nós vimos ossos de dinossauro no museu."
+  },
+  {
+    id: "lesson_13_vocab_a1_46",
+    word: "A library is a place where you can read or borrow books.",
+    translation: "Uma biblioteca é um lugar onde você pode ler ou pegar livros emprestados.",
+    pronunciation: "/ə ˈlaɪbrɛri ɪz ə pleɪs wɛər juː kæn riːd ɔːr ˈbɒroʊ bʊks./",
+    portuguesePhonetic: "a lái-bre-ri íz a plêis uér iu quén ríd ór bó-rou búcs.",
+    syllables: ["A", " li", "brar", "y", " is", " a", " place", " where", " you", " can", " read", " or", " bor", "row", " books."],
+    exampleSentence: "A library is a place where you can read or borrow books.",
+    exampleTranslation: "Uma biblioteca é um lugar onde você pode ler ou pegar livros emprestados."
+  },
+  {
+    id: "lesson_13_vocab_a1_47",
+    word: "I borrowed three books from the library.",
+    translation: "Eu peguei três livros emprestados da biblioteca.",
+    pronunciation: "/aɪ ˈbɒroʊd θriː bʊks frɒm ðə ˈlaɪbrɛri./",
+    portuguesePhonetic: "ái bó-roud θrí búcs fróm dâ lái-bre-ri.",
+    syllables: ["I", " bor", "rowed", " three", " books", " from", " the", " li", "brar", "y."],
+    exampleSentence: "I borrowed three books from the library.",
+    exampleTranslation: "Eu peguei três livros emprestados da biblioteca."
+  },
+  {
+    id: "lesson_13_vocab_a1_48",
+    word: "A restaurant is a place where you can eat food.",
+    translation: "Um restaurante é um lugar onde você pode comer.",
+    pronunciation: "/ə ˈrɛstərənt ɪz ə pleɪs wɛər juː kæn iːt fuːd./",
+    portuguesePhonetic: "a rés-to-rãnt íz a plêis uér iu quén ít fúd.",
+    syllables: ["A", " res", "tau", "rant", " is", " a", " place", " where", " you", " can", " eat", " food."],
+    exampleSentence: "A restaurant is a place where you can eat food.",
+    exampleTranslation: "Um restaurante é um lugar onde você pode comer."
+  },
+  {
+    id: "lesson_13_vocab_a1_49",
+    word: "We had pizza at the new restaurant.",
+    translation: "Nós comemos pizza no novo restaurante.",
+    pronunciation: "/wiː hæd ˈpiːtsə æt ðə njuː ˈrɛstərənt./",
+    portuguesePhonetic: "uí réd pí-tsa ét dâ niú rés-to-rãnt.",
+    syllables: ["We", " had", " piz", "za", " at", " the", " new", " res", "tau", "rant."],
+    exampleSentence: "We had pizza at the new restaurant.",
+    exampleTranslation: "Nós comemos pizza no novo restaurante."
+  },
+  {
+    id: "lesson_13_vocab_a1_50",
+    word: "A cafe is a small restaurant where you can buy drinks and snacks.",
+    translation: "Um café é um pequeno restaurante onde você pode comprar bebidas e lanches.",
+    pronunciation: "/ə kæˈfeɪ ɪz ə smɔːl ˈrɛstərənt wɛər juː kæn baɪ drɪŋks ænd snæks./",
+    portuguesePhonetic: "a quê-féi íz a smól rés-to-rãnt uér iu quén bái dríncs énd snécs.",
+    syllables: ["A", " ca", "fe", " is", " a", " small", " res", "tau", "rant...", " can", " buy", " drinks", " and", " snacks."],
+    exampleSentence: "A cafe is a small restaurant where you can buy drinks and snacks.",
+    exampleTranslation: "Um café é um pequeno restaurante onde você pode comprar bebidas e lanches."
+  },
+  {
+    id: "lesson_13_vocab_a1_51",
+    word: "We drank hot chocolate at the cafe.",
+    translation: "Nós bebemos chocolate quente no café.",
+    pronunciation: "/wiː dræŋk hɒt ˈtʃɒklət æt ðə kæˈfeɪ./",
+    portuguesePhonetic: "uí drénc rót tchó-clat ét dâ quê-féi.",
+    syllables: ["We", " drank", " hot", " choc", "o", "late", " at", " the", " ca", "fe."],
+    exampleSentence: "We drank hot chocolate at the cafe.",
+    exampleTranslation: "Nós bebemos chocolate quente no café."
+  },
+  {
+    id: "lesson_13_vocab_a1_52",
+    word: "A school is a place where children go to learn.",
+    translation: "Uma escola é um lugar onde as crianças vão para aprender.",
+    pronunciation: "/ə skuːl ɪz ə pleɪs wɛər ˈtʃɪldrən ɡoʊ tuː lɜːrn./",
+    portuguesePhonetic: "a scúl íz a plêis uér tchíl-dren gôu tchu lãrn.",
+    syllables: ["A", " school", " is", " a", " place", " where", " chil", "dren", " go", " to", " learn."],
+    exampleSentence: "A school is a place where children go to learn.",
+    exampleTranslation: "Uma escola é um lugar onde as crianças vão para aprender."
+  },
+  {
+    id: "lesson_13_vocab_a1_53",
+    word: "My brother goes to the same school as me.",
+    translation: "Meu irmão vai para a mesma escola que eu.",
+    pronunciation: "/maɪ ˈbrʌðər ɡoʊz tuː ðə seɪm skuːl æz miː./",
+    portuguesePhonetic: "mái brá-der gôus tchu dâ sêim scúl és mí.",
+    syllables: ["My", " broth", "er", " goes", " to", " the", " same", " school", " as", " me."],
+    exampleSentence: "My brother goes to the same school as me.",
+    exampleTranslation: "Meu irmão vai para a mesma escola que eu."
+  },
+  {
+    id: "lesson_13_vocab_a1_54",
+    word: "A hospital is a place where sick or hurt people go to get better.",
+    translation: "Um hospital é um lugar onde pessoas doentes ou machucadas vão para melhorar.",
+    pronunciation: "/ə ˈhɒspɪtəl ɪz ə pleɪs wɛər sɪk ɔːr hɜːrt ˈpiːpəl ɡoʊ tuː ɡɛt ˈbɛtər./",
+    portuguesePhonetic: "a rós-pi-tol íz a plêis uér síc ór rãrt pí-pol gôu tchu guét bé-ter.",
+    syllables: ["A", " hos", "pi", "tal", " is", " a...", " where", " sick", " or", " hurt", " peo", "ple", " go...", " get", " bet", "ter."],
+    exampleSentence: "A hospital is a place where sick or hurt people go to get better.",
+    exampleTranslation: "Um hospital é um lugar onde pessoas doentes ou machucadas vão para melhorar."
+  },
+  {
+    id: "lesson_13_vocab_a1_55",
+    word: "The doctor works at the hospital.",
+    translation: "O médico trabalha no hospital.",
+    pronunciation: "/ðə ˈdɒktər wɜːrks æt ðə ˈhɒspɪtəl./",
+    portuguesePhonetic: "dâ dóc-tor uãrcs ét dâ rós-pi-tol.",
+    syllables: ["The", " doc", "tor", " works", " at", " the", " hos", "pi", "tal."],
+    exampleSentence: "The doctor works at the hospital.",
+    exampleTranslation: "O médico trabalha no hospital."
+  },
+  {
+    id: "lesson_13_vocab_a1_56",
+    word: "A post office is a place where you can send and receive letters and packages.",
+    translation: "Uma agência dos correios é um lugar onde você pode enviar e receber cartas e pacotes.",
+    pronunciation: "/ə poʊst ˈɒfɪs ɪz ə pleɪs wɛər juː kæn sɛnd ænd rɪˈsiːv ˈlɛtərz ænd ˈpækɪdʒɪz./",
+    portuguesePhonetic: "a póust ó-fis íz a plêis uér iu quén sénd énd ri-sív lé-ters énd pé-qui-djis.",
+    syllables: ["A", " post", " of", "fice", " is...", " send", " and", " re", "ceive", " let", "ters", " and", " pack", "ag", "es."],
+    exampleSentence: "A post office is a place where you can send and receive letters and packages.",
+    exampleTranslation: "Uma agência dos correios é um lugar onde você pode enviar e receber cartas e pacotes."
+  },
+  {
+    id: "lesson_13_vocab_a1_57",
+    word: "I mailed a letter at the post office.",
+    translation: "Eu enviei uma carta no correio.",
+    pronunciation: "/aɪ meɪld ə ˈlɛtər æt ðə poʊst ˈɒfɪs./",
+    portuguesePhonetic: "ái mêild a lé-ter ét dâ póust ó-fis.",
+    syllables: ["I", " mailed", " a", " let", "ter", " at", " the", " post", " of", "fice."],
+    exampleSentence: "I mailed a letter at the post office.",
+    exampleTranslation: "Eu enviei uma carta no correio."
+  },
+  {
+    id: "lesson_13_vocab_a1_58",
+    word: "A bank is a place where you can keep your money.",
+    translation: "Um banco é um lugar onde você pode guardar seu dinheiro.",
+    pronunciation: "/ə bæŋk ɪz ə pleɪs wɛər juː kæn kiːp jɔːr ˈmʌni./",
+    portuguesePhonetic: "a bénc íz a plêis uér iu quén quíp iór má-ni.",
+    syllables: ["A", " bank", " is", " a", " place", " where", " you", " can", " keep", " your", " mon", "ey."],
+    exampleSentence: "A bank is a place where you can keep your money.",
+    exampleTranslation: "Um banco é um lugar onde você pode guardar seu dinheiro."
+  },
+  {
+    id: "lesson_13_vocab_a1_59",
+    word: "Mom went to the bank to deposit some money.",
+    translation: "Mamãe foi ao banco para depositar dinheiro.",
+    pronunciation: "/mɒm wɛnt tuː ðə bæŋk tuː dɪˈpɒzɪt sʌm ˈmʌni./",
+    portuguesePhonetic: "móm uént tchu dâ bénc tchu di-pó-zit sám má-ni.",
+    syllables: ["Mom", " went", " to", " the", " bank", " to", " de", "pos", "it", " some", " mon", "ey."],
+    exampleSentence: "Mom went to the bank to deposit some money.",
+    exampleTranslation: "Mamãe foi ao banco para depositar dinheiro."
+  },
+  {
+    id: "lesson_13_vocab_a1_60",
+    word: "A hotel is a place where people stay when they travel.",
+    translation: "Um hotel é um lugar onde as pessoas ficam quando viajam.",
+    pronunciation: "/ə hoʊˈtɛl ɪz ə pleɪs wɛər ˈpiːpəl steɪ wɛn ðeɪ ˈtrævəl./",
+    portuguesePhonetic: "a rou-tél íz a plêis uér pí-pol stêi uén ðêi tré-vəl.",
+    syllables: ["A", " ho", "tel", " is", " a", " place", " where", " peo", "ple", " stay", " when", " they", " trav", "el."],
+    exampleSentence: "A hotel is a place where people stay when they travel.",
+    exampleTranslation: "Um hotel é um lugar onde as pessoas ficam quando viajam."
+  },
+  {
+    id: "lesson_13_vocab_a1_61",
+    word: "We stayed at a hotel by the beach.",
+    translation: "Nós ficamos em um hotel perto da praia.",
+    pronunciation: "/wiː steɪd æt ə hoʊˈtɛl baɪ ðə biːtʃ./",
+    portuguesePhonetic: "uí stêid ét a rou-tél bái dâ bítch.",
+    syllables: ["We", " stayed", " at", " a", " ho", "tel", " by", " the", " beach."],
+    exampleSentence: "We stayed at a hotel by the beach.",
+    exampleTranslation: "Nós ficamos em um hotel perto da praia."
+  },
+  {
+    id: "lesson_13_vocab_a1_62",
+    word: "A cinema (UK), or movie theater (US), is a place where you can watch movies. In the US, people often use the term the movies to mean “movie theater”.",
+    translation: "Um cinema é um lugar onde você pode assistir a filmes. Nos Estados Unidos, as pessoas costumam usar a expressão the movies para significar “cinema”.",
+    pronunciation: "/ə ˈsɪnəmə, ɔːr ˈmuːvi ˈθiːətər, ɪz ə pleɪs wɛər juː kæn wɒtʃ ˈmuːviz. ɪn ðə juː-ɛs, ˈpiːpəl ˈɒfən juːz ðə tɜːrm ðə ˈmuːviz tuː miːn ˈmuːvi ˈθiːətər./",
+    portuguesePhonetic: "a sí-ne-ma, ór mú-vi θí-a-ter, íz a plêis uér iu quén uótch mú-vis. ín dâ iu-és, pí-pol ó-fen iús dâ tãrm dâ mú-vis tchu mín mú-vi θí-a-ter.",
+    syllables: ["A", " cin", "e", "ma...", " is", " a", " place...", " watch", " mov", "ies...", " the", " mo", "vies", " to", " mean..."],
+    exampleSentence: "A cinema (UK), or movie theater (US), is a place where you can watch movies. In the US, people often use the term the movies to mean “movie theater”.",
+    exampleTranslation: "Um cinema é um lugar onde você pode assistir a filmes. Nos Estados Unidos, as pessoas costumam usar a expressão the movies para significar “cinema”."
+  },
+  {
+    id: "lesson_13_vocab_a1_63",
+    word: "We watched a new movie at the cinema.",
+    translation: "Nós assistimos a um filme novo no cinema.",
+    pronunciation: "/wiː wɒtʃt ə njuː ˈmuːvi æt ðə ˈsɪnəmə./",
+    portuguesePhonetic: "uí uótcht a niú mú-vi ét dâ sí-ne-ma.",
+    syllables: ["We", " watched", " a", " new", " mov", "ie", " at", " the", " cin", "e", "ma."],
+    exampleSentence: "We watched a new movie at the cinema.",
+    exampleTranslation: "Nós assistimos a um filme novo no cinema."
+  },
+  {
+    id: "lesson_13_vocab_a1_64",
+    word: "Do you want to go to the movies this weekend?",
+    translation: "Você quer ir ao cinema neste fim de semana?",
+    pronunciation: "/duː juː wɒnt tuː ɡoʊ tuː ðə ˈmuːviz ðɪs ˈwiːkɛnd?/",
+    portuguesePhonetic: "dú iu uónt tchu gôu tchu dâ mú-vis dís uí-quend?",
+    syllables: ["Do", " you", " want", " to", " go", " to", " the", " mov", "ies", " this", " week", "end?"],
+    exampleSentence: "Do you want to go to the movies this weekend?",
+    exampleTranslation: "Você quer ir ao cinema neste fim de semana?"
+  },
+  {
+    id: "lesson_13_vocab_a1_65",
+    word: "A theatre (UK), or theater (US), is a place where you can watch plays or shows.",
+    translation: "Um teatro é um lugar onde você pode assistir a peças ou shows.",
+    pronunciation: "/ə ˈθɪətər ɪz ə pleɪs wɛər juː kæn wɒtʃ pleɪz ɔːr ʃoʊz./",
+    portuguesePhonetic: "a θí-a-ter íz a plêis uér iu quén uótch plêis ór chous.",
+    syllables: ["A", " the", "a", "tre", " is", " a", " place", " where", " you", " can", " watch", " plays", " or", " shows."],
+    exampleSentence: "A theatre (UK), or theater (US), is a place where you can watch plays or shows.",
+    exampleTranslation: "Um teatro é um lugar onde você pode assistir a peças ou shows."
+  },
+  {
+    id: "lesson_13_vocab_a1_66",
+    word: "We saw a play at the theatre.",
+    translation: "Nós vimos uma peça no teatro.",
+    pronunciation: "/wiː sɔː ə pleɪ æt ðə ˈθɪətər./",
+    portuguesePhonetic: "uí só a plêi ét dâ θí-a-ter.",
+    syllables: ["We", " saw", " a", " play", " at", " the", " the", "a", "tre."],
+    exampleSentence: "We saw a play at the theatre.",
+    exampleTranslation: "Nós vimos uma peça no teatro."
+  },
+  {
+    id: "lesson_13_vocab_a1_67",
+    word: "A bus stop is a place where you can wait for a bus.",
+    translation: "Um ponto de ônibus é um lugar onde você pode esperar o ônibus.",
+    pronunciation: "/ə bəs stɒp ɪz ə pleɪs wɛər juː kæn weɪt fɔːr ə bəs./",
+    portuguesePhonetic: "a bás stóp íz a plêis uér iu quén uêit fór a bás.",
+    syllables: ["A", " bus", " stop", " is", " a", " place", " where", " you", " can", " wait", " for", " a", " bus."],
+    exampleSentence: "A bus stop is a place where you can wait for a bus.",
+    exampleTranslation: "Um ponto de ônibus é um lugar onde você pode esperar o ônibus."
+  },
+  {
+    id: "lesson_13_vocab_a1_68",
+    word: "We waited for the bus at the bus stop.",
+    translation: "Nós esperamos o ônibus no ponto de ônibus.",
+    pronunciation: "/wiː ˈweɪtɪd fɔːr ðə bəs æt ðə bəs stɒp./",
+    portuguesePhonetic: "uí uêi-ted fór dâ bás ét dâ bás stóp.",
+    syllables: ["We", " wait", "ed", " for", " the", " bus", " at", " the", " bus", " stop."],
+    exampleSentence: "We waited for the bus at the bus stop.",
+    exampleTranslation: "Nós esperamos o ônibus no ponto de ônibus."
+  },
+  {
+    id: "lesson_13_vocab_a1_69",
+    word: "A train station is a place where you can catch a train.",
+    translation: "Uma estação de trem é um lugar onde você pode pegar um trem.",
+    pronunciation: "/ə treɪn ˈsteɪʃən ɪz ə pleɪs wɛər juː kæn kætʃ ə treɪn./",
+    portuguesePhonetic: "a trêin stêi-chon íz a plêis uér iu quén quétch a trêin.",
+    syllables: ["A", " train", " sta", "tion", " is", " a", " place", " where", " you", " can", " catch", " a", " train."],
+    exampleSentence: "A train station is a place where you can catch a train.",
+    exampleTranslation: "Uma estação de trem é um lugar onde você pode pegar um trem."
+  },
+  {
+    id: "lesson_13_vocab_a1_70",
+    word: "The train station was very busy in the morning.",
+    translation: "A estação de trem estava muito movimentada de manhã.",
+    pronunciation: "/ðə treɪn ˈsteɪʃən wɒz ˈvɛri ˈbɪzi ɪn ðə ˈmɔːrnɪŋ./",
+    portuguesePhonetic: "dâ trêin stêi-chon uós vé-ri bí-zi ín dâ mór-nin.",
+    syllables: ["The", " train", " sta", "tion", " was", " ver", "y", " bu", "sy", " in", " the", " morn", "ing."],
+    exampleSentence: "The train station was very busy in the morning.",
+    exampleTranslation: "A estação de trem estava muito movimentada de manhã."
+  },
+  {
+    id: "lesson_13_vocab_a1_71",
+    word: "An airport is a place where planes take off and land.",
+    translation: "Um aeroporto é um lugar onde aviões decolam e pousam.",
+    pronunciation: "/ən ˈɛərporːt ɪz ə pleɪs wɛər pleɪnz teɪk ɒf ænd lænd./",
+    portuguesePhonetic: "ên ér-pórt íz a plêis uér plêins têic óf énd lénd.",
+    syllables: ["An", " air", "port", " is", " a", " place", " where", " planes", " take", " off", " and", " land."],
+    exampleSentence: "An airport is a place where planes take off and land.",
+    exampleTranslation: "Um aeroporto é um lugar onde aviões decolam e pousam."
+  },
+  {
+    id: "lesson_13_vocab_a1_72",
+    word: "We arrived at the airport early for our flight.",
+    translation: "Nós chegamos cedo ao aeroporto para nosso voo.",
+    pronunciation: "/wiː əˈraɪvd æt ðə ˈɛərpɔːrt ˈɜːrli fɔːr ˈaʊər flaɪt./",
+    portuguesePhonetic: "uí a-ráivd ét dâ ér-pórt ãr-li fór áur fláit.",
+    syllables: ["We", " ar", "rived", " at", " the", " air", "port", " ear", "ly", " for", " our", " flight."],
+    exampleSentence: "We arrived at the airport early for our flight.",
+    exampleTranslation: "Nós chegamos cedo ao aeroporto para nosso voo."
+  },
+  {
+    id: "lesson_13_vocab_a1_73",
+    word: "A tourist attraction is a place that many people visit because it is interesting.",
+    translation: "Uma atração turística é um lugar que muitas pessoas visitam porque é interessante.",
+    pronunciation: "/ə ˈtʊərɪst əˈtrækʃən ɪz ə pleɪs ðæt ˈmɛni ˈpiːpəl ˈvɪzɪt bɪˈkɒz ɪt ɪz ˈɪntrəstɪŋ./",
+    portuguesePhonetic: "a tú-rist a-tréc-chon íz a plêis dét mé-ni pí-pol ví-zit bi-cós it íz ín-tres-tin.",
+    syllables: ["A", " tour", "ist", " at", "trac", "tion", " is", " a", " place", " that", " ma", "ny", " peo", "ple", " vis", "it", " be", "cause", " it...", " in", "ter", "est", "ing."],
+    exampleSentence: "A tourist attraction is a place that many people visit because it is interesting.",
+    exampleTranslation: "Uma atração turística é um lugar que muitas pessoas visitam porque é interessante."
+  },
+  {
+    id: "lesson_13_vocab_a1_74",
+    word: "The Eiffel Tower is a famous tourist attraction.",
+    translation: "A Torre Eiffel é uma atração turística famosa.",
+    pronunciation: "/ðə ˈaɪfəl ˈtaʊər ɪz ə ˈfeɪməs ˈtʊərɪst əˈtrækʃən./",
+    portuguesePhonetic: "dâ ái-fol táur íz a fêi-mos tú-rist a-tréc-chon.",
+    syllables: ["The", " Ei", "ffel", " Tow", "er", " is", " a", " fa", "mous", " tour", "ist", " at", "trac", "tion."],
+    exampleSentence: "The Eiffel Tower is a famous tourist attraction.",
+    exampleTranslation: "A Torre Eiffel é uma atração turística famosa."
+  },
+  {
+    id: "lesson_13_vocab_a1_75",
+    word: "There are two good schools in the town where I live.",
+    translation: "Há duas boas escolas na cidade onde eu moro.",
+    pronunciation: "/ðɛər ɑːr tuː ɡʊd skuːlz ɪn ðə taʊn wɛər aɪ lɪv./",
+    portuguesePhonetic: "dér ár tchu gúd scúls ín dâ táun uér ái lív.",
+    syllables: ["There", " are", " two", " good", " schools", " in", " the", " town", " where", " I", " live."],
+    exampleSentence: "There are two good schools in the town where I live.",
+    exampleTranslation: "Há duas boas escolas na cidade onde eu moro."
+  },
+  {
+    id: "lesson_13_vocab_a1_76",
+    word: "I often meet my friends for coffee in the cafe on the corner.",
+    translation: "Eu frequentemente encontro meus amigos para tomar café na cafeteria da esquina.",
+    pronunciation: "/aɪ ˈɒfən miːt maɪ frɛndz fɔːr ˈkɒfi ɪn ðə kæˈfeɪ ɒn ðə ˈkɔːrnər./",
+    portuguesePhonetic: "ái ó-fen mít mái frénds fór có-fi ín dâ quê-féi ón dâ cór-ner.",
+    syllables: ["I", " of", "ten", " meet", " my", " friends", " for", " cof", "fee", " in", " the", " ca", "fe", " on", " the", " cor", "ner."],
+    exampleSentence: "I often meet my friends for coffee in the cafe on the corner.",
+    exampleTranslation: "Eu frequentemente encontro meus amigos para tomar café na cafeteria da esquina."
+  },
+  {
+    id: "lesson_13_vocab_a1_77",
+    word: "He has an office downtown / in the city centre, where all the main stores and businesses are.",
+    translation: "Ele tem um escritório no centro da cidade, onde ficam todas as principais lojas e empresas.",
+    pronunciation: "/hiː hæz ən ˈɒfɪs ˌdaʊnˈtaʊn / ɪn ðə ˈsɪti ˈsɛntər, wɛər ɔːl ðə meɪn stɔːrz ænd ˈbɪznɪsɪz ɑːr./",
+    portuguesePhonetic: "í réz ên ó-fis dáun-táun / ín dâ sí-ti sén-ter, uér ól dâ mêin stórs énd bíz-ni-sis ár.",
+    syllables: ["He", " has", " an", " of", "fice", " down", "town", " / ", "in", " the", " ci", "ty", " cen", "tre,", " where", " all", " the", " main", " stores", " and", " busi", "ness", "es", " are."],
+    exampleSentence: "He has an office downtown / in the city centre, where all the main stores and businesses are.",
+    exampleTranslation: "Ele tem um escritório no centro da cidade, onde ficam todas as principais lojas e empresas."
+  },
+  {
+    id: "lesson_13_vocab_a1_78",
+    word: "She teaches math in a very good school.",
+    translation: "Ela ensina matemática em uma escola muito boa.",
+    pronunciation: "/ʃiː ˈtiːtʃɪz mæθ ɪn ə ˈvɛri ɡʊd skuːl./",
+    portuguesePhonetic: "chí tí-tchiz mæθ ín a vé-ri gúd scúl.",
+    syllables: ["She", " teach", "es", " math", " in", " a", " ver", "y", " good", " school."],
+    exampleSentence: "She teaches math in a very good school.",
+    exampleTranslation: "Ela ensina matemática em uma escola muito boa."
+  },
+  {
+    id: "lesson_13_vocab_a1_79",
+    word: "I went to the post office to send a letter.",
+    translation: "Eu fui ao correio para enviar uma carta.",
+    pronunciation: "/aɪ wɛnt tuː ðə poʊst ˈɒfɪs tuː sɛnd ə ˈlɛtər./",
+    portuguesePhonetic: "ái uént tchu dâ póust ó-fis tchu sénd a lé-ter.",
+    syllables: ["I", " went", " to", " the", " post", " of", "fice", " to", " send", " a", " let", "ter."],
+    exampleSentence: "I went to the post office to send a letter.",
+    exampleTranslation: "Eu fui ao correio para enviar uma carta."
+  },
+  {
+    id: "lesson_13_vocab_a1_80",
+    word: "I live in a small village in the countryside.",
+    translation: "Eu moro em uma pequena vila no campo / interior.",
+    pronunciation: "/aɪ lɪv ɪn ə smɔːl ˈvɪlɪdʒ ɪn ðə ˈkʌntriˌsaɪd./",
+    portuguesePhonetic: "ái lív ín a smól ví-lidj ín dâ cán-tri-sáid.",
+    syllables: ["I", " live", " in", " a", " small", " vil", "lage", " in", " the", " coun", "try", "side."],
+    exampleSentence: "I live in a small village in the countryside.",
+    exampleTranslation: "Eu moro em uma pequena vila no campo / interior."
+  },
+  {
+    id: "lesson_13_vocab_a1_81",
+    word: "My father is a doctor; he works at the hospital in town.",
+    translation: "Meu pai é médico; ele trabalha no hospital da cidade.",
+    pronunciation: "/maɪ ˈfɑːðər ɪz ə ˈdɒktər; hiː wɜːrks æt ðə ˈhɒspɪtəl ɪn taʊn./",
+    portuguesePhonetic: "mái fá-der íz a dóc-tor; í uãrcs ét dâ rós-pi-tol ín táun.",
+    syllables: ["My", " fa", "ther", " is", " a", " doc", "tor;", " he", " works", " at", " the", " hos", "pi", "tal", " in", " town."],
+    exampleSentence: "My father is a doctor; he works at the hospital in town.",
+    exampleTranslation: "Meu pai é médico; ele trabalha no hospital da cidade."
+  },
+  {
+    id: "lesson_13_vocab_a1_82",
+    word: "We stayed in a nice hotel when we visited London last year.",
+    translation: "Nós ficamos em um hotel agradável quando visitamos Londres no ano passado.",
+    pronunciation: "/wiː steɪd ɪn ə naɪs hoʊˈtɛl wɛn wiː ˈvɪzɪtɪd ˈlʌndən læst jɪər./",
+    portuguesePhonetic: "uí stêid ín a náis rou-tél uén uí ví-zi-ted lán-don lést íir.",
+    syllables: ["We", " stayed", " in", " a", " nice", " ho", "tel", " when", " we", " vis", "it", "ed", " Lon", "don", " last", " year."],
+    exampleSentence: "We stayed in a nice hotel when we visited London last year.",
+    exampleTranslation: "Nós ficamos em um hotel agradável quando visitamos Londres no ano passado."
+  },
+  {
+    id: "lesson_13_vocab_a1_83",
+    word: "I went to the bank to get some money.",
+    translation: "Eu fui ao banco para pegar dinheiro.",
+    pronunciation: "/aɪ wɛnt tuː ðə bæŋk tuː ɡɛt sʌm ˈmʌni./",
+    portuguesePhonetic: "ái uént tchu dâ bénc tchu guét sám má-ni.",
+    syllables: ["I", " went", " to", " the", " bank", " to", " get", " some", " mon", "ey."],
+    exampleSentence: "I went to the bank to get some money.",
+    exampleTranslation: "Eu fui ao banco para pegar dinheiro."
+  },
+  {
+    id: "lesson_13_vocab_a1_84",
+    word: "We saw a great film when we went to the cinema.",
+    translation: "Nós vimos um ótimo filme quando fomos ao cinema.",
+    pronunciation: "/wiː sɔː ə ɡreɪt fɪlm wɛn wiː wɛnt tuː ðə ˈsɪnəmə./",
+    portuguesePhonetic: "uí só a grêit fílm uén uí uént tchu dâ sí-ne-ma.",
+    syllables: ["We", " saw", " a", " great", " film", " when", " we", " went", " to", " the", " cin", "e", "ma."],
+    exampleSentence: "We saw a great film when we went to the cinema.",
+    exampleTranslation: "Nós vimos um ótimo filme quando fomos ao cinema."
+  },
+  {
+    id: "lesson_13_vocab_a1_85",
+    word: "I come from a small town with just over 6,000 people living in it.",
+    translation: "Eu venho de uma cidade pequena com pouco mais de 6.000 pessoas morando nela.",
+    pronunciation: "/aɪ kʌm frɒm ə smɔːl taʊn wɪð dʒʌst ˈoʊvər ˈsɪks ˈθaʊzənd ˈpiːpəl ˈlɪvɪŋ ɪn ɪt./",
+    portuguesePhonetic: "ái cám fróm a smól táun uíd djást óu-ver sícs θáu-sand pí-pol lí-vin ín it.",
+    syllables: ["I", " come", " from", " a", " small", " town", " with", " just", " o", "ver", " 6,000", " peo", "ple", " liv", "ing", " in", " it."],
+    exampleSentence: "I come from a small town with just over 6,000 people living in it.",
+    exampleTranslation: "Eu venho de uma cidade pequena com pouco mais de 6.000 pessoas morando nela."
+  },
+  {
+    id: "lesson_13_vocab_a1_86",
+    word: "We had a wonderful time at the theatre. We saw a very good play.",
+    translation: "Nós nos divertimos muito no teatro. Vimos uma peça muito boa.",
+    pronunciation: "/wiː hæd ə ˈwʌndərfʊl taɪm æt ðə ˈθɪətər. wiː sɔː ə ˈvɛri ɡʊd pleɪ./",
+    portuguesePhonetic: "uí réd a uán-der-ful táim ét dâ θí-a-ter. uí só a vé-ri gúd plêi.",
+    syllables: ["We", " had", " a", " won", "der", "ful", " time", " at", " the", " the", "a", "tre.", " We", " saw", " a", " ver", "y", " good", " play."],
+    exampleSentence: "We had a wonderful time at the theatre. We saw a very good play.",
+    exampleTranslation: "Nós nos divertimos muito no teatro. Vimos uma peça muito boa."
+  },
+  {
+    id: "lesson_13_vocab_a1_87",
+    word: "The park near my house is full of tall trees and green grass.",
+    translation: "O parque perto da minha casa é cheio de árvores altas e grama verde.",
+    pronunciation: "/ðə pɑːrk nɪər maɪ haʊs ɪz fʊl ɒv tɔːl triːz ænd ɡriːn ɡrɑːs./",
+    portuguesePhonetic: "dâ párc nír mái ráus íz ful óv tól trís énd grín grás.",
+    syllables: ["The", " park", " near", " my", " house", " is", " full", " of", " tall", " trees", " and", " green", " grass."],
+    exampleSentence: "The park near my house is full of tall trees and green grass.",
+    exampleTranslation: "O parque perto da minha casa é cheio de árvores altas e grama verde."
+  },
+  {
+    id: "lesson_13_vocab_a1_88",
+    word: "We live near the airport, so we often hear planes flying over our house.",
+    translation: "Nós moramos perto do aeroporto, então frequentemente ouvimos aviões voando sobre nossa casa.",
+    pronunciation: "/wiː lɪv nɪər ðə ˈɛərpɔːrt, soʊ wiː ˈɒfən hɪər pleɪnz ˈflaɪɪŋ ˈoʊvər ˈaʊər haʊs./",
+    portuguesePhonetic: "uí lív nír dâ ér-pórt, sô uí ó-fen rír plêins flái-in óu-ver áur ráus.",
+    syllables: ["We", " live", " near", " the", " air", "port,", " so", " we", " of", "ten", " hear", " planes", " fly", "ing", " o", "ver", " our", " house."],
+    exampleSentence: "We live near the airport, so we often hear planes flying over our house.",
+    exampleTranslation: "Nós moramos perto do aeroporto, então frequentemente ouvimos aviões voando sobre nossa casa."
+  },
+  {
+    id: "lesson_13_vocab_a1_89",
+    word: "The houses on our street are all white.",
+    translation: "As casas na nossa rua são todas brancas.",
+    pronunciation: "/ðə ˈhaʊzɪz ɒn ˈaʊər striːt ɑːr ɔːl waɪt./",
+    portuguesePhonetic: "dâ ráu-sis ón áur strít ár ól uáit.",
+    syllables: ["The", " hous", "es", " on", " our", " street", " are", " all", " white."],
+    exampleSentence: "The houses on our street are all white.",
+    exampleTranslation: "As casas na nossa rua são todas brancas."
+  },
+  {
+    id: "lesson_13_vocab_a1_90",
+    word: "Mary’s mother is a nurse at the local hospital.",
+    translation: "A mãe da Mary é enfermeira no hospital local.",
+    pronunciation: "/ˈmɛəriz ˈmʌðər ɪz ə nɜːrs æt ðə ˈloʊkəl ˈhɒspɪtəl./",
+    portuguesePhonetic: "mé-ris má-der íz a nãrs ét dâ lóu-col rós-pi-tol.",
+    syllables: ["Ma", "ry's", " moth", "er", " is", " a", " nurse", " at", " the", " lo", "cal", " hos", "pi", "tal."],
+    exampleSentence: "Mary’s mother is a nurse at the local hospital.",
+    exampleTranslation: "A mãe da Mary é enfermeira no hospital local."
+  },
+  {
+    id: "lesson_13_vocab_a1_91",
+    word: "I often go to the museum to look at the old rocks and bones.",
+    translation: "Eu frequentemente vou ao museum para ver as pedras antigas e os ossos.",
+    pronunciation: "/aɪ ˈɒfən ɡoʊ tuː ðə mjuːˈziːəm tuː lʊk æt ðə oʊld rɒks ænd boʊnz./",
+    portuguesePhonetic: "ái ó-fen gôu tchu dâ miú-zí-əm tchu lúc ét dâ óuld rócs énd bouns.",
+    syllables: ["I", " of", "ten", " go", " to", " the", " mu", "se", "um", " to", " look", " at", " the", " old", " rocks", " and", " bones."],
+    exampleSentence: "I often go to the museum to look at the old rocks and bones.",
+    exampleTranslation: "Eu frequentemente vou ao museu para ver as pedras antigas e os ossos."
+  },
+  {
+    id: "lesson_13_vocab_a1_92",
+    word: "I like to go to the shops and restaurants in the city centre.",
+    translation: "Eu gosto de ir às lojas e restaurantes no centro da cidade.",
+    pronunciation: "/aɪ laɪk tuː ɡoʊ tuː ðə ʃɒps ænd ˈrɛstərənts ɪn ðə ˈsɪti ˈsɛntər./",
+    portuguesePhonetic: "ái láic tchu gôu tchu dâ chops énd rés-to-rãnts ín dâ sí-ti sén-ter.",
+    syllables: ["I", " like", " to", " go", " to", " the", " shops", " and", " res", "tau", "rants", " in", " the", " ci", "ty", " cen", "tre."],
+    exampleSentence: "I like to go to the shops and restaurants in the city centre.",
+    exampleTranslation: "Eu gosto de ir às lojas e restaurantes no centro da cidade."
+  },
+  {
+    id: "lesson_13_vocab_a1_93",
+    word: "Sagrada Familia is the most famous tourist attraction in Barcelona.",
+    translation: "A Sagrada Família é a atração turística mais famosa de Barcelona.",
+    pronunciation: "/səˈɡrɑːdə fəˈmɪliə ɪz ðə moʊst ˈfeɪməs ˈtʊərɪst əˈtrækʃən ɪn ˌbɑːrsɪˈloʊnə./",
+    portuguesePhonetic: "sa-grá-da fa-mí-lia íz dâ móust fêi-mos tú-rist a-tréc-chon ín bar-se-ló-na.",
+    syllables: ["Sa", "gra", "da", " Fa", "mi", "li", "a", " is", " the", " most", " fa", "mous", " tour", "ist", " at", "trac", "tion", " in", " Bar", "ce", "lo", "na."],
+    exampleSentence: "Sagrada Familia is the most famous tourist attraction in Barcelona.",
+    exampleTranslation: "A Sagrada Família é a atração turística mais famosa de Barcelona."
+  },
+  {
+    id: "lesson_13_vocab_a1_94",
+    word: "I went to the bank to put some money in my account.",
+    translation: "Eu fui ao banco para colocar dinheiro na minha conta.",
+    pronunciation: "/aɪ wɛnt tuː ðə bæŋk tuː pʊt sʌm ˈmʌni ɪn maɪ əˈkaʊnt./",
+    portuguesePhonetic: "ái uént tchu dâ bénc tchu pút sám má-ni ín mái a-cáunt.",
+    syllables: ["I", " went", " to", " the", " bank", " to", " put", " some", " mon", "ey", " in", " my", " ac", "count."],
+    exampleSentence: "I went to the bank to put some money in my account.",
+    exampleTranslation: "Eu fui ao banco para colocar dinheiro na minha conta."
+  }
+];
+
 export const LESSON_27_DECK: FlashcardData[] = [
   {
     id: 'lesson_27_1',
@@ -25768,5 +28587,32 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   lesson_9_vocabulary_a1: {
     en: LESSON_9_VOCABULARY_A1_DECK
+  },
+  lesson_10_vocabulary_a1: {
+    en: LESSON_10_VOCABULARY_A1_DECK
+  },
+  lesson_11_vocabulary_a1: {
+    en: LESSON_11_VOCABULARY_A1_DECK
+  },
+  lesson_12_vocabulary_a1: {
+    en: LESSON_12_VOCABULARY_A1_DECK
+  },
+  lesson_13_vocabulary_a1: {
+    en: LESSON_13_VOCABULARY_A1_DECK
+  },
+  lesson_14_vocabulary_a1: {
+    en: LESSON_14_VOCABULARY_A1_DECK
+  },
+  lesson_15_vocabulary_a1: {
+    en: LESSON_15_VOCABULARY_A1_DECK
+  },
+  lesson_16_vocabulary_a1: {
+    en: LESSON_16_VOCABULARY_A1_DECK
+  },
+  lesson_17_vocabulary_a1: {
+    en: LESSON_17_VOCABULARY_A1_DECK
+  },
+  lesson_18_vocabulary_a1: {
+    en: LESSON_18_VOCABULARY_A1_DECK
   }
 };

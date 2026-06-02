@@ -86,5 +86,14 @@ export const PREDEFINED_TOPICS = [
   { id: 'lesson_6_vocabulary_a1', label: 'Lesson 6', isStatic: true, group: 'Vocabulary A1' },
   { id: 'lesson_7_vocabulary_a1', label: 'Lesson 7', isStatic: true, group: 'Vocabulary A1' },
   { id: 'lesson_8_vocabulary_a1', label: 'Lesson 8', isStatic: true, group: 'Vocabulary A1' },
-  { id: 'lesson_9_vocabulary_a1', label: 'Lesson 9', isStatic: true, group: 'Vocabulary A1' }
+  { id: 'lesson_9_vocabulary_a1', label: 'Lesson 9', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_10_vocabulary_a1', label: 'Lesson 10', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_11_vocabulary_a1', label: 'Lesson 11', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_12_vocabulary_a1', label: 'Lesson 12', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_13_vocabulary_a1', label: 'Lesson 13', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_14_vocabulary_a1', label: 'Lesson 14', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_15_vocabulary_a1', label: 'Lesson 15', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_16_vocabulary_a1', label: 'Lesson 16', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_17_vocabulary_a1', label: 'Lesson 17', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_18_vocabulary_a1', label: 'Lesson 18', isStatic: true, group: 'Vocabulary A1' }
 ];
