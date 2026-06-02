@@ -22026,6 +22026,2065 @@ export const LESSON_6_VOCABULARY_A1_DECK: FlashcardData[] = [
   }
 ];
 
+export const LESSON_7_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_7_vocab_a1_1',
+    word: "Meals",
+    translation: "Refeições",
+    pronunciation: "/milz/",
+    portuguesePhonetic: "míls",
+    syllables: ["meals"],
+    exampleSentence: "Meals",
+    exampleTranslation: "Refeições"
+  },
+  {
+    id: 'lesson_7_vocab_a1_2',
+    word: "Breakfast",
+    translation: "Café da manhã",
+    pronunciation: "/ˈbrɛkfəst/",
+    portuguesePhonetic: "bréc-fest",
+    syllables: ["break", "fast"],
+    exampleSentence: "Breakfast",
+    exampleTranslation: "Café da manhã"
+  },
+  {
+    id: 'lesson_7_vocab_a1_3',
+    word: "Lunch",
+    translation: "Almoço",
+    pronunciation: "/lʌntʃ/",
+    portuguesePhonetic: "lántch",
+    syllables: ["lunch"],
+    exampleSentence: "Lunch",
+    exampleTranslation: "Almoço"
+  },
+  {
+    id: 'lesson_7_vocab_a1_4',
+    word: "Dinner",
+    translation: "Jantar",
+    pronunciation: "/ˈdɪnər/",
+    portuguesePhonetic: "dín-er",
+    syllables: ["din", "ner"],
+    exampleSentence: "Dinner",
+    exampleTranslation: "Jantar"
+  },
+  {
+    id: 'lesson_7_vocab_a1_5',
+    word: "Tea (UK) / Snack",
+    translation: "Lanche / chá da tarde",
+    pronunciation: "/ti / snæk/",
+    portuguesePhonetic: "tí / snéc",
+    syllables: ["tea", " /", " snack"],
+    exampleSentence: "Tea (UK) / Snack",
+    exampleTranslation: "Lanche / chá da tarde"
+  },
+  {
+    id: 'lesson_7_vocab_a1_6',
+    word: "Cereal",
+    translation: "Cereal",
+    pronunciation: "/ˈsɪriəl/",
+    portuguesePhonetic: "sí-ri-ol",
+    syllables: ["ce", "re", "al"],
+    exampleSentence: "Cereal",
+    exampleTranslation: "Cereal"
+  },
+  {
+    id: 'lesson_7_vocab_a1_7',
+    word: "Bread",
+    translation: "Pão",
+    pronunciation: "/brɛd/",
+    portuguesePhonetic: "bréd",
+    syllables: ["bread"],
+    exampleSentence: "Bread",
+    exampleTranslation: "Pão"
+  },
+  {
+    id: 'lesson_7_vocab_a1_8',
+    word: "Cheese",
+    translation: "Queijo",
+    pronunciation: "/tʃiz/",
+    portuguesePhonetic: "tchís",
+    syllables: ["cheese"],
+    exampleSentence: "Cheese",
+    exampleTranslation: "Queijo"
+  },
+  {
+    id: 'lesson_7_vocab_a1_9',
+    word: "Ham",
+    translation: "Presunto",
+    pronunciation: "/hæm/",
+    portuguesePhonetic: "rém",
+    syllables: ["ham"],
+    exampleSentence: "Ham",
+    exampleTranslation: "Presunto"
+  },
+  {
+    id: 'lesson_7_vocab_a1_10',
+    word: "Eggs",
+    translation: "Ovos",
+    pronunciation: "/ɛɡz/",
+    portuguesePhonetic: "égs",
+    syllables: ["eggs"],
+    exampleSentence: "Eggs",
+    exampleTranslation: "Ovos"
+  },
+  {
+    id: 'lesson_7_vocab_a1_11',
+    word: "Toast",
+    translation: "Torrada",
+    pronunciation: "/toʊst/",
+    portuguesePhonetic: "tôust",
+    syllables: ["toast"],
+    exampleSentence: "Toast",
+    exampleTranslation: "Torrada"
+  },
+  {
+    id: 'lesson_7_vocab_a1_12',
+    word: "Butter",
+    translation: "Manteiga",
+    pronunciation: "/ˈbʌtər/",
+    portuguesePhonetic: "bát-er",
+    syllables: ["but", "ter"],
+    exampleSentence: "Butter",
+    exampleTranslation: "Manteiga"
+  },
+  {
+    id: 'lesson_7_vocab_a1_13',
+    word: "Jam",
+    translation: "Geleia",
+    pronunciation: "/dʒæm/",
+    portuguesePhonetic: "djém",
+    syllables: ["jam"],
+    exampleSentence: "Jam",
+    exampleTranslation: "Geleia"
+  },
+  {
+    id: 'lesson_7_vocab_a1_14',
+    word: "Yogurt",
+    translation: "Iogurte",
+    pronunciation: "/ˈjoʊɡərt/",
+    portuguesePhonetic: "iôu-guert",
+    syllables: ["yo", "gurt"],
+    exampleSentence: "Yogurt",
+    exampleTranslation: "Iogurte"
+  },
+  {
+    id: 'lesson_7_vocab_a1_15',
+    word: "Fruit",
+    translation: "Fruta",
+    pronunciation: "/frut/",
+    portuguesePhonetic: "frút",
+    syllables: ["fruit"],
+    exampleSentence: "Fruit",
+    exampleTranslation: "Fruta"
+  },
+  {
+    id: 'lesson_7_vocab_a1_16',
+    word: "Crisps (UK) / Chips (US)",
+    translation: "Batata chips / salgadinho",
+    pronunciation: "/krɪsps / tʃɪps/",
+    portuguesePhonetic: "crísps / tchíps",
+    syllables: ["crisps", " /", " chips"],
+    exampleSentence: "Crisps (UK) / Chips (US)",
+    exampleTranslation: "Batata chips / salgadinho"
+  },
+  {
+    id: 'lesson_7_vocab_a1_17',
+    word: "Biscuits (UK) / Cookies (US)",
+    translation: "Biscoitos / cookies",
+    pronunciation: "/ˈbɪskɪts / ˈkʊkiz/",
+    portuguesePhonetic: "bís-kits / cú-kis",
+    syllables: ["bis", "cuits", " /", " cook", "ies"],
+    exampleSentence: "Biscuits (UK) / Cookies (US)",
+    exampleTranslation: "Biscoitos / cookies"
+  },
+  {
+    id: 'lesson_7_vocab_a1_18',
+    word: "Sandwich",
+    translation: "Sanduíche",
+    pronunciation: "/ˈsænwɪtʃ/",
+    portuguesePhonetic: "sén-uitch",
+    syllables: ["sand", "wich"],
+    exampleSentence: "Sandwich",
+    exampleTranslation: "Sanduíche"
+  },
+  {
+    id: 'lesson_7_vocab_a1_19',
+    word: "Cake",
+    translation: "Bolo",
+    pronunciation: "/keɪk/",
+    portuguesePhonetic: "quêic",
+    syllables: ["cake"],
+    exampleSentence: "Cake",
+    exampleTranslation: "Bolo"
+  },
+  {
+    id: 'lesson_7_vocab_a1_20',
+    word: "Candy bar",
+    translation: "Barra de chocolate / barra de doce",
+    pronunciation: "/ˈkændi bɑr/",
+    portuguesePhonetic: "quên-di bár",
+    syllables: ["can", "dy", " bar"],
+    exampleSentence: "Candy bar",
+    exampleTranslation: "Barra de chocolate / barra de doce"
+  },
+  {
+    id: 'lesson_7_vocab_a1_21',
+    word: "Food & Drink",
+    translation: "Comida e bebida",
+    pronunciation: "/fud ænd drɪŋk/",
+    portuguesePhonetic: "fúd énd drínc",
+    syllables: ["food", " &", " drink"],
+    exampleSentence: "Food & Drink",
+    exampleTranslation: "Comida e bebida"
+  },
+  {
+    id: 'lesson_7_vocab_a1_22',
+    word: "Rice",
+    translation: "Arroz",
+    pronunciation: "/raɪs/",
+    portuguesePhonetic: "ráis",
+    syllables: ["rice"],
+    exampleSentence: "Rice",
+    exampleTranslation: "Arroz"
+  },
+  {
+    id: 'lesson_7_vocab_a1_23',
+    word: "Pasta",
+    translation: "Massa / macarrão",
+    pronunciation: "/ˈpɑstə/",
+    portuguesePhonetic: "pás-ta",
+    syllables: ["pas", "ta"],
+    exampleSentence: "Pasta",
+    exampleTranslation: "Massa / macarrão"
+  },
+  {
+    id: 'lesson_7_vocab_a1_24',
+    word: "Pizza",
+    translation: "Pizza",
+    pronunciation: "/ˈpitsə/",
+    portuguesePhonetic: "pít-sa",
+    syllables: ["piz", "za"],
+    exampleSentence: "Pizza",
+    exampleTranslation: "Pizza"
+  },
+  {
+    id: 'lesson_7_vocab_a1_25',
+    word: "Meat",
+    translation: "Carne",
+    pronunciation: "/mit/",
+    portuguesePhonetic: "mít",
+    syllables: ["meat"],
+    exampleSentence: "Meat",
+    exampleTranslation: "Carne"
+  },
+  {
+    id: 'lesson_7_vocab_a1_26',
+    word: "Fish",
+    translation: "Peixe",
+    pronunciation: "/fɪʃ/",
+    portuguesePhonetic: "fích",
+    syllables: ["fish"],
+    exampleSentence: "Fish",
+    exampleTranslation: "Peixe"
+  },
+  {
+    id: 'lesson_7_vocab_a1_27',
+    word: "Vegetables",
+    translation: "Vegetais / legumes",
+    pronunciation: "/ˈvɛdʒtəbəlz/",
+    portuguesePhonetic: "védj-tchê-bouls",
+    syllables: ["veg", "e", "ta", "bles"],
+    exampleSentence: "Vegetables",
+    exampleTranslation: "Vegetais / legumes"
+  },
+  {
+    id: 'lesson_7_vocab_a1_28',
+    word: "Soup",
+    translation: "Sopa",
+    pronunciation: "/sup/",
+    portuguesePhonetic: "súp",
+    syllables: ["soup"],
+    exampleSentence: "Soup",
+    exampleTranslation: "Sopa"
+  },
+  {
+    id: 'lesson_7_vocab_a1_29',
+    word: "Salad",
+    translation: "Salada",
+    pronunciation: "/ˈsæləd/",
+    portuguesePhonetic: "sé-lad",
+    syllables: ["sal", "ad"],
+    exampleSentence: "Salad",
+    exampleTranslation: "Salada"
+  },
+  {
+    id: 'lesson_7_vocab_a1_30',
+    word: "Dessert",
+    translation: "Sobremesa",
+    pronunciation: "/dɪˈzɜrt/",
+    portuguesePhonetic: "di-zãrt",
+    syllables: ["des", "sert"],
+    exampleSentence: "Dessert",
+    exampleTranslation: "Sobremesa"
+  },
+  {
+    id: 'lesson_7_vocab_a1_31',
+    word: "Water",
+    translation: "Água",
+    pronunciation: "/ˈwɔtər/",
+    portuguesePhonetic: "uó-ter",
+    syllables: ["wa", "ter"],
+    exampleSentence: "Water",
+    exampleTranslation: "Água"
+  },
+  {
+    id: 'lesson_7_vocab_a1_32',
+    word: "Milk",
+    translation: "Leite",
+    pronunciation: "/mɪlk/",
+    portuguesePhonetic: "mílc",
+    syllables: ["milk"],
+    exampleSentence: "Milk",
+    exampleTranslation: "Leite"
+  },
+  {
+    id: 'lesson_7_vocab_a1_33',
+    word: "Juice",
+    translation: "Suco",
+    pronunciation: "/dʒus/",
+    portuguesePhonetic: "djús",
+    syllables: ["juice"],
+    exampleSentence: "Juice",
+    exampleTranslation: "Suco"
+  },
+  {
+    id: 'lesson_7_vocab_a1_34',
+    word: "Tea",
+    translation: "Chá",
+    pronunciation: "/ti/",
+    portuguesePhonetic: "tí",
+    syllables: ["tea"],
+    exampleSentence: "Tea",
+    exampleTranslation: "Chá"
+  },
+  {
+    id: 'lesson_7_vocab_a1_35',
+    word: "Coffee",
+    translation: "Café",
+    pronunciation: "/ˈkɔfi/",
+    portuguesePhonetic: "có-fi",
+    syllables: ["cof", "fee"],
+    exampleSentence: "Coffee",
+    exampleTranslation: "Café"
+  },
+  {
+    id: 'lesson_7_vocab_a1_36',
+    word: "Beer",
+    translation: "Cerveja",
+    pronunciation: "/bɪr/",
+    portuguesePhonetic: "bír",
+    syllables: ["beer"],
+    exampleSentence: "Beer",
+    exampleTranslation: "Cerveja"
+  },
+  {
+    id: 'lesson_7_vocab_a1_37',
+    word: "Wine",
+    translation: "Vinho",
+    pronunciation: "/waɪn/",
+    portuguesePhonetic: "uáin",
+    syllables: ["wine"],
+    exampleSentence: "Wine",
+    exampleTranslation: "Vinho"
+  },
+  {
+    id: 'lesson_7_vocab_a1_38',
+    word: "Rice is white and it’s a very popular food in Asian countries.",
+    translation: "O arroz é branco e é uma comida muito popular em países asiáticos.",
+    pronunciation: "/raɪs ɪz waɪt ænd ɪts ə ˈvɛri ˈpɑpjələr fud ɪn ˈeɪʒən ˈkʌntriz./",
+    portuguesePhonetic: "ráis íz uáit énd íts a vé-ri pó-piu-lar fúd ín êi-jan cán-tris.",
+    syllables: ["Rice", " is", " white", " and", " it's", " a", " ver", "y", " pop", "u", "lar", " food", " in", " A", "sian", " coun", "tries."],
+    exampleSentence: "Rice is white and it’s a very popular food in Asian countries.",
+    exampleTranslation: "O arroz é branco e é uma comida muito popular em países asiáticos."
+  },
+  {
+    id: 'lesson_7_vocab_a1_39',
+    word: "Pasta comes in shapes like spaghetti and macaroni.",
+    translation: "A massa vem em formatos como espaguete e macarrão.",
+    pronunciation: "/ˈpɑstə kʌmz ɪn ʃeɪps laɪk spəˈɡɛti ænd ˌmækəˈroʊni./",
+    portuguesePhonetic: "pás-ta cáms ín chêips láic spa-gué-ti énd mæ-ca-rôu-ni.",
+    syllables: ["Pas", "ta", " comes", " in", " shapes", " like", " spa", "ghet", "ti", " and", " mac", "a", "ro", "ni."],
+    exampleSentence: "Pasta comes in shapes like spaghetti and macaroni.",
+    exampleTranslation: "A massa vem em formatos como espaguete e macarrão."
+  },
+  {
+    id: 'lesson_7_vocab_a1_40',
+    word: "Pizza is round with cheese, tomato, and other toppings on bread.",
+    translation: "A pizza é redonda, com queijo, tomate e outros recheios sobre a massa.",
+    pronunciation: "/ˈpitsə ɪz raʊnd wɪð tʃiz, təˈmeɪtoʊ, ænd ˈʌðər ˈtɑpɪŋz ɑn brɛd./",
+    portuguesePhonetic: "pít-sa íz ráund uíd tchís, tchu-mêi-tou, énd á-der tópingz ón bréd.",
+    syllables: ["Piz", "za", " is", " round", " with", " cheese,", " to", "ma", "to,", " and", " oth", "er", " top", "pings", " on", " bread."],
+    exampleSentence: "Pizza is round with cheese, tomato, and other toppings on bread.",
+    exampleTranslation: "A pizza é redonda, com queijo, tomate e outros recheios sobre a massa."
+  },
+  {
+    id: 'lesson_7_vocab_a1_41',
+    word: "Meat comes from animals, like cows and chickens.",
+    translation: "A carne vem de animais, como vacas e galinhas.",
+    pronunciation: "/mit kʌmz frʌm ˈænəməlz, laɪk kaʊz ænd ˈtʃɪkənz./",
+    portuguesePhonetic: "mít cáms fróm á-ni-mouls, láic cáus énd tchí-quens.",
+    syllables: ["Meat", " comes", " from", " an", "i", "mals,", " like", " cows", " and", " chick", "ens."],
+    exampleSentence: "Meat comes from animals, like cows and chickens.",
+    exampleTranslation: "A carne vem de animais, como vacas e galinhas."
+  },
+  {
+    id: 'lesson_7_vocab_a1_42',
+    word: "Fish live in water, and people can cook and eat them.",
+    translation: "Os peixes vivem na água, e as pessoas podem cozinhá-los e comê-los.",
+    pronunciation: "/fɪʃ lɪv ɪn ˈwɔtər, ænd ˈpipəl kæn kʊk ænd it ðɛm./",
+    portuguesePhonetic: "fích lív ín uó-ter, énd pí-poul quén cúc énd ít dém.",
+    syllables: ["Fish", " live", " in", " wa", "ter,", " and", " peo", "ple", " can", " cook", " and", " eat", " them."],
+    exampleSentence: "Fish live in water, and people can cook and eat them.",
+    exampleTranslation: "Os peixes vivem na água, e as pessoas podem cozinhá-los e comê-los."
+  },
+  {
+    id: 'lesson_7_vocab_a1_43',
+    word: "Vegetables are plants like carrots and broccoli that are good for your health.",
+    translation: "Vegetais são plantas como cenouras e brócolis, que fazem bem para a saúde.",
+    pronunciation: "/ˈvɛdʒtəbəlz ɑr plænts laɪk ˈkærəts ænd ˈbrɑkli ðæt ɑr ɡʊd fɔr jʊr hɛlθ./",
+    portuguesePhonetic: "védj-tchê-bouls ár plênts láic cá-rots énd bró-co-li dét ár gúd fór iór relth.",
+    syllables: ["Veg", "e", "ta", "bles", " are", " plants", " like", " car", "rots", " and", " broc", "co", "li", " that", " are", " good", " for", " your", " health."],
+    exampleSentence: "Vegetables are plants like carrots and broccoli that are good for your health.",
+    exampleTranslation: "Vegetais são plantas como cenouras e brócolis, que fazem bem para a saúde."
+  },
+  {
+    id: 'lesson_7_vocab_a1_44',
+    word: "Soup is hot and liquid, and you eat it with a spoon.",
+    translation: "A sopa é quente e líquida, e você a come com uma colher.",
+    pronunciation: "/sup ɪz hɑt ænd ˈlɪkwəd, ænd ju it ɪt wɪð ə spun./",
+    portuguesePhonetic: "súp íz rót énd lí-quid, énd iú ít ít uíd a spún.",
+    syllables: ["Soup", " is", " hot", " and", " liq", "uid,", " and", " you", " eat", " it", " with", " a", " spoon."],
+    exampleSentence: "Soup is hot and liquid, and you eat it with a spoon.",
+    exampleTranslation: "A sopa é quente e líquida, e você a come com uma colher."
+  },
+  {
+    id: 'lesson_7_vocab_a1_45',
+    word: "Salad is a mix of cold vegetables, sometimes with dressing.",
+    translation: "Salada é uma mistura de vegetais frios, às vezes com molho.",
+    pronunciation: "/ˈsæləd ɪz ə mɪks ʌv koʊld ˈvɛdʒtəbəlz, ˈsʌmˌtaɪmz wɪð ˈdrɛsɪŋ./",
+    portuguesePhonetic: "sé-lad íz a mícs âv côuld védj-tchê-bouls, sám-taims uíd dré-sin.",
+    syllables: ["Sal", "ad", " is", " a", " mix", " of", " cold", " veg", "e", "ta", "bles,", " some", "times", " with", " dress", "ing."],
+    exampleSentence: "Salad is a mix of cold vegetables, sometimes with dressing.",
+    exampleTranslation: "Salada é uma mistura de vegetais frios, às vezes com molho."
+  },
+  {
+    id: 'lesson_7_vocab_a1_46',
+    word: "You eat dessert at the end of your lunch or dinner. Common desserts are fruit or cake. In the UK, people often use the word pudding to mean “dessert”.",
+    translation: "Você come sobremesa no final do almoço ou jantar. Sobremesas comuns são frutas ou bolo. No Reino Unido, as pessoas costumam usar a palavra pudding para significar “sobremesa”.",
+    pronunciation: "/ju it dɪˈzɜrt æt ði ɛnd ʌv jʊr lʌntʃ ɔr ˈdɪnər. ˈkɑmən dɪˈzɜrts ɑr frut ɔr keɪk. ɪn ðə ˌjuˈkeɪ, ˈpipəl ˈɔfən juz ðə wɜrd ˈpʊdɪŋ tu min dɪˈzɜrt./",
+    portuguesePhonetic: "iú ít di-zãrt ét di énd âv iór lántch ór dín-er. có-mon di-zãrts ár frút ór quêic. ín dâ iú-quêi, pí-poul ó-fen iús dâ uãrd pú-din tchu mín di-zãrt.",
+    syllables: ["You", " eat", " des", "sert", " at", " the", " end", " of", " your", " lunch", " or", " din", "ner.", " Com", "mon", " des", "serts", " are", " fruit", " or", " cake.", " In", " the", " U", "K,", " peo", "ple", " of", "ten", " use", " the", " word", " pud", "ding", " to", " mean", " \"des", "sert\"."],
+    exampleSentence: "You eat dessert at the end of your lunch or dinner.",
+    exampleTranslation: "Você come sobremesa no final do almoço ou jantar."
+  },
+  {
+    id: 'lesson_7_vocab_a1_47',
+    word: "People drink water when they are thirsty. Water is the healthiest drink.",
+    translation: "As pessoas bebem água quando estão com sede. Água é a bebida mais saudável.",
+    pronunciation: "/ˈpipəl drɪŋk ˈwɔtər wɛn ðeɪ ɑr ˈθɜrsti. ˈwɔtər ɪz ðə ˈhɛlθiəst drɪŋk./",
+    portuguesePhonetic: "pí-poul drínc uó-ter uén dêi ár tãrs-ti. uó-ter íz dâ rél-thi-est drínc.",
+    syllables: ["Peo", "ple", " drink", " wa", "ter", " when", " they", " are", " thirs", "ty.", " Wa", "ter", " is", " the", " health", "i", "est", " drink."],
+    exampleSentence: "People drink water when they are thirsty. Water is the healthiest drink.",
+    exampleTranslation: "As pessoas bebem água quando estão com sede. Água é a bebida mais saudável."
+  },
+  {
+    id: 'lesson_7_vocab_a1_48',
+    word: "Milk is white, comes from cows, and is rich in calcium.",
+    translation: "O leite é branco, vem das vacas e é rico em cálcio.",
+    pronunciation: "/mɪlk ɪz waɪt, kʌmz frʌm kaʊz, ænd ɪz rɪtʃ ɪn ˈkælsidəm./",
+    portuguesePhonetic: "mílc íz uáit, cáms fróm cáus, énd íz rítch ín cál-si-um.",
+    syllables: ["Milk", " is", " white,", " comes", " from", " cows,", " and", " is", " rich", " in", " cal", "ci", "um."],
+    exampleSentence: "Milk is white, comes from cows, and is rich in calcium.",
+    exampleTranslation: "O leite é branco, vem das vacas e é rico em cálcio."
+  },
+  {
+    id: 'lesson_7_vocab_a1_49',
+    word: "Juice is a sweet drink made from fruits like oranges and apples.",
+    translation: "Suco é uma bebida doce feita de frutas como laranjas e maçãs.",
+    pronunciation: "/dʒus ɪz ə swit drɪŋk meɪd frʌm fruits laɪk ˈɔrəndʒəz ænd ˈæpəlz./",
+    portuguesePhonetic: "djús íz a suít drínc mêid fróm frúts láic ó-rin-djis énd á-pouls.",
+    syllables: ["Juice", " is", " a", " sweet", " drink", " made", " from", " fruits", " like", " or", "ang", "es", " and", " ap", "ples."],
+    exampleSentence: "Juice is a sweet drink made from fruits like oranges and apples.",
+    exampleTranslation: "Suco é uma bebida doce feita de frutas como laranjas e maçãs."
+  },
+  {
+    id: 'lesson_7_vocab_a1_50',
+    word: "Tea is a hot drink, and in the UK, people often drink it in the afternoon.",
+    translation: "Chá é uma bebida quente e, no Reino Unido, as pessoas costumam bebê-lo à tarde.",
+    pronunciation: "/ti ɪz ə hɑt drɪŋk, ænd ɪn ðə ˌjuˈkeɪ, ˈpipəl ˈɔfən drɪŋk ɪt ɪn ði ˌæftərˈnun./",
+    portuguesePhonetic: "tí íz a rót drínc, énd ín dâ iú-quêi, pí-poul ó-fen drínc ít ín di áf-ter-nún.",
+    syllables: ["Tea", " is", " a", " hot", " drink,", " and", " in", " the", " U", "K,", " peo", "ple", " of", "ten", " drink", " it", " in", " the", " af", "ter", "noon."],
+    exampleSentence: "Tea is a hot drink, and in the UK, people often drink it in the afternoon.",
+    exampleTranslation: "Chá é uma bebida quente e, no Reino Unido, as pessoas costumam bebê-lo à tarde."
+  },
+  {
+    id: 'lesson_7_vocab_a1_51',
+    word: "Coffee is a hot, dark drink that contains caffeine.",
+    translation: "Café é uma bebida quente e escura que contém cafeína.",
+    pronunciation: "/ˈkɔfi ɪz ə hɑt, dɑrk drɪŋk ðæt kənˈteɪnz kæˈfin./",
+    portuguesePhonetic: "có-fi íz a rót, dárc drínc dét con-têins ca-fêi-na.",
+    syllables: ["Cof", "fee", " is", " a", " hot,", " dark", " drink", " that", " con", "tains", " caf", "feine."],
+    exampleSentence: "Coffee is a hot, dark drink that contains caffeine.",
+    exampleTranslation: "Café é uma bebida quente e escura que contém cafeína."
+  },
+  {
+    id: 'lesson_7_vocab_a1_52',
+    word: "Beer is the most common drink in British pubs.",
+    translation: "Cerveja é a bebida mais comum nos pubs britânicos.",
+    pronunciation: "/bɪr ɪz ðə moʊst ˈkɑmən drɪŋk ɪn ˈbrɪtɪʃ pʌbz./",
+    portuguesePhonetic: "bír íz dâ môust có-mon drínc ín brí-tich pábs.",
+    syllables: ["Beer", " is", " the", " most", " com", "mon", " drink", " in", " Brit", "ish", " pubs."],
+    exampleSentence: "Beer is the most common drink in British pubs.",
+    exampleTranslation: "Cerveja é a bebida mais comum nos pubs britânicos."
+  },
+  {
+    id: 'lesson_7_vocab_a1_53',
+    word: "Wine is made from grapes and is an alcoholic drink.",
+    translation: "Vinho é feito de uvas e é uma bebida alcoólica.",
+    pronunciation: "/waɪn ɪz meɪd frʌm ɡreɪps ænd ɪz ən ˌælkəˈhɑlɪk drɪŋk./",
+    portuguesePhonetic: "uáin íz mêid fróm grêips énd íz an al-co-hó-lic drínc.",
+    syllables: ["Wine", " is", " made", " from", " grapes", " and", " is", " an", " al", "co", "hol", "ic", " drink."],
+    exampleSentence: "Wine is made from grapes and is an alcoholic drink.",
+    exampleTranslation: "Vinho é feito de uvas e é uma bebida alcoólica."
+  },
+  {
+    id: 'lesson_7_vocab_a1_54',
+    word: "I often eat lunch in a little restaurant next to my office.",
+    translation: "Eu frequentemente almoço em um pequeno restaurante ao lado do meu escritório.",
+    pronunciation: "/aɪ ˈɔfən it lʌntʃ ɪn ə ˈlɪtəl ˈrɛstərənt nɛkst tu maɪ ˈɔfəs./",
+    portuguesePhonetic: "ai ó-fen ít lántch ín a lí-toul rés-ta-rant nécst tchu mai ó-fis.",
+    syllables: ["I", " of", "ten", " eat", " lunch", " in", " a", " lit", "tle", " res", "tau", "rant", " next", " to", " my", " of", "fice."],
+    exampleSentence: "I often eat lunch in a little restaurant next to my office.",
+    exampleTranslation: "Eu frequentemente almoço em um pequeno restaurante ao lado do meu escritório."
+  },
+  {
+    id: 'lesson_7_vocab_a1_55',
+    word: "Breakfast is my favourite meal of the day.",
+    translation: "O café da manhã é minha refeição favorita do dia.",
+    pronunciation: "/ˈbrɛkfəst ɪz maɪ ˈfeɪvərɪt mil ʌv ðə deɪ./",
+    portuguesePhonetic: "bréc-fest íz mai fêi-vo-rit míl âv dâ dêi.",
+    syllables: ["Break", "fast", " is", " my", " fa", "vour", "ite", " meal", " of", " the", " day."],
+    exampleSentence: "Breakfast is my favourite meal of the day.",
+    exampleTranslation: "O café da manhã é minha refeição favorita do dia."
+  },
+  {
+    id: 'lesson_7_vocab_a1_56',
+    word: "We live by the sea, so we eat a lot of fish.",
+    translation: "Nós moramos perto do mar, então comemos muito peixe.",
+    pronunciation: "/wi lɪv baɪ ðə si, soʊ wi it ə lɑt ʌv fɪʃ./",
+    portuguesePhonetic: "uí lív bái dâ sí, sôu uí ít a lót âv fích.",
+    syllables: ["We", " live", " by", " the", " sea,", " so", " we", " eat", " a", " lot", " of", " fish."],
+    exampleSentence: "We live by the sea, so we eat a lot of fish.",
+    exampleTranslation: "Nós moramos perto do mar, então comemos muito peixe."
+  },
+  {
+    id: 'lesson_7_vocab_a1_57',
+    word: "I sometimes eat ice cream for dessert.",
+    translation: "Às vezes eu como sorvete de sobremesa.",
+    pronunciation: "/aɪ ˈsʌmˌtaɪmz it aɪs krim fɔr dɪˈzɜrt./",
+    portuguesePhonetic: "ai sám-taims ít áis crím fór di-zãrt.",
+    syllables: ["I", " some", "times", " eat", " ice", " cream", " for", " des", "sert."],
+    exampleSentence: "I sometimes eat ice cream for dessert.",
+    exampleTranslation: "Às vezes eu como sorvete de sobremesa."
+  },
+  {
+    id: 'lesson_7_vocab_a1_58',
+    word: "I drink my coffee black; I don’t put any milk in it.",
+    translation: "Eu bebo meu café puro; eu não coloco leite nele.",
+    pronunciation: "/aɪ drɪŋk maɪ ˈkɔfi blæk; aɪ doʊnt pʊt ˈɛni mɪlk ɪn ɪt./",
+    portuguesePhonetic: "ai drínc mai có-fi bléc; ai dôunt pút é-ni mílc ín ít.",
+    syllables: ["I", " drink", " my", " cof", "fee", " black;", " I", " don't", " put", " an", "y", " milk", " in", " it."],
+    exampleSentence: "I drink my coffee black; I don’t put any milk in it.",
+    exampleTranslation: "Eu bebo meu café puro; eu não coloco leite nele."
+  },
+  {
+    id: 'lesson_7_vocab_a1_59',
+    word: "I have a beer with my friends at the pub on Friday evenings.",
+    translation: "Eu tomo uma cerveja com meus amigos no pub nas noites de sexta-feira.",
+    pronunciation: "/aɪ hæv ə bɪr wɪð maɪ frɛndz æt ðə pʌb ɑn ˈfraɪdeɪ ˈivnɪŋz./",
+    portuguesePhonetic: "ai rév a bír uíd mai frénds ét dâ páb ón frái-dêi ív-ninz.",
+    syllables: ["I", " have", " a", " beer", " with", " my", " friends", " at", " the", " pub", " on", " Fri", "day", " eve", "nings."],
+    exampleSentence: "I have a beer with my friends at the pub on Friday evenings.",
+    exampleTranslation: "Eu tomo uma cerveja com meus amigos no pub nas noites de sexta-feira."
+  },
+  {
+    id: 'lesson_7_vocab_a1_60',
+    word: "I love all vegetables, but carrots are my favourite.",
+    translation: "Eu amo todos os vegetais, mas cenouras são meus favoritos.",
+    pronunciation: "/aɪ lʌv ɔl ˈvɛdʒtəbəlz, bʌt ˈkærəts ɑr maɪ ˈfeɪvərɪt./",
+    portuguesePhonetic: "ai láv ól védj-tchê-bouls, bât cá-rots ár mai fêi-vo-rit.",
+    syllables: ["I", " love", " all", " veg", "e", "ta", "bles,", " but", " car", "rots", " are", " my", " fa", "vour", "ite."],
+    exampleSentence: "I love all vegetables, but carrots are my favourite.",
+    exampleTranslation: "Eu amo todos os vegetais, mas cenouras são meus favoritos."
+  },
+  {
+    id: 'lesson_7_vocab_a1_61',
+    word: "I drink a big bottle of water when I’m at the gym.",
+    translation: "Eu bebo uma garrafa grande de água quando estou na academia.",
+    pronunciation: "/aɪ drɪŋk ə bɪɡ ˈbɑtəl ʌv ˈwɔtər wɛn aɪm æt ðə dʒɪm./",
+    portuguesePhonetic: "ai drínc a bíg bó-toul âv uó-ter uén áim ét dâ djím.",
+    syllables: ["I", " drink", " a", " big", " bot", "tle", " of", " wa", "ter", " when", " I'm", " at", " the", " gym."],
+    exampleSentence: "I drink a big bottle of water when I’m at the gym.",
+    exampleTranslation: "Eu bebo uma garrafa grande de água quando estou na academia."
+  },
+  {
+    id: 'lesson_7_vocab_a1_62',
+    word: "My family and I eat dinner together at 6:30 every evening.",
+    translation: "Minha família e eu jantamos juntos às 6h30 todas as noites.",
+    pronunciation: "/maɪ ˈfæməli ænd aɪ it ˈdɪnər təˈɡɛðər æt sɪks ˈθɜrti ˈɛvri ˈivnɪŋ./",
+    portuguesePhonetic: "mai fá-mi-li énd ai ít dín-er tchu-gué-der ét sícs tãr-ti é-vri ív-nin.",
+    syllables: ["My", " fam", "i", "ly", " and", " I", " eat", " din", "ner", " to", "geth", "er", " at", " 6:30", " ev", "ery", " eve", "ning."],
+    exampleSentence: "My family and I eat dinner together at 6:30 every evening.",
+    exampleTranslation: "Minha família e eu jantamos juntos às 6h30 todas as noites."
+  },
+  {
+    id: 'lesson_7_vocab_a1_63',
+    word: "I love pasta and pizza. Italian food is my favourite.",
+    translation: "Eu amo massa e pizza. Comida italiana é minha favorita.",
+    pronunciation: "/aɪ lʌv ˈpɑstə ænd ˈpitsə. ɪˈtæljən fud ɪz maɪ ˈfeɪvərɪt./",
+    portuguesePhonetic: "ai láv pás-ta énd pít-sa. i-tá-li-an fúd íz mai fêi-vo-rit.",
+    syllables: ["I", " love", " pas", "ta", " and", " piz", "za.", " I", "tal", "ian", " food", " is", " my", " fa", "vour", "ite."],
+    exampleSentence: "I love pasta and pizza. Italian food is my favourite.",
+    exampleTranslation: "Eu amo massa e pizza. Comida italiana é minha favorita."
+  },
+  {
+    id: 'lesson_7_vocab_a1_64',
+    word: "I won’t sleep tonight if I have another cup of coffee.",
+    translation: "Eu não vou dormir esta noite se eu tomar outra xícara de café.",
+    pronunciation: "/aɪ woʊnt slip təˈnaɪt ɪf aɪ hæv əˈnʌðər kʌp ʌv ˈkɔfi./",
+    portuguesePhonetic: "ai uôunt slíp tchu-náit íf ai rév a-ná-der cáp âv có-fi.",
+    syllables: ["I", " won't", " sleep", " to", "night", " if", " I", " have", " an", "oth", "er", " cup", " of", " cof", "fee."],
+    exampleSentence: "I won’t sleep tonight if I have another cup of coffee.",
+    exampleTranslation: "Eu não vou dormir esta noite se eu tomar outra xícara de café."
+  },
+  {
+    id: 'lesson_7_vocab_a1_65',
+    word: "Every morning, I eat a bowl of cereal with milk.",
+    translation: "Todas as manhãs, eu como uma tigela de cereal com leite.",
+    pronunciation: "/ˈɛvri ˈmɔrnɪŋ, aɪ eat ə boʊl ʌv ˈsɪriəl wɪð mɪlk./",
+    portuguesePhonetic: "é-vri mór-nin, ai ít a bôul âv sí-ri-ol uíd mílc.",
+    syllables: ["Ev", "ery", " morn", "ing,", " I", " eat", " a", " bowl", " of", " ce", "re", "al", " with", " milk."],
+    exampleSentence: "Every morning, I eat a bowl of cereal with milk.",
+    exampleTranslation: "Todas as manhãs, eu como uma tigela de cereal com leite."
+  },
+  {
+    id: 'lesson_7_vocab_a1_66',
+    word: "I love to eat toast with strawberry jam on it.",
+    translation: "Eu amo comer torrada com geleia de morango.",
+    pronunciation: "/aɪ lʌv tu eat toʊst wɪð ˈstrɔˌbɛri dʒæm ɑn ɪt./",
+    portuguesePhonetic: "ai láv tchu ít tôust uíd stró-be-ri djém ón ít.",
+    syllables: ["I", " love", " to", " eat", " toast", " with", " straw", "ber", "ry", " jam", " on", " it."],
+    exampleSentence: "I love to eat toast with strawberry jam on it.",
+    exampleTranslation: "Eu amo comer torrada com geleia de morango."
+  },
+  {
+    id: 'lesson_7_vocab_a1_67',
+    word: "We sometimes drink red wine at dinner.",
+    translation: "Às vezes nós bebemos vinho tinto no jantar.",
+    pronunciation: "/wi ˈsʌmˌtaɪmz drɪŋk rɛd waɪn æt ˈdɪnər./",
+    portuguesePhonetic: "uí sám-taims drínc réd uáin ét dín-er.",
+    syllables: ["We", " some", "times", " drink", " red", " wine", " at", " din", "ner."],
+    exampleSentence: "We sometimes drink red wine at dinner.",
+    exampleTranslation: "Às vezes nós bebemos vinho tinto no jantar."
+  },
+  {
+    id: 'lesson_7_vocab_a1_68',
+    word: "I like eating bread with peanut butter.",
+    translation: "Eu gosto de comer pão com pasta de amendoim.",
+    pronunciation: "/aɪ laɪk ˈitɪŋ brɛd wɪð ˈpinʌt ˈbʌtər./",
+    portuguesePhonetic: "ai láic ít-in bréd uíd pí-nât bát-er.",
+    syllables: ["I", " like", " eat", "ing", " bread", " with", " pea", "nut", " but", "ter."],
+    exampleSentence: "I like eating bread with peanut butter.",
+    exampleTranslation: "Eu gosto de comer pão com pasta de amendoim."
+  },
+  {
+    id: 'lesson_7_vocab_a1_69',
+    word: "They often eat fried eggs for breakfast.",
+    translation: "Eles frequentemente comem ovos fritos no café da manhã.",
+    pronunciation: "/ðeɪ ˈɔfən it fraɪd ɛɡz fɔr ˈbrɛkfəst./",
+    portuguesePhonetic: "dêi ó-fen ít fráid égs fór bréc-fest.",
+    syllables: ["They", " of", "ten", " eat", " fried", " eggs", " for", " break", "fast."],
+    exampleSentence: "They often eat fried eggs for breakfast.",
+    exampleTranslation: "Eles frequentemente comem ovos fritos no café da manhã."
+  },
+  {
+    id: 'lesson_7_vocab_a1_70',
+    word: "During the movie, I ate a bag of crisps / chips.",
+    translation: "Durante o filme, eu comi um pacote de batata chips / salgadinho.",
+    pronunciation: "/ˈdʊrɪŋ ðə ˈmuvi, aɪ ɛt ə bæɡ ʌv krɪsps / tʃɪps./",
+    portuguesePhonetic: "diúr-in dâ mú-vi, ai ét a bég âv crísps / tchíps.",
+    syllables: ["Dur", "ing", " the", " mo", "vie,", " I", " ate", " a", " bag", " of", " crisps", " /", " chips."],
+    exampleSentence: "During the movie, I ate a bag of crisps / chips.",
+    exampleTranslation: "Durante o filme, eu comi um pacote de batata chips / salgadinho."
+  },
+  {
+    id: 'lesson_7_vocab_a1_71',
+    word: "For my birthday, my mom made chocolate cake.",
+    translation: "No meu aniversário, minha mãe fez bolo de chocolate.",
+    pronunciation: "/fɔr maɪ ˈbɜrθˌdeɪ, maɪ mɑm meɪd ˈtʃɔklət keɪk./",
+    portuguesePhonetic: "fór mai bãrth-dêi, mai mâm mêid tchó-clit quêic.",
+    syllables: ["For", " my", " birth", "day,", " my", " mom", " made", " choc", "o", "late", " cake."],
+    exampleSentence: "For my birthday, my mom made chocolate cake.",
+    exampleTranslation: "No meu aniversário, minha mãe fez bolo de chocolate."
+  },
+  {
+    id: 'lesson_7_vocab_a1_72',
+    word: "Breakfast is my favourite meal of the day.",
+    translation: "O café da manhã é minha refeição favorita do dia.",
+    pronunciation: "/ˈbrɛkfəst ɪz maɪ ˈfeɪvərɪt mil ʌv ðə deɪ./",
+    portuguesePhonetic: "bréc-fest íz mai fêi-vo-rit míl âv dâ dêi.",
+    syllables: ["Break", "fast", " is", " my", " fa", "vour", "ite", " meal", " of", " the", " day."],
+    exampleSentence: "Breakfast is my favourite meal of the day.",
+    exampleTranslation: "O café da manhã é minha refeição favorita do dia."
+  },
+  {
+    id: 'lesson_7_vocab_a1_73',
+    word: "Some very popular candy bars are Snickers, Kit Kat, and Twix.",
+    translation: "Algumas barras de chocolate muito populares são Snickers, Kit Kat e Twix.",
+    pronunciation: "/sʌm ˈvɛri ˈpɑpjələr ˈkændi bɑrz ɑr ˈsnɪkərz, kɪt kæt, ænd twɪks./",
+    portuguesePhonetic: "sám vé-ri pó-piu-lar quên-di bárs ár sní-quers, quít quét, énd tuícs.",
+    syllables: ["Some", " ver", "y", " pop", "u", "lar", " can", "dy", " bars", " are", " Snick", "ers,", " Kit", " Kat,", " and", " Twix."],
+    exampleSentence: "Some very popular candy bars are Snickers, Kit Kat, and Twix.",
+    exampleTranslation: "Algumas barras de chocolate muito populares são Snickers, Kit Kat e Twix."
+  }
+];
+
+export const LESSON_8_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_8_vocab_a1_1',
+    word: "Australia",
+    translation: "Austrália",
+    pronunciation: "/ɔˈstreɪljə/",
+    portuguesePhonetic: "os-trêi-lia",
+    syllables: ["Aus", "tra", "lia"],
+    exampleSentence: "Australia",
+    exampleTranslation: "Austrália"
+  },
+  {
+    id: 'lesson_8_vocab_a1_2',
+    word: "Australian",
+    translation: "Australiano(a)",
+    pronunciation: "/ɔˈstreɪljən/",
+    portuguesePhonetic: "os-trêi-li-an",
+    syllables: ["Aus", "tra", "li", "an"],
+    exampleSentence: "Australian",
+    exampleTranslation: "Australiano(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_3',
+    word: "English",
+    translation: "Inglês",
+    pronunciation: "/ˈɪŋɡlɪʃ/",
+    portuguesePhonetic: "ín-glich",
+    syllables: ["Eng", "lish"],
+    exampleSentence: "English",
+    exampleTranslation: "Inglês"
+  },
+  {
+    id: 'lesson_8_vocab_a1_4',
+    word: "Brazil",
+    translation: "Brasil",
+    pronunciation: "/brəˈzɪl/",
+    portuguesePhonetic: "bra-zíl",
+    syllables: ["Bra", "zil"],
+    exampleSentence: "Brazil",
+    exampleTranslation: "Brasil"
+  },
+  {
+    id: 'lesson_8_vocab_a1_5',
+    word: "Brazilian",
+    translation: "Brasileiro(a)",
+    pronunciation: "/brəˈzɪljən/",
+    portuguesePhonetic: "bra-zí-li-an",
+    syllables: ["Bra", "zil", "i", "an"],
+    exampleSentence: "Brazilian",
+    exampleTranslation: "Brasileiro(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_6',
+    word: "Portuguese",
+    translation: "Português",
+    pronunciation: "/ˌpɔrtʃʊˈɡiz/",
+    portuguesePhonetic: "por-tchu-guís",
+    syllables: ["Por", "tu", "guese"],
+    exampleSentence: "Portuguese",
+    exampleTranslation: "Português"
+  },
+  {
+    id: 'lesson_8_vocab_a1_7',
+    word: "Canada",
+    translation: "Canadá",
+    pronunciation: "/ˈkænədə/",
+    portuguesePhonetic: "qué-na-da",
+    syllables: ["Can", "a", "da"],
+    exampleSentence: "Canada",
+    exampleTranslation: "Canadá"
+  },
+  {
+    id: 'lesson_8_vocab_a1_8',
+    word: "Canadian",
+    translation: "Canadense",
+    pronunciation: "/kəˈneɪdiən/",
+    portuguesePhonetic: "ca-nêi-di-an",
+    syllables: ["Ca", "na", "di", "an"],
+    exampleSentence: "Canadian",
+    exampleTranslation: "Canadense"
+  },
+  {
+    id: 'lesson_8_vocab_a1_9',
+    word: "English / French",
+    translation: "Inglês / Francês",
+    pronunciation: "/ˈɪŋɡlɪʃ / frɛntʃ/",
+    portuguesePhonetic: "ín-glich / fréntch",
+    syllables: ["English", " /", " French"],
+    exampleSentence: "English / French",
+    exampleTranslation: "Inglês / Francês"
+  },
+  {
+    id: 'lesson_8_vocab_a1_10',
+    word: "China",
+    translation: "China",
+    pronunciation: "/ˈtʃaɪnə/",
+    portuguesePhonetic: "tchái-na",
+    syllables: ["Chi", "na"],
+    exampleSentence: "China",
+    exampleTranslation: "China"
+  },
+  {
+    id: 'lesson_8_vocab_a1_11',
+    word: "Chinese",
+    translation: "Chinês / Chinesa",
+    pronunciation: "/tʃaɪˈniz/",
+    portuguesePhonetic: "tchai-nís",
+    syllables: ["Chi", "nese"],
+    exampleSentence: "Chinese",
+    exampleTranslation: "Chinês / Chinesa"
+  },
+  {
+    id: 'lesson_8_vocab_a1_12',
+    word: "Chinese",
+    translation: "Chinês",
+    pronunciation: "/tʃaɪˈniz/",
+    portuguesePhonetic: "tchai-nís",
+    syllables: ["Chi", "nese"],
+    exampleSentence: "Chinese",
+    exampleTranslation: "Chinês"
+  },
+  {
+    id: 'lesson_8_vocab_a1_13',
+    word: "Egypt",
+    translation: "Egito",
+    pronunciation: "/ˈidʒɪpt/",
+    portuguesePhonetic: "í-djipt",
+    syllables: ["E", "gypt"],
+    exampleSentence: "Egypt",
+    exampleTranslation: "Egito"
+  },
+  {
+    id: 'lesson_8_vocab_a1_14',
+    word: "Egyptian",
+    translation: "Egípcio(a)",
+    pronunciation: "/ɪˈdʒɪpʃən/",
+    portuguesePhonetic: "i-djíp-chan",
+    syllables: ["E", "gyp", "tian"],
+    exampleSentence: "Egyptian",
+    exampleTranslation: "Egípcio(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_15',
+    word: "Arabic",
+    translation: "Árabe",
+    pronunciation: "/ˈærəbɪk/",
+    portuguesePhonetic: "á-ra-bi-co",
+    syllables: ["Ar", "a", "bic"],
+    exampleSentence: "Arabic",
+    exampleTranslation: "Árabe"
+  },
+  {
+    id: 'lesson_8_vocab_a1_16',
+    word: "France",
+    translation: "França",
+    pronunciation: "/fræns/",
+    portuguesePhonetic: "fréns",
+    syllables: ["France"],
+    exampleSentence: "France",
+    exampleTranslation: "França"
+  },
+  {
+    id: 'lesson_8_vocab_a1_17',
+    word: "French",
+    translation: "Francês / Francesa",
+    pronunciation: "/frɛntʃ/",
+    portuguesePhonetic: "fréntch",
+    syllables: ["French"],
+    exampleSentence: "French",
+    exampleTranslation: "Francês / Francesa"
+  },
+  {
+    id: 'lesson_8_vocab_a1_18',
+    word: "French",
+    translation: "Francês",
+    pronunciation: "/frɛntʃ/",
+    portuguesePhonetic: "fréntch",
+    syllables: ["French"],
+    exampleSentence: "French",
+    exampleTranslation: "Francês"
+  },
+  {
+    id: 'lesson_8_vocab_a1_19',
+    word: "Germany",
+    translation: "Alemanha",
+    pronunciation: "/ˈdʒɜrməni/",
+    portuguesePhonetic: "djãr-ma-ni",
+    syllables: ["Ger", "ma", "ny"],
+    exampleSentence: "Germany",
+    exampleTranslation: "Alemanha"
+  },
+  {
+    id: 'lesson_8_vocab_a1_20',
+    word: "German",
+    translation: "Alemão / Alemã",
+    pronunciation: "/ˈdʒɜrmən/",
+    portuguesePhonetic: "djãr-man",
+    syllables: ["Ger", "man"],
+    exampleSentence: "German",
+    exampleTranslation: "Alemão / Alemã"
+  },
+  {
+    id: 'lesson_8_vocab_a1_21',
+    word: "German",
+    translation: "Alemão",
+    pronunciation: "/ˈdʒɜrmən/",
+    portuguesePhonetic: "djãr-man",
+    syllables: ["Ger", "man"],
+    exampleSentence: "German",
+    exampleTranslation: "Alemão"
+  },
+  {
+    id: 'lesson_8_vocab_a1_22',
+    word: "Greece",
+    translation: "Grécia",
+    pronunciation: "/ɡris/",
+    portuguesePhonetic: "grís",
+    syllables: ["Greece"],
+    exampleSentence: "Greece",
+    exampleTranslation: "Grécia"
+  },
+  {
+    id: 'lesson_8_vocab_a1_23',
+    word: "Greek",
+    translation: "Grego(a)",
+    pronunciation: "/ɡrik/",
+    portuguesePhonetic: "gríc",
+    syllables: ["Greek"],
+    exampleSentence: "Greek",
+    exampleTranslation: "Grego(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_24',
+    word: "Greek",
+    translation: "Grego",
+    pronunciation: "/ɡrik/",
+    portuguesePhonetic: "gríc",
+    syllables: ["Greek"],
+    exampleSentence: "Greek",
+    exampleTranslation: "Grego"
+  },
+  {
+    id: 'lesson_8_vocab_a1_25',
+    word: "India",
+    translation: "Índia",
+    pronunciation: "/ˈɪndiə/",
+    portuguesePhonetic: "ín-dia",
+    syllables: ["In", "di", "a"],
+    exampleSentence: "India",
+    exampleTranslation: "Índia"
+  },
+  {
+    id: 'lesson_8_vocab_a1_26',
+    word: "Indian",
+    translation: "Indiano(a)",
+    pronunciation: "/ˈɪndiən/",
+    portuguesePhonetic: "ín-di-an",
+    syllables: ["In", "di", "an"],
+    exampleSentence: "Indian",
+    exampleTranslation: "Indiano(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_27',
+    word: "Hindi",
+    translation: "Hindi",
+    pronunciation: "/ˈhɪndi/",
+    portuguesePhonetic: "rín-di",
+    syllables: ["Hin", "di"],
+    exampleSentence: "Hindi",
+    exampleTranslation: "Hindi"
+  },
+  {
+    id: 'lesson_8_vocab_a1_28',
+    word: "Ireland",
+    translation: "Irlanda",
+    pronunciation: "/ˈaɪərlənd/",
+    portuguesePhonetic: "ái-er-land",
+    syllables: ["Ire", "land"],
+    exampleSentence: "Ireland",
+    exampleTranslation: "Irlanda"
+  },
+  {
+    id: 'lesson_8_vocab_a1_29',
+    word: "Irish",
+    translation: "Irlandês / Irlandesa",
+    pronunciation: "/ˈaɪrɪʃ/",
+    portuguesePhonetic: "ái-rich",
+    syllables: ["I", "rish"],
+    exampleSentence: "Irish",
+    exampleTranslation: "Irlandês / Irlandesa"
+  },
+  {
+    id: 'lesson_8_vocab_a1_30',
+    word: "English",
+    translation: "Inglês",
+    pronunciation: "/ˈɪŋɡlɪʃ/",
+    portuguesePhonetic: "ín-glich",
+    syllables: ["Eng", "lish"],
+    exampleSentence: "English",
+    exampleTranslation: "Inglês"
+  },
+  {
+    id: 'lesson_8_vocab_a1_31',
+    word: "Italy",
+    translation: "Itália",
+    pronunciation: "/ˈɪtəli/",
+    portuguesePhonetic: "í-ta-li",
+    syllables: ["It", "a", "ly"],
+    exampleSentence: "Italy",
+    exampleTranslation: "Itália"
+  },
+  {
+    id: 'lesson_8_vocab_a1_32',
+    word: "Italian",
+    translation: "Italiano(a)",
+    pronunciation: "/ɪˈtæljən/",
+    portuguesePhonetic: "i-tá-li-an",
+    syllables: ["I", "tal", "ian"],
+    exampleSentence: "Italian",
+    exampleTranslation: "Italiano(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_33',
+    word: "Italian",
+    translation: "Italiano",
+    pronunciation: "/ɪˈtæljən/",
+    portuguesePhonetic: "i-tá-li-an",
+    syllables: ["I", "tal", "ian"],
+    exampleSentence: "Italian",
+    exampleTranslation: "Italiano"
+  },
+  {
+    id: 'lesson_8_vocab_a1_34',
+    word: "Japan",
+    translation: "Japão",
+    pronunciation: "/dʒəˈpæn/",
+    portuguesePhonetic: "dja-pán",
+    syllables: ["Ja", "pan"],
+    exampleSentence: "Japan",
+    exampleTranslation: "Japão"
+  },
+  {
+    id: 'lesson_8_vocab_a1_35',
+    word: "Japanese",
+    translation: "Japonês / Japonesa",
+    pronunciation: "/ˌdʒæpəˈniz/",
+    portuguesePhonetic: "dja-pa-nís",
+    syllables: ["Jap", "a", "nese"],
+    exampleSentence: "Japanese",
+    exampleTranslation: "Japonês / Japonesa"
+  },
+  {
+    id: 'lesson_8_vocab_a1_36',
+    word: "Japanese",
+    translation: "Japonês",
+    pronunciation: "/ˌdʒæpəˈniz/",
+    portuguesePhonetic: "dja-pa-nís",
+    syllables: ["Jap", "a", "nese"],
+    exampleSentence: "Japanese",
+    exampleTranslation: "Japonês"
+  },
+  {
+    id: 'lesson_8_vocab_a1_37',
+    word: "Mexico",
+    translation: "México",
+    pronunciation: "/ˈmɛksɪˌkoʊ/",
+    portuguesePhonetic: "méc-si-cou",
+    syllables: ["Mex", "i", "co"],
+    exampleSentence: "Mexico",
+    exampleTranslation: "México"
+  },
+  {
+    id: 'lesson_8_vocab_a1_38',
+    word: "Mexican",
+    translation: "Mexicano(a)",
+    pronunciation: "/ˈmɛksɪkən/",
+    portuguesePhonetic: "méc-si-can",
+    syllables: ["Mex", "i", "can"],
+    exampleSentence: "Mexican",
+    exampleTranslation: "Mexicano(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_39',
+    word: "Spanish",
+    translation: "Espanhol",
+    pronunciation: "/ˈspænɪʃ/",
+    portuguesePhonetic: "spá-nich",
+    syllables: ["Span", "ish"],
+    exampleSentence: "Spanish",
+    exampleTranslation: "Espanhol"
+  },
+  {
+    id: 'lesson_8_vocab_a1_40',
+    word: "Nigeria",
+    translation: "Nigéria",
+    pronunciation: "/naɪˈdʒɪriə/",
+    portuguesePhonetic: "nai-djí-ria",
+    syllables: ["Ni", "ge", "ri", "a"],
+    exampleSentence: "Nigeria",
+    exampleTranslation: "Nigéria"
+  },
+  {
+    id: 'lesson_8_vocab_a1_41',
+    word: "Nigerian",
+    translation: "Nigeriano(a)",
+    pronunciation: "/naɪˈdʒɪriən/",
+    portuguesePhonetic: "nai-djí-ri-an",
+    syllables: ["Ni", "ge", "ri", "an"],
+    exampleSentence: "Nigerian",
+    exampleTranslation: "Nigeriano(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_42',
+    word: "English",
+    translation: "Inglês",
+    pronunciation: "/ˈɪŋɡlɪʃ/",
+    portuguesePhonetic: "ín-glich",
+    syllables: ["Eng", "lish"],
+    exampleSentence: "English",
+    exampleTranslation: "Inglês"
+  },
+  {
+    id: 'lesson_8_vocab_a1_43',
+    word: "Russia",
+    translation: "Rússia",
+    pronunciation: "/ˈrʌʃə/",
+    portuguesePhonetic: "râ-cha",
+    syllables: ["Rus", "sia"],
+    exampleSentence: "Russia",
+    exampleTranslation: "Rússia"
+  },
+  {
+    id: 'lesson_8_vocab_a1_44',
+    word: "Russian",
+    translation: "Russo(a)",
+    pronunciation: "/ˈrʌʃən/",
+    portuguesePhonetic: "râ-chan",
+    syllables: ["Rus", "sian"],
+    exampleSentence: "Russian",
+    exampleTranslation: "Russo(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_45',
+    word: "Russian",
+    translation: "Russo",
+    pronunciation: "/ˈrʌʃən/",
+    portuguesePhonetic: "râ-chan",
+    syllables: ["Rus", "sian"],
+    exampleSentence: "Russian",
+    exampleTranslation: "Russo"
+  },
+  {
+    id: 'lesson_8_vocab_a1_46',
+    word: "South Korea",
+    translation: "Coreia do Sul",
+    pronunciation: "/saʊθ kəˈriə/",
+    portuguesePhonetic: "sáuth co-ría",
+    syllables: ["South", " Ko", "re", "a"],
+    exampleSentence: "South Korea",
+    exampleTranslation: "Coreia do Sul"
+  },
+  {
+    id: 'lesson_8_vocab_a1_47',
+    word: "South Korean",
+    translation: "Sul-coreano(a)",
+    pronunciation: "/saʊθ kəˈriən/",
+    portuguesePhonetic: "sáuth co-rí-an",
+    syllables: ["South", " Ko", "re", "an"],
+    exampleSentence: "South Korean",
+    exampleTranslation: "Sul-coreano(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_48',
+    word: "Korean",
+    translation: "Coreano",
+    pronunciation: "/kəˈriən/",
+    portuguesePhonetic: "co-rí-an",
+    syllables: ["Ko", "re", "an"],
+    exampleSentence: "Korean",
+    exampleTranslation: "Coreano"
+  },
+  {
+    id: 'lesson_8_vocab_a1_49',
+    word: "Spain",
+    translation: "Espanha",
+    pronunciation: "/speɪn/",
+    portuguesePhonetic: "spêin",
+    syllables: ["Spain"],
+    exampleSentence: "Spain",
+    exampleTranslation: "Espanha"
+  },
+  {
+    id: 'lesson_8_vocab_a1_50',
+    word: "Spanish",
+    translation: "Espanhol / Espanhola",
+    pronunciation: "/ˈspænɪʃ/",
+    portuguesePhonetic: "spá-nich",
+    syllables: ["Span", "ish"],
+    exampleSentence: "Spanish",
+    exampleTranslation: "Espanhol / Espanhola"
+  },
+  {
+    id: 'lesson_8_vocab_a1_51',
+    word: "Spanish",
+    translation: "Espanhol",
+    pronunciation: "/ˈspænɪʃ/",
+    portuguesePhonetic: "spá-nich",
+    syllables: ["Span", "ish"],
+    exampleSentence: "Spanish",
+    exampleTranslation: "Espanhol"
+  },
+  {
+    id: 'lesson_8_vocab_a1_52',
+    word: "Sweden",
+    translation: "Suécia",
+    pronunciation: "/ˈswidən/",
+    portuguesePhonetic: "suí-den",
+    syllables: ["Swe", "den"],
+    exampleSentence: "Sweden",
+    exampleTranslation: "Suécia"
+  },
+  {
+    id: 'lesson_8_vocab_a1_53',
+    word: "Swedish",
+    translation: "Sueco(a)",
+    pronunciation: "/ˈswidɪʃ/",
+    portuguesePhonetic: "suí-dich",
+    syllables: ["Swed", "ish"],
+    exampleSentence: "Swedish",
+    exampleTranslation: "Sueco(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_54',
+    word: "Swedish",
+    translation: "Sueco",
+    pronunciation: "/ˈswidɪʃ/",
+    portuguesePhonetic: "suí-dich",
+    syllables: ["Swed", "ish"],
+    exampleSentence: "Swedish",
+    exampleTranslation: "Sueco"
+  },
+  {
+    id: 'lesson_8_vocab_a1_55',
+    word: "United Kingdom",
+    translation: "Reino Unido",
+    pronunciation: "/juˈnaɪtɪd ˈkɪŋdəm/",
+    portuguesePhonetic: "iu-nái-tid quín-dom",
+    syllables: ["U", "ni", "ted", " King", "dom"],
+    exampleSentence: "United Kingdom",
+    exampleTranslation: "Reino Unido"
+  },
+  {
+    id: 'lesson_8_vocab_a1_56',
+    word: "British",
+    translation: "Britânico(a)",
+    pronunciation: "/ˈbrɪtɪʃ/",
+    portuguesePhonetic: "brí-tich",
+    syllables: ["Brit", "ish"],
+    exampleSentence: "British",
+    exampleTranslation: "Britânico(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_57',
+    word: "English",
+    translation: "Inglês",
+    pronunciation: "/ˈɪŋɡlɪʃ/",
+    portuguesePhonetic: "ín-glich",
+    syllables: ["Eng", "lish"],
+    exampleSentence: "English",
+    exampleTranslation: "Inglês"
+  },
+  {
+    id: 'lesson_8_vocab_a1_58',
+    word: "United States",
+    translation: "Estados Unidos",
+    pronunciation: "/juˈnaɪtɪd steɪts/",
+    portuguesePhonetic: "iu-nái-tid stêits",
+    syllables: ["U", "ni", "ted", " States"],
+    exampleSentence: "United States",
+    exampleTranslation: "Estados Unidos"
+  },
+  {
+    id: 'lesson_8_vocab_a1_59',
+    word: "American",
+    translation: "Americano(a)",
+    pronunciation: "/əˈmɛrɪkən/",
+    portuguesePhonetic: "a-mé-ri-can",
+    syllables: ["A", "mer", "i", "can"],
+    exampleSentence: "American",
+    exampleTranslation: "Americano(a)"
+  },
+  {
+    id: 'lesson_8_vocab_a1_60',
+    word: "English",
+    translation: "Inglês",
+    pronunciation: "/ˈɪŋɡlɪʃ/",
+    portuguesePhonetic: "ín-glich",
+    syllables: ["Eng", "lish"],
+    exampleSentence: "English",
+    exampleTranslation: "Inglês"
+  },
+  {
+    id: 'lesson_8_vocab_a1_61',
+    word: "Something or someone from Australia is called Australian, and the people in this country speak English.",
+    translation: "Algo ou alguém da Austrália é chamado de australiano(a), e as pessoas nesse país falam inglês.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ɔˈstreɪljə ɪz kɔld ɔˈstreɪljən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈɪŋɡlɪʃ./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm os-trêi-lia íz cóld os-trêi-li-an, énd dâ pí-poul ín dís cán-tri spíc ín-glich.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Aus", "tra", "lia", " is", " called", " Aus", "tra", "lian,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Eng", "lish."],
+    exampleSentence: "Something or someone from Australia is called Australian, and the people in this country speak English.",
+    exampleTranslation: "Algo ou alguém da Austrália é chamado de australiano(a), e as pessoas nesse país falam inglês."
+  },
+  {
+    id: 'lesson_8_vocab_a1_62',
+    word: "Something or someone from Brazil is called Brazilian, and the people in this country speak Portuguese.",
+    translation: "Algo ou alguém do Brasil é chamado de brasileiro(a), e as pessoas nesse país falam português.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm brəˈzɪl ɪz kɔld brəˈzɪljən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˌpɔrtʃʊˈɡiz./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm bra-zíl íz cóld bra-zí-li-an, énd dâ pí-poul ín dís cán-tri spíc por-tchu-guís.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Bra", "zil", " is", " called", " Bra", "zil", "ian,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Por", "tu", "guese."],
+    exampleSentence: "Something or someone from Brazil is called Brazilian, and the people in this country speak Portuguese.",
+    exampleTranslation: "Algo ou alguém do Brasil é chamado de brasileiro(a), e as pessoas nesse país falam português."
+  },
+  {
+    id: 'lesson_8_vocab_a1_63',
+    word: "Something or someone from Canada is called Canadian, and the people in this country speak English and French.",
+    translation: "Algo ou alguém do Canadá é chamado de canadense, e as pessoas nesse país falam inglês e francês.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ˈkænədə ɪz kɔld kəˈneɪdiən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈɪŋɡlɪʃ ænd frɛntʃ./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm qué-na-da íz cóld ca-nêi-di-an, énd dâ pí-poul ín dís cán-tri spíc ín-glich énd fréntch.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Can", "a", "da", " is", " called", " Ca", "na", "di", "an,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Eng", "lish", " and", " French."],
+    exampleSentence: "Something or someone from Canada is called Canadian, and the people in this country speak English and French.",
+    exampleTranslation: "Algo ou alguém do Canadá é chamado de canadense, e as pessoas nesse país falam inglês e francês."
+  },
+  {
+    id: 'lesson_8_vocab_a1_64',
+    word: "Something or someone from China is called Chinese, and the people in this country speak Chinese.",
+    translation: "Algo ou alguém da China é chamado de chinês/chinesa, e as pessoas nesse país falam chinês.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ˈtʃaɪnə ɪz kɔld tʃaɪˈniz, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik tʃaɪˈniz./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm tchái-na íz cóld tchai-nís, énd dâ pí-poul ín dís cán-tri spíc tchai-nís.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Chi", "na", " is", " called", " Chi", "nese,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Chi", "nese."],
+    exampleSentence: "Something or someone from China is called Chinese, and the people in this country speak Chinese.",
+    exampleTranslation: "Algo ou alguém da China é chamado de chinês/chinesa, e as pessoas nesse país falam chinês."
+  },
+  {
+    id: 'lesson_8_vocab_a1_65',
+    word: "Something or someone from Egypt is called Egyptian, and the people in this country speak Arabic.",
+    translation: "Algo ou alguém do Egito é chamado de egípcio(a), e as pessoas nesse país falam árabe.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ˈidʒɪpt ɪz kɔld ɪˈdʒɪpʃən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈærəbɪk./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm í-djipt íz cóld i-djíp-chan, énd dâ pí-poul ín dís cán-tri spíc á-ra-bi-co.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " E", "gypt", " is", " called", " E", "gyp", "tian,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Ar", "a", "bic."],
+    exampleSentence: "Something or someone from Egypt is called Egyptian, and the people in this country speak Arabic.",
+    exampleTranslation: "Algo ou alguém do Egito é chamado de egípcio(a), e as pessoas nesse país falam árabe."
+  },
+  {
+    id: 'lesson_8_vocab_a1_66',
+    word: "Something or someone from France is called French, and the people in this country speak French.",
+    translation: "Algo ou alguém da França é chamado de francês/francesa, e as pessoas nesse país falam francês.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm fræns ɪz kɔld frɛntʃ, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik frɛntʃ./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm fréns íz cóld fréntch, énd dâ pí-poul ín dís cán-tri spíc fréntch.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " France", " is", " called", " French,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " French."],
+    exampleSentence: "Something or someone from France is called French, and the people in this country speak French.",
+    exampleTranslation: "Algo ou alguém da França é chamado de francês/francesa, e as pessoas nesse país falam francês."
+  },
+  {
+    id: 'lesson_8_vocab_a1_67',
+    word: "Something or someone from Germany is called German, and the people in this country speak German.",
+    translation: "Algo ou alguém da Alemanha é chamado de alemão/alemã, e as pessoas nesse país falam alemão.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ˈdʒɜrməni ɪz kɔld ˈdʒɜrmən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈdʒɜrmən./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm djãr-ma-ni íz cóld djãr-man, énd dâ pí-poul ín dís cán-tri spíc djãr-man.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Ger", "ma", "ny", " is", " called", " Ger", "man,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Ger", "man."],
+    exampleSentence: "Something or someone from Germany is called German, and the people in this country speak German.",
+    exampleTranslation: "Algo ou alguém da Alemanha é chamado de alemão/alemã, e as pessoas nesse país falam alemão."
+  },
+  {
+    id: 'lesson_8_vocab_a1_68',
+    word: "Something or someone from Greece is called Greek, and the people in this country speak Greek.",
+    translation: "Algo ou alguém da Grécia é chamado de grego(a), e as pessoas nesse país falam grego.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ɡris ɪz kɔld ɡrik, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ɡrik./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm grís íz cóld gríc, énd dâ pí-poul ín dís cán-tri spíc gríc.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Greece", " is", " called", " Greek,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Greek."],
+    exampleSentence: "Something or someone from Greece is called Greek, and the people in this country speak Greek.",
+    exampleTranslation: "Algo ou alguém da Grécia é chamado de grego(a), e as pessoas nesse país falam grego."
+  },
+  {
+    id: 'lesson_8_vocab_a1_69',
+    word: "Something or someone from India is called Indian, and the people in this country speak Hindi among other languages.",
+    translation: "Algo ou alguém da Índia é chamado de indiano(a), e as pessoas nesse país falam hindi, entre outros idiomas.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ˈɪndiə ɪz kɔld ˈɪndiən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈhɪndi əˈmʌŋ ˈʌðər ˈlæŋɡwɪdʒəz./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm ín-dia íz cóld ín-di-an, énd dâ pí-poul ín dís cán-tri spíc rín-di a-mân á-der lán-guic-djis.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " In", "di", "a", " is", " called", " In", "di", "an,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Hin", "di", " a", "mong", " oth", "er", " lan", "gua", "ges."],
+    exampleSentence: "Something or someone from India is called Indian, and the people in this country speak Hindi among other languages.",
+    exampleTranslation: "Algo ou alguém da Índia é chamado de indiano(a), e as pessoas nesse país falam hindi, entre outros idiomas."
+  },
+  {
+    id: 'lesson_8_vocab_a1_70',
+    word: "Something or someone from Ireland is called Irish, and the people in this country speak English.",
+    translation: "Algo ou alguém da Irlanda é chamado de irlandês/irlandesa, e as pessoas nesse país falam inglês.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ˈaɪərlənd ɪz kɔld ˈaɪrɪʃ, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈɪŋɡlɪʃ./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm ái-er-land íz cóld ái-rich, énd dâ pí-poul ín dís cán-tri spíc ín-glich.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Ire", "land", " is", " called", " I", "rish,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Eng", "lish."],
+    exampleSentence: "Something or someone from Ireland is called Irish, and the people in this country speak English.",
+    exampleTranslation: "Algo ou alguém da Irlanda é chamado de irlandês/irlandesa, e as pessoas nesse país falam inglês."
+  },
+  {
+    id: 'lesson_8_vocab_a1_71',
+    word: "Something or someone from Italy is called Italian, and the people in this country speak Italian.",
+    translation: "Algo ou alguém da Itália é chamado de italiano(a), e as pessoas nesse país falam italiano.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ˈɪtəli ɪz kɔld ɪˈtæljən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ɪˈtæljən./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm í-ta-li íz cóld i-tá-li-an, énd dâ pí-poul ín dís cán-tri spíc i-tá-li-an.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " It", "a", "ly", " is", " called", " I", "tal", "ian,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " I", "tal", "ian."],
+    exampleSentence: "Something or someone from Italy is called Italian, and the people in this country speak Italian.",
+    exampleTranslation: "Algo ou alguém da Itália é chamado de italiano(a), e as pessoas nesse país falam italiano."
+  },
+  {
+    id: 'lesson_8_vocab_a1_72',
+    word: "Something or someone from Japan is called Japanese, and the people in this country speak Japanese.",
+    translation: "Algo ou alguém do Japão é chamado de japonês/japonesa, e as pessoas nesse país falam japonês.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm dʒəˈpæn ɪz kɔld ˌdʒæpəˈniz, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˌdʒæpəˈniz./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm dja-pán íz cóld dja-pa-nís, énd dâ pí-poul ín dís cán-tri spíc dja-pa-nís.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Ja", "pan", " is", " called", " Jap", "a", "nese,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Jap", "a", "nese."],
+    exampleSentence: "Something or someone from Japan is called Japanese, and the people in this country speak Japanese.",
+    exampleTranslation: "Algo ou alguém do Japão é chamado de japonês/japonesa, e as pessoas nesse país falam japonês."
+  },
+  {
+    id: 'lesson_8_vocab_a1_73',
+    word: "Something or someone from Mexico is called Mexican, and the people in this country speak Spanish.",
+    translation: "Algo ou alguém do México é chamado de mexicano(a), e as pessoas nesse país falam espanhol.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ˈmɛksɪˌkoʊ ɪz kɔld ˈmɛksɪkən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈspænɪʃ./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm méc-si-cou íz cóld méc-si-can, énd dâ pí-poul ín dís cán-tri spíc spá-nich.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Mex", "i", "co", " is", " called", " Mex", "i", "can,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Span", "ish."],
+    exampleSentence: "Something or someone from Mexico is called Mexican, and the people in this country speak Spanish.",
+    exampleTranslation: "Algo ou alguém do México é chamado de mexicano(a), e as pessoas nesse país falam espanhol."
+  },
+  {
+    id: 'lesson_8_vocab_a1_74',
+    word: "Something or someone from Nigeria is called Nigerian, and the people in this country speak English among other languages.",
+    translation: "Algo ou alguém da Nigéria é chamado de nigeriano(a), e as pessoas nesse país falam inglês, entre outros idiomas.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm naɪˈdʒɪriə ɪz kɔld naɪˈdʒɪriən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈɪŋɡlɪʃ əˈmʌŋ ˈʌðər ˈlæŋɡwɪdʒəz./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm nai-djí-ria íz cóld nai-djí-ri-an, énd dâ pí-poul ín dís cán-tri spíc ín-glich a-mân á-der lán-guic-djis.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Ni", "ge", "ri", "a", " is", " called", " Ni", "ge", "ri", "an,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Eng", "lish", " a", "mong", " oth", "er", " lan", "gua", "ges."],
+    exampleSentence: "Something or someone from Nigeria is called Nigerian, and the people in this country speak English among other languages.",
+    exampleTranslation: "Algo ou alguém da Nigéria é chamado de nigeriano(a), e as pessoas nesse país falam inglês, entre outros idiomas."
+  },
+  {
+    id: 'lesson_8_vocab_a1_75',
+    word: "Something or someone from Russia is called Russian, and the people in this country speak Russian.",
+    translation: "Algo ou alguém da Rússia é chamado de russo(a), e as pessoas nesse país falam russo.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ˈrʌʃə ɪz kɔld ˈrʌʃən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈrʌʃən./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm râ-cha íz cóld râ-chan, énd dâ pí-poul ín dís cán-tri spíc râ-chan.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Rus", "sia", " is", " called", " Rus", "sian,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Rus", "sian."],
+    exampleSentence: "Something or someone from Russia is called Russian, and the people in this country speak Russian.",
+    exampleTranslation: "Algo ou alguém da Rússia é chamado de russo(a), e as pessoas nesse país falam russo."
+  },
+  {
+    id: 'lesson_8_vocab_a1_76',
+    word: "Something or someone from South Korea is called South Korean, and the people in this country speak Korean.",
+    translation: "Algo ou alguém da Coreia do Sul é chamado de sul-coreano(a), e as pessoas nesse país falam coreano.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm saʊθ kəˈriə ɪz kɔld saʊθ kəˈriən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik kəˈriən./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm sáuth co-ría íz cóld sáuth co-rí-an, énd dâ pí-poul ín dís cán-tri spíc co-rí-an.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " South", " Ko", "re", "a", " is", " called", " South", " Ko", "re", "an,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Ko", "re", "an."],
+    exampleSentence: "Something or someone from South Korea is called South Korean, and the people in this country speak Korean.",
+    exampleTranslation: "Algo ou alguém da Coreia do Sul é chamado de sul-coreano(a), e as pessoas nesse país falam coreano."
+  },
+  {
+    id: 'lesson_8_vocab_a1_77',
+    word: "Something or someone from Spain is called Spanish, and the people in this country speak Spanish.",
+    translation: "Algo ou alguém da Espanha é chamado de espanhol/espanhola, e as pessoas nesse país falam espanhol.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm speɪn ɪz kɔld ˈspænɪʃ, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈspænɪʃ./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm spêin íz cóld spá-nich, énd dâ pí-poul ín dís cán-tri spíc spá-nich.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Spain", " is", " called", " Span", "ish,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Span", "ish."],
+    exampleSentence: "Something or someone from Spain is called Spanish, and the people in this country speak Spanish.",
+    exampleTranslation: "Algo ou alguém da Espanha é chamado de espanhol/espanhola, e as pessoas nesse país falam espanhol."
+  },
+  {
+    id: 'lesson_8_vocab_a1_78',
+    word: "Something or someone from Sweden is called Swedish, and the people in this country speak Swedish.",
+    translation: "Algo ou alguém da Suécia é chamado de sueco(a), e as pessoas nesse país falam sueco.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ˈswidən ɪz kɔld ˈswidɪʃ, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈswidɪʃ./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm suí-den íz cóld suí-dich, énd dâ pí-poul ín dís cán-tri spíc suí-dich.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " Swe", "den", " is", " called", " Swed", "ish,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Swed", "ish."],
+    exampleSentence: "Something or someone from Sweden is called Swedish, and the people in this country speak Swedish.",
+    exampleTranslation: "Algo ou alguém da Suécia é chamado de sueco(a), e as pessoas nesse país falam sueco."
+  },
+  {
+    id: 'lesson_8_vocab_a1_79',
+    word: "Something or someone from the United Kingdom is called British, and the people in this country speak English.",
+    translation: "Algo ou alguém do Reino Unido é chamado de britânico(a), e as pessoas nesse país falam inglês.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ðə juˈnaɪtɪd ˈkɪŋdəm ɪz kɔld ˈbrɪtɪʃ, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈɪŋɡlɪʃ./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm dâ iu-nái-tid quín-dom íz cóld brí-tich, énd dâ pí-poul ín dís cán-tri spíc ín-glich.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " the", " U", "ni", "ted", " King", "dom", " is", " called", " Brit", "ish,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Eng", "lish."],
+    exampleSentence: "Something or someone from the United Kingdom is called British, and the people in this country speak English.",
+    exampleTranslation: "Algo ou alguém do Reino Unido é chamado de britânico(a), e as pessoas nesse país falam inglês."
+  },
+  {
+    id: 'lesson_8_vocab_a1_80',
+    word: "Something or someone from the United States is called American, and the people in this country speak English.",
+    translation: "Algo ou alguém dos Estados Unidos é chamado de americano(a), e as pessoas nesse país falam inglês.",
+    pronunciation: "/ˈsʌmθɪŋ ɔr ˈsʌmˌwʌn frʌm ðə juˈnaɪtɪd steɪts ɪz kɔld əˈmɛrɪkən, ænd ðə ˈpipəl ɪn ðɪs ˈkʌntri spik ˈɪŋɡlɪʃ./",
+    portuguesePhonetic: "sám-thin fór sám-uán fróm dâ iu-nái-tid stêits íz cóld a-mé-ri-can, énd dâ pí-poul ín dís cán-tri spíc ín-glich.",
+    syllables: ["Some", "thing", " or", " some", "one", " from", " the", " U", "ni", "ted", " States", " is", " called", " A", "mer", "i", "can,", " and", " the", " peo", "ple", " in", " this", " coun", "try", " speak", " Eng", "lish."],
+    exampleSentence: "Something or someone from the United States is called American, and the people in this country speak English.",
+    exampleTranslation: "Algo ou alguém dos Estados Unidos é chamado de americano(a), e as pessoas nesse país falam inglês."
+  }
+];
+
+export const LESSON_9_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_9_vocab_a1_1',
+    word: "Grocery store",
+    translation: "Mercearia / mercado",
+    pronunciation: "/ˈɡroʊsəri stɔːr/",
+    portuguesePhonetic: "gróu-ce-ri stór",
+    syllables: ["Gro", "ce", "ry", " store"],
+    exampleSentence: "Grocery store",
+    exampleTranslation: "Mercearia / mercado"
+  },
+  {
+    id: 'lesson_9_vocab_a1_2',
+    word: "Bakery",
+    translation: "Padaria",
+    pronunciation: "/ˈbeɪkəri/",
+    portuguesePhonetic: "bêi-kə-ri",
+    syllables: ["Bak", "e", "ry"],
+    exampleSentence: "Bakery",
+    exampleTranslation: "Padaria"
+  },
+  {
+    id: 'lesson_9_vocab_a1_3',
+    word: "Pharmacy (US) / Chemist’s (UK)",
+    translation: "Farmácia",
+    pronunciation: "/ˈfɑːrməsi / ˈkɛmɪsts/",
+    portuguesePhonetic: "fár-ma-ci / ké-mists",
+    syllables: ["Phar", "ma", "cy", " / ", "Che", "mist's"],
+    exampleSentence: "Pharmacy (US) / Chemist’s (UK)",
+    exampleTranslation: "Farmácia"
+  },
+  {
+    id: 'lesson_9_vocab_a1_4',
+    word: "Clothing store",
+    translation: "Loja de roupas",
+    pronunciation: "/ˈkloʊðɪŋ stɔːr/",
+    portuguesePhonetic: "clou-thin stór",
+    syllables: ["Cloth", "ing", " store"],
+    exampleSentence: "Clothing store",
+    exampleTranslation: "Loja de roupas"
+  },
+  {
+    id: 'lesson_9_vocab_a1_5',
+    word: "Shoe store",
+    translation: "Loja de sapatos",
+    pronunciation: "/ʃuː stɔːr/",
+    portuguesePhonetic: "chu stór",
+    syllables: ["Shoe", " store"],
+    exampleSentence: "Shoe store",
+    exampleTranslation: "Loja de sapatos"
+  },
+  {
+    id: 'lesson_9_vocab_a1_6',
+    word: "Bookstore",
+    translation: "Livraria",
+    pronunciation: "/ˈbʊkstɔːr/",
+    portuguesePhonetic: "búc-stór",
+    syllables: ["Book", "store"],
+    exampleSentence: "Bookstore",
+    exampleTranslation: "Livraria"
+  },
+  {
+    id: 'lesson_9_vocab_a1_7',
+    word: "Toy store",
+    translation: "Loja de brinquedos",
+    pronunciation: "/tɔɪ stɔːr/",
+    portuguesePhonetic: "tói stór",
+    syllables: ["Toy", " store"],
+    exampleSentence: "Toy store",
+    exampleTranslation: "Loja de brinquedos"
+  },
+  {
+    id: 'lesson_9_vocab_a1_8',
+    word: "Hardware store (US) / DIY shop (UK)",
+    translation: "Loja de ferramentas / materiais de construção",
+    pronunciation: "/ˈhɑːrdwer stɔːr / ˌdiː aɪ ˈwaɪ ʃɒp/",
+    portuguesePhonetic: "rárd-uér stór / di-ai-uái chóp",
+    syllables: ["Hard", "ware", " store", " /", " DIY", " shop"],
+    exampleSentence: "Hardware store (US) / DIY shop (UK)",
+    exampleTranslation: "Loja de ferramentas / materiais de construção"
+  },
+  {
+    id: 'lesson_9_vocab_a1_9',
+    word: "Electronics store",
+    translation: "Loja de eletrônicos",
+    pronunciation: "/ɪˌlɛkˈtrɒnɪks stɔːr/",
+    portuguesePhonetic: "i-lec-tró-nics stór",
+    syllables: ["E", "lec", "tron", "ics", " store"],
+    exampleSentence: "Electronics store",
+    exampleTranslation: "Loja de eletrônicos"
+  },
+  {
+    id: 'lesson_9_vocab_a1_10',
+    word: "Jewelry store",
+    translation: "Joalheria",
+    pronunciation: "/ˈdʒuːəlri stɔːr/",
+    portuguesePhonetic: "dju-el-ri stór",
+    syllables: ["Jew", "el", "ry", " store"],
+    exampleSentence: "Jewelry store",
+    exampleTranslation: "Joalheria"
+  },
+  {
+    id: 'lesson_9_vocab_a1_11',
+    word: "Flower shop / Florist",
+    translation: "Floricultura",
+    pronunciation: "/ˈflaʊər ʃɒp / ˈflɒrɪst/",
+    portuguesePhonetic: "flau-er chóp / fló-rist",
+    syllables: ["Flow", "er", " shop", " / ", "Flo", "rist"],
+    exampleSentence: "Flower shop / Florist",
+    exampleTranslation: "Floricultura"
+  },
+  {
+    id: 'lesson_9_vocab_a1_12',
+    word: "Pet store",
+    translation: "Pet shop / loja de animais",
+    pronunciation: "/pɛt stɔːr/",
+    portuguesePhonetic: "pét stór",
+    syllables: ["Pet", " store"],
+    exampleSentence: "Pet store",
+    exampleTranslation: "Pet shop / loja de animais"
+  },
+  {
+    id: 'lesson_9_vocab_a1_13',
+    word: "Convenience store",
+    translation: "Loja de conveniência",
+    pronunciation: "/kənˈviːniəns stɔːr/",
+    portuguesePhonetic: "can-ví-nien-se stór",
+    syllables: ["Con", "ve", "nience", " store"],
+    exampleSentence: "Convenience store",
+    exampleTranslation: "Loja de conveniência"
+  },
+  {
+    id: 'lesson_9_vocab_a1_14',
+    word: "Stationery store",
+    translation: "Papelaria",
+    pronunciation: "/ˈsteɪʃənɛri stɔːr/",
+    portuguesePhonetic: "stêi-chə-né-ri stór",
+    syllables: ["Sta", "tion", "er", "y", " store"],
+    exampleSentence: "Stationery store",
+    exampleTranslation: "Papelaria"
+  },
+  {
+    id: 'lesson_9_vocab_a1_15',
+    word: "Furniture store",
+    translation: "Loja de móveis",
+    pronunciation: "/ˈfɜːrnɪtʃər stɔːr/",
+    portuguesePhonetic: "fãr-ni-tchur stór",
+    syllables: ["Fur", "ni", "ture", " store"],
+    exampleSentence: "Furniture store",
+    exampleTranslation: "Loja de móveis"
+  },
+  {
+    id: 'lesson_9_vocab_a1_16',
+    word: "Gift shop",
+    translation: "Loja de presentes",
+    pronunciation: "/ɡɪft ʃɒp/",
+    portuguesePhonetic: "ghíft chóp",
+    syllables: ["Gift", " shop"],
+    exampleSentence: "Gift shop",
+    exampleTranslation: "Loja de presentes"
+  },
+  {
+    id: 'lesson_9_vocab_a1_17',
+    word: "A grocery store is a shop where you buy food and things for the house.",
+    translation: "Uma mercearia / mercado é uma loja onde você compra comida e coisas para casa.",
+    pronunciation: "/ə ˈɡroʊsəri stɔːr ɪz ə ʃɒp wɛər juː baɪ fuːd ænd θɪŋz fɔːr ðə haʊs./",
+    portuguesePhonetic: "a gróu-ce-ri stór íz a chóp uér iu bái fúd énd thins fór dâ ráus.",
+    syllables: ["A", " gro", "ce", "ry", " store", " is", " a", " shop", " where", " you", " buy", " food", " and", " things", " for", " the", " house."],
+    exampleSentence: "A grocery store is a shop where you buy food and things for the house.",
+    exampleTranslation: "Uma mercearia / mercado é uma loja onde você compra comida e coisas para casa."
+  },
+  {
+    id: 'lesson_9_vocab_a1_18',
+    word: "A bakery is a place where you buy bread, cakes, and pastries.",
+    translation: "Uma padaria é um lugar onde você compra pão, bolos e doces / massas.",
+    pronunciation: "/ə ˈbeɪkəri ɪz ə pleɪs wɛər juː baɪ brɛd, keɪks, ænd ˈpeɪstriz./",
+    portuguesePhonetic: "a bêi-kə-ri íz a plêis uér iu bái bréd, kêiks, énd pêis-tris.",
+    syllables: ["A", " bak", "e", "ry", " is", " a", " place", " where", " you", " buy", " bread,", " cakes,", " and", " pas", "tries."],
+    exampleSentence: "A bakery is a place where you buy bread, cakes, and pastries.",
+    exampleTranslation: "Uma padaria é um lugar onde você compra pão, bolos e doces / massas."
+  },
+  {
+    id: 'lesson_9_vocab_a1_19',
+    word: "A chemist’s (UK) or pharmacy (US) is a shop where you get medicine and health products.",
+    translation: "Uma farmácia é uma loja onde você compra remédios e produtos de saúde.",
+    pronunciation: "/ə ˈkɛmɪsts ɔːr ˈfɑːrməsi ɪz a ʃɒp wɛər juː ɡɛt ˈmɛdsən ænd hɛlθ ˈprɒdʌkts./",
+    portuguesePhonetic: "a ké-mists ór fár-ma-ci íz a chóp uér iu ghét mé-di-cin énd rélth pró-ducts.",
+    syllables: ["A", " chem", "ist's", " or", " phar", "ma", "cy", " is", " a", " shop", " where", " you", " get", " med", "i", "cine", " and", " health", " prod", "ucts."],
+    exampleSentence: "A chemist’s (UK) or pharmacy (US) is a shop where you get medicine and health products.",
+    exampleTranslation: "Uma farmácia é uma loja onde você compra remédios e produtos de saúde."
+  },
+  {
+    id: 'lesson_9_vocab_a1_20',
+    word: "A clothing / clothes store (US) or clothes shop (UK) is a shop where you buy outfits like shirts and trousers.",
+    translation: "Uma loja de roupas é uma loja onde você compra roupas, como camisas e calças.",
+    pronunciation: "/ə ˈkloʊðɪŋ / kloʊðz stɔːr ɔːr kloʊðz ʃɒp ɪz ə ʃɒp wɛər juː baɪ ˈaʊtfɪts laɪk ʃɜːrts ænd ˈtraʊzərz./",
+    portuguesePhonetic: "a clou-thin / clou-ds stór ór clou-ds chóp íz a chóp uér iu bái aut-fits láic chãrts énd trau-zers.",
+    syllables: ["A", " cloth", "ing", " /", " clothes", " store", " or", " clothes", " shop", " is", " a", " shop", " where", " you", " buy", " out", "fits", " like", " shirts", " and", " trou", "sers."],
+    exampleSentence: "A clothing / clothes store (US) or clothes shop (UK) is a shop where you buy outfits like shirts and trousers.",
+    exampleTranslation: "Uma loja de roupas é uma loja onde você compra roupas, como camisas e calças."
+  },
+  {
+    id: 'lesson_9_vocab_a1_21',
+    word: "A shoe store is a place where you can buy footwear for your feet.",
+    translation: "Uma loja de sapatos é um lugar onde você pode comprar calçados para os pés.",
+    pronunciation: "/ə ʃuː stɔːr ɪz ə pleɪs wɛər juː kæn baɪ ˈfʊtwɛər fɔːr jɔːr fiːt./",
+    portuguesePhonetic: "a chu stór íz a plêis uér iu quén bái fút-uér fór iór fít.",
+    syllables: ["A", " shoe", " store", " is", " a", " place", " where", " you", " can", " buy", " foot", "wear", " for", " your", " feet."],
+    exampleSentence: "A shoe store is a place where you can buy footwear for your feet.",
+    exampleTranslation: "Uma loja de sapatos é um lugar onde você pode comprar calçados para os pés."
+  },
+  {
+    id: 'lesson_9_vocab_a1_22',
+    word: "A bookstore (US) is a shop with lots of books to read and buy.",
+    translation: "Uma livraria é uma loja com muitos livros para ler e comprar.",
+    pronunciation: "/ə ˈbʊkstɔːr ɪz ə ʃɒp wɪð lɒts ɒv bʊks tuː riːd ænd baɪ./",
+    portuguesePhonetic: "a búc-stór íz a chóp uíd lóts óv búcs tchu ríd énd bái.",
+    syllables: ["A", " book", "store", " is", " a", " shop", " with", " lots", " of", " books", " to", " read", " and", " buy."],
+    exampleSentence: "A bookstore (US) is a shop with lots of books to read and buy.",
+    exampleTranslation: "Uma livraria é uma loja com muitos livros para ler e comprar."
+  },
+  {
+    id: 'lesson_9_vocab_a1_23',
+    word: "A toy store is a shop that sells toys and games for children.",
+    translation: "Uma loja de brinquedos é uma loja que vende brinquedos e jogos para crianças.",
+    pronunciation: "/ə tɔɪ stɔːr ɪz ə ʃɒp ðæt sɛlz tɔɪz ænd ɡeɪmz fɔːr ˈtʃɪldrən./",
+    portuguesePhonetic: "a tói stór íz a chóp dét séls tóis énd ghêims fór tchíl-dren.",
+    syllables: ["A", " toy", " store", " is", " a", " shop", " that", " sells", " toys", " and", " games", " for", " chil", "dren."],
+    exampleSentence: "A toy store is a shop that sells toys and games for children.",
+    exampleTranslation: "Uma loja de brinquedos é uma loja que vende brinquedos e jogos para crianças."
+  },
+  {
+    id: 'lesson_9_vocab_a1_24',
+    word: "A hardware store or DIY shop (UK) is a shop where you find tools and things for fixing your house.",
+    translation: "Uma loja de ferramentas / materiais de construção é uma loja onde você encontra ferramentas e coisas para consertar sua casa.",
+    pronunciation: "/ə ˈhɑːrdwer stɔːr ɔːr ˌdiː aɪ ˈwaɪ ʃɒp ɪz ə ʃɒp wɛər juː faɪnd tuːlz ænd θɪŋz fɔːr ˈfɪksɪŋ jɔːr haʊs./",
+    portuguesePhonetic: "a rárd-uér stór ór di-ai-uái chóp íz a chóp uér iu fáind túls énd thins fór fíc-sin iór ráus." ,
+    syllables: ["A", " hard", "ware", " store", " or", " DIY", " shop", " is", " a", " shop", " where", " you", " find", " tools", " and", " things", " for", " fix", "ing", " your", " house."],
+    exampleSentence: "A hardware store or DIY shop (UK) is a shop where you find tools and things for fixing your house.",
+    exampleTranslation: "Uma loja de ferramentas / materiais de construção é uma loja onde você encontra ferramentas e coisas para consertar sua casa."
+  },
+  {
+    id: 'lesson_9_vocab_a1_25',
+    word: "An electronics store is a place to buy things like computers and TVs.",
+    translation: "Uma loja de eletrônicos é um lugar para comprar coisas como computadores e TVs.",
+    pronunciation: "/ən ɪˌlɛkˈtrɒnɪks stɔːr ɪz ə pleɪs tuː baɪ θɪŋz laɪk kəmˈpjuːtərz ænd ˌtiːˈviːz./",
+    portuguesePhonetic: "an i-lec-tró-nics stór íz a plêis tchu bái thins láic cam-piú-ters énd ti-vís.",
+    syllables: ["An", " e", "lec", "tron", "ics", " store", " is", " a", " place", " to", " buy", " things", " like", " com", "pu", "ters", " and", " TVs."],
+    exampleSentence: "An electronics store is a place to buy things like computers and TVs.",
+    exampleTranslation: "Uma loja de eletrônicos é um lugar para comprar coisas como computadores e TVs."
+  },
+  {
+    id: 'lesson_9_vocab_a1_26',
+    word: "A jewelry store (US) or jewellery shop (UK) is a shop where you can buy rings, necklaces, and other pretty things to wear.",
+    translation: "Uma joalheria é uma loja onde você pode comprar anéis, colares e outras coisas bonitas para usar.",
+    pronunciation: "/ə ˈdʒuːəlri stɔːr ɔːr ˈdʒuːəlri ʃɒp ɪz ə ʃɒp wɛər juː kæn baɪ rɪŋz, ˈnɛkləsɪz, ænd ˈʌðər ˈprɪti θɪŋz tuː wɛər./",
+    portuguesePhonetic: "a dju-el-ri stór ór dju-el-ri chóp íz a chóp uér iu quén bái rins, né-cla-sis, énd á-der prí-ti thins tchu uér.",
+    syllables: ["A", " jew", "el", "ry", " store", " or", " jew", "el", "le", "ry", " shop", " is", " a", " shop", " where", " you", " can", " buy", " rings,", " neck", "lac", "es,", " and", " oth", "er", " pret", "ty", " things", " to", " wear."],
+    exampleSentence: "A jewelry store (US) or jewellery shop (UK) is a shop where you can buy rings, necklaces, and other pretty things to wear.",
+    exampleTranslation: "Uma joalheria é uma loja onde você pode comprar anéis, colares e outras coisas bonitas para usar."
+  },
+  {
+    id: 'lesson_9_vocab_a1_27',
+    word: "A flower shop or florist is a place where you buy flowers for decoration or as gifts.",
+    translation: "Uma floricultura é um lugar onde você compra flores para decoração ou como presentes.",
+    pronunciation: "/ə ˈflaʊər ʃɒp ɔːr ˈflɒrɪst ɪz ə pleɪs wɛər juː baɪ ˈflaʊərz fɔːr ˌdɛkəˈreɪʃən ɔːr æz ɡɪfts./",
+    portuguesePhonetic: "a flau-er chóp ór fló-rist íz a plêis uér iu bái flau-ers fór de-co-rêi-chon ór és ghífts.",
+    syllables: ["A", " flow", "er", " shop", " or", " flo", "rist", " is", " a", " place", " where", " you", " buy", " flow", "ers", " for", " de", "co", "ra", "tion", " or", " as", " gifts."],
+    exampleSentence: "A flower shop or florist is a place where you buy flowers for decoration or as gifts.",
+    exampleTranslation: "Uma floricultura é um lugar onde você compra flores para decoração ou como presentes."
+  },
+  {
+    id: 'lesson_9_vocab_a1_28',
+    word: "A pet store is a shop where you find animals like cats and dogs and things for them.",
+    translation: "Um pet shop é uma loja onde você encontra animais, como gatos e cachorros, e coisas para eles.",
+    pronunciation: "/ə pɛt stɔːr ɪz ə ʃɒp wɛər juː faɪnd ˈænɪməlz laɪk kæts ænd dɒɡz ænd θɪŋz fɔːr ðɛm./",
+    portuguesePhonetic: "a pét stór íz a chóp uér iu fáind á-ni-mals láic quéts énd dógs énd thins fór dém.",
+    syllables: ["A", " pet", " store", " is", " a", " shop", " where", " you", " find", " a", "ni", "mals", " like", " cats", " and", " dogs", " and", " things", " for", " them."],
+    exampleSentence: "A pet store is a shop where you find animals like cats and dogs and things for them.",
+    exampleTranslation: "Um pet shop é uma loja onde você encontra animais, como gatos e cachorros, e coisas para eles."
+  },
+  {
+    id: 'lesson_9_vocab_a1_29',
+    word: "A corner shop (UK) or a convenience store (US) is a small shop where you buy everyday items such as newspapers, magazines, snacks, drinks, and some food items.",
+    translation: "Uma loja de conveniência é uma loja pequena onde você compra itens do dia a dia, como jornais, revistas, lanches, bebidas e alguns alimentos.",
+    pronunciation: "/ə ˈkɔːrnər ʃɒp ɔːr ə kənˈviːniəns stɔːr ɪz ə smɔːl ʃɒp wɛər juː baɪ ˈɛvrideɪ ˈaɪtəmz sʌtʃ æz ˈnjuːzˌpeɪpərz, ˌmæɡəˈziːnz, snæks, drɪŋks, ænd sʌm fuːd ˈaɪtəmz./",
+    portuguesePhonetic: "a cór-ner chóp ór a can-ví-nien-se stór íz a smól chóp uér iu bái é-vri-dêi ái-tems sátch és niús-pêi-pers, ma-ga-zí-nis, snécs, dríncs, énd sám fúd ái-tems.",
+    syllables: ["A", " cor", "ner", " shop", " or", " a", " con", "ve", "nience", " store", " is", " a", " small", " shop", " where", " you", " buy", " ev", "ery", "day", " i", "tems", " such", " as", " news", "pa", "pers,", " mag", "a", "zines,", " snacks,", " drinks,", " and", " some", " food", " i", "tems."],
+    exampleSentence: "A corner shop (UK) or a convenience store (US) is a small shop where you buy everyday items such as newspapers, magazines, snacks, drinks, and some food items.",
+    exampleTranslation: "Uma loja de conveniência é uma loja pequena onde você compra itens do dia a dia, como jornais, revistas, lanches, bebidas e alguns alimentos."
+  },
+  {
+    id: 'lesson_9_vocab_a1_30',
+    word: "A stationer’s (UK) or stationery store (US) is a place where you buy things for writing and office work like pens and paper.",
+    translation: "Uma papelaria é um lugar onde você compra coisas para escrever e para trabalho de escritório, como canetas e papel.",
+    pronunciation: "/ə ˈsteɪʃənərz ɔːr ˈsteɪʃənɛri stɔːr ɪz ə pleɪs wɛər juː baɪ θɪŋz fɔːr ˈraɪtɪŋ ænd ˈɒfɪs wɜːrk laɪk pɛnz ænd ˈpeɪpər./",
+    portuguesePhonetic: "a stêi-cho-ners ór stêi-cho-né-ri stór íz a plêis uér iu bái thins fór rái-tin énd ó-fis uãrk láic péns énd pêi-per.",
+    syllables: ["A", " sta", "tion", "er's", " or", " sta", "tion", "er", "y", " store", " is", " a", " place", " where", " you", " buy", " things", " for", " writ", "ing", " and", " of", "fice", " work", " like", " pens", " and", " pa", "per."],
+    exampleSentence: "A stationer’s (UK) or stationery store (US) is a place where you buy things for writing and office work like pens and paper.",
+    exampleTranslation: "Uma papelaria é um lugar onde você compra coisas para escrever e para trabalho de escritório, como canetas e papel."
+  },
+  {
+    id: 'lesson_9_vocab_a1_31',
+    word: "A furniture store is a big shop where you buy things like chairs, tables, and beds for your home.",
+    translation: "Uma loja de móveis é uma loja grande onde você compra coisas como cadeiras, mesas e camas para sua casa.",
+    pronunciation: "/ə ˈfɜːrnɪtʃər stɔːr ɪz ə bɪɡ ʃɒp wɛər juː baɪ θɪŋz laɪk tʃɛərz, ˈteɪbəlz, ænd bɛdz fɔːr jɔːr hoʊm./",
+    portuguesePhonetic: "a fãr-ni-tchur stór íz a bíg chóp uér iu bái thins láic tchérs, têi-bols, énd béds fór iór róum.",
+    syllables: ["A", " fur", "ni", "ture", " store", " is", " a", " big", " shop", " where", " you", " buy", " things", " like", " chairs,", " ta", "bles,", " and", " beds", " for", " your", " home."],
+    exampleSentence: "A furniture store is a big shop where you buy things like chairs, tables, and beds for your home.",
+    exampleTranslation: "Uma loja de móveis é uma loja grande onde você compra coisas como cadeiras, mesas e camas para sua casa."
+  },
+  {
+    id: 'lesson_9_vocab_a1_32',
+    word: "A gift shop is a shop where you find things to buy as presents for people.",
+    translation: "Uma loja de presentes é uma loja onde você encontra coisas para comprar como presentes para as pessoas.",
+    pronunciation: "/ə ɡɪft ʃɒp ɪz ə ʃɒp wɛər juː faɪnd θɪŋz tuː baɪ æz ˈprɛzənts fɔːr ˈpipəl./",
+    portuguesePhonetic: "a ghíft chóp íz a chóp uér iu báind thins tchu bái és pré-zents fór pí-poul.",
+    syllables: ["A", " gift", " shop", " is", " a", " shop", " where", " you", " find", " things", " to", " buy", " as", " pres", "ents", " for", " peo", "ple."],
+    exampleSentence: "A gift shop is a shop where you find things to buy as presents for people.",
+    exampleTranslation: "Uma loja de presentes é uma loja onde você encontra coisas para comprar como presentes para as pessoas."
+  },
+  {
+    id: 'lesson_9_vocab_a1_33',
+    word: "There were lots of sweet animals at the pet store.",
+    translation: "Havia muitos animais fofos no pet shop.",
+    pronunciation: "/ðɛər wɜːr lɒts ɒv swiːt ˈænɪməlz æt ðə pɛt stɔːr./",
+    portuguesePhonetic: "ðér uãr lóts óv suít á-ni-mals ét dâ pét stór.",
+    syllables: ["There", " were", " lots", " of", " sweet", " a", "ni", "mals", " at", " the", " pet", " store."],
+    exampleSentence: "There were lots of sweet animals at the pet store.",
+    exampleTranslation: "Havia muitos animais fofos no pet shop."
+  },
+  {
+    id: 'lesson_9_vocab_a1_34',
+    word: "We bought a new bed from the furniture store.",
+    translation: "Nós compramos uma cama nova na loja de móveis.",
+    pronunciation: "/wiː bɔːt ə njuː bɛd frɒm ðə ˈfɜːrnɪtʃər stɔːr./",
+    portuguesePhonetic: "uí bót a niú béd fróm dâ fãr-ni-tchur stór.",
+    syllables: ["We", " bought", " a", " new", " bed", " from", " the", " fur", "ni", "ture", " store."],
+    exampleSentence: "We bought a new bed from the furniture store.",
+    exampleTranslation: "Nós compramos uma cama nova na loja de móveis."
+  },
+  {
+    id: 'lesson_9_vocab_a1_35',
+    word: "I’m going to the bakery to buy some bread.",
+    translation: "Eu vou à padaria para comprar pão.",
+    pronunciation: "/aɪm ˈɡoʊɪŋ tuː ðə ˈbeɪkəri tuː baɪ sʌm brɛd./",
+    portuguesePhonetic: "áim góu-in tchu dâ bêi-kə-ri tchu bái sám bréd.",
+    syllables: ["I'm", " go", "ing", " to", " the", " bak", "e", "ry", " to", " buy", " some", " bread."],
+    exampleSentence: "I’m going to the bakery to buy some bread.",
+    exampleTranslation: "Eu vou à padaria para comprar pão."
+  },
+  {
+    id: 'lesson_9_vocab_a1_36',
+    word: "My husband bought me a ring from the jewelry store.",
+    translation: "Meu marido comprou um anel para mim na joalheria.",
+    pronunciation: "/maɪ ˈhʌzbənd bɔːt miː ə rɪŋ frɒm ðə ˈdʒuːəlri stɔːr./",
+    portuguesePhonetic: "mái rás-band bót mí a rin fróm dâ dju-el-ri stór.",
+    syllables: ["My", " hus", "band", " bought", " me", " a", " ring", " from", " the", " jew", "el", "ry", " store."],
+    exampleSentence: "My husband bought me a ring from the jewelry store.",
+    exampleTranslation: "Meu marido comprou um anel para mim na joalheria."
+  },
+  {
+    id: 'lesson_9_vocab_a1_37',
+    word: "I went to the pharmacy / chemist’s to buy some medicine.",
+    translation: "Eu fui à farmácia para comprar remédio.",
+    pronunciation: "/aɪ wɛnt tuː ðə ˈfɑːrməsi / ˈkɛmɪsts tuː baɪ sʌm ˈmɛdsən./",
+    portuguesePhonetic: "ái uént tchu dâ fár-ma-ci / ké-mists tchu bái sám mé-di-cin.",
+    syllables: ["I", " went", " to", " the", " phar", "ma", "cy", " /", " chem", "ist's", " to", " buy", " some", " med", "i", "cine."],
+    exampleSentence: "I went to the pharmacy / chemist’s to buy some medicine.",
+    exampleTranslation: "Eu fui à farmácia para comprar remédio."
+  },
+  {
+    id: 'lesson_9_vocab_a1_38',
+    word: "We got the Christmas presents for the children at the toy store.",
+    translation: "Nós compramos os presentes de Natal das crianças na loja de brinquedos.",
+    pronunciation: "/wiː ɡɒt ðə ˈkrɪsməs ˈprɛzənts fɔːr ðə ˈtʃɪldrən æt ðə tɔɪ stɔːr./",
+    portuguesePhonetic: "uí gót dâ crís-mas pré-zents fór dâ tchíl-dren ét dâ tói stór.",
+    syllables: ["We", " got", " the", " Christ", "mas", " pres", "ents", " for", " the", " chil", "dren", " at", " the", " toy", " store."],
+    exampleSentence: "We got the Christmas presents for the children at the toy store.",
+    exampleTranslation: "Nós compramos os presentes de Natal das crianças na loja de brinquedos."
+  },
+  {
+    id: 'lesson_9_vocab_a1_39',
+    word: "Sara went to the gift shop to buy a present for her mother.",
+    translation: "Sara foi à loja de presentes para comprar um presente para a mãe dela.",
+    pronunciation: "/ˈsɛərə wɛnt tuː ðə ɡɪft ʃɒp tuː baɪ ə ˈprɛzənt fɔːr hɜːr ˈmʌðər./",
+    portuguesePhonetic: "sé-ra uént tchu dâ ghíft chóp tchu bái a pré-zent fór rãr má-der.",
+    syllables: ["Sa", "ra", " went", " to", " the", " gift", " shop", " to", " buy", " a", " pres", "ent", " for", " her", " moth", "er."],
+    exampleSentence: "Sara went to the gift shop to buy a present for her mother.",
+    exampleTranslation: "Sara foi à loja de presentes para comprar um presente para a mãe dela."
+  },
+  {
+    id: 'lesson_9_vocab_a1_40',
+    word: "You can buy a magazine from the convenience store.",
+    translation: "Você pode comprar uma revista na loja de conveniência.",
+    pronunciation: "/juː kæn baɪ ə ˌmæɡəˈziːn frɒm ðə kənˈviːniəns stɔːr./",
+    portuguesePhonetic: "iu quén bái a ma-ga-zín fróm dâ can-ví-nien-se stór.",
+    syllables: ["You", " can", " buy", " a", " mag", "a", "zine", " from", " the", " con", "ve", "nience", " store."],
+    exampleSentence: "You can buy a magazine from the convenience store.",
+    exampleTranslation: "Você pode comprar uma revista na loja de conveniência."
+  },
+  {
+    id: 'lesson_9_vocab_a1_41',
+    word: "I saw some beautiful jeans at the clothing store in town.",
+    translation: "Eu vi algumas calças jeans bonitas na loja de roupas no centro / na cidade.",
+    pronunciation: "/aɪ sɔː sʌm ˈbjuːtɪfʊl dʒiːnz æt ðə ˈkloʊðɪŋ stɔːr ɪn taʊn./",
+    portuguesePhonetic: "ái só sám biú-ti-ful djíns ét dâ clou-thin stór ín taun.",
+    syllables: ["I", " saw", " some", " beau", "ti", "ful", " jeans", " at", " the", " cloth", "ing", " store", " in", " town."],
+    exampleSentence: "I saw some beautiful jeans at the clothing store in town.",
+    exampleTranslation: "Eu vi algumas calças jeans bonitas na loja de roupas no centro / na cidade."
+  },
+  {
+    id: 'lesson_9_vocab_a1_42',
+    word: "Dad bought some tools from the hardware store.",
+    translation: "Papai comprou algumas ferramentas na loja de ferramentas / materiais de construção.",
+    pronunciation: "/dæd bɔːt sʌm tuːlz frɒm ðə ˈhɑːrdwer stɔːr./",
+    portuguesePhonetic: "déd bót sám túls fróm dâ rárd-uér stór.",
+    syllables: ["Dad", " bought", " some", " tools", " from", " the", " hard", "ware", " store."],
+    exampleSentence: "Dad bought some tools from the hardware store.",
+    exampleTranslation: "Papai comprou algumas ferramentas na loja de ferramentas / materiais de construção."
+  },
+  {
+    id: 'lesson_9_vocab_a1_43',
+    word: "How can I help you?",
+    translation: "Como posso ajudar você?",
+    pronunciation: "/haʊ kæn aɪ hɛlp juː?/",
+    portuguesePhonetic: "ráu quén ái rélp iu?",
+    syllables: ["How", " can", " I", " help", " you?"],
+    exampleSentence: "How can I help you?",
+    exampleTranslation: "Como posso ajudar você?"
+  },
+  {
+    id: 'lesson_9_vocab_a1_44',
+    word: "I’m just looking.",
+    translation: "Estou apenas olhando.",
+    pronunciation: "/aɪm dʒʌst ˈlʊkɪŋ./",
+    portuguesePhonetic: "áim djást lú-quin.",
+    syllables: ["I'm", " just", " look", "ing."],
+    exampleSentence: "I’m just looking.",
+    exampleTranslation: "Estou apenas olhando."
+  },
+  {
+    id: 'lesson_9_vocab_a1_45',
+    word: "How much do they cost?",
+    translation: "Quanto eles custam?",
+    pronunciation: "/haʊ mʌtʃ duː ðeɪ kɒst?/",
+    portuguesePhonetic: "ráu mátch du ðêi cóst?",
+    syllables: ["How", " much", " do", " they", " cost?"],
+    exampleSentence: "How much do they cost?",
+    exampleTranslation: "Quanto eles custam?"
+  },
+  {
+    id: 'lesson_9_vocab_a1_46',
+    word: "I’m looking for a gift.",
+    translation: "Estou procurando um presente.",
+    pronunciation: "/aɪm ˈlʊkɪŋ fɔːr ə ɡɪft./",
+    portuguesePhonetic: "áim lú-quin fór a ghíft.",
+    syllables: ["I'm", " look", "ing", " for", " a", " gift."],
+    exampleSentence: "I’m looking for a gift.",
+    exampleTranslation: "Estou procurando um presente."
+  },
+  {
+    id: 'lesson_9_vocab_a1_47',
+    word: "Do you have this in a different size?",
+    translation: "Você tem isto em outro tamanho?",
+    pronunciation: "/duː juː hæv ðɪs ɪn ə ˈdɪfrənt saɪz?/",
+    portuguesePhonetic: "du iu rév dís ín a dí-frent sái-z?",
+    syllables: ["Do", " you", " have", " this", " in", " a", " dif", "fer", "ent", " size?"],
+    exampleSentence: "Do you have this in a different size?",
+    exampleTranslation: "Você tem isto em outro tamanho?"
+  },
+  {
+    id: 'lesson_9_vocab_a1_48',
+    word: "I’ll pay by card.",
+    translation: "Vou pagar com cartão.",
+    pronunciation: "/aɪl peɪ baɪ kɑːrd./",
+    portuguesePhonetic: "áil pêi bái cárd.",
+    syllables: ["I'll", " pay", " by", " card."],
+    exampleSentence: "I’ll pay by card.",
+    exampleTranslation: "Vou pagar com cartão."
+  },
+  {
+    id: 'lesson_9_vocab_a1_49',
+    word: "Can I pay by credit card?",
+    translation: "Posso pagar com cartão de crédito?",
+    pronunciation: "/kæn aɪ peɪ baɪ ˈkrɛdɪt kɑːrd?/",
+    portuguesePhonetic: "quén ái pêi bái cré-dit cárd?",
+    syllables: ["Can", " I", " pay", " by", " cred", "it", " card?"],
+    exampleSentence: "Can I pay by credit card?",
+    exampleTranslation: "Posso pagar com cartão de crédito?"
+  },
+  {
+    id: 'lesson_9_vocab_a1_50',
+    word: "How much is it?",
+    translation: "Quanto custa?",
+    pronunciation: "/haʊ mʌtʃ ɪz ɪt?/",
+    portuguesePhonetic: "ráu mátch íz it?",
+    syllables: ["How", " much", " is", " it?"],
+    exampleSentence: "How much is it?",
+    exampleTranslation: "Quanto custa?"
+  },
+  {
+    id: 'lesson_9_vocab_a1_51',
+    word: "It’s expensive.",
+    translation: "É caro.",
+    pronunciation: "/ɪts ɪkˈspɛnsɪv./",
+    portuguesePhonetic: "íts éc-spén-siv.",
+    syllables: ["It's", " ex", "pen", "sive."],
+    exampleSentence: "It’s expensive.",
+    exampleTranslation: "É caro."
+  },
+  {
+    id: 'lesson_9_vocab_a1_52',
+    word: "How much is this?",
+    translation: "Quanto custa isto?",
+    pronunciation: "/haʊ mʌtʃ ɪz ðɪs?/",
+    portuguesePhonetic: "ráu mátch íz dís?",
+    syllables: ["How", " much", " is", " this?"],
+    exampleSentence: "How much is this?",
+    exampleTranslation: "Quanto custa isto?"
+  }
+];
+
 export const LESSON_27_DECK: FlashcardData[] = [
   {
     id: 'lesson_27_1',
@@ -23700,5 +25759,14 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   lesson_6_vocabulary_a1: {
     en: LESSON_6_VOCABULARY_A1_DECK
+  },
+  lesson_7_vocabulary_a1: {
+    en: LESSON_7_VOCABULARY_A1_DECK
+  },
+  lesson_8_vocabulary_a1: {
+    en: LESSON_8_VOCABULARY_A1_DECK
+  },
+  lesson_9_vocabulary_a1: {
+    en: LESSON_9_VOCABULARY_A1_DECK
   }
 };

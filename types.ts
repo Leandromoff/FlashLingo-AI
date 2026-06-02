@@ -83,5 +83,8 @@ export const PREDEFINED_TOPICS = [
   { id: 'lesson_3_vocabulary_a1', label: 'Lesson 3', isStatic: true, group: 'Vocabulary A1' },
   { id: 'lesson_4_vocabulary_a1', label: 'Lesson 4', isStatic: true, group: 'Vocabulary A1' },
   { id: 'lesson_5_vocabulary_a1', label: 'Lesson 5', isStatic: true, group: 'Vocabulary A1' },
-  { id: 'lesson_6_vocabulary_a1', label: 'Lesson 6', isStatic: true, group: 'Vocabulary A1' }
+  { id: 'lesson_6_vocabulary_a1', label: 'Lesson 6', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_7_vocabulary_a1', label: 'Lesson 7', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_8_vocabulary_a1', label: 'Lesson 8', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_9_vocabulary_a1', label: 'Lesson 9', isStatic: true, group: 'Vocabulary A1' }
 ];
