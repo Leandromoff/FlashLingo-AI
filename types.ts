@@ -78,17 +78,10 @@ export const PREDEFINED_TOPICS = [
   { id: 'travel_stay_need', label: 'Lesson 83', isStatic: true, group: 'W4' },
   { id: 'know_work_live', label: 'Lesson 85', isStatic: true, group: 'W4' },
 
-  { id: 'move_put_revisao', label: 'Lesson 61', isStatic: true, group: 'W4 revisão' },
-  { id: 'share_rent_revisao', label: 'Lesson 63', isStatic: true, group: 'W4 revisão' },
-  { id: 'lose_find_revisao', label: 'Lesson 65', isStatic: true, group: 'W4 revisão' },
-  { id: 'to_be_1_revisao', label: 'Lesson 67', isStatic: true, group: 'W4 revisão' },
-  { id: 'to_be_2_revisao', label: 'Lesson 69', isStatic: true, group: 'W4 revisão' },
-  { id: 'to_be_revisao', label: 'Lesson 71', isStatic: true, group: 'W4 revisão' },
-  { id: 'begin_choose_revisao', label: 'Lesson 73', isStatic: true, group: 'W4 revisão' },
-  { id: 'listen_watch_revisao', label: 'Lesson 75', isStatic: true, group: 'W4 revisão' },
-  { id: 'post_follow_revisao', label: 'Lesson 77', isStatic: true, group: 'W4 revisão' },
-  { id: 'drink_eat_want_revisao', label: 'Lesson 79', isStatic: true, group: 'W4 revisão' },
-  { id: 'go_have_visit_revisao', label: 'Lesson 81', isStatic: true, group: 'W4 revisão' },
-  { id: 'travel_stay_need_revisao', label: 'Lesson 83', isStatic: true, group: 'W4 revisão' },
-  { id: 'know_work_live_revisao', label: 'Lesson 85', isStatic: true, group: 'W4 revisão' }
+  { id: 'lesson_1_vocabulary_a1', label: 'Lesson 1', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_2_vocabulary_a1', label: 'Lesson 2', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_3_vocabulary_a1', label: 'Lesson 3', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_4_vocabulary_a1', label: 'Lesson 4', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_5_vocabulary_a1', label: 'Lesson 5', isStatic: true, group: 'Vocabulary A1' },
+  { id: 'lesson_6_vocabulary_a1', label: 'Lesson 6', isStatic: true, group: 'Vocabulary A1' }
 ];

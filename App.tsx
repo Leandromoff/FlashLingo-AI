@@ -120,7 +120,7 @@ const App: React.FC = () => {
   const [expandedGroups, setExpandedGroups] = useLocalStorage<Record<string, boolean>>('flashlingo_expanded_groups', {
     'W2': false,
     'W4': false,
-    'W4 revisão': false
+    'Vocabulary A1': false
   });
 
   const toggleGroup = (groupKey: string) => {
@@ -356,7 +356,7 @@ const App: React.FC = () => {
         </div>
       ) : (
         <>
-          {['W2', 'W4', 'W4 revisão'].map(groupName => {
+          {['W2', 'W4', 'Vocabulary A1'].map(groupName => {
             const groupTopics = PREDEFINED_TOPICS.filter((t: any) => t.group === groupName);
             if (groupTopics.length === 0) return null;
             const isExpanded = expandedGroups[groupName] === true; // default false
@@ -488,12 +488,7 @@ const App: React.FC = () => {
             );
           })}
 
-          <div className="w-full mt-6 bg-white dark:bg-slate-800 p-5 rounded-3xl border border-slate-200 dark:border-slate-700 shadow-sm">
-              <div className="flex gap-2 mb-4">
-              <input type="text" value={customTopic} onChange={(e) => setCustomTopic(e.target.value)} placeholder="Ex: Culinária, Viagens, Star Wars..." className="flex-1 px-4 py-3 rounded-xl border border-slate-300 dark:border-slate-700 bg-slate-50 dark:bg-slate-900 text-slate-900 dark:text-white outline-none focus:ring-2 focus:ring-indigo-500 placeholder-slate-400" />
-              <button onClick={() => customTopic && startSession(customTopic, customTopic)} disabled={!customTopic} className="bg-indigo-600 dark:bg-indigo-500 text-white px-4 sm:px-6 py-3 rounded-xl font-bold disabled:opacity-50 hover:bg-indigo-700 dark:hover:bg-indigo-600 transition-colors flex items-center gap-2"><Sparkles size={18} /><span className="hidden sm:inline">Gerar</span></button>
-              </div>
-          </div>
+
         </>
       )}
     </div>

@@ -19478,6 +19478,2554 @@ export const LESSON_25_DECK: FlashcardData[] = [
   }
 ];
 
+export const LESSON_1_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_1_vocab_a1_1',
+    word: "A house",
+    translation: "Uma casa",
+    pronunciation: "/ə haʊs/",
+    portuguesePhonetic: "â ráus",
+    syllables: ["a", " house"],
+    exampleSentence: "A house",
+    exampleTranslation: "Uma casa"
+  },
+  {
+    id: 'lesson_1_vocab_a1_2',
+    word: "A car",
+    translation: "Um carro",
+    pronunciation: "/ə kɑr/",
+    portuguesePhonetic: "â cár",
+    syllables: ["a", " car"],
+    exampleSentence: "A car",
+    exampleTranslation: "Um carro"
+  },
+  {
+    id: 'lesson_1_vocab_a1_3',
+    word: "A bicycle",
+    translation: "Uma bicicleta",
+    pronunciation: "/ə ˈbaɪsɪkəl/",
+    portuguesePhonetic: "â bái-si-col",
+    syllables: ["a", " bi", "cy", "cle"],
+    exampleSentence: "A bicycle",
+    exampleTranslation: "Uma bicicleta"
+  },
+  {
+    id: 'lesson_1_vocab_a1_4',
+    word: "A book",
+    translation: "Um livro",
+    pronunciation: "/ə bʊk/",
+    portuguesePhonetic: "â búc",
+    syllables: ["a", " book"],
+    exampleSentence: "A book",
+    exampleTranslation: "Um livro"
+  },
+  {
+    id: 'lesson_1_vocab_a1_5',
+    word: "A pen",
+    translation: "Uma caneta",
+    pronunciation: "/ə pɛn/",
+    portuguesePhonetic: "â pén",
+    syllables: ["a", " pen"],
+    exampleSentence: "A pen",
+    exampleTranslation: "Uma caneta"
+  },
+  {
+    id: 'lesson_1_vocab_a1_6',
+    word: "A notebook",
+    translation: "Um caderno",
+    pronunciation: "/ə ˈnoʊtˌbʊk/",
+    portuguesePhonetic: "â nout-búc",
+    syllables: ["a", " note", "book"],
+    exampleSentence: "A notebook",
+    exampleTranslation: "Um caderno"
+  },
+  {
+    id: 'lesson_1_vocab_a1_7',
+    word: "A backpack",
+    translation: "Uma mochila",
+    pronunciation: "/ə ˈbækˌpæk/",
+    portuguesePhonetic: "â béc-péc",
+    syllables: ["a", " back", "pack"],
+    exampleSentence: "A backpack",
+    exampleTranslation: "Uma mochila"
+  },
+  {
+    id: 'lesson_1_vocab_a1_8',
+    word: "A watch",
+    translation: "Um relógio de pulso",
+    pronunciation: "/ə wɑtʃ/",
+    portuguesePhonetic: "â uótch",
+    syllables: ["a", " watch"],
+    exampleSentence: "A watch",
+    exampleTranslation: "Um relógio de pulso"
+  },
+  {
+    id: 'lesson_1_vocab_a1_9',
+    word: "A computer",
+    translation: "Um computador",
+    pronunciation: "/ə kəmˈpjutər/",
+    portuguesePhonetic: "â com-piú-ter",
+    syllables: ["a", " com", "pu", "ter"],
+    exampleSentence: "A computer",
+    exampleTranslation: "Um computador"
+  },
+  {
+    id: 'lesson_1_vocab_a1_10',
+    word: "A TV",
+    translation: "Uma TV / uma televisão",
+    pronunciation: "/ə ˌtiˈvi/",
+    portuguesePhonetic: "â tí-ví",
+    syllables: ["a", " TV"],
+    exampleSentence: "A TV",
+    exampleTranslation: "Uma TV / uma televisão"
+  },
+  {
+    id: 'lesson_1_vocab_a1_11',
+    word: "Glasses",
+    translation: "Óculos",
+    pronunciation: "/ˈɡlæsəz/",
+    portuguesePhonetic: "glé-sez",
+    syllables: ["glass", "es"],
+    exampleSentence: "Glasses",
+    exampleTranslation: "Óculos"
+  },
+  {
+    id: 'lesson_1_vocab_a1_12',
+    word: "Shoes",
+    translation: "Sapatos",
+    pronunciation: "/ʃuz/",
+    portuguesePhonetic: "chus",
+    syllables: ["shoes"],
+    exampleSentence: "Shoes",
+    exampleTranslation: "Sapatos"
+  },
+  {
+    id: 'lesson_1_vocab_a1_13',
+    word: "A wallet",
+    translation: "Uma carteira",
+    pronunciation: "/ə ˈwɔlɪt/",
+    portuguesePhonetic: "â uó-lit",
+    syllables: ["a", " wal", "let"],
+    exampleSentence: "A wallet",
+    exampleTranslation: "Uma carteira"
+  },
+  {
+    id: 'lesson_1_vocab_a1_14',
+    word: "A key",
+    translation: "Uma chave",
+    pronunciation: "/ə ki/",
+    portuguesePhonetic: "â quí",
+    syllables: ["a", " key"],
+    exampleSentence: "A key",
+    exampleTranslation: "Uma chave"
+  },
+  {
+    id: 'lesson_1_vocab_a1_15',
+    word: "A mobile phone",
+    translation: "Um celular",
+    pronunciation: "/ə ˈmoʊbəl foʊn/",
+    portuguesePhonetic: "â môu-bol foun",
+    syllables: ["a", " mo", "bile", " phone"],
+    exampleSentence: "A mobile phone",
+    exampleTranslation: "Um celular"
+  },
+  {
+    id: 'lesson_1_vocab_a1_16',
+    word: "Headphones",
+    translation: "Fones de ouvido",
+    pronunciation: "/ˈhɛdˌfoʊnz/",
+    portuguesePhonetic: "réd-founs",
+    syllables: ["head", "phones"],
+    exampleSentence: "Headphones",
+    exampleTranslation: "Fones de ouvido"
+  },
+  {
+    id: 'lesson_1_vocab_a1_17',
+    word: "An umbrella",
+    translation: "Um guarda-chuva",
+    pronunciation: "/ən ʌmˈbrɛlə/",
+    portuguesePhonetic: "ân âm-bré-la",
+    syllables: ["an", " um", "brel", "la"],
+    exampleSentence: "An umbrella",
+    exampleTranslation: "Um guarda-chuva"
+  },
+  {
+    id: 'lesson_1_vocab_a1_18',
+    word: "A passport",
+    translation: "Um passaporte",
+    pronunciation: "/ə ˈpæsˌpɔrt/",
+    portuguesePhonetic: "â pés-pórt",
+    syllables: ["a", " pass", "port"],
+    exampleSentence: "A passport",
+    exampleTranslation: "Um passaporte"
+  },
+  {
+    id: 'lesson_1_vocab_a1_19',
+    word: "A hat",
+    translation: "Um chapéu",
+    pronunciation: "/ə hæt/",
+    portuguesePhonetic: "â rét",
+    syllables: ["a", " hat"],
+    exampleSentence: "A hat",
+    exampleTranslation: "Um chapéu"
+  },
+  {
+    id: 'lesson_1_vocab_a1_20',
+    word: "A bottle of water",
+    translation: "Uma garrafa de água",
+    pronunciation: "/ə ˈbɑtəl ʌv ˈwɔtər/",
+    portuguesePhonetic: "â bó-tol âv uó-ter",
+    syllables: ["a", " bot", "tle", " of", " wa", "ter"],
+    exampleSentence: "A bottle of water",
+    exampleTranslation: "Uma garrafa de água"
+  },
+  {
+    id: 'lesson_1_vocab_a1_21',
+    word: "I live in a big house with my family.",
+    translation: "Eu moro em uma casa grande com minha família.",
+    pronunciation: "/aɪ lɪv ɪn ə bɪɡ haʊs wɪð maɪ ˈfæməli./",
+    portuguesePhonetic: "ai lív ín â bíg ráus uíd mai fé-mi-li.",
+    syllables: ["I", " live", " in", " a", " big", " house", " with", " my", " fam", "i", "ly."],
+    exampleSentence: "I live in a big house with my family.",
+    exampleTranslation: "Eu moro em uma casa grande com minha família."
+  },
+  {
+    id: 'lesson_1_vocab_a1_22',
+    word: "He drives an expensive car.",
+    translation: "Ele dirige um carro caro.",
+    pronunciation: "/hi draɪvz ən ɪkˈspɛnsɪv kɑr./",
+    portuguesePhonetic: "ri dráivs ân ecs-pén-siv cár.",
+    syllables: ["He", " drives", " an", " ex", "pen", "sive", " car."],
+    exampleSentence: "He drives an expensive car.",
+    exampleTranslation: "Ele dirige um carro caro."
+  },
+  {
+    id: 'lesson_1_vocab_a1_23',
+    word: "I ride my bike in the park.",
+    translation: "Eu ando de bicicleta no parque.",
+    pronunciation: "/aɪ raɪd maɪ baɪk ɪn ðə pɑrk./",
+    portuguesePhonetic: "ai ráid mai báic ín dâ párc.",
+    syllables: ["I", " ride", " my", " bike", " in", " the", " park."],
+    exampleSentence: "I ride my bike in the park.",
+    exampleTranslation: "Eu ando de bicicleta no parque."
+  },
+  {
+    id: 'lesson_1_vocab_a1_24',
+    word: "I like to read a book in bed.",
+    translation: "Eu gosto de ler um livro na cama.",
+    pronunciation: "/aɪ laɪk tu rid ə bʊk ɪn bɛd./",
+    portuguesePhonetic: "ai láic tchu rid â búc ín béd.",
+    syllables: ["I", " like", " to", " read", " a", " book", " in", " bed."],
+    exampleSentence: "I like to read a book in bed.",
+    exampleTranslation: "Eu gosto de ler um livro na cama."
+  },
+  {
+    id: 'lesson_1_vocab_a1_25',
+    word: "I use a pen to write at school.",
+    translation: "Eu uso uma caneta para escrever na escola.",
+    pronunciation: "/aɪ juz ə pɛn tu raɪt æt skul./",
+    portuguesePhonetic: "ai iús â pén tchu ráit ét scul.",
+    syllables: ["I", " use", " a", " pen", " to", " write", " at", " school."],
+    exampleSentence: "I use a pen to write at school.",
+    exampleTranslation: "Eu uso uma caneta para escrever na escola."
+  },
+  {
+    id: 'lesson_1_vocab_a1_26',
+    word: "I write and draw in my notebook.",
+    translation: "Eu escrevo e desenho no meu caderno.",
+    pronunciation: "/aɪ raɪt ænd drɔ ɪn maɪ ˈnoʊtˌbʊk./",
+    portuguesePhonetic: "ai ráit énd dró ín mai nout-búc.",
+    syllables: ["I", " write", " and", " draw", " in", " my", " note", "book."],
+    exampleSentence: "I write and draw in my notebook.",
+    exampleTranslation: "Eu escrevo e desenho no meu caderno."
+  },
+  {
+    id: 'lesson_1_vocab_a1_27',
+    word: "I carry my books in a backpack.",
+    translation: "Eu carrego meus livros em uma mochila.",
+    pronunciation: "/aɪ ˈkæri maɪ bʊks ɪn ə ˈbækˌpæk./",
+    portuguesePhonetic: "ai ké-ri mai búcs ín â béc-péc.",
+    syllables: ["I", " car", "ry", " my", " books", " in", " a", " back", "pack."],
+    exampleSentence: "I carry my books in a backpack.",
+    exampleTranslation: "Eu carrego meus livros em uma mochila."
+  },
+  {
+    id: 'lesson_1_vocab_a1_28',
+    word: "I wear a watch on my wrist.",
+    translation: "Eu uso um relógio no pulso.",
+    pronunciation: "/aɪ wɛr ə wɑtʃ ɑn maɪ rɪst./",
+    portuguesePhonetic: "ai uér â uótch ón mai ríst.",
+    syllables: ["I", " wear", " a", " watch", " on", " my", " wrist."],
+    exampleSentence: "I wear a watch on my wrist.",
+    exampleTranslation: "Eu uso um relógio no pulso."
+  },
+  {
+    id: 'lesson_1_vocab_a1_29',
+    word: "I use a computer to play games.",
+    translation: "Eu uso um computador para jogar.",
+    pronunciation: "/aɪ juz ə kəmˈpjutər tu pleɪ ɡeɪmz./",
+    portuguesePhonetic: "ai iús â com-piú-ter tchu plêi guêims.",
+    syllables: ["I", " use", " a", " com", "pu", "ter", " to", " play", " games."],
+    exampleSentence: "I use a computer to play games.",
+    exampleTranslation: "Eu uso um computador para jogar."
+  },
+  {
+    id: 'lesson_1_vocab_a1_30',
+    word: "I often watch TV.",
+    translation: "Eu assisto TV com frequência.",
+    pronunciation: "/aɪ ˈɔfən wɑtʃ ˌtiˈvi./",
+    portuguesePhonetic: "ai ó-fen uótch tí-ví.",
+    syllables: ["I", " of", "ten", " watch", " TV."],
+    exampleSentence: "I often watch TV.",
+    exampleTranslation: "Eu assisto TV com frequência."
+  },
+  {
+    id: 'lesson_1_vocab_a1_31',
+    word: "My grandmother wears glasses.",
+    translation: "Minha avó usa óculos.",
+    pronunciation: "/maɪ ˈɡrændˌmʌðər wɛrz ˈɡlæsəz./",
+    portuguesePhonetic: "mai grénd-mâ-der uérs glé-sez.",
+    syllables: ["My", " grand", "moth", "er", " wears", " glass", "es."],
+    exampleSentence: "My grandmother wears glasses.",
+    exampleTranslation: "Minha avó usa óculos."
+  },
+  {
+    id: 'lesson_1_vocab_a1_32',
+    word: "I sometimes wear yellow shoes.",
+    translation: "Às vezes, eu uso sapatos amarelos.",
+    pronunciation: "/aɪ səmˈtaɪmz wɛr ˈjɛloʊ ʃuz./",
+    portuguesePhonetic: "ai sâm-táims uér ié-lou chus.",
+    syllables: ["I", " some", "times", " wear", " yel", "low", " shoes."],
+    exampleSentence: "I sometimes wear yellow shoes.",
+    exampleTranslation: "Às vezes, eu uso sapatos amarelos."
+  },
+  {
+    id: 'lesson_1_vocab_a1_33',
+    word: "I have money in my wallet.",
+    translation: "Eu tenho dinheiro na minha carteira.",
+    pronunciation: "/aɪ hæv ˈmʌni ɪn maɪ ˈwɔlɪt./",
+    portuguesePhonetic: "ai rév mâ-ni ín mai uó-lit.",
+    syllables: ["I", " have", " mon", "ey", " in", " my", " wal", "let."],
+    exampleSentence: "I have money in my wallet.",
+    exampleTranslation: "Eu tenho dinheiro na minha carteira."
+  },
+  {
+    id: 'lesson_1_vocab_a1_34',
+    word: "This key opens my front door.",
+    translation: "Esta chave abre a porta da frente da minha casa.",
+    pronunciation: "/ðɪs ki ˈoʊpənz maɪ frʌnt dɔr./",
+    portuguesePhonetic: "dís quí ou-pens mai frânt dór.",
+    syllables: ["This", " key", " o", "pens", " my", " front", " door."],
+    exampleSentence: "This key opens my front door.",
+    exampleTranslation: "Esta chave abre a porta da frente da minha casa."
+  },
+  {
+    id: 'lesson_1_vocab_a1_35',
+    word: "I use my mobile phone to text and send emails.",
+    translation: "Eu uso meu celular para mandar mensagens e enviar e-mails.",
+    pronunciation: "/aɪ juz maɪ ˈmoʊbəl foʊn tu tɛkst ænd sɛnd ˈiˌmeɪlz./",
+    portuguesePhonetic: "ai iús mai ôu-bol foun tchu técst énd sénd i-mêils.",
+    syllables: ["I", " use", " my", " mo", "bile", " phone", " to", " text", " and", " send", " e", "mails."],
+    exampleSentence: "I use my mobile phone to text and send emails.",
+    exampleTranslation: "Eu uso meu celular para mandar mensagens e enviar e-mails."
+  },
+  {
+    id: 'lesson_1_vocab_a1_36',
+    word: "I put on my headphones to listen to music.",
+    translation: "Eu coloco meus fones de ouvido para ouvir música.",
+    pronunciation: "/aɪ pʊt ɑn maɪ ˈhɛdˌfoʊnz tu ˈlɪsən tu ˈmjuzɪk./",
+    portuguesePhonetic: "ai pút ón mai réd-founs tchu lí-sen tchu miú-zic.",
+    syllables: ["I", " put", " on", " my", " head", "phones", " to", " lis", "ten", " to", " mu", "sic."],
+    exampleSentence: "I put on my headphones to listen to music.",
+    exampleTranslation: "Eu coloco meus fones de ouvido para ouvir música."
+  },
+  {
+    id: 'lesson_1_vocab_a1_37',
+    word: "I always take my umbrella when it rains.",
+    translation: "Eu sempre levo meu guarda-chuva quando chove.",
+    pronunciation: "/aɪ ˈɔlweɪz teɪk maɪ ʌmˈbrɛlə wɛn ɪt reɪnz./",
+    portuguesePhonetic: "ai ól-uêis têic mai âm-bré-la uén ít rêins.",
+    syllables: ["I", " al", "ways", " take", " my", " um", "brel", "la", " when", " it", " rains."],
+    exampleSentence: "I always take my umbrella when it rains.",
+    exampleTranslation: "Eu sempre levo meu guarda-chuva quando chove."
+  },
+  {
+    id: 'lesson_1_vocab_a1_38',
+    word: "We need a passport to travel.",
+    translation: "Nós precisamos de um passaporte para viajar.",
+    pronunciation: "/wi nid ə ˈpæsˌpɔrt tu ˈtrævəl./",
+    portuguesePhonetic: "ui nid â pés-pórt tchu tré-vol.",
+    syllables: ["We", " need", " a", " pass", "port", " to", " trav", "el."],
+    exampleSentence: "We need a passport to travel.",
+    exampleTranslation: "Nós precisamos de um passaporte para viajar."
+  },
+  {
+    id: 'lesson_1_vocab_a1_39',
+    word: "I wear a hat on sunny days.",
+    translation: "Eu uso um chapéu em dias ensolarados.",
+    pronunciation: "/aɪ wɛr ə hæt ɑn ˈsʌni deɪz./",
+    portuguesePhonetic: "ai uér â rét ón sâ-ni dêis.",
+    syllables: ["I", " wear", " a", " hat", " on", " sun", "ny", " days."],
+    exampleSentence: "I wear a hat on sunny days.",
+    exampleTranslation: "Eu uso um chapéu em dias ensolarados."
+  },
+  {
+    id: 'lesson_1_vocab_a1_40',
+    word: "I drink water from a bottle.",
+    translation: "Eu bebo água de uma garrafa.",
+    pronunciation: "/aɪ drɪŋk ˈwɔtər frʌm ə ˈbɑtəl./",
+    portuguesePhonetic: "ai drínc uó-ter frâm â bó-tol.",
+    syllables: ["I", " drink", " wa", "ter", " from", " a", " bot", "tle."],
+    exampleSentence: "I drink water from a bottle.",
+    exampleTranslation: "Eu bebo água de uma garrafa."
+  }
+];
+
+export const LESSON_2_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_2_vocab_a1_1',
+    word: "Call a friend",
+    translation: "Ligar para um amigo / uma amiga",
+    pronunciation: "/kɔl ə frɛnd/",
+    portuguesePhonetic: "cól â frénd",
+    syllables: ["call", " a", " friend"],
+    exampleSentence: "Call a friend",
+    exampleTranslation: "Ligar para um amigo / uma amiga"
+  },
+  {
+    id: 'lesson_2_vocab_a1_2',
+    word: "Cook dinner",
+    translation: "Cozinhar o jantar",
+    pronunciation: "/kʊk ˈdɪnər/",
+    portuguesePhonetic: "cúc dín-er",
+    syllables: ["cook", " din", "ner"],
+    exampleSentence: "Cook dinner",
+    exampleTranslation: "Cozinhar o jantar"
+  },
+  {
+    id: 'lesson_2_vocab_a1_3',
+    word: "Do exercise",
+    translation: "Fazer exercício",
+    pronunciation: "/du ˈɛksərˌsaɪz/",
+    portuguesePhonetic: "du éc-ser-sáis",
+    syllables: ["do", " ex", "er", "cise"],
+    exampleSentence: "Do exercise",
+    exampleTranslation: "Fazer exercício"
+  },
+  {
+    id: 'lesson_2_vocab_a1_4',
+    word: "Go on holiday / vacation",
+    translation: "Sair de férias / viajar de férias",
+    pronunciation: "/ɡoʊ ɑn ˈhɑləˌdeɪ / veɪˈkeɪʃən/",
+    portuguesePhonetic: "gôu ón rá-li-dêi / vei-quêi-chôn",
+    syllables: ["go", " on", " hol", "i", "day", " /", " va", "ca", "tion"],
+    exampleSentence: "Go on holiday / vacation",
+    exampleTranslation: "Sair de férias / viajar de férias"
+  },
+  {
+    id: 'lesson_2_vocab_a1_5',
+    word: "Go to bed",
+    translation: "Ir para a cama",
+    pronunciation: "/ɡoʊ tu bɛd/",
+    portuguesePhonetic: "gôu tchu béd",
+    syllables: ["go", " to", " bed"],
+    exampleSentence: "Go to bed",
+    exampleTranslation: "Ir para a cama"
+  },
+  {
+    id: 'lesson_2_vocab_a1_6',
+    word: "Go to work",
+    translation: "Ir para o trabalho",
+    pronunciation: "/ɡoʊ tu wɜrk/",
+    portuguesePhonetic: "gôu tchu uérc",
+    syllables: ["go", " to", " work"],
+    exampleSentence: "Go to work",
+    exampleTranslation: "Ir para o trabalho"
+  },
+  {
+    id: 'lesson_2_vocab_a1_7',
+    word: "Have / drink some coffee",
+    translation: "Tomar / beber um pouco de café",
+    pronunciation: "/hæv / drɪŋk sʌm ˈkɔfi/",
+    portuguesePhonetic: "rév / drínc sâm có-fi",
+    syllables: ["have", " /", " drink", " some", " cof", "fee"],
+    exampleSentence: "Have / drink some coffee",
+    exampleTranslation: "Tomar / beber um pouco de café"
+  },
+  {
+    id: 'lesson_2_vocab_a1_8',
+    word: "Have / eat dinner",
+    translation: "Jantar / comer o jantar",
+    pronunciation: "/hæv / it ˈdɪnər/",
+    portuguesePhonetic: "rév / ít dín-er",
+    syllables: ["have", " /", " eat", " din", "ner"],
+    exampleSentence: "Have / eat dinner",
+    exampleTranslation: "Jantar / comer o jantar"
+  },
+  {
+    id: 'lesson_2_vocab_a1_9',
+    word: "Listen to music",
+    translation: "Ouvir música",
+    pronunciation: "/ˈlɪsən tu ˈmjuzɪk/",
+    portuguesePhonetic: "lí-sen tchu miú-zic",
+    syllables: ["lis", "ten", " to", " mu", "sic"],
+    exampleSentence: "Listen to music",
+    exampleTranslation: "Ouvir música"
+  },
+  {
+    id: 'lesson_2_vocab_a1_10',
+    word: "Play football",
+    translation: "Jogar futebol",
+    pronunciation: "/pleɪ ˈfʊtˌbɔl/",
+    portuguesePhonetic: "plêi fut-ból",
+    syllables: ["play", " foot", "ball"],
+    exampleSentence: "Play football",
+    exampleTranslation: "Jogar futebol"
+  },
+  {
+    id: 'lesson_2_vocab_a1_11',
+    word: "Play the guitar",
+    translation: "Tocar violão / tocar guitarra",
+    pronunciation: "/pleɪ ðə ɡɪˈtɑr/",
+    portuguesePhonetic: "plêi dâ gui-tár",
+    syllables: ["play", " the", " gui", "tar"],
+    exampleSentence: "Play the guitar",
+    exampleTranslation: "Tocar violão / tocar guitarra"
+  },
+  {
+    id: 'lesson_2_vocab_a1_12',
+    word: "Play video games",
+    translation: "Jogar videogame",
+    pronunciation: "/pleɪ ˈvɪdioʊ ɡeɪmz/",
+    portuguesePhonetic: "plêi ví-diou guêims",
+    syllables: ["play", " vid", "e", "o", " games"],
+    exampleSentence: "Play video games",
+    exampleTranslation: "Jogar videogame"
+  },
+  {
+    id: 'lesson_2_vocab_a1_13',
+    word: "Read a book",
+    translation: "Ler um livro",
+    pronunciation: "/rid ə bʊk/",
+    portuguesePhonetic: "rid â búc",
+    syllables: ["read", " a", " book"],
+    exampleSentence: "Read a book",
+    exampleTranslation: "Ler um livro"
+  },
+  {
+    id: 'lesson_2_vocab_a1_14',
+    word: "Send a text",
+    translation: "Enviar uma mensagem",
+    pronunciation: "/sɛnd ə tɛkst/",
+    portuguesePhonetic: "sénd â técst",
+    syllables: ["send", " a", " text"],
+    exampleSentence: "Send a text",
+    exampleTranslation: "Enviar uma mensagem"
+  },
+  {
+    id: 'lesson_2_vocab_a1_15',
+    word: "Study English",
+    translation: "Estudar inglês",
+    pronunciation: "/ˈstʌdi ˈɪŋɡlɪʃ/",
+    portuguesePhonetic: "stâ-di ín-glic",
+    syllables: ["stud", "y", " En", "glish"],
+    exampleSentence: "Study English",
+    exampleTranslation: "Estudar inglês"
+  },
+  {
+    id: 'lesson_2_vocab_a1_16',
+    word: "Take a photo",
+    translation: "Tirar uma foto",
+    pronunciation: "/teɪk ə ˈfoʊtoʊ/",
+    portuguesePhonetic: "têic â fôu-tou",
+    syllables: ["take", " a", " pho", "to"],
+    exampleSentence: "Take a photo",
+    exampleTranslation: "Tirar uma foto"
+  },
+  {
+    id: 'lesson_2_vocab_a1_17',
+    word: "Visit a museum",
+    translation: "Visitar um museu",
+    pronunciation: "/ˈvɪzɪt ə mjuˈziəm/",
+    portuguesePhonetic: "ví-zit â miu-zí-âm",
+    syllables: ["vis", "it", " a", " mu", "se", "um"],
+    exampleSentence: "Visit a museum",
+    exampleTranslation: "Visitar um museu"
+  },
+  {
+    id: 'lesson_2_vocab_a1_18',
+    word: "Watch TV",
+    translation: "Assistir TV",
+    pronunciation: "/wɑtʃ ˌtiˈvi/",
+    portuguesePhonetic: "uótch tí-ví",
+    syllables: ["watch", " TV"],
+    exampleSentence: "Watch TV",
+    exampleTranslation: "Assistir TV"
+  },
+  {
+    id: 'lesson_2_vocab_a1_19',
+    word: "Wear glasses",
+    translation: "Usar óculos",
+    pronunciation: "/wɛr ˈɡlæsəz/",
+    portuguesePhonetic: "uér glé-sez",
+    syllables: ["wear", " glass", "es"],
+    exampleSentence: "Wear glasses",
+    exampleTranslation: "Usar óculos"
+  },
+  {
+    id: 'lesson_2_vocab_a1_20',
+    word: "Send an email",
+    translation: "Enviar um e-mail",
+    pronunciation: "/sɛnd ən ˈiˌmeɪl/",
+    portuguesePhonetic: "sénd ân i-mêil",
+    syllables: ["send", " an", " e", "mail"],
+    exampleSentence: "Send an email",
+    exampleTranslation: "Enviar um e-mail"
+  },
+  {
+    id: 'lesson_2_vocab_a1_21',
+    word: "She often calls her friends.",
+    translation: "Ela frequentemente liga para os amigos dela.",
+    pronunciation: "/ʃi ˈɔfən kɔlz hɜr frɛndz./",
+    portuguesePhonetic: "chi ó-fen cóls rẽr frénds.",
+    syllables: ["She", " of", "ten", " calls", " her", " friends."],
+    exampleSentence: "She often calls her friends.",
+    exampleTranslation: "Ela frequentemente liga para os amigos dela."
+  },
+  {
+    id: 'lesson_2_vocab_a1_22',
+    word: "He never cooks dinner.",
+    translation: "Ele nunca cozinha o jantar.",
+    pronunciation: "/hi ˈnɛvər kʊks ˈdɪnər./",
+    portuguesePhonetic: "ri né-ver cúcs dín-er.",
+    syllables: ["He", " nev", "er", " cooks", " din", "ner."],
+    exampleSentence: "He never cooks dinner.",
+    exampleTranslation: "Ele nunca cozinha o jantar."
+  },
+  {
+    id: 'lesson_2_vocab_a1_23',
+    word: "She does exercise every day.",
+    translation: "Ela faz exercício todos os dias.",
+    pronunciation: "/ʃi dʌz ˈɛksərˌsaɪz ˈɛvri deɪ./",
+    portuguesePhonetic: "chi dâs éc-ser-sáis év-ri dêi.",
+    syllables: ["She", " does", " ex", "er", "cise", " ev", "er", "y", " day."],
+    exampleSentence: "She does exercise every day.",
+    exampleTranslation: "Ela faz exercício todos os dias."
+  },
+  {
+    id: 'lesson_2_vocab_a1_24',
+    word: "US: She goes on vacation every summer. / UK: She goes on holiday every summer.",
+    translation: "EUA: Ela sai de férias todo verão. / Reino Unido: Ela sai de férias todo verão.",
+    pronunciation: "/US: ʃi ɡoʊz ɑn veɪˈkeɪʃən ˈɛvri ˈsʌmər. / UK: ʃi ɡoʊz ɑn ˈhɑləˌdeɪ ˈɛvri ˈsʌmər./",
+    portuguesePhonetic: "US: chi gôus ón vei-quêi-chôn év-ri sâ-mer. / UK: chi gôus ón rá-li-dêi év-ri sâ-mer.",
+    syllables: ["US:", " She", " goes", " on", " va", "ca", "tion", " ev", "er", "y", " sum", "mer.", " /", " UK:", " She", " goes", " on", " hol", "i", "day", " ev", "er", "y", " sum", "mer."],
+    exampleSentence: "US: She goes on vacation every summer. / UK: She goes on holiday every summer.",
+    exampleTranslation: "EUA: Ela sai de férias todo verão. / Reino Unido: Ela sai de férias todo verão."
+  },
+  {
+    id: 'lesson_2_vocab_a1_25',
+    word: "She goes to bed at 10:30 pm.",
+    translation: "Ela vai para a cama às 22h30.",
+    pronunciation: "/ʃi ɡoʊz tu bɛd æt tɛn ˈθɜrti pi ɛm./",
+    portuguesePhonetic: "chi gôus tchu béd ét tén tãr-ti pí ém.",
+    syllables: ["She", " goes", " to", " bed", " at", " 10:30", " pm."],
+    exampleSentence: "She goes to bed at 10:30 pm.",
+    exampleTranslation: "Ela vai para a cama às 22h30."
+  },
+  {
+    id: 'lesson_2_vocab_a1_26',
+    word: "He goes to work very early.",
+    translation: "Ele vai para o trabalho muito cedo.",
+    pronunciation: "/hi ɡoʊz tu wɜrk ˈvɛri ˈɜrli./",
+    portuguesePhonetic: "ri gôus tchu uérc vé-ri ãr-li.",
+    syllables: ["He", " goes", " to", " work", " ver", "y", " ear", "ly."],
+    exampleSentence: "He goes to work very early.",
+    exampleTranslation: "Ele vai para o trabalho muito cedo."
+  },
+  {
+    id: 'lesson_2_vocab_a1_27',
+    word: "For breakfast, she drinks some coffee.",
+    translation: "No café da manhã, ela toma um pouco de café.",
+    pronunciation: "/fɔr ˈbrɛkfəst, ʃi drɪŋks sʌm ˈkɔfi./",
+    portuguesePhonetic: "fór bréc-fest, chi dríncs sâm có-fi.",
+    syllables: ["For", " break", "fast,", " she", " drinks", " some", " cof", "fee."],
+    exampleSentence: "For breakfast, she drinks some coffee.",
+    exampleTranslation: "No café da manhã, ela toma um pouco de café."
+  },
+  {
+    id: 'lesson_2_vocab_a1_28',
+    word: "She eats dinner at 7 pm.",
+    translation: "Ela janta às 19h.",
+    pronunciation: "/ʃi its ˈdɪnər æt ˈsɛvən pi ɛm./",
+    portuguesePhonetic: "chi íts dín-er ét sé-ven pí ém.",
+    syllables: ["She", " eats", " din", "ner", " at", " 7", " pm."],
+    exampleSentence: "She eats dinner at 7 pm.",
+    exampleTranslation: "Ela janta às 19h."
+  },
+  {
+    id: 'lesson_2_vocab_a1_29',
+    word: "She often listens to music.",
+    translation: "Ela frequentemente ouve música.",
+    pronunciation: "/ʃi ˈɔfən ˈlɪsənz tu ˈmjuzɪk./",
+    portuguesePhonetic: "chi ó-fen lí-sens tchu miú-zic.",
+    syllables: ["She", " of", "ten", " lis", "tens", " to", " mu", "sic."],
+    exampleSentence: "She often listens to music.",
+    exampleTranslation: "Ela frequentemente ouve música."
+  },
+  {
+    id: 'lesson_2_vocab_a1_30',
+    word: "He plays football every weekend.",
+    translation: "Ele joga futebol todo fim de semana.",
+    pronunciation: "/hi pleɪz ˈfʊtˌbɔl ˈɛvri ˈwikˌɛnd./",
+    portuguesePhonetic: "ri plêis fut-ból év-ri uíc-énd.",
+    syllables: ["He", " plays", " foot", "ball", " ev", "er", "y", " week", "end."],
+    exampleSentence: "He plays football every weekend.",
+    exampleTranslation: "Ele joga futebol todo fim de semana."
+  },
+  {
+    id: 'lesson_2_vocab_a1_31',
+    word: "She plays the guitar as a hobby.",
+    translation: "Ela toca violão como hobby.",
+    pronunciation: "/ʃi pleɪz ðə ɡɪˈtɑr æz ə ˈhɑbi./",
+    portuguesePhonetic: "chi plêis dâ gui-tár és â ró-bi.",
+    syllables: ["She", " plays", " the", " gui", "tar", " as", " a", " hob", "by."],
+    exampleSentence: "She plays the guitar as a hobby.",
+    exampleTranslation: "Ela toca violão como hobby."
+  },
+  {
+    id: 'lesson_2_vocab_a1_32',
+    word: "He plays video games every day.",
+    translation: "Ele joga videogame todos os dias.",
+    pronunciation: "/hi pleɪz ˈvɪdioʊ ɡeɪmz ˈɛvri deɪ./",
+    portuguesePhonetic: "ri plêis ví-diou guêims év-ri dêi.",
+    syllables: ["He", " plays", " vid", "e", "o", " games", " ev", "er", "y", " day."],
+    exampleSentence: "He plays video games every day.",
+    exampleTranslation: "Ele joga videogame todos os dias."
+  },
+  {
+    id: 'lesson_2_vocab_a1_33',
+    word: "She reads a book before going to bed.",
+    translation: "Ela lê um livro antes de ir para a cama.",
+    pronunciation: "/ʃi ridz ə bʊk bɪˈfɔr ˈɡoʊɪŋ tu bɛd./",
+    portuguesePhonetic: "chi ríds â búc bi-fór gôu-in tchu béd.",
+    syllables: ["She", " reads", " a", " book", " be", "fore", " go", "ing", " to", " bed."],
+    exampleSentence: "She reads a book before going to bed.",
+    exampleTranslation: "Ela lê um livro antes de ir para a cama."
+  },
+  {
+    id: 'lesson_2_vocab_a1_34',
+    word: "Sometimes she calls and sometimes she sends a text.",
+    translation: "Às vezes ela liga e às vezes envia uma mensagem.",
+    pronunciation: "/ˈsʌmˌtaɪmz ʃi kɔlz ænd ˈsʌmˌtaɪmz ʃi sɛndz ə tɛkst./",
+    portuguesePhonetic: "sâm-táims chi cóls énd sâm-táims chi sénds â técst.",
+    syllables: ["Some", "times", " she", " calls", " and", " some", "times", " she", " sends", " a", " text."],
+    exampleSentence: "Sometimes she calls and sometimes she sends a text.",
+    exampleTranslation: "Às vezes ela liga e às vezes envia uma mensagem."
+  },
+  {
+    id: 'lesson_2_vocab_a1_35',
+    word: "He studies English.",
+    translation: "Ele estuda inglês.",
+    pronunciation: "/hi ˈstʌdiz ˈɪŋɡlɪʃ./",
+    portuguesePhonetic: "ri stâ-dis ín-glic.",
+    syllables: ["He", " stud", "ies", " En", "glish."],
+    exampleSentence: "He studies English.",
+    exampleTranslation: "Ele estuda inglês."
+  },
+  {
+    id: 'lesson_2_vocab_a1_36',
+    word: "He often takes photos.",
+    translation: "Ele frequentemente tira fotos.",
+    pronunciation: "/hi ˈɔfən teɪks ˈfoʊtoʊz./",
+    portuguesePhonetic: "ri ó-fen têics fôu-tous.",
+    syllables: ["He", " of", "ten", " takes", " pho", "tos."],
+    exampleSentence: "He often takes photos.",
+    exampleTranslation: "Ele frequentemente tira fotos."
+  },
+  {
+    id: 'lesson_2_vocab_a1_37',
+    word: "He is happy when he visits a museum.",
+    translation: "Ele fica feliz quando visita um museu.",
+    pronunciation: "/hi ɪz ˈhæpi wɛn hi ˈvɪzɪts ə mjuˈziəm./",
+    portuguesePhonetic: "ri íz ré-pi uén ri ví-zits â miu-zí-âm.",
+    syllables: ["He", " is", " hap", "py", " when", " he", " vis", "its", " a", " mu", "se", "um."],
+    exampleSentence: "He is happy when he visits a museum.",
+    exampleTranslation: "Ele fica feliz quando visita um museu."
+  },
+  {
+    id: 'lesson_2_vocab_a1_38',
+    word: "He watches TV after dinner.",
+    translation: "Ele assiste TV depois do jantar.",
+    pronunciation: "/hi ˈwɑtʃəz ˌtiˈvi ˈæftər ˈdɪnər./",
+    portuguesePhonetic: "ri uó-tchez tí-ví éf-ter dín-er.",
+    syllables: ["He", " watch", "es", " TV", " af", "ter", " din", "ner."],
+    exampleSentence: "He watches TV after dinner.",
+    exampleTranslation: "Ele assiste TV depois do jantar."
+  },
+  {
+    id: 'lesson_2_vocab_a1_39',
+    word: "He wears glasses.",
+    translation: "Ele usa óculos.",
+    pronunciation: "/hi wɛrz ˈɡlæsəz./",
+    portuguesePhonetic: "ri uérs glé-sez.",
+    syllables: ["He", " wears", " glass", "es."],
+    exampleSentence: "He wears glasses.",
+    exampleTranslation: "Ele usa óculos."
+  },
+  {
+    id: 'lesson_2_vocab_a1_40',
+    word: "She sends emails to all her friends.",
+    translation: "Ela envia e-mails para todos os amigos dela.",
+    pronunciation: "/ʃi sɛndz ˈiˌmeɪlz tu ɔl hɜr frɛndz./",
+    portuguesePhonetic: "chi sénds i-mêils tchu ól rẽr frénds.",
+    syllables: ["She", " sends", " e", "mails", " to", " all", " her", " friends."],
+    exampleSentence: "She sends emails to all her friends.",
+    exampleTranslation: "Ela envia e-mails para todos os amigos dela."
+  }
+];
+
+export const LESSON_3_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_3_vocab_a1_1',
+    word: "Grandfather",
+    translation: "Avô",
+    pronunciation: "/ˈɡrændˌfɑðər/",
+    portuguesePhonetic: "grénd-fâ-der",
+    syllables: ["grand", "fa", "ther"],
+    exampleSentence: "Grandfather",
+    exampleTranslation: "Avô"
+  },
+  {
+    id: 'lesson_3_vocab_a1_2',
+    word: "Grandmother",
+    translation: "Avó",
+    pronunciation: "/ˈɡrændˌmʌðər/",
+    portuguesePhonetic: "grénd-mâ-der",
+    syllables: ["grand", "moth", "er"],
+    exampleSentence: "Grandmother",
+    exampleTranslation: "Avó"
+  },
+  {
+    id: 'lesson_3_vocab_a1_3',
+    word: "Uncle",
+    translation: "Tio",
+    pronunciation: "/ˈʌŋkəl/",
+    portuguesePhonetic: "ân-col",
+    syllables: ["un", "cle"],
+    exampleSentence: "Uncle",
+    exampleTranslation: "Tio"
+  },
+  {
+    id: 'lesson_3_vocab_a1_4',
+    word: "Aunt",
+    translation: "Tia",
+    pronunciation: "/ænt/",
+    portuguesePhonetic: "ént",
+    syllables: ["aunt"],
+    exampleSentence: "Aunt",
+    exampleTranslation: "Tia"
+  },
+  {
+    id: 'lesson_3_vocab_a1_5',
+    word: "Father",
+    translation: "Pai",
+    pronunciation: "/ˈfɑðər/",
+    portuguesePhonetic: "fâ-der",
+    syllables: ["fa", "ther"],
+    exampleSentence: "Father",
+    exampleTranslation: "Pai"
+  },
+  {
+    id: 'lesson_3_vocab_a1_6',
+    word: "Mother",
+    translation: "Mãe",
+    pronunciation: "/ˈmʌðər/",
+    portuguesePhonetic: "mâ-der",
+    syllables: ["moth", "er"],
+    exampleSentence: "Mother",
+    exampleTranslation: "Mãe"
+  },
+  {
+    id: 'lesson_3_vocab_a1_7',
+    word: "Cousin",
+    translation: "Primo / Prima",
+    pronunciation: "/ˈkʌzən/",
+    portuguesePhonetic: "câ-zen",
+    syllables: ["cous", "in"],
+    exampleSentence: "Cousin",
+    exampleTranslation: "Primo / Prima"
+  },
+  {
+    id: 'lesson_3_vocab_a1_8',
+    word: "Brother",
+    translation: "Irmão",
+    pronunciation: "/ˈbrʌðər/",
+    portuguesePhonetic: "brâ-der",
+    syllables: ["broth", "er"],
+    exampleSentence: "Brother",
+    exampleTranslation: "Irmão"
+  },
+  {
+    id: 'lesson_3_vocab_a1_9',
+    word: "Brother-in-law",
+    translation: "Cunhado",
+    pronunciation: "/ˈbrʌðər ɪn lɔ/",
+    portuguesePhonetic: "brâ-der ín ló",
+    syllables: ["broth", "er", "-in-", "law"],
+    exampleSentence: "Brother-in-law",
+    exampleTranslation: "Cunhado"
+  },
+  {
+    id: 'lesson_3_vocab_a1_10',
+    word: "Sister",
+    translation: "Irmã",
+    pronunciation: "/ˈsɪstər/",
+    portuguesePhonetic: "sís-ter",
+    syllables: ["sis", "ter"],
+    exampleSentence: "Sister",
+    exampleTranslation: "Irmã"
+  },
+  {
+    id: 'lesson_3_vocab_a1_11',
+    word: "Husband",
+    translation: "Marido",
+    pronunciation: "/ˈhʌzbənd/",
+    portuguesePhonetic: "râs-band",
+    syllables: ["hus", "band"],
+    exampleSentence: "Husband",
+    exampleTranslation: "Marido"
+  },
+  {
+    id: 'lesson_3_vocab_a1_12',
+    word: "Wife",
+    translation: "Esposa",
+    pronunciation: "/waɪf/",
+    portuguesePhonetic: "uáif",
+    syllables: ["wife"],
+    exampleSentence: "Wife",
+    exampleTranslation: "Esposa"
+  },
+  {
+    id: 'lesson_3_vocab_a1_13',
+    word: "Nephew",
+    translation: "Sobrinho",
+    pronunciation: "/ˈnɛfju/",
+    portuguesePhonetic: "né-fiu",
+    syllables: ["neph", "ew"],
+    exampleSentence: "Nephew",
+    exampleTranslation: "Sobrinho"
+  },
+  {
+    id: 'lesson_3_vocab_a1_14',
+    word: "Niece",
+    translation: "Sobrinha",
+    pronunciation: "/nis/",
+    portuguesePhonetic: "nis",
+    syllables: ["niece"],
+    exampleSentence: "Niece",
+    exampleTranslation: "Sobrinha"
+  },
+  {
+    id: 'lesson_3_vocab_a1_15',
+    word: "Son",
+    translation: "Filho",
+    pronunciation: "/sʌn/",
+    portuguesePhonetic: "sân",
+    syllables: ["son"],
+    exampleSentence: "Son",
+    exampleTranslation: "Filho"
+  },
+  {
+    id: 'lesson_3_vocab_a1_16',
+    word: "Daughter",
+    translation: "Filha",
+    pronunciation: "/ˈdɔtər/",
+    portuguesePhonetic: "dó-ter",
+    syllables: ["daugh", "ter"],
+    exampleSentence: "Daughter",
+    exampleTranslation: "Filha"
+  },
+  {
+    id: 'lesson_3_vocab_a1_17',
+    word: "My mother's sister is my aunt.",
+    translation: "A irmã da minha mãe é minha tia.",
+    pronunciation: "/maɪ ˈmʌðərz ˈsɪstər ɪz maɪ ænt./",
+    portuguesePhonetic: "mai mâ-ders sís-ter íz mai ént.",
+    syllables: ["My", " moth", "er's", " sis", "ter", " is", " my", " aunt."],
+    exampleSentence: "My mother's sister is my aunt.",
+    exampleTranslation: "A irmã da minha mãe é minha tia."
+  },
+  {
+    id: 'lesson_3_vocab_a1_18',
+    word: "My mother's brother is my uncle.",
+    translation: "O irmão da minha mãe é meu tio.",
+    pronunciation: "/maɪ ˈmʌðərz ˈbrʌðər ɪz maɪ ˈʌŋkəl./",
+    portuguesePhonetic: "mai mâ-ders brâ-der íz mai ân-col.",
+    syllables: ["My", " moth", "er's", " broth", "er", " is", " my", " un", "cle."],
+    exampleSentence: "My mother's brother is my uncle.",
+    exampleTranslation: "O irmão da minha mãe é meu tio."
+  },
+  {
+    id: 'lesson_3_vocab_a1_19',
+    word: "My father's mother is my grandmother / grandma.",
+    translation: "A mãe do meu pai é minha avó.",
+    pronunciation: "/maɪ ˈfɑðərz ˈmʌðər ɪz maɪ ˈɡrændˌmʌðər / ˈɡrændˌmɑ./",
+    portuguesePhonetic: "mai fâ-ders mâ-der íz mai grénd-mâ-der / grénd-mâ.",
+    syllables: ["My", " fa", "ther's", " moth", "er", " is", " My", " grand", "moth", "er", " /", " grand", "ma."],
+    exampleSentence: "My father's mother is my grandmother / grandma.",
+    exampleTranslation: "A mãe do meu pai é minha avó."
+  },
+  {
+    id: 'lesson_3_vocab_a1_20',
+    word: "My uncle's child is my cousin.",
+    translation: "O filho / a filha do meu tio é meu primo / minha prima.",
+    pronunciation: "/maɪ ˈʌŋkəlz tʃaɪld ɪz maɪ ˈkʌzən./",
+    portuguesePhonetic: "mai ân-cols tcháild íz mai câ-zen.",
+    syllables: ["My", " un", "cle's", " child", " is", " my", " cous", "in."],
+    exampleSentence: "My uncle's child is my cousin.",
+    exampleTranslation: "O filho / a filha do meu tio é meu primo / minha prima."
+  },
+  {
+    id: 'lesson_3_vocab_a1_21',
+    word: "My sister's husband is my brother-in-law.",
+    translation: "O marido da minha irmã é meu cunhado.",
+    pronunciation: "/maɪ ˈsɪstərz ˈhʌzbənd ɪz maɪ ˈbrʌðər ɪn lɔ./",
+    portuguesePhonetic: "mai sís-ters râs-band íz mai brâ-der ín ló.",
+    syllables: ["My", " sis", "ter's", " hus", "band", " is", " my", " broth", "er", "-in-", "law."],
+    exampleSentence: "My sister's husband is my brother-in-law.",
+    exampleTranslation: "O marido da minha irmã é meu cunhado."
+  },
+  {
+    id: 'lesson_3_vocab_a1_22',
+    word: "My sister's daughter is my niece.",
+    translation: "A filha da minha irmã é minha sobrinha.",
+    pronunciation: "/maɪ ˈsɪstərz ˈdɔtər ɪz maɪ nis./",
+    portuguesePhonetic: "mai sís-ters dó-ter íz mai nis.",
+    syllables: ["My", " sis", "ter's", " daugh", "ter", " is", " my", " niece."],
+    exampleSentence: "My sister's daughter is my niece.",
+    exampleTranslation: "A filha da minha irmã é minha sobrinha."
+  },
+  {
+    id: 'lesson_3_vocab_a1_23',
+    word: "My brother's son is my nephew.",
+    translation: "O filho do meu irmão é meu sobrinho.",
+    pronunciation: "/maɪ ˈbrʌðərz sʌn ɪz maɪ ˈnɛfju./",
+    portuguesePhonetic: "mai brâ-ders sân íz mai né-fiu.",
+    syllables: ["My", " broth", "er's", " son", " is", " my", " neph", "ew."],
+    exampleSentence: "My brother's son is my nephew.",
+    exampleTranslation: "O filho do meu irmão é meu sobrinho."
+  },
+  {
+    id: 'lesson_3_vocab_a1_24',
+    word: "The woman I am married to is my wife.",
+    translation: "A mulher com quem sou casado é minha esposa.",
+    pronunciation: "/ðə ˈwʊmən aɪ æm ˈmærid tu ɪz maɪ waɪf./",
+    portuguesePhonetic: "dâ uú-man ai ém mé-rid tchu íz mai uáif.",
+    syllables: ["The", " wom", "an", " I", " am", " mar", "ried", " to", " is", " my", " wife."],
+    exampleSentence: "The woman I am married to is my wife.",
+    exampleTranslation: "A mulher com quem sou casado é minha esposa."
+  },
+  {
+    id: 'lesson_3_vocab_a1_25',
+    word: "My father is my mother's husband.",
+    translation: "Meu pai é o marido da minha mãe.",
+    pronunciation: "/maɪ ˈfɑðər ɪz maɪ ˈmʌðərz ˈhʌzbənd./",
+    portuguesePhonetic: "mai fâ-der íz mai mâ-ders râs-band.",
+    syllables: ["My", " fa", "ther", " is", " my", " moth", "er's", " hus", "band."],
+    exampleSentence: "My father is my mother's husband.",
+    exampleTranslation: "Meu pai é o marido da minha mãe."
+  },
+  {
+    id: 'lesson_3_vocab_a1_26',
+    word: "My female sibling is my sister.",
+    translation: "Minha irmã, ou minha parente mulher do mesmo pai e/ou mãe, é minha irmã.",
+    pronunciation: "/maɪ ˈfiˌmeɪl ˈsɪblɪŋ ɪz maɪ ˈsɪstər./",
+    portuguesePhonetic: "mai fí-mêil sí-blin íz mai sís-ter.",
+    syllables: ["My", " fe", "male", " sib", "ling", " is", " my", " sis", "ter."],
+    exampleSentence: "My female sibling is my sister.",
+    exampleTranslation: "Minha irmã, ou minha parente mulher do mesmo pai e/ou mãe, é minha irmã."
+  }
+];
+
+export const LESSON_4_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_4_vocab_a1_1',
+    word: "Happy",
+    translation: "Feliz",
+    pronunciation: "/ˈhæpi/",
+    portuguesePhonetic: "ré-pi",
+    syllables: ["hap", "py"],
+    exampleSentence: "Happy",
+    exampleTranslation: "Feliz"
+  },
+  {
+    id: 'lesson_4_vocab_a1_2',
+    word: "Sad",
+    translation: "Triste",
+    pronunciation: "/sæd/",
+    portuguesePhonetic: "séd",
+    syllables: ["sad"],
+    exampleSentence: "Sad",
+    exampleTranslation: "Triste"
+  },
+  {
+    id: 'lesson_4_vocab_a1_3',
+    word: "Tall",
+    translation: "Alto",
+    pronunciation: "/tɔl/",
+    portuguesePhonetic: "tól",
+    syllables: ["tall"],
+    exampleSentence: "Tall",
+    exampleTranslation: "Alto"
+  },
+  {
+    id: 'lesson_4_vocab_a1_4',
+    word: "Short",
+    translation: "Baixo",
+    pronunciation: "/ʃɔrt/",
+    portuguesePhonetic: "chórt",
+    syllables: ["short"],
+    exampleSentence: "Short",
+    exampleTranslation: "Baixo"
+  },
+  {
+    id: 'lesson_4_vocab_a1_5',
+    word: "Young",
+    translation: "Jovem",
+    pronunciation: "/jʌŋ/",
+    portuguesePhonetic: "iân",
+    syllables: ["young"],
+    exampleSentence: "Young",
+    exampleTranslation: "Jovem"
+  },
+  {
+    id: 'lesson_4_vocab_a1_6',
+    word: "Old",
+    translation: "Velho / idoso",
+    pronunciation: "/oʊld/",
+    portuguesePhonetic: "ôuld",
+    syllables: ["old"],
+    exampleSentence: "Old",
+    exampleTranslation: "Velho / idoso"
+  },
+  {
+    id: 'lesson_4_vocab_a1_7',
+    word: "Strong",
+    translation: "Forte",
+    pronunciation: "/strɔŋ/",
+    portuguesePhonetic: "strón",
+    syllables: ["strong"],
+    exampleSentence: "Strong",
+    exampleTranslation: "Forte"
+  },
+  {
+    id: 'lesson_4_vocab_a1_8',
+    word: "Weak",
+    translation: "Fraco",
+    pronunciation: "/wik/",
+    portuguesePhonetic: "uíc",
+    syllables: ["weak"],
+    exampleSentence: "Weak",
+    exampleTranslation: "Fraco"
+  },
+  {
+    id: 'lesson_4_vocab_a1_9',
+    word: "Fat",
+    translation: "Gordo",
+    pronunciation: "/fæt/",
+    portuguesePhonetic: "fét",
+    syllables: ["fat"],
+    exampleSentence: "Fat",
+    exampleTranslation: "Gordo"
+  },
+  {
+    id: 'lesson_4_vocab_a1_10',
+    word: "Thin",
+    translation: "Magro",
+    pronunciation: "/θɪn/",
+    portuguesePhonetic: "tín",
+    syllables: ["thin"],
+    exampleSentence: "Thin",
+    exampleTranslation: "Magro"
+  },
+  {
+    id: 'lesson_4_vocab_a1_11',
+    word: "Beautiful",
+    translation: "Bonita / bonito",
+    pronunciation: "/ˈbjutəfəl/",
+    portuguesePhonetic: "biú-te-fol",
+    syllables: ["beau", "ti", "ful"],
+    exampleSentence: "Beautiful",
+    exampleTranslation: "Bonita / bonito"
+  },
+  {
+    id: 'lesson_4_vocab_a1_12',
+    word: "Ugly",
+    translation: "Feio / feia",
+    pronunciation: "/ˈʌɡli/",
+    portuguesePhonetic: "â-gli",
+    syllables: ["ug", "ly"],
+    exampleSentence: "Ugly",
+    exampleTranslation: "Feio / feia"
+  },
+  {
+    id: 'lesson_4_vocab_a1_13',
+    word: "Big",
+    translation: "Grande",
+    pronunciation: "/bɪɡ/",
+    portuguesePhonetic: "bíg",
+    syllables: ["big"],
+    exampleSentence: "Big",
+    exampleTranslation: "Grande"
+  },
+  {
+    id: 'lesson_4_vocab_a1_14',
+    word: "Small",
+    translation: "Pequeno",
+    pronunciation: "/smɔl/",
+    portuguesePhonetic: "smól",
+    syllables: ["small"],
+    exampleSentence: "Small",
+    exampleTranslation: "Pequeno"
+  },
+  {
+    id: 'lesson_4_vocab_a1_15',
+    word: "Hot",
+    translation: "Quente",
+    pronunciation: "/hɑt/",
+    portuguesePhonetic: "rót",
+    syllables: ["hot"],
+    exampleSentence: "Hot",
+    exampleTranslation: "Quente"
+  },
+  {
+    id: 'lesson_4_vocab_a1_16',
+    word: "Cold",
+    translation: "Frio / gelado",
+    pronunciation: "/koʊld/",
+    portuguesePhonetic: "côuld",
+    syllables: ["cold"],
+    exampleSentence: "Cold",
+    exampleTranslation: "Frio / gelado"
+  },
+  {
+    id: 'lesson_4_vocab_a1_17',
+    word: "Slow",
+    translation: "Devagar / lento",
+    pronunciation: "/sloʊ/",
+    portuguesePhonetic: "slôu",
+    syllables: ["slow"],
+    exampleSentence: "Slow",
+    exampleTranslation: "Devagar / lento"
+  },
+  {
+    id: 'lesson_4_vocab_a1_18',
+    word: "Fast",
+    translation: "Rápido",
+    pronunciation: "/fæst/",
+    portuguesePhonetic: "fést",
+    syllables: ["fast"],
+    exampleSentence: "Fast",
+    exampleTranslation: "Rápido"
+  },
+  {
+    id: 'lesson_4_vocab_a1_19',
+    word: "Good",
+    translation: "Bom",
+    pronunciation: "/ɡʊd/",
+    portuguesePhonetic: "gúd",
+    syllables: ["good"],
+    exampleSentence: "Good",
+    exampleTranslation: "Bom"
+  },
+  {
+    id: 'lesson_4_vocab_a1_20',
+    word: "Bad",
+    translation: "Ruim / mau",
+    pronunciation: "/bæd/",
+    portuguesePhonetic: "béd",
+    syllables: ["bad"],
+    exampleSentence: "Bad",
+    exampleTranslation: "Ruim / mau"
+  },
+  {
+    id: 'lesson_4_vocab_a1_21',
+    word: "Heavy",
+    translation: "Pesado",
+    pronunciation: "/ˈhɛvi/",
+    portuguesePhonetic: "ré-vi",
+    syllables: ["heav", "y"],
+    exampleSentence: "Heavy",
+    exampleTranslation: "Pesado"
+  },
+  {
+    id: 'lesson_4_vocab_a1_22',
+    word: "Light",
+    translation: "Leve",
+    pronunciation: "/laɪt/",
+    portuguesePhonetic: "láit",
+    syllables: ["light"],
+    exampleSentence: "Light",
+    exampleTranslation: "Leve"
+  },
+  {
+    id: 'lesson_4_vocab_a1_23',
+    word: "Hard",
+    translation: "Duro",
+    pronunciation: "/hɑrd/",
+    portuguesePhonetic: "rárd",
+    syllables: ["hard"],
+    exampleSentence: "Hard",
+    exampleTranslation: "Duro"
+  },
+  {
+    id: 'lesson_4_vocab_a1_24',
+    word: "Soft",
+    translation: "Macio",
+    pronunciation: "/sɔft/",
+    portuguesePhonetic: "sóft",
+    syllables: ["soft"],
+    exampleSentence: "Soft",
+    exampleTranslation: "Macio"
+  },
+  {
+    id: 'lesson_4_vocab_a1_25',
+    word: "Thick",
+    translation: "Grosso",
+    pronunciation: "/θɪk/",
+    portuguesePhonetic: "tíc",
+    syllables: ["thick"],
+    exampleSentence: "Thick",
+    exampleTranslation: "Grosso"
+  },
+  {
+    id: 'lesson_4_vocab_a1_26',
+    word: "Thin",
+    translation: "Fino",
+    pronunciation: "/θɪn/",
+    portuguesePhonetic: "tín",
+    syllables: ["thin"],
+    exampleSentence: "Thin",
+    exampleTranslation: "Fino"
+  },
+  {
+    id: 'lesson_4_vocab_a1_27',
+    word: "Full",
+    translation: "Cheio",
+    pronunciation: "/fʊl/",
+    portuguesePhonetic: "fúl",
+    syllables: ["full"],
+    exampleSentence: "Full",
+    exampleTranslation: "Cheio"
+  },
+  {
+    id: 'lesson_4_vocab_a1_28',
+    word: "Empty",
+    translation: "Vazio",
+    pronunciation: "/ˈɛmpti/",
+    portuguesePhonetic: "ém-p-ti",
+    syllables: ["emp", "ty"],
+    exampleSentence: "Empty",
+    exampleTranslation: "Vazio"
+  },
+  {
+    id: 'lesson_4_vocab_a1_29',
+    word: "Clean",
+    translation: "Limpo",
+    pronunciation: "/klin/",
+    portuguesePhonetic: "clín",
+    syllables: ["clean"],
+    exampleSentence: "Clean",
+    exampleTranslation: "Limpo"
+  },
+  {
+    id: 'lesson_4_vocab_a1_30',
+    word: "Dirty",
+    translation: "Sujo",
+    pronunciation: "/ˈdɜrti/",
+    portuguesePhonetic: "dãr-ti",
+    syllables: ["dir", "ty"],
+    exampleSentence: "Dirty",
+    exampleTranslation: "Sujo"
+  },
+  {
+    id: 'lesson_4_vocab_a1_31',
+    word: "Dim",
+    translation: "Escuro / com pouca luz",
+    pronunciation: "/dɪm/",
+    portuguesePhonetic: "dím",
+    syllables: ["dim"],
+    exampleSentence: "Dim",
+    exampleTranslation: "Escuro / com pouca luz"
+  },
+  {
+    id: 'lesson_4_vocab_a1_32',
+    word: "Bright",
+    translation: "Claro / iluminado",
+    pronunciation: "/braɪt/",
+    portuguesePhonetic: "bráit",
+    syllables: ["bright"],
+    exampleSentence: "Bright",
+    exampleTranslation: "Claro / iluminado"
+  },
+  {
+    id: 'lesson_4_vocab_a1_33',
+    word: "Expensive",
+    translation: "Caro",
+    pronunciation: "/ɪkˈspɛnsɪv/",
+    portuguesePhonetic: "ecs-pén-siv",
+    syllables: ["ex", "pen", "sive"],
+    exampleSentence: "Expensive",
+    exampleTranslation: "Caro"
+  },
+  {
+    id: 'lesson_4_vocab_a1_34',
+    word: "Cheap",
+    translation: "Barato",
+    pronunciation: "/tʃip/",
+    portuguesePhonetic: "tchíp",
+    syllables: ["cheap"],
+    exampleSentence: "Cheap",
+    exampleTranslation: "Barato"
+  },
+  {
+    id: 'lesson_4_vocab_a1_35',
+    word: "Long",
+    translation: "Longo / comprido",
+    pronunciation: "/lɔŋ/",
+    portuguesePhonetic: "lón",
+    syllables: ["long"],
+    exampleSentence: "Long",
+    exampleTranslation: "Longo / comprido"
+  },
+  {
+    id: 'lesson_4_vocab_a1_36',
+    word: "Short",
+    translation: "Curto",
+    pronunciation: "/ʃɔrt/",
+    portuguesePhonetic: "chórt",
+    syllables: ["short"],
+    exampleSentence: "Short",
+    exampleTranslation: "Curto"
+  },
+  {
+    id: 'lesson_4_vocab_a1_37',
+    word: "I’m happy when I spend time with my family, and I’m sad when I fail an exam.",
+    translation: "Eu fico feliz quando passo tempo com minha família, e fico triste quando reprovo em uma prova.",
+    pronunciation: "/aɪm ˈhæpi wɛn aɪ spɛnd taɪm wɪð maɪ ˈfæməli, ænd aɪm sæd wɛn aɪ feɪl ən ɪɡˈzæm./",
+    portuguesePhonetic: "aim ré-pi uén ai spénd táim uíd mai fé-mi-li, énd aim séd uén ai fêil ân ecs-ém.",
+    syllables: ["I'm", " hap", "py", " when", " I", " spend", " time", " with", " my", " fam", "i", "ly,", " and", " I'm", " sad", " when", " I", " fail", " an", " ex", "am."],
+    exampleSentence: "I’m happy when I spend time with my family, and I’m sad when I fail an exam.",
+    exampleTranslation: "Eu fico feliz quando passo tempo com minha família, e fico triste quando reprovo em uma prova."
+  },
+  {
+    id: 'lesson_4_vocab_a1_38',
+    word: "Tom is tall; he is 6 feet 3 inches. Peter is short; he is 5 feet 4 inches.",
+    translation: "Tom é alto; ele tem 6 pés e 3 polegadas. Peter é baixo; ele tem 5 pés e 4 polegadas.",
+    pronunciation: "/tɑm ɪz tɔl; hi ɪz sɪks fit θri ˈɪntʃəz. ˈpitər ɪz ʃɔrt; hi ɪz faɪv fit fɔr ˈɪntʃəz./",
+    portuguesePhonetic: "tóm íz tól; ri íz sics fít srrí ín-tches. pí-ter íz chórt; ri íz fáiv fít fór ín-tches.",
+    syllables: ["Tom", " is", " tall;", " he", " is", " 6", " feet", " 3", " inch", "es.", " Pe", "ter", " is", " short;", " he", " is", " 5", " feet", " 4", " inch", "es."],
+    exampleSentence: "Tom is tall; he is 6 feet 3 inches. Peter is short; he is 5 feet 4 inches.",
+    exampleTranslation: "Tom é alto; ele tem 6 pés e 3 polegadas. Peter é baixo; ele tem 5 pés e 4 polegadas."
+  },
+  {
+    id: 'lesson_4_vocab_a1_39',
+    word: "I’m young; I’m 26. However, my grandad is very old; he is 92.",
+    translation: "Eu sou jovem; tenho 26 anos. No entanto, meu avô é muito velho; ele tem 92 anos.",
+    pronunciation: "/aɪm jʌŋ; aɪm ˈtwɛnti sɪks. haʊˈɛvər, maɪ ˈɡrænˌdæd ɪz ˈvɛri oʊld; hi ɪz ˈnaɪnti tu./",
+    portuguesePhonetic: "aim iân; aim tûên-ti sics. rau-é-ver, mai grén-déd íz vé-ri ôuld; ri íz náin-ti tchu.",
+    syllables: ["I'm", " young;", " I'm", " 26.", " How", "ev", "er,", " my", " grand", "dad", " is", " ver", "y", " old;", " he", " is", " 92."],
+    exampleSentence: "I’m young; I’m 26. However, my grandad is very old; he is 92.",
+    exampleTranslation: "Eu sou jovem; tenho 26 anos. No entanto, meu avô é muito velho; ele tem 92 anos."
+  },
+  {
+    id: 'lesson_4_vocab_a1_40',
+    word: "Carlos is very strong; he goes to the gym every day. Richard is weak, he hardly ever does exercise.",
+    translation: "Carlos é muito forte; ele vai à academia todos os dias. Richard é fraco, ele quase nunca faz exercício.",
+    pronunciation: "/ˈkɑrloʊs ɪz ˈvɛri strɔŋ; hi ɡoʊz tu ðə dʒɪm ˈɛvri deɪ. ˈrɪtʃərd ɪz wik, hi ˈhɑrdli ˈɛvər dʌz ˈɛksərˌsaɪz./",
+    portuguesePhonetic: "cár-los íz vé-ri strón; ri gôus tchu dâ djím év-ri dêi. rí-tcherd íz uíc, ri rárd-li é-ver dâs éc-ser-sáis.",
+    syllables: ["Car", "los", " is", " ver", "y", " strong;", " he", " goes", " to", " the", " gym", " ev", "ery", " day.", " Rich", "ard", " is", " weak,", " he", " hard", "ly", " ev", "er", " does", " ex", "er", "cise."],
+    exampleSentence: "Carlos is very strong; he goes to the gym every day. Richard is weak, he hardly ever does exercise.",
+    exampleTranslation: "Carlos é muito forte; ele vai à academia todos os dias. Richard é fraco, ele quase nunca faz exercício."
+  },
+  {
+    id: 'lesson_4_vocab_a1_41',
+    word: "David is fat; he eats a lot. Maria is thin; she needs to eat more.",
+    translation: "David é gordo; ele come muito. Maria é magra; ela precisa comer mais.",
+    pronunciation: "/ˈdeɪvɪd ɪz fæt; hi its ə lɑt. məˈriə ɪz θɪn; ʃi nidz tu it mɔr./",
+    portuguesePhonetic: "dêi-vid íz fét; ri íts â lót. ma-rí-â íz tín; chi níds tchu ít mór.",
+    syllables: ["Da", "vid", " is", " fat;", " he", " eats", " a", " lot.", " Ma", "ri", "a", " is", " thin;", " she", " needs", " to", " eat", " more."],
+    exampleSentence: "David is fat; he eats a lot. Maria is thin; she needs to eat more.",
+    exampleTranslation: "David é gordo; ele come muito. Maria é magra; ela precisa comer mais."
+  },
+  {
+    id: 'lesson_4_vocab_a1_42',
+    word: "She is a beautiful model, but her cousin is very ugly.",
+    translation: "Ela é uma modelo bonita, mas a prima dela é muito feia.",
+    pronunciation: "/ʃi ɪz ə ˈbjutəfəl ˈmɑdəl, bʌt hɜr ˈkʌzən ɪz ˈvɛri ˈʌɡli./",
+    portuguesePhonetic: "chi íz â biú-te-fol mó-del, bât rẽr câ-zen íz vé-ri â-gli.",
+    syllables: ["She", " is", " a", " beau", "ti", "ful", " mod", "el,", " but", " her", " cous", "in", " is", " ver", "y", " ug", "ly."],
+    exampleSentence: "She is a beautiful model, but her cousin is very ugly.",
+    exampleTranslation: "Ela é uma modelo bonita, mas a prima dela é muito feia."
+  },
+  {
+    id: 'lesson_4_vocab_a1_43',
+    word: "The elephant is big, and the mosquito is small.",
+    translation: "O elefante é grande, e o mosquito é pequeno.",
+    pronunciation: "/ðə ˈɛləfənt ɪz bɪɡ, ænd ðə məˈskitoʊ ɪz smɔl./",
+    portuguesePhonetic: "dâ é-li-fãnt íz bíg, énd dâ mos-quí-tou íz smól.",
+    syllables: ["The", " el", "e", "phant", " is", " big,", " and", " the", " mos", "qui", "to", " is", " small."],
+    exampleSentence: "The elephant is big, and the mosquito is small.",
+    exampleTranslation: "O elefante é grande, e o mosquito é pequeno."
+  },
+  {
+    id: 'lesson_4_vocab_a1_44',
+    word: "The coffee is hot, and the sodas are cold.",
+    translation: "O café está quente, e os refrigerantes estão gelados.",
+    pronunciation: "/ðə ˈkɔfi ɪz hɑt, ænd ðə ˈsoʊdəz ɑr koʊld./",
+    portuguesePhonetic: "dâ có-fi íz rót, énd dâ sôu-das ár côuld.",
+    syllables: ["The", " cof", "fee", " is", " hot,", " and", " the", " so", "das", " are", " cold."],
+    exampleSentence: "The coffee is hot, and the sodas are cold.",
+    exampleTranslation: "O café está quente, e os refrigerantes estão gelados."
+  },
+  {
+    id: 'lesson_4_vocab_a1_45',
+    word: "The tortoise is slow, and the car is fast.",
+    translation: "A tartaruga é lenta, e o carro é rápido.",
+    pronunciation: "/ðə ˈtɔrtəs ɪz sloʊ, ænd ðə kɑr ɪz fæst./",
+    portuguesePhonetic: "dâ tór-tâs íz slôu, énd dâ cár íz fést.",
+    syllables: ["The", " tor", "toise", " is", " slow,", " and", " the", " car", " is", " fast."],
+    exampleSentence: "The tortoise is slow, and the car is fast.",
+    exampleTranslation: "A tartaruga é lenta, e o carro é rápido."
+  },
+  {
+    id: 'lesson_4_vocab_a1_46',
+    word: "Vegetables and eggs are good for you, and fast food and smoking are bad.",
+    translation: "Vegetais e ovos fazem bem para você, e fast food e fumar fazem mal.",
+    pronunciation: "/ˈvɛdʒtəbəlz ænd ɛɡz ɑr ɡʊd fɔr ju, ænd fæst fud ænd ˈsmoʊkɪŋ ɑr bæd./",
+    portuguesePhonetic: "vétch-tâ-bols énd égs ár gúd fór iú, énd fést fúd énd smôu-quin ár béd.",
+    syllables: ["Veg", "e", "ta", "bles", " and", " eggs", " are", " good", " for", " you,", " and", " fast", " food", " and", " smok", "ing", " are", " bad."],
+    exampleSentence: "Vegetables and eggs are good for you, and fast food and smoking are bad.",
+    exampleTranslation: "Vegetais e ovos fazem bem para você, e fast food e fumar fazem mal."
+  },
+  {
+    id: 'lesson_4_vocab_a1_47',
+    word: "The rock is very heavy, and the feather is light.",
+    translation: "A pedra é muito pesada, e a pena é leve.",
+    pronunciation: "/ðə rɑk ɪz ˈvɛri ˈhɛvi, ænd ðə ˈfɛðər ɪz laɪt./",
+    portuguesePhonetic: "dâ róc íz vé-ri ré-vi, énd dâ fé-der íz láit.",
+    syllables: ["The", " rock", " is", " ver", "y", " heav", "y,", " and", " the", " feath", "er", " is", " light."],
+    exampleSentence: "The rock is very heavy, and the feather is light.",
+    exampleTranslation: "A pedra é muito pesada, e a pena é leve."
+  },
+  {
+    id: 'lesson_4_vocab_a1_48',
+    word: "The rocks are hard, and the cushions are soft.",
+    translation: "As pedras são duras, e as almofadas são macias.",
+    pronunciation: "/ðə rɑks ɑr hɑrd, ænd ðə ˈkʊʃənz ɑr sɔft./",
+    portuguesePhonetic: "dâ rōcs ár rárd, énd dâ cú-chôns ár sóft.",
+    syllables: ["The", " rocks", " are", " hard,", " and", " the", " cush", "ions", " are", " soft."],
+    exampleSentence: "The rocks are hard, and the cushions are soft.",
+    exampleTranslation: "As pedras são duras, e as almofadas são macias."
+  },
+  {
+    id: 'lesson_4_vocab_a1_49',
+    word: "The first pencil is thick, and the second pencil is thin.",
+    translation: "O primeiro lápis é grosso, e o segundo lápis é fino.",
+    pronunciation: "/ðə fɜrst ˈpɛnsəl ɪz θɪk, ænd ðə ˈsɛkənd ˈpɛnsəl ɪz θɪn./",
+    portuguesePhonetic: "dâ fãrst pén-sol íz tíc, énd dâ sé-cond pén-sol íz tín.",
+    syllables: ["The", " first", " pen", "cil", " is", " thick,", " and", " the", " sec", "ond", " pen", "cil", " is", " thin."],
+    exampleSentence: "The first pencil is thick, and the second pencil is thin.",
+    exampleTranslation: "O primeiro lápis é grosso, e o segundo lápis é fino."
+  },
+  {
+    id: 'lesson_4_vocab_a1_50',
+    word: "The first glass is full and the second glass is empty.",
+    translation: "O primeiro copo está cheio, e o segundo copo está vazio.",
+    pronunciation: "/ðə fɜrst ɡlæs ɪz fʊl ænd ðə ˈsɛkənd ɡlæs ɪz ˈɛmpti./",
+    portuguesePhonetic: "dâ fãrst glés íz fúl énd dâ sé-cond glés íz ém-p-ti.",
+    syllables: ["The", " first", " glass", " is", " full", " and", " the", " sec", "ond", " glass", " is", " emp", "ty."],
+    exampleSentence: "The first glass is full and the second glass is empty.",
+    exampleTranslation: "O primeiro copo está cheio, e o segundo copo está vazio."
+  },
+  {
+    id: 'lesson_4_vocab_a1_51',
+    word: "The first bathroom is clean, and the second bathroom is dirty.",
+    translation: "O primeiro banheiro está limpo, e o segundo banheiro está sujo.",
+    pronunciation: "/ðə fɜrst ˈbæθˌrum ɪz klin, ænd ðə ˈsɛkənd ˈbæθˌrum ɪz ˈdɜrti./",
+    portuguesePhonetic: "dâ fãrst béth-rum íz clín, énd dâ sé-cond béth-rum íz dãr-ti.",
+    syllables: ["The", " first", " bath", "room", " is", " clean,", " and", " the", " sec", "ond", " bath", "room", " is", " dir", "ty."],
+    exampleSentence: "The first bathroom is clean, and the second bathroom is dirty.",
+    exampleTranslation: "O primeiro banheiro está limpo, e o segundo banheiro está sujo."
+  },
+  {
+    id: 'lesson_4_vocab_a1_52',
+    word: "The first room is dim, there is no light. The second room is bright.",
+    translation: "O primeiro cômodo está escuro, não há luz. O segundo cômodo está claro.",
+    pronunciation: "/ðə fɜrst rum ɪz dɪm, ðɛr ɪz noʊ laɪt. ðə ˈsɛkənd rum ɪz braɪt./",
+    portuguesePhonetic: "dâ fãrst rúm íz dím, dér íz nôu láit. dâ sé-cond rúm íz bráit.",
+    syllables: ["The", " first", " room", " is", " dim,", " there", " is", " no", " light.", " The", " sec", "ond", " room", " is", " bright."],
+    exampleSentence: "The first room is dim, there is no light. The second room is bright.",
+    exampleTranslation: "O primeiro cômodo está escuro, não há luz. O segundo cômodo está claro."
+  },
+  {
+    id: 'lesson_4_vocab_a1_53',
+    word: "The car is expensive; it costs a lot of money. The scooter is cheap.",
+    translation: "O carro é caro; ele custa muito dinheiro. O patinete é barato.",
+    pronunciation: "/ðə kɑr ɪz ɪkˈspɛnsɪv; ɪt kɑsts ə lɑt ʌv ˈmʌni. ðə ˈskutər ɪz tʃip./",
+    portuguesePhonetic: "dâ cár íz ecs-pén-siv; ít cósts â lót âv mâ-ni. dâ scú-ter íz tchíp.",
+    syllables: ["The", " car", " is", " ex", "pen", "sive;", " it", " costs", " a", " lot", " of", " mon", "ey.", " The", " scoot", "er", " is", " cheap."],
+    exampleSentence: "The car is expensive; it costs a lot of money. The scooter is cheap.",
+    exampleTranslation: "O carro é caro; ele custa muito dinheiro. O patinete é barato."
+  },
+  {
+    id: 'lesson_4_vocab_a1_54',
+    word: "The purple nails are long, but the nails in the second picture are short.",
+    translation: "As unhas roxas são longas, mas as unhas na segunda imagem são curtas.",
+    pronunciation: "/ðə ˈpɜrpəl neɪlz ɑr lɔŋ, bʌt ðə neɪlz ɪn ðə ˈsɛkənd ˈpɪktʃər ɑr ʃɔrt./",
+    portuguesePhonetic: "dâ dãr-pol nêils ár lón, bât dâ nêils ín dâ sé-cond píc-tcher ár chórt.",
+    syllables: ["The", " pur", "ple", " nails", " are", " long,", " but", " the", " nails", " in", " the", " sec", "ond", " pic", "ture", " are", " short."],
+    exampleSentence: "The purple nails are long, but the nails in the second picture are short.",
+    exampleTranslation: "As unhas roxas são longas, mas as unhas na segunda imagem são curtas."
+  }
+];
+
+export const LESSON_5_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_5_vocab_a1_1',
+    word: "Wake up",
+    translation: "Acordar",
+    pronunciation: "/weɪk ʌp/",
+    portuguesePhonetic: "uêic áp",
+    syllables: ["wake", " up"],
+    exampleSentence: "Wake up",
+    exampleTranslation: "Acordar"
+  },
+  {
+    id: 'lesson_5_vocab_a1_2',
+    word: "Get up",
+    translation: "Levantar-se",
+    pronunciation: "/ɡɛt ʌp/",
+    portuguesePhonetic: "guét áp",
+    syllables: ["get", " up"],
+    exampleSentence: "Get up",
+    exampleTranslation: "Levantar-se"
+  },
+  {
+    id: 'lesson_5_vocab_a1_3',
+    word: "Brush my teeth",
+    translation: "Escovar meus dentes",
+    pronunciation: "/brʌʃ maɪ tiθ/",
+    portuguesePhonetic: "brách mai tít",
+    syllables: ["brush", " my", " teeth"],
+    exampleSentence: "Brush my teeth",
+    exampleTranslation: "Escovar meus dentes"
+  },
+  {
+    id: 'lesson_5_vocab_a1_4',
+    word: "Have / eat breakfast",
+    translation: "Tomar / comer café da manhã",
+    pronunciation: "/hæv / it ˈbrɛkfəst/",
+    portuguesePhonetic: "rév / ít bréc-fest",
+    syllables: ["have", " /", " eat", " break", "fast"],
+    exampleSentence: "Have / eat breakfast",
+    exampleTranslation: "Tomar / comer café da manhã"
+  },
+  {
+    id: 'lesson_5_vocab_a1_5',
+    word: "Have / take a shower",
+    translation: "Tomar banho",
+    pronunciation: "/hæv / teɪk ə ˈʃaʊər/",
+    portuguesePhonetic: "rév / têic â chául-er",
+    syllables: ["have", " /", " take", " a", " show", "er"],
+    exampleSentence: "Have / take a shower",
+    exampleTranslation: "Tomar banho"
+  },
+  {
+    id: 'lesson_5_vocab_a1_6',
+    word: "Get dressed",
+    translation: "Vestir-se",
+    pronunciation: "/ɡɛt drɛst/",
+    portuguesePhonetic: "guét drést",
+    syllables: ["get", " dressed"],
+    exampleSentence: "Get dressed",
+    exampleTranslation: "Vestir-se"
+  },
+  {
+    id: 'lesson_5_vocab_a1_7',
+    word: "Go to work",
+    translation: "Ir para o trabalho",
+    pronunciation: "/ɡoʊ tu wɜrk/",
+    portuguesePhonetic: "gôu tchu uérc",
+    syllables: ["go", " to", " work"],
+    exampleSentence: "Go to work",
+    exampleTranslation: "Ir para o trabalho"
+  },
+  {
+    id: 'lesson_5_vocab_a1_8',
+    word: "Start work",
+    translation: "Começar o trabalho",
+    pronunciation: "/stɑrt wɜrk/",
+    portuguesePhonetic: "stárt uérc",
+    syllables: ["start", " work"],
+    exampleSentence: "Start work",
+    exampleTranslation: "Começar o trabalho"
+  },
+  {
+    id: 'lesson_5_vocab_a1_9',
+    word: "Check my emails",
+    translation: "Verificar meus e-mails",
+    pronunciation: "/tʃɛk maɪ ˈiˌmeɪlz/",
+    portuguesePhonetic: "tchéc mai i-mêils",
+    syllables: ["check", " my", " e", "mails"],
+    exampleSentence: "Check my emails",
+    exampleTranslation: "Verificar meus e-mails"
+  },
+  {
+    id: 'lesson_5_vocab_a1_10',
+    word: "Have / eat lunch",
+    translation: "Almoçar",
+    pronunciation: "/hæv / it lʌntʃ/",
+    portuguesePhonetic: "rév / ít lántch",
+    syllables: ["have", " /", " eat", " lunch"],
+    exampleSentence: "Have / eat lunch",
+    exampleTranslation: "Almoçar"
+  },
+  {
+    id: 'lesson_5_vocab_a1_11',
+    word: "Finish work",
+    translation: "Terminar o trabalho",
+    pronunciation: "/ˈfɪnɪʃ wɜrk/",
+    portuguesePhonetic: "fí-nich uérc",
+    syllables: ["fin", "ish", " work"],
+    exampleSentence: "Finish work",
+    exampleTranslation: "Terminar o trabalho"
+  },
+  {
+    id: 'lesson_5_vocab_a1_12',
+    word: "Go home",
+    translation: "Ir para casa",
+    pronunciation: "/ɡoʊ hoʊm/",
+    portuguesePhonetic: "gôu rôum",
+    syllables: ["go", " home"],
+    exampleSentence: "Go home",
+    exampleTranslation: "Ir para casa"
+  },
+  {
+    id: 'lesson_5_vocab_a1_13',
+    word: "Do my homework",
+    translation: "Fazer minha lição de casa",
+    pronunciation: "/du maɪ ˈhoʊmˌwɜrk/",
+    portuguesePhonetic: "du mai rôum-uérc",
+    syllables: ["do", " my", " home", "work"],
+    exampleSentence: "Do my homework",
+    exampleTranslation: "Fazer minha lição de casa"
+  },
+  {
+    id: 'lesson_5_vocab_a1_14',
+    word: "Go running / go for a run",
+    translation: "Ir correr / sair para correr",
+    pronunciation: "/ɡoʊ ˈrʌnɪŋ / ɡoʊ fɔr ə rʌn/",
+    portuguesePhonetic: "gôu rân-in / gôu fór â rân",
+    syllables: ["go", " run", "ning", " /", " go", " for", " a", " run"],
+    exampleSentence: "Go running / go for a run",
+    exampleTranslation: "Ir correr / sair para correr"
+  },
+  {
+    id: 'lesson_5_vocab_a1_15',
+    word: "Go to the gym",
+    translation: "Ir para a academia",
+    pronunciation: "/ɡoʊ tu ðə dʒɪm/",
+    portuguesePhonetic: "gôu tchu dâ djím",
+    syllables: ["go", " to", " the", " gym"],
+    exampleSentence: "Go to the gym",
+    exampleTranslation: "Ir para a academia"
+  },
+  {
+    id: 'lesson_5_vocab_a1_16',
+    word: "Go shopping",
+    translation: "Fazer compras",
+    pronunciation: "/ɡoʊ ˈʃɑpɪŋ/",
+    portuguesePhonetic: "gôu chóp-in",
+    syllables: ["go", " shop", "ping"],
+    exampleSentence: "Go shopping",
+    exampleTranslation: "Fazer compras"
+  },
+  {
+    id: 'lesson_5_vocab_a1_17',
+    word: "Cook dinner",
+    translation: "Cozinhar o jantar",
+    pronunciation: "/kʊk ˈdɪnər/",
+    portuguesePhonetic: "cúc dín-er",
+    syllables: ["cook", " din", "ner"],
+    exampleSentence: "Cook dinner",
+    exampleTranslation: "Cozinhar o jantar"
+  },
+  {
+    id: 'lesson_5_vocab_a1_18',
+    word: "Have / eat dinner",
+    translation: "Jantar / comer o jantar",
+    pronunciation: "/hæv / it ˈdɪnər/",
+    portuguesePhonetic: "rév / ít dín-er",
+    syllables: ["have", " /", " eat", " din", "ner"],
+    exampleSentence: "Have / eat dinner",
+    exampleTranslation: "Jantar / comer o jantar"
+  },
+  {
+    id: 'lesson_5_vocab_a1_19',
+    word: "Watch TV",
+    translation: "Assistir TV",
+    pronunciation: "/wɑtʃ ˌtiˈvi/",
+    portuguesePhonetic: "uótch tí-ví",
+    syllables: ["watch", " TV"],
+    exampleSentence: "Watch TV",
+    exampleTranslation: "Assistir TV"
+  },
+  {
+    id: 'lesson_5_vocab_a1_20',
+    word: "Go to bed",
+    translation: "Ir para a cama",
+    pronunciation: "/ɡoʊ tu bɛd/",
+    portuguesePhonetic: "gôu tchu béd",
+    syllables: ["go", " to", " bed"],
+    exampleSentence: "Go to bed",
+    exampleTranslation: "Ir para a cama"
+  },
+  {
+    id: 'lesson_5_vocab_a1_21',
+    word: "After I get up in the morning, I make my bed.",
+    translation: "Depois que eu me levanto de manhã, eu arrumo minha cama.",
+    pronunciation: "/ˈæftər aɪ ɡɛt ʌp ɪn ðə ˈmɔrnɪŋ, aɪ meɪk maɪ bɛd./",
+    portuguesePhonetic: "éf-ter ai guét áp ín dâ mór-nin, ai mêic mai béd.",
+    syllables: ["Af", "ter", " I", " get", " up", " in", " the", " morn", "ing,", " I", " make", " my", " bed."],
+    exampleSentence: "After I get up in the morning, I make my bed.",
+    exampleTranslation: "Depois que eu me levanto de manhã, eu arrumo minha cama."
+  },
+  {
+    id: 'lesson_5_vocab_a1_22',
+    word: "Sam starts work at 9:00 every morning and finishes at 5:00.",
+    translation: "Sam começa o trabalho às 9h todas as manhãs e termina às 5h.",
+    pronunciation: "/sæm stɑrts wɜrk æt naɪn ˈɛvri ˈmɔrnɪŋ ænd ˈfɪnɪʃəz æt faɪv./",
+    portuguesePhonetic: "sém stárts uérc ét náin év-ri mór-nin énd fí-ni-chez ét fáiv.",
+    syllables: ["Sam", " starts", " work", " at", " 9:00", " ev", "ery", " morn", "ing", " and", " fin", "ish", "es", " at", " 5:00."],
+    exampleSentence: "Sam starts work at 9:00 every morning and finishes at 5:00.",
+    exampleTranslation: "Sam começa o trabalho às 9h todas as manhãs e termina às 5h."
+  },
+  {
+    id: 'lesson_5_vocab_a1_23',
+    word: "The children put on their pyjamas before they go to bed.",
+    translation: "As crianças colocam o pijama antes de irem para a cama.",
+    pronunciation: "/ðə ˈtʃɪldrən pʊt ɑn ðɛr pəˈdʒɑməz bɪˈfɔr ðeɪ ɡoʊ tu bɛd./",
+    portuguesePhonetic: "dâ tchíl-dren pút ón dér pi-djá-mas bi-fór dêi gôu tchu béd.",
+    syllables: ["The", " chil", "dren", " put", " on", " their", " py", "ja", "mas", " be", "fore", " they", " go", " to", " bed."],
+    exampleSentence: "The children put on their pyjamas before they go to bed.",
+    exampleTranslation: "As crianças colocam o pijama antes de irem para a cama."
+  },
+  {
+    id: 'lesson_5_vocab_a1_24',
+    word: "I usually don’t have breakfast because I’m not hungry in the morning.",
+    translation: "Eu geralmente não tomo café da manhã porque não estou com fome de manhã.",
+    pronunciation: "/aɪ ˈjuʒuəli doʊnt hæv ˈbrɛkfəst bɪˈkɔz aɪm nɑt ˈhʌŋɡri ɪn ðə ˈmɔrnɪŋ./",
+    portuguesePhonetic: "ai iú-ju-â-li dôunt rév bréc-fest bi-cós aim nót rân-gri ín dâ mór-nin.",
+    syllables: ["I", " u", "su", "al", "ly", " don't", " have", " break", "fast", " be", "cause", " I'm", " not", " hun", "gry", " in", " the", " morn", "ing."],
+    exampleSentence: "I usually don’t have breakfast because I’m not hungry in the morning.",
+    exampleTranslation: "Eu geralmente não tomo café da manhã porque não estou com fome de manhã."
+  },
+  {
+    id: 'lesson_5_vocab_a1_25',
+    word: "We watch TV on the sofa after we have dinner.",
+    translation: "Nós assistimos TV no sofá depois de jantarmos.",
+    pronunciation: "/wi wɑtʃ ˌtiˈvi ɑn ðə ˈsoʊfə ˈæftər wi hæv ˈdɪnər./",
+    portuguesePhonetic: "ui uótch tí-ví ón dâ sôu-fa éf-ter ui rév dín-er.",
+    syllables: ["We", " watch", " TV", " on", " the", " so", "fa", " af", "ter", " we", " have", " din", "ner."],
+    exampleSentence: "We watch TV on the sofa after we have dinner.",
+    exampleTranslation: "Nós assistimos TV no sofá depois de jantarmos."
+  },
+  {
+    id: 'lesson_5_vocab_a1_26',
+    word: "I go running once a week because I am trying to get fit.",
+    translation: "Eu corro uma vez por semana porque estou tentando ficar em forma.",
+    pronunciation: "/aɪ ɡoʊ ˈrʌnɪŋ wʌns ə wik bɪˈkɔz aɪ æm ˈtraɪɪŋ tu ɡɛt fɪt./",
+    portuguesePhonetic: "ai gôu rân-in uáns â uíc bi-cós ai ém trái-in tchu guét fít.",
+    syllables: ["I", " go", " run", "ning", " once", " a", " week", " be", "cause", " I", " am", " try", "ing", " to", " get", " fit."],
+    exampleSentence: "I go running once a week because I am trying to get fit.",
+    exampleTranslation: "Eu corro uma vez por semana porque estou tentando ficar em forma."
+  },
+  {
+    id: 'lesson_5_vocab_a1_27',
+    word: "After I have breakfast, I turn on my computer, and I check my emails.",
+    translation: "Depois que eu tomo café da manhã, eu ligo meu computador e verifico meus e-mails.",
+    pronunciation: "/ˈæftər aɪ hæv ˈbrɛkfəst, aɪ tɜrn ɑn maɪ kəmˈpjutər, ænd aɪ tʃɛk maɪ ˈiˌmeɪlz./",
+    portuguesePhonetic: "éf-ter ai rév bréc-fest, ai tãrn ón mai com-piú-ter, énd ai tchéc mai i-mêils.",
+    syllables: ["Af", "ter", " I", " have", " break", "fast,", " I", " turn", " on", " my", " com", "pu", "ter,", " and", " I", " check", " my", " e", "mails."],
+    exampleSentence: "After I have breakfast, I turn on my computer, and I check my emails.",
+    exampleTranslation: "Depois que eu tomo café da manhã, eu ligo meu computador e verifico meus e-mails."
+  },
+  {
+    id: 'lesson_5_vocab_a1_28',
+    word: "I often have lunch in the restaurant next to my office.",
+    translation: "Eu frequentemente almoço no restaurante ao lado do meu escritório.",
+    pronunciation: "/aɪ ˈɔfən hæv lʌntʃ ɪn ðə ˈrɛstərənt nɛkst tu maɪ ˈɔfɪs./",
+    portuguesePhonetic: "ai ó-fen rév lántch ín dâ rés-to-rãnt nécst tchu mai ó-fis.",
+    syllables: ["I", " of", "ten", " have", " lunch", " in", " the", " res", "tau", "rant", " next", " to", " my", " of", "fice."],
+    exampleSentence: "I often have lunch in the restaurant next to my office.",
+    exampleTranslation: "Eu frequentemente almoço no restaurante ao lado do meu escritório."
+  },
+  {
+    id: 'lesson_5_vocab_a1_29',
+    word: "I go shopping at the supermarket every Saturday morning.",
+    translation: "Eu faço compras no supermercado todo sábado de manhã.",
+    pronunciation: "/aɪ ɡoʊ ˈʃɑpɪŋ æt ðə ˈsupərˌmɑrkət ˈɛvri ˈsætərdeɪ ˈmɔrnɪŋ./",
+    portuguesePhonetic: "ai gôu chóp-in ét dâ sú-per-már-quet év-ri sé-ter-dêi mór-nin.",
+    syllables: ["I", " go", " shop", "ping", " at", " the", " su", "per", "mar", "ket", " ev", "ery", " Sat", "ur", "day", " morn", "ing."],
+    exampleSentence: "I go shopping at the supermarket every Saturday morning.",
+    exampleTranslation: "Eu faço compras no supermercado todo sábado de manhã."
+  },
+  {
+    id: 'lesson_5_vocab_a1_30',
+    word: "After I have a shower, I need to dry my hair.",
+    translation: "Depois que eu tomo banho, eu preciso secar meu cabelo.",
+    pronunciation: "/ˈæftər aɪ hæv ə ˈʃaʊər, aɪ nid tu draɪ maɪ hɛr./",
+    portuguesePhonetic: "éf-ter ai rév â chául-er, ai níd tchu drái mai rér.",
+    syllables: ["Af", "ter", " I", " have", " a", " show", "er,", " I", " need", " to", " dry", " my", " hair."],
+    exampleSentence: "After I have a shower, I need to dry my hair.",
+    exampleTranslation: "Depois que eu tomo banho, eu preciso secar meu cabelo."
+  },
+  {
+    id: 'lesson_5_vocab_a1_31',
+    word: "I brush my teeth in the bathroom before I go to bed.",
+    translation: "Eu escovo meus dentes no banheiro antes de ir para a cama.",
+    pronunciation: "/aɪ brʌʃ maɪ tiθ ɪn ðə ˈbæθˌrum bɪˈfɔr aɪ ɡoʊ tu bɛd./",
+    portuguesePhonetic: "ai brách mai tít ín dâ béth-rum bi-fór ai gôu tchu béd.",
+    syllables: ["I", " brush", " my", " teeth", " in", " the", " bath", "room", " be", "fore", " I", " go", " to", " bed."],
+    exampleSentence: "I brush my teeth in the bathroom before I go to bed.",
+    exampleTranslation: "Eu escovo meus dentes no banheiro antes de ir para a cama."
+  },
+  {
+    id: 'lesson_5_vocab_a1_32',
+    word: "I start work as soon as I arrive at the office.",
+    translation: "Eu começo o trabalho assim que chego ao escritório.",
+    pronunciation: "/aɪ stɑrt wɜrk æz sun æz aɪ əˈraɪv æt ðə ˈɔfɪs./",
+    portuguesePhonetic: "ai stárt uérc és sún és ai a-ráiv ét dâ ó-fis.",
+    syllables: ["I", " start", " work", " as", " soon", " as", " I", " ar", "rive", " at", " the", " of", "fice."],
+    exampleSentence: "I start work as soon as I arrive at the office.",
+    exampleTranslation: "Eu começo o trabalho assim que chego ao escritório."
+  },
+  {
+    id: 'lesson_5_vocab_a1_33',
+    word: "We often have lunch in the school cafeteria.",
+    translation: "Nós frequentemente almoçamos na cantina da escola.",
+    pronunciation: "/wi ˈɔfən hæv lʌntʃ ɪn ðə skul ˌkæfəˈtɪriə./",
+    portuguesePhonetic: "ui ó-fen rév lántch ín dâ scul ca-fe-tí-ri-a.",
+    syllables: ["We", " of", "ten", " have", " lunch", " in", " the", " school", " caf", "e", "te", "ri", "a."],
+    exampleSentence: "We often have lunch in the school cafeteria.",
+    exampleTranslation: "Nós frequentemente almoçamos na cantina da escola."
+  },
+  {
+    id: 'lesson_5_vocab_a1_34',
+    word: "The teacher is angry if I don’t do my homework.",
+    translation: "A professora fica brava se eu não faço minha lição de casa.",
+    pronunciation: "/ðə ˈtichər ɪz ˈæŋɡri ɪf aɪ doʊnt du maɪ ˈhoʊmˌwɜrk./",
+    portuguesePhonetic: "dâ tí-tcher íz én-gri íf ai dôunt du mai rôum-uérc.",
+    syllables: ["The", " teach", "er", " is", " an", "gry", " if", " I", " don't", " do", " my", " home", "work."],
+    exampleSentence: "The teacher is angry if I don’t do my homework.",
+    exampleTranslation: "A professora fica brava se eu não faço minha lição de casa."
+  },
+  {
+    id: 'lesson_5_vocab_a1_35',
+    word: "I usually go to work by bus.",
+    translation: "Eu geralmente vou para o trabalho de ônibus.",
+    pronunciation: "/aɪ ˈjuʒuəli ɡoʊ tu wɜrk baɪ bʌs./",
+    portuguesePhonetic: "ai iú-ju-â-li gôu tchu uérc bai bás.",
+    syllables: ["I", " u", "su", "al", "ly", " go", " to", " work", " by", " bus."],
+    exampleSentence: "I usually go to work by bus.",
+    exampleTranslation: "Eu geralmente vou para o trabalho de ônibus."
+  },
+  {
+    id: 'lesson_5_vocab_a1_36',
+    word: "I pick up my clothes and start to get dressed.",
+    translation: "Eu pego minhas roupas e começo a me vestir.",
+    pronunciation: "/aɪ pɪk ʌp maɪ kloʊðz ænd stɑrt tu ɡɛt drɛst./",
+    portuguesePhonetic: "ai píc áp mai clôus énd stárt tchu guét drést.",
+    syllables: ["I", " pick", " up", " my", " clothes", " and", " start", " to", " get", " dressed."],
+    exampleSentence: "I pick up my clothes and start to get dressed.",
+    exampleTranslation: "Eu pego minhas roupas e começo a me vestir."
+  },
+  {
+    id: 'lesson_5_vocab_a1_37',
+    word: "I finish work at 6:00, then I catch the bus home.",
+    translation: "Eu termino o trabalho às 6h, então pego o ônibus para casa.",
+    pronunciation: "/aɪ ˈfɪnɪʃ wɜrk æt sɪks, ðɛn aɪ kætʃ ðə bʌs hoʊm./",
+    portuguesePhonetic: "ai fí-nich uérc ét sics, dén ai quétch dâ bás rôum.",
+    syllables: ["I", " fin", "ish", " work", " at", " 6:00,", " then", " I", " catch", " the", " bus", " home."],
+    exampleSentence: "I finish work at 6:00, then I catch the bus home.",
+    exampleTranslation: "Eu termino o trabalho às 6h, então pego o ônibus para casa."
+  },
+  {
+    id: 'lesson_5_vocab_a1_38',
+    word: "I wake up early every morning when I hear my alarm.",
+    translation: "Eu acordo cedo todas as manhãs quando ouço meu alarme.",
+    pronunciation: "/aɪ weɪk ʌp ˈɜrli ˈɛvri ˈmɔrnɪŋ wɛn aɪ hɪr maɪ əˈlɑrm./",
+    portuguesePhonetic: "ai uêic áp ãr-li év-ri mór-nin uén ai rír mai a-lárm.",
+    syllables: ["I", " wake", " up", " ear", "ly", " ev", "ery", " morn", "ing", " when", " I", " hear", " my", " a", "larm."],
+    exampleSentence: "I wake up early every morning when I hear my alarm.",
+    exampleTranslation: "Eu acordo cedo todas as manhãs quando ouço meu alarme."
+  },
+  {
+    id: 'lesson_5_vocab_a1_39',
+    word: "We need to go shopping because there’s no food in the fridge.",
+    translation: "Nós precisamos fazer compras porque não há comida na geladeira.",
+    pronunciation: "/wi nid tu ɡoʊ ˈʃɑpɪŋ bɪˈkɔz ðɛrz noʊ fud ɪn ðə frɪdʒ./",
+    portuguesePhonetic: "ui níd tchu gôu chóp-in bi-cós dérs nôu fúd ín dâ frídj.",
+    syllables: ["We", " need", " to", " go", " shop", "ping", " be", "cause", " there's", " no", " food", " in", " the", " fridge."],
+    exampleSentence: "We need to go shopping because there’s no food in the fridge.",
+    exampleTranslation: "Nós precisamos fazer compras porque não há comida na geladeira."
+  },
+  {
+    id: 'lesson_5_vocab_a1_40',
+    word: "After I finish school, I go home and do my homework.",
+    translation: "Depois que eu termino a escola, eu vou para casa e faço minha lição de casa.",
+    pronunciation: "/ˈæftər aɪ ˈfɪnɪʃ skul, aɪ ɡoʊ hoʊm ænd du maɪ ˈhoʊmˌwɜrk./",
+    portuguesePhonetic: "éf-ter ai fí-nich scul, ai gôu rôum énd du mai rôum-uérc.",
+    syllables: ["Af", "ter", " I", " fin", "ish", " school,", " I", " go", " home", " and", " do", " my", " home", "work."],
+    exampleSentence: "After I finish school, I go home and do my homework.",
+    exampleTranslation: "Depois que eu termino a escola, eu vou para casa e faço minha lição de casa."
+  },
+  {
+    id: 'lesson_5_vocab_a1_41',
+    word: "After I have breakfast, I get dressed, and I go to work.",
+    translation: "Depois que eu tomo café da manhã, eu me visto e vou para o trabalho.",
+    pronunciation: "/ˈæftər aɪ hæv ˈbrɛkfəst, aɪ ɡɛt drɛst, ænd aɪ ɡoʊ tu wɜrk./",
+    portuguesePhonetic: "éf-ter ai rév bréc-fest, ai guét drést, énd ai gôu tchu uérc.",
+    syllables: ["Af", "ter", " I", " have", " break", "fast,", " I", " get", " dressed,", " and", " I", " go", " to", " work."],
+    exampleSentence: "After I have breakfast, I get dressed, and I go to work.",
+    exampleTranslation: "Depois que eu tomo café da manhã, eu me visto e vou para o trabalho."
+  },
+  {
+    id: 'lesson_5_vocab_a1_42',
+    word: "I watch TV in the evening if there is a good series or film on.",
+    translation: "Eu assisto TV à noite se há uma boa série ou filme passando.",
+    pronunciation: "/aɪ wɑtʃ ˌtiˈvi ɪn ðə ˈivnɪŋ ɪf ðɛr ɪz ə ɡʊd ˈsɪriz ɔr fɪlm ɑn./",
+    portuguesePhonetic: "ai uótch tí-ví ín dâ ív-nin íf dér íz â gúd sí-ris ór fílm ón.",
+    syllables: ["I", " watch", " TV", " in", " the", " e", "ven", "ing", " if", " there", " is", " a", " good", " se", "ries", " or", " film", " on."],
+    exampleSentence: "I watch TV in the evening if there is a good series or film on.",
+    exampleTranslation: "Eu assisto TV à noite se há uma boa série ou filme passando."
+  },
+  {
+    id: 'lesson_5_vocab_a1_43',
+    word: "After I finish work, I catch the bus home.",
+    translation: "Depois que eu termino o trabalho, eu pego o ônibus para casa.",
+    pronunciation: "/ˈæftər aɪ ˈfɪnɪʃ wɜrk, aɪ kætʃ ðə bʌs hoʊm./",
+    portuguesePhonetic: "éf-ter ai fí-nich uérc, ai quétch dâ bás rôum.",
+    syllables: ["Af", "ter", " I", " fin", "ish", " work,", " I", " catch", " the", " bus", " home."],
+    exampleSentence: "After I finish work, I catch the bus home.",
+    exampleTranslation: "Depois que eu termino o trabalho, eu pego o ônibus para casa."
+  },
+  {
+    id: 'lesson_5_vocab_a1_44',
+    word: "I sometimes go running in the park with my dog.",
+    translation: "Às vezes eu corro no parque com meu cachorro.",
+    pronunciation: "/aɪ səmˈtaɪmz ɡoʊ ˈrʌnɪŋ ɪn ðə pɑrk wɪð maɪ dɔɡ./",
+    portuguesePhonetic: "ai sâm-táims gôu rân-in ín dâ párc uíd mai dóg.",
+    syllables: ["I", " some", "times", " go", " run", "ning", " in", " the", " park", " with", " my", " dog."],
+    exampleSentence: "I sometimes go running in the park with my dog.",
+    exampleTranslation: "Às vezes eu corro no parque com meu cachorro."
+  },
+  {
+    id: 'lesson_5_vocab_a1_45',
+    word: "I usually have dinner at the kitchen table with my wife.",
+    translation: "Eu geralmente janto na mesa da cozinha com minha esposa.",
+    pronunciation: "/aɪ ˈjuʒuəli hæv ˈdɪnər æt ðə ˈkɪtʃən ˈteɪbəl wɪð maɪ waɪf./",
+    portuguesePhonetic: "ai iú-ju-â-li rév dín-er ét dâ quí-tchen têi-bol uíd mai uáif."
+    ,syllables: ["I", " u", "su", "al", "ly", " have", " din", "ner", " at", " the", " kitch", "en", " ta", "ble", " with", " my", " wife."],
+    exampleSentence: "I usually have dinner at the kitchen table with my wife.",
+    exampleTranslation: "Eu geralmente janto na mesa da cozinha com minha esposa."
+  },
+  {
+    id: 'lesson_5_vocab_a1_46',
+    word: "I do my homework at the desk in my bedroom after school.",
+    translation: "Eu faço minha lição de casa na escrivaninha do meu quarto depois da escola.",
+    pronunciation: "/aɪ du maɪ ˈhoʊmˌwɜrk æt ðə dɛsk ɪn maɪ ˈbɛdˌrum ˈæftər skul./",
+    portuguesePhonetic: "ai du mai rôum-uérc ét dâ désc ín mai béd-rúm éf-ter scul.",
+    syllables: ["I", " do", " my", " home", "work", " at", " the", " desk", " in", " my", " bed", "room", " af", "ter", " school."],
+    exampleSentence: "I do my homework at the desk in my bedroom after school.",
+    exampleTranslation: "Eu faço minha lição de casa na escrivaninha do meu quarto depois da escola."
+  },
+  {
+    id: 'lesson_5_vocab_a1_47',
+    word: "I sometimes have breakfast at a café on my way to work.",
+    translation: "Às vezes eu tomo café da manhã em uma cafeteria a caminho do trabalho.",
+    pronunciation: "/aɪ səmˈtaɪmz hæv ˈbrɛkfəst æt ə kæˈfeɪ ɑn maɪ weɪ tu wɜrk./",
+    portuguesePhonetic: "ai sâm-táims rév bréc-fest ét â ca-fêi ón mai uêi tchu uérc.",
+    syllables: ["I", " some", "times", " have", " break", "fast", " at", " a", " ca", "fe", " on", " my", " way", " to", " work."],
+    exampleSentence: "I sometimes have breakfast at a café on my way to work.",
+    exampleTranslation: "Às vezes eu tomo café da manhã em uma cafeteria a caminho do trabalho."
+  },
+  {
+    id: 'lesson_5_vocab_a1_48',
+    word: "As soon as I wake up, I get out of bed.",
+    translation: "Assim que eu acordo, eu saio da cama.",
+    pronunciation: "/æz sun æz aɪ weɪk ʌp, aɪ ɡɛt aʊt ʌv bɛd./",
+    portuguesePhonetic: "és sún és ai uêic áp, ai guét áut âv béd.",
+    syllables: ["As", " soon", " as", " I", " wake", " up,", " I", " get", " out", " of", " bed."],
+    exampleSentence: "As soon as I wake up, I get out of bed.",
+    exampleTranslation: "Assim que eu acordo, eu saio da cama."
+  },
+  {
+    id: 'lesson_5_vocab_a1_49',
+    word: "After I have a shower, I get dressed in my bedroom.",
+    translation: "Depois que eu tomo banho, eu me visto no meu quarto.",
+    pronunciation: "/ˈæftər aɪ hæv ə ˈʃaʊər, aɪ ɡɛt drɛst ɪn maɪ ˈbɛdˌrum./",
+    portuguesePhonetic: "éf-ter ai rév â chául-er, ai guét drést ín mai béd-rúm.",
+    syllables: ["Af", "ter", " I", " have", " a", " show", "er,", " I", " get", " dressed", " in", " my", " bed", "room."],
+    exampleSentence: "After I have a shower, I get dressed in my bedroom.",
+    exampleTranslation: "Depois que eu tomo banho, eu me visto no meu quarto."
+  },
+  {
+    id: 'lesson_5_vocab_a1_50',
+    word: "I usually go to work by car, but sometimes I catch the bus.",
+    translation: "Eu geralmente vou para o trabalho de carro, mas às vezes pego o ônibus.",
+    pronunciation: "/aɪ ˈjuʒuəli ɡoʊ tu wɜrk baɪ kɑr, bʌt səmˈtaɪmz aɪ kætʃ ðə bʌs./",
+    portuguesePhonetic: "ai iú-ju-â-li gôu tchu uérc bai cár, bât sâm-táims ai quétch dâ bás.",
+    syllables: ["I", " u", "su", "al", "ly", " go", " to", " work", " by", " car,", " but", " some", "times", " I", " catch", " the", " bus."],
+    exampleSentence: "I usually go to work by car, but sometimes I catch the bus.",
+    exampleTranslation: "Eu geralmente vou para o trabalho de carro, mas às vezes pego o ônibus."
+  }
+];
+
+export const LESSON_6_VOCABULARY_A1_DECK: FlashcardData[] = [
+  {
+    id: 'lesson_6_vocab_a1_1',
+    word: "Monday",
+    translation: "Segunda-feira",
+    pronunciation: "/ˈmʌndeɪ/",
+    portuguesePhonetic: "mân-dêi",
+    syllables: ["Mon", "day"],
+    exampleSentence: "Monday",
+    exampleTranslation: "Segunda-feira"
+  },
+  {
+    id: 'lesson_6_vocab_a1_2',
+    word: "Tuesday",
+    translation: "Terça-feira",
+    pronunciation: "/ˈtuzdeɪ/",
+    portuguesePhonetic: "tiús-dêi",
+    syllables: ["Tues", "day"],
+    exampleSentence: "Tuesday",
+    exampleTranslation: "Terça-feira"
+  },
+  {
+    id: 'lesson_6_vocab_a1_3',
+    word: "Wednesday",
+    translation: "Quarta-feira",
+    pronunciation: "/ˈwɛnzdeɪ/",
+    portuguesePhonetic: "uéns-dêi",
+    syllables: ["Wednes", "day"],
+    exampleSentence: "Wednesday",
+    exampleTranslation: "Quarta-feira"
+  },
+  {
+    id: 'lesson_6_vocab_a1_4',
+    word: "Thursday",
+    translation: "Quinta-feira",
+    pronunciation: "/ˈθɜrzdeɪ/",
+    portuguesePhonetic: "tãrs-dêi",
+    syllables: ["Thurs", "day"],
+    exampleSentence: "Thursday",
+    exampleTranslation: "Quinta-feira"
+  },
+  {
+    id: 'lesson_6_vocab_a1_5',
+    word: "Friday",
+    translation: "Sexta-feira",
+    pronunciation: "/ˈfraɪdeɪ/",
+    portuguesePhonetic: "frái-dêi",
+    syllables: ["Fri", "day"],
+    exampleSentence: "Friday",
+    exampleTranslation: "Sexta-feira"
+  },
+  {
+    id: 'lesson_6_vocab_a1_6',
+    word: "Saturday",
+    translation: "Sábado",
+    pronunciation: "/ˈsætərdeɪ/",
+    portuguesePhonetic: "sé-ter-dêi",
+    syllables: ["Sat", "ur", "day"],
+    exampleSentence: "Saturday",
+    exampleTranslation: "Sábado"
+  },
+  {
+    id: 'lesson_6_vocab_a1_7',
+    word: "Sunday",
+    translation: "Domingo",
+    pronunciation: "/ˈsʌndeɪ/",
+    portuguesePhonetic: "sân-dêi",
+    syllables: ["Sun", "day"],
+    exampleSentence: "Sunday",
+    exampleTranslation: "Domingo"
+  },
+  {
+    id: 'lesson_6_vocab_a1_8',
+    word: "January",
+    translation: "Janeiro",
+    pronunciation: "/ˈdʒænjuˌɛri/",
+    portuguesePhonetic: "djé-niu-é-ri",
+    syllables: ["Jan", "u", "ar", "y"],
+    exampleSentence: "January",
+    exampleTranslation: "Janeiro"
+  },
+  {
+    id: 'lesson_6_vocab_a1_9',
+    word: "February",
+    translation: "Fevereiro",
+    pronunciation: "/ˈfɛbjuˌɛri/",
+    portuguesePhonetic: "fé-biu-é-ri",
+    syllables: ["Feb", "ru", "ar", "y"],
+    exampleSentence: "February",
+    exampleTranslation: "Fevereiro"
+  },
+  {
+    id: 'lesson_6_vocab_a1_10',
+    word: "March",
+    translation: "Março",
+    pronunciation: "/mɑrtʃ/",
+    portuguesePhonetic: "mártch",
+    syllables: ["March"],
+    exampleSentence: "March",
+    exampleTranslation: "Março"
+  },
+  {
+    id: 'lesson_6_vocab_a1_11',
+    word: "April",
+    translation: "Abril",
+    pronunciation: "/ˈeɪprəl/",
+    portuguesePhonetic: "êi-prol",
+    syllables: ["A", "pril"],
+    exampleSentence: "April",
+    exampleTranslation: "Abril"
+  },
+  {
+    id: 'lesson_6_vocab_a1_12',
+    word: "May",
+    translation: "Maio",
+    pronunciation: "/meɪ/",
+    portuguesePhonetic: "mêi",
+    syllables: ["May"],
+    exampleSentence: "May",
+    exampleTranslation: "Maio"
+  },
+  {
+    id: 'lesson_6_vocab_a1_13',
+    word: "June",
+    translation: "Junho",
+    pronunciation: "/dʒun/",
+    portuguesePhonetic: "djún",
+    syllables: ["June"],
+    exampleSentence: "June",
+    exampleTranslation: "Junho"
+  },
+  {
+    id: 'lesson_6_vocab_a1_14',
+    word: "July",
+    translation: "Julho",
+    pronunciation: "/dʒuˈlaɪ/",
+    portuguesePhonetic: "dju-lái",
+    syllables: ["Ju", "ly"],
+    exampleSentence: "July",
+    exampleTranslation: "Julho"
+  },
+  {
+    id: 'lesson_6_vocab_a1_15',
+    word: "August",
+    translation: "Agosto",
+    pronunciation: "/ˈɔɡəst/",
+    portuguesePhonetic: "ó-gost",
+    syllables: ["Au", "gust"],
+    exampleSentence: "August",
+    exampleTranslation: "Agosto"
+  },
+  {
+    id: 'lesson_6_vocab_a1_16',
+    word: "September",
+    translation: "Setembro",
+    pronunciation: "/sɛpˈtɛmbər/",
+    portuguesePhonetic: "sep-tém-ber",
+    syllables: ["Sep", "tem", "ber"],
+    exampleSentence: "September",
+    exampleTranslation: "Setembro"
+  },
+  {
+    id: 'lesson_6_vocab_a1_17',
+    word: "October",
+    translation: "Outubro",
+    pronunciation: "/ɑkˈtoʊbər/",
+    portuguesePhonetic: "oc-tôu-ber",
+    syllables: ["Oc", "to", "ber"],
+    exampleSentence: "October",
+    exampleTranslation: "Outubro"
+  },
+  {
+    id: 'lesson_6_vocab_a1_18',
+    word: "November",
+    translation: "Novembro",
+    pronunciation: "/noʊˈvɛmbər/",
+    portuguesePhonetic: "nou-vém-ber",
+    syllables: ["No", "vem", "ber"],
+    exampleSentence: "November",
+    exampleTranslation: "Novembro"
+  },
+  {
+    id: 'lesson_6_vocab_a1_19',
+    word: "December",
+    translation: "Dezembro",
+    pronunciation: "/dɪˈsɛmbər/",
+    portuguesePhonetic: "di-sém-ber",
+    syllables: ["De", "cem", "ber"],
+    exampleSentence: "December",
+    exampleTranslation: "Dezembro"
+  },
+  {
+    id: 'lesson_6_vocab_a1_20',
+    word: "Winter",
+    translation: "Inverno",
+    pronunciation: "/ˈwɪntər/",
+    portuguesePhonetic: "uín-ter",
+    syllables: ["Win", "ter"],
+    exampleSentence: "Winter",
+    exampleTranslation: "Inverno"
+  },
+  {
+    id: 'lesson_6_vocab_a1_21',
+    word: "Spring",
+    translation: "Primavera",
+    pronunciation: "/sprɪŋ/",
+    portuguesePhonetic: "sprín",
+    syllables: ["spring"],
+    exampleSentence: "Spring",
+    exampleTranslation: "Primavera"
+  },
+  {
+    id: 'lesson_6_vocab_a1_22',
+    word: "Summer",
+    translation: "Verão",
+    pronunciation: "/ˈsʌmər/",
+    portuguesePhonetic: "sâm-er",
+    syllables: ["Sum", "mer"],
+    exampleSentence: "Summer",
+    exampleTranslation: "Verão"
+  },
+  {
+    id: 'lesson_6_vocab_a1_23',
+    word: "Fall — US / Autumn — UK",
+    translation: "Outono",
+    pronunciation: "/fɔl / ˈɔtəm/",
+    portuguesePhonetic: "fól / ó-tom",
+    syllables: ["fall", " /", " au", "tumn"],
+    exampleSentence: "Fall — US / Autumn — UK",
+    exampleTranslation: "Outono"
+  },
+  {
+    id: 'lesson_6_vocab_a1_24',
+    word: "My birthday is in January, the first month of the year.",
+    translation: "Meu aniversário é em janeiro, o primeiro mês do ano.",
+    pronunciation: "/maɪ ˈbɜrθˌdeɪ ɪz ɪn ˈdʒænjuˌɛri, ðə fɜrst mʌnθ ʌv ðə jɪr./",
+    portuguesePhonetic: "mai bãrth-dêi íz ín djé-niu-é-ri, dâ fãrst mánth âv dâ iír.",
+    syllables: ["My", " birth", "day", " is", " in", " Jan", "u", "ar", "y,", " the", " first", " month", " of", " the", " year."],
+    exampleSentence: "My birthday is in January, the first month of the year.",
+    exampleTranslation: "Meu aniversário é em janeiro, o primeiro mês do ano."
+  },
+  {
+    id: 'lesson_6_vocab_a1_25',
+    word: "Today is Tuesday, so tomorrow is Wednesday.",
+    translation: "Hoje é terça-feira, então amanhã é quarta-feira.",
+    pronunciation: "/təˈdeɪ ɪz ˈtuzdeɪ, soʊ təˈmɑroʊ ɪz ˈwɛnzdeɪ./",
+    portuguesePhonetic: "tchu-dêi íz tiús-dêi, sôu tchu-mó-rou íz uéns-dêi.",
+    syllables: ["To", "day", " is", " Tues", "day,", " so", " to", "mor", "row", " is", " Wednes", "day."],
+    exampleSentence: "Today is Tuesday, so tomorrow is Wednesday.",
+    exampleTranslation: "Hoje é terça-feira, então amanhã é quarta-feira."
+  },
+  {
+    id: 'lesson_6_vocab_a1_26',
+    word: "My favourite season is summer because I love hot weather.",
+    translation: "Minha estação favorita é o verão porque eu amo clima quente.",
+    pronunciation: "/maɪ ˈfeɪvərɪt ˈsizən ɪz ˈsʌmər bɪˈkɔz aɪ lʌv hɑt ˈwɛðər./",
+    portuguesePhonetic: "mai fêi-vo-rit sí-son íz sâm-er bi-cós ai láv rót ué-der.",
+    syllables: ["My", " fa", "vour", "ite", " sea", "son", " is", " sum", "mer", " be", "cause", " I", " love", " hot", " weath", "er."],
+    exampleSentence: "My favourite season is summer because I love hot weather.",
+    exampleTranslation: "Minha estação favorita é o verão porque eu amo clima quente."
+  },
+  {
+    id: 'lesson_6_vocab_a1_27',
+    word: "June is the month when the summer season starts.",
+    translation: "Junho é o mês em que a estação do verão começa.",
+    pronunciation: "/dʒun ɪz ðə mʌnθ wɛn ðə ˈsʌmər ˈsizən stɑrts./",
+    portuguesePhonetic: "djún íz dâ mánth uén dâ sâm-er sí-son stárts.",
+    syllables: ["June", " is", " the", " month", " when", " the", " sum", "mer", " sea", "son", " starts."],
+    exampleSentence: "June is the month when the summer season starts.",
+    exampleTranslation: "Junho é o mês em que a estação do verão começa."
+  },
+  {
+    id: 'lesson_6_vocab_a1_28',
+    word: "Tomorrow is Saturday, the first day of the weekend.",
+    translation: "Amanhã é sábado, o primeiro dia do fim de semana.",
+    pronunciation: "/təˈmɑroʊ ɪz ˈsætərdeɪ, ðə fɜrst deɪ ʌv ðə ˈwikˌɛnd./",
+    portuguesePhonetic: "tchu-mó-rou íz sé-ter-dêi, dâ fãrst dêi âv dâ uíc-énd.",
+    syllables: ["To", "mor", "row", " is", " Sat", "ur", "day,", " the", " first", " day", " of", " the", " week", "end."],
+    exampleSentence: "Tomorrow is Saturday, the first day of the weekend.",
+    exampleTranslation: "Amanhã é sábado, o primeiro dia do fim de semana."
+  },
+  {
+    id: 'lesson_6_vocab_a1_29',
+    word: "The school is only open during the week; it’s closed on Saturdays and Sundays.",
+    translation: "A escola só abre durante a semana; ela fecha aos sábados e domingos.",
+    pronunciation: "/ðə skul ɪz ˈoʊnli ˈoʊpən ˈdʊrɪŋ ðə wik; ɪts kloʊzd ɑn ˈsætərdeɪz ænd ˈsʌndeɪz./",
+    portuguesePhonetic: "dâ scul íz ôun-li ôu-pen diúr-in dâ uíc; íts clôusd ón sé-ter-dêis énd sân-dêis.",
+    syllables: ["The", " school", " is", " on", "ly", " o", "pen", " dur", "ing", " the", " week;", " it's", " closed", " on", " Sat", "ur", "days", " and", " Sun", "days."],
+    exampleSentence: "The school is only open during the week; it’s closed on Saturdays and Sundays.",
+    exampleTranslation: "A escola só abre durante a semana; ela fecha aos sábados e domingos."
+  },
+  {
+    id: 'lesson_6_vocab_a1_30',
+    word: "Winter is nearly over; soon it will be spring.",
+    translation: "O inverno está quase acabando; em breve será primavera.",
+    pronunciation: "/ˈwɪntər ɪz ˈnɪrli ˈoʊvər; sun ɪt wɪl bi sprɪŋ./",
+    portuguesePhonetic: "uín-ter íz nír-li ôu-ver; sún ít uíl bí sprín.",
+    syllables: ["Win", "ter", " is", " near", "ly", " o", "ver;", " soon", " it", " will", " be", " spring."],
+    exampleSentence: "Winter is nearly over; soon it will be spring.",
+    exampleTranslation: "O inverno está quase acabando; em breve será primavera."
+  },
+  {
+    id: 'lesson_6_vocab_a1_31',
+    word: "Fred’s birthday is in May, and my birthday is one month later, in June.",
+    translation: "O aniversário de Fred é em maio, e meu aniversário é um mês depois, em junho.",
+    pronunciation: "/frɛdz ˈbɜrθˌdeɪ ɪz ɪn meɪ, ænd maɪ ˈbɜrθˌdeɪ ɪz wʌn mʌnθ ˈleɪtər, ɪn dʒun./",
+    portuguesePhonetic: "fréds bãrth-dêi íz ín mêi, énd mai bãrth-dêi íz uán mánth lêi-ter, ín djún.",
+    syllables: ["Fred's", " birth", "day", " is", " in", " May,", " and", " my", " birth", "day", " is", " one", " month", " lat", "er,", " in", " June."],
+    exampleSentence: "Fred’s birthday is in May, and my birthday is one month later, in June.",
+    exampleTranslation: "O aniversário de Fred é em maio, e meu aniversário é um mês depois, em junho."
+  },
+  {
+    id: 'lesson_6_vocab_a1_32',
+    word: "I love going for walks in the autumn / fall, when the leaves start falling off the trees.",
+    translation: "Eu amo fazer caminhadas no outono, quando as folhas começam a cair das árvores.",
+    pronunciation: "/aɪ lʌv ˈɡoʊɪŋ fɔr wɔks ɪn ði ˈɔtəm / fɔl, wɛn ðə livz stɑrt ˈfɑlɪŋ ɔf ðə triz./",
+    portuguesePhonetic: "ai láv gôu-in fór uócs ín di ó-tom / fól, uén dâ lívs stárt fól-in óf dâ trís.",
+    syllables: ["I", " love", " go", "ing", " for", " walks", " in", " the", " au", "tumn", " /", " fall,", " when", " the", " leaves", " start", " fall", "ing", " off", " the", " trees."],
+    exampleSentence: "I love going for walks in the autumn / fall, when the leaves start falling off the trees.",
+    exampleTranslation: "Eu amo fazer caminhadas no outono, quando as folhas começam a cair das árvores."
+  },
+  {
+    id: 'lesson_6_vocab_a1_33',
+    word: "Yesterday was Friday, and the day before that it was Thursday.",
+    translation: "Ontem foi sexta-feira, e o dia anterior foi quinta-feira.",
+    pronunciation: "/ˈjɛstərˌdeɪ wʌz ˈfraɪdeɪ, ænd ðə deɪ bɪˈfɔr ðæt ɪt wʌz ˈθɜrzdeɪ./",
+    portuguesePhonetic: "iés-ter-dêi uás frái-dêi, énd dâ dêi bi-fór dét ít uás tãrs-dêi.",
+    syllables: ["Yes", "ter", "day", " was", " Fri", "day,", " and", " the", " day", " be", "fore", " that", " it", " was", " Thurs", "day."],
+    exampleSentence: "Yesterday was Friday, and the day before that it was Thursday.",
+    exampleTranslation: "Ontem foi sexta-feira, e o dia anterior foi quinta-feira."
+  },
+  {
+    id: 'lesson_6_vocab_a1_34',
+    word: "The summer in Europe is in June, July and August.",
+    translation: "O verão na Europa é em junho, julho e agosto.",
+    pronunciation: "/ðə ˈsʌmər ɪn ˈjʊrəp ɪz ɪn dʒun, dʒuˈlaɪ ænd ˈɔɡəst./",
+    portuguesePhonetic: "dâ sâm-er ín iú-rop íz ín djún, dju-lái énd ó-gost.",
+    syllables: ["The", " sum", "mer", " in", " Eu", "rope", " is", " in", " June,", " Ju", "ly", " and", " Au", "gust."],
+    exampleSentence: "The summer in Europe is in June, July and August.",
+    exampleTranslation: "O verão na Europa é em junho, julho e agosto."
+  },
+  {
+    id: 'lesson_6_vocab_a1_35',
+    word: "When it is autumn in Europe, it’s spring in Australia.",
+    translation: "Quando é outono na Europa, é primavera na Austrália.",
+    pronunciation: "/wɛn ɪt ɪz ˈɔtəm ɪn ˈjʊrəp, ɪts sprɪŋ ɪn ɔˈstreɪljə./",
+    portuguesePhonetic: "uén ít íz ó-tom ín iú-rop, íts sprín ín os-trêi-lia.",
+    syllables: ["When", " it", " is", " au", "tumn", " in", " Eu", "rope,", " it's", " spring", " in", " Aus", "tra", "lia."],
+    exampleSentence: "When it is autumn in Europe, it’s spring in Australia.",
+    exampleTranslation: "Quando é outono na Europa, é primavera na Austrália."
+  },
+  {
+    id: 'lesson_6_vocab_a1_36',
+    word: "Yesterday was Wednesday; today it is Thursday.",
+    translation: "Ontem foi quarta-feira; hoje é quinta-feira.",
+    pronunciation: "/ˈjɛstərˌdeɪ wʌz ˈwɛnzdeɪ; təˈdeɪ ɪt ɪz ˈθɜrzdeɪ./",
+    portuguesePhonetic: "iés-ter-dêi uás uéns-dêi; tchu-dêi ít íz tãrs-dêi.",
+    syllables: ["Yes", "ter", "day", " was", " Wednes", "day;", " to", "day", " it", " is", " Thurs", "day."],
+    exampleSentence: "Yesterday was Wednesday; today it is Thursday.",
+    exampleTranslation: "Ontem foi quarta-feira; hoje é quinta-feira."
+  },
+  {
+    id: 'lesson_6_vocab_a1_37',
+    word: "October is the month after September.",
+    translation: "Outubro é o mês depois de setembro.",
+    pronunciation: "/ɑkˈtoʊbər ɪz ðə mʌnθ ˈæftər sɛpˈtɛmbər./",
+    portuguesePhonetic: "oc-tôu-ber íz dâ mánth éf-ter sep-tém-ber.",
+    syllables: ["Oc", "to", "ber", " is", " the", " month", " af", "ter", " Sep", "tem", "ber."],
+    exampleSentence: "October is the month after September.",
+    exampleTranslation: "Outubro é o mês depois de setembro."
+  },
+  {
+    id: 'lesson_6_vocab_a1_38',
+    word: "It is cold here in January and February, but it’s not so cold in March.",
+    translation: "Faz frio aqui em janeiro e fevereiro, mas não faz tanto frio em março.",
+    pronunciation: "/ɪt ɪz koʊld hɪr ɪn ˈdʒænjuˌɛri ænd ˈfɛbjuˌɛri, bʌt ɪts nɑt soʊ koʊld ɪn mɑrtʃ./",
+    portuguesePhonetic: "ít íz côuld rír ín djé-niu-é-ri énd fé-biu-é-ri, bât íts nót sôu côuld ín mátch.",
+    syllables: ["It", " is", " cold", " here", " in", " Jan", "u", "ar", "y", " and", " Feb", "ru", "ar", "y,", " but", " it's", " not", " so", " cold", " in", " March."],
+    exampleSentence: "It is cold here in January and February, but it’s not so cold in March.",
+    exampleTranslation: "Faz frio aqui em janeiro e fevereiro, mas não faz tanto frio em março."
+  },
+  {
+    id: 'lesson_6_vocab_a1_39',
+    word: "Today is Friday, so tomorrow is Saturday.",
+    translation: "Hoje é sexta-feira, então amanhã é sábado.",
+    pronunciation: "/təˈdeɪ ɪz ˈfraɪdeɪ, soʊ təˈmɑroʊ ɪz ˈsætərdeɪ./",
+    portuguesePhonetic: "tchu-dêi íz frái-dêi, sôu tchu-mó-rou íz sé-ter-dêi.",
+    syllables: ["To", "day", " is", " Fri", "day,", " so", " to", "mor", "row", " is", " Sat", "ur", "day."],
+    exampleSentence: "Today is Friday, so tomorrow is Saturday.",
+    exampleTranslation: "Hoje é sexta-feira, então amanhã é sábado."
+  },
+  {
+    id: 'lesson_6_vocab_a1_40',
+    word: "I like going to the beach in the summer, when it is very hot.",
+    translation: "Eu gosto de ir à praia no verão, quando está muito quente.",
+    pronunciation: "/aɪ laɪk ˈɡoʊɪŋ to ðə bitʃ ɪn ðə ˈsʌmər, wɛn ɪt ɪz ˈvɛri hɑt./",
+    portuguesePhonetic: "ai láic gôu-in tchu dâ bítch ín dâ sâm-er, uén ít íz vé-ri rót.",
+    syllables: ["I", " like", " go", "ing", " to", " the", " beach", " in", " the", " sum", "mer,", " when", " it", " is", " ver", "y", " hot."],
+    exampleSentence: "I like going to the beach in the summer, when it is very hot.",
+    exampleTranslation: "Eu gosto de ir à praia no verão, quando está muito quente."
+  },
+  {
+    id: 'lesson_6_vocab_a1_41',
+    word: "April comes after March; it is the fourth month of the year.",
+    translation: "Abril vem depois de março; é o quarto mês do ano.",
+    pronunciation: "/ˈeɪprəl kʌmz ˈæftər mɑrtʃ; ɪt ɪz ðə fɔrθ mʌnθ ʌv ðə jɪr./",
+    portuguesePhonetic: "êi-prol cáms éf-ter mártch; ít íz dâ fórth mánth âv dâ iír.",
+    syllables: ["A", "pril", " comes", " af", "ter", " March;", " it", " is", " the", " fourth", " month", " of", " the", " year."],
+    exampleSentence: "April comes after March; it is the fourth month of the year.",
+    exampleTranslation: "Abril vem depois de março; é o quarto mês do ano."
+  },
+  {
+    id: 'lesson_6_vocab_a1_42',
+    word: "The only bad thing about Sunday is that the next day is Monday.",
+    translation: "A única coisa ruim sobre domingo é que o dia seguinte é segunda-feira.",
+    pronunciation: "/ði ˈoʊnli bæd θɪŋ əˈbaʊt ˈsʌndeɪ ɪz ðæt ðə nɛkst deɪ ɪz ˈmʌndeɪ./",
+    portuguesePhonetic: "di ôun-li béd tín a-báut sân-dêi íz dét dâ nécst dêi íz mân-dêi.",
+    syllables: ["The", " on", "ly", " bad", " thing", " a", "bout", " Sun", "day", " is", " that", " the", " next", " day", " is", " Mon", "day."],
+    exampleSentence: "The only bad thing about Sunday is that the next day is Monday.",
+    exampleTranslation: "A única coisa ruim sobre domingo é que o dia seguinte é segunda-feira."
+  },
+  {
+    id: 'lesson_6_vocab_a1_43',
+    word: "My region is very hot in the summer and very cold in the winter.",
+    translation: "Minha região é muito quente no verão e muito fria no inverno.",
+    pronunciation: "/maɪ ˈridʒən ɪz ˈvɛri hɑt ɪn ðə ˈsʌmər ænd ˈvɛri koʊld ɪn ðə ˈwɪntər./",
+    portuguesePhonetic: "mai rí-djon íz vé-ri rót ín dâ sâm-er énd vé-ri côuld ín dâ uín-ter.",
+    syllables: ["My", " re", "gion", " is", " ver", "y", " hot", " in", " the", " sum", "mer", " and", " ver", "y", " cold", " in", " the", " win", "ter."],
+    exampleSentence: "My region is very hot in the summer and very cold in the winter.",
+    exampleTranslation: "Minha região é muito quente no verão e muito fria no inverno."
+  }
+];
+
 export const LESSON_27_DECK: FlashcardData[] = [
   {
     id: 'lesson_27_1',
@@ -21135,43 +23683,22 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   know_work_live: {
     en: KNOW_WORK_LIVE_DECK
   },
-  move_put_revisao: {
-    en: MOVE_PUT_DECK
+  lesson_1_vocabulary_a1: {
+    en: LESSON_1_VOCABULARY_A1_DECK
   },
-  share_rent_revisao: {
-    en: SHARE_RENT_DECK
+  lesson_2_vocabulary_a1: {
+    en: LESSON_2_VOCABULARY_A1_DECK
   },
-  to_be_1_revisao: {
-    en: TO_BE_1_DECK
+  lesson_3_vocabulary_a1: {
+    en: LESSON_3_VOCABULARY_A1_DECK
   },
-  to_be_2_revisao: {
-    en: TO_BE_2_DECK
+  lesson_4_vocabulary_a1: {
+    en: LESSON_4_VOCABULARY_A1_DECK
   },
-  to_be_revisao: {
-    en: TO_BE_DECK
+  lesson_5_vocabulary_a1: {
+    en: LESSON_5_VOCABULARY_A1_DECK
   },
-  begin_choose_revisao: {
-    en: BEGIN_CHOOSE_DECK
-  },
-  lose_find_revisao: {
-    en: LOSE_FIND_DECK
-  },
-  listen_watch_revisao: {
-    en: LISTEN_WATCH_DECK
-  },
-  post_follow_revisao: {
-    en: POST_FOLLOW_DECK
-  },
-  drink_eat_want_revisao: {
-    en: DRINK_EAT_WANT_DECK
-  },
-  go_have_visit_revisao: {
-    en: GO_HAVE_VISIT_DECK
-  },
-  travel_stay_need_revisao: {
-    en: TRAVEL_STAY_NEED_DECK
-  },
-  know_work_live_revisao: {
-    en: KNOW_WORK_LIVE_DECK
+  lesson_6_vocabulary_a1: {
+    en: LESSON_6_VOCABULARY_A1_DECK
   }
 };
