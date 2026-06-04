@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { FlashcardData, SupportedLanguage } from '../types';
-import { RefreshCw, Loader2, Sparkles, Zap, Check, X, Eye, EyeOff, Snail } from 'lucide-react';
+import { RefreshCw, Loader2, Sparkles, Zap, Check, X, Eye, EyeOff, Snail, ArrowLeft } from 'lucide-react';
 import { playLocalAudio } from '../services/geminiService';
 
 interface CardProps {
@@ -10,6 +10,8 @@ interface CardProps {
   targetLanguage: SupportedLanguage;
   onStudy: () => void;
   onKnow: () => void;
+  onPrevious: () => void;
+  isPreviousDisabled: boolean;
 }
 
 type AudioSource = 'local' | 'visual' | 'slow' | null;
@@ -20,7 +22,9 @@ const Card: React.FC<CardProps> = ({
   onFlip, 
   targetLanguage,
   onStudy,
-  onKnow
+  onKnow,
+  onPrevious,
+  isPreviousDisabled
 }) => {
   const [playingSource, setPlayingSource] = useState<AudioSource>(null);
   const [activeSyllableIndex, setActiveSyllableIndex] = useState<number>(-1);
@@ -827,16 +831,16 @@ const Card: React.FC<CardProps> = ({
 
           {/* Bottom Actions Container (FRONT) */}
           <div className="w-full px-4 flex items-center justify-between gap-4 mt-auto pt-4">
-             {/* Estudar Button */}
+             {/* Voltar Button */}
              <button 
-               onClick={(e) => { e.stopPropagation(); onStudy(); }}
-               className="flex flex-col items-center gap-1 text-red-500 dark:text-red-400 hover:scale-105 transition-transform p-2 group/btn"
-               title="Estudar"
+               onClick={(e) => { e.stopPropagation(); if (!isPreviousDisabled) onPrevious(); }}
+               disabled={isPreviousDisabled}
+               className={`flex flex-col items-center gap-1 transition-transform p-2 group/btn ${isPreviousDisabled ? 'opacity-30 cursor-not-allowed' : 'text-slate-500 hover:scale-105 active:scale-95'}`}
+               title="Voltar"
              >
-               <div className="p-3 bg-red-50 dark:bg-red-900/30 rounded-full border border-red-100 dark:border-red-900/50 group-hover/btn:bg-red-100 dark:group-hover/btn:bg-red-900/50 transition-colors">
-                  <X size={24} strokeWidth={3} />
+               <div className="p-3 bg-slate-50 dark:bg-slate-900/30 rounded-full border border-slate-150 dark:border-slate-700/50 group-hover/btn:bg-slate-100 dark:group-hover/btn:bg-slate-900/50 transition-colors">
+                  <ArrowLeft size={24} strokeWidth={3} />
                </div>
-               <span className="text-[10px] font-bold uppercase tracking-wider opacity-70 group-hover/btn:opacity-100">Estudar</span>
              </button>
 
              {/* Flip Button - Central and Large */}
@@ -1017,7 +1021,41 @@ const Card: React.FC<CardProps> = ({
               </div>
             )}
             
-            <p className="text-slate-400 dark:text-slate-500 text-sm mt-2 animate-pulse shrink-0">Toque para voltar</p>
+            <p className="text-slate-400 dark:text-slate-500 text-sm mt-2 animate-pulse shrink-0">Toque para virar</p>
+          </div>
+
+          {/* Bottom Actions Container (BACK) */}
+          <div className="w-full px-4 flex items-center justify-between gap-4 mt-auto pt-4" onClick={(e) => e.stopPropagation()}>
+             {/* Não sei / Estudar Button */}
+             <button 
+               onClick={(e) => { e.stopPropagation(); onStudy(); }}
+               className="flex flex-col items-center gap-1 text-red-500 dark:text-red-400 hover:scale-105 active:scale-95 transition-transform p-2 group/btn"
+               title="Estudar"
+             >
+               <div className="p-3 bg-red-50 dark:bg-red-900/30 rounded-full border border-red-100 dark:border-red-900/50 group-hover/btn:bg-red-100 dark:group-hover/btn:bg-red-900/50 transition-colors">
+                  <X size={24} strokeWidth={3} />
+               </div>
+             </button>
+
+             {/* Flip Button - Central and Large */}
+             <button 
+                 onClick={(e) => { e.stopPropagation(); onFlip(); }} 
+                 className="p-4 bg-slate-100 dark:bg-slate-700 text-indigo-500 dark:text-indigo-400 rounded-full shadow-sm ring-1 ring-slate-200 dark:ring-slate-600 hover:bg-slate-200 dark:hover:bg-slate-600 transition-all hover:scale-110 active:scale-95"
+                 title="Virar Carta"
+             >
+                <RefreshCw size={32} />
+             </button>
+
+             {/* Já sei Button */}
+             <button 
+               onClick={(e) => { e.stopPropagation(); onKnow(); }}
+               className="flex flex-col items-center gap-1 text-green-600 dark:text-green-400 hover:scale-105 active:scale-95 transition-transform p-2 group/btn"
+               title="Já sei"
+             >
+               <div className="p-3 bg-green-50 dark:bg-green-900/30 rounded-full border border-green-100 dark:border-green-900/50 group-hover/btn:bg-green-100 dark:group-hover/btn:bg-green-900/50 transition-colors">
+                  <Check size={24} strokeWidth={3} />
+               </div>
+             </button>
           </div>
         </div>
 

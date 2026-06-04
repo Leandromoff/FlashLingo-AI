@@ -1189,6 +1189,9 @@ import { LESSON_15_VOCABULARY_A1_DECK } from './lesson15';
 import { LESSON_16_VOCABULARY_A1_DECK } from './lesson16';
 import { LESSON_17_VOCABULARY_A1_DECK } from './lesson17';
 import { LESSON_18_VOCABULARY_A1_DECK } from './lesson18';
+import { LECCION_1_W2_S_DECK } from './leccion1_w2_s';
+import { LECCION_3_W2_S_DECK } from './leccion3_w2_s';
+import { LECCION_5_W2_S_DECK } from './leccion5_w2_s';
 
 export const MOVE_PUT_DECK: FlashcardData[] = [
   {
@@ -28614,5 +28617,14 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   lesson_18_vocabulary_a1: {
     en: LESSON_18_VOCABULARY_A1_DECK
+  },
+  leccion_1_w2_s: {
+    es: LECCION_1_W2_S_DECK
+  },
+  leccion_3_w2_s: {
+    es: LECCION_3_W2_S_DECK
+  },
+  leccion_5_w2_s: {
+    es: LECCION_5_W2_S_DECK
   }
 };

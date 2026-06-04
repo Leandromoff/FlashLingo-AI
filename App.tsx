@@ -120,7 +120,8 @@ const App: React.FC = () => {
   const [expandedGroups, setExpandedGroups] = useLocalStorage<Record<string, boolean>>('flashlingo_expanded_groups', {
     'W2': false,
     'W4': false,
-    'Vocabulary A1': false
+    'Vocabulary A1': false,
+    'W2-S': true
   });
 
   const toggleGroup = (groupKey: string) => {
@@ -300,6 +301,61 @@ const App: React.FC = () => {
     }, 150); // Increased slightly to match animation better
   }, []); // Removed 'session' from dependency array to prevent race condition, using ref instead
 
+  const handlePreviousCard = useCallback(() => {
+    if (!sessionRef.current) return;
+
+    setIsCardFlipped(false);
+    
+    setTimeout(() => {
+      setSession(prev => {
+        if (!prev || prev.currentIndex === 0) return prev;
+        
+        const nextIndex = prev.currentIndex - 1;
+        const prevCard = prev.cards[nextIndex];
+        const key = `${prev.topicId}_${prev.language}`;
+        
+        const wasUnknown = prev.unknownCards.some(c => c.id === prevCard.id);
+        
+        const newKnownCount = wasUnknown ? prev.knownCount : Math.max(0, prev.knownCount - 1);
+        const newUnknownCount = wasUnknown ? Math.max(0, prev.unknownCount - 1) : prev.unknownCount;
+        const newUnknownCards = prev.unknownCards.filter(c => c.id !== prevCard.id);
+        
+        if (wasUnknown) {
+          setTopicReviews(reviews => {
+            const existing = reviews[key] || [];
+            return {
+              ...reviews,
+              [key]: existing.filter(c => c.word !== prevCard.word)
+            };
+          });
+        } else {
+          setTopicWords(words => {
+            const existing = words[key] || [];
+            return {
+              ...words,
+              [key]: existing.filter(w => w !== prevCard.word)
+            };
+          });
+        }
+        
+        const nextSessionState = {
+          ...prev,
+          currentIndex: nextIndex,
+          knownCount: newKnownCount,
+          unknownCount: newUnknownCount,
+          unknownCards: newUnknownCards
+        };
+
+        setActiveSessions(sessions => ({
+          ...sessions,
+          [key]: nextSessionState
+        }));
+
+        return nextSessionState;
+      });
+    }, 150);
+  }, []);
+
   const resetApp = () => {
     setAppState(AppState.HOME);
     setSession(null);
@@ -338,7 +394,7 @@ const App: React.FC = () => {
           </div>
       </div>
 
-      {targetLanguage !== 'en' ? (
+      {targetLanguage !== 'en' && targetLanguage !== 'es' ? (
         <div className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-3xl p-10 flex flex-col items-center justify-center text-center mt-4">
           <div className="bg-amber-100 dark:bg-amber-900/30 p-5 rounded-full mb-5">
             <Wrench className="text-amber-600 dark:text-amber-400" size={40} />
@@ -356,10 +412,34 @@ const App: React.FC = () => {
         </div>
       ) : (
         <>
-          {['W2', 'W4', 'Vocabulary A1'].map(groupName => {
+          {(targetLanguage === 'es' ? ['W2-S'] : ['W2', 'W4', 'Vocabulary A1']).map(groupName => {
             const groupTopics = PREDEFINED_TOPICS.filter((t: any) => t.group === groupName);
             if (groupTopics.length === 0) return null;
             const isExpanded = expandedGroups[groupName] === true; // default false
+            
+            const sortedGroupTopics = [...groupTopics].sort((a, b) => {
+              const keyA = getTopicKey(a.id);
+              const learnedCountA = (topicWords[keyA] || []).length;
+              let totalCardsA = CARDS_PER_DECK;
+              if (a.isStatic && STATIC_DECKS[a.id] && STATIC_DECKS[a.id][targetLanguage]) {
+                const uniqueWords = new Set(STATIC_DECKS[a.id][targetLanguage].map(c => (c.word || '').trim()).filter(Boolean));
+                totalCardsA = uniqueWords.size;
+              }
+              const isCompleteA = learnedCountA >= totalCardsA;
+
+              const keyB = getTopicKey(b.id);
+              const learnedCountB = (topicWords[keyB] || []).length;
+              let totalCardsB = CARDS_PER_DECK;
+              if (b.isStatic && STATIC_DECKS[b.id] && STATIC_DECKS[b.id][targetLanguage]) {
+                const uniqueWords = new Set(STATIC_DECKS[b.id][targetLanguage].map(c => (c.word || '').trim()).filter(Boolean));
+                totalCardsB = uniqueWords.size;
+              }
+              const isCompleteB = learnedCountB >= totalCardsB;
+
+              if (isCompleteA && !isCompleteB) return 1;
+              if (!isCompleteA && isCompleteB) return -1;
+              return groupTopics.indexOf(a) - groupTopics.indexOf(b);
+            });
             
             let totalGroupLearned = 0;
             let totalGroupCards = 0;
@@ -397,7 +477,7 @@ const App: React.FC = () => {
                 
                 <div className={`overflow-hidden transition-all duration-500 ease-in-out ${isExpanded ? 'max-h-[5000px] opacity-100 mt-4' : 'max-h-0 opacity-0'}`}>
                   <div className="w-full grid grid-cols-1 gap-4">
-                    {groupTopics.map((topic) => {
+                    {sortedGroupTopics.map((topic) => {
                const key = getTopicKey(topic.id);
                const learnedCount = (topicWords[key] || []).length;
                let totalCards = CARDS_PER_DECK;
@@ -410,13 +490,13 @@ const App: React.FC = () => {
               const progressPercent = Math.min(100, (displayLearnedCount / totalCards) * 100);
               const reviewCount = (topicReviews[key] || []).length;
               const activeSession = activeSessions[key];
-              const isComplete = displayLearnedCount >= totalCards && reviewCount === 0;
+              const isComplete = displayLearnedCount >= totalCards;
               
               return (
                 <div key={topic.id} className="relative bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl p-0 cursor-pointer shadow-sm hover:shadow-md transition-all hover:scale-[1.02] group overflow-hidden flex flex-col sm:flex-row">
                    {/* Left Side - Main Info */}
                    <div 
-                     onClick={() => activeSession ? resumeSession(topic.id) : (isComplete ? null : (reviewCount > 0 ? startSession(topic.label, topic.id, true) : startSession(topic.label, topic.id)))}
+                     onClick={() => activeSession ? resumeSession(topic.id) : (isComplete ? null : startSession(topic.label, topic.id))}
                      className="flex-1 p-5 flex items-center justify-between"
                    >
                        <div className="absolute bottom-0 left-0 h-1 bg-slate-100 dark:bg-slate-700 w-full"><div className="h-full bg-indigo-500 transition-all duration-1000" style={{ width: `${progressPercent}%` }} /></div>
@@ -428,7 +508,7 @@ const App: React.FC = () => {
                               {isComplete ? '100% CONCLUÍDO' : `${displayLearnedCount} / ${totalCards}`}
                             </span>
                             </div>
-                            <div className="flex gap-3 text-sm min-h-[1.25rem]">{reviewCount > 0 && (<span className="text-amber-500 dark:text-amber-400 font-bold flex items-center gap-1 text-xs animate-pulse"><Star size={12} className="fill-current" />{reviewCount} para revisar</span>)}</div>
+                            <div className="flex gap-3 text-sm min-h-[1.25rem]"></div>
                         </div>
                         </div>
                    </div>
@@ -461,7 +541,7 @@ const App: React.FC = () => {
                             </button>
                         ) : (
                             <>
-                                {(displayLearnedCount > 0 || reviewCount > 0) && (
+                                {(displayLearnedCount > 0) && (
                                     <button 
                                         onClick={(e) => resetProgress(topic.id, e)} 
                                         className="h-full px-4 py-3 sm:py-0 text-slate-300 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 transition-colors flex items-center justify-center" 
@@ -471,7 +551,7 @@ const App: React.FC = () => {
                                     </button>
                                 )}
                                 <div 
-                                    onClick={() => reviewCount > 0 ? startSession(topic.label, topic.id, true) : startSession(topic.label, topic.id)}
+                                    onClick={() => startSession(topic.label, topic.id)}
                                     className="h-full px-4 py-3 sm:py-0 flex items-center justify-center text-slate-300 dark:text-slate-600 group-hover:text-indigo-500 dark:group-hover:text-indigo-400 transition-colors"
                                 >
                                     <ArrowRight size={24} />
@@ -537,63 +617,40 @@ const App: React.FC = () => {
            <div className="w-8"></div>
         </div>
         <ProgressBar current={session.currentIndex} total={session.cards.length} />
-        <div className="w-full mb-10"><Card key={currentCard.id} data={currentCard} isFlipped={isCardFlipped} onFlip={() => setIsCardFlipped(!isCardFlipped)} targetLanguage={session.language} onStudy={() => handleCardResult(false)} onKnow={() => handleCardResult(true)} /></div>
+        <div className="w-full mb-10"><Card key={currentCard.id} data={currentCard} isFlipped={isCardFlipped} onFlip={() => setIsCardFlipped(!isCardFlipped)} targetLanguage={session.language} onStudy={() => handleCardResult(false)} onKnow={() => handleCardResult(true)} onPrevious={handlePreviousCard} isPreviousDisabled={session.currentIndex === 0} /></div>
       </div>
     );
   };
   
   const renderSummary = () => {
     if (!session) return null;
-    const score = Math.round((session.knownCount / session.cards.length) * 100);
-    const key = `${session.topicId}_${session.language}`;
-    const reviewList = topicReviews[key] || [];
-    const hasReviewItems = reviewList.length > 0;
-    
-    // Check total learned words to see if the deck is complete
-    const learnedCount = (topicWords[key] || []).length;
-    const staticTopic = PREDEFINED_TOPICS.find(t => t.id === session.topicId);
-    let totalCards = CARDS_PER_DECK;
-    if (staticTopic?.isStatic && STATIC_DECKS[session.topicId] && STATIC_DECKS[session.topicId][session.language]) {
-      const uniqueWords = new Set(STATIC_DECKS[session.topicId][session.language].map(c => (c.word || '').trim()).filter(Boolean));
-      totalCards = uniqueWords.size;
-    }
-      
-    const isCourseComplete = !hasReviewItems && (learnedCount >= totalCards);
     
     return (
-      <div className="max-w-2xl mx-auto px-6 py-12 flex flex-col items-center">
-        <div className={`p-4 rounded-full mb-6 ${isCourseComplete ? 'bg-yellow-100 dark:bg-yellow-900/50 text-yellow-600 dark:text-yellow-400' : 'bg-indigo-100 dark:bg-indigo-900/50 text-indigo-600 dark:text-indigo-400'}`}>{isCourseComplete ? <Trophy size={48} /> : <BookOpen size={48} />}</div>
-        <h2 className="text-3xl font-extrabold text-slate-800 dark:text-white mb-2 text-center">{isCourseComplete ? 'Tópico Concluído!' : session.isBonus ? 'Revisão Concluída' : 'Sessão Finalizada!'}</h2>
-        <p className="text-slate-500 dark:text-slate-400 mb-8 text-center">
-          {isCourseComplete 
-            ? `Você dominou o tópico ${session.topicLabel}.` 
-            : session.isBonus 
-              ? (hasReviewItems ? 'Continue praticando para zerar a lista de revisão.' : 'Revisão zerada! Tópico concluído.') 
-              : (hasReviewItems ? 'Você tem algumas palavras para revisar.' : 'Ótimo trabalho!')}
-        </p>
-        <div className="bg-white dark:bg-slate-800 p-8 rounded-3xl shadow-lg border border-slate-100 dark:border-slate-700 w-full mb-8 text-center">
-          <div className="text-sm text-slate-400 uppercase font-bold tracking-widest mb-2">Aproveitamento</div>
-          <div className="text-6xl font-black mb-2 text-slate-800 dark:text-white">{score}%</div>
-          <p className="text-slate-500 dark:text-slate-400 font-medium">{session.unknownCount > 0 ? `${session.unknownCount} palavras adicionadas à revisão.` : 'Nenhum erro novo nesta sessão!'}</p>
+      <div className="max-w-md mx-auto px-6 py-16 flex flex-col items-center justify-center text-center">
+        <div className="p-5 rounded-full mb-6 bg-yellow-100 dark:bg-yellow-900/40 text-yellow-600 dark:text-yellow-400 border border-yellow-200 dark:border-yellow-800">
+          <Trophy size={48} className="animate-bounce" />
         </div>
-        <div className="flex flex-col gap-3 w-full">
-          {hasReviewItems && (
-            <button onClick={() => startSession(session.topicLabel, session.topicId, true)} className="w-full bg-amber-500 text-white py-4 rounded-xl font-bold hover:bg-amber-600 transition-all shadow-lg shadow-amber-200 dark:shadow-none flex justify-center items-center gap-2 animate-pulse">
-              {session.isBonus ? <RotateCcw size={20} /> : <Star size={20} className="fill-current" />}
-              {session.isBonus ? 'Tentar Revisão Novamente' : 'Revisar Erros'}
-            </button>
-          )}
-          {isCourseComplete && (
-            <div className="w-full flex flex-col gap-3">
-              <div className="w-full bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-300 py-4 rounded-xl font-bold flex justify-center items-center gap-2 border border-green-200 dark:border-green-800/50">
-                <Trophy size={20} /> Parabéns! Você zerou este tópico.
-              </div>
-              <button onClick={(e) => resetProgress(session.topicId, e)} className="w-full bg-white dark:bg-slate-800 border-2 border-red-100 dark:border-red-900/30 text-red-400 py-3 rounded-xl font-bold hover:border-red-300 hover:text-red-600 transition-colors flex justify-center items-center gap-2">
-                <RotateCcw size={16} /> Reiniciar Deck
-              </button>
-            </div>
-          )}
-          <button onClick={() => resetApp()} className="w-full bg-white dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 py-3 rounded-xl font-bold hover:border-slate-300 dark:hover:border-slate-600 transition-colors">
+        <h2 className="text-3xl font-extrabold text-slate-800 dark:text-white mb-3">Você zerou este tópico!</h2>
+        <p className="text-slate-500 dark:text-slate-400 mb-10 max-w-sm">
+          Parabéns! Você completou todos os cards e dominou o tópico <span className="font-semibold text-indigo-600 dark:text-indigo-400">{session.topicLabel}</span>.
+        </p>
+        
+        <div className="flex flex-col gap-3.5 w-full">
+          <button 
+            onClick={(e) => {
+              resetProgress(session.topicId, e);
+              startSession(session.topicLabel, session.topicId);
+            }} 
+            className="w-full bg-indigo-600 hover:bg-indigo-700 text-white py-4 rounded-2xl font-bold transition-all shadow-md hover:scale-[1.01] active:scale-[0.99] flex justify-center items-center gap-2"
+          >
+            <RotateCcw size={20} />
+            Reiniciar Deck
+          </button>
+          
+          <button 
+            onClick={() => resetApp()} 
+            className="w-full bg-white dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300 py-3.5 rounded-2xl font-bold hover:border-slate-300 dark:hover:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-750 transition-all hover:scale-[1.01] active:scale-[0.99]"
+          >
             Voltar ao Menu Principal
           </button>
         </div>
