@@ -138,7 +138,7 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
     pronunciation: "/kompaˈɲeɾo(a) ðe tɾaˈβaxo/",
     portuguesePhonetic: "com-pa-nhê-ro(a) de tra-bá-rro",
     syllables: ["com", "pa", "ñe", "ro(a)", " de", " tra", "ba", "jo"],
-    exampleSentence: "compañero(a) de trabajo",
+    exampleSentence: "compañero(a) de trabalho",
     exampleTranslation: "colega de trabalho"
   },
   {
@@ -188,7 +188,7 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
     pronunciation: "/ʝo ˈβeo a mi βeˈsino en el tɾaˈβaxo./",
     portuguesePhonetic: "iô bê-o a mi be-sí-no en el tra-bá-rro.",
     syllables: ["Yo", " ve", "o", " a", " mi", " ve", "ci", "no", " en", " el", " tra", "ba", "jo."],
-    exampleSentence: "Yo veo a mi vecino en el trabajo.",
+    exampleSentence: "Yo veo a mi vecino en el trabalho.",
     exampleTranslation: "Eu vejo meu vizinho no trabalho."
   },
   {
@@ -363,7 +363,7 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_11_37',
-    word: "¿Ellos hablan inglés en el trabajo?",
+    word: "¿Ellos hablan inglés en el trabalho?",
     translation: "Eles falam inglês no trabalho?",
     pronunciation: "/ˈeʝos ˈaβlan iŋˈgles en el tɾaˈβaxo?/",
     portuguesePhonetic: "ê-ios á-blan in-glés en el tra-bá-rro?",
@@ -618,7 +618,7 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
     pronunciation: "/en el tɾaˈβaxo/",
     portuguesePhonetic: "en el tra-bá-rro",
     syllables: ["en", " el", " tra", "ba", "jo"],
-    exampleSentence: "en el trabajo",
+    exampleSentence: "en el trabalho",
     exampleTranslation: "no trabalho"
   },
   {
