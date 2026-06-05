@@ -1195,6 +1195,31 @@ import { LECCION_5_W2_S_DECK } from './leccion5_w2_s';
 import { LECCION_7_W2_S_DECK } from './leccion7_w2_s';
 import { LECCION_9_W2_S_DECK } from './leccion9_w2_s';
 import { LECCION_11_W2_S_DECK } from './leccion11_w2_s';
+import { LECCION_13_W2_S_DECK } from './leccion13_w2_s';
+import { LECCION_15_W2_S_DECK } from './leccion15_w2_s';
+import { LECCION_17_W2_S_DECK } from './leccion17_w2_s';
+import { LECCION_19_W2_S_DECK } from './leccion19_w2_s';
+import { LECCION_21_W2_S_DECK } from './leccion21_w2_s';
+import { LECCION_23_W2_S_DECK } from './leccion23_w2_s';
+import { LECCION_25_W2_S_DECK } from './leccion25_w2_s';
+import { LECCION_27_W2_S_DECK } from './leccion27_w2_s';
+import { LECCION_29_W2_S_DECK } from './leccion29_w2_s';
+import { LECCION_31_W2_S_DECK } from './leccion31_w2_s';
+import { LECCION_33_W2_S_DECK } from './leccion33_w2_s';
+import { LECCION_35_W2_S_DECK } from './leccion35_w2_s';
+import { LECCION_37_W2_S_DECK } from './leccion37_w2_s';
+import { LECCION_39_W2_S_DECK } from './leccion39_w2_s';
+import { LECCION_41_W2_S_DECK } from './leccion41_w2_s';
+import { LECCION_43_W2_S_DECK } from './leccion43_w2_s';
+import { LECCION_45_W2_S_DECK } from './leccion45_w2_s';
+import { LECCION_47_W2_S_DECK } from './leccion47_w2_s';
+import { LECCION_49_W2_S_DECK } from './leccion49_w2_s';
+import { LECCION_1_VOCABULARIO_A1_S_DECK } from './leccion1_vocabulario_a1_s';
+import { LECCION_2_VOCABULARIO_A1_S_DECK } from './leccion2_vocabulario_a1_s';
+import { LECCION_3_VOCABULARIO_A1_S_DECK } from './leccion3_vocabulario_a1_s';
+import { LECCION_4_VOCABULARIO_A1_S_DECK } from './leccion4_vocabulario_a1_s';
+import { LECCION_5_VOCABULARIO_A1_S_DECK } from './leccion5_vocabulario_a1_s';
+import { LECCION_6_VOCABULARIO_A1_S_DECK } from './leccion6_vocabulario_a1_s';
 
 export const MOVE_PUT_DECK: FlashcardData[] = [
   {
@@ -28638,5 +28663,80 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   leccion_11_w2_s: {
     es: LECCION_11_W2_S_DECK
+  },
+  leccion_13_w2_s: {
+    es: LECCION_13_W2_S_DECK
+  },
+  leccion_15_w2_s: {
+    es: LECCION_15_W2_S_DECK
+  },
+  leccion_17_w2_s: {
+    es: LECCION_17_W2_S_DECK
+  },
+  leccion_19_w2_s: {
+    es: LECCION_19_W2_S_DECK
+  },
+  leccion_21_w2_s: {
+    es: LECCION_21_W2_S_DECK
+  },
+  leccion_23_w2_s: {
+    es: LECCION_23_W2_S_DECK
+  },
+  leccion_25_w2_s: {
+    es: LECCION_25_W2_S_DECK
+  },
+  leccion_27_w2_s: {
+    es: LECCION_27_W2_S_DECK
+  },
+  leccion_29_w2_s: {
+    es: LECCION_29_W2_S_DECK
+  },
+  leccion_31_w2_s: {
+    es: LECCION_31_W2_S_DECK
+  },
+  leccion_33_w2_s: {
+    es: LECCION_33_W2_S_DECK
+  },
+  leccion_35_w2_s: {
+    es: LECCION_35_W2_S_DECK
+  },
+  leccion_37_w2_s: {
+    es: LECCION_37_W2_S_DECK
+  },
+  leccion_39_w2_s: {
+    es: LECCION_39_W2_S_DECK
+  },
+  leccion_41_w2_s: {
+    es: LECCION_41_W2_S_DECK
+  },
+  leccion_43_w2_s: {
+    es: LECCION_43_W2_S_DECK
+  },
+  leccion_45_w2_s: {
+    es: LECCION_45_W2_S_DECK
+  },
+  leccion_47_w2_s: {
+    es: LECCION_47_W2_S_DECK
+  },
+  leccion_49_w2_s: {
+    es: LECCION_49_W2_S_DECK
+  },
+  leccion_1_vocabulario_a1_s: {
+    es: LECCION_1_VOCABULARIO_A1_S_DECK
+  },
+  leccion_2_vocabulario_a1_s: {
+    es: LECCION_2_VOCABULARIO_A1_S_DECK
+  },
+  leccion_3_vocabulario_a1_s: {
+    es: LECCION_3_VOCABULARIO_A1_S_DECK
+  },
+  leccion_4_vocabulario_a1_s: {
+    es: LECCION_4_VOCABULARIO_A1_S_DECK
+  },
+  leccion_5_vocabulario_a1_s: {
+    es: LECCION_5_VOCABULARIO_A1_S_DECK
+  },
+  leccion_6_vocabulario_a1_s: {
+    es: LECCION_6_VOCABULARIO_A1_S_DECK
   }
 };

@@ -1,0 +1,644 @@
+import { FlashcardData } from '../types';
+
+export const LECCION_49_W2_S_DECK: FlashcardData[] = [
+  {
+    id: 'leccion_49_1',
+    word: "llevar / usar",
+    translation: "vestir, usar",
+    pronunciation: "/ʝe-ˈβaɾ o u-ˈsaɾ/",
+    portuguesePhonetic: "lie-bár / u-sár",
+    syllables: ["lle", "var", " /", " u", "sar"],
+    exampleSentence: "llevar / usar",
+    exampleTranslation: "vestir, usar"
+  },
+  {
+    id: 'leccion_49_2',
+    word: "cambiar",
+    translation: "trocar, mudar",
+    pronunciation: "/kam-ˈbjaɾ/",
+    portuguesePhonetic: "cam-biár",
+    syllables: ["cam", "biar"],
+    exampleSentence: "cambiar",
+    exampleTranslation: "trocar, mudar"
+  },
+  {
+    id: 'leccion_49_3',
+    word: "camisa",
+    translation: "blusa, camisa",
+    pronunciation: "/ka-ˈmi-sa/",
+    portuguesePhonetic: "ca-mí-sa",
+    syllables: ["ca", "mi", "sa"],
+    exampleSentence: "camisa",
+    exampleTranslation: "blusa, camisa"
+  },
+  {
+    id: 'leccion_49_4',
+    word: "camiseta",
+    translation: "camiseta",
+    pronunciation: "/ka-mi-ˈse-ta/",
+    portuguesePhonetic: "ca-mi-sê-ta",
+    syllables: ["ca", "mi", "se", "ta"],
+    exampleSentence: "camiseta",
+    exampleTranslation: "camiseta"
+  },
+  {
+    id: 'leccion_49_5',
+    word: "pantalones",
+    translation: "calça",
+    pronunciation: "/pan-ta-ˈlo-nes/",
+    portuguesePhonetic: "pan-ta-ló-nes",
+    syllables: ["pan", "ta", "lo", "nes"],
+    exampleSentence: "pantalones",
+    exampleTranslation: "calça"
+  },
+  {
+    id: 'leccion_49_6',
+    word: "vaqueros / jeans",
+    translation: "calça jeans",
+    pronunciation: "/βa-ˈke-ɾos o dʒins/",
+    portuguesePhonetic: "ba-kê-ros / djins",
+    syllables: ["va", "que", "ros", " /", " jeans"],
+    exampleSentence: "vaqueros / jeans",
+    exampleTranslation: "calça jeans"
+  },
+  {
+    id: 'leccion_49_7',
+    word: "falda",
+    translation: "saia",
+    pronunciation: "/ˈfal-da/",
+    portuguesePhonetic: "fál-da",
+    syllables: ["fal", "da"],
+    exampleSentence: "falda",
+    exampleTranslation: "saia"
+  },
+  {
+    id: 'leccion_49_8',
+    word: "vestido",
+    translation: "vestido",
+    pronunciation: "/βes-ˈti-ðo/",
+    portuguesePhonetic: "bes-tí-do",
+    syllables: ["ves", "ti", "do"],
+    exampleSentence: "vestido",
+    exampleTranslation: "vestido"
+  },
+  {
+    id: 'leccion_49_9',
+    word: "chaqueta",
+    translation: "jaqueta",
+    pronunciation: "/tʃa-ˈke-ta/",
+    portuguesePhonetic: "tcha-kê-ta",
+    syllables: ["cha", "que", "ta"],
+    exampleSentence: "chaqueta",
+    exampleTranslation: "jaqueta"
+  },
+  {
+    id: 'leccion_49_10',
+    word: "abrigo",
+    translation: "casaco",
+    pronunciation: "/a-ˈβɾi-ɣo/",
+    portuguesePhonetic: "a-brí-go",
+    syllables: ["a", "bri", "go"],
+    exampleSentence: "abrigo",
+    exampleTranslation: "casaco"
+  },
+  {
+    id: 'leccion_49_11',
+    word: "zapatillas / tenis",
+    translation: "tênis",
+    pronunciation: "/θa-pa-ˈti-ʝas o ˈte-nis/",
+    portuguesePhonetic: "za-pa-tí-lias / tê-nis",
+    syllables: ["za", "pa", "ti", "llas", " /", " te", "nis"],
+    exampleSentence: "zapatillas / tenis",
+    exampleTranslation: "tênis"
+  },
+  {
+    id: 'leccion_49_12',
+    word: "traje",
+    translation: "terno",
+    pronunciation: "/ˈtɾa-xe/",
+    portuguesePhonetic: "trá-rhe",
+    syllables: ["tra", "je"],
+    exampleSentence: "traje",
+    exampleTranslation: "terno"
+  },
+  {
+    id: 'leccion_49_13',
+    word: "pantalones cortos / shorts",
+    translation: "bermuda",
+    pronunciation: "/pan-ta-ˈlo-nes ˈkoɾ-tos/",
+    portuguesePhonetic: "pan-ta-ló-nes cór-tos / xórts",
+    syllables: ["pan", "ta", "lo", "nes", " cor", "tos"],
+    exampleSentence: "pantalones cortos / shorts",
+    exampleTranslation: "bermuda"
+  },
+  {
+    id: 'leccion_49_14',
+    word: "gafas / lentes",
+    translation: "óculos",
+    pronunciation: "/ˈɡa-fas o ˈlen-tes/",
+    portuguesePhonetic: "gá-fas / lén-tes",
+    syllables: ["ga", "fas", " /", " len", "tes"],
+    exampleSentence: "gafas / lentes",
+    exampleTranslation: "óculos"
+  },
+  {
+    id: 'leccion_49_15',
+    word: "reloj",
+    translation: "relógio",
+    pronunciation: "/ɾe-ˈlox/",
+    portuguesePhonetic: "re-lórh",
+    syllables: ["re", "loj"],
+    exampleSentence: "reloj",
+    exampleTranslation: "relógio"
+  },
+  {
+    id: 'leccion_49_16',
+    word: "conjunto / ropa / atuendo",
+    translation: "roupa, conjunto",
+    pronunciation: "/kon-ˈxun-to o a-ˈtwen-do/",
+    portuguesePhonetic: "con-rhún-to / a-tuên-do",
+    syllables: ["con", "jun", "to", " /", " a", "tuen", "do"],
+    exampleSentence: "conjunto / ropa / atuendo",
+    exampleTranslation: "roupa, conjunto"
+  },
+  {
+    id: 'leccion_49_17',
+    word: "estilo",
+    translation: "estilo",
+    pronunciation: "/es-ˈti-lo/",
+    portuguesePhonetic: "es-tí-lo",
+    syllables: ["es", "ti", "lo"],
+    exampleSentence: "estilo",
+    exampleTranslation: "estilo"
+  },
+  {
+    id: 'leccion_49_18',
+    word: "especial",
+    translation: "especial",
+    pronunciation: "/es-pe-ˈθjal/",
+    portuguesePhonetic: "es-pe-ciál",
+    syllables: ["es", "pe", "cial"],
+    exampleSentence: "especial",
+    exampleTranslation: "especial"
+  },
+  {
+    id: 'leccion_49_19',
+    word: "Quiero comprar un par de zapatos.",
+    translation: "Eu quero comprar um par de sapatos.",
+    pronunciation: "/ˈkje-ɾo kom-ˈpɾaɾ un paɾ ðe θa-ˈpa-tos/",
+    portuguesePhonetic: "quiê-ro com-prár un pár de za-pá-tos",
+    syllables: ["Quie", "ro", " com", "prar", " un", " par", " de", " za", "pa", "tos."],
+    exampleSentence: "Quiero comprar un par de zapatos.",
+    exampleTranslation: "Eu quero comprar um par de sapatos."
+  },
+  {
+    id: 'leccion_49_20',
+    word: "Quiero probarme ese vestido.",
+    translation: "Eu quero provar aquele vestido.",
+    pronunciation: "/ˈkje-ɾo pɾo-ˈβaɾ-me ˈe-se βes-ˈti-ðo/",
+    portuguesePhonetic: "quiê-ro pro-bár-me és-se bes-tí-do",
+    syllables: ["Quie", "ro", " pro", "bar", "me", " e", "se", " ves", "ti", "do."],
+    exampleSentence: "Quiero probarme ese vestido.",
+    exampleTranslation: "Eu quero provar aquele vestido."
+  },
+  {
+    id: 'leccion_49_21',
+    word: "¿Qué talla eres? / ¿Qué talla usas?",
+    translation: "Que tamanho você usa?",
+    pronunciation: "/ke ˈta-ʝa ˈe-ɾes o ke ˈta-ʝa ˈu-sas/",
+    portuguesePhonetic: "¿quê tá-lia ê-res? / ¿quê tá-lia ú-sas?",
+    syllables: ["¿Qué", " ta", "lla", " e", "res?", " /", " ¿Qué", " ta", "lla", " u", "sas?"],
+    exampleSentence: "¿Qué talla eres?",
+    exampleTranslation: "Que tamanho você usa?"
+  },
+  {
+    id: 'leccion_49_22',
+    word: "Estoy esperando al médico.",
+    translation: "Eu estou esperando pelo médico.",
+    pronunciation: "/es-ˈtoi es-pe-ˈɾan-ðo al ˈme-ði-ko/",
+    portuguesePhonetic: "es-tói es-pe-rán-do al mé-di-co",
+    syllables: ["Es", "toy", " es", "pe", "ran", "do", " al", " mé", "di", "co."],
+    exampleSentence: "Estoy esperando al médico.",
+    exampleTranslation: "Eu estou esperando pelo médico."
+  },
+  {
+    id: 'leccion_49_23',
+    word: "Llevas puesto un abrigo hermoso.",
+    translation: "Você está usando um casaco bonito.",
+    pronunciation: "/ˈʝe-βas ˈpwes-to un a-ˈβɾi-ɣo eɾ-ˈmo-so/",
+    portuguesePhonetic: "lié-bas puês-to un a-brí-go er-mó-so",
+    syllables: ["Lle", "vas", " pues", "to", " un", " a", "bri", "go", " her", "mo", "so."],
+    exampleSentence: "Llevas puesto un abrigo hermoso.",
+    exampleTranslation: "Você está usando um casaco bonito."
+  },
+  {
+    id: 'leccion_49_24',
+    word: "Ella se está cambiando de ropa.",
+    translation: "Ela está mudando a roupa dela.",
+    pronunciation: "/ˈe-ʝa se es-ˈta kam-ˈbjan-ðo ðe ˈɾo-pa/",
+    portuguesePhonetic: "ê-lia se es-tá cam-bián-do de ró-pa",
+    syllables: ["E", "lla", " se", " es", "ta", " cam", "bian", "do", " de", " ro", "pa."],
+    exampleSentence: "Ella se está cambiando de ropa.",
+    exampleTranslation: "Ela está mudando a roupa dela."
+  },
+  {
+    id: 'leccion_49_25',
+    word: "Él está haciendo un pastel delicioso.",
+    translation: "Ele está fazendo um bolo delicioso.",
+    pronunciation: "/el es-ˈta a-ˈθjen-ðo un pas-ˈtel de-li-ˈθjo-so/",
+    portuguesePhonetic: "él es-tá a-ciên-do un pas-tél de-li-ció-so",
+    syllables: ["Él", " es", "ta", " ha", "cien", "do", " un", " pas", "tel", " de", "li", "cio", "so."],
+    exampleSentence: "Él está haciendo un pastel delicioso.",
+    exampleTranslation: "Ele está fazendo um bolo delicioso."
+  },
+  {
+    id: 'leccion_49_26',
+    word: "La clase está comenzando ahora.",
+    translation: "A aula está começando agora.",
+    pronunciation: "/la ˈkla-se es-ˈta ko-men-ˈθan-ðo a-ˈo-ɾa/",
+    portuguesePhonetic: "la clá-se es-tá co-men-cán-do a-ó-ra",
+    syllables: ["La", " cla", "se", " es", "ta", " co", "men", "zan", "do", " a", "ho", "ra."],
+    exampleSentence: "La clase está comenzando agora.",
+    exampleTranslation: "A aula está começando agora."
+  },
+  {
+    id: 'leccion_49_27',
+    word: "Ellos están viendo una película ahora.",
+    translation: "Eles estão assistindo um filme agora.",
+    pronunciation: "/ˈe-ʝos es-ˈtan ˈβjen-ðo ˈu-na pe-ˈli-ku-la a-ˈo-ɾa/",
+    portuguesePhonetic: "ê-lios es-tán biên-do ú-na pe-lí-cu-la a-ó-ra",
+    syllables: ["E", "llos", " es", "tan", " vien", "do", " u", "na", " pe", "lí", "cu", "la", " a", "ho", "ra."],
+    exampleSentence: "Ellos están viendo una película ahora.",
+    exampleTranslation: "Eles estão assistindo um filme agora."
+  },
+  {
+    id: 'leccion_49_28',
+    word: "Estamos leyendo una historia divertida.",
+    translation: "Nós estamos lendo uma história engraçada.",
+    pronunciation: "/es-ˈta-mos le-ˈʝen-ðo ˈu-na is-ˈto-ja ði-βeɾ-ˈti-ða/",
+    portuguesePhonetic: "es-tá-mos lei-ên-do ú-na is-tó-ria di-ber-tí-da",
+    syllables: ["Es", "ta", "mos", " le", "yen", "do", " u", "na", " his", "to", "ria", " di", "ver", "ti", "da."],
+    exampleSentence: "Estamos leyendo una historia divertida.",
+    exampleTranslation: "Nós estamos lendo uma história engraçada."
+  },
+  {
+    id: 'leccion_49_29',
+    word: "Los niños están estudiando en la sala.",
+    translation: "As crianças estão estudando na sala.",
+    pronunciation: "/los ˈni-ɲos es-ˈtan es-tu-ˈðjan-ðo en la ˈsal-a/",
+    portuguesePhonetic: "los ní-nhios es-tán es-tu-dián-do en la sá-la",
+    syllables: ["Los", " ni", "ños", " es", "tan", " es", "tu", "dian", "do", " en", " la", " sa", "la."],
+    exampleSentence: "Los niños están estudiando en la sala.",
+    exampleTranslation: "As crianças estão estudando na sala."
+  },
+  {
+    id: 'leccion_49_30',
+    word: "Quiero probarme esta camisa.",
+    translation: "Eu quero provar esta camisa.",
+    pronunciation: "/ˈkje-ɾo pɾo-ˈβaɾ-me ˈes-ta ka-ˈmi-sa/",
+    portuguesePhonetic: "quiê-ro pro-bár-me és-ta ca-mí-sa",
+    syllables: ["Quie", "ro", " pro", "bar", "me", " es", "ta", " ca", "mi", "sa."],
+    exampleSentence: "Quiero probarme esta camisa.",
+    exampleTranslation: "Eu quero provar esta camisa."
+  },
+  {
+    id: 'leccion_49_31',
+    word: "¡Llevas puestos calcetines divertidos!",
+    translation: "Você está usando meias engraçadas!",
+    pronunciation: "/ˈʝe-βas ˈpwes-tos kal-θe-ˈti-nes ði-βeɾ-ˈti-ðos/",
+    portuguesePhonetic: "lié-bas puês-tos cal-ce-tí-nes di-ber-tí-dos!",
+    syllables: ["¡Lle", "vas", " pues", "tos", " cal", "ce", "ti", "nes", " di", "ver", "ti", "dos!"] ,
+    exampleSentence: "¡Llevas puestos calcetines divertidos!",
+    exampleTranslation: "Você está usando meias engraçadas!"
+  },
+  {
+    id: 'leccion_49_32',
+    word: "Necesito cambiarme de ropa antes de irnos.",
+    translation: "Eu preciso trocar minhas roupas antes de irmos.",
+    pronunciation: "/ne-θe-ˈsi-to kam-ˈbjaɾ-me ðe ˈɾo-pa ˈan-tes ðe ˈiɾ-nos/",
+    portuguesePhonetic: "ne-ce-sí-to cam-biár-me de ró-pa án-tes de ír-nos",
+    syllables: ["Ne", "ce", "si", "to", " cam", "biar", "me", " de", " ro", "pa", " an", "tes", " de", " ir", "nos."],
+    exampleSentence: "Necesito cambiarme de ropa antes de irnos.",
+    exampleTranslation: "Eu preciso trocar minhas roupas antes de irmos."
+  },
+  {
+    id: 'leccion_49_33',
+    word: "¿Quieres probarte los pantalones azules?",
+    translation: "Você quer provar a calça azul?",
+    pronunciation: "/ˈkje-ɾes pɾo-ˈβaɾ-te los pan-ta-ˈlo-nes a-ˈθu-les/",
+    portuguesePhonetic: "¿quiê-res pro-bár-te los pan-ta-ló-nes a-zú-les?",
+    syllables: ["¿Quie", "res", " pro", "bar", "te", " los", " pan", "ta", "lo", "nes", " a", "zu", "les?"],
+    exampleSentence: "¿Quieres probarte los pantalones azules?",
+    exampleTranslation: "Você quer provar a calça azul?"
+  },
+  {
+    id: 'leccion_49_34',
+    word: "Prefiero usar ropa cómoda para trabajar.",
+    translation: "Eu prefiro usar roupas confortáveis para o trabalho.",
+    pronunciation: "/pɾe-ˈfje-ɾo u-ˈsaɾ ˈɾo-pa ˈko-mo-ða ˈpa-ɾa tɾa-βa-ˈxaɾ/",
+    portuguesePhonetic: "pre-fiê-ro u-sár ró-pa có-mo-da pá-ra tra-ba-rhár",
+    syllables: ["Pre", "fie", "ro", " u", "sar", " ro", "pa", " có", "mo", "da", " pa", "ra", " tra", "ba", "jar."],
+    exampleSentence: "Prefiero usar ropa cómoda para trabajar.",
+    exampleTranslation: "Eu prefiro usar roupas confortáveis para o trabalho."
+  },
+  {
+    id: 'leccion_49_35',
+    word: "Él siempre usa gafas de sol.",
+    translation: "Ele está sempre usando óculos de sol.",
+    pronunciation: "/el ˈsjem-pɾe ˈu-sa ˈɣa-fas ðe sol/",
+    portuguesePhonetic: "él siêm-pre ú-sa gá-fas de sol",
+    syllables: ["Él", " siem", "pre", " u", "sa", " ga", "fas", " de", " sol."],
+    exampleSentence: "Él siempre usa gafas de sol.",
+    exampleTranslation: "Ele está sempre usando óculos de sol."
+  },
+  {
+    id: 'leccion_49_36',
+    word: "Me gusta mucho el traje que llevas hoy.",
+    translation: "Eu gosto muito do terno que você está usando hoje.",
+    pronunciation: "/me ˈɣus-ta ˈmu-tʃo el ˈtɾa-xe ke ˈʝe-βas oj/",
+    portuguesePhonetic: "me gús-ta mú-tcho él trá-rhe que lié-bas ói",
+    syllables: ["Me", " gus", "ta", " mu", "cho", " el", " tra", "je", " que", " lle", "vas", " hoy."],
+    exampleSentence: "Me gusta mucho el traje que llevas hoy.",
+    exampleTranslation: "Eu gosto muito do terno que você está usando hoje."
+  },
+  {
+    id: 'leccion_49_37',
+    word: "Ella está hablando con la vendedora agora.",
+    translation: "Ela está falando com a vendedora agora.",
+    pronunciation: "/ˈe-ʝa es-ˈta a-ˈβlan-ðo kon la βen-de-ˈðo-ɾa a-ˈo-ɾa/",
+    portuguesePhonetic: "ê-lia es-tá a-blán-do con la ben-de-dó-ra a-ó-ra",
+    syllables: ["E", "lla", " es", "ta", " ha", "blan", "do", " con", " la", " ven", "de", "do", "ra", " a", "ho", "ra."],
+    exampleSentence: "Ella está hablando con la vendedora agora.",
+    exampleTranslation: "Ela está falando com a vendedora agora."
+  },
+  {
+    id: 'leccion_49_38',
+    word: "Nos estamos cambiando de ropa para ir al bar.",
+    translation: "Nós estamos mudando nossa roupa para ir ao bar.",
+    pronunciation: "/nos es-ˈta-mos kam-ˈbjan-ðo ðe ˈɾo-pa ˈpa-ɾa iɾ al βaɾ/",
+    portuguesePhonetic: "nôs es-tá-mos cam-bián-do de ró-pa pá-ra ír al bár",
+    syllables: ["Nos", " es", "ta", "mos", " cam", "bian", "do", " de", " ro", "pa", " pa", "ra", " ir", " al", " bar."],
+    exampleSentence: "Nos estamos cambiando de ropa para ir al bar.",
+    exampleTranslation: "Nós estamos mudando nossa roupa para ir ao bar."
+  },
+  {
+    id: 'leccion_49_39',
+    word: "Ellos te están esperando en el centro comercial.",
+    translation: "Eles estão esperando por você no shopping.",
+    pronunciation: "/ˈe-ʝos te es-ˈtan es-pe-ˈɾan-ðo en el ˈθen-tɾo ko-meɾ-ˈθjal/",
+    portuguesePhonetic: "ê-lios te es-tán es-pe-rán-do en él cên-tro co-mer-ciál",
+    syllables: ["E", "llos", " te", " es", "tan", " es", "pe", "ran", "do", " en", " el", " cen", "tro", " co", "mer", "cial."],
+    exampleSentence: "Ellos te están esperando en el centro comercial.",
+    exampleTranslation: "Eles estão esperando por você no shopping."
+  },
+  {
+    id: 'leccion_49_40',
+    word: "Estoy comprando unos pantalones nuevos para mi esposo.",
+    translation: "Eu estou comprando um par de calças novo para meu marido.",
+    pronunciation: "/es-ˈtoi kom-ˈpɾan-ðo ˈu-nos pan-ta-ˈlo-nes ˈnwe-βos ˈpa-ɾa mi es-ˈpo-so/",
+    portuguesePhonetic: "es-tói com-prán-do ú-nos pan-ta-ló-nes nuê-bos pá-ra mi es-pó-so",
+    syllables: ["Es", "toy", " com", "pran", "do", " u", "nos", " pan", "ta", "lo", "nes", " nue", "vos", " pa", "ra", " mi", " es", "po", "so."],
+    exampleSentence: "Estoy comprando unos pantalones nuevos para mi esposo.",
+    exampleTranslation: "Eu estou comprando um par de calças novo para meu marido."
+  },
+  {
+    id: 'leccion_49_41',
+    word: "pequeño / chico",
+    translation: "pequeno / P",
+    pronunciation: "/pe-ˈke-ɲo o ˈtʃi-ko/",
+    portuguesePhonetic: "pe-qué-nho / tchí-co",
+    syllables: ["pe", "que", "ño", " /", " chi", "do"],
+    exampleSentence: "pequeño / chico",
+    exampleTranslation: "pequeno / P"
+  },
+  {
+    id: 'leccion_49_42',
+    word: "mediano",
+    translation: "médio / M",
+    pronunciation: "/me-ˈðja-no/",
+    portuguesePhonetic: "me-diá-no",
+    syllables: ["me", "dia", "no"],
+    exampleSentence: "mediano",
+    exampleTranslation: "médio / M"
+  },
+  {
+    id: 'leccion_49_43',
+    word: "grande",
+    translation: "grande / G",
+    pronunciation: "/ˈgɾan-de/",
+    portuguesePhonetic: "grán-de",
+    syllables: ["gran", "de"],
+    exampleSentence: "grande",
+    exampleTranslation: "grande / G"
+  },
+  {
+    id: 'leccion_49_44',
+    word: "un par de zapatos",
+    translation: "um par de sapatos",
+    pronunciation: "/un paɾ ðe θa-ˈpa-tos/",
+    portuguesePhonetic: "un pár de za-pá-tos",
+    syllables: ["un", " par", " de", " za", "pa", "tos"],
+    exampleSentence: "un par de zapatos",
+    exampleTranslation: "um par de sapatos"
+  },
+  {
+    id: 'leccion_49_45',
+    word: "un par de zapatillas / tenis",
+    translation: "um par de tênis",
+    pronunciation: "/un paɾ ðe θa-pa-ˈti-ʝas/",
+    portuguesePhonetic: "un pár de za-pa-tí-lias / tê-nis",
+    syllables: ["un", " par", " de", " za", "pa", "ti", "llas"],
+    exampleSentence: "un par de zapatillas / tenis",
+    exampleTranslation: "um par de tênis"
+  },
+  {
+    id: 'leccion_49_46',
+    word: "un pantalón / unos pantalones",
+    translation: "um (par de) calça",
+    pronunciation: "/un pan-ta-ˈlon o ˈu-nos pan-ta-ˈlo-nes/",
+    portuguesePhonetic: "un pan-ta-lón / ú-nos pan-ta-ló-nes",
+    syllables: ["un", " pan", "ta", "lón", " /", " u", "nos", " pan", "ta", "lo", "nes"],
+    exampleSentence: "un pantalón / unos pantalones",
+    exampleTranslation: "um (par de) calça"
+  },
+  {
+    id: 'leccion_49_47',
+    word: "un pantalón corto / unos pantalones cortos",
+    translation: "um (par de) bermuda",
+    pronunciation: "/un pan-ta-ˈlon ˈkoɾ-to o ˈu-nos pan-ta-ˈlo-nes ˈkoɾ-tos/",
+    portuguesePhonetic: "un pan-ta-lón cór-to / ú-nos pan-ta-ló-nes cór-tos",
+    syllables: ["un", " pan", "ta", "lón", " cor", "to", " /", " u", "nos", " pan", "ta", "lo", "nes", " cor", "tos"],
+    exampleSentence: "un pantalón corto / unos pantalones cortos",
+    exampleTranslation: "um (par de) bermuda"
+  },
+  {
+    id: 'leccion_49_48',
+    word: "un vaquero / unos vaqueros / unos jeans",
+    translation: "um (par de) calça jeans",
+    pronunciation: "/un βa-ˈke-ɾo o ˈu-nos βa-ˈke-ɾos/",
+    portuguesePhonetic: "un ba-quê-ro / ú-nos ba-quê-ros / ú-nos djins",
+    syllables: ["un", " va", "que", "ro", " /", " u", "nos", " va", "que", "ros", " /", " u", "nos", " jeans"],
+    exampleSentence: "un vaquero / unos vaqueros / unos jeans",
+    exampleTranslation: "um (par de) calça jeans"
+  },
+  {
+    id: 'leccion_49_49',
+    word: "azul",
+    translation: "azul",
+    pronunciation: "/a-ˈθul/",
+    portuguesePhonetic: "a-zúl",
+    syllables: ["a", "zul"],
+    exampleSentence: "azul",
+    exampleTranslation: "azul"
+  },
+  {
+    id: 'leccion_49_50',
+    word: "negro",
+    translation: "preto",
+    pronunciation: "/ˈne-ɣɾo/",
+    portuguesePhonetic: "nê-gro",
+    syllables: ["ne", "gro"],
+    exampleSentence: "negro",
+    exampleTranslation: "preto"
+  },
+  {
+    id: 'leccion_49_51',
+    word: "rosa / rosado",
+    translation: "rosa",
+    pronunciation: "/ˈɾo-sa o ɾo-ˈsa-ðo/",
+    portuguesePhonetic: "ró-sa / ro-sá-do",
+    syllables: ["ro", "sa", " /", " ro", "sa", "do"],
+    exampleSentence: "rosa / rosado",
+    exampleTranslation: "rosa"
+  },
+  {
+    id: 'leccion_49_52',
+    word: "morado / púrpura",
+    translation: "roxo",
+    pronunciation: "/mo-ˈɾa-ðo/",
+    portuguesePhonetic: "mo-rá-do / púr-pu-ra",
+    syllables: ["mo", "ra", "do", " /", " púr", "pu", "ra"],
+    exampleSentence: "morado / púrpura",
+    exampleTranslation: "roxo"
+  },
+  {
+    id: 'leccion_49_53',
+    word: "rojo",
+    translation: "vermelho",
+    pronunciation: "/ˈɾo-xo/",
+    portuguesePhonetic: "ró-rho",
+    syllables: ["ro", "jo"],
+    exampleSentence: "rojo",
+    exampleTranslation: "vermelho"
+  },
+  {
+    id: 'leccion_49_54',
+    word: "naranja / anaranjado",
+    translation: "laranja",
+    pronunciation: "/na-ˈɾaŋ-xa/",
+    portuguesePhonetic: "na-rán-rha / a-na-ran-rhá-do",
+    syllables: ["na", "ran", "ja"],
+    exampleSentence: "naranja / anaranjado",
+    exampleTranslation: "laranja"
+  },
+  {
+    id: 'leccion_49_55',
+    word: "marrón / café",
+    translation: "marrom",
+    pronunciation: "/ma-ˈron/",
+    portuguesePhonetic: "ma-rrón / ca-fé",
+    syllables: ["ma", "rrón"],
+    exampleSentence: "marrón / café",
+    exampleTranslation: "marrom"
+  },
+  {
+    id: 'leccion_49_56',
+    word: "gris",
+    translation: "cinza",
+    pronunciation: "/ɡɾis/",
+    portuguesePhonetic: "grís",
+    syllables: ["gris"],
+    exampleSentence: "gris",
+    exampleTranslation: "cinza"
+  },
+  {
+    id: 'leccion_49_57',
+    word: "amarillo",
+    translation: "amarelo",
+    pronunciation: "/a-ma-ˈɾi-ʝo/",
+    portuguesePhonetic: "a-ma-rí-lio",
+    syllables: ["a", "ma", "ri", "llo"],
+    exampleSentence: "amarillo",
+    exampleTranslation: "amarelo"
+  },
+  {
+    id: 'leccion_49_58',
+    word: "verde",
+    translation: "verde",
+    pronunciation: "/ˈβeɾ-ðe/",
+    portuguesePhonetic: "bêr-de",
+    syllables: ["ver", "de"],
+    exampleSentence: "verde",
+    exampleTranslation: "verde"
+  },
+  {
+    id: 'leccion_49_59',
+    word: "¿Cuánto cuesta esta falda?",
+    translation: "Quanto custa esta saia?",
+    pronunciation: "/ˈkwan-to ˈkwes-ta ˈes-ta ˈfal-da/",
+    portuguesePhonetic: "¿cuán-to cuês-ta és-ta fál-da?",
+    syllables: ["¿Cuán", "to", " cues", "ta", " es", "ta", " fal", "da?"],
+    exampleSentence: "¿Cuánto cuesta esta falda?",
+    exampleTranslation: "Quanto custa esta saia?"
+  },
+  {
+    id: 'leccion_49_60',
+    word: "Cuesta treinta dólares.",
+    translation: "Custa 30 dólares.",
+    pronunciation: "/ˈkwes-ta ˈtɾeɪn-ta ˈðo-la-ɾes/",
+    portuguesePhonetic: "cuês-ta trêin-ta dó-la-res",
+    syllables: ["Cues", "ta", " trein", "ta", " dó", "la", "res."],
+    exampleSentence: "Cuesta treinta dólares.",
+    exampleTranslation: "Custa 30 dólares."
+  },
+  {
+    id: 'leccion_49_61',
+    word: "¿Cuánto cuestan estas gafas de sol?",
+    translation: "Quanto custam estes óculos de sol?",
+    pronunciation: "/ˈkwan-to ˈkwes-tan ˈes-tas ˈɣa-fas ðe sol/",
+    portuguesePhonetic: "¿cuán-to cuês-tan és-tas gá-fas de sol?",
+    syllables: ["¿Cuán", "to", " cues", "tan", " es", "tas", " ga", "fas", " de", " sol?"],
+    exampleSentence: "¿Cuánto cuestan estas gafas de sol?",
+    exampleTranslation: "Quanto custam estes óculos de sol?"
+  },
+  {
+    id: 'leccion_49_62',
+    word: "Cuestan cien dólares.",
+    translation: "Custam 100 dólares.",
+    pronunciation: "/ˈkwes-tan θjen ˈðo-la-ɾes/",
+    portuguesePhonetic: "cuês-tan ciên dó-la-res",
+    syllables: ["Cues", "tan", " cien", " dó", "la", "res."],
+    exampleSentence: "Cuestan cien dólares.",
+    exampleTranslation: "Custam 100 dólares."
+  },
+  {
+    id: 'leccion_49_63',
+    word: "Soy talla mediana. / Uso talla mediana.",
+    translation: "Eu sou (tamanho) médio.",
+    pronunciation: "/soi ˈta-ʝa me-ˈðja-na/",
+    portuguesePhonetic: "sói tá-lia me-diá-na",
+    syllables: ["Soy", " ta", "lla", " me", "dia", "na."],
+    exampleSentence: "Soy talla mediana.",
+    exampleTranslation: "Eu sou (tamanho) médio."
+  },
+  {
+    id: 'leccion_49_64',
+    word: "Uso talla mediana.",
+    translation: "Eu uso (tamanho) médio.",
+    pronunciation: "/ˈu-so ˈta-ʝa me-ˈðja-na/",
+    portuguesePhonetic: "ú-so tá-lia me-diá-na",
+    syllables: ["U", "so", " ta", "lla", " me", "dia", "na."],
+    exampleSentence: "Uso talla mediana.",
+    exampleTranslation: "Eu uso (tamanho) médio."
+  }
+];

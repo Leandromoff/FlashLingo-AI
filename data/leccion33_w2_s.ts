@@ -1,0 +1,534 @@
+import { FlashcardData } from '../types';
+
+export const LECCION_33_W2_S_DECK: FlashcardData[] = [
+  {
+    id: 'leccion_33_1',
+    word: "conversar / hablar",
+    translation: "conversar, falar",
+    pronunciation: "/kom-beɾ-ˈsaɾ o a-ˈβlaɾ/",
+    portuguesePhonetic: "con-ber-sár / a-blár",
+    syllables: ["con", "ver", "sar", " /", " ha", "blar"],
+    exampleSentence: "Quiero hablar contigo.",
+    exampleTranslation: "Eu quero conversar com você."
+  },
+  {
+    id: 'leccion_33_2',
+    word: "ver / mirar",
+    translation: "assistir, ver",
+    pronunciation: "/beɾ o mi-ˈɾaɾ/",
+    portuguesePhonetic: "ber / mi-rár",
+    syllables: ["ver", " /", " mi", "rar"],
+    exampleSentence: "Me gusta ver películas.",
+    exampleTranslation: "Eu gosto de assistir filmes."
+  },
+  {
+    id: 'leccion_33_3',
+    word: "ciencia",
+    translation: "ciência",
+    pronunciation: "/ˈsaɪ.əns/",
+    portuguesePhonetic: "ciên-cia",
+    syllables: ["cien", "cia"],
+    exampleSentence: "Ella estudia ciencia en la escuela.",
+    exampleTranslation: "Ela estuda ciência na escola."
+  },
+  {
+    id: 'leccion_33_4',
+    word: "religión",
+    translation: "religião",
+    pronunciation: "/re-li-ˈxjon/",
+    portuguesePhonetic: "re-li-hión",
+    syllables: ["re", "li", "gión"],
+    exampleSentence: "Nosotros respetamos todas las religiones.",
+    exampleTranslation: "Nós respeitamos toda religião."
+  },
+  {
+    id: 'leccion_33_5',
+    word: "política",
+    translation: "política",
+    pronunciation: "/po-ˈli-ti-ka/",
+    portuguesePhonetic: "po-lí-ti-ca",
+    syllables: ["po", "lí", "ti", "ca"],
+    exampleSentence: "A ellos les gusta hablar de política.",
+    exampleTranslation: "Eles gostam de falar sobre política."
+  },
+  {
+    id: 'leccion_33_6',
+    word: "música",
+    translation: "música",
+    pronunciation: "/ˈmu-si-ka/",
+    portuguesePhonetic: "mú-si-ca",
+    syllables: ["mú", "si", "ca"],
+    exampleSentence: "Me encanta escuchar música.",
+    exampleTranslation: "Eu amo ouvir música."
+  },
+  {
+    id: 'leccion_33_7',
+    word: "deportes",
+    translation: "esporte, esportes",
+    pronunciation: "/de-ˈpoɾ-tes/",
+    portuguesePhonetic: "de-pór-tes",
+    syllables: ["de", "por", "tes"],
+    exampleSentence: "¿Practicas algún deporte?",
+    exampleTranslation: "Você pratica algum esporte?"
+  },
+  {
+    id: 'leccion_33_8',
+    word: "moda",
+    translation: "moda",
+    pronunciation: "/ˈmo-ða/",
+    portuguesePhonetic: "mó-da",
+    syllables: ["mo", "da"],
+    exampleSentence: "Ella ama la industria de la moda.",
+    exampleTranslation: "Ela ama a indústria da moda."
+  },
+  {
+    id: 'leccion_33_9',
+    word: "vida",
+    translation: "vida",
+    pronunciation: "/ˈβi-ða/",
+    portuguesePhonetic: "bí-da",
+    syllables: ["vi", "da"],
+    exampleSentence: "La vida es bella.",
+    exampleTranslation: "A vida é bela."
+  },
+  {
+    id: 'leccion_33_10',
+    word: "cosas",
+    translation: "coisas, objetos",
+    pronunciation: "/ˈko-sas/",
+    portuguesePhonetic: "có-sas",
+    syllables: ["co", "sas"],
+    exampleSentence: "Tengo muchas cosas que hacer.",
+    exampleTranslation: "Eu tenho um monte de coisas para fazer."
+  },
+  {
+    id: 'leccion_33_11',
+    word: "idea",
+    translation: "ideia",
+    pronunciation: "/i-ˈðe-a/",
+    portuguesePhonetic: "i-dé-ia",
+    syllables: ["i", "de", "a"],
+    exampleSentence: "Esa es una gran idea.",
+    exampleTranslation: "Essa é uma ótima ideia."
+  },
+  {
+    id: 'leccion_33_12',
+    word: "opinión",
+    translation: "opinião",
+    pronunciation: "/o-pi-ˈnjon/",
+    portuguesePhonetic: "o-pi-nión",
+    syllables: ["o", "pi", "nión"],
+    exampleSentence: "¿Cuál es tu opinión sobre eso?",
+    exampleTranslation: "Qual é a sua opinião sobre isso?"
+  },
+  {
+    id: 'leccion_33_13',
+    word: "problema",
+    translation: "problema",
+    pronunciation: "/pɾo-ˈβle-ma/",
+    portuguesePhonetic: "pro-blê-ma",
+    syllables: ["pro", "ble", "ma"],
+    exampleSentence: "Ese no es mi problema.",
+    exampleTranslation: "Esse não é o meu problema."
+  },
+  {
+    id: 'leccion_33_14',
+    word: "serie / series",
+    translation: "série, seriado",
+    pronunciation: "/ˈse-ɾje/",
+    portuguesePhonetic: "sé-rie",
+    syllables: ["se", "rie"],
+    exampleSentence: "¿Qué serie ves?",
+    exampleTranslation: "Qual série você assiste?"
+  },
+  {
+    id: 'leccion_33_15',
+    word: "película",
+    translation: "filme",
+    pronunciation: "/pe-ˈli-ku-la/",
+    portuguesePhonetic: "pe-lí-cu-la",
+    syllables: ["pe", "lí", "cu", "la"],
+    exampleSentence: "Vamos a ver una película hoy por la noche.",
+    exampleTranslation: "Vamos assistir a um filme hoje à noite."
+  },
+  {
+    id: 'leccion_33_16',
+    word: "video",
+    translation: "vídeo",
+    pronunciation: "/ˈβi-ðeo/",
+    portuguesePhonetic: "bí-de-o",
+    syllables: ["vi", "de", "o"],
+    exampleSentence: "Ella me mandó un video divertido.",
+    exampleTranslation: "Ela me mandou um vídeo engraçado."
+  },
+  {
+    id: 'leccion_33_17',
+    word: "ello / lo / la",
+    translation: "isso, ele, ela (neutro)",
+    pronunciation: "/ˈe-ʝo/",
+    portuguesePhonetic: "ê-lio",
+    syllables: ["e", "llo"],
+    exampleSentence: "Está frío hoy.",
+    exampleTranslation: "Está frio hoje."
+  },
+  {
+    id: 'leccion_33_18',
+    word: "su / de él",
+    translation: "dele",
+    pronunciation: "/su/",
+    portuguesePhonetic: "su / de él",
+    syllables: ["su"],
+    exampleSentence: "Este es su libro.",
+    exampleTranslation: "Este é o livro dele."
+  },
+  {
+    id: 'leccion_33_19',
+    word: "su / de ella",
+    translation: "dela",
+    pronunciation: "/su/",
+    portuguesePhonetic: "su / de ê-lia",
+    syllables: ["su"],
+    exampleSentence: "Yo conozco a su hermano.",
+    exampleTranslation: "Eu conheço o irmão dela."
+  },
+  {
+    id: 'leccion_33_20',
+    word: "Quiero encontrarme con mis amigos esta noche.",
+    translation: "Eu quero encontrar meus amigos hoje à noite.",
+    pronunciation: "/ˈkje-ɾo en-kon-ˈtɾaɾ-me kon mis a-ˈmi-ɣos ˈes-ta ˈno-tʃe/",
+    portuguesePhonetic: "qui-ê-ro en-con-trár-me con mis a-mí-gos és-ta nô-tche.",
+    syllables: ["Quie", "ro", " en", "con", "trar", "me", " con", " mis", " a", "mi", "gos", " es", "ta", " no", "che."],
+    exampleSentence: "Quiero encontrarme con mis amigos esta noche.",
+    exampleTranslation: "Eu quero encontrar meus amigos hoje à noite."
+  },
+  {
+    id: 'leccion_33_21',
+    word: "No tengo una opinión sobre eso.",
+    translation: "Eu não tenho uma opinião sobre isso.",
+    pronunciation: "/no ˈteŋ-ɡo ˈu-na o-pi-ˈnjon ˈso-βɾe ˈe-so/",
+    portuguesePhonetic: "nô tên-go ú-na o-pi-nión só-bre ê-so.",
+    syllables: ["No", " ten", "go", " u", "na", " o", "pi", "nión", " so", "bre", " e", "so."],
+    exampleSentence: "No tengo una opinión sobre eso.",
+    exampleTranslation: "Eu não tenho uma opinião sobre isso."
+  },
+  {
+    id: 'leccion_33_22',
+    word: "Él ve videos en su tableta.",
+    translation: "Ele assiste vídeos no tablet dele.",
+    pronunciation: "/el βe ˈβi-ðeos en su ta-ˈβle-ta/",
+    portuguesePhonetic: "él be bí-de-os en su ta-blê-ta.",
+    syllables: ["Él", " ve", " vi", "de", "os", " en", " su", " ta", "ble", "ta."],
+    exampleSentence: "Él ve videos en su tableta.",
+    exampleTranslation: "Ele assiste vídeos no tablet dele."
+  },
+  {
+    id: 'leccion_33_23',
+    word: "Ella tiene grandes ideas.",
+    translation: "Ela tem ótimas ideias.",
+    pronunciation: "/ˈe-ʝa ˈtje-ne ˈɡɾan-des i-ˈðe-as/",
+    portuguesePhonetic: "ê-lia ti-ê-ne grán-des i-dé-ias.",
+    syllables: ["E", "lla", " tie", "ne", " gran", "des", " i", "de", "as."],
+    exampleSentence: "Ella tiene grandes ideas.",
+    exampleTranslation: "Ela tem ótimas ideias."
+  },
+  {
+    id: 'leccion_33_24',
+    word: "Empieza a las diez.",
+    translation: "Começa às dez horas.",
+    pronunciation: "/em-ˈpje-sa a las ˈðjeθ/",
+    portuguesePhonetic: "em-pi-ê-sa a las di-ês.",
+    syllables: ["Em", "pie", "za", " a", " las", " diez."],
+    exampleSentence: "Empieza a las diez.",
+    exampleTranslation: "Começa às dez horas."
+  },
+  {
+    id: 'leccion_33_25',
+    word: "Ella no vive con sus padres.",
+    translation: "Ela não mora com os pais dela.",
+    pronunciation: "/ˈe-ʝa no ˈβi-βe kon sus ˈpa-ðɾes/",
+    portuguesePhonetic: "ê-lia nô bí-be con sus pá-dres.",
+    syllables: ["E", "lla", " no", " vi", "ve", " con", " sus", " pa", "dres."],
+    exampleSentence: "Ella no vive con sus padres.",
+    exampleTranslation: "Ela não mora com os pais dela."
+  },
+  {
+    id: 'leccion_33_26',
+    word: "Él no estudia música en la universidad.",
+    translation: "Ele não estuda música na universidade.",
+    pronunciation: "/el no es-ˈtu-ðja ˈmu-si-ka en la u-ni-βeɾ-si-ˈðað/",
+    portuguesePhonetic: "él nô es-tú-dia mú-si-ca en la u-ni-ber-si-dád.",
+    syllables: ["Él", " no", " es", "tu", "dia", " mú", "si", "ca", " en", " la", " u", "ni", "ver", "si", "dad."],
+    exampleSentence: "Él no estudia música en la universidad.",
+    exampleTranslation: "Ele não estuda música na universidade."
+  },
+  {
+    id: 'leccion_33_27',
+    word: "No termina esta semana.",
+    translation: "Não termina esta semana.",
+    pronunciation: "/no teɾ-ˈmi-na ˈes-ta se-ˈma-na/",
+    portuguesePhonetic: "nô ter-mí-na és-ta se-má-na.",
+    syllables: ["No", " ter", "mi", "na", " es", "ta", " se", "ma", "na."],
+    exampleSentence: "No termina esta semana.",
+    exampleTranslation: "Não termina esta semana."
+  },
+  {
+    id: 'leccion_33_28',
+    word: "¿Ella quiere aprender más sobre deportes?",
+    translation: "Ela quer aprender mais sobre esportes?",
+    pronunciation: "/ˈe-ʝa ˈkje-ɾe a-pɾen-ˈdeɾ mas ˈso-βɾe de-ˈpoɾ-tes/",
+    portuguesePhonetic: "¿ê-lia qui-ê-re a-pren-dér más só-bre de-pór-tes?",
+    syllables: ["¿E", "lla", " quie", "re", " a", "pren", "der", " más", " so", "bre", " de", "por", "tes?"],
+    exampleSentence: "¿Ella quiere aprender mais sobre deportes?",
+    exampleTranslation: "Ela quer aprender mais sobre esportes?"
+  },
+  {
+    id: 'leccion_33_29',
+    word: "¿A él le gusta hablar de su vida?",
+    translation: "Ele gosta de falar sobre a vida dele?",
+    pronunciation: "/a el le ˈɣus-ta a-ˈβlaɾ de su ˈβi-ða/",
+    portuguesePhonetic: "¿a él le gús-ta a-blár de su bí-da?",
+    syllables: ["¿A", " él", " le", " gus", "ta", " ha", "blar", " de", " su", " vi", "da?"],
+    exampleSentence: "¿A él le gusta hablar de su vida?",
+    exampleTranslation: "Ele gosta de falar sobre a vida dele?"
+  },
+  {
+    id: 'leccion_33_30',
+    word: "¿A qué hora empieza?",
+    translation: "Que hora começa?",
+    pronunciation: "/a ke ˈo-ɾa em-ˈpje-sa/",
+    portuguesePhonetic: "¿a qué ó-ra em-pi-ê-sa?",
+    syllables: ["¿A", " qué", " ho", "ra", " em", "pie", "za?"],
+    exampleSentence: "¿A qué hora empieza?",
+    exampleTranslation: "Que hora começa?"
+  },
+  {
+    id: 'leccion_33_31',
+    word: "Realmente necesito hablar contigo.",
+    translation: "Eu preciso muito conversar com você.",
+    pronunciation: "/ɾe-al-ˈmen-te ne-θe-ˈsi-to a-ˈβlaɾ kon-ˈti-ɣo/",
+    portuguesePhonetic: "re-al-mén-te ne-ce-sí-to a-blár con-tí-go.",
+    syllables: ["Re", "al", "men", "te", " ne", "ce", "si", "to", " ha", "blar", " con", "ti", "go."],
+    exampleSentence: "Realmente necesito hablar contigo.",
+    exampleTranslation: "Eu preciso muito conversar com você."
+  },
+  {
+    id: 'leccion_33_32',
+    word: "Ella habla con su madre sobre todo.",
+    translation: "Ela conversa com a mãe dela sobre tudo.",
+    pronunciation: "/ˈe-ʝa ˈa-βla kon su ˈma-ðɾe ˈso-βɾe ˈto-ðo/",
+    portuguesePhonetic: "ê-lia á-bla con su má-dre só-bre tô-do.",
+    syllables: ["E", "lla", " ha", "bla", " con", " su", " ma", "dre", " so", "bre", " to", "do."],
+    exampleSentence: "Ella habla con su madre sobre todo.",
+    exampleTranslation: "Ela conversa com a mãe dela sobre tudo."
+  },
+  {
+    id: 'leccion_33_33',
+    word: "A mi esposa le encanta ver series.",
+    translation: "Minha esposa ama assistir séries.",
+    pronunciation: "/a mi es-ˈpo-sa le eŋ-ˈkan-ta βeɾ ˈse-ɾjes/",
+    portuguesePhonetic: "a mi es-pó-sa le en-cán-ta ber sé-ries.",
+    syllables: ["A", " mi", " es", "po", "sa", " le", " en", "can", "ta", " ver", " se", "ries."],
+    exampleSentence: "A mi esposa le encanta ver series.",
+    exampleTranslation: "Minha esposa ama assistir séries."
+  },
+  {
+    id: 'leccion_33_34',
+    word: "¿Te gustan sus ideas?",
+    translation: "Você gosta das ideias dele?",
+    pronunciation: "/te ˈɣus-tan sus i-ˈðe-as/",
+    portuguesePhonetic: "¿te gús-tan sus i-dé-ias?",
+    syllables: ["¿Te", " gus", "tan", " sus", " i", "de", "as?"],
+    exampleSentence: "¿Te gustan sus ideas?",
+    exampleTranslation: "Você gosta das ideias dele?"
+  },
+  {
+    id: 'leccion_33_35',
+    word: "Ella no quiere hablar de este tema.",
+    translation: "Ela não quer falar sobre esse assunto.",
+    pronunciation: "/ˈe-ʝa no ˈkje-ɾe a-ˈβlaɾ de ˈes-te ˈte-ma/",
+    portuguesePhonetic: "ê-lia nô qui-ê-re a-blár de és-te tê-ma.",
+    syllables: ["E", "lla", " no", " quie", "re", " ha", "blar", " de", " es", "te", " te", "ma."],
+    exampleSentence: "Ella no quiere hablar de este tema.",
+    exampleTranslation: "Ela não quer falar sobre esse assunto."
+  },
+  {
+    id: 'leccion_33_36',
+    word: "Él no tiene examen de matemáticas esta semana.",
+    translation: "Ele não tem prova de matemática esta semana.",
+    pronunciation: "/el no ˈtje-ne ek-ˈsa-men de ma-te-ˈma-ti-kas ˈes-ta se-ˈma-na/",
+    portuguesePhonetic: "él nô ti-ê-ne ec-sá-men de ma-te-má-ti-cas és-ta se-má-na.",
+    syllables: ["Él", " no", " tie", "ne", " e", "xa", "men", " de", " ma", "te", "má", "ti", "cas", " es", "ta", " se", "ma", "na."],
+    exampleSentence: "Él no tiene examen de matemáticas esta semana.",
+    exampleTranslation: "Ele não tem prova de matemática esta semana."
+  },
+  {
+    id: 'leccion_33_37',
+    word: "No empieza hoy.",
+    translation: "Não começa hoje.",
+    pronunciation: "/no em-ˈpje-sa oj/",
+    portuguesePhonetic: "nô em-pi-ê-sa ói.",
+    syllables: ["No", " em", "pie", "za", " hoy."],
+    exampleSentence: "No empieza hoy.",
+    exampleTranslation: "Não começa hoje."
+  },
+  {
+    id: 'leccion_33_38',
+    word: "¿A él le gusta hablar de política?",
+    translation: "Ele gosta de falar sobre política?",
+    pronunciation: "/a el le ˈɣus-ta a-ˈβlaɾ de po-ˈli-ti-ka/",
+    portuguesePhonetic: "¿a él le gús-ta a-blár de po-lí-ti-ca?",
+    syllables: ["¿A", " él", " le", " gus", "ta", " ha", "blar", " de", " po", "lí", "ti", "ca?"],
+    exampleSentence: "¿A él le gusta hablar de política?",
+    exampleTranslation: "Ele gosta de falar sobre política?"
+  },
+  {
+    id: 'leccion_33_39',
+    word: "¿Termina en una hora?",
+    translation: "Termina em uma hora?",
+    pronunciation: "/teɾ-ˈmi-na en ˈu-na ˈo-ɾa/",
+    portuguesePhonetic: "¿ter-mí-na en ú-na ó-ra?",
+    syllables: ["¿Ter", "mi", "na", " en", " u", "na", " ho", "ra?"],
+    exampleSentence: "¿Termina en una hora?",
+    exampleTranslation: "Termina em uma hora?"
+  },
+  {
+    id: 'leccion_33_40',
+    word: "¿Qué cosas quiere comprar él?",
+    translation: "Que coisas ele quer comprar?",
+    pronunciation: "/ke ˈko-sas ˈkje-ɾe kom-ˈpɾaɾ el/",
+    portuguesePhonetic: "¿qué có-sás qui-ê-re com-prár él?",
+    syllables: ["¿Qué", " co", "sas", " quie", "re", " com", "prar", " él?"],
+    exampleSentence: "¿Qué cosas quiere comprar él?",
+    exampleTranslation: "Que coisas ele quer comprar?"
+  },
+  {
+    id: 'leccion_33_41',
+    word: "¿A qué hora empieza tu clase?",
+    translation: "Que hora sua aula começa?",
+    pronunciation: "/a ke ˈo-ɾa em-ˈpje-sa tu ˈkla-se/",
+    portuguesePhonetic: "¿a qué ó-ra em-pi-ê-sa tu clá-se?",
+    syllables: ["¿A", " qué", " ho", "ra", " em", "pie", "za", " tu", " cla", "se?"],
+    exampleSentence: "¿A qué hora empieza tu clase?",
+    exampleTranslation: "Que hora sua aula começa?"
+  },
+  {
+    id: 'leccion_33_42',
+    word: "¿Cuántos idiomas habla tu hermana?",
+    translation: "Quantos idiomas sua irmã fala?",
+    pronunciation: "/ˈkwan-tos i-ˈðjo-mas ˈa-βla tu eɾ-ˈma-na/",
+    portuguesePhonetic: "¿cuán-tos i-dió-mas á-bla tu er-má-na?",
+    syllables: ["¿Cuán", "tos", " i", "dio", "mas", " ha", "bla", " tu", " her", "ma", "na?"],
+    exampleSentence: "¿Cuántos idiomas habla tu hermana?",
+    exampleTranslation: "Quantos idiomas sua irmã fala?"
+  },
+  {
+    id: 'leccion_33_43',
+    word: "hablar con / conversar con",
+    translation: "conversar com / falar com",
+    pronunciation: "/a-ˈβlaɾ kon/",
+    portuguesePhonetic: "a-blár con",
+    syllables: ["ha", "blar", " con"],
+    exampleSentence: "Necesito hablar con ella.",
+    exampleTranslation: "Eu preciso falar com ela."
+  },
+  {
+    id: 'leccion_33_44',
+    word: "hablar con / conversar con",
+    translation: "falar com / conversar com",
+    pronunciation: "/a-ˈβlaɾ kon/",
+    portuguesePhonetic: "a-blár con",
+    syllables: ["ha", "blar", " con"],
+    exampleSentence: "¿Podría hablar con el gerente?",
+    exampleTranslation: "Eu poderia falar com o gerente?"
+  },
+  {
+    id: 'leccion_33_45',
+    word: "hablar de / conversar sobre",
+    translation: "falar sobre / conversar sobre",
+    pronunciation: "/a-ˈβlaɾ ðe/",
+    portuguesePhonetic: "a-blár de",
+    syllables: ["ha", "blar", " de"],
+    exampleSentence: "¿De qué quieres hablar?",
+    exampleTranslation: "Sobre o que você quer conversar?"
+  },
+  {
+    id: 'leccion_33_46',
+    word: "Disculpe, llego tarde.",
+    translation: "Desculpe, estou atrasado.",
+    pronunciation: "/dis-ˈkul-pe ˈʝe-ɣo ˈtaɾ-ðe/",
+    portuguesePhonetic: "dis-cúl-pe lyê-go tár-de.",
+    syllables: ["Dis", "cul", "pe,", " lle", "go", " tar", "de."],
+    exampleSentence: "Disculpe, llego tarde a la reunión.",
+    exampleTranslation: "Desculpe, estou atrasada para a reunião."
+  },
+  {
+    id: 'leccion_33_47',
+    word: "No hay problema.",
+    translation: "Sem problema.",
+    pronunciation: "/no aj pɾo-ˈβle-ma/",
+    portuguesePhonetic: "nô ai pro-blê-ma.",
+    syllables: ["No", " hay", " pro", "ble", "ma."],
+    exampleSentence: "No hay problema, podemos hacerlo más tarde.",
+    exampleTranslation: "Sem problema, nós podemos fazer isso mais tarde."
+  },
+  {
+    id: 'leccion_33_48',
+    word: "Está bien.",
+    translation: "Tudo bem.",
+    pronunciation: "/es-ˈta βjen/",
+    portuguesePhonetic: "es-tá biên.",
+    syllables: ["Es", "tá", " bien."],
+    exampleSentence: "Está bien, no te preocupes por eso.",
+    exampleTranslation: "Tudo bem, não se preocupe com isso."
+  },
+  {
+    id: 'leccion_33_49',
+    word: "en la tableta",
+    translation: "no tablet",
+    pronunciation: "/en la ta-ˈβle-ta/",
+    portuguesePhonetic: "en la ta-blê-ta",
+    syllables: ["en", " la", " ta", "ble", "ta"],
+    exampleSentence: "Él lee libros en la tableta.",
+    exampleTranslation: "Ele lê livros no tablet."
+  },
+  {
+    id: 'leccion_33_50',
+    word: "en la televisión",
+    translation: "na TV",
+    pronunciation: "/en la te-le-βi-ˈsjon/",
+    portuguesePhonetic: "en la te-le-bi-sión",
+    syllables: ["en", " la", " te", "le", "vi", "sión"],
+    exampleSentence: "Veo fútbol en la televisión.",
+    exampleTranslation: "Eu assisto futebol na TV."
+  },
+  {
+    id: 'leccion_33_51',
+    word: "La reunión empieza a las tres.",
+    translation: "A reunião começa às três.",
+    pronunciation: "/la ɾeu-ˈnjon em-ˈpje-sa a las tɾes/",
+    portuguesePhonetic: "la reu-nión em-pi-ê-sa a las tres.",
+    syllables: ["La", " reu", "nión", " em", "pie", "za", " a", " las", " tres."],
+    exampleSentence: "La reunión empieza a las tres.",
+    exampleTranslation: "A reunião começa às três."
+  },
+  {
+    id: 'leccion_33_52',
+    word: "Empieza a las tres.",
+    translation: "Começa às três.",
+    pronunciation: "/em-ˈpje-sa a las tɾes/",
+    portuguesePhonetic: "em-pi-ê-sa a las tres.",
+    syllables: ["Em", "pie", "za", " a", " las", " tres."],
+    exampleSentence: "Empieza a las tres.",
+    exampleTranslation: "Começa às três."
+  },
+  {
+    id: 'leccion_33_53',
+    word: "¿A qué hora empieza?",
+    translation: "Que horas começa?",
+    pronunciation: "/a ke ˈo-ɾa em-ˈpje-sa/",
+    portuguesePhonetic: "¿a qué ó-ra em-pi-ê-sa?",
+    syllables: ["¿A", " qué", " ho", "ra", " em", "pie", "za?"],
+    exampleSentence: "¿A qué hora empieza?",
+    exampleTranslation: "Que horas começa?"
+  }
+];

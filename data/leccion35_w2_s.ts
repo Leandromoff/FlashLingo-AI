@@ -1,0 +1,474 @@
+import { FlashcardData } from '../types';
+
+export const LECCION_35_W2_S_DECK: FlashcardData[] = [
+  {
+    id: 'leccion_35_1',
+    word: "escribir",
+    translation: "escrever",
+    pronunciation: "/es-kɾi-ˈβiɾ/",
+    portuguesePhonetic: "es-cri-bír",
+    syllables: ["es", "cri", "bir"],
+    exampleSentence: "escribir",
+    exampleTranslation: "escrever"
+  },
+  {
+    id: 'leccion_35_2',
+    word: "pensar / creer",
+    translation: "pensar, achar",
+    pronunciation: "/pen-ˈsaɾ o kɾe-ˈeɾ/",
+    portuguesePhonetic: "pen-sár / cre-ér",
+    syllables: ["pen", "sar", " /", " cre", "er"],
+    exampleSentence: "pensar / creer",
+    exampleTranslation: "pensar, achar"
+  },
+  {
+    id: 'leccion_35_3',
+    word: "informe / reporte",
+    translation: "relatório",
+    pronunciation: "/in-ˈfoɾ-me o ɾe-ˈpoɾ-te/",
+    portuguesePhonetic: "in-fór-me / re-pór-te",
+    syllables: ["in", "for", "me", " /", " re", "por", "te"],
+    exampleSentence: "informe / reporte",
+    exampleTranslation: "relatório"
+  },
+  {
+    id: 'leccion_35_4',
+    word: "redacción / composición",
+    translation: "redação",
+    pronunciation: "/re-ðak-ˈθjon o kom-po-si-ˈθjon/",
+    portuguesePhonetic: "re-dac-ción / com-po-si-ción",
+    syllables: ["re", "dac", "ción", " /", " com", "po", "si", "ción"],
+    exampleSentence: "redacción / composición",
+    exampleTranslation: "redação"
+  },
+  {
+    id: 'leccion_35_5',
+    word: "persona",
+    translation: "pessoa",
+    pronunciation: "/peɾ-ˈso-na/",
+    portuguesePhonetic: "per-só-na",
+    syllables: ["per", "so", "na"],
+    exampleSentence: "persona",
+    exampleTranslation: "pessoa"
+  },
+  {
+    id: 'leccion_35_6',
+    word: "aburrido / pesado",
+    translation: "chato(a), entediante",
+    pronunciation: "/a-βu-ˈri-ðo o pe-ˈsa-ðo/",
+    portuguesePhonetic: "a-bur-rí-do / pe-sá-do",
+    syllables: ["a", "bu", "rri", "do", " /", " pe", "sa", "do"],
+    exampleSentence: "aburrido / pesado",
+    exampleTranslation: "chato(a), entediante"
+  },
+  {
+    id: 'leccion_35_7',
+    word: "hermoso / bello / bonito",
+    translation: "lindo(a), bonito(a)",
+    pronunciation: "/eɾ-ˈmo-so o ˈβe-ʝo o βo-ˈni-to/",
+    portuguesePhonetic: "er-mó-so / bê-lio / bo-ní-to",
+    syllables: ["her", "mo", "so", " /", " be", "llo", " /", " bo", "ni", "to"],
+    exampleSentence: "hermoso / bello / bonito",
+    exampleTranslation: "lindo(a), bonito(a)"
+  },
+  {
+    id: 'leccion_35_8',
+    word: "fácil",
+    translation: "fácil",
+    pronunciation: "/ˈfa-θil/",
+    portuguesePhonetic: "fá-cil",
+    syllables: ["fá", "cil"],
+    exampleSentence: "fácil",
+    exampleTranslation: "fácil"
+  },
+  {
+    id: 'leccion_35_9',
+    word: "difícil / duro",
+    translation: "difícil",
+    pronunciation: "/di-ˈfi-θil o ˈðu-ɾo/",
+    portuguesePhonetic: "di-fí-cil / dú-ro",
+    syllables: ["di", "fí", "cil", " /", " du", "ro"],
+    exampleSentence: "difícil / duro",
+    exampleTranslation: "difícil"
+  },
+  {
+    id: 'leccion_35_10',
+    word: "interesante",
+    translation: "interessante",
+    pronunciation: "/in-te-ɾe-ˈsan-te/",
+    portuguesePhonetic: "in-te-re-sán-te",
+    syllables: ["in", "te", "re", "san", "te"],
+    exampleSentence: "interesante",
+    exampleTranslation: "interessante"
+  },
+  {
+    id: 'leccion_35_11',
+    word: "importante",
+    translation: "importante",
+    pronunciation: "/im-poɾ-ˈtan-te/",
+    portuguesePhonetic: "im-por-tán-te",
+    syllables: ["im", "por", "tan", "te"],
+    exampleSentence: "importante",
+    exampleTranslation: "importante"
+  },
+  {
+    id: 'leccion_35_12',
+    word: "divertido / gracioso",
+    translation: "engraçado(a)",
+    pronunciation: "/ði-βeɾ-ˈti-ðo o ɡɾa-ˈθjo-so/",
+    portuguesePhonetic: "di-ber-tí-do / gra-ció-so",
+    syllables: ["di", "ver", "ti", "do", " /", " gra", "cio", "so"],
+    exampleSentence: "divertido / gracioso",
+    exampleTranslation: "engraçado(a)"
+  },
+  {
+    id: 'leccion_35_13',
+    word: "juntos / juntas",
+    translation: "juntos(as)",
+    pronunciation: "/ˈxun-tos o ˈxun-tas/",
+    portuguesePhonetic: "rhún-tos / rhún-tas",
+    syllables: ["jun", "tos", " /", " jun", "tas"],
+    exampleSentence: "juntos / juntas",
+    exampleTranslation: "juntos(as)"
+  },
+  {
+    id: 'leccion_35_14',
+    word: "todos / todo el mundo",
+    translation: "todos, todo mundo",
+    pronunciation: "/ˈto-ðos o ˈto-ðo el ˈmun-do/",
+    portuguesePhonetic: "tô-dos / tô-do él mún-do",
+    syllables: ["to", "dos", " /", " to", "do", " el", " mun", "do"],
+    exampleSentence: "todos / todo el mundo",
+    exampleTranslation: "todos, todo mundo"
+  },
+  {
+    id: 'leccion_35_15',
+    word: "¿por qué?",
+    translation: "por que",
+    pronunciation: "/poɾ ˈke/",
+    portuguesePhonetic: "¿por quê?",
+    syllables: ["¿Por", " qué?"],
+    exampleSentence: "¿por qué?",
+    exampleTranslation: "por que"
+  },
+  {
+    id: 'leccion_35_16',
+    word: "porque",
+    translation: "porque",
+    pronunciation: "/poɾ-ˈke/",
+    portuguesePhonetic: "por-quê",
+    syllables: ["por", "que"],
+    exampleSentence: "porque",
+    exampleTranslation: "porque"
+  },
+  {
+    id: 'leccion_35_17',
+    word: "¿Cómo se dice \"chato\" en español?",
+    translation: "Como se diz \"chato\" em espanhol?",
+    pronunciation: "/ˈko-mo se ˈði-θe ˈtʃa-to en es-pa-ˈɲol/",
+    portuguesePhonetic: "¿cô-mo se dí-ce \"tchá-to\" en es-pa-nhól?",
+    syllables: ["¿Có", "mo", " se", " di", "ce", " \"cha", "to\"", " en", " es", "pa", "ñol?"],
+    exampleSentence: "¿Cómo se dice \"chato\" en español?",
+    exampleTranslation: "Como se diz \"chato\" em espanhol?"
+  },
+  {
+    id: 'leccion_35_18',
+    word: "¿Qué significa \"aburrido\"?",
+    translation: "O que significa \"aburrido\"?",
+    pronunciation: "/ke siɣ-ˈni-fi-ka a-βu-ˈri-ðo/",
+    portuguesePhonetic: "¿qué sig-ní-fi-ca a-bur-rí-do?",
+    syllables: ["¿Qué", " sig", "ni", "fi", "ca", " a", "bu", "rri", "do?"],
+    exampleSentence: "¿Qué significa \"aburrido\"?",
+    exampleTranslation: "O que significa \"aburrido\"?"
+  },
+  {
+    id: 'leccion_35_19',
+    word: "Creo que sí. / Pienso que sí.",
+    translation: "Eu acho que sim.",
+    pronunciation: "/ˈkɾe-o ke si o ˈpjen-so ke si/",
+    portuguesePhonetic: "crê-o que sí / pi-ên-so que sí",
+    syllables: ["Creo", " que", " sí. /", " Pien", "so", " que", " sí."],
+    exampleSentence: "Creo que sí. / Pienso que sí.",
+    exampleTranslation: "Eu acho que sim."
+  },
+  {
+    id: 'leccion_35_20',
+    word: "Creo que no. / Pienso que no.",
+    translation: "Eu acho que não.",
+    pronunciation: "/ˈkɾe-o ke no o ˈpjen-so ke no/",
+    portuguesePhonetic: "crê-o que nô / pi-ên-so que nô",
+    syllables: ["Creo", " que", " no. /", " Pien", "so", " que", " no."],
+    exampleSentence: "Creo que no. / Pienso que no.",
+    exampleTranslation: "Eu acho que não."
+  },
+  {
+    id: 'leccion_35_21',
+    word: "¿Por qué quieres ver esta película?",
+    translation: "Por que você quer assistir este filme?",
+    pronunciation: "/poɾ ˈke ˈkje-ɾes βeɾ ˈes-ta pe-ˈli-ku-la/",
+    portuguesePhonetic: "¿por quê qui-ê-res ber és-ta pe-lí-cu-la?",
+    syllables: ["¿Por", " qué", " quie", "res", " ver", " es", "ta", " pe", "lí", "cu", "la?"],
+    exampleSentence: "¿Por qué quieres ver esta película?",
+    exampleTranslation: "Por que você quer assistir este filme?"
+  },
+  {
+    id: 'leccion_35_22',
+    word: "Porque es divertida. / Porque es graciosa.",
+    translation: "Porque ela é engraçada.",
+    pronunciation: "/poɾ-ˈke es ði-βeɾ-ˈti-ða o poɾ-ˈke es ɡɾa-ˈθjo-sa/",
+    portuguesePhonetic: "por-quê és di-ber-tí-da / por-quê és gra-ció-sa",
+    syllables: ["Por", "que", " es", " di", "ver", "ti", "da. /", " Por", "que", " es", " gra", "cio", "sa."],
+    exampleSentence: "Porque es divertida. / Porque es graciosa.",
+    exampleTranslation: "Porque ela é engraçada."
+  },
+  {
+    id: 'leccion_35_23',
+    word: "Quero ver esta película porque es divertida.",
+    translation: "Eu quero assistir este filme porque ele é engraçado.",
+    pronunciation: "/ˈkje-ɾo βeɾ ˈes-ta pe-ˈli-ku-la poɾ-ˈke es ði-βeɾ-ˈti-ða/",
+    portuguesePhonetic: "qui-ê-ro ber és-ta pe-lí-cu-la por-quê és di-ber-tí-da.",
+    syllables: ["Quie", "ro", " ver", " es", "ta", " pe", "lí", "cu", "la", " por", "que", " es", " di", "ver", "ti", "da."],
+    exampleSentence: "Quero ver esta película porque es divertida.",
+    exampleTranslation: "Eu quero assistir este filme porque ele é engraçado."
+  },
+  {
+    id: 'leccion_35_24',
+    word: "¿Por qué necesitan trabajar hasta tarde hoy?",
+    translation: "Por que eles precisam trabalhar até tarde hoje?",
+    pronunciation: "/poɾ ˈke ne-θe-ˈsi-tan tɾa-βa-ˈxaɾ ˈas-ta ˈtaɾ-ðe oj/",
+    portuguesePhonetic: "¿por quê ne-ce-sí-tan tra-ba-rhár ás-ta tár-de ói?",
+    syllables: ["¿Por", " qué", " ne", "ce", "si", "tan", " tra", "ba", "jar", " has", "ta", " tar", "de", " hoy?"],
+    exampleSentence: "¿Por qué necesitan trabajar hasta tarde hoy?",
+    exampleTranslation: "Por que eles precisam trabalhar até tarde hoje?"
+  },
+  {
+    id: 'leccion_35_25',
+    word: "Porque tienen una fecha límite importante.",
+    translation: "Porque eles têm um prazo importante.",
+    pronunciation: "/poɾ-ˈke ˈtje-nen ˈu-na ˈfe-tʃa ˈli-mi-te im-poɾ-ˈtan-te/",
+    portuguesePhonetic: "por-quê ti-ê-nen ú-na fê-tcha lí-mi-te im-por-tán-te.",
+    syllables: ["Por", "que", " tie", "nen", " u", "na", " fe", "cha", " lí", "mi", "te", " im", "por", "tan", "te."],
+    exampleSentence: "Porque tienen una fecha límite importante.",
+    exampleTranslation: "Porque eles têm um prazo importante."
+  },
+  {
+    id: 'leccion_35_26',
+    word: "¿Por qué quiere ella empezar la universidad solo el próximo año?",
+    translation: "Por que ela quer começar a faculdade apenas no próximo ano?",
+    pronunciation: "/poɾ ˈke ˈkje-ɾe ˈe-ʝa em-pe-ˈθaɾ la u-ni-βeɾ-si-ˈðað ˈso-lo el ˈpɾok-si-mo ˈa-ɲo/",
+    portuguesePhonetic: "¿por quê qui-ê-re ê-lia em-pe-zár la u-ni-ber-si-dád sô-lo él próc-si-mo á-nho?",
+    syllables: ["¿Por", " qué", " quie", "re", " e", "lla", " em", "pe", "zar", " la", " u", "ni", "ver", "si", "dad", " so", "lo", " el", " pró", "xi", "mo", " a", "ño?"],
+    exampleSentence: "¿Por qué quiere ella empezar la universidad solo el próximo año?",
+    exampleTranslation: "Por que ela quer começar a faculdade apenas no próximo ano?"
+  },
+  {
+    id: 'leccion_35_27',
+    word: "Porque ella no tiene dinero este año.",
+    translation: "Porque ela não tem dinheiro este ano.",
+    pronunciation: "/poɾ-ˈke ˈe-ʝa no ˈtje-ne ði-ˈne-ɾo ˈes-te ˈa-ɲo/",
+    portuguesePhonetic: "por-quê ê-lia nô ti-ê-ne di-nê-ro és-te á-nho.",
+    syllables: ["Por", "que", " e", "lla", " no", " tie", "ne", " di", "ne", "ro", " es", "te", " a", "ño."],
+    exampleSentence: "Porque ella no tiene dinero este año.",
+    exampleTranslation: "Porque ela não tem dinheiro este ano."
+  },
+  {
+    id: 'leccion_35_28',
+    word: "Creo que es una gran idea.",
+    translation: "Eu acho que é uma ótima ideia.",
+    pronunciation: "/ˈkɾe-o ke es ˈu-na ɡɾan i-ˈðe-a/",
+    portuguesePhonetic: "crê-o que és ú-na grán i-dé-ia",
+    syllables: ["Creo", " que", " es", " u", "na", " gran", " i", "de", "a."],
+    exampleSentence: "Creo que es una gran idea.",
+    exampleTranslation: "Eu acho que é uma ótima ideia."
+  },
+  {
+    id: 'leccion_35_29',
+    word: "Él quiere escribir un libro sobre su ciudad.",
+    translation: "Ele quer escrever um livro sobre sua cidade.",
+    pronunciation: "/el ˈkje-ɾe es-kɾi-ˈβiɾ un ˈli-βɾo ˈso-βɾe su θju-ˈðað/",
+    portuguesePhonetic: "él qui-ê-re es-cri-bír un lí-bro só-bre su ciu-dád.",
+    syllables: ["Él", " quie", "re", " es", "cri", "bir", " un", " li", "bro", " so", "bre", " su", " ciu", "dad."],
+    exampleSentence: "Él quiere escribir un libro sobre su ciudad.",
+    exampleTranslation: "Ele quer escrever um livro sobre sua cidade."
+  },
+  {
+    id: 'leccion_35_30',
+    word: "Ellos creen que es difícil aprender italiano.",
+    translation: "Eles acham que é difícil aprender italiano.",
+    pronunciation: "/ˈe-ʝos ˈkɾe-en ke es di-ˈfi-θil a-pɾen-ˈdeɾ i-ta-ˈlja-no/",
+    portuguesePhonetic: "ê-lyos crê-en que és di-fí-cil a-pren-dér i-ta-liá-no.",
+    syllables: ["E", "llos", " creen", " que", " es", " di", "fí", "cil", " a", "pren", "der", " i", "ta", "lia", "no."],
+    exampleSentence: "Ellos creen que es difícil aprender italiano.",
+    exampleTranslation: "Eles acham que é difícil aprender italiano."
+  },
+  {
+    id: 'leccion_35_31',
+    word: "Necesito escribir un informe importante.",
+    translation: "Eu preciso escrever um relatório importante.",
+    pronunciation: "/ne-θe-ˈsi-to es-kɾi-ˈβiɾ un in-ˈfoɾ-me im-poɾ-ˈtan-te/",
+    portuguesePhonetic: "ne-ce-sí-to es-cri-bír un in-fór-me im-por-tán-te.",
+    syllables: ["Ne", "ce", "si", "to", " es", "cri", "bir", " un", " in", "for", "me", " im", "por", "tan", "te."],
+    exampleSentence: "Necesito escribir un informe importante.",
+    exampleTranslation: "Eu preciso escrever um relatório importante."
+  },
+  {
+    id: 'leccion_35_32',
+    word: "¿Cree él que es aburrido?",
+    translation: "Ele acha que é entediante?",
+    pronunciation: "/ˈkɾe-e el ke es a-βu-ˈri-ðo/",
+    portuguesePhonetic: "¿crê-e él que és a-bur-rí-do?",
+    syllables: ["¿Cree", " él", " que", " es", " a", "bu", "rri", "do?"],
+    exampleSentence: "¿Cree él que es aburrido?",
+    exampleTranslation: "Ele acha que é entediante?"
+  },
+  {
+    id: 'leccion_35_33',
+    word: "¿Qué piensa ella de eso?",
+    translation: "O que ela acha disso?",
+    pronunciation: "/ke ˈpjen-sa ˈe-ʝa de ˈe-so/",
+    portuguesePhonetic: "¿qué pi-ên-sa ê-lia de ê-so?",
+    syllables: ["¿Qué", " pien", "sa", " e", "lla", " de", " e", "so?"],
+    exampleSentence: "¿Qué piensa ella de eso?",
+    exampleTranslation: "O que ela acha disso?"
+  },
+  {
+    id: 'leccion_35_34',
+    word: "A todo el mundo le gusta el chocolate.",
+    translation: "Todo mundo gosta de chocolate.",
+    pronunciation: "/a ˈto-ðo el ˈmun-do le ˈɣus-ta el tʃo-ko-ˈla-te/",
+    portuguesePhonetic: "a tô-do él mún-do le gús-ta él tcho-co-lá-te.",
+    syllables: ["A", " to", "do", " el", " mun", "do", " le", " gus", "ta", " el", " tcho", "co", "la", "te."],
+    exampleSentence: "A todo el mundo le gusta el chocolate.",
+    exampleTranslation: "Todo mundo gosta de chocolate."
+  },
+  {
+    id: 'leccion_35_35',
+    word: "¿Todo el mundo habla inglés aquí?",
+    translation: "Todo mundo fala inglês aqui?",
+    pronunciation: "/ˈto-ðo el ˈmun-do ˈa-βla iŋ-ˈɡles a-ˈki/",
+    portuguesePhonetic: "¿tô-do él mún-do á-bla in-glés a-quí?",
+    syllables: ["¿To", "do", " el", " mun", "do", " ha", "bla", " in", "glés", " a", "quí?"],
+    exampleSentence: "¿Todo el mundo habla inglés aquí?",
+    exampleTranslation: "Todo mundo fala inglês aqui?"
+  },
+  {
+    id: 'leccion_35_36',
+    word: "¿Por qué quieres aprender francés?",
+    translation: "Por que você quer aprender francês?",
+    pronunciation: "/poɾ ˈke ˈkje-ɾes a-pɾen-ˈdeɾ fɾan-ˈθes/",
+    portuguesePhonetic: "¿por quê qui-ê-res a-pren-dér fran-cês?",
+    syllables: ["¿Por", " qué", " quie", "res", " a", "pren", "der", " fran", "cés?"],
+    exampleSentence: "¿Por qué quieres aprender francês?",
+    exampleTranslation: "Por que você quer aprender francês?"
+  },
+  {
+    id: 'leccion_35_37',
+    word: "Porque quiero ir a la universidad en Francia.",
+    translation: "Porque eu quero ir para a faculdade na França.",
+    pronunciation: "/poɾ-ˈke ˈkje-ɾo iɾ a la u-ni-βeɾ-si-ˈðað en ˈfɾan-θja/",
+    portuguesePhonetic: "por-quê qui-ê-ro ir a la u-ni-ber-si-dád en frán-cia.",
+    syllables: ["Por", "que", " quie", "ro", " ir", " a", " la", " u", "ni", "ver", "si", "dad", " en", " Fran", "cia."],
+    exampleSentence: "Porque quiero ir a la universidad en Francia.",
+    exampleTranslation: "Porque eu quero ir para a faculdade na França."
+  },
+  {
+    id: 'leccion_35_38',
+    word: "¿Por qué quiere él leer libros en alemán?",
+    translation: "Por que ele quer ler livros em alemão?",
+    pronunciation: "/poɾ ˈke ˈkje-ɾe el le-ˈeɾ ˈli-βros en a-le-ˈman/",
+    portuguesePhonetic: "¿por quê qui-ê-re él le-ér lí-bros en a-le-mán?",
+    syllables: ["¿Por", " qué", " quie", "re", " él", " le", "er", " li", "bros", " en", " a", "le", "mán?"],
+    exampleSentence: "¿Por qué quiere él leer livros en alemán?",
+    exampleTranslation: "Por que ele quer ler livros em alemão?"
+  },
+  {
+    id: 'leccion_35_39',
+    word: "Porque quiere entender el idioma.",
+    translation: "Porque ele quer entender o idioma.",
+    pronunciation: "/poɾ-ˈke ˈkje-ɾe en-ten-ˈdeɾ el i-ˈðjo-ma/",
+    portuguesePhonetic: "por-quê qui-ê-re en-ten-dér él i-dió-ma.",
+    syllables: ["Por", "que", " quie", "re", " en", "ten", "der", " el", " i", "dio", "ma."],
+    exampleSentence: "Porque quiere entender el idioma.",
+    exampleTranslation: "Porque ele quer entender o idioma."
+  },
+  {
+    id: 'leccion_35_40',
+    word: "Escribo mensajes a mis amigos.",
+    translation: "Eu escrevo mensagens para meus amigos.",
+    pronunciation: "/es-ˈkɾi-βo men-ˈsa-xes a mis a-ˈmi-ɣos/",
+    portuguesePhonetic: "es-crí-bo men-sá-rhes a mis a-mí-gos.",
+    syllables: ["Es", "cri", "bo", " men", "sa", "jes", " a", " mis", " a", "mi", "gos."],
+    exampleSentence: "Escribo mensagens a mis amigos.",
+    exampleTranslation: "Eu escrevo mensagens para meus amigos."
+  },
+  {
+    id: 'leccion_35_41',
+    word: "¿Qué significa \"fácil\"?",
+    translation: "Qual o significado de \"fácil\"?",
+    pronunciation: "/ke siɣ-ˈni-fi-ka ˈfa-θil/",
+    portuguesePhonetic: "¿qué sig-ní-fi-ca fá-cil?",
+    syllables: ["¿Qué", " sig", "ni", "fi", "ca", " \"fá", "cil\"?"],
+    exampleSentence: "¿Qué significa \"fácil\"?",
+    exampleTranslation: "Qual o significado de \"fácil\"?"
+  },
+  {
+    id: 'leccion_35_42',
+    word: "Es \"fácil\".",
+    translation: "É \"fácil\".",
+    pronunciation: "/es ˈfa-θil/",
+    portuguesePhonetic: "és fá-cil",
+    syllables: ["Es", " \"fá", "cil\"."],
+    exampleSentence: "Es \"fácil\".",
+    exampleTranslation: "É \"fácil\"."
+  },
+  {
+    id: 'leccion_35_43',
+    word: "Lo siento, no sé.",
+    translation: "Desculpe, eu não sei.",
+    pronunciation: "/lo ˈsjen-to no se/",
+    portuguesePhonetic: "lo si-ên-to nô sé.",
+    syllables: ["Lo", " sien", "to,", " no", " sé."],
+    exampleSentence: "Lo siento, no sé.",
+    exampleTranslation: "Desculpe, eu não sei."
+  },
+  {
+    id: 'leccion_35_44',
+    word: "Creo que es aburrido.",
+    translation: "Eu acho chato.",
+    pronunciation: "/ˈkɾe-o ke es a-βu-ˈri-ðo/",
+    portuguesePhonetic: "crê-o que és a-bur-rí-do.",
+    syllables: ["Creo", " que", " es", " a", "bu", "rri", "do."],
+    exampleSentence: "Creo que es aburrido.",
+    exampleTranslation: "Eu acho chato."
+  },
+  {
+    id: 'leccion_35_45',
+    word: "¡Creo que es interesante!",
+    translation: "Eu acho interessante!",
+    pronunciation: "/ˈkɾe-o ke es in-te-ɾe-ˈsan-te/",
+    portuguesePhonetic: "crê-o que és in-te-re-sán-te!",
+    syllables: ["¡Creo", " que", " es", " in", "te", "re", "san", "te!"],
+    exampleSentence: "¡Creo que es interesante!",
+    exampleTranslation: "Eu acho interessante!"
+  },
+  {
+    id: 'leccion_35_46',
+    word: "No creo que sea gracioso.",
+    translation: "Eu não acho graça.",
+    pronunciation: "/no ˈkɾe-o ke ˈse-a ɣɾa-ˈθjo-so/",
+    portuguesePhonetic: "nô crê-o que sê-a gra-ció-so.",
+    syllables: ["No", " creo", " que", " sea", " gra", "cio", "so."],
+    exampleSentence: "No creo que sea gracioso.",
+    exampleTranslation: "Eu não acho graça."
+  },
+  {
+    id: 'leccion_35_47',
+    word: "gente / personas",
+    translation: "pessoas",
+    pronunciation: "/ˈxen-te o peɾ-ˈso-nas/",
+    portuguesePhonetic: "rhên-te / per-só-nas",
+    syllables: ["gen", "te", " /", " per", "so", "nas"],
+    exampleSentence: "gente / personas",
+    exampleTranslation: "pessoas"
+  }
+];

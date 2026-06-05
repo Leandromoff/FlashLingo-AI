@@ -1,0 +1,754 @@
+import { FlashcardData } from '../types';
+
+export const LECCION_23_W2_S_DECK: FlashcardData[] = [
+  {
+    id: 'leccion_23_1',
+    word: "saber / conocer",
+    translation: "saber, conhecer",
+    pronunciation: "/saˈβeɾ o ko-no-ˈθeɾ/",
+    portuguesePhonetic: "sa-bér / co-no-cér",
+    syllables: ["sa", "ber", " /", " co", "no", "cer"],
+    exampleSentence: "saber / conocer",
+    exampleTranslation: "saber, conhecer"
+  },
+  {
+    id: 'leccion_23_2',
+    word: "aprender",
+    translation: "aprender",
+    pronunciation: "/apɾenˈdeɾ/",
+    portuguesePhonetic: "a-pren-dér",
+    syllables: ["a", "pren", "der"],
+    exampleSentence: "aprender",
+    exampleTranslation: "aprender"
+  },
+  {
+    id: 'leccion_23_3',
+    word: "materia / asignatura",
+    translation: "matéria, disciplina, assunto",
+    pronunciation: "/maˈteɾja o asiɣnaˈtuɾa/",
+    portuguesePhonetic: "ma-tê-ria / a-sig-na-tú-ra",
+    syllables: ["ma", "te", "ria", " /", " a", "sig", "na", "tu", "ra"],
+    exampleSentence: "materia / asignatura",
+    exampleTranslation: "matéria, disciplina, assunto"
+  },
+  {
+    id: 'leccion_23_4',
+    word: "biología",
+    translation: "biologia",
+    pronunciation: "/βjoloˈxia/",
+    portuguesePhonetic: "bio-lo-rhí-a",
+    syllables: ["bio", "lo", "gí", "a"],
+    exampleSentence: "biología",
+    exampleTranslation: "biologia"
+  },
+  {
+    id: 'leccion_23_5',
+    word: "geografía",
+    translation: "geografia",
+    pronunciation: "/xeoɣɾaˈfia/",
+    portuguesePhonetic: "rhe-o-gra-fí-a",
+    syllables: ["ge", "o", "gra", "fí", "a"],
+    exampleSentence: "geografía",
+    exampleTranslation: "geografia"
+  },
+  {
+    id: 'leccion_23_6',
+    word: "matemáticas",
+    translation: "matemática",
+    pronunciation: "/mateˈmatikas/",
+    portuguesePhonetic: "ma-te-má-ti-cas",
+    syllables: ["ma", "te", "má", "ti", "cas"],
+    exampleSentence: "matemáticas",
+    exampleTranslation: "matemática"
+  },
+  {
+    id: 'leccion_23_7',
+    word: "universidad",
+    translation: "universidade",
+    pronunciation: "/uniβeɾsiˈðað/",
+    portuguesePhonetic: "u-ni-ber-si-dád",
+    syllables: ["u", "ni", "ver", "si", "dad"],
+    exampleSentence: "universidad",
+    exampleTranslation: "universidade"
+  },
+  {
+    id: 'leccion_23_8',
+    word: "gimnasio",
+    translation: "academia",
+    pronunciation: "/ximˈnasjo/",
+    portuguesePhonetic: "rrim-ná-sio",
+    syllables: ["gim", "na", "sio"],
+    exampleSentence: "gimnasio",
+    exampleTranslation: "academia"
+  },
+  {
+    id: 'leccion_23_9',
+    word: "cocina / culinaria",
+    translation: "culinária, cozinha",
+    pronunciation: "/koˈθina o kuliˈnaɾja/",
+    portuguesePhonetic: "co-cí-na / cu-li-ná-ria",
+    syllables: ["co", "ci", "na", " /", " cu", "li", "na", "ria"],
+    exampleSentence: "cocina / culinaria",
+    exampleTranslation: "culinária, cozinha"
+  },
+  {
+    id: 'leccion_23_10',
+    word: "mes",
+    translation: "mês",
+    pronunciation: "/mes/",
+    portuguesePhonetic: "mês",
+    syllables: ["mes"],
+    exampleSentence: "mes",
+    exampleTranslation: "mês"
+  },
+  {
+    id: 'leccion_23_11',
+    word: "año",
+    translation: "ano",
+    pronunciation: "/ˈaɲo/",
+    portuguesePhonetic: "á-nho",
+    syllables: ["a", "ño"],
+    exampleSentence: "año",
+    exampleTranslation: "ano"
+  },
+  {
+    id: 'leccion_23_12',
+    word: "novio",
+    translation: "namorado",
+    pronunciation: "/ˈnoβjo/",
+    portuguesePhonetic: "nó-bio",
+    syllables: ["no", "vio"],
+    exampleSentence: "novio",
+    exampleTranslation: "namorado"
+  },
+  {
+    id: 'leccion_23_13',
+    word: "novia",
+    translation: "namorada",
+    pronunciation: "/ˈnoβja/",
+    portuguesePhonetic: "nó-bia",
+    syllables: ["no", "via"],
+    exampleSentence: "novia",
+    exampleTranslation: "namorada"
+  },
+  {
+    id: 'leccion_23_14',
+    word: "más",
+    translation: "mais",
+    pronunciation: "/mas/",
+    portuguesePhonetic: "más",
+    syllables: ["más"],
+    exampleSentence: "más",
+    exampleTranslation: "mais"
+  },
+  {
+    id: 'leccion_23_15',
+    word: "sólo / solamente",
+    translation: "só, somente, apenas",
+    pronunciation: "/ˈsolo o solaˈmente/",
+    portuguesePhonetic: "só-lo / so-la-mén-te",
+    syllables: ["só", "lo", " /", " so", "la", "men", "te"],
+    exampleSentence: "sólo / solamente",
+    exampleTranslation: "só, somente, apenas"
+  },
+  {
+    id: 'leccion_23_16',
+    word: "sobre / acerca de",
+    translation: "sobre, aproximadamente",
+    pronunciation: "/ˈsoβɾe o aˈθeɾka ðe/",
+    portuguesePhonetic: "só-bre / a-çér-ca de",
+    syllables: ["so", "bre", " /", " a", "cer", "ca", " de"],
+    exampleSentence: "sobre / acerca de",
+    exampleTranslation: "sobre, aproximadamente"
+  },
+  {
+    id: 'leccion_23_17',
+    word: "Ellos se quedan en casa todo el día.",
+    translation: "Eles ficam em casa o dia todo.",
+    pronunciation: "/ˈeʝos se ˈkeðan en ˈkasa ˈtoðo el ˈðia/",
+    portuguesePhonetic: "ê-lyos se qué-dan en cá-sa tô-do él dí-a.",
+    syllables: ["El", "los", " se", " que", "dan", " en", " ca", "sa", " to", "do", " el", " dí", "a."],
+    exampleSentence: "Ellos se quedan en casa todo el día.",
+    exampleTranslation: "Eles ficam em casa o dia todo."
+  },
+  {
+    id: 'leccion_23_18',
+    word: "Yo no hago ejercicio los fines de semana.",
+    translation: "Eu não faço exercícios nos fins de semana.",
+    pronunciation: "/ʝo no ˈaɣo exeɾˈθiθjo los ˈfines ðe seˈmana/",
+    portuguesePhonetic: "iô nô á-go e-rser-cí-cio lôs fí-nes de se-má-na.",
+    syllables: ["Yo", " no", " ha", "go", " e", "jer", "ci", "cio", " los", " fi", "nes", " de", " se", "ma", "na."],
+    exampleSentence: "Yo no hago ejercicio los fines de semana.",
+    exampleTranslation: "Eu não faço exercícios nos fins de semana."
+  },
+  {
+    id: 'leccion_23_19',
+    word: "Él no estudia biología aquí.",
+    translation: "Ele não estuda biologia aqui.",
+    pronunciation: "/el no esˈtuðja βjoloˈxia aˈki/",
+    portuguesePhonetic: "él nô es-tú-dia bio-lo-rhí-a a-quí.",
+    syllables: ["Él", " no", " es", "tu", "dia", " bio", "lo", "gí", "a", " a", "quí."],
+    exampleSentence: "Él no estudia biología aquí.",
+    exampleTranslation: "Ele não estuda biologia aqui."
+  },
+  {
+    id: 'leccion_23_20',
+    word: "Ella no sabe esta palabra en francés.",
+    translation: "Ela não sabe essa palavra em francês.",
+    pronunciation: "/ˈeʝa no ˈsaβe ˈesta paˈlaβɾa en fɾanˈθes/",
+    portuguesePhonetic: "e-lya nô sá-be és-ta pa-lá-bra en fran-cés.",
+    syllables: ["E", "lla", " no", " sa", "be", " es", "ta", " pa", "la", "bra", " en", " fran", "cés."],
+    exampleSentence: "Ella no sabe esta palabra en francês.",
+    exampleTranslation: "Ela não sabe essa palavra em francês."
+  },
+  {
+    id: 'leccion_23_21',
+    word: "Ella no tiene clase de cocina los martes.",
+    translation: "Ela não tem aula de culinária às terças-feiras.",
+    pronunciation: "/ˈeʝa no ˈtjene ˈklase ðe koˈθina los ˈmaɾtes/",
+    portuguesePhonetic: "e-lya nô ti-ê-ne clá-se de co-cí-na lôs már-tes.",
+    syllables: ["E", "lla", " no", " tie", "ne", " cla", "se", " de", " co", "ci", "na", " los", " mar", "tes."],
+    exampleSentence: "Ella no tiene clase de cocina los martes.",
+    exampleTranslation: "Ela não tem aula de culinária às terças-feiras."
+  },
+  {
+    id: 'leccion_23_22',
+    word: "Mi novio no viene aquí todos los días.",
+    translation: "Meu namorado não vem aqui todos os dias.",
+    pronunciation: "/mi ˈnoβjo no ˈbjene aˈki ˈtoðos los ˈðias/",
+    portuguesePhonetic: "mi nó-bio nô bi-ê-ne a-quí tô-dos lôs dí-as.",
+    syllables: ["Mi", " no", "vio", " no", " vie", "ne", " a", "quí", " to", "dos", " los", " dí", "as."],
+    exampleSentence: "Mi novio no viene aquí todos los días.",
+    exampleTranslation: "Meu namorado não vem aqui todos os dias."
+  },
+  {
+    id: 'leccion_23_23',
+    word: "Yo sé hablar inglés muy bien.",
+    translation: "Eu sei falar inglês muito bem.",
+    pronunciation: "/ʝo se aˈβlaɾ iŋˈɡles mui ˈβjen/",
+    portuguesePhonetic: "iô sê a-blár in-glés múi biêm.",
+    syllables: ["Yo", " sé", " ha", "blar", " in", "glés", " muy", " bien."],
+    exampleSentence: "Yo sé hablar inglés muy bien.",
+    exampleTranslation: "Eu sei falar inglês muito bem."
+  },
+  {
+    id: 'leccion_23_24',
+    word: "¿Tú sabes hablar italiano?",
+    translation: "Você sabe falar italiano?",
+    pronunciation: "/tu ˈsaβes aˈβlaɾ itaˈljano/",
+    portuguesePhonetic: "¿tú sá-bes a-blár i-ta-liá-no?",
+    syllables: ["¿Tú", " sa", "bes", " ha", "blar", " i", "ta", "lia", "no?"],
+    exampleSentence: "¿Tú sabes hablar italiano?",
+    exampleTranslation: "Você sabe falar italiano?"
+  },
+  {
+    id: 'leccion_23_25',
+    word: "Él quiere saber más sobre esta materia.",
+    translation: "Ele quer saber mais sobre esse assunto.",
+    pronunciation: "/el ˈkjeɾe saˈβeɾ mas ˈsoβɾe ˈesta maˈteɾja/",
+    portuguesePhonetic: "él qui-ê-re sa-bér más só-bre és-ta ma-tê-ria.",
+    syllables: ["Él", " quie", "re", " sa", "ber", " más", " so", "bre", " es", "ta", " ma", "te", "ria."],
+    exampleSentence: "Él quiere saber más sobre esta materia.",
+    exampleTranslation: "Ele quer saber mais sobre esse assunto."
+  },
+  {
+    id: 'leccion_23_26',
+    word: "Él estudia biología en la universidad.",
+    translation: "Ele estuda biologia na universidade.",
+    pronunciation: "/el esˈtuðja βjoloˈxia en la uniβeɾsiˈðað/",
+    portuguesePhonetic: "él es-tú-dia bio-lo-rhí-a en la u-ni-ber-si-dád.",
+    syllables: ["Él", " es", "tu", "dia", " bio", "lo", "gí", "a", " en", " la", " u", "ni", "ver", "si", "dad."],
+    exampleSentence: "Él estudia biología en la universidad.",
+    exampleTranslation: "Ele estuda biologia na universidade."
+  },
+  {
+    id: 'leccion_23_27',
+    word: "¿Tú sabes ir a la universidad solo?",
+    translation: "Você sabe ir à universidade sozinho?",
+    pronunciation: "/tu ˈsaβes iɾ a la uniβeɾsiˈðað ˈsolo/",
+    portuguesePhonetic: "¿tú sá-bes ir a la u-ni-ber-si-dád só-lo?",
+    syllables: ["¿Tú", " sa", "bes", " ir", " a", " la", " u", "ni", "ver", "si", "dad", " so", "lo?"],
+    exampleSentence: "¿Tú sabes ir a la universidad solo?",
+    exampleTranslation: "Você sabe ir à universidade sozinho?"
+  },
+  {
+    id: 'leccion_23_28',
+    word: "Yo realmente quiero aprender a cocinar bien.",
+    translation: "Eu realmente quero aprender a cozinhar bem.",
+    pronunciation: "/ʝo ɾealˈmente ˈkjeɾo apɾenˈdeɾ a kosiˈnaɾ ˈβjen/",
+    portuguesePhonetic: "iô rre-al-mén-te qui-ê-ro a-pren-dér a co-ci-nár biêm.",
+    syllables: ["Yo", " re", "al", "men", "te", " quie", "ro", " a", "pren", "der", " a", " co", "ci", "nar", " bien."],
+    exampleSentence: "Yo realmente quiero aprender a cocinar bien.",
+    exampleTranslation: "Eu realmente quero aprender a cozinhar bem."
+  },
+  {
+    id: 'leccion_23_29',
+    word: "¿Qué quieres aprender este año?",
+    translation: "O que você quer aprender este ano?",
+    pronunciation: "/ke ˈkjeɾes apɾenˈdeɾ ˈeste ˈaɲo/",
+    portuguesePhonetic: "¿qué qui-ê-res a-pren-dér és-te á-nho?",
+    syllables: ["¿Qué", " quie", "res", " a", "pren", "der", " es", "te", " a", "ño?"],
+    exampleSentence: "¿Qué quieres aprender este año?",
+    exampleTranslation: "O que você quer aprender este ano?"
+  },
+  {
+    id: 'leccion_23_30',
+    word: "Ella aprende italiano en Wizard.",
+    translation: "Ela aprende italiano na Wizard.",
+    pronunciation: "/ˈeʝa apɾenˈðe itaˈljano en ˈwisaɾð/",
+    portuguesePhonetic: "e-lya a-pren-de i-ta-liá-no en uí-zard.",
+    syllables: ["E", "lla", " a", "pren", "de", " i", "ta", "lia", "no", " en", " Wi", "zard."],
+    exampleSentence: "Ella aprende italiano en Wizard.",
+    exampleTranslation: "Ela aprende italiano na Wizard."
+  },
+  {
+    id: 'leccion_23_31',
+    word: "Él a veces estudia todo el día.",
+    translation: "Ele às vezes estuda o dia todo.",
+    pronunciation: "/el a ˈβeθes esˈtuðja ˈtoðo el ˈðia/",
+    portuguesePhonetic: "él a bê-ces es-tú-dia tô-do él dí-a.",
+    syllables: ["Él", " a", " ve", "ces", " es", "tu", "dia", " to", "do", " el", " dí", "a."],
+    exampleSentence: "Él a veces estudia todo el día.",
+    exampleTranslation: "Ele às vezes estuda o dia todo."
+  },
+  {
+    id: 'leccion_23_32',
+    word: "Nosotros sólo hacemos ejercicio por la noche.",
+    translation: "Nós somente fazemos exercícios à noite.",
+    pronunciation: "/noˈsotɾos ˈsolo aˈθemos exeɾˈθiθjo poɾ la ˈnotʃe/",
+    portuguesePhonetic: "no-só-tros só-lo a-cê-mos e-rser-cí-cio por la nó-tche.",
+    syllables: ["No", "so", "tros", " só", "lo", " ha", "ce", "mos", " e", "jer", "ci", "cio", " por", " la", " no", "che."],
+    exampleSentence: "Nosotros sólo hacemos ejercicio por la noche.",
+    exampleTranslation: "Nós somente fazemos exercícios à noite."
+  },
+  {
+    id: 'leccion_23_33',
+    word: "Ella no se levanta temprano los sábados.",
+    translation: "Ela não se levanta cedo aos sábados.",
+    pronunciation: "/ˈeʝa no se leˈβanta temˈpɾano los ˈsaβados/",
+    portuguesePhonetic: "e-lya nô se le-bán-ta tem-prá-no lôs sá-ba-dos.",
+    syllables: ["E", "lla", " no", " se", " le", "van", "ta", " tem", "pra", "no", " los", " sá", "ba", "dos."],
+    exampleSentence: "Ella no se levanta temprano los sábados.",
+    exampleTranslation: "Ela não se levanta cedo aos sábados."
+  },
+  {
+    id: 'leccion_23_34',
+    word: "Él no quiere ir a Francia este mes.",
+    translation: "Ele não quer ir para a França este mês.",
+    pronunciation: "/el no ˈkjeɾe iɾ a ˈfɾanθja ˈeste mes/",
+    portuguesePhonetic: "él no qui-ê-re ir a frán-cia és-te mês.",
+    syllables: ["Él", " no", " quie", "re", " ir", " a", " Fran", "cia", " es", "te", " mes."],
+    exampleSentence: "Él no quiere ir a Francia este mes.",
+    exampleTranslation: "Ele não quer ir para a França este mês."
+  },
+  {
+    id: 'leccion_23_35',
+    word: "Yo hablo inglés.",
+    translation: "Eu falo inglês.",
+    pronunciation: "/ʝo ˈaβlo iŋˈɡles/",
+    portuguesePhonetic: "iô á-blo in-glés.",
+    syllables: ["Yo", " ha", "blo", " in", "glés."],
+    exampleSentence: "Yo hablo inglés.",
+    exampleTranslation: "Eu falo inglês."
+  },
+  {
+    id: 'leccion_23_36',
+    word: "Yo no hablo inglés.",
+    translation: "Eu não falo inglês.",
+    pronunciation: "/ʝo no ˈaβlo iŋˈɡles/",
+    portuguesePhonetic: "iô nô á-blo in-glés.",
+    syllables: ["Yo", " no", " ha", "blo", " in", "glés."],
+    exampleSentence: "Yo no hablo inglés.",
+    exampleTranslation: "Eu não falo inglês."
+  },
+  {
+    id: 'leccion_23_37',
+    word: "Ella habla español.",
+    translation: "Ela fala espanhol.",
+    pronunciation: "/ˈeʝa ˈaβla espaˈɲol/",
+    portuguesePhonetic: "e-lya á-bla es-pa-nhól.",
+    syllables: ["E", "lla", " ha", "bla", " es", "pa", "ñol."],
+    exampleSentence: "Ella habla español.",
+    exampleTranslation: "Ela fala espanhol."
+  },
+  {
+    id: 'leccion_23_38',
+    word: "Ella no habla español.",
+    translation: "Ela não fala espanhol.",
+    pronunciation: "/ˈeʝa no ˈaβla espaˈɲol/",
+    portuguesePhonetic: "e-lya nô á-bla es-pa-nhól.",
+    syllables: ["E", "lla", " no", " ha", "bla", " es", "pa", "ñol."],
+    exampleSentence: "Ella no habla español.",
+    exampleTranslation: "Ela não fala espanhol."
+  },
+  {
+    id: 'leccion_23_39',
+    word: "Yo sé cocinar.",
+    translation: "Eu sei cozinhar.",
+    pronunciation: "/ʝo se kosiˈnaɾ/",
+    portuguesePhonetic: "iô sê co-ci-nár.",
+    syllables: ["Yo", " sé", " co", "ci", "nar."],
+    exampleSentence: "Yo sé cocinar.",
+    exampleTranslation: "Eu sei cozinhar."
+  },
+  {
+    id: 'leccion_23_40',
+    word: "¿Tú quieres aprender a cocinar?",
+    translation: "Você quer aprender a cozinhar?",
+    pronunciation: "/tu ˈkjeɾes apɾenˈdeɾ a kosiˈnaɾ/",
+    portuguesePhonetic: "¿tú qui-ê-res a-pren-dér a co-ci-nár?",
+    syllables: ["¿Tú", " quie", "res", " a", "pren", "der", " a", " co", "ci", "nar?"],
+    exampleSentence: "¿Tú quieres aprender a cocinar?",
+    exampleTranslation: "Você quer aprender a cozinhar?"
+  },
+  {
+    id: 'leccion_23_41',
+    word: "¡Buen trabajo!",
+    translation: "Bom trabalho! / Muito bem!",
+    pronunciation: "/bwen tɾaˈβaxo/",
+    portuguesePhonetic: "buén tra-bá-rho",
+    syllables: ["¡Buen", " tra", "ba", "jo!"],
+    exampleSentence: "¡Buen trabajo!",
+    exampleTranslation: "Bom trabalho! / Muito bem!"
+  },
+  {
+    id: 'leccion_23_42',
+    word: "saber / conocer",
+    translation: "saber, conhecer",
+    pronunciation: "/saˈβeɾ o ko-no-ˈθeɾ/",
+    portuguesePhonetic: "sa-bér / co-no-cér",
+    syllables: ["sa", "ber", " /", " co", "no", "cer"],
+    exampleSentence: "saber / conocer",
+    exampleTranslation: "saber, conhecer"
+  },
+  {
+    id: 'leccion_23_43',
+    word: "aprender",
+    translation: "aprender",
+    pronunciation: "/apɾenˈdeɾ/",
+    portuguesePhonetic: "a-pren-dér",
+    syllables: ["a", "pren", "der"],
+    exampleSentence: "aprender",
+    exampleTranslation: "aprender"
+  },
+  {
+    id: 'leccion_23_44',
+    word: "materia / asignatura",
+    translation: "assunto, matéria",
+    pronunciation: "/maˈteɾja o asiɣnaˈtuɾa/",
+    portuguesePhonetic: "ma-tê-ria / a-sig-na-tú-ra",
+    syllables: ["ma", "te", "ria", " /", " a", "sig", "na", "tu", "ra"],
+    exampleSentence: "materia / asignatura",
+    exampleTranslation: "assunto, matéria"
+  },
+  {
+    id: 'leccion_23_45',
+    word: "biología",
+    translation: "biologia",
+    pronunciation: "/βjoloˈxia/",
+    portuguesePhonetic: "bio-lo-rhí-a",
+    syllables: ["bio", "lo", "gí", "a"],
+    exampleSentence: "biología",
+    exampleTranslation: "biologia"
+  },
+  {
+    id: 'leccion_23_46',
+    word: "geografía",
+    translation: "geografia",
+    pronunciation: "/xeoɣɾaˈfia/",
+    portuguesePhonetic: "rhe-o-gra-fí-a",
+    syllables: ["ge", "o", "gra", "fí", "a"],
+    exampleSentence: "geografía",
+    exampleTranslation: "geografia"
+  },
+  {
+    id: 'leccion_23_47',
+    word: "matemáticas",
+    translation: "matemática",
+    pronunciation: "/mateˈmatikas/",
+    portuguesePhonetic: "ma-te-má-ti-cas",
+    syllables: ["ma", "te", "má", "ti", "cas"],
+    exampleSentence: "matemáticas",
+    exampleTranslation: "matemática"
+  },
+  {
+    id: 'leccion_23_48',
+    word: "universidad",
+    translation: "universidade",
+    pronunciation: "/uniβeɾsiˈðað/",
+    portuguesePhonetic: "u-ni-ber-si-dád",
+    syllables: ["u", "ni", "ver", "si", "dad"],
+    exampleSentence: "universidad",
+    exampleTranslation: "universidade"
+  },
+  {
+    id: 'leccion_23_49',
+    word: "gimnasio",
+    translation: "academia",
+    pronunciation: "/ximˈnasjo/",
+    portuguesePhonetic: "rrim-ná-sio",
+    syllables: ["gim", "na", "sio"],
+    exampleSentence: "gimnasio",
+    exampleTranslation: "academia"
+  },
+  {
+    id: 'leccion_23_50',
+    word: "cocina",
+    translation: "culinária",
+    pronunciation: "/koˈθina/",
+    portuguesePhonetic: "co-cí-na",
+    syllables: ["co", "ci", "na"],
+    exampleSentence: "cocina",
+    exampleTranslation: "culinária"
+  },
+  {
+    id: 'leccion_23_51',
+    word: "mes",
+    translation: "mês",
+    pronunciation: "/mes/",
+    portuguesePhonetic: "mês",
+    syllables: ["mes"],
+    exampleSentence: "mes",
+    exampleTranslation: "mês"
+  },
+  {
+    id: 'leccion_23_52',
+    word: "año",
+    translation: "ano",
+    pronunciation: "/ˈaɲo/",
+    portuguesePhonetic: "á-nho",
+    syllables: ["a", "ño"],
+    exampleSentence: "año",
+    exampleTranslation: "ano"
+  },
+  {
+    id: 'leccion_23_53',
+    word: "novio",
+    translation: "namorado",
+    pronunciation: "/ˈnoβjo/",
+    portuguesePhonetic: "nó-bio",
+    syllables: ["no", "via"],
+    exampleSentence: "novio",
+    exampleTranslation: "namorado"
+  },
+  {
+    id: 'leccion_23_54',
+    word: "novia",
+    translation: "namorada",
+    pronunciation: "/ˈnoβja/",
+    portuguesePhonetic: "nó-bia",
+    syllables: ["no", "via"],
+    exampleSentence: "novia",
+    exampleTranslation: "namorada"
+  },
+  {
+    id: 'leccion_23_55',
+    word: "más",
+    translation: "mais",
+    pronunciation: "/mas/",
+    portuguesePhonetic: "más",
+    syllables: ["más"],
+    exampleSentence: "más",
+    exampleTranslation: "mais"
+  },
+  {
+    id: 'leccion_23_56',
+    word: "sólo / solamente",
+    translation: "somente, apenas",
+    pronunciation: "/ˈsolo o solaˈmente/",
+    portuguesePhonetic: "sol-o / so-la-mén-te",
+    syllables: ["só", "lo", " /", " so", "la", "men", "te"],
+    exampleSentence: "sólo / solamente",
+    exampleTranslation: "somente, apenas"
+  },
+  {
+    id: 'leccion_23_57',
+    word: "sobre / acerca de",
+    translation: "sobre",
+    pronunciation: "/ˈsoβɾe o aˈθeɾka ðe/",
+    portuguesePhonetic: "só-bre / a-çér-ca de",
+    syllables: ["so", "bre", " /", " a", "cer", "ca", " de"],
+    exampleSentence: "sobre / acerca de",
+    exampleTranslation: "sobre"
+  },
+  {
+    id: 'leccion_23_58',
+    word: "todo el día",
+    translation: "o dia todo",
+    pronunciation: "/ˈtoðo el ˈðia/",
+    portuguesePhonetic: "tô-do él dí-a",
+    syllables: ["to", "do", " el", " dí", "a"],
+    exampleSentence: "todo el día",
+    exampleTranslation: "o dia todo"
+  },
+  {
+    id: 'leccion_23_59',
+    word: "hacer ejercicio",
+    translation: "fazer exercícios",
+    pronunciation: "/aˈθeɾ exeɾˈθiθjo/",
+    portuguesePhonetic: "a-çér e-rser-cí-cio",
+    syllables: ["ha", "cer", " e", "jer", "ci", "cio"],
+    exampleSentence: "hacer ejercicio",
+    exampleTranslation: "fazer exercícios"
+  },
+  {
+    id: 'leccion_23_60',
+    word: "saber cómo",
+    translation: "saber como",
+    pronunciation: "/saˈβeɾ ˈkomo/",
+    portuguesePhonetic: "sa-bér có-mo",
+    syllables: ["sa", "ber", " có", "mo"],
+    exampleSentence: "saber cómo",
+    exampleTranslation: "saber como"
+  },
+  {
+    id: 'leccion_23_61',
+    word: "aprender cómo",
+    translation: "aprender como",
+    pronunciation: "/apɾenˈdeɾ ˈkomo/",
+    portuguesePhonetic: "a-pren-dér có-mo",
+    syllables: ["a", "pren", "der", " có", "mo"],
+    exampleSentence: "aprender cómo",
+    exampleTranslation: "aprender como"
+  },
+  {
+    id: 'leccion_23_62',
+    word: "este año",
+    translation: "este ano",
+    pronunciation: "/ˈeste ˈaɲo/",
+    portuguesePhonetic: "és-te á-nho",
+    syllables: ["es", "te", " a", "ño"],
+    exampleSentence: "este año",
+    exampleTranslation: "este ano"
+  },
+  {
+    id: 'leccion_23_63',
+    word: "este mes",
+    translation: "este mês",
+    pronunciation: "/ˈeste mes/",
+    portuguesePhonetic: "és-te mês",
+    syllables: ["es", "te", " mes"],
+    exampleSentence: "este mes",
+    exampleTranslation: "este mês"
+  },
+  {
+    id: 'leccion_23_64',
+    word: "todos los días",
+    translation: "todos os dias",
+    pronunciation: "/ˈtoðos los ˈðias/",
+    portuguesePhonetic: "tô-dos lôs dí-as",
+    syllables: ["to", "dos", " los", " dí", "as"],
+    exampleSentence: "todos los días",
+    exampleTranslation: "todos os dias"
+  },
+  {
+    id: 'leccion_23_65',
+    word: "los fines de semana",
+    translation: "nos fins de semana",
+    pronunciation: "/los ˈfines ðe seˈmana/",
+    portuguesePhonetic: "lôs fí-nes de se-má-na",
+    syllables: ["los", " fi", "nes", " de", " se", "ma", "na"],
+    exampleSentence: "los fines de semana",
+    exampleTranslation: "nos fins de semana"
+  },
+  {
+    id: 'leccion_23_66',
+    word: "levantarse temprano",
+    translation: "levantar cedo",
+    pronunciation: "/leβanˈtaɾse temˈpɾano/",
+    portuguesePhonetic: "le-ban-tár-se tem-prá-no",
+    syllables: ["le", "van", "tar", "se", " tem", "pra", "no"],
+    exampleSentence: "levantarse temprano",
+    exampleTranslation: "levantar cedo"
+  },
+  {
+    id: 'leccion_23_67',
+    word: "hablar inglés",
+    translation: "falar inglês",
+    pronunciation: "/aˈβlaɾ iŋˈɡles/",
+    portuguesePhonetic: "a-blár in-glés",
+    syllables: ["ha", "blar", " in", "glés"],
+    exampleSentence: "hablar inglés",
+    exampleTranslation: "falar inglês"
+  },
+  {
+    id: 'leccion_23_68',
+    word: "hablar español",
+    translation: "falar espanhol",
+    pronunciation: "/aˈβlaɾ espaˈɲol/",
+    portuguesePhonetic: "a-blár es-pa-nhól",
+    syllables: ["ha", "blar", " es", "pa", "ñol"],
+    exampleSentence: "hablar español",
+    exampleTranslation: "falar espanhol"
+  },
+  {
+    id: 'leccion_23_69',
+    word: "hablar italiano",
+    translation: "falar italiano",
+    pronunciation: "/aˈβlaɾ itaˈljano/",
+    portuguesePhonetic: "a-blár i-ta-liá-no",
+    syllables: ["ha", "blar", " i", "ta", "lia", "no"],
+    exampleSentence: "hablar italiano",
+    exampleTranslation: "falar italiano"
+  },
+  {
+    id: 'leccion_23_70',
+    word: "ir a Francia",
+    translation: "ir para a França",
+    pronunciation: "/iɾ a ˈfɾanθja/",
+    portuguesePhonetic: "ir a frán-cia",
+    syllables: ["ir", " a", " Fran", "cia"],
+    exampleSentence: "ir a Francia",
+    exampleTranslation: "ir para a França"
+  },
+  {
+    id: 'leccion_23_71',
+    word: "estudiar biología",
+    translation: "estudar biologia",
+    pronunciation: "/estuˈðjaɾ βjoloˈxia/",
+    portuguesePhonetic: "es-tu-diár bio-lo-rhí-a",
+    syllables: ["es", "tu", "diar", " bio", "lo", "gí", "a"],
+    exampleSentence: "estudiar biología",
+    exampleTranslation: "estudar biologia"
+  },
+  {
+    id: 'leccion_23_72',
+    word: "clase de cocina",
+    translation: "aula de culinária",
+    pronunciation: "/ˈklase ðe koˈθina/",
+    portuguesePhonetic: "clá-se de co-cí-na",
+    syllables: ["cla", "se", " de", " co", "ci", "na"],
+    exampleSentence: "clase de cocina",
+    exampleTranslation: "aula de culinária"
+  },
+  {
+    id: 'leccion_23_73',
+    word: "en la universidad",
+    translation: "na universidade",
+    pronunciation: "/en la uniβeɾsiˈðað/",
+    portuguesePhonetic: "en la u-ni-ber-si-dád",
+    syllables: ["en", " la", " u", "ni", "ver", "si", "dad"],
+    exampleSentence: "en la universidad",
+    exampleTranslation: "na universidade"
+  },
+  {
+    id: 'leccion_23_74',
+    word: "más sobre",
+    translation: "mais sobre",
+    pronunciation: "/mas ˈsoβɾe/",
+    portuguesePhonetic: "más só-bre",
+    syllables: ["más", " so", "bre"],
+    exampleSentence: "más sobre",
+    exampleTranslation: "mais sobre"
+  },
+  {
+    id: 'leccion_23_75',
+    word: "¡Buen trabajo!",
+    translation: "Muito bem! / Bom trabalho!",
+    pronunciation: "/bwen tɾaˈβaxo/",
+    portuguesePhonetic: "buén tra-bá-rho",
+    syllables: ["¡Buen", " tra", "ba", "jo!"],
+    exampleSentence: "¡Buen trabajo!",
+    exampleTranslation: "Muito bem! / Bom trabalho!"
+  }
+];

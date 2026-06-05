@@ -121,7 +121,8 @@ const App: React.FC = () => {
     'W2': false,
     'W4': false,
     'Vocabulary A1': false,
-    'W2-S': true
+    'W2-S': true,
+    'Vocabulario A1-S': true
   });
 
   const toggleGroup = (groupKey: string) => {
@@ -412,7 +413,7 @@ const App: React.FC = () => {
         </div>
       ) : (
         <>
-          {(targetLanguage === 'es' ? ['W2-S'] : ['W2', 'W4', 'Vocabulary A1']).map(groupName => {
+          {(targetLanguage === 'es' ? ['W2-S', 'Vocabulario A1-S'] : ['W2', 'W4', 'Vocabulary A1']).map(groupName => {
             const groupTopics = PREDEFINED_TOPICS.filter((t: any) => t.group === groupName);
             if (groupTopics.length === 0) return null;
             const isExpanded = expandedGroups[groupName] === true; // default false
