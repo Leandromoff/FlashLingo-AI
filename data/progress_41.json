@@ -1,0 +1,953 @@
+[
+  {
+    "id": "leccion_41_1",
+    "word": "¿Soy yo?",
+    "translation": "Eu sou, estou?",
+    "pronunciation": "/ˈsoi̯ io/",
+    "portuguesePhonetic": "sói io?",
+    "syllables": [
+      "¿Soy",
+      " yo?"
+    ],
+    "exampleSentence": "¿Soy yo?",
+    "exampleTranslation": "Eu sou, estou?"
+  },
+  {
+    "id": "leccion_41_2",
+    "word": "¿Eres tú?",
+    "translation": "Você é, está?",
+    "pronunciation": "/ˈeɾes tu/",
+    "portuguesePhonetic": "é-res tu?",
+    "syllables": [
+      "¿Eres",
+      " tú?"
+    ],
+    "exampleSentence": "¿Eres tú?",
+    "exampleTranslation": "Você é, está?"
+  },
+  {
+    "id": "leccion_41_3",
+    "word": "¿Es él?",
+    "translation": "Ele é, está?",
+    "pronunciation": "/ˈes el/",
+    "portuguesePhonetic": "és él?",
+    "syllables": [
+      "¿Es",
+      " él?"
+    ],
+    "exampleSentence": "¿Es él?",
+    "exampleTranslation": "Ele é, está?"
+  },
+  {
+    "id": "leccion_41_4",
+    "word": "¿Es ella?",
+    "translation": "translations: ",
+    "pronunciation": "/ˈes ˈe.ʎa/",
+    "portuguesePhonetic": "és ê-ia?",
+    "syllables": [
+      "¿Es",
+      " e",
+      "lla?"
+    ],
+    "exampleSentence": "¿Es ella?",
+    "exampleTranslation": "Ela é, está?"
+  },
+  {
+    "id": "leccion_41_5",
+    "word": "¿Es?",
+    "translation": "É, está?",
+    "pronunciation": "/ˈes/",
+    "portuguesePhonetic": "és?",
+    "syllables": [
+      "¿Es?"
+    ],
+    "exampleSentence": "¿Es?",
+    "exampleTranslation": "É, está?"
+  },
+  {
+    "id": "leccion_41_6",
+    "word": "¿Somos nosotros?",
+    "translation": "Nós somos, estamos?",
+    "pronunciation": "/ˈso.mos no.ˈstɾos/",
+    "portuguesePhonetic": "só-mos no-strós?",
+    "syllables": [
+      "¿Somos",
+      " no",
+      "stros?"
+    ],
+    "exampleSentence": "¿Somos nosotros?",
+    "exampleTranslation": "Nós somos, estamos?"
+  },
+  {
+    "id": "leccion_41_7",
+    "word": "¿Son ustedes?",
+    "translation": "Vocês são, estão?",
+    "pronunciation": "/ˈson u.ˈste.ðes/",
+    "portuguesePhonetic": "són u-sté-des?",
+    "syllables": [
+      "¿Son",
+      " u",
+      "ste",
+      "des?"
+    ],
+    "exampleSentence": "¿Son ustedes?",
+    "exampleTranslation": "Vocês são, estão?"
+  },
+  {
+    "id": "leccion_41_8",
+    "word": "¿Son ellos?",
+    "translation": "Eles(as) são, estão?",
+    "pronunciation": "/ˈson ˈe.ʎos/",
+    "portuguesePhonetic": "són ê-ios?",
+    "syllables": [
+      "¿Son",
+      " e",
+      "llos?"
+    ],
+    "exampleSentence": "¿Son ellos?",
+    "exampleTranslation": "Eles(as) são, estão?"
+  },
+  {
+    "id": "leccion_41_9",
+    "word": "enero",
+    "translation": "janeiro",
+    "pronunciation": "/eˈne.ɾo/",
+    "portuguesePhonetic": "ê-né-ro",
+    "syllables": [
+      "e",
+      "ne",
+      "ro"
+    ],
+    "exampleSentence": "enero",
+    "exampleTranslation": "janeiro"
+  },
+  {
+    "id": "leccion_41_10",
+    "word": "febrero",
+    "translation": "fevereiro",
+    "pronunciation": "/feˈβɾe.ɾo/",
+    "portuguesePhonetic": "fe-bré-ro",
+    "syllables": [
+      "fe",
+      "bre",
+      "ro"
+    ],
+    "exampleSentence": "febrero",
+    "exampleTranslation": "fevereiro"
+  },
+  {
+    "id": "leccion_41_11",
+    "word": "marzo",
+    "translation": "março",
+    "pronunciation": "/ˈmaɾ.θo/",
+    "portuguesePhonetic": "már-tso",
+    "syllables": [
+      "mar",
+      "zo"
+    ],
+    "exampleSentence": "marzo",
+    "exampleTranslation": "março"
+  },
+  {
+    "id": "leccion_41_12",
+    "word": "abril",
+    "translation": "abril",
+    "pronunciation": "/aˈbɾil/",
+    "portuguesePhonetic": "a-bril",
+    "syllables": [
+      "a",
+      "bril"
+    ],
+    "exampleSentence": "abril",
+    "exampleTranslation": "abril"
+  },
+  {
+    "id": "leccion_41_13",
+    "word": "mayo",
+    "translation": "maio",
+    "pronunciation": "/ˈma.jo/",
+    "portuguesePhonetic": "mái-io",
+    "syllables": [
+      "ma",
+      "yo"
+    ],
+    "exampleSentence": "mayo",
+    "exampleTranslation": "maio"
+  },
+  {
+    "id": "leccion_41_14",
+    "word": "junio",
+    "translation": "junho",
+    "pronunciation": "/ˈxu.njo/",
+    "portuguesePhonetic": "rú-nio",
+    "syllables": [
+      "ju",
+      "nio"
+    ],
+    "exampleSentence": "junio",
+    "exampleTranslation": "junho"
+  },
+  {
+    "id": "leccion_41_15",
+    "word": "julio",
+    "translation": "julho",
+    "pronunciation": "/ˈxu.ljo/",
+    "portuguesePhonetic": "rú-lio",
+    "syllables": [
+      "ju",
+      "lio"
+    ],
+    "exampleSentence": "julio",
+    "exampleTranslation": "julho"
+  },
+  {
+    "id": "leccion_41_16",
+    "word": "agosto",
+    "translation": " ",
+    "pronunciation": "/aˈɡos.to/",
+    "portuguesePhonetic": "a-gós-to",
+    "syllables": [
+      "a",
+      "gos",
+      "to"
+    ],
+    "exampleSentence": "agosto",
+    "exampleTranslation": "agosto"
+  },
+  {
+    "id": "leccion_41_17",
+    "word": "septiembre",
+    "translation": "setembro",
+    "pronunciation": "/sep.tjem.bɾe/",
+    "portuguesePhonetic": "sep-ti-ém-bre",
+    "syllables": [
+      "sep",
+      "tiem",
+      "bre"
+    ],
+    "exampleSentence": "septiembre",
+    "exampleTranslation": "setembro"
+  },
+  {
+    "id": "leccion_41_18",
+    "word": "octubre",
+    "translation": "outubro",
+    "pronunciation": "/ok.ˈtu.bɾe/",
+    "portuguesePhonetic": "oc-tú-bre",
+    "syllables": [
+      "oc",
+      "tu",
+      "bre"
+    ],
+    "exampleSentence": "octubre",
+    "exampleTranslation": "outubro"
+  },
+  {
+    "id": "leccion_41_19",
+    "word": "noviembre",
+    "translation": "novembro",
+    "pronunciation": "/no.βjem.bɾe/",
+    "portuguesePhonetic": "no-vi-ém-bre",
+    "syllables": [
+      "no",
+      "viem",
+      "bre"
+    ],
+    "exampleSentence": "noviembre",
+    "exampleTranslation": "novembro"
+  },
+  {
+    "id": "leccion_41_20",
+    "word": "diciembre",
+    "translation": "dezembro",
+    "pronunciation": "/di.θjem.bɾe/",
+    "portuguesePhonetic": "di-ci-ém-bre",
+    "syllables": [
+      "di",
+      "ciem",
+      "bre"
+    ],
+    "exampleSentence": "diciembre",
+    "exampleTranslation": "dezembro"
+  },
+  {
+    "id": "leccion_41_21",
+    "word": "cumpleaños",
+    "translation": "aniversário",
+    "pronunciation": "/kumˈple.a.ɲos/",
+    "portuguesePhonetic": "cum-ple-á-nhos",
+    "syllables": [
+      "cum",
+      "ple",
+      "a",
+      "ños"
+    ],
+    "exampleSentence": "cumpleaños",
+    "exampleTranslation": "aniversário"
+  },
+  {
+    "id": "leccion_41_22",
+    "word": "joven",
+    "translation": "jovem",
+    "pronunciation": "/ˈxo.βen/",
+    "portuguesePhonetic": "ró-ven",
+    "syllables": [
+      "jo",
+      "ven"
+    ],
+    "exampleSentence": "joven",
+    "exampleTranslation": "jovem"
+  },
+  {
+    "id": "leccion_41_23",
+    "word": "listo",
+    "translation": "pronto(a)",
+    "pronunciation": "/ˈlis.to/",
+    "portuguesePhonetic": "lís-to",
+    "syllables": [
+      "lis",
+      "to"
+    ],
+    "exampleSentence": "listo",
+    "exampleTranslation": "pronto(a)"
+  },
+  {
+    "id": "leccion_41_24",
+    "word": "quién",
+    "translation": "quem",
+    "pronunciation": "/ˈkjen/",
+    "portuguesePhonetic": "ki-én",
+    "syllables": [
+      "quién"
+    ],
+    "exampleSentence": "quién",
+    "exampleTranslation": "quem"
+  },
+  {
+    "id": "leccion_41_25",
+    "word": "¿Cuántos años tienes?",
+    "translation": "Quantos anos você tem?",
+    "pronunciation": "/ˈkwan.tos ˈa.ɲos ˈtje.nes/",
+    "portuguesePhonetic": "cu-án-tos á-nhos ti-é-nes",
+    "syllables": [
+      "¿Cuán",
+      "tos",
+      " a",
+      "ños",
+      " tie",
+      "nes?"
+    ],
+    "exampleSentence": "¿Cuántos años tienes?",
+    "exampleTranslation": "Quantos anos você tem?"
+  },
+  {
+    "id": "leccion_41_26",
+    "word": "Tengo 20 años.",
+    "translation": "Eu tenho 20 anos.",
+    "pronunciation": "/ˈten.ɡo ˈbeɪn.te ˈa.ɲos/",
+    "portuguesePhonetic": "tên-go vein-te á-nhos",
+    "syllables": [
+      "Ten",
+      "go",
+      " 20",
+      " a",
+      "ños."
+    ],
+    "exampleSentence": "Tengo 20 años.",
+    "exampleTranslation": "Eu tenho 20 anos."
+  },
+  {
+    "id": "leccion_41_27",
+    "word": "¿Cuándo es tu cumpleaños?",
+    "translation": "Quando é o seu aniversário?",
+    "pronunciation": "/ˈkwan.do es tu kumˈple.a.ɲos/",
+    "portuguesePhonetic": "cu-án-do és tu cum-ple-á-nhos",
+    "syllables": [
+      "¿Cuán",
+      " do",
+      " es",
+      " tu",
+      " cum",
+      " ple",
+      " a",
+      " ños?"
+    ],
+    "exampleSentence": "¿Cuándo es tu cumpleaños?",
+    "exampleTranslation": "Quando é o seu aniversário?"
+  },
+  {
+    "id": "leccion_41_28",
+    "word": "Es el 2 de mayo.",
+    "translation": "É em 2 de maio.",
+    "pronunciation": "/es el ˈdo.s de ˈma.ʝo/",
+    "portuguesePhonetic": "és el dôs de mái-io",
+    "syllables": [
+      "Es",
+      " el",
+      " 2",
+      " de",
+      " ma",
+      " yo."
+    ],
+    "exampleSentence": "Es el 2 de mayo.",
+    "exampleTranslation": "É em 2 de maio."
+  },
+  {
+    "id": "leccion_41_29",
+    "word": "¿Estás listo?",
+    "translation": "Você está pronto?",
+    "pronunciation": "/esˈtas ˈlis.to/",
+    "portuguesePhonetic": "es-tás lís-to",
+    "syllables": [
+      "¿Es",
+      "tás",
+      " lis",
+      " to?"
+    ],
+    "exampleSentence": "¿Estás listo?",
+    "exampleTranslation": "Você está pronto?"
+  },
+  {
+    "id": "leccion_41_30",
+    "word": "¿Es ella brasileña?",
+    "translation": "Ela é brasileira?",
+    "pronunciation": "/es ˈe.ʝa bra.siˈle.ɲa/",
+    "portuguesePhonetic": "és é-ia bra-si-lé-nia",
+    "syllables": [
+      "¿Es",
+      " e",
+      " lla",
+      " bra",
+      " si",
+      " le",
+      " ña?"
+    ],
+    "exampleSentence": "¿Es ella brasileña?",
+    "exampleTranslation": "Ela é brasileira?"
+  },
+  {
+    "id": "leccion_41_31",
+    "word": "¿Están ellos en la oficina?",
+    "translation": "Eles estão no escritório?",
+    "pronunciation": "/esˈtan ˈe.ʝos en la o.fi.ˈci.na/",
+    "portuguesePhonetic": "es-tán ê-yos en la o-fi-ci-na?",
+    "syllables": [
+      "¿Es",
+      "tán",
+      " e",
+      "llos",
+      " en",
+      " la",
+      " o",
+      "fi",
+      "ci",
+      "na?"
+    ],
+    "exampleSentence": "¿Están ellos en la oficina?",
+    "exampleTranslation": "Eles estão no escritório?"
+  },
+  {
+    "id": "leccion_41_32",
+    "word": "¿Es tu padre un gerente?",
+    "translation": "Seu pai é gerente?",
+    "pronunciation": "/es tu ˈpa.ðre un xe.ˈren.te/",
+    "portuguesePhonetic": "es tu pá-dre unrê-ren-te?",
+    "syllables": [
+      "¿Es",
+      " tu",
+      " pa",
+      "dre",
+      " un",
+      " ge",
+      "ren",
+      "te?"
+    ],
+    "exampleSentence": "¿Es tu padre un gerente?",
+    "exampleTranslation": "Seu pai é gerente?"
+  },
+  {
+    "id": "leccion_41_33",
+    "word": "¿Es la película mala?",
+    "translation": "O filme é ruim?",
+    "pronunciation": "/es la pe.li.ˈcu.la ˈma.la/",
+    "portuguesePhonetic": "es la pe-li-cu-la má-la?",
+    "syllables": [
+      "¿Es",
+      " la",
+      " pe",
+      "lí",
+      "cu",
+      "la",
+      " má",
+      "la?"
+    ],
+    "exampleSentence": "¿Es la película mala?",
+    "exampleTranslation": "O filme é ruim?"
+  },
+  {
+    "id": "leccion_41_34",
+    "word": "¿Es el jefe un árbitro?",
+    "translation": "O chefe é árbitro?",
+    "pronunciation": "/es el ˈxe.fe un ˈa.ɾi.tɾo/",
+    "portuguesePhonetic": "es el rrê-fe un á-ri-tro?",
+    "syllables": [
+      "¿Es",
+      " the",
+      " je",
+      "fe",
+      " un",
+      " á",
+      "ri",
+      "tro?"
+    ],
+    "exampleSentence": "¿Es el jefe un árbitro?",
+    "exampleTranslation": "O chefe é árbitro?"
+  },
+  {
+    "id": "leccion_41_35",
+    "word": "¿Están los estudiantes allí?",
+    "translation": "Os alunos estão lá?",
+    "pronunciation": "/esˈtan los es.tu.ˈðjan.tes a.ˈʝi/",
+    "portuguesePhonetic": "es-tán los es-tu-dián-tes a-yí?",
+    "syllables": [
+      "¿Es",
+      "tán",
+      " los",
+      " es",
+      "tu",
+      "dián",
+      "tes",
+      " a",
+      "llí?"
+    ],
+    "exampleSentence": "¿Están los estudiantes allí?",
+    "exampleTranslation": "Os alunos estão lá?"
+  },
+  {
+    "id": "leccion_41_36",
+    "word": "¿Quién es él?",
+    "translation": "Quem é ele?",
+    "pronunciation": "/ˈkjen es el/",
+    "portuguesePhonetic": "ki-ên es él?",
+    "syllables": [
+      "¿Qui",
+      "én",
+      " es",
+      " él?"
+    ],
+    "exampleSentence": "¿Quién es él?",
+    "exampleTranslation": "Quem é ele?"
+  },
+  {
+    "id": "leccion_41_37",
+    "word": "¿Estoy atrasado?",
+    "translation": "Eu estou atrasado?",
+    "pronunciation": "/esˈto.i atɾa.ˈsa.ðo/",
+    "portuguesePhonetic": "es-tói a-tra-sá-do?",
+    "syllables": [
+      "¿Es",
+      "tóy",
+      " a",
+      "tra",
+      "sa",
+      "do?"
+    ],
+    "exampleSentence": "¿Estoy atrasado?",
+    "exampleTranslation": "Eu estou atrasado?"
+  },
+  {
+    "id": "leccion_41_38",
+    "word": "¿Eres brasileño?",
+    "translation": "Você é brasileiro?",
+    "pronunciation": "/ˈe.ɾes bɾa.si.ˈle.ɲo/",
+    "portuguesePhonetic": "é-res bra-si-lé-ño?",
+    "syllables": [
+      "¿E",
+      "res",
+      " bra",
+      "si",
+      "le",
+      "ño?"
+    ],
+    "exampleSentence": "¿Eres brasileño?",
+    "exampleTranslation": "Você é brasileiro?"
+  },
+  {
+    "id": "leccion_41_39",
+    "word": "¿Es ella una estudiante?",
+    "translation": "Ela é estudante?",
+    "pronunciation": "/es ˈe.ʝa u.na es.tu.ˈðjan.te/",
+    "portuguesePhonetic": "es ê-ia u-na es-tu-dián-te?",
+    "syllables": [
+      "¿Es",
+      " e",
+      "lla",
+      " u",
+      "na",
+      " es",
+      "tu",
+      "dián",
+      "te?"
+    ],
+    "exampleSentence": "¿Es ella una estudiante?",
+    "exampleTranslation": "Ela é estudante?"
+  },
+  {
+    "id": "leccion_41_40",
+    "word": "¿Es él un vendedor?",
+    "translation": "Ele é vendedor?",
+    "pronunciation": "/es el un ben.de.ˈðo.ɾ/ ",
+    "portuguesePhonetic": "es él un ben-de-dór?",
+    "syllables": [
+      "¿Es",
+      " él",
+      " un",
+      " ven",
+      "do",
+      "dor?"
+    ],
+    "exampleSentence": "¿Es él un vendedor?",
+    "exampleTranslation": "Ele é vendedor?"
+  },
+  {
+    "id": "leccion_41_41",
+    "word": "¿Es un buen libro?",
+    "translation": "É um bom livro?",
+    "pronunciation": "/ˈes un bwen ˈli.βɾo/",
+    "portuguesePhonetic": "ês un buen lí-vro?",
+    "syllables": [
+      "¿Es",
+      " un",
+      " buen",
+      " li",
+      "bro?"
+    ],
+    "exampleSentence": "¿Es un buen libro?",
+    "exampleTranslation": "É um bom livro?"
+  },
+  {
+    "id": "leccion_41_42",
+    "word": "¿Estamos listos para empezar?",
+    "translation": "Nós estamos prontos para começar?",
+    "pronunciation": "/esˈta.mos ˈlis.tos pa.ɾa em.pe.ˈsaɾ/",
+    "portuguesePhonetic": "ês-tá-mos lís-tos pá-ra em-pe-sár?",
+    "syllables": [
+      "¿Es",
+      "ta",
+      "mos",
+      " lis",
+      "tos",
+      " pa",
+      "ra",
+      " em",
+      "pe",
+      "zar?"
+    ],
+    "exampleSentence": "¿Estamos listos para empezar?",
+    "exampleTranslation": "Nós estamos prontos para começar?"
+  },
+  {
+    "id": "leccion_41_43",
+    "word": "¿Están con vosotros?",
+    "translation": "Eles estão com você?",
+    "pronunciation": "/esˈtan kon βos.ˈotɾos/",
+    "portuguesePhonetic": "ês-tán kon vo-só-tros?",
+    "syllables": [
+      "¿Es",
+      "tan",
+      " con",
+      " vo",
+      "sot",
+      "ros?"
+    ],
+    "exampleSentence": "¿Están con vosotros?",
+    "exampleTranslation": "Eles estão com você?"
+  },
+  {
+    "id": "leccion_41_44",
+    "word": "¿Quién eres?",
+    "translation": "Quem é você?",
+    "pronunciation": "/ˈkjen e.ɾes/",
+    "portuguesePhonetic": "ki-én ê-rês?",
+    "syllables": [
+      "¿Quién",
+      " e",
+      "res?"
+    ],
+    "exampleSentence": "¿Quién eres?",
+    "exampleTranslation": "Quem é você?"
+  },
+  {
+    "id": "leccion_41_45",
+    "word": "¿Quiénes son esas personas?",
+    "translation": "Quem são aquelas pessoas?",
+    "pronunciation": "/ˈkjenes son ˈe.sas peɾ.ˈso.nas/",
+    "portuguesePhonetic": "ki-é-nes son ê-sas per-só-nas?",
+    "syllables": [
+      "¿Quiénes",
+      " son",
+      " e",
+      "sas",
+      " pe",
+      "rso",
+      "nas?"
+    ],
+    "exampleSentence": "¿Quiénes son esas personas?",
+    "exampleTranslation": "Quem são aquelas pessoas?"
+  },
+  {
+    "id": "leccion_41_46",
+    "word": "¿Cuántos años tiene ella?",
+    "translation": "Quantos anos ela tem?",
+    "pronunciation": "/ˈkwan.tos ˈa.ɲos ˈtje.ne ˈe.ʝa/",
+    "portuguesePhonetic": "cuán-tos á-nhos ti-ê-ne ê-ia?",
+    "syllables": [
+      "¿Cuán",
+      "tos",
+      " a",
+      "ños",
+      " ti",
+      "ene",
+      " e",
+      "lla?"
+    ],
+    "exampleSentence": "¿Cuántos años tiene ella?",
+    "exampleTranslation": "Quantos anos ela tem?"
+  },
+  {
+    "id": "leccion_41_47",
+    "word": "Tiene diez años.",
+    "translation": "Ela tem dez anos.",
+    "pronunciation": "/ˈtje.ne djes ˈa.ɲos/",
+    "portuguesePhonetic": "ti-ê-ne diês á-nhos.",
+    "syllables": [
+      "Tie",
+      "ne",
+      " diez",
+      " a",
+      "ños."
+    ],
+    "exampleSentence": "Tiene diez años.",
+    "exampleTranslation": "Ela tem dez anos."
+  },
+  {
+    "id": "leccion_41_48",
+    "word": "¿Cuándo es su cumpleaños?",
+    "translation": "Quando é o aniversário dela?",
+    "pronunciation": "/ˈkwan.do es su kum.ple.ˈa.ɲos/",
+    "portuguesePhonetic": "cuán-do ês su cum-ple-á-nhos?",
+    "syllables": [
+      "¿Cuán",
+      "do",
+      " es",
+      " su",
+      " cum",
+      "ple",
+      "a",
+      "ños?"
+    ],
+    "exampleSentence": "¿Cuándo es su cumpleaños?",
+    "exampleTranslation": "Quando é o aniversário dela?"
+  },
+  {
+    "id": "leccion_41_49",
+    "word": "Es en abril.",
+    "translation": "É em abril.",
+    "pronunciation": "/es en a.ˈβɾil/",
+    "portuguesePhonetic": "ês en a-bril.",
+    "syllables": [
+      "Es",
+      " en",
+      " a",
+      "bril."
+    ],
+    "exampleSentence": "Es en abril.",
+    "exampleTranslation": " "
+  },
+  {
+    "id": "leccion_41_50",
+    "word": "decimosexto",
+    "translation": "16º — décimo sexto",
+    "pronunciation": "/de.θi.mo.ˈsek.sto/",
+    "portuguesePhonetic": "de-cí-mo-sêcs-to",
+    "syllables": [
+      "de",
+      "ci",
+      "mo",
+      "sex",
+      "to"
+    ],
+    "exampleSentence": "decimosexto",
+    "exampleTranslation": "16º — décimo sexto"
+  },
+  {
+    "id": "leccion_41_51",
+    "word": "decimosétimo",
+    "translation": "décimo sétimo",
+    "pronunciation": "/deˈsimoˈsetimo/",
+    "portuguesePhonetic": "de-cí-mo-sé-ti-mo",
+    "syllables": [
+      "de",
+      "ci",
+      "mo",
+      "sé",
+      "ti",
+      "mo"
+    ],
+    "exampleSentence": "decimosétimo",
+    "exampleTranslation": "décimo sétimo"
+  },
+  {
+    "id": "leccion_41_52",
+    "word": "decimoctavo",
+    "translation": "décimo oitavo",
+    "pronunciation": "/deˈsimoˈtavo/",
+    "portuguesePhonetic": "de-cí-mo-tá-vo",
+    "syllables": [
+      "de",
+      "ci",
+      "mo",
+      "tá",
+      "vo"
+    ],
+    "exampleSentence": "decimoctavo",
+    "exampleTranslation": "décimo oitavo"
+  },
+  {
+    "id": "leccion_41_53",
+    "word": "decimonoveno",
+    "translation": "décimo nono",
+    "pronunciation": "/deˈsimonoˈbeno/",
+    "portuguesePhonetic": "de-cí-mo-no-bé-no",
+    "syllables": [
+      "de",
+      "ci",
+      "mo",
+      "no",
+      "be",
+      "no"
+    ],
+    "exampleSentence": "decimonoveno",
+    "exampleTranslation": "décimo nono"
+  },
+  {
+    "id": "leccion_41_54",
+    "word": "vigésimo",
+    "translation": "vigésimo",
+    "pronunciation": "/biˈxesimo/",
+    "portuguesePhonetic": "bi-rré-si-mo",
+    "syllables": [
+      "vi",
+      "gé",
+      "si",
+      "mo"
+    ],
+    "exampleSentence": "vigésimo",
+    "exampleTranslation": "vigésimo"
+  },
+  {
+    "id": "leccion_41_55",
+    "word": "vigésimo primero",
+    "translation": "vigésimo primeiro",
+    "pronunciation": "/biˈxesimo pɾiˈmeɾo/",
+    "portuguesePhonetic": "bi-rré-si-mo pri-mé-ro",
+    "syllables": [
+      "vi",
+      "gé",
+      "si",
+      "mo",
+      " pri",
+      "me",
+      "ro"
+    ],
+    "exampleSentence": "vigésimo primero",
+    "exampleTranslation": "vigésimo primeiro"
+  },
+  {
+    "id": "leccion_41_56",
+    "word": "vigésimo segundo",
+    "translation": "vigésimo segundo",
+    "pronunciation": "/biˈxesimo seˈɡundo/",
+    "portuguesePhonetic": "bi-rré-si-mo se-gún-do",
+    "syllables": [
+      "vi",
+      "gé",
+      "si",
+      "mo",
+      " se",
+      "gun",
+      "do"
+    ],
+    "exampleSentence": "vigésimo segundo",
+    "exampleTranslation": "vigésimo segundo"
+  },
+  {
+    "id": "leccion_41_57",
+    "word": "vigésimo tercero",
+    "translation": "vigésimo terceiro",
+    "pronunciation": "/biˈxesimo teɾˈseɾo/",
+    "portuguesePhonetic": "bi-rré-si-mo ter-cé-ro",
+    "syllables": [
+      "vi",
+      "gé",
+      "si",
+      "mo",
+      " ter",
+      "ce",
+      "ro"
+    ],
+    "exampleSentence": "vigésimo tercero",
+    "exampleTranslation": "vigésimo terceiro"
+  },
+  {
+    "id": "leccion_41_58",
+    "word": "vigésimo cuarto",
+    "translation": "vigésimo quarto",
+    "pronunciation": "/biˈxesimo ˈkwaɾto/",
+    "portuguesePhonetic": "bi-rré-si-mo cuár-to",
+    "syllables": [
+      "vi",
+      "gé",
+      "si",
+      "mo",
+      " cuar",
+      "to"
+    ],
+    "exampleSentence": "vigésimo cuarto",
+    "exampleTranslation": "vigésimo quarto"
+  },
+  {
+    "id": "leccion_41_59",
+    "word": "word",
+    "translation": "vigésimo quinto",
+    "pronunciation": "/biˈxesimo ˈkinto/",
+    "portuguesePhonetic": "bi-rré-si-mo quín-to",
+    "syllables": [
+      "vi",
+      "gé",
+      "si",
+      "si",
+      " quin",
+      "to"
+    ],
+    "exampleSentence": "vigésimo quinto",
+    "exampleTranslation": "vigésimo quinto"
+  },
+  {
+    "id": "leccion_41_60",
+    "word": "vigésimo noveno",
+    "translation": "vigésimo nono",
+    "pronunciation": "/biˈxesimo noˈbeno/",
+    "portuguesePhonetic": "bi-rré-si-mo no-bé-no",
+    "syllables": [
+      "vi",
+      "gé",
+      "word",
+      " no",
+      "be",
+      "no"
+    ],
+    "exampleSentence": "vigésimo noveno",
+    "exampleTranslation": "vigésimo nono"
+  }
+]
