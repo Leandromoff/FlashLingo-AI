@@ -1,4 +1,4 @@
-export const KNOW_WORK_LIVE_DECK: FlashcardData[] = [
+export const OLD_KNOW_WORK_LIVE_DECK: FlashcardData[] = [
   {
     id: 'kwl_1',
     word: 'to know',
@@ -292,7 +292,7 @@ export const KNOW_WORK_LIVE_DECK: FlashcardData[] = [
 ];
 
 
-export const TRAVEL_STAY_NEED_DECK: FlashcardData[] = [
+export const OLD_TRAVEL_STAY_NEED_DECK: FlashcardData[] = [
   {
     id: 'tsn_1',
     word: 'to travel',
@@ -1220,6 +1220,11 @@ import { LECCION_3_VOCABULARIO_A1_S_DECK } from './leccion3_vocabulario_a1_s';
 import { LECCION_4_VOCABULARIO_A1_S_DECK } from './leccion4_vocabulario_a1_s';
 import { LECCION_5_VOCABULARIO_A1_S_DECK } from './leccion5_vocabulario_a1_s';
 import { LECCION_6_VOCABULARIO_A1_S_DECK } from './leccion6_vocabulario_a1_s';
+import { LESSON_1_VOCABULARY_C1_DECK } from './lesson1_vocabulary_c1';
+import { LESSON_2_VOCABULARY_C1_DECK } from './lesson2_vocabulary_c1';
+import { TRAVEL_STAY_NEED_DECK } from './travel_stay_need';
+import { KNOW_WORK_LIVE_DECK } from './know_work_live';
+import { STUDY_UNDERSTAND_LEARN_DECK } from './study_understand_learn';
 
 export const MOVE_PUT_DECK: FlashcardData[] = [
   {
@@ -4705,6 +4710,446 @@ export const START_FINISH_DECK: FlashcardData[] = [
     exampleSentence: "I need to study for an exam.",
     exampleTranslation: "Eu preciso estudar para uma prova."
   },
+  {
+    id: 'start_finish_55',
+    word: "I finish college next semester. What do you study there?",
+    translation: "Eu termino a faculdade no próximo semestre. O que você estuda lá?",
+    pronunciation: "/aɪ ˈfɪnɪʃ ˈkɑlɪdʒ nɛkst sɪˈmɛstər. wʌt du ju ˈstʌdi ðɛr?/",
+    portuguesePhonetic: "ai fí-nich có-lidj nécst si-més-ter. uát du iu stâ-di dér?",
+    syllables: ["I", " fin", "ish", " col", "lege", " next", " se", "mes", "ter.", " What", " do", " you", " stu", "dy", " there?"],
+    exampleSentence: "I finish college next semester. What do you study there?",
+    exampleTranslation: "Eu termino a faculdade no próximo semestre. O que você estuda lá?"
+  },
+  {
+    id: 'start_finish_56',
+    word: "I have to do my homework before class.",
+    translation: "Eu tenho que fazer minha lição de casa antes da aula.",
+    pronunciation: "/aɪ hæv tu du maɪ ˈhoʊmˌwɜrk bɪˈfɔr klæs./",
+    portuguesePhonetic: "ai rév tchu du mai rôum-uãrc bi-fór clés.",
+    syllables: ["I", " have", " to", " do", " my", " home", "work", " be", "fore", " class."],
+    exampleSentence: "I have to do my homework before class.",
+    exampleTranslation: "Eu tenho que fazer minha lição de casa antes da aula."
+  },
+  {
+    id: 'start_finish_57',
+    word: "You need to finish this task now. You have a meeting in fifteen minutes.",
+    translation: "Você precisa terminar esta tarefa agora. Você tem uma reunião em quinze minutos.",
+    pronunciation: "/ju nid tu ˈfɪnɪʃ ðɪs tæsk naʊ. ju hæv ə ˈmitɪŋ ɪn fɪfˈtin ˈmɪnəts./",
+    portuguesePhonetic: "iu nid tchu fí-nich dís tésc náu. iu rév â mí-ting in fif-tin mí-nits.",
+    syllables: ["You", " need", " to", " fin", "ish", " this", " task", " now.", " You", " have", " a", " meet", "ing", " in", " fif", "teen", " min", "utes."],
+    exampleSentence: "You need to finish this task now. You have a meeting in fifteen minutes.",
+    exampleTranslation: "Você precisa terminar esta tarefa agora. Você tem uma reunião em quinze minutos."
+  },
+  {
+    id: 'start_finish_58',
+    word: "Do you have a deadline to finish your project?",
+    translation: "Você tem um prazo para terminar seu projeto?",
+    pronunciation: "/du ju hæv ə ˈdɛdˌlaɪn tu ˈfɪnɪʃ jʊər ˈprɑdʒɛkt?/",
+    portuguesePhonetic: "du iu rév â déd-láin tchu fí-nich iór pró-djéct?",
+    syllables: ["Do", " you", " have", " a", " dead", "line", " to", " fin", "ish", " your", " pro", "ject?"],
+    exampleSentence: "Do you have a deadline to finish your project?",
+    exampleTranslation: "Você tem um prazo para terminar seu projeto?"
+  },
+  {
+    id: 'start_finish_59',
+    word: "We don't have to work tonight. Let's go home.",
+    translation: "Nós não temos que trabalhar esta noite. Vamos para casa.",
+    pronunciation: "/wi doʊnt hæv tu wɜrk təˈnaɪt. lɛts ɡoʊ hoʊm./",
+    portuguesePhonetic: "ui dôunt rév tchu uãrc tchu-náit. léts gôu rôum.",
+    syllables: ["We", " don't", " have", " to", " work", " to", "night.", " Let's", " go", " home."],
+    exampleSentence: "We don't have to work tonight. Let's go home.",
+    exampleTranslation: "Nós não temos que trabalhar esta noite. Vamos para casa."
+  },
+  {
+    id: 'start_finish_60',
+    word: "They know everything about business, but they don't speak English.",
+    translation: "Eles sabem tudo sobre negócios, mas eles não falam inglês.",
+    pronunciation: "/ðeɪ noʊ ˈɛvriˌθɪŋ əˈbaʊt ˈbɪznəs, bʌt ðeɪ doʊnt spik ˈɪŋɡlɪʃ./",
+    portuguesePhonetic: "dêi nôu év-ri-thing a-báut bíz-nis, bât dêi dôunt spíc ín-glic.",
+    syllables: ["They", " know", " ev", "ery", "thing", " a", "bout", " busi", "ness,", " but", " they", " don't", " speak", " En", "glish."],
+    exampleSentence: "They know everything about business, but they don't speak English.",
+    exampleTranslation: "Eles sabem tudo sobre negócios, mas eles não falam inglês."
+  },
+  {
+    id: 'start_finish_61',
+    word: "I have a meeting with my boss this morning.",
+    translation: "Eu tenho uma reunião com o meu chefe esta manhã.",
+    pronunciation: "/aɪ hæv ə ˈmitɪŋ wɪð maɪ bɔs ðɪs ˈmɔrnɪŋ./",
+    portuguesePhonetic: "ai rév â mí-ting uíd mai bós dís mór-ning.",
+    syllables: ["I", " have", " a", " meet", "ing", " with", " my", " boss", " this", " morn", "ing."],
+    exampleSentence: "I have a meeting with my boss this morning.",
+    exampleTranslation: "Eu tenho uma reunião com o meu chefe esta manhã."
+  },
+  {
+    id: 'start_finish_62',
+    word: "We want to study more after school. We have a test next week.",
+    translation: "Nós queremos estudar mais depois da escola. Nós temos uma prova na próxima semana.",
+    pronunciation: "/wi wɑnt tu ˈstʌdi mɔr ˈæftər skul. wi hæv ə tɛst nɛkst wik./",
+    portuguesePhonetic: "ui uánt tchu stâ-di mór éf-ter scul. ui rév â tést nécst uíc.",
+    syllables: ["We", " want", " to", " stu", "dy", " more", " af", "ter", " school.", " We", " have", " a", " test", " next", " week."],
+    exampleSentence: "We want to study more after school. We have a test next week.",
+    exampleTranslation: "Nós queremos estudar mais depois da escola. Nós temos uma prova na próxima semana."
+  },
+  {
+    id: 'start_finish_63',
+    word: "What time is it? We have to finish everything in one hour.",
+    translation: "Que horas são? Nós temos que terminar tudo em uma hora.",
+    pronunciation: "/wʌt taɪm ɪz ɪt? wi hæv tu ˈfɪnɪʃ ˈɛvriˌθɪŋ ɪn wʌn ˈaʊər./",
+    portuguesePhonetic: "uát táim íz it? ui rév tchu fí-nich év-ri-thing in uán áu-ar.",
+    syllables: ["What", " time", " is", " it?", " We", " have", " to", " fin", "ish", " ev", "ery", "thing", " in", " one", " hour."],
+    exampleSentence: "What time is it? We have to finish everything in one hour.",
+    exampleTranslation: "Que horas são? Nós temos que terminar tudo em uma hora."
+  },
+  {
+    id: 'start_finish_64',
+    word: "My friends start college today. Do they study business too?",
+    translation: "Meus amigos começam a faculdade hoje. Eles estudam negócios também?",
+    pronunciation: "/maɪ frɛndz stɑrt ˈkɑlɪdʒ təˈdeɪ. du ðeɪ ˈstʌdi ˈbɪznəs tu?/" ,
+    portuguesePhonetic: "mai fréndz stárt có-lidj tchu-dêi. du dêi stâ-di bíz-nis tchu?",
+    syllables: ["My", " friends", " start", " col", "lege", " to", "day.", " Do", " they", " stu", "dy", " busi", "ness", " too?"],
+    exampleSentence: "My friends start college today. Do they study business too?",
+    exampleTranslation: "Meus amigos começam a faculdade hoje. Eles estudam negócios também?"
+  },
+  {
+    id: 'start_finish_65',
+    word: "Hi, Jessica. I need to speak with you about this semester.",
+    translation: "Oi, Jessica. Eu preciso falar com você sobre este semestre.",
+    pronunciation: "/haɪ, ˈdʒɛsɪkə. aɪ nid tu spik wɪð ju əˈbaʊt ðɪs sɪˈmɛstər./",
+    portuguesePhonetic: "rái, djé-si-ca. ai nid tchu spíc uíd iu a-báut dís si-més-ter.",
+    syllables: ["Hi,", " Jes", "si", "ca.", " I", " need", " to", " speak", " with", " you", " a", "bout", " this", " se", "mes", "ter."],
+    exampleSentence: "Hi, Jessica. I need to speak with you about this semester.",
+    exampleTranslation: "Oi, Jessica. Eu preciso falar com você sobre este semestre."
+  },
+  {
+    id: 'start_finish_66',
+    word: "Sure. What's up?",
+    translation: "Claro. O que houve?",
+    pronunciation: "/ʃʊr. wʌts ʌp?/",
+    portuguesePhonetic: "xur. uáts áp?",
+    syllables: ["Sure.", " What's", " up?"],
+    exampleSentence: "Sure. What's up?",
+    exampleTranslation: "Claro. O que houve?"
+  },
+  {
+    id: 'start_finish_67',
+    word: "No, I don't, but I have a big project this year and I want to finish the project this semester. What do you need?",
+    translation: "Não, eu não venho, mas tenho um grande projeto este ano e quero terminá-lo neste semestre. Do que você precisa?",
+    pronunciation: "/noʊ, aɪ doʊnt, bʌt aɪ hæv ə bɪɡ ˈprɑdʒɛkt ðɪs jɪr ænd aɪ wɑnt tu ˈfɪnɪʃ ðə ˈprɑdʒɛkt ðɪs sɪˈmɛstər. wʌt du ju nid?/",
+    portuguesePhonetic: "nôu, ai dôunt, bât ai rév â bíg pró-djéct dís íar énd ai uánt tchu fí-nich dâ pró-djéct dís si-més-ter. uát du iu nid?",
+    syllables: ["No,", " I", " don't,", " but", " I", " have", " a", " big", " pro", "ject", " this", " year", " and", " I", " want", " to", " fin", "ish", " the", " pro", "ject", " this", " se", "mes", "ter.", " What", " do", " you", " need?"],
+    exampleSentence: "No, I don't, but I have a big project this year and I want to finish the project this semester. What do you need?",
+    exampleTranslation: "Não, eu não venho, mas tenho um grande projeto este ano e quero terminá-lo neste semestre. Do que você precisa?"
+  },
+  {
+    id: 'start_finish_68',
+    word: "Well, I have business classes this semester and I need some help.",
+    translation: "Bem, eu tenho aulas de negócios neste semestre e preciso de ajuda.",
+    pronunciation: "/wɛl, aɪ hæv ˈbɪznəs ˈklæsəz ðɪs sɪˈmɛstər ænd aɪ nid sʌm hɛlp./",
+    portuguesePhonetic: "uél, ai rév bíz-nis clé-siz dís si-més-ter énd ai nid sâm rélp.",
+    syllables: ["Well,", " I", " have", " busi", "ness", " class", "es", " this", " se", "mes", "ter", " and", " I", " need", " some", " help."],
+    exampleSentence: "Well, I have business classes this semester and I need some help.",
+    exampleTranslation: "Bem, eu tenho aulas de negócios neste semestre e preciso de ajuda."
+  },
+  {
+    id: 'start_finish_69',
+    word: "Do you usually come to college on Saturdays?",
+    translation: "Você costuma vir à faculdade aos sábados?",
+    pronunciation: "/du ju ˈjuːʒuəli kʌm tu ˈkɑlɪdʒ ɑn ˈsætərdeɪz?/",
+    portuguesePhonetic: "du iu iú-ju-a-li câm tchu có-lidj ón sé-ter-dêis?",
+    syllables: ["Do", " you", " u", "su", "al", "ly", " come", " to", " col", "lege", " on", " Sat", "ur", "days?"],
+    exampleSentence: "Do you usually come to college on Saturdays?",
+    exampleTranslation: "Você costuma vir à faculdade aos sábados?"
+  },
+  {
+    id: 'start_finish_70',
+    word: "Oh! I'd love to study with you. Meet me on Saturdays after lunch.",
+    translation: "Ah! Eu adoraria estudar com você. Encontre-me aos sábados depois do almoço.",
+    pronunciation: "/oʊ! aɪd lʌv tu ˈstʌdi wɪð ju. mit mi ɑn ˈsætərdeɪz ˈæftər lʌntʃ./",
+    portuguesePhonetic: "ou! aid lâv tchu stâ-di uíd iu. mit mi ón sé-ter-dêis éf-ter lântch.",
+    syllables: ["Oh!", " I'd", " love", " to", " stu", "dy", " with", " you.", " Meet", " me", " on", " Sat", "ur", "days", " af", "ter", " lunch."],
+    exampleSentence: "Oh! I'd love to study with you. Meet me on Saturdays after lunch.",
+    exampleTranslation: "Oh! Eu adoraria estudar com você. Encontre-me aos sábados depois do almoço."
+  },
+  {
+    id: 'start_finish_71',
+    word: "Great! Thank you!",
+    translation: "Ótimo! Obrigado!",
+    pronunciation: "/ɡreɪt! θæŋk ju!/",
+    portuguesePhonetic: "grêit! thénc iu!",
+    syllables: ["Great!", " Thank", " you!"],
+    exampleSentence: "Great! Thank you!",
+    exampleTranslation: "Ótimo! Obrigado!"
+  },
+  {
+    id: 'start_finish_72',
+    word: "See you next Saturday.",
+    translation: "Até o próximo sábado.",
+    pronunciation: "/si ju nɛkst ˈsætərdeɪ./",
+    portuguesePhonetic: "si iu nécst sé-ter-dêi.",
+    syllables: ["See", " you", " next", " Sat", "ur", "day."],
+    exampleSentence: "See you next Saturday.",
+    exampleTranslation: "Até o próximo sábado."
+  },
+  {
+    id: 'start_finish_73',
+    word: "OK! See you. Bye.",
+    translation: "OK! Até mais. Tchau.",
+    pronunciation: "/ˌoʊˈkeɪ! si ju. baɪ./",
+    portuguesePhonetic: "ou-kêi! si iu. bái.",
+    syllables: ["OK!", " See", " you.", " Bye."],
+    exampleSentence: "OK! See you. Bye.",
+    exampleTranslation: "OK! Até mais. Tchau."
+  },
+  {
+    id: 'start_finish_74',
+    word: "college",
+    translation: "faculdade",
+    pronunciation: "/ˈkɑlɪdʒ/",
+    portuguesePhonetic: "có-lidj",
+    syllables: ["col", "lege"],
+    exampleSentence: "My friends start college today.",
+    exampleTranslation: "Meus amigos começam a faculdade hoje."
+  },
+  {
+    id: 'start_finish_75',
+    word: "semester",
+    translation: "semestre",
+    pronunciation: "/sɪˈmɛstər/",
+    portuguesePhonetic: "si-més-ter",
+    syllables: ["se", "mes", "ter"],
+    exampleSentence: "I finish college next semester.",
+    exampleTranslation: "Eu termino a faculdade no próximo semestre."
+  },
+  {
+    id: 'start_finish_76',
+    word: "homework",
+    translation: "lição de casa",
+    pronunciation: "/ˈhoʊmˌwɜrk/",
+    portuguesePhonetic: "rôum-uãrc",
+    syllables: ["home", "work"],
+    exampleSentence: "I have to do my homework before class.",
+    exampleTranslation: "Eu tenho que fazer minha lição de casa antes da aula."
+  },
+  {
+    id: 'start_finish_77',
+    word: "class",
+    translation: "aula",
+    pronunciation: "/klæs/",
+    portuguesePhonetic: "clés",
+    syllables: ["class"],
+    exampleSentence: "I have to do my homework before class.",
+    exampleTranslation: "Eu tenho que fazer minha lição de casa antes da aula."
+  },
+  {
+    id: 'start_finish_78',
+    word: "task",
+    translation: "tarefa",
+    pronunciation: "/tæsk/",
+    portuguesePhonetic: "tésc",
+    syllables: ["task"],
+    exampleSentence: "You need to finish this task now.",
+    exampleTranslation: "Você precisa terminar esta tarefa agora."
+  },
+  {
+    id: 'start_finish_79',
+    word: "meeting",
+    translation: "reunião",
+    pronunciation: "/ˈmitɪŋ/",
+    portuguesePhonetic: "mí-ting",
+    syllables: ["meet", "ing"],
+    exampleSentence: "I have a meeting with my boss this morning.",
+    exampleTranslation: "Eu tenho uma reunião com o meu chefe esta manhã."
+  },
+  {
+    id: 'start_finish_80',
+    word: "deadline",
+    translation: "prazo",
+    pronunciation: "/ˈdɛdˌlaɪn/",
+    portuguesePhonetic: "déd-láin",
+    syllables: ["dead", "line"],
+    exampleSentence: "Do you have a deadline to finish your project?",
+    exampleTranslation: "Você tem um prazo para terminar seu projeto?"
+  },
+  {
+    id: 'start_finish_81',
+    word: "project",
+    translation: "projeto",
+    pronunciation: "/ˈprɑdʒɛkt/",
+    portuguesePhonetic: "pró-djéct",
+    syllables: ["pro", "ject"],
+    exampleSentence: "Do you have a deadline to finish your project?",
+    exampleTranslation: "Você tem um prazo para terminar seu projeto?"
+  },
+  {
+    id: 'start_finish_82',
+    word: "business",
+    translation: "negócios",
+    pronunciation: "/ˈbɪznəs/",
+    portuguesePhonetic: "bíz-nis",
+    syllables: ["busi", "ness"],
+    exampleSentence: "They know everything about business, but they don't speak English.",
+    exampleTranslation: "Eles sabem tudo sobre negócios, mas eles não falam inglês."
+  },
+  {
+    id: 'start_finish_83',
+    word: "boss",
+    translation: "chefe",
+    pronunciation: "/bɔs/",
+    portuguesePhonetic: "bós",
+    syllables: ["boss"],
+    exampleSentence: "I have a meeting with my boss this morning.",
+    exampleTranslation: "Eu tenho uma reunião com o meu chefe esta manhã."
+  },
+  {
+    id: 'start_finish_84',
+    word: "test",
+    translation: "prova",
+    pronunciation: "/tɛst/",
+    portuguesePhonetic: "tést",
+    syllables: ["test"],
+    exampleSentence: "We have a test next week.",
+    exampleTranslation: "Nós temos uma prova na próxima semana."
+  },
+  {
+    id: 'start_finish_85',
+    word: "next week",
+    translation: "próxima semana",
+    pronunciation: "/nɛkst wik/",
+    portuguesePhonetic: "nécst uíc",
+    syllables: ["next", " week"],
+    exampleSentence: "We have a test next week.",
+    exampleTranslation: "Nós temos uma prova na próxima semana."
+  },
+  {
+    id: 'start_finish_86',
+    word: "this morning",
+    translation: "esta manhã",
+    pronunciation: "/ðɪs ˈmɔrnɪŋ/",
+    portuguesePhonetic: "dís mór-ning",
+    syllables: ["this", " morn", "ing"],
+    exampleSentence: "I have a meeting with my boss this morning.",
+    exampleTranslation: "Eu tenho uma reunião com o meu chefe esta manhã."
+  },
+  {
+    id: 'start_finish_87',
+    word: "tonight",
+    translation: "esta noite",
+    pronunciation: "/təˈnaɪt/",
+    portuguesePhonetic: "tchu-náit",
+    syllables: ["to", "night"],
+    exampleSentence: "We don't have to work tonight. Let's go home.",
+    exampleTranslation: "Nós não temos que trabalhar esta noite. Vamos para casa."
+  },
+  {
+    id: 'start_finish_88',
+    word: "everything",
+    translation: "tudo",
+    pronunciation: "/ˈɛvriˌθɪŋ/",
+    portuguesePhonetic: "év-ri-thing",
+    syllables: ["ev", "ery", "thing"],
+    exampleSentence: "What time is it? We have to finish everything in one hour.",
+    exampleTranslation: "Que horas são? Nós temos que terminar tudo em uma hora."
+  },
+  {
+    id: 'start_finish_89',
+    word: "one hour",
+    translation: "uma hora",
+    pronunciation: "/wʌn ˈaʊər/",
+    portuguesePhonetic: "uán áu-ar",
+    syllables: ["one", " hour"],
+    exampleSentence: "We have to finish everything in one hour.",
+    exampleTranslation: "Nós temos que terminar tudo em uma hora."
+  },
+  {
+    id: 'start_finish_90',
+    word: "speak with",
+    translation: "falar com",
+    pronunciation: "/spik wɪð/",
+    portuguesePhonetic: "spíc uíd",
+    syllables: ["speak", " with"],
+    exampleSentence: "Hi, Jessica. I need to speak with you about this semester.",
+    exampleTranslation: "Oi, Jessica. Eu preciso falar com você sobre este semestre."
+  },
+  {
+    id: 'start_finish_91',
+    word: "help",
+    translation: "ajuda",
+    pronunciation: "/help/",
+    portuguesePhonetic: "rélp",
+    syllables: ["help"],
+    exampleSentence: "I need some help.",
+    exampleTranslation: "Eu preciso de ajuda."
+  },
+  {
+    id: 'start_finish_92',
+    word: "after lunch",
+    translation: "depois do almoço",
+    pronunciation: "/ˈæftər lʌntʃ/",
+    portuguesePhonetic: "f-ter lântch",
+    syllables: ["af", "ter", " lunch"],
+    exampleSentence: "Meet me on Saturdays after lunch.",
+    exampleTranslation: "Encontre-me aos sábados depois do almoço."
+  },
+  {
+    id: 'start_finish_93',
+    word: "finish",
+    translation: "terminar",
+    pronunciation: "/ˈfɪnɪʃ/",
+    portuguesePhonetic: "fí-nich",
+    syllables: ["fin", "ish"],
+    exampleSentence: "We have to finish everything in one hour.",
+    exampleTranslation: "Nós temos que terminar tudo em uma hora."
+  },
+  {
+    id: 'start_finish_94',
+    word: "start",
+    translation: "começar",
+    pronunciation: "/stɑrt/",
+    portuguesePhonetic: "stárt",
+    syllables: ["start"],
+    exampleSentence: "My friends start college today.",
+    exampleTranslation: "Meus amigos começam a faculdade hoje."
+  },
+  {
+    id: 'start_finish_95',
+    word: "know",
+    translation: "saber",
+    pronunciation: "/noʊ/",
+    portuguesePhonetic: "nôu",
+    syllables: ["know"],
+    exampleSentence: "They know everything about business.",
+    exampleTranslation: "Eles sabem tudo sobre negócios."
+  },
+  {
+    id: 'start_finish_96',
+    word: "I'd love to",
+    translation: "eu adoraria",
+    pronunciation: "/aɪd lʌv tu/",
+    portuguesePhonetic: "aid lâv tchu",
+    syllables: ["I'd", " love", " to"],
+    exampleSentence: "Oh! I'd love to study with you.",
+    exampleTranslation: "Ah! Eu adoraria estudar com você."
+  },
+  {
+    id: 'start_finish_97',
+    word: "what's up",
+    translation: "o que houve?",
+    pronunciation: "/wʌts ʌp/",
+    portuguesePhonetic: "uáts áp",
+    syllables: ["What's", " up?"],
+    exampleSentence: "Sure. What's up?",
+    exampleTranslation: "Claro. O que houve?"
+  },
+  {
+    id: 'start_finish_98',
+    word: "see you next Saturday",
+    translation: "até o próximo sábado",
+    pronunciation: "/si ju nɛkst ˈsætərdeɪ/",
+    portuguesePhonetic: "si iu nécst sé-ter-dêi",
+    syllables: ["See", " you", " next", " Sat", "ur", "day"],
+    exampleSentence: "See you next Saturday.",
+    exampleTranslation: "Até o próximo sábado."
+  }
 ];
 
 export const HOMEWORK_31_DECK: FlashcardData[] = [
@@ -5430,6 +5875,516 @@ export const LESSON_33_DECK: FlashcardData[] = [
     syllables: ["What", " time", " does", " it", " start?"],
     exampleSentence: "What time does it start?",
     exampleTranslation: "Que horas começa?"
+  },
+  {
+    id: 'lesson_33_54',
+    word: "She doesn't like to talk about religion.",
+    translation: "Ela não gosta de falar sobre religião.",
+    pronunciation: "/ʃi ˈdʌzənt laɪk tu tɔk əˈbaʊt rɪˈlɪdʒən./",
+    portuguesePhonetic: "chi dâ-zent láic tchu tóc a-báut ri-lí-djon.",
+    syllables: ["She", " doesn't", " like", " to", " talk", " a", "bout", " re", "li", "gion."],
+    exampleSentence: "She doesn't like to talk about religion.",
+    exampleTranslation: "Ela não gosta de falar sobre religião."
+  },
+  {
+    id: 'lesson_33_55',
+    word: "My friend doesn't have a tablet. He watches videos on his cell phone.",
+    translation: "Meu amigo não tem um tablet. Ele assiste vídeos no celular dele.",
+    pronunciation: "/maɪ frɛnd ˈdʌzənt hæv ə ˈtæblət. hi ˈwɑtʃəz ˈvɪdioʊz ɑn hɪz sɛl foʊn./",
+    portuguesePhonetic: "mai frénd dâ-zent rév â té-blet. ri uó-tchiz ví-di-ous ón ríz cél fôun.",
+    syllables: ["My", " friend", " doesn't", " have", " a", " tab", "let.", " He", " watch", "es", " vid", "e", "os", " on", " his", " cell", " phone."],
+    exampleSentence: "My friend doesn't have a tablet. He watches videos on his cell phone.",
+    exampleTranslation: "Meu amigo não tem um tablet. Ele assiste vídeos no celular dele."
+  },
+  {
+    id: 'lesson_33_56',
+    word: "She likes to read books about fashion. What about you?",
+    translation: "Ela gosta de ler livros sobre moda. E você?",
+    pronunciation: "/ʃi laɪks tu rid bʊks əˈbaʊt ˈfæʃən. wʌt əˈbaʊt ju?/",
+    portuguesePhonetic: "chi láics tchu rid búcs a-báut fé-chan. uát a-báut iu?",
+    syllables: ["She", " likes", " to", " read", " books", " a", "bout", " fash", "ion.", " What", " a", "bout", " you?"],
+    exampleSentence: "She likes to read books about fashion. What about you?",
+    exampleTranslation: "Ela gosta de ler livros sobre moda. E você?"
+  },
+  {
+    id: 'lesson_33_57',
+    word: "She has great ideas. Do you like her ideas?",
+    translation: "Ela tem ótimas ideias. Você gosta das ideias dela?",
+    pronunciation: "/ʃi hæz ɡreɪt aɪˈdiəz. du ju laɪk hər aɪˈdiəz?/",
+    portuguesePhonetic: "chi réz grêit ai-dí-as. du iu láic rãr ai-dí-as?",
+    syllables: ["She", " has", " great", " i", "de", "as.", " Do", " you", " like", " her", " i", "de", "as?"],
+    exampleSentence: "She has great ideas. Do you like her ideas?",
+    exampleTranslation: "Ela tem ótimas ideias. Você gosta das ideias dela?"
+  },
+  {
+    id: 'lesson_33_58',
+    word: "Excuse me, may I come in? I have a problem and I need to talk to you.",
+    translation: "Com licença, eu posso entrar? Eu tenho um problema e preciso falar com você.",
+    pronunciation: "/ɪkˈskjus mi, meɪ aɪ kʌm ɪn? aɪ hæv ə ˈprɑbləm ænd aɪ nid tu tɔk tu ju./",
+    portuguesePhonetic: "ec-squiuz mi, mêi ai câm ín? ai rév â pró-blem énd ai nid tchu tóc tchu iu.",
+    syllables: ["Ex", "cuse", " me,", " may", " I", " come", " in?", " I", " have", " a", " prob", "lem", " and", " I", " need", " to", " talk", " to", " you."],
+    exampleSentence: "Excuse me, may I come in? I have a problem and I need to talk to you.",
+    exampleTranslation: "Com licença, eu posso entrar? Eu tenho um problema e preciso falar com você."
+  },
+  {
+    id: 'lesson_33_59',
+    word: "She prefers to watch series on her tablet.",
+    translation: "Ela prefere assistir séries no tablet dela.",
+    pronunciation: "/ʃi prəˈfɜrz tu wɑtʃ ˈsɪriz ɑn hər ˈtæblət./",
+    portuguesePhonetic: "chi pri-fãrz tchu uótch sí-rís ón rãr té-blet.",
+    syllables: ["She", " pre", "fers", " to", " watch", " se", "ries", " on", " her", " tab", "let."],
+    exampleSentence: "She prefers to watch series on her tablet.",
+    exampleTranslation: "Ela prefere assistir séries no tablet dela."
+  },
+  {
+    id: 'lesson_33_60',
+    word: "He doesn't need to get up early. He goes to college in the afternoon.",
+    translation: "Ele não precisa se levantar cedo. Ele vai para a faculdade à tarde.",
+    pronunciation: "/hi ˈdʌzənt nid tu ɡɛt ʌp ˈɜrli. hi ɡoʊz tu ˈkɑlɪdʒ ɪn ði ˌæftərˈnun./",
+    portuguesePhonetic: "ri dâ-zent nid tchu guét áp ãr-li. ri gôuz tchu có-lidj in di éf-ter-nun.",
+    syllables: ["He", " doesn't", " need", " to", " get", " up", " ear", "ly.", " He", " goes", " to", " col", "lege", " in", " the", " af", "ter", "noon."],
+    exampleSentence: "He doesn't need to get up early. He goes to college in the afternoon.",
+    exampleTranslation: "Ele não precisa se levantar cedo. Ele vai para a faculdade à tarde."
+  },
+  {
+    id: 'lesson_33_61',
+    word: "My mother likes to talk about many things.",
+    translation: "Minha mãe gosta de falar sobre muitas coisas.",
+    pronunciation: "/maɪ ˈmʌðər laɪks tu tɔk əˈbaʊt ˈmɛni θɪŋz./",
+    portuguesePhonetic: "mai mâ-der láics tchu tóc a-báut mé-ni things.",
+    syllables: ["My", " moth", "er", " likes", " to", " talk", " a", "bout", " ma", "ny", " things."],
+    exampleSentence: "My mother likes to talk about many things.",
+    exampleTranslation: "Minha mãe gosta de falar sobre muitas coisas."
+  },
+  {
+    id: 'lesson_33_62',
+    word: "She has science class at school this semester. It starts at eight o'clock on Monday.",
+    translation: "Ela tem aula de ciências na escola este semestre. Começa às oito horas na segunda-feira.",
+    pronunciation: "/ʃi hæz ˈsaɪəns klæs æt skul ðɪs sɪˈmɛstər. ɪt stɑrts æt eɪt əˈklɑk ɑn ˈmʌndeɪ./",
+    portuguesePhonetic: "chi réz sái-ens clés ét scul dís si-més-ter. it starts ét êit o-clóc ón môn-dêi.",
+    syllables: ["She", " has", " sci", "ence", " class", " at", " school", " this", " se", "mes", "ter.", " It", " starts", " at", " eight", " o'clock", " on", " Mon", "day."],
+    exampleSentence: "She has science class at school this semester. It starts at eight o'clock on Monday.",
+    exampleTranslation: "Ela tem aula de ciências na escola este semestre. Começa às oito horas na segunda-feira."
+  },
+  {
+    id: 'lesson_33_63',
+    word: "He doesn't like to talk about sports. He likes to talk about music and politics.",
+    translation: "Ele não gosta de falar sobre esportes. Ele gosta de falar sobre música e política.",
+    pronunciation: "/hi ˈdʌzənt laɪk tu tɔk əˈbaʊt spɔrts. hi laɪks tu tɔk əˈbaʊt ˈmjuzɪk ænd ˈpɑləˌtɪks./",
+    portuguesePhonetic: "ri dâ-zent láic tchu tóc a-báut spórts. ri láics tchu tóc a-báut miú-zic énd pó-li-tics.",
+    syllables: ["He", " doesn't", " like", " to", " talk", " a", "bout", " sports.", " He", " likes", " to", " talk", " a", "bout", " mu", "sic", " and", " pol", "i", "tics."],
+    exampleSentence: "He doesn't like to talk about sports. He likes to talk about music and politics.",
+    exampleTranslation: "Ele não gosta de falar sobre esportes. Ele gosta de falar sobre música e política."
+  },
+  {
+    id: 'lesson_33_64',
+    word: "Hey, Josh!",
+    translation: "Ei, Josh!",
+    pronunciation: "/heɪ dʒɑʃ!/",
+    portuguesePhonetic: "rêi, djóch!",
+    syllables: ["Hey,", " Josh!"],
+    exampleSentence: "Hey, Josh!",
+    exampleTranslation: "Ei, Josh!"
+  },
+  {
+    id: 'lesson_33_65',
+    word: "Hey, Linda.",
+    translation: "Ei, Linda.",
+    pronunciation: "/heɪ ˈlɪndə./",
+    portuguesePhonetic: "rêi, lín-da.",
+    syllables: ["Hey,", " Lin", "da."],
+    exampleSentence: "Hey, Linda.",
+    exampleTranslation: "Ei, Linda."
+  },
+  {
+    id: 'lesson_33_66',
+    word: "Do you want to go to the movies with me tomorrow? I have two tickets.",
+    translation: "Você quer ir ao cinema comigo amanhã? Eu tenho dois ingressos.",
+    pronunciation: "/du ju wɑnt tu ɡoʊ tu ðə ˈmuviz wɪð mi təˈmɑˌroʊ? aɪ hæv tu ˈtɪkəts./",
+    portuguesePhonetic: "du iu uánt tchu gôu tchu dâ mú-vis uíd mi tu-mó-rou? ai rév tchu tí-quets.",
+    syllables: ["Do", " you", " want", " to", " go", " to", " the", " mo", "vies", " with", " me", " to", "mor", "row?", " I", " have", " two", " tick", "ets."],
+    exampleSentence: "Do you want to go to the movies with me tomorrow? I have two tickets.",
+    exampleTranslation: "Você quer ir ao cinema comigo amanhã? Eu tenho dois ingressos."
+  },
+  {
+    id: 'lesson_33_67',
+    word: "Really? That's great!",
+    translation: "Sério? Isso é ótimo!",
+    pronunciation: "/ˈrɪli? ðæts ɡreɪt!/",
+    portuguesePhonetic: "rí-li? déts grêit!",
+    syllables: ["Real", "ly?", " That's", " great!"],
+    exampleSentence: "Really? That's great!",
+    exampleTranslation: "Sério? Isso é ótimo!"
+  },
+  {
+    id: 'lesson_33_68',
+    word: "My sister doesn’t want to go. She has business class tomorrow at 7:00 A.M. and she has to get up early.",
+    translation: "Minha irmã não quer ir. Ela tem aula de negócios amanhã às 7h e tem que se levantar cedo.",
+    pronunciation: "/maɪ ˈsɪstər ˈdʌzənt wɑnt tu ɡoʊ. ʃi hæz ˈbɪznəs klæs təˈmɑˌroʊ æt ˈsɛvən eɪ.ɛm. ænd ʃi hæv tu ɡɛt ʌp ˈɜrli./",
+    portuguesePhonetic: "mai sís-ter dâ-zent uánt tchu gôu. chi réz bíz-nis clés tu-mó-rou ét sé-ven êi ém énd chi rév tchu guét áp ãr-li.",
+    syllables: ["My", " sis", "ter", " doesn't", " want", " to", " go.", " She", " has", " busi", "ness", " class", " to", "mor", "row", " at", " sev", "en", " a.m.", " and", " she", " has", " to", " get", " up", " ear", "ly."],
+    exampleSentence: "My sister doesn’t want to go. She has business class tomorrow at 7:00 A.M. and she has to get up early.",
+    exampleTranslation: "Minha irmã não quer ir. Ela tem aula de negócios amanhã às 7h e tem que se levantar cedo."
+  },
+  {
+    id: 'lesson_33_69',
+    word: "OK. I can go then!",
+    translation: "OK. Eu posso ir então!",
+    pronunciation: "/ˌoʊˈkeɪ. aɪ kæn ɡoʊ ðɛn!/",
+    portuguesePhonetic: "ou-kêi. ai quén gôu dén!",
+    syllables: ["O", "K.", " I", " can", " go", " then!"],
+    exampleSentence: "OK. I can go then!",
+    exampleTranslation: "OK. Eu posso ir então!"
+  },
+  {
+    id: 'lesson_33_70',
+    word: "Great! I know you love to talk about movies, TV series, videos...",
+    translation: "Ótimo! Eu sei que você ama conversar sobre filmes, séries de TV, vídeos...",
+    pronunciation: "/ɡreɪt! aɪ noʊ ju lʌv tu tɔk əˈbaʊt ˈmuviz, ˌtiˈvi ˈsɪriz, ˈvɪdioʊz.../",
+    portuguesePhonetic: "grêit! ai nôu iu lâv tchu tóc a-báut mú-vis, ti-ví sí-rís, ví-di-ous...",
+    syllables: ["Great!", " I", " know", " you", " love", " to", " talk", " a", "bout", " mo", "vies,", " T", "V", " se", "ries,", " vid", "e", "os..."],
+    exampleSentence: "Great! I know you love to talk about movies, TV series, videos...",
+    exampleTranslation: "Ótimo! Eu sei que você ama conversar sobre filmes, séries de TV, vídeos..."
+  },
+  {
+    id: 'lesson_33_71',
+    word: "I do! Thank you very much!",
+    translation: "Eu amo! Muito obrigado!",
+    pronunciation: "/aɪ du! θæŋk ju ˈvɛri mʌtʃ!/",
+    portuguesePhonetic: "ai du! thénc iu vé-ri mâtch!",
+    syllables: ["I", " do!", " Thank", " you", " ve", "ry", " much!"],
+    exampleSentence: "I do! Thank you very much!",
+    exampleTranslation: "Eu amo! Muito obrigado!"
+  },
+  {
+    id: 'lesson_33_72',
+    word: "Meet me at the mall at 8:00 P.M. OK?",
+    translation: "Me encontre no shopping às 20h, ok?",
+    pronunciation: "/mit mi æt ðə mɔl æt eɪt pi.ɛm. ˌoʊˈkeɪ?/",
+    portuguesePhonetic: "mit mi ét dâ mól ét êit pi-ém ou-kêi?",
+    syllables: ["Meet", " me", " at", " the", " mall", " at", " eight", " p.m.", " O", "K?"],
+    exampleSentence: "Meet me at the mall at 8:00 P.M. OK?",
+    exampleTranslation: "Me encontre no shopping às 20h, ok?"
+  },
+  {
+    id: 'lesson_33_73',
+    word: "That's OK! See you.",
+    translation: "Tudo bem! Até mais.",
+    pronunciation: "/ðæts ˌoʊˈkeɪ! si ju./",
+    portuguesePhonetic: "déts ou-kêi! si iu.",
+    syllables: ["That's", " O", "K!", " See", " you."],
+    exampleSentence: "That's OK! See you.",
+    exampleTranslation: "Tudo bem! Até mais."
+  },
+  {
+    id: 'lesson_33_74',
+    word: "What does she want to eat for lunch?",
+    translation: "O que ela quer comer no almoço?",
+    pronunciation: "/wʌt dʌz ʃi wɑnt tu it fɔr lʌntʃ?/",
+    portuguesePhonetic: "uát dâz chi uánt tchu it fór lântch?",
+    syllables: ["What", " does", " she", " want", " to", " eat", " for", " lunch?"],
+    exampleSentence: "What does she want to eat for lunch?",
+    exampleTranslation: "O que ela quer comer no almoço?"
+  },
+  {
+    id: 'lesson_33_75',
+    word: "Where does she buy clothes?",
+    translation: "Onde ela compra roupas?",
+    pronunciation: "/wɛr dʌz ʃi baɪ kloʊðz?/",
+    portuguesePhonetic: "uér dâz chi bái clôuz?",
+    syllables: ["Where", " does", " she", " buy", " clothes?"],
+    exampleSentence: "Where does she buy clothes?",
+    exampleTranslation: "Onde ela compra roupas?"
+  },
+  {
+    id: 'lesson_33_76',
+    word: "When do they study English?",
+    translation: "Quando eles estudam inglês?",
+    pronunciation: "/wɛn du ðeɪ ˈstʌdi ˈɪŋɡlɪʃ?/",
+    portuguesePhonetic: "uén du dêi stâ-di ín-glic?",
+    syllables: ["When", " do", " they", " stu", "dy", " En", "glish?"],
+    exampleSentence: "When do they study English?",
+    exampleTranslation: "Quando eles estudam inglês?"
+  },
+  {
+    id: 'lesson_33_77',
+    word: "What time does his class start every day?",
+    translation: "Que horas a aula dele começa todos os dias?",
+    pronunciation: "/wʌt taɪm dʌz hɪz klæs stɑrt ˈɛvri deɪ?/",
+    portuguesePhonetic: "uát táim dâz ríz clés stárt év-ri dêi?",
+    syllables: ["What", " time", " does", " his", " class", " start", " ev", "ery", " day?"],
+    exampleSentence: "What time does his class start every day?",
+    exampleTranslation: "Que horas a aula dele começa todos os dias?"
+  },
+  {
+    id: 'lesson_33_78',
+    word: "What does your boyfriend like to talk about?",
+    translation: "Sobre o que seu namorado gosta de falar?",
+    pronunciation: "/wʌt dʌz jʊər ˈbɔɪˌfrɛnd laɪk tu tɔk əˈbaʊt?/",
+    portuguesePhonetic: "uát dâz iór bói-frénd láic tchu tóc a-báut?",
+    syllables: ["What", " does", " your", " boy", "friend", " like", " to", " talk", " a", "bout?"],
+    exampleSentence: "What does your boyfriend like to talk about?",
+    exampleTranslation: "Sobre o que seu namorado gosta de falar?"
+  },
+  {
+    id: 'lesson_33_79',
+    word: "Where does she prefer to watch videos?",
+    translation: "Onde ela prefere assistir vídeos?",
+    pronunciation: "/wɛr dʌz ʃi prəˈfɜr tu wɑtʃ ˈvɪdioʊz?/",
+    portuguesePhonetic: "uér dâz chi pri-fãr tchu uótch ví-di-ous?",
+    syllables: ["Where", " does", " she", " pre", "fer", " to", " watch", " vid", "e", "os?"],
+    exampleSentence: "Where does she prefer to watch videos?",
+    exampleTranslation: "Onde ela prefere assistir vídeos?"
+  },
+  {
+    id: 'lesson_33_80',
+    word: "religion",
+    translation: "religião",
+    pronunciation: "/rɪˈlɪdʒ.ən/",
+    portuguesePhonetic: "ri-li-djon",
+    syllables: ["re", "li", "gion"],
+    exampleSentence: "She doesn't like to talk about religion.",
+    exampleTranslation: "Ela não gosta de falar sobre religião."
+  },
+  {
+    id: 'lesson_33_81',
+    word: "fashion",
+    translation: "moda",
+    pronunciation: "/ˈfæʃən/",
+    portuguesePhonetic: "fé-chan",
+    syllables: ["fash", "ion"],
+    exampleSentence: "She likes to read books about fashion.",
+    exampleTranslation: "Ela gosta de ler livros sobre moda."
+  },
+  {
+    id: 'lesson_33_82',
+    word: "idea",
+    translation: "ideia",
+    pronunciation: "/aɪˈdiə/",
+    portuguesePhonetic: "ai-dí-a",
+    syllables: ["i", "de", "a"],
+    exampleSentence: "She has the best idea.",
+    exampleTranslation: "Ela tem a melhor ideia."
+  },
+  {
+    id: 'lesson_33_83',
+    word: "great ideas",
+    translation: "ótimas ideias",
+    pronunciation: "/ɡreɪt aɪˈdiəz/",
+    portuguesePhonetic: "grêit ai-dí-as",
+    syllables: ["great", " i", "de", "as"],
+    exampleSentence: "She has great ideas.",
+    exampleTranslation: "Ela tem ótimas ideias."
+  },
+  {
+    id: 'lesson_33_84',
+    word: "problem",
+    translation: "problema",
+    pronunciation: "/ˈprɑbləm/",
+    portuguesePhonetic: "pró-blem",
+    syllables: ["prob", "lem"],
+    exampleSentence: "I have a big problem today.",
+    exampleTranslation: "Eu tenho um grande problema hoje."
+  },
+  {
+    id: 'lesson_33_85',
+    word: "series",
+    translation: "séries",
+    pronunciation: "/ˈsɪriz/",
+    portuguesePhonetic: "sí-rís",
+    syllables: ["se", "ries"],
+    exampleSentence: "She prefers to watch series on her tablet.",
+    exampleTranslation: "Ela prefere assistir séries no tablet dela."
+  },
+  {
+    id: 'lesson_33_86',
+    word: "tablet",
+    translation: "tablet",
+    pronunciation: "/ˈtæblət/",
+    portuguesePhonetic: "té-blet",
+    syllables: ["tab", "let"],
+    exampleSentence: "My friend doesn't have a tablet.",
+    exampleTranslation: "Meu amigo não tem um tablet."
+  },
+  {
+    id: 'lesson_33_87',
+    word: "get up early",
+    translation: "levantar cedo",
+    pronunciation: "/ɡɛt ʌp ˈɜrli/",
+    portuguesePhonetic: "guét áp ãr-li",
+    syllables: ["get", " up", " ear", "ly"],
+    exampleSentence: "He has to get up early on Monday.",
+    exampleTranslation: "Ele tem que acordar cedo na segunda-feira."
+  },
+  {
+    id: 'lesson_33_88',
+    word: "science",
+    translation: "ciências",
+    pronunciation: "/ˈsaɪəns/",
+    portuguesePhonetic: "sái-ens",
+    syllables: ["sci", "ence"],
+    exampleSentence: "She has science class today.",
+    exampleTranslation: "Ela tem aula de ciências hoje."
+  },
+  {
+    id: 'lesson_33_89',
+    word: "semester",
+    translation: "semestre",
+    pronunciation: "/sɪˈmɛstər/",
+    portuguesePhonetic: "si-més-ter",
+    syllables: ["se", "mes", "ter"],
+    exampleSentence: "I finish college next semester.",
+    exampleTranslation: "Eu termino a faculdade no próximo semestre."
+  },
+  {
+    id: 'lesson_33_90',
+    word: "sports",
+    translation: "esportes",
+    pronunciation: "/spɔrts/",
+    portuguesePhonetic: "spórts",
+    syllables: ["sports"],
+    exampleSentence: "He doesn't like to talk about sports.",
+    exampleTranslation: "Ele não gosta de falar sobre esportes."
+  },
+  {
+    id: 'lesson_33_91',
+    word: "music",
+    translation: "música",
+    pronunciation: "/ˈmjuzɪk/",
+    portuguesePhonetic: "miú-zic",
+    syllables: ["mu", "sic"],
+    exampleSentence: "She likes to listen to music.",
+    exampleTranslation: "Ela gosta de ouvir música."
+  },
+  {
+    id: 'lesson_33_92',
+    word: "politics",
+    translation: "política",
+    pronunciation: "/ˈpɑləˌtɪks/",
+    portuguesePhonetic: "pó-li-tics",
+    syllables: ["pol", "i", "tics"],
+    exampleSentence: "He likes to talk about politics.",
+    exampleTranslation: "Ele gosta de falar sobre política."
+  },
+  {
+    id: 'lesson_33_93',
+    word: "watch videos",
+    translation: "assistir vídeos",
+    pronunciation: "/wɑtʃ ˈvɪdioʊz/",
+    portuguesePhonetic: "uótch ví-di-ous",
+    syllables: ["watch", " vid", "e", "os"],
+    exampleSentence: "Where does she prefer to watch videos?",
+    exampleTranslation: "Onde ela prefere assistir vídeos?"
+  },
+  {
+    id: 'lesson_33_94',
+    word: "cell phone",
+    translation: "celular",
+    pronunciation: "/sɛl foʊn/",
+    portuguesePhonetic: "cél fôun",
+    syllables: ["cell", " phone"],
+    exampleSentence: "He watches videos on his cell phone.",
+    exampleTranslation: "Ele assiste vídeos no celular dele."
+  },
+  {
+    id: 'lesson_33_95',
+    word: "talk about",
+    translation: "falar sobre",
+    pronunciation: "/tɔk əˈbaʊt/",
+    portuguesePhonetic: "tóc a-báut",
+    syllables: ["talk", " a", "bout"],
+    exampleSentence: "They like to talk about politics.",
+    exampleTranslation: "Eles gostam de falar sobre política."
+  },
+  {
+    id: 'lesson_33_96',
+    word: "business class",
+    translation: "aula de negócios",
+    pronunciation: "/ˈbɪznəs klæs/",
+    portuguesePhonetic: "bíz-nis clés",
+    syllables: ["busi", "ness", " class"],
+    exampleSentence: "She has business class tomorrow.",
+    exampleTranslation: "Ela tem aula de negócios amanhã."
+  },
+  {
+    id: 'lesson_33_97',
+    word: "start",
+    translation: "começar",
+    pronunciation: "/stɑrt/",
+    portuguesePhonetic: "stárt",
+    syllables: ["start"],
+    exampleSentence: "What time does his class start?",
+    exampleTranslation: "Que horas a aula dele começa?"
+  },
+  {
+    id: 'lesson_33_98',
+    word: "what about you?",
+    translation: "e você?",
+    pronunciation: "/wʌt əˈbaʊt ju?/",
+    portuguesePhonetic: "uát a-báut iu?",
+    syllables: ["What", " a", "bout", " you?"],
+    exampleSentence: "I like books. What about you?",
+    exampleTranslation: "Eu gosto de livros. E você?"
+  },
+  {
+    id: 'lesson_33_99',
+    word: "excuse me",
+    translation: "com licença",
+    pronunciation: "/ɪkˈskjus mi/",
+    portuguesePhonetic: "ec-squiuz mi",
+    syllables: ["ex", "cuse", " me"],
+    exampleSentence: "Excuse me, where is the station?",
+    exampleTranslation: "Com licença, onde fica a estação?"
+  },
+  {
+    id: 'lesson_33_100',
+    word: "may I come in?",
+    translation: "posso entrar?",
+    pronunciation: "/meɪ aɪ kʌm ɪn?/",
+    portuguesePhonetic: "mêi ai câm ín?",
+    syllables: ["may", " I", " come", " in?"],
+    exampleSentence: "Excuse me, may I come in?",
+    exampleTranslation: "Com licença, posso entrar?"
+  },
+  {
+    id: 'lesson_33_101',
+    word: "what",
+    translation: "o que",
+    pronunciation: "/wʌt/",
+    portuguesePhonetic: "uát",
+    syllables: ["what"],
+    exampleSentence: "What do you want?",
+    exampleTranslation: "O que você quer?"
+  },
+  {
+    id: 'lesson_33_102',
+    word: "where",
+    translation: "onde",
+    pronunciation: "/wɛr/",
+    portuguesePhonetic: "uér",
+    syllables: ["where"],
+    exampleSentence: "Where do you live?",
+    exampleTranslation: "Onde você mora?"
+  },
+  {
+    id: 'lesson_33_103',
+    word: "when",
+    translation: "quando",
+    pronunciation: "/wɛn/",
+    portuguesePhonetic: "uén",
+    syllables: ["when"],
+    exampleSentence: "When is the class?",
+    exampleTranslation: "Quando é a aula?"
+  },
+  {
+    id: 'lesson_33_104',
+    word: "what time",
+    translation: "que horas",
+    pronunciation: "/wʌt taɪm/",
+    portuguesePhonetic: "uát táim",
+    syllables: ["what", " time"],
+    exampleSentence: "What time do you study?",
+    exampleTranslation: "Que horas você estuda?"
   }
 ];
 
@@ -5904,6 +6859,556 @@ export const WRITE_THINK_DECK: FlashcardData[] = [
     exampleSentence: "people",
     exampleTranslation: "pessoas"
   },
+  {
+    id: 'write_think_48',
+    word: "What do you think of this book?",
+    translation: "O que você acha deste livro?",
+    pronunciation: "/wʌt du ju θɪŋk ʌv ðɪs bʊk?/",
+    portuguesePhonetic: "uát du iu thínc áv dís búc?",
+    syllables: ["What", " do", " you", " think", " of", " this", " book?"],
+    exampleSentence: "What do you think of this book?",
+    exampleTranslation: "O que você acha deste livro?"
+  },
+  {
+    id: 'write_think_49',
+    word: "She has to start an important project next semester.",
+    translation: "Ela tem que começar um projeto importante no próximo semestre.",
+    pronunciation: "/ʃi hæz tu stɑrt ən ɪmˈpɔrtənt ˈprɑdʒɛkt nɛkst sɪˈmɛstər./",
+    portuguesePhonetic: "chi réz tchu stárt ân im-pór-tant pró-djéct nécst si-més-ter.",
+    syllables: ["She", " has", " to", " start", " an", " im", "por", "tant", " pro", "ject", " next", " se", "mes", "ter."],
+    exampleSentence: "She has to start an important project next semester.",
+    exampleTranslation: "Ela tem que começar um projeto importante no próximo semestre."
+  },
+  {
+    id: 'write_think_50',
+    word: "Do you like this movie? – Yes, I do. I think it is funny.",
+    translation: "Você gosta deste filme? – Sim, eu gosto. Eu acho que é engraçado.",
+    pronunciation: "/du ju laɪk ðɪs ˈmuvi? – jɛs, aɪ du. aɪ θɪŋk ɪt ɪz ˈfʌni./",
+    portuguesePhonetic: "du iu láic dís mú-vi? – iés, ai du. ai thínc it íz fâ-ni.",
+    syllables: ["Do", " you", " like", " this", " mo", "vie?", " Yes,", " I", " do.", " I", " think", " it", " is", " fun", "ny."],
+    exampleSentence: "Do you like this movie? – Yes, I do. I think it is funny.",
+    exampleTranslation: "Você gosta deste filme? – Sim, eu gosto. Eu acho que é engraçado."
+  },
+  {
+    id: 'write_think_51',
+    word: "She needs to write an essay about her life.",
+    translation: "Ela precisa escrever uma redação sobre a vida dela.",
+    pronunciation: "/ʃi nidz tu raɪt ən ˈɛseɪ əˈbaʊt hər laɪf./",
+    portuguesePhonetic: "chi nids tchu ráit ân é-sêi a-báut rãr láif.",
+    syllables: ["She", " needs", " to", " write", " an", " es", "say", " a", "bout", " her", " life."],
+    exampleSentence: "She needs to write an essay about her life.",
+    exampleTranslation: "Ela precisa escrever uma redação sobre a vida dela."
+  },
+  {
+    id: 'write_think_52',
+    word: "Why do you want to talk to everybody? – Because we have to think about the problem together.",
+    translation: "Por que você quer falar com todo mundo? – Porque nós temos que pensar sobre o problema juntos.",
+    pronunciation: "/waɪ du ju wɑnt tu tɔk tu ˈɛvriˌbɑdi? – bɪˈkɔz wi hæv tu θɪŋk əˈbaʊt ðə ˈprɑbləm təˈɡɛðər./",
+    portuguesePhonetic: "uái du iu uánt tchu tóc tchu év-ri-bó-di? – bi-cóz ui rév tchu thínc a-báut dâ pró-blem tchu-gué-der.",
+    syllables: ["Why", " do", " you", " want", " to", " talk", " to", " ev", "ery", "bod", "y?", " Be", "cause", " we", " have", " to", " think", " a", "bout", " the", " prob", "lem", " to", "geth", "er."],
+    exampleSentence: "Why do you want to talk to everybody? – Because we have to think about the problem together.",
+    exampleTranslation: "Por que você quer falar com todo mundo? – Porque nós temos que pensar sobre o problema juntos."
+  },
+  {
+    id: 'write_think_53',
+    word: "I don't want to write about fashion. I want to write about sports.",
+    translation: "Eu não quero escrever sobre moda. Eu quero escrever sobre esportes.",
+    pronunciation: "/aɪ doʊnt wɑnt tu raɪt əˈbaʊt ˈfæʃən. aɪ wɑnt tu raɪt əˈbaʊt spɔrts./",
+    portuguesePhonetic: "ai dôunt uánt tchu ráit a-báut fé-chan. ai uánt tchu ráit a-báut spórts.",
+    syllables: ["I", " don't", " want", " to", " write", " a", "bout", " fash", "ion.", " I", " want", " to", " write", " a", "bout", " sports."],
+    exampleSentence: "I don't want to write about fashion. I want to write about sports.",
+    exampleTranslation: "Eu não quero escrever sobre moda. Eu quero escrever sobre esportes."
+  },
+  {
+    id: 'write_think_54',
+    word: "I love this book. It is interesting!",
+    translation: "Eu amo este livro. É interessante!",
+    pronunciation: "/aɪ lʌv ðɪs bʊk. ɪt ɪz ˈɪntərɛstɪŋ!/",
+    portuguesePhonetic: "ai lâv dís búc. it íz ín-tres-ting!",
+    syllables: ["I", " love", " this", " book.", " It", " is", " in", "te", "res", "ting!"],
+    exampleSentence: "I love this book. It is interesting!",
+    exampleTranslation: "Eu amo este livro. É interessante!"
+  },
+  {
+    id: 'write_think_55',
+    word: "Do you talk to important people at work?",
+    translation: "Você fala com pessoas importantes no trabalho?",
+    pronunciation: "/du ju tɔk tu ɪmˈpɔrtənt ˈpipəl æt wɜrk?/",
+    portuguesePhonetic: "du iu tóc tchu im-pór-tant pí-pl ét uãrc?",
+    syllables: ["Do", " you", " talk", " to", " im", "por", "tant", " peo", "ple", " at", " work?"],
+    exampleSentence: "Do you talk to important people at work?",
+    exampleTranslation: "Você fala com pessoas importantes no trabalho?"
+  },
+  {
+    id: 'write_think_56',
+    word: "What does he think of that movie? – He thinks it is boring.",
+    translation: "O que ele acha daquele filme? – Ele acha que é chato.",
+    pronunciation: "/wʌt dʌz hi θɪŋk ʌv ðæt ˈmuvi? – hi θɪŋks ɪt ɪz ˈbɔrɪŋ./",
+    portuguesePhonetic: "uát dâz ri thínc áv dét mú-vi? – ri thíncs it íz bó-ring.",
+    syllables: ["What", " does", " he", " think", " of", " that", " mo", "vie?", " He", " thinks", " it", " is", " bor", "ing."],
+    exampleSentence: "What does he think of that movie? – He thinks it is boring.",
+    exampleTranslation: "O que ele acha daquele filme? – Ele acha que é chato."
+  },
+  {
+    id: 'write_think_57',
+    word: "Why do you have to go now? – Because I need to write a report about the project.",
+    translation: "Por que você tem que ir agora? – Porque eu preciso escrever um relatório sobre o projeto.",
+    pronunciation: "/waɪ du ju hæv tu ɡoʊ naʊ? – bɪˈkɔz aɪ nid tu raɪt ə rɪˈpɔrt əˈbaʊt ðə ˈprɑdʒɛkt./",
+    portuguesePhonetic: "uái du iu rév tchu gôu náu? – bi-cóz ai nid tchu ráit â ri-pórt a-báut dâ pró-djéct.",
+    syllables: ["Why", " do", " you", " have", " to", " go", " now?", " Be", "cause", " I", " need", " to", " write", " a", " re", "port", " a", "bout", " the", " pro", "ject."],
+    exampleSentence: "Why do you have to go now? – Because I need to write a report about the project.",
+    exampleTranslation: "Por que você tem que ir agora? – Porque eu preciso escrever um relatório sobre o projeto."
+  },
+  {
+    id: 'write_think_58',
+    word: "Why do you want to go home early tonight?",
+    translation: "Por que você quer ir para casa cedo esta noite?",
+    pronunciation: "/waɪ du ju wɑnt tu ɡoʊ hoʊm ˈɜrli təˈnaɪt?/",
+    portuguesePhonetic: "uái du iu uánt tchu gôu rôum ãr-li tchu-náit?",
+    syllables: ["Why", " do", " you", " want", " to", " go", " home", " ear", "ly", " to", "night?"],
+    exampleSentence: "Why do you want to go home early tonight?",
+    exampleTranslation: "Por que você quer ir para casa cedo esta noite?"
+  },
+  {
+    id: 'write_think_59',
+    word: "Because I want to watch a movie with my children.",
+    translation: "Porque eu quero assistir a um filme com meus filhos.",
+    pronunciation: "/bɪˈkɔz aɪ wɑnt tu wɑtʃ ə ˈmuvi wɪð maɪ ˈtʃɪldrən./",
+    portuguesePhonetic: "bi-cóz ai uánt tchu uótch â mú-vi uíd mai tchíl-dren.",
+    syllables: ["Be", "cause", " I", " want", " to", " watch", " a", " mo", "vie", " with", " my", " chil", "dren."],
+    exampleSentence: "Because I want to watch a movie with my children.",
+    exampleTranslation: "Porque eu quero assistir a um filme com meus filhos."
+  },
+  {
+    id: 'write_think_60',
+    word: "Does he work at that company?",
+    translation: "Ele trabalha naquela empresa?",
+    pronunciation: "/dʌz hi wɜrk æt ðæt ˈkʌmpəni?/",
+    portuguesePhonetic: "dâz ri uãrc ét dét câm-pa-ni?",
+    syllables: ["Does", " he", " work", " at", " that", " com", "pa", "ny?"],
+    exampleSentence: "Does he work at that company?",
+    exampleTranslation: "Ele trabalha naquela empresa?"
+  },
+  {
+    id: 'write_think_61',
+    word: "I don't think so. I think he only studies.",
+    translation: "Eu não acho. Acho que ele apenas estuda.",
+    pronunciation: "/aɪ doʊnt θɪŋk soʊ. aɪ θɪŋk hi ˈoʊnli ˈstʌdiz./",
+    portuguesePhonetic: "ai dôunt thínc sôu. ai thínc ri óun-li stâ-dis.",
+    syllables: ["I", " don't", " think", " so.", " I", " think", " he", " on", "ly", " stud", "ies."],
+    exampleSentence: "I don't think so. I think he only studies.",
+    exampleTranslation: "Eu não acho. Acho que ele apenas estuda."
+  },
+  {
+    id: 'write_think_62',
+    word: "Why do they need my e-mail address?",
+    translation: "Por que eles precisam do meu endereço de e-mail?",
+    pronunciation: "/waɪ du ðeɪ nid maɪ ˈiˌmeɪl əˈdrɛs?/",
+    portuguesePhonetic: "uái du dêi nid mai í-mêil a-drés?",
+    syllables: ["Why", " do", " they", " need", " my", " e-mail", " ad", "dress?"],
+    exampleSentence: "Why do they need my e-mail address?",
+    exampleTranslation: "Por que eles precisam do meu endereço de e-mail?"
+  },
+  {
+    id: 'write_think_63',
+    word: "Because they want to send you the report.",
+    translation: "Porque eles querem enviar o relatório para você.",
+    pronunciation: "/bɪˈkɔz ðeɪ wɑnt tu sɛnd ju ðə rɪˈpɔrt./",
+    portuguesePhonetic: "bi-cóz dêi uánt tchu sénd iu dâ ri-pórt.",
+    syllables: ["Be", "cause", " they", " want", " to", " send", " you", " the", " re", "port."],
+    exampleSentence: "Because they want to send you the report.",
+    exampleTranslation: "Porque eles querem enviar o relatório para você."
+  },
+  {
+    id: 'write_think_64',
+    word: "Why does she have to go to school this afternoon?",
+    translation: "Por que ela tem que ir para a escola esta tarde?",
+    pronunciation: "/waɪ dʌz ʃi hæv tu ɡoʊ tu skul ðɪs ˌæftərˈnun?/",
+    portuguesePhonetic: "uái dâz chi rév tchu gôu tchu scul dís éf-ter-nun?",
+    syllables: ["Why", " does", " she", " have", " to", " go", " to", " school", " this", " af", "ter", "noon?"],
+    exampleSentence: "Why does she have to go to school this afternoon?",
+    exampleTranslation: "Por que ela tem que ir para a escola esta tarde?"
+  },
+  {
+    id: 'write_think_65',
+    word: "Because she has an English exam.",
+    translation: "Porque ela tem uma prova de inglês.",
+    pronunciation: "/bɪˈkɔz ʃi hæz ən ˈɪŋɡlɪʃ ɪɡˈzæm./",
+    portuguesePhonetic: "bi-cóz chi réz ân ín-glic eg-zém.",
+    syllables: ["Be", "cause", " she", " has", " an", " En", "glish", " ex", "am."],
+    exampleSentence: "Because she has an English exam.",
+    exampleTranslation: "Porque ela tem uma prova de inglês."
+  },
+  {
+    id: 'write_think_66',
+    word: "Why do you study English?",
+    translation: "Por que você estuda inglês?",
+    pronunciation: "/waɪ du ju ˈstʌdi ˈɪŋɡlɪʃ?/",
+    portuguesePhonetic: "uái du iu stâ-di ín-glic?",
+    syllables: ["Why", " do", " you", " stu", "dy", " En", "glish?"],
+    exampleSentence: "Why do you study English?",
+    exampleTranslation: "Por que você estuda inglês?"
+  },
+  {
+    id: 'write_think_67',
+    word: "I study English because I want to travel and improve my career.",
+    translation: "Eu estudo inglês porque quero viajar e melhorar minha carreira.",
+    pronunciation: "/aɪ ˈstʌdi ˈɪŋɡlɪʃ bɪˈkɔz aɪ wɑnt tu ˈtrævəl ænd ɪmˈpruv maɪ kəˈrɪr./",
+    portuguesePhonetic: "ai stâ-di ín-glic bi-cóz ai uánt tchu tré-vel énd im-prúv mai ca-ríar.",
+    syllables: ["I", " stu", "dy", " En", "glish", " be", "cause", " I", " want", " to", " trav", "el", " and", " im", "prove", " my", " ca", "reer."],
+    exampleSentence: "I study English because I want to travel and improve my career.",
+    exampleTranslation: "Eu estudo inglês porque quero viajar e melhorar minha carreira."
+  },
+  {
+    id: 'write_think_68',
+    word: "Why do you want to watch this video?",
+    translation: "Por que você quer assistir a este vídeo?",
+    pronunciation: "/waɪ du ju wɑnt tu wɑtʃ ðɪs ˈvɪdioʊ?/",
+    portuguesePhonetic: "uái du iu uánt tchu uótch dís ví-di-ou?",
+    syllables: ["Why", " do", " you", " want", " to", " watch", " this", " vid", "e", "o?"],
+    exampleSentence: "Why do you want to watch this video?",
+    exampleTranslation: "Por que você quer assistir a este vídeo?"
+  },
+  {
+    id: 'write_think_69',
+    word: "I want to watch this video because it looks interesting.",
+    translation: "Eu quero assistir a este vídeo porque ele parece interessante.",
+    pronunciation: "/aɪ wɑnt tu wɑtʃ ðɪs ˈvɪdioʊ bɪˈkɔz ɪt lʊks ˈɪntərɛstɪŋ./",
+    portuguesePhonetic: "ai uánt tchu uótch dís ví-di-ou bi-cóz it lúcs ín-tres-ting.",
+    syllables: ["I", " want", " to", " watch", " this", " vid", "e", "o", " be", "cause", " it", " looks", " in", "te", "res", "ting."],
+    exampleSentence: "I want to watch this video because it looks interesting.",
+    exampleTranslation: "Eu quero assistir a este vídeo porque ele parece interessante."
+  },
+  {
+    id: 'write_think_70',
+    word: "Why does your mother/father need to go downtown now?",
+    translation: "Por que sua mãe/seu pai precisa ir ao centro agora?",
+    pronunciation: "/waɪ dʌz jʊər ˈmʌðər/ˈfɑðər nid tu ɡoʊ ˈdaʊnˈtaʊn naʊ?/",
+    portuguesePhonetic: "uái dâz iór mâ-der/fá-der nid tchu gôu dáun-táun náu?",
+    syllables: ["Why", " does", " your", " moth", "er/", "fa", "ther", " need", " to", " go", " down", "town", " now?"],
+    exampleSentence: "Why does your mother/father need to go downtown now?",
+    exampleTranslation: "Por que sua mãe/seu pai precisa ir ao centro agora?"
+  },
+  {
+    id: 'write_think_71',
+    word: "My father needs to go downtown because he has a meeting.",
+    translation: "Meu pai precisa ir ao centro porque ele tem uma reunião.",
+    pronunciation: "/maɪ ˈfɑðər nidz tu ɡoʊ ˈdaʊnˈtaʊn bɪˈkɔz hi hæz ə ˈmitɪŋ./",
+    portuguesePhonetic: "mai fá-der nids tchu gôu dáun-táun bi-cóz ri réz â mí-ting.",
+    syllables: ["My", " fa", "ther", " needs", " to", " go", " down", "town", " be", "cause", " he", " has", " a", " meet", "ing."],
+    exampleSentence: "My father needs to go downtown because he has a meeting.",
+    exampleTranslation: "Meu pai precisa ir ao centro porque ele tem uma reunião."
+  },
+  {
+    id: 'write_think_72',
+    word: "Why does your brother/sister stay home in the morning?",
+    translation: "Por que seu irmão/sua irmã fica em casa pela manhã?",
+    pronunciation: "/waɪ dʌz jʊər ˈbrʌðər/ˈsɪstər steɪ hoʊm ɪn ðə ˈmɔrnɪŋ?/",
+    portuguesePhonetic: "uái dâz iór brâ-der/sís-ter stêi rôum in dâ mór-ning?",
+    syllables: ["Why", " does", " your", " broth", "er/", "sis", "ter", " stay", " home", " in", " the", " morn", "ing?"],
+    exampleSentence: "Why does your brother/sister stay home in the morning?",
+    exampleTranslation: "Por que seu irmão/sua irmã fica em casa pela manhã?"
+  },
+  {
+    id: 'write_think_73',
+    word: "My sister stays home in the morning because she studies in the afternoon.",
+    translation: "Minha irmã fica em casa pela manhã porque ela estuda à tarde.",
+    pronunciation: "/maɪ ˈsɪstər steɪz hoʊm ɪn ðə ˈmɔrnɪŋ bɪˈkɔz ʃi ˈstʌdiz ɪn ði ˌæftərˈnun./",
+    portuguesePhonetic: "mai sís-ter stêiz rôum in dâ mór-ning bi-cóz chi stâ-dis in di éf-ter-nun.",
+    syllables: ["My", " sis", "ter", " stays", " home", " in", " the", " morn", "ing", " be", "cause", " she", " stud", "ies", " in", " the", " af", "ter", "noon."],
+    exampleSentence: "My sister stays home in the morning because she studies in the afternoon.",
+    exampleTranslation: "Minha irmã fica em casa pela manhã porque ela estuda à tarde."
+  },
+  {
+    id: 'write_think_74',
+    word: "Why do you want to go to the mall this afternoon?",
+    translation: "Por que você quer ir ao shopping esta tarde?",
+    pronunciation: "/waɪ du ju wɑnt tu ɡoʊ tu ðə mɔl ðɪs ˌæftərˈnun?/",
+    portuguesePhonetic: "uái du iu uánt tchu gôu tchu dâ mól dís éf-ter-nun?",
+    syllables: ["Why", " do", " you", " want", " to", " go", " to", " the", " mall", " this", " af", "ter", "noon?"],
+    exampleSentence: "Why do you want to go to the mall this afternoon?",
+    exampleTranslation: "Por que você quer ir ao shopping esta tarde?"
+  },
+  {
+    id: 'write_think_75',
+    word: "I want to go to the mall because I need to buy a gift.",
+    translation: "Eu quero ir ao shopping porque preciso comprar um presente.",
+    pronunciation: "/aɪ wɑnt tu ɡoʊ tu ðə mɔl bɪˈkɔz aɪ nid tu baɪ ə ɡɪft./",
+    portuguesePhonetic: "ai uánt tchu gôu tchu dâ mól bi-cóz ai nid tchu bái â guíft.",
+    syllables: ["I", " want", " to", " go", " to", " the", " mall", " be", "cause", " I", " need", " to", " buy", " a", " gift."],
+    exampleSentence: "I want to go to the mall because I need to buy a gift.",
+    exampleTranslation: "Eu quero ir ao shopping porque preciso comprar um presente."
+  },
+  {
+    id: 'write_think_76',
+    word: "Why do we have to come home early on Sunday?",
+    translation: "Por que nós temos que voltar para casa cedo no domingo?",
+    pronunciation: "/waɪ du wi hæv tu kʌm hoʊm ˈɜrli ɑn ˈsʌndeɪ?/",
+    portuguesePhonetic: "uái du ui rév tchu câm rôum ãr-li ón sân-dêi?",
+    syllables: ["Why", " do", " we", " have", " to", " come", " home", " ear", "ly", " on", " Sun", "day?"],
+    exampleSentence: "Why do we have to come home early on Sunday?",
+    exampleTranslation: "Por que nós temos que voltar para casa cedo no domingo?"
+  },
+  {
+    id: 'write_think_77',
+    word: "We have to come home early on Sunday because we work on Monday.",
+    translation: "Nós temos que voltar para casa cedo no domingo porque trabalhamos na segunda-feira.",
+    pronunciation: "/wi hæv tu kʌm hoʊm ˈɜrli ɑn ˈsʌndeɪ bɪˈkɔz wi wɜrk ɑn ˈmʌndeɪ./",
+    portuguesePhonetic: "ui rév tchu câm rôum ãr-li ón sân-dêi bi-cóz ui uãrc ón môn-dêi.",
+    syllables: ["We", " have", " to", " come", " home", " ear", "ly", " on", " Sun", "day", " be", "cause", " we", " work", " on", " Mon", "day."],
+    exampleSentence: "We have to come home early on Sunday because we work on Monday.",
+    exampleTranslation: "Nós temos que voltar para casa cedo no domingo porque trabalhamos na segunda-feira."
+  },
+  {
+    id: 'write_think_78',
+    word: "think",
+    translation: "achar / pensar",
+    pronunciation: "/θɪŋk/",
+    portuguesePhonetic: "thinc",
+    syllables: ["think"],
+    exampleSentence: "Because we have to think about the problem together.",
+    exampleTranslation: "Porque nós temos que pensar sobre o problema juntos."
+  },
+  {
+    id: 'write_think_79',
+    word: "book",
+    translation: "livro",
+    pronunciation: "/bʊk/",
+    portuguesePhonetic: "búc",
+    syllables: ["book"],
+    exampleSentence: "What do you think of this book?",
+    exampleTranslation: "O que você acha deste livro?"
+  },
+  {
+    id: 'write_think_80',
+    word: "movie",
+    translation: "filme",
+    pronunciation: "/ˈmuvi/",
+    portuguesePhonetic: "mú-vi",
+    syllables: ["mo","vie"],
+    exampleSentence: "Do you like this movie?",
+    exampleTranslation: "Você gosta deste filme?"
+  },
+  {
+    id: 'write_think_81',
+    word: "funny",
+    translation: "engraçado",
+    pronunciation: "/ˈfʌni/",
+    portuguesePhonetic: "fâ-ni",
+    syllables: ["fun","ny"],
+    exampleSentence: "I think it is funny.",
+    exampleTranslation: "Eu acho que é engraçado."
+  },
+  {
+    id: 'write_think_82',
+    word: "boring",
+    translation: "chato",
+    pronunciation: "/ˈbɔrɪŋ/",
+    portuguesePhonetic: "bó-ring",
+    syllables: ["bor","ing"],
+    exampleSentence: "He thinks it is boring.",
+    exampleTranslation: "Ele acha que é chato."
+  },
+  {
+    id: 'write_think_83',
+    word: "essay",
+    translation: "redação",
+    pronunciation: "/ˈɛseɪ/",
+    portuguesePhonetic: "é-sêi",
+    syllables: ["es","say"],
+    exampleSentence: "She needs to write an essay about her life.",
+    exampleTranslation: "Ela precisa escrever uma redação sobre a vida dela."
+  },
+  {
+    id: 'write_think_84',
+    word: "report",
+    translation: "relatório",
+    pronunciation: "/rɪˈpɔrt/",
+    portuguesePhonetic: "ri-pórt",
+    syllables: ["re","port"],
+    exampleSentence: "Because they want to send you the report.",
+    exampleTranslation: "Porque eles querem enviar o relatório para você."
+  },
+  {
+    id: 'write_think_85',
+    word: "project",
+    translation: "projeto",
+    pronunciation: "/ˈprɑdʒɛkt/",
+    portuguesePhonetic: "pró-djéct",
+    syllables: ["pro","ject"],
+    exampleSentence: "She has to start an important project next semester.",
+    exampleTranslation: "Ela tem que começar um projeto importante no próximo semestre."
+  },
+  {
+    id: 'write_think_86',
+    word: "fashion",
+    translation: "moda",
+    pronunciation: "/ˈfæʃən/",
+    portuguesePhonetic: "fé-chan",
+    syllables: ["fash","ion"],
+    exampleSentence: "I don't want to write about fashion.",
+    exampleTranslation: "Eu não quero escrever sobre moda."
+  },
+  {
+    id: 'write_think_87',
+    word: "sports",
+    translation: "esportes",
+    pronunciation: "/spɔrts/",
+    portuguesePhonetic: "spórts",
+    syllables: ["sports"],
+    exampleSentence: "I want to write about sports.",
+    exampleTranslation: "Eu quero escrever sobre esportes."
+  },
+  {
+    id: 'write_think_88',
+    word: "interesting",
+    translation: "interessante",
+    pronunciation: "/ˈɪntərɛstɪŋ/",
+    portuguesePhonetic: "ín-tres-ting",
+    syllables: ["in","te","res","ting"],
+    exampleSentence: "I love this book. It is interesting!",
+    exampleTranslation: "Eu amo este livro. É interessante!"
+  },
+  {
+    id: 'write_think_89',
+    word: "together",
+    translation: "juntos",
+    pronunciation: "/təˈɡɛðər/",
+    portuguesePhonetic: "tchu-gué-der",
+    syllables: ["to","geth","er"],
+    exampleSentence: "We have to think about the problem together.",
+    exampleTranslation: "Nós temos que pensar sobre o problema juntos."
+  },
+  {
+    id: 'write_think_90',
+    word: "everybody",
+    translation: "todo mundo",
+    pronunciation: "/ˈɛvriˌbɑdi/",
+    portuguesePhonetic: "év-ri-bó-di",
+    syllables: ["ev","ery","bod","y"],
+    exampleSentence: "Why do you want to talk to everybody?",
+    exampleTranslation: "Por que você quer falar com todo mundo?"
+  },
+  {
+    id: 'write_think_91',
+    word: "important people",
+    translation: "pessoas importantes",
+    pronunciation: "/ɪmˈpɔrtənt ˈpipəl/",
+    portuguesePhonetic: "im-pór-tant pí-pl",
+    syllables: ["im","por","tant"," peo","ple"],
+    exampleSentence: "Do you talk to important people at work?",
+    exampleTranslation: "Você fala com pessoas importantes no trabalho?"
+  },
+  {
+    id: 'write_think_92',
+    word: "company",
+    translation: "empresa",
+    pronunciation: "/ˈkʌmpəni/",
+    portuguesePhonetic: "câm-pa-ni",
+    syllables: ["com","pa","ny"],
+    exampleSentence: "Does he work at that company?",
+    exampleTranslation: "Ele trabalha naquela empresa?"
+  },
+  {
+    id: 'write_think_93',
+    word: "exam",
+    translation: "prova",
+    pronunciation: "/ɪɡˈzæm/",
+    portuguesePhonetic: "eg-zém",
+    syllables: ["ex","am"],
+    exampleSentence: "Because she has an English exam.",
+    exampleTranslation: "Porque ela tem uma prova de inglês."
+  },
+  {
+    id: 'write_think_94',
+    word: "opinion",
+    translation: "opinião",
+    pronunciation: "/əˈpɪnjən/",
+    portuguesePhonetic: "o-pí-ni-on",
+    syllables: ["o","pin","ion"],
+    exampleSentence: "What is your opinion about that?",
+    exampleTranslation: "Qual é a sua opinião sobre isso?"
+  },
+  {
+    id: 'write_think_95',
+    word: "meaning",
+    translation: "significado",
+    pronunciation: "/ˈminɪŋ/",
+    portuguesePhonetic: "mí-ning",
+    syllables: ["mean","ing"],
+    exampleSentence: "What is the meaning of this word?",
+    exampleTranslation: "Qual é o significado desta palavra?"
+  },
+  {
+    id: 'write_think_96',
+    word: "children",
+    translation: "filhos / crianças",
+    pronunciation: "/ˈtʃɪldrən/",
+    portuguesePhonetic: "tchíl-dren",
+    syllables: ["chil","dren"],
+    exampleSentence: "Because I want to watch a movie with my children.",
+    exampleTranslation: "Porque eu quero assistir a um filme com meus filhos."
+  },
+  {
+    id: 'write_think_97',
+    word: "next semester",
+    translation: "próximo semestre",
+    pronunciation: "/nɛkst sɪˈmɛstər/",
+    portuguesePhonetic: "nécst si-més-ter",
+    syllables: ["next"," se","mes","ter"],
+    exampleSentence: "She has to start an important project next semester.",
+    exampleTranslation: "Ela tem que começar um projeto importante no próximo semestre."
+  },
+  {
+    id: 'write_think_98',
+    word: "start",
+    translation: "começar",
+    pronunciation: "/stɑrt/",
+    portuguesePhonetic: "stárt",
+    syllables: ["start"],
+    exampleSentence: "She has to start an important project next semester.",
+    exampleTranslation: "Ela tem que começar um projeto importante no próximo semestre."
+  },
+  {
+    id: 'write_think_99',
+    word: "write",
+    translation: "escrever",
+    pronunciation: "/raɪt/",
+    portuguesePhonetic: "ráit",
+    syllables: ["write"],
+    exampleSentence: "She needs to write an essay about her life.",
+    exampleTranslation: "Ela precisa escrever uma redação sobre a vida dela."
+  },
+  {
+    id: 'write_think_100',
+    word: "because",
+    translation: "porque",
+    pronunciation: "/bɪˈkɔz/",
+    portuguesePhonetic: "bi-cóz",
+    syllables: ["be","cause"],
+    exampleSentence: "I study English because I want to travel.",
+    exampleTranslation: "Eu estudo inglês porque quero viajar."
+  },
+  {
+    id: 'write_think_101',
+    word: "talk to",
+    translation: "falar com",
+    pronunciation: "/tɔk tu/",
+    portuguesePhonetic: "tóc tchu",
+    syllables: ["talk"," to"],
+    exampleSentence: "Why do you want to talk to everybody?",
+    exampleTranslation: "Por que você quer falar com todo mundo?"
+  },
+  {
+    id: 'write_think_102',
+    word: "think about",
+    translation: "pensar sobre",
+    pronunciation: "/θɪŋk əˈbaʊt/",
+    portuguesePhonetic: "thinc a-báut",
+    syllables: ["think"," a","bout"],
+    exampleSentence: "Because we have to think about the problem together.",
+    exampleTranslation: "Porque nós temos que pensar sobre o problema juntos."
+  }
 ];
 
 
@@ -6443,6 +7948,506 @@ export const TO_BE_INTRO_DECK: FlashcardData[] = [
     exampleSentence: "Do you have to take these pills?",
     exampleTranslation: "Você tem que tomar esses comprimidos?"
   },
+  {
+    id: 'to_be_intro_54',
+    word: "I have a toothache. Do you have a painkiller?",
+    translation: "Eu estou com dor de dente. Você tem um analgésico?",
+    pronunciation: "/aɪ hæv ə ˈtuθˌeɪk. du ju hæv ə ˈpeɪnˌkɪlər?/",
+    portuguesePhonetic: "ai rév â tuth-eik. du iu rév â pêin-ki-ler?",
+    syllables: ["I", " have", " a", " tooth", "ache.", " Do", " you", " have", " a", " pain", "kil", "ler?"],
+    exampleSentence: "I have a toothache. Do you have a painkiller?",
+    exampleTranslation: "Eu estou com dor de dente. Você tem um analgésico?"
+  },
+  {
+    id: 'to_be_intro_55',
+    word: "How many pills do you have to take?",
+    translation: "Quantos comprimidos você tem que tomar?",
+    pronunciation: "/haʊ ˈmɛni pɪlz du ju hæv tu teɪk?/",
+    portuguesePhonetic: "ráu mé-ni pils du iu rév tchu teic?",
+    syllables: ["How", " ma", "ny", " pills", " do", " you", " have", " to", " take?"],
+    exampleSentence: "How many pills do you have to take?",
+    exampleTranslation: "Quantos comprimidos você tem que tomar?"
+  },
+  {
+    id: 'to_be_intro_56',
+    word: "Do you have a doctor's appointment today?",
+    translation: "Você tem uma consulta no médico hoje?",
+    pronunciation: "/du ju hæv ə ˈdɑktərz əˈpɔɪntmənt təˈdeɪ?/",
+    portuguesePhonetic: "du iu rév â dóc-terz a-póint-ment tchu-dêi?",
+    syllables: ["Do", " you", " have", " a", " doc", "tor's", " ap", "point", "ment", " to", "day?"],
+    exampleSentence: "Do you have a doctor's appointment today?",
+    exampleTranslation: "Você tem uma consulta no médico hoje?"
+  },
+  {
+    id: 'to_be_intro_57',
+    word: "I am a doctor and she is a nurse. We are at the hospital now.",
+    translation: "Eu sou médico e ela é enfermeira. Nós estamos no hospital agora.",
+    pronunciation: "/aɪ æm ə ˈdɑktər ænd ʃi ɪz ə nɜrs. wi ɑr æt ðə ˈhɑˌspɪtəl naʊ./",
+    portuguesePhonetic: "ai ém â dóc-ter énd chi íz â nãrc. ui ar ét dâ rós-pi-tal náu.",
+    syllables: ["I", " am", " a", " doc", "tor", " and", " she", " is", " a", " nurse.", " We", " are", " at", " the", " hos", "pi", "tal", " now."],
+    exampleSentence: "I am a doctor and she is a nurse. We are at the hospital now.",
+    exampleTranslation: "Eu sou médico e ela é enfermeira. Nós estamos no hospital agora."
+  },
+  {
+    id: 'to_be_intro_58',
+    word: "What time do you have to take these pills?",
+    translation: "A que horas você tem que tomar esses comprimidos?",
+    pronunciation: "/wʌt taɪm du ju hæv tu teɪk ðiz pɪlz?/",
+    portuguesePhonetic: "uát táim du iu rév tchu teic díz pils?",
+    syllables: ["What", " time", " do", " you", " have", " to", " take", " these", " pills?"],
+    exampleSentence: "What time do you have to take these pills?",
+    exampleTranslation: "A que horas você tem que tomar esses comprimidos?"
+  },
+  {
+    id: 'to_be_intro_59',
+    word: "Do you want to go to the doctor? – I don't think so. I feel better now.",
+    translation: "Você quer ir ao médico? – Eu acho que não. Eu me sinto melhor agora.",
+    pronunciation: "/du ju wɑnt tu ɡoʊ tu ðə ˈdɑktər? – aɪ doʊnt θɪŋk soʊ. aɪ fil ˈbɛtər naʊ./",
+    portuguesePhonetic: "du iu uánt tchu gôu tchu dâ dóc-ter? – ai dôunt thínc sôu. ai fil bé-ter náu.",
+    syllables: ["Do", " you", " want", " to", " go", " to", " the", " doc", "tor?", " I", " don't", " think", " so.", " I", " feel", " bet", "ter", " now."],
+    exampleSentence: "Do you want to go to the doctor? – I don't think so. I feel better now.",
+    exampleTranslation: "Você quer ir ao médico? – Eu acho que não. Eu me sinto melhor agora."
+  },
+  {
+    id: 'to_be_intro_60',
+    word: "He is at home because he is sick.",
+    translation: "Ele está em casa porque ele está doente.",
+    pronunciation: "/hi ɪz æt hoʊm bɪˈkɔz hi ɪz sɪk./",
+    portuguesePhonetic: "ri íz ét rôum bi-cóz ri íz síc.",
+    syllables: ["He", " is", " at", " home", " be", "cause", " he", " is", " sick."],
+    exampleSentence: "He is at home because he is sick.",
+    exampleTranslation: "Ele está em casa porque ele está doente."
+  },
+  {
+    id: 'to_be_intro_61',
+    word: "I still have many appointments today. What about you?",
+    translation: "Eu ainda tenho muitos compromissos hoje. E você?",
+    pronunciation: "/aɪ stɪl hæv ˈmɛni əˈpɔɪntmənts təˈdeɪ. wʌt əˈbaʊt ju?/",
+    portuguesePhonetic: "ai stíl rév mé-ni a-póint-ments tchu-dêi. uát a-báut iu?",
+    syllables: ["I", " still", " have", " ma", "ny", " ap", "point", "ments", " to", "day.", " What", " a", "bout", " you?"],
+    exampleSentence: "I still have many appointments today. What about you?",
+    exampleTranslation: "Eu ainda tenho muitos compromissos hoje. E você?"
+  },
+  {
+    id: 'to_be_intro_62',
+    word: "She has a cold and she has a fever. Let's go to the hospital.",
+    translation: "Ela está resfriada e está com febre. Vamos ao hospital.",
+    pronunciation: "/ʃi hæz ə koʊld ænd ʃi hæz ə ˈfivər. lɛts ɡoʊ tu ðə ˈhɑˌspɪtəl./",
+    portuguesePhonetic: "chi réz â côuld énd chi réz â fí-ver. léts gôu tchu dâ rós-pi-tal.",
+    syllables: ["She", " has", " a", " cold", " and", " she", " has", " a", " fe", "ver.", " Let's", " go", " to", " the", " hos", "pi", "tal."],
+    exampleSentence: "She has a cold and she has a fever. Let's go to the hospital.",
+    exampleTranslation: "Ela está resfriada e está com febre. Vamos ao hospital."
+  },
+  {
+    id: 'to_be_intro_63',
+    word: "I need to take some medicine for my sore throat.",
+    translation: "Eu preciso tomar algum remédio para minha dor de garganta.",
+    pronunciation: "/aɪ nid tu teɪk sʌm ˈmɛdəsən fɔr maɪ sɔr θroʊt./",
+    portuguesePhonetic: "ai nid tchu teic sâm mé-di-sin fór mai sór thrôut.",
+    syllables: ["I", " need", " to", " take", " some", " med", "i", "cine", " for", " my", " sore", " throat."],
+    exampleSentence: "I need to take some medicine for my sore throat.",
+    exampleTranslation: "Eu preciso tomar algum remédio para minha dor de garganta."
+  },
+  {
+    id: 'to_be_intro_64',
+    word: "Does she take her medicine in the morning?",
+    translation: "Ela toma o remédio dela pela manhã?",
+    pronunciation: "/dʌz ʃi teɪk hər ˈmɛdəsən ɪn ðə ˈmɔrnɪŋ?/",
+    portuguesePhonetic: "dâz chi teic rãr mé-di-sin in dâ mór-ning?",
+    syllables: ["Does", " she", " take", " her", " med", "i", "cine", " in", " the", " morn", "ing?"],
+    exampleSentence: "Does she take her medicine in the morning?",
+    exampleTranslation: "Ela toma o remédio dela pela manhã?"
+  },
+  {
+    id: 'to_be_intro_65',
+    word: "Does she need to talk to the nurse?",
+    translation: "Ela precisa falar com a enfermeira?",
+    pronunciation: "/dʌz ʃi nid tu tɔk tu ðə nɜrs?/",
+    portuguesePhonetic: "dâz chi nid tchu tóc tchu dâ nãrc?",
+    syllables: ["Does", " she", " need", " to", " talk", " to", " the", " nurse?"],
+    exampleSentence: "Does she need to talk to the nurse?",
+    exampleTranslation: "Ela precisa falar com a enfermeira?"
+  },
+  {
+    id: 'to_be_intro_66',
+    word: "Do they still have painkillers at home?",
+    translation: "Eles ainda têm analgésicos em casa?",
+    pronunciation: "/du ðeɪ stɪl hæv ˈpeɪnˌkɪlərz æt hoʊm?/",
+    portuguesePhonetic: "du dêi stíl rév pêin-ki-lerz ét rôum?",
+    syllables: ["Do", " they", " still", " have", " pain", "kil", "lers", " at", " home?"],
+    exampleSentence: "Do they still have painkillers at home?",
+    exampleTranslation: "Eles ainda têm analgésicos em casa?"
+  },
+  {
+    id: 'to_be_intro_67',
+    word: "Does she have a stomachache?",
+    translation: "Ela está com dor de estômago?",
+    pronunciation: "/dʌz ʃi hæv ə ˈstʌmək-eɪk?/",
+    portuguesePhonetic: "dâz chi rév â stâ-mak-eic?",
+    syllables: ["Does", " she", " have", " a", " stom", "ach", "ache?"],
+    exampleSentence: "Does she have a stomachache?",
+    exampleTranslation: "Ela está com dor de estômago?"
+  },
+  {
+    id: 'to_be_intro_68',
+    word: "Do we have to go to the doctor tomorrow?",
+    translation: "Nós temos que ir ao médico amanhã?",
+    pronunciation: "/du wi hæv tu ɡoʊ tu ðə ˈdɑktər təˈmɑˌroʊ?/",
+    portuguesePhonetic: "du ui rév tchu gôu tchu dâ dóc-ter tu-mó-rou?",
+    syllables: ["Do", " we", " have", " to", " go", " to", " the", " doc", "tor", " to", "mor", "row?"],
+    exampleSentence: "Do we have to go to the doctor tomorrow?",
+    exampleTranslation: "Nós temos que ir ao médico amanhã?"
+  },
+  {
+    id: 'to_be_intro_69',
+    word: "Do you have an appointment at the dentist?",
+    translation: "Você tem uma consulta no dentista?",
+    pronunciation: "/du ju hæv ən əˈpɔɪntmənt æt ðə ˈdɛntɪst?/",
+    portuguesePhonetic: "du iu rév ân a-póint-ment ét dâ dén-tist?",
+    syllables: ["Do", " you", " have", " an", " ap", "point", "ment", " at", " the", " den", "tist?"],
+    exampleSentence: "Do you have an appointment at the dentist?",
+    exampleTranslation: "Você tem uma consulta no dentista?"
+  },
+  {
+    id: 'to_be_intro_70',
+    word: "Does he need to talk to his parents about the problem?",
+    translation: "Ele precisa falar com os pais dele sobre o problema?",
+    pronunciation: "/dʌz hi nid tu tɔk tu hɪz ˈpɛrənts əˈbaʊt ðə ˈprɑbləm?/",
+    portuguesePhonetic: "dâz ri nid tchu tóc tchu ríz pé-rents a-báut dâ pró-blem?",
+    syllables: ["Does", " he", " need", " to", " talk", " to", " his", " par", "ents", " a", "bout", " the", " prob", "lem?"],
+    exampleSentence: "Does he need to talk to his parents about the problem?",
+    exampleTranslation: "Ele precisa falar com os pais dele sobre o problema?"
+  },
+  {
+    id: 'to_be_intro_71',
+    word: "Do I want to take a painkiller for my headache?",
+    translation: "Eu quero tomar um analgésico para minha dor de cabeça?",
+    pronunciation: "/du aɪ wɑnt tu teɪk ə ˈpeɪnˌkɪlər fɔr maɪ ˈhɛdˌeɪk?/",
+    portuguesePhonetic: "du ai uánt tchu teic â pêin-ki-ler fór mai réd-eic?",
+    syllables: ["Do", " I", " want", " to", " take", " a", " pain", "kil", "ler", " for", " my", " head", "ache?"],
+    exampleSentence: "Do I want to take a painkiller for my headache?",
+    exampleTranslation: "Eu quero tomar um analgésico para minha dor de cabeça?"
+  },
+  {
+    id: 'to_be_intro_72',
+    word: "He is a nurse. He works at the hospital every day.",
+    translation: "Ele é enfermeiro. Ele trabalha no hospital todos os dias.",
+    pronunciation: "/hi ɪz ə nɜrs. hi wɜrks æt ðə ˈhɑˌspɪtəl ˈɛvri deɪ./",
+    portuguesePhonetic: "ri íz â nãrc. ri uãrcs ét dâ rós-pi-tal év-ri dêi.",
+    syllables: ["He", " is", " a", " nurse.", " He", " works", " at", " the", " hos", "pi", "tal", " ev", "ery", " day."],
+    exampleSentence: "He is a nurse. He works at the hospital every day.",
+    exampleTranslation: "Ele é enfermeiro. Ele trabalha no hospital todos os dias."
+  },
+  {
+    id: 'to_be_intro_73',
+    word: "I am a teacher at the university.",
+    translation: "Eu sou professor(a) na universidade.",
+    pronunciation: "/aɪ æm ə ˈtitʃər æt ðə ˌjunəˈvɜrsəti./",
+    portuguesePhonetic: "ai ém â tí-tcher ét dâ iu-ni-vãr-si-ti.",
+    syllables: ["I", " am", " a", " teach", "er", " at", " the", " u", "ni", "ver", "si", "ty."],
+    exampleSentence: "I am a teacher at the university.",
+    exampleTranslation: "Eu sou professor(a) na universidade."
+  },
+  {
+    id: 'to_be_intro_74',
+    word: "It's seven fifteen. We are late for class.",
+    translation: "São sete e quinze. Nós estamos atrasados para a aula.",
+    pronunciation: "/ɪts ˈsɛvən fɪfˈtin. wi ɑr leɪt fɔr klæs./",
+    portuguesePhonetic: "its sé-ven fif-tin. ui ar lêit fór clés.",
+    syllables: ["It's", " sev", "en", " fif", "teen.", " We", " are", " late", " for", " class."],
+    exampleSentence: "It's seven fifteen. We are late for class.",
+    exampleTranslation: "São sete e quinze. Nós estamos atrasados para a aula."
+  },
+  {
+    id: 'to_be_intro_75',
+    word: "She is in pain. She needs to take a painkiller.",
+    translation: "Ela está com dor. Ela precisa tomar um analgésico.",
+    pronunciation: "/ʃi ɪz ɪn peɪn. ʃi nidz tu teɪk ə ˈpeɪnˌkɪlər./",
+    portuguesePhonetic: "chi íz in pêin. chi nids tchu teic â pêin-ki-ler.",
+    syllables: ["She", " is", " in", " pain.", " She", " needs", " to", " take", " a", " pain", "kil", "ler."],
+    exampleSentence: "She is in pain. She needs to take a painkiller.",
+    exampleTranslation: "Ela está com dor. Ela precisa tomar um analgésico."
+  },
+  {
+    id: 'to_be_intro_76',
+    word: "I want to buy those pills. They are for my stomachache.",
+    translation: "Eu quero comprar aqueles comprimidos. Eles são para minha dor de estômago.",
+    pronunciation: "/aɪ wɑnt tu baɪ ðoʊz pɪlz. ðeɪ ɑr fɔr maɪ ˈstʌmək-eɪk./",
+    portuguesePhonetic: "ai uánt tchu bái dôuz pils. dêi ar fór mai stâ-mak-eic.",
+    syllables: ["I", " want", " to", " buy", " those", " pills.", " They", " are", " for", " my", " stom", "ach", "ache."],
+    exampleSentence: "I want to buy those pills. They are for my stomachache.",
+    exampleTranslation: "Eu quero comprar aqueles comprimidos. Eles são para minha dor de estômago."
+  },
+  {
+    id: 'to_be_intro_77',
+    word: "You have to read these books. They're interesting.",
+    translation: "Você tem que ler estes livros. Eles são interessantes.",
+    pronunciation: "/ju hæv tu rid ðiz bʊks. ðɛr ˈɪntərɛstɪŋ./",
+    portuguesePhonetic: "iu rév tchu rid díz búcs. déiar ín-tres-ting.",
+    syllables: ["You", " have", " to", " read", " these", " books.", " They're", " in", "te", "res", "ting."],
+    exampleSentence: "You have to read these books. They're interesting.",
+    exampleTranslation: "Você tem que ler estes livros. Eles são interessantes."
+  },
+  {
+    id: 'to_be_intro_78',
+    word: "toothache",
+    translation: "dor de dente",
+    pronunciation: "/ˈtuθˌeɪk/",
+    portuguesePhonetic: "tuth-eik",
+    syllables: ["tooth", "ache"],
+    exampleSentence: "I have a toothache. Do you have a painkiller?",
+    exampleTranslation: "Eu estou com dor de dente. Você tem um analgésico?"
+  },
+  {
+    id: 'to_be_intro_79',
+    word: "headache",
+    translation: "dor de cabeça",
+    pronunciation: "/ˈhɛdˌeɪk/",
+    portuguesePhonetic: "réd-eic",
+    syllables: ["head", "ache"],
+    exampleSentence: "Do I want to take a painkiller for my headache?",
+    exampleTranslation: "Eu quero tomar um analgésico para minha dor de cabeça?"
+  },
+  {
+    id: 'to_be_intro_80',
+    word: "stomachache",
+    translation: "dor de estômago",
+    pronunciation: "/ˈstʌmək-eɪk/",
+    portuguesePhonetic: "stâ-mak-eic",
+    syllables: ["stom", "ach", "ache"],
+    exampleSentence: "Does she have a stomachache?",
+    exampleTranslation: "Ela está com dor de estômago?"
+  },
+  {
+    id: 'to_be_intro_81',
+    word: "sore throat",
+    translation: "dor de garganta",
+    pronunciation: "/sɔr θroʊt/",
+    portuguesePhonetic: "sór thrôut",
+    syllables: ["sore", " throat"],
+    exampleSentence: "I need to take some medicine for my sore throat.",
+    exampleTranslation: "Eu preciso tomar algum remédio para minha dor de garganta."
+  },
+  {
+    id: 'to_be_intro_82',
+    word: "painkiller",
+    translation: "analgésico",
+    pronunciation: "/ˈpeɪnˌkɪlər/",
+    portuguesePhonetic: "pêin-ki-ler",
+    syllables: ["pain", "kil", "ler"],
+    exampleSentence: "She needs to take a painkiller.",
+    exampleTranslation: "Ela precisa tomar um analgésico."
+  },
+  {
+    id: 'to_be_intro_83',
+    word: "pill",
+    translation: "comprimido",
+    pronunciation: "/pɪl/",
+    portuguesePhonetic: "pil",
+    syllables: ["pill"],
+    exampleSentence: "How many pills do you have to take?",
+    exampleTranslation: "Quantos comprimidos você tem que tomar?"
+  },
+  {
+    id: 'to_be_intro_84',
+    word: "medicine",
+    translation: "remédio",
+    pronunciation: "/ˈmɛdəsən/",
+    portuguesePhonetic: "mé-di-sin",
+    syllables: ["med", "i", "cine"],
+    exampleSentence: "Does she take her medicine in the morning?",
+    exampleTranslation: "Ela toma o remédio dela pela manhã?"
+  },
+  {
+    id: 'to_be_intro_85',
+    word: "doctor",
+    translation: "médico",
+    pronunciation: "/ˈdɑktər/",
+    portuguesePhonetic: "dóc-ter",
+    syllables: ["doc", "tor"],
+    exampleSentence: "Do you want to go to the doctor?",
+    exampleTranslation: "Você quer ir ao médico?"
+  },
+  {
+    id: 'to_be_intro_86',
+    word: "nurse",
+    translation: "enfermeira / enfermeiro",
+    pronunciation: "/nɜrs/",
+    portuguesePhonetic: "nãrc",
+    syllables: ["nurse"],
+    exampleSentence: "Does she need to talk to the nurse?",
+    exampleTranslation: "Ela precisa falar com a enfermeira?"
+  },
+  {
+    id: 'to_be_intro_87',
+    word: "hospital",
+    translation: "hospital",
+    pronunciation: "/ˈhɑˌspɪtəl/",
+    portuguesePhonetic: "rós-pi-tal",
+    syllables: ["hos", "pi", "tal"],
+    exampleSentence: "We are at the hospital now.",
+    exampleTranslation: "Nós estamos no hospital agora."
+  },
+  {
+    id: 'to_be_intro_88',
+    word: "appointment",
+    translation: "consulta / compromisso",
+    pronunciation: "/əˈpɔɪntmənt/",
+    portuguesePhonetic: "a-póint-ment",
+    syllables: ["ap", "point", "ment"],
+    exampleSentence: "Do you have a doctor's appointment today?",
+    exampleTranslation: "Você tem uma consulta no médico hoje?"
+  },
+  {
+    id: 'to_be_intro_89',
+    word: "dentist",
+    translation: "dentista",
+    pronunciation: "/ˈdɛntɪst/",
+    portuguesePhonetic: "dén-tist",
+    syllables: ["den", "tist"],
+    exampleSentence: "Do you have an appointment at the dentist?",
+    exampleTranslation: "Você tem uma consulta no dentista?"
+  },
+  {
+    id: 'to_be_intro_90',
+    word: "sick",
+    translation: "doente",
+    pronunciation: "/sɪk/",
+    portuguesePhonetic: "síc",
+    syllables: ["sick"],
+    exampleSentence: "He is at home because he is sick.",
+    exampleTranslation: "Ele está em casa porque ele está doente."
+  },
+  {
+    id: 'to_be_intro_91',
+    word: "cold",
+    translation: "resfriado",
+    pronunciation: "/koʊld/",
+    portuguesePhonetic: "côuld",
+    syllables: ["cold"],
+    exampleSentence: "She has a cold and she has a fever.",
+    exampleTranslation: "Ela está resfriada e está com febre."
+  },
+  {
+    id: 'to_be_intro_92',
+    word: "fever",
+    translation: "febre",
+    pronunciation: "/ˈfivər/",
+    portuguesePhonetic: "fí-ver",
+    syllables: ["fe", "ver"],
+    exampleSentence: "She has a cold and she has a fever.",
+    exampleTranslation: "Ela está resfriada e está com febre."
+  },
+  {
+    id: 'to_be_intro_93',
+    word: "in pain",
+    translation: "com dor",
+    pronunciation: "/ɪn peɪn/",
+    portuguesePhonetic: "in pêin",
+    syllables: ["in", " pain"],
+    exampleSentence: "She is in pain. She needs to take a painkiller.",
+    exampleTranslation: "Ela está com dor. Ela precisa tomar um analgésico."
+  },
+  {
+    id: 'to_be_intro_94',
+    word: "feel better",
+    translation: "sentir-se melhor",
+    pronunciation: "/fil ˈbɛtər/",
+    portuguesePhonetic: "fil bé-ter",
+    syllables: ["feel", " bet", "ter"],
+    exampleSentence: "I feel better now.",
+    exampleTranslation: "Eu me sinto melhor agora."
+  },
+  {
+    id: 'to_be_intro_95',
+    word: "take medicine",
+    translation: "tomar remédio",
+    pronunciation: "/teɪk ˈmɛdəsən/",
+    portuguesePhonetic: "teic mé-di-sin",
+    syllables: ["take", " med", "i", "cine"],
+    exampleSentence: "I need to take some medicine for my sore throat.",
+    exampleTranslation: "Eu preciso tomar algum remédio para minha dor de garganta."
+  },
+  {
+    id: 'to_be_intro_96',
+    word: "take pills",
+    translation: "tomar comprimidos",
+    pronunciation: "/teɪk pɪlz/",
+    portuguesePhonetic: "teic pils",
+    syllables: ["take", " pills"],
+    exampleSentence: "Do you have to take these pills?",
+    exampleTranslation: "Você tem que tomar esses comprimidos?"
+  },
+  {
+    id: 'to_be_intro_97',
+    word: "still",
+    translation: "ainda",
+    pronunciation: "/stɪl/",
+    portuguesePhonetic: "stíl",
+    syllables: ["still"],
+    exampleSentence: "Do they still have painkillers at home?",
+    exampleTranslation: "Eles ainda têm analgésicos em casa?"
+  },
+  {
+    id: 'to_be_intro_98',
+    word: "late for class",
+    translation: "atrasado para a aula",
+    pronunciation: "/leɪt fɔr klæs/",
+    portuguesePhonetic: "lêit fór clés",
+    syllables: ["late", " for", " class"],
+    exampleSentence: "It's seven fifteen. We are late for class.",
+    exampleTranslation: "São sete e quinze. Nós estamos atrasados para a aula."
+  },
+  {
+    id: 'to_be_intro_99',
+    word: "university",
+    translation: "universidade",
+    pronunciation: "/ˌjunəˈvɜrsəti/",
+    portuguesePhonetic: "iu-ni-vãr-si-ti",
+    syllables: ["u", "ni", "ver", "si", "ty"],
+    exampleSentence: "I am a teacher at the university.",
+    exampleTranslation: "Eu sou professor(a) na universidade."
+  },
+  {
+    id: 'to_be_intro_100',
+    word: "those",
+    translation: "aqueles",
+    pronunciation: "/ðoʊz/",
+    portuguesePhonetic: "dôuz",
+    syllables: ["those"],
+    exampleSentence: "Please take those reports to the doctor.",
+    exampleTranslation: "Por favor, leve aqueles relatórios para o médico."
+  },
+  {
+    id: 'to_be_intro_101',
+    word: "these",
+    translation: "estes / essas",
+    pronunciation: "/ðiz/",
+    portuguesePhonetic: "díz",
+    syllables: ["these"],
+    exampleSentence: "You have to read these books.",
+    exampleTranslation: "Você tem que ler estes livros."
+  },
+  {
+    id: 'to_be_intro_102',
+    word: "interesting",
+    translation: "interessante",
+    pronunciation: "/ˈɪntərɛstɪŋ/",
+    portuguesePhonetic: "ín-tres-ting",
+    syllables: ["in", "te", "res", "ting"],
+    exampleSentence: "They're interesting.",
+    exampleTranslation: "Eles são interessantes."
+  },
+  {
+    id: 'to_be_intro_103',
+    word: "what about you?",
+    translation: "e você?",
+    pronunciation: "/wʌt əˈbaʊt ju?/",
+    portuguesePhonetic: "uát a-báut iu?",
+    syllables: ["What", " a", "bout", " you?"],
+    exampleSentence: "I still have many appointments today. What about you?",
+    exampleTranslation: "Eu ainda tenho muitos compromissos hoje. E você?"
+  }
 ];
 
 
@@ -7413,6 +9418,466 @@ export const TO_BE_NEGATIVE_DECK: FlashcardData[] = [
     exampleSentence: "I'm great, thanks.",
     exampleTranslation: "Eu estou ótimo, obrigado."
   },
+  {
+    id: 'to_be_negative_73',
+    word: "I'm not hungry. I'm thirsty.",
+    translation: "Eu não estou com fome, eu estou com sede.",
+    pronunciation: "/aɪm nɑt ˈhʌŋɡri. aɪm ˈθɜrsti./",
+    portuguesePhonetic: "aim nat rân-gri. aim thãrs-ti.",
+    syllables: ["I'm", " not", " hun", "gry.", " I'm", " thirs", "ty."],
+    exampleSentence: "I'm not hungry. I'm thirsty.",
+    exampleTranslation: "Eu não estou com fome, eu estou com sede."
+  },
+  {
+    id: 'to_be_negative_74',
+    word: "They aren't coworkers. They are classmates.",
+    translation: "Eles não são colegas de trabalho, eles são colegas de classe.",
+    pronunciation: "/ðeɪ ˈɑrənt ˈkoʊˌwɜrkərz. ðeɪ ɑr ˈklæsˌmeɪts./",
+    portuguesePhonetic: "dêi ár-ent côu-uãr-querz. dêi ar clés-mêits.",
+    syllables: ["They", " aren't", " co", "work", "ers.", " They", " are", " class", "mates."],
+    exampleSentence: "They aren't coworkers. They are classmates.",
+    exampleTranslation: "Eles não são colegas de trabalho, eles são colegas de classe."
+  },
+  {
+    id: 'to_be_negative_75',
+    word: "I am a salesperson, she is an engineer, and he is a manager.",
+    translation: "Eu sou vendedor, ela é engenheira e ele é gerente.",
+    pronunciation: "/aɪ æm ə ˈseɪlzˌpɜrsən, ʃi ɪz ən ˌɛndʒəˈnɪr, ænd hi ɪz ə ˈmænədʒər./",
+    portuguesePhonetic: "ai ém â sêils-pãr-son, chi íz ân en-di-níar, énd ri íz â mé-ni-djer.",
+    syllables: ["I", " am", " a", " sales", "per", "son,", " she", " is", " an", " en", "gi", "neer,", " and", " he", " is", " a", " man", "a", "ger."],
+    exampleSentence: "I am a salesperson, she is an engineer, and he is a manager.",
+    exampleTranslation: "Eu sou vendedor, ela é engenheira e ele é gerente."
+  },
+  {
+    id: 'to_be_negative_76',
+    word: "He is usually very kind, but he is very busy now.",
+    translation: "Ele é geralmente muito gentil, mas ele está muito ocupado agora.",
+    pronunciation: "/hi ɪz ˈjuʒuəli ˈvɛri kaɪnd, bʌt hi ɪz ˈvɛri ˈbɪzi naʊ./",
+    portuguesePhonetic: "ri íz iú-ju-a-li vé-ri cáind, bât ri íz vé-ri bí-zi náu.",
+    syllables: ["He", " is", " u", "su", "al", "ly", " ve", "ry", " kind,", " but", " he", " is", " ve", "ry", " bu", "sy", " now."],
+    exampleSentence: "He is usually very kind, but he is very busy now.",
+    exampleTranslation: "Ele é geralmente muito gentil, mas ele está muito ocupado agora."
+  },
+  {
+    id: 'to_be_negative_77',
+    word: "We don't like to eat bacon and sausage. It isn't healthy.",
+    translation: "Nós não gostamos de comer bacon e salsicha. Não é saudável.",
+    pronunciation: "/wi doʊnt laɪk tu it ˈbeɪkən ænd ˈsɔsɪdʒ. ɪt ˈɪzənt ˈhɛlθi./",
+    portuguesePhonetic: "ui dôunt láic tchu it bêi-con énd só-sidj. it í-zent rél-thi.",
+    syllables: ["We", " don't", " like", " to", " eat", " ba", "con", " and", " sau", "sage.", " It", " isn't", " heal", "thy."],
+    exampleSentence: "We don't like to eat bacon and sausage. It isn't healthy.",
+    exampleTranslation: "Nós não gostamos de comer bacon e salsicha. Não é saudável."
+  },
+  {
+    id: 'to_be_negative_78',
+    word: "What do you do? – I'm a student. What about you?",
+    translation: "O que você faz? – Eu sou estudante. E você?",
+    pronunciation: "/wʌt du ju du? – aɪm ə ˈstudənt. wʌt əˈbaʊt ju?/",
+    portuguesePhonetic: "uát du iu du? – aim â stú-dent. uát a-báut iu?",
+    syllables: ["What", " do", " you", " do?", " –", " I'm", " a", " stu", "dent.", " What", " a", "bout", " you?"],
+    exampleSentence: "What do you do? – I'm a student. What about you?",
+    exampleTranslation: "O que você faz? – Eu sou estudante. E você?"
+  },
+  {
+    id: 'to_be_negative_79',
+    word: "I'm not busy now. Do you want to talk to me?",
+    translation: "Eu não estou ocupada agora. Você quer falar comigo?",
+    pronunciation: "/aɪm nɑt ˈbɪzi naʊ. du ju wɑnt tu tɔk tu mi?/",
+    portuguesePhonetic: "aim nat bí-zi náu. du iu uánt tchu tóc tchu mi?",
+    syllables: ["I'm", " not", " bu", "sy", " now.", " Do", " you", " want", " to", " talk", " to", " me?"],
+    exampleSentence: "I'm not busy now. Do you want to talk to me?",
+    exampleTranslation: "Eu não estou ocupada agora. Você quer falar comigo?"
+  },
+  {
+    id: 'to_be_negative_80',
+    word: "They aren't bored. They are tired. I'm sure.",
+    translation: "Eles não estão aborrecidos, eles estão cansados. Eu tenho certeza.",
+    pronunciation: "/ðeɪ ˈɑrənt bɔrd. ðeɪ ɑr ˈtaɪərd. aɪm ʃʊr./",
+    portuguesePhonetic: "dêi ár-ent bórd. dêi ar táierd. aim chúr.",
+    syllables: ["They", " aren't", " bored.", " They", " are", " tired.", " I'm", " sure."],
+    exampleSentence: "They aren't bored. They are tired. I'm sure.",
+    exampleTranslation: "Eles não estão aborrecidos, eles estão cansados. Eu tenho certeza."
+  },
+  {
+    id: 'to_be_negative_81',
+    word: "My sister is very smart and beautiful.",
+    translation: "Minha irmã é muito esperta e bonita.",
+    pronunciation: "/maɪ ˈsɪstər ɪz ˈvɛri smɑrt ænd ˈbjutəfəl./",
+    portuguesePhonetic: "mai sís-ter íz vé-ri smárt énd biú-ti-ful.",
+    syllables: ["My", " sis", "ter", " is", " ve", "ry", " smart", " and", " beau", "ti", "ful."],
+    exampleSentence: "My sister is very smart and beautiful.",
+    exampleTranslation: "Minha irmã é muito esperta e bonita."
+  },
+  {
+    id: 'to_be_negative_82',
+    word: "They are worried about that problem.",
+    translation: "Eles estão preocupados com aquele problema.",
+    pronunciation: "/ðeɪ ɑr ˈwɜrid əˈbaʊt ðæt ˈprɑbləm./",
+    portuguesePhonetic: "dêi ar uã-rid a-báut dét pró-blem.",
+    syllables: ["They", " are", " wor", "ried", " a", "bout", " that", " prob", "lem."],
+    exampleSentence: "They are worried about that problem.",
+    exampleTranslation: "Eles estão preocupados com aquele problema."
+  },
+  {
+    id: 'to_be_negative_83',
+    word: "We aren't tired. We don't have to get up at six o'clock tomorrow.",
+    translation: "Nós não estamos cansados. Nós não temos que acordar às seis horas amanhã.",
+    pronunciation: "/wi ˈɑrənt ˈtaɪərd. wi doʊnt hæv tu ɡɛt ʌp æt sɪks əˈklɑk təˈmɑˌroʊ./",
+    portuguesePhonetic: "ui ár-ent táierd. ui dôunt rév tchu guét áp ét sics o-clóc tu-mó-rou.",
+    syllables: ["We", " aren't", " tired.", " We", " don't", " have", " to", " get", " up", " at", " six", " o'clock", " to", "mor", "row."],
+    exampleSentence: "We aren't tired. We don't have to get up at six o'clock tomorrow.",
+    exampleTranslation: "Nós não estamos cansados. Nós não temos que acordar às seis horas amanhã."
+  },
+  {
+    id: 'to_be_negative_84',
+    word: "They aren't upset.",
+    translation: "Eles não estão chateados.",
+    pronunciation: "/ðeɪ ˈɑrənt ʌpˈsɛt./",
+    portuguesePhonetic: "dêi ár-ent áp-sét.",
+    syllables: ["They", " aren't", " up", "set."],
+    exampleSentence: "They aren't upset.",
+    exampleTranslation: "Eles não estão chateados."
+  },
+  {
+    id: 'to_be_negative_85',
+    word: "He isn't worried about that exam.",
+    translation: "Ele não está preocupado com aquela prova.",
+    pronunciation: "/hi ˈɪzənt ˈwɜrid əˈbaʊt ðæt ɪɡˈzæm./",
+    portuguesePhonetic: "ri í-zent uã-rid a-báut dét eg-zém.",
+    syllables: ["He", " isn't", " wor", "ried", " a", "bout", " that", " ex", "am."],
+    exampleSentence: "He isn't worried about that exam.",
+    exampleTranslation: "Ele não está preocupado com aquela prova."
+  },
+  {
+    id: 'to_be_negative_86',
+    word: "She isn't sad and she doesn't want to stay home alone.",
+    translation: "Ela não está triste e não quer ficar sozinha em casa.",
+    pronunciation: "/ʃi ˈɪzənt sæd ænd ʃi ˈdʌzənt wɑnt tu steɪ hoʊm əˈloʊn./",
+    portuguesePhonetic: "chi í-zent séd énd chi dâ-zent uánt tchu stêi rôum a-lôun.",
+    syllables: ["She", " isn't", " sad", " and", " she", " doesn't", " want", " to", " stay", " home", " a", "lone."],
+    exampleSentence: "She isn't sad and she doesn't want to stay home alone.",
+    exampleTranslation: "Ela não está triste e não quer ficar sozinha em casa."
+  },
+  {
+    id: 'to_be_negative_87',
+    word: "I am not busy this month.",
+    translation: "Eu não estou ocupado neste mês.",
+    pronunciation: "/aɪ æm nɑt ˈbɪzi ðɪs mʌnθ./",
+    portuguesePhonetic: "ai ém nat bí-zi dís mânth.",
+    syllables: ["I", " am", " not", " bu", "sy", " this", " month."],
+    exampleSentence: "I am not busy this month.",
+    exampleTranslation: "Eu não estou ocupado neste mês."
+  },
+  {
+    id: 'to_be_negative_88',
+    word: "They aren't thirsty. They don't want a glass of water.",
+    translation: "Eles não estão com sede. Eles não querem um copo de água.",
+    pronunciation: "/ðeɪ ˈɑrənt ˈθɜrsti. ðeɪ doʊnt wɑnt ə ɡlæs ʌv ˈwɔtər./",
+    portuguesePhonetic: "dêi ár-ent thãrs-ti. dêi dôunt uánt â glés áv uó-ter.",
+    syllables: ["They", " aren't", " thirs", "ty.", " They", " don't", " want", " a", " glass", " of", " wa", "ter."],
+    exampleSentence: "They aren't thirsty. They don't want a glass of water.",
+    exampleTranslation: "Eles não estão com sede. Eles não querem um copo de água."
+  },
+  {
+    id: 'to_be_negative_89',
+    word: "She isn't a lawyer. She doesn't work downtown.",
+    translation: "Ela não é advogada. Ela não trabalha no centro da cidade.",
+    pronunciation: "/ʃi ˈɪzənt ə ˈlɔjər. ʃi ˈdʌzənt wɜrk ˈdaʊnˈtaʊn./",
+    portuguesePhonetic: "chi í-zent â lói-er. chi dâ-zent uãrc dáun-táun.",
+    syllables: ["She", " isn't", " a", " law", "yer.", " She", " doesn't", " work", " down", "town."],
+    exampleSentence: "She isn't a lawyer. She doesn't work downtown.",
+    exampleTranslation: "Ela não é advogada. Ela não trabalha no centro da cidade."
+  },
+  {
+    id: 'to_be_negative_90',
+    word: "My parents aren't hungry. They don't want to have lunch now.",
+    translation: "Meus pais não estão com fome. Eles não querem almoçar agora.",
+    pronunciation: "/maɪ ˈpɛrənts ˈɑrənt ˈhʌŋɡri. ðeɪ doʊnt wɑnt tu hæv lʌntʃ naʊ./",
+    portuguesePhonetic: "mai pé-rents ár-ent rân-gri. dêi dôunt uánt tchu rév lântch náu.",
+    syllables: ["My", " par", "ents", " aren't", " hun", "gry.", " They", " don't", " want", " to", " have", " lunch", " now."],
+    exampleSentence: "My parents aren't hungry. They don't want to have lunch now.",
+    exampleTranslation: "Meus pais não estão com fome. Eles não querem almoçar agora."
+  },
+  {
+    id: 'to_be_negative_91',
+    word: "hungry",
+    translation: "com fome",
+    pronunciation: "/ˈhʌŋɡri/",
+    portuguesePhonetic: "rân-gri",
+    syllables: ["hun", "gry"],
+    exampleSentence: "I am not hungry.",
+    exampleTranslation: "Eu não estou com fome."
+  },
+  {
+    id: 'to_be_negative_92',
+    word: "thirsty",
+    translation: "com sede",
+    pronunciation: "/ˈθɜrsti/",
+    portuguesePhonetic: "thãrs-ti",
+    syllables: ["thirs", "ty"],
+    exampleSentence: "They aren't thirsty.",
+    exampleTranslation: "Eles não estão com sede."
+  },
+  {
+    id: 'to_be_negative_93',
+    word: "coworker",
+    translation: "colega de trabalho",
+    pronunciation: "/ˈkoʊˌwɜrkər/",
+    portuguesePhonetic: "côu-uãr-quer",
+    syllables: ["co", "work", "er"],
+    exampleSentence: "They aren't coworkers.",
+    exampleTranslation: "Eles não são colegas de trabalho."
+  },
+  {
+    id: 'to_be_negative_94',
+    word: "classmate",
+    translation: "colega de classe",
+    pronunciation: "/ˈklæsˌmeɪt/",
+    portuguesePhonetic: "clés-mêit",
+    syllables: ["class", "mate"],
+    exampleSentence: "They are classmates.",
+    exampleTranslation: "Eles são colegas de classe."
+  },
+  {
+    id: 'to_be_negative_95',
+    word: "salesperson",
+    translation: "vendedor(a)",
+    pronunciation: "/ˈseɪlzˌpɜrsən/",
+    portuguesePhonetic: "sêils-pãr-son",
+    syllables: ["sales", "per", "son"],
+    exampleSentence: "I am a salesperson.",
+    exampleTranslation: "Eu sou vendedor."
+  },
+  {
+    id: 'to_be_negative_96',
+    word: "engineer",
+    translation: "engenheiro(a)",
+    pronunciation: "/ˌɛndʒəˈnɪr/",
+    portuguesePhonetic: "en-di-níar",
+    syllables: ["en", "gi", "neer"],
+    exampleSentence: "She is an engineer.",
+    exampleTranslation: "Ela é engenheira."
+  },
+  {
+    id: 'to_be_negative_97',
+    word: "manager",
+    translation: "gerente",
+    pronunciation: "/ˈmænədʒər/",
+    portuguesePhonetic: "mé-ni-djer",
+    syllables: ["man", "a", "ger"],
+    exampleSentence: "He is a manager.",
+    exampleTranslation: "Ele é gerente."
+  },
+  {
+    id: 'to_be_negative_98',
+    word: "kind",
+    translation: "gentil",
+    pronunciation: "/kaɪnd/",
+    portuguesePhonetic: "cáind",
+    syllables: ["kind"],
+    exampleSentence: "He is usually very kind.",
+    exampleTranslation: "Ele é geralmente muito gentil."
+  },
+  {
+    id: 'to_be_negative_99',
+    word: "busy",
+    translation: "ocupado",
+    pronunciation: "/ˈbɪzi/",
+    portuguesePhonetic: "bí-zi",
+    syllables: ["bu", "sy"],
+    exampleSentence: "I'm not busy now.",
+    exampleTranslation: "Eu não estou ocupada agora."
+  },
+  {
+    id: 'to_be_negative_100',
+    word: "bacon",
+    translation: "bacon",
+    pronunciation: "/ˈbeɪkən/",
+    portuguesePhonetic: "bêi-con",
+    syllables: ["ba", "con"],
+    exampleSentence: "We don't like to eat bacon.",
+    exampleTranslation: "Nós não gostamos de comer bacon."
+  },
+  {
+    id: 'to_be_negative_101',
+    word: "sausage",
+    translation: "salsicha",
+    pronunciation: "/ˈsɔsɪdʒ/",
+    portuguesePhonetic: "só-sidj",
+    syllables: ["sau", "sage"],
+    exampleSentence: "We don't like to eat sausage.",
+    exampleTranslation: "Nós não gostamos de comer salsicha."
+  },
+  {
+    id: 'to_be_negative_102',
+    word: "healthy",
+    translation: "saudável",
+    pronunciation: "/ˈhɛlθi/",
+    portuguesePhonetic: "rél-thi",
+    syllables: ["heal", "thy"],
+    exampleSentence: "It isn't healthy.",
+    exampleTranslation: "Não é saudável."
+  },
+  {
+    id: 'to_be_negative_103',
+    word: "student",
+    translation: "estudante",
+    pronunciation: "/ˈstudənt/",
+    portuguesePhonetic: "stú-dent",
+    syllables: ["stu", "dent"],
+    exampleSentence: "I'm a student.",
+    exampleTranslation: "Eu sou estudante."
+  },
+  {
+    id: 'to_be_negative_104',
+    word: "bored",
+    translation: "entediado / aborrecido",
+    pronunciation: "/bɔrd/",
+    portuguesePhonetic: "bórd",
+    syllables: ["bored"],
+    exampleSentence: "They aren't bored.",
+    exampleTranslation: "Eles não estão aborrecidos."
+  },
+  {
+    id: 'to_be_negative_105',
+    word: "tired",
+    translation: "cansado",
+    pronunciation: "/ˈtaɪərd/",
+    portuguesePhonetic: "táierd",
+    syllables: ["tired"],
+    exampleSentence: "They are tired.",
+    exampleTranslation: "Eles estão cansados."
+  },
+  {
+    id: 'to_be_negative_106',
+    word: "smart",
+    translation: "inteligente / esperto",
+    pronunciation: "/smɑrt/",
+    portuguesePhonetic: "smárt",
+    syllables: ["smart"],
+    exampleSentence: "My sister is very smart and beautiful.",
+    exampleTranslation: "Minha irmã é muito esperta e bonita."
+  },
+  {
+    id: 'to_be_negative_107',
+    word: "beautiful",
+    translation: "bonita",
+    pronunciation: "/ˈbjutəfəl/",
+    portuguesePhonetic: "biú-ti-ful",
+    syllables: ["beau", "ti", "ful"],
+    exampleSentence: "My sister is beautiful.",
+    exampleTranslation: "Minha irmã é bonita."
+  },
+  {
+    id: 'to_be_negative_108',
+    word: "worried",
+    translation: "preocupado",
+    pronunciation: "/ˈwɜrid/",
+    portuguesePhonetic: "uã-rid",
+    syllables: ["wor", "ried"],
+    exampleSentence: "They are worried about that problem.",
+    exampleTranslation: "Eles estão preocupados com aquele problema."
+  },
+  {
+    id: 'to_be_negative_109',
+    word: "upset",
+    translation: "chateado",
+    pronunciation: "/ʌpˈsɛt/",
+    portuguesePhonetic: "áp-sét",
+    syllables: ["up", "set"],
+    exampleSentence: "They aren't upset.",
+    exampleTranslation: "Eles não estão chateados."
+  },
+  {
+    id: 'to_be_negative_110',
+    word: "exam",
+    translation: "prova",
+    pronunciation: "/ɪɡˈzæm/",
+    portuguesePhonetic: "eg-zém",
+    syllables: ["ex", "am"],
+    exampleSentence: "He isn't worried about that exam.",
+    exampleTranslation: "Ele não está preocupado com aquela prova."
+  },
+  {
+    id: 'to_be_negative_111',
+    word: "alone",
+    translation: "sozinho",
+    pronunciation: "/əˈloʊn/",
+    portuguesePhonetic: "a-lôun",
+    syllables: ["a", "lone"],
+    exampleSentence: "She doesn't want to stay home alone.",
+    exampleTranslation: "Ela não quer ficar sozinha em casa."
+  },
+  {
+    id: 'to_be_negative_112',
+    word: "lawyer",
+    translation: "advogado(a)",
+    pronunciation: "/ˈlɔjər/",
+    portuguesePhonetic: "lói-er",
+    syllables: ["law", "yer"],
+    exampleSentence: "She isn't a lawyer.",
+    exampleTranslation: "Ela não é advogada."
+  },
+  {
+    id: 'to_be_negative_113',
+    word: "downtown",
+    translation: "centro da cidade",
+    pronunciation: "/ˈdaʊnˈtaʊn/",
+    portuguesePhonetic: "dáun-táun",
+    syllables: ["down", "town"],
+    exampleSentence: "She doesn't work downtown.",
+    exampleTranslation: "Ela não trabalha no centro da cidade."
+  },
+  {
+    id: 'to_be_negative_114',
+    word: "glass of water",
+    translation: "copo de água",
+    pronunciation: "/ɡlæs ʌv ˈwɔtər/",
+    portuguesePhonetic: "glés áv uó-ter",
+    syllables: ["glass", " of", " wa", "ter"],
+    exampleSentence: "They want a glass of water.",
+    exampleTranslation: "Eles querem um copo de água."
+  },
+  {
+    id: 'to_be_negative_115',
+    word: "have lunch",
+    translation: "almoçar",
+    pronunciation: "/hæv lʌntʃ/",
+    portuguesePhonetic: "rév lântch",
+    syllables: ["have", " lunch"],
+    exampleSentence: "They don't want to have lunch now.",
+    exampleTranslation: "Eles não querem almoçar agora."
+  },
+  {
+    id: 'to_be_negative_116',
+    word: "I'm sure",
+    translation: "eu tenho certeza",
+    pronunciation: "/aɪm ʃʊr/",
+    portuguesePhonetic: "aim chúr",
+    syllables: ["I'm", " sure"],
+    exampleSentence: "I'm sure they are tired.",
+    exampleTranslation: "Eu tenho certeza de que eles estão cansados."
+  },
+  {
+    id: 'to_be_negative_117',
+    word: "What do you do?",
+    translation: "O que você faz?",
+    pronunciation: "/wʌt du ju du?/",
+    portuguesePhonetic: "uát du iu du?",
+    syllables: ["What", " do", " you", " do?"],
+    exampleSentence: "What do you do?",
+    exampleTranslation: "O que você faz?"
+  },
+  {
+    id: 'to_be_negative_118',
+    word: "What about you?",
+    translation: "E você?",
+    pronunciation: "/wʌt əˈbaʊt ju?/",
+    portuguesePhonetic: "uát a-báut iu?",
+    syllables: ["What", " a", "bout", " you?"],
+    exampleSentence: "I'm a student. What about you?",
+    exampleTranslation: "Eu sou estudante. E você?"
+  }
 ];
 
 
@@ -8088,6 +10553,536 @@ export const TO_BE_INTERROGATIVE_DECK: FlashcardData[] = [
     syllables: ["My"," birth","day"," is"," on"," Oc","to","ber"," 29th."],
     exampleSentence: "My birthday is on October 29th.",
     exampleTranslation: "Meu aniversário é em 29 de outubro."
+  },
+  {
+    id: 'to_be_interrogative_68',
+    word: "Are you British or American? – We are American.",
+    translation: "Vocês são britânicos ou americanos? – Nós somos americanos.",
+    pronunciation: "/ɑr ju ˈbrɪtɪʃ ɔr əˈmɛrɪkən? – wi ɑr əˈmɛrɪkən./",
+    portuguesePhonetic: "ar iu brí-tich ór a-mé-ri-can? – ui ar a-mé-ri-can.",
+    syllables: ["Are", " you", " Brit", "ish", " or", " A", "mer", "i", "can?", " –", " We", " are", " A", "mer", "i", "can."],
+    exampleSentence: "Are you British or American? – We are American.",
+    exampleTranslation: "Vocês são britânicos ou americanos? – Nós somos americanos."
+  },
+  {
+    id: 'to_be_interrogative_69',
+    word: "Is the sales clerk busy now? – No, she isn't.",
+    translation: "A vendedora está ocupada agora? – Não, ela não está.",
+    pronunciation: "/ɪz ðə seɪlz klɜrk ˈbɪzi naʊ? – noʊ, ʃi ˈɪzənt./",
+    portuguesePhonetic: "iz dâ sêils clãrc bí-zi náu? – nôu, chi í-zent.",
+    syllables: ["Is", " the", " sales", " clerk", " bu", "sy", " now?", " –", " No,", " she", " isn't."],
+    exampleSentence: "Is the sales clerk busy now? – No, she isn't.",
+    exampleTranslation: "A vendedora está ocupada agora? – Não, ela não está."
+  },
+  {
+    id: 'to_be_interrogative_70',
+    word: "How old are you? – I'm 23 years old.",
+    translation: "Quantos anos você tem? – Eu tenho 23 anos.",
+    pronunciation: "/haʊ oʊld ɑr ju? – aɪm ˈtwɛnti-θri jɪrz oʊld./",
+    portuguesePhonetic: "ráu ôuld ar iu? – aim tu-én-ti-thri íar-zôuld.",
+    syllables: ["How", " old", " are", " you?", " –", " I'm", " 23", " years", " old."],
+    exampleSentence: "How old are you? – I'm 23 years old.",
+    exampleTranslation: "Quantos anos você tem? – Eu tenho 23 anos."
+  },
+  {
+    id: 'to_be_interrogative_71',
+    word: "Who is she? – She is my mother. Her name is Kim.",
+    translation: "Quem é ela? – Ela é minha mãe. O nome dela é Kim.",
+    pronunciation: "/hu ɪz ʃi? – ʃi ɪz maɪ ˈmʌðər. hər neɪm ɪz kɪm./",
+    portuguesePhonetic: "rú iz chi? – chi iz mai má-der. rãr nêim iz quim.",
+    syllables: ["Who", " is", " she?", " –", " She", " is", " my", " moth", "er.", " Her", " name", " is", " Kim."],
+    exampleSentence: "Who is she? – She is my mother. Her name is Kim.",
+    exampleTranslation: "Quem é ela? – Ela é minha mãe. O nome dela é Kim."
+  },
+  {
+    id: 'to_be_interrogative_72',
+    word: "Who are those children? – They are my brothers. They live with my father.",
+    translation: "Quem são aquelas crianças? – Eles são meus irmãos. Eles moram com meu pai.",
+    pronunciation: "/hu ɑr ðoʊz ˈtʃɪldrən? – ðeɪ ɑr maɪ ˈbrʌðərz. ðeɪ lɪv wɪð maɪ ˈfɑðər./",
+    portuguesePhonetic: "rú ar dôuz tchíl-dren? – dêi ar mai brá-derz. dêi liv uid mai fá-der.",
+    syllables: ["Who", " are", " those", " chil", "dren?", " –", " They", " are", " my", " broth", "ers.", " They", " live", " with", " my", " fa", "ther."],
+    exampleSentence: "Who are those children? – They are my brothers. They live with my father.",
+    exampleTranslation: "Quem são aquelas crianças? – Eles são meus irmãos. Eles moram com meu pai."
+  },
+  {
+    id: 'to_be_interrogative_73',
+    word: "Are you ready to start the class? – Yes, we are!",
+    translation: "Vocês estão prontos para começar a aula? – Sim, nós estamos!",
+    pronunciation: "/ɑr ju ˈrɛdi tu stɑrt ðə khlæs? – jɛs, wi ɑr!/",
+    portuguesePhonetic: "ar iu ré-di tchu stárt dâ clés? – iés, ui ar!",
+    syllables: ["Are", " you", " rea", "dy", " to", " start", " the", " class?", " –", " Yes,", " we", " are!"],
+    exampleSentence: "Are you ready to start the class? – Yes, we are!",
+    exampleTranslation: "Vocês estão prontos para começar a aula? – Sim, nós estamos!"
+  },
+  {
+    id: 'to_be_interrogative_74',
+    word: "When is your birthday? – My birthday is in February.",
+    translation: "Quando é seu aniversário? – Meu aniversário é em fevereiro.",
+    pronunciation: "/wɛn ɪz jʊr ˈbɜrθˌdeɪ? – maɪ ˈbɜrθˌdeɪ ɪz ɪn ˈfɛbjuˌɛri./",
+    portuguesePhonetic: "uén iz iór bãrth-dêi? – mai bãrth-dêi iz in fé-bru-é-ri.",
+    syllables: ["When", " is", " your", " birth", "day?", " –", " My", " birth", "day", " is", " in", " Feb", "ru", "ar", "y."],
+    exampleSentence: "When is your birthday? – My birthday is in February.",
+    exampleTranslation: "Quando é seu aniversário? – Meu aniversário é em fevereiro."
+  },
+  {
+    id: 'to_be_interrogative_75',
+    word: "Is your uncle an engineer? – No, he is a doctor.",
+    translation: "Seu tio é engenheiro? – Não, ele é médico.",
+    pronunciation: "/ɪz jʊr ˈʌŋkəl ən ˌɛndʒəˈnɪr? – noʊ, heɪ ɪz ə ˈdɑktər./",
+    portuguesePhonetic: "iz iór án-col ân en-di-níar? – nôu, ri iz â dóc-ter.",
+    syllables: ["Is", " your", " un", "cle", " an", " en", "gi", "neer?", " –", " No,", " he", " is", " a", " doc", "tor."],
+    exampleSentence: "Is your uncle an engineer? – No, he is a doctor.",
+    exampleTranslation: "Seu tio é engenheiro? – Não, ele é médico."
+  },
+  {
+    id: 'to_be_interrogative_76',
+    word: "Is the restaurant good? – Yes, it's very good.",
+    translation: "O restaurante é bom? – Sim, é muito bom.",
+    pronunciation: "/ɪz ðə ˈrɛstəˌrɑnt ɡʊd? – jɛs, ɪts ˈvɛri ɡʊd./",
+    portuguesePhonetic: "iz dâ rés-to-rant gud? – iés, its vé-ri gud.",
+    syllables: ["Is", " the", " res", "tau", "rant", " good?", " –", " Yes,", " it's", " ve", "ry", " good."],
+    exampleSentence: "Is the restaurant good? – Yes, it's very good.",
+    exampleTranslation: "O restaurante é bom? – Sim, é muito bom."
+  },
+  {
+    id: 'to_be_interrogative_77',
+    word: "He is Brazilian, but he lives in Germany.",
+    translation: "Ele é brasileiro, mas vive na Alemanha.",
+    pronunciation: "/hi ɪz brəˈzɪljən, bʌt hi lɪvz ɪn ˈdʒɜrməni./",
+    portuguesePhonetic: "ri iz bra-zí-lian, bât ri livz in djãr-ma-ni.",
+    syllables: ["He", " is", " Bra", "zil", "ian,", " but", " he", " lives", " in", " Ger", "ma", "ny."],
+    exampleSentence: "He is Brazilian, but he lives in Germany.",
+    exampleTranslation: "Ele é brasileiro, mas vive na Alemanha."
+  },
+  {
+    id: 'to_be_interrogative_78',
+    word: "Who are these children?",
+    translation: "Quem são estas crianças?",
+    pronunciation: "/hu ɑr ðiz ˈtʃɪldrən?/",
+    portuguesePhonetic: "rú ar díz tchíl-dren?",
+    syllables: ["Who", " are", " these", " chil", "dren?"],
+    exampleSentence: "Who are these children?",
+    exampleTranslation: "Quem são estas crianças?"
+  },
+  {
+    id: 'to_be_interrogative_79',
+    word: "These children are my students.",
+    translation: "Resposta: Estas crianças são meus alunos.",
+    pronunciation: "/ðiz ˈtʃɪldrən ɑr maɪ ˈstudənts./",
+    portuguesePhonetic: "díz tchíl-dren ar mai stú-dents.",
+    syllables: ["These", " chil", "dren", " are", " my", " stu", "dents."],
+    exampleSentence: "These children are my students.",
+    exampleTranslation: "Resposta: Estas crianças são meus alunos."
+  },
+  {
+    id: 'to_be_interrogative_80',
+    word: "How old are they?",
+    translation: "Quantos anos eles têm?",
+    pronunciation: "/haʊ oʊld ɑr ðeɪ?/",
+    portuguesePhonetic: "ráu ôuld ar dêi?",
+    syllables: ["How", " old", " are", " they?"],
+    exampleSentence: "How old are they?",
+    exampleTranslation: "Quantos anos eles têm?"
+  },
+  {
+    id: 'to_be_interrogative_81',
+    word: "They are seven years old.",
+    translation: "Resposta: Eles têm sete anos.",
+    pronunciation: "/ðeɪ ɑr ˈsɛvən jɪrz oʊld./",
+    portuguesePhonetic: "dêi ar sé-ven íar-zôuld.",
+    syllables: ["They", " are", " sev", "en", " years", " old."],
+    exampleSentence: "They are seven years old.",
+    exampleTranslation: "Resposta: Eles têm sete anos."
+  },
+  {
+    id: 'to_be_interrogative_82',
+    word: "Why are they worried?",
+    translation: "Por que eles estão preocupados?",
+    pronunciation: "/waɪ ɑr ðeɪ ˈwɜrid?/",
+    portuguesePhonetic: "uái ar dêi uã-rid?",
+    syllables: ["Why", " are", " they", " wor", "ried?"],
+    exampleSentence: "Why are they worried?",
+    exampleTranslation: "Por que eles estão preocupados?"
+  },
+  {
+    id: 'to_be_interrogative_83',
+    word: "They are worried because they have an exam tomorrow.",
+    translation: "Resposta: Eles estão preocupados porque têm uma prova amanhã.",
+    pronunciation: "/ðeɪ ɑr ˈwɜrid bɪˈkɔz ðeɪ hæv ən ɪɡˈzæm təˈmɑˌroʊ./",
+    portuguesePhonetic: "dêi ar uã-rid bi-cóz dêi rév ân eg-zém tu-mó-rou.",
+    syllables: ["They", " are", " wor", "ried", " be", "cause", " they", " have", " an", " ex", "am", " to", "mor", "row."],
+    exampleSentence: "They are worried because they have an exam tomorrow.",
+    exampleTranslation: "Resposta: Eles estão preocupados porque têm uma prova amanhã."
+  },
+  {
+    id: 'to_be_interrogative_84',
+    word: "Who is that student?",
+    translation: "Quem é aquele estudante?",
+    pronunciation: "/hu ɪz ðæt ˈstudənt?/",
+    portuguesePhonetic: "rú iz dét stú-dent?",
+    syllables: ["Who", " is", " that", " stu", "dent?"],
+    exampleSentence: "Who is that student?",
+    exampleTranslation: "Quem é aquele estudante?"
+  },
+  {
+    id: 'to_be_interrogative_85',
+    word: "That student is my friend.",
+    translation: "Resposta: Aquele estudante é meu amigo.",
+    pronunciation: "/ðæt ˈstudənt ɪz maɪ frɛnd./",
+    portuguesePhonetic: "dét stú-dent iz mai frend.",
+    syllables: ["That", " stu", "dent", " is", " my", " friend."],
+    exampleSentence: "That student is my friend.",
+    exampleTranslation: "Resposta: Aquele estudante é meu amigo."
+  },
+  {
+    id: 'to_be_interrogative_86',
+    word: "Who are those people at the store?",
+    translation: "Quem são aquelas pessoas na loja?",
+    pronunciation: "/hu ɑr ðoʊz ˈpipəl æt ðə stɔr?/",
+    portuguesePhonetic: "rú ar dôuz pí-pol ét dâ stór?",
+    syllables: ["Who", " are", " those", " peo", "ple", " at", " the", " store?"],
+    exampleSentence: "Who are those people at the store?",
+    exampleTranslation: "Quem são aquelas pessoas na loja?"
+  },
+  {
+    id: 'to_be_interrogative_87',
+    word: "Those people at the store are sales clerks.",
+    translation: "Resposta: Aquelas pessoas na loja são vendedores.",
+    pronunciation: "/ðoʊz ˈpipəl æt ðə stɔr ɑr seɪlz klɜrks./",
+    portuguesePhonetic: "dôuz pí-pol ét dâ stór ar sêils clãrcs.",
+    syllables: ["Those", " peo", "ple", " at", " the", " store", " are", " sales", " clerks."],
+    exampleSentence: "Those people at the store are sales clerks.",
+    exampleTranslation: "Resposta: Aquelas pessoas na loja são vendedores."
+  },
+  {
+    id: 'to_be_interrogative_88',
+    word: "Are you sick?",
+    translation: "Você está doente?",
+    pronunciation: "/ɑr ju sɪk?/",
+    portuguesePhonetic: "ar iu síc?",
+    syllables: ["Are", " you", " sick?"],
+    exampleSentence: "Are you sick?",
+    exampleTranslation: "Você está doente?"
+  },
+  {
+    id: 'to_be_interrogative_89',
+    word: "No, I'm not sick. I'm sad.",
+    translation: "Resposta: Não, eu não estou doente. Estou triste.",
+    pronunciation: "/noʊ, aɪm nɑt sɪk. aɪm sæd./",
+    portuguesePhonetic: "nôu, aim nat síc. aim séd.",
+    syllables: ["No,", " I'm", " not", " sick.", " I'm", " sad."],
+    exampleSentence: "No, I'm not sick. I'm sad.",
+    exampleTranslation: "Resposta: Não, eu não estou doente. Estou triste."
+  },
+  {
+    id: 'to_be_interrogative_90',
+    word: "When is your birthday?",
+    translation: "Quando é seu aniversário?",
+    pronunciation: "/wɛn ɪz jʊr ˈbɜrθˌdeɪ?/",
+    portuguesePhonetic: "uén iz iór bãrth-dei?",
+    syllables: ["When", " is", " your", " birth", "day?"],
+    exampleSentence: "When is your birthday?",
+    exampleTranslation: "Quando é seu aniversário?"
+  },
+  {
+    id: 'to_be_interrogative_91',
+    word: "My birthday is tomorrow.",
+    translation: "Resposta: Meu aniversário é amanhã.",
+    pronunciation: "/maɪ ˈbɜrθˌdeɪ ɪz təˈmɔˌroʊ./",
+    portuguesePhonetic: "mai bãrth-dei iz tu-mó-rou.",
+    syllables: ["My", " birth", "day", " is", " to", "mor", "row."],
+    exampleSentence: "My birthday is tomorrow.",
+    exampleTranslation: "Resposta: Meu aniversário é amanhã."
+  },
+  {
+    id: 'to_be_interrogative_92',
+    word: "How old are you?",
+    translation: "Quantos anos você tem?",
+    pronunciation: "/haʊ oʊld ɑr ju?/",
+    portuguesePhonetic: "ráu ôuld ar iu?",
+    syllables: ["How", " old", " are", " you?"],
+    exampleSentence: "How old are you?",
+    exampleTranslation: "Quantos anos você tem?"
+  },
+  {
+    id: 'to_be_interrogative_93',
+    word: "I am 61 years old.",
+    translation: "Resposta: Eu tenho 61 anos.",
+    pronunciation: "/aɪ æm sɪksti-wʌn jɪrz oʊld./",
+    portuguesePhonetic: "ai ém sics-ti-uán íar-zôuld.",
+    syllables: ["I", " am", " 61", " years", " old."],
+    exampleSentence: "I am 61 years old.",
+    exampleTranslation: "Resposta: Eu tenho 61 anos."
+  },
+  {
+    id: 'to_be_interrogative_94',
+    word: "British",
+    translation: "britânico",
+    pronunciation: "/ˈbrɪtɪʃ/",
+    portuguesePhonetic: "brí-tich",
+    syllables: ["Brit", "ish"],
+    exampleSentence: "Are you British or American?",
+    exampleTranslation: "Vocês são britânicos ou americanos?"
+  },
+  {
+    id: 'to_be_interrogative_95',
+    word: "American",
+    translation: "americano",
+    pronunciation: "/əˈmɛrɪkən/",
+    portuguesePhonetic: "a-mé-ri-can",
+    syllables: ["A", "mer", "i", "can"],
+    exampleSentence: "We are American.",
+    exampleTranslation: "Nós somos americanos."
+  },
+  {
+    id: 'to_be_interrogative_96',
+    word: "sales clerk",
+    translation: "vendedor(a)",
+    pronunciation: "/seɪlz klɜrk/",
+    portuguesePhonetic: "sêils clãrc",
+    syllables: ["sales", " clerk"],
+    exampleSentence: "Is the sales clerk busy now?",
+    exampleTranslation: "A vendedora está ocupada agora?"
+  },
+  {
+    id: 'to_be_interrogative_97',
+    word: "engineer",
+    translation: "engenheiro",
+    pronunciation: "/ˌɛndʒəˈnɪr/",
+    portuguesePhonetic: "en-di-níar",
+    syllables: ["en", "gi", "neer"],
+    exampleSentence: "Is your uncle an engineer?",
+    exampleTranslation: "Seu tio é engenheiro?"
+  },
+  {
+    id: 'to_be_interrogative_98',
+    word: "doctor",
+    translation: "médico",
+    pronunciation: "/ˈdɑktər/",
+    portuguesePhonetic: "dóc-ter",
+    syllables: ["doc", "tor"],
+    exampleSentence: "No, he is a doctor.",
+    exampleTranslation: "Não, ele é médico."
+  },
+  {
+    id: 'to_be_interrogative_99',
+    word: "mother",
+    translation: "mãe",
+    pronunciation: "/ˈmʌðər/",
+    portuguesePhonetic: "má-der",
+    syllables: ["moth", "er"],
+    exampleSentence: "She is my mother.",
+    exampleTranslation: "Ela é minha mãe."
+  },
+  {
+    id: 'to_be_interrogative_100',
+    word: "father",
+    translation: "pai",
+    pronunciation: "/ˈfɑðər/",
+    portuguesePhonetic: "fá-der",
+    syllables: ["fa", "ther"],
+    exampleSentence: "They live with my father.",
+    exampleTranslation: "Eles moram com meu pai."
+  },
+  {
+    id: 'to_be_interrogative_101',
+    word: "brother",
+    translation: "irmão",
+    pronunciation: "/ˈbrʌðər/",
+    portuguesePhonetic: "brá-der",
+    syllables: ["broth", "er"],
+    exampleSentence: "They are my brothers.",
+    exampleTranslation: "Eles são meus irmãos."
+  },
+  {
+    id: 'to_be_interrogative_102',
+    word: "birthday",
+    translation: "aniversário",
+    pronunciation: "/ˈbɜrθˌdeɪ/",
+    portuguesePhonetic: "bãrth-dêi",
+    syllables: ["birth", "day"],
+    exampleSentence: "When is your birthday?",
+    exampleTranslation: "Quando é seu aniversário?"
+  },
+  {
+    id: 'to_be_interrogative_103',
+    word: "February",
+    translation: "fevereiro",
+    pronunciation: "/ˈfɛbjuˌɛri/",
+    portuguesePhonetic: "fé-bru-é-ri",
+    syllables: ["Feb", "ru", "ar", "y"],
+    exampleSentence: "My birthday is in February.",
+    exampleTranslation: "Meu aniversário é em fevereiro."
+  },
+  {
+    id: 'to_be_interrogative_104',
+    word: "restaurant",
+    translation: "restaurante",
+    pronunciation: "/ˈrɛstəˌrɑnt/",
+    portuguesePhonetic: "rés-to-rant",
+    syllables: ["res", "tau", "rant"],
+    exampleSentence: "Is the restaurant good?",
+    exampleTranslation: "O restaurante é bom?"
+  },
+  {
+    id: 'to_be_interrogative_105',
+    word: "Brazilian",
+    translation: "brasileiro",
+    pronunciation: "/brəˈzɪljən/",
+    portuguesePhonetic: "bra-zí-lian",
+    syllables: ["Bra", "zil", "ian"],
+    exampleSentence: "He is Brazilian, but he lives in Germany.",
+    exampleTranslation: "Ele é brasileiro, mas vive na Alemanha."
+  },
+  {
+    id: 'to_be_interrogative_106',
+    word: "Germany",
+    translation: "Alemanha",
+    pronunciation: "/ˈdʒɜrməni/",
+    portuguesePhonetic: "djãr-ma-ni",
+    syllables: ["Ger", "ma", "ny"],
+    exampleSentence: "He lives in Germany.",
+    exampleTranslation: "Ele vive na Alemanha."
+  },
+  {
+    id: 'to_be_interrogative_107',
+    word: "student",
+    translation: "aluno",
+    pronunciation: "/ˈstudənt/",
+    portuguesePhonetic: "stú-dent",
+    syllables: ["stu", "dent"],
+    exampleSentence: "These children are my students.",
+    exampleTranslation: "Estas crianças são meus alunos."
+  },
+  {
+    id: 'to_be_interrogative_108',
+    word: "exam",
+    translation: "prova",
+    pronunciation: "/ɪɡˈzæm/",
+    portuguesePhonetic: "eg-zém",
+    syllables: ["ex", "am"],
+    exampleSentence: "They have an exam tomorrow.",
+    exampleTranslation: "Eles têm uma prova amanhã."
+  },
+  {
+    id: 'to_be_interrogative_109',
+    word: "worried",
+    translation: "preocupado",
+    pronunciation: "/ˈwɜrid/",
+    portuguesePhonetic: "uã-rid",
+    syllables: ["wor", "ried"],
+    exampleSentence: "Why are they worried?",
+    exampleTranslation: "Por que eles estão preocupados?"
+  },
+  {
+    id: 'to_be_interrogative_110',
+    word: "sad",
+    translation: "triste",
+    pronunciation: "/sæd/",
+    portuguesePhonetic: "séd",
+    syllables: ["sad"],
+    exampleSentence: "No, I'm not sick. I'm sad.",
+    exampleTranslation: "Não, eu não estou doente. Estou triste."
+  },
+  {
+    id: 'to_be_interrogative_111',
+    word: "sick",
+    translation: "doente",
+    pronunciation: "/sɪk/",
+    portuguesePhonetic: "síc",
+    syllables: ["sick"],
+    exampleSentence: "Are you sick?",
+    exampleTranslation: "Você está doente?"
+  },
+  {
+    id: 'to_be_interrogative_112',
+    word: "ready",
+    translation: "pronto",
+    pronunciation: "/ˈrɛdi/",
+    portuguesePhonetic: "ré-di",
+    syllables: ["rea", "dy"],
+    exampleSentence: "Are you ready to start?",
+    exampleTranslation: "Você está pronto para começar?"
+  },
+  {
+    id: 'to_be_interrogative_113',
+    word: "start",
+    translation: "começar",
+    pronunciation: "/stɑrt/",
+    portuguesePhonetic: "stárt",
+    syllables: ["start"],
+    exampleSentence: "Are you ready to start the class?",
+    exampleTranslation: "Vocês estão prontos para começar a aula?"
+  },
+  {
+    id: 'to_be_interrogative_114',
+    word: "class",
+    translation: "aula",
+    pronunciation: "/klæs/",
+    portuguesePhonetic: "clés",
+    syllables: ["class"],
+    exampleSentence: "Are you ready to start the class?",
+    exampleTranslation: "Vocês estão prontos para começar a aula?"
+  },
+  {
+    id: 'to_be_interrogative_115',
+    word: "live",
+    translation: "morar",
+    pronunciation: "/lɪv/",
+    portuguesePhonetic: "liv",
+    syllables: ["live"],
+    exampleSentence: "They live with my father.",
+    exampleTranslation: "Eles moram com meu pai."
+  },
+  {
+    id: 'to_be_interrogative_116',
+    word: "very good",
+    translation: "muito bom",
+    pronunciation: "/ˈvɛri ɡʊd/",
+    portuguesePhonetic: "vé-ri gud",
+    syllables: ["ve", "ry", " good"],
+    exampleSentence: "Yes, it's very good.",
+    exampleTranslation: "Sim, é muito bom."
+  },
+  {
+    id: 'to_be_interrogative_117',
+    word: "How old are you?",
+    translation: "Quantos anos você tem?",
+    pronunciation: "/haʊ oʊld ɑr ju?/",
+    portuguesePhonetic: "ráu ôuld ar iu?",
+    syllables: ["How", " old", " are", " you?"],
+    exampleSentence: "How old are you?",
+    exampleTranslation: "Quantos anos você tem?"
+  },
+  {
+    id: 'to_be_interrogative_118',
+    word: "Who is she?",
+    translation: "Quem é ela?",
+    pronunciation: "/hu ɪz ʃi?/",
+    portuguesePhonetic: "rú iz chi?",
+    syllables: ["Who", " is", " she?"],
+    exampleSentence: "Who is she?",
+    exampleTranslation: "Quem é ela?"
+  },
+  {
+    id: 'to_be_interrogative_119',
+    word: "When is your birthday?",
+    translation: "Quando é seu aniversário?",
+    pronunciation: "/wɛn ɪz jʊr ˈbɜrθˌdeɪ?/",
+    portuguesePhonetic: "uén iz iór bãrth-dêi?",
+    syllables: ["When", " is", " your", " birth", "day?"],
+    exampleSentence: "When is your birthday?",
+    exampleTranslation: "Quando é seu aniversário?"
+  },
+  {
+    id: 'to_be_interrogative_120',
+    word: "Are you ready?",
+    translation: "Você está pronto?",
+    pronunciation: "/ɑr ju ˈrɛdi?/",
+    portuguesePhonetic: "ar iu ré-di?",
+    syllables: ["Are", " you", " rea", "dy?"],
+    exampleSentence: "Are you ready?",
+    exampleTranslation: "Você está pronto?"
   }
 ];
 
@@ -8575,6 +11570,476 @@ export const TO_MAKE_GIVE_DECK: FlashcardData[] = [
     exampleSentence: "Let's go to a pizza place!",
     exampleTranslation: "Vamos a uma pizzaria!"
   },
+  {
+    id: 'to_make_give_' + 49,
+    word: "I usually give tips to waiters. What about you?",
+    translation: "Eu geralmente dou gorjetas aos garçons. E você?",
+    pronunciation: "/aɪ ˈjuʒuəli ɡɪv tɪps tu ˈweɪtərz. wʌt əˈbaʊt ju?/",
+    portuguesePhonetic: "ai iú-ju-a-li giv tips tchu uêi-terz. uát a-báut iu?",
+    syllables: ["I", " u", "su", "al", "ly", " give", " tips", " to", " wai", "ters.", " What", " a", "bout", " you?"],
+    exampleSentence: "I usually give tips to waiters. What about you?",
+    exampleTranslation: "Eu geralmente dou gorjetas aos garçons. E você?"
+  },
+  {
+    id: 'to_make_give_' + 50,
+    word: "My mother wants to make my favorite dessert tonight.",
+    translation: "Minha mãe quer fazer minha sobremesa favorita esta noite.",
+    pronunciation: "/maɪ ˈmʌðər wɑnts tu meɪk maɪ ˈfeɪvərɪt dɪˈzɜrt təˈnaɪt./",
+    portuguesePhonetic: "mai má-der uánts tchu mêic mai fêi-vo-rit di-zãrt tchu-náit.",
+    syllables: ["My", " moth", "er", " wants", " to", " make", " my", " fa", "vor", "ite", " des", "sert", " to", "night."],
+    exampleSentence: "My mother wants to make my favorite dessert tonight.",
+    exampleTranslation: "Minha mãe quer fazer minha sobremesa favorita esta noite."
+  },
+  {
+    id: 'to_make_give_' + 51,
+    word: "He doesn't drink soda. He doesn't think it's healthy.",
+    translation: "Ele não bebe refrigerante. Ele não acha que é saudável.",
+    pronunciation: "/hi ˈdʌzənt drɪŋk ˈsoʊdə. hi ˈdʌzənt θɪŋk ɪts ˈhɛlθi./",
+    portuguesePhonetic: "ri dâ-zent drínc sôu-da. ri dâ-zent thínc its rél-thi.",
+    syllables: ["He", " doesn't", " drink", " so", "da.", " He", " doesn't", " think", " it's", " heal", "thy."],
+    exampleSentence: "He doesn't drink soda. He doesn't think it's healthy.",
+    exampleTranslation: "Ele não bebe refrigerante. Ele não acha que é saudável."
+  },
+  {
+    id: 'to_make_give_' + 52,
+    word: "I don't have time to cook during the week. I usually eat fast food.",
+    translation: "Eu não tenho tempo para cozinhar durante a semana. Eu geralmente como comida rápida.",
+    pronunciation: "/aɪ doʊnt hæv taɪm tu kʊk ˈdʊrɪŋ ðə wik. aɪ ˈjuʒuəli it fæst fud./",
+    portuguesePhonetic: "ai dôunt rév táim tchu cuc dú-ring dâ uíc. ai iú-ju-a-li it fest fud.",
+    syllables: ["I", " don't", " have", " time", " to", " cook", " dur", "ing", " the", " week.", " I", " u", "su", "al", "ly", " eat", " fast", " food."],
+    exampleSentence: "I don't have time to cook during the week. I usually eat fast food.",
+    exampleTranslation: "Eu não tenho tempo para cozinhar durante a semana. Eu geralmente como comida rápida."
+  },
+  {
+    id: 'to_make_give_' + 53,
+    word: "We want to eat pizza with our friends today. We want to go to a pizzeria.",
+    translation: "Nós queremos comer pizza com nossos amigos hoje. Nós queremos ir a uma pizzaria.",
+    pronunciation: "/wi wɑnt tu it ˈpitsə wɪð ˈaʊər frɛndz təˈdeɪ. wi wɑnt tu ɡoʊ tu ə ˌpitsəˈriə./",
+    portuguesePhonetic: "ui uánt tchu it pít-tsa uid áu-er frends tchu-dêi. ui uánt tchu gôu tchu â pít-tsa-rí-a.",
+    syllables: ["We", " want", " to", " eat", " piz", "za", " with", " our", " friends", " to", "day.", " We", " want", " to", " go", " to", " a", " piz", "ze", "ri", "a."],
+    exampleSentence: "We want to eat pizza with our friends today. We want to go to a pizzeria.",
+    exampleTranslation: "Nós queremos comer pizza com nossos amigos hoje. Nós queremos ir a uma pizzaria."
+  },
+  {
+    id: 'to_make_give_' + 54,
+    word: "They don't want that dish; they prefer to eat hamburgers.",
+    translation: "Elas não querem aquele prato; elas preferem comer hambúrgueres.",
+    pronunciation: "/ðeɪ doʊnt wɑnt ðæt dɪʃ; ðeɪ prəˈfɜr tu it ˈhæmbɜrɡərz./",
+    portuguesePhonetic: "dêi dôunt uánt dét díx; dêi pre-fãr tchu it rém-bãr-guerz.",
+    syllables: ["They", " don't", " want", " that", " dish;", " they", " pre", "fer", " to", " eat", " ham", "bur", "gers."],
+    exampleSentence: "They don't want that dish; they prefer to eat hamburgers.",
+    exampleTranslation: "Elas não querem aquele prato; elas preferem comer hambúrgueres."
+  },
+  {
+    id: 'to_make_give_' + 55,
+    word: "I want to make some coffee. Do you drink coffee?",
+    translation: "Eu quero fazer um pouco de café. Você bebe café?",
+    pronunciation: "/aɪ wɑnt tu meɪk sʌm ˈkɔfi. du ju drɪŋk ˈkɔfi?/",
+    portuguesePhonetic: "ai uánt tchu mêic sâm có-fi. du iu drínc có-fi?",
+    syllables: ["I", " want", " to", " make", " some", " cof", "fee.", " Do", " you", " drink", " cof", "fee?"],
+    exampleSentence: "I want to make some coffee. Do you drink coffee?",
+    exampleTranslation: "Eu quero fazer um pouco de café. Você bebe café?"
+  },
+  {
+    id: 'to_make_give_' + 56,
+    word: "What do you like to eat at the movies? – I love to eat popcorn!",
+    translation: "O que você gosta de comer no cinema? – Eu adoro comer pipoca!",
+    pronunciation: "/wʌt du ju laɪk tu it æt ðə ˈmuviz? – aɪ lʌv tu it ˈpɑpˌkɔrn!/",
+    portuguesePhonetic: "uát du iu láic tchu it ét dâ mú-vis? – ai lâv tchu it páp-córn!",
+    syllables: ["What", " do", " you", " like", " to", " eat", " at", " the", " mo", "vies?", " –", " I", " love", " to", " eat", " pop", "corn!"],
+    exampleSentence: "What do you like to eat at the movies? – I love to eat popcorn!",
+    exampleTranslation: "O que você gosta de comer no cinema? – Eu adoro comer pipoca!"
+  },
+  {
+    id: 'to_make_give_' + 57,
+    word: "What do you want for dessert? – I want ice cream for dessert.",
+    translation: "O que você quer de sobremesa? – Eu quero sorvete de sobremesa.",
+    pronunciation: "/wʌt du ju wɑnt fɔr dɪˈzɜrt? – aɪ wɑnt aɪs krim fɔr dɪˈzɜrt./",
+    portuguesePhonetic: "uát du iu uánt fór di-zãrt? – ai uánt áis crim fór di-zãrt.",
+    syllables: ["What", " do", " you", " want", " for", " des", "sert?", " –", " I", " want", " ice", " cream", " for", " des", "sert."],
+    exampleSentence: "What do you want for dessert? – I want ice cream for dessert.",
+    exampleTranslation: "O que você quer de sobremesa? – Eu quero sorvete de sobremesa."
+  },
+  {
+    id: 'to_make_give_' + 58,
+    word: "He loves to give presents to his family. He loves to bake cakes too.",
+    translation: "Ele adora dar presentes para a família dele. Ele adora fazer bolos também.",
+    pronunciation: "/hi lʌvz tu ɡɪv ˈprɛzənts tu hɪz ˈfæməli. hi lʌvz tu beɪk keɪks tu./",
+    portuguesePhonetic: "ri lâvz tchu giv pré-zents tchu ríz fé-mi-li. ri lâvz tchu bêic quêics tu.",
+    syllables: ["He", " loves", " to", " give", " pres", "ents", " to", " his", " fam", "i", "ly.", " He", " loves", " to", " bake", " cakes", " too."],
+    exampleSentence: "He loves to give presents to his family. He loves to bake cakes too.",
+    exampleTranslation: "Ele adora dar presentes para a família dele. Ele adora fazer bolos também."
+  },
+  {
+    id: 'to_make_give_' + 59,
+    word: "She wants to eat some of these desserts.",
+    translation: "Ela quer comer algumas dessas sobremesas.",
+    pronunciation: "/ʃi wɑnts tu it sʌm ʌv ðiz dɪˈzɜrts./",
+    portuguesePhonetic: "chi uánts tchu it sâm áv díz di-zãrts.",
+    syllables: ["She", " wants", " to", " eat", " some", " of", " these", " des", "serts."],
+    exampleSentence: "She wants to eat some of these desserts.",
+    exampleTranslation: "Ela quer comer algumas dessas sobremesas."
+  },
+  {
+    id: 'to_make_give_' + 60,
+    word: "I am hungry. I want some pasta.",
+    translation: "Eu estou com fome. Eu quero um pouco de macarrão.",
+    pronunciation: "/aɪ æm ˈhʌŋɡri. aɪ wɑnt sʌm ˈpɑstə./",
+    portuguesePhonetic: "ai ém rân-gri. ai uánt sâm pás-ta.",
+    syllables: ["I", " am", " hun", "gry.", " I", " want", " some", " pas", "ta."],
+    exampleSentence: "I am hungry. I want some pasta.",
+    exampleTranslation: "Eu estou com fome. Eu quero um pouco de macarrão."
+  },
+  {
+    id: 'to_make_give_' + 61,
+    word: "They are thirsty. They want some water.",
+    translation: "Eles estão com sede. Eles querem um pouco de água.",
+    pronunciation: "/ðeɪ ɑr ˈθɜrsti. ðeɪ wɑnt sʌm ˈwɔtər./",
+    portuguesePhonetic: "dêi ar thãrs-ti. dêi uánt sâm uó-ter.",
+    syllables: ["They", " are", " thirs", "ty.", " They", " want", " some", " wa", "ter."],
+    exampleSentence: "They are thirsty. They want some water.",
+    exampleTranslation: "Eles estão com sede. Eles querem um pouco de água."
+  },
+  {
+    id: 'to_make_give_' + 62,
+    word: "He has some friends in the U.S.A.",
+    translation: "Ele tem alguns amigos nos Estados Unidos.",
+    pronunciation: "/hi hæz sʌm frɛndz ɪn ðə ˌjuˌɛsˈeɪ./",
+    portuguesePhonetic: "ri réz sâm frends in dâ iu-es-êi.",
+    syllables: ["He", " has", " some", " friends", " in", " the", " U.", "S.", "A."],
+    exampleSentence: "He has some friends in the U.S.A.",
+    exampleTranslation: "Ele tem alguns amigos nos Estados Unidos."
+  },
+  {
+    id: 'to_make_give_' + 63,
+    word: "I need some milk to make the cake.",
+    translation: "Eu preciso de um pouco de leite para fazer o bolo.",
+    pronunciation: "/aɪ nid sʌm mɪlk tu meɪk ðə keɪk./",
+    portuguesePhonetic: "ai nid sâm milc tchu mêic dâ quêic.",
+    syllables: ["I", " need", " some", " milk", " to", " make", " the", " cake."],
+    exampleSentence: "I need some milk to make the cake.",
+    exampleTranslation: "Eu preciso de um pouco de leite para fazer o bolo."
+  },
+  {
+    id: 'to_make_give_' + 64,
+    word: "They have some money to go to the mall.",
+    translation: "Eles têm algum dinheiro para ir ao shopping.",
+    pronunciation: "/ðeɪ hæv sʌm ˈmʌni tu ɡoʊ tu ðə mɔl./",
+    portuguesePhonetic: "dêi rév sâm má-ni tchu gôu tchu dâ mól.",
+    syllables: ["They", " have", " some", " mon", "ey", " to", " go", " to", " the", " mall."],
+    exampleSentence: "They have some money to go to the mall.",
+    exampleTranslation: "Eles têm algum dinheiro para ir ao shopping."
+  },
+  {
+    id: 'to_make_give_' + 65,
+    word: "We make some food for our birthday.",
+    translation: "Nós fazemos alguma comida para o nosso aniversário.",
+    pronunciation: "/wi meɪk sʌm fud fɔr ˈaʊər ˈbɜrθˌdeɪ./",
+    portuguesePhonetic: "ui mêic sâm fud fór áu-er bãrth-dêi.",
+    syllables: ["We", " make", " some", " food", " for", " our", " birth", "day."],
+    exampleSentence: "We make some food for our birthday.",
+    exampleTranslation: "Nós fazemos alguma comida para o nosso aniversário."
+  },
+  {
+    id: 'to_make_give_' + 66,
+    word: "They want to visit their parents.",
+    translation: "Eles querem visitar os pais deles.",
+    pronunciation: "/ðeɪ wɑnt tu ˈvɪzɪt ðɛr ˈpɛrənts./",
+    portuguesePhonetic: "dêi uánt tchu ví-zit dêiar pé-rents.",
+    syllables: ["They", " want", " to", " vis", "it", " their", " par", "ents."],
+    exampleSentence: "They want to visit their parents.",
+    exampleTranslation: "Eles querem visitar os pais deles."
+  },
+  {
+    id: 'to_make_give_' + 67,
+    word: "We eat at our restaurant every day.",
+    translation: "Nós comemos em nosso restaurante todos os dias.",
+    pronunciation: "/wi it æt ˈaʊər ˈrɛstəˌrɑnt ˈɛvri deɪ./",
+    portuguesePhonetic: "ui it ét áu-er rés-to-rant év-ri dêi.",
+    syllables: ["We", " eat", " at", " our", " res", "tau", "rant", " ev", "ery", " day."],
+    exampleSentence: "We eat at our restaurant every day.",
+    exampleTranslation: "Nós comemos em nosso restaurante todos os dias."
+  },
+  {
+    id: 'to_make_give_' + 68,
+    word: "They usually make their favorite cake on weekends.",
+    translation: "Eles geralmente fazem o bolo favorito deles nos fins de semana.",
+    pronunciation: "/ðeɪ ˈjuʒuəli meɪk ðɛr ˈfeɪvərɪt keɪk ɑn ˈwiˌkɛndz./",
+    portuguesePhonetic: "dêi iú-ju-a-li mêic dêiar fêi-vo-rit quêic an uíc-ends.",
+    syllables: ["They", " u", "su", "al", "ly", " make", " their", " fa", "vor", "ite", " cake", " on", " week", "ends."],
+    exampleSentence: "They usually make their favorite cake on weekends.",
+    exampleTranslation: "Eles geralmente fazem o bolo favorito deles nos fins de semana."
+  },
+  {
+    id: 'to_make_give_' + 69,
+    word: "He thinks his tea is very hot.",
+    translation: "Ele acha que o chá dele está muito quente.",
+    pronunciation: "/hi θɪŋks hɪz ti ɪz ˈvɛri hɑt./",
+    portuguesePhonetic: "ri thíncs ríz ti iz vé-ri rát.",
+    syllables: ["He", " thinks", " his", " tea", " is", " ve", "ry", " hot."],
+    exampleSentence: "He thinks his tea is very hot.",
+    exampleTranslation: "Ele acha que o chá dele está muito quente."
+  },
+  {
+    id: 'to_make_give_' + 70,
+    word: "We want to study with our friend tonight.",
+    translation: "Nós queremos estudar com nosso amigo esta noite.",
+    pronunciation: "/wi wɑnt tu ˈstʌdi wɪð ˈaʊər frɛnd təˈnaɪt./",
+    portuguesePhonetic: "ui uánt tchu stâ-di uid áu-er frend tchu-náit.",
+    syllables: ["We", " want", " to", " stud", "y", " with", " our", " friend", " to", "night."],
+    exampleSentence: "We want to study with our friend tonight.",
+    exampleTranslation: "Nós queremos estudar com nosso amigo esta noite."
+  },
+  {
+    id: 'to_make_give_' + 71,
+    word: "She doesn't eat popcorn when she watches movies at her house.",
+    translation: "Ela não come pipoca quando assiste a filmes na casa dela.",
+    pronunciation: "/ʃi ˈdʌzənt it ˈpɑpˌkɔrn wɛn ʃi ˈwɑtʃəz ˈmuviz æt hər haʊs./",
+    portuguesePhonetic: "chi dâ-zent it páp-córn uén chi uá-tchiz mú-vis ét rãr ráus.",
+    syllables: ["She", " doesn't", " eat", " pop", "corn", " when", " she", " watch", "es", " mo", "vies", " at", " her", " house."],
+    exampleSentence: "She doesn't eat popcorn when she watches movies at her house.",
+    exampleTranslation: "Ela não come pipoca quando assiste a filmes na casa dela."
+  },
+  {
+    id: 'to_make_give_' + 72,
+    word: "They are at the mall with their parents.",
+    translation: "Eles estão no shopping com os pais deles.",
+    pronunciation: "/ðeɪ ɑr æt ðə mɔl wɪð ðɛr ˈpɛrənts./",
+    portuguesePhonetic: "dêi ar ét dâ mól uid dêiar pé-rents.",
+    syllables: ["They", " are", " at", " the", " mall", " with", " their", " par", "ents."],
+    exampleSentence: "They are at the mall with their parents.",
+    exampleTranslation: "Eles estão no shopping com os pais deles."
+  },
+  {
+    id: 'to_make_give_' + 73,
+    word: "tip",
+    translation: "gorjeta",
+    pronunciation: "/tɪp/",
+    portuguesePhonetic: "tip",
+    syllables: ["tip"],
+    exampleSentence: "I usually give tips to waiters.",
+    exampleTranslation: "Eu geralmente dou gorjetas aos garçons."
+  },
+  {
+    id: 'to_make_give_' + 74,
+    word: "waiter",
+    translation: "garçom",
+    pronunciation: "/ˈweɪtər/",
+    portuguesePhonetic: "uêi-ter",
+    syllables: ["wai", "ter"],
+    exampleSentence: "The waiter is very nice.",
+    exampleTranslation: "O garçom é muito legal."
+  },
+  {
+    id: 'to_make_give_' + 75,
+    word: "dessert",
+    translation: "sobremesa",
+    pronunciation: "/dɪˈzɜrt/",
+    portuguesePhonetic: "di-zãrt",
+    syllables: ["des", "sert"],
+    exampleSentence: "What do you want for dessert?",
+    exampleTranslation: "O que você quer de sobremesa?"
+  },
+  {
+    id: 'to_make_give_' + 76,
+    word: "soda",
+    translation: "refrigerante",
+    pronunciation: "/ˈsoʊdə/",
+    portuguesePhonetic: "sôu-da",
+    syllables: ["so", "da"],
+    exampleSentence: "He doesn't drink soda.",
+    exampleTranslation: "Ele não bebe refrigerante."
+  },
+  {
+    id: 'to_make_give_' + 77,
+    word: "healthy",
+    translation: "saudável",
+    pronunciation: "/ˈhɛlθi/",
+    portuguesePhonetic: "rél-thi",
+    syllables: ["heal", "thy"],
+    exampleSentence: "He doesn't think it's healthy.",
+    exampleTranslation: "Ele não acha que é saudável."
+  },
+  {
+    id: 'to_make_give_' + 78,
+    word: "fast food",
+    translation: "comida rápida",
+    pronunciation: "/fæst fud/",
+    portuguesePhonetic: "fest fud",
+    syllables: ["fast", " food"],
+    exampleSentence: "I usually eat fast food.",
+    exampleTranslation: "Eu geralmente como comida rápida."
+  },
+  {
+    id: 'to_make_give_' + 79,
+    word: "dish",
+    translation: "prato",
+    pronunciation: "/dɪʃ/",
+    portuguesePhonetic: "díx",
+    syllables: ["dish"],
+    exampleSentence: "They don't want that dish.",
+    exampleTranslation: "Elas não querem aquele prato."
+  },
+  {
+    id: 'to_make_give_' + 80,
+    word: "hamburger",
+    translation: "hambúrguer",
+    pronunciation: "/ˈhæmbɜrɡər/",
+    portuguesePhonetic: "rém-bãr-guer",
+    syllables: ["ham", "bur", "ger"],
+    exampleSentence: "They prefer to eat hamburgers.",
+    exampleTranslation: "Elas preferem comer hambúrgueres."
+  },
+  {
+    id: 'to_make_give_' + 81,
+    word: "coffee",
+    translation: "café",
+    pronunciation: "/ˈkɔfi/",
+    portuguesePhonetic: "có-fi",
+    syllables: ["cof", "fee"],
+    exampleSentence: "I want to make some coffee.",
+    exampleTranslation: "Eu quero fazer um pouco de café."
+  },
+  {
+    id: 'to_make_give_' + 82,
+    word: "popcorn",
+    translation: "pipoca",
+    pronunciation: "/ˈpɑpˌkɔrn/",
+    portuguesePhonetic: "páp-córn",
+    syllables: ["pop", "corn"],
+    exampleSentence: "I love to eat popcorn!",
+    exampleTranslation: "Eu adoro comer pipoca!"
+  },
+  {
+    id: 'to_make_give_' + 83,
+    word: "ice cream",
+    translation: "sorvete",
+    pronunciation: "/aɪs krim/",
+    portuguesePhonetic: "áis crim",
+    syllables: ["ice", " cream"],
+    exampleSentence: "I want ice cream for dessert.",
+    exampleTranslation: "Eu quero sorvete de sobremesa."
+  },
+  {
+    id: 'to_make_give_' + 84,
+    word: "pizzeria",
+    translation: "pizzaria",
+    pronunciation: "/ˌpitsəˈriə/",
+    portuguesePhonetic: "pít-tsa-rí-a",
+    syllables: ["piz", "ze", "ri", "a"],
+    exampleSentence: "We want to go to a pizzeria.",
+    exampleTranslation: "Nós queremos ir a uma pizzaria."
+  },
+  {
+    id: 'to_make_give_' + 85,
+    word: "present",
+    translation: "presente",
+    pronunciation: "/ˈprɛzənt/",
+    portuguesePhonetic: "pré-zent",
+    syllables: ["pres", "ent"],
+    exampleSentence: "He loves to give presents to his family.",
+    exampleTranslation: "Ele adora dar presentes para a família dele."
+  },
+  {
+    id: 'to_make_give_' + 86,
+    word: "bake",
+    translation: "fazer/assar bolos",
+    pronunciation: "/beɪk/",
+    portuguesePhonetic: "bêic",
+    syllables: ["bake"],
+    exampleSentence: "He loves to bake cakes too.",
+    exampleTranslation: "Ele adora fazer bolos também."
+  },
+  {
+    id: 'to_make_give_' + 87,
+    word: "cake",
+    translation: "bolo",
+    pronunciation: "/keɪk/",
+    portuguesePhonetic: "quêic",
+    syllables: ["cake"],
+    exampleSentence: "They usually make their favorite cake on weekends.",
+    exampleTranslation: "Eles geralmente fazem o bolo favorito deles nos fins de semana."
+  },
+  {
+    id: 'to_make_give_' + 88,
+    word: "thirsty",
+    translation: "com sede",
+    pronunciation: "/ˈθɜrsti/",
+    portuguesePhonetic: "thãrs-ti",
+    syllables: ["thirs", "ty"],
+    exampleSentence: "They are thirsty. They want some water.",
+    exampleTranslation: "Eles estão com sede. Eles querem um pouco de água."
+  },
+  {
+    id: 'to_make_give_' + 89,
+    word: "hungry",
+    translation: "com fome",
+    pronunciation: "/ˈhʌŋɡri/",
+    portuguesePhonetic: "rân-gri",
+    syllables: ["hun", "gry"],
+    exampleSentence: "I am hungry. I want some pasta.",
+    exampleTranslation: "Eu estou com fome. Eu quero um pouco de macarrão."
+  },
+  {
+    id: 'to_make_give_' + 90,
+    word: "some",
+    translation: "algum(a), alguns(as)",
+    pronunciation: "/sʌm/",
+    portuguesePhonetic: "sâm",
+    syllables: ["some"],
+    exampleSentence: "I need some milk to make the cake.",
+    exampleTranslation: "Eu preciso de um pouco de leite para fazer o bolo."
+  },
+  {
+    id: 'to_make_give_' + 91,
+    word: "mall",
+    translation: "shopping",
+    pronunciation: "/mɔl/",
+    portuguesePhonetic: "mól",
+    syllables: ["mall"],
+    exampleSentence: "They are at the mall with their parents.",
+    exampleTranslation: "Eles estão no shopping com os pais deles."
+  },
+  {
+    id: 'to_make_give_' + 92,
+    word: "movie theater / movies",
+    translation: "cinema",
+    pronunciation: "/ˈmuvi ˌθiətər / ˈmuviz/",
+    portuguesePhonetic: "mú-vi thí-a-ter / mú-vis",
+    syllables: ["mo","vie", " the","a","ter", " /", " mo","vies"],
+    exampleSentence: "What do you like to eat at the movies?",
+    exampleTranslation: "O que você gosta de comer no cinema?"
+  },
+  {
+    id: 'to_make_give_' + 93,
+    word: "favorite",
+    translation: "favorito",
+    pronunciation: "/ˈfeɪvərɪt/",
+    portuguesePhonetic: "fêi-vo-rit",
+    syllables: ["fa", "vor", "ite"],
+    exampleSentence: "My mother wants to make my favorite dessert tonight.",
+    exampleTranslation: "Minha mãe quer fazer minha sobremesa favorita esta noite."
+  },
+  {
+    id: 'to_make_give_' + 94,
+    word: "during the week",
+    translation: "durante a semana",
+    pronunciation: "/ˈdʊrɪŋ ðə wik/",
+    portuguesePhonetic: "dú-ring dâ uíc",
+    syllables: ["dur", "ing", " the", " week"],
+    exampleSentence: "I don't have time to cook during the week.",
+    exampleTranslation: "Eu não tenho tempo para cozinhar durante a semana."
+  },
+  {
+    id: 'to_make_give_' + 95,
+    word: "on weekends",
+    translation: "nos fins de semana",
+    pronunciation: "/ɑn ˈwiˌkɛndz/",
+    portuguesePhonetic: "an uíc-ends",
+    syllables: ["on", " week", "ends"],
+    exampleSentence: "They usually make their favorite cake on weekends.",
+    exampleTranslation: "Eles geralmente fazem o bolo favorito deles nos fins de semana."
+  }
 ];
 
 
@@ -9080,6 +12545,496 @@ export const TO_OPEN_CLOSE_DECK: FlashcardData[] = [
     exampleSentence: "knife → knives",
     exampleTranslation: "faca → facas (plural irregular)"
   },
+  {
+    id: 'to_open_close_' + 51,
+    word: "I need to open this bottle. I want to drink some juice.",
+    translation: "Eu preciso abrir esta garrafa. Eu quero beber um pouco de suco.",
+    pronunciation: "/aɪ nid tu ˈoʊpən ðɪs ˈbɑtəl. aɪ wɑnt tu drɪŋk sʌm dʒus./",
+    portuguesePhonetic: "ai nid tchu ôu-pen díz bá-tou. ai uánt tchu drínc sâm djus.",
+    syllables: ["I", " need", " to", " o", "pen", " this", " bot", "tle.", " I", " want", " to", " drink", " some", " juice."],
+    exampleSentence: "I need to open this bottle. I want to drink some juice.",
+    exampleTranslation: "Eu preciso abrir esta garrafa. Eu quero beber um pouco de suco."
+  },
+  {
+    id: 'to_open_close_' + 52,
+    word: "The ice cream shop closes at ten o'clock on Saturdays.",
+    translation: "A sorveteria fecha às dez horas aos sábados.",
+    pronunciation: "/ðə aɪs krim ʃɑp ˈkloʊzəz æt tɛn əˈklɑk ɑn ˈsætərˌdeɪz./",
+    portuguesePhonetic: "dâ áis crim xáp clôu-ziz ét tén a-clóc an sé-ter-dêis.",
+    syllables: ["The", " ice", " cream", " shop", " clo", "ses", " at", " ten", " o'clock", " on", " Sat", "ur", "days."],
+    exampleSentence: "The ice cream shop closes at ten o'clock on Saturdays.",
+    exampleTranslation: "A sorveteria fecha às dez horas aos sábados."
+  },
+  {
+    id: 'to_open_close_' + 53,
+    word: "I need a fork and a knife, please.",
+    translation: "Eu preciso de um garfo e uma faca, por favor.",
+    pronunciation: "/aɪ nid ə fɔrk ænd ə naɪf, pliz./",
+    portuguesePhonetic: "ai nid â fórc énd â naif, plis.",
+    syllables: ["I", " need", " a", " fork", " and", " a", " knife,", " please."],
+    exampleSentence: "I need a fork and a knife, please.",
+    exampleTranslation: "Eu preciso de um garfo e uma faca, por favor."
+  },
+  {
+    id: 'to_open_close_' + 54,
+    word: "Do you want something to drink? – A can of soda, please.",
+    translation: "Você quer alguma coisa para beber? – Uma lata de refrigerante, por favor.",
+    pronunciation: "/du ju wɑnt ˈsʌmθɪŋ tu drɪŋk? – ə kæn ʌv ˈsoʊdə, pliz./",
+    portuguesePhonetic: "du iu uánt sâm-thing tchu drínc? – â kén áv sôu-da, plis.",
+    syllables: ["Do", " you", " want", " some", "thing", " to", " drink?", " –", " A", " can", " of", " so", "da,", " please."],
+    exampleSentence: "Do you want something to drink? – A can of soda, please.",
+    exampleTranslation: "Você quer alguma coisa para beber? – Uma lata de refrigerante, por favor."
+  },
+  {
+    id: 'to_open_close_' + 55,
+    word: "They want to have a snack now.",
+    translation: "Eles querem fazer um lanche agora.",
+    pronunciation: "/ðeɪ wɑnt tu hæv ə snæk naʊ./",
+    portuguesePhonetic: "dêi uánt tchu rév â snéc náu.",
+    syllables: ["They", " want", " to", " have", " a", " snack", " now."],
+    exampleSentence: "They want to have a snack now.",
+    exampleTranslation: "Eles querem fazer um lanche agora."
+  },
+  {
+    id: 'to_open_close_' + 56,
+    word: "I want to have a milkshake at the snack bar. – It opens at eight o'clock.",
+    translation: "Eu quero tomar um milk-shake na lanchonete. – Ela abre às oito horas.",
+    pronunciation: "/aɪ wɑnt tu hæv ə ˈmɪlkˌʃeɪk æt ðə snæk bɑr. – ɪt ˈoʊpənz æt eɪt əˈklɑk./",
+    portuguesePhonetic: "ai uánt tchu rév â mílc-xêic ét dâ snéc bár. – it ôu-penz ét êit a-clóc.",
+    syllables: ["I", " want", " to", " have", " a", " milk", "shake", " at", " the", " snack", " bar.", " –", " It", " o", "pens", " at", " eight", " o'clock."],
+    exampleSentence: "I want to have a milkshake at the snack bar. – It opens at eight o'clock.",
+    exampleTranslation: "Eu quero tomar um milk-shake na lanchonete. – Ela abre às oito horas."
+  },
+  {
+    id: 'to_open_close_' + 57,
+    word: "Where is the ice cream shop? – It's near here.",
+    translation: "Onde é a sorveteria? – É perto daqui.",
+    pronunciation: "/wɛr ɪz ðə aɪs krim ʃɑp? – ɪts nɪr hɪr./",
+    portuguesePhonetic: "uér iz dâ áis crim xáp? – its níar ríar.",
+    syllables: ["Where", " is", " the", " ice", " cream", " shop?", " –", " It's", " near", " here."],
+    exampleSentence: "Where is the ice cream shop? – It's near here.",
+    exampleTranslation: "Onde é a sorveteria? – É perto daqui."
+  },
+  {
+    id: 'to_open_close_' + 58,
+    word: "What time does the Italian restaurant open? – It opens at 7:00 p.m.",
+    translation: "A que horas o restaurante italiano abre? – Abre às 7:00 da noite.",
+    pronunciation: "/wʌt taɪm dʌz ðə ɪˈtæljən ˈrɛstəˌrɑnt ˈoʊpən? – ɪt ˈoʊpənz æt ˈsɛvən pi-ɛm./",
+    portuguesePhonetic: "uát táim dâz dâ i-té-lian rés-to-rant ôu-pen? – it ôu-penz ét sé-ven pi-ém.",
+    syllables: ["What", " time", " does", " the", " I", "tal", "ian", " res", "tau", "rant", " o", "pen?", " –", " It", " o", "pens", " at", " 7:00", " p.m."],
+    exampleSentence: "What time does the Italian restaurant open? – It opens at 7:00 p.m.",
+    exampleTranslation: "A que horas o restaurante italiano abre? – Abre às 7:00 da noite."
+  },
+  {
+    id: 'to_open_close_' + 59,
+    word: "Do you need anything? – Yes, we need some napkins, please.",
+    translation: "Vocês precisam de alguma coisa? – Sim, nós precisamos de guardanapos, por favor.",
+    pronunciation: "/du ju nid ˈɛniˌθɪŋ? – jɛs, wi nid sʌm ˈnæpkɪnz, pliz./",
+    portuguesePhonetic: "du iu nid é-ni-thing? – iés, ui nid sâm nép-kins, plis.",
+    syllables: ["Do", " you", " need", " an", "y", "thing?", " –", " Yes,", " we", " need", " some", " nap", "kins,", " please."],
+    exampleSentence: "Do you need anything? – Yes, we need some napkins, please.",
+    exampleTranslation: "Vocês precisam de alguma coisa? – Sim, nós precisamos de guardanapos, por favor."
+  },
+  {
+    id: 'to_open_close_' + 60,
+    word: "I'm hungry. Do you want to order something?",
+    translation: "Eu estou com fome. Você quer pedir alguma coisa?",
+    pronunciation: "/aɪm ˈhʌŋɡri. du ju wɑnt tu ˈɔrdər ˈsʌmθɪŋ?/",
+    portuguesePhonetic: "aim rân-gri. du iu uánt tchu ór-der sâm-thing?",
+    syllables: ["I'm", " hun", "gry.", " Do", " you", " want", " to", " or", "der", " some", "thing?"],
+    exampleSentence: "I'm hungry. Do you want to order something?",
+    exampleTranslation: "Eu estou com fome. Você quer pedir alguma coisa?"
+  },
+  {
+    id: 'to_open_close_' + 61,
+    word: "I need some medicine to feel better.",
+    translation: "Eu preciso de um remédio para me sentir melhor.",
+    pronunciation: "/aɪ nid sʌm ˈmɛdəsən tu fil ˈbɛtər./",
+    portuguesePhonetic: "ai nid sâm mé-di-sin tchu fil bé-ter.",
+    syllables: ["I", " need", " some", " med", "i", "cine", " to", " feel", " bet", "ter."],
+    exampleSentence: "I need some medicine to feel better.",
+    exampleTranslation: "Eu preciso de um remédio para me sentir melhor."
+  },
+  {
+    id: 'to_open_close_' + 62,
+    word: "We want to go out tonight.",
+    translation: "Nós queremos sair esta noite.",
+    pronunciation: "/wi wɑnt tu ɡoʊ aʊt təˈnaɪt./",
+    portuguesePhonetic: "ui uánt tchu gôu áut tchu-náit.",
+    syllables: ["We", " want", " to", " go", " out", " to", "night."],
+    exampleSentence: "We want to go out tonight.",
+    exampleTranslation: "Nós queremos sair esta noite."
+  },
+  {
+    id: 'to_open_close_' + 63,
+    word: "I drink coffee every other day.",
+    translation: "Eu tomo café dia sim, dia não.",
+    pronunciation: "/aɪ drɪŋk ˈkɔfi ˈɛvri ˈʌðər deɪ./",
+    portuguesePhonetic: "ai drínc có-fi év-ri á-der dêi.",
+    syllables: ["I", " drink", " cof", "fee", " ev", "ery", " oth", "er", " day."],
+    exampleSentence: "I drink coffee every other day.",
+    exampleTranslation: "Eu tomo café dia sim, dia não."
+  },
+  {
+    id: 'to_open_close_' + 64,
+    word: "I'm sure she is at home.",
+    translation: "Tenho certeza de que ela está em casa.",
+    pronunciation: "/aɪm ʃʊr ʃi ɪz æt hoʊm./",
+    portuguesePhonetic: "aim xúr chi iz ét rôum.",
+    syllables: ["I'm", " sure", " she", " is", " at", " home."],
+    exampleSentence: "I'm sure she is at home.",
+    exampleTranslation: "Tenho certeza de que ela está em casa."
+  },
+  {
+    id: 'to_open_close_' + 65,
+    word: "We want to order a pizza.",
+    translation: "Nós queremos pedir uma pizza.",
+    pronunciation: "/wi wɑnt tu ˈɔrdər ə ˈpitsə./",
+    portuguesePhonetic: "ui uánt tchu ór-der â pít-tsa.",
+    syllables: ["We", " want", " to", " or", "der", " a", " piz", "za."],
+    exampleSentence: "We want to order a pizza.",
+    exampleTranslation: "Nós queremos pedir uma pizza."
+  },
+  {
+    id: 'to_open_close_' + 66,
+    word: "I want to have dessert after dinner.",
+    translation: "Eu quero comer sobremesa depois do jantar.",
+    pronunciation: "/aɪ wɑnt tu hæv dɪˈzɜrt ˈæftər ˈdɪnər./",
+    portuguesePhonetic: "ai uánt tchu rév di-zãrt éf-ter dín-ner.",
+    syllables: ["I", " want", " to", " have", " des", "sert", " af", "ter", " din", "ner."],
+    exampleSentence: "I want to have dessert after dinner.",
+    exampleTranslation: "Eu quero comer sobremesa depois do jantar."
+  },
+  {
+    id: 'to_open_close_' + 67,
+    word: "Do you need anything?",
+    translation: "Você precisa de alguma coisa?",
+    pronunciation: "/du ju nid ˈɛniˌθɪŋ?/",
+    portuguesePhonetic: "du iu nid é-ni-thing?",
+    syllables: ["Do", " you", " need", " an", "y", "thing?"],
+    exampleSentence: "Do you need anything?",
+    exampleTranslation: "Você precisa de alguma coisa?"
+  },
+  {
+    id: 'to_open_close_' + 68,
+    word: "I want something to drink.",
+    translation: "Eu quero alguma coisa para beber.",
+    pronunciation: "/aɪ wɑnt ˈsʌmθɪŋ tu drɪŋk./",
+    portuguesePhonetic: "ai uánt sâm-thing tchu drínc.",
+    syllables: ["I", " want", " some", "thing", " to", " drink."],
+    exampleSentence: "I want something to drink.",
+    exampleTranslation: "Eu quero alguma coisa para beber."
+  },
+  {
+    id: 'to_open_close_' + 69,
+    word: "Do you have anything to study today?",
+    translation: "Você tem alguma coisa para estudar hoje?",
+    pronunciation: "/du ju hæv ˈɛniˌθɪŋ tu ˈstʌdi təˈdeɪ?/",
+    portuguesePhonetic: "du iu rév é-ni-thing tchu stâ-di tchu-dêi?",
+    syllables: ["Do", " you", " have", " an", "y", "thing", " to", " stud", "y", " to", "day?"],
+    exampleSentence: "Do you have anything to study today?",
+    exampleTranslation: "Você tem alguma coisa para estudar hoje?"
+  },
+  {
+    id: 'to_open_close_' + 70,
+    word: "We don't want anything to drink.",
+    translation: "Nós não queremos nada para beber.",
+    pronunciation: "/wi doʊnt wɑnt ˈɛniˌθɪŋ tu drɪŋk./",
+    portuguesePhonetic: "ui dôunt uánt é-ni-thing tchu drínc.",
+    syllables: ["We", " don't", " want", " an", "y", "thing", " to", " drink."],
+    exampleSentence: "We don't want anything to drink.",
+    exampleTranslation: "Nós não queremos nada para beber."
+  },
+  {
+    id: 'to_open_close_' + 71,
+    word: "I want to give something to my mother on her birthday.",
+    translation: "Eu quero dar alguma coisa para minha mãe no aniversário dela.",
+    pronunciation: "/aɪ wɑnt tu ɡɪv ˈsʌmθɪŋ tu maɪ ˈmʌðər ɑn hər ˈbɜrθˌdeɪ./",
+    portuguesePhonetic: "ai uánt tchu giv sâm-thing tchu mai má-der an rãr bãrth-dêi.",
+    syllables: ["I", " want", " to", " give", " some", "thing", " to", " my", " moth", "er", " on", " her", " birth", "day."],
+    exampleSentence: "I want to give something to my mother on her birthday.",
+    exampleTranslation: "Eu quero dar alguma coisa para minha mãe no aniversário dela."
+  },
+  {
+    id: 'to_open_close_' + 72,
+    word: "Do they need something to open that bottle?",
+    translation: "Eles precisam de alguma coisa para abrir aquela garrafa?",
+    pronunciation: "/du ðeɪ nid ˈsʌmθɪŋ tu ˈoʊpən ðæt ˈbɑtəl?/",
+    portuguesePhonetic: "du dêi nid sâm-thing tchu ôu-pen dét bá-tou?",
+    syllables: ["Do", " they", " need", " some", "thing", " to", " o", "pen", " that", " bot", "tle?"],
+    exampleSentence: "Do they need something to open that bottle?",
+    exampleTranslation: "Eles precisam de alguma coisa para abrir aquela garrafa?"
+  },
+  {
+    id: 'to_open_close_' + 73,
+    word: "I don't want to eat anything different this weekend.",
+    translation: "Eu não quero comer nada diferente neste fim de semana.",
+    pronunciation: "/aɪ doʊnt wɑnt tu it ˈɛniˌθɪŋ ˈdɪfərənt ðɪs ˈwiˌkɛnd./",
+    portuguesePhonetic: "ai dôunt uánt tchu item é-ni-thing dí-fe-rent díz uíc-end.",
+    syllables: ["I", " don't", " want", " to", " eat", " an", "y", "thing", " dif", "fer", "ent", " this", " week", "end."],
+    exampleSentence: "I don't want to eat anything different this weekend.",
+    exampleTranslation: "Eu não quero comer nada diferente neste fim de semana."
+  },
+  {
+    id: 'to_open_close_' + 74,
+    word: "I don't think she needs anything.",
+    translation: "Eu não acho que ela precise de nada.",
+    pronunciation: "/aɪ doʊnt θɪŋk ʃi nidz ˈɛniˌθɪŋ./",
+    portuguesePhonetic: "ai dôunt thínc chi nids é-ni-thing.",
+    syllables: ["I", " don't", " think", " she", " needs", " an", "y", "thing."],
+    exampleSentence: "I don't think she needs anything.",
+    exampleTranslation: "Eu não acho que ela precise de nada."
+  },
+  {
+    id: 'to_open_close_' + 75,
+    word: "Do you want to make something delicious for the children?",
+    translation: "Você quer fazer alguma coisa deliciosa para as crianças?",
+    pronunciation: "/du ju wɑnt tu meɪk ˈsʌmθɪŋ dɪˈlɪʃəs fɔr ðə ˈtʃɪldrən?/",
+    portuguesePhonetic: "du iu uánt tchu mêic sâm-thing di-lí-chas fór dâ tchíl-dren?",
+    syllables: ["Do", " you", " want", " to", " make", " some", "thing", " de", "li", "cious", " for", " the", " chil", "dren?"],
+    exampleSentence: "Do you want to make something delicious for the children?",
+    exampleTranslation: "Você quer fazer alguma coisa deliciosa para as crianças?"
+  },
+  {
+    id: 'to_open_close_' + 76,
+    word: "You don't have to read anything before the exam.",
+    translation: "Você não precisa ler nada antes da prova.",
+    pronunciation: "/ju doʊnt hæv tu rid ˈɛniˌθɪŋ bɪˈfɔr ðə ɪɡˈzæm./",
+    portuguesePhonetic: "iu dôunt rév tchu rid é-ni-thing bi-fór dâ eg-zém.",
+    syllables: ["You", " don't", " have", " to", " read", " an", "y", "thing", " be", "fore", " the", " ex", "am."],
+    exampleSentence: "You don't have to read anything before the exam.",
+    exampleTranslation: "Você não precisa ler nada antes da prova."
+  },
+  {
+    id: 'to_open_close_' + 77,
+    word: "bottle",
+    translation: "garrafa",
+    pronunciation: "/ˈbɑtəl/",
+    portuguesePhonetic: "bá-tou",
+    syllables: ["bot", "tle"],
+    exampleSentence: "I need to open this bottle.",
+    exampleTranslation: "Eu preciso abrir esta garrafa."
+  },
+  {
+    id: 'to_open_close_' + 78,
+    word: "juice",
+    translation: "suco",
+    pronunciation: "/dʒus/",
+    portuguesePhonetic: "djus",
+    syllables: ["juice"],
+    exampleSentence: "I want to drink some juice.",
+    exampleTranslation: "Eu quero beber um pouco de suco."
+  },
+  {
+    id: 'to_open_close_' + 79,
+    word: "ice cream shop",
+    translation: "sorveteria",
+    pronunciation: "/aɪs krim ʃɑp/",
+    portuguesePhonetic: "áis crim xáp",
+    syllables: ["ice", " cream", " shop"],
+    exampleSentence: "Where is the ice cream shop?",
+    exampleTranslation: "Onde é a sorveteria?"
+  },
+  {
+    id: 'to_open_close_' + 80,
+    word: "fork",
+    translation: "garfo",
+    pronunciation: "/fɔrk/",
+    portuguesePhonetic: "fórc",
+    syllables: ["fork"],
+    exampleSentence: "I need a fork and a knife, please.",
+    exampleTranslation: "Eu preciso de um garfo e uma faca, por favor."
+  },
+  {
+    id: 'to_open_close_' + 81,
+    word: "knife",
+    translation: "faca",
+    pronunciation: "/naɪf/",
+    portuguesePhonetic: "naif",
+    syllables: ["knife"],
+    exampleSentence: "I need a fork and a knife, please.",
+    exampleTranslation: "Eu preciso de um garfo e uma faca, por favor."
+  },
+  {
+    id: 'to_open_close_' + 82,
+    word: "can of soda",
+    translation: "lata de refrigerante",
+    pronunciation: "/kæn ʌv ˈsoʊdə/",
+    portuguesePhonetic: "kén áv sôu-da",
+    syllables: ["can", " of", " so", "da"],
+    exampleSentence: "Do you want a can of soda?",
+    exampleTranslation: "Você quer uma lata de refrigerante?"
+  },
+  {
+    id: 'to_open_close_' + 83,
+    word: "snack",
+    translation: "lanche",
+    pronunciation: "/snæk/",
+    portuguesePhonetic: "snéc",
+    syllables: ["snack"],
+    exampleSentence: "They want to have a snack now.",
+    exampleTranslation: "Eles querem fazer um lanche agora."
+  },
+  {
+    id: 'to_open_close_' + 84,
+    word: "snack bar",
+    translation: "lanchonete",
+    pronunciation: "/snæk bɑr/",
+    portuguesePhonetic: "snéc bár",
+    syllables: ["snack", " bar"],
+    exampleSentence: "I want to have a milkshake at the snack bar.",
+    exampleTranslation: "Eu quero tomar um milk-shake na lanchonete."
+  },
+  {
+    id: 'to_open_close_' + 85,
+    word: "milkshake",
+    translation: "milk-shake",
+    pronunciation: "/ˈmɪlkˌʃeɪk/",
+    portuguesePhonetic: "mílc-xêic",
+    syllables: ["milk", "shake"],
+    exampleSentence: "I love to drink milkshake.",
+    exampleTranslation: "Eu adoro tomar milk-shake."
+  },
+  {
+    id: 'to_open_close_' + 86,
+    word: "napkin",
+    translation: "guardanapo",
+    pronunciation: "/ˈnæpkɪn/",
+    portuguesePhonetic: "nép-kin",
+    syllables: ["nap", "kin"],
+    exampleSentence: "Yes, we need some napkins, please.",
+    exampleTranslation: "Sim, nós precisamos de guardanapos, por favor."
+  },
+  {
+    id: 'to_open_close_' + 87,
+    word: "order",
+    translation: "pedir",
+    pronunciation: "/ˈɔrdər/",
+    portuguesePhonetic: "ór-der",
+    syllables: ["or", "der"],
+    exampleSentence: "Do you want to order something?",
+    exampleTranslation: "Você quer pedir alguma coisa?"
+  },
+  {
+    id: 'to_open_close_' + 88,
+    word: "dessert",
+    translation: "sobremesa",
+    pronunciation: "/dɪˈzɜrt/",
+    portuguesePhonetic: "di-zãrt",
+    syllables: ["des", "sert"],
+    exampleSentence: "I want to have dessert after dinner.",
+    exampleTranslation: "Eu quero comer sobremesa depois do jantar."
+  },
+  {
+    id: 'to_open_close_' + 89,
+    word: "hungry",
+    translation: "com fome",
+    pronunciation: "/ˈhʌŋɡri/",
+    portuguesePhonetic: "rân-gri",
+    syllables: ["hun", "gry"],
+    exampleSentence: "I'm hungry. Do you want to order something?",
+    exampleTranslation: "Eu estou com fome. Você quer pedir alguma coisa?"
+  },
+  {
+    id: 'to_open_close_' + 90,
+    word: "anything",
+    translation: "qualquer coisa / nada (em negativas)",
+    pronunciation: "/ˈɛniˌθɪŋ/",
+    portuguesePhonetic: "é-ni-thing",
+    syllables: ["an", "y", "thing"],
+    exampleSentence: "Do you need anything?",
+    exampleTranslation: "Você precisa de alguma coisa?"
+  },
+  {
+    id: 'to_open_close_' + 91,
+    word: "something",
+    translation: "alguma coisa",
+    pronunciation: "/ˈsʌmθɪŋ/",
+    portuguesePhonetic: "sâm-thing",
+    syllables: ["some", "thing"],
+    exampleSentence: "I want something to drink.",
+    exampleTranslation: "Eu quero alguma coisa para beber."
+  },
+  {
+    id: 'to_open_close_' + 92,
+    word: "to feel better",
+    translation: "sentir-se melhor",
+    pronunciation: "/tu fil ˈbɛtər/",
+    portuguesePhonetic: "tchu fil bé-ter",
+    syllables: ["to", " feel", " bet", "ter"],
+    exampleSentence: "I need some medicine to feel better.",
+    exampleTranslation: "Eu preciso de um remédio para me sentir melhor."
+  },
+  {
+    id: 'to_open_close_' + 93,
+    word: "to go out",
+    translation: "sair",
+    pronunciation: "/tu ɡoʊ aʊt/",
+    portuguesePhonetic: "tchu gôu áut",
+    syllables: ["to", " go", " out"],
+    exampleSentence: "We want to go out tonight.",
+    exampleTranslation: "Nós queremos sair esta noite."
+  },
+  {
+    id: 'to_open_close_' + 94,
+    word: "every other day",
+    translation: "dia sim, dia não",
+    pronunciation: "/ˈɛvri ˈʌðər deɪ/",
+    portuguesePhonetic: "év-ri á-der dêi",
+    syllables: ["ev", "ery", " oth", "er", " day"],
+    exampleSentence: "I drink coffee every other day.",
+    exampleTranslation: "Eu tomo café dia sim, dia não."
+  },
+  {
+    id: 'to_open_close_' + 95,
+    word: "I'm sure",
+    translation: "tenho certeza",
+    pronunciation: "/aɪm ʃʊr/",
+    portuguesePhonetic: "aim xúr",
+    syllables: ["I'm", " sure"],
+    exampleSentence: "I'm sure she is at home.",
+    exampleTranslation: "Tenho certeza de que ela está em casa."
+  },
+  {
+    id: 'to_open_close_' + 96,
+    word: "Italian restaurant",
+    translation: "restaurante italiano",
+    pronunciation: "/ɪˈtæljən ˈrɛstəˌrɑnt/",
+    portuguesePhonetic: "i-té-lian rés-to-rant",
+    syllables: ["I", "tal", "ian", " res", "tau", "rant"],
+    exampleSentence: "What time does the Italian restaurant open?",
+    exampleTranslation: "A que horas o restaurante italiano abre?"
+  },
+  {
+    id: 'to_open_close_' + 97,
+    word: "open",
+    translation: "abrir",
+    pronunciation: "/ˈoʊpən/",
+    portuguesePhonetic: "ôu-pen",
+    syllables: ["o", "pen"],
+    exampleSentence: "What time does the Italian restaurant open?",
+    exampleTranslation: "A que horas o restaurante italiano abre?"
+  },
+  {
+    id: 'to_open_close_' + 98,
+    word: "close",
+    translation: "fechar",
+    pronunciation: "/kloʊz/",
+    portuguesePhonetic: "clôuz",
+    syllables: ["close"],
+    exampleSentence: "The ice cream shop closes at ten o'clock.",
+    exampleTranslation: "A sorveteria fecha às dez horas."
+  },
+  {
+    id: 'to_open_close_' + 99,
+    word: "near here",
+    translation: "perto daqui",
+    pronunciation: "/nɪr hɪr/",
+    portuguesePhonetic: "níar ríar",
+    syllables: ["near", " here"],
+    exampleSentence: "Where is the ice cream shop? – It's near here.",
+    exampleTranslation: "Onde é a sorveteria? – É perto daqui."
+  }
 ];
 
 
@@ -9554,6 +13509,546 @@ export const TO_CALL_WAIT_DECK: FlashcardData[] = [
     syllables: ["See"," you"," la","ter /"," soon /"," to","mor","row."],
     exampleSentence: "See you later / soon / tomorrow.",
     exampleTranslation: "Vejo você mais tarde / em breve / amanhã."
+  },
+  {
+    id: 'to_call_wait_' + 48,
+    word: "I need to call my husband. I'm in a hurry.",
+    translation: "Eu preciso ligar para o meu marido. Eu estou com pressa.",
+    pronunciation: "/aɪ nid tu kɔl maɪ ˈhʌzbənd. aɪm ɪn ə ˈhɜri./",
+    portuguesePhonetic: "ai nid tchu col mai rãs-band. aim in a rã-ri.",
+    syllables: ["I", " need", " to", " call", " my", " hus", "band.", " I'm", " in", " a", " hur", "ry."],
+    exampleSentence: "I need to call my husband. I'm in a hurry.",
+    exampleTranslation: "Eu preciso ligar para o meu marido. Eu estou com pressa."
+  },
+  {
+    id: 'to_call_wait_' + 49,
+    word: "Does he want to wait for his doctor?",
+    translation: "Ele quer esperar pelo médico dele?",
+    pronunciation: "/dʌz hi wɑnt tu weɪt fɔr hɪz ˈdɑktər?/",
+    portuguesePhonetic: "dâz ri uánt tchu uêit fór riz dóc-ter?",
+    syllables: ["Does", " he", " want", " to", " wait", " for", " his", " doc", "tor?"],
+    exampleSentence: "Does he want to wait for his doctor?",
+    exampleTranslation: "Ele quer esperar pelo médico dele?"
+  },
+  {
+    id: 'to_call_wait_' + 50,
+    word: "Why are you always in a hurry? – Because I'm usually late.",
+    translation: "Por que você está sempre com pressa? – Porque eu geralmente estou atrasado.",
+    pronunciation: "/waɪ ɑr ju ˈɔlˌweɪz ɪn ə ˈhɜri? – bɪˈkɔz aɪm ˈjuʒuəli leɪt./",
+    portuguesePhonetic: "uái ar iu ól-uêiz in a rã-ri? – bi-cóz aim iú-ju-a-li lêit.",
+    syllables: ["Why", " are", " you", " al", "ways", " in", " a", " hur", "ry?", " –", " Be", "cause", " I'm", " u", "su", "al", "ly", " late."],
+    exampleSentence: "Why are you always in a hurry? – Because I'm usually late.",
+    exampleTranslation: "Por que você está sempre com pressa? – Porque eu geralmente estou atrasado."
+  },
+  {
+    id: 'to_call_wait_' + 51,
+    word: "Is she a vegetarian? – No, I think she is vegan.",
+    translation: "Ela é vegetariana? – Não, eu acho que ela é vegana.",
+    pronunciation: "/ɪz ʃi ə ˌvɛdʒəˈtɛriən? – noʊ, aɪ θɪŋk ʃi ɪz ˈviɡən./",
+    portuguesePhonetic: "iz xi a ve-dji-té-ri-an? – nôu, ai thínc xi iz ví-gan.",
+    syllables: ["Is", " she", " a", " veg", "e", "tar", "i", "an?", " –", " No,", " I", " think", " she", " is", " ve", "gan."],
+    exampleSentence: "Is she a vegetarian? – No, I think she is vegan.",
+    exampleTranslation: "Ela é vegetariana? – Não, eu acho que ela é vegana."
+  },
+  {
+    id: 'to_call_wait_' + 52,
+    word: "How often do you eat fast food?",
+    translation: "Com que frequência você come comida rápida?",
+    pronunciation: "/haʊ ˈɔfən du ju it fæst fud?/",
+    portuguesePhonetic: "ráu ó-fen du iu it fest fud?",
+    syllables: ["How", " of", "ten", " do", " you", " eat", " fast", " food?"],
+    exampleSentence: "How often do you eat fast food?",
+    exampleTranslation: "Com que frequência você come comida rápida?"
+  },
+  {
+    id: 'to_call_wait_' + 53,
+    word: "Wait a minute. I need to call my father.",
+    translation: "Espere um pouco. Eu preciso telefonar para meu pai.",
+    pronunciation: "/weɪt ə ˈmɪnət. aɪ nid tu kɔl maɪ ˈfɑðər./",
+    portuguesePhonetic: "uêit a mí-nit. ai nid tchu col mai fá-der.",
+    syllables: ["Wait", " a", " min", "ute.", " I", " need", " to", " call", " my", " fa", "ther."],
+    exampleSentence: "Wait a minute. I need to call my father.",
+    exampleTranslation: "Espere um pouco. Eu preciso telefonar para meu pai."
+  },
+  {
+    id: 'to_call_wait_' + 54,
+    word: "Hurry up! Our boss doesn't like to wait.",
+    translation: "Apressem-se! O nosso chefe não gosta de esperar.",
+    pronunciation: "/ˈhɜri ʌp! ˈaʊər bɔs ˈdʌzənt laɪk tu weɪt./",
+    portuguesePhonetic: "rã-ri âp! áu-er bós dâ-zent láic tchu uêit.",
+    syllables: ["Hur", "ry", " up!", " Our", " boss", " doesn't", " like", " to", " wait."],
+    exampleSentence: "Hurry up! Our boss doesn't like to wait.",
+    exampleTranslation: "Apressem-se! O nosso chefe não gosta de esperar."
+  },
+  {
+    id: 'to_call_wait_' + 55,
+    word: "I often go to that bar. My classmates sometimes meet me there.",
+    translation: "Eu vou frequentemente àquele bar. Meus colegas de classe me encontram lá às vezes.",
+    pronunciation: "/aɪ ˈɔfən goʊ tu ðæt bɑr. maɪ ˈklæsˌmeɪts ˈsʌmˌtaɪmz mit mi ðɛr./",
+    portuguesePhonetic: "ai ó-fen gôu tchu dét bar. mai clés-mêits sâm-taims mit mi dér.",
+    syllables: ["I", " of", "ten", " go", " to", " that", " bar.", " My", " class", "mates", " some", "times", " meet", " me", " there."],
+    exampleSentence: "I often go to that bar. My classmates sometimes meet me there.",
+    exampleTranslation: "Eu vou frequentemente àquele bar. Meus colegas de classe me encontram lá às vezes."
+  },
+  {
+    id: 'to_call_wait_' + 56,
+    word: "Does anybody study with you at home? – No, I study alone.",
+    translation: "Alguém estuda com você em casa? – Não, eu estudo sozinho.",
+    pronunciation: "/dʌz ˈɛniˌbɑdi ˈstʌdi wɪð ju æt hoʊm? – noʊ, aɪ ˈstʌdi əˈloʊn./",
+    portuguesePhonetic: "dâz é-ni-bó-di stâ-di uid iu ét rôum? – nôu, ai stâ-di a-lôun.",
+    syllables: ["Does", " an", "y", "bod", "y", " stud", "y", " with", " you", " at", " home?", " –", " No,", " I", " stud", "y", " a", "lone."],
+    exampleSentence: "Does anybody study with you at home? – No, I study alone.",
+    exampleTranslation: "Alguém estuda com você em casa? – Não, eu estudo sozinho."
+  },
+  {
+    id: 'to_call_wait_' + 57,
+    word: "I don't like this sofa because it isn't comfortable.",
+    translation: "Eu não gosto deste sofá porque ele não é confortável.",
+    pronunciation: "/aɪ doʊnt laɪk ðɪs ˈsoʊfə bɪˈkɔz ɪt ˈɪzənt ˈkʌmfərtəbəl./",
+    portuguesePhonetic: "ai dôunt láic díz sôu-fa bi-cóz it í-zent câm-fãr-ta-bou.",
+    syllables: ["I", " don't", " like", " this", " so", "fa", " be", "cause", " it", " is", "n't", " com", "fort", "a", "ble."],
+    exampleSentence: "I don't like this sofa because it isn't comfortable.",
+    exampleTranslation: "Eu não gosto deste sofá porque ele não é confortável."
+  },
+  {
+    id: 'to_call_wait_' + 58,
+    word: "How often do you eat vegetarian food?",
+    translation: "Com que frequência você come comida vegetariana?",
+    pronunciation: "/haʊ ˈɔfən du ju item ˌvɛdʒəˈtɛriən fud?/",
+    portuguesePhonetic: "ráu ó-fen du iu it ve-dji-té-ri-an fud?",
+    syllables: ["How", " of", "ten", " do", " you", " eat", " veg", "e", "tar", "i", "an", " food?"],
+    exampleSentence: "How often do you eat vegetarian food?",
+    exampleTranslation: "Com que frequência você come comida vegetariana?"
+  },
+  {
+    id: 'to_call_wait_' + 59,
+    word: "The dessert is almost ready.",
+    translation: "A sobremesa está quase pronta.",
+    pronunciation: "/ðə dɪˈzɜrt ɪz ˈɔlˌmoʊst ˈrɛdi./",
+    portuguesePhonetic: "dâ di-zãrt iz ól-môust ré-di.",
+    syllables: ["The", " des", "sert", " is", " al", "most", " rea", "dy."],
+    exampleSentence: "The dessert is almost ready.",
+    exampleTranslation: "A sobremesa está quase pronta."
+  },
+  {
+    id: 'to_call_wait_' + 60,
+    word: "Does he want to order more pizzas?",
+    translation: "Ele quer pedir mais pizzas?",
+    pronunciation: "/dʌz hi wɑnt tu ˈɔrdər mɔr ˈpitsəz?/",
+    portuguesePhonetic: "dâz ri uánt tchu ór-der mór pít-tsas?",
+    syllables: ["Does", " he", " want", " to", " or", "der", " more", " piz", "zas?"],
+    exampleSentence: "Does he want to order more pizzas?",
+    exampleTranslation: "Ele quer pedir mais pizzas?"
+  },
+  {
+    id: 'to_call_wait_' + 61,
+    word: "I'm in a hurry, so I need to go now.",
+    translation: "Estou com pressa, então preciso ir agora.",
+    pronunciation: "/aɪm ɪn ə ˈhɜri, soʊ aɪ nid tu ɡoʊ naʊ./",
+    portuguesePhonetic: "aim in a rã-ri, sôu ai nid tchu gôu náu.",
+    syllables: ["I'm", " in", " a", " hur", "ry,", " so", " I", " need", " to", " go", " now."],
+    exampleSentence: "I'm in a hurry, so I need to go now.",
+    exampleTranslation: "Estou com pressa, então preciso ir agora."
+  },
+  {
+    id: 'to_call_wait_' + 62,
+    word: "What time does the bar open?",
+    translation: "A que horas o bar abre?",
+    pronunciation: "/wʌt taɪm dʌz ðə bɑr ˈoʊpən?/",
+    portuguesePhonetic: "uát táim dâz dâ bar ôu-pen?",
+    syllables: ["What", " time", " does", " the", " bar", " o", "pen?"],
+    exampleSentence: "What time does the bar open?",
+    exampleTranslation: "A que horas o bar abre?"
+  },
+  {
+    id: 'to_call_wait_' + 63,
+    word: "Let's go to that vegan restaurant tonight.",
+    translation: "Vamos àquele restaurante vegano esta noite.",
+    pronunciation: "/lɛts ɡoʊ tu ðæt ˈviɡən ˈrɛstəˌrɑnt təˈnaɪt./",
+    portuguesePhonetic: "léts gôu tchu dét ví-gan rés-to-rant tchu-náit.",
+    syllables: ["Let's", " go", " to", " that", " ve", "gan", " res", "tau", "rant", " to", "night."],
+    exampleSentence: "Let's go to that vegan restaurant tonight.",
+    exampleTranslation: "Vamos àquele restaurante vegano esta noite."
+  },
+  {
+    id: 'to_call_wait_' + 64,
+    word: "How often does he cook for his family?",
+    translation: "Com que frequência ele cozinha para a família dele?",
+    pronunciation: "/haʊ ˈɔfən dʌz hi kʊk fɔr hɪz ˈfæməli?/",
+    portuguesePhonetic: "ráu ó-fen dâz ri cuc fór riz fé-mi-li?",
+    syllables: ["How", " of", "ten", " does", " he", " cook", " for", " his", " fam", "i", "ly?"],
+    exampleSentence: "How often does he cook for his family?",
+    exampleTranslation: "Com que frequência ele cozinha para a família dele?"
+  },
+  {
+    id: 'to_call_wait_' + 65,
+    word: "He is often on time for his appointments.",
+    translation: "Ele frequentemente chega pontualmente aos compromissos dele.",
+    pronunciation: "/hi ɪz ˈɔfən ɑn taɪm fɔr hɪz əˈpɔɪntmənts./",
+    portuguesePhonetic: "ri iz ó-fen an taim fór riz a-póint-ments.",
+    syllables: ["He", " is", " of", "ten", " on", " time", " for", " his", " ap", "point", "ments."],
+    exampleSentence: "He is often on time for his appointments.",
+    exampleTranslation: "Ele frequentemente chega pontualmente aos compromissos dele."
+  },
+  {
+    id: 'to_call_wait_' + 66,
+    word: "I'm a vegan, so I don't eat beef.",
+    translation: "Eu sou vegano, então não como carne bovina.",
+    pronunciation: "/aɪm ə ˈviɡən, soʊ aɪ doʊnt it bif./",
+    portuguesePhonetic: "aim â ví-gan, sôu ai dôunt it bif.",
+    syllables: ["I'm", " a", " ve", "gan,", " so", " I", " don't", " eat", " beef."],
+    exampleSentence: "I'm a vegan, so I don't eat beef.",
+    exampleTranslation: "Eu sou vegano, então não como carne bovina."
+  },
+  {
+    id: 'to_call_wait_' + 67,
+    word: "I don't know anybody in this coffee shop.",
+    translation: "Eu não conheço ninguém nesta cafeteria.",
+    pronunciation: "/aɪ doʊnt noʊ ˈɛniˌbɑdi ɪn ðɪs ˈkɔfi ʃɑp./",
+    portuguesePhonetic: "ai dôunt nôu é-ni-bó-di in díz có-fi xáp.",
+    syllables: ["I", " don't", " know", " an", "y", "bod", "y", " in", " this", " cof", "fee", " shop."],
+    exampleSentence: "I don't know anybody in this coffee shop.",
+    exampleTranslation: "Eu não conheço ninguém nesta cafeteria."
+  },
+  {
+    id: 'to_call_wait_' + 68,
+    word: "How often do you come to this snack bar?",
+    translation: "Com que frequência você vem a esta lanchonete?",
+    pronunciation: "/haʊ ˈɔfən du ju kʌm tu ðɪs snæk bɑr?/",
+    portuguesePhonetic: "ráu ó-fen du iu câm tchu díz snéc bár?",
+    syllables: ["How", " of", "ten", " do", " you", " come", " to", " this", " snack", " bar?"],
+    exampleSentence: "How often do you come to this snack bar?",
+    exampleTranslation: "Com que frequência você vem a esta lanchonete?"
+  },
+  {
+    id: 'to_call_wait_' + 69,
+    word: "Why are you in a hurry?",
+    translation: "Por que você está com pressa?",
+    pronunciation: "/waɪ ɑr ju ɪn ə ˈhɜri?/",
+    portuguesePhonetic: "uái ar iu in a rã-ri?",
+    syllables: ["Why", " are", " you", " in", " a", " hur", "ry?"],
+    exampleSentence: "Why are you in a hurry?",
+    exampleTranslation: "Por que você está com pressa?"
+  },
+  {
+    id: 'to_call_wait_' + 70,
+    word: "Somebody wants to speak with you at the office.",
+    translation: "Alguém quer falar com você no escritório.",
+    pronunciation: "/ˈsʌmˌbɑdi wɑnts tu spik wɪð ju æt ðə ˈɔfəs./",
+    portuguesePhonetic: "sâm-bó-di uánts tchu spíc uid iu ét dâ ó-fis.",
+    syllables: ["Some", "bod", "y", " wants", " to", " speak", " with", " you", " at", " the", " of", "fice."],
+    exampleSentence: "Somebody wants to speak with you at the office.",
+    exampleTranslation: "Alguém quer falar com você no escritório."
+  },
+  {
+    id: 'to_call_wait_' + 71,
+    word: "I need to wait for my co-worker.",
+    translation: "Eu preciso esperar pelo meu colega de trabalho.",
+    pronunciation: "/aɪ nid tu weɪt fɔr maɪ ˌkoʊˈwɜrkər./",
+    portuguesePhonetic: "ai nid tchu uêit fór mai côu-uãr-ker.",
+    syllables: ["I", " need", " to", " wait", " for", " my", " co-", "work", "er."],
+    exampleSentence: "I need to wait for my co-worker.",
+    exampleTranslation: "Eu preciso esperar pelo meu colega de trabalho."
+  },
+  {
+    id: 'to_call_wait_' + 72,
+    word: "husband",
+    translation: "marido",
+    pronunciation: "/ˈhʌzbənd/",
+    portuguesePhonetic: "rãs-band",
+    syllables: ["hus", "band"],
+    exampleSentence: "I need to call my husband.",
+    exampleTranslation: "Eu preciso ligar para o meu marido."
+  },
+  {
+    id: 'to_call_wait_' + 73,
+    word: "in a hurry",
+    translation: "com pressa",
+    pronunciation: "/ɪn ə ˈhɜri/",
+    portuguesePhonetic: "in a rã-ri",
+    syllables: ["in", " a", " hur", "ry"],
+    exampleSentence: "I am in a hurry.",
+    exampleTranslation: "Eu estou com pressa."
+  },
+  {
+    id: 'to_call_wait_' + 74,
+    word: "late",
+    translation: "atrasado",
+    pronunciation: "/leɪt/",
+    portuguesePhonetic: "lêit",
+    syllables: ["late"],
+    exampleSentence: "I am late.",
+    exampleTranslation: "Eu estou atrasado."
+  },
+  {
+    id: 'to_call_wait_' + 75,
+    word: "vegetarian",
+    translation: "vegetariano",
+    pronunciation: "/ˌvɛdʒəˈtɛriən/",
+    portuguesePhonetic: "ve-dji-té-ri-an",
+    syllables: ["veg", "e", "tar", "i", "an"],
+    exampleSentence: "Is she a vegetarian?",
+    exampleTranslation: "Ela é vegetariana?"
+  },
+  {
+    id: 'to_call_wait_' + 76,
+    word: "vegan",
+    translation: "vegano",
+    pronunciation: "/ˈviɡən/",
+    portuguesePhonetic: "ví-gan",
+    syllables: ["ve", "gan"],
+    exampleSentence: "She is vegan.",
+    exampleTranslation: "Ela é vegana."
+  },
+  {
+    id: 'to_call_wait_' + 77,
+    word: "fast food",
+    translation: "comida rápida",
+    pronunciation: "/fæst fud/",
+    portuguesePhonetic: "fest fud",
+    syllables: ["fast", " food"],
+    exampleSentence: "How often do you eat fast food?",
+    exampleTranslation: "Com que frequência você come comida rápida?"
+  },
+  {
+    id: 'to_call_wait_' + 78,
+    word: "wait",
+    translation: "esperar",
+    pronunciation: "/weɪt/",
+    portuguesePhonetic: "uêit",
+    syllables: ["wait"],
+    exampleSentence: "We have to wait here.",
+    exampleTranslation: "Nós temos que esperar aqui."
+  },
+  {
+    id: 'to_call_wait_' + 79,
+    word: "call",
+    translation: "ligar / telefonar",
+    pronunciation: "/kɔl/",
+    portuguesePhonetic: "col",
+    syllables: ["call"],
+    exampleSentence: "I need to call my father.",
+    exampleTranslation: "Eu preciso ligar para meu pai."
+  },
+  {
+    id: 'to_call_wait_' + 80,
+    word: "father",
+    translation: "pai",
+    pronunciation: "/ˈfɑðər/",
+    portuguesePhonetic: "fá-der",
+    syllables: ["fa", "ther"],
+    exampleSentence: "I need to call my father.",
+    exampleTranslation: "Eu preciso telefonar para meu pai."
+  },
+  {
+    id: 'to_call_wait_' + 81,
+    word: "boss",
+    translation: "chefe",
+    pronunciation: "/bɔs/",
+    portuguesePhonetic: "bós",
+    syllables: ["boss"],
+    exampleSentence: "My boss is nice.",
+    exampleTranslation: "Meu chefe é legal."
+  },
+  {
+    id: 'to_call_wait_' + 82,
+    word: "classmate",
+    translation: "colega de classe",
+    pronunciation: "/ˈklæsˌmeɪt/",
+    portuguesePhonetic: "clés-mêit",
+    syllables: ["class", "mate"],
+    exampleSentence: "My classmates sometimes meet me there.",
+    exampleTranslation: "Meus colegas de classe me encontram lá às vezes."
+  },
+  {
+    id: 'to_call_wait_' + 83,
+    word: "alone",
+    translation: "sozinho",
+    pronunciation: "/əˈloʊn/",
+    portuguesePhonetic: "a-lôun",
+    syllables: ["a", "lone"],
+    exampleSentence: "I study alone.",
+    exampleTranslation: "Eu estudo sozinho."
+  },
+  {
+    id: 'to_call_wait_' + 84,
+    word: "sofa",
+    translation: "sofá",
+    pronunciation: "/ˈsoʊfə/",
+    portuguesePhonetic: "sôu-fa",
+    syllables: ["so", "fa"],
+    exampleSentence: "I don't like this sofa.",
+    exampleTranslation: "Eu não gosto deste sofá."
+  },
+  {
+    id: 'to_call_wait_' + 85,
+    word: "comfortable",
+    translation: "confortável",
+    pronunciation: "/ˈkʌmfərtəbəl/",
+    portuguesePhonetic: "câm-fãr-ta-bou",
+    syllables: ["com", "fort", "a", "ble"],
+    exampleSentence: "It is very comfortable.",
+    exampleTranslation: "É muito confortável."
+  },
+  {
+    id: 'to_call_wait_' + 86,
+    word: "dessert",
+    translation: "sobremesa",
+    pronunciation: "/dɪˈzɜrt/",
+    portuguesePhonetic: "di-zãrt",
+    syllables: ["des", "sert"],
+    exampleSentence: "The dessert is almost ready.",
+    exampleTranslation: "A sobremesa está quase pronta."
+  },
+  {
+    id: 'to_call_wait_' + 87,
+    word: "ready",
+    translation: "pronto",
+    pronunciation: "/ˈrɛdi/",
+    portuguesePhonetic: "ré-di",
+    syllables: ["rea", "dy"],
+    exampleSentence: "The dinner is ready.",
+    exampleTranslation: "O jantar está pronto."
+  },
+  {
+    id: 'to_call_wait_' + 88,
+    word: "order",
+    translation: "pedir",
+    pronunciation: "/ˈɔrdər/",
+    portuguesePhonetic: "ór-der",
+    syllables: ["or", "der"],
+    exampleSentence: "Does he want to order pizzas?",
+    exampleTranslation: "Ele quer pedir pizzas?"
+  },
+  {
+    id: 'to_call_wait_' + 89,
+    word: "pizza",
+    translation: "pizza",
+    pronunciation: "/ˈpitsə/",
+    portuguesePhonetic: "pít-tsa",
+    syllables: ["piz", "za"],
+    exampleSentence: "We want to order a pizza.",
+    exampleTranslation: "Nós queremos pedir uma pizza."
+  },
+  {
+    id: 'to_call_wait_' + 90,
+    word: "bar",
+    translation: "bar",
+    pronunciation: "/bɑr/",
+    portuguesePhonetic: "bar",
+    syllables: ["bar"],
+    exampleSentence: "I go to that bar.",
+    exampleTranslation: "Eu vou àquele bar."
+  },
+  {
+    id: 'to_call_wait_' + 91,
+    word: "appointment",
+    translation: "compromisso",
+    pronunciation: "/əˈpɔɪntmənt/",
+    portuguesePhonetic: "a-póint-ment",
+    syllables: ["ap", "point", "ment"],
+    exampleSentence: "He is often on time for his appointments.",
+    exampleTranslation: "Ele frequentemente chega pontualmente aos compromissos dele."
+  },
+  {
+    id: 'to_call_wait_' + 92,
+    word: "on time",
+    translation: "pontual",
+    pronunciation: "/ɑn taɪm/",
+    portuguesePhonetic: "an taim",
+    syllables: ["on", " time"],
+    exampleSentence: "He is often on time.",
+    exampleTranslation: "Ele frequentemente chega pontualmente."
+  },
+  {
+    id: 'to_call_wait_' + 93,
+    word: "anybody",
+    translation: "ninguém / alguém",
+    pronunciation: "/ˈɛniˌbɑdi/",
+    portuguesePhonetic: "é-ni-bó-di",
+    syllables: ["an", "y", "bod", "y"],
+    exampleSentence: "I don't know anybody.",
+    exampleTranslation: "Eu não conheço ninguém."
+  },
+  {
+    id: 'to_call_wait_' + 94,
+    word: "somebody",
+    translation: "alguém",
+    pronunciation: "/ˈsʌmˌbɑdi/",
+    portuguesePhonetic: "sâm-bó-di",
+    syllables: ["some", "bod", "y"],
+    exampleSentence: "Somebody wants to speak with you.",
+    exampleTranslation: "Alguém quer falar com você."
+  },
+  {
+    id: 'to_call_wait_' + 95,
+    word: "beef",
+    translation: "carne bovina",
+    pronunciation: "/bif/",
+    portuguesePhonetic: "bif",
+    syllables: ["beef"],
+    exampleSentence: "I don't eat beef.",
+    exampleTranslation: "Eu não como carne bovina."
+  },
+  {
+    id: 'to_call_wait_' + 96,
+    word: "coffee shop",
+    translation: "cafeteria",
+    pronunciation: "/ˈkɔfi ʃɑp/",
+    portuguesePhonetic: "có-fi xáp",
+    syllables: ["cof", "fee", " shop"],
+    exampleSentence: "I don't know anybody in this coffee shop.",
+    exampleTranslation: "Eu não conheço ninguém nesta cafeteria."
+  },
+  {
+    id: 'to_call_wait_' + 97,
+    word: "snack bar",
+    translation: "lanchonete",
+    pronunciation: "/snæk bɑr/",
+    portuguesePhonetic: "snéc bár",
+    syllables: ["snack", " bar"],
+    exampleSentence: "How often do you come to this snack bar?",
+    exampleTranslation: "Com que frequência você come nesta lanchonete?"
+  },
+  {
+    id: 'to_call_wait_' + 98,
+    word: "How often...?",
+    translation: "Com que frequência...?",
+    pronunciation: "/haʊ ˈɔfən?/",
+    portuguesePhonetic: "ráu ó-fen?",
+    syllables: ["How", " of", "ten?"],
+    exampleSentence: "How often do you study?",
+    exampleTranslation: "Com que frequência você estuda?"
+  },
+  {
+    id: 'to_call_wait_' + 99,
+    word: "Hurry up!",
+    translation: "Apresse-se!",
+    pronunciation: "/ˈhɜri ʌp!/",
+    portuguesePhonetic: "rã-ri âp!",
+    syllables: ["Hur", "ry", " up!"],
+    exampleSentence: "Hurry up! We are late.",
+    exampleTranslation: "Apresse-se! Nós estamos atrasados."
+  },
+  {
+    id: 'to_call_wait_' + 100,
+    word: "Wait a minute.",
+    translation: "Espere um minuto.",
+    pronunciation: "/weɪt ə ˈmɪnət./",
+    portuguesePhonetic: "uêit a mí-nit.",
+    syllables: ["Wait", " a", " min", "ute."],
+    exampleSentence: "Wait a minute, please.",
+    exampleTranslation: "Espere um minuto, por favor."
+  },
+  {
+    id: 'to_call_wait_' + 101,
+    word: "Let's go...",
+    translation: "Vamos...",
+    pronunciation: "/lɛts ɡoʊ.../",
+    portuguesePhonetic: "léts gôu...",
+    syllables: ["Let's", " go..."],
+    exampleSentence: "Let's go home.",
+    exampleTranslation: "Vamos para casa."
   },
 ];
 
@@ -10199,6 +14694,486 @@ export const TO_WEAR_CHANGE_DECK: FlashcardData[] = [
     syllables: ["I"," wear"," me","di","um."],
     exampleSentence: "I wear medium.",
     exampleTranslation: "Eu uso (tamanho) médio."
+  },
+  {
+    id: 'to_wear_change_' + 65,
+    word: "Do you have to wear a suit to work every day?",
+    translation: "Você tem que usar um terno para o trabalho todos os dias?",
+    pronunciation: "/du ju hæv tə wɛr ə sut tə wɜrk ˈɛvri deɪ?/",
+    portuguesePhonetic: "du iu rév tchu uér a sut tchu uãrk év-ri dêi?",
+    syllables: ["Do", " you", " have", " to", " wear", " a", " suit", " to", " work", " ev", "er", "y", " day?"],
+    exampleSentence: "Do you have to wear a suit to work every day?",
+    exampleTranslation: "Você tem que usar um terno para o trabalho todos os dias?"
+  },
+  {
+    id: 'to_wear_change_' + 66,
+    word: "I want to try on the green T-shirt, please.",
+    translation: "Eu quero provar a camiseta verde, por favor.",
+    pronunciation: "/aɪ wɑnt tə traɪ ɑn ðə ɡrin ˈtiˌʃɜrt, pliz./",
+    portuguesePhonetic: "ai uónt tchu trai an dâ grin tí-xãrt, plis.",
+    syllables: ["I", " want", " to", " try", " on", " the", " green", " T-", "shirt,", " please."],
+    exampleSentence: "I want to try on the green T-shirt, please.",
+    exampleTranslation: "Eu quero provar a camiseta verde, por favor."
+  },
+  {
+    id: 'to_wear_change_' + 67,
+    word: "She wants to change her clothes. She doesn't want to wear that jacket.",
+    translation: "Ela quer trocar de roupa. Ela não quer usar aquela jaqueta.",
+    pronunciation: "/ʃi wɑnts tə tʃeɪndʒ hɜr kloʊðz. ʃi ˈdʌzənt wɑnt tə wɛr ðæt ˈdʒækɪt./",
+    portuguesePhonetic: "xi uónts tchu tchêindj rãr clôudz. xi dâ-zent uónt tchu uér dét djé-kit.",
+    syllables: ["She", " wants", " to", " change", " her", " clothes.", " She", " does", "n't", " want", " to", " wear", " that", " jack", "et."],
+    exampleSentence: "She wants to change her clothes. She doesn't want to wear that jacket.",
+    exampleTranslation: "Ela quer trocar de roupa. Ela não quer usar aquela jaqueta."
+  },
+  {
+    id: 'to_wear_change_' + 68,
+    word: "What size do you wear? – I wear a medium size.",
+    translation: "Que tamanho você usa? – Eu uso médio.",
+    pronunciation: "/wɑt saɪz du ju wɛr? – aɪ wɛr ə ˈmidiəm saɪz./",
+    portuguesePhonetic: "uát saiz du iu uér? – ai uér a mí-di-ãm saiz.",
+    syllables: ["What", " size", " do", " you", " wear?", " –", " I", " wear", " a", " me", "di", "um", " size."],
+    exampleSentence: "What size do you wear? – I wear a medium size.",
+    exampleTranslation: "Que tamanho você usa? – Eu uso médio."
+  },
+  {
+    id: 'to_wear_change_' + 69,
+    word: "I am wearing a red skirt and a white shirt.",
+    translation: "Eu estou usando uma saia vermelha e uma camisa branca.",
+    pronunciation: "/aɪ æm ˈwɛrɪŋ ə rɛd skɜrt ænd ə waɪt ʃɜrt./",
+    portuguesePhonetic: "ai ém ué-rin a réd scãrt énd a uáit xãrt.",
+    syllables: ["I", " am", " wea", "ring", " a", " red", " skirt", " and", " a", " white", " shirt."],
+    exampleSentence: "I am wearing a red skirt and a white shirt.",
+    exampleTranslation: "Eu estou usando uma saia vermelha e uma camisa branca."
+  },
+  {
+    id: 'to_wear_change_' + 70,
+    word: "She is trying on the yellow dress.",
+    translation: "Ela está provando o vestido amarelo.",
+    pronunciation: "/ʃi ɪz ˈtraɪɪŋ ɑn ðə ˈjɛloʊ drɛs./",
+    portuguesePhonetic: "xi iz trái-in an dâ ié-lou drés." ,
+    syllables: ["She", " is", " try", "ing", " on", " the", " yel", "low", " dress."],
+    exampleSentence: "She is trying on the yellow dress.",
+    exampleTranslation: "Ela está provando o vestido amarelo."
+  },
+  {
+    id: 'to_wear_change_' + 71,
+    word: "We want to buy new clothes. I need a new pair of jeans and some T-shirts.",
+    translation: "Nós queremos comprar roupas novas. Eu preciso de uma calça jeans nova e de algumas camisetas.",
+    pronunciation: "/wi wɑnt tə baɪ nu kloʊðz. aɪ nid ə nu pɛr əv dʒinz ænd sʌm ˈtiˌʃɜrts./",
+    portuguesePhonetic: "uí uónt tchu bai nu clôudz. ai nid a nu pér óv djins énd sâm tí-xãrts.",
+    syllables: ["We", " want", " to", " buy", " new", " clothes.", " I", " need", " a", " new", " pair", " of", " jeans", " and", " some", " T-", "shirts."],
+    exampleSentence: "We want to buy new clothes. I need a new pair of jeans and some T-shirts.",
+    exampleTranslation: "Nós queremos comprar roupas novas. Eu preciso de uma calça jeans nova e de algumas camisetas."
+  },
+  {
+    id: 'to_wear_change_' + 72,
+    word: "I need to buy a present for my father. I want to buy a watch.",
+    translation: "Eu preciso comprar um presente para meu pai. Eu quero comprar um relógio.",
+    pronunciation: "/aɪ nid tə baɪ ə ˈprɛzənt fɔr maɪ ˈfɑðər. aɪ wɑnt tə baɪ ə wɑtʃ./",
+    portuguesePhonetic: "ai nid tchu bai a pré-zent fór mai fá-der. ai uónt tchu bai a uótch.",
+    syllables: ["I", " need", " to", " buy", " a", " pres", "ent", " for", " my", " fa", "ther.", " I", " want", " to", " buy", " a", " watch."],
+    exampleSentence: "I need to buy a present for my father. I want to buy a watch.",
+    exampleTranslation: "Eu preciso comprar um presente para meu pai. Eu quero comprar um relógio."
+  },
+  {
+    id: 'to_wear_change_' + 73,
+    word: "I have to go to the mall this afternoon. Do you need anything?",
+    translation: "Eu tenho que ir ao shopping hoje à tarde. Você precisa de alguma coisa?",
+    pronunciation: "/aɪ hæv tə ɡoʊ tə ðə mɔl ðɪs ˌæftərˈnun. du ju nid ˈɛniˌθɪŋ?/",
+    portuguesePhonetic: "ai rév tchu gôu tchu dâ mól díz áf-ter-nun. du iu nid é-ni-thin?",
+    syllables: ["I", " have", " to", " go", " to", " the", " mall", " this", " af", "ter", "noon.", " Do", " you", " need", " an", "y", "thing?"],
+    exampleSentence: "I have to go to the mall this afternoon. Do you need anything?",
+    exampleTranslation: "Eu tenho que ir ao shopping hoje à tarde. Você precisa de alguma coisa?"
+  },
+  {
+    id: 'to_wear_change_' + 74,
+    word: "We are here waiting for you. Hurry up!",
+    translation: "Nós estamos aqui esperando por você. Apresse-se!",
+    pronunciation: "/wi ɑr hɪr ˈweɪtɪŋ fɔr ju. ˈhɜri ʌp!/",
+    portuguesePhonetic: "uí ar rir uêi-tin fór iu. rã-ri âp!",
+    syllables: ["We", " are", " here", " wai", "ting", " for", " you.", " Hur", "ry", " up!"],
+    exampleSentence: "We are here waiting for you. Hurry up!",
+    exampleTranslation: "Nós estamos aqui esperando por você. Apresse-se!"
+  },
+  {
+    id: 'to_wear_change_' + 75,
+    word: "She usually wears her favorite pair of sneakers.",
+    translation: "Ela geralmente usa seu par favorito de tênis.",
+    pronunciation: "/ʃi ˈjuʒuəli wɛrz hɜr ˈfeɪvərɪt pɛr əv ˈsnikərz./",
+    portuguesePhonetic: "xi iú-ju-a-li uérz rãr fêi-vo-rit pér óv sní-kãrs.",
+    syllables: ["She", " u", "su", "al", "ly", " wears", " her", " fa", "vor", "ite", " pair", " of", " snea", "kers."],
+    exampleSentence: "She usually wears her favorite pair of sneakers.",
+    exampleTranslation: "Ela geralmente usa seu par favorito de tênis."
+  },
+  {
+    id: 'to_wear_change_' + 76,
+    word: "They are at the mall now. They are watching a funny movie.",
+    translation: "Eles estão no shopping agora. Eles estão assistindo a um filme engraçado.",
+    pronunciation: "/ðeɪ ɑr æt ðə mɔl naʊ. ðeɪ ɑr ˈwɑtʃɪŋ ə ˈfʌni ˈmuvi./",
+    portuguesePhonetic: "dêi ar ét dâ mól náu. dêi ar uó-tchin a fâ-ni mú-vi.",
+    syllables: ["They", " are", " at", " the", " mall", " now.", " They", " are", " wat", "ching", " a", " fun", "ny", " mo", "vie."],
+    exampleSentence: "They are at the mall now. They are watching a funny movie.",
+    exampleTranslation: "Eles estão no shopping agora. Eles estão assistindo a um filme engraçado."
+  },
+  {
+    id: 'to_wear_change_' + 77,
+    word: "Taylor is changing his clothes to go out with his friends now.",
+    translation: "Taylor está trocando de roupa para sair com seus amigos agora.",
+    pronunciation: "/ˈteɪlər ɪz ˈtʃeɪndʒɪŋ hɪz kloʊðz tə ɡoʊ aʊt wɪð hɪz frɛndz naʊ./",
+    portuguesePhonetic: "têi-lãr iz tchêin-djin riz clôudz tchu gôu aút uid riz frends náu.",
+    syllables: ["Tay", "lor", " is", " chan", "ging", " his", " clothes", " to", " go", " out", " with", " his", " friends", " now."],
+    exampleSentence: "Taylor is changing his clothes to go out with his friends now.",
+    exampleTranslation: "Taylor está trocando de roupa para sair com seus amigos agora."
+  },
+  {
+    id: 'to_wear_change_' + 78,
+    word: "Look! He is wearing a beautiful new watch.",
+    translation: "Olhe! Ele está usando um lindo relógio novo.",
+    pronunciation: "/lʊk! hi ɪz ˈwɛrɪŋ ə ˈbjutəfəl nu wɑtʃ./",
+    portuguesePhonetic: "luc! ri iz ué-rin a biú-ti-fou nu uótch.",
+    syllables: ["Look!", " He", " is", " wea", "ring", " a", " beau", "ti", "ful", " new", " watch."],
+    exampleSentence: "Look! He is wearing a beautiful new watch.",
+    exampleTranslation: "Olhe! Ele está usando um lindo relógio novo."
+  },
+  {
+    id: 'to_wear_change_' + 79,
+    word: "They are waiting for me at the restaurant. I'm late.",
+    translation: "Eles estão me esperando no restaurante. Eu estou atrasado.",
+    pronunciation: "/ðeɪ ɑr ˈweɪtɪŋ fɔr mi æt ðə ˈrɛstəˌrɑnt. aɪm leɪt./",
+    portuguesePhonetic: "dêi ar uêi-tin fór mi ét dâ rés-to-rant. aim lêit.",
+    syllables: ["They", " are", " wai", "ting", " for", " me", " at", " the", " res", "tau", "rant.", " I'm", " late."],
+    exampleSentence: "They are waiting for me at the restaurant. I'm late.",
+    exampleTranslation: "Eles estão me esperando no restaurante. Eu estou atrasado."
+  },
+  {
+    id: 'to_wear_change_' + 80,
+    word: "She makes delicious cakes for her children every week.",
+    translation: "Ela faz bolos deliciosos para seus filhos todas as semanas.",
+    pronunciation: "/ʃi meɪks dɪˈlɪʃəs keɪks fɔr hɜr ˈtʃɪldrən ˈɛvri wik./",
+    portuguesePhonetic: "xi mêics di-lí-xãs cêics fór rãr tchil-dren év-ri uíc.",
+    syllables: ["She", " makes", " de", "li", "cious", " cakes", " for", " her", " chil", "dren", " ev", "er", "y", " week."],
+    exampleSentence: "She makes delicious cakes for her children every week.",
+    exampleTranslation: "Ela faz bolos deliciosos para seus filhos todas as semanas."
+  },
+  {
+    id: 'to_wear_change_' + 81,
+    word: "I am trying the blue shorts on now.",
+    translation: "Eu estou experimentando o short azul agora.",
+    pronunciation: "/aɪ æm ˈtraɪɪŋ ðə blu ʃɔrts ɑn naʊ./",
+    portuguesePhonetic: "ai ém trái-in dâ blu xórts an náu.",
+    syllables: ["I", " am", " try", "ing", " the", " blue", " shorts", " on", " now."],
+    exampleSentence: "I am trying the blue shorts on now.",
+    exampleTranslation: "Eu estou experimentando o short azul agora."
+  },
+  {
+    id: 'to_wear_change_' + 82,
+    word: "suit",
+    translation: "terno",
+    pronunciation: "/sut/",
+    portuguesePhonetic: "sut",
+    syllables: ["suit"],
+    exampleSentence: "suit",
+    exampleTranslation: "terno"
+  },
+  {
+    id: 'to_wear_change_' + 83,
+    word: "wear",
+    translation: "usar / vestir",
+    pronunciation: "/wɛr/",
+    portuguesePhonetic: "uér",
+    syllables: ["wear"],
+    exampleSentence: "wear",
+    exampleTranslation: "usar / vestir"
+  },
+  {
+    id: 'to_wear_change_' + 84,
+    word: "try on",
+    translation: "provar (roupa)",
+    pronunciation: "/traɪ ɑn/",
+    portuguesePhonetic: "trai an",
+    syllables: ["try", " on"],
+    exampleSentence: "try on",
+    exampleTranslation: "provar (roupa)"
+  },
+  {
+    id: 'to_wear_change_' + 85,
+    word: "T-shirt",
+    translation: "camiseta",
+    pronunciation: "/ˈtiˌʃɜrt/",
+    portuguesePhonetic: "ti-xãrt",
+    syllables: ["T-", "shirt"],
+    exampleSentence: "T-shirt",
+    exampleTranslation: "camiseta"
+  },
+  {
+    id: 'to_wear_change_' + 86,
+    word: "jacket",
+    translation: "jaqueta",
+    pronunciation: "/ˈdʒækɪt/",
+    portuguesePhonetic: "djé-kit",
+    syllables: ["jack", "et"],
+    exampleSentence: "jacket",
+    exampleTranslation: "jaqueta"
+  },
+  {
+    id: 'to_wear_change_' + 87,
+    word: "size",
+    translation: "tamanho",
+    pronunciation: "/saɪz/",
+    portuguesePhonetic: "saiz",
+    syllables: ["size"],
+    exampleSentence: "size",
+    exampleTranslation: "tamanho"
+  },
+  {
+    id: 'to_wear_change_' + 88,
+    word: "medium",
+    translation: "médio",
+    pronunciation: "/ˈmidiəm/",
+    portuguesePhonetic: "mí-di-ãm",
+    syllables: ["me", "di", "um"],
+    exampleSentence: "medium",
+    exampleTranslation: "médio"
+  },
+  {
+    id: 'to_wear_change_' + 89,
+    word: "skirt",
+    translation: "saia",
+    pronunciation: "/skɜrt/",
+    portuguesePhonetic: "scãrt",
+    syllables: ["skirt"],
+    exampleSentence: "skirt",
+    exampleTranslation: "saia"
+  },
+  {
+    id: 'to_wear_change_' + 90,
+    word: "shirt",
+    translation: "camisa",
+    pronunciation: "/ʃɜrt/",
+    portuguesePhonetic: "xãrt",
+    syllables: ["shirt"],
+    exampleSentence: "shirt",
+    exampleTranslation: "camisa"
+  },
+  {
+    id: 'to_wear_change_' + 91,
+    word: "dress",
+    translation: "vestido",
+    pronunciation: "/drɛs/",
+    portuguesePhonetic: "drés",
+    syllables: ["dress"],
+    exampleSentence: "dress",
+    exampleTranslation: "vestido"
+  },
+  {
+    id: 'to_wear_change_' + 92,
+    word: "jeans",
+    translation: "calça jeans",
+    pronunciation: "/dʒinz/",
+    portuguesePhonetic: "djins",
+    syllables: ["jeans"],
+    exampleSentence: "jeans",
+    exampleTranslation: "calça jeans"
+  },
+  {
+    id: 'to_wear_change_' + 93,
+    word: "clothes",
+    translation: "roupas",
+    pronunciation: "/kloʊðz/",
+    portuguesePhonetic: "clôudz",
+    syllables: ["clothes"],
+    exampleSentence: "clothes",
+    exampleTranslation: "roupas"
+  },
+  {
+    id: 'to_wear_change_' + 94,
+    word: "present",
+    translation: "presente",
+    pronunciation: "/ˈprɛzənt/",
+    portuguesePhonetic: "pré-zent",
+    syllables: ["pres", "ent"],
+    exampleSentence: "present",
+    exampleTranslation: "presente"
+  },
+  {
+    id: 'to_wear_change_' + 95,
+    word: "watch",
+    translation: "relógio",
+    pronunciation: "/wɑtʃ/",
+    portuguesePhonetic: "uótch",
+    syllables: ["watch"],
+    exampleSentence: "watch",
+    exampleTranslation: "relógio"
+  },
+  {
+    id: 'to_wear_change_' + 96,
+    word: "mall",
+    translation: "shopping",
+    pronunciation: "/mɔl/",
+    portuguesePhonetic: "mól",
+    syllables: ["mall"],
+    exampleSentence: "mall",
+    exampleTranslation: "shopping"
+  },
+  {
+    id: 'to_wear_change_' + 97,
+    word: "need",
+    translation: "precisar",
+    pronunciation: "/nid/",
+    portuguesePhonetic: "nid",
+    syllables: ["need"],
+    exampleSentence: "need",
+    exampleTranslation: "precisar"
+  },
+  {
+    id: 'to_wear_change_' + 98,
+    word: "wait for",
+    translation: "esperar por",
+    pronunciation: "/weɪt fɔr/",
+    portuguesePhonetic: "uêit fór",
+    syllables: ["wait", " for"],
+    exampleSentence: "wait for",
+    exampleTranslation: "esperar por"
+  },
+  {
+    id: 'to_wear_change_' + 99,
+    word: "hurry up",
+    translation: "apresse-se",
+    pronunciation: "/ˈhɜri ʌp/",
+    portuguesePhonetic: "rã-ri âp",
+    syllables: ["hur", "ry", " up"],
+    exampleSentence: "hurry up",
+    exampleTranslation: "apresse-se"
+  },
+  {
+    id: 'to_wear_change_' + 100,
+    word: "sneakers",
+    translation: "tênis",
+    pronunciation: "/ˈsnikərz/",
+    portuguesePhonetic: "sní-kãrs",
+    syllables: ["snea", "kers"],
+    exampleSentence: "sneakers",
+    exampleTranslation: "tênis"
+  },
+  {
+    id: 'to_wear_change_' + 101,
+    word: "funny movie",
+    translation: "filme engraçado",
+    pronunciation: "/ˈfʌni ˈmuvi/",
+    portuguesePhonetic: "fâ-ni mú-vi",
+    syllables: ["fun", "ny", " mo", "vie"],
+    exampleSentence: "funny movie",
+    exampleTranslation: "filme engraçado"
+  },
+  {
+    id: 'to_wear_change_' + 102,
+    word: "change clothes",
+    translation: "trocar de roupa",
+    pronunciation: "/tʃeɪndʒ kloʊðz/",
+    portuguesePhonetic: "tchêindj clôudz",
+    syllables: ["change", " clothes"],
+    exampleSentence: "change clothes",
+    exampleTranslation: "trocar de roupa"
+  },
+  {
+    id: 'to_wear_change_' + 103,
+    word: "restaurant",
+    translation: "restaurante",
+    pronunciation: "/ˈrɛstəˌrɑnt/",
+    portuguesePhonetic: "rés-to-rant",
+    syllables: ["res", "tau", "rant"],
+    exampleSentence: "restaurant",
+    exampleTranslation: "restaurante"
+  },
+  {
+    id: 'to_wear_change_' + 104,
+    word: "late",
+    translation: "atrasado",
+    pronunciation: "/leɪt/",
+    portuguesePhonetic: "lêit",
+    syllables: ["late"],
+    exampleSentence: "late",
+    exampleTranslation: "atrasado"
+  },
+  {
+    id: 'to_wear_change_' + 105,
+    word: "cake",
+    translation: "bolo",
+    pronunciation: "/keɪk/",
+    portuguesePhonetic: "cêic",
+    syllables: ["cake"],
+    exampleSentence: "cake",
+    exampleTranslation: "bolo"
+  },
+  {
+    id: 'to_wear_change_' + 106,
+    word: "children",
+    translation: "crianças / filhos",
+    pronunciation: "/ˈtʃɪldrən/",
+    portuguesePhonetic: "tchil-dren",
+    syllables: ["chil", "dren"],
+    exampleSentence: "children",
+    exampleTranslation: "crianças / filhos"
+  },
+  {
+    id: 'to_wear_change_' + 107,
+    word: "shorts",
+    translation: "short",
+    pronunciation: "/ʃɔrts/",
+    portuguesePhonetic: "xórts",
+    syllables: ["shorts"],
+    exampleSentence: "shorts",
+    exampleTranslation: "short"
+  },
+  {
+    id: 'to_wear_change_' + 108,
+    word: "favorite",
+    translation: "favorito",
+    pronunciation: "/ˈfeɪvərɪt/",
+    portuguesePhonetic: "fêi-vo-rit",
+    syllables: ["fa", "vor", "ite"],
+    exampleSentence: "favorite",
+    exampleTranslation: "favorito"
+  },
+  {
+    id: 'to_wear_change_' + 109,
+    word: "beautiful",
+    translation: "bonito / lindo",
+    pronunciation: "/ˈbjutəfəl/",
+    portuguesePhonetic: "biú-ti-fou",
+    syllables: ["beau", "ti", "ful"],
+    exampleSentence: "beautiful",
+    exampleTranslation: "bonito / lindo"
+  },
+  {
+    id: 'to_wear_change_' + 110,
+    word: "every day",
+    translation: "todos os dias",
+    pronunciation: "/ˈɛvri deɪ/",
+    portuguesePhonetic: "év-ri dêi",
+    syllables: ["ev", "er", "y", " day"],
+    exampleSentence: "every day",
+    exampleTranslation: "todos os dias"
+  },
+  {
+    id: 'to_wear_change_' + 111,
+    word: "this afternoon",
+    translation: "hoje à tarde",
+    pronunciation: "/ðɪs ˌæftərˈnun/",
+    portuguesePhonetic: "díz áf-ter-nun",
+    syllables: ["this", " af", "ter", "noon"],
+    exampleSentence: "this afternoon",
+    exampleTranslation: "hoje à tarde"
+  },
+  {
+    id: 'to_wear_change_' + 112,
+    word: "right now / now",
+    translation: "agora",
+    pronunciation: "/raɪt naʊ / naʊ/",
+    portuguesePhonetic: "ráit náu / náu",
+    syllables: ["right", " now", " /", " now"],
+    exampleSentence: "right now / now",
+    exampleTranslation: "agora"
   },
 ];
 
@@ -17162,6 +22137,306 @@ export const LESSON_19_DECK: FlashcardData[] = [
     syllables: ["What", " time", " do", " you", " go", " to", " work?"],
     exampleSentence: "What time do you go to work?",
     exampleTranslation: "A que horas você vai ao trabalho?"
+  },
+  {
+    id: 'lesson_19_71',
+    word: "What time is it, please? – It’s five o’clock.",
+    translation: "Que horas são, por favor? – São cinco horas.",
+    pronunciation: "/wʌt taɪm ɪz ɪt pliːz? – ɪts faɪv əˈklɑk./",
+    portuguesePhonetic: "uót taim íz it, plíz? – íts faiv o-clóc.",
+    syllables: ["What", " time", " is", " it,", " please? ", "It's", " five", " o'clock."],
+    exampleSentence: "What time is it, please? – It’s five o’clock.",
+    exampleTranslation: "Que horas são, por favor? – São cinco horas."
+  },
+  {
+    id: 'lesson_19_72',
+    word: "What time do you get up? – I get up at 7:00 a.m.",
+    translation: "A que horas você se levanta? – Eu me levanto às 7:00 horas da manhã.",
+    pronunciation: "/wʌt taɪm du ju ɡɛt ʌp? – aɪ ɡɛt ʌp æt ˈsɛvən eɪ-ɛm./",
+    portuguesePhonetic: "uót taim du iu guét áp? – ai guét áp ét sé-ven êi-ém.",
+    syllables: ["What", " time", " do", " you", " get", " up?", " I", " get", " up", " at", " 7:00", " a.m."],
+    exampleSentence: "What time do you get up? – I get up at 7:00 a.m.",
+    exampleTranslation: "A que horas você se levanta? – Eu me levanto às 7:00 horas da manhã."
+  },
+  {
+    id: 'lesson_19_73',
+    word: "I do the laundry in the morning and you clean the kitchen in the afternoon.",
+    translation: "Eu lavo a roupa de manhã e você limpa a cozinha à tarde.",
+    pronunciation: "/aɪ du ðə ˈlɔndri ɪn ðə ˈmɔrnɪŋ ænd ju klin ðə ˈkɪtʃən ɪn ði ˌæftərˈnun./",
+    portuguesePhonetic: "ai du dâ lón-dri in dâ mór-ning énd iu clín dâ kí-tchen in di éf-ter-nun.",
+    syllables: ["I", " do", " the", " laun", "dry", " in", " the", " morn", "ing", " and", " you", " clean", " the", " kitch", "en", " in", " the", " af", "ter", "noon."],
+    exampleSentence: "I do the laundry in the morning and you clean the kitchen in the afternoon.",
+    exampleTranslation: "Eu lavo a roupa de manhã e você limpa a cozinha à tarde."
+  },
+  {
+    id: 'lesson_19_74',
+    word: "We love to cook eggs, rice, and vegetables for lunch.",
+    translation: "Nós amamos cozinhar ovos, arroz e legumes para o almoço.",
+    pronunciation: "/wi lʌv tu kʊk ɛɡz raɪs ænd ˈvɛdʒtəbəlz fɔr lʌntʃ./",
+    portuguesePhonetic: "ui lâv tchu cúc égs, rais énd védj-tâ-bôls fór lántch.",
+    syllables: ["We", " love", " to", " cook", " eggs", " rice", " and", " veg", "e", "ta", "bles", " for", " lunch."],
+    exampleSentence: "We love to cook eggs, rice, and vegetables for lunch.",
+    exampleTranslation: "Nós amamos cozinhar ovos, arroz e legumes para o almoço."
+  },
+  {
+    id: 'lesson_19_75',
+    word: "I don’t have time to cook now. Do you want to go to a restaurant?",
+    translation: "Eu não tenho tempo de cozinhar agora. Você quer ir a um restaurante?",
+    pronunciation: "/aɪ doʊnt hæv taɪm tu kʊk naʊ. du ju wɑnt tu ɡoʊ tu ə ˈrɛstəˌrɑnt?/",
+    portuguesePhonetic: "ai dôunt rév taim tchu cúc náu. du iu uánt tchu gôu tchu a rés-tâ-rãnt?",
+    syllables: ["I", " don't", " have", " time", " to", " cook", " now.", " Do", " you", " want", " to", " go", " to", " a", " res", "tau", "rant?"],
+    exampleSentence: "I don’t have time to cook now. Do you want to go to a restaurant?",
+    exampleTranslation: "Eu não tenho tempo de cozinhar agora. Você quer ir a um restaurante?"
+  },
+  {
+    id: 'lesson_19_76',
+    word: "Do you want some tomato soup?",
+    translation: "Vocês querem um pouco de sopa de tomate?",
+    pronunciation: "/du ju wɑnt sʌm təˈmeɪtoʊ sup?/",
+    portuguesePhonetic: "du iu uánt sâm to-mêi-tou sup?",
+    syllables: ["Do", " you", " want", " some", " to", "ma", "to", " soup?"],
+    exampleSentence: "Do you want some tomato soup?",
+    exampleTranslation: "Vocês querem um pouco de sopa de tomate?"
+  },
+  {
+    id: 'lesson_19_77',
+    word: "I like to cook for my family.",
+    translation: "Eu gosto de cozinhar para a minha família.",
+    pronunciation: "/aɪ laɪk tu kʊk fɔr maɪ ˈfæməli./",
+    portuguesePhonetic: "ai laic tchu cúc fór mai fé-mi-li.",
+    syllables: ["I", " like", " to", " cook", " for", " my", " fam", "i", "ly."],
+    exampleSentence: "I like to cook for my family.",
+    exampleTranslation: "Eu gosto de cozinhar para a minha família."
+  },
+  {
+    id: 'lesson_19_78',
+    word: "Do you clean your bedroom every day?",
+    translation: "Você limpa seu quarto todos os dias?",
+    pronunciation: "/du ju klin jʊr ˈbɛdruːm ˈɛvri deɪ?/",
+    portuguesePhonetic: "du iu clín iór béd-rum év-ri dêi?",
+    syllables: ["Do", " you", " clean", " your", " bed", "room", " ev", "ery", " day?"],
+    exampleSentence: "Do you clean your bedroom every day?",
+    exampleTranslation: "Você limpa seu quarto todos os dias?"
+  },
+  {
+    id: 'lesson_19_79',
+    word: "They have class at eight o’clock every day.",
+    translation: "Eles têm aula às oito horas todos os dias.",
+    pronunciation: "/ðeɪ hæv klæs æt eɪt əˈklɑk ˈɛvri deɪ./",
+    portuguesePhonetic: "dêi rév clés ét êit o-clóc év-ri dêi.",
+    syllables: ["They", " have", " class", " at", " eight", " o'clock", " ev", "ery", " day."],
+    exampleSentence: "They have class at eight o’clock every day.",
+    exampleTranslation: "Eles têm aula às oito horas todos os dias."
+  },
+  {
+    id: 'lesson_19_80',
+    word: "You wash the dishes and I cook dinner.",
+    translation: "Você lava a louça e eu cozinho o jantar.",
+    pronunciation: "/ju wɑʃ ðə ˈdɪʃəz ænd aɪ kʊk ˈdɪnər./",
+    portuguesePhonetic: "iu uóch dâ dí-chis énd ai cúc dí-ner.",
+    syllables: ["You", " wash", " the", " dish", "es", " and", " I", " cook", " din", "ner."],
+    exampleSentence: "You wash the dishes and I cook dinner.",
+    exampleTranslation: "Você lava a louça e eu cozinho o jantar."
+  },
+  {
+    id: 'lesson_19_81',
+    word: "I want some soup for dinner. What about you?",
+    translation: "Eu quero um pouco de sopa para o jantar. E você?",
+    pronunciation: "/aɪ wɑnt sʌm sup fɔr ˈdɪnər. wʌt əˈbaʊt ju?/",
+    portuguesePhonetic: "ai uánt sâm sup fór dí-ner. uát a-báut iu?",
+    syllables: ["I", " want", " some", " soup", " for", " din", "ner.", " What", " a", "bout", " you?"],
+    exampleSentence: "I want some soup for dinner. What about you?",
+    exampleTranslation: "Eu quero um pouco de sopa para o jantar. E você?"
+  },
+  {
+    id: 'lesson_19_82',
+    word: "We prefer to eat pasta with tomato sauce for lunch.",
+    translation: "Nós preferimos comer macarrão com molho de tomate no almoço.",
+    pronunciation: "/wi prəˈfɜr tu it ˈpɑstə wɪð təˈmeɪtoʊ sɔs fɔr lʌntʃ./",
+    portuguesePhonetic: "ui pri-fãr tchu ít pás-ta uith to-mêi-tou sós fór lántch.",
+    syllables: ["We", " pre", "fer", " to", " eat", " pas", "ta", " with", " to", "ma", "to", " sauce", " for", " lunch."],
+    exampleSentence: "We prefer to eat pasta with tomato sauce for lunch.",
+    exampleTranslation: "Nós preferimos comer macarrão com molho de tomate no almoço."
+  },
+  {
+    id: 'lesson_19_83',
+    word: "I need to get up early to clean the kitchen.",
+    translation: "Eu preciso acordar cedo para limpar a cozinha.",
+    pronunciation: "/aɪ nid tu ɡɛt ʌp ˈɜrli tu klin ðə ˈkɪtʃən./",
+    portuguesePhonetic: "ai nid tchu guét áp ãr-li tchu clín dâ kí-tchen.",
+    syllables: ["I", " need", " to", " get", " up", " ear", "ly", " to", " clean", " the", " kitch", "en."],
+    exampleSentence: "I need to get up early to clean the kitchen.",
+    exampleTranslation: "Eu preciso acordar cedo para limpar a cozinha."
+  },
+  {
+    id: 'lesson_19_84',
+    word: "I have to do the laundry in the morning.",
+    translation: "Eu tenho que lavar a roupa de manhã.",
+    pronunciation: "/aɪ hæv tu du ðə ˈlɔndri ɪn ðə ˈmɔrnɪŋ./",
+    portuguesePhonetic: "ai rév tchu du dâ lón-dri in dâ mór-ning.",
+    syllables: ["I", " have", " to", " do", " the", " laun", "dry", " in", " the", " morn", "ing."],
+    exampleSentence: "I have to do the laundry in the morning.",
+    exampleTranslation: "Eu tenho que lavar a roupa de manhã."
+  },
+  {
+    id: 'lesson_19_85',
+    word: "get up",
+    translation: "levantar-se",
+    pronunciation: "/ɡɛt ʌp/",
+    portuguesePhonetic: "guét áp",
+    syllables: ["get", " up"],
+    exampleSentence: "get up",
+    exampleTranslation: "levantar-se"
+  },
+  {
+    id: 'lesson_19_86',
+    word: "do the laundry",
+    translation: "lavar roupa",
+    pronunciation: "/du ðə ˈlɔndri/",
+    portuguesePhonetic: "du dâ lón-dri",
+    syllables: ["do", " the", " laun", "dry"],
+    exampleSentence: "do the laundry",
+    exampleTranslation: "lavar roupa"
+  },
+  {
+    id: 'lesson_19_87',
+    word: "clean the kitchen",
+    translation: "limpar a cozinha",
+    pronunciation: "/klin ðə ˈkɪtʃən/",
+    portuguesePhonetic: "clín dâ kí-tchen",
+    syllables: ["clean", " the", " kitch", "en"],
+    exampleSentence: "clean the kitchen",
+    exampleTranslation: "limpar a cozinha"
+  },
+  {
+    id: 'lesson_19_88',
+    word: "cook dinner",
+    translation: "cozinhar o jantar",
+    pronunciation: "/kʊk ˈdɪnər/",
+    portuguesePhonetic: "cúc dí-ner",
+    syllables: ["cook", " din", "ner"],
+    exampleSentence: "cook dinner",
+    exampleTranslation: "cozinhar o jantar"
+  },
+  {
+    id: 'lesson_19_89',
+    word: "wash the dishes",
+    translation: "lavar a louça",
+    pronunciation: "/wɑʃ ðə ˈdɪʃəz/",
+    portuguesePhonetic: "uóch dâ dí-chis",
+    syllables: ["wash", " the", " dish", "es"],
+    exampleSentence: "wash the dishes",
+    exampleTranslation: "lavar a louça"
+  },
+  {
+    id: 'lesson_19_90',
+    word: "tomato soup",
+    translation: "sopa de tomate",
+    pronunciation: "/təˈmeɪtoʊ sup/",
+    portuguesePhonetic: "to-mêi-tou sup",
+    syllables: ["to", "ma", "to", " soup"],
+    exampleSentence: "tomato soup",
+    exampleTranslation: "sopa de tomate"
+  },
+  {
+    id: 'lesson_19_91',
+    word: "pasta with tomato sauce",
+    translation: "macarrão com molho de tomate",
+    pronunciation: "/ˈpɑstə wɪð təˈmeɪtoʊ sɔs/",
+    portuguesePhonetic: "pás-ta uith to-mêi-tou sós",
+    syllables: ["pas", "ta", " with", " to", "ma", "to", " sauce"],
+    exampleSentence: "pasta with tomato sauce",
+    exampleTranslation: "macarrão com molho de tomate"
+  },
+  {
+    id: 'lesson_19_92',
+    word: "every day",
+    translation: "todos os dias",
+    pronunciation: "/ˈɛvri deɪ/",
+    portuguesePhonetic: "év-ri dêi",
+    syllables: ["ev", "ery", " day"],
+    exampleSentence: "every day",
+    exampleTranslation: "todos os dias"
+  },
+  {
+    id: 'lesson_19_93',
+    word: "restaurant",
+    translation: "restaurante",
+    pronunciation: "/ˈrɛstəˌrɑnt/",
+    portuguesePhonetic: "rés-tâ-rãnt",
+    syllables: ["res", "tau", "rant"],
+    exampleSentence: "restaurant",
+    exampleTranslation: "restaurante"
+  },
+  {
+    id: 'lesson_19_94',
+    word: "class",
+    translation: "aula",
+    pronunciation: "/klæs/",
+    portuguesePhonetic: "clés",
+    syllables: ["class"],
+    exampleSentence: "class",
+    exampleTranslation: "aula"
+  },
+  {
+    id: 'lesson_19_95',
+    word: "early",
+    translation: "cedo",
+    pronunciation: "/ˈɜrli/",
+    portuguesePhonetic: "ãr-li",
+    syllables: ["ear", "ly"],
+    exampleSentence: "early",
+    exampleTranslation: "cedo"
+  },
+  {
+    id: 'lesson_19_96',
+    word: "lunch",
+    translation: "almoço",
+    pronunciation: "/lʌntʃ/",
+    portuguesePhonetic: "lántch",
+    syllables: ["lunch"],
+    exampleSentence: "lunch",
+    exampleTranslation: "almoço"
+  },
+  {
+    id: 'lesson_19_97',
+    word: "dinner",
+    translation: "jantar",
+    pronunciation: "/ˈdɪnər/",
+    portuguesePhonetic: "dí-ner",
+    syllables: ["din", "ner"],
+    exampleSentence: "dinner",
+    exampleTranslation: "jantar"
+  },
+  {
+    id: 'lesson_19_98',
+    word: "morning",
+    translation: "manhã",
+    pronunciation: "/ˈmɔrnɪŋ/",
+    portuguesePhonetic: "mór-ning",
+    syllables: ["morn", "ing"],
+    exampleSentence: "morning",
+    exampleTranslation: "manhã"
+  },
+  {
+    id: 'lesson_19_99',
+    word: "afternoon",
+    translation: "tarde",
+    pronunciation: "/ˌæftərˈnun/",
+    portuguesePhonetic: "éf-ter-nun",
+    syllables: ["af", "ter", "noon"],
+    exampleSentence: "afternoon",
+    exampleTranslation: "tarde"
+  },
+  {
+    id: 'lesson_19_100',
+    word: "o’clock",
+    translation: "em ponto (horas)",
+    pronunciation: "/əˈklɑk/",
+    portuguesePhonetic: "o-clóc",
+    syllables: ["o'clock"],
+    exampleSentence: "o’clock",
+    exampleTranslation: "em ponto (horas)"
   }
 ];
 
@@ -17935,6 +23210,456 @@ export const LESSON_21_DECK: FlashcardData[] = [
     syllables: ["in", " the", " coun", "try", "side"],
     exampleSentence: "in the countryside",
     exampleTranslation: "no interior / no campo"
+  },
+  {
+    id: 'lesson_21_78',
+    word: "She stays at home during the week.",
+    translation: "Ela fica em casa durante a semana.",
+    pronunciation: "/ʃi steɪz æt hoʊm ˈdjʊərɪŋ ðə wik./",
+    portuguesePhonetic: "chi stêiz ét rôum diú-ring dâ uíc.",
+    syllables: ["She", " stays", " at", " home", " dur", "ing", " the", " week."],
+    exampleSentence: "She stays at home during the week.",
+    exampleTranslation: "Ela fica em casa durante a semana."
+  },
+  {
+    id: 'lesson_21_79',
+    word: "He comes to the beach on weekends.",
+    translation: "Ele vem para a praia aos finais de semana.",
+    pronunciation: "/hi kʌmz tu ðə bitʃ ɑn ˈwiˌkɛndz./",
+    portuguesePhonetic: "ri câmz tchu dâ bitch ón ui-kénds.",
+    syllables: ["He", " comes", " to", " the", " beach", " on", " week", "ends."],
+    exampleSentence: "He comes to the beach on weekends.",
+    exampleTranslation: "Ele vem para a praia aos finais de semana."
+  },
+  {
+    id: 'lesson_21_80',
+    word: "I clean the kitchen and she cleans the bedroom.",
+    translation: "Eu limpo a cozinha e ela limpa o quarto.",
+    pronunciation: "/aɪ klin ðə ˈkɪtʃən ænd ʃi klinz ðə ˈbɛdruːm./",
+    portuguesePhonetic: "ai clín dâ kí-tchen énd chi clínz dâ béd-rum.",
+    syllables: ["I", " clean", " the", " kitch", "en", " and", " she", " cleans", " the", " bed", "room."],
+    exampleSentence: "I clean the kitchen and she cleans the bedroom.",
+    exampleTranslation: "Eu limpo a cozinha e ela limpa o quarto."
+  },
+  {
+    id: 'lesson_21_81',
+    word: "She goes to school on Mondays and Wednesdays.",
+    translation: "Ela vai à escola às segundas e quartas-feiras.",
+    pronunciation: "/ʃi ɡoʊz tu skul ɑn ˈmʌndeɪz ænd ˈwɛnzdeɪz./",
+    portuguesePhonetic: "chi gôuz tchu scul ón mân-dêiz énd uénz-dêiz.",
+    syllables: ["She", " goes", " to", " school", " on", " Mon", "days", " and", " Wednes", "days."],
+    exampleSentence: "She goes to school on Mondays and Wednesdays.",
+    exampleTranslation: "Ela vai à escola às segundas e quartas-feiras."
+  },
+  {
+    id: 'lesson_21_82',
+    word: "She loves to go to the countryside on Saturdays and Sundays.",
+    translation: "Ela adora ficar no interior aos sábados e domingos.",
+    pronunciation: "/ʃi lʌvz tu ɡoʊ tu ðə ˈkʌntrisaɪd ɑn ˈsætərdeɪz ænd ˈsʌndeɪz./",
+    portuguesePhonetic: "chi lâvz tchu gôu tchu dâ cân-tri-said ón sé-ter-dêiz énd sân-dêiz.",
+    syllables: ["She", " loves", " to", " go", " to", " the", " coun", "try", "side", " on", " Sat", "ur", "days", " and", " Sun", "days."],
+    exampleSentence: "She loves to go to the countryside on Saturdays and Sundays.",
+    exampleTranslation: "Ela adora ficar no interior aos sábados e domingos."
+  },
+  {
+    id: 'lesson_21_83',
+    word: "She has an apartment at the beach.",
+    translation: "Ela tem um apartamento na praia.",
+    pronunciation: "/ʃi hæz ən əˈpɑrtmənt æt ðə bitʃ./",
+    portuguesePhonetic: "chi réz ân a-párt-ment ét dâ bitch.",
+    syllables: ["She", " has", " an", " a", "part", "ment", " at", " the", " beach."],
+    exampleSentence: "She has an apartment at the beach.",
+    exampleTranslation: "Ela tem um apartamento na praia."
+  },
+  {
+    id: 'lesson_21_84',
+    word: "Do you usually come here on Sundays?",
+    translation: "Você geralmente vem aqui aos domingos?",
+    pronunciation: "/du ju ˈjuːʒuəli kʌm hɪr ɑn ˈsʌndeɪz?/",
+    portuguesePhonetic: "du iu iú-ju-a-li câm rír ón sân-dêiz?",
+    syllables: ["Do", " you", " u", "su", "al", "ly", " come", " here", " on", " Sun", "days?"],
+    exampleSentence: "Do you usually come here on Sundays?",
+    exampleTranslation: "Você geralmente vem aqui aos domingos?"
+  },
+  {
+    id: 'lesson_21_85',
+    word: "He works until late during the week.",
+    translation: "Ele trabalha até tarde durante a semana.",
+    pronunciation: "/hi wɜrks ʌnˈtɪl leɪt ˈdjʊərɪŋ ðə wik./",
+    portuguesePhonetic: "ri uãrcs an-tíl lêit diú-ring dâ uíc.",
+    syllables: ["He", " works", " un", "til", " late", " dur", "ing", " the", " week."],
+    exampleSentence: "He works until late during the week.",
+    exampleTranslation: "Ele trabalha até tarde durante a semana."
+  },
+  {
+    id: 'lesson_21_86',
+    word: "Do you have to go home now?",
+    translation: "Você tem que ir para casa agora?",
+    pronunciation: "/du ju hæv tu ɡoʊ hoʊm naʊ?/",
+    portuguesePhonetic: "du iu rév tchu gôu rôum náu?",
+    syllables: ["Do", " you", " have", " to", " go", " home", " now?"],
+    exampleSentence: "Do you have to go home now?",
+    exampleTranslation: "Você tem que ir para casa agora?"
+  },
+  {
+    id: 'lesson_21_87',
+    word: "I sometimes go to the beach with my friends.",
+    translation: "Eu às vezes vou à praia com meus amigos.",
+    pronunciation: "/aɪ səmˈtaɪmz ɡoʊ tu ðə bitʃ wɪð maɪ frɛndz./",
+    portuguesePhonetic: "ai sâm-táimz gôu tchu dâ bitch uith mai fréndz.",
+    syllables: ["I", " some", "times", " go", " to", " the", " beach", " with", " my", " friends."],
+    exampleSentence: "I sometimes go to the beach with my friends.",
+    exampleTranslation: "Eu às vezes vou à praia com meus amigos."
+  },
+  {
+    id: 'lesson_21_88',
+    word: "He goes to the beach on weekends.",
+    translation: "Ele vai à praia nos finais de semana.",
+    pronunciation: "/hi ɡoʊz tu ðə bitʃ ɑn ˈwiˌkɛndz./",
+    portuguesePhonetic: "ri gôuz tchu dâ bitch ón ui-kénds.",
+    syllables: ["He", " goes", " to", " the", " beach", " on", " week", "ends."],
+    exampleSentence: "He goes to the beach on weekends.",
+    exampleTranslation: "Ele vai à praia nos finais de semana."
+  },
+  {
+    id: 'lesson_21_89',
+    word: "She sometimes stays home on Saturdays.",
+    translation: "Ela às vezes fica em casa aos sábados.",
+    pronunciation: "/ʃi səmˈtaɪmz steɪz hoʊm ɑn ˈsætərdeɪz./",
+    portuguesePhonetic: "chi sâm-táimz stêiz rôum ón sé-ter-dêiz.",
+    syllables: ["She", " some", "times", " stays", " home", " on", " Sat", "ur", "days."],
+    exampleSentence: "She sometimes stays home on Saturdays.",
+    exampleTranslation: "Ela às vezes fica em casa aos sábados."
+  },
+  {
+    id: 'lesson_21_90',
+    word: "He cooks pasta with tomato sauce on Sundays.",
+    translation: "Ele cozinha macarrão com molho de tomate aos domingos.",
+    pronunciation: "/hi kʊks ˈpɑstə wɪð təˈmeɪtoʊ sɔs ɑn ˈsʌndeɪz./",
+    portuguesePhonetic: "ri cúcs pás-ta uith to-mêi-tou sós ón sân-dêiz.",
+    syllables: ["He", " cooks", " pas", "ta", " with", " to", "ma", "to", " sauce", " on", " Sun", "days."],
+    exampleSentence: "He cooks pasta with tomato sauce on Sundays.",
+    exampleTranslation: "Ele cozinha macarrão com molho de tomate aos domingos."
+  },
+  {
+    id: 'lesson_21_91',
+    word: "She has a new e-mail address.",
+    translation: "Ela tem um novo endereço de e-mail.",
+    pronunciation: "/ʃi hæz ə nu ˈiˌmeɪl əˈdrɛs./",
+    portuguesePhonetic: "chi réz â niu í-mêil a-drés.",
+    syllables: ["She", " has", " a", " new", " e-mail", " ad", "dress."],
+    exampleSentence: "She has a new e-mail address.",
+    exampleTranslation: "Ela tem um novo endereço de e-mail."
+  },
+  {
+    id: 'lesson_21_92',
+    word: "He cleans the house during the week.",
+    translation: "Ele limpa a casa durante a semana.",
+    pronunciation: "/hi klinz ðə haʊs ˈdjʊərɪŋ ðə wik./",
+    portuguesePhonetic: "ri clínz dâ ráus diú-ring dâ uíc.",
+    syllables: ["He", " cleans", " the", " house", " dur", "ing", " the", " week."],
+    exampleSentence: "He cleans the house during the week.",
+    exampleTranslation: "Ele limpa a casa durante a semana."
+  },
+  {
+    id: 'lesson_21_93',
+    word: "She goes to the English class on Mondays and Fridays.",
+    translation: "Ela vai para a aula de inglês às segundas e sextas-feiras.",
+    pronunciation: "/ʃi ɡoʊz tu ði ˈɪŋɡlɪʃ klæs ɑn ˈmʌndeɪz ænd ˈfraɪdeɪz./",
+    portuguesePhonetic: "chi gôuz tchu di ín-glic clés ón mân-dêiz énd frái-dêiz.",
+    syllables: ["She", " goes", " to", " the", " En", "glish", " class", " on", " Mon", "days", " and", " Fri", "days."],
+    exampleSentence: "She goes to the English class on Mondays and Fridays.",
+    exampleTranslation: "Ela vai para a aula de inglês às segundas e sextas-feiras."
+  },
+  {
+    id: 'lesson_21_94',
+    word: "He prefers to go to the countryside on weekends.",
+    translation: "Ele prefere ir para o interior nos finais de semana.",
+    pronunciation: "/hi prəˈfɜrz tu ɡoʊ tu ðə ˈkʌntrisaɪd ɑn ˈwiˌkɛndz./",
+    portuguesePhonetic: "ri pri-fãrz tchu gôu tchu dâ cân-tri-said ón ui-kénds.",
+    syllables: ["He", " pre", "fers", " to", " go", " to", " the", " coun", "try", "side", " on", " week", "ends."],
+    exampleSentence: "He prefers to go to the countryside on weekends.",
+    exampleTranslation: "Ele prefere ir para o interior nos finais de semana."
+  },
+  {
+    id: 'lesson_21_95',
+    word: "She speaks Portuguese and he speaks French.",
+    translation: "Ela fala português e ele fala francês.",
+    pronunciation: "/ʃi spiks ˌpɔrtʃəˈɡiz ænd hi spiks frɛntʃ./",
+    portuguesePhonetic: "chi spícs pór-tchug-uiz énd ri spícs fréntch.",
+    syllables: ["She", " speaks", " Por", "tu", "guese", " and", " he", " speaks", " French."],
+    exampleSentence: "She speaks Portuguese and he speaks French.",
+    exampleTranslation: "Ela fala português e ele fala francês."
+  },
+  {
+    id: 'lesson_21_96',
+    word: "He studies German on Mondays and Wednesdays.",
+    translation: "Ele estuda alemão às segundas e quartas-feiras.",
+    pronunciation: "/hi ˈstʌdiz ˈdʒɜrmən ɑn ˈmʌndeɪz ænd ˈwɛnzdeɪz./",
+    portuguesePhonetic: "ri stâ-diz djãr-man ón mân-dêiz énd uénz-dêiz.",
+    syllables: ["He", " stud", "ies", " Ger", "man", " on", " Mon", "days", " and", " Wednes", "days."],
+    exampleSentence: "He studies German on Mondays and Wednesdays.",
+    exampleTranslation: "Ele estuda alemão às segundas e quartas-feiras."
+  },
+  {
+    id: 'lesson_21_97',
+    word: "I go to work at seven o'clock.",
+    translation: "Eu vou para o trabalho às sete horas.",
+    pronunciation: "/aɪ ɡoʊ tu wɜrk æt ˈsɛvən əˈklɑk./",
+    portuguesePhonetic: "ai gôu tchu uãrc ét sé-ven o-clóc.",
+    syllables: ["I", " go", " to", " work", " at", " sev", "en", " o'clock."],
+    exampleSentence: "I go to work at seven o'clock.",
+    exampleTranslation: "Eu vou para o trabalho às sete horas."
+  },
+  {
+    id: 'lesson_21_98',
+    word: "She drinks coffee in the morning.",
+    translation: "Ela toma café pela manhã.",
+    pronunciation: "/ʃi drɪŋks ˈkɔfi ɪn ðə ˈmɔrnɪŋ./",
+    portuguesePhonetic: "chi dríncs có-fi in dâ mór-ning.",
+    syllables: ["She", " drinks", " cof", "fee", " in", " the", " morn", "ing."],
+    exampleSentence: "She drinks coffee in the morning.",
+    exampleTranslation: "Ela toma café pela manhã."
+  },
+  {
+    id: 'lesson_21_99',
+    word: "He goes to school during the week.",
+    translation: "Ele vai à escola durante a semana.",
+    pronunciation: "/hi ɡoʊz tu skul ˈdjʊərɪŋ ðə wik./",
+    portuguesePhonetic: "ri gôuz tchu scul diú-ring dâ uíc.",
+    syllables: ["He", " goes", " to", " school", " dur", "ing", " the", " week."],
+    exampleSentence: "He goes to school during the week.",
+    exampleTranslation: "Ele vai à escola durante a semana."
+  },
+  {
+    id: 'lesson_21_100',
+    word: "We sleep until late on Saturdays.",
+    translation: "Nós dormimos até tarde aos sábados.",
+    pronunciation: "/wi slip ʌnˈtɪl leɪt ɑn ˈsætərdeɪz./",
+    portuguesePhonetic: "ui slíp an-tíl lêit ón sé-ter-dêis.",
+    syllables: ["We", " sleep", " un", "til", " late", " on", " Sat", "ur", "days."],
+    exampleSentence: "We sleep until late on Saturdays.",
+    exampleTranslation: "Nós dormimos até tarde aos sábados."
+  },
+  {
+    id: 'lesson_21_101',
+    word: "I don't like to sleep on the couch.",
+    translation: "Eu não gosto de dormir no sofá.",
+    pronunciation: "/aɪ doʊnt laɪk tu slip ɑn ðə kaʊtʃ./",
+    portuguesePhonetic: "ai dôunt laic tchu slíp ón dâ cáutch.",
+    syllables: ["I", " don't", " like", " to", " sleep", " on", " the", " couch."],
+    exampleSentence: "I don't like to sleep on the couch.",
+    exampleTranslation: "Eu não gosto de dormir no sofá."
+  },
+  {
+    id: 'lesson_21_102',
+    word: "during the week",
+    translation: "durante a semana",
+    pronunciation: "/ˈdjʊərɪŋ ðə wik/",
+    portuguesePhonetic: "diú-ring dâ uíc",
+    syllables: ["dur", "ing", " the", " week"],
+    exampleSentence: "during the week",
+    exampleTranslation: "durante a semana"
+  },
+  {
+    id: 'lesson_21_103',
+    word: "weekends",
+    translation: "finais de semana",
+    pronunciation: "/ˈwiˌkɛndz/",
+    portuguesePhonetic: "ui-kénds",
+    syllables: ["week", "ends"],
+    exampleSentence: "weekends",
+    exampleTranslation: "finais de semana"
+  },
+  {
+    id: 'lesson_21_104',
+    word: "countryside",
+    translation: "interior / campo",
+    pronunciation: "/ˈkʌntrisaɪd/",
+    portuguesePhonetic: "cân-tri-said",
+    syllables: ["coun", "try", "side"],
+    exampleSentence: "countryside",
+    exampleTranslation: "interior / campo"
+  },
+  {
+    id: 'lesson_21_105',
+    word: "apartment",
+    translation: "apartamento",
+    pronunciation: "/əˈpɑrtmənt/",
+    portuguesePhonetic: "a-párt-ment",
+    syllables: ["a", "part", "ment"],
+    exampleSentence: "apartment",
+    exampleTranslation: "apartamento"
+  },
+  {
+    id: 'lesson_21_106',
+    word: "usually",
+    translation: "geralmente",
+    pronunciation: "/ˈjuːʒuəli/",
+    portuguesePhonetic: "iú-ju-a-li",
+    syllables: ["u", "su", "al", "ly"],
+    exampleSentence: "usually",
+    exampleTranslation: "geralmente"
+  },
+  {
+    id: 'lesson_21_107',
+    word: "sometimes",
+    translation: "às vezes",
+    pronunciation: "/səmˈtaɪmz/",
+    portuguesePhonetic: "sâm-táimz",
+    syllables: ["some", "times"],
+    exampleSentence: "sometimes",
+    exampleTranslation: "às vezes"
+  },
+  {
+    id: 'lesson_21_108',
+    word: "until late",
+    translation: "até tarde",
+    pronunciation: "/ʌnˈtɪl leɪt/",
+    portuguesePhonetic: "an-tíl lêit",
+    syllables: ["un", "til", " late"],
+    exampleSentence: "until late",
+    exampleTranslation: "até tarde"
+  },
+  {
+    id: 'lesson_21_109',
+    word: "e-mail address",
+    translation: "endereço de e-mail",
+    pronunciation: "/ˈiˌmeɪl əˈdrɛs/",
+    portuguesePhonetic: "í-mêil a-drés",
+    syllables: ["e-mail", " ad", "dress"],
+    exampleSentence: "e-mail address",
+    exampleTranslation: "endereço de e-mail"
+  },
+  {
+    id: 'lesson_21_110',
+    word: "Monday",
+    translation: "segunda-feira",
+    pronunciation: "/ˈmʌndeɪ/",
+    portuguesePhonetic: "mân-dêi",
+    syllables: ["Mon", "day"],
+    exampleSentence: "Monday",
+    exampleTranslation: "segunda-feira"
+  },
+  {
+    id: 'lesson_21_111',
+    word: "Wednesday",
+    translation: "quarta-feira",
+    pronunciation: "/ˈwɛnzdeɪ/",
+    portuguesePhonetic: "uénz-dêi",
+    syllables: ["Wednes", "day"],
+    exampleSentence: "Wednesday",
+    exampleTranslation: "quarta-feira"
+  },
+  {
+    id: 'lesson_21_112',
+    word: "Friday",
+    translation: "sexta-feira",
+    pronunciation: "/ˈfraɪdeɪ/",
+    portuguesePhonetic: "frái-dêi",
+    syllables: ["Fri", "day"],
+    exampleSentence: "Friday",
+    exampleTranslation: "sexta-feira"
+  },
+  {
+    id: 'lesson_21_113',
+    word: "Sunday",
+    translation: "domingo",
+    pronunciation: "/ˈsʌndeɪ/",
+    portuguesePhonetic: "sân-dêi",
+    syllables: ["Sun", "day"],
+    exampleSentence: "Sunday",
+    exampleTranslation: "domingo"
+  },
+  {
+    id: 'lesson_21_114',
+    word: "couch",
+    translation: "sofá",
+    pronunciation: "/kaʊtʃ/",
+    portuguesePhonetic: "cáutch",
+    syllables: ["couch"],
+    exampleSentence: "couch",
+    exampleTranslation: "sofá"
+  },
+  {
+    id: 'lesson_21_115',
+    word: "beach",
+    translation: "praia",
+    pronunciation: "/bitʃ/",
+    portuguesePhonetic: "bitch",
+    syllables: ["beach"],
+    exampleSentence: "beach",
+    exampleTranslation: "praia"
+  },
+  {
+    id: 'lesson_21_116',
+    word: "stay home",
+    translation: "ficar em casa",
+    pronunciation: "/steɪ hoʊm/",
+    portuguesePhonetic: "stêi rôum",
+    syllables: ["stay", " home"],
+    exampleSentence: "stay home",
+    exampleTranslation: "ficar em casa"
+  },
+  {
+    id: 'lesson_21_117',
+    word: "go to school",
+    translation: "ir à escola",
+    pronunciation: "/ɡoʊ tu skul/",
+    portuguesePhonetic: "gôu tchu scul",
+    syllables: ["go", " to", " school"],
+    exampleSentence: "go to school",
+    exampleTranslation: "ir à escola"
+  },
+  {
+    id: 'lesson_21_118',
+    word: "speak",
+    translation: "falar",
+    pronunciation: "/spik/",
+    portuguesePhonetic: "spíc",
+    syllables: ["speak"],
+    exampleSentence: "speak",
+    exampleTranslation: "falar"
+  },
+  {
+    id: 'lesson_21_119',
+    word: "prefer",
+    translation: "preferir",
+    pronunciation: "/prəˈfɜr/",
+    portuguesePhonetic: "pri-fãr",
+    syllables: ["pre", "fer"],
+    exampleSentence: "prefer",
+    exampleTranslation: "preferir"
+  },
+  {
+    id: 'lesson_21_120',
+    word: "clean",
+    translation: "limpar",
+    pronunciation: "/klin/",
+    portuguesePhonetic: "clín",
+    syllables: ["clean"],
+    exampleSentence: "clean",
+    exampleTranslation: "limpar"
+  },
+  {
+    id: 'lesson_21_121',
+    word: "drink coffee",
+    translation: "tomar café",
+    pronunciation: "/drɪŋk ˈkɔfi/",
+    portuguesePhonetic: "drínc có-fi",
+    syllables: ["drink", " cof", "fee"],
+    exampleSentence: "drink coffee",
+    exampleTranslation: "tomar café"
+  },
+  {
+    id: 'lesson_21_122',
+    word: "sleep",
+    translation: "dormir",
+    pronunciation: "/slip/",
+    portuguesePhonetic: "slíp",
+    syllables: ["sleep"],
+    exampleSentence: "sleep",
+    exampleTranslation: "dormir"
   }
 ];
 
@@ -18688,6 +24413,506 @@ export const LESSON_23_DECK: FlashcardData[] = [
     syllables: ["Good", " job!"],
     exampleSentence: "Good job!",
     exampleTranslation: "Muito bem! / Bom trabalho!"
+  },
+  {
+    id: 'lesson_23_76',
+    word: "My sister doesn't study geography. She studies biology.",
+    translation: "Minha irmã não estuda geografia. Ela estuda biologia.",
+    pronunciation: "/maɪ ˈsɪstər ˈdʌzənt ˈstʌdi dʒiˈɑɡrəfi. ʃi ˈstʌdiz baɪˈɑlədʒi./",
+    portuguesePhonetic: "mai sís-ter dâ-zent stâ-di dji-óg-ra-fi. chi stâ-diz bai-ól-o-dji.",
+    syllables: ["My", " sis", "ter", " doesn't", " stud", "y", " ge", "og", "ra", "phy.", " She", " stud", "ies", " bi", "ol", "o", "gy."],
+    exampleSentence: "My sister doesn't study geography. She studies biology.",
+    exampleTranslation: "Minha irmã não estuda geografia. Ela estuda biologia."
+  },
+  {
+    id: 'lesson_23_77',
+    word: "When do they prefer to study math?",
+    translation: "Quando eles preferem estudar matemática?",
+    pronunciation: "/wɛn du ðeɪ prəˈfɜr tu ˈstʌdi mæθ?/",
+    portuguesePhonetic: "uén du dêi pri-fãr tchu stâ-di méth?",
+    syllables: ["When", " do", " they", " pre", "fer", " to", " stud", "y", " math?"],
+    exampleSentence: "When do they prefer to study math?",
+    exampleTranslation: "Quando eles preferem estudar matemática?"
+  },
+  {
+    id: 'lesson_23_78',
+    word: "He studies French on weekends.",
+    translation: "Ele estuda francês aos finais de semana.",
+    pronunciation: "/hi ˈstʌdiz frɛntʃ ɑn ˈwiˌkɛndz./",
+    portuguesePhonetic: "ri stâ-diz fréntch ón ui-kénds.",
+    syllables: ["He", " stud", "ies", " French", " on", " week", "ends."],
+    exampleSentence: "He studies French on weekends.",
+    exampleTranslation: "Ele estuda francês aos finais de semana."
+  },
+  {
+    id: 'lesson_23_79',
+    word: "Do you want to learn how to cook? I like to read about cooking.",
+    translation: "Você quer aprender a cozinhar? Eu gosto de ler sobre culinária.",
+    pronunciation: "/du ju wɑnt tu lɜrn haʊ tu kʊk? aɪ laɪk tu rid əˈbaʊt ˈkʊkɪŋ./",
+    portuguesePhonetic: "du iu uánt tchu lãrn ráu tchu cúc? ai laic tchu rid a-báut cú-king.",
+    syllables: ["Do", " you", " want", " to", " learn", " how", " to", " cook?", " I", " like", " to", " read", " a", "bout", " cook", "ing."],
+    exampleSentence: "Do you want to learn how to cook? I like to read about cooking.",
+    exampleTranslation: "Você quer aprender a cozinhar? Eu gosto de ler sobre culinária."
+  },
+  {
+    id: 'lesson_23_80',
+    word: "I want to know more about this subject. He wants to learn more about math.",
+    translation: "Eu quero saber mais sobre esse assunto. Ele quer aprender mais sobre matemática.",
+    pronunciation: "/aɪ wɑnt tu noʊ mɔr əˈbaʊt ðɪs ˈsʌbdʒɪkt. hi wɑnts tu lɜrn mɔr əˈbaʊt mæθ./",
+    portuguesePhonetic: "ai uánt tchu nôu mór a-báut dís sâb-djéct. ri uánts tchu lãrn mór a-báut méth.",
+    syllables: ["I", " want", " to", " know", " more", " a", "bout", " this", " sub", "ject.", " He", " wants", " to", " learn", " more", " a", "bout", " math."],
+    exampleSentence: "I want to know more about this subject. He wants to learn more about math.",
+    exampleTranslation: "Eu quero saber mais sobre esse assunto. Ele quer aprender mais sobre matemática."
+  },
+  {
+    id: 'lesson_23_81',
+    word: "He doesn't want to go to the university this year.",
+    translation: "Ele não quer ir à universidade este ano.",
+    pronunciation: "/hi ˈdʌzənt wɑnt tu ɡoʊ tu ðə ˌjunəˈvɜrsəti ðɪs jɪr./",
+    portuguesePhonetic: "ri dâ-zent uánt tchu gôu tchu dâ iu-ni-vãr-si-ti dís ír.",
+    syllables: ["He", " doesn't", " want", " to", " go", " to", " the", " u", "ni", "ver", "si", "ty", " this", " year."],
+    exampleSentence: "He doesn't want to go to the university this year.",
+    exampleTranslation: "Ele não quer ir à universidade este ano."
+  },
+  {
+    id: 'lesson_23_82',
+    word: "I have to stay at the university all day this week.",
+    translation: "Eu tenho que ficar na universidade o dia todo esta semana.",
+    pronunciation: "/aɪ hæv tu steɪ æt ðə ˌjunəˈvɜrsəti ɔl deɪ ðɪs wik./",
+    portuguesePhonetic: "ai rév tchu stêi ét dâ iu-ni-vãr-si-ti ól dêi dís uíc.",
+    syllables: ["I", " have", " to", " stay", " at", " the", " u", "ni", "ver", "si", "ty", " all", " day", " this", " week."],
+    exampleSentence: "I have to stay at the university all day this week.",
+    exampleTranslation: "Eu tenho que ficar na universidade o dia todo esta semana."
+  },
+  {
+    id: 'lesson_23_83',
+    word: "What do you learn there? – We learn geography.",
+    translation: "O que você aprende lá? – Nós aprendemos geografia.",
+    pronunciation: "/wʌt du ju lɜrn ðɛr? – wi lɜrn dʒiˈɑɡrəfi./",
+    portuguesePhonetic: "uót du iu lãrn dér? – ui lãrn dji-óg-ra-fi.",
+    syllables: ["What", " do", " you", " learn", " there?", " We", " learn", " ge", "og", "ra", "phy."],
+    exampleSentence: "What do you learn there? – We learn geography.",
+    exampleTranslation: "O que você aprende lá? – Nós aprendemos geografia."
+  },
+  {
+    id: 'lesson_23_84',
+    word: "She doesn't need to come here to study biology.",
+    translation: "Ela não precisa vir aqui para estudar biologia.",
+    pronunciation: "/ʃi ˈdʌzənt nid tu kʌm hɪr tu ˈstʌdi baɪˈɑlədʒi./",
+    portuguesePhonetic: "chi dâ-zent nid tchu câm rír tchu stâ-di bai-ól-o-dji.",
+    syllables: ["She", " doesn't", " need", " to", " come", " here", " to", " stud", "y", " bi", "ol", "o", "gy."],
+    exampleSentence: "She doesn't need to come here to study biology.",
+    exampleTranslation: "Ela não precisa vir aqui para estudar biologia."
+  },
+  {
+    id: 'lesson_23_85',
+    word: "I only go to the gym on Tuesdays and Thursdays.",
+    translation: "Eu só vou para a academia às terças e quintas.",
+    pronunciation: "/aɪ ˈoʊnli ɡoʊ tu ðə dʒɪm ɑn ˈtuzdeɪz ænd ˈθɜrzdeɪz./",
+    portuguesePhonetic: "ai ôun-li gôu tchu dâ djím ón tiúz-dêiz énd thãrz-dêiz.",
+    syllables: ["I", " on", "ly", " go", " to", " the", " gym", " on", " Tues", "days", " and", " Thurs", "days."],
+    exampleSentence: "I only go to the gym on Tuesdays and Thursdays.",
+    exampleTranslation: "Eu só vou para a academia às terças e quintas."
+  },
+  {
+    id: 'lesson_23_86',
+    word: "You don't know my Spanish friend.",
+    translation: "Você não conhece meu amigo espanhol.",
+    pronunciation: "/ju doʊnt noʊ maɪ ˈspænɪʃ frɛnd./",
+    portuguesePhonetic: "iu dôunt nôu mai spé-nich frénd.",
+    syllables: ["You", " don't", " know", " my", " Span", "ish", " friend."],
+    exampleSentence: "You don't know my Spanish friend.",
+    exampleTranslation: "Você não conhece meu amigo espanhol."
+  },
+  {
+    id: 'lesson_23_87',
+    word: "She doesn't like to learn about new subjects.",
+    translation: "Ela não gosta de aprender sobre novos assuntos.",
+    pronunciation: "/ʃi ˈdʌzənt laɪk tu lɜrn əˈbaʊt nu ˈsʌbdʒɪkts./",
+    portuguesePhonetic: "chi dâ-zent laic tchu lãrn a-báut niu sâb-djécts.",
+    syllables: ["She", " doesn't", " like", " to", " learn", " a", "bout", " new", " sub", "jects."],
+    exampleSentence: "She doesn't like to learn about new subjects.",
+    exampleTranslation: "Ela não gosta de aprender sobre novos assuntos."
+  },
+  {
+    id: 'lesson_23_88',
+    word: "He doesn't have cooking classes on Tuesdays and Thursdays.",
+    translation: "Ele não tem aulas de culinária às terças e quintas-feiras.",
+    pronunciation: "/hi ˈdʌzənt hæv ˈkʊkɪŋ ˈklæsəz ɑn ˈtuzdeɪz ænd ˈθɜrzdeɪz./",
+    portuguesePhonetic: "ri dâ-zent rév cú-king clé-siz ón tiúz-dêiz énd thãrz-dêiz.",
+    syllables: ["He", " doesn't", " have", " cook", "ing", " class", "es", " on", " Tues", "days", " and", " Thurs", "days."],
+    exampleSentence: "He doesn't have cooking classes on Tuesdays and Thursdays.",
+    exampleTranslation: "Ele não tem aulas de culinária às terças e quintas-feiras."
+  },
+  {
+    id: 'lesson_23_89',
+    word: "He doesn't want to go to the university this year.",
+    translation: "Ele não quer ir à universidade este ano.",
+    pronunciation: "/hi ˈdʌzənt wɑnt tu ɡoʊ tu ðə ˌjunəˈvɜrsəti ðɪs jɪr./",
+    portuguesePhonetic: "ri dâ-zent uánt tchu gôu tchu dâ iu-ni-vãr-si-ti dís ír.",
+    syllables: ["He", " doesn't", " want", " to", " go", " to", " the", " u", "ni", "ver", "si", "ty", " this", " year."],
+    exampleSentence: "He doesn't want to go to the university this year.",
+    exampleTranslation: "Ele não quer ir à universidade este ano."
+  },
+  {
+    id: 'lesson_23_90',
+    word: "We don't read stories to the children.",
+    translation: "Nós não lemos histórias para as crianças.",
+    pronunciation: "/wi doʊnt rid ˈstɔriz tu ðə ˈtʃɪldrən./",
+    portuguesePhonetic: "ui dôunt rid stó-riz tchu dâ tchíl-dren.",
+    syllables: ["We", " don't", " read", " sto", "ries", " to", " the", " chil", "dren."],
+    exampleSentence: "We don't read stories to the children.",
+    exampleTranslation: "Nós não lemos histórias para as crianças."
+  },
+  {
+    id: 'lesson_23_91',
+    word: "She doesn't want to come to the gym on Wednesday.",
+    translation: "Ela não quer vir para a academia na quarta-feira.",
+    pronunciation: "/ʃi ˈdʌzənt wɑnt tu kʌm tu ðə dʒɪm ɑn ˈwɛnzdeɪ./",
+    portuguesePhonetic: "chi dâ-zent uánt tchu câm tchu dâ djím ón uénz-dêi.",
+    syllables: ["She", " doesn't", " want", " to", " come", " to", " the", " gym", " on", " Wednes", "day."],
+    exampleSentence: "She doesn't want to come to the gym on Wednesday.",
+    exampleTranslation: "Ela não quer vir para a academia na quarta-feira."
+  },
+  {
+    id: 'lesson_23_92',
+    word: "She doesn't want to learn how to cook fish.",
+    translation: "Ela não quer aprender a cozinhar peixe.",
+    pronunciation: "/ʃi ˈdʌzənt wɑnt tu lɜrn haʊ tu kʊk fɪʃ./",
+    portuguesePhonetic: "chi dâ-zent uánt tchu lãrn ráu tchu cúc fích.",
+    syllables: ["She", " doesn't", " want", " to", " learn", " how", " to", " cook", " fish."],
+    exampleSentence: "She doesn't want to learn how to cook fish.",
+    exampleTranslation: "Ela não quer aprender a cozinhar peixe."
+  },
+  {
+    id: 'lesson_23_93',
+    word: "They don't have biology classes at school this year.",
+    translation: "Eles não têm aulas de biologia na escola este ano.",
+    pronunciation: "/ðeɪ doʊnt hæv baɪˈɑlədʒi ˈklæsəz æt skul ðɪs jɪr./",
+    portuguesePhonetic: "dêi dôunt rév bai-ól-o-dji clé-siz ét scul dís ír.",
+    syllables: ["They", " don't", " have", " bi", "ol", "o", "gy", " class", "es", " at", " school", " this", " year."],
+    exampleSentence: "They don't have biology classes at school this year.",
+    exampleTranslation: "Eles não têm aulas de biologia na escola este ano."
+  },
+  {
+    id: 'lesson_23_94',
+    word: "Hello, Patty. What's up?",
+    translation: "Olá, Patty. Como vai?",
+    pronunciation: "/həˈloʊ, ˈpæti. wʌts ʌp?/",
+    portuguesePhonetic: "rrâ-lôu, pé-ti. uóts áp?",
+    syllables: ["Hel", "lo,", " Pat", "ty.", " What's", " up?"],
+    exampleSentence: "Hello, Patty. What's up?",
+    exampleTranslation: "Olá, Patty. Como vai?"
+  },
+  {
+    id: 'lesson_23_95',
+    word: "Hi, Julie! My boyfriend and I want to go to Germany this year.",
+    translation: "Oi, Julie! Meu namorado e eu queremos ir para a Alemanha este ano.",
+    pronunciation: "/haɪ, ˈdʒuli! maɪ ˈbɔɪˌfrɛnd ænd aɪ wɑnt tu ɡoʊ tu ˈdʒɜrməni ðɪs jɪr./",
+    portuguesePhonetic: "rái, djú-li! mai bói-frénd énd ai uánt tchu gôu tchu djãr-ma-ni dís ír.",
+    syllables: ["Hi,", " Ju", "lie!", " My", " boy", "friend", " and", " I", " want", " to", " go", " to", " Ger", "ma", "ny", " this", " year."],
+    exampleSentence: "Hi, Julie! My boyfriend and I want to go to Germany this year.",
+    exampleTranslation: "Oi, Julie! Meu namorado e eu queremos ir para a Alemanha este ano."
+  },
+  {
+    id: 'lesson_23_96',
+    word: "Germany? Wow!",
+    translation: "Alemanha? Uau!",
+    pronunciation: "/ˈdʒɜrməni? waʊ!/",
+    portuguesePhonetic: "djãr-ma-ni? uáu!",
+    syllables: ["Ger", "ma", "ny?", " Wow!"],
+    exampleSentence: "Germany? Wow!",
+    exampleTranslation: "Alemanha? Uau!"
+  },
+  {
+    id: 'lesson_23_97',
+    word: "Yes! So we need to learn German. Do you know how to speak German?",
+    translation: "Sim! Então precisamos aprender alemão. Você sabe falar alemão?",
+    pronunciation: "/jɛs! soʊ wi nid tu lɜrn ˈdʒɜrmən. du ju noʊ haʊ tu spik ˈdʒɜrmən?/",
+    portuguesePhonetic: "iés! sôu ui nid tchu lãrn djãr-man. du iu nôu ráu tchu spíc djãr-man?",
+    syllables: ["Yes!", " So", " we", " need", " to", " learn", " Ger", "man.", " Do", " you", " know", " how", " to", " speak", " Ger", "man?"],
+    exampleSentence: "Yes! So we need to learn German. Do you know how to speak German?",
+    exampleTranslation: "Sim! Então precisamos aprender alemão. Você sabe falar alemão?"
+  },
+  {
+    id: 'lesson_23_98',
+    word: "No, I don't. I study Italian and my sister studies French.",
+    translation: "Não, eu não sei. Eu estudo italiano e minha irmã estuda francês.",
+    pronunciation: "/noʊ, aɪ doʊnt. aɪ ˈstʌdi ɪˈtæljən ænd maɪ ˈsɪstər ˈstʌdiz frɛntʃ./",
+    portuguesePhonetic: "nôu, ai dôunt. ai stâ-di i-té-li-an énd mai sís-ter stâ-diz fréntch.",
+    syllables: ["No,", " I", " don't.", " I", " stud", "y", " I", "tal", "ian", " and", " my", " sis", "ter", " stud", "ies", " French."],
+    exampleSentence: "No, I don't. I study Italian and my sister studies French.",
+    exampleTranslation: "Não, eu não sei. Eu estudo italiano e minha irmã estuda francês."
+  },
+  {
+    id: 'lesson_23_99',
+    word: "Where do you study?",
+    translation: "Onde você estuda?",
+    pronunciation: "/wɛr du ju ˈstʌdi?/",
+    portuguesePhonetic: "uér du iu stâ-di?",
+    syllables: ["Where", " do", " you", " stud", "y?"],
+    exampleSentence: "Where do you study?",
+    exampleTranslation: "Onde você estuda?"
+  },
+  {
+    id: 'lesson_23_100',
+    word: "We study at Wizard. Do you want to go there?",
+    translation: "Nós estudamos na Wizard. Você quer ir para lá?",
+    pronunciation: "/wi ˈstʌdi æt ˈwɪzərd. du ju wɑnt tu ɡoʊ ðɛr?/",
+    portuguesePhonetic: "ui stâ-di ét uí-zard. du iu uánt tchu gôu dér?",
+    syllables: ["We", " stud", "y", " at", " Wiz", "ard.", " Do", " you", " want", " to", " go", " there?"],
+    exampleSentence: "We study at Wizard. Do you want to go there?",
+    exampleTranslation: "Nós estudamos na Wizard. Você quer ir para lá?"
+  },
+  {
+    id: 'lesson_23_101',
+    word: "Yes, sure! When do you study?",
+    translation: "Sim, claro! Quando vocês estudam?",
+    pronunciation: "/jɛs, ʃʊr! wɛn du ju ˈstʌdi?/",
+    portuguesePhonetic: "iés, chur! uén du iu stâ-di?",
+    syllables: ["Yes,", " sure!", " When", " do", " you", " stud", "y?"],
+    exampleSentence: "Yes, sure! When do you study?",
+    exampleTranslation: "Sim, claro! Quando vocês estudam?"
+  },
+  {
+    id: 'lesson_23_102',
+    word: "We study on Mondays and Wednesdays, in the evening.",
+    translation: "Nós estudamos às segundas e quartas-feiras, à noite.",
+    pronunciation: "/wi ˈstʌdi ɑn ˈmʌndeɪz ænd ˈwɛnzdeɪz, ɪn ði ˈivnɪŋ./",
+    portuguesePhonetic: "ui stâ-di ón mân-dêiz énd uénz-dêiz, in di ív-ning.",
+    syllables: ["We", " stud", "y", " on", " Mon", "days", " and", " Wednes", "days,", " in", " the", " eve", "ning."],
+    exampleSentence: "We study on Mondays and Wednesdays, in the evening.",
+    exampleTranslation: "Nós estudamos às segundas e quartas-feiras, à noite."
+  },
+  {
+    id: 'lesson_23_103',
+    word: "OK. See you later. And thank you, Julie!",
+    translation: "OK. Até mais. E obrigada, Julie!",
+    pronunciation: "/ˌoʊˈkeɪ. si ju ˈleɪtər. ænd θæŋk ju, ˈdʒuli!/",
+    portuguesePhonetic: "ôu-kêi. si iu lêi-ter. énd thénc iu, djú-li!",
+    syllables: ["O", "K.", " See", " you", " la", "ter.", " And", " thank", " you,", " Ju", "lie!"],
+    exampleSentence: "OK. See you later. And thank you, Julie!",
+    exampleTranslation: "OK. Até mais. E obrigada, Julie!"
+  },
+  {
+    id: 'lesson_23_104',
+    word: "You're welcome.",
+    translation: "De nada.",
+    pronunciation: "/jʊr ˈwɛlkəm./",
+    portuguesePhonetic: "iór uél-câm.",
+    syllables: ["You're", " wel", "come."],
+    exampleSentence: "You're welcome.",
+    exampleTranslation: "De nada."
+  },
+  {
+    id: 'lesson_23_105',
+    word: "geography",
+    translation: "geografia",
+    pronunciation: "/dʒiˈɑɡrəfi/",
+    portuguesePhonetic: "dji-óg-ra-fi",
+    syllables: ["ge", "og", "ra", "phy"],
+    exampleSentence: "geography",
+    exampleTranslation: "geografia"
+  },
+  {
+    id: 'lesson_23_106',
+    word: "biology",
+    translation: "biologia",
+    pronunciation: "/baɪˈɑlədʒi/",
+    portuguesePhonetic: "bai-ól-o-dji",
+    syllables: ["bi", "ol", "o", "gy"],
+    exampleSentence: "biology",
+    exampleTranslation: "biologia"
+  },
+  {
+    id: 'lesson_23_107',
+    word: "math",
+    translation: "matemática",
+    pronunciation: "/mæθ/",
+    portuguesePhonetic: "méth",
+    syllables: ["math"],
+    exampleSentence: "math",
+    exampleTranslation: "matemática"
+  },
+  {
+    id: 'lesson_23_108',
+    word: "French",
+    translation: "francês",
+    pronunciation: "/frɛntʃ/",
+    portuguesePhonetic: "fréntch",
+    syllables: ["French"],
+    exampleSentence: "French",
+    exampleTranslation: "francês"
+  },
+  {
+    id: 'lesson_23_109',
+    word: "German",
+    translation: "alemão",
+    pronunciation: "/ˈdʒɜrmən/",
+    portuguesePhonetic: "djãr-man",
+    syllables: ["Ger", "man"],
+    exampleSentence: "German",
+    exampleTranslation: "alemão"
+  },
+  {
+    id: 'lesson_23_110',
+    word: "Italian",
+    translation: "italiano",
+    pronunciation: "/ɪˈtæljən/",
+    portuguesePhonetic: "i-té-li-an",
+    syllables: ["I", "tal", "ian"],
+    exampleSentence: "Italian",
+    exampleTranslation: "italiano"
+  },
+  {
+    id: 'lesson_23_111',
+    word: "subject",
+    translation: "assunto / matéria",
+    pronunciation: "/ˈsʌbdʒɪkt/",
+    portuguesePhonetic: "sâb-djéct",
+    syllables: ["sub", "ject"],
+    exampleSentence: "subject",
+    exampleTranslation: "assunto / matéria"
+  },
+  {
+    id: 'lesson_23_112',
+    word: "university",
+    translation: "universidade",
+    pronunciation: "/ˌjunəˈvɜrsəti/",
+    portuguesePhonetic: "iu-ni-vãr-si-ti",
+    syllables: ["u", "ni", "ver", "si", "ty"],
+    exampleSentence: "university",
+    exampleTranslation: "universidade"
+  },
+  {
+    id: 'lesson_23_113',
+    word: "gym",
+    translation: "academia",
+    pronunciation: "/dʒɪm/",
+    portuguesePhonetic: "djím",
+    syllables: ["gym"],
+    exampleSentence: "gym",
+    exampleTranslation: "academia"
+  },
+  {
+    id: 'lesson_23_114',
+    word: "all day",
+    translation: "o dia todo",
+    pronunciation: "/ɔl deɪ/",
+    portuguesePhonetic: "ól dêi",
+    syllables: ["all", " day"],
+    exampleSentence: "all day",
+    exampleTranslation: "o dia todo"
+  },
+  {
+    id: 'lesson_23_115',
+    word: "this year",
+    translation: "este ano",
+    pronunciation: "/ðɪs jɪr/",
+    portuguesePhonetic: "dís ír",
+    syllables: ["this", " year"],
+    exampleSentence: "this year",
+    exampleTranslation: "este ano"
+  },
+  {
+    id: 'lesson_23_116',
+    word: "this week",
+    translation: "esta semana",
+    pronunciation: "/ðɪs wik/",
+    portuguesePhonetic: "dís uíc",
+    syllables: ["this", " week"],
+    exampleSentence: "this week",
+    exampleTranslation: "esta semana"
+  },
+  {
+    id: 'lesson_23_117',
+    word: "need",
+    translation: "precisar",
+    pronunciation: "/nid/",
+    portuguesePhonetic: "nid",
+    syllables: ["need"],
+    exampleSentence: "need",
+    exampleTranslation: "precisar"
+  },
+  {
+    id: 'lesson_23_118',
+    word: "learn",
+    translation: "aprender",
+    pronunciation: "/lɜrn/",
+    portuguesePhonetic: "lãrn",
+    syllables: ["learn"],
+    exampleSentence: "learn",
+    exampleTranslation: "aprender"
+  },
+  {
+    id: 'lesson_23_119',
+    word: "know",
+    translation: "saber / conhecer",
+    pronunciation: "/noʊ/",
+    portuguesePhonetic: "nôu",
+    syllables: ["know"],
+    exampleSentence: "know",
+    exampleTranslation: "saber / conhecer"
+  },
+  {
+    id: 'lesson_23_120',
+    word: "boyfriend",
+    translation: "namorado",
+    pronunciation: "/ˈbɔɪˌfrɛnd/",
+    portuguesePhonetic: "bói-frénd",
+    syllables: ["boy", "friend"],
+    exampleSentence: "boyfriend",
+    exampleTranslation: "namorado"
+  },
+  {
+    id: 'lesson_23_121',
+    word: "evening",
+    translation: "noite",
+    pronunciation: "/ˈivnɪŋ/",
+    portuguesePhonetic: "ív-ning",
+    syllables: ["eve", "ning"],
+    exampleSentence: "evening",
+    exampleTranslation: "noite"
+  },
+  {
+    id: 'lesson_23_122',
+    word: "on Tuesdays and Thursdays",
+    translation: "às terças e quintas",
+    pronunciation: "/ɑn ˈtuzdeɪz ænd ˈθɜrzdeɪz/",
+    portuguesePhonetic: "ón tiúz-dêiz énd thãrz-dêiz",
+    syllables: ["on", " Tues", "days", " and", " Thurs", "days"],
+    exampleSentence: "on Tuesdays and Thursdays",
+    exampleTranslation: "às terças e quintas"
+  },
+  {
+    id: 'lesson_23_123',
+    word: "on weekends",
+    translation: "aos finais de semana",
+    pronunciation: "/ɑn ˈwiˌkɛndz/",
+    portuguesePhonetic: "ón ui-kénds",
+    syllables: ["on", " week", "ends"],
+    exampleSentence: "on weekends",
+    exampleTranslation: "aos finais de semana"
+  },
+  {
+    id: 'lesson_23_124',
+    word: "You're welcome",
+    translation: "De nada",
+    pronunciation: "/jʊr ˈwɛlkəm/",
+    portuguesePhonetic: "iór uél-câm",
+    syllables: ["You're", " wel", "come"],
+    exampleSentence: "You're welcome",
+    exampleTranslation: "De nada"
+  },
+  {
+    id: 'lesson_23_125',
+    word: "What's up?",
+    translation: "Como vai? / O que há de novo?",
+    pronunciation: "/wʌts ʌp?/",
+    portuguesePhonetic: "uóts áp?",
+    syllables: ["What's", " up?"],
+    exampleSentence: "What's up?",
+    exampleTranslation: "Como vai? / O que há de novo?"
   }
 ];
 
@@ -19511,6 +25736,466 @@ export const LESSON_25_DECK: FlashcardData[] = [
     syllables: ["When...?"],
     exampleSentence: "When...?",
     exampleTranslation: "Quando...?"
+  },
+  {
+    id: 'lesson_25_83',
+    word: "Hello! I need to buy a gift for my brother.",
+    translation: "Olá! Eu preciso comprar um presente para meu irmão.",
+    pronunciation: "/həˈloʊ! aɪ nid tu baɪ ə ɡɪft fɔr maɪ ˈbrʌðər./",
+    portuguesePhonetic: "rrâ-lôu! ai nid tchu bái â guíft fór mai brâ-ther.",
+    syllables: ["Hel", "lo!", " I", " need", " to", " buy", " a", " gift", " for", " my", " broth", "er."],
+    exampleSentence: "Hello! I need to buy a gift for my brother.",
+    exampleTranslation: "Olá! Eu preciso comprar um presente para meu irmão."
+  },
+  {
+    id: 'lesson_25_84',
+    word: "I usually have to buy many things on weekends. What about you?",
+    translation: "Eu geralmente tenho que comprar muitas coisas nos fins de semana. E você?",
+    pronunciation: "/aɪ ˈjuːʒuəli hæv tu baɪ ˈmɛni θɪŋz ɑn ˈwiˌkɛndz. wʌt əˈbaʊt ju?/",
+    portuguesePhonetic: "ai iú-ju-a-li rév tchu bái mé-ni thíngz ón ui-kénds. uát a-báut iu?",
+    syllables: ["I", " u", "su", "al", "ly", " have", " to", " buy", " ma", "ny", " things", " on", " week", "ends.", " What", " a", "bout", " you?"],
+    exampleSentence: "I usually have to buy many things on weekends. What about you?",
+    exampleTranslation: "Eu geralmente tenho que comprar muitas coisas nos fins de semana. E você?"
+  },
+  {
+    id: 'lesson_25_85',
+    word: "Does he need to send the e-mails in the morning?",
+    translation: "Ele precisa enviar os e-mails de manhã?",
+    pronunciation: "/dʌz hi nid tu sɛnd ði ˈiˌmeɪlz ɪn ðə ˈmɔrnɪŋ?/",
+    portuguesePhonetic: "dâz ri nid tchu sénd di í-mêilz in dâ mór-ning?",
+    syllables: ["Does", " he", " need", " to", " send", " the", " e-mails", " in", " the", " morn", "ing?"],
+    exampleSentence: "Does he need to send the e-mails in the morning?",
+    exampleTranslation: "Ele precisa enviar os e-mails de manhã?"
+  },
+  {
+    id: 'lesson_25_86',
+    word: "She needs to buy a ticket to go to France.",
+    translation: "Ela precisa comprar uma passagem para ir à França.",
+    pronunciation: "/ʃi nidz tu baɪ ə ˈtɪkɪt tu ɡoʊ tu fræns./",
+    portuguesePhonetic: "chi nids tchu bái â tí-quet tchu gôu tchu fréns.",
+    syllables: ["She", " needs", " to", " buy", " a", " tick", "et", " to", " go", " to", " France."],
+    exampleSentence: "She needs to buy a ticket to go to France.",
+    exampleTranslation: "Ela precisa comprar uma passagem para ir à França."
+  },
+  {
+    id: 'lesson_25_87',
+    word: "He likes to buy gifts at the mall. Does he like this store?",
+    translation: "Ele gosta de comprar presentes no shopping. Ele gosta desta loja?",
+    pronunciation: "/hi laɪks tu baɪ ɡɪfts æt ðə mɔl. dʌz hi laɪk ðɪs stɔr?/",
+    portuguesePhonetic: "ri laics tchu bái guífts ét dâ mól. dâz ri laic dís stór?",
+    syllables: ["He", " likes", " to", " buy", " gifts", " at", " the", " mall.", " Does", " he", " like", " this", " store?"],
+    exampleSentence: "He likes to buy gifts at the mall. Does he like this store?",
+    exampleTranslation: "Ele gosta de comprar presentes no shopping. Ele gosta desta loja?"
+  },
+  {
+    id: 'lesson_25_88',
+    word: "I take my cell phone and my computer to work every day.",
+    translation: "Eu levo meu celular e meu computador para o trabalho todos os dias.",
+    pronunciation: "/aɪ teɪk maɪ sɛl foʊn ænd maɪ kəmˈpjutər tu wɜrk ˈɛvri deɪ./",
+    portuguesePhonetic: "ai têic mai sél fôun énd mai com-piú-ter tchu uãrc év-ri dêi.",
+    syllables: ["I", " take", " my", " cell", " phone", " and", " my", " com", "pu", "ter", " to", " work", " ev", "ery", " day."],
+    exampleSentence: "I take my cell phone and my computer to work every day.",
+    exampleTranslation: "Eu levo meu celular e meu computador para o trabalho todos os dias."
+  },
+  {
+    id: 'lesson_25_89',
+    word: "I like to buy souvenirs for my friends.",
+    translation: "Eu gosto de comprar lembrancinhas para os meus amigos.",
+    pronunciation: "/aɪ laɪk tu baɪ ˌsuvəˈnɪrz fɔr maɪ frɛndz./",
+    portuguesePhonetic: "ai laic tchu bái su-ve-nírz fór mai fréndz.",
+    syllables: ["I", " like", " to", " buy", " sou", "ve", "nirs", " for", " my", " friends."],
+    exampleSentence: "I like to buy souvenirs for my friends.",
+    exampleTranslation: "Eu gosto de comprar lembrancinhas para os meus amigos."
+  },
+  {
+    id: 'lesson_25_90',
+    word: "What does she take to school? – She takes a backpack and many books.",
+    translation: "O que ela leva para a escola? – Ela leva uma mochila e muitos livros.",
+    pronunciation: "/wʌt dʌz ʃi teɪk tu skul? – ʃi teɪks ə ˈbækˌpæk ænd ˈmɛni bʊks./",
+    portuguesePhonetic: "uót dâz chi têic tchu scul? – chi têics â béc-péc énd mé-ni búcs.",
+    syllables: ["What", " does", " she", " take", " to", " school?", " She", " takes", " a", " back", "pack", " and", " ma", "ny", " books."],
+    exampleSentence: "What does she take to school? – She takes a backpack and many books.",
+    exampleTranslation: "O que ela leva para a escola? – Ela leva uma mochila e muitos livros."
+  },
+  {
+    id: 'lesson_25_91',
+    word: "Do you know the price of this medicine? – It's thirty-five dollars.",
+    translation: "Você sabe o preço deste remédio? – São 35 dólares.",
+    pronunciation: "/du ju noʊ ðə praɪs ʌv ðɪs ˈmɛdəsən? – ɪts ˈθɜrti-faɪv ˈdɑlərz./",
+    portuguesePhonetic: "du iu nôu dâ prais âv dís mé-di-cin? – íts thãr-ti faiv dó-larz.",
+    syllables: ["Do", " you", " know", " the", " price", " of", " this", " med", "i", "cine?", " It's", " thir", "ty-five", " dol", "lars."],
+    exampleSentence: "Do you know the price of this medicine? – It's thirty-five dollars.",
+    exampleTranslation: "Você sabe o preço deste remédio? – São 35 dólares."
+  },
+  {
+    id: 'lesson_25_92',
+    word: "I prefer to eat at a restaurant. It is good and cheap.",
+    translation: "Eu prefiro comer no restaurante. É bom e barato.",
+    pronunciation: "/aɪ prəˈfɜr tu it æt ə ˈrɛstəˌrɑnt. ɪt ɪz ɡʊd ænd tʃip./",
+    portuguesePhonetic: "ai pri-fãr tchu ít ét â rés-tâ-rãnt. it íz gúd énd tchíp.",
+    syllables: ["I", " pre", "fer", " to", " eat", " at", " a", " res", "tau", "rant.", " It", " is", " good", " and", " cheap."],
+    exampleSentence: "I prefer to eat at a restaurant. It is good and cheap.",
+    exampleTranslation: "Eu prefiro comer no restaurante. É bom e barato."
+  },
+  {
+    id: 'lesson_25_93',
+    word: "Backpack",
+    translation: "Mochila",
+    pronunciation: "/ˈbækˌpæk/",
+    portuguesePhonetic: "béc-péc",
+    syllables: ["back", "pack"],
+    exampleSentence: "Backpack",
+    exampleTranslation: "Mochila"
+  },
+  {
+    id: 'lesson_25_94',
+    word: "Passport",
+    translation: "Passaporte",
+    pronunciation: "/ˈpæˌspɔrt/",
+    portuguesePhonetic: "pés-pórt",
+    syllables: ["pass", "port"],
+    exampleSentence: "Passport",
+    exampleTranslation: "Passaporte"
+  },
+  {
+    id: 'lesson_25_95',
+    word: "Computer",
+    translation: "Computador",
+    pronunciation: "/kəmˈpjuːtə/",
+    portuguesePhonetic: "com-piú-ter",
+    syllables: ["com", "pu", "ter"],
+    exampleSentence: "Computer",
+    exampleTranslation: "Computador"
+  },
+  {
+    id: 'lesson_25_96',
+    word: "Alarm clock",
+    translation: "Despertador",
+    pronunciation: "/əˈlɑrm klɑk/",
+    portuguesePhonetic: "a-lárm clóc",
+    syllables: ["a", "larm", " clock"],
+    exampleSentence: "Alarm clock",
+    exampleTranslation: "Despertador"
+  },
+  {
+    id: 'lesson_25_97',
+    word: "Does she eat Italian food in Germany?",
+    translation: "Ela come comida italiana na Alemanha?",
+    pronunciation: "/dʌz ʃi it ɪˈtæljən fud ɪn ˈdʒɜrməni?/",
+    portuguesePhonetic: "dâz chi ít i-té-li-an fúd in djãr-ma-ni?",
+    syllables: ["Does", " she", " eat", " I", "tal", "ian", " food", " in", " Ger", "ma", "ny?"],
+    exampleSentence: "Does she eat Italian food in Germany?",
+    exampleTranslation: "Ela come comida italiana na Alemanha?"
+  },
+  {
+    id: 'lesson_25_98',
+    word: "I need to send an e-mail to my boss now.",
+    translation: "Eu preciso enviar um e-mail para meu chefe agora.",
+    pronunciation: "/aɪ nid tu sɛnd ən ˈiˌmeɪl tu maɪ bɔs naʊ./",
+    portuguesePhonetic: "ai nid tchu sénd ân í-mêil tchu mai bós náu.",
+    syllables: ["I", " need", " to", " send", " an", " e-mail", " to", " my", " boss", " now."],
+    exampleSentence: "I need to send an e-mail to my boss now.",
+    exampleTranslation: "Eu preciso enviar um e-mail para meu chefe agora."
+  },
+  {
+    id: 'lesson_25_99',
+    word: "I want to buy a gift for my brother.",
+    translation: "Eu quero comprar um presente para meu irmão.",
+    pronunciation: "/aɪ wɑnt tu baɪ ə ɡɪft fɔr maɪ ˈbrʌðər./",
+    portuguesePhonetic: "ai uánt tchu bái â guíft fór mai brâ-ther.",
+    syllables: ["I", " want", " to", " buy", " a", " gift", " for", " my", " broth", "er."],
+    exampleSentence: "I want to buy a gift for my brother.",
+    exampleTranslation: "Eu quero comprar um presente para meu irmão."
+  },
+  {
+    id: 'lesson_25_100',
+    word: "Does he know how to speak English?",
+    translation: "Ele sabe falar inglês?",
+    pronunciation: "/dʌz he noʊ haʊ tu spik ˈɪŋɡlɪʃ?/",
+    portuguesePhonetic: "dâz ri nôu ráu tchu spíc ín-glic?",
+    syllables: ["Does", " he", " know", " how", " to", " speak", " En", "glish?"],
+    exampleSentence: "Does he know how to speak English?",
+    exampleTranslation: "Ele sabe falar inglês?"
+  },
+  {
+    id: 'lesson_25_101',
+    word: "Does she come to the countryside on Saturdays?",
+    translation: "Ela vem para o interior aos sábados?",
+    pronunciation: "/dʌz ʃi kʌm tu ðə ˈkʌntrisaɪd ɑn ˈsætərdeɪz?/",
+    portuguesePhonetic: "dâz chi câm tchu dâ cân-tri-said ón sé-ter-dêis?",
+    syllables: ["Does", " she", " come", " to", " the", " coun", "try", "side", " on", " Sat", "ur", "days?"],
+    exampleSentence: "Does she come to the countryside on Saturdays?",
+    exampleTranslation: "Ela vem para o interior aos sábados?"
+  },
+  {
+    id: 'lesson_25_102',
+    word: "She wants to buy a ticket to go to Italy this year.",
+    translation: "Ela quer comprar uma passagem para ir à Itália este ano.",
+    pronunciation: "/ʃi wɑnts tu baɪ ə ˈtɪkɪt tu ɡoʊ tu ˈɪtəli ðɪs jɪr./",
+    portuguesePhonetic: "chi uánts tchu bái â tí-quet tchu gôu tchu í-ta-li dís ír.",
+    syllables: ["She", " wants", " to", " buy", " a", " tick", "et", " to", " go", " to", " It", "a", "ly", " this", " year."],
+    exampleSentence: "She wants to buy a ticket to go to Italy this year.",
+    exampleTranslation: "Ela quer comprar uma passagem para ir à Itália este ano."
+  },
+  {
+    id: 'lesson_25_103',
+    word: "gift",
+    translation: "presente",
+    pronunciation: "/ɡɪft/",
+    portuguesePhonetic: "guíft",
+    syllables: ["gift"],
+    exampleSentence: "gift",
+    exampleTranslation: "presente"
+  },
+  {
+    id: 'lesson_25_104',
+    word: "brother",
+    translation: "irmão",
+    pronunciation: "/ˈbrʌðər/",
+    portuguesePhonetic: "brâ-ther",
+    syllables: ["broth", "er"],
+    exampleSentence: "brother",
+    exampleTranslation: "irmão"
+  },
+  {
+    id: 'lesson_25_105',
+    word: "e-mail",
+    translation: "e-mail",
+    pronunciation: "/ˈiˌmeɪl/",
+    portuguesePhonetic: "í-mêil",
+    syllables: ["e-mail"],
+    exampleSentence: "e-mail",
+    exampleTranslation: "e-mail"
+  },
+  {
+    id: 'lesson_25_106',
+    word: "ticket",
+    translation: "passagem",
+    pronunciation: "/ˈtɪkɪt/",
+    portuguesePhonetic: "tí-quet",
+    syllables: ["tick", "et"],
+    exampleSentence: "ticket",
+    exampleTranslation: "passagem"
+  },
+  {
+    id: 'lesson_25_107',
+    word: "France",
+    translation: "França",
+    pronunciation: "/fræns/",
+    portuguesePhonetic: "fréns",
+    syllables: ["France"],
+    exampleSentence: "France",
+    exampleTranslation: "França"
+  },
+  {
+    id: 'lesson_25_108',
+    word: "Italy",
+    translation: "Itália",
+    pronunciation: "/ˈɪtəli/",
+    portuguesePhonetic: "í-ta-li",
+    syllables: ["It", "a", "ly"],
+    exampleSentence: "Italy",
+    exampleTranslation: "Itália"
+  },
+  {
+    id: 'lesson_25_109',
+    word: "mall",
+    translation: "shopping",
+    pronunciation: "/mɔl/",
+    portuguesePhonetic: "mól",
+    syllables: ["mall"],
+    exampleSentence: "mall",
+    exampleTranslation: "shopping"
+  },
+  {
+    id: 'lesson_25_110',
+    word: "store",
+    translation: "loja",
+    pronunciation: "/stɔr/",
+    portuguesePhonetic: "stór",
+    syllables: ["store"],
+    exampleSentence: "store",
+    exampleTranslation: "loja"
+  },
+  {
+    id: 'lesson_25_111',
+    word: "cell phone",
+    translation: "celular",
+    pronunciation: "/sɛl foʊn/",
+    portuguesePhonetic: "sél fôun",
+    syllables: ["cell", " phone"],
+    exampleSentence: "cell phone",
+    exampleTranslation: "celular"
+  },
+  {
+    id: 'lesson_25_112',
+    word: "computer",
+    translation: "computador",
+    pronunciation: "/kəmˈpjutər/",
+    portuguesePhonetic: "com-piú-ter",
+    syllables: ["com", "pu", "ter"],
+    exampleSentence: "computer",
+    exampleTranslation: "computador"
+  },
+  {
+    id: 'lesson_25_113',
+    word: "work",
+    translation: "trabalho",
+    pronunciation: "/wɜrk/",
+    portuguesePhonetic: "uãrc",
+    syllables: ["work"],
+    exampleSentence: "work",
+    exampleTranslation: "trabalho"
+  },
+  {
+    id: 'lesson_25_114',
+    word: "souvenir",
+    translation: "lembrancinha / souvenir",
+    pronunciation: "/ˌsuvəˈnɪr/",
+    portuguesePhonetic: "su-ve-nír",
+    syllables: ["sou", "ve", "nir"],
+    exampleSentence: "souvenir",
+    exampleTranslation: "lembrancinha / souvenir"
+  },
+  {
+    id: 'lesson_25_115',
+    word: "backpack",
+    translation: "mochila",
+    pronunciation: "/ˈbækˌpæk/",
+    portuguesePhonetic: "béc-péc",
+    syllables: ["backpack"],
+    exampleSentence: "backpack",
+    exampleTranslation: "mochila"
+  },
+  {
+    id: 'lesson_25_116',
+    word: "book",
+    translation: "livro",
+    pronunciation: "/bʊk/",
+    portuguesePhonetic: "búc",
+    syllables: ["book"],
+    exampleSentence: "book",
+    exampleTranslation: "livro"
+  },
+  {
+    id: 'lesson_25_117',
+    word: "medicine",
+    translation: "remédio",
+    pronunciation: "/ˈmɛdəsən/",
+    portuguesePhonetic: "mé-di-cin",
+    syllables: ["med", "i", "cine"],
+    exampleSentence: "medicine",
+    exampleTranslation: "remédio"
+  },
+  {
+    id: 'lesson_25_118',
+    word: "price",
+    translation: "preço",
+    pronunciation: "/praɪs/",
+    portuguesePhonetic: "prais",
+    syllables: ["price"],
+    exampleSentence: "price",
+    exampleTranslation: "preço"
+  },
+  {
+    id: 'lesson_25_119',
+    word: "cheap",
+    translation: "barato",
+    pronunciation: "/tʃip/",
+    portuguesePhonetic: "tchíp",
+    syllables: ["cheap"],
+    exampleSentence: "cheap",
+    exampleTranslation: "barato"
+  },
+  {
+    id: 'lesson_25_120',
+    word: "boss",
+    translation: "chefe",
+    pronunciation: "/bɔs/",
+    portuguesePhonetic: "bós",
+    syllables: ["boss"],
+    exampleSentence: "boss",
+    exampleTranslation: "chefe"
+  },
+  {
+    id: 'lesson_25_121',
+    word: "passport",
+    translation: "passaporte",
+    pronunciation: "/ˈpæˌspɔrt/",
+    portuguesePhonetic: "pés-pórt",
+    syllables: ["pass", "port"],
+    exampleSentence: "passport",
+    exampleTranslation: "passaporte"
+  },
+  {
+    id: 'lesson_25_122',
+    word: "alarm clock",
+    translation: "despertador",
+    pronunciation: "/əˈlɑrm klɑk/",
+    portuguesePhonetic: "a-lárm clóc",
+    syllables: ["a", "larm", " clock"],
+    exampleSentence: "alarm clock",
+    exampleTranslation: "despertador"
+  },
+  {
+    id: 'lesson_25_123',
+    word: "need to",
+    translation: "precisar",
+    pronunciation: "/nid tu/",
+    portuguesePhonetic: "nid tchu",
+    syllables: ["need", " to"],
+    exampleSentence: "need to",
+    exampleTranslation: "precisar"
+  },
+  {
+    id: 'lesson_25_124',
+    word: "want to",
+    translation: "querer",
+    pronunciation: "/wɑnt tu/",
+    portuguesePhonetic: "uánt tchu",
+    syllables: ["want", " to"],
+    exampleSentence: "want to",
+    exampleTranslation: "querer"
+  },
+  {
+    id: 'lesson_25_125',
+    word: "buy",
+    translation: "comprar",
+    pronunciation: "/baɪ/",
+    portuguesePhonetic: "bái",
+    syllables: ["buy"],
+    exampleSentence: "buy",
+    exampleTranslation: "comprar"
+  },
+  {
+    id: 'lesson_25_126',
+    word: "send",
+    translation: "enviar",
+    pronunciation: "/sɛnd/",
+    portuguesePhonetic: "sénd",
+    syllables: ["send"],
+    exampleSentence: "send",
+    exampleTranslation: "enviar"
+  },
+  {
+    id: 'lesson_25_127',
+    word: "take",
+    translation: "levar",
+    pronunciation: "/teɪk/",
+    portuguesePhonetic: "têic",
+    syllables: ["take"],
+    exampleSentence: "take",
+    exampleTranslation: "levar"
+  },
+  {
+    id: 'lesson_25_128',
+    word: "know",
+    translation: "saber / conhecer",
+    pronunciation: "/noʊ/",
+    portuguesePhonetic: "nôu",
+    syllables: ["know"],
+    exampleSentence: "know",
+    exampleTranslation: "saber / conhecer"
   }
 ];
 
@@ -27635,6 +34320,396 @@ export const LESSON_27_DECK: FlashcardData[] = [
     syllables: ["I", " live", " far", " from", " the", " park."],
     exampleSentence: "I live far from the park.",
     exampleTranslation: "Eu moro longe do parque."
+  },
+  {
+    id: 'lesson_27_71',
+    word: "How many places do you want to visit in Spain?",
+    translation: "Quantos lugares você quer visitar na Espanha?",
+    pronunciation: "/haʊ ˈmɛni ˈpleɪsəz du ju wɑnt tu ˈvɪzɪt ɪn speɪn?/",
+    portuguesePhonetic: "ráu mé-ni plêi-siz du iu uánt tchu ví-zit in espêin?",
+    syllables: ["How", " ma", "ny", " pla", "ces", " do", " you", " want", " to", " vis", "it", " in", " Spain?"],
+    exampleSentence: "How many places do you want to visit in Spain?",
+    exampleTranslation: "Quantos lugares você quer visitar na Espanha?"
+  },
+  {
+    id: 'lesson_27_72',
+    word: "I visit my cousins and my grandparents on Sundays.",
+    translation: "Eu visito meus primos e meus avós aos domingos.",
+    pronunciation: "/aɪ ˈvɪzɪt maɪ ˈkʌzənz ænd maɪ ˈɡrændˌpɛrənts ɑn ˈsʌndeɪz./",
+    portuguesePhonetic: "ai ví-zit mai câ-zinz énd mai grénd-pé-rents ón sân-dêis.",
+    syllables: ["I", " vis", "it", " my", " cous", "ins", " and", " my", " grand", "par", "ents", " on", " Sun", "days."],
+    exampleSentence: "I visit my cousins and my grandparents on Sundays.",
+    exampleTranslation: "Eu visito meus primos e meus avós aos domingos."
+  },
+  {
+    id: 'lesson_27_73',
+    word: "My aunt prefers to go to the museum. She doesn't like to go to the park.",
+    translation: "Minha tia prefere ir ao museu. Ela não gosta de ir ao parque.",
+    pronunciation: "/maɪ ænt prəˈfɜrz tu ɡoʊ tu ðə mjuˈziəm. ʃi ˈdʌzənt laɪk tu ɡoʊ tu ðə pɑrk./",
+    portuguesePhonetic: "mai ént pri-fãrz tchu gôu tchu dâ miú-zí-um. chi dâ-zent laic tchu gôu tchu dâ párc.",
+    syllables: ["My", " aunt", " pre", "fers", " to", " go", " to", " the", " mu", "se", "um.", " She", " doesn't", " like", " to", " go", " to", " the", " park."],
+    exampleSentence: "My aunt prefers to go to the museum. She doesn't like to go to the park.",
+    exampleTranslation: "Minha tia prefere ir ao museu. Ela não gosta de ir ao parque."
+  },
+  {
+    id: 'lesson_27_74',
+    word: "I love to visit my relatives on my vacation.",
+    translation: "Eu amo visitar meus parentes nas minhas férias.",
+    pronunciation: "/aɪ lʌv tu ˈvɪzɪt maɪ ˈrɛlətɪvz ɑn maɪ veɪˈkeɪʃən./",
+    portuguesePhonetic: "ai lâv tchu ví-zit mai ré-la-tivz ón mai vei-kêi-chân.",
+    syllables: ["I", " love", " to", " vis", "it", " my", " rel", "a", "tives", " on", " my", " va", "ca", "tion."],
+    exampleSentence: "I love to visit my relatives on my vacation.",
+    exampleTranslation: "Eu amo visitar meus parentes nas minhas férias."
+  },
+  {
+    id: 'lesson_27_75',
+    word: "I like to go to the park near my house on weekends.",
+    translation: "Eu gosto de ir ao parque perto da minha casa nos fins de semana.",
+    pronunciation: "/aɪ laɪk tu ɡoʊ tu ðə pɑrk nɪr maɪ haʊs ɑn ˈwiˌkɛndz./",
+    portuguesePhonetic: "ai laic tchu gôu tchu dâ párc níar mai ráus ón ui-kénds.",
+    syllables: ["I", " like", " to", " go", " to", " the", " park", " near", " my", " house", " on", " week", "ends."],
+    exampleSentence: "I like to go to the park near my house on weekends.",
+    exampleTranslation: "Eu gosto de ir ao parque perto da minha casa nos fins de semana."
+  },
+  {
+    id: 'lesson_27_76',
+    word: "How many books do you have on your tablet?",
+    translation: "Quantos livros você tem no seu tablet?",
+    pronunciation: "/haʊ ˈmɛni bʊks du ju hæv ɑn jʊər ˈtæblət?/",
+    portuguesePhonetic: "ráu mé-ni búcs du iu rév ón iór té-blet?",
+    syllables: ["How", " ma", "ny", " books", " do", " you", " have", " on", " your", " tab", "let?"],
+    exampleSentence: "How many books do you have on your tablet?",
+    exampleTranslation: "Quantos livros você tem no seu tablet?"
+  },
+  {
+    id: 'lesson_27_77',
+    word: "I need a ticket to go to the museum. How much is it?",
+    translation: "Eu preciso de um ingresso para ir ao museu. Quanto custa?",
+    pronunciation: "/aɪ nid ə ˈtɪkɪt tu ɡoʊ tu ðə mjuˈziəm. haʊ mʌtʃ ɪz ɪt?/",
+    portuguesePhonetic: "ai nid â tí-quet tchu gôu tchu dâ miú-zí-um. ráu mâtch íz it?",
+    syllables: ["I", " need", " a", " tick", "et", " to", " go", " to", " the", " mu", "se", "um.", " How", " much", " is", " it?"],
+    exampleSentence: "I need a ticket to go to the museum. How much is it?",
+    exampleTranslation: "Eu preciso de um ingresso para ir ao museu. Quanto custa?"
+  },
+  {
+    id: 'lesson_27_78',
+    word: "They don't live far from the university.",
+    translation: "Eles não moram longe da universidade.",
+    pronunciation: "/ðeɪ doʊnt lɪv fɑr frʌm ðə ˌjunəˈvɜrsəti./",
+    portuguesePhonetic: "dêi dôunt lív fár frâm dâ iu-ni-vãr-si-ti.",
+    syllables: ["They", " don't", " live", " far", " from", " the", " u", "ni", "ver", "si", "ty."],
+    exampleSentence: "They don't live far from the university.",
+    exampleTranslation: "Eles não moram longe da universidade."
+  },
+  {
+    id: 'lesson_27_79',
+    word: "Does she like to go to the movies during the week?",
+    translation: "Ela gosta de ir ao cinema durante a semana?",
+    pronunciation: "/dʌz ʃi laɪk tu ɡoʊ tu ðə ˈmuviz ˈdjʊərɪŋ ðə wik?/",
+    portuguesePhonetic: "dâz chi laic tchu gôu tchu dâ mú-vis diú-ring dâ uíc?",
+    syllables: ["Does", " she", " like", " to", " go", " to", " the", " mo", "vies", " dur", "ing", " the", " week?"],
+    exampleSentence: "Does she like to go to the movies during the week?",
+    exampleTranslation: "Ela gosta de ir ao cinema durante a semana?"
+  },
+  {
+    id: 'lesson_27_80',
+    word: "How many places do you want to visit in France?",
+    translation: "Quantos lugares você quer visitar na França?",
+    pronunciation: "/haʊ ˈmɛni ˈpleɪsəz du ju wɑnt tu ˈvɪzɪt ɪn fræns?/",
+    portuguesePhonetic: "ráu mé-ni plêi-siz du iu uánt tchu ví-zit in fréns?",
+    syllables: ["How", " ma", "ny", " pla", "ces", " do", " you", " want", " to", " vis", "it", " in", " France?"],
+    exampleSentence: "How many places do you want to visit in France?",
+    exampleTranslation: "Quantos lugares você quer visitar na França?"
+  },
+  {
+    id: 'lesson_27_81',
+    word: "mirror",
+    translation: "espelho",
+    pronunciation: "/ˈmɪrər/",
+    portuguesePhonetic: "mí-ror",
+    syllables: ["mir", "ror"],
+    exampleSentence: "I have a mirror in my bedroom.",
+    exampleTranslation: "Eu tenho um espelho no meu quarto."
+  },
+  {
+    id: 'lesson_27_82',
+    word: "Aquarius",
+    translation: "Aquário / Aquário (signo)",
+    pronunciation: "/əˈkwɛriəs/",
+    portuguesePhonetic: "a-kué-ri-as",
+    syllables: ["A", "quar", "i", "us"],
+    exampleSentence: "I like to visit the aquarium on weekends.",
+    exampleTranslation: "Eu gosto de visitar o aquário nos fins de semana."
+  },
+  {
+    id: 'lesson_27_83',
+    word: "museum",
+    translation: "museu",
+    pronunciation: "/mjuˈziəm/",
+    portuguesePhonetic: "miú-zí-um",
+    syllables: ["mu", "se", "um"],
+    exampleSentence: "We visit the museum on Saturdays.",
+    exampleTranslation: "Nós visitamos o museum aos sábados."
+  },
+  {
+    id: 'lesson_27_84',
+    word: "uncle",
+    translation: "tio",
+    pronunciation: "/ˈʌŋkəl/",
+    portuguesePhonetic: "ân-col",
+    syllables: ["un", "cle"],
+    exampleSentence: "My uncle lives in Spain.",
+    exampleTranslation: "Meu tio mora na Espanha."
+  },
+  {
+    id: 'lesson_27_85',
+    word: "vacation",
+    translation: "férias",
+    pronunciation: "/veɪˈkeɪʃən/",
+    portuguesePhonetic: "vei-kêi-chân",
+    syllables: ["va", "ca", "tion"],
+    exampleSentence: "I travel with my family during my vacation.",
+    exampleTranslation: "Eu viajo com minha família durante as minhas férias."
+  },
+  {
+    id: 'lesson_27_86',
+    word: "relatives",
+    translation: "parentes",
+    pronunciation: "/ˈrɛlətɪvz/",
+    portuguesePhonetic: "ré-la-tivz",
+    syllables: ["rel", "a", "tives"],
+    exampleSentence: "I visit my relatives every year.",
+    exampleTranslation: "Eu visito meus parentes todos os anos."
+  },
+  {
+    id: 'lesson_27_87',
+    word: "place",
+    translation: "lugar",
+    pronunciation: "/pleɪs/",
+    portuguesePhonetic: "plêis",
+    syllables: ["place"],
+    exampleSentence: "place",
+    exampleTranslation: "lugar"
+  },
+  {
+    id: 'lesson_27_88',
+    word: "Spain",
+    translation: "Espanha",
+    pronunciation: "/speɪn/",
+    portuguesePhonetic: "espêin",
+    syllables: ["Spain"],
+    exampleSentence: "Spain",
+    exampleTranslation: "Espanha"
+  },
+  {
+    id: 'lesson_27_89',
+    word: "France",
+    translation: "França",
+    pronunciation: "/fræns/",
+    portuguesePhonetic: "fréns",
+    syllables: ["France"],
+    exampleSentence: "France",
+    exampleTranslation: "França"
+  },
+  {
+    id: 'lesson_27_90',
+    word: "cousin",
+    translation: "primo / prima",
+    pronunciation: "/ˈkʌzən/",
+    portuguesePhonetic: "câ-zin",
+    syllables: ["cous", "in"],
+    exampleSentence: "cousin",
+    exampleTranslation: "primo / prima"
+  },
+  {
+    id: 'lesson_27_91',
+    word: "grandparents",
+    translation: "avós",
+    pronunciation: "/ˈɡrændˌpɛrənts/",
+    portuguesePhonetic: "grénd-pé-rents",
+    syllables: ["grand", "par", "ents"],
+    exampleSentence: "grandparents",
+    exampleTranslation: "avós"
+  },
+  {
+    id: 'lesson_27_92',
+    word: "aunt",
+    translation: "tia",
+    pronunciation: "/ænt/",
+    portuguesePhonetic: "ént",
+    syllables: ["aunt"],
+    exampleSentence: "aunt",
+    exampleTranslation: "tia"
+  },
+  {
+    id: 'lesson_27_93',
+    word: "uncle",
+    translation: "tio",
+    pronunciation: "/ˈʌŋkəl/",
+    portuguesePhonetic: "ân-col",
+    syllables: ["un", "cle"],
+    exampleSentence: "uncle",
+    exampleTranslation: "tio"
+  },
+  {
+    id: 'lesson_27_94',
+    word: "museum",
+    translation: "museu",
+    pronunciation: "/mjuˈziəm/",
+    portuguesePhonetic: "miú-zí-um",
+    syllables: ["mu", "se", "um"],
+    exampleSentence: "museum",
+    exampleTranslation: "museu"
+  },
+  {
+    id: 'lesson_27_95',
+    word: "park",
+    translation: "parque",
+    pronunciation: "/pɑrk/",
+    portuguesePhonetic: "párc",
+    syllables: ["park"],
+    exampleSentence: "park",
+    exampleTranslation: "parque"
+  },
+  {
+    id: 'lesson_27_96',
+    word: "relatives",
+    translation: "parentes",
+    pronunciation: "/ˈrɛlətɪvz/",
+    portuguesePhonetic: "ré-la-tivz",
+    syllables: ["rel", "a", "tives"],
+    exampleSentence: "relatives",
+    exampleTranslation: "parentes"
+  },
+  {
+    id: 'lesson_27_97',
+    word: "vacation",
+    translation: "férias",
+    pronunciation: "/veɪˈkeɪʃən/",
+    portuguesePhonetic: "vei-kêi-chân",
+    syllables: ["va", "ca", "tion"],
+    exampleSentence: "vacation",
+    exampleTranslation: "férias"
+  },
+  {
+    id: 'lesson_27_98',
+    word: "tablet",
+    translation: "tablet",
+    pronunciation: "/ˈtæblət/",
+    portuguesePhonetic: "té-blet",
+    syllables: ["tab", "let"],
+    exampleSentence: "tablet",
+    exampleTranslation: "tablet"
+  },
+  {
+    id: 'lesson_27_99',
+    word: "ticket",
+    translation: "ingresso",
+    pronunciation: "/ˈtɪkɪt/",
+    portuguesePhonetic: "tí-quet",
+    syllables: ["tick", "et"],
+    exampleSentence: "ticket",
+    exampleTranslation: "ingresso"
+  },
+  {
+    id: 'lesson_27_100',
+    word: "movies",
+    translation: "cinema",
+    pronunciation: "/ˈmuviz/",
+    portuguesePhonetic: "mú-vis",
+    syllables: ["mo", "vies"],
+    exampleSentence: "movies",
+    exampleTranslation: "cinema"
+  },
+  {
+    id: 'lesson_27_101',
+    word: "mirror",
+    translation: "espelho",
+    pronunciation: "/ˈmɪrər/",
+    portuguesePhonetic: "mí-ror",
+    syllables: ["mir", "ror"],
+    exampleSentence: "mirror",
+    exampleTranslation: "espelho"
+  },
+  {
+    id: 'lesson_27_102',
+    word: "aquarium",
+    translation: "aquário",
+    pronunciation: "/əˈkwɛriəm/",
+    portuguesePhonetic: "a-kué-ri-am",
+    syllables: ["a", "quar", "i", "um"],
+    exampleSentence: "aquarium",
+    exampleTranslation: "aquário"
+  },
+  {
+    id: 'lesson_27_103',
+    word: "live far from",
+    translation: "morar longe de",
+    pronunciation: "/lɪv fɑr frʌm/",
+    portuguesePhonetic: "lív fár frâm",
+    syllables: ["live", " far", " from"],
+    exampleSentence: "live far from",
+    exampleTranslation: "morar longe de"
+  },
+  {
+    id: 'lesson_27_104',
+    word: "visit",
+    translation: "visitar",
+    pronunciation: "/ˈvɪzɪt/",
+    portuguesePhonetic: "ví-zit",
+    syllables: ["vis", "it"],
+    exampleSentence: "visit",
+    exampleTranslation: "visitar"
+  },
+  {
+    id: 'lesson_27_105',
+    word: "prefer",
+    translation: "preferir",
+    pronunciation: "/prəˈfɜr/",
+    portuguesePhonetic: "pri-fãr",
+    syllables: ["pre", "fer"],
+    exampleSentence: "prefer",
+    exampleTranslation: "preferir"
+  },
+  {
+    id: 'lesson_27_106',
+    word: "how many",
+    translation: "quantos",
+    pronunciation: "/haʊ ˈmɛni/",
+    portuguesePhonetic: "ráu mé-ni",
+    syllables: ["how", " ma", "ny"],
+    exampleSentence: "how many",
+    exampleTranslation: "quantos"
+  },
+  {
+    id: 'lesson_27_107',
+    word: "how much",
+    translation: "quanto custa",
+    pronunciation: "/haʊ mʌtʃ/",
+    portuguesePhonetic: "ráu mâtch",
+    syllables: ["how", " much"],
+    exampleSentence: "how much",
+    exampleTranslation: "quanto custa"
+  },
+  {
+    id: 'lesson_27_108',
+    word: "during the week",
+    translation: "durante a semana",
+    pronunciation: "/ˈdjʊərɪŋ ðə wik/",
+    portuguesePhonetic: "diú-ring dâ uíc",
+    syllables: ["dur", "ing", " the", " week"],
+    exampleSentence: "during the week",
+    exampleTranslation: "durante a semana"
+  },
+  {
+    id: 'lesson_27_109',
+    word: "on weekends",
+    translation: "nos finais de semana",
+    pronunciation: "/ɑn ˈwiˌkɛndz/",
+    portuguesePhonetic: "ón ui-kénds",
+    syllables: ["on", " week", "ends"],
+    exampleSentence: "on weekends",
+    exampleTranslation: "nos finais de semana"
   }
 ];
 
@@ -28458,6 +35533,506 @@ export const LESSON_29_DECK: FlashcardData[] = [
     syllables: ["Does", " she", " live", " on", " this", " street?"],
     exampleSentence: "Does she live on this street?",
     exampleTranslation: "Ela mora nesta rua?"
+  },
+  {
+    id: 'lesson_29_83',
+    word: "We want to go home by bus and we need to buy two tickets.",
+    translation: "Nós queremos ir para casa de ônibus e precisamos comprar dois bilhetes.",
+    pronunciation: "/wi wɑnt tu ɡoʊ hoʊm baɪ bʌs ænd wi nid tu baɪ tu ˈtɪkəts./",
+    portuguesePhonetic: "ui uánt tchu gôu rôum bái bâs énd ui nid tchu bái tchu tí-quets.",
+    syllables: ["We", " want", " to", " go", " home", " by", " bus", " and", " we", " need", " to", " buy", " two", " tick", "ets."],
+    exampleSentence: "We want to go home by bus and we need to buy two tickets.",
+    exampleTranslation: "Nós queremos ir para casa de ônibus e precisamos comprar dois bilhetes."
+  },
+  {
+    id: 'lesson_29_84',
+    word: "Walk two blocks and take the subway on Melvin Street.",
+    translation: "Ande dois quarteirões e pegue o metrô na Rua Melvin.",
+    pronunciation: "/wɔk tu blɑks ænd teɪk ðə ˈsʌbˌweɪ ɑn ˈmɛlvɪn strit./",
+    portuguesePhonetic: "uóc tchu blócs énd têic dâ sâb-uêi ón mél-vin strit.",
+    syllables: ["Walk", " two", " blocks", " and", " take", " the", " sub", "way", " on", " Mel", "vin", " Street."],
+    exampleSentence: "Walk two blocks and take the subway on Melvin Street.",
+    exampleTranslation: "Ande dois quarteirões e pegue o metrô na Rua Melvin."
+  },
+  {
+    id: 'lesson_29_85',
+    word: "You need to take the train to go downtown.",
+    translation: "Você precisa pegar o trem para ir ao centro.",
+    pronunciation: "/ju nid tu teɪk ðə treɪn tu ɡoʊ ˈdaʊnˈtaʊn./",
+    portuguesePhonetic: "iu nid tchu têic dâ trêin tchu gôu dáun-táun.",
+    syllables: ["You", " need", " to", " take", " the", " train", " to", " go", " down", "town."],
+    exampleSentence: "You need to take the train to go downtown.",
+    exampleTranslation: "Você precisa pegar o trem para ir ao centro."
+  },
+  {
+    id: 'lesson_29_86',
+    word: "I go to school with my cousins by bicycle.",
+    translation: "Eu vou para a escola com meus primos de bicicleta.",
+    pronunciation: "/aɪ ɡoʊ tu skul wɪð maɪ ˈkʌzənz baɪ ˈbaɪsɪkəl./",
+    portuguesePhonetic: "ai gôu tchu scul uíd mai câ-zinz bái bái-si-col.",
+    syllables: ["I", " go", " to", " school", " with", " my", " cous", "ins", " by", " bi", "cy", "cle."],
+    exampleSentence: "I go to school with my cousins by bicycle.",
+    exampleTranslation: "Eu vou para a escola com meus primos de bicicleta."
+  },
+  {
+    id: 'lesson_29_87',
+    word: "How can I get to the mall, please? – Go straight ahead and turn right.",
+    translation: "Como eu faço para chegar ao shopping, por favor? – Vá em frente e vire à direita.",
+    pronunciation: "/haʊ kæn aɪ ɡɛt tu ðə mɔl, pliz? – ɡoʊ streɪt əˈhɛd ænd tɜrn raɪt./",
+    portuguesePhonetic: "ráu quén ai guét tchu dâ mól, pliz? – gôu strêit a-réd énd thãrn ráit.",
+    syllables: ["How", " can", " I", " get", " to", " the", " mall,", " please?", " Go", " straight", " a", "head", " and", " turn", " right."],
+    exampleSentence: "How can I get to the mall, please? – Go straight ahead and turn right.",
+    exampleTranslation: "Como eu faço para chegar ao shopping, por favor? – Vá em frente e vire à direita."
+  },
+  {
+    id: 'lesson_29_88',
+    word: "We need to take the subway at 5:30. Meet me at the station.",
+    translation: "Nós precisamos pegar o metrô às 5h30. Me encontre na estação.",
+    pronunciation: "/wi nid tu teɪk ðə ˈsʌbˌweɪ æt faɪv ˈθɜrti. mit mi æt ðə ˈsteɪʃən./",
+    portuguesePhonetic: "ui nid tchu têic dâ sâb-uêi ét fáiv thãr-ti. mit mi ét dâ stêi-chan.",
+    syllables: ["We", " need", " to", " take", " the", " sub", "way", " at", " five", " thir", "ty.", " Meet", " me", " at", " the", " sta", "tion."],
+    exampleSentence: "We need to take the subway at 5:30. Meet me at the station.",
+    exampleTranslation: "Nós precisamos pegar o metrô às 5h30. Me encontre na estação."
+  },
+  {
+    id: 'lesson_29_89',
+    word: "He doesn't go to the park by bicycle. He goes there by bus.",
+    translation: "Ele não vai ao parque de bicicleta. Ele vai lá de ônibus.",
+    pronunciation: "/hi ˈdʌzənt ɡoʊ tu ðə pɑrk baɪ ˈbaɪsɪkəl. hi ɡoʊz ðɛr baɪ bʌs./",
+    portuguesePhonetic: "ri dâ-zent gôu tchu dâ párc bái bái-si-col. ri gôuz dér bái bâs.",
+    syllables: ["He", " doesn't", " go", " to", " the", " park", " by", " bi", "cy", "cle.", " He", " goes", " there", " by", " bus."],
+    exampleSentence: "He doesn't go to the park by bicycle. He goes there by bus.",
+    exampleTranslation: "Ele não vai ao parque de bicicleta. Ele vai lá de ônibus."
+  },
+  {
+    id: 'lesson_29_90',
+    word: "My uncle drives me to the office.",
+    translation: "Meu tio me leva de carro para o escritório.",
+    pronunciation: "/maɪ ˈʌŋkəl draɪvz mi tu ði ˈɔfəs./",
+    portuguesePhonetic: "mai ân-col dráivz mi tchu di ó-fis.",
+    syllables: ["My", " un", "cle", " drives", " me", " to", " the", " of", "fice."],
+    exampleSentence: "My uncle drives me to the office.",
+    exampleTranslation: "Meu tio me leva de carro para o escritório."
+  },
+  {
+    id: 'lesson_29_91',
+    word: "Can she drive? – Yes, she can drive very well.",
+    translation: "Ela sabe dirigir? – Sim, ela sabe dirigir muito bem.",
+    pronunciation: "/kæn ʃi draɪv? – jɛs, ʃi kæn draɪv ˈvɛri wɛl./",
+    portuguesePhonetic: "quén chi dráiv? – iés, chi quén dráiv vé-ri uél.",
+    syllables: ["Can", " she", " drive?", " Yes,", " she", " can", " drive", " ve", "ry", " well."],
+    exampleSentence: "Can she drive? – Yes, she can drive very well.",
+    exampleTranslation: "Ela sabe dirigir? – Sim, ela sabe dirigir muito bem."
+  },
+  {
+    id: 'lesson_29_92',
+    word: "She doesn't live downtown. She lives on that avenue.",
+    translation: "Ela não mora no centro da cidade. Ela mora naquela avenida.",
+    pronunciation: "/ʃi ˈdʌzənt lɪv ˈdaʊnˈtaʊn. ʃi lɪvz ɑn ðæt ˈævəˌnu./",
+    portuguesePhonetic: "chi dâ-zent lív dáun-táun. chi lívz ón dét é-ve-niu.",
+    syllables: ["She", " doesn't", " live", " down", "town.", " She", " lives", " on", " that", " av", "e", "nue."],
+    exampleSentence: "She doesn't live downtown. She lives on that avenue.",
+    exampleTranslation: "Ela não mora no centro da cidade. Ela mora naquela avenida."
+  },
+  {
+    id: 'lesson_29_93',
+    word: "Don't take the subway on that avenue.",
+    translation: "Não pegue o metrô naquela avenida.",
+    pronunciation: "/doʊnt teɪk ðə ˈsʌbˌweɪ ɑn ðæt ˈævəˌnu./",
+    portuguesePhonetic: "dôunt têic dâ sâb-uêi ón dét é-ve-niu.",
+    syllables: ["Don't", " take", " the", " sub", "way", " on", " that", " av", "e", "nue."],
+    exampleSentence: "Don't take the subway on that avenue.",
+    exampleTranslation: "Não pegue o metrô naquela avenida."
+  },
+  {
+    id: 'lesson_29_94',
+    word: "Don't drink coffee at night.",
+    translation: "Não tome café à noite.",
+    pronunciation: "/doʊnt drɪŋk ˈkɔfi æt naɪt./",
+    portuguesePhonetic: "dôunt drínc có-fi ét náit.",
+    syllables: ["Don't", " drink", " cof", "fee", " at", " night."],
+    exampleSentence: "Don't drink coffee at night.",
+    exampleTranslation: "Não tome café à noite."
+  },
+  {
+    id: 'lesson_29_95',
+    word: "Don't go downtown by car.",
+    translation: "Não vá ao centro de carro.",
+    pronunciation: "/doʊnt ɡoʊ ˈdaʊnˈtaʊn baɪ kɑr./",
+    portuguesePhonetic: "dôunt gôu dáun-táun bái cár.",
+    syllables: ["Don't", " go", " down", "town", " by", " car."],
+    exampleSentence: "Don't go downtown by car.",
+    exampleTranslation: "Não vá ao centro de carro."
+  },
+  {
+    id: 'lesson_29_96',
+    word: "Don't go to bed late.",
+    translation: "Não vá dormir tarde.",
+    pronunciation: "/doʊnt ɡoʊ tu bɛd leɪt./",
+    portuguesePhonetic: "dôunt gôu tchu béd lêit.",
+    syllables: ["Don't", " go", " to", " bed", " late."],
+    exampleSentence: "Don't go to bed late.",
+    exampleTranslation: "Não vá dormir tarde."
+  },
+  {
+    id: 'lesson_29_97',
+    word: "Don't take that bus to go to the museum.",
+    translation: "Não pegue aquele ônibus para ir ao museu.",
+    pronunciation: "/doʊnt teɪk ðæt bʌs tu ɡoʊ tu ðə mjuˈziəm./",
+    portuguesePhonetic: "dôunt têic dét bâs tchu gôu tchu dâ miú-zí-um.",
+    syllables: ["Don't", " take", " that", " bus", " to", " go", " to", " the", " mu", "se", "um."],
+    exampleSentence: "Don't take that bus to go to the museum.",
+    exampleTranslation: "Não pegue aquele ônibus para ir ao museu."
+  },
+  {
+    id: 'lesson_29_98',
+    word: "Don't buy the tickets before Saturday.",
+    translation: "Não compre os bilhetes antes de sábado.",
+    pronunciation: "/doʊnt baɪ ðə ˈtɪkəts bɪˈfɔr ˈsætərdeɪ./",
+    portuguesePhonetic: "dôunt bái dâ tí-quets bi-fór sé-ter-dêi.",
+    syllables: ["Don't", " buy", " the", " tick", "ets", " be", "fore", " Sat", "ur", "day."],
+    exampleSentence: "Don't buy the tickets before Saturday.",
+    exampleTranslation: "Não compre os bilhetes antes de sábado."
+  },
+  {
+    id: 'lesson_29_99',
+    word: "Don't send that e-mail now.",
+    translation: "Não envie aquele e-mail agora.",
+    pronunciation: "/doʊnt sɛnd ðæt ˈiˌmeɪl naʊ./",
+    portuguesePhonetic: "dôunt sénd dét í-mêil náu.",
+    syllables: ["Don't", " send", " that", " e-mail", " now."],
+    exampleSentence: "Don't send that e-mail now.",
+    exampleTranslation: "Não envie aquele e-mail agora."
+  },
+  {
+    id: 'lesson_29_100',
+    word: "Don't drive the children to school tomorrow.",
+    translation: "Não leve as crianças para a escola de carro amanhã.",
+    pronunciation: "/doʊnt draɪv ðə ˈtʃɪldrən tu skul təˈmɑˌroʊ./",
+    portuguesePhonetic: "dôunt dráiv dâ tchíl-dren tchu scul tu-mó-rou.",
+    syllables: ["Don't", " drive", " the", " chil", "dren", " to", " school", " to", "mor", "row."],
+    exampleSentence: "Don't drive the children to school tomorrow.",
+    exampleTranslation: "Não leve as crianças para a escola de carro amanhã."
+  },
+  {
+    id: 'lesson_29_101',
+    word: "Excuse me. How can I get to the museum?",
+    translation: "Com licença. Como posso chegar ao museu?",
+    pronunciation: "/ɪkˈskjus mi. haʊ kæn aɪ ɡɛt tu ðə mjuˈziəm?/",
+    portuguesePhonetic: "ec-squiuz mi. râu quén ai guét tchu dâ miú-zí-um?",
+    syllables: ["Ex", "cuse", " me.", " How", " can", " I", " get", " to", " the", " mu", "se", "um?"],
+    exampleSentence: "Excuse me. How can I get to the museum?",
+    exampleTranslation: "Com licença. Como posso chegar ao museu?"
+  },
+  {
+    id: 'lesson_29_102',
+    word: "Oh, it's near here.",
+    translation: "Ah, fica perto daqui.",
+    pronunciation: "/oʊ, ɪts nɪr hɪr./",
+    portuguesePhonetic: "ou, íts níar rír.",
+    syllables: ["Oh,", " it's", " near", " here."],
+    exampleSentence: "Oh, it's near here.",
+    exampleTranslation: "Ah, fica perto daqui."
+  },
+  {
+    id: 'lesson_29_103',
+    word: "Do I need to take the bus?",
+    translation: "Eu preciso pegar o ônibus?",
+    pronunciation: "/du aɪ nid tu teɪk ðə bʌs?/",
+    portuguesePhonetic: "du ai nid tchu têic dâ bâs?",
+    syllables: ["Do", " I", " need", " to", " take", " the", " bus?"],
+    exampleSentence: "Do I need to take the bus?",
+    exampleTranslation: "Eu preciso pegar o ônibus?"
+  },
+  {
+    id: 'lesson_29_104',
+    word: "No, you don't. Go straight ahead on this street and turn left at the coffee shop.",
+    translation: "Não, não precisa. Vá em frente nesta rua e vire à esquerda na cafeteria.",
+    pronunciation: "/noʊ, ju doʊnt. ɡoʊ streɪt əˈhɛd ɑn ðɪs strit ænd tɜrn lɛft æt ðə ˈkɔfi ʃɑp./",
+    portuguesePhonetic: "nôu, iu dôunt. gôu strêit a-réd ón dís strit énd thãrn léft ét dâ có-fi chóp.",
+    syllables: ["No,", " you", " don't.", " Go", " straight", " a", "head", " on", " this", " street", " and", " turn", " left", " at", " the", " cof", "fee", " shop."],
+    exampleSentence: "No, you don't. Go straight ahead on this street and turn left at the coffee shop.",
+    exampleTranslation: "Não, não precisa. Vá em frente nesta rua e vire à esquerda na cafeteria."
+  },
+  {
+    id: 'lesson_29_105',
+    word: "OK! And how much is the ticket for the museum?",
+    translation: "OK! E quanto custa o ingresso para o museu?",
+    pronunciation: "/ˌoʊˈkeɪ! ænd haʊ mʌtʃ ɪz ðə ˈtɪkɪt fɔr ðə mjuˈziəm?/",
+    portuguesePhonetic: "ou-kêi! énd râu mâtch íz dâ tí-quet fór dâ miú-zí-um?",
+    syllables: ["O", "K!", " And", " how", " much", " is", " the", " tick", "et", " for", " the", " mu", "se", "um?"],
+    exampleSentence: "OK! And how much is the ticket for the museum?",
+    exampleTranslation: "OK! E quanto custa o ingresso para o museu?"
+  },
+  {
+    id: 'lesson_29_106',
+    word: "It's US$30.",
+    translation: "São 30 dólares.",
+    pronunciation: "/ɪts ˈθɜrti ˈdɑlərz./",
+    portuguesePhonetic: "íts thãr-ti dó-larz.",
+    syllables: ["It's", " thir", "ty", " dol", "lars."],
+    exampleSentence: "It's US$30.",
+    exampleTranslation: "São 30 dólares."
+  },
+  {
+    id: 'lesson_29_107',
+    word: "Really? It's expensive, but OK. Thank you very much.",
+    translation: "Sério? É caro, mas tudo bem. Muito obrigado.",
+    pronunciation: "/ˈrɪli? ɪts ɪkˈspɛnsɪv, bʌt ˌoʊˈkeɪ. θæŋk ju ˈvɛri mʌtʃ./",
+    portuguesePhonetic: "rí-li? íts ec-spén-siv, bât ou-kêi. thénc iu vé-ri mâtch.",
+    syllables: ["Real", "ly?", " It's", " ex", "pen", "sive,", " but", " O", "K.", " Thank", " you", " ve", "ry", " much."],
+    exampleSentence: "Really? It's expensive, but OK. Thank you very much.",
+    exampleTranslation: "Sério? É caro, mas tudo bem. Muito obrigado."
+  },
+  {
+    id: 'lesson_29_108',
+    word: "You're welcome.",
+    translation: "De nada.",
+    pronunciation: "/jʊr ˈwɛlkəm./",
+    portuguesePhonetic: "iór uél-câm.",
+    syllables: ["You're", " wel", "come."],
+    exampleSentence: "You're welcome.",
+    exampleTranslation: "De nada."
+  },
+  {
+    id: 'lesson_29_109',
+    word: "bus",
+    translation: "ônibus",
+    pronunciation: "/bʌs/",
+    portuguesePhonetic: "bâs",
+    syllables: ["bus"],
+    exampleSentence: "bus",
+    exampleTranslation: "ônibus"
+  },
+  {
+    id: 'lesson_29_110',
+    word: "subway",
+    translation: "metrô",
+    pronunciation: "/ˈsʌbˌweɪ/",
+    portuguesePhonetic: "sâb-uêi",
+    syllables: ["sub", "way"],
+    exampleSentence: "subway",
+    exampleTranslation: "metrô"
+  },
+  {
+    id: 'lesson_29_111',
+    word: "train",
+    translation: "trem",
+    pronunciation: "/treɪn/",
+    portuguesePhonetic: "trêin",
+    syllables: ["train"],
+    exampleSentence: "train",
+    exampleTranslation: "trem"
+  },
+  {
+    id: 'lesson_29_112',
+    word: "station",
+    translation: "estação",
+    pronunciation: "/ˈsteɪʃən/",
+    portuguesePhonetic: "stêi-chan",
+    syllables: ["sta", "tion"],
+    exampleSentence: "station",
+    exampleTranslation: "estação"
+  },
+  {
+    id: 'lesson_29_113',
+    word: "ticket",
+    translation: "bilhete / ingresso",
+    pronunciation: "/ˈtɪkɪt/",
+    portuguesePhonetic: "tí-quet",
+    syllables: ["tick", "et"],
+    exampleSentence: "ticket",
+    exampleTranslation: "bilhete / ingresso"
+  },
+  {
+    id: 'lesson_29_114',
+    word: "block",
+    translation: "quarteirão",
+    pronunciation: "/blɑk/",
+    portuguesePhonetic: "blóc",
+    syllables: ["block"],
+    exampleSentence: "block",
+    exampleTranslation: "quarteirão"
+  },
+  {
+    id: 'lesson_29_115',
+    word: "downtown",
+    translation: "centro da cidade",
+    pronunciation: "/ˈdaʊnˈtaʊn/",
+    portuguesePhonetic: "dáun-táun",
+    syllables: ["down", "town"],
+    exampleSentence: "downtown",
+    exampleTranslation: "centro da cidade"
+  },
+  {
+    id: 'lesson_29_116',
+    word: "avenue",
+    translation: "avenida",
+    pronunciation: "/ˈævəˌnu/",
+    portuguesePhonetic: "é-ve-niu",
+    syllables: ["av", "e", "nue"],
+    exampleSentence: "avenue",
+    exampleTranslation: "avenida"
+  },
+  {
+    id: 'lesson_29_117',
+    word: "bicycle",
+    translation: "bicicleta",
+    pronunciation: "/ˈbaɪsɪkəl/",
+    portuguesePhonetic: "bái-si-col",
+    syllables: ["bi", "cy", "cle"],
+    exampleSentence: "bicycle",
+    exampleTranslation: "bicicleta"
+  },
+  {
+    id: 'lesson_29_118',
+    word: "drive",
+    translation: "dirigir",
+    pronunciation: "/draɪv/",
+    portuguesePhonetic: "dráiv",
+    syllables: ["drive"],
+    exampleSentence: "drive",
+    exampleTranslation: "dirigir"
+  },
+  {
+    id: 'lesson_29_119',
+    word: "office",
+    translation: "escritório",
+    pronunciation: "/ˈɔfəs/",
+    portuguesePhonetic: "ó-fis",
+    syllables: ["of", "fice"],
+    exampleSentence: "office",
+    exampleTranslation: "escritório"
+  },
+  {
+    id: 'lesson_29_120',
+    word: "turn right",
+    translation: "virar à direita",
+    pronunciation: "/tɜrn raɪt/",
+    portuguesePhonetic: "thãrn ráit",
+    syllables: ["turn", " right"],
+    exampleSentence: "turn right",
+    exampleTranslation: "virar à direita"
+  },
+  {
+    id: 'lesson_29_121',
+    word: "turn left",
+    translation: "virar à esquerda",
+    pronunciation: "/tɜrn lɛft/",
+    portuguesePhonetic: "thãrn léft",
+    syllables: ["turn", " left"],
+    exampleSentence: "turn left",
+    exampleTranslation: "virar à esquerda"
+  },
+  {
+    id: 'lesson_29_122',
+    word: "go straight ahead",
+    translation: "seguir em frente",
+    pronunciation: "/ɡoʊ streɪt əˈhɛd/",
+    portuguesePhonetic: "gôu strêit a-réd",
+    syllables: ["go", " straight", " a", "head"],
+    exampleSentence: "go straight ahead",
+    exampleTranslation: "seguir em frente"
+  },
+  {
+    id: 'lesson_29_123',
+    word: "museum",
+    translation: "museu",
+    pronunciation: "/mjuˈziəm/",
+    portuguesePhonetic: "miú-zí-um",
+    syllables: ["mu", "se", "um"],
+    exampleSentence: "museum",
+    exampleTranslation: "museu"
+  },
+  {
+    id: 'lesson_29_124',
+    word: "coffee shop",
+    translation: "cafeteria",
+    pronunciation: "/ˈkɔfi ʃɑp/",
+    portuguesePhonetic: "có-fi chóp",
+    syllables: ["cof", "fee", " shop"],
+    exampleSentence: "coffee shop",
+    exampleTranslation: "cafeteria"
+  },
+  {
+    id: 'lesson_29_125',
+    word: "expensive",
+    translation: "caro",
+    pronunciation: "/ɪkˈspɛnsɪv/",
+    portuguesePhonetic: "ec-spén-siv",
+    syllables: ["ex", "pen", "sive"],
+    exampleSentence: "expensive",
+    exampleTranslation: "caro"
+  },
+  {
+    id: 'lesson_29_126',
+    word: "by bus",
+    translation: "de ônibus",
+    pronunciation: "/baɪ bʌs/",
+    portuguesePhonetic: "bái bâs",
+    syllables: ["by", " bus"],
+    exampleSentence: "by bus",
+    exampleTranslation: "de ônibus"
+  },
+  {
+    id: 'lesson_29_127',
+    word: "by car",
+    translation: "de carro",
+    pronunciation: "/baɪ kɑr/",
+    portuguesePhonetic: "bái cár",
+    syllables: ["by", " car"],
+    exampleSentence: "by car",
+    exampleTranslation: "de carro"
+  },
+  {
+    id: 'lesson_29_128',
+    word: "by bicycle",
+    translation: "de bicicleta",
+    pronunciation: "/baɪ ˈbaɪsɪkəl/",
+    portuguesePhonetic: "bái bái-si-col",
+    syllables: ["by", " bi", "cy", "cle"],
+    exampleSentence: "by bicycle",
+    exampleTranslation: "de bicicleta"
+  },
+  {
+    id: 'lesson_29_129',
+    word: "at night",
+    translation: "à noite",
+    pronunciation: "/æt naɪt/",
+    portuguesePhonetic: "ét náit",
+    syllables: ["at", " night"],
+    exampleSentence: "at night",
+    exampleTranslation: "à noite"
+  },
+  {
+    id: 'lesson_29_130',
+    word: "go to bed",
+    translation: "ir para a cama",
+    pronunciation: "/ɡoʊ tu bɛd/",
+    portuguesePhonetic: "gôu tchu béd",
+    syllables: ["go", " to", " bed"],
+    exampleSentence: "go to bed",
+    exampleTranslation: "ir para a cama"
+  },
+  {
+    id: 'lesson_29_131',
+    word: "meet me",
+    translation: "encontre-me",
+    pronunciation: "/mit mi/",
+    portuguesePhonetic: "mit mi",
+    syllables: ["meet", " me"],
+    exampleSentence: "meet me",
+    exampleTranslation: "encontre-me"
+  },
+  {
+    id: 'lesson_29_132',
+    word: "near here",
+    translation: "perto daqui",
+    pronunciation: "/nɪr hɪr/",
+    portuguesePhonetic: "níar rír",
+    syllables: ["near", " here"],
+    exampleSentence: "near here",
+    exampleTranslation: "perto daqui"
   }
 ];
 
@@ -28511,14 +36086,8 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   write_think: {
     en: WRITE_THINK_DECK
   },
-  homework_35: {
-    en: HOMEWORK_35_DECK
-  },
   to_be_negative: {
     en: TO_BE_NEGATIVE_DECK
-  },
-  homework_39: {
-    en: HOMEWORK_39_DECK
   },
   to_wear_change: {
     en: TO_WEAR_CHANGE_DECK
@@ -28538,20 +36107,11 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   to_be_intro: {
     en: TO_BE_INTRO_DECK
   },
-  homework_37: {
-    en: HOMEWORK_37_DECK
-  },
   start_finish: {
     en: START_FINISH_DECK
   },
-  homework_31: {
-    en: HOMEWORK_31_DECK
-  },
   lesson_33: {
     en: LESSON_33_DECK
-  },
-  homework_33: {
-    en: HOMEWORK_33_DECK
   },
   move_put: {
     en: MOVE_PUT_DECK
@@ -28580,17 +36140,20 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   post_follow: {
     en: POST_FOLLOW_DECK
   },
-  drink_eat_want: {
-    en: DRINK_EAT_WANT_DECK
-  },
-  go_have_visit: {
-    en: GO_HAVE_VISIT_DECK
-  },
   travel_stay_need: {
     en: TRAVEL_STAY_NEED_DECK
   },
   know_work_live: {
     en: KNOW_WORK_LIVE_DECK
+  },
+  study_understand_learn: {
+    en: STUDY_UNDERSTAND_LEARN_DECK
+  },
+  lesson_1_vocabulary_c1: {
+    en: LESSON_1_VOCABULARY_C1_DECK
+  },
+  lesson_2_vocabulary_c1: {
+    en: LESSON_2_VOCABULARY_C1_DECK
   },
   lesson_1_vocabulary_a1: {
     en: LESSON_1_VOCABULARY_A1_DECK

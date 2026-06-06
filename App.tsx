@@ -121,6 +121,7 @@ const App: React.FC = () => {
     'W2': false,
     'W4': false,
     'Vocabulary A1': false,
+    'Vocabulary C1': false,
     'W2-S': true,
     'Vocabulario A1-S': true
   });
@@ -237,13 +238,16 @@ const App: React.FC = () => {
         const currentCard = prev.cards[prev.currentIndex];
         const isLastCard = prev.currentIndex >= prev.cards.length - 1;
         const key = `${prev.topicId}_${prev.language}`;
+        const staticTopic = PREDEFINED_TOPICS.find(t => t.id === prev.topicId);
+        const isStatic = staticTopic?.isStatic === true;
+        const trackValue = isStatic ? currentCard.id : currentCard.word;
 
         // --- REAL-TIME SAVING (Hybrid Approach) ---
         if (known) {
           setTopicWords(words => {
             const currentHistory = words[key] || [];
-            if (!currentHistory.includes(currentCard.word)) {
-              return { ...words, [key]: [...currentHistory, currentCard.word] };
+            if (!currentHistory.includes(trackValue)) {
+              return { ...words, [key]: [...currentHistory, trackValue] };
             }
             return words;
           });
@@ -252,7 +256,10 @@ const App: React.FC = () => {
         if (!known) {
           setTopicReviews(reviews => {
             const existing = reviews[key] || [];
-            if (!existing.some(c => c.word === currentCard.word)) {
+            const hasMatch = isStatic 
+              ? existing.some(c => c.id === currentCard.id)
+              : existing.some(c => c.word === currentCard.word);
+            if (!hasMatch) {
               return { ...reviews, [key]: [...existing, currentCard] };
             }
             return reviews;
@@ -262,7 +269,10 @@ const App: React.FC = () => {
         if (prev.isBonus && known) {
           setTopicReviews(reviews => {
             const existing = reviews[key] || [];
-            return { ...reviews, [key]: existing.filter(c => c.word !== currentCard.word) };
+            const filtered = isStatic
+              ? existing.filter(c => c.id !== currentCard.id)
+              : existing.filter(c => c.word !== currentCard.word);
+            return { ...reviews, [key]: filtered };
           });
         }
         // ------------------------------------------
@@ -321,12 +331,19 @@ const App: React.FC = () => {
         const newUnknownCount = wasUnknown ? Math.max(0, prev.unknownCount - 1) : prev.unknownCount;
         const newUnknownCards = prev.unknownCards.filter(c => c.id !== prevCard.id);
         
+        const staticTopic = PREDEFINED_TOPICS.find(t => t.id === prev.topicId);
+        const isStatic = staticTopic?.isStatic === true;
+        const trackValue = isStatic ? prevCard.id : prevCard.word;
+
         if (wasUnknown) {
           setTopicReviews(reviews => {
             const existing = reviews[key] || [];
+            const filtered = isStatic
+              ? existing.filter(c => c.id !== prevCard.id)
+              : existing.filter(c => c.word !== prevCard.word);
             return {
               ...reviews,
-              [key]: existing.filter(c => c.word !== prevCard.word)
+              [key]: filtered
             };
           });
         } else {
@@ -334,7 +351,7 @@ const App: React.FC = () => {
             const existing = words[key] || [];
             return {
               ...words,
-              [key]: existing.filter(w => w !== prevCard.word)
+              [key]: existing.filter(w => w !== trackValue)
             };
           });
         }
@@ -413,7 +430,7 @@ const App: React.FC = () => {
         </div>
       ) : (
         <>
-          {(targetLanguage === 'es' ? ['W2-S', 'Vocabulario A1-S'] : ['W2', 'W4', 'Vocabulary A1']).map(groupName => {
+          {(targetLanguage === 'es' ? ['W2-S', 'Vocabulario A1-S'] : ['W2', 'W4', 'Vocabulary A1', 'Vocabulary C1']).map(groupName => {
             const groupTopics = PREDEFINED_TOPICS.filter((t: any) => t.group === groupName);
             if (groupTopics.length === 0) return null;
             const isExpanded = expandedGroups[groupName] === true; // default false
@@ -423,8 +440,7 @@ const App: React.FC = () => {
               const learnedCountA = (topicWords[keyA] || []).length;
               let totalCardsA = CARDS_PER_DECK;
               if (a.isStatic && STATIC_DECKS[a.id] && STATIC_DECKS[a.id][targetLanguage]) {
-                const uniqueWords = new Set(STATIC_DECKS[a.id][targetLanguage].map(c => (c.word || '').trim()).filter(Boolean));
-                totalCardsA = uniqueWords.size;
+                totalCardsA = STATIC_DECKS[a.id][targetLanguage].length;
               }
               const isCompleteA = learnedCountA >= totalCardsA;
 
@@ -432,8 +448,7 @@ const App: React.FC = () => {
               const learnedCountB = (topicWords[keyB] || []).length;
               let totalCardsB = CARDS_PER_DECK;
               if (b.isStatic && STATIC_DECKS[b.id] && STATIC_DECKS[b.id][targetLanguage]) {
-                const uniqueWords = new Set(STATIC_DECKS[b.id][targetLanguage].map(c => (c.word || '').trim()).filter(Boolean));
-                totalCardsB = uniqueWords.size;
+                totalCardsB = STATIC_DECKS[b.id][targetLanguage].length;
               }
               const isCompleteB = learnedCountB >= totalCardsB;
 
@@ -449,8 +464,7 @@ const App: React.FC = () => {
               totalGroupLearned += (topicWords[key] || []).length;
               let topicTotalCards = CARDS_PER_DECK;
               if (topic.isStatic && STATIC_DECKS[topic.id] && STATIC_DECKS[topic.id][targetLanguage]) {
-                const uniqueWords = new Set(STATIC_DECKS[topic.id][targetLanguage].map(c => (c.word || '').trim()).filter(Boolean));
-                topicTotalCards = uniqueWords.size;
+                topicTotalCards = STATIC_DECKS[topic.id][targetLanguage].length;
               }
               totalGroupCards += topicTotalCards;
             });
@@ -483,8 +497,7 @@ const App: React.FC = () => {
                const learnedCount = (topicWords[key] || []).length;
                let totalCards = CARDS_PER_DECK;
                if (topic.isStatic && STATIC_DECKS[topic.id] && STATIC_DECKS[topic.id][targetLanguage]) {
-                 const uniqueWords = new Set(STATIC_DECKS[topic.id][targetLanguage].map(c => (c.word || '').trim()).filter(Boolean));
-                 totalCards = uniqueWords.size;
+                 totalCards = STATIC_DECKS[topic.id][targetLanguage].length;
                }
                
                const displayLearnedCount = learnedCount;
