@@ -32,26 +32,10 @@ export const FlagES = () => (
   </svg>
 );
 
-export const FlagFR = () => (
-  <svg className="w-8 h-6 rounded shadow-sm object-cover ring-1 ring-slate-900/10" viewBox="0 0 32 24" xmlns="http://www.w3.org/2000/svg">
-    <path fill="#fff" d="M0 0h32v24H0z"/>
-    <path fill="#002395" d="M0 0h11v24H0z"/>
-    <path fill="#ED2939" d="M21 0h11v24H21z"/>
-  </svg>
-);
-
 export const FlagIT = () => (
   <svg className="w-8 h-6 rounded shadow-sm object-cover ring-1 ring-slate-900/10" viewBox="0 0 32 24" xmlns="http://www.w3.org/2000/svg">
     <path fill="#fff" d="M0 0h32v24H0z"/>
     <path fill="#009246" d="M0 0h11v24H0z"/>
     <path fill="#CE2B37" d="M21 0h11v24H21z"/>
-  </svg>
-);
-
-export const FlagDE = () => (
-  <svg className="w-8 h-6 rounded shadow-sm object-cover ring-1 ring-slate-900/10" viewBox="0 0 32 24" xmlns="http://www.w3.org/2000/svg">
-    <path fill="#FFCE00" d="M0 0h32v24H0z"/>
-    <path fill="#000" d="M0 0h32v8H0z"/>
-    <path fill="#DD0000" d="M0 8h32v8H0z"/>
   </svg>
 );

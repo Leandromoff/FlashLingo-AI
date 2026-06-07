@@ -4,7 +4,7 @@ import { AppState, StudySession, FlashcardData, PREDEFINED_TOPICS, SupportedLang
 import { STATIC_DECKS } from './data/staticDecks';
 import Card from './components/Card';
 import ProgressBar from './components/ProgressBar';
-import { FlagUS, FlagES, FlagFR, FlagIT, FlagDE } from './components/Flags';
+import { FlagUS, FlagES, FlagIT } from './components/Flags';
 import { useLocalStorage } from './hooks/useLocalStorage';
 import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, ChevronDown, ChevronUp, Folder, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap, Wrench } from 'lucide-react';
 
@@ -401,9 +401,7 @@ const App: React.FC = () => {
             <div className="flex items-center gap-2 bg-white dark:bg-slate-800 p-1.5 rounded-full border border-slate-200 dark:border-slate-700 shadow-sm">
                 <button onClick={() => setTargetLanguage('en')} className={`p-1.5 rounded-full transition-all ${targetLanguage === 'en' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`} title="Inglês"><FlagUS /></button>
                 <button onClick={() => setTargetLanguage('es')} className={`p-1.5 rounded-full transition-all ${targetLanguage === 'es' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`} title="Espanhol"><FlagES /></button>
-                <button onClick={() => setTargetLanguage('fr')} className={`p-1.5 rounded-full transition-all ${targetLanguage === 'fr' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`} title="Francês"><FlagFR /></button>
                 <button onClick={() => setTargetLanguage('it')} className={`p-1.5 rounded-full transition-all ${targetLanguage === 'it' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`} title="Italiano"><FlagIT /></button>
-                <button onClick={() => setTargetLanguage('de')} className={`p-1.5 rounded-full transition-all ${targetLanguage === 'de' ? 'bg-indigo-100 ring-2 ring-indigo-500' : 'opacity-70 hover:opacity-100'}`} title="Alemão"><FlagDE /></button>
             </div>
 
             <div className="flex gap-3">
@@ -592,9 +590,7 @@ const App: React.FC = () => {
      const isBonus = false;
      let langLabel = 'Inglês';
      if (targetLanguage === 'es') langLabel = 'Espanhol';
-     if (targetLanguage === 'fr') langLabel = 'Francês';
      if (targetLanguage === 'it') langLabel = 'Italiano';
-     if (targetLanguage === 'de') langLabel = 'Alemão';
      return (
         <div className="flex flex-col items-center justify-center min-h-[60vh]">
           <div className="relative">

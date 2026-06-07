@@ -1,4 +1,4 @@
-export type SupportedLanguage = 'en' | 'es' | 'fr' | 'it' | 'de';
+export type SupportedLanguage = 'en' | 'es' | 'it';
 
 export interface FlashcardData {
   id: string;
@@ -64,6 +64,11 @@ export const PREDEFINED_TOPICS = [
   { id: 'to_spend_travel', label: 'Lesson 57', isStatic: true, group: 'W2' },
   { id: 'to_arrive_leave', label: 'Lesson 59', isStatic: true, group: 'W2' },
 
+  { id: 'to_move_put', label: 'Lesson 61', isStatic: true, group: 'W4' },
+  { id: 'share_rent', label: 'Lesson 63', isStatic: true, group: 'W4' },
+  { id: 'to_lose_find', label: 'Lesson 65', isStatic: true, group: 'W4' },
+  { id: 'to_be_past', label: 'Lesson 67', isStatic: true, group: 'W4' },
+  { id: 'to_be_past_questions', label: 'Lesson 69', isStatic: true, group: 'W4' },
   { id: 'travel_stay_need', label: 'Lesson 83', isStatic: true, group: 'W4' },
   { id: 'know_work_live', label: 'Lesson 85', isStatic: true, group: 'W4' },
   { id: 'study_understand_learn', label: 'Lesson 87', isStatic: true, group: 'W4' },

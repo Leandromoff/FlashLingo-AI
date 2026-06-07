@@ -95,17 +95,9 @@ export const generateFlashcards = async (
           targetLangName = 'Spanish';
           phoneticExample = "'calle' -> 'cá-ie', 'gente' -> 'rrên-te'";
           break;
-        case 'fr':
-          targetLangName = 'French';
-          phoneticExample = "'oui' -> 'ui', 'boulangerie' -> 'bu-lan-je-rri', 'maison' -> 'me-zon'";
-          break;
         case 'it':
           targetLangName = 'Italian';
           phoneticExample = "'ciao' -> 'tcháu', 'grazie' -> 'grá-tsie', 'gelato' -> 'dje-lá-to'";
-          break;
-        case 'de':
-          targetLangName = 'German';
-          phoneticExample = "'hallo' -> 'rá-lo', 'danke' -> 'dán-ke', 'nacht' -> 'nárr-t'";
           break;
         default:
           targetLangName = 'English';
@@ -413,9 +405,7 @@ export const playLocalAudio = (
     // Set locale based on language
     switch (language) {
       case 'es': utterance.lang = 'es-ES'; break;
-      case 'fr': utterance.lang = 'fr-FR'; break;
       case 'it': utterance.lang = 'it-IT'; break;
-      case 'de': utterance.lang = 'de-DE'; break;
       default: utterance.lang = 'en-US';
     }
 

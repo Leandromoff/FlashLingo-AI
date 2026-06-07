@@ -581,9 +581,7 @@ const Card: React.FC<CardProps> = ({
   const getLanguageLabel = () => {
     switch (targetLanguage) {
       case 'es': return 'Espanhol';
-      case 'fr': return 'Francês';
       case 'it': return 'Italiano';
-      case 'de': return 'Alemão';
       default: return 'Inglês';
     }
   };
