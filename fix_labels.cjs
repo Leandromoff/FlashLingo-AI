@@ -12,7 +12,6 @@ const replacements = [
   ['Lesson  to open | abrir to close | fechar', 'Lesson 45 to open | abrir to close | fechar'],
   ['Lesson  to call | chamar, ligar to wait | esperar', 'Lesson 47 to call | chamar, ligar to wait | esperar'],
   ['Lesson  to wear | vestir, usar to change | trocar, mudar', 'Lesson 49 to wear | vestir, usar to change | trocar, mudar'],
-  ['Lesson  Mover, Mudar, Colocar & Pôr', 'Lesson 61 Mover, Mudar, Colocar & Pôr'],
   ['Lesson  Dividir, Compartilhar & Alugar', 'Lesson 63 Dividir, Compartilhar & Alugar'],
   ['Lesson  Perder, Encontrar & Achar', 'Lesson 65 Perder, Encontrar & Achar'],
   ['Lesson  Ser, Estar I', 'Lesson 67 Ser, Estar I'],

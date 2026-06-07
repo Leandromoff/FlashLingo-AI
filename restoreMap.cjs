@@ -13,8 +13,20 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   start_finish: {
     en: START_FINISH_DECK
   },
-  move_put: {
-    en: MOVE_PUT_DECK
+  to_sell_pay: {
+    en: TO_SELL_PAY_DECK
+  },
+  to_put_do: {
+    en: TO_PUT_DO_DECK
+  },
+  to_play_run: {
+    en: TO_PLAY_RUN_DECK
+  },
+  to_spend_travel: {
+    en: TO_SPEND_TRAVEL_DECK
+  },
+  to_arrive_leave: {
+    en: TO_ARRIVE_LEAVE_DECK
   }
 };
 `;

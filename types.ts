@@ -58,8 +58,12 @@ export const PREDEFINED_TOPICS = [
   { id: 'to_open_close', label: 'Lesson 45', isStatic: true, group: 'W2' },
   { id: 'to_call_wait', label: 'Lesson 47', isStatic: true, group: 'W2' },
   { id: 'to_wear_change', label: 'Lesson 49', isStatic: true, group: 'W2' },
+  { id: 'to_sell_pay', label: 'Lesson 51', isStatic: true, group: 'W2' },
+  { id: 'to_put_do', label: 'Lesson 53', isStatic: true, group: 'W2' },
+  { id: 'to_play_run', label: 'Lesson 55', isStatic: true, group: 'W2' },
+  { id: 'to_spend_travel', label: 'Lesson 57', isStatic: true, group: 'W2' },
+  { id: 'to_arrive_leave', label: 'Lesson 59', isStatic: true, group: 'W2' },
 
-  { id: 'move_put', label: 'Lesson 61', isStatic: true, group: 'W4' },
   { id: 'travel_stay_need', label: 'Lesson 83', isStatic: true, group: 'W4' },
   { id: 'know_work_live', label: 'Lesson 85', isStatic: true, group: 'W4' },
   { id: 'study_understand_learn', label: 'Lesson 87', isStatic: true, group: 'W4' },

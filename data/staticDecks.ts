@@ -1225,359 +1225,11 @@ import { LESSON_2_VOCABULARY_C1_DECK } from './lesson2_vocabulary_c1';
 import { TRAVEL_STAY_NEED_DECK } from './travel_stay_need';
 import { KNOW_WORK_LIVE_DECK } from './know_work_live';
 import { STUDY_UNDERSTAND_LEARN_DECK } from './study_understand_learn';
-
-export const MOVE_PUT_DECK: FlashcardData[] = [
-  {
-    id: 'move_put_1',
-    word: 'to move',
-    translation: 'mover, mudar',
-    pronunciation: '/tu muv/',
-    portuguesePhonetic: 'tchu muv',
-    syllables: ['to', ' move'],
-    exampleSentence: 'Why do you need to move to New York?',
-    exampleTranslation: 'Por que você precisa se mudar para Nova York?'
-  },
-  {
-    id: 'move_put_2',
-    word: 'to put',
-    translation: 'colocar, pôr',
-    pronunciation: '/tu pʊt/',
-    portuguesePhonetic: 'tchu put',
-    syllables: ['to', ' put'],
-    exampleSentence: 'My husband wants to put a new closet in our bedroom.',
-    exampleTranslation: 'Meu marido quer colocar um guarda-roupa novo no nosso quarto.'
-  },
-  {
-    id: 'move_put_3',
-    word: 'armchair',
-    translation: 'poltrona',
-    pronunciation: '/ˈɑrmˌtʃɛr/',
-    portuguesePhonetic: 'árm-tcher',
-    syllables: ['arm', 'chair'],
-    exampleSentence: 'Let\'s move this armchair to the right side.',
-    exampleTranslation: 'Vamos mudar esta poltrona para o lado direito.'
-  },
-  {
-    id: 'move_put_4',
-    word: 'chair',
-    translation: 'cadeira',
-    pronunciation: '/tʃɛr/',
-    portuguesePhonetic: 'tcher',
-    syllables: ['chair'],
-    exampleSentence: 'Don\'t put this chair here. It\'s broken.',
-    exampleTranslation: 'Não coloque essa cadeira aqui. Está quebrada.'
-  },
-  {
-    id: 'move_put_5',
-    word: 'desk',
-    translation: 'escrivaninha',
-    pronunciation: '/dɛsk/',
-    portuguesePhonetic: 'desk',
-    syllables: ['desk'],
-    exampleSentence: 'Put the desk next to the dresser, please.',
-    exampleTranslation: 'Coloque a escrivaninha ao lado da cômoda, por favor.'
-  },
-  {
-    id: 'move_put_6',
-    word: 'carpet',
-    translation: 'tapete',
-    pronunciation: '/ˈkɑrpɪt/',
-    portuguesePhonetic: 'cár-pet',
-    syllables: ['car', 'pet'],
-    exampleSentence: 'Don\'t put the dirty carpets here, please.',
-    exampleTranslation: 'Não coloque os tapetes sujos aqui, por favor.'
-  },
-  {
-    id: 'move_put_7',
-    word: 'tidy',
-    translation: 'arrumado(a)',
-    pronunciation: '/ˈtaɪdi/',
-    portuguesePhonetic: 'tái-di',
-    syllables: ['ti', 'dy'],
-    exampleSentence: 'Your bedroom is so tidy. My house is really messy!',
-    exampleTranslation: 'Seu quarto é tão arrumado. Minha casa é muito bagunçada!'
-  },
-  {
-    id: 'move_put_8',
-    word: 'broken',
-    translation: 'quebrado(a)',
-    pronunciation: '/ˈbroʊkən/',
-    portuguesePhonetic: 'brôu-ken',
-    syllables: ['bro', 'ken'],
-    exampleSentence: 'The laptop on the desk is broken.',
-    exampleTranslation: 'O notebook em cima da escrivaninha está quebrado.'
-  },
-  {
-    id: 'move_put_9',
-    word: 'messy',
-    translation: 'bagunçado(a)',
-    pronunciation: '/ˈmɛsi/',
-    portuguesePhonetic: 'mé-ssi',
-    syllables: ['mes', 'sy'],
-    exampleSentence: 'Your bedroom is so tidy. My house is really messy!',
-    exampleTranslation: 'Seu quarto é tão arrumado. Minha casa é muito bagunçada!'
-  },
-  {
-    id: 'move_put_10',
-    word: 'dirty',
-    translation: 'sujo(a)',
-    pronunciation: '/ˈdɜrti/',
-    portuguesePhonetic: 'dãr-ti',
-    syllables: ['dir', 'ty'],
-    exampleSentence: 'Don\'t put the dirty carpets here, please.',
-    exampleTranslation: 'Não coloque os tapetes sujos aqui, por favor.'
-  },
-  {
-    id: 'move_put_11',
-    word: 'to the left',
-    translation: 'para a esquerda',
-    pronunciation: '/tu ðə lɛft/',
-    portuguesePhonetic: 'tchu dâ left',
-    syllables: ['to', ' the', ' left'],
-    exampleSentence: 'Move this coffee table to the left, please.',
-    exampleTranslation: 'Mova esta mesa de centro para a esquerda, por favor.'
-  },
-  {
-    id: 'move_put_12',
-    word: 'to the right',
-    translation: 'para a direita',
-    pronunciation: '/tu ðə raɪt/',
-    portuguesePhonetic: 'tchu dâ rait',
-    syllables: ['to', ' the', ' right'],
-    exampleSentence: 'Let\'s move this armchair to the right side.',
-    exampleTranslation: 'Vamos mudar esta poltrona para o lado direito.'
-  },
-  {
-    id: 'move_put_13',
-    word: 'next to',
-    translation: 'ao lado de',
-    pronunciation: '/nɛkst tu/',
-    portuguesePhonetic: 'nécst tchu',
-    syllables: ['next', ' to'],
-    exampleSentence: 'Put the desk next to the dresser, please.',
-    exampleTranslation: 'Coloque a escrivaninha ao lado da cômoda, por favor.'
-  },
-  {
-    id: 'move_put_14',
-    word: 'Put away these clothes in the closet, please.',
-    translation: 'Guarde estas roupas no guarda-roupa, por favor.',
-    pronunciation: '/pʊt əˈweɪ ðiz kloʊz ɪn ðə ˈklɑzɪt, pliz/',
-    portuguesePhonetic: 'put a-uêi díz clôuz in dâ cló-zet, pliz',
-    syllables: ['Put', ' a', 'way', ' these', ' clothes', ' in', ' the', ' clo', 'set,', ' please.'],
-    exampleSentence: 'Put away these clothes in the closet, please.',
-    exampleTranslation: 'Guarde estas roupas no guarda-roupa, por favor.'
-  },
-  {
-    id: 'move_put_15',
-    word: 'Don\'t put this chair here. It\'s broken.',
-    translation: 'Não coloque essa cadeira aqui. Está quebrada.',
-    pronunciation: '/doʊnt pʊt ðɪs tʃɛr hɪr. ɪts ˈbroʊkən/',
-    portuguesePhonetic: 'dôunt put díz tcher rir. its brôu-ken',
-    syllables: ['Don\'t', ' put', ' this', ' chair', ' here.', ' It\'s', ' bro', 'ken.'],
-    exampleSentence: 'Don\'t put this chair here. It\'s broken.',
-    exampleTranslation: 'Não coloque essa cadeira aqui. Está quebrada.'
-  },
-  {
-    id: 'move_put_16',
-    word: 'What a mess!',
-    translation: 'Que bagunça!',
-    pronunciation: '/wʌt ə mɛs/',
-    portuguesePhonetic: 'uát a mès',
-    syllables: ['What', ' a', ' mess!'],
-    exampleSentence: 'What a mess! I need to clean up this kitchen.',
-    exampleTranslation: 'Que bagunça! Eu preciso limpar esta cozinha.'
-  },
-  {
-    id: 'move_put_17',
-    word: 'I always clean up my desk after work.',
-    translation: 'Eu sempre limpo minha escrivaninha depois do trabalho.',
-    pronunciation: '/aɪ ˈɔlweɪz klin ʌp maɪ dɛsk ˈæftər wɜrk/',
-    portuguesePhonetic: 'ai ól-ueiz clin ap mai desk áf-ter uãrc',
-    syllables: ['I', ' al', 'ways', ' clean', ' up', ' my', ' desk', ' af', 'ter', ' work.'],
-    exampleSentence: 'I always clean up my desk after work.',
-    exampleTranslation: 'Eu sempre limpo minha escrivaninha depois do trabalho.'
-  },
-  {
-    id: 'move_put_18',
-    word: 'There is a coffee table in this living room.',
-    translation: 'Tem uma mesa de centro nesta sala.',
-    pronunciation: '/ðɛr ɪz ə ˈkɔfi ˈteɪbəl ɪn ðɪs ˈlɪvɪŋ rum/',
-    portuguesePhonetic: 'dér iz a có-fi têi-bol in díz lí-vin rum',
-    syllables: ['There', ' is', ' a', ' cof', 'fee', ' ta', 'ble', ' in', ' this', ' li', 'ving', ' room.'],
-    exampleSentence: 'There is a coffee table in this living room.',
-    exampleTranslation: 'Tem uma mesa de centro nesta sala.'
-  },
-  {
-    id: 'move_put_19',
-    word: 'There isn\'t a coffee table in this living room.',
-    translation: 'Não tem uma mesa de centro nesta sala.',
-    pronunciation: '/ðɛr ˈɪzənt ə ˈkɔfi ˈteɪbəl ɪn ðɪs ˈlɪvɪŋ rum/',
-    portuguesePhonetic: 'dér í-zent a có-fi têi-bol in díz lí-vin rum',
-    syllables: ['There', ' is', 'n\'t', ' a', ' cof', 'fee', ' ta', 'ble', ' in', ' this', ' li', 'ving', ' room.'],
-    exampleSentence: 'There isn\'t a coffee table in this living room.',
-    exampleTranslation: 'Não tem uma mesa de centro nesta sala.'
-  },
-  {
-    id: 'move_put_20',
-    word: 'There are broken chairs here.',
-    translation: 'Tem cadeiras quebradas aqui.',
-    pronunciation: '/ðɛr ɑr ˈbroʊkən tʃɛrz hɪr/',
-    portuguesePhonetic: 'dér ar brôu-ken tchers rir',
-    syllables: ['There', ' are', ' bro', 'ken', ' chairs', ' here.'],
-    exampleSentence: 'There are broken chairs here.',
-    exampleTranslation: 'Tem cadeiras quebradas aqui.'
-  },
-  {
-    id: 'move_put_21',
-    word: 'There aren\'t any armchairs in the bedroom.',
-    translation: 'Não há poltronas no quarto.',
-    pronunciation: '/ðɛr ɑrnt ˈɛni ˈɑrmˌtʃɛrz ɪn ðə ˈbɛdˌrum/',
-    portuguesePhonetic: 'dér arnt é-ni árm-tchers in dâ béd-rum',
-    syllables: ['There', ' are', 'n\'t', ' a', 'ny', ' arm', 'chairs', ' in', ' the', ' bed', 'room.'],
-    exampleSentence: 'There aren\'t any armchairs in the bedroom.',
-    exampleTranslation: 'Não há poltronas no quarto.'
-  },
-  {
-    id: 'move_put_22',
-    word: 'There isn\'t a swimming pool in this hotel.',
-    translation: 'Não tem uma piscina neste hotel.',
-    pronunciation: '/ðɛr ˈɪzənt ə ˈswɪmɪŋ pul ɪn ðɪs hoʊˈtɛl/',
-    portuguesePhonetic: 'dér í-zent a suí-min pul in díz rôu-tél',
-    syllables: ['There', ' is', 'n\'t', ' a', ' swim', 'ming', ' pool', ' in', ' this', ' ho', 'tel.'],
-    exampleSentence: 'There isn\'t a swimming pool in this hotel.',
-    exampleTranslation: 'Não tem uma piscina neste hotel.'
-  },
-  {
-    id: 'move_put_23',
-    word: 'Is there an ATM near here?',
-    translation: 'Tem um caixa eletrônico perto daqui?',
-    pronunciation: '/ɪz ðɛr ən eɪ-ti-ɛm nɪr hɪr/',
-    portuguesePhonetic: 'iz dér an ei-ti-em nir rir',
-    syllables: ['Is', ' there', ' an', ' A', 'T', 'M', ' near', ' here?'],
-    exampleSentence: 'Is there an ATM near here?',
-    exampleTranslation: 'Tem um caixa eletrônico perto daqui?'
-  },
-  {
-    id: 'move_put_24',
-    word: 'How many shopping malls are there in this city?',
-    translation: 'Quantos shoppings têm nesta cidade?',
-    pronunciation: '/haʊ ˈmɛni ˈʃɑpɪŋ mɔlz ɑr ðɛr ɪn ðɪs ˈsɪti/',
-    portuguesePhonetic: 'ráu mé-ni shó-pin móls ar dér in díz sí-ti',
-    syllables: ['How', ' ma', 'ny', ' shop', 'ping', ' malls', ' are', ' there', ' in', ' this', ' ci', 'ty?'],
-    exampleSentence: 'How many shopping malls are there in this city?',
-    exampleTranslation: 'Quantos shoppings têm nesta cidade?'
-  },
-  {
-    id: 'move_put_25',
-    word: 'Move this coffee table to the left, please.',
-    translation: 'Mova esta mesa de centro para a esquerda, por favor.',
-    pronunciation: '/muv ðɪs ˈkɔfi ˈteɪbəl tu ðə lɛft, pliz/',
-    portuguesePhonetic: 'muv díz có-fi têi-bol tchu dâ left, pliz',
-    syllables: ['Move', ' this', ' cof', 'fee', ' ta', 'ble', ' to', ' the', ' left,', ' please.'],
-    exampleSentence: 'Move this coffee table to the left, please.',
-    exampleTranslation: 'Mova esta mesa de centro para a esquerda, por favor.'
-  },
-  {
-    id: 'move_put_26',
-    word: 'Don\'t put the dirty carpets here, please.',
-    translation: 'Não coloque os tapetes sujos aqui, por favor.',
-    pronunciation: '/doʊnt pʊt ðə ˈdɜrti ˈkɑrpɪts hɪr, pliz/',
-    portuguesePhonetic: 'dôunt put dâ dãr-ti cár-pets rir, pliz',
-    syllables: ['Don\'t', ' put', ' the', ' dir', 'ty', ' car', 'pets', ' here,', ' please.'],
-    exampleSentence: 'Don\'t put the dirty carpets here, please.',
-    exampleTranslation: 'Não coloque os tapetes sujos aqui, por favor.'
-  },
-  {
-    id: 'move_put_27',
-    word: 'Let\'s move this armchair to the right side.',
-    translation: 'Vamos mudar esta poltrona para o lado direito.',
-    pronunciation: '/lɛts muv ðɪs ˈɑrmˌtʃɛr tu ðə raɪt saɪd/',
-    portuguesePhonetic: 'léts muv díz árm-tcher tchu dâ rait said',
-    syllables: ['Let\'s', ' move', ' this', ' arm', 'chair', ' to', ' the', ' right', ' side.'],
-    exampleSentence: 'Let\'s move this armchair to the right side.',
-    exampleTranslation: 'Vamos mudar esta poltrona para o lado direito.'
-  },
-  {
-    id: 'move_put_28',
-    word: 'Put the desk next to the dresser, please.',
-    translation: 'Coloque a escrivaninha ao lado da cômoda, por favor.',
-    pronunciation: '/pʊt ðə dɛsk nɛkst tu ðə ˈdrɛsər, pliz/',
-    portuguesePhonetic: 'put dâ desk nécst tchu dâ dré-ser, pliz',
-    syllables: ['Put', ' the', ' desk', ' next', ' to', ' the', ' dres', 'ser,', ' please.'],
-    exampleSentence: 'Put the desk next to the dresser, please.',
-    exampleTranslation: 'Coloque a escrivaninha ao lado da cômoda, por favor.'
-  },
-  {
-    id: 'move_put_29',
-    word: 'Your bedroom is so tidy. My house is really messy!',
-    translation: 'Seu quarto é tão arrumado. Minha casa é muito bagunçada!',
-    pronunciation: '/jʊr ˈbɛdˌrum ɪz soʊ ˈtaɪdi. maɪ haʊs ɪz ˈrɪli ˈmɛsi/',
-    portuguesePhonetic: 'iór béd-rum iz sôu tái-di. mai ráus iz rí-li mé-ssi',
-    syllables: ['Your', ' bed', 'room', ' is', ' so', ' ti', 'dy.', ' My', ' house', ' is', ' real', 'ly', ' mes', 'sy!'],
-    exampleSentence: 'Your bedroom is so tidy. My house is really messy!',
-    exampleTranslation: 'Seu quarto é tão arrumado. Minha casa é muito bagunçada!'
-  },
-  {
-    id: 'move_put_30',
-    word: 'What a mess! I need to clean up this kitchen.',
-    translation: 'Que bagunça! Eu preciso limpar esta cozinha.',
-    pronunciation: '/wʌt ə mɛs! aɪ nid tu klin ʌp ðɪs ˈkɪtʃən/',
-    portuguesePhonetic: 'uát a mès! ai nid tchu clin ap díz quí-tchen',
-    syllables: ['What', ' a', ' mess!', ' I', ' need', ' to', ' clean', ' up', ' this', ' kit', 'chen.'],
-    exampleSentence: 'What a mess! I need to clean up this kitchen.',
-    exampleTranslation: 'Que bagunça! Eu preciso limpar esta cozinha.'
-  },
-  {
-    id: 'move_put_31',
-    word: 'There are some good bookstores in this mall.',
-    translation: 'Tem algumas livrarias boas neste shopping.',
-    pronunciation: '/ðɛr ɑr sʌm gʊd ˈbʊkˌstɔrz ɪn ðɪs mɔl/',
-    portuguesePhonetic: 'dér ar sãm gud buk-stórs in díz mól',
-    syllables: ['There', ' are', ' some', ' good', ' book', 'stores', ' in', ' this', ' mall.'],
-    exampleSentence: 'There are some good bookstores in this mall.',
-    exampleTranslation: 'Tem algumas livrarias boas neste shopping.'
-  },
-  {
-    id: 'move_put_32',
-    word: 'Is there a vegan restaurant near here?',
-    translation: 'Tem algum restaurante vegano aqui perto?',
-    pronunciation: '/ɪz ðɛr ə ˈvigən ˈrɛstərənt nɪr hɪr/',
-    portuguesePhonetic: 'iz dér a ví-gan rés-tau-rãnt nir rir',
-    syllables: ['Is', ' there', ' a', ' ve', 'gan', ' res', 'tau', 'rant', ' near', ' here?'],
-    exampleSentence: 'Is there a vegan restaurant near here?',
-    exampleTranslation: 'Tem algum restaurante vegano aqui perto?'
-  },
-  {
-    id: 'move_put_33',
-    word: 'The laptop on the desk is broken.',
-    translation: 'O notebook em cima da escrivaninha está quebrado.',
-    pronunciation: '/ðə ˈlæpˌtɑp ɑn ðə dɛsk ɪz ˈbroʊkən/',
-    portuguesePhonetic: 'dâ lép-top on dâ desk iz brôu-ken',
-    syllables: ['The', ' lap', 'top', ' on', ' the', ' desk', ' is', ' bro', 'ken.'],
-    exampleSentence: 'The laptop on the desk is broken.',
-    exampleTranslation: 'O notebook em cima da escrivaninha está quebrado.'
-  },
-  {
-    id: 'move_put_34',
-    word: 'Why do you need to move to New York?',
-    translation: 'Por que você precisa se mudar para Nova York?',
-    pronunciation: '/waɪ du ju nid tu muv tu nu jɔrk/',
-    portuguesePhonetic: 'uái du iu nid tchu muv tchu niu iórc',
-    syllables: ['Why', ' do', ' you', ' need', ' to', ' move', ' to', ' New', ' York?'],
-    exampleSentence: 'Why do you need to move to New York?',
-    exampleTranslation: 'Por que você precisa se mudar para Nova York?'
-  },
-  {
-    id: 'move_put_35',
-    word: 'My husband wants to put a new closet in our bedroom.',
-    translation: 'Meu marido quer colocar um guarda-roupa novo no nosso quarto.',
-    pronunciation: '/maɪ ˈhʌzbənd wɑnts tu pʊt ə nu ˈklɑzɪt ɪn aʊər ˈbɛdˌrum/',
-    portuguesePhonetic: 'mai rás-bãnd uánts tchu put a niu cló-zet in áu-er béd-rum',
-    syllables: ['My', ' hus', 'band', ' wants', ' to', ' put', ' a', ' new', ' clo', 'set', ' in', ' our', ' bed', 'room.'],
-    exampleSentence: 'My husband wants to put a new closet in our bedroom.',
-    exampleTranslation: 'Meu marido quer colocar um guarda-roupa novo no nosso quarto.'
-  }
-];
+import { TO_SELL_PAY_DECK } from './to_sell_pay';
+import { TO_PUT_DO_DECK } from './to_put_do';
+import { TO_PLAY_RUN_DECK } from './to_play_run';
+import { TO_SPEND_TRAVEL_DECK } from './to_spend_travel';
+import { TO_ARRIVE_LEAVE_DECK } from './to_arrive_leave';
 
 export const SHARE_RENT_DECK: FlashcardData[] = [
   {
@@ -7490,12 +7142,12 @@ export const TO_BE_INTRO_DECK: FlashcardData[] = [
   },
   {
     id: 'to_be_intro_8',
-    word: "you are ",
+    word: "you are",
     translation: "vocês são, estão",
     pronunciation: "/ju ɑr/",
     portuguesePhonetic: "iu ar",
     syllables: ["you"," are"],
-    exampleSentence: "you are ",
+    exampleSentence: "you are",
     exampleTranslation: "vocês são, estão"
   },
   {
@@ -17312,7 +16964,7 @@ export const LESSON_5_DECK: FlashcardData[] = [
     pronunciation: "/du ju wɑnt tu eat fɪʃ ɔr bif fɔr ˈdɪnər?/",
     portuguesePhonetic: "du iu uánt tchu ít fix or bif for dín-ner?",
     syllables: ["Do", " you", " want", " to", " eat", " fish", " or", " beef", " for", " din", "ner?"],
-    exampleSentence: "Do you want to eat fish or beef for dinner.",
+    exampleSentence: "Do you want to eat fish or beef for dinner?",
     exampleTranslation: "Você quer comer peixe ou carne no jantar."
   },
   {
@@ -18938,7 +18590,7 @@ export const LESSON_11_DECK: FlashcardData[] = [
   },
   {
     id: 'lesson_11_30',
-    word: "Do they want to go to the U.K.? ",
+    word: "Do they want to go to the U.K.?",
     translation: "Eles querem ir para o Reino Unido?",
     pronunciation: "/du ðeɪ wɑnt tu ɡoʊ tu ðə ˈuːˈkeɪ?/",
     portuguesePhonetic: "du dêi uánt tchu gôu tchu dâ iu-kêi?",
@@ -21795,7 +21447,7 @@ export const LESSON_19_DECK: FlashcardData[] = [
     pronunciation: "/wʌt taɪm du ju ɡoʊ tu wɜrk?/",
     portuguesePhonetic: "uót taim du iu gôu tchu uãrk?",
     syllables: ["What", " time", " do", " you", " go", " to", " work?"],
-    exampleSentence: "What time do you go to work.",
+    exampleSentence: "What time do you go to work?",
     exampleTranslation: "A que horas você vai ao trabalho?"
   },
   {
@@ -34433,11 +34085,11 @@ export const LESSON_27_DECK: FlashcardData[] = [
   },
   {
     id: 'lesson_27_82',
-    word: "Aquarius",
+    word: "Aquarium",
     translation: "Aquário / Aquário (signo)",
-    pronunciation: "/əˈkwɛriəs/",
-    portuguesePhonetic: "a-kué-ri-as",
-    syllables: ["A", "quar", "i", "us"],
+    pronunciation: "/əˈkwɛriəm/",
+    portuguesePhonetic: "a-kué-ri-am",
+    syllables: ["A", "quar", "i", "um"],
     exampleSentence: "I like to visit the aquarium on weekends.",
     exampleTranslation: "Eu gosto de visitar o aquário nos fins de semana."
   },
@@ -36092,6 +35744,21 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   to_wear_change: {
     en: TO_WEAR_CHANGE_DECK
   },
+  to_sell_pay: {
+    en: TO_SELL_PAY_DECK
+  },
+  to_put_do: {
+    en: TO_PUT_DO_DECK
+  },
+  to_play_run: {
+    en: TO_PLAY_RUN_DECK
+  },
+  to_spend_travel: {
+    en: TO_SPEND_TRAVEL_DECK
+  },
+  to_arrive_leave: {
+    en: TO_ARRIVE_LEAVE_DECK
+  },
   to_call_wait: {
     en: TO_CALL_WAIT_DECK
   },
@@ -36112,9 +35779,6 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   lesson_33: {
     en: LESSON_33_DECK
-  },
-  move_put: {
-    en: MOVE_PUT_DECK
   },
   share_rent: {
     en: SHARE_RENT_DECK
