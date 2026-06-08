@@ -56,7 +56,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "chef / cocinero",
     translation: "chefe de cozinha",
     pronunciation: "/tʃef/",
-    portuguesePhonetic: "tchéf / co-ci-nê-ro",
+    portuguesePhonetic: "tchéf / co-thi-nê-ro",
     syllables: ["chef"],
     exampleSentence: "chef / cocinero",
     exampleTranslation: "chefe de cozinha"
@@ -216,7 +216,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "Necesitamos a alguien para hacer su cena.",
     translation: "Nós precisamos de alguém para fazer o jantar deles.",
     pronunciation: "/ne-θe-si-ˈta-mos a ˈal-ɣjen ˈpa-ɾa a-ˈθeɾ su ˈθe-na/",
-    portuguesePhonetic: "ne-ce-si-tá-mos a ál-guien pá-ra a-cér su cê-na",
+    portuguesePhonetic: "ne-the-si-tá-mos a ál-guien pá-ra a-thér su thê-na",
     syllables: ["Ne", "ce", "si", "ta", "mos", " a", " al", "guien", " pa", "ra", " ha", "cer", " su", " ce", "na."],
     exampleSentence: "Necesitamos a alguien para hacer su cena.",
     exampleTranslation: "Nós precisamos de alguém para fazer o jantar deles."
@@ -226,7 +226,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "No conozco a nadie aquí.",
     translation: "Eu não conheço ninguém aqui.",
     pronunciation: "/no ko-ˈnoθ-ko a ˈna-ðje a-ˈki/",
-    portuguesePhonetic: "nô co-nóz-co a ná-die a-quí",
+    portuguesePhonetic: "nô co-nóth-co a ná-die a-quí",
     syllables: ["No", " co", "noz", "co", " a", " na", "die", " a", "quí."],
     exampleSentence: "No conozco a nadie aquí.",
     exampleTranslation: "Eu não conheço ninguém aqui."
@@ -256,7 +256,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "Necesito llamar a mi madre ahora.",
     translation: "Eu preciso ligar para a minha mãe agora.",
     pronunciation: "/ne-θe-ˈsi-to ʝa-ˈmaɾ a mi ˈma-ðɾe a-ˈo-ɾa/",
-    portuguesePhonetic: "ne-ce-sí-to lie-már a mi má-dre a-ó-ra",
+    portuguesePhonetic: "ne-the-sí-to lie-már a mi má-dre a-ó-ra",
     syllables: ["Ne", "ce", "si", "to", " lla", "mar", " a", " mi", " ma", "dre", " a", "ho", "ra."],
     exampleSentence: "Necesito llamar a mi madre ahora.",
     exampleTranslation: "Eu preciso ligar para a minha mãe agora."
@@ -306,7 +306,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "La cena está casi lista.",
     translation: "O jantar está quase pronto.",
     pronunciation: "/la ˈθe-na es-ˈta ˈka-si ˈlis-ta/",
-    portuguesePhonetic: "la cê-na es-tá cá-si lís-ta",
+    portuguesePhonetic: "la thê-na es-tá cá-si lís-ta",
     syllables: ["La", " ce", "na", " es", "ta", " ca", "si", " lis", "ta."],
     exampleSentence: "La cena está casi lista.",
     exampleTranslation: "O jantar está quase pronto."
@@ -316,7 +316,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "¿Conoces a alguien en Alemania?",
     translation: "Você conhece alguém na Alemanha?",
     pronunciation: "/ko-ˈno-θes a ˈal-ɣjen en a-le-ˈma-nja/",
-    portuguesePhonetic: "¿co-nó-ces a ál-guien en a-le-má-nia?",
+    portuguesePhonetic: "¿co-nó-thes a ál-guien en a-le-má-nia?",
     syllables: ["¿Co", "no", "ces", " a", " al", "guien", " en", " A", "le", "ma", "nia?"],
     exampleSentence: "¿Conoces a alguien en Alemania?",
     exampleTranslation: "Você conhece alguém na Alemanha?"
@@ -346,7 +346,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "¿Con qué frecuencia ves a tus primos?",
     translation: "Com que frequência você vê seus primos?",
     pronunciation: "/kon ke fɾe-ˈkwen-θja βes a tus ˈpɾi-mos/",
-    portuguesePhonetic: "¿con quê fre-cuên-cia bés a tus prí-mos?",
+    portuguesePhonetic: "¿con quê fre-cuên-thia bés a tus prí-mos?",
     syllables: ["¿Con", " qué", " fre", "cuen", "cia", " ves", " a", " tus", " pri", "mos?"],
     exampleSentence: "¿Con qué frecuencia ves a tus primos?",
     exampleTranslation: "Com que frequência você vê seus primos?"
@@ -386,7 +386,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "a veces",
     translation: "às vezes",
     pronunciation: "/a ˈβe-θes/",
-    portuguesePhonetic: "a bê-ces",
+    portuguesePhonetic: "a bê-thes",
     syllables: ["a", " ve", "ces"],
     exampleSentence: "a veces",
     exampleTranslation: "às vezes"
@@ -416,7 +416,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "dos veces a la semana",
     translation: "duas vezes por semana",
     pronunciation: "/ðos ˈβe-θes a la se-ˈma-na/",
-    portuguesePhonetic: "dós bê-ces a la se-má-na",
+    portuguesePhonetic: "dós bê-thes a la se-má-na",
     syllables: ["dos", " ve", "ces", " a", " la", " se", "ma", "na"],
     exampleSentence: "dos veces a la semana",
     exampleTranslation: "duas vezes por semana"
@@ -426,7 +426,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "tres veces a la semana",
     translation: "três vezes por semana",
     pronunciation: "/tɾes ˈβe-θes a la se-ˈma-na/",
-    portuguesePhonetic: "trés bê-ces a la se-má-na",
+    portuguesePhonetic: "trés bê-thes a la se-má-na",
     syllables: ["tres", " ve", "ces", " a", " la", " se", "ma", "na"],
     exampleSentence: "tres veces a la semana",
     exampleTranslation: "três vezes por semana"
@@ -446,7 +446,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "A veces veo a mi abuela.",
     translation: "Eu às vezes vejo a minha avó.",
     pronunciation: "/a ˈβe-θes ˈβe-o a mi a-ˈβwe-la/",
-    portuguesePhonetic: "a bê-ces bê-o a mi a-buê-la",
+    portuguesePhonetic: "a bê-thes bê-o a mi a-buê-la",
     syllables: ["A", " ve", "ces", " ve", "o", " a", " mi", " a", "bue", "la."],
     exampleSentence: "A veces veo a mi abuela.",
     exampleTranslation: "Eu às vezes vejo a minha avó."
@@ -456,7 +456,7 @@ export const LECCION_47_W2_S_DECK: FlashcardData[] = [
     word: "A veces ella está en casa.",
     translation: "Ela às vezes está em casa.",
     pronunciation: "/a ˈβe-θes ˈe-ʝa es-ˈta en ˈka-sa/",
-    portuguesePhonetic: "a bê-ces ê-lia es-tá en cá-sa",
+    portuguesePhonetic: "a bê-thes ê-lia es-tá en cá-sa",
     syllables: ["A", " ve", "ces", " e", "lla", " es", "ta", " en", " ca", "sa."],
     exampleSentence: "A veces ella está en casa.",
     exampleTranslation: "Ela às vezes está em casa."

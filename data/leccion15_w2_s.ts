@@ -193,12 +193,12 @@ export const LECCION_15_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_15_20',
-    word: "Yo leo mis correos electrónicos en mi celular.",
+    word: "Yo leo mis correos electrónicos en mi móvil.",
     translation: "Eu leio meus e-mails no meu celular.",
-    pronunciation: "/ʝo ˈleo mis koˈreos elekˈtɾonikos en mi θeluˈlaɾ/",
-    portuguesePhonetic: "iô lêo mis cor-rêos e-lec-tró-ni-cos en mi ce-lu-lár.",
-    syllables: ["Yo", " leo", " mis", " cor", "reos", " e", "lec", "tró", "ni", "cos", " en", " mi", " ce", "lu", "lar."],
-    exampleSentence: "Yo leo mis correos electrónicos en mi celular.",
+    pronunciation: "/ʝo ˈleo mis koˈreos elekˈtɾonikos en mi ˈmoβil/",
+    portuguesePhonetic: "iô lêo mis cor-rêos e-lec-tró-ni-cos en mi mó-bil.",
+    syllables: ["Yo", " leo", " mis", " cor", "reos", " e", "lec", "tró", "ni", "cos", " en", " mi", " mó", "vil."],
+    exampleSentence: "Yo leo mis correos electrónicos en mi móvil.",
     exampleTranslation: "Eu leio meus e-mails no meu celular."
   },
   {
@@ -293,22 +293,22 @@ export const LECCION_15_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_15_30',
-    word: "¿Tú lees tus mensagens en tu celular?",
-    translation: "Você lê suas mensagens no seu telefone celular?",
-    pronunciation: "/tu ˈlees tus menˈsaxes en tu θeluˈlaɾ/",
-    portuguesePhonetic: "¿tú lê-es tus men-sá-rhes en tu ce-lu-lár?",
-    syllables: ["¿Tú", " le", "es", " tus", " men", "sa", "jes", " en", " tu", " ce", "lu", "lar?"],
-    exampleSentence: "¿Tú lees tus mensagens en tu celular?",
-    exampleTranslation: "Você lê suas mensagens no seu telefone celular?"
+    word: "¿Tú lees tus mensajes en tu móvil?",
+    translation: "Você lê suas mensagens no seu telemóvel?",
+    pronunciation: "/tu ˈlees tus menˈsaxes en tu ˈmoβil/",
+    portuguesePhonetic: "¿tú lê-es tus men-sá-rhes en tu mó-bil?",
+    syllables: ["¿Tú", " le", "es", " tus", " men", "sa", "jes", " en", " tu", " mó", "vil?"],
+    exampleSentence: "¿Tú lees tus mensajes en tu móvil?",
+    exampleTranslation: "Você lê suas mensagens no seu telemóvel?"
   },
   {
     id: 'leccion_15_31',
-    word: "Nosotros tenemos un carro pequeño.",
+    word: "Nosotros tenemos un coche pequeño.",
     translation: "Nós temos um carro pequeno.",
-    pronunciation: "/noˈsotɾos teˈnemos un ˈkaɾo peˈkeɲo/",
-    portuguesePhonetic: "no-só-tros te-nê-mos un cá-rro pe-quê-nho.",
-    syllables: ["No", "so", "tros", " te", "ne", "mos", " un", " ca", "rro", " pe", "que", "ño."],
-    exampleSentence: "Nosotros tenemos un carro pequeño.",
+    pronunciation: "/noˈsotɾos teˈnemos un ˈkotʃe peˈkeɲo/",
+    portuguesePhonetic: "no-só-tros te-nê-mos un cô-tche pe-quê-nho.",
+    syllables: ["No", "so", "tros", " te", "ne", "mos", " un", " co", "che", " pe", "que", "ño."],
+    exampleSentence: "Nosotros tenemos un coche pequeño.",
     exampleTranslation: "Nós temos um carro pequeno."
   },
   {
@@ -363,12 +363,12 @@ export const LECCION_15_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_15_37',
-    word: "en mi computadora",
+    word: "en mi ordenador",
     translation: "no meu computador",
-    pronunciation: "/en mi komputaˈðoɾa/",
-    portuguesePhonetic: "en mi com-pu-ta-dó-ra",
-    syllables: ["en", " mi", " com", "pu", "ta", "do", "ra"],
-    exampleSentence: "en mi computadora",
+    pronunciation: "/en mi oɾðenaˈðoɾ/",
+    portuguesePhonetic: "en mi or-de-na-dór",
+    syllables: ["en", " mi", " or", "de", "na", "dor"],
+    exampleSentence: "en mi ordenador",
     exampleTranslation: "no meu computador"
   },
   {
@@ -573,12 +573,12 @@ export const LECCION_15_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_15_58',
-    word: "carro pequeño",
+    word: "coche pequeño",
     translation: "carro pequeno",
-    pronunciation: "/ˈkaɾo peˈkeɲo/",
-    portuguesePhonetic: "cá-rro pe-quê-nho",
-    syllables: ["ca", "rro", " pe", "que", "ño"],
-    exampleSentence: "carro pequeño",
+    pronunciation: "/ˈkotʃe peˈkeɲo/",
+    portuguesePhonetic: "cô-tche pe-quê-nho",
+    syllables: ["co", "che", " pe", "que", "ño"],
+    exampleSentence: "coche pequeño",
     exampleTranslation: "carro pequeno"
   },
   {
@@ -603,22 +603,22 @@ export const LECCION_15_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_15_61',
-    word: "en mi celular",
-    translation: "no meu celular",
-    pronunciation: "/en mi θeluˈlaɾ/",
-    portuguesePhonetic: "en mi ce-lu-lár",
-    syllables: ["en", " mi", " ce", "lu", "lar"],
-    exampleSentence: "en mi celular",
-    exampleTranslation: "no meu celular"
+    word: "en mi móvil",
+    translation: "no meu celular, no meu telemóvel",
+    pronunciation: "/en mi ˈmoβil/",
+    portuguesePhonetic: "en mi mó-bil",
+    syllables: ["en", " mi", " mó", "vil"],
+    exampleSentence: "en mi móvil",
+    exampleTranslation: "no meu celular, no meu telemóvel"
   },
   {
     id: 'leccion_15_62',
-    word: "en mi computadora",
+    word: "en mi ordenador",
     translation: "no meu computador",
-    pronunciation: "/en mi komputaˈðoɾa/",
-    portuguesePhonetic: "en mi com-pu-ta-dó-ra",
-    syllables: ["en", " mi", " com", "pu", "ta", "do", "ra"],
-    exampleSentence: "en mi computadora",
+    pronunciation: "/en mi oɾðenaˈðoɾ/",
+    portuguesePhonetic: "en mi or-de-na-dór",
+    syllables: ["en", " mi", " or", "de", "na", "dor"],
+    exampleSentence: "en mi ordenador",
     exampleTranslation: "no meu computador"
   },
   {

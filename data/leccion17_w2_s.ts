@@ -36,7 +36,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "oficina",
     translation: "escritório",
     pronunciation: "/ofiˈθina/",
-    portuguesePhonetic: "o-fi-cí-na",
+    portuguesePhonetic: "o-fi-thí-na",
     syllables: ["o", "fi", "ci", "na"],
     exampleSentence: "oficina",
     exampleTranslation: "escritório"
@@ -66,7 +66,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "farmacia",
     translation: "farmácia",
     pronunciation: "/faɾˈmaθja/",
-    portuguesePhonetic: "far-má-cia",
+    portuguesePhonetic: "far-má-thia",
     syllables: ["far", "ma", "cia"],
     exampleSentence: "farmacia",
     exampleTranslation: "farmácia"
@@ -176,7 +176,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "Yo necesito tomar un baño.",
     translation: "Eu preciso tomar um banho.",
     pronunciation: "/ʝo neθeˈsito toˈmaɾ un ˈβaɲo/",
-    portuguesePhonetic: "iô ne-ce-sí-to to-már un bá-nho.",
+    portuguesePhonetic: "iô ne-the-çí-to to-már un bá-nho.",
     syllables: ["Yo", " ne", "ce", "si", "to", " to", "mar", " un", " ba", "ño."],
     exampleSentence: "Yo necesito tomar un baño.",
     exampleTranslation: "Eu preciso tomar um banho."
@@ -206,7 +206,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "¿Cuándo necesitas ir?",
     translation: "Quando você precisa ir?",
     pronunciation: "/ˈkwando neθeˈsitas iɾ/",
-    portuguesePhonetic: "¿quán-do ne-ce-sí-tas ir?",
+    portuguesePhonetic: "¿quán-do ne-the-çí-tas ir?",
     syllables: ["¿Cuán", "do", " ne", "ce", "si", "tas", " ir?"],
     exampleSentence: "¿Cuándo necesitas ir?",
     exampleTranslation: "Quando você precisa ir?"
@@ -216,7 +216,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "¿Cuándo lees las noticias?",
     translation: "Quando você lê notícias?",
     pronunciation: "/ˈkwando ˈlees las noˈtiθjas/",
-    portuguesePhonetic: "¿quán-do lê-es las no-tí-cias?",
+    portuguesePhonetic: "¿quán-do lê-es las no-tí-thias?",
     syllables: ["¿Cuán", "do", " le", "es", " las", " no", "ti", "cias?"],
     exampleSentence: "¿Cuándo lees las noticias?",
     exampleTranslation: "Quando você lê notícias?"
@@ -226,7 +226,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "¿Cuándo tienes que ir a la oficina?",
     translation: "Quando você tem que ir ao escritório?",
     pronunciation: "/ˈkwando ˈtjenes ke iɾ a la ofiˈθina/",
-    portuguesePhonetic: "¿quán-do ti-ê-nes que ir a la o-fi-cí-na?",
+    portuguesePhonetic: "¿quán-do ti-ê-nes que ir a la o-fi-thí-na?",
     syllables: ["¿Cuán", "do", " tie", "nes", " que", " ir", " a", " la", " o", "fi", "ci", "na?"],
     exampleSentence: "¿Cuándo tienes que ir a la oficina?",
     exampleTranslation: "Quando você tem que ir ao escritório?"
@@ -276,7 +276,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "¿Tú trabajas en la oficina?",
     translation: "Você trabalha no escritório?",
     pronunciation: "/tu tɾaˈβaxas en la ofiˈθina/",
-    portuguesePhonetic: "¿tú tra-bá-rhas en la o-fi-cí-na?",
+    portuguesePhonetic: "¿tú tra-bá-rhas en la o-fi-thí-na?",
     syllables: ["¿Tú", " tra", "ba", "jas", " en", " la", " o", "fi", "ci", "na?"],
     exampleSentence: "¿Tú trabajas en la oficina?",
     exampleTranslation: "Você trabalha no escritório?"
@@ -326,7 +326,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "¿Tú tienes que ir a la farmacia ahora?",
     translation: "Você tem que ir à farmácia agora?",
     pronunciation: "/tu ˈtjenes ke iɾ a la faɾˈmaθja aˈoɾa/",
-    portuguesePhonetic: "¿tú ti-ê-nes que ir a la far-má-cia a-ô-ra?",
+    portuguesePhonetic: "¿tú ti-ê-nes que ir a la far-má-thia a-ô-ra?",
     syllables: ["¿Tú", " tie", "nes", " que", " ir", " a", " la", " far", "ma", "cia", " a", "ho", "ra?"],
     exampleSentence: "¿Tú tienes que ir a la farmacia ahora?",
     exampleTranslation: "Você tem que ir à farmácia agora?"
@@ -366,7 +366,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "¿Tú vas a la oficina por la tarde?",
     translation: "Você vai para o escritório à tarde?",
     pronunciation: "/tu βas a la ofiˈθina poɾ la ˈtaɾðe/",
-    portuguesePhonetic: "¿tú bas a la o-fi-cí-na por la tár-de?",
+    portuguesePhonetic: "¿tú bas a la o-fi-thí-na por la tár-de?",
     syllables: ["¿Tú", " vas", " a", " la", " o", "fi", "ci", "na", " por", " la", " tar", "de?"],
     exampleSentence: "¿Tú vas a la oficina por la tarde?",
     exampleTranslation: "Você vai para o escritório à tarde?"
@@ -386,7 +386,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "once",
     translation: "onze",
     pronunciation: "/ˈonθe/",
-    portuguesePhonetic: "ôn-ce",
+    portuguesePhonetic: "ôn-the",
     syllables: ["on", "ce"],
     exampleSentence: "once",
     exampleTranslation: "onze"
@@ -396,7 +396,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "doce",
     translation: "doze",
     pronunciation: "/ˈdoθe/",
-    portuguesePhonetic: "dô-ce",
+    portuguesePhonetic: "dô-the",
     syllables: ["do", "ce"],
     exampleSentence: "doce",
     exampleTranslation: "doze"
@@ -406,7 +406,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "trece",
     translation: "treze",
     pronunciation: "/ˈtɾeθe/",
-    portuguesePhonetic: "trê-ce",
+    portuguesePhonetic: "trê-the",
     syllables: ["tre", "ce"],
     exampleSentence: "trece",
     exampleTranslation: "treze"
@@ -416,7 +416,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "catorce",
     translation: "quatorze",
     pronunciation: "/kaˈtoɾθe/",
-    portuguesePhonetic: "ca-tór-ce",
+    portuguesePhonetic: "ca-tór-the",
     syllables: ["ca", "tor", "ce"],
     exampleSentence: "catorce",
     exampleTranslation: "quatorze"
@@ -426,7 +426,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "quince",
     translation: "quinze",
     pronunciation: "/ˈkinθe/",
-    portuguesePhonetic: "quín-ce",
+    portuguesePhonetic: "quín-the",
     syllables: ["quin", "ce"],
     exampleSentence: "quince",
     exampleTranslation: "quinze"
@@ -436,7 +436,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "dieciséis",
     translation: "dezesseis",
     pronunciation: "/ðjeθiˈseiθ/",
-    portuguesePhonetic: "die-ci-séis",
+    portuguesePhonetic: "di-ê-thi-séis",
     syllables: ["die", "ci", "séis"],
     exampleSentence: "dieciséis",
     exampleTranslation: "dezesseis"
@@ -446,7 +446,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "diecisiete",
     translation: "dezessete",
     pronunciation: "/ðjeθiˈsjete/",
-    portuguesePhonetic: "die-ci-siê-te",
+    portuguesePhonetic: "di-ê-thi-siê-te",
     syllables: ["die", "ci", "sie", "te"],
     exampleSentence: "diecisiete",
     exampleTranslation: "dezessete"
@@ -456,7 +456,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "dieciocho",
     translation: "dezoito",
     pronunciation: "/ðjeθiˈotʃo/",
-    portuguesePhonetic: "die-ci-ô-tcho",
+    portuguesePhonetic: "di-ê-thi-ô-tcho",
     syllables: ["die", "ci", "o", "cho"],
     exampleSentence: "dieciocho",
     exampleTranslation: "dezoito"
@@ -466,7 +466,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "diecinueve",
     translation: "dezenove",
     pronunciation: "/ðjeθinuˈeβe/",
-    portuguesePhonetic: "die-ci-nuê-be",
+    portuguesePhonetic: "di-ê-thi-nuê-be",
     syllables: ["die", "ci", "cue", "ve"],
     exampleSentence: "diecinueve",
     exampleTranslation: "dezenove"
@@ -576,7 +576,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "Tú ves a tus amigos en la oficina.",
     translation: "Você vê seus amigos no escritório.",
     pronunciation: "/tu βes a tus aˈmiɣos en la ofiˈθina/",
-    portuguesePhonetic: "tú bês a tus a-mí-gos en la o-fi-cí-na.",
+    portuguesePhonetic: "tú bês a tus a-mí-gos en la o-fi-thí-na.",
     syllables: ["Tú", " ves", " a", " tus", " a", "mi", "gos", " en", " la", " o", "fi", "ci", "na."],
     exampleSentence: "Tú ves a tus amigos en la oficina.",
     exampleTranslation: "Você vê seus amigos no escritório."
@@ -646,7 +646,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "trabajar en la oficina",
     translation: "trabalhar no escritório",
     pronunciation: "/tɾaβaˈxaɾ en la ofiˈθina/",
-    portuguesePhonetic: "tra-ba-lhár en la o-fi-cí-na",
+    portuguesePhonetic: "tra-ba-lhár en la o-fi-thí-na",
     syllables: ["tra", "ba", "jar", " en", " la", " o", "fi", "ci", "na"],
     exampleSentence: "trabajar en la oficina",
     exampleTranslation: "trabalhar no escritório"
@@ -706,7 +706,7 @@ export const LECCION_17_W2_S_DECK: FlashcardData[] = [
     word: "farmacia",
     translation: "farmácia",
     pronunciation: "/faɾˈmaθja/",
-    portuguesePhonetic: "far-má-cia",
+    portuguesePhonetic: "far-má-thia",
     syllables: ["far", "ma", "cia"],
     exampleSentence: "farmacia",
     exampleTranslation: "farmácia"

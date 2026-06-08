@@ -23,13 +23,13 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_5_3',
-    word: "carne de res",
-    translation: "carne bovina",
-    pronunciation: "/ˈkaɾne ðe ˈres/",
-    portuguesePhonetic: "cár-ne de rés",
-    syllables: ["car", "ne", " de", " res"],
-    exampleSentence: "carne de res",
-    exampleTranslation: "carne bovina"
+    word: "ternera",
+    translation: "carne de ternera, carne bovina",
+    pronunciation: "/teɾˈneɾa/",
+    portuguesePhonetic: "ter-né-ra",
+    syllables: ["ter", "ne", "ra"],
+    exampleSentence: "ternera",
+    exampleTranslation: "carne de ternera, carne bovina"
   },
   {
     id: 'leccion_5_4',
@@ -53,12 +53,12 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_5_6',
-    word: "tocino",
+    word: "beicon",
     translation: "bacon",
-    pronunciation: "/toˈsino/",
-    portuguesePhonetic: "to-sí-no",
-    syllables: ["to", "ci", "no"],
-    exampleSentence: "tocino",
+    pronunciation: "/ˈbejkon/",
+    portuguesePhonetic: "béi-con",
+    syllables: ["bei", "con"],
+    exampleSentence: "beicon",
     exampleTranslation: "bacon"
   },
   {
@@ -85,30 +85,30 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_5_9',
     word: "arroz",
     translation: "arroz",
-    pronunciation: "/aˈrros/",
-    portuguesePhonetic: "a-rrós",
+    pronunciation: "/aˈrroθ/",
+    portuguesePhonetic: "a-rróç",
     syllables: ["a", "rroz"],
     exampleSentence: "arroz",
     exampleTranslation: "arroz"
   },
   {
     id: 'leccion_5_10',
-    word: "frijoles",
+    word: "judías",
     translation: "feijão",
-    pronunciation: "/fɾiˈxoles/",
-    portuguesePhonetic: "fri-rrô-les",
-    syllables: ["fri", "jo", "les"],
-    exampleSentence: "frijoles",
+    pronunciation: "/xuˈðias/",
+    portuguesePhonetic: "rru-dí-as",
+    syllables: ["ju", "dí", "as"],
+    exampleSentence: "judías",
     exampleTranslation: "feijão"
   },
   {
     id: 'leccion_5_11',
-    word: "papas fritas",
+    word: "patatas fritas",
     translation: "batatas fritas",
-    pronunciation: "/ˈpapas ˈfɾitas/",
-    portuguesePhonetic: "pá-pas frí-tas",
-    syllables: ["pa", "pas", " fri", "tas"],
-    exampleSentence: "papas fritas",
+    pronunciation: "/paˈtatas ˈfɾitas/",
+    portuguesePhonetic: "pa-tá-tas frí-tas",
+    syllables: ["pa", "ta", "tas", " fri", "tas"],
+    exampleSentence: "patatas fritas",
     exampleTranslation: "batatas fritas"
   },
   {
@@ -186,19 +186,19 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
     word: "Yo quiero una taza de té.",
     translation: "Eu quero uma xícara de chá.",
     pronunciation: "/ʝo ˈkjeɾo ˈuna ˈtaθa ðe te./",
-    portuguesePhonetic: "iô qui-ê-ro û-na tá-sa de té.",
+    portuguesePhonetic: "iô qui-ê-ro û-na tá-ça de té.",
     syllables: ["Yo", " quie", "ro", " u", "na", " ta", "za", " de", " té."],
     exampleSentence: "Yo quiero una taza de té.",
     exampleTranslation: "Eu quero uma xícara de chá."
   },
   {
     id: 'leccion_5_20',
-    word: "Yo como arroz y frijoles en el almuerzo.",
+    word: "Yo como arroz y judías en el almuerzo.",
     translation: "Eu como arroz e feijão no almoço.",
-    pronunciation: "/ʝo ˈkomo aˈrros i fɾiˈxoles en el alˈmweɾso./",
-    portuguesePhonetic: "iô cô-mo a-rrós i fri-rrô-les en el al-mu-êr-so.",
-    syllables: ["Yo", " co", "mo", " a", "rroz", " y", " fri", "jo", "les", " en", " el", " al", "muer", "zo."],
-    exampleSentence: "Yo como arroz y frijoles en el almuerzo.",
+    pronunciation: "/ʝo ˈkomo aˈrroθ i xuˈðias en el alˈmweɾθo./",
+    portuguesePhonetic: "iô cô-mo a-rróç i rru-dí-as en el al-mu-êr-ço.",
+    syllables: ["Yo", " co", "mo", " a", "rroz", " y", " ju", "dí", "as", " en", " el", " al", "muer", "zo."],
+    exampleSentence: "Yo como arroz y judías en el almuerzo.",
     exampleTranslation: "Eu como arroz e feijão no almoço."
   },
   {
@@ -206,7 +206,7 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
     word: "Yo prefiero comer pescado en la cena.",
     translation: "Eu prefiro comer peixe no jantar.",
     pronunciation: "/ʝo pɾeˈfjeɾo koˈmeɾ pesˈkaðo en la ˈθena./",
-    portuguesePhonetic: "iô pre-fi-ê-ro co-mér pes-cá-do en la sê-na.",
+    portuguesePhonetic: "iô pre-fi-ê-ro co-mér pes-cá-do en la çê-na.",
     syllables: ["Yo", " pre", "fie", "ro", " co", "mer", " pes", "ca", "do", " en", " la", " ce", "na."],
     exampleSentence: "Yo prefiero comer pescado en la cena.",
     exampleTranslation: "Eu prefiro comer peixe no jantar."
@@ -223,12 +223,12 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_5_23',
-    word: "¿Tú quieres comer papas fritas?",
+    word: "¿Tú quieres comer patatas fritas?",
     translation: "Você quer comer batatas fritas?",
-    pronunciation: "/ˈtu ˈkjeɾes koˈmeɾ ˈpapas ˈfɾitas?/",
-    portuguesePhonetic: "tu qui-ê-res co-mér pá-pas frí-tas?",
-    syllables: ["¿Tú", " quie", "res", " co", "mer", " pa", "pas", " fri", "tas?"],
-    exampleSentence: "¿Tú quieres comer papas fritas?",
+    pronunciation: "/ˈtu ˈkjeɾes koˈmeɾ paˈtatas ˈfɾitas?/",
+    portuguesePhonetic: "tu qui-ê-res co-mér pa-tá-tas frí-tas?",
+    syllables: ["¿Tú", " quie", "res", " co", "mer", " pa", "ta", "tas", " fri", "tas?"],
+    exampleSentence: "¿Tú quieres comer patatas fritas?",
     exampleTranslation: "Você quer comer batatas fritas?"
   },
   {
@@ -246,7 +246,7 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
     word: "¿Qué comes en la cena?",
     translation: "O que você come no jantar?",
     pronunciation: "/ˈke ˈkomes en la ˈθena?/",
-    portuguesePhonetic: "quê cô-mes en la sê-na?",
+    portuguesePhonetic: "quê cô-mes en la çê-na?",
     syllables: ["¿Qué", " co", "mes", " en", " la", " ce", "na?"],
     exampleSentence: "¿Qué comes en la cena?",
     exampleTranslation: "O que você come no jantar?"
@@ -283,32 +283,32 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_5_29',
-    word: "Yo prefiero comer carne de res y verduras.",
-    translation: "Eu prefiro comer carne e legumes.",
-    pronunciation: "/ʝo pɾeˈfjeɾo koˈmeɾ ˈkaɾne ðe ˈres i βeɾˈðuɾas./",
-    portuguesePhonetic: "iô pre-fi-ê-ro co-mér cár-ne de rés i ber-dú-ras.",
-    syllables: ["Yo", " pre", "fie", "ro", " co", "mer", " car", "ne", " de", " res", " y", " ver", "du", "ras."],
-    exampleSentence: "Yo prefiero comer carne de res y verduras.",
-    exampleTranslation: "Eu prefiro comer carne e legumes."
+    word: "Yo prefiero comer ternera y verduras.",
+    translation: "Eu prefiro comer carne de ternera e legumes.",
+    pronunciation: "/ʝo pɾeˈfjeɾo koˈmeɾ teɾˈneɾa i βeɾˈðuɾas./",
+    portuguesePhonetic: "iô pre-fi-ê-ro co-mér ter-né-ra i ber-dú-ras.",
+    syllables: ["Yo", " pre", "fie", "ro", " co", "mer", " ter", "ne", "ra", " y", " ver", "du", "ras."],
+    exampleSentence: "Yo prefiero comer ternera y verduras.",
+    exampleTranslation: "Eu prefiro comer carne de ternera e legumes."
   },
   {
     id: 'leccion_5_30',
-    word: "Yo prefiero el jugo al refresco.",
+    word: "Yo prefiero el zumo al refresco.",
     translation: "Eu prefiro suco a refrigerante.",
-    pronunciation: "/ʝo pɾeˈfjeɾo el ˈxuɣo al reˈfɾesko./",
-    portuguesePhonetic: "iô pre-fi-ê-ro el rrú-go al re-frés-co.",
-    syllables: ["Yo", " pre", "fie", "ro", " el", " ju", "go", " al", " re", "fres", "co."],
-    exampleSentence: "Yo prefiero el jugo al refresco.",
+    pronunciation: "/ʝo pɾeˈfjeɾo el ˈθumo al reˈfɾesko./",
+    portuguesePhonetic: "iô pre-fi-ê-ro el çú-mo al re-frés-co.",
+    syllables: ["Yo", " pre", "fie", "ro", " el", " zu", "mo", " al", " re", "fres", "co."],
+    exampleSentence: "Yo prefiero el zumo al refresco.",
     exampleTranslation: "Eu prefiro suco a refrigerante."
   },
   {
     id: 'leccion_5_31',
-    word: "Me encantan las papas fritas.",
+    word: "Me encantan las patatas fritas.",
     translation: "Eu adoro batatas fritas.",
-    pronunciation: "/me eŋˈkantan las ˈpapas ˈfɾitas./",
-    portuguesePhonetic: "mê en-cán-tan las pá-pas frí-tas.",
-    syllables: ["Me", " en", "can", "tan", " las", " pa", "pas", " fri", "tas."],
-    exampleSentence: "Me encantan las papas fritas.",
+    pronunciation: "/me eŋˈkantan las paˈtatas ˈfɾitas./",
+    portuguesePhonetic: "mê en-cán-tan las pa-tá-tas frí-tas.",
+    syllables: ["Me", " en", "can", "tan", " las", " pa", "ta", "tas", " fri", "tas."],
+    exampleSentence: "Me encantan las patatas fritas.",
     exampleTranslation: "Eu adoro batatas fritas."
   },
   {
@@ -323,33 +323,33 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_5_33',
-    word: "¿Te gustan las salchichas y el tocino?",
+    word: "¿Te gustan las salchichas y el beicon?",
     translation: "Você gosta de linguiça e bacon?",
-    pronunciation: "/te ˈɣustan las salˈtʃitʃas i el toˈsino?/",
-    portuguesePhonetic: "tê gús-tan las sal-tchí-tchas i el to-sí-no?",
-    syllables: ["¿Te", " gus", "tan", " las", " sal", "chi", "chas", " y", " el", " to", "ci", "no?"],
-    exampleSentence: "¿Te gustan las salchichas y el tocino?",
+    pronunciation: "/te ˈɣustan las salˈtʃitʃas i el ˈbejkon?/",
+    portuguesePhonetic: "tê gús-tan las sal-tchí-tchas i el béi-con?",
+    syllables: ["¿Te", " gus", "tan", " las", " sal", "chi", "chas", " y", " el", " bei", "con?"],
+    exampleSentence: "¿Te gustan las salchichas y el beicon?",
     exampleTranslation: "Você gosta de linguiça e bacon?"
   },
   {
     id: 'leccion_5_34',
-    word: "¿Quieres beber jugo?",
+    word: "¿Quieres beber zumo?",
     translation: "Você quer beber suco?",
-    pronunciation: "/ˈkjeɾes βeˈβeɾ ˈxuɣo?/",
-    portuguesePhonetic: "qui-ê-res be-bér rrú-go?",
-    syllables: ["¿Quie", "res", " be", "ber", " ju", "go?"],
-    exampleSentence: "¿Quieres beber jugo?",
+    pronunciation: "/ˈkjeɾes βeˈβeɾ ˈθumo?/",
+    portuguesePhonetic: "qui-ê-res be-bér çú-mo?",
+    syllables: ["¿Quie", "res", " be", "ber", " zu", "mo?"],
+    exampleSentence: "¿Quieres beber zumo?",
     exampleTranslation: "Você quer beber suco?"
   },
   {
     id: 'leccion_5_35',
-    word: "¿Quieres comer pescado o carne de res en la cena?",
-    translation: "Você quer comer peixe ou carne no jantar?",
-    pronunciation: "/ˈkjeɾes koˈmeɾ pesˈkaðo o ˈkaɾne ðe ˈres en la ˈθena?/",
-    portuguesePhonetic: "qui-ê-res co-mér pes-cá-do ô cár-ne de rés en la sê-na?",
-    syllables: ["¿Quie", "res", " co", "mer", " pes", "ca", "do", " o", " car", "ne", " de", " res", " en", " la", " ce", "na?"],
-    exampleSentence: "¿Quieres comer pescado o carne de res en la cena?",
-    exampleTranslation: "Você quer comer peixe ou carne no jantar."
+    word: "¿Quieres comer pescado o ternera en la cena?",
+    translation: "Você quer comer peixe ou ternera no jantar?",
+    pronunciation: "/ˈkjeɾes koˈmeɾ pesˈkaðo o teɾˈneɾa en la ˈθena?/",
+    portuguesePhonetic: "qui-ê-res co-mér pes-cá-do ô ter-né-ra en la çê-na?",
+    syllables: ["¿Quie", "res", " co", "mer", " pes", "ca", "do", " o", " ter", "ne", "ra", " en", " la", " ce", "na?"],
+    exampleSentence: "¿Quieres comer pescado o ternera en la cena?",
+    exampleTranslation: "Você quer comer peixe ou ternera no jantar."
   },
   {
     id: 'leccion_5_36',
@@ -373,13 +373,13 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_5_38',
-    word: "¿Tú comes carne de res?",
-    translation: "Você come carne?",
-    pronunciation: "/ˈtu ˈkomes ˈkaɾne ðe ˈres?/",
-    portuguesePhonetic: "tu cô-mes cár-ne de rés?",
-    syllables: ["¿Tú", " co", "mes", " car", "ne", " de", " res?"],
-    exampleSentence: "¿Tú comes carne de res?",
-    exampleTranslation: "Você come carne?"
+    word: "¿Tú comes ternera?",
+    translation: "Você come carne de ternera?",
+    pronunciation: "/ˈtu ˈkomes teɾˈneɾa?/",
+    portuguesePhonetic: "tu cô-mes ter-né-ra?",
+    syllables: ["¿Tú", " co", "mes", " ter", "ne", "ra?"],
+    exampleSentence: "¿Tú comes ternera?",
+    exampleTranslation: "Você come carne de ternera?"
   },
   {
     id: 'leccion_5_39',
@@ -473,13 +473,13 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_5_48',
-    word: "papas fritas = papas",
-    translation: "batatas fritas = fritas (forma abreviada)",
-    pronunciation: "/ˈpapas ˈfɾitas ˈequal; ˈpapas/",
-    portuguesePhonetic: "pá-pas frí-tas i-cual pá-pas",
-    syllables: ["pa", "pas", " fri", "tas", " =", " pa", "pas"],
-    exampleSentence: "papas fritas = papas",
-    exampleTranslation: "batatas fritas = fritas (forma abreviada)"
+    word: "patatas fritas = patatas",
+    translation: "batatas fritas = batatas (forma abreviada)",
+    pronunciation: "/paˈtatas ˈfɾitas ˈequal; paˈtatas/",
+    portuguesePhonetic: "pa-tá-tas frí-tas i-cual pa-tá-tas",
+    syllables: ["pa", "ta", "tas", " fri", "tas", " =", " pa", "ta", "tas"],
+    exampleSentence: "patatas fritas = patatas",
+    exampleTranslation: "batatas fritas = batatas (forma abreviada)"
   },
   {
     id: 'leccion_5_49',
@@ -496,7 +496,7 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
     word: "una taza de té",
     translation: "uma xícara de chá",
     pronunciation: "/ˈuna ˈtaθa ðe te/",
-    portuguesePhonetic: "u-na tá-sa de té",
+    portuguesePhonetic: "u-na tá-ça de té",
     syllables: ["u", "na", " ta", "za", " de", " té"],
     exampleSentence: "una taza de té",
     exampleTranslation: "uma xícara de chá"
@@ -505,8 +505,8 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_5_51',
     word: "en el almuerzo",
     translation: "no almoço",
-    pronunciation: "/en el alˈmweɾso/",
-    portuguesePhonetic: "en el al-mu-êr-so",
+    pronunciation: "/en el alˈmweɾθo/",
+    portuguesePhonetic: "en el al-mu-êr-ço",
     syllables: ["en", " el", " al", "mwer", "zo"],
     exampleSentence: "en el almuerzo",
     exampleTranslation: "no almoço"
@@ -516,7 +516,7 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
     word: "en la cena",
     translation: "no jantar",
     pronunciation: "/en la ˈθena/",
-    portuguesePhonetic: "en la sê-na",
+    portuguesePhonetic: "en la çê-na",
     syllables: ["en", " la", " ce", "na"],
     exampleSentence: "en la cena",
     exampleTranslation: "no jantar"
@@ -533,22 +533,22 @@ export const LECCION_5_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_5_54',
-    word: "jugo o refresco",
+    word: "zumo o refresco",
     translation: "suco ou refrigerante",
-    pronunciation: "/ˈxuɣo o reˈfɾesko/",
-    portuguesePhonetic: "rrú-go ô re-frés-co",
-    syllables: ["ju", "go", " o", " re", "fres", "co"],
-    exampleSentence: "jugo o refresco",
+    pronunciation: "/ˈθumo o reˈfɾesko/",
+    portuguesePhonetic: "çú-mo ô re-frés-co",
+    syllables: ["zu", "mo", " o", " re", "fres", "co"],
+    exampleSentence: "zumo o refresco",
     exampleTranslation: "suco ou refrigerante"
   },
   {
     id: 'leccion_5_55',
-    word: "pescado o carne de res",
-    translation: "peixe ou carne bovina",
-    pronunciation: "/pesˈkaðo o ˈkaɾne ðe ˈres/",
-    portuguesePhonetic: "pes-cá-do ô cár-ne de rés",
-    syllables: ["pes", "ca", "do", " o", " car", "ne", " de", " res"],
-    exampleSentence: "pescado o carne de res",
-    exampleTranslation: "peixe ou carne bovina"
+    word: "pescado o ternera",
+    translation: "peixe ou carne de ternera",
+    pronunciation: "/pesˈkaðo o teɾˈneɾa/",
+    portuguesePhonetic: "pes-cá-do ô ter-né-ra",
+    syllables: ["pes", "ca", "do", " o", " ter", "ne", "ra"],
+    exampleSentence: "pescado o ternera",
+    exampleTranslation: "peixe ou carne de ternera"
   }
 ];

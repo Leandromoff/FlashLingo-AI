@@ -25,8 +25,8 @@ export const LECCION_3_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_3_3',
     word: "manzana",
     translation: "maçã",
-    pronunciation: "/manˈsana/",
-    portuguesePhonetic: "man-sâ-na",
+    pronunciation: "/manˈθana/",
+    portuguesePhonetic: "man-çâ-na",
     syllables: ["man", "za", "na"],
     exampleSentence: "manzana",
     exampleTranslation: "maçã"
@@ -205,8 +205,8 @@ export const LECCION_3_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_3_21',
     word: "Me gustan las manzanas.",
     translation: "Eu gosto de maçãs.",
-    pronunciation: "/me ˈɣustan las manˈsanas./",
-    portuguesePhonetic: "mê gús-tan las man-sâ-nas.",
+    pronunciation: "/me ˈɣustan las manˈθanas./",
+    portuguesePhonetic: "mê gús-tan las man-çâ-nas.",
     syllables: ["Me", " gus", "tan", " las", " man", "za", "nas."],
     exampleSentence: "Me gustan las manzanas.",
     exampleTranslation: "Eu gosto de maçãs."
@@ -233,12 +233,12 @@ export const LECCION_3_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_3_24',
-    word: "Yo quiero beber jugo de naranja.",
+    word: "Yo quiero beber zumo de naranja.",
     translation: "Eu quero beber suco de laranja.",
-    pronunciation: "/ʝo ˈkjeɾo βeˈβeɾ ˈxuɣo ðe naˈɾaŋxa./",
-    portuguesePhonetic: "iô qui-ê-ro be-bér rrú-go de na-rán-rra.",
-    syllables: ["Yo", " quie", "ro", " be", "ber", " ju", "go", " de", " na", "ran", "ja."],
-    exampleSentence: "Yo quiero beber jugo de naranja.",
+    pronunciation: "/ʝo ˈkjeɾo βeˈβeɾ ˈθumo ðe naˈɾaŋxa./",
+    portuguesePhonetic: "iô qui-ê-ro be-bér çú-mo de na-rán-rrá.",
+    syllables: ["Yo", " quie", "ro", " be", "ber", " zu", "mo", " de", " na", "ran", "ja."],
+    exampleSentence: "Yo quiero beber zumo de naranja.",
     exampleTranslation: "Eu quero beber suco de laranja."
   },
   {
@@ -263,12 +263,12 @@ export const LECCION_3_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_3_27',
-    word: "Me gusta beber jugo.",
+    word: "Me gusta beber zumo.",
     translation: "Eu gosto de beber suco.",
-    pronunciation: "/me ˈɣusta βeˈβeɾ ˈxuɣo./",
-    portuguesePhonetic: "mê gús-ta be-bér rrú-go.",
-    syllables: ["Me", " gus", "ta", " be", "ber", " ju", "go."],
-    exampleSentence: "Me gusta beber jugo.",
+    pronunciation: "/me ˈɣusta βeˈβeɾ ˈθumo./",
+    portuguesePhonetic: "mê gús-ta be-bér çú-mo.",
+    syllables: ["Me", " gus", "ta", " be", "ber", " zu", "mo."],
+    exampleSentence: "Me gusta beber zumo.",
     exampleTranslation: "Eu gosto de beber suco."
   },
   {
@@ -303,12 +303,12 @@ export const LECCION_3_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_3_31',
-    word: "No me gusta el jugo de manzana.",
+    word: "No me gusta el zumo de manzana.",
     translation: "Eu não gosto de suco de maçã.",
-    pronunciation: "/no me ˈɣusta el ˈxuɣo ðe manˈsana./",
-    portuguesePhonetic: "nô mê gús-ta el rrú-go de man-sâ-na.",
-    syllables: ["No", " me", " gus", "ta", " el", " ju", "go", " de", " man", "za", "na."],
-    exampleSentence: "No me gusta el jugo de manzana.",
+    pronunciation: "/no me ˈɣusta el ˈθumo ðe manˈθana./",
+    portuguesePhonetic: "nô mê gús-ta el çú-mo de man-çâ-na.",
+    syllables: ["No", " me", " gus", "ta", " el", " zu", "mo", " de", " man", "za", "na."],
+    exampleSentence: "No me gusta el zumo de manzana.",
     exampleTranslation: "Eu não gosto de suco de maçã."
   },
   {
@@ -395,20 +395,20 @@ export const LECCION_3_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_3_40',
     word: "tarta de manzana",
     translation: "torta de maçã",
-    pronunciation: "/ˈtaɾta ðe manˈsana/",
-    portuguesePhonetic: "tár-ta de man-sâ-na",
+    pronunciation: "/ˈtaɾta ðe manˈθana/",
+    portuguesePhonetic: "tár-ta de man-çâ-na",
     syllables: ["tar", "ta", " de", " man", "za", "na"],
     exampleSentence: "tarta de manzana",
     exampleTranslation: "torta de maçã"
   },
   {
     id: 'leccion_3_41',
-    word: "jugo de naranja",
+    word: "zumo de naranja",
     translation: "suco de laranja",
-    pronunciation: "/ˈxuɣo ðe naˈtʃaŋxa/",
-    portuguesePhonetic: "rrú-go de na-rán-rra",
-    syllables: ["ju", "go", " de", " na", "ran", "ja"],
-    exampleSentence: "jugo de naranja",
+    pronunciation: "/ˈθumo ðe naˈɾaŋxa/",
+    portuguesePhonetic: "çú-mo de na-rán-rrá",
+    syllables: ["zu", "mo", " de", " na", "ran", "ja"],
+    exampleSentence: "zumo de naranja",
     exampleTranslation: "suco de laranja"
   },
   {
@@ -425,8 +425,8 @@ export const LECCION_3_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_3_43',
     word: "té de manzana",
     translation: "chá de maçã",
-    pronunciation: "/te ðe manˈsana/",
-    portuguesePhonetic: "té de man-sâ-na",
+    pronunciation: "/te ðe manˈθana/",
+    portuguesePhonetic: "té de man-çâ-na",
     syllables: ["té", " de", " man", "za", "na"],
     exampleSentence: "té de manzana",
     exampleTranslation: "chá de maçã"
@@ -460,5 +460,35 @@ export const LECCION_3_W2_S_DECK: FlashcardData[] = [
     syllables: ["¡Bue", "nas", " no", "ches!"],
     exampleSentence: "¡Buenas noches!",
     exampleTranslation: "Boa noite!"
+  },
+  {
+    id: 'leccion_3_47',
+    word: "melocotón",
+    translation: "pêssego",
+    pronunciation: "/melokoˈton/",
+    portuguesePhonetic: "me-lo-co-tón",
+    syllables: ["me", "lo", "co", "tón"],
+    exampleSentence: "melocotón",
+    exampleTranslation: "pêssego"
+  },
+  {
+    id: 'leccion_3_48',
+    word: "fresa",
+    translation: "morango",
+    pronunciation: "/ˈfɾesa/",
+    portuguesePhonetic: "fré-sa",
+    syllables: ["fre", "sa"],
+    exampleSentence: "fresa",
+    exampleTranslation: "morango"
+  },
+  {
+    id: 'leccion_3_49',
+    word: "macedonia",
+    translation: "salada de frutas",
+    pronunciation: "/maθeˈðonja/",
+    portuguesePhonetic: "ma-çe-dô-nia",
+    syllables: ["ma", "ce", "do", "nia"],
+    exampleSentence: "macedonia",
+    exampleTranslation: "salada de frutas"
   }
 ];

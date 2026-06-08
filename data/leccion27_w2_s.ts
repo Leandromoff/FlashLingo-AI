@@ -6,7 +6,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "conocer / encontrar",
     translation: "encontrar, conhecer",
     pronunciation: "/ko-no-ˈθeɾ o eŋ-kon-ˈtɾaɾ/",
-    portuguesePhonetic: "co-no-cér / en-con-trár",
+    portuguesePhonetic: "co-no-thér / en-con-trár",
     syllables: ["co", "no", "cer", " /", " en", "con", "trar"],
     exampleSentence: "conocer / encontrar",
     exampleTranslation: "encontrar, conhecer"
@@ -86,7 +86,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "plaza",
     translation: "praça",
     pronunciation: "/ˈplaθa/",
-    portuguesePhonetic: "plá-za",
+    portuguesePhonetic: "plá-tha",
     syllables: ["pla", "za"],
     exampleSentence: "plaza",
     exampleTranslation: "praça"
@@ -116,7 +116,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "cerca",
     translation: "perto",
     pronunciation: "/ˈθeɾka/",
-    portuguesePhonetic: "çêr-ca",
+    portuguesePhonetic: "thêr-ca",
     syllables: ["cer", "ca"],
     exampleSentence: "cerca",
     exampleTranslation: "perto"
@@ -176,7 +176,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "Nos gusta ir a la playa de vacaciones.",
     translation: "Nós gostamos de ir à praia nas férias.",
     pronunciation: "/nos ˈɣusta iɾ a la ˈplaʝa ðe βakaˈθjones/",
-    portuguesePhonetic: "nos gús-ta ir a la plá-ia de ba-ca-ciô-nes.",
+    portuguesePhonetic: "nos gús-ta ir a la plá-ia de ba-ca-thiô-nes.",
     syllables: ["Nos", " gus", "ta", " ir", " a", " la", " pla", "ya", " de", " va", "ca", "cio", "nes."],
     exampleSentence: "Nos gusta ir a la playa de vacaciones.",
     exampleTranslation: "Nós gostamos de ir à praia nas férias."
@@ -186,7 +186,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "¿Cuánto dinero necesitas?",
     translation: "De quanto dinheiro você precisa?",
     pronunciation: "/ˈkwanto ðiˈneɾo neθeˈsitas/",
-    portuguesePhonetic: "¿quán-to di-nê-ro ne-ce-sí-tas?",
+    portuguesePhonetic: "¿quán-to di-nê-ro ne-the-sí-tas?",
     syllables: ["¿Cuán", "to", " di", "ne", "ro", " ne", "ce", "si", "tas?"],
     exampleSentence: "¿Cuánto dinero necesitas?",
     exampleTranslation: "De quanto dinheiro você precisa?"
@@ -296,7 +296,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "¿Viven cerca de la plaza?",
     translation: "Eles moram perto da praça?",
     pronunciation: "/ˈβiβen ˈθeɾka ðe la ˈplaθa/",
-    portuguesePhonetic: "¿bí-ben çêr-ca de la plá-za?",
+    portuguesePhonetic: "¿bí-ben thêr-ca de la plá-tha?",
     syllables: ["¿Vi", "ven", " cer", "ca", " de", " la", " pla", "za?"],
     exampleSentence: "¿Viven cerca de la plaza?",
     exampleTranslation: "Eles moram perto da praça?"
@@ -306,7 +306,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "¿Cuánto dinero necesitamos?",
     translation: "De quanto dinheiro nós precisamos?",
     pronunciation: "/ˈkwanto ðiˈneɾo neθesiˈtamos/",
-    portuguesePhonetic: "¿quán-to di-nê-ro ne-ce-si-tá-mos?",
+    portuguesePhonetic: "¿quán-to di-nê-ro ne-the-si-tá-mos?",
     syllables: ["¿Cuán", "to", " di", "ne", "ro", " ne", "ce", "si", "ta", "mos?"],
     exampleSentence: "¿Cuánto dinero necesitamos?",
     exampleTranslation: "De quanto dinheiro nós precisamos?"
@@ -326,7 +326,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "¿Cuántos libros necesita ella?",
     translation: "De quantos livros ela precisa?",
     pronunciation: "/ˈkwantos ˈliβɾos neθeˈsita ˈeʝa/",
-    portuguesePhonetic: "¿quán-tos lí-bros ne-ce-sí-ta ê-lya?",
+    portuguesePhonetic: "¿quán-tos lí-bros ne-the-sí-ta ê-lya?",
     syllables: ["¿Cuán", "tos", " li", "bros", " ne", "ce", "si", "ta", " e", "lla?"],
     exampleSentence: "¿Cuántos libros necesita ella?",
     exampleTranslation: "De quantos livros ela precisa?"
@@ -346,7 +346,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "en mis vacaciones",
     translation: "nas minhas férias",
     pronunciation: "/en mis βakaˈθjones/",
-    portuguesePhonetic: "en mis ba-ca-ciô-nes",
+    portuguesePhonetic: "en mis ba-ca-thiô-nes",
     syllables: ["en", " mis", " va", "ca", "cio", "nes"],
     exampleSentence: "en mis vacaciones",
     exampleTranslation: "nas minhas férias"
@@ -356,7 +356,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "en tus vacaciones",
     translation: "nas suas férias",
     pronunciation: "/en tus βakaˈθjones/",
-    portuguesePhonetic: "en tus ba-ca-ciô-nes",
+    portuguesePhonetic: "en tus ba-ca-thiô-nes",
     syllables: ["en", " tus", " va", "ca", "cio", "nes"],
     exampleSentence: "en tus vacaciones",
     exampleTranslation: "nas suas férias"
@@ -366,7 +366,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "Está cerca de aquí.",
     translation: "É perto daqui.",
     pronunciation: "/esˈta ˈθeɾka ðe aˈki/",
-    portuguesePhonetic: "es-tá çêr-ca de a-quí.",
+    portuguesePhonetic: "es-tá thêr-ca de a-quí.",
     syllables: ["Es", "tá", " cer", "ca", " de", " a", "quí."],
     exampleSentence: "Está cerca de aquí.",
     exampleTranslation: "É perto daqui."
@@ -476,7 +476,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "plaza",
     translation: "praça",
     pronunciation: "/ˈplaθa/",
-    portuguesePhonetic: "plá-za",
+    portuguesePhonetic: "plá-tha",
     syllables: ["pla", "za"],
     exampleSentence: "plaza",
     exampleTranslation: "praça"
@@ -506,7 +506,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "cerca",
     translation: "perto",
     pronunciation: "/ˈθeɾka/",
-    portuguesePhonetic: "çêr-ca",
+    portuguesePhonetic: "thêr-ca",
     syllables: ["cer", "ca"],
     exampleSentence: "cerca",
     exampleTranslation: "perto"
@@ -556,7 +556,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "conocer / encontrar",
     translation: "encontrar, conhecer",
     pronunciation: "/ko-no-ˈθeɾ o eŋ-kon-ˈtɾaɾ/",
-    portuguesePhonetic: "co-no-cér / en-con-trár",
+    portuguesePhonetic: "co-no-thér / en-con-trár",
     syllables: ["co", "no", "cer", " /", " en", "con", "trar"],
     exampleSentence: "conocer / encontrar",
     exampleTranslation: "encontrar, conhecer"
@@ -576,7 +576,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "vacaciones",
     translation: "férias",
     pronunciation: "/βakaˈθjones/",
-    portuguesePhonetic: "ba-ca-ciô-nes",
+    portuguesePhonetic: "ba-ca-thiô-nes",
     syllables: ["va", "ca", "cio", "nes"],
     exampleSentence: "vacaciones",
     exampleTranslation: "férias"
@@ -686,7 +686,7 @@ export const LECCION_27_W2_S_DECK: FlashcardData[] = [
     word: "Vivo cerca del parque.",
     translation: "Eu moro perto do parque.",
     pronunciation: "/ˈβiβo ˈθeɾka ðel ˈpaɾke/",
-    portuguesePhonetic: "bí-bo çêr-ca del pár-que.",
+    portuguesePhonetic: "bí-bo thêr-ca del pár-que.",
     syllables: ["Vi", "vo", " cer", "ca", " del", " par", "que."],
     exampleSentence: "Vivo cerca del parque.",
     exampleTranslation: "Eu moro perto do parque."

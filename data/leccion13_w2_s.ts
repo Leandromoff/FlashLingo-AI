@@ -23,13 +23,13 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_13_3',
-    word: "celular",
-    translation: "telefone celular",
-    pronunciation: "/θeluˈlaɾ/",
-    portuguesePhonetic: "ce-lu-lár",
-    syllables: ["ce", "lu", "lar"],
-    exampleSentence: "celular",
-    exampleTranslation: "telefone celular"
+    word: "móvil",
+    translation: "celular, telemóvel",
+    pronunciation: "/ˈmoβil/",
+    portuguesePhonetic: "mó-bil",
+    syllables: ["mó", "vil"],
+    exampleSentence: "móvil",
+    exampleTranslation: "celular, telemóvel"
   },
   {
     id: 'leccion_13_4',
@@ -43,12 +43,12 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_13_5',
-    word: "computadora",
+    word: "ordenador",
     translation: "computador",
-    pronunciation: "/komputaˈðoɾa/",
-    portuguesePhonetic: "com-pu-ta-dó-ra",
-    syllables: ["com", "pu", "ta", "do", "ra"],
-    exampleSentence: "computadora",
+    pronunciation: "/oɾðenaˈðoɾ/",
+    portuguesePhonetic: "or-de-na-dór",
+    syllables: ["or", "de", "na", "dor"],
+    exampleSentence: "ordenador",
     exampleTranslation: "computador"
   },
   {
@@ -83,12 +83,12 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_13_9',
-    word: "carro",
+    word: "coche",
     translation: "carro",
-    pronunciation: "/ˈkaro/",
-    portuguesePhonetic: "cá-rro",
-    syllables: ["ca", "rro"],
-    exampleSentence: "carro",
+    pronunciation: "/ˈkotʃe/",
+    portuguesePhonetic: "cô-tche",
+    syllables: ["co", "che"],
+    exampleSentence: "coche",
     exampleTranslation: "carro"
   },
   {
@@ -185,8 +185,8 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_13_19',
     word: "No necesito ir a la escuela hoy.",
     translation: "Eu não preciso ir à escola hoje.",
-    pronunciation: "/no neseˈsito iɾ a la esˈkwela oi/",
-    portuguesePhonetic: "nô ne-ce-sí-to ir a la es-cuê-la ói.",
+    pronunciation: "/no neθeˈsito iɾ a la esˈkwela oi/",
+    portuguesePhonetic: "nô ne-the-çí-to ir a la es-cuê-la ói.",
     syllables: ["No", " ne", "ce", "si", "to", " ir", " a", " la", " es", "cue", "la", " hoy."],
     exampleSentence: "No necesito ir a la escuela hoy.",
     exampleTranslation: "Eu não preciso ir à escola hoje."
@@ -205,8 +205,8 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_13_21',
     word: "¿Tú necesitas una tableta?",
     translation: "Você precisa de um tablet?",
-    pronunciation: "/tu neseˈsitas ˈuna taˈβleta/",
-    portuguesePhonetic: "¿tú ne-ce-sí-tas ú-na ta-blê-ta?",
+    pronunciation: "/tu neθeˈsitas ˈuna taˈβleta/",
+    portuguesePhonetic: "¿tú ne-the-çí-tas ú-na ta-blê-ta?",
     syllables: ["¿Tú", " ne", "ce", "si", "tas", " u", "na", " ta", "ble", "ta?"],
     exampleSentence: "¿Tú necesitas una tableta?",
     exampleTranslation: "Você precisa de um tablet?"
@@ -216,7 +216,7 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     word: "Yo quiero una manzana.",
     translation: "Eu quero uma maçã.",
     pronunciation: "/ʝo ˈkjeɾo ˈuna manˈθana/",
-    portuguesePhonetic: "iô qui-ê-ro ú-na man-çã.",
+    portuguesePhonetic: "iô qui-ê-ro ú-na man-thá-na.",
     syllables: ["Yo", " quie", "ro", " u", "na", " man", "za", "na."],
     exampleSentence: "Yo quiero una manzana.",
     exampleTranslation: "Eu quero uma maçã."
@@ -226,19 +226,19 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     word: "Me gustan tus zapatos nuevos.",
     translation: "Eu gosto dos seus sapatos novos.",
     pronunciation: "/me ˈɣustan tus θaˈpatos ˈnweβos/",
-    portuguesePhonetic: "me gús-tan tus za-pá-tos nu-ê-bos.",
+    portuguesePhonetic: "me gús-tan tus tha-pá-tos nu-ê-bos.",
     syllables: ["Me", " gus", "tan", " tus", " za", "pa", "tos", " nue", "vos."],
     exampleSentence: "Me gustan tus zapatos nuevos.",
     exampleTranslation: "Eu gosto dos seus sapatos novos."
   },
   {
     id: 'leccion_13_24',
-    word: "Ellos tienen un carro viejo.",
+    word: "Ellos tienen un coche viejo.",
     translation: "Eles têm um carro velho.",
-    pronunciation: "/ˈeʝos ˈtienen un ˈkaɾo ˈβjexo/",
-    portuguesePhonetic: "ê-lyos ti-ê-nen un cá-rro bi-ê-rro.",
-    syllables: ["El", "los", " tie", "nen", " un", " ca", "rro", " vie", "jo."],
-    exampleSentence: "Ellos tienen un carro viejo.",
+    pronunciation: "/ˈeʝos ˈtienen un ˈkotʃe ˈβjexo/",
+    portuguesePhonetic: "ê-lyos ti-ê-nen un cô-tche bi-ê-rro.",
+    syllables: ["E", "llos", " tie", "nen", " un", " co", "che", " vie", "jo."],
+    exampleSentence: "Ellos tienen un coche viejo.",
     exampleTranslation: "Eles têm um carro velho."
   },
   {
@@ -293,12 +293,12 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_13_30',
-    word: "Necesito una computadora nueva.",
+    word: "Necesito un ordenador nuevo.",
     translation: "Eu preciso de um computador novo.",
-    pronunciation: "/neseˈsito ˈuna komputaˈðoɾa ˈnweβa/",
-    portuguesePhonetic: "ne-ce-sí-to ú-na com-pu-ta-dó-ra nu-ê-ba.",
-    syllables: ["Ne", "ce", "si", "to", " u", "na", " com", "pu", "ta", "do", "ra", " nue", "va."],
-    exampleSentence: "Necesito una computadora nueva.",
+    pronunciation: "/neθeˈsito un oɾðenaˈðoɾ ˈnweβo/",
+    portuguesePhonetic: "ne-the-çí-to un or-de-na-dór nu-ê-bo.",
+    syllables: ["Ne", "ce", "si", "to", " un", " or", "de", "na", "dor", " nue", "vo."],
+    exampleSentence: "Necesito un ordenador nuevo.",
     exampleTranslation: "Eu preciso de um computador novo."
   },
   {
@@ -315,8 +315,8 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_13_32',
     word: "Realmente necesito zapatos nuevos.",
     translation: "Eu realmente preciso de sapatos novos.",
-    pronunciation: "/realˈmente neseˈsito θaˈpatos ˈnweβos/",
-    portuguesePhonetic: "re-al-mén-te ne-ce-sí-to za-pá-tos nu-ê-bos.",
+    pronunciation: "/realˈmente neθeˈsito θaˈpatos ˈnweβos/",
+    portuguesePhonetic: "re-al-mén-te ne-the-çí-to tha-pá-tos nu-ê-bos.",
     syllables: ["Real", "men", "te", " ne", "ce", "si", "to", " za", "pa", "tos", " nue", "vos."],
     exampleSentence: "Realmente necesito zapatos nuevos.",
     exampleTranslation: "Eu realmente preciso de sapatos novos."
@@ -325,30 +325,30 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_13_33',
     word: "¿Qué necesitas estudiar?",
     translation: "O que você precisa estudar?",
-    pronunciation: "/ke neseˈsitas estuˈðʝaɾ/",
-    portuguesePhonetic: "¿qué ne-ce-sí-tas es-tu-diár?",
+    pronunciation: "/ke neθeˈsitas estuˈðʝaɾ/",
+    portuguesePhonetic: "¿qué ne-the-çí-tas es-tu-diár?",
     syllables: ["¿Qué", " ne", "ce", "si", "tas", " es", "tu", "diar?"],
     exampleSentence: "¿Qué necesitas estudiar?",
     exampleTranslation: "O que você precisa estudar?"
   },
   {
     id: 'leccion_13_34',
-    word: "Ellos tienen un carro viejo.",
+    word: "Ellos tienen un coche viejo.",
     translation: "Eles têm um carro velho.",
-    pronunciation: "/ˈeʝos ˈtienen un ˈkaɾo ˈβjexo/",
-    portuguesePhonetic: "ê-lyos ti-ê-nen un cá-rro bi-ê-rro.",
-    syllables: ["El", "los", " tie", "nen", " un", " ca", "rro", " vie", "jo."],
-    exampleSentence: "Ellos tienen un carro viejo.",
+    pronunciation: "/ˈeʝos ˈtienen un ˈkotʃe ˈβjexo/",
+    portuguesePhonetic: "ê-lyos ti-ê-nen un cô-tche bi-ê-rro.",
+    syllables: ["E", "llos", " tie", "nen", " un", " co", "che", " vie", "jo."],
+    exampleSentence: "Ellos tienen un coche viejo.",
     exampleTranslation: "Eles têm um carro velho."
   },
   {
     id: 'leccion_13_35',
-    word: "Tengo un celular nuevo.",
+    word: "Tengo un móvil nuevo.",
     translation: "Eu tenho um celular novo.",
-    pronunciation: "/ˈteŋɡo un θeluˈlaɾ ˈnweβo/",
-    portuguesePhonetic: "tén-go un ce-lu-lár nu-ê-bo.",
-    syllables: ["Ten", "go", " un", " ce", "lu", "lar", " nue", "vo."],
-    exampleSentence: "Tengo un celular nuevo.",
+    pronunciation: "/ˈteŋɡo un ˈmoβil ˈnweβo/",
+    portuguesePhonetic: "tén-go un mó-bil nu-ê-bo.",
+    syllables: ["Ten", "go", " un", " mó", "vil", " nue", "vo."],
+    exampleSentence: "Tengo un móvil nuevo.",
     exampleTranslation: "Eu tenho um celular novo."
   },
   {
@@ -386,7 +386,7 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     word: "0 - cero",
     translation: "zero",
     pronunciation: "/ˈθeɾo/",
-    portuguesePhonetic: "cé-ro",
+    portuguesePhonetic: "thê-ro",
     syllables: ["0", " -", " ce", "ro"],
     exampleSentence: "0 - cero",
     exampleTranslation: "zero"
@@ -436,7 +436,7 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     word: "5 - cinco",
     translation: "cinco",
     pronunciation: "/ˈθiŋko/",
-    portuguesePhonetic: "cín-co",
+    portuguesePhonetic: "thín-co",
     syllables: ["5", " -", " cin", "co"],
     exampleSentence: "5 - cinco",
     exampleTranslation: "cinco"
@@ -485,8 +485,8 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_13_49',
     word: "10 - diez",
     translation: "dez",
-    pronunciation: "/ðjes/",
-    portuguesePhonetic: "di-êz",
+    pronunciation: "/ðjeθ/",
+    portuguesePhonetic: "di-êth",
     syllables: ["10", " -", " diez"],
     exampleSentence: "10 - diez",
     exampleTranslation: "dez"
@@ -506,7 +506,7 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     word: "Es 523-707-4782.",
     translation: "É 523-707-4782.",
     pronunciation: "/es ˈθiŋko-dos-tɾes ˈsjete-ˈθeɾo-ˈsjete ˈkwatɾo-ˈsjete-ˈotʃo-dos./",
-    portuguesePhonetic: "es cín-co-dôs-três si-ê-te-cé-ro-si-ê-te cuá-tro-si-ê-te-ô-tcho-dôs.",
+    portuguesePhonetic: "es thín-co-dôs-três si-ê-te-thê-ro-si-ê-te cuá-tro-si-ê-te-ô-tcho-dôs.",
     syllables: ["Es", " 523-", "707-", "4782."],
     exampleSentence: "Es 523-707-4782.",
     exampleTranslation: "É 523-707-4782."
@@ -516,7 +516,7 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     word: "una manzana",
     translation: "uma maçã",
     pronunciation: "/ˈuna manˈθana/",
-    portuguesePhonetic: "ú-na man-çã",
+    portuguesePhonetic: "ú-na man-thá-na",
     syllables: ["u", "na", " man", "za", "na"],
     exampleSentence: "una manzana",
     exampleTranslation: "uma maçã"
@@ -533,12 +533,12 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_13_54',
-    word: "un carro viejo",
+    word: "un coche viejo",
     translation: "um carro velho",
-    pronunciation: "/un ˈkaɾo ˈβjexo/",
-    portuguesePhonetic: "un cá-rro bi-ê-rro",
-    syllables: ["un", " ca", "rro", " vie", "jo"],
-    exampleSentence: "un carro viejo",
+    pronunciation: "/un ˈkotʃe ˈβjexo/",
+    portuguesePhonetic: "un cô-tche bi-ê-rro",
+    syllables: ["un", " co", "che", " vie", "jo"],
+    exampleSentence: "un coche viejo",
     exampleTranslation: "um carro velho"
   },
   {
@@ -553,12 +553,12 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_13_56',
-    word: "un carro",
+    word: "un coche",
     translation: "um carro",
-    pronunciation: "/un ˈkaɾo/",
-    portuguesePhonetic: "un cá-rro",
-    syllables: ["un", " ca", "rro"],
-    exampleSentence: "un carro",
+    pronunciation: "/un ˈkotʃe/",
+    portuguesePhonetic: "un cô-tche",
+    syllables: ["un", " co", "che"],
+    exampleSentence: "un coche",
     exampleTranslation: "um carro"
   },
   {
@@ -583,32 +583,32 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_13_59',
-    word: "una computadora",
+    word: "un ordenador",
     translation: "um computador",
-    pronunciation: "/ˈuna komputaˈðoɾa/",
-    portuguesePhonetic: "ú-na com-pu-ta-dó-ra",
-    syllables: ["u", "na", " com", "pu", "ta", "do", "ra"],
-    exampleSentence: "una computadora",
+    pronunciation: "/un oɾðenaˈðoɾ/",
+    portuguesePhonetic: "un or-de-na-dór",
+    syllables: ["un", " or", "de", "na", "dor"],
+    exampleSentence: "un ordenador",
     exampleTranslation: "um computador"
   },
   {
     id: 'leccion_13_60',
-    word: "computadora nueva",
+    word: "ordenador nuevo",
     translation: "computador novo",
-    pronunciation: "/komputaˈðoɾa ˈnweβa/",
-    portuguesePhonetic: "com-pu-ta-dó-ra nu-ê-ba",
-    syllables: ["com", "pu", "ta", "do", "ra", " nue", "va"],
-    exampleSentence: "computadora nueva",
+    pronunciation: "/oɾðenaˈðoɾ ˈnweβo/",
+    portuguesePhonetic: "or-de-na-dór nu-ê-bo",
+    syllables: ["or", "de", "na", "dor", " nue", "vo"],
+    exampleSentence: "ordenador nuevo",
     exampleTranslation: "computador novo"
   },
   {
     id: 'leccion_13_61',
-    word: "celular nuevo",
+    word: "móvil nuevo",
     translation: "celular novo",
-    pronunciation: "/θeluˈlaɾ ˈnweβo/",
-    portuguesePhonetic: "ce-lu-lár nu-ê-bo",
-    syllables: ["ce", "lu", "lar", " nue", "vo"],
-    exampleSentence: "celular nuevo",
+    pronunciation: "/ˈmoβil ˈnweβo/",
+    portuguesePhonetic: "mó-bil nu-ê-bo",
+    syllables: ["mó", "vil", " nue", "vo"],
+    exampleSentence: "móvil nuevo",
     exampleTranslation: "celular novo"
   },
   {
@@ -616,19 +616,19 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     word: "zapatos nuevos",
     translation: "sapatos novos",
     pronunciation: "/θaˈpatos ˈnweβos/",
-    portuguesePhonetic: "za-pá-tos nu-ê-bos",
+    portuguesePhonetic: "tha-pá-tos nu-ê-bos",
     syllables: ["za", "pa", "tos", " nue", "vos"],
     exampleSentence: "zapatos nuevos",
     exampleTranslation: "sapatos novos"
   },
   {
     id: 'leccion_13_63',
-    word: "carro viejo",
+    word: "coche viejo",
     translation: "carro velho",
-    pronunciation: "/ˈkaɾo ˈβjexo/",
-    portuguesePhonetic: "cá-rro bi-ê-rro",
-    syllables: ["ca", "rro", " vie", "jo"],
-    exampleSentence: "carro viejo",
+    pronunciation: "/ˈkotʃe ˈβjexo/",
+    portuguesePhonetic: "cô-tche bi-ê-rro",
+    syllables: ["co", "che", " vie", "jo"],
+    exampleSentence: "coche viejo",
     exampleTranslation: "carro velho"
   },
   {
@@ -643,7 +643,7 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_13_65',
-    word: "compañero de trabalho británico",
+    word: "compañero de trabajo británico",
     translation: "colega de trabalho britânico",
     pronunciation: "/kompaˈɲeɾo ðe tɾaˈβaxo βɾiˈtaniko/",
     portuguesePhonetic: "com-pa-nhê-ro de tra-bá-rro bri-tá-ni-co",
@@ -686,7 +686,7 @@ export const LECCION_13_W2_S_DECK: FlashcardData[] = [
     word: "necesitar estudiar",
     translation: "precisar estudar",
     pronunciation: "/neθesiˈtaɾ estuˈðʝaɾ/",
-    portuguesePhonetic: "ne-ce-ci-tár es-tu-diár",
+    portuguesePhonetic: "ne-the-çí-tár es-tu-diár",
     syllables: ["ne", "ce", "si", "tar", " es", "tu", "diar"],
     exampleSentence: "necesitar estudiar",
     exampleTranslation: "precisar estudar"

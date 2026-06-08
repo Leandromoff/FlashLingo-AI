@@ -55,8 +55,8 @@ export const LECCION_9_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_9_6',
     word: "ciudad",
     translation: "cidade",
-    pronunciation: "/sjuˈðað/",
-    portuguesePhonetic: "siu-dád",
+    pronunciation: "/θjuˈðað/",
+    portuguesePhonetic: "çiu-dád",
     syllables: ["ciu", "dad"],
     exampleSentence: "ciudad",
     exampleTranslation: "cidade"
@@ -183,12 +183,12 @@ export const LECCION_9_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_9_19',
-    word: "Yo entiendo esa palavra en inglés.",
+    word: "Yo entiendo esa palabra en inglés.",
     translation: "Eu entendo aquela palavra em inglês.",
-    pronunciation: "/ʝo enˈtjendo ˈese paˈlaβɾa en iŋˈgles./",
-    portuguesePhonetic: "iô en-tiên-do ê-se pa-lá-bra en in-glés.",
+    pronunciation: "/ʝo enˈtjendo ˈesa paˈlaβɾa en iŋˈgles./",
+    portuguesePhonetic: "iô en-tiên-do ê-sa pa-lá-bra en in-glés.",
     syllables: ["Yo", " en", "tien", "do", " e", "sa", " pa", "la", "bra", " en", " in", "glés."],
-    exampleSentence: "Yo entiendo esa palavra en inglés.",
+    exampleSentence: "Yo entiendo esa palabra en inglés.",
     exampleTranslation: "Eu entendo aquela palavra em inglês."
   },
   {
@@ -298,7 +298,7 @@ export const LECCION_9_W2_S_DECK: FlashcardData[] = [
     pronunciation: "/ʝo no enˈtjendo ˈesta paˈlaβɾa./",
     portuguesePhonetic: "iô no en-tiên-do és-ta pa-lá-bra.",
     syllables: ["Yo", " no", " en", "tien", "do", " es", "ta", " pa", "la", "bra."],
-    exampleSentence: "Yo no entiendo esta palavra.",
+    exampleSentence: "Yo no entiendo esta palabra.",
     exampleTranslation: "Eu não entendo esta palavra."
   },
   {
@@ -325,8 +325,8 @@ export const LECCION_9_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_9_33',
     word: "¿Tú quieres vivir en esta ciudad?",
     translation: "Você quer morar nesta cidade?",
-    pronunciation: "/ˈtu ˈkjeɾes βiˈβiɾ en ˈesta sjuˈðað?/",
-    portuguesePhonetic: "tu qui-ê-res bi-bír en és-ta siu-dád?",
+    pronunciation: "/ˈtu ˈkjeɾes βiˈβiɾ en ˈesta θjuˈðað?/",
+    portuguesePhonetic: "tu qui-ê-res bi-bír en és-ta çiu-dád?",
     syllables: ["¿Tú", " quie", "res", " vi", "vir", " en", " es", "ta", " ciu", "dad?"],
     exampleSentence: "¿Tú quieres vivir en esta ciudad?",
     exampleTranslation: "Você quer morar nesta cidade?"
@@ -395,8 +395,8 @@ export const LECCION_9_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_9_40',
     word: "en aquella ciudad",
     translation: "naquela cidade",
-    pronunciation: "/en aˈkeʝa sjuˈðað/",
-    portuguesePhonetic: "en a-quê-ia siu-dád",
+    pronunciation: "/en aˈkeʝa θjuˈðað/",
+    portuguesePhonetic: "en a-quê-ia çiu-dád",
     syllables: ["en", " a", "que", "lla", " ciu", "dad"],
     exampleSentence: "en aquella ciudad",
     exampleTranslation: "naquela cidade"
@@ -555,9 +555,9 @@ export const LECCION_9_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_9_56',
     word: "esta ciudad",
     translation: "esta cidade",
-    pronunciation: "/ˈesta sjuˈðað/",
-    portuguesePhonetic: "és-ta siu-dád",
-    syllables: ["this", " ci", "ty"],
+    pronunciation: "/ˈesta θjuˈðað/",
+    portuguesePhonetic: "és-ta çiu-dád",
+    syllables: ["es", "ta", " ciu", "dad"],
     exampleSentence: "esta ciudad",
     exampleTranslation: "esta cidade"
   },
@@ -567,7 +567,7 @@ export const LECCION_9_W2_S_DECK: FlashcardData[] = [
     translation: "aquele país",
     pronunciation: "/aˈkel paˈis/",
     portuguesePhonetic: "a-quél pa-ís",
-    syllables: ["that", " coun", "try"],
+    syllables: ["a", "quel", " pa", "ís"],
     exampleSentence: "aquel país",
     exampleTranslation: "aquele país"
   },
@@ -577,7 +577,7 @@ export const LECCION_9_W2_S_DECK: FlashcardData[] = [
     translation: "onde você mora?",
     pronunciation: "/ˈdonde ˈβiβes ˈtu?/",
     portuguesePhonetic: "dôn-de bí-bes tu?",
-    syllables: ["where", " do", " you", " live?"],
+    syllables: ["¿dón", "de", " vi", "ves", " tú?"],
     exampleSentence: "¿dónde vives tú?",
     exampleTranslation: "onde você mora?"
   },
@@ -587,7 +587,7 @@ export const LECCION_9_W2_S_DECK: FlashcardData[] = [
     translation: "onde você estuda?",
     pronunciation: "/ˈdonde esˈtuðʝas ˈtu?/",
     portuguesePhonetic: "dôn-de es-tú-dias tu?",
-    syllables: ["where", " do", " you", " stud", "y?"],
+    syllables: ["¿dón", "de", " es", "tu", "dias", " tú?"],
     exampleSentence: "¿dónde estudias tú?",
     exampleTranslation: "onde você estuda?"
   },
@@ -597,7 +597,7 @@ export const LECCION_9_W2_S_DECK: FlashcardData[] = [
     translation: "onde você quer morar?",
     pronunciation: "/ˈdonde ˈkjeɾes βiˈβiɾ ˈtu?/",
     portuguesePhonetic: "dôn-de qui-ê-res bi-bír tu?",
-    syllables: ["where", " do", " you", " want", " to", " live?"],
+    syllables: ["¿dón", "de", " quie", "res", " vi", "vir", " tú?"],
     exampleSentence: "¿dónde quieres vivir tú?",
     exampleTranslation: "onde você quer morar?"
   }

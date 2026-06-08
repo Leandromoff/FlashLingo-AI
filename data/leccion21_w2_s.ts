@@ -296,7 +296,7 @@ export const LECCION_21_W2_S_DECK: FlashcardData[] = [
     word: "Yo a veces leo por la noche.",
     translation: "Eu às vezes leio à noite.",
     pronunciation: "/ʝo a ˈβeθes ˈleo poɾ la ˈnotʃe/",
-    portuguesePhonetic: "iô a bê-ces léo por la nó-tche.",
+    portuguesePhonetic: "iô a bê-thes léo por la nó-tche.",
     syllables: ["Yo", " a", " ve", "ces", " leo", " por", " la", " no", "che."],
     exampleSentence: "Yo a veces leo por la noche.",
     exampleTranslation: "Eu às vezes leio à noite."
@@ -666,7 +666,7 @@ export const LECCION_21_W2_S_DECK: FlashcardData[] = [
     word: "a veces",
     translation: "às vezes",
     pronunciation: "/a ˈβeθes/",
-    portuguesePhonetic: "a bê-ces",
+    portuguesePhonetic: "a bê-thes",
     syllables: ["a", " ve", "ces"],
     exampleSentence: "a veces",
     exampleTranslation: "às vezes"

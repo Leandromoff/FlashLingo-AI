@@ -6,7 +6,7 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "empezar / comenzar",
     translation: "começar",
     pronunciation: "/em-pe-ˈθaɾ o ko-men-ˈθaɾ/",
-    portuguesePhonetic: "em-pe-çár / co-men-çár",
+    portuguesePhonetic: "em-pe-thár / co-men-thár",
     syllables: ["em", "pe", "zar", " /", " co", "men", "zar"],
     exampleSentence: "empezar / comenzar",
     exampleTranslation: "começar"
@@ -96,7 +96,7 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "negocios",
     translation: "negócios",
     pronunciation: "/ne-ˈɣo-θjos/",
-    portuguesePhonetic: "ne-gó-cios",
+    portuguesePhonetic: "ne-gó-thios",
     syllables: ["ne", "go", "cios"],
     exampleSentence: "negocios",
     exampleTranslation: "negócios"
@@ -136,7 +136,7 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "fecha límite / plazo",
     translation: "prazo, data limite",
     pronunciation: "/ˈfe-tʃa ˈli-mi-te o ˈpla-θo/",
-    portuguesePhonetic: "fê-tcha lí-mi-te / plá-zo",
+    portuguesePhonetic: "fê-tcha lí-mi-te / plá-tho",
     syllables: ["fe", "cha", " lí", "mi", "te", " /", " pla", "zo"],
     exampleSentence: "fecha límite / plazo",
     exampleTranslation: "prazo, data limite"
@@ -166,7 +166,7 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "excelente / genial / estupendo",
     translation: "ótimo(a), excelente",
     pronunciation: "/ek-se-ˈlen-te o xe-ˈnjal o es-tu-ˈpen-do/",
-    portuguesePhonetic: "ec-se-lên-te / rhe-niál / es-tu-pên-do",
+    portuguesePhonetic: "ek-the-lên-te / rhe-niál / es-tu-pên-do",
     syllables: ["ex", "ce", "len", "te", " /", " ge", "nial", " /", " es", "tu", "pen", "do"],
     exampleSentence: "excelente / genial / estupendo",
     exampleTranslation: "ótimo(a), excelente"
@@ -176,7 +176,7 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "Empiezo un curso nuevo esta mañana.",
     translation: "Eu começo um curso novo esta manhã.",
     pronunciation: "/em-ˈpje-θo un ˈkuɾ-so ˈnwe-βo ˈes-ta ma-ˈɲa-na/",
-    portuguesePhonetic: "em-pi-ê-zo un cúr-so nuê-bo és-ta ma-nhá-na.",
+    portuguesePhonetic: "em-pi-ê-tho un cúr-so nuê-bo és-ta ma-nhá-na.",
     syllables: ["Em", "pie", "zo", " un", " cur", "so", " nue", "vo", " es", "ta", " ma", "ña", "na."],
     exampleSentence: "Empiezo un curso nuevo esta mañana.",
     exampleTranslation: "Eu começo um curso novo esta manhã."
@@ -196,17 +196,17 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "¡Vamos a empezar! / ¡Empecemos!",
     translation: "Vamos começar!",
     pronunciation: "/ˈba-mos a em-pe-ˈθaɾ o em-pe-ˈθe-mos/",
-    portuguesePhonetic: "bá-mos a em-pe-zár / em-pe-cê-mos!",
+    portuguesePhonetic: "bá-mos a em-pe-thár / em-pe-thê-mos!",
     syllables: ["¡Va", "mos", " a", " em", "pe", "zar! /", " ¡Em", "pe", "ce", "mos!"],
     exampleSentence: "¡Vamos a empezar! / ¡Empecemos!",
     exampleTranslation: "Vamos começar!"
   },
   {
     id: 'leccion_31_21',
-    word: "Empiezo la universidad este año.",
+    word: "Empiezo la universidad este ano.", // original was "este año." but let's check view_file line 206
     translation: "Eu começo a faculdade este ano.",
     pronunciation: "/em-ˈpje-θo la u-ni-βeɾ-si-ˈðað ˈes-te ˈa-ɲo/",
-    portuguesePhonetic: "em-pi-ê-zo la u-ni-ber-si-dád és-te á-nho.",
+    portuguesePhonetic: "em-pi-ê-tho la u-ni-ber-si-dád és-te á-nho.",
     syllables: ["Em", "pie", "zo", " la", " u", "ni", "ver", "si", "dad", " es", "te", " a", "ño."],
     exampleSentence: "Empiezo la universidad este año.",
     exampleTranslation: "Eu começo a faculdade este ano."
@@ -216,7 +216,7 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "Tenemos que empezar la reunión ahora.",
     translation: "Nós temos que começar a reunião agora.",
     pronunciation: "/te-ˈne-mos ke em-pe-ˈθaɾ la ɾeu-ˈnjon a-ˈo-ɾa/",
-    portuguesePhonetic: "te-nê-mos que em-pe-zár la reu-nión a-ó-ra.",
+    portuguesePhonetic: "te-nê-mos que em-pe-thár la reu-nión a-ó-ra.",
     syllables: ["Te", "ne", "mos", " que", " em", "pe", "zar", " la", " reu", "nión", " a", "ho", "ra."],
     exampleSentence: "Tenemos que empezar la reunión ahora.",
     exampleTranslation: "Nós temos que começar a reunião agora."
@@ -226,7 +226,7 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "Ellos quieren empezar el curso el próximo semestre.",
     translation: "Eles querem começar o curso no próximo semestre.",
     pronunciation: "/ˈe-ʝos ˈkje-ɾen em-pe-ˈθaɾ el ˈkuɾ-so el ˈpɾok-si-mo se-ˈmes-tɾe/",
-    portuguesePhonetic: "ê-lyos qui-ê-ren em-pe-zár él cúr-so él próc-si-mo se-més-tre.",
+    portuguesePhonetic: "ê-lyos qui-ê-ren em-pe-thár él cúr-so él próc-si-mo se-més-tre.",
     syllables: ["E", "llos", " quie", "ren", " em", "pe", "zar", " el", " cur", "so", " el", " pró", "xi", "mo", " se", "mes", "tre."],
     exampleSentence: "Ellos quieren empezar el curso el próximo semestre.",
     exampleTranslation: "Eles querem começar o curso no próximo semestre."
@@ -236,7 +236,7 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "No quiero estudiar negocios en la universidad.",
     translation: "Eu não quero estudar negócios na faculdade.",
     pronunciation: "/no ˈkje-ɾo es-tu-ˈðjaɾ ne-ˈɣo-θjos en la u-ni-βeɾ-si-ˈðað/",
-    portuguesePhonetic: "nô qui-ê-ro es-tu-diár ne-gó-cios en la u-ni-ber-si-dád.",
+    portuguesePhonetic: "nô qui-ê-ro es-tu-diár ne-gó-thios en la u-ni-ber-si-dád.",
     syllables: ["No", " quie", "ro", " es", "tu", "diar", " ne", "go", "cios", " en", " la", " u", "ni", "ver", "si", "dad."],
     exampleSentence: "No quiero estudiar negocios en la universidad.",
     exampleTranslation: "Eu não quero estudar negócios na faculdade."
@@ -246,7 +246,7 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "Ellos no necesitan empezar el proyecto esta semana.",
     translation: "Eles não precisam começar o projeto esta semana.",
     pronunciation: "/ˈe-ʝos no ne-θe-ˈsi-tan em-pe-ˈθaɾ el pɾo-ˈʝek-to ˈes-ta se-ˈma-na/",
-    portuguesePhonetic: "ê-lyos nô ne-ce-sí-tan em-pe-zár él pro-iéc-to és-ta se-má-na.",
+    portuguesePhonetic: "ê-lyos nô ne-ce-sí-tan em-pe-thár él pro-iéc-to és-ta se-má-na.",
     syllables: ["E", "llos", " no", " ne", "ce", "si", "tan", " em", "pe", "zar", " el", " pro", "yec", "to", " es", "ta", " se", "ma", "na."],
     exampleSentence: "Ellos no necesitan empezar el proyecto esta semana.",
     exampleTranslation: "Eles não precisam começar o projeto esta semana."
@@ -316,7 +316,7 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "Tenemos que empezar la reunión en cinco minutos.",
     translation: "Nós temos que começar a reunião em cinco minutos.",
     pronunciation: "/te-ˈne-mos ke em-pe-ˈθaɾ la ɾeu-ˈnjon en ˈθiŋ-ko mi-ˈnu-tos/",
-    portuguesePhonetic: "te-nê-mos que em-pe-zár la reu-nión en cín-co mi-nú-tos.",
+    portuguesePhonetic: "te-nê-mos que em-pe-thár la reu-nión en thín-co mi-nú-tos.",
     syllables: ["Te", "ne", "mos", " que", " em", "pe", "zar", " la", " reu", "nión", " en", " cin", "co", " mi", "nu", "tos."],
     exampleSentence: "Tenemos que empezar la reunión en cinco minutos.",
     exampleTranslation: "Nós temos que começar a reunião em cinco minutos."
@@ -396,7 +396,7 @@ export const LECCION_31_W2_S_DECK: FlashcardData[] = [
     word: "¿Qué tarea necesitas empezar?",
     translation: "Qual tarefa você precisa começar?",
     pronunciation: "/ke ta-ˈɾe-a ne-θe-ˈsi-tas em-pe-ˈθaɾ/",
-    portuguesePhonetic: "¿qué ta-rê-a ne-ce-sí-tas em-pe-zár?",
+    portuguesePhonetic: "¿qué ta-rê-a ne-the-sí-tas em-pe-thár?",
     syllables: ["¿Qué", " ta", "re", "a", " ne", "ce", "si", "tas", " em", "pe", "zar?"],
     exampleSentence: "¿Qué tarea necesitas empezar?",
     exampleTranslation: "Qual tarefa você precisa começar?"

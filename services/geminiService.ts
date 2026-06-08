@@ -95,10 +95,6 @@ export const generateFlashcards = async (
           targetLangName = 'Spanish';
           phoneticExample = "'calle' -> 'cá-ie', 'gente' -> 'rrên-te'";
           break;
-        case 'it':
-          targetLangName = 'Italian';
-          phoneticExample = "'ciao' -> 'tcháu', 'grazie' -> 'grá-tsie', 'gelato' -> 'dje-lá-to'";
-          break;
         default:
           targetLangName = 'English';
       }
@@ -264,6 +260,8 @@ const cleanTextForSpeech = (text: string): string => {
   let cleaned = text.replace(/\s*\/\s*/g, " , ");
   // Replace arrows (→, ->, =>, ⇒) with a comma for a natural pause, preventing TTS from reading "seta" (Portuguese) or "arrow" (English)
   cleaned = cleaned.replace(/\s*(?:-->|->|==>|=>|→|⇒)\s*/g, " , ");
+  // Remove gender indicator suffixes or plural markers in parentheses like (a), (o), (as), (os), (a/o), (o/a) so they are not read by TTS
+  cleaned = cleaned.replace(/\([a-zA-ZáéíóúÁÉÍÓÚñÑ/]{1,3}\)/g, "");
   return cleaned;
 };
 
@@ -405,7 +403,6 @@ export const playLocalAudio = (
     // Set locale based on language
     switch (language) {
       case 'es': utterance.lang = 'es-ES'; break;
-      case 'it': utterance.lang = 'it-IT'; break;
       default: utterance.lang = 'en-US';
     }
 

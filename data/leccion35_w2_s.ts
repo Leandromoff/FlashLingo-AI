@@ -35,8 +35,8 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_35_4',
     word: "redacción / composición",
     translation: "redação",
-    pronunciation: "/re-ðak-ˈθjon o kom-po-si-ˈθjon/",
-    portuguesePhonetic: "re-dac-ción / com-po-si-ción",
+    pronunciation: "/re-ðak-ˈθjon o kom-po-θi-ˈθjon/",
+    portuguesePhonetic: "re-dac-thión / com-po-si-thión",
     syllables: ["re", "dac", "ción", " /", " com", "po", "si", "ción"],
     exampleSentence: "redacción / composición",
     exampleTranslation: "redação"
@@ -76,7 +76,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "fácil",
     translation: "fácil",
     pronunciation: "/ˈfa-θil/",
-    portuguesePhonetic: "fá-cil",
+    portuguesePhonetic: "fá-thil",
     syllables: ["fá", "cil"],
     exampleSentence: "fácil",
     exampleTranslation: "fácil"
@@ -86,7 +86,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "difícil / duro",
     translation: "difícil",
     pronunciation: "/di-ˈfi-θil o ˈðu-ɾo/",
-    portuguesePhonetic: "di-fí-cil / dú-ro",
+    portuguesePhonetic: "di-fí-thil / dú-ro",
     syllables: ["di", "fí", "cil", " /", " du", "ro"],
     exampleSentence: "difícil / duro",
     exampleTranslation: "difícil"
@@ -116,7 +116,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "divertido / gracioso",
     translation: "engraçado(a)",
     pronunciation: "/ði-βeɾ-ˈti-ðo o ɡɾa-ˈθjo-so/",
-    portuguesePhonetic: "di-ber-tí-do / gra-ció-so",
+    portuguesePhonetic: "di-ber-tí-do / gra-thió-so",
     syllables: ["di", "ver", "ti", "do", " /", " gra", "cio", "so"],
     exampleSentence: "divertido / gracioso",
     exampleTranslation: "engraçado(a)"
@@ -166,7 +166,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "¿Cómo se dice \"chato\" en español?",
     translation: "Como se diz \"chato\" em espanhol?",
     pronunciation: "/ˈko-mo se ˈði-θe ˈtʃa-to en es-pa-ˈɲol/",
-    portuguesePhonetic: "¿cô-mo se dí-ce \"tchá-to\" en es-pa-nhól?",
+    portuguesePhonetic: "¿cô-mo se dí-the \"tchá-to\" en es-pa-nhól?",
     syllables: ["¿Có", "mo", " se", " di", "ce", " \"cha", "to\"", " en", " es", "pa", "ñol?"],
     exampleSentence: "¿Cómo se dice \"chato\" en español?",
     exampleTranslation: "Como se diz \"chato\" em espanhol?"
@@ -216,19 +216,19 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "Porque es divertida. / Porque es graciosa.",
     translation: "Porque ela é engraçada.",
     pronunciation: "/poɾ-ˈke es ði-βeɾ-ˈti-ða o poɾ-ˈke es ɡɾa-ˈθjo-sa/",
-    portuguesePhonetic: "por-quê és di-ber-tí-da / por-quê és gra-ció-sa",
+    portuguesePhonetic: "por-quê és di-ber-tí-da / por-quê és gra-thió-sa",
     syllables: ["Por", "que", " es", " di", "ver", "ti", "da. /", " Por", "que", " es", " gra", "cio", "sa."],
     exampleSentence: "Porque es divertida. / Porque es graciosa.",
     exampleTranslation: "Porque ela é engraçada."
   },
   {
     id: 'leccion_35_23',
-    word: "Quero ver esta película porque es divertida.",
+    word: "Quiero ver esta película porque es divertida.",
     translation: "Eu quero assistir este filme porque ele é engraçado.",
     pronunciation: "/ˈkje-ɾo βeɾ ˈes-ta pe-ˈli-ku-la poɾ-ˈke es ði-βeɾ-ˈti-ða/",
     portuguesePhonetic: "qui-ê-ro ber és-ta pe-lí-cu-la por-quê és di-ber-tí-da.",
     syllables: ["Quie", "ro", " ver", " es", "ta", " pe", "lí", "cu", "la", " por", "que", " es", " di", "ver", "ti", "da."],
-    exampleSentence: "Quero ver esta película porque es divertida.",
+    exampleSentence: "Quiero ver esta película porque es divertida.",
     exampleTranslation: "Eu quero assistir este filme porque ele é engraçado."
   },
   {
@@ -236,7 +236,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "¿Por qué necesitan trabajar hasta tarde hoy?",
     translation: "Por que eles precisam trabalhar até tarde hoje?",
     pronunciation: "/poɾ ˈke ne-θe-ˈsi-tan tɾa-βa-ˈxaɾ ˈas-ta ˈtaɾ-ðe oj/",
-    portuguesePhonetic: "¿por quê ne-ce-sí-tan tra-ba-rhár ás-ta tár-de ói?",
+    portuguesePhonetic: "¿por quê ne-the-sí-tan tra-ba-rhár ás-ta tár-de ói?",
     syllables: ["¿Por", " qué", " ne", "ce", "si", "tan", " tra", "ba", "jar", " has", "ta", " tar", "de", " hoy?"],
     exampleSentence: "¿Por qué necesitan trabajar hasta tarde hoy?",
     exampleTranslation: "Por que eles precisam trabalhar até tarde hoje?"
@@ -256,7 +256,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "¿Por qué quiere ella empezar la universidad solo el próximo año?",
     translation: "Por que ela quer começar a faculdade apenas no próximo ano?",
     pronunciation: "/poɾ ˈke ˈkje-ɾe ˈe-ʝa em-pe-ˈθaɾ la u-ni-βeɾ-si-ˈðað ˈso-lo el ˈpɾok-si-mo ˈa-ɲo/",
-    portuguesePhonetic: "¿por quê qui-ê-re ê-lia em-pe-zár la u-ni-ber-si-dád sô-lo él próc-si-mo á-nho?",
+    portuguesePhonetic: "¿por quê qui-ê-re ê-lia em-pe-thár la u-ni-ber-si-dád sô-lo él próc-si-mo á-nho?",
     syllables: ["¿Por", " qué", " quie", "re", " e", "lla", " em", "pe", "zar", " la", " u", "ni", "ver", "si", "dad", " so", "lo", " el", " pró", "xi", "mo", " a", "ño?"],
     exampleSentence: "¿Por qué quiere ella empezar la universidad solo el próximo año?",
     exampleTranslation: "Por que ela quer começar a faculdade apenas no próximo ano?"
@@ -286,7 +286,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "Él quiere escribir un libro sobre su ciudad.",
     translation: "Ele quer escrever um livro sobre sua cidade.",
     pronunciation: "/el ˈkje-ɾe es-kɾi-ˈβiɾ un ˈli-βɾo ˈso-βɾe su θju-ˈðað/",
-    portuguesePhonetic: "él qui-ê-re es-cri-bír un lí-bro só-bre su ciu-dád.",
+    portuguesePhonetic: "él qui-ê-re es-cri-bír un lí-bro só-bre su thiu-dád.",
     syllables: ["Él", " quie", "re", " es", "cri", "bir", " un", " li", "bro", " so", "bre", " su", " ciu", "dad."],
     exampleSentence: "Él quiere escribir un libro sobre su ciudad.",
     exampleTranslation: "Ele quer escrever um livro sobre sua cidade."
@@ -296,7 +296,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "Ellos creen que es difícil aprender italiano.",
     translation: "Eles acham que é difícil aprender italiano.",
     pronunciation: "/ˈe-ʝos ˈkɾe-en ke es di-ˈfi-θil a-pɾen-ˈdeɾ i-ta-ˈlja-no/",
-    portuguesePhonetic: "ê-lyos crê-en que és di-fí-cil a-pren-dér i-ta-liá-no.",
+    portuguesePhonetic: "ê-lyos crê-en que és di-fí-thil a-pren-dér i-ta-liá-no.",
     syllables: ["E", "llos", " creen", " que", " es", " di", "fí", "cil", " a", "pren", "der", " i", "ta", "lia", "no."],
     exampleSentence: "Ellos creen que es difícil aprender italiano.",
     exampleTranslation: "Eles acham que é difícil aprender italiano."
@@ -306,7 +306,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "Necesito escribir un informe importante.",
     translation: "Eu preciso escrever um relatório importante.",
     pronunciation: "/ne-θe-ˈsi-to es-kɾi-ˈβiɾ un in-ˈfoɾ-me im-poɾ-ˈtan-te/",
-    portuguesePhonetic: "ne-ce-sí-to es-cri-bír un in-fór-me im-por-tán-te.",
+    portuguesePhonetic: "ne-the-sí-to es-cri-bír un in-fór-me im-por-tán-te.",
     syllables: ["Ne", "ce", "si", "to", " es", "cri", "bir", " un", " in", "for", "me", " im", "por", "tan", "te."],
     exampleSentence: "Necesito escribir un informe importante.",
     exampleTranslation: "Eu preciso escrever um relatório importante."
@@ -356,7 +356,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "¿Por qué quieres aprender francés?",
     translation: "Por que você quer aprender francês?",
     pronunciation: "/poɾ ˈke ˈkje-ɾes a-pɾen-ˈdeɾ fɾan-ˈθes/",
-    portuguesePhonetic: "¿por quê qui-ê-res a-pren-dér fran-cês?",
+    portuguesePhonetic: "¿por quê qui-ê-res a-pren-dér fran-thés?",
     syllables: ["¿Por", " qué", " quie", "res", " a", "pren", "der", " fran", "cés?"],
     exampleSentence: "¿Por qué quieres aprender francês?",
     exampleTranslation: "Por que você quer aprender francês?"
@@ -366,7 +366,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "Porque quiero ir a la universidad en Francia.",
     translation: "Porque eu quero ir para a faculdade na França.",
     pronunciation: "/poɾ-ˈke ˈkje-ɾo iɾ a la u-ni-βeɾ-si-ˈðað en ˈfɾan-θja/",
-    portuguesePhonetic: "por-quê qui-ê-ro ir a la u-ni-ber-si-dád en frán-cia.",
+    portuguesePhonetic: "por-quê qui-ê-ro ir a la u-ni-ber-si-dád en frán-thia.",
     syllables: ["Por", "que", " quie", "ro", " ir", " a", " la", " u", "ni", "ver", "si", "dad", " en", " Fran", "cia."],
     exampleSentence: "Porque quiero ir a la universidad en Francia.",
     exampleTranslation: "Porque eu quero ir para a faculdade na França."
@@ -378,7 +378,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     pronunciation: "/poɾ ˈke ˈkje-ɾe el le-ˈeɾ ˈli-βros en a-le-ˈman/",
     portuguesePhonetic: "¿por quê qui-ê-re él le-ér lí-bros en a-le-mán?",
     syllables: ["¿Por", " qué", " quie", "re", " él", " le", "er", " li", "bros", " en", " a", "le", "mán?"],
-    exampleSentence: "¿Por qué quiere él leer livros en alemán?",
+    exampleSentence: "¿Por qué quiere él leer libros en alemán?",
     exampleTranslation: "Por que ele quer ler livros em alemão?"
   },
   {
@@ -398,7 +398,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     pronunciation: "/es-ˈkɾi-βo men-ˈsa-xes a mis a-ˈmi-ɣos/",
     portuguesePhonetic: "es-crí-bo men-sá-rhes a mis a-mí-gos.",
     syllables: ["Es", "cri", "bo", " men", "sa", "jes", " a", " mis", " a", "mi", "gos."],
-    exampleSentence: "Escribo mensagens a mis amigos.",
+    exampleSentence: "Escribo mensajes a mis amigos.",
     exampleTranslation: "Eu escrevo mensagens para meus amigos."
   },
   {
@@ -406,7 +406,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "¿Qué significa \"fácil\"?",
     translation: "Qual o significado de \"fácil\"?",
     pronunciation: "/ke siɣ-ˈni-fi-ka ˈfa-θil/",
-    portuguesePhonetic: "¿qué sig-ní-fi-ca fá-cil?",
+    portuguesePhonetic: "¿qué sig-ní-fi-ca fá-thil?",
     syllables: ["¿Qué", " sig", "ni", "fi", "ca", " \"fá", "cil\"?"],
     exampleSentence: "¿Qué significa \"fácil\"?",
     exampleTranslation: "Qual o significado de \"fácil\"?"
@@ -416,7 +416,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "Es \"fácil\".",
     translation: "É \"fácil\".",
     pronunciation: "/es ˈfa-θil/",
-    portuguesePhonetic: "és fá-cil",
+    portuguesePhonetic: "és fá-thil",
     syllables: ["Es", " \"fá", "cil\"."],
     exampleSentence: "Es \"fácil\".",
     exampleTranslation: "É \"fácil\"."
@@ -456,7 +456,7 @@ export const LECCION_35_W2_S_DECK: FlashcardData[] = [
     word: "No creo que sea gracioso.",
     translation: "Eu não acho graça.",
     pronunciation: "/no ˈkɾe-o ke ˈse-a ɣɾa-ˈθjo-so/",
-    portuguesePhonetic: "nô crê-o que sê-a gra-ció-so.",
+    portuguesePhonetic: "nô crê-o que sê-a gra-thió-so.",
     syllables: ["No", " creo", " que", " sea", " gra", "cio", "so."],
     exampleSentence: "No creo que sea gracioso.",
     exampleTranslation: "Eu não acho graça."

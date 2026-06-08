@@ -6,7 +6,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "conducir / manejar",
     translation: "dirigir",
     pronunciation: "/kon-du-ˈθiɾ o ma-ne-ˈxaɾ/",
-    portuguesePhonetic: "con-du-cír / ma-ne-rhár",
+    portuguesePhonetic: "con-du-thír / ma-ne-rhár",
     syllables: ["con", "du", "cir", " /", " ma", "ne", "jar"],
     exampleSentence: "conducir / manejar",
     exampleTranslation: "dirigir"
@@ -46,7 +46,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "cuadra / manzana",
     translation: "quadra, quarteirão",
     pronunciation: "/ˈkwa-ðɾa o man-ˈθa-na/",
-    portuguesePhonetic: "cuá-dra / man-çá-na",
+    portuguesePhonetic: "cuá-dra / man-thá-na",
     syllables: ["cua", "dra", " /", " man", "za", "na"],
     exampleSentence: "cuadra / manzana",
     exampleTranslation: "quadra, quarteirão"
@@ -56,7 +56,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "estación",
     translation: "estação",
     pronunciation: "/es-ta-ˈθjon/",
-    portuguesePhonetic: "es-ta-ción",
+    portuguesePhonetic: "es-ta-thión",
     syllables: ["es", "ta", "ción"],
     exampleSentence: "estación",
     exampleTranslation: "estação"
@@ -116,7 +116,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "motocicleta / moto",
     translation: "motocicleta",
     pronunciation: "/mo-to-θi-ˈkle-ta o ˈmo-to/",
-    portuguesePhonetic: "mo-to-ci-clé-ta / mó-to",
+    portuguesePhonetic: "mo-to-thi-clé-ta / mó-to",
     syllables: ["mo", "to", "ci", "cle", "ta", " /", " mo", "to"],
     exampleSentence: "motocicleta / moto",
     exampleTranslation: "motocicleta"
@@ -126,7 +126,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "bicicleta / bici",
     translation: "bicicleta",
     pronunciation: "/βi-θi-ˈkle-ta/",
-    portuguesePhonetic: "bi-ci-clé-ta",
+    portuguesePhonetic: "bi-thi-clé-ta",
     syllables: ["bi", "ci", "cle", "ta"],
     exampleSentence: "bicicleta / bici",
     exampleTranslation: "bicicleta"
@@ -156,29 +156,29 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "¿Quieres ir al centro?",
     translation: "Você quer ir ao centro da cidade?",
     pronunciation: "/ˈkje-ɾes iɾ al ˈθen-tɾo/",
-    portuguesePhonetic: "¿qui-ê-res ir al cên-tro?",
+    portuguesePhonetic: "¿qui-ê-res ir al thên-tro?",
     syllables: ["¿Quie", "res", " ir", " al", " cen", "tro?"],
     exampleSentence: "¿Quieres ir al centro?",
     exampleTranslation: "Você quer ir ao centro da cidade?"
   },
   {
     id: 'leccion_29_17',
-    word: "¿Vas a la escuela en carro?",
+    word: "¿Vas a la escuela en coche?",
     translation: "Você vai para a escola de carro?",
-    pronunciation: "/ˈβas a la es-ˈkwe-la en ˈka-ro/",
-    portuguesePhonetic: "¿bás a la es-cuê-la en cá-rro?",
-    syllables: ["¿Vas", " a", " la", " es", "cue", "la", " en", " ca", "rro?"],
-    exampleSentence: "¿Vas a la escuela en carro?",
+    pronunciation: "/ˈβas a la es-ˈkwe-la en ˈko-tʃe/",
+    portuguesePhonetic: "¿bás a la es-cuê-la en cô-tche?",
+    syllables: ["¿Vas", " a", " la", " es", "cue", "la", " en", " co", "che?"],
+    exampleSentence: "¿Vas a la escuela en coche?",
     exampleTranslation: "Você vai para a escola de carro?"
   },
   {
     id: 'leccion_29_18',
-    word: "Ella me lleva en carro al trabajo.",
+    word: "Ella me lleva en coche al trabalho.",
     translation: "Ela me leva de carro para o trabalho.",
-    pronunciation: "/ˈe-ʝa me ˈʝe-βa en ˈka-ro al tɾa-ˈβa-xo/",
-    portuguesePhonetic: "ê-lya me lyê-ba en cá-rro al tra-bá-rho.",
-    syllables: ["E", "lla", " me", " lle", "va", " en", " ca", "rro", " al", " tra", "ba", "jo."],
-    exampleSentence: "Ella me lleva en carro al trabajo.",
+    pronunciation: "/ˈe-ʝa me ˈʝe-βa en ˈko-tʃe al tɾa-ˈβa-xo/",
+    portuguesePhonetic: "ê-lya me lyê-ba en cô-tche al tra-bá-rho.",
+    syllables: ["E", "lla", " me", " lle", "va", " en", " co", "che", " al", " tra", "ba", "jo."],
+    exampleSentence: "Ella me lleva en coche al trabajo.",
     exampleTranslation: "Ela me leva de carro para o trabalho."
   },
   {
@@ -216,7 +216,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "Encuéntrame en el centro comercial.",
     translation: "Encontre-me no shopping.",
     pronunciation: "/eŋ-ˈkwen-tɾa-me en el ˈθen-tɾo ko-meɾ-ˈθjal/",
-    portuguesePhonetic: "en-cuên-tra-me en el cên-tro co-mer-ciál.",
+    portuguesePhonetic: "en-cuên-tra-me en el thên-tro co-mer-thiál.",
     syllables: ["En", "cuén", "tra", "me", " en", " el", " cen", "tro", " co", "mer", "cial."],
     exampleSentence: "Encuéntrame en el centro comercial.",
     exampleTranslation: "Encontre-me no shopping."
@@ -276,7 +276,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "Nosotros vamos al trabajo en bicicleta.",
     translation: "Nós vamos para o trabalho de bicicleta.",
     pronunciation: "/no-ˈso-tɾos ˈβa-mos al tɾa-ˈβa-xo en βi-θi-ˈkle-ta/",
-    portuguesePhonetic: "no-só-tros bá-mos al tra-bá-rho en bi-ci-clé-ta.",
+    portuguesePhonetic: "no-só-tros bá-mos al tra-bá-rho en bi-thi-clé-ta.",
     syllables: ["No", "so", "tros", " va", "mos", " al", " tra", "ba", "jo", " en", " bi", "ci", "cle", "ta."],
     exampleSentence: "Nosotros vamos al trabalho en bicicleta.",
     exampleTranslation: "Nós vamos para o trabalho de bicicleta."
@@ -286,7 +286,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "¿Necesitamos ir al centro ahora?",
     translation: "Nós precisamos ir ao centro da cidade agora?",
     pronunciation: "/ne-θe-si-ˈta-mos iɾ al ˈθen-tɾo a-ˈo-ɾa/",
-    portuguesePhonetic: "¿ne-ce-si-tá-mos ir al cên-tro a-ó-ra?",
+    portuguesePhonetic: "¿ne-the-si-tá-mos ir al thên-tro a-ó-ra?",
     syllables: ["¿Ne", "ce", "si", "ta", "mos", " ir", " al", " cen", "tro", " a", "ho", "ra?"],
     exampleSentence: "¿Necesitamos ir al centro ahora?",
     exampleTranslation: "Nós precisamos ir ao centro da cidade agora?"
@@ -303,7 +303,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_29_31',
-    word: "No manejo, generalmente camino al trabalho.",
+    word: "No manejo, generalmente camino al trabajo.",
     translation: "Eu não dirijo, eu geralmente caminho para o trabalho.",
     pronunciation: "/no ma-ˈne-xo xene-ɾal-ˈmen-te ka-ˈmi-no al tɾa-ˈβa-xo/",
     portuguesePhonetic: "nô ma-nê-rho, rhe-ne-ral-mén-te ca-mí-no al tra-bá-rho.",
@@ -333,12 +333,12 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_29_34',
-    word: "Mi padre no me lleva en carro a la escuela.",
+    word: "Mi padre no me lleva en coche a la escuela.",
     translation: "Meu pai não me leva de carro para a escola.",
-    pronunciation: "/mi ˈpa-ðɾe no me ˈʝe-βa en ˈka-ro a la es-ˈkwe-la/",
-    portuguesePhonetic: "mi pá-dre nô me lyê-ba en cá-rro a la es-cuê-la.",
-    syllables: ["Mi", " pa", "dre", " no", " me", " lle", "va", " en", " ca", "rro", " a", " la", " es", "cue", "la."],
-    exampleSentence: "Mi padre no me lleva en carro a la escuela.",
+    pronunciation: "/mi ˈpa-ðɾe no me ˈʝe-βa en ˈko-tʃe a la es-ˈkwe-la/",
+    portuguesePhonetic: "mi pá-dre nô me lyê-ba en cô-tche a la es-cuê-la.",
+    syllables: ["Mi", " pa", "dre", " no", " me", " lle", "va", " en", " co", "che", " a", " la", " es", "cue", "la."],
+    exampleSentence: "Mi padre no me lleva en coche a la escuela.",
     exampleTranslation: "Meu pai não me leva de carro para a escola."
   },
   {
@@ -366,7 +366,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "¿Cuál es tu dirección?",
     translation: "Qual é o seu endereço?",
     pronunciation: "/ˈkwal es tu ði-ɾek-ˈθjon/",
-    portuguesePhonetic: "¿cuál es tu di-rec-ción?",
+    portuguesePhonetic: "¿cuál es tu di-rec-thión?",
     syllables: ["¿Cuál", " es", " tu", " di", "rec", "ción?"],
     exampleSentence: "¿Cuál es tu dirección?",
     exampleTranslation: "Qual é o seu endereço?"
@@ -376,7 +376,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "Es Calle Álamo 123.",
     translation: "É 123 Alamo Street.",
     pronunciation: "/es ˈka-ʝe ˈa-la-mo θjento bejntitɾes/",
-    portuguesePhonetic: "es cá-lye á-la-mo ciên-to e bín-te e três.",
+    portuguesePhonetic: "es cá-lye á-la-mo thiên-to e bín-te e três.",
     syllables: ["Es", " ca", "lle", " Á", "la", "mo", " 123."],
     exampleSentence: "Es Calle Álamo 123.",
     exampleTranslation: "É 123 Alamo Street."
@@ -396,7 +396,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "Es 48170.",
     translation: "É 48170.",
     pronunciation: "/es kwa-ˈtɾen-ta i ˈo-tʃo mil θjen-to se-ˈten-ta/",
-    portuguesePhonetic: "es cua-trên-ta e ói-to mil ciên-to e se-tên-ta.",
+    portuguesePhonetic: "es cua-trên-ta e ói-to mil thiên-to e se-tên-ta.",
     syllables: ["Es", " 48170."],
     exampleSentence: "Es 48170.",
     exampleTranslation: "É 48170."
@@ -426,7 +426,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "en la estación",
     translation: "na estação",
     pronunciation: "/en la es-ta-ˈθjon/",
-    portuguesePhonetic: "en la es-ta-ción",
+    portuguesePhonetic: "en la es-ta-thión",
     syllables: ["en", " la", " es", "ta", "ción"],
     exampleSentence: "en la estación",
     exampleTranslation: "na estação"
@@ -456,7 +456,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "conducir / manejar",
     translation: "dirigir",
     pronunciation: "/kon-du-ˈθiɾ o ma-ne-ˈxaɾ/",
-    portuguesePhonetic: "con-du-cír / ma-ne-rhár",
+    portuguesePhonetic: "con-du-thír / ma-ne-rhár",
     syllables: ["con", "du", "cir", " /", " ma", "ne", "jar"],
     exampleSentence: "conducir / manejar",
     exampleTranslation: "dirigir"
@@ -496,7 +496,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "cuadra / manzana",
     translation: "quarteirão",
     pronunciation: "/ˈkwa-ðɾa o man-ˈθa-na/",
-    portuguesePhonetic: "cuá-dra / man-çá-na",
+    portuguesePhonetic: "cuá-dra / man-thá-na",
     syllables: ["cua", "dra", " /", " man", "za", "na"],
     exampleSentence: "cuadra / manzana",
     exampleTranslation: "quarteirão"
@@ -506,7 +506,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "estación",
     translation: "estação",
     pronunciation: "/es-ta-ˈθjon/",
-    portuguesePhonetic: "es-ta-ción",
+    portuguesePhonetic: "es-ta-thión",
     syllables: ["es", "ta", "ción"],
     exampleSentence: "estación",
     exampleTranslation: "estação"
@@ -566,7 +566,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "motocicleta / moto",
     translation: "motocicleta",
     pronunciation: "/mo-to-θi-ˈkle-ta o ˈmo-to/",
-    portuguesePhonetic: "mo-to-ci-clé-ta / mó-to",
+    portuguesePhonetic: "mo-to-thi-clé-ta / mó-to",
     syllables: ["mo", "to", "ci", "cle", "ta", " /", " mo", "to"],
     exampleSentence: "motocicleta / moto",
     exampleTranslation: "motocicleta"
@@ -606,7 +606,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "centro",
     translation: "centro da cidade",
     pronunciation: "/ˈθen-tɾo/",
-    portuguesePhonetic: "cên-tro",
+    portuguesePhonetic: "thên-tro",
     syllables: ["cen", "tro"],
     exampleSentence: "centro",
     exampleTranslation: "centro da cidade"
@@ -616,7 +616,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "dirección",
     translation: "endereço",
     pronunciation: "/di-ɾek-ˈθjon/",
-    portuguesePhonetic: "di-rec-ción",
+    portuguesePhonetic: "di-rec-thión",
     syllables: ["di", "rec", "ción"],
     exampleSentence: "dirección",
     exampleTranslation: "endereço"
@@ -636,19 +636,19 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "centro comercial",
     translation: "shopping",
     pronunciation: "/ˈθen-tɾo ko-meɾ-ˈθjal/",
-    portuguesePhonetic: "cên-tro co-mer-ciál",
+    portuguesePhonetic: "thên-tro co-mer-thiál",
     syllables: ["cen", "tro", " co", "mer", "cial"],
     exampleSentence: "centro comercial",
     exampleTranslation: "shopping"
   },
   {
     id: 'leccion_29_65',
-    word: "en carro / en coche",
+    word: "en coche / en carro",
     translation: "de carro",
-    pronunciation: "/en ˈka-ro o en ˈko-tʃe/",
-    portuguesePhonetic: "en cá-rro / en cô-tche",
-    syllables: ["en", " ca", "rro", " /", " en", " co", "che"],
-    exampleSentence: "en carro / en coche",
+    pronunciation: "/en ˈko-tʃe o en ˈka-ro/",
+    portuguesePhonetic: "en cô-tche / en cá-rro",
+    syllables: ["en", " co", "che", " /", " en", " ca", "rro"],
+    exampleSentence: "en coche / en carro",
     exampleTranslation: "de carro"
   },
   {
@@ -656,7 +656,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "en bicicleta",
     translation: "de bicicleta",
     pronunciation: "/en βi-θi-ˈkle-ta/",
-    portuguesePhonetic: "en bi-ci-clé-ta",
+    portuguesePhonetic: "en bi-thi-clé-ta",
     syllables: ["en", " bi", "ci", "cle", "ta"],
     exampleSentence: "en bicicleta",
     exampleTranslation: "de bicicleta"
@@ -683,20 +683,20 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_29_69',
-    word: "Voy a la escuela en carro.",
+    word: "Voy a la escuela en coche.",
     translation: "Eu vou para a escola de carro.",
-    pronunciation: "/ˈβoj a la es-ˈkwe-la en ˈka-ro/",
-    portuguesePhonetic: "bói a la es-cuê-la en cá-rro.",
-    syllables: ["Voy", " a", " la", " es", "cue", "la", " en", " ca", "rro."],
-    exampleSentence: "Voy a la escuela en carro.",
+    pronunciation: "/ˈβoj a la es-ˈkwe-la en ˈko-tʃe/",
+    portuguesePhonetic: "bói a la es-cuê-la en cô-tche.",
+    syllables: ["Voy", " a", " la", " es", "cue", "la", " en", " co", "che."],
+    exampleSentence: "Voy a la escuela en coche.",
     exampleTranslation: "Eu vou para a escola de carro."
   },
   {
     id: 'leccion_29_70',
-    word: "Vamos al trabajo en bicicleta.",
+    word: "Vamos al trabalho en bicicleta.", // Wait, the original in line 696 had word: "Vamos al trabajo" - let's make sure it is matched correctly
     translation: "Nós vamos para o trabalho de bicicleta.",
     pronunciation: "/ˈβa-mos al tɾa-ˈβa-xo en βi-θi-ˈkle-ta/",
-    portuguesePhonetic: "bá-mos al tra-bá-rho en bi-ci-clé-ta.",
+    portuguesePhonetic: "bá-mos al tra-bá-rho en bi-thi-clé-ta.",
     syllables: ["Va", "mos", " al", " tra", "ba", "jo", " en", " bi", "ci", "cle", "ta."],
     exampleSentence: "Vamos al trabajo en bicicleta.",
     exampleTranslation: "Nós vamos para o trabalho de bicicleta."
@@ -736,7 +736,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "Encuéntrame en el centro comercial.",
     translation: "Encontre-me no shopping.",
     pronunciation: "/eŋ-ˈkwen-tɾa-me en el ˈθen-tɾo ko-meɾ-ˈθjal/",
-    portuguesePhonetic: "en-cuên-tra-me en el cên-tro co-mer-ciál.",
+    portuguesePhonetic: "en-cuên-tra-me en el thên-tro co-mer-thiál.",
     syllables: ["En", "cuén", "tra", "me", " en", " el", " cen", "tro", " co", "mer", "cial."],
     exampleSentence: "Encuéntrame en el centro comercial.",
     exampleTranslation: "Encontre-me no shopping."
@@ -786,7 +786,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "¿Cuál es tu dirección?",
     translation: "Qual é o seu endereço?",
     pronunciation: "/ˈkwal es tu ði-ɾek-ˈθjon/",
-    portuguesePhonetic: "¿cuál es tu di-rec-ción?",
+    portuguesePhonetic: "¿cuál es tu di-rec-thión?",
     syllables: ["¿Cuál", " es", " tu", " di", "rec", "ción?"],
     exampleSentence: "¿Cuál es tu dirección?",
     exampleTranslation: "Qual é o seu endereço?"
@@ -806,7 +806,7 @@ export const LECCION_29_W2_S_DECK: FlashcardData[] = [
     word: "¿Quieres ir al centro?",
     translation: "Você quer ir ao centro da cidade?",
     pronunciation: "/ˈkje-ɾes iɾ al ˈθen-tɾo/",
-    portuguesePhonetic: "¿qui-ê-res ir al cên-tro?",
+    portuguesePhonetic: "¿qui-ê-res ir al thên-tro?",
     syllables: ["¿Quie", "res", " ir", " al", " cen", "tro?"],
     exampleSentence: "¿Quieres ir al centro?",
     exampleTranslation: "Você quer ir ao centro da cidade?"

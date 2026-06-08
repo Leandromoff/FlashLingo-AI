@@ -6,7 +6,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "saber / conocer",
     translation: "saber, conhecer",
     pronunciation: "/saˈβeɾ o ko-no-ˈθeɾ/",
-    portuguesePhonetic: "sa-bér / co-no-cér",
+    portuguesePhonetic: "sa-bér / co-no-thér",
     syllables: ["sa", "ber", " /", " co", "no", "cer"],
     exampleSentence: "saber / conocer",
     exampleTranslation: "saber, conhecer"
@@ -86,7 +86,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "cocina / culinaria",
     translation: "culinária, cozinha",
     pronunciation: "/koˈθina o kuliˈnaɾja/",
-    portuguesePhonetic: "co-cí-na / cu-li-ná-ria",
+    portuguesePhonetic: "co-thí-na / cu-li-ná-ria",
     syllables: ["co", "ci", "na", " /", " cu", "li", "na", "ria"],
     exampleSentence: "cocina / culinaria",
     exampleTranslation: "culinária, cozinha"
@@ -156,7 +156,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "sobre / acerca de",
     translation: "sobre, aproximadamente",
     pronunciation: "/ˈsoβɾe o aˈθeɾka ðe/",
-    portuguesePhonetic: "só-bre / a-çér-ca de",
+    portuguesePhonetic: "só-bre / a-thér-ca de",
     syllables: ["so", "bre", " /", " a", "cer", "ca", " de"],
     exampleSentence: "sobre / acerca de",
     exampleTranslation: "sobre, aproximadamente"
@@ -176,7 +176,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "Yo no hago ejercicio los fines de semana.",
     translation: "Eu não faço exercícios nos fins de semana.",
     pronunciation: "/ʝo no ˈaɣo exeɾˈθiθjo los ˈfines ðe seˈmana/",
-    portuguesePhonetic: "iô nô á-go e-rser-cí-cio lôs fí-nes de se-má-na.",
+    portuguesePhonetic: "iô nô á-go e-jer-thí-thio lôs fí-nes de se-má-na.",
     syllables: ["Yo", " no", " ha", "go", " e", "jer", "ci", "cio", " los", " fi", "nes", " de", " se", "ma", "na."],
     exampleSentence: "Yo no hago ejercicio los fines de semana.",
     exampleTranslation: "Eu não faço exercícios nos fins de semana."
@@ -196,7 +196,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "Ella no sabe esta palabra en francés.",
     translation: "Ela não sabe essa palavra em francês.",
     pronunciation: "/ˈeʝa no ˈsaβe ˈesta paˈlaβɾa en fɾanˈθes/",
-    portuguesePhonetic: "e-lya nô sá-be és-ta pa-lá-bra en fran-cés.",
+    portuguesePhonetic: "e-lya nô sá-be és-ta pa-lá-bra en fran-thés.",
     syllables: ["E", "lla", " no", " sa", "be", " es", "ta", " pa", "la", "bra", " en", " fran", "cés."],
     exampleSentence: "Ella no sabe esta palabra en francês.",
     exampleTranslation: "Ela não sabe essa palavra em francês."
@@ -206,7 +206,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "Ella no tiene clase de cocina los martes.",
     translation: "Ela não tem aula de culinária às terças-feiras.",
     pronunciation: "/ˈeʝa no ˈtjene ˈklase ðe koˈθina los ˈmaɾtes/",
-    portuguesePhonetic: "e-lya nô ti-ê-ne clá-se de co-cí-na lôs már-tes.",
+    portuguesePhonetic: "e-lya nô ti-ê-ne clá-se de co-thí-na lôs már-tes.",
     syllables: ["E", "lla", " no", " tie", "ne", " cla", "se", " de", " co", "ci", "na", " los", " mar", "tes."],
     exampleSentence: "Ella no tiene clase de cocina los martes.",
     exampleTranslation: "Ela não tem aula de culinária às terças-feiras."
@@ -276,7 +276,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "Yo realmente quiero aprender a cocinar bien.",
     translation: "Eu realmente quero aprender a cozinhar bem.",
     pronunciation: "/ʝo ɾealˈmente ˈkjeɾo apɾenˈdeɾ a kosiˈnaɾ ˈβjen/",
-    portuguesePhonetic: "iô rre-al-mén-te qui-ê-ro a-pren-dér a co-ci-nár biêm.",
+    portuguesePhonetic: "iô rre-al-mén-te qui-ê-ro a-pren-dér a co-thi-nár biêm.",
     syllables: ["Yo", " re", "al", "men", "te", " quie", "ro", " a", "pren", "der", " a", " co", "ci", "nar", " bien."],
     exampleSentence: "Yo realmente quiero aprender a cocinar bien.",
     exampleTranslation: "Eu realmente quero aprender a cozinhar bem."
@@ -306,7 +306,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "Él a veces estudia todo el día.",
     translation: "Ele às vezes estuda o dia todo.",
     pronunciation: "/el a ˈβeθes esˈtuðja ˈtoðo el ˈðia/",
-    portuguesePhonetic: "él a bê-ces es-tú-dia tô-do él dí-a.",
+    portuguesePhonetic: "él a bê-thes es-tú-dia tô-do él dí-a.",
     syllables: ["Él", " a", " ve", "ces", " es", "tu", "dia", " to", "do", " el", " dí", "a."],
     exampleSentence: "Él a veces estudia todo el día.",
     exampleTranslation: "Ele às vezes estuda o dia todo."
@@ -316,7 +316,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "Nosotros sólo hacemos ejercicio por la noche.",
     translation: "Nós somente fazemos exercícios à noite.",
     pronunciation: "/noˈsotɾos ˈsolo aˈθemos exeɾˈθiθjo poɾ la ˈnotʃe/",
-    portuguesePhonetic: "no-só-tros só-lo a-cê-mos e-rser-cí-cio por la nó-tche.",
+    portuguesePhonetic: "no-só-tros só-lo a-thê-mos e-jer-thí-thio por la nó-tche.",
     syllables: ["No", "so", "tros", " só", "lo", " ha", "ce", "mos", " e", "jer", "ci", "cio", " por", " la", " no", "che."],
     exampleSentence: "Nosotros sólo hacemos ejercicio por la noche.",
     exampleTranslation: "Nós somente fazemos exercícios à noite."
@@ -336,7 +336,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "Él no quiere ir a Francia este mes.",
     translation: "Ele não quer ir para a França este mês.",
     pronunciation: "/el no ˈkjeɾe iɾ a ˈfɾanθja ˈeste mes/",
-    portuguesePhonetic: "él no qui-ê-re ir a frán-cia és-te mês.",
+    portuguesePhonetic: "él no qui-ê-re ir a frán-thia és-te mês.",
     syllables: ["Él", " no", " quie", "re", " ir", " a", " Fran", "cia", " es", "te", " mes."],
     exampleSentence: "Él no quiere ir a Francia este mes.",
     exampleTranslation: "Ele não quer ir para a França este mês."
@@ -386,7 +386,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "Yo sé cocinar.",
     translation: "Eu sei cozinhar.",
     pronunciation: "/ʝo se kosiˈnaɾ/",
-    portuguesePhonetic: "iô sê co-ci-nár.",
+    portuguesePhonetic: "iô sê co-thi-nár.",
     syllables: ["Yo", " sé", " co", "ci", "nar."],
     exampleSentence: "Yo sé cocinar.",
     exampleTranslation: "Eu sei cozinhar."
@@ -396,7 +396,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "¿Tú quieres aprender a cocinar?",
     translation: "Você quer aprender a cozinhar?",
     pronunciation: "/tu ˈkjeɾes apɾenˈdeɾ a kosiˈnaɾ/",
-    portuguesePhonetic: "¿tú qui-ê-res a-pren-dér a co-ci-nár?",
+    portuguesePhonetic: "¿tú qui-ê-res a-pren-dér a co-thi-nár?",
     syllables: ["¿Tú", " quie", "res", " a", "pren", "der", " a", " co", "ci", "nar?"],
     exampleSentence: "¿Tú quieres aprender a cocinar?",
     exampleTranslation: "Você quer aprender a cozinhar?"
@@ -416,7 +416,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "saber / conocer",
     translation: "saber, conhecer",
     pronunciation: "/saˈβeɾ o ko-no-ˈθeɾ/",
-    portuguesePhonetic: "sa-bér / co-no-cér",
+    portuguesePhonetic: "sa-bér / co-no-thér",
     syllables: ["sa", "ber", " /", " co", "no", "cer"],
     exampleSentence: "saber / conocer",
     exampleTranslation: "saber, conhecer"
@@ -496,7 +496,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "cocina",
     translation: "culinária",
     pronunciation: "/koˈθina/",
-    portuguesePhonetic: "co-cí-na",
+    portuguesePhonetic: "co-thí-na",
     syllables: ["co", "ci", "na"],
     exampleSentence: "cocina",
     exampleTranslation: "culinária"
@@ -566,7 +566,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "sobre / acerca de",
     translation: "sobre",
     pronunciation: "/ˈsoβɾe o aˈθeɾka ðe/",
-    portuguesePhonetic: "só-bre / a-çér-ca de",
+    portuguesePhonetic: "só-bre / a-thér-ca de",
     syllables: ["so", "bre", " /", " a", "cer", "ca", " de"],
     exampleSentence: "sobre / acerca de",
     exampleTranslation: "sobre"
@@ -586,7 +586,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "hacer ejercicio",
     translation: "fazer exercícios",
     pronunciation: "/aˈθeɾ exeɾˈθiθjo/",
-    portuguesePhonetic: "a-çér e-rser-cí-cio",
+    portuguesePhonetic: "a-thér e-jer-thí-thio",
     syllables: ["ha", "cer", " e", "jer", "ci", "cio"],
     exampleSentence: "hacer ejercicio",
     exampleTranslation: "fazer exercícios"
@@ -696,7 +696,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "ir a Francia",
     translation: "ir para a França",
     pronunciation: "/iɾ a ˈfɾanθja/",
-    portuguesePhonetic: "ir a frán-cia",
+    portuguesePhonetic: "ir a frán-thia",
     syllables: ["ir", " a", " Fran", "cia"],
     exampleSentence: "ir a Francia",
     exampleTranslation: "ir para a França"
@@ -716,7 +716,7 @@ export const LECCION_23_W2_S_DECK: FlashcardData[] = [
     word: "clase de cocina",
     translation: "aula de culinária",
     pronunciation: "/ˈklase ðe koˈθina/",
-    portuguesePhonetic: "clá-se de co-cí-na",
+    portuguesePhonetic: "clá-se de co-thí-na",
     syllables: ["cla", "se", " de", " co", "ci", "na"],
     exampleSentence: "clase de cocina",
     exampleTranslation: "aula de culinária"

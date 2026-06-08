@@ -5,8 +5,8 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_19_1',
     word: "cocinar",
     translation: "cozinhar",
-    pronunciation: "/kosiˈnaɾ/",
-    portuguesePhonetic: "co-ci-nár",
+    pronunciation: "/koθiˈnaɾ/",
+    portuguesePhonetic: "co-thi-nár",
     syllables: ["co", "ci", "nar"],
     exampleSentence: "cocinar",
     exampleTranslation: "cozinhar"
@@ -86,7 +86,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "cocina",
     translation: "cozinha",
     pronunciation: "/koˈθina/",
-    portuguesePhonetic: "co-cí-na",
+    portuguesePhonetic: "co-thí-na",
     syllables: ["co", "ci", "na"],
     exampleSentence: "cocina",
     exampleTranslation: "cozinha"
@@ -186,7 +186,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "Yo almuerzo al mediodía.",
     translation: "Eu almoço ao meio-dia.",
     pronunciation: "/ʝo alˈmweɾθo al meðjoˈðia/",
-    portuguesePhonetic: "iô al-muér-ço al me-dio-día",
+    portuguesePhonetic: "iô al-muér-tho al me-dio-día",
     syllables: ["Yo", " al", "muer", "zo", " al", " me", "dio", "dí", "a."],
     exampleSentence: "Yo almuerzo al mediodía.",
     exampleTranslation: "Eu almoço ao meio-dia."
@@ -206,7 +206,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "Yo necesito lavar la ropa.",
     translation: "Eu preciso lavar a roupa.",
     pronunciation: "/ʝo neθeˈsito laˈβaɾ la ˈɾopa/",
-    portuguesePhonetic: "iô ne-ce-sí-to la-bár la rrô-pa",
+    portuguesePhonetic: "iô ne-the-çí-to la-bár la rrô-pa",
     syllables: ["Yo", " ne", "ce", "si", "to", " la", "var", " la", " ro", "pa."],
     exampleSentence: "Yo necesito lavar la ropa.",
     exampleTranslation: "Eu preciso lavar a roupa."
@@ -226,7 +226,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "Yo me acuesto a las diez de la noche.",
     translation: "Eu vou dormir às 10:00 da noite.",
     pronunciation: "/ʝo me aˈkwesto a las ðjeθ ðe la ˈnotʃe/",
-    portuguesePhonetic: "iô me a-cués-to a las diés de la nó-tche",
+    portuguesePhonetic: "iô me a-cués-to a las diéth de la nó-tche",
     syllables: ["Yo", " me", " a", "cues", "to", " a", " las", " diez", " de", " la", " no", "che."],
     exampleSentence: "Yo me acuesto a las diez de la noche.",
     exampleTranslation: "Eu vou dormir às 10:00 da noite."
@@ -276,7 +276,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "Yo cocino el almuerzo para mi familia.",
     translation: "Eu cozinho o almoço para minha família.",
     pronunciation: "/ʝo koˈθino el alˈmweɾθo ˈpaɾa mi faˈmilja/",
-    portuguesePhonetic: "iô co-cí-no él al-muér-ço pá-ra mi fa-mí-lia",
+    portuguesePhonetic: "iô co-thí-no él al-muér-tho pá-ra mi fa-mí-lia",
     syllables: ["Yo", " co", "ci", "no", " el", " al", "muer", "zo", " pa", "ra", " mi", " fa", "mi", "lia."],
     exampleSentence: "Yo cocino el almuerzo para mi familia.",
     exampleTranslation: "Eu cozinho o almoço para minha família."
@@ -326,7 +326,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "Yo necesito limpiar mi dormitorio hoy.",
     translation: "Eu preciso limpar meu quarto hoje.",
     pronunciation: "/ʝo neθeˈsito limˈpjaɾ mi ðoɾmiˈtoɾjo oi/",
-    portuguesePhonetic: "iô ne-ce-sí-to lim-piár mi dor-mi-tó-rio ói",
+    portuguesePhonetic: "iô ne-the-çí-to lim-piár mi dor-mi-tó-rio ói",
     syllables: ["Yo", " ne", "ce", "si", "to", " lim", "piar", " mi", " dor", "mi", "to", "rio", " hoy."],
     exampleSentence: "Yo necesito limpiar mi dormitorio hoy.",
     exampleTranslation: "Eu preciso limpar meu quarto hoje."
@@ -336,7 +336,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "Yo no tengo tiempo para limpiar la cocina ahora.",
     translation: "Eu não tenho tempo para limpar a cozinha agora.",
     pronunciation: "/ʝo no ˈteŋɡo ˈtjempo ˈpaɾa limˈpjaɾ la koˈθina aˈoɾa/",
-    portuguesePhonetic: "iô nô tén-go tiêm-po pá-ra lim-piár la co-cí-na a-ô-ra",
+    portuguesePhonetic: "iô nô tén-go tiêm-po pá-ra lim-piár la co-thí-na a-ô-ra",
     syllables: ["Yo", " no", " ten", "go", " tiem", "po", " pa", "ra", " lim", "piar", " la", " co", "ci", "na", " a", "ho", "ra."],
     exampleSentence: "Yo no tengo tiempo para limpiar la cocina ahora.",
     exampleTranslation: "Eu não tenho tempo para limpar a cozinha agora."
@@ -396,7 +396,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "cincuenta",
     translation: "cinquenta",
     pronunciation: "/θiŋˈkwenta/",
-    portuguesePhonetic: "cin-cuên-ta",
+    portuguesePhonetic: "thin-cuên-ta",
     syllables: ["cin", "cuen", "ta"],
     exampleSentence: "cincuenta",
     exampleTranslation: "cinquenta"
@@ -426,7 +426,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "Son las cuatro y quince.",
     translation: "São quatro e quinze.",
     pronunciation: "/son las ˈkwatɾo i ˈkinθe/",
-    portuguesePhonetic: "sôn las cuá-tro i quín-ce",
+    portuguesePhonetic: "sôn las cuá-tro i quín-the",
     syllables: ["Son", " las", " cua", "tro", " i", " quin", "ce."],
     exampleSentence: "Son las cuatro y quince.",
     exampleTranslation: "São quatro e quinze."
@@ -446,7 +446,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "Son las cuatro y cincuenta.",
     translation: "São quatro e cinquenta.",
     pronunciation: "/son las ˈkwatɾo i θiŋˈkwenta/",
-    portuguesePhonetic: "sôn las cuá-tro i cin-cuên-ta",
+    portuguesePhonetic: "sôn las cuá-tro i thin-cuên-ta",
     syllables: ["Son", " las", " cua", "tro", " i", " cin", "cuen", "ta."],
     exampleSentence: "Son las cuatro y cincuenta.",
     exampleTranslation: "São quatro e cinquenta."
@@ -456,7 +456,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "Son las cinco menos diez.",
     translation: "São dez para as cinco.",
     pronunciation: "/son las ˈθiŋko ˈmenos ðjeθ/",
-    portuguesePhonetic: "sôn las cín-co mê-nos diés",
+    portuguesePhonetic: "sôn las thín-co mê-nos diéth",
     syllables: ["Son", " las", " cin", "co", " me", "nos", " diez."],
     exampleSentence: "Son las cinco menos diez.",
     exampleTranslation: "São dez para as cinco."
@@ -476,7 +476,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "cenar",
     translation: "jantar",
     pronunciation: "/θeˈnaɾ/",
-    portuguesePhonetic: "ce-nár",
+    portuguesePhonetic: "the-nár",
     syllables: ["ce", "nar"],
     exampleSentence: "cenar",
     exampleTranslation: "jantar"
@@ -486,7 +486,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "cocinar",
     translation: "cozinhar",
     pronunciation: "/koθiˈnaɾ/",
-    portuguesePhonetic: "co-ci-nár",
+    portuguesePhonetic: "co-thi-nár",
     syllables: ["co", "ci", "nar"],
     exampleSentence: "cocinar",
     exampleTranslation: "cozinhar"
@@ -526,7 +526,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "almorzar",
     translation: "almoçar",
     pronunciation: "/almoɾˈθaɾ/",
-    portuguesePhonetic: "al-mor-çár",
+    portuguesePhonetic: "al-mor-thár",
     syllables: ["al", "mor", "zar"],
     exampleSentence: "almorzar",
     exampleTranslation: "almoçar"
@@ -546,7 +546,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "cenar",
     translation: "jantar",
     pronunciation: "/θeˈnaɾ/",
-    portuguesePhonetic: "ce-nár",
+    portuguesePhonetic: "the-nár",
     syllables: ["ce", "nar"],
     exampleSentence: "cenar",
     exampleTranslation: "jantar"
@@ -606,7 +606,7 @@ export const LECCION_19_W2_S_DECK: FlashcardData[] = [
     word: "cocina",
     translation: "cozinha",
     pronunciation: "/koˈθina/",
-    portuguesePhonetic: "co-cí-na",
+    portuguesePhonetic: "co-thí-na",
     syllables: ["co", "ci", "na"],
     exampleSentence: "cocina",
     exampleTranslation: "cozinha"

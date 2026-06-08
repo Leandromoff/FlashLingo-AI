@@ -106,7 +106,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "zapatillas / tenis",
     translation: "tênis",
     pronunciation: "/θa-pa-ˈti-ʝas o ˈte-nis/",
-    portuguesePhonetic: "za-pa-tí-lias / tê-nis",
+    portuguesePhonetic: "tha-pa-tí-lias / tê-nis",
     syllables: ["za", "pa", "ti", "llas", " /", " te", "nis"],
     exampleSentence: "zapatillas / tenis",
     exampleTranslation: "tênis"
@@ -176,7 +176,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "especial",
     translation: "especial",
     pronunciation: "/es-pe-ˈθjal/",
-    portuguesePhonetic: "es-pe-ciál",
+    portuguesePhonetic: "es-pe-thiál",
     syllables: ["es", "pe", "cial"],
     exampleSentence: "especial",
     exampleTranslation: "especial"
@@ -186,7 +186,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "Quiero comprar un par de zapatos.",
     translation: "Eu quero comprar um par de sapatos.",
     pronunciation: "/ˈkje-ɾo kom-ˈpɾaɾ un paɾ ðe θa-ˈpa-tos/",
-    portuguesePhonetic: "quiê-ro com-prár un pár de za-pá-tos",
+    portuguesePhonetic: "quiê-ro com-prár un pár de tha-pá-tos",
     syllables: ["Quie", "ro", " com", "prar", " un", " par", " de", " za", "pa", "tos."],
     exampleSentence: "Quiero comprar un par de zapatos.",
     exampleTranslation: "Eu quero comprar um par de sapatos."
@@ -246,7 +246,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "Él está haciendo un pastel delicioso.",
     translation: "Ele está fazendo um bolo delicioso.",
     pronunciation: "/el es-ˈta a-ˈθjen-ðo un pas-ˈtel de-li-ˈθjo-so/",
-    portuguesePhonetic: "él es-tá a-ciên-do un pas-tél de-li-ció-so",
+    portuguesePhonetic: "él es-tá a-thiên-do un pas-tél de-li-thió-so",
     syllables: ["Él", " es", "ta", " ha", "cien", "do", " un", " pas", "tel", " de", "li", "cio", "so."],
     exampleSentence: "Él está haciendo un pastel delicioso.",
     exampleTranslation: "Ele está fazendo um bolo delicioso."
@@ -256,9 +256,9 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "La clase está comenzando ahora.",
     translation: "A aula está começando agora.",
     pronunciation: "/la ˈkla-se es-ˈta ko-men-ˈθan-ðo a-ˈo-ɾa/",
-    portuguesePhonetic: "la clá-se es-tá co-men-cán-do a-ó-ra",
+    portuguesePhonetic: "la clá-se es-tá co-men-thán-do a-ó-ra",
     syllables: ["La", " cla", "se", " es", "ta", " co", "men", "zan", "do", " a", "ho", "ra."],
-    exampleSentence: "La clase está comenzando agora.",
+    exampleSentence: "La clase está comenzando ahora.",
     exampleTranslation: "A aula está começando agora."
   },
   {
@@ -306,7 +306,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "¡Llevas puestos calcetines divertidos!",
     translation: "Você está usando meias engraçadas!",
     pronunciation: "/ˈʝe-βas ˈpwes-tos kal-θe-ˈti-nes ði-βeɾ-ˈti-ðos/",
-    portuguesePhonetic: "lié-bas puês-tos cal-ce-tí-nes di-ber-tí-dos!",
+    portuguesePhonetic: "lié-bas puês-tos cal-the-tí-nes di-ber-tí-dos!",
     syllables: ["¡Lle", "vas", " pues", "tos", " cal", "ce", "ti", "nes", " di", "ver", "ti", "dos!"] ,
     exampleSentence: "¡Llevas puestos calcetines divertidos!",
     exampleTranslation: "Você está usando meias engraçadas!"
@@ -316,7 +316,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "Necesito cambiarme de ropa antes de irnos.",
     translation: "Eu preciso trocar minhas roupas antes de irmos.",
     pronunciation: "/ne-θe-ˈsi-to kam-ˈbjaɾ-me ðe ˈɾo-pa ˈan-tes ðe ˈiɾ-nos/",
-    portuguesePhonetic: "ne-ce-sí-to cam-biár-me de ró-pa án-tes de ír-nos",
+    portuguesePhonetic: "ne-the-sí-to cam-biár-me de ró-pa án-tes de ír-nos",
     syllables: ["Ne", "ce", "si", "to", " cam", "biar", "me", " de", " ro", "pa", " an", "tes", " de", " ir", "nos."],
     exampleSentence: "Necesito cambiarme de ropa antes de irnos.",
     exampleTranslation: "Eu preciso trocar minhas roupas antes de irmos."
@@ -326,7 +326,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "¿Quieres probarte los pantalones azules?",
     translation: "Você quer provar a calça azul?",
     pronunciation: "/ˈkje-ɾes pɾo-ˈβaɾ-te los pan-ta-ˈlo-nes a-ˈθu-les/",
-    portuguesePhonetic: "¿quiê-res pro-bár-te los pan-ta-ló-nes a-zú-les?",
+    portuguesePhonetic: "¿quiê-res pro-bár-te los pan-ta-ló-nes a-thú-les?",
     syllables: ["¿Quie", "res", " pro", "bar", "te", " los", " pan", "ta", "lo", "nes", " a", "zu", "les?"],
     exampleSentence: "¿Quieres probarte los pantalones azules?",
     exampleTranslation: "Você quer provar a calça azul?"
@@ -363,12 +363,12 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_49_37',
-    word: "Ella está hablando con la vendedora agora.",
+    word: "Ella está hablando con la vendedora ahora.",
     translation: "Ela está falando com a vendedora agora.",
     pronunciation: "/ˈe-ʝa es-ˈta a-ˈβlan-ðo kon la βen-de-ˈðo-ɾa a-ˈo-ɾa/",
     portuguesePhonetic: "ê-lia es-tá a-blán-do con la ben-de-dó-ra a-ó-ra",
     syllables: ["E", "lla", " es", "ta", " ha", "blan", "do", " con", " la", " ven", "de", "do", "ra", " a", "ho", "ra."],
-    exampleSentence: "Ella está hablando con la vendedora agora.",
+    exampleSentence: "Ella está hablando con la vendedora ahora.",
     exampleTranslation: "Ela está falando com a vendedora agora."
   },
   {
@@ -386,7 +386,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "Ellos te están esperando en el centro comercial.",
     translation: "Eles estão esperando por você no shopping.",
     pronunciation: "/ˈe-ʝos te es-ˈtan es-pe-ˈɾan-ðo en el ˈθen-tɾo ko-meɾ-ˈθjal/",
-    portuguesePhonetic: "ê-lios te es-tán es-pe-rán-do en él cên-tro co-mer-ciál",
+    portuguesePhonetic: "ê-lios te es-tán es-pe-rán-do en él thên-tro co-mer-thiál",
     syllables: ["E", "llos", " te", " es", "tan", " es", "pe", "ran", "do", " en", " el", " cen", "tro", " co", "mer", "cial."],
     exampleSentence: "Ellos te están esperando en el centro comercial.",
     exampleTranslation: "Eles estão esperando por você no shopping."
@@ -436,7 +436,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "un par de zapatos",
     translation: "um par de sapatos",
     pronunciation: "/un paɾ ðe θa-ˈpa-tos/",
-    portuguesePhonetic: "un pár de za-pá-tos",
+    portuguesePhonetic: "un pár de tha-pá-tos",
     syllables: ["un", " par", " de", " za", "pa", "tos"],
     exampleSentence: "un par de zapatos",
     exampleTranslation: "um par de sapatos"
@@ -446,7 +446,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "un par de zapatillas / tenis",
     translation: "um par de tênis",
     pronunciation: "/un paɾ ðe θa-pa-ˈti-ʝas/",
-    portuguesePhonetic: "un pár de za-pa-tí-lias / tê-nis",
+    portuguesePhonetic: "un pár de tha-pa-tí-lias / tê-nis",
     syllables: ["un", " par", " de", " za", "pa", "ti", "llas"],
     exampleSentence: "un par de zapatillas / tenis",
     exampleTranslation: "um par de tênis"
@@ -486,7 +486,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "azul",
     translation: "azul",
     pronunciation: "/a-ˈθul/",
-    portuguesePhonetic: "a-zúl",
+    portuguesePhonetic: "a-thúl",
     syllables: ["a", "zul"],
     exampleSentence: "azul",
     exampleTranslation: "azul"
@@ -616,7 +616,7 @@ export const LECCION_49_W2_S_DECK: FlashcardData[] = [
     word: "Cuestan cien dólares.",
     translation: "Custam 100 dólares.",
     pronunciation: "/ˈkwes-tan θjen ˈðo-la-ɾes/",
-    portuguesePhonetic: "cuês-tan ciên dó-la-res",
+    portuguesePhonetic: "cuês-tan thiên dó-la-res",
     syllables: ["Cues", "tan", " cien", " dó", "la", "res."],
     exampleSentence: "Cuestan cien dólares.",
     exampleTranslation: "Custam 100 dólares."

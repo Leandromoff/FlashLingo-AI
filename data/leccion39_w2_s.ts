@@ -486,7 +486,7 @@ export const LECCION_39_W2_S_DECK: FlashcardData[] = [
     word: "Ellos no están tristes, están felices.",
     translation: "Eles não estão tristes, eles estão felizes.",
     pronunciation: "/ˈe-ʝos no es-ˈtan ˈtɾis-tes | es-ˈtan fe-ˈliθes/",
-    portuguesePhonetic: "ê-lyos nô es-tán trís-tes, es-tán fe-lí-ces",
+    portuguesePhonetic: "ê-lyos nô es-tán trís-tes, es-tán fe-lí-thes",
     syllables: ["E", "llos", " no", " es", "tán", " tris", "tes,", " es", "tán", " fe", "li", "ces."],
     exampleSentence: "Ellos no están tristes, están felices.",
     exampleTranslation: "Eles não estão tristes, eles estão felizes."
@@ -506,7 +506,7 @@ export const LECCION_39_W2_S_DECK: FlashcardData[] = [
     word: "Estos no son sus zapatos.",
     translation: "Estes não são os sapatos dela.",
     pronunciation: "/ˈes-tos no son sus θa-ˈpa-tos/",
-    portuguesePhonetic: "és-tos nô són sus za-pá-tos",
+    portuguesePhonetic: "és-tos nô són sus tha-pá-tos",
     syllables: ["Es", "tos", " no", " son", " sus", " za", "pa", "tos."],
     exampleSentence: "Estos no son sus zapatos.",
     exampleTranslation: "Estes não são os sapatos dela."
@@ -536,7 +536,7 @@ export const LECCION_39_W2_S_DECK: FlashcardData[] = [
     word: "El examen no es muy difícil.",
     translation: "A prova não está muito difícil.",
     pronunciation: "/el ek-ˈsa-men no es mui di-ˈfi-θil/",
-    portuguesePhonetic: "él ec-sá-men nô és múi di-fí-cil",
+    portuguesePhonetic: "él ec-sá-men nô és múi di-fí-thil",
     syllables: ["El", " ex", "a", "men", " no", " es", " muy", " di", "fí", "cil."],
     exampleSentence: "El examen no es muy difícil.",
     exampleTranslation: "A prova não está muito difícil."
@@ -566,7 +566,7 @@ export const LECCION_39_W2_S_DECK: FlashcardData[] = [
     word: "tercero / tercera",
     translation: "3rd — terceiro",
     pronunciation: "/teɾ-ˈθe-ɾo/",
-    portuguesePhonetic: "ter-cê-ro",
+    portuguesePhonetic: "ter-thê-ro",
     syllables: ["ter", "ce", "ro"],
     exampleSentence: "tercero / tercera",
     exampleTranslation: "3rd — terceiro"
@@ -636,7 +636,7 @@ export const LECCION_39_W2_S_DECK: FlashcardData[] = [
     word: "décimo / décima",
     translation: "10th — décimo",
     pronunciation: "/ˈde-θi-mo/",
-    portuguesePhonetic: "dé-ci-mo",
+    portuguesePhonetic: "dé-thi-mo",
     syllables: ["dé", "ci", "mo"],
     exampleSentence: "décimo / décima",
     exampleTranslation: "10th — décimo"
@@ -646,7 +646,7 @@ export const LECCION_39_W2_S_DECK: FlashcardData[] = [
     word: "undécimo / undécima",
     translation: "11th — décimo primeiro",
     pronunciation: "/un-ˈde-θi-mo/",
-    portuguesePhonetic: "un-dé-ci-mo",
+    portuguesePhonetic: "un-dé-thi-mo",
     syllables: ["un", "dé", "ci", "mo"],
     exampleSentence: "undécimo / undécima",
     exampleTranslation: "11th — décimo primeiro"
@@ -656,7 +656,7 @@ export const LECCION_39_W2_S_DECK: FlashcardData[] = [
     word: "duodécimo / duodécima",
     translation: "12th — décimo segundo",
     pronunciation: "/dwo-ˈde-θi-mo/",
-    portuguesePhonetic: "du-o-dé-ci-mo",
+    portuguesePhonetic: "du-o-dé-thi-mo",
     syllables: ["duo", "dé", "ci", "mo"],
     exampleSentence: "duodécimo / duodécima",
     exampleTranslation: "12th — décimo segundo"
@@ -666,7 +666,7 @@ export const LECCION_39_W2_S_DECK: FlashcardData[] = [
     word: "decimotercero / decimotercera",
     translation: "13th — décimo terceiro",
     pronunciation: "/de-θi-mo-teɾ-ˈθe-ɾo/",
-    portuguesePhonetic: "de-ci-mo-ter-cê-ro",
+    portuguesePhonetic: "de-thi-mo-ter-thê-ro",
     syllables: ["de", "ci", "mo", "ter", "ce", "ro"],
     exampleSentence: "decimotercero / decimotercera",
     exampleTranslation: "13th — décimo terceiro"
@@ -676,7 +676,7 @@ export const LECCION_39_W2_S_DECK: FlashcardData[] = [
     word: "decimocuarto / decimocuarta",
     translation: "14th — décimo quarto",
     pronunciation: "/de-θi-mo-ˈkwaɾ-to/",
-    portuguesePhonetic: "de-ci-mo-cuár-to",
+    portuguesePhonetic: "de-thi-mo-cuár-to",
     syllables: ["de", "ci", "mo", "cuar", "to"],
     exampleSentence: "decimocuarto / decimocuarta",
     exampleTranslation: "14th — décimo quarto"
@@ -686,7 +686,7 @@ export const LECCION_39_W2_S_DECK: FlashcardData[] = [
     word: "decimoquinto / decimoquinta",
     translation: "15th — décimo quinto",
     pronunciation: "/de-θi-mo-ˈkin-to/",
-    portuguesePhonetic: "de-ci-mo-quín-to",
+    portuguesePhonetic: "de-thi-mo-quín-to",
     syllables: ["de", "ci", "mo", "quin", "to"],
     exampleSentence: "decimoquinto / decimoquinta",
     exampleTranslation: "15th — décimo quinto"
@@ -716,7 +716,7 @@ export const LECCION_39_W2_S_DECK: FlashcardData[] = [
     word: "¡Estoy genial, gracias!",
     translation: "Eu estou ótimo, obrigado.",
     pronunciation: "/es-ˈtoi xe-ˈnjal ˈɡɾa-θjas/",
-    portuguesePhonetic: "es-tói rhe-niál, grá-cias",
+    portuguesePhonetic: "es-tói rhe-niál, grá-thias",
     syllables: ["Es", "toy", " ge", "nial,", " gra", "cias."],
     exampleSentence: "¡Estoy genial, gracias!",
     exampleTranslation: "Eu estou ótimo, obrigado."

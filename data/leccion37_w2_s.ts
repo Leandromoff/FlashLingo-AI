@@ -136,7 +136,7 @@ export const LECCION_37_W2_S_DECK: FlashcardData[] = [
     word: "dolor de cabeza",
     translation: "dor de cabeça",
     pronunciation: "/ðo-ˈloɾ ðe ka-ˈβe-θa/",
-    portuguesePhonetic: "do-lór de ca-bê-ça",
+    portuguesePhonetic: "do-lór de ca-bê-tha",
     syllables: ["do", "lor", " de", " ca", "be", "za"],
     exampleSentence: "dolor de cabeza",
     exampleTranslation: "dor de cabeça"
@@ -196,7 +196,7 @@ export const LECCION_37_W2_S_DECK: FlashcardData[] = [
     word: "cita / compromiso",
     translation: "compromisso, consulta",
     pronunciation: "/ˈθi-ta o kom-pɾo-ˈmi-so/",
-    portuguesePhonetic: "cí-ta / com-pro-mí-so",
+    portuguesePhonetic: "thí-ta / com-pro-mí-so",
     syllables: ["ci", "ta", " /", " com", "pro", "mi", "so"],
     exampleSentence: "cita / compromiso",
     exampleTranslation: "compromisso, consulta"
@@ -416,7 +416,7 @@ export const LECCION_37_W2_S_DECK: FlashcardData[] = [
     word: "Tengo dolor de cabeza.",
     translation: "Eu estou com dor de cabeça.",
     pronunciation: "/ˈteŋ-ɡo ðo-ˈloɾ ðe ka-ˈβe-θa/",
-    portuguesePhonetic: "tén-go do-lór de ca-bê-ça",
+    portuguesePhonetic: "tén-go do-lór de ca-bê-tha",
     syllables: ["Ten", "go", " do", "lor", " de", " ca", "be", "za."],
     exampleSentence: "Tengo dolor de cabeza.",
     exampleTranslation: "Eu estou com dor de cabeça."
@@ -426,7 +426,7 @@ export const LECCION_37_W2_S_DECK: FlashcardData[] = [
     word: "Ella tiene una cita en el dentista hoy.",
     translation: "Ela tem uma consulta no dentista hoje.",
     pronunciation: "/ˈe-ʝa ˈtje-ne ˈu-na ˈθi-ta en el den-ˈtis-ta oj/",
-    portuguesePhonetic: "ê-lia ti-ê-ne ú-na cí-ta en él den-tís-ta ói",
+    portuguesePhonetic: "ê-lia ti-ê-ne ú-na thí-ta en él den-tís-ta ói",
     syllables: ["E", "lla", " tie", "ne", " u", "na", " ci", "ta", " en", " el", " den", "tis", "ta", " hoy."],
     exampleSentence: "Ella tiene una cita en el dentista hoy.",
     exampleTranslation: "Ela tem uma consulta no dentista hoje."
@@ -476,7 +476,7 @@ export const LECCION_37_W2_S_DECK: FlashcardData[] = [
     word: "Tengo dolor. Necesito ir al hospital.",
     translation: "Eu estou com dor. Eu preciso ir ao hospital.",
     pronunciation: "/ˈteŋ-ɡo ðo-ˈloɾ | ne-θe-ˈsi-to iɾ al os-pi-ˈtal/",
-    portuguesePhonetic: "tén-go do-lór / ne-ce-sí-to ir al os-pi-tál",
+    portuguesePhonetic: "tén-go do-lór / ne-the-sí-to ir al os-pi-tál",
     syllables: ["Ten", "go", " do", "lor.", " Ne", "ce", "si", "to", " ir", " al", " hos", "pi", "tal."],
     exampleSentence: "Tengo dolor. Necesito ir al hospital.",
     exampleTranslation: "Eu estou com dor. Eu preciso ir ao hospital."
@@ -486,7 +486,7 @@ export const LECCION_37_W2_S_DECK: FlashcardData[] = [
     word: "Él está en la estación de tren.",
     translation: "Ele está na estação de trem.",
     pronunciation: "/el es-ˈta en la es-ta-ˈθjon ðe tɾen/",
-    portuguesePhonetic: "él es-tá en la es-ta-ción de tren",
+    portuguesePhonetic: "él es-tá en la es-ta-thión de tren",
     syllables: ["Él", " es", "tá", " en", " la", " es", "ta", "ción", " de", " tren."],
     exampleSentence: "Él está en la estación de tren.",
     exampleTranslation: "Ele está na estação de trem."

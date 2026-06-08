@@ -86,7 +86,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "precio",
     translation: "preço",
     pronunciation: "/ˈpɾeθjo/",
-    portuguesePhonetic: "pré-cio",
+    portuguesePhonetic: "pré-thio",
     syllables: ["pre", "cio"],
     exampleSentence: "precio",
     exampleTranslation: "preço"
@@ -96,7 +96,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "remedio / medicina",
     translation: "remédio",
     pronunciation: "/reˈmeðjo o meðiˈθina/",
-    portuguesePhonetic: "re-mê-dio / me-di-cí-na",
+    portuguesePhonetic: "re-mê-dio / me-di-thí-na",
     syllables: ["re", "me", "dio", " /", " me", "di", "ci", "na"],
     exampleSentence: "remedio / medicina",
     exampleTranslation: "remédio"
@@ -196,7 +196,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "Cuesta 5 dólares.",
     translation: "Custa cinco dólares. / São cinco dólares.",
     pronunciation: "/ˈkwesta ˈθiŋko ˈðolaɾes/",
-    portuguesePhonetic: "cuês-ta cín-co dó-la-res.",
+    portuguesePhonetic: "cuês-ta thín-co dó-la-res.",
     syllables: ["Cues", "ta", " 5", " dó", "la", "res."],
     exampleSentence: "Cuesta 5 dólares.",
     exampleTranslation: "Custa cinco dólares. / São cinco dólares."
@@ -236,7 +236,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "¿Ella habla francés?",
     translation: "Ela fala francês?",
     pronunciation: "/ˈeʝa ˈaβla fɾanˈθes/",
-    portuguesePhonetic: "¿ê-lya á-bla fran-cés?",
+    portuguesePhonetic: "¿ê-lya á-bla fran-thés?",
     syllables: ["¿E", "lla", " ha", "bla", " fran", "cés?"],
     exampleSentence: "¿Ella habla francés?",
     exampleTranslation: "Ela fala francês?"
@@ -306,7 +306,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "Necesito comprar recuerdos para mis hijos.",
     translation: "Preciso comprar lembrancinhas para meus filhos.",
     pronunciation: "/neθeˈsito komˈpɾaɾ reˈkweɾðos ˈpaɾa mis ˈixos/",
-    portuguesePhonetic: "ne-ce-sí-to com-prár re-cuêr-dos pá-ra mis í-rhos.",
+    portuguesePhonetic: "ne-the-sí-to com-prár re-cuêr-dos pá-ra mis í-rhos.",
     syllables: ["Ne", "ce", "si", "to", " com", "prar", " re", "cuer", "dos", " pa", "ra", " mis", " hi", "jos."],
     exampleSentence: "Necesito comprar recuerdos para mis hijos.",
     exampleTranslation: "Preciso comprar lembrancinhas para meus filhos."
@@ -316,7 +316,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "¿Él necesita un pasaporte nuevo?",
     translation: "Ele precisa de um passaporte novo?",
     pronunciation: "/el neθeˈsita un pasaˈpoɾte ˈnweβo/",
-    portuguesePhonetic: "¿él ne-ce-sí-ta un pa-sa-pór-te nuê-bo?" ,
+    portuguesePhonetic: "¿él ne-the-sí-ta un pa-sa-pór-te nuê-bo?",
     syllables: ["¿Él", " ne", "ce", "si", "ta", " un", " pa", "sa", "por", "te", " nue", "vo?"],
     exampleSentence: "¿Él necesita un pasaporte nuevo?",
     exampleTranslation: "Ele precisa de um passaporte novo?"
@@ -336,7 +336,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "Necesito llevar mi medicina conmigo.",
     translation: "Preciso levar meu remédio/medicina comigo.",
     pronunciation: "/neθeˈsito ʝeˈβaɾ mi meðiˈθina konˈmiɣo/",
-    portuguesePhonetic: "ne-ce-sí-to lye-bár mi me-di-cí-na con-mí-go.",
+    portuguesePhonetic: "ne-the-sí-to lye-bár mi me-di-thí-na con-mí-go.",
     syllables: ["Ne", "ce", "si", "to", " lle", "var", " mi", " me", "di", "ci", "na", " con", "mi", "go."],
     exampleSentence: "Necesito llevar mi medicina conmigo.",
     exampleTranslation: "Preciso levar meu remédio/medicina comigo."
@@ -346,7 +346,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "¿Sabes el precio del boleto?",
     translation: "Você sabe o preço da passagem / do ingresso?",
     pronunciation: "/ˈsaβes el ˈpɾeθjo ðel βoˈleto/",
-    portuguesePhonetic: "¿sá-bes él pré-cio del bo-lê-to?",
+    portuguesePhonetic: "¿sá-bes él pré-thio del bo-lê-to?",
     syllables: ["¿Sa", "bes", " el", " pre", "cio", " del", " bo", "le", "to?"],
     exampleSentence: "¿Sabes el precio del boleto?",
     exampleTranslation: "Você sabe o preço da passagem / do ingresso?"
@@ -356,7 +356,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "¿Ella necesita dinero para ir al cine?",
     translation: "Ela precisa de dinheiro para ir ao cinema?",
     pronunciation: "/ˈeʝa neθeˈsita ðiˈneɾo ˈpaɾa iɾ al ˈθine/",
-    portuguesePhonetic: "¿ê-lya ne-ce-sí-ta di-nê-ro pá-ra ir al cí-ne?",
+    portuguesePhonetic: "¿ê-lya ne-the-sí-ta di-nê-ro pá-ra ir al thí-ne?",
     syllables: ["¿E", "lla", " ne", "ce", "si", "ta", " di", "ne", "ro", " pa", "ra", " ir", " al", " ci", "ne?"],
     exampleSentence: "¿Ella necesita dinero para ir al cine?",
     exampleTranslation: "Ela precisa de dinheiro para ir ao cinema?"
@@ -416,7 +416,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "100 — cien",
     translation: "cem",
     pronunciation: "/θjen/",
-    portuguesePhonetic: "ciên",
+    portuguesePhonetic: "thiên",
     syllables: ["cien"],
     exampleSentence: "100 — cien",
     exampleTranslation: "cem"
@@ -516,7 +516,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "¿Él necesita...?",
     translation: "Ele precisa de...?",
     pronunciation: "/el neθeˈsita.../",
-    portuguesePhonetic: "¿él ne-ce-sí-ta...?",
+    portuguesePhonetic: "¿él ne-the-sí-ta...?",
     syllables: ["¿Él", " ne", "ce", "si", "ta...?"],
     exampleSentence: "¿Él necesita...?",
     exampleTranslation: "Ele precisa de...?"
@@ -526,7 +526,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "Sí, él necesita.",
     translation: "Sim, ele precisa.",
     pronunciation: "/si el neθeˈsita/",
-    portuguesePhonetic: "sí, él ne-ce-sí-ta.",
+    portuguesePhonetic: "sí, él ne-the-sí-ta.",
     syllables: ["Sí,", " él", " ne", "ce", "si", "ta."],
     exampleSentence: "Sí, él necesita.",
     exampleTranslation: "Sim, ele precisa."
@@ -536,7 +536,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "No, él no necesita.",
     translation: "Não, ele não precisa.",
     pronunciation: "/no el no neθeˈsita/",
-    portuguesePhonetic: "nô, él nô ne-ce-sí-ta.",
+    portuguesePhonetic: "nô, él nô ne-the-sí-ta.",
     syllables: ["No,", " él", " no", " ne", "ce", "si", "ta."],
     exampleSentence: "No, él no necesita.",
     exampleTranslation: "Não, ele não precisa."
@@ -626,7 +626,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "precio",
     translation: "preço",
     pronunciation: "/ˈpɾeθjo/",
-    portuguesePhonetic: "pré-cio",
+    portuguesePhonetic: "pré-thio",
     syllables: ["pre", "cio"],
     exampleSentence: "precio",
     exampleTranslation: "preço"
@@ -636,7 +636,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "medicina / remedio",
     translation: "remédio",
     pronunciation: "/meðiˈθina o reˈmeðjo/",
-    portuguesePhonetic: "me-di-cí-na / re-mê-dio",
+    portuguesePhonetic: "me-di-thí-na / re-mê-dio",
     syllables: ["me", "di", "ci", "na", " /", " re", "me", "dio"],
     exampleSentence: "medicina / remedio",
     exampleTranslation: "remédio"
@@ -756,7 +756,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "el precio de",
     translation: "o preço de",
     pronunciation: "/el ˈpɾeθjo ðe/",
-    portuguesePhonetic: "él pré-cio de",
+    portuguesePhonetic: "él pré-thio de",
     syllables: ["el", " pre", "cio", " de"],
     exampleSentence: "el precio de",
     exampleTranslation: "o preço de"
@@ -786,7 +786,7 @@ export const LECCION_25_W2_S_DECK: FlashcardData[] = [
     word: "tomar medicina / llevar medicina",
     translation: "tomar/levar remédio",
     pronunciation: "/toˈmaɾ meðiˈθina o ʝeˈβaɾ meðiˈθina/",
-    portuguesePhonetic: "to-már me-di-cí-na / lye-bár me-di-cí-na",
+    portuguesePhonetic: "to-már me-di-thí-na / lye-bár me-di-thí-na",
     syllables: ["to", "mar", " me", "di", "ci", "na", " /", " lle", "var", " me", "di", "ci", "na"],
     exampleSentence: "tomar medicina / llevar medicina",
     exampleTranslation: "tomar/levar remédio"

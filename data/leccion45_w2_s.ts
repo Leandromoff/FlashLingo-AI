@@ -16,7 +16,7 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
     word: "cerrar",
     translation: "fechar",
     pronunciation: "/θe-ˈraɾ/",
-    portuguesePhonetic: "ce-rrár",
+    portuguesePhonetic: "the-rrár",
     syllables: ["ce", "rrar"],
     exampleSentence: "cerrar",
     exampleTranslation: "fechar"
@@ -146,7 +146,7 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
     word: "delicioso / deliciosa",
     translation: "delicioso",
     pronunciation: "/de-li-ˈθjo-so/",
-    portuguesePhonetic: "de-li-ció-so",
+    portuguesePhonetic: "de-li-thió-so",
     syllables: ["de", "li", "cio", "so"],
     exampleSentence: "delicioso / deliciosa",
     exampleTranslation: "delicioso"
@@ -186,7 +186,7 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
     word: "Hacemos ejercicio un día sí y otro no.",
     translation: "Nós fazemos exercícios dia sim, dia não.",
     pronunciation: "/a-ˈθe-mos e-xeɾ-ˈθi-θjo un ˈdi-a si i ˈo-tɾo no/",
-    portuguesePhonetic: "a-cê-mos e-rher-cí-cio un dí-a sí i ó-tro nô",
+    portuguesePhonetic: "a-thê-mos e-rher-thí-thio un dí-a sí i ó-tro nô",
     syllables: ["Ha", "ce", "mos", " e", "jer", "ci", "cio", " un", " dí", "a", " sí", " y", " o", "tro", " no."],
     exampleSentence: "Hacemos ejercicio un día sí y otro no.",
     exampleTranslation: "Nós fazemos exercícios dia sim, dia não."
@@ -206,7 +206,7 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
     word: "Necesito comer algo.",
     translation: "Eu preciso comer alguma coisa.",
     pronunciation: "/ne-θe-ˈsi-to ko-ˈmeɾ ˈal-ɣo/",
-    portuguesePhonetic: "ne-ce-sí-to co-mér ál-go",
+    portuguesePhonetic: "ne-the-sí-to co-mér ál-go",
     syllables: ["Ne", "ce", "si", "to", " co", "mer", " al", "go."],
     exampleSentence: "Necesito comer algo.",
     exampleTranslation: "Eu preciso comer alguma coisa."
@@ -226,7 +226,7 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
     word: "No quiero nada para beber, gracias.",
     translation: "Eu não quero nada para beber, obrigado.",
     pronunciation: "/no ˈkje-ɾo ˈna-ða ˈpa-ɾa βe-ˈβeɾ | ˈɡɾa-θjas/",
-    portuguesePhonetic: "nô quiê-ro ná-da pá-ra be-bér, grá-cias",
+    portuguesePhonetic: "nô quiê-ro ná-da pá-ra be-bér, grá-thias",
     syllables: ["No", " quie", "ro", " na", "da", " pa", "ra", " be", "ber,", " gra", "cias."],
     exampleSentence: "No quiero nada para beber, gracias.",
     exampleTranslation: "Eu não quero nada para beber, obrigado."
@@ -306,7 +306,7 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
     word: "El gimnasio no cierra los domingos.",
     translation: "A academia não fecha aos domingos.",
     pronunciation: "/el xi-ˈmna-sjo no ˈθje-ra los ðo-ˈmiŋ-ɡos/",
-    portuguesePhonetic: "él rhi-mná-sio nô ciê-rra los do-mín-gos",
+    portuguesePhonetic: "él rhi-mná-sio nô thiê-rra los do-mín-gos",
     syllables: ["El", " gim", "na", "sio", " no", " cie", "rra", " los", " do", "min", "gos."],
     exampleSentence: "El gimnasio no cierra los domingos.",
     exampleTranslation: "A academia não fecha aos domingos."
@@ -314,9 +314,9 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
   {
     id: 'leccion_45_32',
     word: "¿Cierran el museo temprano los martes?",
-    translation: "Eles fecham o museu cedo às terças-feiras?",
+    translation: "Eles fecham o museo cedo às terças-feiras?",
     pronunciation: "/ˈθje-ran el mu-ˈse-o tem-ˈpɾa-no los ˈmaɾ-tes/",
-    portuguesePhonetic: "¿ciê-rran él mu-sê-o tem-prá-no los már-tes?",
+    portuguesePhonetic: "¿thiê-rran él mu-sê-o tem-prá-no los már-tes?",
     syllables: ["¿Cie", "rran", " el", " mu", "se", "o", " tem", "pra", "no", " los", " mar", "tes?"],
     exampleSentence: "¿Cierran el museo temprano los martes?",
     exampleTranslation: "Eles fecham o museu cedo às terças-feiras?"
@@ -336,7 +336,7 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
     word: "¿Necesitas algo?",
     translation: "Você precisa de alguma coisa?",
     pronunciation: "/ne-θe-ˈsi-tas ˈal-ɣo/",
-    portuguesePhonetic: "¿ne-ce-sí-tas ál-go?",
+    portuguesePhonetic: "¿ne-the-sí-tas ál-go?",
     syllables: ["¿Ne", "ce", "si", "tas", " al", "go?"],
     exampleSentence: "¿Necesitas algo?",
     exampleTranslation: "Você precisa de alguma coisa?"
@@ -346,7 +346,7 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
     word: "No necesito nada, gracias.",
     translation: "Eu não preciso de nada, obrigado.",
     pronunciation: "/no ne-θe-ˈsi-to ˈna-ða | ˈɡɾa-θjas/",
-    portuguesePhonetic: "nô ne-ce-sí-to ná-da, grá-cias",
+    portuguesePhonetic: "nô ne-the-sí-to ná-da, grá-thias",
     syllables: ["No", " ne", "ce", "si", "to", " na", "da,", " gra", "cias."],
     exampleSentence: "No necesito nada, gracias.",
     exampleTranslation: "Eu não preciso de nada, obrigado."
@@ -386,7 +386,7 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
     word: "Necesito un tenedor para comer mi pastel.",
     translation: "Eu preciso de um garfo para comer meu bolo.",
     pronunciation: "/ne-θe-ˈsi-to un te-ne-ˈðoɾ ˈpa-ɾa ko-ˈmeɾ mi pas-ˈtel/",
-    portuguesePhonetic: "ne-ce-sí-to un te-ne-dór pá-ra co-mér mi pas-tél",
+    portuguesePhonetic: "ne-the-sí-to un te-ne-dór pá-ra co-mér mi pas-tél",
     syllables: ["Ne", "ce", "si", "to", " un", " te", "ne", "dor", " pa", "ra", " co", "mer", " mi", " pas", "tel."],
     exampleSentence: "Necesito un tenedor para comer mi pastel.",
     exampleTranslation: "Eu preciso de um garfo para comer meu bolo."
@@ -406,7 +406,7 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
     word: "almorzar",
     translation: "almoçar",
     pronunciation: "/al-moɾ-ˈθaɾ/",
-    portuguesePhonetic: "al-mor-zár",
+    portuguesePhonetic: "al-mor-thár",
     syllables: ["al", "mor", "zar"],
     exampleSentence: "almorzar",
     exampleTranslation: "almoçar"
@@ -426,7 +426,7 @@ export const LECCION_45_W2_S_DECK: FlashcardData[] = [
     word: "cenar",
     translation: "jantar",
     pronunciation: "/θe-ˈnaɾ/",
-    portuguesePhonetic: "ce-nár",
+    portuguesePhonetic: "the-nár",
     syllables: ["ce", "nar"],
     exampleSentence: "cenar",
     exampleTranslation: "jantar"

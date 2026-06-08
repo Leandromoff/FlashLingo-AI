@@ -45,8 +45,8 @@ export const LECCION_7_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_7_5',
     word: "francés",
     translation: "francês",
-    pronunciation: "/fɾanˈses/",
-    portuguesePhonetic: "fran-sés",
+    pronunciation: "/fɾanˈθes/",
+    portuguesePhonetic: "fran-çés",
     syllables: ["fran", "cés"],
     exampleSentence: "francés",
     exampleTranslation: "francês"
@@ -245,8 +245,8 @@ export const LECCION_7_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_7_25',
     word: "Ellos estudian francés allí.",
     translation: "Eles estudam francês lá.",
-    pronunciation: "/ˈeʝos esˈtuðʝan fɾanˈses aˈʝi./",
-    portuguesePhonetic: "ê-ios es-tú-dian fran-sés a-lí.",
+    pronunciation: "/ˈeʝos esˈtuðʝan fɾanˈθes aˈʝi./",
+    portuguesePhonetic: "ê-ios es-tú-dian fran-çés a-lí.",
     syllables: ["E", "llos", " es", "tu", "dian", " fran", "cés", " a", "llí."],
     exampleSentence: "Ellos estudian francés allí.",
     exampleTranslation: "Eles estudam francês lá."
@@ -505,8 +505,8 @@ export const LECCION_7_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_7_51',
     word: "estudiar francés",
     translation: "estudar francês",
-    pronunciation: "/estuˈðʝaɾ fɾanˈses/",
-    portuguesePhonetic: "es-tu-diár fran-sés",
+    pronunciation: "/estuˈðʝaɾ fɾanˈθes/",
+    portuguesePhonetic: "es-tu-diár fran-çés",
     syllables: ["es", "tu", "diar", " fran", "cés"],
     exampleSentence: "estudiar francés",
     exampleTranslation: "estudar francês"

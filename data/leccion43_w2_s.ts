@@ -6,7 +6,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "hacer",
     translation: "fazer",
     pronunciation: "/a-ˈθeɾ/",
-    portuguesePhonetic: "a-cér",
+    portuguesePhonetic: "a-thér",
     syllables: ["ha", "cer"],
     exampleSentence: "hacer",
     exampleTranslation: "fazer"
@@ -103,22 +103,22 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_43_11',
-    word: "camarero / mesero / camarera / mesera",
+    word: "camarero / camarera",
     translation: "garçom",
-    pronunciation: "/ka-ma-ˈɾe-ɾo o me-ˈse-ɾo/",
-    portuguesePhonetic: "ca-ma-rê-ro / me-sê-ro",
-    syllables: ["ca", "ma", "re", "ro", " /", " me", "se", "ro"],
-    exampleSentence: "camarero / mesero",
+    pronunciation: "/ka-ma-ˈɾe-ɾo o ka-ma-ˈɾe-ɾa/",
+    portuguesePhonetic: "ca-ma-rê-ro / ca-ma-rê-ra",
+    syllables: ["ca", "ma", "re", "ro", " /", " ca", "ma", "re", "ra"],
+    exampleSentence: "camarero",
     exampleTranslation: "garçom"
   },
   {
     id: 'leccion_43_12',
-    word: "camarera / mesera",
+    word: "camarera",
     translation: "garçonete",
-    pronunciation: "/ka-ma-ˈe-ɾa o me-ˈse-ɾa/",
-    portuguesePhonetic: "ca-ma-rê-ra / me-sê-ra",
-    syllables: ["ca", "ma", "re", "ra", " /", " me", "se", "ra"],
-    exampleSentence: "camarera / mesera",
+    pronunciation: "/ka-ma-ˈɾe-ɾa/",
+    portuguesePhonetic: "ca-ma-rê-ra",
+    syllables: ["ca", "ma", "re", "ra"],
+    exampleSentence: "camarera",
     exampleTranslation: "garçonete"
   },
   {
@@ -186,7 +186,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "Este es el mejor restaurante de la ciudad.",
     translation: "Este é o melhor restaurante da cidade.",
     pronunciation: "/ˈes-te es el me-ˈxoɾ res-taʊ-ˈɾan-te ðe la θju-ˈðað/",
-    portuguesePhonetic: "és-te és él me-rhór res-tau-rán-te de la ciu-dád",
+    portuguesePhonetic: "és-te és él me-rhór res-tau-rán-te de la thiu-dád",
     syllables: ["Es", "te", " es", " el", " me", "jor", " res", "tau", "ran", "te", " de", " la", " ciu", "dad."],
     exampleSentence: "Este es el mejor restaurante de la ciudad.",
     exampleTranslation: "Este é o melhor restaurante da cidade."
@@ -256,7 +256,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "¿Conoces alguna buena serie de televisión?",
     translation: "Você conhece alguma série de TV boa?",
     pronunciation: "/ko-ˈno-θes al-ˈɣu-na ˈbwe-na ˈse-ɾje ðe te-le-βi-ˈsjon/",
-    portuguesePhonetic: "¿co-nó-ces al-gú-na buê-na sê-rie de te-le-bi-sión?",
+    portuguesePhonetic: "¿co-nó-thes al-gú-na buê-na sê-rie de te-le-bi-sión?",
     syllables: ["¿Co", "no", "ces", " al", "gu", "na", " bue", "na", " se", "rie", " de", " te", "le", "vi", "sión?"],
     exampleSentence: "¿Conoces alguna buena serie de televisión?",
     exampleTranslation: "Você conhece alguma série de TV boa?"
@@ -276,7 +276,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "¿Sabes cómo hacer palomitas de chocolate?",
     translation: "Você sabe como fazer pipoca de chocolate?",
     pronunciation: "/ˈsa-βes ˈko-mo a-ˈθeɾ pa-lo-ˈmi-tas ðe tʃo-ko-ˈla-te/",
-    portuguesePhonetic: "¿sá-bes cô-mo a-cér pa-lo-mí-tas de tcho-co-lá-te?",
+    portuguesePhonetic: "¿sá-bes cô-mo a-thér pa-lo-mí-tas de tcho-co-lá-te?",
     syllables: ["¿Sa", "bes", " có", "mo", " ha", "cer", " pa", "lo", "mi", "tas", " de", " cho", "co", "la", "te?"],
     exampleSentence: "¿Sabes cómo hacer palomitas de chocolate?",
     exampleTranslation: "Você sabe como fazer pipoca de chocolate?"
@@ -286,7 +286,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "Quiero hacer tu plato favorito esta noche.",
     translation: "Eu quero fazer o seu prato favorito esta noite.",
     pronunciation: "/ˈkje-ɾo a-ˈθeɾ tu ˈpla-to fa-βo-ˈɾi-to ˈes-ta ˈno-tʃe/",
-    portuguesePhonetic: "quiê-ro a-cér tu plá-to fa-bo-rí-to és-ta nó-tche",
+    portuguesePhonetic: "quiê-ro a-thér tu plá-to fa-bo-rí-to és-ta nó-tche",
     syllables: ["Quie", "ro", " ha", "cer", " tu", " pla", "to", " fa", "vo", "ri", "to", " es", "ta", " no", "che."],
     exampleSentence: "Quiero hacer tu plato favorito esta noche.",
     exampleTranslation: "Eu quero fazer o seu prato favorito esta noite."
@@ -313,12 +313,12 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_43_32',
-    word: "¿Sueles dar propina a los meseros?",
+    word: "¿Sueles dar propina a los camareros?",
     translation: "Você costuma dar gorjetas aos garçons?",
-    pronunciation: "/ˈswe-les ðaɾ pɾo-ˈpi-na a los me-ˈse-ɾos/",
-    portuguesePhonetic: "¿suê-les dár pro-pí-na a los me-sê-ros?",
-    syllables: ["¿Sue", "les", " dar", " pro", "pi", "na", " a", " los", " me", "se", "ros?"],
-    exampleSentence: "¿Sueles dar propina a los meseros?",
+    pronunciation: "/ˈswe-les ðaɾ pɾo-ˈpi-na a los ka-ma-ˈɾe-ɾos/",
+    portuguesePhonetic: "¿suê-les dár pro-pí-na a los ca-ma-rê-ros?",
+    syllables: ["¿Sue", "les", " dar", " pro", "pi", "na", " a", " los", " ca", "ma", "re", "ros?"],
+    exampleSentence: "¿Sueles dar propina a los camareros?",
     exampleTranslation: "Você costuma dar gorjetas aos garçons?"
   },
   {
@@ -386,7 +386,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "hacer un pastel",
     translation: "fazer um bolo",
     pronunciation: "/a-ˈθeɾ un pas-ˈtel/",
-    portuguesePhonetic: "a-cér un pas-tél",
+    portuguesePhonetic: "a-thér un pas-tél",
     syllables: ["ha", "cer", " un", " pas", "tel"],
     exampleSentence: "hacer un pastel",
     exampleTranslation: "fazer um bolo"
@@ -396,7 +396,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "hacer palomitas",
     translation: "fazer pipoca",
     pronunciation: "/a-ˈθeɾ pa-lo-ˈmi-tas/",
-    portuguesePhonetic: "a-cér pa-lo-mí-tas",
+    portuguesePhonetic: "a-thér pa-lo-mí-tas",
     syllables: ["ha", "cer", " pa", "lo", "mi", "tas"],
     exampleSentence: "hacer palomitas",
     exampleTranslation: "fazer pipoca"
@@ -406,7 +406,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "hacer un postre",
     translation: "fazer uma sobremesa",
     pronunciation: "/a-ˈθeɾ un ˈpos-tɾe/",
-    portuguesePhonetic: "a-cér un pós-tre",
+    portuguesePhonetic: "a-thér un pós-tre",
     syllables: ["ha", "cer", " un", " pos", "tre"],
     exampleSentence: "hacer un postre",
     exampleTranslation: "fazer uma sobremesa"
@@ -416,7 +416,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "hacer café",
     translation: "fazer (um pouco de) café",
     pronunciation: "/a-ˈθeɾ ka-ˈfe/",
-    portuguesePhonetic: "a-cér ca-fé",
+    portuguesePhonetic: "a-thér ca-fé",
     syllables: ["ha", "cer", " ca", "fé"],
     exampleSentence: "hacer café",
     exampleTranslation: "fazer (um pouco de) café"
@@ -426,7 +426,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "hacer galletas",
     translation: "fazer biscoitos",
     pronunciation: "/a-ˈθeɾ ɡa-ˈʝe-tas/",
-    portuguesePhonetic: "a-cér ga-liê-tas",
+    portuguesePhonetic: "a-thér ga-liê-tas",
     syllables: ["ha", "cer", " ga", "lle", "tas"],
     exampleSentence: "hacer galletas",
     exampleTranslation: "fazer biscoitos"
@@ -436,7 +436,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "hacer sopa",
     translation: "fazer sopa",
     pronunciation: "/a-ˈθeɾ ˈso-pa/",
-    portuguesePhonetic: "a-cér só-pa",
+    portuguesePhonetic: "a-thér só-pa",
     syllables: ["ha", "cer", " so", "pa"],
     exampleSentence: "hacer sopa",
     exampleTranslation: "fazer sopa"
@@ -446,7 +446,7 @@ export const LECCION_43_W2_S_DECK: FlashcardData[] = [
     word: "hacer amigos",
     translation: "fazer amigos",
     pronunciation: "/a-ˈθeɾ a-ˈmi-ɣos/",
-    portuguesePhonetic: "a-cér a-mí-gos",
+    portuguesePhonetic: "a-thér a-mí-gos",
     syllables: ["ha", "cer", " a", "mi", "gos"],
     exampleSentence: "hacer amigos",
     exampleTranslation: "fazer amigos"

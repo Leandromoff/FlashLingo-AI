@@ -63,13 +63,13 @@ export const LECCION_1_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_1_7',
-    word: "jugo",
-    translation: "suco",
-    pronunciation: "/ˈxuɣo/",
-    portuguesePhonetic: "rrú-go",
-    syllables: ["ju", "go"],
-    exampleSentence: "jugo",
-    exampleTranslation: "suco"
+    word: "zumo",
+    translation: "zumo, suco",
+    pronunciation: "/ˈθumo/",
+    portuguesePhonetic: "çú-mo",
+    syllables: ["zu", "mo"],
+    exampleSentence: "zumo",
+    exampleTranslation: "zumo, suco"
   },
   {
     id: 'leccion_1_8',
@@ -103,13 +103,13 @@ export const LECCION_1_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_1_11',
-    word: "panqueque",
-    translation: "panqueca",
-    pronunciation: "/panˈkeke/",
-    portuguesePhonetic: "pan-quê-que",
-    syllables: ["pan", "que", "que"],
-    exampleSentence: "panqueque",
-    exampleTranslation: "panqueca"
+    word: "tortita",
+    translation: "tortita, panqueca",
+    pronunciation: "/toɾˈtita/",
+    portuguesePhonetic: "tor-tí-ta",
+    syllables: ["tor", "ti", "ta"],
+    exampleSentence: "tortita",
+    exampleTranslation: "tortita, panqueca"
   },
   {
     id: 'leccion_1_12',
@@ -193,12 +193,12 @@ export const LECCION_1_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_1_20',
-    word: "Yo como panqueques.",
+    word: "Yo como tortitas.",
     translation: "Eu como panquecas.",
-    pronunciation: "/ʝo ˈkomo panˈkekes./",
-    portuguesePhonetic: "iô cô-mo pan-quê-ques.",
-    syllables: ["Yo", " co", "mo", " pan", "que", "ques."],
-    exampleSentence: "Yo como panqueques.",
+    pronunciation: "/ʝo ˈkomo toɾˈtitas./",
+    portuguesePhonetic: "iô cô-mo tor-tí-tas.",
+    syllables: ["Yo", " co", "mo", " tor", "ti", "tas."],
+    exampleSentence: "Yo como tortitas.",
     exampleTranslation: "Eu como panquecas."
   },
   {
@@ -303,12 +303,12 @@ export const LECCION_1_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_1_31',
-    word: "Tú bebes jugo.",
+    word: "Tú bebes zumo.",
     translation: "Você bebe suco.",
-    pronunciation: "/tu ˈbeβes ˈxuɣo./",
-    portuguesePhonetic: "tú bê-bes rrú-go.",
-    syllables: ["Tú", " be", "bes", " ju", "go."],
-    exampleSentence: "Tú bebes jugo.",
+    pronunciation: "/tu ˈbeβes ˈθumo./",
+    portuguesePhonetic: "tú bê-bes çú-mo.",
+    syllables: ["Tú", " be", "bes", " zu", "mo."],
+    exampleSentence: "Tú bebes zumo.",
     exampleTranslation: "Você bebe suco."
   },
   {
@@ -373,12 +373,12 @@ export const LECCION_1_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_1_38',
-    word: "Yo bebo jugo. ¿Y tú?",
+    word: "Yo bebo zumo. ¿Y tú?",
     translation: "Eu bebo suco. E você?",
-    pronunciation: "/ʝo ˈbeβo ˈxuɣo. i tu?/",
-    portuguesePhonetic: "iô bê-bo rrú-go. i tú?",
-    syllables: ["Yo", " be", "bo", " ju", "go.", " ¿Y", " tú?"],
-    exampleSentence: "Yo bebo jugo. ¿Y tú?",
+    pronunciation: "/ʝo ˈbeβo ˈθumo. i tu?/",
+    portuguesePhonetic: "iô bê-bo çú-mo. i tú?",
+    syllables: ["Yo", " be", "bo", " zu", "mo.", " ¿Y", " tú?"],
+    exampleSentence: "Yo bebo zumo. ¿Y tú?",
     exampleTranslation: "Eu bebo suco. E você?"
   },
   {
@@ -410,5 +410,55 @@ export const LECCION_1_W2_S_DECK: FlashcardData[] = [
     syllables: ["¡Bue", "nas", " no", "ches!"],
     exampleSentence: "¡Buenas noches!",
     exampleTranslation: "Boa noite!"
+  },
+  {
+    id: 'leccion_1_42',
+    word: "churro",
+    translation: "churro",
+    pronunciation: "/ˈtʃuɾo/",
+    portuguesePhonetic: "tchúr-ro",
+    syllables: ["chur", "ro"],
+    exampleSentence: "churro",
+    exampleTranslation: "churro"
+  },
+  {
+    id: 'leccion_1_43',
+    word: "tostada",
+    translation: "torrada",
+    pronunciation: "/tosˈtaða/",
+    portuguesePhonetic: "tos-tá-da",
+    syllables: ["tos", "ta", "da"],
+    exampleSentence: "tostada",
+    exampleTranslation: "torrada"
+  },
+  {
+    id: 'leccion_1_44',
+    word: "bocadillo",
+    translation: "sanduíche (pão francês)",
+    pronunciation: "/βokaˈðiʝo/",
+    portuguesePhonetic: "bo-ca-dí-lo",
+    syllables: ["bo", "ca", "di", "llo"],
+    exampleSentence: "bocadillo",
+    exampleTranslation: "sanduíche (pão francês)"
+  },
+  {
+    id: 'leccion_1_45',
+    word: "zumo de naranja",
+    translation: "suco de laranja",
+    pronunciation: "/ˈθumo ðe naˈɾaŋxa/",
+    portuguesePhonetic: "çú-mo de na-rán-rrá",
+    syllables: ["zu", "mo", " de", " na", "ran", "ja"],
+    exampleSentence: "zumo de naranja",
+    exampleTranslation: "suco de laranja"
+  },
+  {
+    id: 'leccion_1_46',
+    word: "¡Buenas!",
+    translation: "Olá! / Bom dia! (informal)",
+    pronunciation: "/ˈbwenas/",
+    portuguesePhonetic: "bu-ê-nas!",
+    syllables: ["¡Bue", "nas!"],
+    exampleSentence: "¡Buenas!",
+    exampleTranslation: "Olá! / Bom dia! (informal)"
   }
 ];

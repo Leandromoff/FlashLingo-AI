@@ -1220,8 +1220,6 @@ import { LECCION_3_VOCABULARIO_A1_S_DECK } from './leccion3_vocabulario_a1_s';
 import { LECCION_4_VOCABULARIO_A1_S_DECK } from './leccion4_vocabulario_a1_s';
 import { LECCION_5_VOCABULARIO_A1_S_DECK } from './leccion5_vocabulario_a1_s';
 import { LECCION_6_VOCABULARIO_A1_S_DECK } from './leccion6_vocabulario_a1_s';
-import { LESSON_1_VOCABULARY_C1_DECK } from './lesson1_vocabulary_c1';
-import { LESSON_2_VOCABULARY_C1_DECK } from './lesson2_vocabulary_c1';
 import { TRAVEL_STAY_NEED_DECK } from './travel_stay_need';
 import { KNOW_WORK_LIVE_DECK } from './know_work_live';
 import { STUDY_UNDERSTAND_LEARN_DECK } from './study_understand_learn';
@@ -35456,12 +35454,6 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   study_understand_learn: {
     en: STUDY_UNDERSTAND_LEARN_DECK
-  },
-  lesson_1_vocabulary_c1: {
-    en: LESSON_1_VOCABULARY_C1_DECK
-  },
-  lesson_2_vocabulary_c1: {
-    en: LESSON_2_VOCABULARY_C1_DECK
   },
   lesson_1_vocabulary_a1: {
     en: LESSON_1_VOCABULARY_A1_DECK

@@ -1,4 +1,4 @@
-export type SupportedLanguage = 'en' | 'es' | 'it';
+export type SupportedLanguage = 'en' | 'es';
 
 export interface FlashcardData {
   id: string;
@@ -91,8 +91,6 @@ export const PREDEFINED_TOPICS = [
   { id: 'lesson_16_vocabulary_a1', label: 'Lesson 16', isStatic: true, group: 'Vocabulary A1' },
   { id: 'lesson_17_vocabulary_a1', label: 'Lesson 17', isStatic: true, group: 'Vocabulary A1' },
   { id: 'lesson_18_vocabulary_a1', label: 'Lesson 18', isStatic: true, group: 'Vocabulary A1' },
-  { id: 'lesson_1_vocabulary_c1', label: 'Lesson 1: Feelings and Reactions', isStatic: true, group: 'Vocabulary C1' },
-  { id: 'lesson_2_vocabulary_c1', label: 'Lesson 2: Verbs for Walking', isStatic: true, group: 'Vocabulary C1' },
   { id: 'leccion_1_w2_s', label: 'Lección 1', isStatic: true, group: 'W2-S' },
   { id: 'leccion_3_w2_s', label: 'Lección 3', isStatic: true, group: 'W2-S' },
   { id: 'leccion_5_w2_s', label: 'Lección 5', isStatic: true, group: 'W2-S' },

@@ -115,8 +115,8 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_11_12',
     word: "vecino(a)",
     translation: "vizinho(a)",
-    pronunciation: "/beˈsino(a)/",
-    portuguesePhonetic: "be-sí-no(a)",
+    pronunciation: "/beˈθino(a)/",
+    portuguesePhonetic: "be-çí-no(a)",
     syllables: ["ve", "ci", "no(a)"],
     exampleSentence: "vecino(a)",
     exampleTranslation: "vizinho(a)"
@@ -138,7 +138,7 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
     pronunciation: "/kompaˈɲeɾo(a) ðe tɾaˈβaxo/",
     portuguesePhonetic: "com-pa-nhê-ro(a) de tra-bá-rro",
     syllables: ["com", "pa", "ñe", "ro(a)", " de", " tra", "ba", "jo"],
-    exampleSentence: "compañero(a) de trabalho",
+    exampleSentence: "compañero(a) de trabajo",
     exampleTranslation: "colega de trabalho"
   },
   {
@@ -165,8 +165,8 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_11_17',
     word: "Francia",
     translation: "França",
-    pronunciation: "/ˈfɾansja/",
-    portuguesePhonetic: "frán-sia",
+    pronunciation: "/ˈfɾanθja/",
+    portuguesePhonetic: "frán-çia",
     syllables: ["Fran", "cia"],
     exampleSentence: "Francia",
     exampleTranslation: "França"
@@ -185,10 +185,10 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_11_19',
     word: "Yo veo a mi vecino en el trabajo.",
     translation: "Eu vejo meu vizinho no trabalho.",
-    pronunciation: "/ʝo ˈβeo a mi βeˈsino en el tɾaˈβaxo./",
-    portuguesePhonetic: "iô bê-o a mi be-sí-no en el tra-bá-rro.",
+    pronunciation: "/ʝo ˈβeo a mi βeˈθino en el tɾaˈβaxo./",
+    portuguesePhonetic: "iô bê-o a mi be-çí-no en el tra-bá-rro.",
     syllables: ["Yo", " ve", "o", " a", " mi", " ve", "ci", "no", " en", " el", " tra", "ba", "jo."],
-    exampleSentence: "Yo veo a mi vecino en el trabalho.",
+    exampleSentence: "Yo veo a mi vecino en el trabajo.",
     exampleTranslation: "Eu vejo meu vizinho no trabalho."
   },
   {
@@ -325,8 +325,8 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_11_33',
     word: "Ellos quieren ir a Francia.",
     translation: "Eles querem ir para a França.",
-    pronunciation: "/ˈeʝos ˈkjeɾen iɾ a ˈfɾansja./",
-    portuguesePhonetic: "ê-ios qui-ê-ren ir a frán-sia.",
+    pronunciation: "/ˈeʝos ˈkjeɾen iɾ a ˈfɾanθja./",
+    portuguesePhonetic: "ê-ios qui-ê-ren ir a frán-çia.",
     syllables: ["E", "llos", " quie", "ren", " ir", " a", " Fran", "cia."],
     exampleSentence: "Ellos quieren ir a Francia.",
     exampleTranslation: "Eles querem ir para a França."
@@ -363,7 +363,7 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
   },
   {
     id: 'leccion_11_37',
-    word: "¿Ellos hablan inglés en el trabalho?",
+    word: "¿Ellos hablan inglés en el trabajo?",
     translation: "Eles falam inglês no trabalho?",
     pronunciation: "/ˈeʝos ˈaβlan iŋˈgles en el tɾaˈβaxo?/",
     portuguesePhonetic: "ê-ios á-blan in-glés en el tra-bá-rro?",
@@ -375,8 +375,8 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_11_38',
     word: "¿Ellos hablan italiano o francés?",
     translation: "Eles falam italiano ou francês?",
-    pronunciation: "/ˈeʝos ˈaβlan itaˈljano o fɾanˈses?/",
-    portuguesePhonetic: "ê-ios á-blan i-ta-li-â-no o fran-sés?",
+    pronunciation: "/ˈeʝos ˈaβlan itaˈljano o fɾanˈθes?/",
+    portuguesePhonetic: "ê-ios á-blan i-ta-li-â-no o fran-çés?",
     syllables: ["¿E", "llos", " ha", "blan", " i", "ta", "lia", "no", " o", " fran", "cés?"],
     exampleSentence: "¿Ellos hablan italiano o francés?",
     exampleTranslation: "Eles falam italiano ou francês?"
@@ -535,8 +535,8 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
     id: 'leccion_11_54',
     word: "ir a Francia",
     translation: "ir para a França",
-    pronunciation: "/iɾ a ˈfɾansja/",
-    portuguesePhonetic: "ir a frán-sia",
+    pronunciation: "/iɾ a ˈfɾanθja/",
+    portuguesePhonetic: "ir a frán-çia",
     syllables: ["ir", " a", " Fran", "cia"],
     exampleSentence: "ir a Francia",
     exampleTranslation: "ir para a França"
@@ -618,7 +618,7 @@ export const LECCION_11_W2_S_DECK: FlashcardData[] = [
     pronunciation: "/en el tɾaˈβaxo/",
     portuguesePhonetic: "en el tra-bá-rro",
     syllables: ["en", " el", " tra", "ba", "jo"],
-    exampleSentence: "en el trabalho",
+    exampleSentence: "en el trabajo",
     exampleTranslation: "no trabalho"
   },
   {
