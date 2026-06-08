@@ -1220,9 +1220,6 @@ import { LECCION_3_VOCABULARIO_A1_S_DECK } from './leccion3_vocabulario_a1_s';
 import { LECCION_4_VOCABULARIO_A1_S_DECK } from './leccion4_vocabulario_a1_s';
 import { LECCION_5_VOCABULARIO_A1_S_DECK } from './leccion5_vocabulario_a1_s';
 import { LECCION_6_VOCABULARIO_A1_S_DECK } from './leccion6_vocabulario_a1_s';
-import { TRAVEL_STAY_NEED_DECK } from './travel_stay_need';
-import { KNOW_WORK_LIVE_DECK } from './know_work_live';
-import { STUDY_UNDERSTAND_LEARN_DECK } from './study_understand_learn';
 import { TO_SELL_PAY_DECK } from './to_sell_pay';
 import { TO_PUT_DO_DECK } from './to_put_do';
 import { TO_PLAY_RUN_DECK } from './to_play_run';
@@ -1233,6 +1230,16 @@ import { SHARE_RENT_DECK } from './share_rent';
 import { TO_LOSE_FIND_DECK } from './to_lose_find';
 import { TO_BE_PAST_DECK } from './to_be_past';
 import { TO_BE_PAST_QUESTIONS_DECK } from './to_be_past_questions';
+import { LESSON_71_DECK } from './lesson_71';
+import { LESSON_73_DECK } from './lesson_73';
+import { LESSON_75_DECK } from './lesson_75';
+import { LESSON_77_DECK } from './lesson_77';
+import { LESSON_79_DECK } from './lesson_79';
+import { LESSON_81_DECK } from './lesson_81';
+import { LESSON_83_DECK } from './lesson_83';
+import { LESSON_85_DECK } from './lesson_85';
+import { LESSON_89_DECK } from './lesson_89';
+import { LESSON_91_DECK } from './lesson_91';
 
 export const TO_BE_DECK: FlashcardData[] = [
   {
@@ -35422,6 +35429,36 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   to_be_past_questions: {
     en: TO_BE_PAST_QUESTIONS_DECK
   },
+  lesson_71: {
+    en: LESSON_71_DECK
+  },
+  lesson_73: {
+    en: LESSON_73_DECK
+  },
+  lesson_75: {
+    en: LESSON_75_DECK
+  },
+  lesson_77: {
+    en: LESSON_77_DECK
+  },
+  lesson_79: {
+    en: LESSON_79_DECK
+  },
+  lesson_81: {
+    en: LESSON_81_DECK
+  },
+  lesson_83: {
+    en: LESSON_83_DECK
+  },
+  lesson_85: {
+    en: LESSON_85_DECK
+  },
+  lesson_89: {
+    en: LESSON_89_DECK
+  },
+  lesson_91: {
+    en: LESSON_91_DECK
+  },
   to_be_1: {
     en: TO_BE_1_DECK
   },
@@ -35445,15 +35482,6 @@ export const STATIC_DECKS: Record<string, Record<string, FlashcardData[]>> = {
   },
   to_move_put: {
     en: TO_MOVE_PUT_DECK
-  },
-  travel_stay_need: {
-    en: TRAVEL_STAY_NEED_DECK
-  },
-  know_work_live: {
-    en: KNOW_WORK_LIVE_DECK
-  },
-  study_understand_learn: {
-    en: STUDY_UNDERSTAND_LEARN_DECK
   },
   lesson_1_vocabulary_a1: {
     en: LESSON_1_VOCABULARY_A1_DECK
