@@ -489,9 +489,9 @@ const Card: React.FC<CardProps> = ({
     const syllables = data.syllables && data.syllables.length > 0 ? data.syllables : [data.word];
     const fullWordLower = data.word.toLowerCase().replace(/’/g, "'");
     
-    // Group syllables into words to prevent breaking inside a word
-    const words: { syllables: { text: string; index: number }[] }[] = [];
-    let currentWord: { text: string; index: number }[] = [];
+    // Group syllables and gap segments into words to prevent breaking inside a word
+    const words: { segments: { text: string; isSyllable: boolean; index: number }[] }[] = [];
+    let currentWord: { text: string; isSyllable: boolean; index: number }[] = [];
     let cursor = 0;
 
     syllables.forEach((syllable, index) => {
@@ -512,6 +512,20 @@ const Card: React.FC<CardProps> = ({
         }
 
         if (matchIndex !== -1) {
+            // If there is any untracked text (like hyphens, spacing or punctuation) before the syllable, capture it
+            if (matchIndex > cursor) {
+                const extra = data.word.slice(cursor, matchIndex);
+                if (extra.startsWith(' ') && currentWord.length > 0) {
+                    words.push({ segments: currentWord });
+                    currentWord = [];
+                }
+                currentWord.push({ text: extra, isSyllable: false, index: -1 });
+                if (extra.endsWith(' ')) {
+                    words.push({ segments: currentWord });
+                    currentWord = [];
+                }
+            }
+
             const endOfSyllable = matchIndex + syllable.length;
             
             // Check if there is a space before the next syllable starts
@@ -531,35 +545,56 @@ const Card: React.FC<CardProps> = ({
 
         // Force finalization of the previous word group if the current syllable starts with a space
         if (syllable.startsWith(' ') && currentWord.length > 0) {
-            words.push({ syllables: currentWord });
+            words.push({ segments: currentWord });
             currentWord = [];
         }
 
-        currentWord.push({ text: syllable, index });
+        currentWord.push({ text: syllable, isSyllable: true, index });
 
         // If space detected or it's the last syllable, finalize the word group
         if (hasSpaceAfter || index === syllables.length - 1) {
-            words.push({ syllables: currentWord });
+            words.push({ segments: currentWord });
             currentWord = [];
         }
     });
 
+    // Capture any remaining trailing text (like final punctuation) at the end of the word
+    if (cursor < data.word.length) {
+        const extra = data.word.slice(cursor);
+        if (currentWord.length > 0) {
+            currentWord.push({ text: extra, isSyllable: false, index: -1 });
+            words.push({ segments: currentWord });
+        } else {
+            words.push({ segments: [{ text: extra, isSyllable: false, index: -1 }] });
+        }
+    }
+
     return (
-      <div className="flex flex-wrap justify-center items-end gap-x-3 gap-y-2 w-full text-center text-2xl md:text-3xl font-extrabold">
+      <div className="flex flex-wrap justify-center items-end gap-x-1 sm:gap-x-2 gap-y-2 w-full text-center text-2xl md:text-3xl font-extrabold">
         {words.map((wordGroup, i) => (
-          <span key={i} className="whitespace-nowrap inline-flex">
-            {wordGroup.syllables.map((syl) => (
-                <span 
-                key={syl.index}
-                className={`transition-colors duration-75 leading-none ${
-                    activeSyllableIndex === syl.index 
-                    ? 'bg-yellow-200 dark:bg-amber-600 text-slate-900 dark:text-white rounded-lg'
-                    : ''
-                }`}
-                >
-                {syl.text.trim()}
-                </span>
-            ))}
+          <span key={i} className="whitespace-nowrap inline-flex items-center">
+            {wordGroup.segments.map((seg, sIdx) => {
+              if (seg.isSyllable) {
+                return (
+                  <span 
+                    key={seg.index}
+                    className={`transition-colors duration-75 leading-none ${
+                        activeSyllableIndex === seg.index 
+                        ? 'bg-yellow-250 dark:bg-amber-600 text-slate-900 dark:text-white rounded-lg px-0.5'
+                        : ''
+                    }`}
+                  >
+                    {seg.text.trim()}
+                  </span>
+                );
+              } else {
+                return (
+                  <span key={`extra-${sIdx}`} className="leading-none text-slate-800 dark:text-white">
+                    {seg.text}
+                  </span>
+                );
+              }
+            })}
           </span>
         ))}
       </div>
