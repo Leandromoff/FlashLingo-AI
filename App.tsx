@@ -6,7 +6,7 @@ import Card from './components/Card';
 import ProgressBar from './components/ProgressBar';
 import { FlagUS, FlagES } from './components/Flags';
 import { useLocalStorage } from './hooks/useLocalStorage';
-import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, ChevronDown, ChevronUp, Folder, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap, Wrench } from 'lucide-react';
+import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, ChevronDown, ChevronUp, Folder, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap, Wrench, Info } from 'lucide-react';
 
 const CARDS_PER_DECK = 10;
 const SESSION_DURATION = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
@@ -106,6 +106,7 @@ const App: React.FC = () => {
 
   // Preferences
   const [isDarkMode, setIsDarkMode] = useLocalStorage<boolean>('flashlingo_dark_mode', true);
+  const [showAbout, setShowAbout] = useState(false);
 
   // Dark Mode Effect
   useEffect(() => {
@@ -404,6 +405,7 @@ const App: React.FC = () => {
 
             <div className="flex gap-3">
                 <button onClick={() => setIsDarkMode(!isDarkMode)} title={isDarkMode ? 'Modo Claro' : 'Modo Escuro'} className={`flex items-center justify-center p-2 w-10 h-10 rounded-full transition-all border ${isDarkMode ? 'bg-slate-800 text-yellow-400 border-slate-700 hover:bg-slate-700' : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50'}`}>{isDarkMode ? <Sun size={20} /> : <Moon size={20} />}</button>
+                <button onClick={() => setShowAbout(true)} title="Sobre o FlashLingo" className={`flex items-center justify-center p-2 w-10 h-10 rounded-full transition-all border ${isDarkMode ? 'bg-slate-800 text-indigo-400 border-slate-700 hover:bg-slate-700' : 'bg-white text-indigo-600 border-slate-200 hover:bg-slate-50'}`}><Info size={20} /></button>
             </div>
           </div>
       </div>
@@ -666,6 +668,120 @@ const App: React.FC = () => {
     );
   };
 
+  const renderAboutModal = () => {
+    return (
+      <div 
+        className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-50 flex items-center justify-center p-4 transition-all duration-300 animate-fadeIn"
+        onClick={() => setShowAbout(false)}
+        id="about-modal-backdrop"
+      >
+        <div 
+          className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl max-w-lg w-full max-h-[85vh] overflow-y-auto shadow-2xl p-6 sm:p-8 flex flex-col relative transition-all duration-300"
+          onClick={(e) => e.stopPropagation()}
+          id="about-modal-box"
+        >
+          {/* Close button top right */}
+          <button 
+            onClick={() => setShowAbout(false)}
+            className="absolute top-4 right-4 text-slate-400 hover:text-slate-600 dark:hover:text-slate-300 p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+          >
+            <X size={20} />
+          </button>
+
+          {/* Header */}
+          <div className="flex items-center gap-4 mb-6">
+            <div className="bg-indigo-100 dark:bg-indigo-950 p-3 rounded-2xl text-indigo-600 dark:text-indigo-400 shadow-sm">
+              <BrainCircuit size={32} />
+            </div>
+            <div className="text-left">
+              <div className="flex items-center">
+                <h2 className="text-2xl font-black text-slate-900 dark:text-white tracking-tight">FlashLingo AI</h2>
+                <span className="text-[10px] font-bold bg-indigo-100 dark:bg-indigo-900/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-900 px-2 py-0.5 rounded-md ml-2 tracking-wide">V1.5.0</span>
+              </div>
+              <p className="text-xs font-semibold text-slate-400 dark:text-slate-500 uppercase tracking-widest mt-0.5">Estudo Inteligente de Idiomas</p>
+            </div>
+          </div>
+
+          <div className="space-y-6 text-sm text-slate-600 dark:text-slate-300">
+            {/* Description */}
+            <div className="bg-slate-100/70 dark:bg-slate-800/40 p-4 rounded-2xl border border-slate-200/65 dark:border-slate-800/60 text-left">
+              <p className="leading-relaxed font-medium text-slate-700 dark:text-slate-200">
+                O <strong>FlashLingo AI</strong> é um aplicativo inteligente de flashcards projetado para acelerar e solidificar a aquisição de novos idiomas. Unindo o poder de revisões estruturadas por lição, guias de pronúncia fonética e sotaques adaptados, a ferramenta facilita o desenvolvimento do seu vocabulário de forma estimulante e guiada.
+              </p>
+            </div>
+
+            {/* Core Pillars */}
+            <div className="text-left">
+              <h3 className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-3 flex items-center gap-1.5"><Sparkles size={14} className="text-indigo-500" /> Principais Recursos</h3>
+              <ul className="space-y-4">
+                <li className="flex gap-3">
+                  <div className="mt-0.5 p-1 bg-indigo-50 dark:bg-indigo-950/50 rounded-lg text-indigo-500 shrink-0"><Check size={14} /></div>
+                  <div>
+                    <span className="font-bold text-slate-800 dark:text-white block">Áudio & Separação Silábica Ativa</span>
+                    <span className="text-xs block text-slate-500 dark:text-slate-400 mt-0.5 font-medium leading-relaxed">Exclusiva tecnologia de sintonia que destaca cada bloco silábico ativamente conforme a pronúncia acontece, facilitando a memorização visual e fonológica.</span>
+                  </div>
+                </li>
+                <li className="flex gap-3">
+                  <div className="mt-0.5 p-1 bg-indigo-50 dark:bg-indigo-950/50 rounded-lg text-indigo-500 shrink-0"><Check size={14} /></div>
+                  <div>
+                    <span className="font-bold text-slate-800 dark:text-white block">Pronúncia Fonética Intuitiva</span>
+                    <span className="text-xs block text-slate-500 dark:text-slate-400 mt-0.5 font-medium leading-relaxed">Transcrição silábica fonética adaptada para falantes de português. Você lê com nossa fonética simplificada e o som sai perfeito!</span>
+                  </div>
+                </li>
+                <li className="flex gap-3">
+                  <div className="mt-0.5 p-1 bg-indigo-50 dark:bg-indigo-950/50 rounded-lg text-indigo-500 shrink-0"><Check size={14} /></div>
+                  <div>
+                    <span className="font-bold text-slate-800 dark:text-white block font-sans">Lições Criteriosas (Métodos W2 & W4)</span>
+                    <span className="text-xs block text-slate-500 dark:text-slate-400 mt-0.5 font-medium leading-relaxed">Cards distribuídos didaticamente em lições fixas das metodologias W2 e W4 (Inglês) e Vocabulários A1 para maximizar sua evolução em contextos práticos cotidianos.</span>
+                  </div>
+                </li>
+                <li className="flex gap-3">
+                  <div className="mt-0.5 p-1 bg-indigo-50 dark:bg-indigo-950/50 rounded-lg text-indigo-500 shrink-0"><Check size={14} /></div>
+                  <div>
+                    <span className="font-bold text-slate-800 dark:text-white block">Sessões Híbridas & Persistentes</span>
+                    <span className="text-xs block text-slate-500 dark:text-slate-400 mt-0.5 font-medium leading-relaxed">Acompanhamento de progresso instantâneo. Caso precise fechar o aplicativo, o progresso ativo é gravado de forma segura em seu dispositivo para retornar exatamente de onde parou.</span>
+                  </div>
+                </li>
+              </ul>
+            </div>
+
+            {/* How to study */}
+            <div className="border-t border-slate-200 dark:border-slate-800 pt-5 text-left">
+              <h3 className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-2.5">Como Estudar</h3>
+              <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed font-semibold">
+                Navegue pelas listas de lições expandidas, selecione um baralho e clique para iniciar. A navegação entre os cartões é fluida e simples:
+              </p>
+              <ul className="space-y-2 mt-3 text-xs text-slate-500 dark:text-slate-400 font-medium font-sans">
+                <li className="flex items-start gap-2">
+                  <span className="bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 font-bold px-1.5 py-0.5 rounded text-[10px] shrink-0 border border-slate-200 dark:border-slate-700 font-sans">↻ Girar</span>
+                  <span>Toque no botão central de giro para virar o cartão e visualizar a tradução, pronúncias e exemplos práticos com karaokê.</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="bg-emerald-50 dark:bg-emerald-950/40 text-emerald-600 dark:text-emerald-400 font-bold px-1.5 py-0.5 rounded text-[10px] shrink-0 border border-emerald-100 dark:border-emerald-900/40 font-sans">✓ Avançar</span>
+                  <span>Pressione o botão da direita com check verde para confirmar o aprendizado da palavra e avançar no baralho.</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 font-bold px-1.5 py-0.5 rounded text-[10px] shrink-0 border border-slate-200 dark:border-slate-700 font-sans">← Voltar</span>
+                  <span>Toque na seta para a esquerda na lateral esquerda para voltar ao cartão anterior caso precise fazer uma revisão rápida.</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          {/* Action button */}
+          <div className="mt-8">
+            <button 
+              onClick={() => setShowAbout(false)}
+              className="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-4 rounded-2xl transition-all shadow-md hover:scale-[1.01] active:scale-[0.99] text-center flex items-center justify-center gap-2"
+            >
+              Começar a Estudar
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
     const pw = password.trim().toLowerCase();
@@ -723,6 +839,7 @@ const App: React.FC = () => {
       {appState === AppState.ERROR && renderError()}
       {appState === AppState.STUDY && renderStudy()}
       {appState === AppState.SUMMARY && renderSummary()}
+      {showAbout && renderAboutModal()}
     </div>
   );
 };
