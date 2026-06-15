@@ -6,7 +6,7 @@ import Card from './components/Card';
 import ProgressBar from './components/ProgressBar';
 import { FlagUS, FlagES } from './components/Flags';
 import { useLocalStorage } from './hooks/useLocalStorage';
-import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, ChevronDown, ChevronUp, Folder, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap, Wrench, Info } from 'lucide-react';
+import { BrainCircuit, Sparkles, Check, X, RotateCcw, BookOpen, Trophy, ArrowRight, Music2, Star, Moon, Sun, TrendingUp, Languages, ChevronLeft, ChevronRight, ChevronDown, ChevronUp, Folder, Gauge, Trash2, BookOpenText, Volume2, Loader2, ArrowLeft, Eye, EyeOff, GaugeCircle, GraduationCap, Wrench, Info, Snail, Zap, RefreshCw, ToggleRight } from 'lucide-react';
 
 const CARDS_PER_DECK = 10;
 const SESSION_DURATION = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
@@ -748,21 +748,96 @@ const App: React.FC = () => {
             {/* How to study */}
             <div className="border-t border-slate-200 dark:border-slate-800 pt-5 text-left">
               <h3 className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-2.5">Como Estudar</h3>
-              <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed font-semibold">
+              <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed font-semibold mb-4">
                 Navegue pelas listas de lições expandidas, selecione um baralho e clique para iniciar. A navegação entre os cartões é fluida e simples:
               </p>
-              <ul className="space-y-2 mt-3 text-xs text-slate-500 dark:text-slate-400 font-medium font-sans">
-                <li className="flex items-start gap-2">
-                  <span className="bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 font-bold px-1.5 py-0.5 rounded text-[10px] shrink-0 border border-slate-200 dark:border-slate-700 font-sans">↻ Girar</span>
-                  <span>Toque no botão central de giro para virar o cartão e visualizar a tradução, pronúncias e exemplos práticos com karaokê.</span>
+              <ul className="space-y-4 text-xs text-slate-500 dark:text-slate-400 font-medium font-sans">
+                <li className="flex items-start gap-3">
+                  <div className="flex items-center justify-center bg-slate-100 dark:bg-slate-800 text-indigo-500 dark:text-indigo-400 border border-slate-200 dark:border-slate-700/60 w-8 h-8 rounded-full shrink-0 shadow-sm">
+                    <RefreshCw size={14} className="shrink-0" />
+                  </div>
+                  <span className="mt-1 leading-relaxed">
+                    <strong>Girar Carta:</strong> Toque no botão redondo central para virar o cartão e visualizar a tradução, pronúncia, exemplos práticos e o texto em português.
+                  </span>
                 </li>
-                <li className="flex items-start gap-2">
-                  <span className="bg-emerald-50 dark:bg-emerald-950/40 text-emerald-600 dark:text-emerald-400 font-bold px-1.5 py-0.5 rounded text-[10px] shrink-0 border border-emerald-100 dark:border-emerald-900/40 font-sans">✓ Avançar</span>
-                  <span>Pressione o botão da direita com check verde para confirmar o aprendizado da palavra e avançar no baralho.</span>
+                <li className="flex items-start gap-3">
+                  <div className="flex items-center justify-center bg-emerald-50 dark:bg-emerald-950/20 text-emerald-600 dark:text-emerald-400 border border-emerald-100 dark:border-emerald-900/30 w-8 h-8 rounded-full shrink-0 shadow-sm">
+                    <Check size={14} strokeWidth={3} className="shrink-0" />
+                  </div>
+                  <span className="mt-1 leading-relaxed">
+                    <strong>Marcar como Aprendido:</strong> Pressione o check verde da direita para confirmar o domínio da palavra e avançar no baralho.
+                  </span>
                 </li>
-                <li className="flex items-start gap-2">
-                  <span className="bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 font-bold px-1.5 py-0.5 rounded text-[10px] shrink-0 border border-slate-200 dark:border-slate-700 font-sans">← Voltar</span>
-                  <span>Toque na seta para a esquerda na lateral esquerda para voltar ao cartão anterior caso precise fazer uma revisão rápida.</span>
+                <li className="flex items-start gap-3">
+                  <div className="flex items-center justify-center bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-350 border border-slate-200 dark:border-slate-700/60 w-8 h-8 rounded-full shrink-0 shadow-sm">
+                    <ArrowLeft size={14} strokeWidth={3} className="shrink-0" />
+                  </div>
+                  <span className="mt-1 leading-relaxed">
+                    <strong>Revisar Anterior:</strong> Toque na seta à esquerda para voltar ao cartão anterior caso precise rever a palavra rapidamente.
+                  </span>
+                </li>
+              </ul>
+            </div>
+
+            {/* Auto Play System */}
+            <div className="border-t border-slate-200 dark:border-slate-800 pt-5 text-left animate-fadeIn">
+              <h3 className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-2.5 flex items-center gap-1.5"><Sparkles size={14} className="text-indigo-500" /> Sons e Leituras Guiadas</h3>
+              <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed font-semibold mb-4">
+                No topo do cartão, você tem acesso a recursos interativos individuais para treinar seus ouvidos e ritmo:
+              </p>
+              <ul className="space-y-4 text-xs text-slate-500 dark:text-slate-400 font-medium font-sans">
+                <li className="flex items-start gap-3">
+                  <div className="flex items-center justify-center bg-amber-50 dark:bg-amber-950/15 text-amber-600 dark:text-amber-500 border border-amber-100 dark:border-amber-900/20 w-8 h-8 rounded-full shrink-0 shadow-sm">
+                    <Zap size={14} className="fill-current shrink-0" />
+                  </div>
+                  <span className="mt-1 leading-relaxed">
+                    <strong>Áudio Standard:</strong> Reproduz a pronúncia em tom e velocidade natural de conversação real de forma limpa.
+                  </span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <div className="flex items-center justify-center bg-amber-50 dark:bg-amber-950/15 text-amber-600 dark:text-amber-500 border border-amber-100 dark:border-amber-900/20 w-8 h-8 rounded-full shrink-0 shadow-sm">
+                    <Snail size={14} className="fill-current shrink-0" />
+                  </div>
+                  <span className="mt-1 leading-relaxed">
+                    <strong>Áudio Lento:</strong> Modo tartaruga de pronúncia silabada, ideal para você captar cada fonema nos mínimos detalhes.
+                  </span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <div className="flex items-center justify-center bg-blue-50 dark:bg-blue-950/10 text-indigo-600 dark:text-indigo-400 border border-blue-100 dark:border-blue-900/20 w-8 h-8 rounded-full shrink-0 shadow-sm">
+                    <Eye size={14} className="shrink-0" />
+                  </div>
+                  <span className="mt-1 leading-relaxed">
+                    <strong>Leitura Dinâmica:</strong> Ativa as marcações em karaoke visual amarelo sílaba por sílaba para guiar seu foco de leitura e internalização de ritmo.
+                  </span>
+                </li>
+              </ul>
+            </div>
+
+            {/* Explaining Auto Play controls separately */}
+            <div className="border-t border-slate-200 dark:border-slate-800 pt-5 text-left animate-fadeIn">
+              <h3 className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-2.5 flex items-center gap-1.5"><ToggleRight size={15} className="text-emerald-500" /> Chaves de Automatização (Auto Play)</h3>
+              <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed font-semibold mb-4">
+                Logo abaixo de cada um desses símbolos há uma pequena chave (switch) verde. Veja como ela funciona:
+              </p>
+              <ul className="space-y-4 text-xs text-slate-500 dark:text-slate-400 font-medium font-sans">
+                <li className="flex items-start gap-3">
+                  <div className="flex items-center justify-center bg-slate-100 dark:bg-slate-800 text-emerald-500 border border-slate-200 dark:border-slate-700 w-8 h-8 rounded-full shrink-0 shadow-sm">
+                    <ToggleRight size={16} className="shrink-0" />
+                  </div>
+                  <span className="mt-1 leading-relaxed">
+                    <strong>Auto Play de Recurso:</strong> Se a chave estiver ativada (verde), esse recurso de áudio ou karaoke visual iniciará <strong>automaticamente</strong> assim que você passar para o próximo cartão.
+                  </span>
+                </li>
+                <li className="flex items-start gap-3 border-t border-slate-100 dark:border-slate-850/40 pt-2.5">
+                  <div className="flex flex-col items-center gap-1 shrink-0 w-8">
+                    <div className="flex items-center justify-center bg-emerald-50 dark:bg-emerald-950/20 text-emerald-600 dark:text-emerald-400 border border-emerald-100 dark:border-emerald-900/30 w-8 h-8 rounded-full shadow-sm">
+                      <Check size={14} strokeWidth={3} />
+                    </div>
+                    <ToggleRight size={10} className="text-emerald-500 shrink-0" />
+                  </div>
+                  <span className="mt-1.5 leading-relaxed">
+                    <strong>Avanço Automático (Hands-Free):</strong> Ativando a chave verde sob o botão do check verde, o aplicativo irá <strong>avançar sozinho</strong> para a próxima palavra assim que a reprodução das mídias selecionadas terminar. Estude sem precisar digitar ou clicar!
+                  </span>
                 </li>
               </ul>
             </div>
