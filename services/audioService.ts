@@ -44,6 +44,8 @@ export const playLocalAudio = (
       let langCode = 'en-US';
       if (language === 'es') langCode = 'es-ES'; // Default ES
 
+      utterance.lang = langCode;
+
       // Prioritize natural voices based on language
       const preferredVoices = voices.filter(v => 
         v.lang.startsWith(langCode.substring(0, 2)) && 
