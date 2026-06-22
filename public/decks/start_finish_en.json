@@ -1,0 +1,1692 @@
+[
+  {
+    "id": "start_finish_1",
+    "word": "to start",
+    "translation": "começar",
+    "pronunciation": "/tə stɑrt/",
+    "portuguesePhonetic": "tchu start",
+    "syllables": [
+      "to",
+      " start"
+    ],
+    "exampleSentence": "to start",
+    "exampleTranslation": "começar"
+  },
+  {
+    "id": "start_finish_2",
+    "word": "to finish",
+    "translation": "terminar",
+    "pronunciation": "/tə ˈfɪnɪʃ/",
+    "portuguesePhonetic": "tchu fí-nix",
+    "syllables": [
+      "to",
+      " fi",
+      "nish"
+    ],
+    "exampleSentence": "to finish",
+    "exampleTranslation": "terminar"
+  },
+  {
+    "id": "start_finish_3",
+    "word": "project",
+    "translation": "projeto",
+    "pronunciation": "/ˈprɑdʒɛkt/",
+    "portuguesePhonetic": "pró-dject",
+    "syllables": [
+      "pro",
+      "ject"
+    ],
+    "exampleSentence": "project",
+    "exampleTranslation": "projeto"
+  },
+  {
+    "id": "start_finish_4",
+    "word": "college",
+    "translation": "faculdade",
+    "pronunciation": "/ˈkɑlɪdʒ/",
+    "portuguesePhonetic": "có-ledj",
+    "syllables": [
+      "col",
+      "lege"
+    ],
+    "exampleSentence": "college",
+    "exampleTranslation": "faculdade"
+  },
+  {
+    "id": "start_finish_5",
+    "word": "high school",
+    "translation": "ensino médio",
+    "pronunciation": "/haɪ skul/",
+    "portuguesePhonetic": "rai scul",
+    "syllables": [
+      "high",
+      " school"
+    ],
+    "exampleSentence": "high school",
+    "exampleTranslation": "ensino médio"
+  },
+  {
+    "id": "start_finish_6",
+    "word": "course",
+    "translation": "curso",
+    "pronunciation": "/kɔrs/",
+    "portuguesePhonetic": "córs",
+    "syllables": [
+      "course"
+    ],
+    "exampleSentence": "course",
+    "exampleTranslation": "curso"
+  },
+  {
+    "id": "start_finish_7",
+    "word": "task",
+    "translation": "tarefa",
+    "pronunciation": "/tæsk/",
+    "portuguesePhonetic": "tésk",
+    "syllables": [
+      "task"
+    ],
+    "exampleSentence": "task",
+    "exampleTranslation": "tarefa"
+  },
+  {
+    "id": "start_finish_8",
+    "word": "meeting",
+    "translation": "reunião",
+    "pronunciation": "/ˈmitɪŋ/",
+    "portuguesePhonetic": "mí-tin",
+    "syllables": [
+      "meet",
+      "ing"
+    ],
+    "exampleSentence": "meeting",
+    "exampleTranslation": "reunião"
+  },
+  {
+    "id": "start_finish_9",
+    "word": "exam",
+    "translation": "exame, prova",
+    "pronunciation": "/ɪɡˈzæm/",
+    "portuguesePhonetic": "ig-zém",
+    "syllables": [
+      "ex",
+      "am"
+    ],
+    "exampleSentence": "exam",
+    "exampleTranslation": "exame, prova"
+  },
+  {
+    "id": "start_finish_10",
+    "word": "business",
+    "translation": "negócios",
+    "pronunciation": "/ˈbɪznɪs/",
+    "portuguesePhonetic": "bíz-nes",
+    "syllables": [
+      "bu",
+      "si",
+      "ness"
+    ],
+    "exampleSentence": "business",
+    "exampleTranslation": "negócios"
+  },
+  {
+    "id": "start_finish_11",
+    "word": "semester",
+    "translation": "semestre",
+    "pronunciation": "/səˈmɛstər/",
+    "portuguesePhonetic": "se-més-ter",
+    "syllables": [
+      "se",
+      "mes",
+      "ter"
+    ],
+    "exampleSentence": "semester",
+    "exampleTranslation": "semestre"
+  },
+  {
+    "id": "start_finish_12",
+    "word": "hour",
+    "translation": "hora",
+    "pronunciation": "/ˈaʊər/",
+    "portuguesePhonetic": "áu-er",
+    "syllables": [
+      "hour"
+    ],
+    "exampleSentence": "hour",
+    "exampleTranslation": "hora"
+  },
+  {
+    "id": "start_finish_13",
+    "word": "minute",
+    "translation": "minuto",
+    "pronunciation": "/ˈmɪnɪt/",
+    "portuguesePhonetic": "mí-net",
+    "syllables": [
+      "mi",
+      "nute"
+    ],
+    "exampleSentence": "minute",
+    "exampleTranslation": "minuto"
+  },
+  {
+    "id": "start_finish_14",
+    "word": "deadline",
+    "translation": "prazo",
+    "pronunciation": "/ˈdɛdˌlaɪn/",
+    "portuguesePhonetic": "déd-lain",
+    "syllables": [
+      "dead",
+      "line"
+    ],
+    "exampleSentence": "deadline",
+    "exampleTranslation": "prazo"
+  },
+  {
+    "id": "start_finish_15",
+    "word": "next",
+    "translation": "próximo, seguinte",
+    "pronunciation": "/nɛkst/",
+    "portuguesePhonetic": "nékst",
+    "syllables": [
+      "next"
+    ],
+    "exampleSentence": "next",
+    "exampleTranslation": "próximo, seguinte"
+  },
+  {
+    "id": "start_finish_16",
+    "word": "everything",
+    "translation": "tudo",
+    "pronunciation": "/ˈɛvriˌθɪŋ/",
+    "portuguesePhonetic": "é-vri-thin",
+    "syllables": [
+      "e",
+      "ve",
+      "ry",
+      "thing"
+    ],
+    "exampleSentence": "everything",
+    "exampleTranslation": "tudo"
+  },
+  {
+    "id": "start_finish_17",
+    "word": "great",
+    "translation": "ótimo(a)",
+    "pronunciation": "/ɡreɪt/",
+    "portuguesePhonetic": "greit",
+    "syllables": [
+      "great"
+    ],
+    "exampleSentence": "great",
+    "exampleTranslation": "ótimo(a)"
+  },
+  {
+    "id": "start_finish_18",
+    "word": "I start a new course this morning.",
+    "translation": "Eu começo um curso novo esta manhã.",
+    "pronunciation": "/aɪ stɑrt ə nu kɔrs ðɪs ˈmɔrnɪŋ/",
+    "portuguesePhonetic": "ai start a niu cors díz mór-nin",
+    "syllables": [
+      "I",
+      " start",
+      " a",
+      " new",
+      " course",
+      " this",
+      " mor",
+      "ning."
+    ],
+    "exampleSentence": "I start a new course this morning.",
+    "exampleTranslation": "Eu começo um curso novo esta manhã."
+  },
+  {
+    "id": "start_finish_19",
+    "word": "I do my homework on weekends.",
+    "translation": "Eu faço minha lição de casa nos fins de semana.",
+    "pronunciation": "/aɪ du maɪ ˈhoʊmˌwɜrk ɑn ˈwikˌɛndz/",
+    "portuguesePhonetic": "ai du mai rôum-uãrk on uí-kends",
+    "syllables": [
+      "I",
+      " do",
+      " my",
+      " home",
+      "work",
+      " on",
+      " week",
+      "ends."
+    ],
+    "exampleSentence": "I do my homework on weekends.",
+    "exampleTranslation": "Eu faço minha lição de casa nos fins de semana."
+  },
+  {
+    "id": "start_finish_20",
+    "word": "Let's start!",
+    "translation": "Vamos começar!",
+    "pronunciation": "/lɛts stɑrt/",
+    "portuguesePhonetic": "léts start",
+    "syllables": [
+      "Let's",
+      " start!"
+    ],
+    "exampleSentence": "Let's start!",
+    "exampleTranslation": "Vamos começar!"
+  },
+  {
+    "id": "start_finish_21",
+    "word": "I start college this year.",
+    "translation": "Eu começo a faculdade este ano.",
+    "pronunciation": "/aɪ stɑrt ˈkɑlɪdʒ ðɪs jɪr/",
+    "portuguesePhonetic": "ai start có-ledj díz ír",
+    "syllables": [
+      "I",
+      " start",
+      " col",
+      "lege",
+      " this",
+      " year."
+    ],
+    "exampleSentence": "I start college this year.",
+    "exampleTranslation": "Eu começo a faculdade este ano."
+  },
+  {
+    "id": "start_finish_22",
+    "word": "We have to start the meeting now.",
+    "translation": "Nós temos que começar a reunião agora.",
+    "pronunciation": "/wi hæv tə stɑrt ðə ˈmitɪŋ naʊ/",
+    "portuguesePhonetic": "uí rév tchu start dâ mí-tin náu",
+    "syllables": [
+      "We",
+      " have",
+      " to",
+      " start",
+      " the",
+      " meet",
+      "ing",
+      " now."
+    ],
+    "exampleSentence": "We have to start the meeting now.",
+    "exampleTranslation": "Nós temos que começar a reunião agora."
+  },
+  {
+    "id": "start_finish_23",
+    "word": "They want to start the course next semester.",
+    "translation": "Eles querem começar o curso no próximo semestre.",
+    "pronunciation": "/ðeɪ wɑnt tə stɑrt ðə kɔrs nɛkst səˈmɛstər/",
+    "portuguesePhonetic": "dêi uánt tchu start dâ cors nékst se-més-ter",
+    "syllables": [
+      "They",
+      " want",
+      " to",
+      " start",
+      " the",
+      " course",
+      " next",
+      " se",
+      "mes",
+      "ter."
+    ],
+    "exampleSentence": "They want to start the course next semester.",
+    "exampleTranslation": "Eles querem começar o curso no próximo semestre."
+  },
+  {
+    "id": "start_finish_24",
+    "word": "I don't want to study business in college.",
+    "translation": "Eu não quero estudar negócios na faculdade.",
+    "pronunciation": "/aɪ doʊnt wɑnt tə ˈstʌdi ˈbɪznɪs ɪn ˈkɑlɪdʒ/",
+    "portuguesePhonetic": "ai dôunt uánt tchu stâ-di bíz-nes in có-ledj",
+    "syllables": [
+      "I",
+      " don't",
+      " want",
+      " to",
+      " stu",
+      "dy",
+      " bu",
+      "si",
+      "ness",
+      " in",
+      " col",
+      "lege."
+    ],
+    "exampleSentence": "I don't want to study business in college.",
+    "exampleTranslation": "Eu não quero estudar negócios na faculdade."
+  },
+  {
+    "id": "start_finish_25",
+    "word": "They don't need to start the project this week.",
+    "translation": "Eles não precisam começar o projeto esta semana.",
+    "pronunciation": "/ðeɪ doʊnt nid tə stɑrt ðə ˈprɑdʒɛkt ðɪs wik/",
+    "portuguesePhonetic": "dêi dôunt nid tchu start dâ pró-dject díz uík",
+    "syllables": [
+      "They",
+      " don't",
+      " need",
+      " to",
+      " start",
+      " the",
+      " pro",
+      "ject",
+      " this",
+      " week."
+    ],
+    "exampleSentence": "They don't need to start the project this week.",
+    "exampleTranslation": "Eles não precisam começar o projeto esta semana."
+  },
+  {
+    "id": "start_finish_26",
+    "word": "Do you have a minute?",
+    "translation": "Você tem um minuto?",
+    "pronunciation": "/du ju hæv ə ˈmɪnɪt/",
+    "portuguesePhonetic": "du iu rév a mí-net",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " a",
+      " mi",
+      "nute?"
+    ],
+    "exampleSentence": "Do you have a minute?",
+    "exampleTranslation": "Você tem um minuto?"
+  },
+  {
+    "id": "start_finish_27",
+    "word": "Do we have a deadline for the project?",
+    "translation": "Nós temos um prazo para o projeto?",
+    "pronunciation": "/du wi hæv ə ˈdɛdˌlaɪn fɔr ðə ˈprɑdʒɛkt/",
+    "portuguesePhonetic": "du uí rév a déd-lain for dâ pró-dject",
+    "syllables": [
+      "Do",
+      " we",
+      " have",
+      " a",
+      " dead",
+      "line",
+      " for",
+      " the",
+      " pro",
+      "ject?"
+    ],
+    "exampleSentence": "Do we have a deadline for the project?",
+    "exampleTranslation": "Nós temos um prazo para o projeto?"
+  },
+  {
+    "id": "start_finish_28",
+    "word": "Do they have a deadline for the project?",
+    "translation": "Eles têm um prazo para terminar essa tarefa aqui?",
+    "pronunciation": "/du ðeɪ hæv ə ˈdɛdˌlaɪn fɔr ðə ˈprɑdʒɛkt/",
+    "portuguesePhonetic": "du dêi rév a déd-lain for dâ pró-dject",
+    "syllables": [
+      "Do",
+      " they",
+      " have",
+      " a",
+      " dead",
+      "line",
+      " for",
+      " the",
+      " pro",
+      "ject?"
+    ],
+    "exampleSentence": "Do they have a deadline for the project?",
+    "exampleTranslation": "Eles têm um prazo para terminar essa tarefa aqui?"
+  },
+  {
+    "id": "start_finish_29",
+    "word": "They start college tomorrow.",
+    "translation": "Eles começam a faculdade amanhã.",
+    "pronunciation": "/ðeɪ stɑrt ˈkɑlɪdʒ təˈmɑroʊ/",
+    "portuguesePhonetic": "dêi start có-ledj tu-mó-rou",
+    "syllables": [
+      "They",
+      " start",
+      " col",
+      "lege",
+      " to",
+      "mor",
+      "row."
+    ],
+    "exampleSentence": "They start college tomorrow.",
+    "exampleTranslation": "Eles começam a faculdade amanhã."
+  },
+  {
+    "id": "start_finish_30",
+    "word": "We start college together tomorrow.",
+    "translation": "Nós começamos a faculdade juntos amanhã.",
+    "pronunciation": "/wi stɑrt ˈkɑlɪdʒ təˈɡɛðər təˈmɑroʊ/",
+    "portuguesePhonetic": "uí start có-ledj tu-gué-der tu-mó-rou",
+    "syllables": [
+      "We",
+      " start",
+      " col",
+      "lege",
+      " to",
+      "ge",
+      "ther",
+      " to",
+      "mor",
+      "row."
+    ],
+    "exampleSentence": "We start college together tomorrow.",
+    "exampleTranslation": "Nós começamos a faculdade juntos amanhã."
+  },
+  {
+    "id": "start_finish_31",
+    "word": "They have two hours to finish the task.",
+    "translation": "Eles têm duas horas para terminar a tarefa.",
+    "pronunciation": "/ðeɪ hæv tu ˈaʊərz tə ˈfɪnɪʃ ðə tæsk/",
+    "portuguesePhonetic": "dêi rév tchu áu-erz tchu fí-nix dâ tésk",
+    "syllables": [
+      "They",
+      " have",
+      " two",
+      " hours",
+      " to",
+      " fi",
+      "nish",
+      " the",
+      " task."
+    ],
+    "exampleSentence": "They have two hours to finish the task.",
+    "exampleTranslation": "Eles têm duas horas para terminar a tarefa."
+  },
+  {
+    "id": "start_finish_32",
+    "word": "We have to start the meeting in five minutes.",
+    "translation": "Nós temos que começar a reunião em cinco minutos.",
+    "pronunciation": "/wi hæv tə stɑrt ðə ˈmitɪŋ ɪn faɪv ˈmɪnɪts/",
+    "portuguesePhonetic": "uí rév tchu start dâ mí-tin in fáiv mí-nets",
+    "syllables": [
+      "We",
+      " have",
+      " to",
+      " start",
+      " the",
+      " meet",
+      "ing",
+      " in",
+      " five",
+      " mi",
+      "nutes."
+    ],
+    "exampleSentence": "We have to start the meeting in five minutes.",
+    "exampleTranslation": "Nós temos que começar a reunião em cinco minutos."
+  },
+  {
+    "id": "start_finish_33",
+    "word": "They have a lot of projects for next year.",
+    "translation": "Eles têm muitos projetos para o próximo ano.",
+    "pronunciation": "/ðeɪ hæv ə lɑt ʌv ˈprɑdʒɛkts fɔr nɛkst jɪr/",
+    "portuguesePhonetic": "dêi rév a lót ov pró-djects for nékst ír",
+    "syllables": [
+      "They",
+      " have",
+      " a",
+      " lot",
+      " of",
+      " pro",
+      "jects",
+      " for",
+      " next",
+      " year."
+    ],
+    "exampleSentence": "They have a lot of projects for next year.",
+    "exampleTranslation": "Eles têm muitos projetos para o próximo ano."
+  },
+  {
+    "id": "start_finish_34",
+    "word": "I finish college next semester.",
+    "translation": "Eu termino a faculdade no próximo semestre.",
+    "pronunciation": "/aɪ ˈfɪnɪʃ ˈkɑlɪdʒ nɛkst səˈmɛstər/",
+    "portuguesePhonetic": "ai fí-nix có-ledj nékst se-més-ter",
+    "syllables": [
+      "I",
+      " fi",
+      "nish",
+      " col",
+      "lege",
+      " next",
+      " se",
+      "mes",
+      "ter."
+    ],
+    "exampleSentence": "I finish college next semester.",
+    "exampleTranslation": "Eu termino a faculdade no próximo semestre."
+  },
+  {
+    "id": "start_finish_35",
+    "word": "We don't have business class in college.",
+    "translation": "Nós não temos aula de negócios na faculdade.",
+    "pronunciation": "/wi doʊnt hæv ˈbɪznɪs klæs ɪn ˈkɑlɪdʒ/",
+    "portuguesePhonetic": "uí dôunt rév bíz-nes clés in có-ledj",
+    "syllables": [
+      "We",
+      " don't",
+      " have",
+      " bu",
+      "si",
+      "ness",
+      " class",
+      " in",
+      " col",
+      "lege."
+    ],
+    "exampleSentence": "We don't have business class in college.",
+    "exampleTranslation": "Nós não temos aula de negócios na faculdade."
+  },
+  {
+    "id": "start_finish_36",
+    "word": "I don't need to finish my homework this afternoon.",
+    "translation": "Eu não preciso terminar minha lição de casa esta tarde.",
+    "pronunciation": "/aɪ doʊnt nid tə ˈfɪnɪʃ maɪ ˈhoʊmˌwɜrk ðɪs ˌæftərˈnun/",
+    "portuguesePhonetic": "ai dôunt nid tchu fí-nix mai rôum-uãrk díz áf-ter-nun",
+    "syllables": [
+      "I",
+      " don't",
+      " need",
+      " to",
+      " fi",
+      "nish",
+      " my",
+      " home",
+      "work",
+      " this",
+      " af",
+      "ter",
+      "noon."
+    ],
+    "exampleSentence": "I don't need to finish my homework this afternoon.",
+    "exampleTranslation": "Eu não preciso terminar minha lição de casa esta tarde."
+  },
+  {
+    "id": "start_finish_37",
+    "word": "Do you have an English exam tomorrow?",
+    "translation": "Você tem uma prova de inglês amanhã?",
+    "pronunciation": "/du ju hæv ən ˈɪŋɡlɪʃ ɪɡˈzæm təˈmɑroʊ/",
+    "portuguesePhonetic": "du iu rév én ín-glix ig-zém tu-mó-rou",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " an",
+      " En",
+      "glish",
+      " ex",
+      "am",
+      " to",
+      "mor",
+      "row?"
+    ],
+    "exampleSentence": "Do you have an English exam tomorrow?",
+    "exampleTranslation": "Você tem uma prova de inglês amanhã?"
+  },
+  {
+    "id": "start_finish_38",
+    "word": "Do we need more money to finish the project?",
+    "translation": "Nós precisamos de mais dinheiro para terminar o projeto?",
+    "pronunciation": "/du wi nid mɔr ˈmʌni tə ˈfɪnɪʃ ðə ˈprɑdʒɛkt/",
+    "portuguesePhonetic": "du uí nid mór mâ-ni tchu fí-nix dâ pró-dject",
+    "syllables": [
+      "Do",
+      " we",
+      " need",
+      " more",
+      " mo",
+      "ney",
+      " to",
+      " fi",
+      "nish",
+      " the",
+      " pro",
+      "ject?"
+    ],
+    "exampleSentence": "Do we need more money to finish the project?",
+    "exampleTranslation": "Nós precisamos de mais dinheiro para terminar o projeto?"
+  },
+  {
+    "id": "start_finish_39",
+    "word": "Do they know everything about that subject?",
+    "translation": "Eles sabem tudo sobre esse assunto?",
+    "pronunciation": "/du ðeɪ noʊ ˈɛvriˌθɪŋ əˈbaʊt ðæt ˈsʌbdʒɪkt/",
+    "portuguesePhonetic": "du dêi nôu é-vri-thin a-báut dét sâb-dject",
+    "syllables": [
+      "Do",
+      " they",
+      " know",
+      " e",
+      "ve",
+      "ry",
+      "thing",
+      " a",
+      "bout",
+      " that",
+      " sub",
+      "ject?"
+    ],
+    "exampleSentence": "Do they know everything about that subject?",
+    "exampleTranslation": "Eles sabem tudo sobre esse assunto?"
+  },
+  {
+    "id": "start_finish_40",
+    "word": "What task do you need to start?",
+    "translation": "Qual tarefa você precisa começar?",
+    "pronunciation": "/wʌt tæsk du ju nid tə stɑrt/",
+    "portuguesePhonetic": "uát tésk du iu nid tchu start",
+    "syllables": [
+      "What",
+      " task",
+      " do",
+      " you",
+      " need",
+      " to",
+      " start?"
+    ],
+    "exampleSentence": "What task do you need to start?",
+    "exampleTranslation": "Qual tarefa você precisa começar?"
+  },
+  {
+    "id": "start_finish_41",
+    "word": "in a minute",
+    "translation": "em um minuto",
+    "pronunciation": "/ɪn ə ˈmɪnɪt/",
+    "portuguesePhonetic": "in a mí-net",
+    "syllables": [
+      "in",
+      " a",
+      " mi",
+      "nute"
+    ],
+    "exampleSentence": "in a minute",
+    "exampleTranslation": "em um minuto"
+  },
+  {
+    "id": "start_finish_42",
+    "word": "in an hour",
+    "translation": "em uma hora",
+    "pronunciation": "/ɪn ən ˈaʊər/",
+    "portuguesePhonetic": "in én áu-er",
+    "syllables": [
+      "in",
+      " an",
+      " hour"
+    ],
+    "exampleSentence": "in an hour",
+    "exampleTranslation": "em uma hora"
+  },
+  {
+    "id": "start_finish_43",
+    "word": "in five minutes",
+    "translation": "em cinco minutos",
+    "pronunciation": "/ɪn faɪv ˈmɪnɪts/",
+    "portuguesePhonetic": "in fáiv mí-nets",
+    "syllables": [
+      "in",
+      " five",
+      " mi",
+      "nutes"
+    ],
+    "exampleSentence": "in five minutes",
+    "exampleTranslation": "em cinco minutos"
+  },
+  {
+    "id": "start_finish_44",
+    "word": "in two hours",
+    "translation": "em duas horas",
+    "pronunciation": "/ɪn tu ˈaʊərz/",
+    "portuguesePhonetic": "in tchu áu-erz",
+    "syllables": [
+      "in",
+      " two",
+      " hours"
+    ],
+    "exampleSentence": "in two hours",
+    "exampleTranslation": "em duas horas"
+  },
+  {
+    "id": "start_finish_45",
+    "word": "What do you...?",
+    "translation": "O que você...?",
+    "pronunciation": "/wʌt du ju/",
+    "portuguesePhonetic": "uát du iu",
+    "syllables": [
+      "What",
+      " do",
+      " you...?"
+    ],
+    "exampleSentence": "What do you...?",
+    "exampleTranslation": "O que você...?"
+  },
+  {
+    "id": "start_finish_46",
+    "word": "Where do they...?",
+    "translation": "Onde eles...?",
+    "pronunciation": "/wɛr du ðeɪ/",
+    "portuguesePhonetic": "uér du dêi",
+    "syllables": [
+      "Where",
+      " do",
+      " they...?"
+    ],
+    "exampleSentence": "Where do they...?",
+    "exampleTranslation": "Onde eles...?"
+  },
+  {
+    "id": "start_finish_47",
+    "word": "What time do you...?",
+    "translation": "Que horas você...?",
+    "pronunciation": "/wʌt taɪm du ju/",
+    "portuguesePhonetic": "uát táim du iu",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " you...?"
+    ],
+    "exampleSentence": "What time do you...?",
+    "exampleTranslation": "Que horas você...?"
+  },
+  {
+    "id": "start_finish_48",
+    "word": "to go to the meeting",
+    "translation": "ir para a reunião",
+    "pronunciation": "/tə ɡoʊ tə ðə ˈmitɪŋ/",
+    "portuguesePhonetic": "tchu gôu tchu dâ mí-tin",
+    "syllables": [
+      "to",
+      " go",
+      " to",
+      " the",
+      " meet",
+      "ing"
+    ],
+    "exampleSentence": "to go to the meeting",
+    "exampleTranslation": "ir para a reunião"
+  },
+  {
+    "id": "start_finish_49",
+    "word": "Where do they go to the meeting?",
+    "translation": "Onde eles vão para a reunião?",
+    "pronunciation": "/wɛr du ðeɪ ɡoʊ tə ðə ˈmitɪŋ/",
+    "portuguesePhonetic": "uér du dêi gôu tchu dâ mí-tin",
+    "syllables": [
+      "Where",
+      " do",
+      " they",
+      " go",
+      " to",
+      " the",
+      " meet",
+      "ing?"
+    ],
+    "exampleSentence": "Where do they go to the meeting?",
+    "exampleTranslation": "Onde eles vão para a reunião?"
+  },
+  {
+    "id": "start_finish_50",
+    "word": "What time do you go to the meeting?",
+    "translation": "A que horas você vai para a reunião?",
+    "pronunciation": "/wʌt taɪm du ju ɡoʊ tə ðə ˈmitɪŋ/",
+    "portuguesePhonetic": "uát táim du iu gôu tchu dâ mí-tin",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " you",
+      " go",
+      " to",
+      " the",
+      " meet",
+      "ing?"
+    ],
+    "exampleSentence": "What time do you go to the meeting?",
+    "exampleTranslation": "A que horas você vai para a reunião?"
+  },
+  {
+    "id": "start_finish_51",
+    "word": "to speak at the meeting",
+    "translation": "falar na reunião",
+    "pronunciation": "/tə spik æt ðə ˈmitɪŋ/",
+    "portuguesePhonetic": "tchu spik ét dâ mí-tin",
+    "syllables": [
+      "to",
+      " speak",
+      " at",
+      " the",
+      " meet",
+      "ing"
+    ],
+    "exampleSentence": "to speak at the meeting",
+    "exampleTranslation": "falar na reunião"
+  },
+  {
+    "id": "start_finish_52",
+    "word": "Excuse me! May I come in?",
+    "translation": "Com licença! Posso entrar?",
+    "pronunciation": "/ɪkˈkjuz mi | meɪ aɪ kʌm ɪn/",
+    "portuguesePhonetic": "iks-kiúz mí, mêi ai câm in",
+    "syllables": [
+      "Ex",
+      "cuse",
+      " me!",
+      " May",
+      " I",
+      " come",
+      " in?"
+    ],
+    "exampleSentence": "Excuse me! May I come in?",
+    "exampleTranslation": "Com licença! Posso entrar?"
+  },
+  {
+    "id": "start_finish_53",
+    "word": "Sure! Come in!",
+    "translation": "Claro! Entre!",
+    "pronunciation": "/ʃʊr | kʌm ɪn/",
+    "portuguesePhonetic": "xur, câm in",
+    "syllables": [
+      "Sure!",
+      " Come",
+      " in!"
+    ],
+    "exampleSentence": "Sure! Come in!",
+    "exampleTranslation": "Claro! Entre!"
+  },
+  {
+    "id": "start_finish_54",
+    "word": "I need to study for an exam.",
+    "translation": "Eu preciso estudar para uma prova.",
+    "pronunciation": "/aɪ nid tə ˈstʌdi fɔr ən ɪɡˈzæm/",
+    "portuguesePhonetic": "ai nid tchu stâ-di for én ig-zém",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " stu",
+      "dy",
+      " for",
+      " an",
+      " ex",
+      "am."
+    ],
+    "exampleSentence": "I need to study for an exam.",
+    "exampleTranslation": "Eu preciso estudar para uma prova."
+  },
+  {
+    "id": "start_finish_55",
+    "word": "I finish college next semester. What do you study there?",
+    "translation": "Eu termino a faculdade no próximo semestre. O que você estuda lá?",
+    "pronunciation": "/aɪ ˈfɪnɪʃ ˈkɑlɪdʒ nɛkst sɪˈmɛstər. wʌt du ju ˈstʌdi ðɛr?/",
+    "portuguesePhonetic": "ai fí-nich có-lidj nécst si-més-ter. uát du iu stâ-di dér?",
+    "syllables": [
+      "I",
+      " fin",
+      "ish",
+      " col",
+      "lege",
+      " next",
+      " se",
+      "mes",
+      "ter.",
+      " What",
+      " do",
+      " you",
+      " stu",
+      "dy",
+      " there?"
+    ],
+    "exampleSentence": "I finish college next semester. What do you study there?",
+    "exampleTranslation": "Eu termino a faculdade no próximo semestre. O que você estuda lá?"
+  },
+  {
+    "id": "start_finish_56",
+    "word": "I have to do my homework before class.",
+    "translation": "Eu tenho que fazer minha lição de casa antes da aula.",
+    "pronunciation": "/aɪ hæv tu du maɪ ˈhoʊmˌwɜrk bɪˈfɔr klæs./",
+    "portuguesePhonetic": "ai rév tchu du mai rôum-uãrc bi-fór clés.",
+    "syllables": [
+      "I",
+      " have",
+      " to",
+      " do",
+      " my",
+      " home",
+      "work",
+      " be",
+      "fore",
+      " class."
+    ],
+    "exampleSentence": "I have to do my homework before class.",
+    "exampleTranslation": "Eu tenho que fazer minha lição de casa antes da aula."
+  },
+  {
+    "id": "start_finish_57",
+    "word": "You need to finish this task now. You have a meeting in fifteen minutes.",
+    "translation": "Você precisa terminar esta tarefa agora. Você tem uma reunião em quinze minutos.",
+    "pronunciation": "/ju nid tu ˈfɪnɪʃ ðɪs tæsk naʊ. ju hæv ə ˈmitɪŋ ɪn fɪfˈtin ˈmɪnəts./",
+    "portuguesePhonetic": "iu nid tchu fí-nich dís tésc náu. iu rév â mí-ting in fif-tin mí-nits.",
+    "syllables": [
+      "You",
+      " need",
+      " to",
+      " fin",
+      "ish",
+      " this",
+      " task",
+      " now.",
+      " You",
+      " have",
+      " a",
+      " meet",
+      "ing",
+      " in",
+      " fif",
+      "teen",
+      " min",
+      "utes."
+    ],
+    "exampleSentence": "You need to finish this task now. You have a meeting in fifteen minutes.",
+    "exampleTranslation": "Você precisa terminar esta tarefa agora. Você tem uma reunião em quinze minutos."
+  },
+  {
+    "id": "start_finish_58",
+    "word": "Do you have a deadline to finish your project?",
+    "translation": "Você tem um prazo para terminar seu projeto?",
+    "pronunciation": "/du ju hæv ə ˈdɛdˌlaɪn tu ˈfɪnɪʃ jʊər ˈprɑdʒɛkt?/",
+    "portuguesePhonetic": "du iu rév â déd-láin tchu fí-nich iór pró-djéct?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " a",
+      " dead",
+      "line",
+      " to",
+      " fin",
+      "ish",
+      " your",
+      " pro",
+      "ject?"
+    ],
+    "exampleSentence": "Do you have a deadline to finish your project?",
+    "exampleTranslation": "Você tem um prazo para terminar seu projeto?"
+  },
+  {
+    "id": "start_finish_59",
+    "word": "We don't have to work tonight. Let's go home.",
+    "translation": "Nós não temos que trabalhar esta noite. Vamos para casa.",
+    "pronunciation": "/wi doʊnt hæv tu wɜrk təˈnaɪt. lɛts ɡoʊ hoʊm./",
+    "portuguesePhonetic": "ui dôunt rév tchu uãrc tchu-náit. léts gôu rôum.",
+    "syllables": [
+      "We",
+      " don't",
+      " have",
+      " to",
+      " work",
+      " to",
+      "night.",
+      " Let's",
+      " go",
+      " home."
+    ],
+    "exampleSentence": "We don't have to work tonight. Let's go home.",
+    "exampleTranslation": "Nós não temos que trabalhar esta noite. Vamos para casa."
+  },
+  {
+    "id": "start_finish_60",
+    "word": "They know everything about business, but they don't speak English.",
+    "translation": "Eles sabem tudo sobre negócios, mas eles não falam inglês.",
+    "pronunciation": "/ðeɪ noʊ ˈɛvriˌθɪŋ əˈbaʊt ˈbɪznəs, bʌt ðeɪ doʊnt spik ˈɪŋɡlɪʃ./",
+    "portuguesePhonetic": "dêi nôu év-ri-thing a-báut bíz-nis, bât dêi dôunt spíc ín-glic.",
+    "syllables": [
+      "They",
+      " know",
+      " ev",
+      "ery",
+      "thing",
+      " a",
+      "bout",
+      " busi",
+      "ness,",
+      " but",
+      " they",
+      " don't",
+      " speak",
+      " En",
+      "glish."
+    ],
+    "exampleSentence": "They know everything about business, but they don't speak English.",
+    "exampleTranslation": "Eles sabem tudo sobre negócios, mas eles não falam inglês."
+  },
+  {
+    "id": "start_finish_61",
+    "word": "I have a meeting with my boss this morning.",
+    "translation": "Eu tenho uma reunião com o meu chefe esta manhã.",
+    "pronunciation": "/aɪ hæv ə ˈmitɪŋ wɪð maɪ bɔs ðɪs ˈmɔrnɪŋ./",
+    "portuguesePhonetic": "ai rév â mí-ting uíd mai bós dís mór-ning.",
+    "syllables": [
+      "I",
+      " have",
+      " a",
+      " meet",
+      "ing",
+      " with",
+      " my",
+      " boss",
+      " this",
+      " morn",
+      "ing."
+    ],
+    "exampleSentence": "I have a meeting with my boss this morning.",
+    "exampleTranslation": "Eu tenho uma reunião com o meu chefe esta manhã."
+  },
+  {
+    "id": "start_finish_62",
+    "word": "We want to study more after school. We have a test next week.",
+    "translation": "Nós queremos estudar mais depois da escola. Nós temos uma prova na próxima semana.",
+    "pronunciation": "/wi wɑnt tu ˈstʌdi mɔr ˈæftər skul. wi hæv ə tɛst nɛkst wik./",
+    "portuguesePhonetic": "ui uánt tchu stâ-di mór éf-ter scul. ui rév â tést nécst uíc.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " stu",
+      "dy",
+      " more",
+      " af",
+      "ter",
+      " school.",
+      " We",
+      " have",
+      " a",
+      " test",
+      " next",
+      " week."
+    ],
+    "exampleSentence": "We want to study more after school. We have a test next week.",
+    "exampleTranslation": "Nós queremos estudar mais depois da escola. Nós temos uma prova na próxima semana."
+  },
+  {
+    "id": "start_finish_63",
+    "word": "What time is it? We have to finish everything in one hour.",
+    "translation": "Que horas são? Nós temos que terminar tudo em uma hora.",
+    "pronunciation": "/wʌt taɪm ɪz ɪt? wi hæv tu ˈfɪnɪʃ ˈɛvriˌθɪŋ ɪn wʌn ˈaʊər./",
+    "portuguesePhonetic": "uát táim íz it? ui rév tchu fí-nich év-ri-thing in uán áu-ar.",
+    "syllables": [
+      "What",
+      " time",
+      " is",
+      " it?",
+      " We",
+      " have",
+      " to",
+      " fin",
+      "ish",
+      " ev",
+      "ery",
+      "thing",
+      " in",
+      " one",
+      " hour."
+    ],
+    "exampleSentence": "What time is it? We have to finish everything in one hour.",
+    "exampleTranslation": "Que horas são? Nós temos que terminar tudo em uma hora."
+  },
+  {
+    "id": "start_finish_64",
+    "word": "My friends start college today. Do they study business too?",
+    "translation": "Meus amigos começam a faculdade hoje. Eles estudam negócios também?",
+    "pronunciation": "/maɪ frɛndz stɑrt ˈkɑlɪdʒ təˈdeɪ. du ðeɪ ˈstʌdi ˈbɪznəs tu?/",
+    "portuguesePhonetic": "mai fréndz stárt có-lidj tchu-dêi. du dêi stâ-di bíz-nis tchu?",
+    "syllables": [
+      "My",
+      " friends",
+      " start",
+      " col",
+      "lege",
+      " to",
+      "day.",
+      " Do",
+      " they",
+      " stu",
+      "dy",
+      " busi",
+      "ness",
+      " too?"
+    ],
+    "exampleSentence": "My friends start college today. Do they study business too?",
+    "exampleTranslation": "Meus amigos começam a faculdade hoje. Eles estudam negócios também?"
+  },
+  {
+    "id": "start_finish_65",
+    "word": "Hi, Jessica. I need to speak with you about this semester.",
+    "translation": "Oi, Jessica. Eu preciso falar com você sobre este semestre.",
+    "pronunciation": "/haɪ, ˈdʒɛsɪkə. aɪ nid tu spik wɪð ju əˈbaʊt ðɪs sɪˈmɛstər./",
+    "portuguesePhonetic": "rái, djé-si-ca. ai nid tchu spíc uíd iu a-báut dís si-més-ter.",
+    "syllables": [
+      "Hi,",
+      " Jes",
+      "si",
+      "ca.",
+      " I",
+      " need",
+      " to",
+      " speak",
+      " with",
+      " you",
+      " a",
+      "bout",
+      " this",
+      " se",
+      "mes",
+      "ter."
+    ],
+    "exampleSentence": "Hi, Jessica. I need to speak with you about this semester.",
+    "exampleTranslation": "Oi, Jessica. Eu preciso falar com você sobre este semestre."
+  },
+  {
+    "id": "start_finish_66",
+    "word": "Sure. What's up?",
+    "translation": "Claro. O que houve?",
+    "pronunciation": "/ʃʊr. wʌts ʌp?/",
+    "portuguesePhonetic": "xur. uáts áp?",
+    "syllables": [
+      "Sure.",
+      " What's",
+      " up?"
+    ],
+    "exampleSentence": "Sure. What's up?",
+    "exampleTranslation": "Claro. O que houve?"
+  },
+  {
+    "id": "start_finish_67",
+    "word": "No, I don't, but I have a big project this year and I want to finish the project this semester. What do you need?",
+    "translation": "Não, eu não venho, mas tenho um grande projeto este ano e quero terminá-lo neste semestre. Do que você precisa?",
+    "pronunciation": "/noʊ, aɪ doʊnt, bʌt aɪ hæv ə bɪɡ ˈprɑdʒɛkt ðɪs jɪr ænd aɪ wɑnt tu ˈfɪnɪʃ ðə ˈprɑdʒɛkt ðɪs sɪˈmɛstər. wʌt du ju nid?/",
+    "portuguesePhonetic": "nôu, ai dôunt, bât ai rév â bíg pró-djéct dís íar énd ai uánt tchu fí-nich dâ pró-djéct dís si-més-ter. uát du iu nid?",
+    "syllables": [
+      "No,",
+      " I",
+      " don't,",
+      " but",
+      " I",
+      " have",
+      " a",
+      " big",
+      " pro",
+      "ject",
+      " this",
+      " year",
+      " and",
+      " I",
+      " want",
+      " to",
+      " fin",
+      "ish",
+      " the",
+      " pro",
+      "ject",
+      " this",
+      " se",
+      "mes",
+      "ter.",
+      " What",
+      " do",
+      " you",
+      " need?"
+    ],
+    "exampleSentence": "No, I don't, but I have a big project this year and I want to finish the project this semester. What do you need?",
+    "exampleTranslation": "Não, eu não venho, mas tenho um grande projeto este ano e quero terminá-lo neste semestre. Do que você precisa?"
+  },
+  {
+    "id": "start_finish_68",
+    "word": "Well, I have business classes this semester and I need some help.",
+    "translation": "Bem, eu tenho aulas de negócios neste semestre e preciso de ajuda.",
+    "pronunciation": "/wɛl, aɪ hæv ˈbɪznəs ˈklæsəz ðɪs sɪˈmɛstər ænd aɪ nid sʌm hɛlp./",
+    "portuguesePhonetic": "uél, ai rév bíz-nis clé-siz dís si-més-ter énd ai nid sâm rélp.",
+    "syllables": [
+      "Well,",
+      " I",
+      " have",
+      " busi",
+      "ness",
+      " class",
+      "es",
+      " this",
+      " se",
+      "mes",
+      "ter",
+      " and",
+      " I",
+      " need",
+      " some",
+      " help."
+    ],
+    "exampleSentence": "Well, I have business classes this semester and I need some help.",
+    "exampleTranslation": "Bem, eu tenho aulas de negócios neste semestre e preciso de ajuda."
+  },
+  {
+    "id": "start_finish_69",
+    "word": "Do you usually come to college on Saturdays?",
+    "translation": "Você costuma vir à faculdade aos sábados?",
+    "pronunciation": "/du ju ˈjuːʒuəli kʌm tu ˈkɑlɪdʒ ɑn ˈsætərdeɪz?/",
+    "portuguesePhonetic": "du iu iú-ju-a-li câm tchu có-lidj ón sé-ter-dêis?",
+    "syllables": [
+      "Do",
+      " you",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " come",
+      " to",
+      " col",
+      "lege",
+      " on",
+      " Sat",
+      "ur",
+      "days?"
+    ],
+    "exampleSentence": "Do you usually come to college on Saturdays?",
+    "exampleTranslation": "Você costuma vir à faculdade aos sábados?"
+  },
+  {
+    "id": "start_finish_70",
+    "word": "Oh! I'd love to study with you. Meet me on Saturdays after lunch.",
+    "translation": "Ah! Eu adoraria estudar com você. Encontre-me aos sábados depois do almoço.",
+    "pronunciation": "/oʊ! aɪd lʌv tu ˈstʌdi wɪð ju. mit mi ɑn ˈsætərdeɪz ˈæftər lʌntʃ./",
+    "portuguesePhonetic": "ou! aid lâv tchu stâ-di uíd iu. mit mi ón sé-ter-dêis éf-ter lântch.",
+    "syllables": [
+      "Oh!",
+      " I'd",
+      " love",
+      " to",
+      " stu",
+      "dy",
+      " with",
+      " you.",
+      " Meet",
+      " me",
+      " on",
+      " Sat",
+      "ur",
+      "days",
+      " af",
+      "ter",
+      " lunch."
+    ],
+    "exampleSentence": "Oh! I'd love to study with you. Meet me on Saturdays after lunch.",
+    "exampleTranslation": "Oh! Eu adoraria estudar com você. Encontre-me aos sábados depois do almoço."
+  },
+  {
+    "id": "start_finish_71",
+    "word": "Great! Thank you!",
+    "translation": "Ótimo! Obrigado!",
+    "pronunciation": "/ɡreɪt! θæŋk ju!/",
+    "portuguesePhonetic": "grêit! thénc iu!",
+    "syllables": [
+      "Great!",
+      " Thank",
+      " you!"
+    ],
+    "exampleSentence": "Great! Thank you!",
+    "exampleTranslation": "Ótimo! Obrigado!"
+  },
+  {
+    "id": "start_finish_72",
+    "word": "See you next Saturday.",
+    "translation": "Até o próximo sábado.",
+    "pronunciation": "/si ju nɛkst ˈsætərdeɪ./",
+    "portuguesePhonetic": "si iu nécst sé-ter-dêi.",
+    "syllables": [
+      "See",
+      " you",
+      " next",
+      " Sat",
+      "ur",
+      "day."
+    ],
+    "exampleSentence": "See you next Saturday.",
+    "exampleTranslation": "Até o próximo sábado."
+  },
+  {
+    "id": "start_finish_73",
+    "word": "OK! See you. Bye.",
+    "translation": "OK! Até mais. Tchau.",
+    "pronunciation": "/ˌoʊˈkeɪ! si ju. baɪ./",
+    "portuguesePhonetic": "ou-kêi! si iu. bái.",
+    "syllables": [
+      "OK!",
+      " See",
+      " you.",
+      " Bye."
+    ],
+    "exampleSentence": "OK! See you. Bye.",
+    "exampleTranslation": "OK! Até mais. Tchau."
+  },
+  {
+    "id": "start_finish_74",
+    "word": "college",
+    "translation": "faculdade",
+    "pronunciation": "/ˈkɑlɪdʒ/",
+    "portuguesePhonetic": "có-lidj",
+    "syllables": [
+      "col",
+      "lege"
+    ],
+    "exampleSentence": "My friends start college today.",
+    "exampleTranslation": "Meus amigos começam a faculdade hoje."
+  },
+  {
+    "id": "start_finish_75",
+    "word": "semester",
+    "translation": "semestre",
+    "pronunciation": "/sɪˈmɛstər/",
+    "portuguesePhonetic": "si-més-ter",
+    "syllables": [
+      "se",
+      "mes",
+      "ter"
+    ],
+    "exampleSentence": "I finish college next semester.",
+    "exampleTranslation": "Eu termino a faculdade no próximo semestre."
+  },
+  {
+    "id": "start_finish_76",
+    "word": "homework",
+    "translation": "lição de casa",
+    "pronunciation": "/ˈhoʊmˌwɜrk/",
+    "portuguesePhonetic": "rôum-uãrc",
+    "syllables": [
+      "home",
+      "work"
+    ],
+    "exampleSentence": "I have to do my homework before class.",
+    "exampleTranslation": "Eu tenho que fazer minha lição de casa antes da aula."
+  },
+  {
+    "id": "start_finish_77",
+    "word": "class",
+    "translation": "aula",
+    "pronunciation": "/klæs/",
+    "portuguesePhonetic": "clés",
+    "syllables": [
+      "class"
+    ],
+    "exampleSentence": "I have to do my homework before class.",
+    "exampleTranslation": "Eu tenho que fazer minha lição de casa antes da aula."
+  },
+  {
+    "id": "start_finish_78",
+    "word": "task",
+    "translation": "tarefa",
+    "pronunciation": "/tæsk/",
+    "portuguesePhonetic": "tésc",
+    "syllables": [
+      "task"
+    ],
+    "exampleSentence": "You need to finish this task now.",
+    "exampleTranslation": "Você precisa terminar esta tarefa agora."
+  },
+  {
+    "id": "start_finish_79",
+    "word": "meeting",
+    "translation": "reunião",
+    "pronunciation": "/ˈmitɪŋ/",
+    "portuguesePhonetic": "mí-ting",
+    "syllables": [
+      "meet",
+      "ing"
+    ],
+    "exampleSentence": "I have a meeting with my boss this morning.",
+    "exampleTranslation": "Eu tenho uma reunião com o meu chefe esta manhã."
+  },
+  {
+    "id": "start_finish_80",
+    "word": "deadline",
+    "translation": "prazo",
+    "pronunciation": "/ˈdɛdˌlaɪn/",
+    "portuguesePhonetic": "déd-láin",
+    "syllables": [
+      "dead",
+      "line"
+    ],
+    "exampleSentence": "Do you have a deadline to finish your project?",
+    "exampleTranslation": "Você tem um prazo para terminar seu projeto?"
+  },
+  {
+    "id": "start_finish_81",
+    "word": "project",
+    "translation": "projeto",
+    "pronunciation": "/ˈprɑdʒɛkt/",
+    "portuguesePhonetic": "pró-djéct",
+    "syllables": [
+      "pro",
+      "ject"
+    ],
+    "exampleSentence": "Do you have a deadline to finish your project?",
+    "exampleTranslation": "Você tem um prazo para terminar seu projeto?"
+  },
+  {
+    "id": "start_finish_82",
+    "word": "business",
+    "translation": "negócios",
+    "pronunciation": "/ˈbɪznəs/",
+    "portuguesePhonetic": "bíz-nis",
+    "syllables": [
+      "busi",
+      "ness"
+    ],
+    "exampleSentence": "They know everything about business, but they don't speak English.",
+    "exampleTranslation": "Eles sabem tudo sobre negócios, mas eles não falam inglês."
+  },
+  {
+    "id": "start_finish_83",
+    "word": "boss",
+    "translation": "chefe",
+    "pronunciation": "/bɔs/",
+    "portuguesePhonetic": "bós",
+    "syllables": [
+      "boss"
+    ],
+    "exampleSentence": "I have a meeting with my boss this morning.",
+    "exampleTranslation": "Eu tenho uma reunião com o meu chefe esta manhã."
+  },
+  {
+    "id": "start_finish_84",
+    "word": "test",
+    "translation": "prova",
+    "pronunciation": "/tɛst/",
+    "portuguesePhonetic": "tést",
+    "syllables": [
+      "test"
+    ],
+    "exampleSentence": "We have a test next week.",
+    "exampleTranslation": "Nós temos uma prova na próxima semana."
+  },
+  {
+    "id": "start_finish_85",
+    "word": "next week",
+    "translation": "próxima semana",
+    "pronunciation": "/nɛkst wik/",
+    "portuguesePhonetic": "nécst uíc",
+    "syllables": [
+      "next",
+      " week"
+    ],
+    "exampleSentence": "We have a test next week.",
+    "exampleTranslation": "Nós temos uma prova na próxima semana."
+  },
+  {
+    "id": "start_finish_86",
+    "word": "this morning",
+    "translation": "esta manhã",
+    "pronunciation": "/ðɪs ˈmɔrnɪŋ/",
+    "portuguesePhonetic": "dís mór-ning",
+    "syllables": [
+      "this",
+      " morn",
+      "ing"
+    ],
+    "exampleSentence": "I have a meeting with my boss this morning.",
+    "exampleTranslation": "Eu tenho uma reunião com o meu chefe esta manhã."
+  },
+  {
+    "id": "start_finish_87",
+    "word": "tonight",
+    "translation": "esta noite",
+    "pronunciation": "/təˈnaɪt/",
+    "portuguesePhonetic": "tchu-náit",
+    "syllables": [
+      "to",
+      "night"
+    ],
+    "exampleSentence": "We don't have to work tonight. Let's go home.",
+    "exampleTranslation": "Nós não temos que trabalhar esta noite. Vamos para casa."
+  },
+  {
+    "id": "start_finish_88",
+    "word": "everything",
+    "translation": "tudo",
+    "pronunciation": "/ˈɛvriˌθɪŋ/",
+    "portuguesePhonetic": "év-ri-thing",
+    "syllables": [
+      "ev",
+      "ery",
+      "thing"
+    ],
+    "exampleSentence": "What time is it? We have to finish everything in one hour.",
+    "exampleTranslation": "Que horas são? Nós temos que terminar tudo em uma hora."
+  },
+  {
+    "id": "start_finish_89",
+    "word": "one hour",
+    "translation": "uma hora",
+    "pronunciation": "/wʌn ˈaʊər/",
+    "portuguesePhonetic": "uán áu-ar",
+    "syllables": [
+      "one",
+      " hour"
+    ],
+    "exampleSentence": "We have to finish everything in one hour.",
+    "exampleTranslation": "Nós temos que terminar tudo em uma hora."
+  },
+  {
+    "id": "start_finish_90",
+    "word": "speak with",
+    "translation": "falar com",
+    "pronunciation": "/spik wɪð/",
+    "portuguesePhonetic": "spíc uíd",
+    "syllables": [
+      "speak",
+      " with"
+    ],
+    "exampleSentence": "Hi, Jessica. I need to speak with you about this semester.",
+    "exampleTranslation": "Oi, Jessica. Eu preciso falar com você sobre este semestre."
+  },
+  {
+    "id": "start_finish_91",
+    "word": "help",
+    "translation": "ajuda",
+    "pronunciation": "/help/",
+    "portuguesePhonetic": "rélp",
+    "syllables": [
+      "help"
+    ],
+    "exampleSentence": "I need some help.",
+    "exampleTranslation": "Eu preciso de ajuda."
+  },
+  {
+    "id": "start_finish_92",
+    "word": "after lunch",
+    "translation": "depois do almoço",
+    "pronunciation": "/ˈæftər lʌntʃ/",
+    "portuguesePhonetic": "f-ter lântch",
+    "syllables": [
+      "af",
+      "ter",
+      " lunch"
+    ],
+    "exampleSentence": "Meet me on Saturdays after lunch.",
+    "exampleTranslation": "Encontre-me aos sábados depois do almoço."
+  },
+  {
+    "id": "start_finish_93",
+    "word": "finish",
+    "translation": "terminar",
+    "pronunciation": "/ˈfɪnɪʃ/",
+    "portuguesePhonetic": "fí-nich",
+    "syllables": [
+      "fin",
+      "ish"
+    ],
+    "exampleSentence": "We have to finish everything in one hour.",
+    "exampleTranslation": "Nós temos que terminar tudo em uma hora."
+  },
+  {
+    "id": "start_finish_94",
+    "word": "start",
+    "translation": "começar",
+    "pronunciation": "/stɑrt/",
+    "portuguesePhonetic": "stárt",
+    "syllables": [
+      "start"
+    ],
+    "exampleSentence": "My friends start college today.",
+    "exampleTranslation": "Meus amigos começam a faculdade hoje."
+  },
+  {
+    "id": "start_finish_95",
+    "word": "know",
+    "translation": "saber",
+    "pronunciation": "/noʊ/",
+    "portuguesePhonetic": "nôu",
+    "syllables": [
+      "know"
+    ],
+    "exampleSentence": "They know everything about business.",
+    "exampleTranslation": "Eles sabem tudo sobre negócios."
+  },
+  {
+    "id": "start_finish_96",
+    "word": "I'd love to",
+    "translation": "eu adoraria",
+    "pronunciation": "/aɪd lʌv tu/",
+    "portuguesePhonetic": "aid lâv tchu",
+    "syllables": [
+      "I'd",
+      " love",
+      " to"
+    ],
+    "exampleSentence": "Oh! I'd love to study with you.",
+    "exampleTranslation": "Ah! Eu adoraria estudar com você."
+  },
+  {
+    "id": "start_finish_97",
+    "word": "what's up",
+    "translation": "o que houve?",
+    "pronunciation": "/wʌts ʌp/",
+    "portuguesePhonetic": "uáts áp",
+    "syllables": [
+      "What's",
+      " up?"
+    ],
+    "exampleSentence": "Sure. What's up?",
+    "exampleTranslation": "Claro. O que houve?"
+  },
+  {
+    "id": "start_finish_98",
+    "word": "see you next Saturday",
+    "translation": "até o próximo sábado",
+    "pronunciation": "/si ju nɛkst ˈsætərdeɪ/",
+    "portuguesePhonetic": "si iu nécst sé-ter-dêi",
+    "syllables": [
+      "See",
+      " you",
+      " next",
+      " Sat",
+      "ur",
+      "day"
+    ],
+    "exampleSentence": "See you next Saturday.",
+    "exampleTranslation": "Até o próximo sábado."
+  }
+]

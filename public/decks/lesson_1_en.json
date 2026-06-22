@@ -1,0 +1,590 @@
+[
+  {
+    "id": "lesson_1_1",
+    "word": "to eat",
+    "translation": "comer",
+    "pronunciation": "/tu it/",
+    "portuguesePhonetic": "tchu ít",
+    "syllables": [
+      "to",
+      " eat"
+    ],
+    "exampleSentence": "to eat",
+    "exampleTranslation": "comer"
+  },
+  {
+    "id": "lesson_1_2",
+    "word": "to drink",
+    "translation": "beber, tomar",
+    "pronunciation": "/tu drɪŋk/",
+    "portuguesePhonetic": "tchu drínc",
+    "syllables": [
+      "to",
+      " drink"
+    ],
+    "exampleSentence": "to drink",
+    "exampleTranslation": "beber, tomar"
+  },
+  {
+    "id": "lesson_1_3",
+    "word": "water",
+    "translation": "água",
+    "pronunciation": "/ˈwɔtər/",
+    "portuguesePhonetic": "uó-ter",
+    "syllables": [
+      "wa",
+      "ter"
+    ],
+    "exampleSentence": "water",
+    "exampleTranslation": "água"
+  },
+  {
+    "id": "lesson_1_4",
+    "word": "coffee",
+    "translation": "café",
+    "pronunciation": "/ˈkɔfi/",
+    "portuguesePhonetic": "có-fi",
+    "syllables": [
+      "cof",
+      "fee"
+    ],
+    "exampleSentence": "coffee",
+    "exampleTranslation": "café"
+  },
+  {
+    "id": "lesson_1_5",
+    "word": "milk",
+    "translation": "leite",
+    "pronunciation": "/mɪlk/",
+    "portuguesePhonetic": "mílc",
+    "syllables": [
+      "milk"
+    ],
+    "exampleSentence": "milk",
+    "exampleTranslation": "leite"
+  },
+  {
+    "id": "lesson_1_6",
+    "word": "tea",
+    "translation": "chá",
+    "pronunciation": "/ti/",
+    "portuguesePhonetic": "tchi",
+    "syllables": [
+      "tea"
+    ],
+    "exampleSentence": "tea",
+    "exampleTranslation": "chá"
+  },
+  {
+    "id": "lesson_1_7",
+    "word": "juice",
+    "translation": "suco",
+    "pronunciation": "/dʒus/",
+    "portuguesePhonetic": "djus",
+    "syllables": [
+      "juice"
+    ],
+    "exampleSentence": "juice",
+    "exampleTranslation": "suco"
+  },
+  {
+    "id": "lesson_1_8",
+    "word": "bread",
+    "translation": "pão",
+    "pronunciation": "/brɛd/",
+    "portuguesePhonetic": "bréd",
+    "syllables": [
+      "bread"
+    ],
+    "exampleSentence": "bread",
+    "exampleTranslation": "pão"
+  },
+  {
+    "id": "lesson_1_9",
+    "word": "cracker",
+    "translation": "biscoito / bolacha salgada",
+    "pronunciation": "/ˈkrækər/",
+    "portuguesePhonetic": "cré-cer",
+    "syllables": [
+      "crack",
+      "er"
+    ],
+    "exampleSentence": "cracker",
+    "exampleTranslation": "biscoito / bolacha salgada"
+  },
+  {
+    "id": "lesson_1_10",
+    "word": "cookie",
+    "translation": "biscoito / bolacha doce",
+    "pronunciation": "/ˈkʊki/",
+    "portuguesePhonetic": "cú-qui",
+    "syllables": [
+      "cook",
+      "ie"
+    ],
+    "exampleSentence": "cookie",
+    "exampleTranslation": "biscoito / bolacha doce"
+  },
+  {
+    "id": "lesson_1_11",
+    "word": "pancake",
+    "translation": "panqueca",
+    "pronunciation": "/ˈpænˌkeɪk/",
+    "portuguesePhonetic": "pén-queic",
+    "syllables": [
+      "pan",
+      "cake"
+    ],
+    "exampleSentence": "pancake",
+    "exampleTranslation": "panqueca"
+  },
+  {
+    "id": "lesson_1_12",
+    "word": "ham",
+    "translation": "presunto",
+    "pronunciation": "/hæm/",
+    "portuguesePhonetic": "rém",
+    "syllables": [
+      "ham"
+    ],
+    "exampleSentence": "ham",
+    "exampleTranslation": "presunto"
+  },
+  {
+    "id": "lesson_1_13",
+    "word": "cheese",
+    "translation": "queijo",
+    "pronunciation": "/tʃiz/",
+    "portuguesePhonetic": "tchis",
+    "syllables": [
+      "cheese"
+    ],
+    "exampleSentence": "cheese",
+    "exampleTranslation": "queijo"
+  },
+  {
+    "id": "lesson_1_14",
+    "word": "butter",
+    "translation": "manteiga",
+    "pronunciation": "/ˈbʌtər/",
+    "portuguesePhonetic": "bâ-ter",
+    "syllables": [
+      "but",
+      "ter"
+    ],
+    "exampleSentence": "butter",
+    "exampleTranslation": "manteiga"
+  },
+  {
+    "id": "lesson_1_15",
+    "word": "I",
+    "translation": "eu",
+    "pronunciation": "/aɪ/",
+    "portuguesePhonetic": "ai",
+    "syllables": [
+      "I"
+    ],
+    "exampleSentence": "I",
+    "exampleTranslation": "eu"
+  },
+  {
+    "id": "lesson_1_16",
+    "word": "you",
+    "translation": "você",
+    "pronunciation": "/ju/",
+    "portuguesePhonetic": "iu",
+    "syllables": [
+      "you"
+    ],
+    "exampleSentence": "you",
+    "exampleTranslation": "você"
+  },
+  {
+    "id": "lesson_1_17",
+    "word": "and",
+    "translation": "e",
+    "pronunciation": "/ænd/",
+    "portuguesePhonetic": "énd",
+    "syllables": [
+      "and"
+    ],
+    "exampleSentence": "and",
+    "exampleTranslation": "e"
+  },
+  {
+    "id": "lesson_1_18",
+    "word": "I eat crackers. And you?",
+    "translation": "Eu como biscoitos salgados. E você?",
+    "pronunciation": "/aɪ it ˈkrækərz. ænd ju?/",
+    "portuguesePhonetic": "ai ít cré-cers. énd iu?",
+    "syllables": [
+      "I",
+      " eat",
+      " crack",
+      "ers.",
+      " And",
+      " you?"
+    ],
+    "exampleSentence": "I eat crackers. And you?",
+    "exampleTranslation": "Eu como biscoitos salgados. E você?"
+  },
+  {
+    "id": "lesson_1_19",
+    "word": "I drink coffee with milk.",
+    "translation": "Eu bebo café com leite.",
+    "pronunciation": "/aɪ drɪŋk ˈkɔfi wɪð mɪlk./",
+    "portuguesePhonetic": "ai drínc có-fi uid mílc.",
+    "syllables": [
+      "I",
+      " drink",
+      " cof",
+      "fee",
+      " with",
+      " milk."
+    ],
+    "exampleSentence": "I drink coffee with milk.",
+    "exampleTranslation": "Eu bebo café com leite."
+  },
+  {
+    "id": "lesson_1_20",
+    "word": "I eat pancakes.",
+    "translation": "Eu como panquecas.",
+    "pronunciation": "/aɪ it ˈpænˌkeɪks./",
+    "portuguesePhonetic": "ai ít pén-queics.",
+    "syllables": [
+      "I",
+      " eat",
+      " pan",
+      "cakes."
+    ],
+    "exampleSentence": "I eat pancakes.",
+    "exampleTranslation": "Eu como panquecas."
+  },
+  {
+    "id": "lesson_1_21",
+    "word": "You eat cookies.",
+    "translation": "Você come bolachas doces.",
+    "pronunciation": "/ju it ˈkʊkiz./",
+    "portuguesePhonetic": "iu ít cú-quis.",
+    "syllables": [
+      "You",
+      " eat",
+      " cook",
+      "ies."
+    ],
+    "exampleSentence": "You eat cookies.",
+    "exampleTranslation": "Você come bolachas doces."
+  },
+  {
+    "id": "lesson_1_22",
+    "word": "I eat bread and ham.",
+    "translation": "Eu como pão com presunto.",
+    "pronunciation": "/aɪ it brɛd ænd hæm./",
+    "portuguesePhonetic": "ai ít bréd énd rém.",
+    "syllables": [
+      "I",
+      " eat",
+      " bread",
+      " and",
+      " ham."
+    ],
+    "exampleSentence": "I eat bread and ham.",
+    "exampleTranslation": "Eu como pão com presunto."
+  },
+  {
+    "id": "lesson_1_23",
+    "word": "I drink coffee.",
+    "translation": "Eu bebo café.",
+    "pronunciation": "/aɪ drɪŋk ˈkɔfi./",
+    "portuguesePhonetic": "ai drínc có-fi.",
+    "syllables": [
+      "I",
+      " drink",
+      " cof",
+      "fee."
+    ],
+    "exampleSentence": "I drink coffee.",
+    "exampleTranslation": "Eu bebo café."
+  },
+  {
+    "id": "lesson_1_24",
+    "word": "You drink water.",
+    "translation": "Você bebe água.",
+    "pronunciation": "/ju drɪŋk ˈwɔtər./",
+    "portuguesePhonetic": "iu drínc uó-ter.",
+    "syllables": [
+      "You",
+      " drink",
+      " wa",
+      "ter."
+    ],
+    "exampleSentence": "You drink water.",
+    "exampleTranslation": "Você bebe água."
+  },
+  {
+    "id": "lesson_1_25",
+    "word": "I drink coffee with milk.",
+    "translation": "Eu bebo café com leite.",
+    "pronunciation": "/aɪ drɪŋk ˈkɔfi wɪð mɪlk./",
+    "portuguesePhonetic": "ai drínc có-fi uid mílc.",
+    "syllables": [
+      "I",
+      " drink",
+      " cof",
+      "fee",
+      " with",
+      " milk."
+    ],
+    "exampleSentence": "I drink coffee with milk.",
+    "exampleTranslation": "Eu bebo café com leite."
+  },
+  {
+    "id": "lesson_1_26",
+    "word": "I eat bread.",
+    "translation": "Eu como pão.",
+    "pronunciation": "/aɪ it brɛd./",
+    "portuguesePhonetic": "ai ít bréd.",
+    "syllables": [
+      "I",
+      " eat",
+      " bread."
+    ],
+    "exampleSentence": "I eat bread.",
+    "exampleTranslation": "Eu como pão."
+  },
+  {
+    "id": "lesson_1_27",
+    "word": "I eat cheese.",
+    "translation": "Eu como queijo.",
+    "pronunciation": "/aɪ it tʃiz./",
+    "portuguesePhonetic": "ai ít tchis.",
+    "syllables": [
+      "I",
+      " eat",
+      " cheese."
+    ],
+    "exampleSentence": "I eat cheese.",
+    "exampleTranslation": "Eu como queijo."
+  },
+  {
+    "id": "lesson_1_28",
+    "word": "You eat cookies.",
+    "translation": "Você come biscoitos doces.",
+    "pronunciation": "/ju it ˈkʊkiz./",
+    "portuguesePhonetic": "iu ít cú-quis.",
+    "syllables": [
+      "You",
+      " eat",
+      " cook",
+      "ies."
+    ],
+    "exampleSentence": "You eat cookies.",
+    "exampleTranslation": "Você come biscoitos doces."
+  },
+  {
+    "id": "lesson_1_29",
+    "word": "I drink water.",
+    "translation": "Eu bebo água.",
+    "pronunciation": "/aɪ drɪŋk ˈwɔtər./",
+    "portuguesePhonetic": "ai drínc uó-ter.",
+    "syllables": [
+      "I",
+      " drink",
+      " wa",
+      "ter."
+    ],
+    "exampleSentence": "I drink water.",
+    "exampleTranslation": "Eu bebo água."
+  },
+  {
+    "id": "lesson_1_30",
+    "word": "I drink milk.",
+    "translation": "Eu bebo leite.",
+    "pronunciation": "/aɪ drɪŋk mɪlk./",
+    "portuguesePhonetic": "ai drínc mílc.",
+    "syllables": [
+      "I",
+      " drink",
+      " milk."
+    ],
+    "exampleSentence": "I drink milk.",
+    "exampleTranslation": "Eu bebo leite."
+  },
+  {
+    "id": "lesson_1_31",
+    "word": "You drink juice.",
+    "translation": "Você bebe suco.",
+    "pronunciation": "/ju drɪŋk dʒus./",
+    "portuguesePhonetic": "iu drínc djus.",
+    "syllables": [
+      "You",
+      " drink",
+      " juice."
+    ],
+    "exampleSentence": "You drink juice.",
+    "exampleTranslation": "Você bebe suco."
+  },
+  {
+    "id": "lesson_1_32",
+    "word": "I eat bread and butter.",
+    "translation": "Eu como pão com manteiga.",
+    "pronunciation": "/aɪ it brɛd ænd ˈbʌtər./",
+    "portuguesePhonetic": "ai ít bréd énd bâ-ter.",
+    "syllables": [
+      "I",
+      " eat",
+      " bread",
+      " and",
+      " but",
+      "ter."
+    ],
+    "exampleSentence": "I eat bread and butter.",
+    "exampleTranslation": "Eu como pão com manteiga."
+  },
+  {
+    "id": "lesson_1_33",
+    "word": "I drink coffee with milk.",
+    "translation": "Eu bebo café com leite.",
+    "pronunciation": "/aɪ drɪŋk ˈkɔfi wɪð mɪlk./",
+    "portuguesePhonetic": "ai drínc có-fi uid mílc.",
+    "syllables": [
+      "I",
+      " drink",
+      " cof",
+      "fee",
+      " with",
+      " milk."
+    ],
+    "exampleSentence": "I drink coffee with milk.",
+    "exampleTranslation": "Eu bebo café com leite."
+  },
+  {
+    "id": "lesson_1_34",
+    "word": "I eat crackers and you drink tea.",
+    "translation": "Eu como bolachas salgadas e você bebe chá.",
+    "pronunciation": "/aɪ it ˈkrækərz ænd ju drɪŋk ti./",
+    "portuguesePhonetic": "ai ít cré-cers énd iu drínc tchi.",
+    "syllables": [
+      "I",
+      " eat",
+      " crack",
+      "ers",
+      " and",
+      " you",
+      " drink",
+      " tea."
+    ],
+    "exampleSentence": "I eat crackers and you drink tea.",
+    "exampleTranslation": "Eu como bolachas salgadas e você bebe chá."
+  },
+  {
+    "id": "lesson_1_35",
+    "word": "I eat bread, ham, and cheese. And you?",
+    "translation": "Eu como pão, presunto e queijo. E você?",
+    "pronunciation": "/aɪ it brɛd, hæm, ænd tʃiz. ænd ju?/",
+    "portuguesePhonetic": "ai ít bréd, rém, énd tchis. énd iu?",
+    "syllables": [
+      "I",
+      " eat",
+      " bread,",
+      " ham,",
+      " and",
+      " cheese.",
+      " And",
+      " you?"
+    ],
+    "exampleSentence": "I eat bread, ham, and cheese. And you?",
+    "exampleTranslation": "Eu como pão, presunto e queijo. E você?"
+  },
+  {
+    "id": "lesson_1_36",
+    "word": "to eat → I eat",
+    "translation": "comer → eu como",
+    "pronunciation": "/tu it → aɪ it/",
+    "portuguesePhonetic": "tchu ít → ai ít",
+    "syllables": [
+      "to",
+      " eat",
+      " →",
+      " I",
+      " eat"
+    ],
+    "exampleSentence": "to eat → I eat",
+    "exampleTranslation": "comer → eu como"
+  },
+  {
+    "id": "lesson_1_37",
+    "word": "to drink → you drink",
+    "translation": "beber → você bebe",
+    "pronunciation": "/tu drɪŋk → ju drɪŋk/",
+    "portuguesePhonetic": "tchu drínc → iu drínc",
+    "syllables": [
+      "to",
+      " drink",
+      " →",
+      " you",
+      " drink"
+    ],
+    "exampleSentence": "to drink → you drink",
+    "exampleTranslation": "beber → você bebe"
+  },
+  {
+    "id": "lesson_1_38",
+    "word": "I drink juice. And you?",
+    "translation": "Eu bebo suco. E você?",
+    "pronunciation": "/aɪ drɪŋk dʒus. ænd ju?/",
+    "portuguesePhonetic": "ai drínc djus. énd iu?",
+    "syllables": [
+      "I",
+      " drink",
+      " juice.",
+      " And",
+      " you?"
+    ],
+    "exampleSentence": "I drink juice. And you?",
+    "exampleTranslation": "Eu bebo suco. E você?"
+  },
+  {
+    "id": "lesson_1_39",
+    "word": "Good morning!",
+    "translation": "Bom dia!",
+    "pronunciation": "/ɡʊd ˈmɔrnɪŋ!/",
+    "portuguesePhonetic": "gud môr-ning!",
+    "syllables": [
+      "Good",
+      " morn",
+      "ing!"
+    ],
+    "exampleSentence": "Good morning!",
+    "exampleTranslation": "Bom dia!"
+  },
+  {
+    "id": "lesson_1_40",
+    "word": "Good afternoon!",
+    "translation": "Boa tarde!",
+    "pronunciation": "/ɡʊd ˌæftərˈnun!/",
+    "portuguesePhonetic": "gud éf-ter-nun!",
+    "syllables": [
+      "Good",
+      " af",
+      "ter",
+      "noon!"
+    ],
+    "exampleSentence": "Good afternoon!",
+    "exampleTranslation": "Boa tarde!"
+  },
+  {
+    "id": "lesson_1_41",
+    "word": "Good evening!",
+    "translation": "Boa noite!",
+    "pronunciation": "/ɡʊd ˈivnɪŋ!/",
+    "portuguesePhonetic": "gud ív-ning!",
+    "syllables": [
+      "Good",
+      " eve",
+      "ning!"
+    ],
+    "exampleSentence": "Good evening!",
+    "exampleTranslation": "Boa noite!"
+  }
+]

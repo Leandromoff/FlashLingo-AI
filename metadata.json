@@ -1,5 +1,5 @@
 {
   "name": "FlashLingo AI",
-  "description": "Um aplicativo inteligente de flashcards para aprender inglês, gerando baralhos personalizados com IA.",
+  "description": "Um aplicativo de flashcards focado em vocabulário e gramática, rodando 100% offline.",
   "requestFramePermissions": []
 }

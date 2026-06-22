@@ -1,0 +1,1799 @@
+[
+  {
+    "id": "lesson_75_1",
+    "word": "to listen",
+    "translation": "ouvir",
+    "pronunciation": "/tu ˈlɪsən/",
+    "portuguesePhonetic": "tchu lís-sen",
+    "syllables": [
+      "to",
+      " lis",
+      "ten"
+    ],
+    "exampleSentence": "I like to listen to rock music while I am running.",
+    "exampleTranslation": "Eu gosto de ouvir rock enquanto corro."
+  },
+  {
+    "id": "lesson_75_2",
+    "word": "to watch",
+    "translation": "assistir",
+    "pronunciation": "/tu wɑtʃ/",
+    "portuguesePhonetic": "tchu uótch",
+    "syllables": [
+      "to",
+      " watch"
+    ],
+    "exampleSentence": "We watched a documentary.",
+    "exampleTranslation": "Nós assistimos a um documentário."
+  },
+  {
+    "id": "lesson_75_3",
+    "word": "comedy",
+    "translation": "comédia",
+    "pronunciation": "/ˈkɑmədi/",
+    "portuguesePhonetic": "có-me-di",
+    "syllables": [
+      "com",
+      "e",
+      "dy"
+    ],
+    "exampleSentence": "He is turning on the TV to watch a comedy movie.",
+    "exampleTranslation": "Ele está ligando a TV para assistir a um filme de comédia."
+  },
+  {
+    "id": "lesson_75_4",
+    "word": "horror",
+    "translation": "terror",
+    "pronunciation": "/ˈhɔrər/",
+    "portuguesePhonetic": "ró-ror",
+    "syllables": [
+      "hor",
+      "ror"
+    ],
+    "exampleSentence": "We weren't scared while we were watching that horror movie.",
+    "exampleTranslation": "Nós não estávamos assustados enquanto assistíamos àquele filme de terror."
+  },
+  {
+    "id": "lesson_75_5",
+    "word": "thriller",
+    "translation": "suspense",
+    "pronunciation": "/ˈθrɪlər/",
+    "portuguesePhonetic": "θrí-ler",
+    "syllables": [
+      "thril",
+      "ler"
+    ],
+    "exampleSentence": "They were watching a thriller.",
+    "exampleTranslation": "Eles estavam assistindo a um suspense."
+  },
+  {
+    "id": "lesson_75_6",
+    "word": "action",
+    "translation": "ação",
+    "pronunciation": "/ˈækʃən/",
+    "portuguesePhonetic": "éc-xân",
+    "syllables": [
+      "ac",
+      "tion"
+    ],
+    "exampleSentence": "She loves action movies.",
+    "exampleTranslation": "Ela adora filmes de ação."
+  },
+  {
+    "id": "lesson_75_7",
+    "word": "romance",
+    "translation": "romance",
+    "pronunciation": "/roʊˈmæns/",
+    "portuguesePhonetic": "rôu-méns",
+    "syllables": [
+      "ro",
+      "mance"
+    ],
+    "exampleSentence": "She likes romance movies.",
+    "exampleTranslation": "Ela gosta de filmes de romance."
+  },
+  {
+    "id": "lesson_75_8",
+    "word": "documentary",
+    "translation": "documentário",
+    "pronunciation": "/ˌdɑkjuˈmɛntəri/",
+    "portuguesePhonetic": "dó-quiu-mén-ta-ri",
+    "syllables": [
+      "doc",
+      "u",
+      "men",
+      "ta",
+      "ry"
+    ],
+    "exampleSentence": "He wasn't really watching the documentary, he was sleeping.",
+    "exampleTranslation": "Ele não estava realmente assistindo ao documentário, ele estava dormindo."
+  },
+  {
+    "id": "lesson_75_9",
+    "word": "subtitle",
+    "translation": "legenda",
+    "pronunciation": "/ˈsʌbˌtaɪtəl/",
+    "portuguesePhonetic": "sâb-tái-tôl",
+    "syllables": [
+      "sub",
+      "ti",
+      "tle"
+    ],
+    "exampleSentence": "He wasn't choosing a movie with subtitles.",
+    "exampleTranslation": "Ele não estava escolhendo um filme com legendas."
+  },
+  {
+    "id": "lesson_75_10",
+    "word": "dubbed",
+    "translation": "dublado",
+    "pronunciation": "/dʌbd/",
+    "portuguesePhonetic": "dâbd",
+    "syllables": [
+      "dubbed"
+    ],
+    "exampleSentence": "My father prefers old dubbed movies.",
+    "exampleTranslation": "Meu pai prefere filmes antigos dublados."
+  },
+  {
+    "id": "lesson_75_11",
+    "word": "play",
+    "translation": "peça teatral",
+    "pronunciation": "/pleɪ/",
+    "portuguesePhonetic": "plêi",
+    "syllables": [
+      "play"
+    ],
+    "exampleSentence": "They weren't having fun with that play.",
+    "exampleTranslation": "Eles não estavam se divertindo com aquela peça."
+  },
+  {
+    "id": "lesson_75_12",
+    "word": "podcast",
+    "translation": "podcast",
+    "pronunciation": "/ˈpɑdˌkæst/",
+    "portuguesePhonetic": "pód-quést",
+    "syllables": [
+      "pod",
+      "cast"
+    ],
+    "exampleSentence": "He was listening to a podcast while he was driving.",
+    "exampleTranslation": "Ele estava ouvindo um podcast enquanto dirigia."
+  },
+  {
+    "id": "lesson_75_13",
+    "word": "song",
+    "translation": "música, canção",
+    "pronunciation": "/sɔŋ/",
+    "portuguesePhonetic": "són",
+    "syllables": [
+      "song"
+    ],
+    "exampleSentence": "He was listening to his favorite pop song.",
+    "exampleTranslation": "Ele estava ouvindo sua canção pop favorita."
+  },
+  {
+    "id": "lesson_75_14",
+    "word": "rock",
+    "translation": "rock",
+    "pronunciation": "/rɑk/",
+    "portuguesePhonetic": "róc",
+    "syllables": [
+      "rock"
+    ],
+    "exampleSentence": "Sue doesn't listen to rock music.",
+    "exampleTranslation": "Sue não ouve música rock."
+  },
+  {
+    "id": "lesson_75_15",
+    "word": "pop",
+    "translation": "pop",
+    "pronunciation": "/pɑp/",
+    "portuguesePhonetic": "póp",
+    "syllables": [
+      "pop"
+    ],
+    "exampleSentence": "I was listening to some pop music minutes ago.",
+    "exampleTranslation": "Eu estava ouvindo música pop há alguns minutos."
+  },
+  {
+    "id": "lesson_75_16",
+    "word": "electronic music",
+    "translation": "música eletrônica",
+    "pronunciation": "/ɪˌlɛkˈtrɑnɪk ˈmjuːzɪk/",
+    "portuguesePhonetic": "i-lec-tró-nic miú-zic",
+    "syllables": [
+      "e",
+      "lec",
+      "tron",
+      "ic",
+      " mu",
+      "sic"
+    ],
+    "exampleSentence": "She was listening to electronic music while she was cooking.",
+    "exampleTranslation": "Ela estava escutando música eletrônica enquanto estava cozinhando."
+  },
+  {
+    "id": "lesson_75_17",
+    "word": "classical music",
+    "translation": "música clássica",
+    "pronunciation": "/ˈklæsɪkəl ˈmjuːzɪk/",
+    "portuguesePhonetic": "clé-si-côl miú-zic",
+    "syllables": [
+      "clas",
+      "si",
+      "cal",
+      " mu",
+      "sic"
+    ],
+    "exampleSentence": "John listens to classical music while he is working.",
+    "exampleTranslation": "John escuta música clássica enquanto trabalha."
+  },
+  {
+    "id": "lesson_75_18",
+    "word": "while",
+    "translation": "enquanto",
+    "pronunciation": "/waɪl/",
+    "portuguesePhonetic": "uáil",
+    "syllables": [
+      "while"
+    ],
+    "exampleSentence": "While you were watching a thriller, she was taking a shower.",
+    "exampleTranslation": "Enquanto vocês estavam assistindo a um suspense, ela estava tomando banho."
+  },
+  {
+    "id": "lesson_75_19",
+    "word": "What kind of music do you like?",
+    "translation": "Que tipo de música você gosta?",
+    "pronunciation": "/wʌt kaɪnd ʌv ˈmjuːzɪk du ju laɪk/",
+    "portuguesePhonetic": "uót cáind âv miú-zic du iu láic",
+    "syllables": [
+      "What",
+      " kind",
+      " of",
+      " mu",
+      "sic",
+      " do",
+      " you",
+      " like?"
+    ],
+    "exampleSentence": "What kind of music do you like?",
+    "exampleTranslation": "Que tipo de música você gosta?"
+  },
+  {
+    "id": "lesson_75_20",
+    "word": "Can you turn on the TV?",
+    "translation": "Você pode ligar a TV?",
+    "pronunciation": "/kæn ju tɜrn ɑn ðə ˌtiːˈviː/",
+    "portuguesePhonetic": "quén iu têrn ón ðâ tî-vî",
+    "syllables": [
+      "Can",
+      " you",
+      " turn",
+      " on",
+      " the",
+      " TV?"
+    ],
+    "exampleSentence": "Can you turn on the TV?",
+    "exampleTranslation": "Você pode ligar a TV?"
+  },
+  {
+    "id": "lesson_75_21",
+    "word": "Turn off the radio, please.",
+    "translation": "Desligue o rádio, por favor.",
+    "pronunciation": "/tɜrn ɔf ðə ˈreɪdioʊ, plz/",
+    "portuguesePhonetic": "têrn óf ðâ rêi-di-ôu, plîz",
+    "syllables": [
+      "Turn",
+      " off",
+      " the",
+      " ra",
+      "di",
+      "o,",
+      " please."
+    ],
+    "exampleSentence": "Turn off the radio, please.",
+    "exampleTranslation": "Desligue o rádio, por favor."
+  },
+  {
+    "id": "lesson_75_22",
+    "word": "We were watching a comedy at her house last night.",
+    "translation": "Nós estávamos assistindo a uma comédia na casa dela ontem à noite.",
+    "pronunciation": "/wi wɜr ˈwɑtʃɪŋ ə ˈkɑmədi æt hɜr haʊs læst naɪt/",
+    "portuguesePhonetic": "uí uêr uó-tchin a có-me-di ét râr ráuss lést náit",
+    "syllables": [
+      "We",
+      " were",
+      " watch",
+      "ing",
+      " a",
+      " com",
+      "e",
+      "dy",
+      " at",
+      " her",
+      " house",
+      " last",
+      " night."
+    ],
+    "exampleSentence": "We were watching a comedy at her house last night.",
+    "exampleTranslation": "Nós estávamos assistindo a uma comédia na casa dela ontem à noite."
+  },
+  {
+    "id": "lesson_75_23",
+    "word": "I was listening to reggae music.",
+    "translation": "Eu estava ouvindo reggae.",
+    "pronunciation": "/aɪ wʌz ˈlɪsənɪŋ tu ˈrɛɡeɪ ˈmjuːzɪk/",
+    "portuguesePhonetic": "ai uâz lís-sen-in tchu ré-guei miú-zic",
+    "syllables": [
+      "I",
+      " was",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " reg",
+      "gae",
+      " mu",
+      "sic."
+    ],
+    "exampleSentence": "I was listening to reggae music.",
+    "exampleTranslation": "Eu estava ouvindo reggae."
+  },
+  {
+    "id": "lesson_75_24",
+    "word": "He wasn't really watching the documentary, he was sleeping.",
+    "translation": "Ele não estava realmente assistindo ao documentário, ele estava dormindo.",
+    "pronunciation": "/hi ˈwʌzənt ˈrɪli ˈwɑtʃɪŋ ðə ˌdɑkjuˈmɛntəri, hi wʌz ˈslipɪŋ/",
+    "portuguesePhonetic": "ri uâ-zent rî-li uó-tchin ðâ dó-quiu-mén-ta-ri, ri uâz slî-pin",
+    "syllables": [
+      "He",
+      " was",
+      "n't",
+      " real",
+      "ly",
+      " watch",
+      "ing",
+      " the",
+      " doc",
+      "u",
+      "men",
+      "ta",
+      "ry,",
+      " he",
+      " was",
+      " sleep",
+      "ing."
+    ],
+    "exampleSentence": "He wasn't really watching the documentary, he was sleeping.",
+    "exampleTranslation": "Ele não estava realmente assistindo ao documentário, ele estava dormindo."
+  },
+  {
+    "id": "lesson_75_25",
+    "word": "She was listening to electronic music while she was cooking.",
+    "translation": "Ela estava escutando música eletrônica enquanto estava cozinhando.",
+    "pronunciation": "/ʃi wʌz ˈlɪsənɪŋ tu ɪˌlɛkˈtrɑnɪk ˈmjuːzɪk waɪl ʃi wʌz ˈkʊkɪŋ/",
+    "portuguesePhonetic": "xi uâz lís-sen-in tchu i-lec-tró-nic miú-zic uáil xi uâz cû-quin",
+    "syllables": [
+      "She",
+      " was",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " e",
+      "lec",
+      "tron",
+      "ic",
+      " mu",
+      "sic",
+      " while",
+      " she",
+      " was",
+      " cook",
+      "ing."
+    ],
+    "exampleSentence": "She was listening to electronic music while she was cooking.",
+    "exampleTranslation": "Ela estava escutando música eletrônica enquanto estava cozinhando."
+  },
+  {
+    "id": "lesson_75_26",
+    "word": "While you were watching a thriller, she was taking a shower.",
+    "translation": "Enquanto vocês estavam assistindo a um suspense, ela estava tomando banho.",
+    "pronunciation": "/waɪl ju wɜr ˈwɑtʃɪŋ ə ˈθrɪlər, ʃi wʌz ˈteɪkɪŋ ə ˈʃaʊər/",
+    "portuguesePhonetic": "uáil iu uêr uó-tchin a θrí-ler, xi uâz têi-quin a xáu-er",
+    "syllables": [
+      "While",
+      " you",
+      " were",
+      " watch",
+      "ing",
+      " a",
+      " thril",
+      "ler,",
+      " she",
+      " was",
+      " tak",
+      "ing",
+      " a",
+      " show",
+      "er."
+    ],
+    "exampleSentence": "While you were watching a thriller, she was taking a shower.",
+    "exampleTranslation": "Enquanto vocês estavam assistindo a um suspense, ela estava tomando banho."
+  },
+  {
+    "id": "lesson_75_27",
+    "word": "We were eating popcorn.",
+    "translation": "Nós estávamos comendo pipoca.",
+    "pronunciation": "/wi wɜr ˈitɪŋ ˈpɑpˌkɔrn/",
+    "portuguesePhonetic": "uí uêr î-tin póp-córn",
+    "syllables": [
+      "We",
+      " were",
+      " eat",
+      "ing",
+      " pop",
+      "corn."
+    ],
+    "exampleSentence": "We were eating popcorn.",
+    "exampleTranslation": "Nós estávamos comendo pipoca."
+  },
+  {
+    "id": "lesson_75_28",
+    "word": "They weren't listening to music.",
+    "translation": "Eles / Elas não estavam escutando música.",
+    "pronunciation": "/ðeɪ ˈwɜrənt ˈlɪsənɪŋ tu ˈmjuːzɪk/",
+    "portuguesePhonetic": "ðêi uê-rent lís-sen-in tchu miú-zic",
+    "syllables": [
+      "They",
+      " were",
+      "n't",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " mu",
+      "sic."
+    ],
+    "exampleSentence": "They weren't listening to music.",
+    "exampleTranslation": "Eles / Elas não estavam escutando música."
+  },
+  {
+    "id": "lesson_75_29",
+    "word": "What kind of movies does she like?",
+    "translation": "Que tipo de filmes ela gosta?",
+    "pronunciation": "/wʌt kaɪnd ʌv ˈmuːviz dʌz ʃi laɪk/",
+    "portuguesePhonetic": "uót cáind âv mû-viz dâz xi láic",
+    "syllables": [
+      "What",
+      " kind",
+      " of",
+      " mo",
+      "vies",
+      " does",
+      " she",
+      " like?"
+    ],
+    "exampleSentence": "What kind of movies does she like?",
+    "exampleTranslation": "Que tipo de filmes ela gosta?"
+  },
+  {
+    "id": "lesson_75_30",
+    "word": "She loves action movies.",
+    "translation": "Ela adora filmes de ação.",
+    "pronunciation": "/ʃi lʌvz ˈækʃən ˈmuːviz/",
+    "portuguesePhonetic": "xi lâvz éc-xân mû-viz",
+    "syllables": [
+      "She",
+      " loves",
+      " ac",
+      "tion",
+      " mo",
+      "vies."
+    ],
+    "exampleSentence": "She loves action movies.",
+    "exampleTranslation": "Ela adora filmes de ação."
+  },
+  {
+    "id": "lesson_75_31",
+    "word": "They weren't having fun with that play.",
+    "translation": "Eles não estavam se divertindo com aquela peça.",
+    "pronunciation": "/ðeɪ ˈwɜrənt ˈhævɪŋ fʌn wɪð ðæt pleɪ/",
+    "portuguesePhonetic": "ðêi uê-rent ré-vin fân uíð ðét plêi",
+    "syllables": [
+      "They",
+      " were",
+      "n't",
+      " hav",
+      "ing",
+      " fun",
+      " with",
+      " that",
+      " play."
+    ],
+    "exampleSentence": "They weren't having fun with that play.",
+    "exampleTranslation": "Eles não estavam se divertindo com aquela peça."
+  },
+  {
+    "id": "lesson_75_32",
+    "word": "John listens to classical music while he is working.",
+    "translation": "John escuta música clássica enquanto trabalha.",
+    "pronunciation": "/dʒɑn ˈlɪsənz tu ˈklæsɪkəl ˈmjuːzɪk waɪl hi ɪz ˈwɜrkɪŋ/",
+    "portuguesePhonetic": "djón lís-senz tchu clé-si-côl miú-zic uáil ri íz uêr-quin",
+    "syllables": [
+      "John",
+      " lis",
+      "tens",
+      " to",
+      " clas",
+      "si",
+      "cal",
+      " mu",
+      "sic",
+      " while",
+      " he",
+      " is",
+      " work",
+      "ing."
+    ],
+    "exampleSentence": "John listens to classical music while he is working.",
+    "exampleTranslation": "John escuta música clássica enquanto trabalha."
+  },
+  {
+    "id": "lesson_75_33",
+    "word": "He was listening to his favorite pop song.",
+    "translation": "Ele estava ouvindo sua canção pop favorita.",
+    "pronunciation": "/hi wʌz ˈlɪsənɪŋ tu hɪz ˈfeɪvərɪt pɑp sɔŋ/",
+    "portuguesePhonetic": "ri uâz lís-sen-in tchu rís fêi-vô-rit póp són",
+    "syllables": [
+      "He",
+      " was",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " his",
+      " fa",
+      "vor",
+      "ite",
+      " pop",
+      " song."
+    ],
+    "exampleSentence": "He was listening to his favorite pop song.",
+    "exampleTranslation": "Ele estava ouvindo sua canção pop favorita."
+  },
+  {
+    "id": "lesson_75_34",
+    "word": "My father prefers old dubbed movies.",
+    "translation": "Meu pai prefere filmes antigos dublados.",
+    "pronunciation": "/maɪ ˈfɑðər prɪˈfɜrz oʊld dʌbd ˈmuːviz/",
+    "portuguesePhonetic": "mái fá-ðer pri-fêrz ôuld dâbd mû-viz",
+    "syllables": [
+      "My",
+      " fa",
+      "ther",
+      " pre",
+      "fers",
+      " old",
+      " dubbed",
+      " mo",
+      "vies."
+    ],
+    "exampleSentence": "My father prefers old dubbed movies.",
+    "exampleTranslation": "Meu pai prefere filmes antigos dublados."
+  },
+  {
+    "id": "lesson_75_35",
+    "word": "We weren't scared while we were watching that horror movie.",
+    "translation": "Nós não estávamos assustados enquanto assistíamos àquele filme de terror.",
+    "pronunciation": "/wi ˈwɜrənt skɛrd waɪl wi wɜr ˈwɑtʃɪŋ ðæt ˈhɔrər ˈmuːvi/",
+    "portuguesePhonetic": "uí uê-rent squérd uáil uî uêr uó-tchin ðét ró-ror mû-vi",
+    "syllables": [
+      "We",
+      " were",
+      "n't",
+      " scared",
+      " while",
+      " we",
+      " were",
+      " watch",
+      "ing",
+      " that",
+      " hor",
+      "ror",
+      " mo",
+      "vie."
+    ],
+    "exampleSentence": "We weren't scared while we were watching that horror movie.",
+    "exampleTranslation": "Nós não estávamos assustados enquanto assistíamos àquele filme de terror."
+  },
+  {
+    "id": "lesson_75_36",
+    "word": "Can you turn off that loud music, please?",
+    "translation": "Você pode desligar essa música alta, por favor?",
+    "pronunciation": "/kæn ju tɜrn ɔf ðæt laʊd ˈmjuːzɪk, plz/",
+    "portuguesePhonetic": "quén iu têrn óf ðét láud miú-zic, plîz",
+    "syllables": [
+      "Can",
+      " you",
+      " turn",
+      " off",
+      " that",
+      " loud",
+      " mu",
+      "sic,",
+      " please?"
+    ],
+    "exampleSentence": "Can you turn off that loud music, please?",
+    "exampleTranslation": "Você pode desligar essa música alta, por favor?"
+  },
+  {
+    "id": "lesson_75_37",
+    "word": "Let's turn on the cable TV to watch the new episode.",
+    "translation": "Vamos ligar a TV a cabo para assistir ao novo episódio.",
+    "pronunciation": "/lɛts tɜrn ɑn ðə ˈkeɪbəl ˌtiːˈviː tu wɑtʃ ðə nu ˈɛpəˌsoʊd/",
+    "portuguesePhonetic": "léts têrn ón ðâ quêi-bôl tî-vî tchu uótch ðâ nû é-pi-sôud",
+    "syllables": [
+      "Let's",
+      " turn",
+      " on",
+      " the",
+      " ca",
+      "ble",
+      " TV",
+      " to",
+      " watch",
+      " the",
+      " new",
+      " ep",
+      "i",
+      "sode."
+    ],
+    "exampleSentence": "Let's turn on the cable TV to watch the new episode.",
+    "exampleTranslation": "Vamos ligar a TV a cabo para assistir ao novo episódio."
+  },
+  {
+    "id": "lesson_75_38",
+    "word": "I like to listen to rock music while I am running.",
+    "translation": "Eu gosto de ouvir rock enquanto corro.",
+    "pronunciation": "/aɪ laɪk tu ˈlɪsən tu rɑk ˈmjuːzɪk waɪl aɪ æm ˈrʌnɪŋ/",
+    "portuguesePhonetic": "ai láic tchu lís-sen tchu róc miú-zic uáil ai ém rû-nin",
+    "syllables": [
+      "I",
+      " like",
+      " to",
+      " lis",
+      "ten",
+      " to",
+      " rock",
+      " mu",
+      "sic",
+      " while",
+      " I",
+      " am",
+      " run",
+      "ning."
+    ],
+    "exampleSentence": "I like to listen to rock music while I am running.",
+    "exampleTranslation": "Eu gosto de ouvir rock enquanto corro."
+  },
+  {
+    "id": "lesson_75_39",
+    "word": "I wasn't watching it. It wasn't interesting.",
+    "translation": "Eu não estava assistindo. Não era interessante.",
+    "pronunciation": "/aɪ ˈwʌzənt ˈwɑtʃɪŋ ɪt. ɪt ˈwʌzənt ˈɪntrəstɪŋ/",
+    "portuguesePhonetic": "ai uâ-zent uó-tchin id. it uâ-zent ín-tres-tin",
+    "syllables": [
+      "I",
+      " was",
+      "n't",
+      " watch",
+      "ing",
+      " it.",
+      " It",
+      " was",
+      "n't",
+      " in",
+      "ter",
+      "est",
+      "ing."
+    ],
+    "exampleSentence": "I wasn't watching it. It wasn't interesting.",
+    "exampleTranslation": "Eu não estava assistindo. Não era interessante."
+  },
+  {
+    "id": "lesson_75_40",
+    "word": "He was listening to a podcast while he was driving.",
+    "translation": "Ele estava ouvindo um podcast enquanto dirigia.",
+    "pronunciation": "/hi wʌz ˈlɪsənɪŋ tu ə ˈpɑdˌkæst waɪl hi wʌz ˈdraɪvɪŋ/",
+    "portuguesePhonetic": "ri uâz lís-sen-in tchu a pód-quést uáil ri uâz drái-vin",
+    "syllables": [
+      "He",
+      " was",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " a",
+      " pod",
+      "cast",
+      " while",
+      " he",
+      " was",
+      " driv",
+      "ing."
+    ],
+    "exampleSentence": "He was listening to a podcast while he was driving.",
+    "exampleTranslation": "Ele estava ouvindo um podcast enquanto dirigia."
+  },
+  {
+    "id": "lesson_75_41",
+    "word": "I listen to reggae.",
+    "translation": "Eu ouço reggae.",
+    "pronunciation": "/aɪ ˈlɪsən tu ˈrɛɡeɪ/",
+    "portuguesePhonetic": "ai lís-sen tchu ré-guei",
+    "syllables": [
+      "I",
+      " lis",
+      "ten",
+      " to",
+      " reg",
+      "gae."
+    ],
+    "exampleSentence": "I listen to reggae.",
+    "exampleTranslation": "Eu ouço reggae."
+  },
+  {
+    "id": "lesson_75_42",
+    "word": "She listens to jazz.",
+    "translation": "Ela ouve jazz.",
+    "pronunciation": "/ʃi ˈlɪsənz tu dʒæz/",
+    "portuguesePhonetic": "xi lís-senz tchu djéz",
+    "syllables": [
+      "She",
+      " lis",
+      "tens",
+      " to",
+      " jazz."
+    ],
+    "exampleSentence": "She listens to jazz.",
+    "exampleTranslation": "Ela ouve jazz."
+  },
+  {
+    "id": "lesson_75_43",
+    "word": "They were listening to hip hop.",
+    "translation": "Eles estavam ouvindo hip hop.",
+    "pronunciation": "/ðeɪ wɜr ˈlɪsənɪŋ tu hɪp hɑp/",
+    "portuguesePhonetic": "ðêi uêr lís-sen-in tchu ríp róp",
+    "syllables": [
+      "They",
+      " were",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " hip",
+      " hop."
+    ],
+    "exampleSentence": "They were listening to hip hop.",
+    "exampleTranslation": "Eles estavam ouvindo hip hop."
+  },
+  {
+    "id": "lesson_75_44",
+    "word": "We watched a documentary.",
+    "translation": "Nós assistimos a um documentário.",
+    "pronunciation": "/wi wɑtʃt ə ˌdɑkjuˈmɛntəri/",
+    "portuguesePhonetic": "uí uótcht a dó-quiu-mén-ta-ri",
+    "syllables": [
+      "We",
+      " watched",
+      " a",
+      " doc",
+      "u",
+      "men",
+      "ta",
+      "ry."
+    ],
+    "exampleSentence": "We watched a documentary.",
+    "exampleTranslation": "Nós assistimos a um documentário."
+  },
+  {
+    "id": "lesson_75_45",
+    "word": "She likes romance movies.",
+    "translation": "Ela gosta de filmes de romance.",
+    "pronunciation": "/ʃi laɪks roʊˈmæns ˈmuːviz/",
+    "portuguesePhonetic": "xi láics rôu-méns mû-viz",
+    "syllables": [
+      "She",
+      " likes",
+      " ro",
+      "mance",
+      " mo",
+      "vies."
+    ],
+    "exampleSentence": "She likes romance movies.",
+    "exampleTranslation": "Ela gosta de filmes de romance."
+  },
+  {
+    "id": "lesson_75_46",
+    "word": "They were watching a thriller.",
+    "translation": "Eles estavam assistindo a um suspense.",
+    "pronunciation": "/ðeɪ wɜr ˈwɑtʃɪŋ ə ˈθrɪlər/",
+    "portuguesePhonetic": "ðêi uêr uó-tchin a θrí-ler",
+    "syllables": [
+      "They",
+      " were",
+      " watch",
+      "ing",
+      " a",
+      " thril",
+      "ler."
+    ],
+    "exampleSentence": "They were watching a thriller.",
+    "exampleTranslation": "Eles estavam assistindo a um suspense."
+  },
+  {
+    "id": "lesson_75_47",
+    "word": "was reading",
+    "translation": "estava lendo",
+    "pronunciation": "/wʌz ˈridɪŋ/",
+    "portuguesePhonetic": "uâz rî-din",
+    "syllables": [
+      "was",
+      " read",
+      "ing"
+    ],
+    "exampleSentence": "I was reading a book.",
+    "exampleTranslation": "Eu estava lendo um livro."
+  },
+  {
+    "id": "lesson_75_48",
+    "word": "wasn't reading",
+    "translation": "não estava lendo",
+    "pronunciation": "/ˈwʌzənt ˈridɪŋ/",
+    "portuguesePhonetic": "uâ-zent rî-din",
+    "syllables": [
+      "was",
+      "n't",
+      " read",
+      "ing"
+    ],
+    "exampleSentence": "He wasn't reading the newspaper.",
+    "exampleTranslation": "Ele não estava lendo o jornal."
+  },
+  {
+    "id": "lesson_75_49",
+    "word": "were speaking",
+    "translation": "estavam falando",
+    "pronunciation": "/wɜr ˈspikɪŋ/",
+    "portuguesePhonetic": "uêr spî-quin",
+    "syllables": [
+      "were",
+      " speak",
+      "ing"
+    ],
+    "exampleSentence": "We were speaking English.",
+    "exampleTranslation": "Nós estávamos falando inglês."
+  },
+  {
+    "id": "lesson_75_50",
+    "word": "weren't speaking",
+    "translation": "não estavam falando",
+    "pronunciation": "/ˈwɜrənt ˈspikɪŋ/",
+    "portuguesePhonetic": "uê-rent spî-quin",
+    "syllables": [
+      "were",
+      "n't",
+      " speak",
+      "ing"
+    ],
+    "exampleSentence": "They weren't speaking Portuguese.",
+    "exampleTranslation": "Eles não estavam falando português."
+  },
+  {
+    "id": "lesson_75_51",
+    "word": "I was listening to music.",
+    "translation": "Eu estava ouvindo música.",
+    "pronunciation": "/aɪ wʌz ˈlɪsənɪŋ tu ˈmjuːzɪk/",
+    "portuguesePhonetic": "ai uâz lís-sen-in tchu miú-zic",
+    "syllables": [
+      "I",
+      " was",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " mu",
+      "sic."
+    ],
+    "exampleSentence": "I was listening to music.",
+    "exampleTranslation": "Eu estava ouvindo música."
+  },
+  {
+    "id": "lesson_75_52",
+    "word": "She was cooking.",
+    "translation": "Ela estava cozinhando.",
+    "pronunciation": "/ʃi wʌz ˈkʊkɪŋ/",
+    "portuguesePhonetic": "xi uâz cû-quin",
+    "syllables": [
+      "She",
+      " was",
+      " cook",
+      "ing."
+    ],
+    "exampleSentence": "She was cooking.",
+    "exampleTranslation": "Ela estava cozinhando."
+  },
+  {
+    "id": "lesson_75_53",
+    "word": "They were watching a movie.",
+    "translation": "Eles estavam assistindo a um filme.",
+    "pronunciation": "/ðeɪ wɜr ˈwɑtʃɪŋ ə ˈmuːvi/",
+    "portuguesePhonetic": "ðêi uêr uó-tchin a mû-vi",
+    "syllables": [
+      "They",
+      " were",
+      " watch",
+      "ing",
+      " a",
+      " mo",
+      "vie."
+    ],
+    "exampleSentence": "They were watching a movie.",
+    "exampleTranslation": "Eles estavam assistindo a um filme."
+  },
+  {
+    "id": "lesson_75_54",
+    "word": "We were eating popcorn.",
+    "translation": "Nós estávamos comendo pipoca.",
+    "pronunciation": "/wi wɜr ˈitɪŋ ˈpɑpˌkɔrn/",
+    "portuguesePhonetic": "uí uêr î-tin póp-córn",
+    "syllables": [
+      "We",
+      " were",
+      " eat",
+      "ing",
+      " pop",
+      "corn."
+    ],
+    "exampleSentence": "We were eating popcorn.",
+    "exampleTranslation": "Nós estávamos comendo pipoca."
+  },
+  {
+    "id": "lesson_75_55",
+    "word": "I wasn't listening to music.",
+    "translation": "Eu não estava ouvindo música.",
+    "pronunciation": "/aɪ ˈwʌzənt ˈlɪsənɪŋ tu ˈmjuːzɪk/",
+    "portuguesePhonetic": "ai uâ-zent lís-sen-in tchu miú-zic",
+    "syllables": [
+      "I",
+      " was",
+      "n't",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " mu",
+      "sic."
+    ],
+    "exampleSentence": "I wasn't listening to music.",
+    "exampleTranslation": "Eu não estava ouvindo música."
+  },
+  {
+    "id": "lesson_75_56",
+    "word": "He wasn't watching TV.",
+    "translation": "Ele não estava assistindo TV.",
+    "pronunciation": "/hi ˈwʌzənt ˈwɑtʃɪŋ ˌtiːˈviː/",
+    "portuguesePhonetic": "ri uâ-zent uó-tchin tî-vî",
+    "syllables": [
+      "He",
+      " was",
+      "n't",
+      " watch",
+      "ing",
+      " TV."
+    ],
+    "exampleSentence": "He wasn't watching TV.",
+    "exampleTranslation": "Ele não estava assistindo TV."
+  },
+  {
+    "id": "lesson_75_57",
+    "word": "They weren't speaking.",
+    "translation": "Eles não estavam falando.",
+    "pronunciation": "/ðeɪ ˈwɜrənt ˈspikɪŋ/",
+    "portuguesePhonetic": "ðêi uê-rent spî-quin",
+    "syllables": [
+      "They",
+      " were",
+      "n't",
+      " speak",
+      "ing."
+    ],
+    "exampleSentence": "They weren't speaking.",
+    "exampleTranslation": "Eles não estavam falando."
+  },
+  {
+    "id": "lesson_75_58",
+    "word": "We weren't eating.",
+    "translation": "Nós não estávamos comendo.",
+    "pronunciation": "/wi ˈwɜrənt ˈitɪŋ/",
+    "portuguesePhonetic": "uí uê-rent î-tin",
+    "syllables": [
+      "We",
+      " were",
+      "n't",
+      " eat",
+      "ing."
+    ],
+    "exampleSentence": "We weren't eating.",
+    "exampleTranslation": "Nós não estávamos comendo."
+  },
+  {
+    "id": "lesson_75_59",
+    "word": "comedy",
+    "translation": "comédia",
+    "pronunciation": "/ˈkɑmədi/",
+    "portuguesePhonetic": "có-me-di",
+    "syllables": [
+      "com",
+      "e",
+      "dy"
+    ],
+    "exampleSentence": "I love comedy movies.",
+    "exampleTranslation": "Eu amo filmes de comédia."
+  },
+  {
+    "id": "lesson_75_60",
+    "word": "horror",
+    "translation": "terror",
+    "pronunciation": "/ˈhɔrər/",
+    "portuguesePhonetic": "ró-ror",
+    "syllables": [
+      "hor",
+      "ror"
+    ],
+    "exampleSentence": "This horror movie is really scary.",
+    "exampleTranslation": "Este filme de terror é bem assustador."
+  },
+  {
+    "id": "lesson_75_61",
+    "word": "thriller",
+    "translation": "suspense",
+    "pronunciation": "/ˈθrɪlər/",
+    "portuguesePhonetic": "θrí-ler",
+    "syllables": [
+      "thril",
+      "ler"
+    ],
+    "exampleSentence": "We watched an amazing thriller movie last weekend.",
+    "exampleTranslation": "Nós assistimos a um ótimo filme de suspense no final de semana passado."
+  },
+  {
+    "id": "lesson_75_62",
+    "word": "action",
+    "translation": "ação",
+    "pronunciation": "/ˈækʃən/",
+    "portuguesePhonetic": "éc-xân",
+    "syllables": [
+      "ac",
+      "tion"
+    ],
+    "exampleSentence": "I prefer action movies to romance.",
+    "exampleTranslation": "Eu prefiro filmes de ação a romance."
+  },
+  {
+    "id": "lesson_75_63",
+    "word": "documentary",
+    "translation": "documentário",
+    "pronunciation": "/ˌdɑkjuˈmɛntəri/",
+    "portuguesePhonetic": "dó-quiu-mén-ta-ri",
+    "syllables": [
+      "doc",
+      "u",
+      "men",
+      "ta",
+      "ry"
+    ],
+    "exampleSentence": "The documentary was fascinating.",
+    "exampleTranslation": "O documentário era fascinante."
+  },
+  {
+    "id": "lesson_75_64",
+    "word": "subtitle",
+    "translation": "legenda",
+    "pronunciation": "/ˈsʌbˌtaɪtəl/",
+    "portuguesePhonetic": "sâb-tái-tôl",
+    "syllables": [
+      "sub",
+      "ti",
+      "tle"
+    ],
+    "exampleSentence": "This movie has subtitles in Portuguese.",
+    "exampleTranslation": "Este filme possui legendas em português."
+  },
+  {
+    "id": "lesson_75_65",
+    "word": "dubbed",
+    "translation": "dublado",
+    "pronunciation": "/dʌbd/",
+    "portuguesePhonetic": "dâbd",
+    "syllables": [
+      "dubbed"
+    ],
+    "exampleSentence": "He watches dubbed movies on cable TV.",
+    "exampleTranslation": "Ele assiste a filmes dublados na TV a cabo."
+  },
+  {
+    "id": "lesson_75_66",
+    "word": "podcast",
+    "translation": "podcast",
+    "pronunciation": "/ˈpɑdˌkæst/",
+    "portuguesePhonetic": "pód-quést",
+    "syllables": [
+      "pod",
+      "cast"
+    ],
+    "exampleSentence": "I listen to an interesting podcast.",
+    "exampleTranslation": "Eu escuto um podcast interessante."
+  },
+  {
+    "id": "lesson_75_67",
+    "word": "classical music",
+    "translation": "música clássica",
+    "pronunciation": "/ˈklæsɪkəl ˈmjuːzɪk/",
+    "portuguesePhonetic": "clé-si-côl miú-zic",
+    "syllables": [
+      "clas",
+      "si",
+      "cal",
+      " mu",
+      "sic"
+    ],
+    "exampleSentence": "John listens to classical music while working.",
+    "exampleTranslation": "John escuta música clássica enquanto trabalha."
+  },
+  {
+    "id": "lesson_75_68",
+    "word": "electronic music",
+    "translation": "música eletrônica",
+    "pronunciation": "/ɪˌlɛkˈtrɑnɪk ˈmjuːzɪk/",
+    "portuguesePhonetic": "i-lec-tró-nic miú-zic",
+    "syllables": [
+      "e",
+      "lec",
+      "tron",
+      "ic",
+      " mu",
+      "sic"
+    ],
+    "exampleSentence": "She was listening to electronic music here.",
+    "exampleTranslation": "Ela estava ouvindo música eletrônica aqui."
+  },
+  {
+    "id": "lesson_75_69",
+    "word": "while",
+    "translation": "enquanto",
+    "pronunciation": "/waɪl/",
+    "portuguesePhonetic": "uáil",
+    "syllables": [
+      "while"
+    ],
+    "exampleSentence": "He is sleeping while she is studying.",
+    "exampleTranslation": "Ele está dormindo enquanto ela está estudando."
+  },
+  {
+    "id": "lesson_75_70",
+    "word": "turn on",
+    "translation": "ligar",
+    "pronunciation": "/tɜrn ɑn/",
+    "portuguesePhonetic": "têrn ón",
+    "syllables": [
+      "turn",
+      " on"
+    ],
+    "exampleSentence": "Can you turn on the TV?",
+    "exampleTranslation": "Você pode ligar a TV?"
+  },
+  {
+    "id": "lesson_75_71",
+    "word": "turn off",
+    "translation": "desligar",
+    "pronunciation": "/tɜrn ɔf/",
+    "portuguesePhonetic": "têrn óf",
+    "syllables": [
+      "turn",
+      " off"
+    ],
+    "exampleSentence": "Turn off the radio, please.",
+    "exampleTranslation": "Desligue o rádio, por favor."
+  },
+  {
+    "id": "lesson_75_72",
+    "word": "I was listening to some pop music minutes ago.",
+    "translation": "Eu estava ouvindo música pop há alguns minutos.",
+    "pronunciation": "/aɪ wʌz ˈlɪsənɪŋ tu sʌm pɑp ˈmjuːzɪk ˈmɪnəts əˈɡoʊ/",
+    "portuguesePhonetic": "ai uâz lís-sen-in tchu sâm póp miú-zic mí-nits a-gôu",
+    "syllables": [
+      "I",
+      " was",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " some",
+      " pop",
+      " mu",
+      "sic",
+      " min",
+      "utes",
+      " a",
+      "go."
+    ],
+    "exampleSentence": "I was listening to some pop music minutes ago.",
+    "exampleTranslation": "Eu estava ouvindo música pop há alguns minutos."
+  },
+  {
+    "id": "lesson_75_73",
+    "word": "What kind of movies do you like?",
+    "translation": "Que tipo de filmes você gosta?",
+    "pronunciation": "/wʌt kaɪnd ʌv ˈmuːviz du ju laɪk/",
+    "portuguesePhonetic": "uót cáind âv mû-viz du iu láic",
+    "syllables": [
+      "What",
+      " kind",
+      " of",
+      " mo",
+      "vies",
+      " do",
+      " you",
+      " like?"
+    ],
+    "exampleSentence": "What kind of movies do you like?",
+    "exampleTranslation": "Que tipo de filmes você gosta?"
+  },
+  {
+    "id": "lesson_75_74",
+    "word": "Sue doesn't listen to rock music.",
+    "translation": "Sue não ouve música rock.",
+    "pronunciation": "/su ˈdʌzənt ˈlɪsən tu rɑk ˈmjuːzɪk/",
+    "portuguesePhonetic": "sû dâ-zent lís-sen tchu róc miú-zic",
+    "syllables": [
+      "Sue",
+      " does",
+      "n't",
+      " lis",
+      "ten",
+      " to",
+      " rock",
+      " mu",
+      "sic."
+    ],
+    "exampleSentence": "Sue doesn't listen to rock music.",
+    "exampleTranslation": "Sue não ouve música rock."
+  },
+  {
+    "id": "lesson_75_75",
+    "word": "Peter and I weren't watching a romance movie on TV.",
+    "translation": "Peter e eu não estávamos assistindo a um filme de romance na TV.",
+    "pronunciation": "/ˈpitər ænd aɪ ˈwɜrənt ˈwɑtʃɪŋ ə roʊˈmæns ˈmuːvi ɑn ˌtiːˈviː/",
+    "portuguesePhonetic": "pî-ter énd ai uê-rent uó-tchin a rôu-méns mû-vi ón tî-vî",
+    "syllables": [
+      "Pe",
+      "ter",
+      " and",
+      " I",
+      " were",
+      "n't",
+      " watch",
+      "ing",
+      " a",
+      " ro",
+      "mance",
+      " mo",
+      "vie",
+      " on",
+      " TV."
+    ],
+    "exampleSentence": "Peter and I weren't watching a romance movie on TV.",
+    "exampleTranslation": "Peter e eu não estávamos assistindo a um filme de romance na TV."
+  },
+  {
+    "id": "lesson_75_76",
+    "word": "She was listening to a podcast while her brothers were watching a documentary.",
+    "translation": "Ela estava ouvindo um podcast enquanto seus irmãos estavam assistindo a um documentário.",
+    "pronunciation": "/ʃi wʌz ˈlɪsənɪŋ tu ə ˈpɑdˌkæst waɪl hɜr ˈbrʌðərz wɜr ˈwɑtʃɪŋ ə ˌdɑkjuˈmɛntəri/",
+    "portuguesePhonetic": "xi uâz lís-sen-in tchu a pód-quést uáil râr brâ-ðerz uêr uó-tchin a dó-quiu-mén-ta-ri",
+    "syllables": [
+      "She",
+      " was",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " a",
+      " pod",
+      "cast",
+      " while",
+      " her",
+      " broth",
+      "ers",
+      " were",
+      " watch",
+      "ing",
+      " a",
+      " doc",
+      "u",
+      "men",
+      "ta",
+      "ry."
+    ],
+    "exampleSentence": "She was listening to a podcast while her brothers were watching a documentary.",
+    "exampleTranslation": "Ela estava ouvindo um podcast enquanto seus irmãos estavam assistindo a um documentário."
+  },
+  {
+    "id": "lesson_75_77",
+    "word": "He is turning on the TV to watch a comedy movie.",
+    "translation": "Ele está ligando a TV para assistir a um filme de comédia.",
+    "pronunciation": "/hi ɪz ˈtɜrnɪŋ ɑn ðə ˌtiːˈviː tu wɑtʃ ə ˈkɑmədi ˈmuːvi/",
+    "portuguesePhonetic": "ri íz têr-nin ón ðâ tî-vî tchu uótch a có-me-di mû-vi",
+    "syllables": [
+      "He",
+      " is",
+      " turn",
+      "ing",
+      " on",
+      " the",
+      " TV",
+      " to",
+      " watch",
+      " a",
+      " com",
+      "e",
+      "dy",
+      " mo",
+      "vie."
+    ],
+    "exampleSentence": "He is turning on the TV to watch a comedy movie.",
+    "exampleTranslation": "Ele está ligando a TV para assistir a um filme de comédia."
+  },
+  {
+    "id": "lesson_75_78",
+    "word": "My mother wasn't listening to classical music before dinner.",
+    "translation": "Minha mãe não estava ouvindo música clássica antes do jantar.",
+    "pronunciation": "/maɪ ˈmʌðərz ˈwʌzənt ˈlɪsənɪŋ tu ˈklæsɪkəl ˈmjuːzɪk bɪˈfɔr ˈdɪnər/",
+    "portuguesePhonetic": "mái mâ-ðer uâ-zent lís-sen-in tchu clé-si-côl miú-zic bi-fór dí-ner",
+    "syllables": [
+      "My",
+      " moth",
+      "er",
+      " was",
+      "n't",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " clas",
+      "si",
+      "cal",
+      " mu",
+      "sic",
+      " be",
+      "fore",
+      " din",
+      "ner."
+    ],
+    "exampleSentence": "My mother wasn't listening to classical music before dinner.",
+    "exampleTranslation": "Minha mãe não estava ouvindo música clássica antes do jantar."
+  },
+  {
+    "id": "lesson_75_79",
+    "word": "Sam likes dubbed movies, but I don't.",
+    "translation": "Sam gosta de filmes dublados, mas eu não.",
+    "pronunciation": "/sæm laɪks dʌbd ˈmuːviz, bʌt aɪ doʊnt/",
+    "portuguesePhonetic": "sém láics dâbd mû-viz, bât ai dôunt",
+    "syllables": [
+      "Sam",
+      " likes",
+      " dubbed",
+      " mo",
+      "vies,",
+      " but",
+      " I",
+      " don't."
+    ],
+    "exampleSentence": "Sam likes dubbed movies, but I don't.",
+    "exampleTranslation": "Sam gosta de filmes dublados, mas eu não."
+  },
+  {
+    "id": "lesson_75_80",
+    "word": "I wasn't watching TV last night.",
+    "translation": "Eu não estava assistindo TV ontem à noite.",
+    "pronunciation": "/aɪ ˈwʌzənt ˈwɑtʃɪŋ ˌtiːˈviː læst naɪt/",
+    "portuguesePhonetic": "ai uâ-zent uó-tchin tî-vî lést náit",
+    "syllables": [
+      "I",
+      " was",
+      "n't",
+      " watch",
+      "ing",
+      " TV",
+      " last",
+      " night."
+    ],
+    "exampleSentence": "I wasn't watching TV last night.",
+    "exampleTranslation": "Eu não estava assistindo TV ontem à noite."
+  },
+  {
+    "id": "lesson_75_81",
+    "word": "We were eating popcorn and drinking soda.",
+    "translation": "Nós estávamos comendo pipoca e tomando refrigerante.",
+    "pronunciation": "/wi wɜr ˈitɪŋ ˈpɑpˌkɔrn ænd ˈdrɪŋkɪŋ ˈsoʊdə/",
+    "portuguesePhonetic": "uí uêr î-tin póp-córn énd drín-quin sôu-da",
+    "syllables": [
+      "We",
+      " were",
+      " eat",
+      "ing",
+      " pop",
+      "corn",
+      " and",
+      " drink",
+      "ing",
+      " so",
+      "da."
+    ],
+    "exampleSentence": "We were eating popcorn and drinking soda.",
+    "exampleTranslation": "Nós estávamos comendo pipoca e tomando refrigerante."
+  },
+  {
+    "id": "lesson_75_82",
+    "word": "I wasn't studying math two hours ago.",
+    "translation": "Eu não estava estudando matemática há duas horas.",
+    "pronunciation": "/aɪ ˈwʌzənt ˈstʌdiɪŋ mæθ tu ˈaʊərz əˈɡoʊ/",
+    "portuguesePhonetic": "ai uâ-zent és-tchû-di-in méθ tû áu-erz a-gôu",
+    "syllables": [
+      "I",
+      " was",
+      "n't",
+      " stud",
+      "y",
+      "ing",
+      " math",
+      " two",
+      " hours",
+      " a",
+      "go."
+    ],
+    "exampleSentence": "I wasn't studying math two hours ago.",
+    "exampleTranslation": "Eu não estava estudando matemática há duas horas."
+  },
+  {
+    "id": "lesson_75_83",
+    "word": "You weren't working last night.",
+    "translation": "Você não estava trabalhando ontem à noite.",
+    "pronunciation": "/ju ˈwɜrənt ˈwɜrkɪŋ læst naɪt/",
+    "portuguesePhonetic": "iu uê-rent uêr-quin lést náit",
+    "syllables": [
+      "You",
+      " were",
+      "n't",
+      " work",
+      "ing",
+      " last",
+      " night."
+    ],
+    "exampleSentence": "You weren't working last night.",
+    "exampleTranslation": "Você não estava trabalhando ontem à noite."
+  },
+  {
+    "id": "lesson_75_84",
+    "word": "She wasn't listening to an interesting podcast.",
+    "translation": "Ela não estava ouvindo um podcast interessante.",
+    "pronunciation": "/ʃi ˈwʌzənt ˈlɪsənɪŋ tu ən ˈɪntrəstɪŋ ˈpɑdˌkæst/",
+    "portuguesePhonetic": "xi uâ-zent lís-sen-in tchu én ín-tres-tin pód-quést",
+    "syllables": [
+      "She",
+      " was",
+      "n't",
+      " lis",
+      "ten",
+      "ing",
+      " to",
+      " an",
+      " in",
+      "ter",
+      "est",
+      "ing",
+      " pod",
+      "cast."
+    ],
+    "exampleSentence": "She wasn't listening to an interesting podcast.",
+    "exampleTranslation": "Ela não estava ouvindo um podcast interessante."
+  },
+  {
+    "id": "lesson_75_85",
+    "word": "My son wasn't beginning to walk last month.",
+    "translation": "Meu filho não estava começando a andar no mês passado.",
+    "pronunciation": "/maɪ sʌn ˈwʌzənt bɪˈɡɪnɪŋ tu wɔk læst mʌnθ/",
+    "portuguesePhonetic": "mái sân uâ-zent bi-gí-nin tchu uóc lést mánθ",
+    "syllables": [
+      "My",
+      " son",
+      " was",
+      "n't",
+      " be",
+      "gin",
+      "ning",
+      " to",
+      " walk",
+      " last",
+      " month."
+    ],
+    "exampleSentence": "My son wasn't beginning to walk last month.",
+    "exampleTranslation": "Meu filho não estava começando a andar no mês passado."
+  },
+  {
+    "id": "lesson_75_86",
+    "word": "He wasn't choosing a movie with subtitles.",
+    "translation": "Ele não estava escolhendo um filme com legendas.",
+    "pronunciation": "/hi ˈwʌzənt ˈtʃuːzɪŋ ə ˈmuːvi wɪð ˈsʌbˌtaɪtəlz/",
+    "portuguesePhonetic": "ri uâ-zent tchû-zin a mû-vi uíð sâb-tái-tôlz",
+    "syllables": [
+      "He",
+      " was",
+      "n't",
+      " choos",
+      "ing",
+      " a",
+      " mo",
+      "vie",
+      " with",
+      " sub",
+      "ti",
+      "tles."
+    ],
+    "exampleSentence": "He wasn't choosing a movie with subtitles.",
+    "exampleTranslation": "Ele não estava escolhendo um filme com legendas."
+  },
+  {
+    "id": "lesson_75_87",
+    "word": "The weather wasn't beginning to change.",
+    "translation": "O tempo não estava começando a mudar.",
+    "pronunciation": "/ðə ˈwɛðər ˈwʌzənt bɪˈɡɪnɪŋ tu tʃeɪndʒ/",
+    "portuguesePhonetic": "ðâ ué-ðer uâ-zent bi-gí-nin tchu tchêindj",
+    "syllables": [
+      "The",
+      " weath",
+      "er",
+      " was",
+      "n't",
+      " be",
+      "gin",
+      "ning",
+      " to",
+      " change."
+    ],
+    "exampleSentence": "The weather wasn't beginning to change.",
+    "exampleTranslation": "O tempo não estava começando a mudar."
+  },
+  {
+    "id": "lesson_75_88",
+    "word": "We weren't losing our temper with her.",
+    "translation": "Nós não estávamos perdendo a paciência com ela.",
+    "pronunciation": "/wi ˈwɜrənt ˈluːzɪŋ ˈaʊər ˈtɛmpər wɪð hɜr/",
+    "portuguesePhonetic": "uí uê-rent lû-zin áu-er tém-per uíð râr",
+    "syllables": [
+      "We",
+      " were",
+      "n't",
+      " los",
+      "ing",
+      " our",
+      " tem",
+      "per",
+      " with",
+      " her."
+    ],
+    "exampleSentence": "We weren't losing our temper with her.",
+    "exampleTranslation": "Nós não estávamos perdendo a paciência com ela."
+  },
+  {
+    "id": "lesson_75_89",
+    "word": "They weren't moving to a nice studio apartment.",
+    "translation": "Eles não estavam se mudando para um belo apartamento tipo estúdio.",
+    "pronunciation": "/ðeɪ ˈwɜrənt ˈmuːvɪŋ tu ə naɪs ˈstudiˌoʊ əˈpɑrtmənt/",
+    "portuguesePhonetic": "ðêi uê-rent mû-vin tchu a náic és-tchû-di-ôu a-párt-ment",
+    "syllables": [
+      "They",
+      " were",
+      "n't",
+      " mov",
+      "ing",
+      " to",
+      " a",
+      " nice",
+      " stu",
+      "di",
+      "o",
+      " a",
+      "part",
+      "ment."
+    ],
+    "exampleSentence": "They weren't moving to a nice studio apartment.",
+    "exampleTranslation": "Eles não estavam se mudando para um belo apartamento tipo estúdio."
+  },
+  {
+    "id": "lesson_75_90",
+    "word": "pop music",
+    "translation": "música pop",
+    "pronunciation": "/pɑp ˈmjuːzɪk/",
+    "portuguesePhonetic": "póp miú-zic",
+    "syllables": [
+      "pop",
+      " mu",
+      "sic"
+    ],
+    "exampleSentence": "I was listening to some pop music minutes ago.",
+    "exampleTranslation": "Eu estava ouvindo música pop há alguns minutos."
+  },
+  {
+    "id": "lesson_75_91",
+    "word": "rock music",
+    "translation": "música rock",
+    "pronunciation": "/rɑk ˈmjuːzɪk/",
+    "portuguesePhonetic": "róc miú-zic",
+    "syllables": [
+      "rock",
+      " mu",
+      "sic"
+    ],
+    "exampleSentence": "Sue doesn't listen to rock music.",
+    "exampleTranslation": "Sue não ouve música rock."
+  },
+  {
+    "id": "lesson_75_92",
+    "word": "podcast",
+    "translation": "podcast",
+    "pronunciation": "/ˈpɑdˌkæst/",
+    "portuguesePhonetic": "pód-quést",
+    "syllables": [
+      "pod",
+      "cast"
+    ],
+    "exampleSentence": "She was listening to a podcast while her brothers were watching a documentary.",
+    "exampleTranslation": "Ela estava ouvindo um podcast enquanto seus irmãos estavam assistindo a um documentário."
+  },
+  {
+    "id": "lesson_75_93",
+    "word": "documentary",
+    "translation": "documentário",
+    "pronunciation": "/ˌdɑkjuˈmɛntəri/",
+    "portuguesePhonetic": "dó-quiu-mén-ta-ri",
+    "syllables": [
+      "doc",
+      "u",
+      "men",
+      "ta",
+      "ry"
+    ],
+    "exampleSentence": "We watched a documentary.",
+    "exampleTranslation": "Nós assistimos a um documentário."
+  },
+  {
+    "id": "lesson_75_94",
+    "word": "dubbed movie",
+    "translation": "filme dublado",
+    "pronunciation": "/dʌbd ˈmuːvi/",
+    "portuguesePhonetic": "dâbd mû-vi",
+    "syllables": [
+      "dubbed",
+      " mo",
+      "vie"
+    ],
+    "exampleSentence": "Sam likes dubbed movies, but I don't.",
+    "exampleTranslation": "Sam gosta de filmes dublados, mas eu não."
+  },
+  {
+    "id": "lesson_75_95",
+    "word": "subtitles",
+    "translation": "legendas",
+    "pronunciation": "/ˈsʌbˌtaɪtəlz/",
+    "portuguesePhonetic": "sâb-tái-tôlz",
+    "syllables": [
+      "sub",
+      "ti",
+      "tles"
+    ],
+    "exampleSentence": "He wasn't choosing a movie with subtitles.",
+    "exampleTranslation": "Ele não estava escolhendo um filme com legendas."
+  },
+  {
+    "id": "lesson_75_96",
+    "word": "comedy movie",
+    "translation": "filme de comédia",
+    "pronunciation": "/ˈkɑmədi ˈmuːvi/",
+    "portuguesePhonetic": "có-me-di mû-vi",
+    "syllables": [
+      "com",
+      "e",
+      "dy",
+      " mo",
+      "vie"
+    ],
+    "exampleSentence": "He is turning on the TV to watch a comedy movie.",
+    "exampleTranslation": "Ele está ligando a TV para assistir a um filme de comédia."
+  },
+  {
+    "id": "lesson_75_97",
+    "word": "romance movie",
+    "translation": "filme de romance",
+    "pronunciation": "/roʊˈmæns ˈmuːvi/",
+    "portuguesePhonetic": "rôu-méns mû-vi",
+    "syllables": [
+      "ro",
+      "mance",
+      " mo",
+      "vie"
+    ],
+    "exampleSentence": "Peter and I weren't watching a romance movie on TV.",
+    "exampleTranslation": "Peter e eu não estávamos assistindo a um filme de romance na TV."
+  },
+  {
+    "id": "lesson_75_98",
+    "word": "popcorn",
+    "translation": "pipoca",
+    "pronunciation": "/ˈpɑpˌkɔrn/",
+    "portuguesePhonetic": "póp-córn",
+    "syllables": [
+      "pop",
+      "corn"
+    ],
+    "exampleSentence": "We were eating popcorn and drinking soda.",
+    "exampleTranslation": "Nós estávamos comendo pipoca e tomando refrigerante."
+  },
+  {
+    "id": "lesson_75_99",
+    "word": "soda",
+    "translation": "refrigerante",
+    "pronunciation": "/ˈsoʊdə/",
+    "portuguesePhonetic": "sôu-da",
+    "syllables": [
+      "so",
+      "da"
+    ],
+    "exampleSentence": "We were eating popcorn and drinking soda.",
+    "exampleTranslation": "Nós estávamos comendo pipoca e tomando refrigerante."
+  },
+  {
+    "id": "lesson_75_100",
+    "word": "studio apartment",
+    "translation": "apartamento tipo estúdio",
+    "pronunciation": "/ˈstudiˌoʊ əˈpɑrtmənt/",
+    "portuguesePhonetic": "és-tchû-di-ôu a-párt-ment",
+    "syllables": [
+      "stu",
+      "di",
+      "o",
+      " a",
+      "part",
+      "ment"
+    ],
+    "exampleSentence": "They weren't moving to a nice studio apartment.",
+    "exampleTranslation": "Eles não estavam se mudando para um belo apartamento tipo estúdio."
+  },
+  {
+    "id": "lesson_75_101",
+    "word": "lose one's temper",
+    "translation": "perder a paciência",
+    "pronunciation": "/luz wʌnz ˈtɛmpər/",
+    "portuguesePhonetic": "lûz uânz tém-per",
+    "syllables": [
+      "lose",
+      " one's",
+      " tem",
+      "per"
+    ],
+    "exampleSentence": "We weren't losing our temper with her.",
+    "exampleTranslation": "Nós não estávamos perdendo a paciência com ela."
+  }
+]

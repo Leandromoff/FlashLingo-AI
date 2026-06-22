@@ -1,0 +1,2091 @@
+[
+  {
+    "id": "lesson_29_1",
+    "word": "to drive",
+    "translation": "dirigir",
+    "pronunciation": "/tu draɪv/",
+    "portuguesePhonetic": "tchu dráiv",
+    "syllables": [
+      "to",
+      " drive"
+    ],
+    "exampleSentence": "to drive",
+    "exampleTranslation": "dirigir"
+  },
+  {
+    "id": "lesson_29_2",
+    "word": "to walk",
+    "translation": "andar, caminhar",
+    "pronunciation": "/tu wɔk/",
+    "portuguesePhonetic": "tchu uóc",
+    "syllables": [
+      "to",
+      " walk"
+    ],
+    "exampleSentence": "to walk",
+    "exampleTranslation": "andar, caminhar"
+  },
+  {
+    "id": "lesson_29_3",
+    "word": "street",
+    "translation": "rua",
+    "pronunciation": "/strit/",
+    "portuguesePhonetic": "strit",
+    "syllables": [
+      "street"
+    ],
+    "exampleSentence": "street",
+    "exampleTranslation": "rua"
+  },
+  {
+    "id": "lesson_29_4",
+    "word": "avenue",
+    "translation": "avenida",
+    "pronunciation": "/ˈævəˌnu/",
+    "portuguesePhonetic": "é-ve-niu",
+    "syllables": [
+      "av",
+      "e",
+      "nue"
+    ],
+    "exampleSentence": "avenue",
+    "exampleTranslation": "avenida"
+  },
+  {
+    "id": "lesson_29_5",
+    "word": "block",
+    "translation": "quadra, quarteirão",
+    "pronunciation": "/blɑk/",
+    "portuguesePhonetic": "blóc",
+    "syllables": [
+      "block"
+    ],
+    "exampleSentence": "block",
+    "exampleTranslation": "quadra, quarteirão"
+  },
+  {
+    "id": "lesson_29_6",
+    "word": "station",
+    "translation": "estação",
+    "pronunciation": "/ˈsteɪʃən/",
+    "portuguesePhonetic": "stêi-chan",
+    "syllables": [
+      "sta",
+      "tion"
+    ],
+    "exampleSentence": "station",
+    "exampleTranslation": "estação"
+  },
+  {
+    "id": "lesson_29_7",
+    "word": "airport",
+    "translation": "aeroporto",
+    "pronunciation": "/ˈɛrˌpɔrt/",
+    "portuguesePhonetic": "ér-pórt",
+    "syllables": [
+      "air",
+      "port"
+    ],
+    "exampleSentence": "airport",
+    "exampleTranslation": "aeroporto"
+  },
+  {
+    "id": "lesson_29_8",
+    "word": "bus",
+    "translation": "ônibus",
+    "pronunciation": "/bʌs/",
+    "portuguesePhonetic": "bâs",
+    "syllables": [
+      "bus"
+    ],
+    "exampleSentence": "bus",
+    "exampleTranslation": "ônibus"
+  },
+  {
+    "id": "lesson_29_9",
+    "word": "subway",
+    "translation": "metrô",
+    "pronunciation": "/ˈsʌbˌweɪ/",
+    "portuguesePhonetic": "sâb-uêi",
+    "syllables": [
+      "sub",
+      "way"
+    ],
+    "exampleSentence": "subway",
+    "exampleTranslation": "metrô"
+  },
+  {
+    "id": "lesson_29_10",
+    "word": "train",
+    "translation": "trem",
+    "pronunciation": "/treɪn/",
+    "portuguesePhonetic": "trêin",
+    "syllables": [
+      "train"
+    ],
+    "exampleSentence": "train",
+    "exampleTranslation": "trem"
+  },
+  {
+    "id": "lesson_29_11",
+    "word": "cab",
+    "translation": "táxi",
+    "pronunciation": "/kæb/",
+    "portuguesePhonetic": "kéb",
+    "syllables": [
+      "cab"
+    ],
+    "exampleSentence": "cab",
+    "exampleTranslation": "táxi"
+  },
+  {
+    "id": "lesson_29_12",
+    "word": "motorcycle",
+    "translation": "motocicleta",
+    "pronunciation": "/ˈmoʊtərˈsaɪkəl/",
+    "portuguesePhonetic": "môu-ter-sái-col",
+    "syllables": [
+      "mo",
+      "tor",
+      "cy",
+      "cle"
+    ],
+    "exampleSentence": "motorcycle",
+    "exampleTranslation": "motocicleta"
+  },
+  {
+    "id": "lesson_29_13",
+    "word": "bicycle",
+    "translation": "bicicleta",
+    "pronunciation": "/ˈbaɪsɪkəl/",
+    "portuguesePhonetic": "bái-si-col",
+    "syllables": [
+      "bi",
+      "cy",
+      "cle"
+    ],
+    "exampleSentence": "bicycle",
+    "exampleTranslation": "bicicleta"
+  },
+  {
+    "id": "lesson_29_14",
+    "word": "before",
+    "translation": "antes",
+    "pronunciation": "/bɪˈfɔr/",
+    "portuguesePhonetic": "bi-fór",
+    "syllables": [
+      "be",
+      "fore"
+    ],
+    "exampleSentence": "before",
+    "exampleTranslation": "antes"
+  },
+  {
+    "id": "lesson_29_15",
+    "word": "after",
+    "translation": "depois",
+    "pronunciation": "/ˈæftər/",
+    "portuguesePhonetic": "éf-ter",
+    "syllables": [
+      "af",
+      "ter"
+    ],
+    "exampleSentence": "after",
+    "exampleTranslation": "depois"
+  },
+  {
+    "id": "lesson_29_16",
+    "word": "Do you want to go downtown?",
+    "translation": "Você quer ir ao centro da cidade?",
+    "pronunciation": "/du ju wɑnt tu ɡoʊ ˈdaʊnˈtaʊn?/",
+    "portuguesePhonetic": "du iu uánt tchu gôu dáun-táun?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " go",
+      " down",
+      "town?"
+    ],
+    "exampleSentence": "Do you want to go downtown?",
+    "exampleTranslation": "Você quer ir ao centro da cidade?"
+  },
+  {
+    "id": "lesson_29_17",
+    "word": "Do you go to school by car?",
+    "translation": "Você vai para a escola de carro?",
+    "pronunciation": "/du ju ɡoʊ tu skul baɪ kɑr?/",
+    "portuguesePhonetic": "du iu gôu tchu scul bái cár?",
+    "syllables": [
+      "Do",
+      " you",
+      " go",
+      " to",
+      " school",
+      " by",
+      " car?"
+    ],
+    "exampleSentence": "Do you go to school by car?",
+    "exampleTranslation": "Você vai para a escola de carro?"
+  },
+  {
+    "id": "lesson_29_18",
+    "word": "She drives me to work.",
+    "translation": "Ela me leva de carro para o trabalho.",
+    "pronunciation": "/ʃi draɪvz mi tu wɜrk./",
+    "portuguesePhonetic": "chi dráivs mi tchu uãrc.",
+    "syllables": [
+      "She",
+      " drives",
+      " me",
+      " to",
+      " work."
+    ],
+    "exampleSentence": "She drives me to work.",
+    "exampleTranslation": "Ela me leva de carro para o trabalho."
+  },
+  {
+    "id": "lesson_29_19",
+    "word": "Go home now.",
+    "translation": "Vá para casa agora.",
+    "pronunciation": "/ɡoʊ hoʊm naʊ./",
+    "portuguesePhonetic": "gôu rôum náu.",
+    "syllables": [
+      "Go",
+      " home",
+      " now."
+    ],
+    "exampleSentence": "Go home now.",
+    "exampleTranslation": "Vá para casa agora."
+  },
+  {
+    "id": "lesson_29_20",
+    "word": "Take me to the airport, please.",
+    "translation": "Leve-me ao aeroporto, por favor.",
+    "pronunciation": "/teɪk mi tu ðə ˈɛrˌpɔrt, pliz./",
+    "portuguesePhonetic": "têic mi tchu dâ ér-pórt, plis.",
+    "syllables": [
+      "Take",
+      " me",
+      " to",
+      " the",
+      " air",
+      "port,",
+      " please."
+    ],
+    "exampleSentence": "Take me to the airport, please.",
+    "exampleTranslation": "Leve-me ao aeroporto, por favor."
+  },
+  {
+    "id": "lesson_29_21",
+    "word": "Walk two blocks.",
+    "translation": "Ande dois quarteirões.",
+    "pronunciation": "/wɔk tu blɑks./",
+    "portuguesePhonetic": "uóc tu blócs.",
+    "syllables": [
+      "Walk",
+      " two",
+      " blocks."
+    ],
+    "exampleSentence": "Walk two blocks.",
+    "exampleTranslation": "Ande dois quarteirões."
+  },
+  {
+    "id": "lesson_29_22",
+    "word": "Meet me at the mall.",
+    "translation": "Encontre-me no shopping.",
+    "pronunciation": "/mit mi æt ðə mɔl./",
+    "portuguesePhonetic": "mit mi ét dâ mól.",
+    "syllables": [
+      "Meet",
+      " me",
+      " at",
+      " the",
+      " mall."
+    ],
+    "exampleSentence": "Meet me at the mall.",
+    "exampleTranslation": "Encontre-me no shopping."
+  },
+  {
+    "id": "lesson_29_23",
+    "word": "Don't take the subway to go home.",
+    "translation": "Não pegue o metrô para ir para casa.",
+    "pronunciation": "/doʊnt teɪk ðə ˈsʌbˌweɪ tu ɡoʊ hoʊm./",
+    "portuguesePhonetic": "dôunt têic dâ sâb-uêi tchu gôu rôum.",
+    "syllables": [
+      "Don't",
+      " take",
+      " the",
+      " sub",
+      "way",
+      " to",
+      " go",
+      " home."
+    ],
+    "exampleSentence": "Don't take the subway to go home.",
+    "exampleTranslation": "Não pegue o metrô para ir para casa."
+  },
+  {
+    "id": "lesson_29_24",
+    "word": "Don't drink coffee at night.",
+    "translation": "Não beba café à noite.",
+    "pronunciation": "/doʊnt drɪŋk ˈkɔfi æt naɪt./",
+    "portuguesePhonetic": "dôunt drínc có-fi ét náit.",
+    "syllables": [
+      "Don't",
+      " drink",
+      " cof",
+      "fee",
+      " at",
+      " night."
+    ],
+    "exampleSentence": "Don't drink coffee at night.",
+    "exampleTranslation": "Não beba café à noite."
+  },
+  {
+    "id": "lesson_29_25",
+    "word": "Don't stay here until late, OK?",
+    "translation": "Não fique aqui até tarde, OK?",
+    "pronunciation": "/doʊnt steɪ hɪr ʌnˈtɪl leɪt, oʊˈkeɪ?/",
+    "portuguesePhonetic": "dôunt stêi rír an-tíl lêit, ou-kêi?",
+    "syllables": [
+      "Don't",
+      " stay",
+      " here",
+      " un",
+      "til",
+      " late,",
+      " O",
+      "K?"
+    ],
+    "exampleSentence": "Don't stay here until late, OK?",
+    "exampleTranslation": "Não fique aqui até tarde, OK?"
+  },
+  {
+    "id": "lesson_29_26",
+    "word": "Don't buy this ticket. It's expensive.",
+    "translation": "Não compre essa passagem. Está cara.",
+    "pronunciation": "/doʊnt baɪ ðɪs ˈtɪkɪt. ɪts ɪkˈspɛnsɪv./",
+    "portuguesePhonetic": "dôunt bái dís tíquet. its ecs-pén-siv.",
+    "syllables": [
+      "Don't",
+      " buy",
+      " this",
+      " tick",
+      "et.",
+      " It's",
+      " ex",
+      "pen",
+      "sive."
+    ],
+    "exampleSentence": "Don't buy this ticket. It's expensive.",
+    "exampleTranslation": "Não compre essa passagem. Está cara."
+  },
+  {
+    "id": "lesson_29_27",
+    "word": "She takes the subway at 7:00 A.M.",
+    "translation": "Ela pega o metrô às 7:00 da manhã.",
+    "pronunciation": "/ʃi teɪks ðə ˈsʌbˌweɪ æt ˈsɛvən eɪ-ɛm./",
+    "portuguesePhonetic": "chi têics dâ sâb-uêi ét séven êi-ém.",
+    "syllables": [
+      "She",
+      " takes",
+      " the",
+      " sub",
+      "way",
+      " at",
+      " 7:00",
+      " A.",
+      "M."
+    ],
+    "exampleSentence": "She takes the subway at 7:00 A.M.",
+    "exampleTranslation": "Ela pega o metrô às 7:00 da manhã."
+  },
+  {
+    "id": "lesson_29_28",
+    "word": "We go to work by bicycle.",
+    "translation": "Nós vamos para o trabalho de bicicleta.",
+    "pronunciation": "/wi ɡoʊ tu wɜrk baɪ ˈbaɪsɪkəl./",
+    "portuguesePhonetic": "ui gôu tchu uãrc bái bái-si-col.",
+    "syllables": [
+      "We",
+      " go",
+      " to",
+      " work",
+      " by",
+      " bi",
+      "cy",
+      "cle."
+    ],
+    "exampleSentence": "We go to work by bicycle.",
+    "exampleTranslation": "Nós vamos para o trabalho de bicicleta."
+  },
+  {
+    "id": "lesson_29_29",
+    "word": "Do we need to go downtown now?",
+    "translation": "Nós precisamos ir ao centro da cidade agora?",
+    "pronunciation": "/du wi nid tu ɡoʊ ˈdaʊnˈtaʊn naʊ?/",
+    "portuguesePhonetic": "du ui nid tchu gôu dáun-táun náu?",
+    "syllables": [
+      "Do",
+      " we",
+      " need",
+      " to",
+      " go",
+      " down",
+      "town",
+      " now?"
+    ],
+    "exampleSentence": "Do we need to go downtown now?",
+    "exampleTranslation": "Nós precisamos ir ao centro da cidade agora?"
+  },
+  {
+    "id": "lesson_29_30",
+    "word": "Does she live on this street?",
+    "translation": "Ela mora nesta rua?",
+    "pronunciation": "/dʌz ʃi lɪv ɑn ðɪs strit?/",
+    "portuguesePhonetic": "dâz chi lív ón dís strit?",
+    "syllables": [
+      "Does",
+      " she",
+      " live",
+      " on",
+      " this",
+      " street?"
+    ],
+    "exampleSentence": "Does she live on this street?",
+    "exampleTranslation": "Ela mora nesta rua?"
+  },
+  {
+    "id": "lesson_29_31",
+    "word": "I don't drive, I usually walk to work.",
+    "translation": "Eu não dirijo, eu geralmente caminho para o trabalho.",
+    "pronunciation": "/aɪ doʊnt draɪv, aɪ ˈjuʒuəli wɔk tu wɜrk./",
+    "portuguesePhonetic": "ai dôunt dráiv, ai iú-ju-a-li uóc tchu uãrc.",
+    "syllables": [
+      "I",
+      " don't",
+      " drive,",
+      " I",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " walk",
+      " to",
+      " work."
+    ],
+    "exampleSentence": "I don't drive, I usually walk to work.",
+    "exampleTranslation": "Eu não dirijo, eu geralmente caminho para o trabalho."
+  },
+  {
+    "id": "lesson_29_32",
+    "word": "Take a cab to the airport.",
+    "translation": "Pegue um táxi para o aeroporto.",
+    "pronunciation": "/teɪk ə kæb tu ðə ˈɛrˌpɔrt./",
+    "portuguesePhonetic": "têic â kéb tchu dâ ér-pórt.",
+    "syllables": [
+      "Take",
+      " a",
+      " cab",
+      " to",
+      " the",
+      " air",
+      "port."
+    ],
+    "exampleSentence": "Take a cab to the airport.",
+    "exampleTranslation": "Pegue um táxi para o aeroporto."
+  },
+  {
+    "id": "lesson_29_33",
+    "word": "Take the bus on this avenue.",
+    "translation": "Pegue o ônibus nesta avenida.",
+    "pronunciation": "/teɪk ðə bʌs ɑn ðɪs ˈævəˌnu./",
+    "portuguesePhonetic": "têic dâ bâs ón dís é-ve-niu.",
+    "syllables": [
+      "Take",
+      " the",
+      " bus",
+      " on",
+      " this",
+      " av",
+      "e",
+      "nue."
+    ],
+    "exampleSentence": "Take the bus on this avenue.",
+    "exampleTranslation": "Pegue o ônibus nesta avenida."
+  },
+  {
+    "id": "lesson_29_34",
+    "word": "My father doesn't drive me to school.",
+    "translation": "Meu pai não me leva de carro para a escola.",
+    "pronunciation": "/maɪ ˈfɑðər ˈdʌzənt draɪv mi tu skul./",
+    "portuguesePhonetic": "mai fâ-der dâ-zent dráiv mi tchu scul.",
+    "syllables": [
+      "My",
+      " fa",
+      "ther",
+      " doesn't",
+      " drive",
+      " me",
+      " to",
+      " school."
+    ],
+    "exampleSentence": "My father doesn't drive me to school.",
+    "exampleTranslation": "Meu pai não me leva de carro para a escola."
+  },
+  {
+    "id": "lesson_29_35",
+    "word": "Don't go there alone.",
+    "translation": "Não vá lá sozinho.",
+    "pronunciation": "/doʊnt ɡoʊ ðɛr əˈloʊn./",
+    "portuguesePhonetic": "dôunt gôu dér a-lôun.",
+    "syllables": [
+      "Don't",
+      " go",
+      " there",
+      " a",
+      "lone."
+    ],
+    "exampleSentence": "Don't go there alone.",
+    "exampleTranslation": "Não vá lá sozinho."
+  },
+  {
+    "id": "lesson_29_36",
+    "word": "Don't go to bed late.",
+    "translation": "Não vá dormir tarde.",
+    "pronunciation": "/doʊnt ɡoʊ tu bɛd leɪt./",
+    "portuguesePhonetic": "dôunt gôu tchu béd lêit.",
+    "syllables": [
+      "Don't",
+      " go",
+      " to",
+      " bed",
+      " late."
+    ],
+    "exampleSentence": "Don't go to bed late.",
+    "exampleTranslation": "Não vá dormir tarde."
+  },
+  {
+    "id": "lesson_29_37",
+    "word": "What's your address?",
+    "translation": "Qual é o seu endereço?",
+    "pronunciation": "/wʌts jʊr əˈdrɛs?/",
+    "portuguesePhonetic": "uóts iór a-drés?",
+    "syllables": [
+      "What's",
+      " your",
+      " ad",
+      "dress?"
+    ],
+    "exampleSentence": "What's your address?",
+    "exampleTranslation": "Qual é o seu endereço?"
+  },
+  {
+    "id": "lesson_29_38",
+    "word": "It's 123 Alamo Street.",
+    "translation": "É 123 Alamo Street.",
+    "pronunciation": "/ɪts wʌn tu θri ˈæləˌmoʊ strit./",
+    "portuguesePhonetic": "its uân tu zri é-le-mou strit.",
+    "syllables": [
+      "It's",
+      " 123",
+      " Al",
+      "a",
+      "mo",
+      " Street."
+    ],
+    "exampleSentence": "It's 123 Alamo Street.",
+    "exampleTranslation": "É 123 Alamo Street."
+  },
+  {
+    "id": "lesson_29_39",
+    "word": "What's your zip code?",
+    "translation": "Qual é o seu CEP?",
+    "pronunciation": "/wʌts jʊr zɪp koʊd?/",
+    "portuguesePhonetic": "uóts iór zip côud?",
+    "syllables": [
+      "What's",
+      " your",
+      " zip",
+      " code?"
+    ],
+    "exampleSentence": "What's your zip code?",
+    "exampleTranslation": "Qual é o seu CEP?"
+  },
+  {
+    "id": "lesson_29_40",
+    "word": "It's 48170.",
+    "translation": "É 48170.",
+    "pronunciation": "/ɪts fɔr eɪt wʌn sɛvən oʊ./",
+    "portuguesePhonetic": "its fór êit uân séven ou.",
+    "syllables": [
+      "It's",
+      " 48170."
+    ],
+    "exampleSentence": "It's 48170.",
+    "exampleTranslation": "É 48170."
+  },
+  {
+    "id": "lesson_29_41",
+    "word": "on the street",
+    "translation": "na rua",
+    "pronunciation": "/ɑn ðə strit/",
+    "portuguesePhonetic": "ón dâ strit",
+    "syllables": [
+      "on",
+      " the",
+      " street"
+    ],
+    "exampleSentence": "on the street",
+    "exampleTranslation": "na rua"
+  },
+  {
+    "id": "lesson_29_42",
+    "word": "on the avenue",
+    "translation": "na avenida",
+    "pronunciation": "/ɑn ðə ˈævəˌnu/",
+    "portuguesePhonetic": "ón dâ é-ve-niu",
+    "syllables": [
+      "on",
+      " the",
+      " av",
+      "e",
+      "nue"
+    ],
+    "exampleSentence": "on the avenue",
+    "exampleTranslation": "na avenida"
+  },
+  {
+    "id": "lesson_29_43",
+    "word": "at the station",
+    "translation": "na estação",
+    "pronunciation": "/æt ðə ˈsteɪʃən/",
+    "portuguesePhonetic": "ét dâ stêi-chan",
+    "syllables": [
+      "at",
+      " the",
+      " sta",
+      "tion"
+    ],
+    "exampleSentence": "at the station",
+    "exampleTranslation": "na estação"
+  },
+  {
+    "id": "lesson_29_44",
+    "word": "Avenue → Ave.",
+    "translation": "Abreviação de Avenue (Avenida)",
+    "pronunciation": "/ˈævəˌnu/",
+    "portuguesePhonetic": "é-ve-niu",
+    "syllables": [
+      "Av",
+      "e",
+      "nue"
+    ],
+    "exampleSentence": "Avenue → Ave.",
+    "exampleTranslation": "Abreviação de Avenue (Avenida)"
+  },
+  {
+    "id": "lesson_29_45",
+    "word": "Street → St.",
+    "translation": "Abreviação de Street (Rua)",
+    "pronunciation": "/strit/",
+    "portuguesePhonetic": "strit",
+    "syllables": [
+      "Street"
+    ],
+    "exampleSentence": "Street → St.",
+    "exampleTranslation": "Abreviação de Street (Rua)"
+  },
+  {
+    "id": "lesson_29_46",
+    "word": "drive",
+    "translation": "dirigir",
+    "pronunciation": "/draɪv/",
+    "portuguesePhonetic": "dráiv",
+    "syllables": [
+      "drive"
+    ],
+    "exampleSentence": "drive",
+    "exampleTranslation": "dirigir"
+  },
+  {
+    "id": "lesson_29_47",
+    "word": "walk",
+    "translation": "andar, caminhar",
+    "pronunciation": "/wɔk/",
+    "portuguesePhonetic": "uóc",
+    "syllables": [
+      "walk"
+    ],
+    "exampleSentence": "walk",
+    "exampleTranslation": "andar, caminhar"
+  },
+  {
+    "id": "lesson_29_48",
+    "word": "street",
+    "translation": "rua",
+    "pronunciation": "/strit/",
+    "portuguesePhonetic": "strit",
+    "syllables": [
+      "street"
+    ],
+    "exampleSentence": "street",
+    "exampleTranslation": "rua"
+  },
+  {
+    "id": "lesson_29_49",
+    "word": "avenue",
+    "translation": "avenida",
+    "pronunciation": "/ˈævəˌnu/",
+    "portuguesePhonetic": "é-ve-niu",
+    "syllables": [
+      "av",
+      "e",
+      "nue"
+    ],
+    "exampleSentence": "avenue",
+    "exampleTranslation": "avenida"
+  },
+  {
+    "id": "lesson_29_50",
+    "word": "block",
+    "translation": "quarteirão",
+    "pronunciation": "/blɑk/",
+    "portuguesePhonetic": "blóc",
+    "syllables": [
+      "block"
+    ],
+    "exampleSentence": "block",
+    "exampleTranslation": "quarteirão"
+  },
+  {
+    "id": "lesson_29_51",
+    "word": "station",
+    "translation": "estação",
+    "pronunciation": "/ˈsteɪʃən/",
+    "portuguesePhonetic": "stêi-chan",
+    "syllables": [
+      "sta",
+      "tion"
+    ],
+    "exampleSentence": "station",
+    "exampleTranslation": "estação"
+  },
+  {
+    "id": "lesson_29_52",
+    "word": "airport",
+    "translation": "aeroporto",
+    "pronunciation": "/ˈɛrˌpɔrt/",
+    "portuguesePhonetic": "ér-pórt",
+    "syllables": [
+      "air",
+      "port"
+    ],
+    "exampleSentence": "airport",
+    "exampleTranslation": "aeroporto"
+  },
+  {
+    "id": "lesson_29_53",
+    "word": "bus",
+    "translation": "ônibus",
+    "pronunciation": "/bʌs/",
+    "portuguesePhonetic": "bâs",
+    "syllables": [
+      "bus"
+    ],
+    "exampleSentence": "bus",
+    "exampleTranslation": "ônibus"
+  },
+  {
+    "id": "lesson_29_54",
+    "word": "subway",
+    "translation": "metrô",
+    "pronunciation": "/ˈsʌbˌweɪ/",
+    "portuguesePhonetic": "sâb-uêi",
+    "syllables": [
+      "sub",
+      "way"
+    ],
+    "exampleSentence": "subway",
+    "exampleTranslation": "metrô"
+  },
+  {
+    "id": "lesson_29_55",
+    "word": "train",
+    "translation": "trem",
+    "pronunciation": "/treɪn/",
+    "portuguesePhonetic": "trêin",
+    "syllables": [
+      "train"
+    ],
+    "exampleSentence": "train",
+    "exampleTranslation": "trem"
+  },
+  {
+    "id": "lesson_29_56",
+    "word": "cab",
+    "translation": "táxi",
+    "pronunciation": "/kæb/",
+    "portuguesePhonetic": "kéb",
+    "syllables": [
+      "cab"
+    ],
+    "exampleSentence": "cab",
+    "exampleTranslation": "táxi"
+  },
+  {
+    "id": "lesson_29_57",
+    "word": "motorcycle",
+    "translation": "motocicleta",
+    "pronunciation": "/ˈmoʊtərˈsaɪkəl/",
+    "portuguesePhonetic": "môu-ter-sái-col",
+    "syllables": [
+      "mo",
+      "tor",
+      "cy",
+      "cle"
+    ],
+    "exampleSentence": "motorcycle",
+    "exampleTranslation": "motocicleta"
+  },
+  {
+    "id": "lesson_29_58",
+    "word": "bicycle",
+    "translation": "bicicleta",
+    "pronunciation": "/ˈbaɪsɪkəl/",
+    "portuguesePhonetic": "bái-si-col",
+    "syllables": [
+      "bi",
+      "cy",
+      "cle"
+    ],
+    "exampleSentence": "bicycle",
+    "exampleTranslation": "bicicleta"
+  },
+  {
+    "id": "lesson_29_59",
+    "word": "before",
+    "translation": "antes",
+    "pronunciation": "/bɪˈfɔr/",
+    "portuguesePhonetic": "bi-fór",
+    "syllables": [
+      "be",
+      "fore"
+    ],
+    "exampleSentence": "before",
+    "exampleTranslation": "antes"
+  },
+  {
+    "id": "lesson_29_60",
+    "word": "after",
+    "translation": "depois",
+    "pronunciation": "/ˈæftər/",
+    "portuguesePhonetic": "éf-ter",
+    "syllables": [
+      "af",
+      "ter"
+    ],
+    "exampleSentence": "after",
+    "exampleTranslation": "depois"
+  },
+  {
+    "id": "lesson_29_61",
+    "word": "downtown",
+    "translation": "centro da cidade",
+    "pronunciation": "/ˈdaʊnˈtaʊn/",
+    "portuguesePhonetic": "dáun-táun",
+    "syllables": [
+      "down",
+      "town"
+    ],
+    "exampleSentence": "downtown",
+    "exampleTranslation": "centro da cidade"
+  },
+  {
+    "id": "lesson_29_62",
+    "word": "address",
+    "translation": "endereço",
+    "pronunciation": "/əˈdrɛs/",
+    "portuguesePhonetic": "a-drés",
+    "syllables": [
+      "ad",
+      "dress"
+    ],
+    "exampleSentence": "address",
+    "exampleTranslation": "endereço"
+  },
+  {
+    "id": "lesson_29_63",
+    "word": "zip code",
+    "translation": "CEP",
+    "pronunciation": "/zɪp koʊd/",
+    "portuguesePhonetic": "zip côud",
+    "syllables": [
+      "zip",
+      " code"
+    ],
+    "exampleSentence": "zip code",
+    "exampleTranslation": "CEP"
+  },
+  {
+    "id": "lesson_29_64",
+    "word": "mall",
+    "translation": "shopping",
+    "pronunciation": "/mɔl/",
+    "portuguesePhonetic": "mól",
+    "syllables": [
+      "mall"
+    ],
+    "exampleSentence": "mall",
+    "exampleTranslation": "shopping"
+  },
+  {
+    "id": "lesson_29_65",
+    "word": "by car",
+    "translation": "de carro",
+    "pronunciation": "/baɪ kɑr/",
+    "portuguesePhonetic": "bái cár",
+    "syllables": [
+      "by",
+      " car"
+    ],
+    "exampleSentence": "by car",
+    "exampleTranslation": "de carro"
+  },
+  {
+    "id": "lesson_29_66",
+    "word": "by bicycle",
+    "translation": "de bicicleta",
+    "pronunciation": "/baɪ ˈbaɪsɪkəl/",
+    "portuguesePhonetic": "bái bái-si-col",
+    "syllables": [
+      "by",
+      " bi",
+      "cy",
+      "cle"
+    ],
+    "exampleSentence": "by bicycle",
+    "exampleTranslation": "de bicicleta"
+  },
+  {
+    "id": "lesson_29_67",
+    "word": "by bus",
+    "translation": "de ônibus",
+    "pronunciation": "/baɪ bʌs/",
+    "portuguesePhonetic": "bái bâs",
+    "syllables": [
+      "by",
+      " bus"
+    ],
+    "exampleSentence": "by bus",
+    "exampleTranslation": "de ônibus"
+  },
+  {
+    "id": "lesson_29_68",
+    "word": "by train",
+    "translation": "de trem",
+    "pronunciation": "/baɪ treɪn/",
+    "portuguesePhonetic": "bái trêin",
+    "syllables": [
+      "by",
+      " train"
+    ],
+    "exampleSentence": "by train",
+    "exampleTranslation": "de trem"
+  },
+  {
+    "id": "lesson_29_69",
+    "word": "I go to school by car.",
+    "translation": "Eu vou para a escola de carro.",
+    "pronunciation": "/aɪ ɡoʊ tu skul baɪ kɑr./",
+    "portuguesePhonetic": "ai gôu tchu scul bái cár.",
+    "syllables": [
+      "I",
+      " go",
+      " to",
+      " school",
+      " by",
+      " car."
+    ],
+    "exampleSentence": "I go to school by car.",
+    "exampleTranslation": "Eu vou para a escola de carro."
+  },
+  {
+    "id": "lesson_29_70",
+    "word": "We go to work by bicycle.",
+    "translation": "Nós vamos para o trabalho de bicicleta.",
+    "pronunciation": "/wi ɡoʊ tu wɜrk baɪ ˈbaɪsɪkəl./",
+    "portuguesePhonetic": "ui gôu tchu uãrc bái bái-si-col.",
+    "syllables": [
+      "We",
+      " go",
+      " to",
+      " work",
+      " by",
+      " bi",
+      "cy",
+      "cle."
+    ],
+    "exampleSentence": "We go to work by bicycle.",
+    "exampleTranslation": "Nós vamos para o trabalho de bicicleta."
+  },
+  {
+    "id": "lesson_29_71",
+    "word": "Go home.",
+    "translation": "Vá para casa.",
+    "pronunciation": "/ɡoʊ hoʊm./",
+    "portuguesePhonetic": "gôu rôum.",
+    "syllables": [
+      "Go",
+      " home."
+    ],
+    "exampleSentence": "Go home.",
+    "exampleTranslation": "Vá para casa."
+  },
+  {
+    "id": "lesson_29_72",
+    "word": "Walk two blocks.",
+    "translation": "Ande dois quarteirões.",
+    "pronunciation": "/wɔk tu blɑks./",
+    "portuguesePhonetic": "uóc tu blócs.",
+    "syllables": [
+      "Walk",
+      " two",
+      " blocks."
+    ],
+    "exampleSentence": "Walk two blocks.",
+    "exampleTranslation": "Ande dois quarteirões."
+  },
+  {
+    "id": "lesson_29_73",
+    "word": "Take a cab.",
+    "translation": "Pegue um táxi.",
+    "pronunciation": "/teɪk ə kæb./",
+    "portuguesePhonetic": "têic â kéb.",
+    "syllables": [
+      "Take",
+      " a",
+      " cab."
+    ],
+    "exampleSentence": "Take a cab.",
+    "exampleTranslation": "Pegue um táxi."
+  },
+  {
+    "id": "lesson_29_74",
+    "word": "Meet me at the mall.",
+    "translation": "Encontre-me no shopping.",
+    "pronunciation": "/mit mi æt ðə mɔl./",
+    "portuguesePhonetic": "mit mi ét dâ mól.",
+    "syllables": [
+      "Meet",
+      " me",
+      " at",
+      " the",
+      " mall."
+    ],
+    "exampleSentence": "Meet me at the mall.",
+    "exampleTranslation": "Encontre-me no shopping."
+  },
+  {
+    "id": "lesson_29_75",
+    "word": "Don't go there.",
+    "translation": "Não vá lá.",
+    "pronunciation": "/doʊnt ɡoʊ ðɛr./",
+    "portuguesePhonetic": "dôunt gôu dér.",
+    "syllables": [
+      "Don't",
+      " go",
+      " there."
+    ],
+    "exampleSentence": "Don't go there.",
+    "exampleTranslation": "Não vá lá."
+  },
+  {
+    "id": "lesson_29_76",
+    "word": "Don't drink coffee at night.",
+    "translation": "Não beba café à noite.",
+    "pronunciation": "/doʊnt drɪŋk ˈkɔfi æt naɪt./",
+    "portuguesePhonetic": "dôunt drínc có-fi ét náit.",
+    "syllables": [
+      "Don't",
+      " drink",
+      " cof",
+      "fee",
+      " at",
+      " night."
+    ],
+    "exampleSentence": "Don't drink coffee at night.",
+    "exampleTranslation": "Não beba café à noite."
+  },
+  {
+    "id": "lesson_29_77",
+    "word": "Don't stay here until late.",
+    "translation": "Não fique aqui até tarde.",
+    "pronunciation": "/doʊnt steɪ hɪr ʌnˈtɪl leɪt./",
+    "portuguesePhonetic": "dôunt stêi rír an-tíl lêit.",
+    "syllables": [
+      "Don't",
+      " stay",
+      " here",
+      " un",
+      "til",
+      " late."
+    ],
+    "exampleSentence": "Don't stay here until late.",
+    "exampleTranslation": "Não fique aqui até tarde."
+  },
+  {
+    "id": "lesson_29_78",
+    "word": "Don't buy this ticket.",
+    "translation": "Não compre esta passagem.",
+    "pronunciation": "/doʊnt baɪ ðɪs ˈtɪkɪt./",
+    "portuguesePhonetic": "dôunt bái dís tíquet.",
+    "syllables": [
+      "Don't",
+      " buy",
+      " this",
+      " tick",
+      "et."
+    ],
+    "exampleSentence": "Don't buy this ticket.",
+    "exampleTranslation": "Não compre esta passagem."
+  },
+  {
+    "id": "lesson_29_79",
+    "word": "What's your address?",
+    "translation": "Qual é o seu endereço?",
+    "pronunciation": "/wʌts jʊr əˈdrɛs?/",
+    "portuguesePhonetic": "uóts iór a-drés?",
+    "syllables": [
+      "What's",
+      " your",
+      " ad",
+      "dress?"
+    ],
+    "exampleSentence": "What's your address?",
+    "exampleTranslation": "Qual é o seu endereço?"
+  },
+  {
+    "id": "lesson_29_80",
+    "word": "What's your zip code?",
+    "translation": "Qual é o seu CEP?",
+    "pronunciation": "/wʌts jʊr zɪp koʊd?/",
+    "portuguesePhonetic": "uóts iór zip côud?",
+    "syllables": [
+      "What's",
+      " your",
+      " zip",
+      " code?"
+    ],
+    "exampleSentence": "What's your zip code?",
+    "exampleTranslation": "Qual é o seu CEP?"
+  },
+  {
+    "id": "lesson_29_81",
+    "word": "Do you want to go downtown?",
+    "translation": "Você quer ir ao centro da cidade?",
+    "pronunciation": "/du ju wɑnt tu ɡoʊ ˈdaʊnˈtaʊn?/",
+    "portuguesePhonetic": "du iu uánt tchu gôu dáun-táun?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " go",
+      " down",
+      "town?"
+    ],
+    "exampleSentence": "Do you want to go downtown?",
+    "exampleTranslation": "Você quer ir ao centro da cidade?"
+  },
+  {
+    "id": "lesson_29_82",
+    "word": "Does she live on this street?",
+    "translation": "Ela mora nesta rua?",
+    "pronunciation": "/dʌz ʃi lɪv ɑn ðɪs strit?/",
+    "portuguesePhonetic": "dâz chi lív ón dís strit?",
+    "syllables": [
+      "Does",
+      " she",
+      " live",
+      " on",
+      " this",
+      " street?"
+    ],
+    "exampleSentence": "Does she live on this street?",
+    "exampleTranslation": "Ela mora nesta rua?"
+  },
+  {
+    "id": "lesson_29_83",
+    "word": "We want to go home by bus and we need to buy two tickets.",
+    "translation": "Nós queremos ir para casa de ônibus e precisamos comprar dois bilhetes.",
+    "pronunciation": "/wi wɑnt tu ɡoʊ hoʊm baɪ bʌs ænd wi nid tu baɪ tu ˈtɪkəts./",
+    "portuguesePhonetic": "ui uánt tchu gôu rôum bái bâs énd ui nid tchu bái tchu tí-quets.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " go",
+      " home",
+      " by",
+      " bus",
+      " and",
+      " we",
+      " need",
+      " to",
+      " buy",
+      " two",
+      " tick",
+      "ets."
+    ],
+    "exampleSentence": "We want to go home by bus and we need to buy two tickets.",
+    "exampleTranslation": "Nós queremos ir para casa de ônibus e precisamos comprar dois bilhetes."
+  },
+  {
+    "id": "lesson_29_84",
+    "word": "Walk two blocks and take the subway on Melvin Street.",
+    "translation": "Ande dois quarteirões e pegue o metrô na Rua Melvin.",
+    "pronunciation": "/wɔk tu blɑks ænd teɪk ðə ˈsʌbˌweɪ ɑn ˈmɛlvɪn strit./",
+    "portuguesePhonetic": "uóc tchu blócs énd têic dâ sâb-uêi ón mél-vin strit.",
+    "syllables": [
+      "Walk",
+      " two",
+      " blocks",
+      " and",
+      " take",
+      " the",
+      " sub",
+      "way",
+      " on",
+      " Mel",
+      "vin",
+      " Street."
+    ],
+    "exampleSentence": "Walk two blocks and take the subway on Melvin Street.",
+    "exampleTranslation": "Ande dois quarteirões e pegue o metrô na Rua Melvin."
+  },
+  {
+    "id": "lesson_29_85",
+    "word": "You need to take the train to go downtown.",
+    "translation": "Você precisa pegar o trem para ir ao centro.",
+    "pronunciation": "/ju nid tu teɪk ðə treɪn tu ɡoʊ ˈdaʊnˈtaʊn./",
+    "portuguesePhonetic": "iu nid tchu têic dâ trêin tchu gôu dáun-táun.",
+    "syllables": [
+      "You",
+      " need",
+      " to",
+      " take",
+      " the",
+      " train",
+      " to",
+      " go",
+      " down",
+      "town."
+    ],
+    "exampleSentence": "You need to take the train to go downtown.",
+    "exampleTranslation": "Você precisa pegar o trem para ir ao centro."
+  },
+  {
+    "id": "lesson_29_86",
+    "word": "I go to school with my cousins by bicycle.",
+    "translation": "Eu vou para a escola com meus primos de bicicleta.",
+    "pronunciation": "/aɪ ɡoʊ tu skul wɪð maɪ ˈkʌzənz baɪ ˈbaɪsɪkəl./",
+    "portuguesePhonetic": "ai gôu tchu scul uíd mai câ-zinz bái bái-si-col.",
+    "syllables": [
+      "I",
+      " go",
+      " to",
+      " school",
+      " with",
+      " my",
+      " cous",
+      "ins",
+      " by",
+      " bi",
+      "cy",
+      "cle."
+    ],
+    "exampleSentence": "I go to school with my cousins by bicycle.",
+    "exampleTranslation": "Eu vou para a escola com meus primos de bicicleta."
+  },
+  {
+    "id": "lesson_29_87",
+    "word": "How can I get to the mall, please? – Go straight ahead and turn right.",
+    "translation": "Como eu faço para chegar ao shopping, por favor? – Vá em frente e vire à direita.",
+    "pronunciation": "/haʊ kæn aɪ ɡɛt tu ðə mɔl, pliz? – ɡoʊ streɪt əˈhɛd ænd tɜrn raɪt./",
+    "portuguesePhonetic": "ráu quén ai guét tchu dâ mól, pliz? – gôu strêit a-réd énd thãrn ráit.",
+    "syllables": [
+      "How",
+      " can",
+      " I",
+      " get",
+      " to",
+      " the",
+      " mall,",
+      " please?",
+      " Go",
+      " straight",
+      " a",
+      "head",
+      " and",
+      " turn",
+      " right."
+    ],
+    "exampleSentence": "How can I get to the mall, please? – Go straight ahead and turn right.",
+    "exampleTranslation": "Como eu faço para chegar ao shopping, por favor? – Vá em frente e vire à direita."
+  },
+  {
+    "id": "lesson_29_88",
+    "word": "We need to take the subway at 5:30. Meet me at the station.",
+    "translation": "Nós precisamos pegar o metrô às 5h30. Me encontre na estação.",
+    "pronunciation": "/wi nid tu teɪk ðə ˈsʌbˌweɪ æt faɪv ˈθɜrti. mit mi æt ðə ˈsteɪʃən./",
+    "portuguesePhonetic": "ui nid tchu têic dâ sâb-uêi ét fáiv thãr-ti. mit mi ét dâ stêi-chan.",
+    "syllables": [
+      "We",
+      " need",
+      " to",
+      " take",
+      " the",
+      " sub",
+      "way",
+      " at",
+      " five",
+      " thir",
+      "ty.",
+      " Meet",
+      " me",
+      " at",
+      " the",
+      " sta",
+      "tion."
+    ],
+    "exampleSentence": "We need to take the subway at 5:30. Meet me at the station.",
+    "exampleTranslation": "Nós precisamos pegar o metrô às 5h30. Me encontre na estação."
+  },
+  {
+    "id": "lesson_29_89",
+    "word": "He doesn't go to the park by bicycle. He goes there by bus.",
+    "translation": "Ele não vai ao parque de bicicleta. Ele vai lá de ônibus.",
+    "pronunciation": "/hi ˈdʌzənt ɡoʊ tu ðə pɑrk baɪ ˈbaɪsɪkəl. hi ɡoʊz ðɛr baɪ bʌs./",
+    "portuguesePhonetic": "ri dâ-zent gôu tchu dâ párc bái bái-si-col. ri gôuz dér bái bâs.",
+    "syllables": [
+      "He",
+      " doesn't",
+      " go",
+      " to",
+      " the",
+      " park",
+      " by",
+      " bi",
+      "cy",
+      "cle.",
+      " He",
+      " goes",
+      " there",
+      " by",
+      " bus."
+    ],
+    "exampleSentence": "He doesn't go to the park by bicycle. He goes there by bus.",
+    "exampleTranslation": "Ele não vai ao parque de bicicleta. Ele vai lá de ônibus."
+  },
+  {
+    "id": "lesson_29_90",
+    "word": "My uncle drives me to the office.",
+    "translation": "Meu tio me leva de carro para o escritório.",
+    "pronunciation": "/maɪ ˈʌŋkəl draɪvz mi tu ði ˈɔfəs./",
+    "portuguesePhonetic": "mai ân-col dráivz mi tchu di ó-fis.",
+    "syllables": [
+      "My",
+      " un",
+      "cle",
+      " drives",
+      " me",
+      " to",
+      " the",
+      " of",
+      "fice."
+    ],
+    "exampleSentence": "My uncle drives me to the office.",
+    "exampleTranslation": "Meu tio me leva de carro para o escritório."
+  },
+  {
+    "id": "lesson_29_91",
+    "word": "Can she drive? – Yes, she can drive very well.",
+    "translation": "Ela sabe dirigir? – Sim, ela sabe dirigir muito bem.",
+    "pronunciation": "/kæn ʃi draɪv? – jɛs, ʃi kæn draɪv ˈvɛri wɛl./",
+    "portuguesePhonetic": "quén chi dráiv? – iés, chi quén dráiv vé-ri uél.",
+    "syllables": [
+      "Can",
+      " she",
+      " drive?",
+      " Yes,",
+      " she",
+      " can",
+      " drive",
+      " ve",
+      "ry",
+      " well."
+    ],
+    "exampleSentence": "Can she drive? – Yes, she can drive very well.",
+    "exampleTranslation": "Ela sabe dirigir? – Sim, ela sabe dirigir muito bem."
+  },
+  {
+    "id": "lesson_29_92",
+    "word": "She doesn't live downtown. She lives on that avenue.",
+    "translation": "Ela não mora no centro da cidade. Ela mora naquela avenida.",
+    "pronunciation": "/ʃi ˈdʌzənt lɪv ˈdaʊnˈtaʊn. ʃi lɪvz ɑn ðæt ˈævəˌnu./",
+    "portuguesePhonetic": "chi dâ-zent lív dáun-táun. chi lívz ón dét é-ve-niu.",
+    "syllables": [
+      "She",
+      " doesn't",
+      " live",
+      " down",
+      "town.",
+      " She",
+      " lives",
+      " on",
+      " that",
+      " av",
+      "e",
+      "nue."
+    ],
+    "exampleSentence": "She doesn't live downtown. She lives on that avenue.",
+    "exampleTranslation": "Ela não mora no centro da cidade. Ela mora naquela avenida."
+  },
+  {
+    "id": "lesson_29_93",
+    "word": "Don't take the subway on that avenue.",
+    "translation": "Não pegue o metrô naquela avenida.",
+    "pronunciation": "/doʊnt teɪk ðə ˈsʌbˌweɪ ɑn ðæt ˈævəˌnu./",
+    "portuguesePhonetic": "dôunt têic dâ sâb-uêi ón dét é-ve-niu.",
+    "syllables": [
+      "Don't",
+      " take",
+      " the",
+      " sub",
+      "way",
+      " on",
+      " that",
+      " av",
+      "e",
+      "nue."
+    ],
+    "exampleSentence": "Don't take the subway on that avenue.",
+    "exampleTranslation": "Não pegue o metrô naquela avenida."
+  },
+  {
+    "id": "lesson_29_94",
+    "word": "Don't drink coffee at night.",
+    "translation": "Não tome café à noite.",
+    "pronunciation": "/doʊnt drɪŋk ˈkɔfi æt naɪt./",
+    "portuguesePhonetic": "dôunt drínc có-fi ét náit.",
+    "syllables": [
+      "Don't",
+      " drink",
+      " cof",
+      "fee",
+      " at",
+      " night."
+    ],
+    "exampleSentence": "Don't drink coffee at night.",
+    "exampleTranslation": "Não tome café à noite."
+  },
+  {
+    "id": "lesson_29_95",
+    "word": "Don't go downtown by car.",
+    "translation": "Não vá ao centro de carro.",
+    "pronunciation": "/doʊnt ɡoʊ ˈdaʊnˈtaʊn baɪ kɑr./",
+    "portuguesePhonetic": "dôunt gôu dáun-táun bái cár.",
+    "syllables": [
+      "Don't",
+      " go",
+      " down",
+      "town",
+      " by",
+      " car."
+    ],
+    "exampleSentence": "Don't go downtown by car.",
+    "exampleTranslation": "Não vá ao centro de carro."
+  },
+  {
+    "id": "lesson_29_96",
+    "word": "Don't go to bed late.",
+    "translation": "Não vá dormir tarde.",
+    "pronunciation": "/doʊnt ɡoʊ tu bɛd leɪt./",
+    "portuguesePhonetic": "dôunt gôu tchu béd lêit.",
+    "syllables": [
+      "Don't",
+      " go",
+      " to",
+      " bed",
+      " late."
+    ],
+    "exampleSentence": "Don't go to bed late.",
+    "exampleTranslation": "Não vá dormir tarde."
+  },
+  {
+    "id": "lesson_29_97",
+    "word": "Don't take that bus to go to the museum.",
+    "translation": "Não pegue aquele ônibus para ir ao museu.",
+    "pronunciation": "/doʊnt teɪk ðæt bʌs tu ɡoʊ tu ðə mjuˈziəm./",
+    "portuguesePhonetic": "dôunt têic dét bâs tchu gôu tchu dâ miú-zí-um.",
+    "syllables": [
+      "Don't",
+      " take",
+      " that",
+      " bus",
+      " to",
+      " go",
+      " to",
+      " the",
+      " mu",
+      "se",
+      "um."
+    ],
+    "exampleSentence": "Don't take that bus to go to the museum.",
+    "exampleTranslation": "Não pegue aquele ônibus para ir ao museu."
+  },
+  {
+    "id": "lesson_29_98",
+    "word": "Don't buy the tickets before Saturday.",
+    "translation": "Não compre os bilhetes antes de sábado.",
+    "pronunciation": "/doʊnt baɪ ðə ˈtɪkəts bɪˈfɔr ˈsætərdeɪ./",
+    "portuguesePhonetic": "dôunt bái dâ tí-quets bi-fór sé-ter-dêi.",
+    "syllables": [
+      "Don't",
+      " buy",
+      " the",
+      " tick",
+      "ets",
+      " be",
+      "fore",
+      " Sat",
+      "ur",
+      "day."
+    ],
+    "exampleSentence": "Don't buy the tickets before Saturday.",
+    "exampleTranslation": "Não compre os bilhetes antes de sábado."
+  },
+  {
+    "id": "lesson_29_99",
+    "word": "Don't send that e-mail now.",
+    "translation": "Não envie aquele e-mail agora.",
+    "pronunciation": "/doʊnt sɛnd ðæt ˈiˌmeɪl naʊ./",
+    "portuguesePhonetic": "dôunt sénd dét í-mêil náu.",
+    "syllables": [
+      "Don't",
+      " send",
+      " that",
+      " e-mail",
+      " now."
+    ],
+    "exampleSentence": "Don't send that e-mail now.",
+    "exampleTranslation": "Não envie aquele e-mail agora."
+  },
+  {
+    "id": "lesson_29_100",
+    "word": "Don't drive the children to school tomorrow.",
+    "translation": "Não leve as crianças para a escola de carro amanhã.",
+    "pronunciation": "/doʊnt draɪv ðə ˈtʃɪldrən tu skul təˈmɑˌroʊ./",
+    "portuguesePhonetic": "dôunt dráiv dâ tchíl-dren tchu scul tu-mó-rou.",
+    "syllables": [
+      "Don't",
+      " drive",
+      " the",
+      " chil",
+      "dren",
+      " to",
+      " school",
+      " to",
+      "mor",
+      "row."
+    ],
+    "exampleSentence": "Don't drive the children to school tomorrow.",
+    "exampleTranslation": "Não leve as crianças para a escola de carro amanhã."
+  },
+  {
+    "id": "lesson_29_101",
+    "word": "Excuse me. How can I get to the museum?",
+    "translation": "Com licença. Como posso chegar ao museu?",
+    "pronunciation": "/ɪkˈskjus mi. haʊ kæn aɪ ɡɛt tu ðə mjuˈziəm?/",
+    "portuguesePhonetic": "ec-squiuz mi. râu quén ai guét tchu dâ miú-zí-um?",
+    "syllables": [
+      "Ex",
+      "cuse",
+      " me.",
+      " How",
+      " can",
+      " I",
+      " get",
+      " to",
+      " the",
+      " mu",
+      "se",
+      "um?"
+    ],
+    "exampleSentence": "Excuse me. How can I get to the museum?",
+    "exampleTranslation": "Com licença. Como posso chegar ao museu?"
+  },
+  {
+    "id": "lesson_29_102",
+    "word": "Oh, it's near here.",
+    "translation": "Ah, fica perto daqui.",
+    "pronunciation": "/oʊ, ɪts nɪr hɪr./",
+    "portuguesePhonetic": "ou, íts níar rír.",
+    "syllables": [
+      "Oh,",
+      " it's",
+      " near",
+      " here."
+    ],
+    "exampleSentence": "Oh, it's near here.",
+    "exampleTranslation": "Ah, fica perto daqui."
+  },
+  {
+    "id": "lesson_29_103",
+    "word": "Do I need to take the bus?",
+    "translation": "Eu preciso pegar o ônibus?",
+    "pronunciation": "/du aɪ nid tu teɪk ðə bʌs?/",
+    "portuguesePhonetic": "du ai nid tchu têic dâ bâs?",
+    "syllables": [
+      "Do",
+      " I",
+      " need",
+      " to",
+      " take",
+      " the",
+      " bus?"
+    ],
+    "exampleSentence": "Do I need to take the bus?",
+    "exampleTranslation": "Eu preciso pegar o ônibus?"
+  },
+  {
+    "id": "lesson_29_104",
+    "word": "No, you don't. Go straight ahead on this street and turn left at the coffee shop.",
+    "translation": "Não, não precisa. Vá em frente nesta rua e vire à esquerda na cafeteria.",
+    "pronunciation": "/noʊ, ju doʊnt. ɡoʊ streɪt əˈhɛd ɑn ðɪs strit ænd tɜrn lɛft æt ðə ˈkɔfi ʃɑp./",
+    "portuguesePhonetic": "nôu, iu dôunt. gôu strêit a-réd ón dís strit énd thãrn léft ét dâ có-fi chóp.",
+    "syllables": [
+      "No,",
+      " you",
+      " don't.",
+      " Go",
+      " straight",
+      " a",
+      "head",
+      " on",
+      " this",
+      " street",
+      " and",
+      " turn",
+      " left",
+      " at",
+      " the",
+      " cof",
+      "fee",
+      " shop."
+    ],
+    "exampleSentence": "No, you don't. Go straight ahead on this street and turn left at the coffee shop.",
+    "exampleTranslation": "Não, não precisa. Vá em frente nesta rua e vire à esquerda na cafeteria."
+  },
+  {
+    "id": "lesson_29_105",
+    "word": "OK! And how much is the ticket for the museum?",
+    "translation": "OK! E quanto custa o ingresso para o museu?",
+    "pronunciation": "/ˌoʊˈkeɪ! ænd haʊ mʌtʃ ɪz ðə ˈtɪkɪt fɔr ðə mjuˈziəm?/",
+    "portuguesePhonetic": "ou-kêi! énd râu mâtch íz dâ tí-quet fór dâ miú-zí-um?",
+    "syllables": [
+      "O",
+      "K!",
+      " And",
+      " how",
+      " much",
+      " is",
+      " the",
+      " tick",
+      "et",
+      " for",
+      " the",
+      " mu",
+      "se",
+      "um?"
+    ],
+    "exampleSentence": "OK! And how much is the ticket for the museum?",
+    "exampleTranslation": "OK! E quanto custa o ingresso para o museu?"
+  },
+  {
+    "id": "lesson_29_106",
+    "word": "It's US$30.",
+    "translation": "São 30 dólares.",
+    "pronunciation": "/ɪts ˈθɜrti ˈdɑlərz./",
+    "portuguesePhonetic": "íts thãr-ti dó-larz.",
+    "syllables": [
+      "It's",
+      " thir",
+      "ty",
+      " dol",
+      "lars."
+    ],
+    "exampleSentence": "It's US$30.",
+    "exampleTranslation": "São 30 dólares."
+  },
+  {
+    "id": "lesson_29_107",
+    "word": "Really? It's expensive, but OK. Thank you very much.",
+    "translation": "Sério? É caro, mas tudo bem. Muito obrigado.",
+    "pronunciation": "/ˈrɪli? ɪts ɪkˈspɛnsɪv, bʌt ˌoʊˈkeɪ. θæŋk ju ˈvɛri mʌtʃ./",
+    "portuguesePhonetic": "rí-li? íts ec-spén-siv, bât ou-kêi. thénc iu vé-ri mâtch.",
+    "syllables": [
+      "Real",
+      "ly?",
+      " It's",
+      " ex",
+      "pen",
+      "sive,",
+      " but",
+      " O",
+      "K.",
+      " Thank",
+      " you",
+      " ve",
+      "ry",
+      " much."
+    ],
+    "exampleSentence": "Really? It's expensive, but OK. Thank you very much.",
+    "exampleTranslation": "Sério? É caro, mas tudo bem. Muito obrigado."
+  },
+  {
+    "id": "lesson_29_108",
+    "word": "You're welcome.",
+    "translation": "De nada.",
+    "pronunciation": "/jʊr ˈwɛlkəm./",
+    "portuguesePhonetic": "iór uél-câm.",
+    "syllables": [
+      "You're",
+      " wel",
+      "come."
+    ],
+    "exampleSentence": "You're welcome.",
+    "exampleTranslation": "De nada."
+  },
+  {
+    "id": "lesson_29_109",
+    "word": "bus",
+    "translation": "ônibus",
+    "pronunciation": "/bʌs/",
+    "portuguesePhonetic": "bâs",
+    "syllables": [
+      "bus"
+    ],
+    "exampleSentence": "bus",
+    "exampleTranslation": "ônibus"
+  },
+  {
+    "id": "lesson_29_110",
+    "word": "subway",
+    "translation": "metrô",
+    "pronunciation": "/ˈsʌbˌweɪ/",
+    "portuguesePhonetic": "sâb-uêi",
+    "syllables": [
+      "sub",
+      "way"
+    ],
+    "exampleSentence": "subway",
+    "exampleTranslation": "metrô"
+  },
+  {
+    "id": "lesson_29_111",
+    "word": "train",
+    "translation": "trem",
+    "pronunciation": "/treɪn/",
+    "portuguesePhonetic": "trêin",
+    "syllables": [
+      "train"
+    ],
+    "exampleSentence": "train",
+    "exampleTranslation": "trem"
+  },
+  {
+    "id": "lesson_29_112",
+    "word": "station",
+    "translation": "estação",
+    "pronunciation": "/ˈsteɪʃən/",
+    "portuguesePhonetic": "stêi-chan",
+    "syllables": [
+      "sta",
+      "tion"
+    ],
+    "exampleSentence": "station",
+    "exampleTranslation": "estação"
+  },
+  {
+    "id": "lesson_29_113",
+    "word": "ticket",
+    "translation": "bilhete / ingresso",
+    "pronunciation": "/ˈtɪkɪt/",
+    "portuguesePhonetic": "tí-quet",
+    "syllables": [
+      "tick",
+      "et"
+    ],
+    "exampleSentence": "ticket",
+    "exampleTranslation": "bilhete / ingresso"
+  },
+  {
+    "id": "lesson_29_114",
+    "word": "block",
+    "translation": "quarteirão",
+    "pronunciation": "/blɑk/",
+    "portuguesePhonetic": "blóc",
+    "syllables": [
+      "block"
+    ],
+    "exampleSentence": "block",
+    "exampleTranslation": "quarteirão"
+  },
+  {
+    "id": "lesson_29_115",
+    "word": "downtown",
+    "translation": "centro da cidade",
+    "pronunciation": "/ˈdaʊnˈtaʊn/",
+    "portuguesePhonetic": "dáun-táun",
+    "syllables": [
+      "down",
+      "town"
+    ],
+    "exampleSentence": "downtown",
+    "exampleTranslation": "centro da cidade"
+  },
+  {
+    "id": "lesson_29_116",
+    "word": "avenue",
+    "translation": "avenida",
+    "pronunciation": "/ˈævəˌnu/",
+    "portuguesePhonetic": "é-ve-niu",
+    "syllables": [
+      "av",
+      "e",
+      "nue"
+    ],
+    "exampleSentence": "avenue",
+    "exampleTranslation": "avenida"
+  },
+  {
+    "id": "lesson_29_117",
+    "word": "bicycle",
+    "translation": "bicicleta",
+    "pronunciation": "/ˈbaɪsɪkəl/",
+    "portuguesePhonetic": "bái-si-col",
+    "syllables": [
+      "bi",
+      "cy",
+      "cle"
+    ],
+    "exampleSentence": "bicycle",
+    "exampleTranslation": "bicicleta"
+  },
+  {
+    "id": "lesson_29_118",
+    "word": "drive",
+    "translation": "dirigir",
+    "pronunciation": "/draɪv/",
+    "portuguesePhonetic": "dráiv",
+    "syllables": [
+      "drive"
+    ],
+    "exampleSentence": "drive",
+    "exampleTranslation": "dirigir"
+  },
+  {
+    "id": "lesson_29_119",
+    "word": "office",
+    "translation": "escritório",
+    "pronunciation": "/ˈɔfəs/",
+    "portuguesePhonetic": "ó-fis",
+    "syllables": [
+      "of",
+      "fice"
+    ],
+    "exampleSentence": "office",
+    "exampleTranslation": "escritório"
+  },
+  {
+    "id": "lesson_29_120",
+    "word": "turn right",
+    "translation": "virar à direita",
+    "pronunciation": "/tɜrn raɪt/",
+    "portuguesePhonetic": "thãrn ráit",
+    "syllables": [
+      "turn",
+      " right"
+    ],
+    "exampleSentence": "turn right",
+    "exampleTranslation": "virar à direita"
+  },
+  {
+    "id": "lesson_29_121",
+    "word": "turn left",
+    "translation": "virar à esquerda",
+    "pronunciation": "/tɜrn lɛft/",
+    "portuguesePhonetic": "thãrn léft",
+    "syllables": [
+      "turn",
+      " left"
+    ],
+    "exampleSentence": "turn left",
+    "exampleTranslation": "virar à esquerda"
+  },
+  {
+    "id": "lesson_29_122",
+    "word": "go straight ahead",
+    "translation": "seguir em frente",
+    "pronunciation": "/ɡoʊ streɪt əˈhɛd/",
+    "portuguesePhonetic": "gôu strêit a-réd",
+    "syllables": [
+      "go",
+      " straight",
+      " a",
+      "head"
+    ],
+    "exampleSentence": "go straight ahead",
+    "exampleTranslation": "seguir em frente"
+  },
+  {
+    "id": "lesson_29_123",
+    "word": "museum",
+    "translation": "museu",
+    "pronunciation": "/mjuˈziəm/",
+    "portuguesePhonetic": "miú-zí-um",
+    "syllables": [
+      "mu",
+      "se",
+      "um"
+    ],
+    "exampleSentence": "museum",
+    "exampleTranslation": "museu"
+  },
+  {
+    "id": "lesson_29_124",
+    "word": "coffee shop",
+    "translation": "cafeteria",
+    "pronunciation": "/ˈkɔfi ʃɑp/",
+    "portuguesePhonetic": "có-fi chóp",
+    "syllables": [
+      "cof",
+      "fee",
+      " shop"
+    ],
+    "exampleSentence": "coffee shop",
+    "exampleTranslation": "cafeteria"
+  },
+  {
+    "id": "lesson_29_125",
+    "word": "expensive",
+    "translation": "caro",
+    "pronunciation": "/ɪkˈspɛnsɪv/",
+    "portuguesePhonetic": "ec-spén-siv",
+    "syllables": [
+      "ex",
+      "pen",
+      "sive"
+    ],
+    "exampleSentence": "expensive",
+    "exampleTranslation": "caro"
+  },
+  {
+    "id": "lesson_29_126",
+    "word": "by bus",
+    "translation": "de ônibus",
+    "pronunciation": "/baɪ bʌs/",
+    "portuguesePhonetic": "bái bâs",
+    "syllables": [
+      "by",
+      " bus"
+    ],
+    "exampleSentence": "by bus",
+    "exampleTranslation": "de ônibus"
+  },
+  {
+    "id": "lesson_29_127",
+    "word": "by car",
+    "translation": "de carro",
+    "pronunciation": "/baɪ kɑr/",
+    "portuguesePhonetic": "bái cár",
+    "syllables": [
+      "by",
+      " car"
+    ],
+    "exampleSentence": "by car",
+    "exampleTranslation": "de carro"
+  },
+  {
+    "id": "lesson_29_128",
+    "word": "by bicycle",
+    "translation": "de bicicleta",
+    "pronunciation": "/baɪ ˈbaɪsɪkəl/",
+    "portuguesePhonetic": "bái bái-si-col",
+    "syllables": [
+      "by",
+      " bi",
+      "cy",
+      "cle"
+    ],
+    "exampleSentence": "by bicycle",
+    "exampleTranslation": "de bicicleta"
+  },
+  {
+    "id": "lesson_29_129",
+    "word": "at night",
+    "translation": "à noite",
+    "pronunciation": "/æt naɪt/",
+    "portuguesePhonetic": "ét náit",
+    "syllables": [
+      "at",
+      " night"
+    ],
+    "exampleSentence": "at night",
+    "exampleTranslation": "à noite"
+  },
+  {
+    "id": "lesson_29_130",
+    "word": "go to bed",
+    "translation": "ir para a cama",
+    "pronunciation": "/ɡoʊ tu bɛd/",
+    "portuguesePhonetic": "gôu tchu béd",
+    "syllables": [
+      "go",
+      " to",
+      " bed"
+    ],
+    "exampleSentence": "go to bed",
+    "exampleTranslation": "ir para a cama"
+  },
+  {
+    "id": "lesson_29_131",
+    "word": "meet me",
+    "translation": "encontre-me",
+    "pronunciation": "/mit mi/",
+    "portuguesePhonetic": "mit mi",
+    "syllables": [
+      "meet",
+      " me"
+    ],
+    "exampleSentence": "meet me",
+    "exampleTranslation": "encontre-me"
+  },
+  {
+    "id": "lesson_29_132",
+    "word": "near here",
+    "translation": "perto daqui",
+    "pronunciation": "/nɪr hɪr/",
+    "portuguesePhonetic": "níar rír",
+    "syllables": [
+      "near",
+      " here"
+    ],
+    "exampleSentence": "near here",
+    "exampleTranslation": "perto daqui"
+  }
+]

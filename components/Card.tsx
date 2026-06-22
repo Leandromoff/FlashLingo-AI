@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { FlashcardData, SupportedLanguage } from '../types';
 import { RefreshCw, Loader2, Sparkles, Zap, Check, X, Eye, EyeOff, Snail, ArrowLeft } from 'lucide-react';
-import { playLocalAudio } from '../services/geminiService';
+import { playLocalAudio } from '../services/audioService';
 
 interface CardProps {
   data: FlashcardData;
@@ -14,7 +14,7 @@ interface CardProps {
   isPreviousDisabled: boolean;
 }
 
-type AudioSource = 'local' | 'visual' | 'slow' | null;
+type AudioSource = 'local' | 'slow' | null;
 
 const Card: React.FC<CardProps> = ({ 
   data, 
@@ -27,8 +27,6 @@ const Card: React.FC<CardProps> = ({
   isPreviousDisabled
 }) => {
   const [playingSource, setPlayingSource] = useState<AudioSource>(null);
-  const [activeSyllableIndex, setActiveSyllableIndex] = useState<number>(-1);
-  const [activeWordIndex, setActiveWordIndex] = useState<number>(-1);
   const [showGrammar, setShowGrammar] = useState<boolean>(false);
   const [isWakeLockActive, setIsWakeLockActive] = useState<boolean>(false);
   const [showIpaPhonetics, setShowIpaPhonetics] = useState<boolean>(() => {
@@ -114,14 +112,6 @@ const Card: React.FC<CardProps> = ({
       return false;
     }
   });
-  const [autoplayVisual, setAutoplayVisual] = useState<boolean>(() => {
-    try {
-      const saved = localStorage.getItem('flashlingo_autoplay_visual');
-      return saved ? JSON.parse(saved) : false;
-    } catch {
-      return false;
-    }
-  });
   const [autoplayKnow, setAutoplayKnow] = useState<boolean>(() => {
     try {
       const saved = localStorage.getItem('flashlingo_autoplay_know');
@@ -134,11 +124,10 @@ const Card: React.FC<CardProps> = ({
   // Keep track of which specific plays have been executed for the current card ID to prevent duplicate plays.
   // This allows us to trigger them immediately when the user toggles a checkbox from false to true on the current card
   // OR automatically when moving to a new card.
-  const autoplayTrackRef = useRef<{ id: string | null; local: boolean; slow: boolean; visual: boolean; know: boolean }>({
+  const autoplayTrackRef = useRef<{ id: string | null; local: boolean; slow: boolean; know: boolean }>({
     id: null,
     local: false,
     slow: false,
-    visual: false,
     know: false,
   });
 
@@ -151,22 +140,18 @@ const Card: React.FC<CardProps> = ({
   }, [autoplaySlow]);
 
   useEffect(() => {
-    localStorage.setItem('flashlingo_autoplay_visual', JSON.stringify(autoplayVisual));
-  }, [autoplayVisual]);
-
-  useEffect(() => {
     localStorage.setItem('flashlingo_autoplay_know', JSON.stringify(autoplayKnow));
   }, [autoplayKnow]);
 
   // Enforce invariant: autoplayKnow requires at least one audio/reading option to be active
   useEffect(() => {
-    if (autoplayKnow && !autoplayLocal && !autoplaySlow && !autoplayVisual) {
+    if (autoplayKnow && !autoplayLocal && !autoplaySlow) {
       setAutoplayKnow(false);
     }
-  }, [autoplayLocal, autoplaySlow, autoplayVisual, autoplayKnow]);
+  }, [autoplayLocal, autoplaySlow, autoplayKnow]);
 
   // Autoplay sequence effect running programmatically in the requested sequence:
-  // Fast Audio ('local') -> Slow Audio ('slow') -> Visual Reading ('visual') -> Auto Advance
+  // Fast Audio ('local') -> Slow Audio ('slow') -> Auto Advance
   useEffect(() => {
     if (isFlipped) return;
 
@@ -176,7 +161,6 @@ const Card: React.FC<CardProps> = ({
         id: data.id,
         local: false,
         slow: false,
-        visual: false,
         know: false,
       };
     }
@@ -184,10 +168,9 @@ const Card: React.FC<CardProps> = ({
     // Determine what needs to run: enabled items that have not played yet for this card
     const shouldPlayLocal = autoplayLocal && !autoplayTrackRef.current.local;
     const shouldPlaySlow = autoplaySlow && !autoplayTrackRef.current.slow;
-    const shouldPlayVisual = autoplayVisual && !autoplayTrackRef.current.visual;
     const shouldAutoKnow = autoplayKnow && !autoplayTrackRef.current.know;
 
-    if (!shouldPlayLocal && !shouldPlaySlow && !shouldPlayVisual && !shouldAutoKnow) {
+    if (!shouldPlayLocal && !shouldPlaySlow && !shouldAutoKnow) {
       return;
     }
 
@@ -234,30 +217,6 @@ const Card: React.FC<CardProps> = ({
         }
       }
 
-      // 3. Visual Karaoke Autoplay (Leitura Guiada)
-      if (shouldPlayVisual && !isCancelled && isMounted.current) {
-        if (playingSource === null) {
-          setPlayingSource('visual');
-          autoplayTrackRef.current.visual = true;
-          try {
-            const syllables = data.syllables && data.syllables.length > 0 ? data.syllables : [data.word];
-            const estimatedDuration = Math.max(1.0, syllables.length * 0.4);
-            
-            if (!isCancelled && isMounted.current) {
-              startKaraoke(estimatedDuration, 'word');
-            }
-            await new Promise(resolve => setTimeout(resolve, estimatedDuration * 1000));
-          } catch (e) {
-            console.error("Autoplay visual error:", e);
-          } finally {
-            if (!isCancelled && isMounted.current) {
-              setPlayingSource(null);
-              setActiveSyllableIndex(-1);
-            }
-          }
-        }
-      }
-
       // 4. Auto Advance (Já sei) if enabled
       if (shouldAutoKnow && !isCancelled && isMounted.current) {
         autoplayTrackRef.current.know = true;
@@ -277,12 +236,12 @@ const Card: React.FC<CardProps> = ({
         window.speechSynthesis.cancel();
       }
     };
-  }, [data.id, isFlipped, autoplayLocal, autoplaySlow, autoplayVisual, autoplayKnow, targetLanguage]);
+  }, [data.id, isFlipped, autoplayLocal, autoplaySlow, autoplayKnow, targetLanguage]);
 
   // Prevent screen sleep (Wake Lock) when autoplay/auto-advance is enabled
   useEffect(() => {
     let wakeLock: any = null;
-    const isAutoplayActive = autoplayLocal || autoplaySlow || autoplayVisual || autoplayKnow;
+    const isAutoplayActive = autoplayLocal || autoplaySlow || autoplayKnow;
 
     const requestWakeLock = async () => {
       if (!isAutoplayActive) {
@@ -328,14 +287,9 @@ const Card: React.FC<CardProps> = ({
         wakeLock.release().catch((err: any) => console.warn('Wake Lock release failed:', err));
       }
     };
-  }, [autoplayLocal, autoplaySlow, autoplayVisual, autoplayKnow]);
+  }, [autoplayLocal, autoplaySlow, autoplayKnow]);
 
-  // Refs for animation and mounting status
-  const startTimeRef = useRef<number>(0);
-  const durationRef = useRef<number>(0);
-  const animationFrameRef = useRef<number>(0);
   const isMounted = useRef<boolean>(true);
-  const currentTextType = useRef<'word' | 'sentence'>('word');
 
   // Track component mount status
   useEffect(() => {
@@ -346,59 +300,10 @@ const Card: React.FC<CardProps> = ({
       if ('speechSynthesis' in window) {
         window.speechSynthesis.cancel();
       }
-      if (animationFrameRef.current) {
-        cancelAnimationFrame(animationFrameRef.current);
-      }
     };
   }, []);
 
-  // Function to handle frame updates for karaoke effect
-  const animateKaraoke = () => {
-    if (!isMounted.current) return;
-    const now = performance.now();
-    const elapsed = (now - startTimeRef.current) / 1000; // in seconds
-    const progress = Math.min(1, elapsed / durationRef.current);
-    
-    if (currentTextType.current === 'word') {
-      const syllables = data.syllables && data.syllables.length > 0 ? data.syllables : [data.word];
-      const totalSyllables = syllables.length;
-      
-      if (progress < 1) {
-        const currentIndex = Math.floor(progress * totalSyllables);
-        setActiveSyllableIndex(currentIndex);
-        animationFrameRef.current = requestAnimationFrame(animateKaraoke);
-      } else {
-        setActiveSyllableIndex(-1);
-      }
-    } else {
-      const words = data.exampleSentence.split(/\s+/);
-      const totalWords = words.length;
-      
-      if (progress < 1) {
-        const currentIndex = Math.floor(progress * totalWords);
-        setActiveWordIndex(currentIndex);
-        animationFrameRef.current = requestAnimationFrame(animateKaraoke);
-      } else {
-        setActiveWordIndex(-1);
-      }
-    }
-  };
-
-  const startKaraoke = (duration: number, type: 'word' | 'sentence' = 'word') => {
-    if (!isMounted.current) return;
-
-    if (animationFrameRef.current) cancelAnimationFrame(animationFrameRef.current);
-    
-    currentTextType.current = type;
-    startTimeRef.current = performance.now();
-    durationRef.current = duration;
-    
-    animateKaraoke();
-  };
-
   useEffect(() => {
-    setActiveSyllableIndex(-1);
-    setActiveWordIndex(-1);
     setShowGrammar(false);
     setPlayingSource(null);
 
@@ -406,11 +311,7 @@ const Card: React.FC<CardProps> = ({
     if ('speechSynthesis' in window) {
       window.speechSynthesis.cancel();
     }
-
-    return () => {
-      if (animationFrameRef.current) cancelAnimationFrame(animationFrameRef.current);
-    };
-  }, [data.id, data.word, data.exampleSentence, targetLanguage, isFlipped]); 
+  }, [data.id, data.word, data.exampleSentence, targetLanguage, isFlipped]);
 
   const handleSlowPlay = async (text: string, isMainWord: boolean, e: React.MouseEvent) => {
     e.stopPropagation();
@@ -440,175 +341,33 @@ const Card: React.FC<CardProps> = ({
     }
   };
 
-  const handleVisualKaraoke = async (text: string, isMainWord: boolean, e: React.MouseEvent) => {
-    e.stopPropagation();
-    if (playingSource) return;
-    
-    if (isMounted.current) setPlayingSource('visual');
-    try {
-      // Estimate duration based on word count
-      const wordCount = text.split(/\s+/).length;
-      const estimatedDuration = Math.max(1.0, wordCount * 0.5);
-      
-      if (isMounted.current) {
-          startKaraoke(estimatedDuration, isMainWord ? 'word' : 'sentence');
-      }
-      
-      // Wait for the estimated duration
-      await new Promise(resolve => setTimeout(resolve, estimatedDuration * 1000));
-    } finally {
-      if (isMounted.current) {
-        setPlayingSource(null);
-        setActiveSyllableIndex(-1);
-        setActiveWordIndex(-1);
-      }
-    }
-  };
-
   const renderSentence = () => {
-    const words = data.exampleSentence.split(/\s+/);
     return (
-      <p className="text-slate-600 dark:text-slate-400 text-sm font-medium mb-2 flex flex-wrap justify-center gap-x-1">
-        {words.map((word, i) => (
-          <span 
-            key={i} 
-            className={`transition-colors duration-75 px-1 rounded ${
-              activeWordIndex === i 
-              ? 'bg-indigo-100 text-indigo-700 dark:bg-indigo-900/50 dark:text-indigo-300 font-bold' 
-              : ''
-            }`}
-          >
-            {word}
-          </span>
-        ))}
+      <p className="text-slate-600 dark:text-slate-400 text-sm font-medium mb-2 text-center">
+        {data.exampleSentence}
       </p>
     );
   };
 
   const renderWord = () => {
-    const syllables = data.syllables && data.syllables.length > 0 ? data.syllables : [data.word];
-    const fullWordLower = data.word.toLowerCase().replace(/’/g, "'");
-    
-    // Group syllables and gap segments into words to prevent breaking inside a word
-    const words: { segments: { text: string; isSyllable: boolean; index: number }[] }[] = [];
-    let currentWord: { text: string; isSyllable: boolean; index: number }[] = [];
-    let cursor = 0;
-
-    syllables.forEach((syllable, index) => {
-        const syllableLower = syllable.toLowerCase().replace(/’/g, "'");
-        // Look for the syllable in the text starting from cursor
-        const matchIndex = fullWordLower.indexOf(syllableLower, cursor);
-        let hasSpaceAfter = false;
-
-        if (syllable.endsWith(' ')) {
-            hasSpaceAfter = true;
-        }
-
-        if (index < syllables.length - 1) {
-            const nextSyllable = syllables[index + 1];
-            if (nextSyllable.startsWith(' ')) {
-                hasSpaceAfter = true;
-            }
-        }
-
-        if (matchIndex !== -1) {
-            // If there is any untracked text (like hyphens, spacing or punctuation) before the syllable, capture it
-            if (matchIndex > cursor) {
-                const extra = data.word.slice(cursor, matchIndex);
-                if (extra.startsWith(' ') && currentWord.length > 0) {
-                    words.push({ segments: currentWord });
-                    currentWord = [];
-                }
-                currentWord.push({ text: extra, isSyllable: false, index: -1 });
-                if (extra.endsWith(' ')) {
-                    words.push({ segments: currentWord });
-                    currentWord = [];
-                }
-            }
-
-            const endOfSyllable = matchIndex + syllable.length;
-            
-            // Check if there is a space before the next syllable starts
-            if (index < syllables.length - 1) {
-                const nextSyllable = syllables[index + 1].toLowerCase().replace(/’/g, "'");
-                const nextMatchIndex = fullWordLower.indexOf(nextSyllable, endOfSyllable);
-                
-                if (nextMatchIndex !== -1) {
-                    const gap = fullWordLower.slice(endOfSyllable, nextMatchIndex);
-                    if (gap.includes(' ') || nextSyllable.startsWith(' ')) {
-                        hasSpaceAfter = true;
-                    }
-                }
-            }
-            cursor = endOfSyllable;
-        }
-
-        // Force finalization of the previous word group if the current syllable starts with a space
-        if (syllable.startsWith(' ') && currentWord.length > 0) {
-            words.push({ segments: currentWord });
-            currentWord = [];
-        }
-
-        currentWord.push({ text: syllable, isSyllable: true, index });
-
-        // If space detected or it's the last syllable, finalize the word group
-        if (hasSpaceAfter || index === syllables.length - 1) {
-            words.push({ segments: currentWord });
-            currentWord = [];
-        }
-    });
-
-    // Capture any remaining trailing text (like final punctuation) at the end of the word
-    if (cursor < data.word.length) {
-        const extra = data.word.slice(cursor);
-        if (currentWord.length > 0) {
-            currentWord.push({ text: extra, isSyllable: false, index: -1 });
-            words.push({ segments: currentWord });
-        } else {
-            words.push({ segments: [{ text: extra, isSyllable: false, index: -1 }] });
-        }
+    let fontSizeClass = "text-2xl md:text-3xl font-extrabold";
+    if (data.word.length > 80) {
+      fontSizeClass = "text-base md:text-lg font-bold";
+    } else if (data.word.length > 40) {
+      fontSizeClass = "text-xl md:text-2xl font-extrabold";
     }
 
     return (
-      <div className="flex flex-wrap justify-center items-end gap-x-1 sm:gap-x-2 gap-y-2 w-full text-center text-2xl md:text-3xl font-extrabold">
-        {words.map((wordGroup, i) => (
-          <span key={i} className="whitespace-nowrap inline-flex items-center">
-            {wordGroup.segments.map((seg, sIdx) => {
-              if (seg.isSyllable) {
-                return (
-                  <span 
-                    key={seg.index}
-                    className={`transition-colors duration-75 leading-none ${
-                        activeSyllableIndex === seg.index 
-                        ? 'bg-yellow-250 dark:bg-amber-600 text-slate-900 dark:text-white rounded-lg px-0.5'
-                        : ''
-                    }`}
-                  >
-                    {seg.text.trim()}
-                  </span>
-                );
-              } else {
-                return (
-                  <span key={`extra-${sIdx}`} className="leading-none text-slate-800 dark:text-white">
-                    {seg.text}
-                  </span>
-                );
-              }
-            })}
-          </span>
-        ))}
+      <div className={`w-full text-center ${fontSizeClass} text-slate-800 dark:text-white leading-tight`}>
+        {data.word}
       </div>
     );
   };
 
   const renderPhoneticChunk = (text: string, className: string) => {
-    // Split text by spaces and wrap each part in whitespace-nowrap to prevent breaking at hyphens
-    const parts = text.trim().split(/\s+/);
     return (
-      <span className={`inline-flex flex-wrap justify-center gap-x-2 ${className}`}>
-        {parts.map((part, i) => (
-          <span key={i} className="whitespace-nowrap">{part}</span>
-        ))}
+      <span className={`inline-block ${className}`}>
+        {text.trim()}
       </span>
     );
   };
@@ -697,14 +456,14 @@ const Card: React.FC<CardProps> = ({
                   title="Clique para ocultar"
                 >
                   {/* Standard IPA */}
-                  {showIpaPhonetics && renderPhoneticChunk(
+                  {showIpaPhonetics && data.pronunciation && renderPhoneticChunk(
                       data.pronunciation.replace(/[\/\[\]]/g, ''), 
                       "text-indigo-400/75 dark:text-indigo-400 font-medium text-lg tracking-wide"
                   )}
 
                   {/* Portuguese Phonetic */}
-                  {showPtPhonetics && renderPhoneticChunk(
-                      data.portuguesePhonetic,
+                  {showPtPhonetics && data.portuguesePhonetic && renderPhoneticChunk(
+                      data.portuguesePhonetic.replace(/[\[\]]/g, ''),
                       "text-indigo-400/75 dark:text-indigo-400 font-medium text-lg tracking-wide"
                   )}
 
@@ -822,41 +581,6 @@ const Card: React.FC<CardProps> = ({
                   </button>
                 </div>
 
-                {/* Visual Karaoke (Leitura Guiada) Column */}
-                <div className="flex flex-col items-center gap-2" onClick={(e) => e.stopPropagation()}>
-                  <button 
-                    onClick={(e) => handleVisualKaraoke(data.word, true, e)}
-                    disabled={playingSource !== null}
-                    className={`flex items-center justify-center w-11 h-11 rounded-full transition-colors border ${
-                      playingSource === 'visual'
-                        ? 'bg-emerald-100 dark:bg-emerald-900/30 text-emerald-600 dark:text-emerald-500 border-emerald-200 dark:border-emerald-800/50 shadow-inner'
-                        : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
-                    }`}
-                    title="Leitura Guiada (Sem Áudio)"
-                  >
-                    <Eye size={18} className={playingSource === 'visual' ? "fill-current" : ""} />
-                  </button>
-                  <button 
-                    type="button"
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      setAutoplayVisual(!autoplayVisual);
-                    }}
-                    className={`relative inline-flex h-3 w-6.5 items-center rounded-full transition-colors duration-200 focus:outline-none ${
-                      autoplayVisual 
-                        ? 'bg-green-500' 
-                        : 'bg-slate-200 dark:bg-slate-700 border border-slate-300 dark:border-slate-650'
-                    }`}
-                    title={autoplayVisual ? "Auto Play Ativado" : "Auto Play Desativado"}
-                  >
-                    <span
-                      className={`inline-block h-2 w-2 transform rounded-full bg-white transition-all duration-200 ${
-                        autoplayVisual ? 'translate-x-[14px]' : 'translate-x-[2px]'
-                      }`}
-                    />
-                  </button>
-                </div>
-
               </div>
             </div>
           </div>
@@ -900,7 +624,7 @@ const Card: React.FC<CardProps> = ({
                  onClick={(e) => {
                    e.stopPropagation();
                    const nextVal = !autoplayKnow;
-                   if (nextVal && !autoplayLocal && !autoplaySlow && !autoplayVisual) {
+                   if (nextVal && !autoplayLocal && !autoplaySlow) {
                      setAutoplayLocal(true);
                    }
                    setAutoplayKnow(nextVal);
@@ -974,61 +698,51 @@ const Card: React.FC<CardProps> = ({
 
           <div className="flex flex-col items-center text-center space-y-4 w-full h-full justify-center">
             
-            <div className="shrink-0">
+            <div className="shrink-0 w-full px-4">
                <p className="text-slate-400 dark:text-slate-500 text-xs uppercase font-bold mb-2">Palavra</p>
-               <h3 className="text-3xl font-bold leading-tight">
+               <h3 className={`font-bold leading-tight ${data.translation.length > 60 ? 'text-xl' : data.translation.length > 30 ? 'text-2xl' : 'text-3xl'}`}>
                 {data.translation}
               </h3>
             </div>
             
             <div className="w-full border-t border-slate-200 dark:border-slate-700/50"></div>
             
-            <div className="w-full bg-white dark:bg-slate-800/80 border border-slate-100 dark:border-slate-700 p-4 rounded-2xl shrink-0">
-              <div className="flex justify-between items-center mb-2">
-                <p className="text-slate-400 dark:text-slate-400 text-xs uppercase font-bold">Exemplo traduzido</p>
-                <div className="flex gap-2">
-                  <button 
-                    onClick={(e) => handleVisualKaraoke(data.exampleSentence, false, e)}
-                    disabled={playingSource !== null}
-                    className={`p-1.5 rounded-full transition-all border ${
-                      playingSource === 'visual' 
-                        ? 'bg-emerald-100 text-emerald-600 border-emerald-200 dark:bg-emerald-900/30 dark:text-emerald-400 dark:border-emerald-800' 
-                        : 'bg-indigo-50 hover:bg-indigo-100 border-indigo-100 text-indigo-600 dark:bg-indigo-500/10 dark:hover:bg-indigo-500/20 dark:border-indigo-500/20 dark:text-indigo-400'
-                    }`}
-                    title="Leitura Guiada"
-                  >
-                    <Eye size={12} className={playingSource === 'visual' ? "fill-current" : ""} />
-                  </button>
-                  <button 
-                    onClick={(e) => handleSlowPlay(data.exampleSentence, false, e)}
-                    disabled={playingSource !== null}
-                    className={`p-1.5 rounded-full transition-all border ${
-                      playingSource === 'slow'
-                        ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50'
-                        : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
-                    }`}
-                    title="Áudio Lento"
-                  >
-                    <Snail size={12} className={playingSource === 'slow' ? "fill-current" : ""} />
-                  </button>
-                  <button 
-                    onClick={(e) => handleLocalPlay(data.exampleSentence, false, e)}
-                    disabled={playingSource !== null}
-                    className={`p-1.5 rounded-full transition-all border ${
-                      playingSource === 'local'
-                        ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50'
-                        : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
-                    }`}
-                  >
-                    <Zap size={12} className={playingSource === 'local' ? "fill-current" : ""} />
-                  </button>
+            {data.exampleSentence && data.exampleTranslation && (
+              <div className="w-full bg-white dark:bg-slate-800/80 border border-slate-100 dark:border-slate-700 p-4 rounded-2xl shrink-0">
+                <div className="flex justify-between items-center mb-2">
+                  <p className="text-slate-400 dark:text-slate-400 text-xs uppercase font-bold">Exemplo traduzido</p>
+                  <div className="flex gap-2">
+                    <button 
+                      onClick={(e) => handleSlowPlay(data.exampleSentence, false, e)}
+                      disabled={playingSource !== null}
+                      className={`p-1.5 rounded-full transition-all border ${
+                        playingSource === 'slow'
+                          ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50'
+                          : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
+                      }`}
+                      title="Áudio Lento"
+                    >
+                      <Snail size={12} className={playingSource === 'slow' ? "fill-current" : ""} />
+                    </button>
+                    <button 
+                      onClick={(e) => handleLocalPlay(data.exampleSentence, false, e)}
+                      disabled={playingSource !== null}
+                      className={`p-1.5 rounded-full transition-all border ${
+                        playingSource === 'local'
+                          ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-500 border-amber-200 dark:border-amber-800/50'
+                          : 'bg-white dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-600'
+                      }`}
+                    >
+                      <Zap size={12} className={playingSource === 'local' ? "fill-current" : ""} />
+                    </button>
+                  </div>
                 </div>
+                {renderSentence()}
+                <p className="text-slate-700 dark:text-slate-300 text-lg font-bold italic leading-relaxed">
+                  "{data.exampleTranslation}"
+                </p>
               </div>
-              {renderSentence()}
-              <p className="text-slate-700 dark:text-slate-300 text-lg font-bold italic leading-relaxed">
-                "{data.exampleTranslation}"
-              </p>
-            </div>
+            )}
 
             {/* Grammar Explanation Block */}
             {data.grammarExplanation && (

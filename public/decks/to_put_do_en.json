@@ -1,0 +1,2065 @@
+[
+  {
+    "id": "to_put_do_1",
+    "word": "to put",
+    "translation": "pôr, colocar",
+    "pronunciation": "/tu pʊt/",
+    "portuguesePhonetic": "tchu put",
+    "syllables": [
+      "to",
+      " put"
+    ],
+    "exampleSentence": "to put",
+    "exampleTranslation": "pôr, colocar"
+  },
+  {
+    "id": "to_put_do_2",
+    "word": "to do",
+    "translation": "fazer",
+    "pronunciation": "/tu du/",
+    "portuguesePhonetic": "tchu du",
+    "syllables": [
+      "to",
+      " do"
+    ],
+    "exampleSentence": "to do",
+    "exampleTranslation": "fazer"
+  },
+  {
+    "id": "to_put_do_3",
+    "word": "closet",
+    "translation": "armário",
+    "pronunciation": "/ˈklɑzɪt/",
+    "portuguesePhonetic": "cló-zit",
+    "syllables": [
+      "clos",
+      "et"
+    ],
+    "exampleSentence": "closet",
+    "exampleTranslation": "armário"
+  },
+  {
+    "id": "to_put_do_4",
+    "word": "wardrobe",
+    "translation": "guarda-roupa",
+    "pronunciation": "/ˈwɔrdˌroʊb/",
+    "portuguesePhonetic": "uórd-rôub",
+    "syllables": [
+      "ward",
+      "robe"
+    ],
+    "exampleSentence": "wardrobe",
+    "exampleTranslation": "guarda-roupa"
+  },
+  {
+    "id": "to_put_do_5",
+    "word": "dresser",
+    "translation": "cômoda",
+    "pronunciation": "/ˈdrɛsər/",
+    "portuguesePhonetic": "dré-ser",
+    "syllables": [
+      "dress",
+      "er"
+    ],
+    "exampleSentence": "dresser",
+    "exampleTranslation": "cômoda"
+  },
+  {
+    "id": "to_put_do_6",
+    "word": "drawer",
+    "translation": "gaveta",
+    "pronunciation": "/drɔr/",
+    "portuguesePhonetic": "drór",
+    "syllables": [
+      "drawer"
+    ],
+    "exampleSentence": "drawer",
+    "exampleTranslation": "gaveta"
+  },
+  {
+    "id": "to_put_do_7",
+    "word": "shelf",
+    "translation": "prateleira",
+    "pronunciation": "/ʃɛlf/",
+    "portuguesePhonetic": "xélf",
+    "syllables": [
+      "shelf"
+    ],
+    "exampleSentence": "shelf",
+    "exampleTranslation": "prateleira"
+  },
+  {
+    "id": "to_put_do_8",
+    "word": "coffee table",
+    "translation": "mesa de centro",
+    "pronunciation": "/ˈkɔfi ˈteɪbəl/",
+    "portuguesePhonetic": "có-fi têi-bol",
+    "syllables": [
+      "cof",
+      "fee",
+      " ta",
+      "ble"
+    ],
+    "exampleSentence": "coffee table",
+    "exampleTranslation": "mesa de centro"
+  },
+  {
+    "id": "to_put_do_9",
+    "word": "favor",
+    "translation": "favor",
+    "pronunciation": "/ˈfeɪvər/",
+    "portuguesePhonetic": "fêi-ver",
+    "syllables": [
+      "fa",
+      "vor"
+    ],
+    "exampleSentence": "favor",
+    "exampleTranslation": "favor"
+  },
+  {
+    "id": "to_put_do_10",
+    "word": "formal",
+    "translation": "formal",
+    "pronunciation": "/ˈfɔrməl/",
+    "portuguesePhonetic": "fór-mal",
+    "syllables": [
+      "for",
+      "mal"
+    ],
+    "exampleSentence": "formal",
+    "exampleTranslation": "formal"
+  },
+  {
+    "id": "to_put_do_11",
+    "word": "casual",
+    "translation": "casual",
+    "pronunciation": "/ˈkæʒuəl/",
+    "portuguesePhonetic": "qué-ju-al",
+    "syllables": [
+      "cas",
+      "u",
+      "al"
+    ],
+    "exampleSentence": "casual",
+    "exampleTranslation": "casual"
+  },
+  {
+    "id": "to_put_do_12",
+    "word": "loose",
+    "translation": "frouxo(a), folgado(a)",
+    "pronunciation": "/lus/",
+    "portuguesePhonetic": "lus",
+    "syllables": [
+      "loose"
+    ],
+    "exampleSentence": "loose",
+    "exampleTranslation": "frouxo(a), folgado(a)"
+  },
+  {
+    "id": "to_put_do_13",
+    "word": "tight",
+    "translation": "apertado(a)",
+    "pronunciation": "/taɪt/",
+    "portuguesePhonetic": "tait",
+    "syllables": [
+      "tight"
+    ],
+    "exampleSentence": "tight",
+    "exampleTranslation": "apertado(a)"
+  },
+  {
+    "id": "to_put_do_14",
+    "word": "on",
+    "translation": "em cima",
+    "pronunciation": "/ɑn/",
+    "portuguesePhonetic": "an",
+    "syllables": [
+      "on"
+    ],
+    "exampleSentence": "on",
+    "exampleTranslation": "em cima"
+  },
+  {
+    "id": "to_put_do_15",
+    "word": "under",
+    "translation": "sob, debaixo, embaixo",
+    "pronunciation": "/ˈʌndər/",
+    "portuguesePhonetic": "ân-der",
+    "syllables": [
+      "un",
+      "der"
+    ],
+    "exampleSentence": "under",
+    "exampleTranslation": "sob, debaixo, embaixo"
+  },
+  {
+    "id": "to_put_do_16",
+    "word": "between",
+    "translation": "entre",
+    "pronunciation": "/bɪˈtwin/",
+    "portuguesePhonetic": "bi-tuín",
+    "syllables": [
+      "be",
+      "tween"
+    ],
+    "exampleSentence": "between",
+    "exampleTranslation": "entre"
+  },
+  {
+    "id": "to_put_do_17",
+    "word": "again",
+    "translation": "novamente",
+    "pronunciation": "/əˈɡɛn/",
+    "portuguesePhonetic": "a-guén",
+    "syllables": [
+      "a",
+      "gain"
+    ],
+    "exampleSentence": "again",
+    "exampleTranslation": "novamente"
+  },
+  {
+    "id": "to_put_do_18",
+    "word": "Put on your shoes now.",
+    "translation": "Coloque seus sapatos agora.",
+    "pronunciation": "/pʊt ɑn jʊr ʃuz naʊ./",
+    "portuguesePhonetic": "put an iór xus náu.",
+    "syllables": [
+      "Put",
+      " on",
+      " your",
+      " shoes",
+      " now."
+    ],
+    "exampleSentence": "Put on your shoes now.",
+    "exampleTranslation": "Coloque seus sapatos agora."
+  },
+  {
+    "id": "to_put_do_19",
+    "word": "You have five minutes to get dressed.",
+    "translation": "Você tem cinco minutos para se arrumar.",
+    "pronunciation": "/ju hæv faɪv ˈmɪnəts tu ɡɛt drɛst./",
+    "portuguesePhonetic": "iu rév faiv mí-nits tchu gét drést.",
+    "syllables": [
+      "You",
+      " have",
+      " five",
+      " min",
+      "utes",
+      " to",
+      " get",
+      " dressed."
+    ],
+    "exampleSentence": "You have five minutes to get dressed.",
+    "exampleTranslation": "Você tem cinco minutos para se arrumar."
+  },
+  {
+    "id": "to_put_do_20",
+    "word": "Are you trying on the dress again?",
+    "translation": "Você está provando o vestido novamente?",
+    "pronunciation": "/ɑr ju ˈtraɪɪŋ ɑn ðə drɛs əˈɡɛn?/",
+    "portuguesePhonetic": "ar iu trái-in an dâ drés a-guén?",
+    "syllables": [
+      "Are",
+      " you",
+      " try",
+      "ing",
+      " on",
+      " the",
+      " dress",
+      " a",
+      "gain?"
+    ],
+    "exampleSentence": "Are you trying on the dress again?",
+    "exampleTranslation": "Você está provando o vestido novamente?"
+  },
+  {
+    "id": "to_put_do_21",
+    "word": "Is she working today?",
+    "translation": "Ela está trabalhando hoje?",
+    "pronunciation": "/ɪz ʃi ˈwɜrkɪŋ təˈdeɪ?/",
+    "portuguesePhonetic": "iz xi uãr-quin tchu-dêi?",
+    "syllables": [
+      "Is",
+      " she",
+      " work",
+      "ing",
+      " to",
+      "day?"
+    ],
+    "exampleSentence": "Is she working today?",
+    "exampleTranslation": "Ela está trabalhando hoje?"
+  },
+  {
+    "id": "to_put_do_22",
+    "word": "Is he going to that new outlet mall now?",
+    "translation": "Ele está indo àquele novo outlet agora?",
+    "pronunciation": "/ɪz hi ˈɡoʊɪŋ tu ðæt nu ˈaʊtlɛt mɔl naʊ?/",
+    "portuguesePhonetic": "iz ri gôu-in tchu dét nu áut-let mól náu?",
+    "syllables": [
+      "Is",
+      " he",
+      " go",
+      "ing",
+      " to",
+      " that",
+      " new",
+      " out",
+      "let",
+      " mall",
+      " now?"
+    ],
+    "exampleSentence": "Is he going to that new outlet mall now?",
+    "exampleTranslation": "Ele está indo àquele novo outlet agora?"
+  },
+  {
+    "id": "to_put_do_23",
+    "word": "Are the children doing their homework?",
+    "translation": "As crianças estão fazendo a lição de casa delas?",
+    "pronunciation": "/ɑr ðə ˈtʃɪldrən ˈduɪŋ ðɛr ˈhoʊmˌwɜrk?/",
+    "portuguesePhonetic": "ar dâ tchil-dren du-in dér rôum-uãrk?",
+    "syllables": [
+      "Are",
+      " the",
+      " chil",
+      "dren",
+      " do",
+      "ing",
+      " their",
+      " home",
+      "work?"
+    ],
+    "exampleSentence": "Are the children doing their homework?",
+    "exampleTranslation": "As crianças estão fazendo a lição de casa delas?"
+  },
+  {
+    "id": "to_put_do_24",
+    "word": "What are you doing?",
+    "translation": "O que você está fazendo?",
+    "pronunciation": "/wʌt ɑr ju ˈduɪŋ?/",
+    "portuguesePhonetic": "uót ar iu du-in?",
+    "syllables": [
+      "What",
+      " are",
+      " you",
+      " do",
+      "ing?"
+    ],
+    "exampleSentence": "What are you doing?",
+    "exampleTranslation": "O que você está fazendo?"
+  },
+  {
+    "id": "to_put_do_25",
+    "word": "What is he looking for?",
+    "translation": "O que ele está procurando?",
+    "pronunciation": "/wʌt ɪz hi ˈlʊkɪŋ fɔr?/",
+    "portuguesePhonetic": "uót iz ri lú-quin fór?",
+    "syllables": [
+      "What",
+      " is",
+      " he",
+      " look",
+      "ing",
+      " for?"
+    ],
+    "exampleSentence": "What is he looking for?",
+    "exampleTranslation": "O que ele está procurando?"
+  },
+  {
+    "id": "to_put_do_26",
+    "word": "Why is he wearing formal clothes?",
+    "translation": "Por que ele está usando roupas formais?",
+    "pronunciation": "/waɪ ɪz hi ˈwɛrɪŋ ˈfɔrməl kloʊðz?/",
+    "portuguesePhonetic": "uái iz ri ué-rin fór-mal clôuds?",
+    "syllables": [
+      "Why",
+      " is",
+      " he",
+      " wear",
+      "ing",
+      " for",
+      "mal",
+      " clothes?"
+    ],
+    "exampleSentence": "Why is he wearing formal clothes?",
+    "exampleTranslation": "Por que ele está usando roupas formais?"
+  },
+  {
+    "id": "to_put_do_27",
+    "word": "I think your purse is under your bed.",
+    "translation": "Eu acho que sua bolsa está debaixo da sua cama.",
+    "pronunciation": "/aɪ θɪŋk jʊr pɜrs ɪz ˈʌndər jʊr bɛd./",
+    "portuguesePhonetic": "ai thinc iór pãrs iz ân-der iór béd.",
+    "syllables": [
+      "I",
+      " think",
+      " your",
+      " purse",
+      " is",
+      " un",
+      "der",
+      " your",
+      " bed."
+    ],
+    "exampleSentence": "I think your purse is under your bed.",
+    "exampleTranslation": "Eu acho que sua bolsa está debaixo da sua cama."
+  },
+  {
+    "id": "to_put_do_28",
+    "word": "I always put my socks in the drawer.",
+    "translation": "Eu sempre coloco minhas meias na gaveta.",
+    "pronunciation": "/aɪ ˈɔlweɪz pʊt maɪ sɑks ɪn ðə drɔr./",
+    "portuguesePhonetic": "ai ól-ueiz put mai sócs in dâ drór.",
+    "syllables": [
+      "I",
+      " al",
+      "ways",
+      " put",
+      " my",
+      " socks",
+      " in",
+      " the",
+      " draw",
+      "er."
+    ],
+    "exampleSentence": "I always put my socks in the drawer.",
+    "exampleTranslation": "Eu sempre coloco minhas meias na gaveta."
+  },
+  {
+    "id": "to_put_do_29",
+    "word": "Your watch is on the coffee table.",
+    "translation": "Seu relógio está em cima da mesa de centro.",
+    "pronunciation": "/jʊr wɑtʃ ɪz ɑn ðə ˈkɔfi ˈteɪbəl./",
+    "portuguesePhonetic": "iór uótch iz an dâ có-fi têi-bol.",
+    "syllables": [
+      "Your",
+      " watch",
+      " is",
+      " on",
+      " the",
+      " cof",
+      "fee",
+      " ta",
+      "ble."
+    ],
+    "exampleSentence": "Your watch is on the coffee table.",
+    "exampleTranslation": "Seu relógio está em cima da mesa de centro."
+  },
+  {
+    "id": "to_put_do_30",
+    "word": "Where do you usually put your stuff?",
+    "translation": "Onde você geralmente coloca suas coisas?",
+    "pronunciation": "/wɛr du ju ˈjuʒuəli pʊt jʊr stʌf?/",
+    "portuguesePhonetic": "uér du iu iú-ju-a-li put iór stâf?",
+    "syllables": [
+      "Where",
+      " do",
+      " you",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " put",
+      " your",
+      " stuff?"
+    ],
+    "exampleSentence": "Where do you usually put your stuff?",
+    "exampleTranslation": "Onde você geralmente coloca suas coisas?"
+  },
+  {
+    "id": "to_put_do_31",
+    "word": "She puts her dresses in the closet.",
+    "translation": "Ela coloca os vestidos dela no armário.",
+    "pronunciation": "/ʃi pʊts hər ˈdrɛsəz ɪn ðə ˈklɑzɪt./",
+    "portuguesePhonetic": "xi puts rãr dré-siz in dâ cló-zit.",
+    "syllables": [
+      "She",
+      " puts",
+      " her",
+      " dress",
+      "es",
+      " in",
+      " the",
+      " clos",
+      "et."
+    ],
+    "exampleSentence": "She puts her dresses in the closet.",
+    "exampleTranslation": "Ela coloca os vestidos dela no armário."
+  },
+  {
+    "id": "to_put_do_32",
+    "word": "Put on a coat. It's cold today.",
+    "translation": "Coloque um casaco. Está frio hoje.",
+    "pronunciation": "/pʊt ɑn ə koʊt. ɪts koʊld təˈdeɪ./",
+    "portuguesePhonetic": "put an a côut. its côuld tchu-dêi.",
+    "syllables": [
+      "Put",
+      " on",
+      " a",
+      " coat.",
+      " It's",
+      " cold",
+      " to",
+      "day."
+    ],
+    "exampleSentence": "Put on a coat. It's cold today.",
+    "exampleTranslation": "Coloque um casaco. Está frio hoje."
+  },
+  {
+    "id": "to_put_do_33",
+    "word": "My office is between the subway station and the park.",
+    "translation": "O meu escritório é entre a estação de metrô e o parque.",
+    "pronunciation": "/maɪ ˈɔfəs ɪz bɪˈtwin ðə ˈsʌbˌweɪ ˈsteɪʃən ænd ðə pɑrk./",
+    "portuguesePhonetic": "mai ó-fis iz bi-tuín dâ sâb-uei stêi-xân énd dâ párc.",
+    "syllables": [
+      "My",
+      " of",
+      "fice",
+      " is",
+      " be",
+      "tween",
+      " the",
+      " sub",
+      "way",
+      " sta",
+      "tion",
+      " and",
+      " the",
+      " park."
+    ],
+    "exampleSentence": "My office is between the subway station and the park.",
+    "exampleTranslation": "O meu escritório é entre a estação de metrô e o parque."
+  },
+  {
+    "id": "to_put_do_34",
+    "word": "Are you doing your homework?",
+    "translation": "Você está fazendo sua lição de casa?",
+    "pronunciation": "/ɑr ju ˈduɪŋ jʊr ˈhoʊmˌwɜrk?/",
+    "portuguesePhonetic": "ar iu du-in iór rôum-uãrk?",
+    "syllables": [
+      "Are",
+      " you",
+      " do",
+      "ing",
+      " your",
+      " home",
+      "work?"
+    ],
+    "exampleSentence": "Are you doing your homework?",
+    "exampleTranslation": "Você está fazendo sua lição de casa?"
+  },
+  {
+    "id": "to_put_do_35",
+    "word": "Is she having dinner now?",
+    "translation": "Ela está jantando agora?",
+    "pronunciation": "/ɪz ʃi ˈhævɪŋ ˈdɪnər naʊ?/",
+    "portuguesePhonetic": "iz xi ré-vin dín-ner náu?",
+    "syllables": [
+      "Is",
+      " she",
+      " hav",
+      "ing",
+      " din",
+      "ner",
+      " now?"
+    ],
+    "exampleSentence": "Is she having dinner now?",
+    "exampleTranslation": "Ela está jantando agora?"
+  },
+  {
+    "id": "to_put_do_36",
+    "word": "What are you eating?",
+    "translation": "O que você está comendo?",
+    "pronunciation": "/wʌt ɑr ju ˈitɪŋ?/",
+    "portuguesePhonetic": "uót ar iu í-tin?",
+    "syllables": [
+      "What",
+      " are",
+      " you",
+      " eat",
+      "ing?"
+    ],
+    "exampleSentence": "What are you eating?",
+    "exampleTranslation": "O que você está comendo?"
+  },
+  {
+    "id": "to_put_do_37",
+    "word": "Who are you calling?",
+    "translation": "Para quem você está ligando?",
+    "pronunciation": "/hu ɑr ju ˈkɔlɪŋ?/",
+    "portuguesePhonetic": "ru ar iu có-lin?",
+    "syllables": [
+      "Who",
+      " are",
+      " you",
+      " call",
+      "ing?"
+    ],
+    "exampleSentence": "Who are you calling?",
+    "exampleTranslation": "Para quem você está ligando?"
+  },
+  {
+    "id": "to_put_do_38",
+    "word": "Why are you changing your outfit?",
+    "translation": "Por que você está mudando de roupa?",
+    "pronunciation": "/waɪ ɑr ju ˈtʃeɪndʒɪŋ jʊr ˈaʊtfɪt?/",
+    "portuguesePhonetic": "uái ar iu tchêin-djin iór áut-fit?",
+    "syllables": [
+      "Why",
+      " are",
+      " you",
+      " chang",
+      "ing",
+      " your",
+      " out",
+      "fit?"
+    ],
+    "exampleSentence": "Why are you changing your outfit?",
+    "exampleTranslation": "Por que você está mudando de roupa?"
+  },
+  {
+    "id": "to_put_do_39",
+    "word": "What are the students doing?",
+    "translation": "O que os alunos estão fazendo?",
+    "pronunciation": "/wʌt ɑr ðə ˈstudənts ˈduɪŋ?/",
+    "portuguesePhonetic": "uót ar dâ stú-dents du-in?",
+    "syllables": [
+      "What",
+      " are",
+      " the",
+      " stu",
+      "dents",
+      " do",
+      "ing?"
+    ],
+    "exampleSentence": "What are the students doing?",
+    "exampleTranslation": "O que os alunos estão fazendo?"
+  },
+  {
+    "id": "to_put_do_40",
+    "word": "to do the dishes",
+    "translation": "lavar a louça",
+    "pronunciation": "/tu du ðə ˈdɪʃəz/",
+    "portuguesePhonetic": "tchu du dâ dí-xiz",
+    "syllables": [
+      "to",
+      " do",
+      " the",
+      " dish",
+      "es"
+    ],
+    "exampleSentence": "to do the dishes",
+    "exampleTranslation": "lavar a louça"
+  },
+  {
+    "id": "to_put_do_41",
+    "word": "I am doing the dishes now.",
+    "translation": "Eu estou lavando a louça agora.",
+    "pronunciation": "/aɪ æm ˈduɪŋ ðə ˈdɪʃəz naʊ./",
+    "portuguesePhonetic": "ai ém du-in dâ dí-xiz náu.",
+    "syllables": [
+      "I",
+      " am",
+      " do",
+      "ing",
+      " the",
+      " dish",
+      "es",
+      " now."
+    ],
+    "exampleSentence": "I am doing the dishes now.",
+    "exampleTranslation": "Eu estou lavando a louça agora."
+  },
+  {
+    "id": "to_put_do_42",
+    "word": "to do the laundry",
+    "translation": "lavar roupa",
+    "pronunciation": "/tu du ðə ˈlɔndri/",
+    "portuguesePhonetic": "tchu du dâ lón-dri",
+    "syllables": [
+      "to",
+      " do",
+      " the",
+      " laun",
+      "dry"
+    ],
+    "exampleSentence": "to do the laundry",
+    "exampleTranslation": "lavar roupa"
+  },
+  {
+    "id": "to_put_do_43",
+    "word": "She does the laundry every Saturday.",
+    "translation": "Ela lava roupa todo sábado.",
+    "pronunciation": "/ʃi dʌz ðə ˈlɔndri ˈɛvəri ˈsætərdeɪ./",
+    "portuguesePhonetic": "xi dâz dâ lón-dri é-vri sé-ter-dêi.",
+    "syllables": [
+      "She",
+      " does",
+      " the",
+      " laun",
+      "dry",
+      " ev",
+      "er",
+      "y",
+      " Sat",
+      "ur",
+      "day."
+    ],
+    "exampleSentence": "She does the laundry every Saturday.",
+    "exampleTranslation": "Ela lava roupa todo sábado."
+  },
+  {
+    "id": "to_put_do_44",
+    "word": "to do the homework",
+    "translation": "fazer a lição de casa",
+    "pronunciation": "/tu du ðə ˈhoʊmˌwɜrk/",
+    "portuguesePhonetic": "tchu du dâ rôum-uãrk",
+    "syllables": [
+      "to",
+      " do",
+      " the",
+      " home",
+      "work"
+    ],
+    "exampleSentence": "to do the homework",
+    "exampleTranslation": "fazer a lição de casa"
+  },
+  {
+    "id": "to_put_do_45",
+    "word": "The children are doing their homework.",
+    "translation": "As crianças estão fazendo a lição de casa.",
+    "pronunciation": "/ðə ˈtʃɪldrən ɑr ˈduɪŋ ðɛr ˈhoʊmˌwɜrk./",
+    "portuguesePhonetic": "dâ tchil-dren ar du-in dér rôum-uãrk.",
+    "syllables": [
+      "The",
+      " chil",
+      "dren",
+      " are",
+      " do",
+      "ing",
+      " their",
+      " home",
+      "work."
+    ],
+    "exampleSentence": "The children are doing their homework.",
+    "exampleTranslation": "As crianças estão fazendo a lição de casa."
+  },
+  {
+    "id": "to_put_do_46",
+    "word": "to do a favor",
+    "translation": "fazer um favor",
+    "pronunciation": "/tu du ə ˈfeɪvər/",
+    "portuguesePhonetic": "tchu du a fêi-ver",
+    "syllables": [
+      "to",
+      " do",
+      " a",
+      " fa",
+      "vor"
+    ],
+    "exampleSentence": "to do a favor",
+    "exampleTranslation": "fazer um favor"
+  },
+  {
+    "id": "to_put_do_47",
+    "word": "Can you do me a favor?",
+    "translation": "Você pode me fazer um favor?",
+    "pronunciation": "/kæn ju du mi ə ˈfeɪvər?/",
+    "portuguesePhonetic": "quén iu du mi a fêi-ver?",
+    "syllables": [
+      "Can",
+      " you",
+      " do",
+      " me",
+      " a",
+      " fa",
+      "vor?"
+    ],
+    "exampleSentence": "Can you do me a favor?",
+    "exampleTranslation": "Você pode me fazer um favor?"
+  },
+  {
+    "id": "to_put_do_48",
+    "word": "to do my best",
+    "translation": "dar o meu melhor",
+    "pronunciation": "/tu du maɪ bɛst/",
+    "portuguesePhonetic": "tchu du mai bést",
+    "syllables": [
+      "to",
+      " do",
+      " my",
+      " best"
+    ],
+    "exampleSentence": "to do my best",
+    "exampleTranslation": "dar o meu melhor"
+  },
+  {
+    "id": "to_put_do_49",
+    "word": "I always do my best at work.",
+    "translation": "Eu sempre dou o meu melhor no trabalho.",
+    "pronunciation": "/aɪ ˈɔlweɪz du maɪ bɛst æt wɜrk./",
+    "portuguesePhonetic": "ai ól-ueiz du mai bést ét uãrc.",
+    "syllables": [
+      "I",
+      " al",
+      "ways",
+      " do",
+      " my",
+      " best",
+      " at",
+      " work."
+    ],
+    "exampleSentence": "I always do my best at work.",
+    "exampleTranslation": "Eu sempre dou o meu melhor no trabalho."
+  },
+  {
+    "id": "to_put_do_50",
+    "word": "Are you studying English?",
+    "translation": "Você está estudando inglês?",
+    "pronunciation": "/ɑr ju ˈstʌdiɪŋ ˈɪŋɡlɪʃ?/",
+    "portuguesePhonetic": "ar iu stâ-di-in ín-glix?",
+    "syllables": [
+      "Are",
+      " you",
+      " stud",
+      "y",
+      "ing",
+      " En",
+      "glish?"
+    ],
+    "exampleSentence": "Are you studying English?",
+    "exampleTranslation": "Você está estudando inglês?"
+  },
+  {
+    "id": "to_put_do_51",
+    "word": "Is she working now?",
+    "translation": "Ela está trabalhando agora?",
+    "pronunciation": "/ɪz ʃi ˈwɜrkɪŋ naʊ?/",
+    "portuguesePhonetic": "iz xi uãr-quin náu?",
+    "syllables": [
+      "Is",
+      " she",
+      " work",
+      "ing",
+      " now?"
+    ],
+    "exampleSentence": "Is she working now?",
+    "exampleTranslation": "Ela está trabalhando agora?"
+  },
+  {
+    "id": "to_put_do_52",
+    "word": "Are they watching TV?",
+    "translation": "Eles estão assistindo TV?",
+    "pronunciation": "/ɑr ðeɪ ˈwɑtʃɪŋ ˌtiˈvi?/",
+    "portuguesePhonetic": "ar dêi uó-tchin ti-vi?",
+    "syllables": [
+      "Are",
+      " they",
+      " watch",
+      "ing",
+      " T",
+      "V?"
+    ],
+    "exampleSentence": "Are they watching TV?",
+    "exampleTranslation": "Eles estão assistindo TV?"
+  },
+  {
+    "id": "to_put_do_53",
+    "word": "What are you doing?",
+    "translation": "O que você está fazendo?",
+    "pronunciation": "/wʌt ɑr ju ˈduɪŋ?/",
+    "portuguesePhonetic": "uót ar iu du-in?",
+    "syllables": [
+      "What",
+      " are",
+      " you",
+      " do",
+      "ing?"
+    ],
+    "exampleSentence": "What are you doing?",
+    "exampleTranslation": "O que você está fazendo?"
+  },
+  {
+    "id": "to_put_do_54",
+    "word": "Where are you going?",
+    "translation": "Onde você está indo?",
+    "pronunciation": "/wɛr ɑr ju ˈɡoʊɪŋ?/",
+    "portuguesePhonetic": "uér ar iu gôu-in?",
+    "syllables": [
+      "Where",
+      " are",
+      " you",
+      " go",
+      "ing?"
+    ],
+    "exampleSentence": "Where are you going?",
+    "exampleTranslation": "Onde você está indo?"
+  },
+  {
+    "id": "to_put_do_55",
+    "word": "Who are you calling?",
+    "translation": "Para quem você está ligando?",
+    "pronunciation": "/hu ɑr ju ˈkɔlɪŋ?/",
+    "portuguesePhonetic": "ru ar iu có-lin?",
+    "syllables": [
+      "Who",
+      " are",
+      " you",
+      " call",
+      "ing?"
+    ],
+    "exampleSentence": "Who are you calling?",
+    "exampleTranslation": "Para quem você está ligando?"
+  },
+  {
+    "id": "to_put_do_56",
+    "word": "Why are you changing your clothes?",
+    "translation": "Por que você está trocando de roupa?",
+    "pronunciation": "/waɪ ɑr ju ˈtʃeɪndʒɪŋ jʊr kloʊðz?/",
+    "portuguesePhonetic": "uái ar iu tchêin-djin iór clôuds?",
+    "syllables": [
+      "Why",
+      " are",
+      " you",
+      " chang",
+      "ing",
+      " your",
+      " clothes?"
+    ],
+    "exampleSentence": "Why are you changing your clothes?",
+    "exampleTranslation": "Por que você está trocando de roupa?"
+  },
+  {
+    "id": "to_put_do_57",
+    "word": "closet",
+    "translation": "armário",
+    "pronunciation": "/ˈklɑzɪt/",
+    "portuguesePhonetic": "cló-zit",
+    "syllables": [
+      "clos",
+      "et"
+    ],
+    "exampleSentence": "closet",
+    "exampleTranslation": "armário"
+  },
+  {
+    "id": "to_put_do_58",
+    "word": "wardrobe",
+    "translation": "guarda-roupa",
+    "pronunciation": "/ˈwɔrdˌroʊb/",
+    "portuguesePhonetic": "uórd-rôub",
+    "syllables": [
+      "ward",
+      "robe"
+    ],
+    "exampleSentence": "wardrobe",
+    "exampleTranslation": "guarda-roupa"
+  },
+  {
+    "id": "to_put_do_59",
+    "word": "dresser",
+    "translation": "cômoda",
+    "pronunciation": "/ˈdrɛsər/",
+    "portuguesePhonetic": "dré-ser",
+    "syllables": [
+      "dress",
+      "er"
+    ],
+    "exampleSentence": "dresser",
+    "exampleTranslation": "cômoda"
+  },
+  {
+    "id": "to_put_do_60",
+    "word": "drawer",
+    "translation": "gaveta",
+    "pronunciation": "/drɔr/",
+    "portuguesePhonetic": "drór",
+    "syllables": [
+      "drawer"
+    ],
+    "exampleSentence": "drawer",
+    "exampleTranslation": "gaveta"
+  },
+  {
+    "id": "to_put_do_61",
+    "word": "shelf",
+    "translation": "prateleira",
+    "pronunciation": "/ʃɛlf/",
+    "portuguesePhonetic": "xélf",
+    "syllables": [
+      "shelf"
+    ],
+    "exampleSentence": "shelf",
+    "exampleTranslation": "prateleira"
+  },
+  {
+    "id": "to_put_do_62",
+    "word": "coffee table",
+    "translation": "mesa de centro",
+    "pronunciation": "/ˈkɔfi ˈteɪbəl/",
+    "portuguesePhonetic": "có-fi têi-bol",
+    "syllables": [
+      "cof",
+      "fee",
+      " ta",
+      "ble"
+    ],
+    "exampleSentence": "coffee table",
+    "exampleTranslation": "mesa de centro"
+  },
+  {
+    "id": "to_put_do_63",
+    "word": "formal",
+    "translation": "formal",
+    "pronunciation": "/ˈfɔrməl/",
+    "portuguesePhonetic": "fór-mal",
+    "syllables": [
+      "for",
+      "mal"
+    ],
+    "exampleSentence": "formal",
+    "exampleTranslation": "formal"
+  },
+  {
+    "id": "to_put_do_64",
+    "word": "casual",
+    "translation": "casual",
+    "pronunciation": "/ˈkæʒuəl/",
+    "portuguesePhonetic": "qué-ju-al",
+    "syllables": [
+      "cas",
+      "u",
+      "al"
+    ],
+    "exampleSentence": "casual",
+    "exampleTranslation": "casual"
+  },
+  {
+    "id": "to_put_do_65",
+    "word": "loose",
+    "translation": "folgado",
+    "pronunciation": "/lus/",
+    "portuguesePhonetic": "lus",
+    "syllables": [
+      "loose"
+    ],
+    "exampleSentence": "loose",
+    "exampleTranslation": "folgado"
+  },
+  {
+    "id": "to_put_do_66",
+    "word": "tight",
+    "translation": "apertado",
+    "pronunciation": "/taɪt/",
+    "portuguesePhonetic": "tait",
+    "syllables": [
+      "tight"
+    ],
+    "exampleSentence": "tight",
+    "exampleTranslation": "apertado"
+  },
+  {
+    "id": "to_put_do_67",
+    "word": "under",
+    "translation": "debaixo",
+    "pronunciation": "/ˈʌndər/",
+    "portuguesePhonetic": "ân-der",
+    "syllables": [
+      "un",
+      "der"
+    ],
+    "exampleSentence": "under",
+    "exampleTranslation": "debaixo"
+  },
+  {
+    "id": "to_put_do_68",
+    "word": "on",
+    "translation": "em cima",
+    "pronunciation": "/ɑn/",
+    "portuguesePhonetic": "an",
+    "syllables": [
+      "on"
+    ],
+    "exampleSentence": "on",
+    "exampleTranslation": "em cima"
+  },
+  {
+    "id": "to_put_do_69",
+    "word": "between",
+    "translation": "entre",
+    "pronunciation": "/bɪˈtwin/",
+    "portuguesePhonetic": "bi-tuín",
+    "syllables": [
+      "be",
+      "tween"
+    ],
+    "exampleSentence": "between",
+    "exampleTranslation": "entre"
+  },
+  {
+    "id": "to_put_do_70",
+    "word": "put on",
+    "translation": "vestir / colocar",
+    "pronunciation": "/pʊt ɑn/",
+    "portuguesePhonetic": "put an",
+    "syllables": [
+      "put",
+      " on"
+    ],
+    "exampleSentence": "put on",
+    "exampleTranslation": "vestir / colocar"
+  },
+  {
+    "id": "to_put_do_71",
+    "word": "get dressed",
+    "translation": "se vestir",
+    "pronunciation": "/ɡɛt drɛst/",
+    "portuguesePhonetic": "gét drést",
+    "syllables": [
+      "get",
+      " dressed"
+    ],
+    "exampleSentence": "get dressed",
+    "exampleTranslation": "se vestir"
+  },
+  {
+    "id": "to_put_do_72",
+    "word": "do the dishes",
+    "translation": "lavar a louça",
+    "pronunciation": "/du ðə ˈdɪʃəz/",
+    "portuguesePhonetic": "du dâ dí-xiz",
+    "syllables": [
+      "do",
+      " the",
+      " dish",
+      "es"
+    ],
+    "exampleSentence": "do the dishes",
+    "exampleTranslation": "lavar a louça"
+  },
+  {
+    "id": "to_put_do_73",
+    "word": "do the laundry",
+    "translation": "lavar roupa",
+    "pronunciation": "/du ðə ˈlɔndri/",
+    "portuguesePhonetic": "du dâ lón-dri",
+    "syllables": [
+      "do",
+      " the",
+      " laun",
+      "dry"
+    ],
+    "exampleSentence": "do the laundry",
+    "exampleTranslation": "lavar roupa"
+  },
+  {
+    "id": "to_put_do_74",
+    "word": "do homework",
+    "translation": "fazer a lição",
+    "pronunciation": "/du ˈhoʊmˌwɜrk/",
+    "portuguesePhonetic": "du rôum-uãrk",
+    "syllables": [
+      "do",
+      " home",
+      "work"
+    ],
+    "exampleSentence": "do homework",
+    "exampleTranslation": "fazer a lição"
+  },
+  {
+    "id": "to_put_do_75",
+    "word": "do a favor",
+    "translation": "fazer um favor",
+    "pronunciation": "/du ə ˈfeɪvər/",
+    "portuguesePhonetic": "du a fêi-ver",
+    "syllables": [
+      "do",
+      " a",
+      " fa",
+      "vor"
+    ],
+    "exampleSentence": "do a favor",
+    "exampleTranslation": "fazer um favor"
+  },
+  {
+    "id": "to_put_do_76",
+    "word": "do my best",
+    "translation": "dar o meu melhor",
+    "pronunciation": "/du maɪ bɛst/",
+    "portuguesePhonetic": "du mai bést",
+    "syllables": [
+      "do",
+      " my",
+      " best"
+    ],
+    "exampleSentence": "do my best",
+    "exampleTranslation": "dar o meu melhor"
+  },
+  {
+    "id": "to_put_do_77",
+    "word": "Where are my blue socks? – They are in the drawer, in your bedroom.",
+    "translation": "Onde estão minhas meias azuis? – Elas estão na gaveta, no seu quarto.",
+    "pronunciation": "/wɛr ɑr maɪ blu sɑks? – ðeɪ ɑr ɪn ðə drɔr, ɪn jʊr ˈbɛdˌrum./",
+    "portuguesePhonetic": "uér ar mai blu sócs? – dêi ar in dâ drór, in iór béd-rum.",
+    "syllables": [
+      "Where",
+      " are",
+      " my",
+      " blue",
+      " socks?",
+      " – They",
+      " are",
+      " in",
+      " the",
+      " draw",
+      "er,",
+      " in",
+      " your",
+      " bed",
+      "room."
+    ],
+    "exampleSentence": "Where are my blue socks? – They are in the drawer, in your bedroom.",
+    "exampleTranslation": "Onde estão minhas meias azuis? – Elas estão na gaveta, no seu quarto."
+  },
+  {
+    "id": "to_put_do_78",
+    "word": "Do me a favor. Open the wardrobe and put this suit there.",
+    "translation": "Faça-me um favor. Abra o guarda-roupa e coloque este terno lá.",
+    "pronunciation": "/du mi ə ˈfeɪvər. ˈoʊpən ðə ˈwɔrdˌroʊb ænd pʊt ðɪs sut ðɛr./",
+    "portuguesePhonetic": "du mi a fêi-ver. ôu-pen dâ uórd-rôub énd put dís sut dér.",
+    "syllables": [
+      "Do",
+      " me",
+      " a",
+      " fa",
+      "vor.",
+      " O",
+      "pen",
+      " the",
+      " ward",
+      "robe",
+      " and",
+      " put",
+      " this",
+      " suit",
+      " there."
+    ],
+    "exampleSentence": "Do me a favor. Open the wardrobe and put this suit there.",
+    "exampleTranslation": "Faça-me um favor. Abra o guarda-roupa e coloque este terno lá."
+  },
+  {
+    "id": "to_put_do_79",
+    "word": "I wear casual clothes to work on Fridays. I wear sneakers and jeans.",
+    "translation": "Eu uso roupas casuais no trabalho às sextas-feiras. Eu uso tênis e calça jeans.",
+    "pronunciation": "/aɪ wɛr ˈkæʒuəl kloʊðz tu wɜrk ɑn ˈfraɪdeɪz. aɪ wɛr ˈsnikərz ænd dʒinz./",
+    "portuguesePhonetic": "ai uér qué-ju-al clôuds tchu uãrc an frái-dêis. ai uér sní-quers énd djins.",
+    "syllables": [
+      "I",
+      " wear",
+      " cas",
+      "u",
+      "al",
+      " clothes",
+      " to",
+      " work",
+      " on",
+      " Fri",
+      "days.",
+      " I",
+      " wear",
+      " sneak",
+      "ers",
+      " and",
+      " jeans."
+    ],
+    "exampleSentence": "I wear casual clothes to work on Fridays. I wear sneakers and jeans.",
+    "exampleTranslation": "Eu uso roupas casuais no trabalho às sextas-feiras. Eu uso tênis e calça jeans."
+  },
+  {
+    "id": "to_put_do_80",
+    "word": "What do you need to do today? – I need to clean my closet.",
+    "translation": "O que você precisa fazer hoje? – Eu preciso limpar meu armário.",
+    "pronunciation": "/wʌt du ju nid tu du təˈdeɪ? – aɪ nid tu klin maɪ ˈklɑzɪt./",
+    "portuguesePhonetic": "uót du iu nid tchu du tchu-dêi? – ai nid tchu clin mai cló-zit.",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " need",
+      " to",
+      " do",
+      " to",
+      "day?",
+      " – I",
+      " need",
+      " to",
+      " clean",
+      " my",
+      " clos",
+      "et."
+    ],
+    "exampleSentence": "What do you need to do today? – I need to clean my closet.",
+    "exampleTranslation": "O que você precisa fazer hoje? – Eu preciso limpar meu armário."
+  },
+  {
+    "id": "to_put_do_81",
+    "word": "Your shoes are under the bed and your bag is on the coffee table.",
+    "translation": "Seus sapatos estão embaixo da cama e sua bolsa está em cima da mesa de centro.",
+    "pronunciation": "/jʊr ʃuz ɑr ˈʌndər ðə bɛd ænd jʊr bæɡ ɪz ɑn ðə ˈkɔfi ˈteɪbəl./",
+    "portuguesePhonetic": "iór xus ar ân-der dâ béd énd iór bég iz an dâ có-fi têi-bol.",
+    "syllables": [
+      "Your",
+      " shoes",
+      " are",
+      " un",
+      "der",
+      " the",
+      " bed",
+      " and",
+      " your",
+      " bag",
+      " is",
+      " on",
+      " the",
+      " cof",
+      "fee",
+      " ta",
+      "ble."
+    ],
+    "exampleSentence": "Your shoes are under the bed and your bag is on the coffee table.",
+    "exampleTranslation": "Seus sapatos estão embaixo da cama e sua bolsa está em cima da mesa de centro."
+  },
+  {
+    "id": "to_put_do_82",
+    "word": "Are you ready? – No, I still need to put on my shoes.",
+    "translation": "Você está pronto? – Não, eu ainda preciso colocar meus sapatos.",
+    "pronunciation": "/ɑr ju ˈrɛdi? – noʊ, aɪ stɪl nid tu pʊt ɑn maɪ ʃuz./",
+    "portuguesePhonetic": "ar iu ré-di? – nôu, ai stíl nid tchu put an mai xus.",
+    "syllables": [
+      "Are",
+      " you",
+      " read",
+      "y?",
+      " – No,",
+      " I",
+      " still",
+      " need",
+      " to",
+      " put",
+      " on",
+      " my",
+      " shoes."
+    ],
+    "exampleSentence": "Are you ready? – No, I still need to put on my shoes.",
+    "exampleTranslation": "Você está pronto? – Não, eu ainda preciso colocar meus sapatos."
+  },
+  {
+    "id": "to_put_do_83",
+    "word": "Are you doing your homework now? – Yes, I am.",
+    "translation": "Você está fazendo sua lição de casa agora? – Sim, estou.",
+    "pronunciation": "/ɑr ju ˈduɪŋ jʊr ˈhoʊmˌwɜrk naʊ? – jɛs, aɪ æm./",
+    "portuguesePhonetic": "ar iu du-in iór rôum-uãrk náu? – iés, ai ém.",
+    "syllables": [
+      "Are",
+      " you",
+      " do",
+      "ing",
+      " your",
+      " home",
+      "work",
+      " now?",
+      " – Yes,",
+      " I",
+      " am."
+    ],
+    "exampleSentence": "Are you doing your homework now? – Yes, I am.",
+    "exampleTranslation": "Você está fazendo sua lição de casa agora? – Sim, estou."
+  },
+  {
+    "id": "to_put_do_84",
+    "word": "I need to get ready to go to college. I'm late.",
+    "translation": "Eu preciso me arrumar para ir à universidade. Estou atrasada.",
+    "pronunciation": "/aɪ nid tu ɡet ˈrɛdi tu ɡoʊ tu ˈkɑlɪdʒ. aɪm leɪt./",
+    "portuguesePhonetic": "ai nid tchu gét ré-di tchu gôu tchu có-ledj. aim lêit.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " get",
+      " read",
+      "y",
+      " to",
+      " go",
+      " to",
+      " col",
+      "lege.",
+      " I'm",
+      " late."
+    ],
+    "exampleSentence": "I need to get ready to go to college. I'm late.",
+    "exampleTranslation": "Eu preciso me arrumar para ir à universidade. Estou atrasada."
+  },
+  {
+    "id": "to_put_do_85",
+    "word": "Where is your wallet? – It's in my purse.",
+    "translation": "Onde está a sua carteira? – Ela está na minha bolsa.",
+    "pronunciation": "/wɛr ɪz jʊr ˈwɔlɪt? – ɪts ɪn maɪ pɜrs./",
+    "portuguesePhonetic": "uér iz iór uó-lit? – its in mai pãrs.",
+    "syllables": [
+      "Where",
+      " is",
+      " your",
+      " wal",
+      "let?",
+      " – It's",
+      " in",
+      " my",
+      " purse."
+    ],
+    "exampleSentence": "Where is your wallet? – It's in my purse.",
+    "exampleTranslation": "Onde está a sua carteira? – Ela está na minha bolsa."
+  },
+  {
+    "id": "to_put_do_86",
+    "word": "Are you working? – No, I'm not. I'm on vacation.",
+    "translation": "Você está trabalhando? – Não, não estou. Estou de férias.",
+    "pronunciation": "/ɑr ju ˈwɜrkɪŋ? – noʊ, aɪm nɑt. aɪm ɑn veɪˈkeɪʃən./",
+    "portuguesePhonetic": "ar iu uãr-quin? – nôu, aim nát. aim an vêi-quêi-xân.",
+    "syllables": [
+      "Are",
+      " you",
+      " work",
+      "ing?",
+      " – No,",
+      " I'm",
+      " not.",
+      " I'm",
+      " on",
+      " va",
+      "ca",
+      "tion."
+    ],
+    "exampleSentence": "Are you working? – No, I'm not. I'm on vacation.",
+    "exampleTranslation": "Você está trabalhando? – Não, não estou. Estou de férias."
+  },
+  {
+    "id": "to_put_do_87",
+    "word": "Are you reading an interesting story?",
+    "translation": "Você está lendo uma história interessante?",
+    "pronunciation": "/ɑr ju ˈridɪŋ ən ˈɪntrəstɪŋ ˈstɔri?/",
+    "portuguesePhonetic": "ar iu rí-din an ín-tres-tin stó-ri?",
+    "syllables": [
+      "Are",
+      " you",
+      " read",
+      "ing",
+      " an",
+      " in",
+      "ter",
+      "est",
+      "ing",
+      " sto",
+      "ry?"
+    ],
+    "exampleSentence": "Are you reading an interesting story?",
+    "exampleTranslation": "Você está lendo uma história interessante?"
+  },
+  {
+    "id": "to_put_do_88",
+    "word": "Is Marla having dinner with her friends?",
+    "translation": "Marla está jantando com seus amigos?",
+    "pronunciation": "/ɪz ˈmɑrlə ˈhævɪŋ ˈdɪnər wɪð hər frɛndz?/",
+    "portuguesePhonetic": "iz már-la ré-vin dín-ner uid rãr frénds?",
+    "syllables": [
+      "Is",
+      " Mar",
+      "la",
+      " hav",
+      "ing",
+      " din",
+      "ner",
+      " with",
+      " her",
+      " friends?"
+    ],
+    "exampleSentence": "Is Marla having dinner with her friends?",
+    "exampleTranslation": "Marla está jantando com seus amigos?"
+  },
+  {
+    "id": "to_put_do_89",
+    "word": "Are you driving your children to school?",
+    "translation": "Você está levando seus filhos para a escola?",
+    "pronunciation": "/ɑr ju ˈdraɪvɪŋ jʊr ˈtʃɪldrən tu skul?/",
+    "portuguesePhonetic": "ar iu drái-vin iór tchil-dren tchu scul?",
+    "syllables": [
+      "Are",
+      " you",
+      " driv",
+      "ing",
+      " your",
+      " chil",
+      "dren",
+      " to",
+      " school?"
+    ],
+    "exampleSentence": "Are you driving your children to school?",
+    "exampleTranslation": "Você está levando seus filhos para a escola?"
+  },
+  {
+    "id": "to_put_do_90",
+    "word": "Is she talking to her mother about her outfit?",
+    "translation": "Ela está conversando com a mãe dela sobre sua roupa?",
+    "pronunciation": "/ɪz ʃi ˈtɔkɪŋ tu hər ˈmʌðər əˈbaʊt hər ˈaʊtfɪt?/",
+    "portuguesePhonetic": "iz xi có-lin tchu rãr mâ-der a-báut rãr áut-fit?",
+    "syllables": [
+      "Is",
+      " she",
+      " talk",
+      "ing",
+      " to",
+      " her",
+      " moth",
+      "er",
+      " a",
+      "bout",
+      " her",
+      " out",
+      "fit?"
+    ],
+    "exampleSentence": "Is she talking to her mother about her outfit?",
+    "exampleTranslation": "Ela está conversando com a mãe dela sobre sua roupa?"
+  },
+  {
+    "id": "to_put_do_91",
+    "word": "Is she talking to the attendant near the fitting room?",
+    "translation": "Ela está conversando com o atendente perto do provador?",
+    "pronunciation": "/ɪz ʃi ˈtɔkɪŋ tu ðə əˈtɛndənt nɪr ðə ˈfɪtɪŋ rum?/",
+    "portuguesePhonetic": "iz xi có-lin tchu dâ a-tên-dent nír dâ fí-tin rum?",
+    "syllables": [
+      "Is",
+      " she",
+      " talk",
+      "ing",
+      " to",
+      " the",
+      " at",
+      "tend",
+      "ant",
+      " near",
+      " the",
+      " fit",
+      "ting",
+      " room?"
+    ],
+    "exampleSentence": "Is she talking to the attendant near the fitting room?",
+    "exampleTranslation": "Ela está conversando com o atendente perto do provador?"
+  },
+  {
+    "id": "to_put_do_92",
+    "word": "Are they still looking for that purple dress?",
+    "translation": "Eles ainda estão procurando aquele vestido roxo?",
+    "pronunciation": "/ɑr ðeɪ stɪl ˈlʊkɪŋ fɔr ðæt ˈpɜrpəl drɛs?/",
+    "portuguesePhonetic": "ar dêi stíl lú-quin fór dét pãr-pol drés?",
+    "syllables": [
+      "Are",
+      " they",
+      " still",
+      " look",
+      "ing",
+      " for",
+      " that",
+      " pur",
+      "ple",
+      " dress?"
+    ],
+    "exampleSentence": "Are they still looking for that purple dress?",
+    "exampleTranslation": "Eles ainda estão procurando aquele vestido roxo?"
+  },
+  {
+    "id": "to_put_do_93",
+    "word": "Is he writing an e-mail about the problem?",
+    "translation": "Ele está escrevendo um e-mail sobre o problema?",
+    "pronunciation": "/ɪz hi ˈraɪtɪŋ ən ˈiˌmeɪl əˈbaʊt ðə ˈprɑbləm?/",
+    "portuguesePhonetic": "iz ri rái-tin an í-mêil a-báut dâ pró-blem?",
+    "syllables": [
+      "Is",
+      " he",
+      " writ",
+      "ing",
+      " an",
+      " e",
+      "-",
+      "mail",
+      " a",
+      "bout",
+      " the",
+      " prob",
+      "lem?"
+    ],
+    "exampleSentence": "Is he writing an e-mail about the problem?",
+    "exampleTranslation": "Ele está escrevendo um e-mail sobre o problema?"
+  },
+  {
+    "id": "to_put_do_94",
+    "word": "Am I trying to do my best?",
+    "translation": "Eu estou tentando fazer o meu melhor?",
+    "pronunciation": "/æm aɪ ˈtraɪɪŋ tu du maɪ bɛst?/",
+    "portuguesePhonetic": "ém ai trái-in tchu du mai bést?",
+    "syllables": [
+      "Am",
+      " I",
+      " try",
+      "ing",
+      " to",
+      " do",
+      " my",
+      " best?"
+    ],
+    "exampleSentence": "Am I trying to do my best?",
+    "exampleTranslation": "Eu estou tentando fazer o meu melhor?"
+  },
+  {
+    "id": "to_put_do_95",
+    "word": "socks",
+    "translation": "meias",
+    "pronunciation": "/sɑks/",
+    "portuguesePhonetic": "sócs",
+    "syllables": [
+      "socks"
+    ],
+    "exampleSentence": "socks",
+    "exampleTranslation": "meias"
+  },
+  {
+    "id": "to_put_do_96",
+    "word": "drawer",
+    "translation": "gaveta",
+    "pronunciation": "/drɔr/",
+    "portuguesePhonetic": "drór",
+    "syllables": [
+      "drawer"
+    ],
+    "exampleSentence": "drawer",
+    "exampleTranslation": "gaveta"
+  },
+  {
+    "id": "to_put_do_97",
+    "word": "bedroom",
+    "translation": "quarto",
+    "pronunciation": "/ˈbɛdˌrum/",
+    "portuguesePhonetic": "béd-rum",
+    "syllables": [
+      "bed",
+      "room"
+    ],
+    "exampleSentence": "bedroom",
+    "exampleTranslation": "quarto"
+  },
+  {
+    "id": "to_put_do_98",
+    "word": "wardrobe",
+    "translation": "guarda-roupa",
+    "pronunciation": "/ˈwɔrdˌroʊb/",
+    "portuguesePhonetic": "uórd-rôub",
+    "syllables": [
+      "ward",
+      "robe"
+    ],
+    "exampleSentence": "wardrobe",
+    "exampleTranslation": "guarda-roupa"
+  },
+  {
+    "id": "to_put_do_99",
+    "word": "suit",
+    "translation": "terno",
+    "pronunciation": "/sut/",
+    "portuguesePhonetic": "sut",
+    "syllables": [
+      "suit"
+    ],
+    "exampleSentence": "suit",
+    "exampleTranslation": "terno"
+  },
+  {
+    "id": "to_put_do_100",
+    "word": "casual clothes",
+    "translation": "roupas casuais",
+    "pronunciation": "/ˈkæʒuəl kloʊðz/",
+    "portuguesePhonetic": "qué-ju-al clôuds",
+    "syllables": [
+      "cas",
+      "u",
+      "al",
+      " clothes"
+    ],
+    "exampleSentence": "casual clothes",
+    "exampleTranslation": "roupas casuais"
+  },
+  {
+    "id": "to_put_do_101",
+    "word": "sneakers",
+    "translation": "tênis",
+    "pronunciation": "/ˈsnikərz/",
+    "portuguesePhonetic": "sní-quers",
+    "syllables": [
+      "sneak",
+      "ers"
+    ],
+    "exampleSentence": "sneakers",
+    "exampleTranslation": "tênis"
+  },
+  {
+    "id": "to_put_do_102",
+    "word": "jeans",
+    "translation": "calça jeans",
+    "pronunciation": "/dʒinz/",
+    "portuguesePhonetic": "djins",
+    "syllables": [
+      "jeans"
+    ],
+    "exampleSentence": "jeans",
+    "exampleTranslation": "calça jeans"
+  },
+  {
+    "id": "to_put_do_103",
+    "word": "closet",
+    "translation": "armário",
+    "pronunciation": "/ˈklɑzɪt/",
+    "portuguesePhonetic": "cló-zit",
+    "syllables": [
+      "clos",
+      "et"
+    ],
+    "exampleSentence": "closet",
+    "exampleTranslation": "armário"
+  },
+  {
+    "id": "to_put_do_104",
+    "word": "coffee table",
+    "translation": "mesa de centro",
+    "pronunciation": "/ˈkɔfi ˈteɪbəl/",
+    "portuguesePhonetic": "có-fi têi-bol",
+    "syllables": [
+      "cof",
+      "fee",
+      " ta",
+      "ble"
+    ],
+    "exampleSentence": "coffee table",
+    "exampleTranslation": "mesa de centro"
+  },
+  {
+    "id": "to_put_do_105",
+    "word": "under",
+    "translation": "embaixo de",
+    "pronunciation": "/ˈʌndər/",
+    "portuguesePhonetic": "ân-der",
+    "syllables": [
+      "un",
+      "der"
+    ],
+    "exampleSentence": "under",
+    "exampleTranslation": "embaixo de"
+  },
+  {
+    "id": "to_put_do_106",
+    "word": "on",
+    "translation": "em cima de",
+    "pronunciation": "/ɑn/",
+    "portuguesePhonetic": "an",
+    "syllables": [
+      "on"
+    ],
+    "exampleSentence": "on",
+    "exampleTranslation": "em cima de"
+  },
+  {
+    "id": "to_put_do_107",
+    "word": "ready",
+    "translation": "pronto",
+    "pronunciation": "/ˈrɛdi/",
+    "portuguesePhonetic": "ré-di",
+    "syllables": [
+      "read",
+      "y"
+    ],
+    "exampleSentence": "ready",
+    "exampleTranslation": "pronto"
+  },
+  {
+    "id": "to_put_do_108",
+    "word": "put on",
+    "translation": "colocar / vestir",
+    "pronunciation": "/pʊt ɑn/",
+    "portuguesePhonetic": "put an",
+    "syllables": [
+      "put",
+      " on"
+    ],
+    "exampleSentence": "put on",
+    "exampleTranslation": "colocar / vestir"
+  },
+  {
+    "id": "to_put_do_109",
+    "word": "homework",
+    "translation": "lição de casa",
+    "pronunciation": "/ˈhoʊmˌwɜrk/",
+    "portuguesePhonetic": "rôum-uãrk",
+    "syllables": [
+      "home",
+      "work"
+    ],
+    "exampleSentence": "homework",
+    "exampleTranslation": "lição de casa"
+  },
+  {
+    "id": "to_put_do_110",
+    "word": "get ready",
+    "translation": "arrumar-se",
+    "pronunciation": "/ɡɛt ˈrɛdi/",
+    "portuguesePhonetic": "gét ré-di",
+    "syllables": [
+      "get",
+      " read",
+      "y"
+    ],
+    "exampleSentence": "get ready",
+    "exampleTranslation": "arrumar-se"
+  },
+  {
+    "id": "to_put_do_111",
+    "word": "wallet",
+    "translation": "carteira",
+    "pronunciation": "/ˈwɔlɪt/",
+    "portuguesePhonetic": "uó-lit",
+    "syllables": [
+      "wal",
+      "let"
+    ],
+    "exampleSentence": "wallet",
+    "exampleTranslation": "carteira"
+  },
+  {
+    "id": "to_put_do_112",
+    "word": "purse",
+    "translation": "bolsa",
+    "pronunciation": "/pɜrs/",
+    "portuguesePhonetic": "pãrs",
+    "syllables": [
+      "purse"
+    ],
+    "exampleSentence": "purse",
+    "exampleTranslation": "bolsa"
+  },
+  {
+    "id": "to_put_do_113",
+    "word": "on vacation",
+    "translation": "de férias",
+    "pronunciation": "/ɑn veɪˈkeɪʃən/",
+    "portuguesePhonetic": "an vêi-quêi-xân",
+    "syllables": [
+      "on",
+      " va",
+      "ca",
+      "tion"
+    ],
+    "exampleSentence": "on vacation",
+    "exampleTranslation": "de férias"
+  },
+  {
+    "id": "to_put_do_114",
+    "word": "outfit",
+    "translation": "roupa / visual",
+    "pronunciation": "/ˈaʊtfɪt/",
+    "portuguesePhonetic": "áut-fit",
+    "syllables": [
+      "out",
+      "fit"
+    ],
+    "exampleSentence": "outfit",
+    "exampleTranslation": "roupa / visual"
+  },
+  {
+    "id": "to_put_do_115",
+    "word": "fitting room",
+    "translation": "provador",
+    "pronunciation": "/ˈfɪtɪŋ rum/",
+    "portuguesePhonetic": "fí-tin rum",
+    "syllables": [
+      "fit",
+      "ting",
+      " room"
+    ],
+    "exampleSentence": "fitting room",
+    "exampleTranslation": "provador"
+  },
+  {
+    "id": "to_put_do_116",
+    "word": "purple dress",
+    "translation": "vestido roxo",
+    "pronunciation": "/ˈpɜrpəl drɛs/",
+    "portuguesePhonetic": "pãr-pol drés",
+    "syllables": [
+      "pur",
+      "ple",
+      " dress"
+    ],
+    "exampleSentence": "purple dress",
+    "exampleTranslation": "vestido roxo"
+  },
+  {
+    "id": "to_put_do_117",
+    "word": "e-mail",
+    "translation": "e-mail",
+    "pronunciation": "/ˈiˌmeɪl/",
+    "portuguesePhonetic": "í-mêil",
+    "syllables": [
+      "e",
+      "-",
+      "mail"
+    ],
+    "exampleSentence": "e-mail",
+    "exampleTranslation": "e-mail"
+  },
+  {
+    "id": "to_put_do_118",
+    "word": "comfortable",
+    "translation": "confortável",
+    "pronunciation": "/ˈkʌmfərtəbəl/",
+    "portuguesePhonetic": "câm-for-ta-bol",
+    "syllables": [
+      "com",
+      "fort",
+      "a",
+      "ble"
+    ],
+    "exampleSentence": "comfortable",
+    "exampleTranslation": "confortável"
+  },
+  {
+    "id": "to_put_do_119",
+    "word": "shelf",
+    "translation": "prateleira",
+    "pronunciation": "/ʃɛlf/",
+    "portuguesePhonetic": "xélf",
+    "syllables": [
+      "shelf"
+    ],
+    "exampleSentence": "shelf",
+    "exampleTranslation": "prateleira"
+  },
+  {
+    "id": "to_put_do_120",
+    "word": "small",
+    "translation": "pequeno",
+    "pronunciation": "/smɔl/",
+    "portuguesePhonetic": "smól",
+    "syllables": [
+      "small"
+    ],
+    "exampleSentence": "small",
+    "exampleTranslation": "pequeno"
+  },
+  {
+    "id": "to_put_do_121",
+    "word": "between",
+    "translation": "entre",
+    "pronunciation": "/bɪˈtwin/",
+    "portuguesePhonetic": "bi-tuín",
+    "syllables": [
+      "be",
+      "tween"
+    ],
+    "exampleSentence": "between",
+    "exampleTranslation": "entre"
+  },
+  {
+    "id": "to_put_do_122",
+    "word": "forks",
+    "translation": "garfos",
+    "pronunciation": "/fɔrks/",
+    "portuguesePhonetic": "fórcs",
+    "syllables": [
+      "forks"
+    ],
+    "exampleSentence": "forks",
+    "exampleTranslation": "garfos"
+  },
+  {
+    "id": "to_put_do_123",
+    "word": "spoons",
+    "translation": "colheres",
+    "pronunciation": "/spunz/",
+    "portuguesePhonetic": "spuns",
+    "syllables": [
+      "spoons"
+    ],
+    "exampleSentence": "spoons",
+    "exampleTranslation": "colheres"
+  },
+  {
+    "id": "to_put_do_124",
+    "word": "knives",
+    "translation": "facas",
+    "pronunciation": "/naɪvz/",
+    "portuguesePhonetic": "naivz",
+    "syllables": [
+      "knives"
+    ],
+    "exampleSentence": "knives",
+    "exampleTranslation": "facas"
+  },
+  {
+    "id": "to_put_do_125",
+    "word": "dishes",
+    "translation": "louça",
+    "pronunciation": "/ˈdɪʃəz/",
+    "portuguesePhonetic": "dí-xiz",
+    "syllables": [
+      "dish",
+      "es"
+    ],
+    "exampleSentence": "dishes",
+    "exampleTranslation": "louça"
+  },
+  {
+    "id": "to_put_do_126",
+    "word": "laundry",
+    "translation": "roupas para lavar / lavanderia",
+    "pronunciation": "/ˈlɔndri/",
+    "portuguesePhonetic": "lón-dri",
+    "syllables": [
+      "laun",
+      "dry"
+    ],
+    "exampleSentence": "laundry",
+    "exampleTranslation": "roupas para lavar / lavanderia"
+  },
+  {
+    "id": "to_put_do_127",
+    "word": "weekends",
+    "translation": "fins de semana",
+    "pronunciation": "/ˈwikˌɛnd/",
+    "portuguesePhonetic": "uíc-énd",
+    "syllables": [
+      "week",
+      "ends"
+    ],
+    "exampleSentence": "weekends",
+    "exampleTranslation": "fins de semana"
+  },
+  {
+    "id": "to_put_do_128",
+    "word": "organized",
+    "translation": "organizado(a)",
+    "pronunciation": "/ˈɔrɡəˌnaɪzd/",
+    "portuguesePhonetic": "ór-ga-naizd",
+    "syllables": [
+      "or",
+      "gan",
+      "ized"
+    ],
+    "exampleSentence": "organized",
+    "exampleTranslation": "organizado(a)"
+  }
+]

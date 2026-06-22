@@ -1,0 +1,866 @@
+[
+  {
+    "id": "lesson_5_1",
+    "word": "to prefer",
+    "translation": "preferir",
+    "pronunciation": "/tu prɪˈfɜr/",
+    "portuguesePhonetic": "tchu pri-fãr",
+    "syllables": [
+      "to",
+      " pre",
+      "fer"
+    ],
+    "exampleSentence": "to prefer",
+    "exampleTranslation": "preferir"
+  },
+  {
+    "id": "lesson_5_2",
+    "word": "to love",
+    "translation": "amar, adorar",
+    "pronunciation": "/tu lʌv/",
+    "portuguesePhonetic": "tchu lâv",
+    "syllables": [
+      "to",
+      " love"
+    ],
+    "exampleSentence": "to love",
+    "exampleTranslation": "amar, adorar"
+  },
+  {
+    "id": "lesson_5_3",
+    "word": "beef",
+    "translation": "carne bovina",
+    "pronunciation": "/bif/",
+    "portuguesePhonetic": "bif",
+    "syllables": [
+      "beef"
+    ],
+    "exampleSentence": "beef",
+    "exampleTranslation": "carne bovina"
+  },
+  {
+    "id": "lesson_5_4",
+    "word": "chicken",
+    "translation": "frango",
+    "pronunciation": "/ˈtʃɪkən/",
+    "portuguesePhonetic": "tchí-quen",
+    "syllables": [
+      "chick",
+      "en"
+    ],
+    "exampleSentence": "chicken",
+    "exampleTranslation": "frango"
+  },
+  {
+    "id": "lesson_5_5",
+    "word": "fish",
+    "translation": "peixe",
+    "pronunciation": "/fɪʃ/",
+    "portuguesePhonetic": "fix",
+    "syllables": [
+      "fish"
+    ],
+    "exampleSentence": "fish",
+    "exampleTranslation": "peixe"
+  },
+  {
+    "id": "lesson_5_6",
+    "word": "bacon",
+    "translation": "bacon",
+    "pronunciation": "/ˈbeɪkən/",
+    "portuguesePhonetic": "bêi-con",
+    "syllables": [
+      "ba",
+      "con"
+    ],
+    "exampleSentence": "bacon",
+    "exampleTranslation": "bacon"
+  },
+  {
+    "id": "lesson_5_7",
+    "word": "sausage",
+    "translation": "linguiça, salsicha",
+    "pronunciation": "/ˈsɔsɪdʒ/",
+    "portuguesePhonetic": "só-sidj",
+    "syllables": [
+      "sau",
+      "sage"
+    ],
+    "exampleSentence": "sausage",
+    "exampleTranslation": "linguiça, salsicha"
+  },
+  {
+    "id": "lesson_5_8",
+    "word": "tomato",
+    "translation": "tomate",
+    "pronunciation": "/təˈmeɪtoʊ/",
+    "portuguesePhonetic": "tchu-mêi-tou",
+    "syllables": [
+      "to",
+      "ma",
+      "to"
+    ],
+    "exampleSentence": "tomato",
+    "exampleTranslation": "tomate"
+  },
+  {
+    "id": "lesson_5_9",
+    "word": "rice",
+    "translation": "arroz",
+    "pronunciation": "/raɪs/",
+    "portuguesePhonetic": "rais",
+    "syllables": [
+      "rice"
+    ],
+    "exampleSentence": "rice",
+    "exampleTranslation": "arroz"
+  },
+  {
+    "id": "lesson_5_10",
+    "word": "beans",
+    "translation": "feijão",
+    "pronunciation": "/binz/",
+    "portuguesePhonetic": "bins",
+    "syllables": [
+      "beans"
+    ],
+    "exampleSentence": "beans",
+    "exampleTranslation": "feijão"
+  },
+  {
+    "id": "lesson_5_11",
+    "word": "French fries",
+    "translation": "batatas fritas",
+    "pronunciation": "/frɛntʃ fraɪz/",
+    "portuguesePhonetic": "frentch frais",
+    "syllables": [
+      "French",
+      " fries"
+    ],
+    "exampleSentence": "French fries",
+    "exampleTranslation": "batatas fritas"
+  },
+  {
+    "id": "lesson_5_12",
+    "word": "sandwich",
+    "translation": "sanduíche",
+    "pronunciation": "/ˈsændwɪtʃ/",
+    "portuguesePhonetic": "sénd-uitch",
+    "syllables": [
+      "sand",
+      "wich"
+    ],
+    "exampleSentence": "sandwich",
+    "exampleTranslation": "sanduíche"
+  },
+  {
+    "id": "lesson_5_13",
+    "word": "salad",
+    "translation": "salada",
+    "pronunciation": "/ˈsæləd/",
+    "portuguesePhonetic": "sé-lad",
+    "syllables": [
+      "sal",
+      "ad"
+    ],
+    "exampleSentence": "salad",
+    "exampleTranslation": "salada"
+  },
+  {
+    "id": "lesson_5_14",
+    "word": "vegetables",
+    "translation": "legumes, verduras",
+    "pronunciation": "/ˈvɛdʒtəbəlz/",
+    "portuguesePhonetic": "védj-ta-bols",
+    "syllables": [
+      "veg",
+      "e",
+      "ta",
+      "bles"
+    ],
+    "exampleSentence": "vegetables",
+    "exampleTranslation": "legumes, verduras"
+  },
+  {
+    "id": "lesson_5_15",
+    "word": "soda",
+    "translation": "refrigerante",
+    "pronunciation": "/ˈsoʊdə/",
+    "portuguesePhonetic": "sôu-da",
+    "syllables": [
+      "so",
+      "da"
+    ],
+    "exampleSentence": "soda",
+    "exampleTranslation": "refrigerante"
+  },
+  {
+    "id": "lesson_5_16",
+    "word": "or",
+    "translation": "ou",
+    "pronunciation": "/ɔr/",
+    "portuguesePhonetic": "or",
+    "syllables": [
+      "or"
+    ],
+    "exampleSentence": "or",
+    "exampleTranslation": "ou"
+  },
+  {
+    "id": "lesson_5_17",
+    "word": "what",
+    "translation": "o que, qual",
+    "pronunciation": "/wʌt/",
+    "portuguesePhonetic": "uát",
+    "syllables": [
+      "what"
+    ],
+    "exampleSentence": "what",
+    "exampleTranslation": "o que, qual"
+  },
+  {
+    "id": "lesson_5_18",
+    "word": "I want a glass of water, please.",
+    "translation": "Eu quero um copo de água, por favor.",
+    "pronunciation": "/aɪ wɑnt ə ɡlæs ʌv ˈwɔtər, pliz./",
+    "portuguesePhonetic": "ai uánt a glés ov uó-ter, pliz.",
+    "syllables": [
+      "I",
+      " want",
+      " a",
+      " glass",
+      " of",
+      " wa",
+      "ter,",
+      " please."
+    ],
+    "exampleSentence": "I want a glass of water, please.",
+    "exampleTranslation": "Eu quero um copo de água, por favor."
+  },
+  {
+    "id": "lesson_5_19",
+    "word": "I want a cup of tea.",
+    "translation": "Eu quero uma xícara de chá.",
+    "pronunciation": "/aɪ wɑnt ə kʌp ʌv ti./",
+    "portuguesePhonetic": "ai uánt a câp ov tchi.",
+    "syllables": [
+      "I",
+      " want",
+      " a",
+      " cup",
+      " of",
+      " tea."
+    ],
+    "exampleSentence": "I want a cup of tea.",
+    "exampleTranslation": "Eu quero uma xícara de chá."
+  },
+  {
+    "id": "lesson_5_20",
+    "word": "I eat rice and beans for lunch.",
+    "translation": "Eu como arroz e feijão no almoço.",
+    "pronunciation": "/aɪ it raɪs ænd bɪnz fɔr lʌntʃ./",
+    "portuguesePhonetic": "ai ít rais énd bins for lântch.",
+    "syllables": [
+      "I",
+      " eat",
+      " rice",
+      " and",
+      " beans",
+      " for",
+      " lunch."
+    ],
+    "exampleSentence": "I eat rice and beans for lunch.",
+    "exampleTranslation": "Eu como arroz e feijão no almoço."
+  },
+  {
+    "id": "lesson_5_21",
+    "word": "I prefer to eat fish for dinner.",
+    "translation": "Eu prefiro comer peixe no jantar.",
+    "pronunciation": "/aɪ prɪˈfɜr tu it fɪʃ fɔr ˈdɪnər./",
+    "portuguesePhonetic": "ai pri-fãr tchu ít fix for dín-ner.",
+    "syllables": [
+      "I",
+      " pre",
+      "fer",
+      " to",
+      " eat",
+      " fish",
+      " for",
+      " din",
+      "ner."
+    ],
+    "exampleSentence": "I prefer to eat fish for dinner.",
+    "exampleTranslation": "Eu prefiro comer peixe no jantar."
+  },
+  {
+    "id": "lesson_5_22",
+    "word": "Do you eat fish?",
+    "translation": "Você come peixe?",
+    "pronunciation": "/du ju it fɪʃ?/",
+    "portuguesePhonetic": "du iu ít fix?",
+    "syllables": [
+      "Do",
+      " you",
+      " eat",
+      " fish?"
+    ],
+    "exampleSentence": "Do you eat fish?",
+    "exampleTranslation": "Você come peixe?"
+  },
+  {
+    "id": "lesson_5_23",
+    "word": "Do you want to eat French fries?",
+    "translation": "Você quer comer batatas fritas?",
+    "pronunciation": "/du ju wɑnt tu it frɛntʃ fraɪz?/",
+    "portuguesePhonetic": "du iu uánt tchu ít frentch frais?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " eat",
+      " French",
+      " fries?"
+    ],
+    "exampleSentence": "Do you want to eat French fries?",
+    "exampleTranslation": "Você quer comer batatas fritas?"
+  },
+  {
+    "id": "lesson_5_24",
+    "word": "Do you eat bread for breakfast?",
+    "translation": "Você come pão no café da manhã?",
+    "pronunciation": "/du ju it brɛd fɔr ˈbrɛkfəst?/",
+    "portuguesePhonetic": "du iu ít bréd for bréc-fast?",
+    "syllables": [
+      "Do",
+      " you",
+      " eat",
+      " bread",
+      " for",
+      " break",
+      "fast?"
+    ],
+    "exampleSentence": "Do you eat bread for breakfast?",
+    "exampleTranslation": "Você come pão no café da manhã?"
+  },
+  {
+    "id": "lesson_5_25",
+    "word": "What do you eat for dinner?",
+    "translation": "O que você come no jantar?",
+    "pronunciation": "/wʌt du ju it fɔr ˈdɪnər?/",
+    "portuguesePhonetic": "uát du iu ít for dín-ner?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " eat",
+      " for",
+      " din",
+      "ner?"
+    ],
+    "exampleSentence": "What do you eat for dinner?",
+    "exampleTranslation": "O que você come no jantar?"
+  },
+  {
+    "id": "lesson_5_26",
+    "word": "What do you want to drink?",
+    "translation": "O que você quer beber?",
+    "pronunciation": "/wʌt du ju wɑnt tu drɪŋk?/",
+    "portuguesePhonetic": "uát du iu uánt tchu drínc?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " want",
+      " to",
+      " drink?"
+    ],
+    "exampleSentence": "What do you want to drink?",
+    "exampleTranslation": "O que você quer beber?"
+  },
+  {
+    "id": "lesson_5_27",
+    "word": "What do you like to eat?",
+    "translation": "O que você gosta de comer?",
+    "pronunciation": "/wʌt du ju laɪk tu it?/",
+    "portuguesePhonetic": "uát du iu laic tchu ít?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " like",
+      " to",
+      " eat?"
+    ],
+    "exampleSentence": "What do you like to eat?",
+    "exampleTranslation": "O que você gosta de comer?"
+  },
+  {
+    "id": "lesson_5_28",
+    "word": "I prefer to drink a glass of water.",
+    "translation": "Eu prefiro beber um copo de água.",
+    "pronunciation": "/aɪ prɪˈfɜr tu drɪŋk ə ɡlæs ʌv ˈwɔtər./",
+    "portuguesePhonetic": "ai pri-fãr tchu drínc a glés ov uó-ter.",
+    "syllables": [
+      "I",
+      " pre",
+      "fer",
+      " to",
+      " drink",
+      " a",
+      " glass",
+      " of",
+      " wa",
+      "ter."
+    ],
+    "exampleSentence": "I prefer to drink a glass of water.",
+    "exampleTranslation": "Eu prefiro beber um copo de água."
+  },
+  {
+    "id": "lesson_5_29",
+    "word": "I prefer to eat beef and vegetables.",
+    "translation": "Eu prefiro comer carne e legumes.",
+    "pronunciation": "/aɪ prɪˈfɜr tu it bif ænd ˈvɛdʒtəbəlz./",
+    "portuguesePhonetic": "ai pri-fãr tchu ít bif énd védj-ta-bols.",
+    "syllables": [
+      "I",
+      " pre",
+      "fer",
+      " to",
+      " eat",
+      " beef",
+      " and",
+      " veg",
+      "e",
+      "ta",
+      "bles."
+    ],
+    "exampleSentence": "I prefer to eat beef and vegetables.",
+    "exampleTranslation": "Eu prefiro comer carne e legumes."
+  },
+  {
+    "id": "lesson_5_30",
+    "word": "I prefer juice to soda.",
+    "translation": "Eu prefiro suco a refrigerante.",
+    "pronunciation": "/aɪ prɪˈfɜr dʒus tu ˈsoʊdə./",
+    "portuguesePhonetic": "ai pri-fãr djus tchu sôu-da.",
+    "syllables": [
+      "I",
+      " pre",
+      "fer",
+      " juice",
+      " to",
+      " so",
+      "da."
+    ],
+    "exampleSentence": "I prefer juice to soda.",
+    "exampleTranslation": "Eu prefiro suco a refrigerante."
+  },
+  {
+    "id": "lesson_5_31",
+    "word": "I love French fries.",
+    "translation": "Eu adoro batatas fritas.",
+    "pronunciation": "/aɪ lʌv frɛntʃ fraɪz./",
+    "portuguesePhonetic": "ai lâv frentch frais.",
+    "syllables": [
+      "I",
+      " love",
+      " French",
+      " fries."
+    ],
+    "exampleSentence": "I love French fries.",
+    "exampleTranslation": "Eu adoro batatas fritas."
+  },
+  {
+    "id": "lesson_5_32",
+    "word": "I prefer to eat chicken and salad for lunch.",
+    "translation": "Eu prefiro comer frango e salada no almoço.",
+    "pronunciation": "/aɪ prɪˈfɜr tu it ˈtʃɪkən ænd ˈsæləd fɔr lʌntʃ./",
+    "portuguesePhonetic": "ai pri-fãr tchu ít tchí-quen énd sé-lad for lântch.",
+    "syllables": [
+      "I",
+      " pre",
+      "fer",
+      " to",
+      " eat",
+      " chick",
+      "en",
+      " and",
+      " sal",
+      "ad",
+      " for",
+      " lunch."
+    ],
+    "exampleSentence": "I prefer to eat chicken and salad for lunch.",
+    "exampleTranslation": "Eu prefiro comer frango e salada no almoço."
+  },
+  {
+    "id": "lesson_5_33",
+    "word": "Do you like sausages and bacon?",
+    "translation": "Você gosta de linguiça e bacon?",
+    "pronunciation": "/du ju laɪk ˈsɔsɪdʒəz ænd ˈbeɪkən?/",
+    "portuguesePhonetic": "du iu laic só-si-djez énd bêi-con?",
+    "syllables": [
+      "Do",
+      " you",
+      " like",
+      " sau",
+      "sa",
+      "ges",
+      " and",
+      " ba",
+      "con?"
+    ],
+    "exampleSentence": "Do you like sausages and bacon?",
+    "exampleTranslation": "Você gosta de linguiça e bacon?"
+  },
+  {
+    "id": "lesson_5_34",
+    "word": "Do you want to drink juice?",
+    "translation": "Você quer beber suco?",
+    "pronunciation": "/du ju wɑnt tu drɪŋk dʒus?/",
+    "portuguesePhonetic": "du iu uánt tchu drínc djus?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " drink",
+      " juice?"
+    ],
+    "exampleSentence": "Do you want to drink juice?",
+    "exampleTranslation": "Você quer beber suco?"
+  },
+  {
+    "id": "lesson_5_35",
+    "word": "Do you want to eat fish or beef for dinner?",
+    "translation": "Você quer comer peixe ou carne no jantar?",
+    "pronunciation": "/du ju wɑnt tu eat fɪʃ ɔr bif fɔr ˈdɪnər?/",
+    "portuguesePhonetic": "du iu uánt tchu ít fix or bif for dín-ner?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " eat",
+      " fish",
+      " or",
+      " beef",
+      " for",
+      " din",
+      "ner?"
+    ],
+    "exampleSentence": "Do you want to eat fish or beef for dinner?",
+    "exampleTranslation": "Você quer comer peixe ou carne no jantar."
+  },
+  {
+    "id": "lesson_5_36",
+    "word": "What do you like?",
+    "translation": "Do que você gosta?",
+    "pronunciation": "/wʌt du ju laɪk?/",
+    "portuguesePhonetic": "uát du iu laic?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " like?"
+    ],
+    "exampleSentence": "What do you like?",
+    "exampleTranslation": "Do que você gosta?"
+  },
+  {
+    "id": "lesson_5_37",
+    "word": "What do you want to eat?",
+    "translation": "O que você quer comer?",
+    "pronunciation": "/wʌt du ju wɑnt tu it?/",
+    "portuguesePhonetic": "uát du iu uánt tchu ít?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " want",
+      " to",
+      " eat?"
+    ],
+    "exampleSentence": "What do you want to eat?",
+    "exampleTranslation": "O que você quer comer?"
+  },
+  {
+    "id": "lesson_5_38",
+    "word": "Do you eat beef?",
+    "translation": "Você come carne?",
+    "pronunciation": "/du ju it bif?/",
+    "portuguesePhonetic": "du iu ít bif?",
+    "syllables": [
+      "Do",
+      " you",
+      " eat",
+      " beef?"
+    ],
+    "exampleSentence": "Do you eat beef?",
+    "exampleTranslation": "Você come carne?"
+  },
+  {
+    "id": "lesson_5_39",
+    "word": "Yes, I do.",
+    "translation": "Sim, eu como.",
+    "pronunciation": "/jɛs, aɪ du./",
+    "portuguesePhonetic": "iés, ai du.",
+    "syllables": [
+      "Yes,",
+      " I",
+      " do."
+    ],
+    "exampleSentence": "Yes, I do.",
+    "exampleTranslation": "Sim, eu como."
+  },
+  {
+    "id": "lesson_5_40",
+    "word": "Do you drink soda?",
+    "translation": "Você bebe refrigerante?",
+    "pronunciation": "/du ju drɪŋk ˈsoʊdə?/",
+    "portuguesePhonetic": "du iu drínc sôu-da?",
+    "syllables": [
+      "Do",
+      " you",
+      " drink",
+      " so",
+      "da?"
+    ],
+    "exampleSentence": "Do you drink soda?",
+    "exampleTranslation": "Você bebe refrigerante?"
+  },
+  {
+    "id": "lesson_5_41",
+    "word": "No, I don't.",
+    "translation": "Não, eu não bebo.",
+    "pronunciation": "/noʊ, aɪ doʊnt./",
+    "portuguesePhonetic": "nôu, ai dôunt.",
+    "syllables": [
+      "No,",
+      " I",
+      " don't."
+    ],
+    "exampleSentence": "No, I don't.",
+    "exampleTranslation": "Não, eu não bebo."
+  },
+  {
+    "id": "lesson_5_42",
+    "word": "What do you eat...?",
+    "translation": "O que você come...?",
+    "pronunciation": "/wʌt du ju it...?/",
+    "portuguesePhonetic": "uát du iu ít...",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " eat...?"
+    ],
+    "exampleSentence": "What do you eat...?",
+    "exampleTranslation": "O que você come...?"
+  },
+  {
+    "id": "lesson_5_43",
+    "word": "What do you want to...?",
+    "translation": "O que você quer...?",
+    "pronunciation": "/wʌt du ju wɑnt tu.../",
+    "portuguesePhonetic": "uát du iu uánt tchu...",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " want",
+      " to...?"
+    ],
+    "exampleSentence": "What do you want to...?",
+    "exampleTranslation": "O que você quer...?"
+  },
+  {
+    "id": "lesson_5_44",
+    "word": "What do you like to drink?",
+    "translation": "O que você gosta de beber?",
+    "pronunciation": "/wʌt du ju laɪk tu drɪŋk?/",
+    "portuguesePhonetic": "uát du iu laic tchu drínc?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " like",
+      " to",
+      " drink?"
+    ],
+    "exampleSentence": "What do you like to drink?",
+    "exampleTranslation": "O que você gosta de beber?"
+  },
+  {
+    "id": "lesson_5_45",
+    "word": "vegetable → vegetables",
+    "translation": "legume → legumes",
+    "pronunciation": "/ˈvɛdʒtəbəl → ˈvɛdʒtəbəlz/",
+    "portuguesePhonetic": "védj-ta-bol → védj-ta-bols",
+    "syllables": [
+      "veg",
+      "e",
+      "ta",
+      "ble",
+      " →",
+      " veg",
+      "e",
+      "ta",
+      "bles"
+    ],
+    "exampleSentence": "vegetable → vegetables",
+    "exampleTranslation": "legume → legumes"
+  },
+  {
+    "id": "lesson_5_46",
+    "word": "tomato → tomatoes",
+    "translation": "tomate → tomates",
+    "pronunciation": "/təˈmeɪtoʊ → təˈmeɪtoʊz/",
+    "portuguesePhonetic": "tchu-mêi-tou → tchu-mêi-tous",
+    "syllables": [
+      "to",
+      "ma",
+      "to",
+      " →",
+      " to",
+      "ma",
+      "toes"
+    ],
+    "exampleSentence": "tomato → tomatoes",
+    "exampleTranslation": "tomate → tomates"
+  },
+  {
+    "id": "lesson_5_47",
+    "word": "sandwich → sandwiches",
+    "translation": "sanduíche → sanduíches",
+    "pronunciation": "/ˈsændwɪtʃ → ˈsændwɪtʃəz/",
+    "portuguesePhonetic": "sénd-uitch → sénd-ui-tchez",
+    "syllables": [
+      "sand",
+      "wich",
+      " →",
+      " sand",
+      "wich",
+      "es"
+    ],
+    "exampleSentence": "sandwich → sandwiches",
+    "exampleTranslation": "sanduíche → sanduíches"
+  },
+  {
+    "id": "lesson_5_48",
+    "word": "French fries = fries",
+    "translation": "batatas fritas = fritas (forma abreviada)",
+    "pronunciation": "/frɛntʃ fraɪz ˈequal; fraɪz/",
+    "portuguesePhonetic": "frentch frais i-cual frais",
+    "syllables": [
+      "French",
+      " fries",
+      " =",
+      " fries"
+    ],
+    "exampleSentence": "French fries = fries",
+    "exampleTranslation": "batatas fritas = fritas (forma abreviada)"
+  },
+  {
+    "id": "lesson_5_49",
+    "word": "a glass of water",
+    "translation": "um copo de água",
+    "pronunciation": "/ə ɡlæs ʌv ˈwɔtər/",
+    "portuguesePhonetic": "a glés ov uó-ter",
+    "syllables": [
+      "a",
+      " glass",
+      " of",
+      " wa",
+      "ter"
+    ],
+    "exampleSentence": "a glass of water",
+    "exampleTranslation": "um copo de água"
+  },
+  {
+    "id": "lesson_5_50",
+    "word": "a cup of tea",
+    "translation": "uma xícara de chá",
+    "pronunciation": "/ə kʌp ʌv ti/",
+    "portuguesePhonetic": "a câp ov tchi",
+    "syllables": [
+      "a",
+      " cup",
+      " of",
+      " tea"
+    ],
+    "exampleSentence": "a cup of tea",
+    "exampleTranslation": "uma xícara de chá"
+  },
+  {
+    "id": "lesson_5_51",
+    "word": "for lunch",
+    "translation": "no almoço",
+    "pronunciation": "/fɔr lʌntʃ/",
+    "portuguesePhonetic": "for lântch",
+    "syllables": [
+      "for",
+      " lunch"
+    ],
+    "exampleSentence": "for lunch",
+    "exampleTranslation": "no almoço"
+  },
+  {
+    "id": "lesson_5_52",
+    "word": "for dinner",
+    "translation": "no jantar",
+    "pronunciation": "/fɔr ˈdɪnər/",
+    "portuguesePhonetic": "for dín-ner",
+    "syllables": [
+      "for",
+      " din",
+      "ner"
+    ],
+    "exampleSentence": "for dinner",
+    "exampleTranslation": "no jantar"
+  },
+  {
+    "id": "lesson_5_53",
+    "word": "for breakfast",
+    "translation": "no café da manhã",
+    "pronunciation": "/fɔr ˈbrɛkfəst/",
+    "portuguesePhonetic": "for bréc-fast",
+    "syllables": [
+      "for",
+      " break",
+      "fast"
+    ],
+    "exampleSentence": "for breakfast",
+    "exampleTranslation": "no café da manhã"
+  },
+  {
+    "id": "lesson_5_54",
+    "word": "juice or soda",
+    "translation": "suco ou refrigerante",
+    "pronunciation": "/dʒus ɔr ˈsoʊdə/",
+    "portuguesePhonetic": "djus or sôu-da",
+    "syllables": [
+      "juice",
+      " or",
+      " so",
+      "da"
+    ],
+    "exampleSentence": "juice or soda",
+    "exampleTranslation": "suco ou refrigerante"
+  },
+  {
+    "id": "lesson_5_55",
+    "word": "fish or beef",
+    "translation": "peixe ou carne bovina",
+    "pronunciation": "/fɪʃ ɔr bif/",
+    "portuguesePhonetic": "fix or bif",
+    "syllables": [
+      "fish",
+      " or",
+      " beef"
+    ],
+    "exampleSentence": "fish or beef",
+    "exampleTranslation": "peixe ou carne bovina"
+  }
+]

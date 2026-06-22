@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "to_spend_travel_1",
+    "word": "to spend",
+    "translation": "gastar, passar",
+    "pronunciation": "/tu spɛnd/",
+    "portuguesePhonetic": "tchu spénd",
+    "syllables": [
+      "to",
+      " spend"
+    ],
+    "exampleSentence": "to spend",
+    "exampleTranslation": "gastar, passar"
+  },
+  {
+    "id": "to_spend_travel_2",
+    "word": "to travel",
+    "translation": "viajar",
+    "pronunciation": "/tu ˈtrævəl/",
+    "portuguesePhonetic": "tchu tré-vol",
+    "syllables": [
+      "to",
+      " trav",
+      "el"
+    ],
+    "exampleSentence": "to travel",
+    "exampleTranslation": "viajar"
+  },
+  {
+    "id": "to_spend_travel_3",
+    "word": "destination",
+    "translation": "destino",
+    "pronunciation": "/ˌdɛstəˈneɪʃən/",
+    "portuguesePhonetic": "des-ti-nêi-xân",
+    "syllables": [
+      "des",
+      "ti",
+      "na",
+      "tion"
+    ],
+    "exampleSentence": "destination",
+    "exampleTranslation": "destino"
+  },
+  {
+    "id": "to_spend_travel_4",
+    "word": "tourist",
+    "translation": "turista",
+    "pronunciation": "/ˈtʊrəst/",
+    "portuguesePhonetic": "tú-rist",
+    "syllables": [
+      "tour",
+      "ist"
+    ],
+    "exampleSentence": "tourist",
+    "exampleTranslation": "turista"
+  },
+  {
+    "id": "to_spend_travel_5",
+    "word": "passenger",
+    "translation": "passageiro(a)",
+    "pronunciation": "/ˈpæsəndʒər/",
+    "portuguesePhonetic": "pé-sen-djer",
+    "syllables": [
+      "pas",
+      "sen",
+      "ger"
+    ],
+    "exampleSentence": "passenger",
+    "exampleTranslation": "passageiro(a)"
+  },
+  {
+    "id": "to_spend_travel_6",
+    "word": "suitcase",
+    "translation": "mala, maleta",
+    "pronunciation": "/ˈsutˌkeɪs/",
+    "portuguesePhonetic": "sút-quêis",
+    "syllables": [
+      "suit",
+      "case"
+    ],
+    "exampleSentence": "suitcase",
+    "exampleTranslation": "mala, maleta"
+  },
+  {
+    "id": "to_spend_travel_7",
+    "word": "luggage",
+    "translation": "bagagem",
+    "pronunciation": "/ˈlʌɡɪdʒ/",
+    "portuguesePhonetic": "lâ-guidj",
+    "syllables": [
+      "lug",
+      "gage"
+    ],
+    "exampleSentence": "luggage",
+    "exampleTranslation": "bagagem"
+  },
+  {
+    "id": "to_spend_travel_8",
+    "word": "tag",
+    "translation": "etiqueta",
+    "pronunciation": "/tæɡ/",
+    "portuguesePhonetic": "tég",
+    "syllables": [
+      "tag"
+    ],
+    "exampleSentence": "tag",
+    "exampleTranslation": "etiqueta"
+  },
+  {
+    "id": "to_spend_travel_9",
+    "word": "travel agent",
+    "translation": "agente de viagem",
+    "pronunciation": "/ˈtrævəl ˈeɪdʒənt/",
+    "portuguesePhonetic": "tré-vol êi-djent",
+    "syllables": [
+      "trav",
+      "el",
+      " a",
+      "gent"
+    ],
+    "exampleSentence": "travel agent",
+    "exampleTranslation": "agente de viagem"
+  },
+  {
+    "id": "to_spend_travel_10",
+    "word": "package",
+    "translation": "pacote",
+    "pronunciation": "/ˈpækɪdʒ/",
+    "portuguesePhonetic": "pé-quidj",
+    "syllables": [
+      "pack",
+      "age"
+    ],
+    "exampleSentence": "package",
+    "exampleTranslation": "pacote"
+  },
+  {
+    "id": "to_spend_travel_11",
+    "word": "tour",
+    "translation": "tour, excursão",
+    "pronunciation": "/tʊr/",
+    "portuguesePhonetic": "tur",
+    "syllables": [
+      "tour"
+    ],
+    "exampleSentence": "tour",
+    "exampleTranslation": "tour, excursão"
+  },
+  {
+    "id": "to_spend_travel_12",
+    "word": "attraction",
+    "translation": "atração",
+    "pronunciation": "/əˈtrækʃən/",
+    "portuguesePhonetic": "a-tréc-xân",
+    "syllables": [
+      "at",
+      "trac",
+      "tion"
+    ],
+    "exampleSentence": "attraction",
+    "exampleTranslation": "atração"
+  },
+  {
+    "id": "to_spend_travel_13",
+    "word": "resort",
+    "translation": "resort",
+    "pronunciation": "/rɪˈzɔrt/",
+    "portuguesePhonetic": "ri-zórt",
+    "syllables": [
+      "re",
+      "sort"
+    ],
+    "exampleSentence": "resort",
+    "exampleTranslation": "resort"
+  },
+  {
+    "id": "to_spend_travel_14",
+    "word": "plane",
+    "translation": "avião",
+    "pronunciation": "/pleɪn/",
+    "portuguesePhonetic": "plêin",
+    "syllables": [
+      "plane"
+    ],
+    "exampleSentence": "plane",
+    "exampleTranslation": "avião"
+  },
+  {
+    "id": "to_spend_travel_15",
+    "word": "leisure",
+    "translation": "lazer",
+    "pronunciation": "/ˈliʒər/",
+    "portuguesePhonetic": "lí-jer",
+    "syllables": [
+      "lei",
+      "sure"
+    ],
+    "exampleSentence": "leisure",
+    "exampleTranslation": "lazer"
+  },
+  {
+    "id": "to_spend_travel_16",
+    "word": "dangerous",
+    "translation": "perigoso(a)",
+    "pronunciation": "/ˈdeɪndʒərəs/",
+    "portuguesePhonetic": "dêin-dje-râs",
+    "syllables": [
+      "dan",
+      "ger",
+      "ous"
+    ],
+    "exampleSentence": "dangerous",
+    "exampleTranslation": "perigoso(a)"
+  },
+  {
+    "id": "to_spend_travel_17",
+    "word": "safe",
+    "translation": "seguro(a)",
+    "pronunciation": "/seɪf/",
+    "portuguesePhonetic": "sêif",
+    "syllables": [
+      "safe"
+    ],
+    "exampleSentence": "safe",
+    "exampleTranslation": "seguro(a)"
+  },
+  {
+    "id": "to_spend_travel_18",
+    "word": "Where's the baggage claim?",
+    "translation": "Onde é a esteira de bagagem?",
+    "pronunciation": "/wɛrz ðə ˈbæɡɪdʒ kleɪm?/",
+    "portuguesePhonetic": "uérs dâ bé-guidj clêim?",
+    "syllables": [
+      "Where's",
+      " the",
+      " bag",
+      "gage",
+      " claim?"
+    ],
+    "exampleSentence": "Where's the baggage claim?",
+    "exampleTranslation": "Onde é a esteira de bagagem?"
+  },
+  {
+    "id": "to_spend_travel_19",
+    "word": "I want to go on a cruise on vacation.",
+    "translation": "Eu quero fazer um cruzeiro nas minhas férias.",
+    "pronunciation": "/aɪ wɑnt tu ɡoʊ ɑn ə kruz ɑn veɪˈkeɪʃən./",
+    "portuguesePhonetic": "ai uónt tchu gôu an a crus an vêi-quêi-xân.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " go",
+      " on",
+      " a",
+      " cruise",
+      " on",
+      " va",
+      "ca",
+      "tion."
+    ],
+    "exampleSentence": "I want to go on a cruise on vacation.",
+    "exampleTranslation": "Eu quero fazer um cruzeiro nas minhas férias."
+  },
+  {
+    "id": "to_spend_travel_20",
+    "word": "I love to go sightseeing.",
+    "translation": "Eu adoro visitar pontos turísticos.",
+    "pronunciation": "/aɪ lʌv tu ɡoʊ ˈsaɪtˌsiɪŋ./",
+    "portuguesePhonetic": "ai lâv tchu gôu sait-sí-in.",
+    "syllables": [
+      "I",
+      " love",
+      " to",
+      " go",
+      " sight",
+      "see",
+      "ing."
+    ],
+    "exampleSentence": "I love to go sightseeing.",
+    "exampleTranslation": "Eu adoro visitar pontos turísticos."
+  },
+  {
+    "id": "to_spend_travel_21",
+    "word": "I want to take a lot of pictures!",
+    "translation": "Eu quero tirar muitas fotos!",
+    "pronunciation": "/aɪ wɑnt tu teɪk ə lɑt ʌv ˈpɪktʃərz!/",
+    "portuguesePhonetic": "ai uónt tchu têic a lót âv píc-tchârs!",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " take",
+      " a",
+      " lot",
+      " of",
+      " pic",
+      "tures!"
+    ],
+    "exampleSentence": "I want to take a lot of pictures!",
+    "exampleTranslation": "Eu quero tirar muitas fotos!"
+  },
+  {
+    "id": "to_spend_travel_22",
+    "word": "Can you call the travel agent today?",
+    "translation": "Você pode ligar para o agente de viagem hoje?",
+    "pronunciation": "/kæn ju kɔl ðə ˈtrævəl ˈeɪdʒənt təˈdeɪ?/",
+    "portuguesePhonetic": "quén iu cól dâ tré-vol êi-djent tchu-dêi?",
+    "syllables": [
+      "Can",
+      " you",
+      " call",
+      " the",
+      " trav",
+      "el",
+      " a",
+      "gent",
+      " to",
+      "day?"
+    ],
+    "exampleSentence": "Can you call the travel agent today?",
+    "exampleTranslation": "Você pode ligar para o agente de viagem hoje?"
+  },
+  {
+    "id": "to_spend_travel_23",
+    "word": "Can you take a picture for me, please?",
+    "translation": "Você pode tirar uma foto para mim, por favor?",
+    "pronunciation": "/kæn ju teɪk ə ˈpɪktʃər fɔr mi, pliz?/",
+    "portuguesePhonetic": "quén iu têic a píc-tcher fór mi, plis?",
+    "syllables": [
+      "Can",
+      " you",
+      " take",
+      " a",
+      " pic",
+      "ture",
+      " for",
+      " me,",
+      " please?"
+    ],
+    "exampleSentence": "Can you take a picture for me, please?",
+    "exampleTranslation": "Você pode tirar uma foto para mim, por favor?"
+  },
+  {
+    "id": "to_spend_travel_24",
+    "word": "Can she travel by plane alone?",
+    "translation": "Ela pode viajar de avião sozinha?",
+    "pronunciation": "/kæn ʃi ˈtrævəl baɪ pleɪn əˈloʊn?/",
+    "portuguesePhonetic": "quén xi tré-vol bai plêin a-lôun?",
+    "syllables": [
+      "Can",
+      " she",
+      " trav",
+      "el",
+      " by",
+      " plane",
+      " a",
+      "lone?"
+    ],
+    "exampleSentence": "Can she travel by plane alone?",
+    "exampleTranslation": "Ela pode viajar de avião sozinha?"
+  },
+  {
+    "id": "to_spend_travel_25",
+    "word": "Can they travel on Saturday?",
+    "translation": "Eles podem viajar no sábado?",
+    "pronunciation": "/kæn ðeɪ ˈtrævəl ɑn ˈsætərdeɪ?/",
+    "portuguesePhonetic": "quén dêi tré-vol an sé-ter-dêi?",
+    "syllables": [
+      "Can",
+      " they",
+      " trav",
+      "el",
+      " on",
+      " Sat",
+      "ur",
+      "day?"
+    ],
+    "exampleSentence": "Can they travel on Saturday?",
+    "exampleTranslation": "Eles podem viajar no sábado?"
+  },
+  {
+    "id": "to_spend_travel_26",
+    "word": "Can we go on this tour?",
+    "translation": "Nós podemos ir a essa excursão?",
+    "pronunciation": "/kæn wi ɡoʊ ɑn ðɪs tʊr?/",
+    "portuguesePhonetic": "quén uí gôu an dís tur?",
+    "syllables": [
+      "Can",
+      " we",
+      " go",
+      " on",
+      " this",
+      " tour?"
+    ],
+    "exampleSentence": "Can we go on this tour?",
+    "exampleTranslation": "Nós podemos ir a essa excursão?"
+  },
+  {
+    "id": "to_spend_travel_27",
+    "word": "How many suitcases can you take with you?",
+    "translation": "Quantas malas você pode levar com você?",
+    "pronunciation": "/haʊ ˈmɛni ˈsutˌkesəz kæn ju teɪk wɪð ju?/",
+    "portuguesePhonetic": "ráu mé-ni sút-quêi-sis quén iu têic uid iu?",
+    "syllables": [
+      "How",
+      " ma",
+      "ny",
+      " suit",
+      "cas",
+      "es",
+      " can",
+      " you",
+      " take",
+      " with",
+      " you?"
+    ],
+    "exampleSentence": "How many suitcases can you take with you?",
+    "exampleTranslation": "Quantas malas você pode levar com você?"
+  },
+  {
+    "id": "to_spend_travel_28",
+    "word": "How much can we spend?",
+    "translation": "Quanto nós podemos gastar?",
+    "pronunciation": "/haʊ mʌtʃ kæn wi spɛnd?/",
+    "portuguesePhonetic": "ráu mâtch quén uí spénd?",
+    "syllables": [
+      "How",
+      " much",
+      " can",
+      " we",
+      " spend?"
+    ],
+    "exampleSentence": "How much can we spend?",
+    "exampleTranslation": "Quanto nós podemos gastar?"
+  },
+  {
+    "id": "to_spend_travel_29",
+    "word": "He loves to spend time with his children.",
+    "translation": "Ele ama passar tempo com os filhos dele.",
+    "pronunciation": "/hi lʌvz tu spɛnd taɪm wɪð hɪz ˈtʃɪldrən./",
+    "portuguesePhonetic": "ri lâvs tchu spénd taim uid ris tchil-dren.",
+    "syllables": [
+      "He",
+      " loves",
+      " to",
+      " spend",
+      " time",
+      " with",
+      " his",
+      " chil",
+      "dren."
+    ],
+    "exampleSentence": "He loves to spend time with his children.",
+    "exampleTranslation": "Ele ama passar tempo com os filhos dele."
+  },
+  {
+    "id": "to_spend_travel_30",
+    "word": "She spends her money traveling.",
+    "translation": "Ela gasta o dinheiro dela viajando.",
+    "pronunciation": "/ʃi spɛndz hər ˈmʌni ˈtrævəlɪŋ./",
+    "portuguesePhonetic": "xi spénds rãr mâ-ni tré-ve-lin.",
+    "syllables": [
+      "She",
+      " spends",
+      " her",
+      " mon",
+      "ey",
+      " trav",
+      "el",
+      "ing."
+    ],
+    "exampleSentence": "She spends her money traveling.",
+    "exampleTranslation": "Ela gasta o dinheiro dela viajando."
+  },
+  {
+    "id": "to_spend_travel_31",
+    "word": "He wants to travel to a lot of countries.",
+    "translation": "Ele quer viajar para muitos países.",
+    "pronunciation": "/hi wɑnts tu ˈtrævəl tu ə lɑt ʌv ˈkʌntriz./",
+    "portuguesePhonetic": "ri uóts tchu tré-vol tchu a lót âv cân-tris.",
+    "syllables": [
+      "He",
+      " wants",
+      " to",
+      " trav",
+      "el",
+      " to",
+      " a",
+      " lot",
+      " of",
+      " coun",
+      "tries."
+    ],
+    "exampleSentence": "He wants to travel to a lot of countries.",
+    "exampleTranslation": "Ele quer viajar para muitos países."
+  },
+  {
+    "id": "to_spend_travel_32",
+    "word": "We prefer to travel by plane.",
+    "translation": "Nós preferimos viajar de avião.",
+    "pronunciation": "/wi prɪˈfɜr tu ˈtrævəl baɪ pleɪn./",
+    "portuguesePhonetic": "uí pri-fãr tchu tré-vol bai plêin.",
+    "syllables": [
+      "We",
+      " pre",
+      "fer",
+      " to",
+      " trav",
+      "el",
+      " by",
+      " plane."
+    ],
+    "exampleSentence": "We prefer to travel by plane.",
+    "exampleTranslation": "Nós preferimos viajar de avião."
+  },
+  {
+    "id": "to_spend_travel_33",
+    "word": "We can travel together. What do you think?",
+    "translation": "Nós podemos viajar juntos. O que você acha?",
+    "pronunciation": "/wi kæn ˈtrævəl təˈɡɛðər. wʌt du ju θɪŋk?/",
+    "portuguesePhonetic": "uí quén tré-vol tchu-gué-der. uót du iu thinc?",
+    "syllables": [
+      "We",
+      " can",
+      " trav",
+      "el",
+      " to",
+      "geth",
+      "er.",
+      " What",
+      " do",
+      " you",
+      " think?"
+    ],
+    "exampleSentence": "We can travel together. What do you think?",
+    "exampleTranslation": "Nós podemos viajar juntos. O que você acha?"
+  },
+  {
+    "id": "to_spend_travel_34",
+    "word": "Can you write your name on the tag, please?",
+    "translation": "Você pode escrever seu nome na etiqueta, por favor?",
+    "pronunciation": "/kæn ju raɪt jʊr neɪm ɑn ðə tæɡ, pliz?/",
+    "portuguesePhonetic": "quén iu rait iór nêim an dâ tég, plis?",
+    "syllables": [
+      "Can",
+      " you",
+      " write",
+      " your",
+      " name",
+      " on",
+      " the",
+      " tag,",
+      " please?"
+    ],
+    "exampleSentence": "Can you write your name on the tag, please?",
+    "exampleTranslation": "Você pode escrever seu nome na etiqueta, por favor?"
+  },
+  {
+    "id": "to_spend_travel_35",
+    "word": "Can we go to a different destination?",
+    "translation": "Nós podemos ir para um destino diferente?",
+    "pronunciation": "/kæn wi ɡoʊ tu ə ˈdɪfərənt ˌdɛstəˈneɪʃən?/",
+    "portuguesePhonetic": "quén uí gôu tchu a dí-fe-rent des-ti-nêi-xân?",
+    "syllables": [
+      "Can",
+      " we",
+      " go",
+      " to",
+      " a",
+      " dif",
+      "fer",
+      "ent",
+      " des",
+      "ti",
+      "na",
+      "tion?"
+    ],
+    "exampleSentence": "Can we go to a different destination?",
+    "exampleTranslation": "Nós podemos ir para um destino diferente?"
+  },
+  {
+    "id": "to_spend_travel_36",
+    "word": "Can we go sightseeing today?",
+    "translation": "Nós podemos visitar os pontos turísticos hoje?",
+    "pronunciation": "/kæn wi ɡoʊ ˈsaɪtˌsiɪŋ təˈdeɪ?/",
+    "portuguesePhonetic": "quén uí gôu sait-sí-in tchu-dêi?",
+    "syllables": [
+      "Can",
+      " we",
+      " go",
+      " sight",
+      "see",
+      "ing",
+      " to",
+      "day?"
+    ],
+    "exampleSentence": "Can we go sightseeing today?",
+    "exampleTranslation": "Nós podemos visitar os pontos turísticos hoje?"
+  },
+  {
+    "id": "to_spend_travel_37",
+    "word": "When can you buy the vacation package?",
+    "translation": "Quando você pode comprar o pacote de viagem?",
+    "pronunciation": "/wɛn kæn ju baɪ ðə veɪˈkeɪʃən ˈpækɪdʒ?/",
+    "portuguesePhonetic": "uén quén iu bai dâ vêi-quêi-xân pé-quidj?",
+    "syllables": [
+      "When",
+      " can",
+      " you",
+      " buy",
+      " the",
+      " va",
+      "ca",
+      "tion",
+      " pack",
+      "age?"
+    ],
+    "exampleSentence": "When can you buy the vacation package?",
+    "exampleTranslation": "Quando você pode comprar o pacote de viagem?"
+  },
+  {
+    "id": "to_spend_travel_38",
+    "word": "How many tourists can you take with you on the bus?",
+    "translation": "Quantos turistas você consegue levar com você no ônibus?",
+    "pronunciation": "/haʊ ˈmɛni ˈtʊrəsts kæn ju teɪk wɪð ju ɑn ðə bʌs?/",
+    "portuguesePhonetic": "ráu mé-ni tú-rists quén iu têic uid iu an dâ bâs?",
+    "syllables": [
+      "How",
+      " ma",
+      "ny",
+      " tour",
+      "ists",
+      " can",
+      " you",
+      " take",
+      " with",
+      " you",
+      " on",
+      " the",
+      " bus?"
+    ],
+    "exampleSentence": "How many tourists can you take with you on the bus?",
+    "exampleTranslation": "Quantos turistas você consegue levar com você no ônibus?"
+  },
+  {
+    "id": "to_spend_travel_39",
+    "word": "What time can we go home?",
+    "translation": "Que horas podemos ir para casa?",
+    "pronunciation": "/wʌt taɪm kæn wi ɡoʊ hoʊm?/",
+    "portuguesePhonetic": "uót taim quén uí gôu rôum?",
+    "syllables": [
+      "What",
+      " time",
+      " can",
+      " we",
+      " go",
+      " home?"
+    ],
+    "exampleSentence": "What time can we go home?",
+    "exampleTranslation": "Que horas podemos ir para casa?"
+  },
+  {
+    "id": "to_spend_travel_40",
+    "word": "to travel for leisure",
+    "translation": "viajar a lazer",
+    "pronunciation": "/tu ˈtrævəl fɔr ˈliʒər/",
+    "portuguesePhonetic": "tchu tré-vol fór lí-jer",
+    "syllables": [
+      "to",
+      " trav",
+      "el",
+      " for",
+      " lei",
+      "sure"
+    ],
+    "exampleSentence": "to travel for leisure",
+    "exampleTranslation": "viajar a lazer"
+  },
+  {
+    "id": "to_spend_travel_41",
+    "word": "We travel for leisure every summer.",
+    "translation": "Nós viajamos a lazer todo verão.",
+    "pronunciation": "/wi ˈtrævəl fɔr ˈliʒər ˈɛvəri ˈsʌmər./",
+    "portuguesePhonetic": "uí tré-vol fór lí-jer é-vri sâ-mer.",
+    "syllables": [
+      "We",
+      " are",
+      " trav",
+      "el",
+      "ing",
+      " for",
+      " lei",
+      "sure",
+      " ev",
+      "er",
+      "y",
+      " sum",
+      "mer."
+    ],
+    "exampleSentence": "We travel for leisure every summer.",
+    "exampleTranslation": "Nós viajamos a lazer todo verão."
+  },
+  {
+    "id": "to_spend_travel_42",
+    "word": "to travel on business",
+    "translation": "viajar a trabalho",
+    "pronunciation": "/tu ˈtrævəl ɑn ˈbɪznəs/",
+    "portuguesePhonetic": "tchu tré-vol an bíz-nes",
+    "syllables": [
+      "to",
+      " trav",
+      "el",
+      " on",
+      " busi",
+      "ness"
+    ],
+    "exampleSentence": "to travel on business",
+    "exampleTranslation": "viajar a trabalho"
+  },
+  {
+    "id": "to_spend_travel_43",
+    "word": "My father travels on business every month.",
+    "translation": "Meu pai viaja a trabalho todo mês.",
+    "pronunciation": "/maɪ ˈfɑðər ˈtrævəlz ɑn ˈbɪznəs ˈɛvəri mʌnθ./",
+    "portuguesePhonetic": "mai fá-der tré-vols an bíz-nes é-vri mânth.",
+    "syllables": [
+      "My",
+      " fa",
+      "ther",
+      " trav",
+      "els",
+      " on",
+      " busi",
+      "ness",
+      " ev",
+      "er",
+      "y",
+      " month."
+    ],
+    "exampleSentence": "My father travels on business every month.",
+    "exampleTranslation": "Meu pai viaja a trabalho todo mês."
+  },
+  {
+    "id": "to_spend_travel_44",
+    "word": "Where do you come from?",
+    "translation": "De onde você é?",
+    "pronunciation": "/wɛr du ju kʌm frʌm?/",
+    "portuguesePhonetic": "uér du iu cảm frâm?",
+    "syllables": [
+      "Where",
+      " do",
+      " you",
+      " come",
+      " from?"
+    ],
+    "exampleSentence": "Where do you come from?",
+    "exampleTranslation": "De onde você é?"
+  },
+  {
+    "id": "to_spend_travel_45",
+    "word": "I come from the U.K.",
+    "translation": "Eu sou do Reino Unido.",
+    "pronunciation": "/aɪ kʌm frʌm ðə ˌjuˈkeɪ./",
+    "portuguesePhonetic": "ai cảm frâm dâ iu-quêi.",
+    "syllables": [
+      "I",
+      " come",
+      " from",
+      " the",
+      " U",
+      ".",
+      "K",
+      "."
+    ],
+    "exampleSentence": "I come from the U.K.",
+    "exampleTranslation": "Eu sou do Reino Unido."
+  },
+  {
+    "id": "to_spend_travel_46",
+    "word": "Can you travel by plane?",
+    "translation": "Você pode viajar de avião?",
+    "pronunciation": "/kæn ju ˈtrævəl baɪ pleɪn?/",
+    "portuguesePhonetic": "quén iu tré-vol bai plêin?",
+    "syllables": [
+      "Can",
+      " you",
+      " trav",
+      "el",
+      " by",
+      " plane?"
+    ],
+    "exampleSentence": "Can you travel by plane?",
+    "exampleTranslation": "Você pode viajar de avião?"
+  },
+  {
+    "id": "to_spend_travel_47",
+    "word": "Can she take pictures?",
+    "translation": "Ela pode tirar fotos?",
+    "pronunciation": "/kæn ʃi teɪk ˈpɪktʃərz?/",
+    "portuguesePhonetic": "quén xi têic píc-tchârs?",
+    "syllables": [
+      "Can",
+      " she",
+      " take",
+      " pic",
+      "tures?"
+    ],
+    "exampleSentence": "Can she take pictures?",
+    "exampleTranslation": "Ela pode tirar fotos?"
+  },
+  {
+    "id": "to_spend_travel_48",
+    "word": "Can they spend more money?",
+    "translation": "Eles podem gastar mais dinheiro?",
+    "pronunciation": "/kæn ðeɪ spɛnd mɔr ˈmʌni?/",
+    "portuguesePhonetic": "quén dêi spénd mór mâ-ni?",
+    "syllables": [
+      "Can",
+      " they",
+      " spend",
+      " more",
+      " mon",
+      "ey?"
+    ],
+    "exampleSentence": "Can they spend more money?",
+    "exampleTranslation": "Eles podem gastar mais dinheiro?"
+  },
+  {
+    "id": "to_spend_travel_49",
+    "word": "How many suitcases can you take?",
+    "translation": "Quantas malas você pode levar?",
+    "pronunciation": "/haʊ ˈmɛni ˈsutˌkesəz kæn ju teɪk?/",
+    "portuguesePhonetic": "ráu mé-ni sút-quêi-sis quén iu têic?",
+    "syllables": [
+      "How",
+      " ma",
+      "ny",
+      " suit",
+      "cas",
+      "es",
+      " can",
+      " you",
+      " take?"
+    ],
+    "exampleSentence": "How many suitcases can you take?",
+    "exampleTranslation": "Quantas malas você pode levar?"
+  },
+  {
+    "id": "to_spend_travel_50",
+    "word": "How many tourists can they take?",
+    "translation": "Quantos turistas eles podem levar?",
+    "pronunciation": "/haʊ ˈmɛni ˈtʊrəsts kæn ðeɪ teɪk?/",
+    "portuguesePhonetic": "ráu mé-ni tú-rists quén dêi têic?",
+    "syllables": [
+      "How",
+      " ma",
+      "ny",
+      " tour",
+      "ists",
+      " can",
+      " they",
+      " take?"
+    ],
+    "exampleSentence": "How many tourists can they take?",
+    "exampleTranslation": "Quantos turistas eles podem levar?"
+  },
+  {
+    "id": "to_spend_travel_51",
+    "word": "How much can we spend?",
+    "translation": "Quanto nós podemos gastar?",
+    "pronunciation": "/haʊ mʌtʃ kæn wi spɛnd?/",
+    "portuguesePhonetic": "ráu mâtch quén uí spénd?",
+    "syllables": [
+      "How",
+      " much",
+      " can",
+      " we",
+      " spend?"
+    ],
+    "exampleSentence": "How much can we spend?",
+    "exampleTranslation": "Quanto nós podemos gastar?"
+  },
+  {
+    "id": "to_spend_travel_52",
+    "word": "How much money can you spend?",
+    "translation": "Quanto dinheiro você pode gastar?",
+    "pronunciation": "/haʊ mʌtʃ ˈmʌni kæn ju spɛnd?/",
+    "portuguesePhonetic": "ráu mâtch mâ-ni quén iu spénd?",
+    "syllables": [
+      "How",
+      " much",
+      " mon",
+      "ey",
+      " can",
+      " you",
+      " spend?"
+    ],
+    "exampleSentence": "How much money can you spend?",
+    "exampleTranslation": "Quanto dinheiro você pode gastar?"
+  },
+  {
+    "id": "to_spend_travel_53",
+    "word": "destination",
+    "translation": "destino",
+    "pronunciation": "/ˌdɛstəˈneɪʃən/",
+    "portuguesePhonetic": "des-ti-nêi-xân",
+    "syllables": [
+      "des",
+      "ti",
+      "na",
+      "tion"
+    ],
+    "exampleSentence": "destination",
+    "exampleTranslation": "destino"
+  },
+  {
+    "id": "to_spend_travel_54",
+    "word": "tourist",
+    "translation": "turista",
+    "pronunciation": "/ˈtʊrəst/",
+    "portuguesePhonetic": "tú-rist",
+    "syllables": [
+      "tour",
+      "ist"
+    ],
+    "exampleSentence": "tourist",
+    "exampleTranslation": "turista"
+  },
+  {
+    "id": "to_spend_travel_55",
+    "word": "passenger",
+    "translation": "passageiro",
+    "pronunciation": "/ˈpæsəndʒər/",
+    "portuguesePhonetic": "pé-sen-djer",
+    "syllables": [
+      "pas",
+      "sen",
+      "ger"
+    ],
+    "exampleSentence": "passenger",
+    "exampleTranslation": "passageiro"
+  },
+  {
+    "id": "to_spend_travel_56",
+    "word": "suitcase",
+    "translation": "mala",
+    "pronunciation": "/ˈsutˌkeɪs/",
+    "portuguesePhonetic": "sút-quêis",
+    "syllables": [
+      "suit",
+      "case"
+    ],
+    "exampleSentence": "suitcase",
+    "exampleTranslation": "mala"
+  },
+  {
+    "id": "to_spend_travel_57",
+    "word": "luggage",
+    "translation": "bagagem",
+    "pronunciation": "/ˈlʌɡɪdʒ/",
+    "portuguesePhonetic": "lâ-guidj",
+    "syllables": [
+      "lug",
+      "gage"
+    ],
+    "exampleSentence": "luggage",
+    "exampleTranslation": "bagagem"
+  },
+  {
+    "id": "to_spend_travel_58",
+    "word": "tag",
+    "translation": "etiqueta",
+    "pronunciation": "/tæɡ/",
+    "portuguesePhonetic": "tég",
+    "syllables": [
+      "tag"
+    ],
+    "exampleSentence": "tag",
+    "exampleTranslation": "etiqueta"
+  },
+  {
+    "id": "to_spend_travel_59",
+    "word": "travel agent",
+    "translation": "agente de viagem",
+    "pronunciation": "/ˈtrævəl ˈeɪdʒənt/",
+    "portuguesePhonetic": "tré-vol êi-djent",
+    "syllables": [
+      "trav",
+      "el",
+      " a",
+      "gent"
+    ],
+    "exampleSentence": "travel agent",
+    "exampleTranslation": "agente de viagem"
+  },
+  {
+    "id": "to_spend_travel_60",
+    "word": "package",
+    "translation": "pacote",
+    "pronunciation": "/ˈpækɪdʒ/",
+    "portuguesePhonetic": "pé-quidj",
+    "syllables": [
+      "pack",
+      "age"
+    ],
+    "exampleSentence": "package",
+    "exampleTranslation": "pacote"
+  },
+  {
+    "id": "to_spend_travel_61",
+    "word": "tour",
+    "translation": "excursão",
+    "pronunciation": "/tʊr/",
+    "portuguesePhonetic": "tur",
+    "syllables": [
+      "tour"
+    ],
+    "exampleSentence": "tour",
+    "exampleTranslation": "excursão"
+  },
+  {
+    "id": "to_spend_travel_62",
+    "word": "attraction",
+    "translation": "atração",
+    "pronunciation": "/əˈtrækʃən/",
+    "portuguesePhonetic": "a-tréc-xân",
+    "syllables": [
+      "at",
+      "trac",
+      "tion"
+    ],
+    "exampleSentence": "attraction",
+    "exampleTranslation": "atração"
+  },
+  {
+    "id": "to_spend_travel_63",
+    "word": "resort",
+    "translation": "resort",
+    "pronunciation": "/rɪˈzɔrt/",
+    "portuguesePhonetic": "ri-zórt",
+    "syllables": [
+      "re",
+      "sort"
+    ],
+    "exampleSentence": "resort",
+    "exampleTranslation": "resort"
+  },
+  {
+    "id": "to_spend_travel_64",
+    "word": "plane",
+    "translation": "avião",
+    "pronunciation": "/pleɪn/",
+    "portuguesePhonetic": "plêin",
+    "syllables": [
+      "plane"
+    ],
+    "exampleSentence": "plane",
+    "exampleTranslation": "avião"
+  },
+  {
+    "id": "to_spend_travel_65",
+    "word": "leisure",
+    "translation": "lazer",
+    "pronunciation": "/ˈliʒər/",
+    "portuguesePhonetic": "lí-jer",
+    "syllables": [
+      "lei",
+      "sure"
+    ],
+    "exampleSentence": "leisure",
+    "exampleTranslation": "lazer"
+  },
+  {
+    "id": "to_spend_travel_66",
+    "word": "dangerous",
+    "translation": "perigoso",
+    "pronunciation": "/ˈdeɪndʒərəs/",
+    "portuguesePhonetic": "dêin-dje-râs",
+    "syllables": [
+      "dan",
+      "ger",
+      "ous"
+    ],
+    "exampleSentence": "dangerous",
+    "exampleTranslation": "perigoso"
+  },
+  {
+    "id": "to_spend_travel_67",
+    "word": "safe",
+    "translation": "seguro",
+    "pronunciation": "/seɪf/",
+    "portuguesePhonetic": "sêif",
+    "syllables": [
+      "safe"
+    ],
+    "exampleSentence": "safe",
+    "exampleTranslation": "seguro"
+  },
+  {
+    "id": "to_spend_travel_68",
+    "word": "sightseeing",
+    "translation": "visitar pontos turísticos",
+    "pronunciation": "/ˈsaɪtˌsiɪŋ/",
+    "portuguesePhonetic": "sait-sí-in",
+    "syllables": [
+      "sight",
+      "see",
+      "ing"
+    ],
+    "exampleSentence": "sightseeing",
+    "exampleTranslation": "visitar pontos turísticos"
+  },
+  {
+    "id": "to_spend_travel_69",
+    "word": "cruise",
+    "translation": "cruzeiro",
+    "pronunciation": "/kruz/",
+    "portuguesePhonetic": "crus",
+    "syllables": [
+      "cruise"
+    ],
+    "exampleSentence": "cruise",
+    "exampleTranslation": "cruzeiro"
+  },
+  {
+    "id": "to_spend_travel_70",
+    "word": "baggage claim",
+    "translation": "esteira de bagagem",
+    "pronunciation": "/ˈbæɡɪdʒ kleɪm/",
+    "portuguesePhonetic": "bé-guidj clêim",
+    "syllables": [
+      "bag",
+      "gage",
+      " claim"
+    ],
+    "exampleSentence": "baggage claim",
+    "exampleTranslation": "esteira de bagagem"
+  },
+  {
+    "id": "to_spend_travel_71",
+    "word": "Can you help me with my luggage?",
+    "translation": "Você pode me ajudar com minha bagagem?",
+    "pronunciation": "/kæn ju hɛlp mi wɪð maɪ ˈlʌɡɪdʒ?/",
+    "portuguesePhonetic": "quén iu rélp mi uid mai lâ-guidj?",
+    "syllables": [
+      "Can",
+      " you",
+      " help",
+      " me",
+      " with",
+      " my",
+      " lug",
+      "gage?"
+    ],
+    "exampleSentence": "Can you help me with my luggage?",
+    "exampleTranslation": "Você pode me ajudar com minha bagagem?"
+  },
+  {
+    "id": "to_spend_travel_72",
+    "word": "Where is the baggage claim?",
+    "translation": "Onde fica a esteira de bagagem?",
+    "pronunciation": "/wɛr ɪz ðə ˈbæɡɪdʒ kleɪm?/",
+    "portuguesePhonetic": "uér iz dâ bé-guidj clêim?",
+    "syllables": [
+      "Where",
+      " is",
+      " the",
+      " bag",
+      "gage",
+      " claim?"
+    ],
+    "exampleSentence": "Where is the baggage claim?",
+    "exampleTranslation": "Onde fica a esteira de bagagem?"
+  },
+  {
+    "id": "to_spend_travel_73",
+    "word": "I want to travel to Europe.",
+    "translation": "Eu quero viajar para a Europa.",
+    "pronunciation": "/aɪ wɑnt tu ˈtrævəl tu ˈjʊrəp./",
+    "portuguesePhonetic": "ai uónt tchu tré-vol tchu iú-râp.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " trav",
+      "el",
+      " to",
+      " Eu",
+      "rope."
+    ],
+    "exampleSentence": "I want to travel to Europe.",
+    "exampleTranslation": "Eu quero viajar para a Europa."
+  },
+  {
+    "id": "to_spend_travel_74",
+    "word": "Do you like sightseeing?",
+    "translation": "Você gosta de visitar pontos turísticos?",
+    "pronunciation": "/du ju laɪk ˈsaɪtˌsiɪŋ?/",
+    "portuguesePhonetic": "du iu laic sait-sí-in?",
+    "syllables": [
+      "Do",
+      " you",
+      " like",
+      " sight",
+      "see",
+      "ing?"
+    ],
+    "exampleSentence": "Do you like sightseeing?",
+    "exampleTranslation": "Você gosta de visitar pontos turísticos?"
+  },
+  {
+    "id": "to_spend_travel_75",
+    "word": "How many suitcases can I take?",
+    "translation": "Quantas malas eu posso levar?",
+    "pronunciation": "/haʊ ˈmɛni ˈsutˌkesəz kæn aɪ teɪk?/",
+    "portuguesePhonetic": "ráu mé-ni sút-quêi-sis quén aiêic?",
+    "syllables": [
+      "How",
+      " ma",
+      "ny",
+      " suit",
+      "cas",
+      "es",
+      " can",
+      " I",
+      " take?"
+    ],
+    "exampleSentence": "How many suitcases can I take?",
+    "exampleTranslation": "Quantas malas eu posso levar?"
+  },
+  {
+    "id": "to_spend_travel_76",
+    "word": "How much can we spend on this trip?",
+    "translation": "Quanto podemos gastar nesta viagem?",
+    "pronunciation": "/haʊ mʌtʃ kæn wi spɛnd ɑn ðɪs trɪp?/",
+    "portuguesePhonetic": "ráu mâtch quén uí spénd an dís tríp?",
+    "syllables": [
+      "How",
+      " much",
+      " can",
+      " we",
+      " spend",
+      " on",
+      " this",
+      " trip?"
+    ],
+    "exampleSentence": "How much can we spend on this trip?",
+    "exampleTranslation": "Quanto podemos gastar nesta viagem?"
+  },
+  {
+    "id": "to_spend_travel_77",
+    "word": "Is this destination safe?",
+    "translation": "Este destino é seguro?",
+    "pronunciation": "/ɪz ðɪs ˌdɛstəˈneɪʃən seɪf?/",
+    "portuguesePhonetic": "iz dís des-ti-nêi-xân sêif?",
+    "syllables": [
+      "Is",
+      " this",
+      " des",
+      "ti",
+      "na",
+      "tion",
+      " safe?"
+    ],
+    "exampleSentence": "Is this destination safe?",
+    "exampleTranslation": "Este destino é seguro?"
+  },
+  {
+    "id": "to_spend_travel_78",
+    "word": "I want to stay at a resort.",
+    "translation": "Eu quero ficar em um resort.",
+    "pronunciation": "/aɪ wɑnt tu steɪ æt ə rɪˈzɔrt./",
+    "portuguesePhonetic": "ai uónt tchu stêi ét a ri-zórt.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " stay",
+      " at",
+      " a",
+      " re",
+      "sort."
+    ],
+    "exampleSentence": "I want to stay at a resort.",
+    "exampleTranslation": "Eu quero ficar em um resort."
+  },
+  {
+    "id": "to_spend_travel_79",
+    "word": "We are traveling for leisure.",
+    "translation": "Nós estamos viajando a lazer.",
+    "pronunciation": "/wi ɑr ˈtrævəlɪŋ fɔr ˈliʒər./",
+    "portuguesePhonetic": "uí ar tré-ve-lin fór lí-jer.",
+    "syllables": [
+      "We",
+      " are",
+      " trav",
+      "el",
+      "ing",
+      " for",
+      " lei",
+      "sure."
+    ],
+    "exampleSentence": "We are traveling for leisure.",
+    "exampleTranslation": "Nós estamos viajando a lazer."
+  },
+  {
+    "id": "to_spend_travel_80",
+    "word": "He is traveling on business.",
+    "translation": "Ele está viajando a trabalho.",
+    "pronunciation": "/hi ɪz ˈtrævəlɪŋ ɑn ˈbɪznəs./",
+    "portuguesePhonetic": "ri iz tré-ve-lin an bíz-nes.",
+    "syllables": [
+      "He",
+      " is",
+      " trav",
+      "el",
+      "ing",
+      " on",
+      " busi",
+      "ness."
+    ],
+    "exampleSentence": "He is traveling on business.",
+    "exampleTranslation": "Ele está viajando a trabalho."
+  },
+  {
+    "id": "to_spend_travel_81",
+    "word": "My wife and I like to spend time at the beach. Do you like to travel to the beach?",
+    "translation": "Minha esposa e eu gostamos de passar tempo na praia. Você gosta de viajar para a praia?",
+    "pronunciation": "/maɪ waɪf ænd aɪ laɪk tu spɛnd taɪm æt ðə bitʃ. du ju laɪk tu ˈtrævəl tu ðə bitʃ?/",
+    "portuguesePhonetic": "mai uaif énd ai laic tchu spénd taim ét dâ bítch. du iu laic tchu tré-vol tchu dâ bítch?",
+    "syllables": [
+      "My",
+      " wife",
+      " and",
+      " I",
+      " like",
+      " to",
+      " spend",
+      " time",
+      " at",
+      " the",
+      " beach.",
+      " Do",
+      " you",
+      " like",
+      " to",
+      " trav",
+      "el",
+      " to",
+      " the",
+      " beach?"
+    ],
+    "exampleSentence": "My wife and I like to spend time at the beach. Do you like to travel to the beach?",
+    "exampleTranslation": "Minha esposa e eu gostamos de passar tempo na praia. Você gosta de viajar para a praia?"
+  },
+  {
+    "id": "to_spend_travel_82",
+    "word": "Where is your baggage tag?",
+    "translation": "Onde está a sua etiqueta de bagagem?",
+    "pronunciation": "/wɛr ɪz jʊr ˈbæɡɪdʒ tæɡ?/",
+    "portuguesePhonetic": "uér iz iór bé-guidj tég?",
+    "syllables": [
+      "Where",
+      " is",
+      " your",
+      " bag",
+      "gage",
+      " tag?"
+    ],
+    "exampleSentence": "Where is your baggage tag?",
+    "exampleTranslation": "Onde está a sua etiqueta de bagagem?"
+  },
+  {
+    "id": "to_spend_travel_83",
+    "word": "They usually spend a lot of money when they travel abroad.",
+    "translation": "Eles geralmente gastam muito dinheiro quando viajam para o exterior.",
+    "pronunciation": "/ðeɪ ˈjuʒuəli spɛnd ə lɑt ʌv ˈmʌni wɛn ðeɪ ˈtrævəl əˈbrɔd./",
+    "portuguesePhonetic": "dêi iú-ju-a-li spénd a lót âv mâ-ni uén dêi tré-vol a-bród.",
+    "syllables": [
+      "They",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " spend",
+      " a",
+      " lot",
+      " of",
+      " mon",
+      "ey",
+      " when",
+      " they",
+      " trav",
+      "el",
+      " a",
+      "broad."
+    ],
+    "exampleSentence": "They usually spend a lot of money when they travel abroad.",
+    "exampleTranslation": "Eles geralmente gastam muito dinheiro quando viajam para o exterior."
+  },
+  {
+    "id": "to_spend_travel_84",
+    "word": "Can you travel during the week? – Sorry, I can't.",
+    "translation": "Você pode viajar durante a semana? – Desculpe, eu não posso.",
+    "pronunciation": "/kæn ju ˈtrævəl ˈdʊrɪŋ ðə wik? – ˈsɑri, aɪ kænt./",
+    "portuguesePhonetic": "quén iu tré-vol dú-rin dâ uíc? – só-ri, ai quént.",
+    "syllables": [
+      "Can",
+      " you",
+      " trav",
+      "el",
+      " dur",
+      "ing",
+      " the",
+      " week?",
+      " – Sor",
+      "ry,",
+      " I",
+      " can't."
+    ],
+    "exampleSentence": "Can you travel during the week? – Sorry, I can't.",
+    "exampleTranslation": "Você pode viajar durante a semana? – Desculpe, eu não posso."
+  },
+  {
+    "id": "to_spend_travel_85",
+    "word": "Can we visit the tourist attractions? I want to take a lot of pictures.",
+    "translation": "Nós podemos visitar os pontos turísticos? Eu quero tirar muitas fotos.",
+    "pronunciation": "/kæn wi ˈvɪzɪt ðə ˈtʊrəst əˈtrækʃənz? aɪ wɑnt tu teɪk ə lɑt ʌv ˈpɪktʃərz./",
+    "portuguesePhonetic": "quén uí ví-sit dâ tú-rist a-tréc-xâns? ai uónt tchu têic a lót âv píc-tchârs.",
+    "syllables": [
+      "Can",
+      " we",
+      " vis",
+      "it",
+      " the",
+      " tour",
+      "ist",
+      " at",
+      "trac",
+      "tions?",
+      " I",
+      " want",
+      " to",
+      " take",
+      " a",
+      " lot",
+      " of",
+      " pic",
+      "tures."
+    ],
+    "exampleSentence": "Can we visit the tourist attractions? I want to take a lot of pictures.",
+    "exampleTranslation": "Nós podemos visitar os pontos turísticos? Eu quero tirar muitas fotos."
+  },
+  {
+    "id": "to_spend_travel_86",
+    "word": "I want to travel to a place with many attractions.",
+    "translation": "Eu quero viajar para um lugar com muitas atrações.",
+    "pronunciation": "/aɪ wɑnt tu ˈtrævəl tu ə pleɪs wɪð ˈmɛni əˈtrækʃənz./",
+    "portuguesePhonetic": "ai uónt tchu tré-vol tchu a plêis uid mé-ni a-tréc-xâns.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " trav",
+      "el",
+      " to",
+      " a",
+      " place",
+      " with",
+      " man",
+      "y",
+      " at",
+      "trac",
+      "tions."
+    ],
+    "exampleSentence": "I want to travel to a place with many attractions.",
+    "exampleTranslation": "Eu quero viajar para um lugar com muitas atrações."
+  },
+  {
+    "id": "to_spend_travel_87",
+    "word": "Can he pay for this resort? It's expensive.",
+    "translation": "Ele pode pagar por este resort? Ele é caro.",
+    "pronunciation": "/kæn hi peɪ fɔr ðɪs rɪˈzɔrt? ɪts ɪkˈspɛnsɪv./",
+    "portuguesePhonetic": "quén ri plêi fór dís ri-zórt? its ec-spén-siv.",
+    "syllables": [
+      "Can",
+      " he",
+      " pay",
+      " for",
+      " this",
+      " re",
+      "sort?",
+      " It's",
+      " ex",
+      "pen",
+      "sive."
+    ],
+    "exampleSentence": "Can he pay for this resort? It's expensive.",
+    "exampleTranslation": "Ele pode pagar por este resort? Ele é caro."
+  },
+  {
+    "id": "to_spend_travel_88",
+    "word": "How much is the tour? I want to go with you.",
+    "translation": "Quanto é a excursão? Eu quero ir com você.",
+    "pronunciation": "/haʊ mʌtʃ ɪz ðə tʊr? aɪ wɑnt tu ɡoʊ wɪð ju./",
+    "portuguesePhonetic": "ráu mâtch iz dâ tur? ai uónt tchu gôu uid iu.",
+    "syllables": [
+      "How",
+      " much",
+      " is",
+      " the",
+      " tour?",
+      " I",
+      " want",
+      " to",
+      " go",
+      " with",
+      " you."
+    ],
+    "exampleSentence": "How much is the tour? I want to go with you.",
+    "exampleTranslation": "Quanto é a excursão? Eu quero ir com você."
+  },
+  {
+    "id": "to_spend_travel_89",
+    "word": "Can they travel to any destination?",
+    "translation": "Eles podem viajar para qualquer destino?",
+    "pronunciation": "/kæn ðeɪ ˈtrævəl tu ˈɛni ˌdɛstəˈneɪʃən?/",
+    "portuguesePhonetic": "quén dêi tré-vol tchu é-ni des-ti-nêi-xân?",
+    "syllables": [
+      "Can",
+      " they",
+      " trav",
+      "el",
+      " to",
+      " an",
+      "y",
+      " des",
+      "ti",
+      "na",
+      "tion?"
+    ],
+    "exampleSentence": "Can they travel to any destination?",
+    "exampleTranslation": "Eles podem viajar para qualquer destino?"
+  },
+  {
+    "id": "to_spend_travel_90",
+    "word": "Can you call a taxi? I don't want to walk to the station; it's dangerous.",
+    "translation": "Você pode chamar um táxi? Eu não quero caminhar para a estação; é perigoso.",
+    "pronunciation": "/kæn ju kɔl ə ˈtæksi? aɪ doʊnt wɑnt tu wɔk tu ðə ˈsteɪʃən; ɪts ˈdeɪndʒərəs./",
+    "portuguesePhonetic": "quén iu cól a téc-si? ai dôunt uónt tchu uóc tchu dâ stêi-xân; its dêin-dje-râs.",
+    "syllables": [
+      "Can",
+      " you",
+      " call",
+      " a",
+      " tax",
+      "i?",
+      " I",
+      " don't",
+      " want",
+      " to",
+      " walk",
+      " to",
+      " the",
+      " sta",
+      "tion;",
+      " it's",
+      " dan",
+      "ger",
+      "ous."
+    ],
+    "exampleSentence": "Can you call a taxi? I don't want to walk to the station; it's dangerous.",
+    "exampleTranslation": "Você pode chamar um táxi? Eu não quero caminhar para a estação; é perigoso."
+  },
+  {
+    "id": "to_spend_travel_91",
+    "word": "beach",
+    "translation": "praia",
+    "pronunciation": "/bitʃ/",
+    "portuguesePhonetic": "bítch",
+    "syllables": [
+      "beach"
+    ],
+    "exampleSentence": "beach",
+    "exampleTranslation": "praia"
+  },
+  {
+    "id": "to_spend_travel_92",
+    "word": "baggage tag",
+    "translation": "etiqueta de bagagem",
+    "pronunciation": "/ˈbæɡɪdʒ tæɡ/",
+    "portuguesePhonetic": "bé-guidj tég",
+    "syllables": [
+      "bag",
+      "gage",
+      " tag"
+    ],
+    "exampleSentence": "baggage tag",
+    "exampleTranslation": "etiqueta de bagagem"
+  },
+  {
+    "id": "to_spend_travel_93",
+    "word": "travel abroad",
+    "translation": "viajar para o exterior",
+    "pronunciation": "/ˈtrævəl əˈbrɔd/",
+    "portuguesePhonetic": "tré-vol a-bród",
+    "syllables": [
+      "trav",
+      "el",
+      " a",
+      "broad"
+    ],
+    "exampleSentence": "travel abroad",
+    "exampleTranslation": "viajar para o exterior"
+  },
+  {
+    "id": "to_spend_travel_94",
+    "word": "tourist attraction",
+    "translation": "atração turística",
+    "pronunciation": "/ˈtʊrəst əˈtrækʃən/",
+    "portuguesePhonetic": "tú-rist a-tréc-xân",
+    "syllables": [
+      "tour",
+      "ist",
+      " at",
+      "trac",
+      "tion"
+    ],
+    "exampleSentence": "tourist attraction",
+    "exampleTranslation": "atração turística"
+  },
+  {
+    "id": "to_spend_travel_95",
+    "word": "take pictures",
+    "translation": "tirar fotos",
+    "pronunciation": "/teɪk ˈpɪktʃərz/",
+    "portuguesePhonetic": "têic píc-tchârs",
+    "syllables": [
+      "take",
+      " pic",
+      "tures"
+    ],
+    "exampleSentence": "take pictures",
+    "exampleTranslation": "tirar fotos"
+  },
+  {
+    "id": "to_spend_travel_96",
+    "word": "resort",
+    "translation": "resort",
+    "pronunciation": "/rɪˈzɔrt/",
+    "portuguesePhonetic": "ri-zórt",
+    "syllables": [
+      "re",
+      "sort"
+    ],
+    "exampleSentence": "resort",
+    "exampleTranslation": "resort"
+  },
+  {
+    "id": "to_spend_travel_97",
+    "word": "tour",
+    "translation": "excursão",
+    "pronunciation": "/tʊr/",
+    "portuguesePhonetic": "tur",
+    "syllables": [
+      "tour"
+    ],
+    "exampleSentence": "tour",
+    "exampleTranslation": "excursão"
+  },
+  {
+    "id": "to_spend_travel_98",
+    "word": "destination",
+    "translation": "destino",
+    "pronunciation": "/ˌdɛstəˈneɪʃən/",
+    "portuguesePhonetic": "des-ti-nêi-xân",
+    "syllables": [
+      "des",
+      "ti",
+      "na",
+      "tion"
+    ],
+    "exampleSentence": "destination",
+    "exampleTranslation": "destino"
+  },
+  {
+    "id": "to_spend_travel_99",
+    "word": "taxi",
+    "translation": "táxi",
+    "pronunciation": "/ˈtæksi/",
+    "portuguesePhonetic": "téc-si",
+    "syllables": [
+      "tax",
+      "i"
+    ],
+    "exampleSentence": "taxi",
+    "exampleTranslation": "táxi"
+  },
+  {
+    "id": "to_spend_travel_100",
+    "word": "station",
+    "translation": "estação",
+    "pronunciation": "/ˈsteɪʃən/",
+    "portuguesePhonetic": "stêi-xân",
+    "syllables": [
+      "sta",
+      "tion"
+    ],
+    "exampleSentence": "station",
+    "exampleTranslation": "estação"
+  },
+  {
+    "id": "to_spend_travel_101",
+    "word": "suitcase",
+    "translation": "mala",
+    "pronunciation": "/ˈsutˌkeɪs/",
+    "portuguesePhonetic": "sút-quêis",
+    "syllables": [
+      "suit",
+      "case"
+    ],
+    "exampleSentence": "suitcase",
+    "exampleTranslation": "mala"
+  },
+  {
+    "id": "to_spend_travel_102",
+    "word": "travel agent",
+    "translation": "agente de viagens",
+    "pronunciation": "/ˈtrævəl ˈeɪdʒənt/",
+    "portuguesePhonetic": "tré-vol êi-djent",
+    "syllables": [
+      "trav",
+      "el",
+      " a",
+      "gent"
+    ],
+    "exampleSentence": "travel agent",
+    "exampleTranslation": "agente de viagens"
+  },
+  {
+    "id": "to_spend_travel_103",
+    "word": "plane",
+    "translation": "avião",
+    "pronunciation": "/pleɪn/",
+    "portuguesePhonetic": "plêin",
+    "syllables": [
+      "plane"
+    ],
+    "exampleSentence": "plane",
+    "exampleTranslation": "avião"
+  },
+  {
+    "id": "to_spend_travel_104",
+    "word": "comfortable",
+    "translation": "confortável",
+    "pronunciation": "/ˈkʌmfərtəbəl/",
+    "portuguesePhonetic": "câm-for-ta-bol",
+    "syllables": [
+      "com",
+      "fort",
+      "a",
+      "ble"
+    ],
+    "exampleSentence": "comfortable",
+    "exampleTranslation": "confortável"
+  },
+  {
+    "id": "to_spend_travel_105",
+    "word": "expensive",
+    "translation": "caro",
+    "pronunciation": "/ɪkˈspɛnsɪv/",
+    "portuguesePhonetic": "ec-spén-siv",
+    "syllables": [
+      "ex",
+      "pen",
+      "sive"
+    ],
+    "exampleSentence": "expensive",
+    "exampleTranslation": "caro"
+  },
+  {
+    "id": "to_spend_travel_106",
+    "word": "dangerous",
+    "translation": "perigoso",
+    "pronunciation": "/ˈdeɪndʒərəs/",
+    "portuguesePhonetic": "dêin-dje-râs",
+    "syllables": [
+      "dan",
+      "ger",
+      "ous"
+    ],
+    "exampleSentence": "dangerous",
+    "exampleTranslation": "perigoso"
+  },
+  {
+    "id": "to_spend_travel_107",
+    "word": "spend money",
+    "translation": "gastar dinheiro",
+    "pronunciation": "/spɛnd ˈmʌni/",
+    "portuguesePhonetic": "spénd mâ-ni",
+    "syllables": [
+      "spend",
+      " mon",
+      "ey"
+    ],
+    "exampleSentence": "spend money",
+    "exampleTranslation": "gastar dinheiro"
+  },
+  {
+    "id": "to_spend_travel_108",
+    "word": "abroad",
+    "translation": "exterior",
+    "pronunciation": "/əˈbrɔd/",
+    "portuguesePhonetic": "a-bród",
+    "syllables": [
+      "a",
+      "broad"
+    ],
+    "exampleSentence": "abroad",
+    "exampleTranslation": "exterior"
+  },
+  {
+    "id": "to_spend_travel_109",
+    "word": "travel",
+    "translation": "viajar",
+    "pronunciation": "/ˈtrævəl/",
+    "portuguesePhonetic": "tré-vol",
+    "syllables": [
+      "trav",
+      "el"
+    ],
+    "exampleSentence": "travel",
+    "exampleTranslation": "viajar"
+  },
+  {
+    "id": "to_spend_travel_110",
+    "word": "attraction",
+    "translation": "atração",
+    "pronunciation": "/əˈtrækʃən/",
+    "portuguesePhonetic": "a-tréc-xân",
+    "syllables": [
+      "at",
+      "trac",
+      "tion"
+    ],
+    "exampleSentence": "attraction",
+    "exampleTranslation": "atração"
+  }
+]

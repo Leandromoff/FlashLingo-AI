@@ -1,0 +1,1580 @@
+[
+  {
+    "id": "lesson_19_1",
+    "word": "to cook",
+    "translation": "cozinhar",
+    "pronunciation": "/tu kʊk/",
+    "portuguesePhonetic": "tchu cúc",
+    "syllables": [
+      "to",
+      " cook"
+    ],
+    "exampleSentence": "to cook",
+    "exampleTranslation": "cozinhar"
+  },
+  {
+    "id": "lesson_19_2",
+    "word": "to clean",
+    "translation": "limpar",
+    "pronunciation": "/tu klin/",
+    "portuguesePhonetic": "tchu clín",
+    "syllables": [
+      "to",
+      " clean"
+    ],
+    "exampleSentence": "to clean",
+    "exampleTranslation": "limpar"
+  },
+  {
+    "id": "lesson_19_3",
+    "word": "soup",
+    "translation": "sopa",
+    "pronunciation": "/sup/",
+    "portuguesePhonetic": "sup",
+    "syllables": [
+      "soup"
+    ],
+    "exampleSentence": "soup",
+    "exampleTranslation": "sopa"
+  },
+  {
+    "id": "lesson_19_4",
+    "word": "pasta",
+    "translation": "massa, macarrão",
+    "pronunciation": "/ˈpɑstə/",
+    "portuguesePhonetic": "pás-ta",
+    "syllables": [
+      "pas",
+      "ta"
+    ],
+    "exampleSentence": "pasta",
+    "exampleTranslation": "massa, macarrão"
+  },
+  {
+    "id": "lesson_19_5",
+    "word": "sauce",
+    "translation": "molho",
+    "pronunciation": "/sɔs/",
+    "portuguesePhonetic": "sós",
+    "syllables": [
+      "sauce"
+    ],
+    "exampleSentence": "sauce",
+    "exampleTranslation": "molho"
+  },
+  {
+    "id": "lesson_19_6",
+    "word": "bedroom",
+    "translation": "quarto",
+    "pronunciation": "/ˈbɛdruːm/",
+    "portuguesePhonetic": "béd-rum",
+    "syllables": [
+      "bed",
+      "room"
+    ],
+    "exampleSentence": "bedroom",
+    "exampleTranslation": "quarto"
+  },
+  {
+    "id": "lesson_19_7",
+    "word": "bathroom",
+    "translation": "banheiro",
+    "pronunciation": "/ˈbæθruːm/",
+    "portuguesePhonetic": "béz-rum",
+    "syllables": [
+      "bath",
+      "room"
+    ],
+    "exampleSentence": "bathroom",
+    "exampleTranslation": "banheiro"
+  },
+  {
+    "id": "lesson_19_8",
+    "word": "living room",
+    "translation": "sala de estar",
+    "pronunciation": "/ˈlɪvɪŋ rum/",
+    "portuguesePhonetic": "lív-ing rum",
+    "syllables": [
+      "liv",
+      "ing",
+      " room"
+    ],
+    "exampleSentence": "living room",
+    "exampleTranslation": "sala de estar"
+  },
+  {
+    "id": "lesson_19_9",
+    "word": "kitchen",
+    "translation": "cozinha",
+    "pronunciation": "/ˈkɪtʃən/",
+    "portuguesePhonetic": "kí-tchen",
+    "syllables": [
+      "kitch",
+      "en"
+    ],
+    "exampleSentence": "kitchen",
+    "exampleTranslation": "cozinha"
+  },
+  {
+    "id": "lesson_19_10",
+    "word": "table",
+    "translation": "mesa",
+    "pronunciation": "/ˈteɪbəl/",
+    "portuguesePhonetic": "têi-bol",
+    "syllables": [
+      "ta",
+      "ble"
+    ],
+    "exampleSentence": "table",
+    "exampleTranslation": "mesa"
+  },
+  {
+    "id": "lesson_19_11",
+    "word": "couch",
+    "translation": "sofá",
+    "pronunciation": "/kaʊtʃ/",
+    "portuguesePhonetic": "cáutch",
+    "syllables": [
+      "couch"
+    ],
+    "exampleSentence": "couch",
+    "exampleTranslation": "sofá"
+  },
+  {
+    "id": "lesson_19_12",
+    "word": "time",
+    "translation": "tempo, hora",
+    "pronunciation": "/taɪm/",
+    "portuguesePhonetic": "taim",
+    "syllables": [
+      "time"
+    ],
+    "exampleSentence": "time",
+    "exampleTranslation": "tempo, hora"
+  },
+  {
+    "id": "lesson_19_13",
+    "word": "noon",
+    "translation": "meio-dia",
+    "pronunciation": "/nun/",
+    "portuguesePhonetic": "nun",
+    "syllables": [
+      "noon"
+    ],
+    "exampleSentence": "noon",
+    "exampleTranslation": "meio-dia"
+  },
+  {
+    "id": "lesson_19_14",
+    "word": "midnight",
+    "translation": "meia-noite",
+    "pronunciation": "/ˈmɪdnaɪt/",
+    "portuguesePhonetic": "míd-nait",
+    "syllables": [
+      "mid",
+      "night"
+    ],
+    "exampleSentence": "midnight",
+    "exampleTranslation": "meia-noite"
+  },
+  {
+    "id": "lesson_19_15",
+    "word": "until",
+    "translation": "até",
+    "pronunciation": "/ənˈtɪl/",
+    "portuguesePhonetic": "ân-tíl",
+    "syllables": [
+      "un",
+      "til"
+    ],
+    "exampleSentence": "until",
+    "exampleTranslation": "até"
+  },
+  {
+    "id": "lesson_19_16",
+    "word": "some",
+    "translation": "algum(ns), alguma(s), um pouco de",
+    "pronunciation": "/sʌm/",
+    "portuguesePhonetic": "sâm",
+    "syllables": [
+      "some"
+    ],
+    "exampleSentence": "some",
+    "exampleTranslation": "algum(ns), alguma(s), um pouco de"
+  },
+  {
+    "id": "lesson_19_17",
+    "word": "What time is it?",
+    "translation": "Que horas são?",
+    "pronunciation": "/wʌt taɪm ɪz ɪt?/",
+    "portuguesePhonetic": "uót taim íz it?",
+    "syllables": [
+      "What",
+      " time",
+      " is",
+      " it?"
+    ],
+    "exampleSentence": "What time is it?",
+    "exampleTranslation": "Que horas são?"
+  },
+  {
+    "id": "lesson_19_18",
+    "word": "It's two o'clock.",
+    "translation": "São duas horas.",
+    "pronunciation": "/ɪts tu əˈklɑk./",
+    "portuguesePhonetic": "its tchu o-clóc.",
+    "syllables": [
+      "It's",
+      " two",
+      " o'clock."
+    ],
+    "exampleSentence": "It's two o'clock.",
+    "exampleTranslation": "São duas horas."
+  },
+  {
+    "id": "lesson_19_19",
+    "word": "I have lunch at noon.",
+    "translation": "Eu almoço ao meio-dia.",
+    "pronunciation": "/aɪ hæv lʌntʃ æt nun./",
+    "portuguesePhonetic": "ai rév lántch ét nun.",
+    "syllables": [
+      "I",
+      " have",
+      " lunch",
+      " at",
+      " noon."
+    ],
+    "exampleSentence": "I have lunch at noon.",
+    "exampleTranslation": "Eu almoço ao meio-dia."
+  },
+  {
+    "id": "lesson_19_20",
+    "word": "I do the dishes every day.",
+    "translation": "Eu lavo a louça todos os dias.",
+    "pronunciation": "/aɪ du ðə ˈdɪʃəz ˈɛvri deɪ./",
+    "portuguesePhonetic": "ai du dâ dí-chis év-ri dêi.",
+    "syllables": [
+      "I",
+      " do",
+      " the",
+      " dish",
+      "es",
+      " ev",
+      "ery",
+      " day."
+    ],
+    "exampleSentence": "I do the dishes every day.",
+    "exampleTranslation": "Eu lavo a louça todos os dias."
+  },
+  {
+    "id": "lesson_19_21",
+    "word": "I need to do the laundry.",
+    "translation": "Eu preciso lavar a roupa.",
+    "pronunciation": "/aɪ nid tu du ðə ˈlɔndri./",
+    "portuguesePhonetic": "ai nid tchu du dâ lón-dri.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " do",
+      " the",
+      " laun",
+      "dry."
+    ],
+    "exampleSentence": "I need to do the laundry.",
+    "exampleTranslation": "Eu preciso lavar a roupa."
+  },
+  {
+    "id": "lesson_19_22",
+    "word": "What time do you go to bed?",
+    "translation": "A que horas você vai dormir?",
+    "pronunciation": "/wʌt taɪm du ju ɡoʊ tu bɛd?/",
+    "portuguesePhonetic": "uót taim du iu gôu tchu béd?",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " you",
+      " go",
+      " to",
+      " bed?"
+    ],
+    "exampleSentence": "What time do you go to bed?",
+    "exampleTranslation": "A que horas você vai dormir?"
+  },
+  {
+    "id": "lesson_19_23",
+    "word": "I go to bed at 10:00 P.M.",
+    "translation": "Eu vou dormir às 10:00 da noite.",
+    "pronunciation": "/aɪ ɡoʊ tu bɛd æt tɛn pi-ɛm./",
+    "portuguesePhonetic": "ai gôu tchu béd ét tén pí-ém.",
+    "syllables": [
+      "I",
+      " go",
+      " to",
+      " bed",
+      " at",
+      " 10:00",
+      " P.M."
+    ],
+    "exampleSentence": "I go to bed at 10:00 P.M.",
+    "exampleTranslation": "Eu vou dormir às 10:00 da noite."
+  },
+  {
+    "id": "lesson_19_24",
+    "word": "What time do you get up?",
+    "translation": "A que horas você se levanta?",
+    "pronunciation": "/wʌt taɪm du ju ɡɛt ʌp?/",
+    "portuguesePhonetic": "uót taim du iu guét áp?",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " you",
+      " get",
+      " up?"
+    ],
+    "exampleSentence": "What time do you get up?",
+    "exampleTranslation": "A que horas você se levanta?"
+  },
+  {
+    "id": "lesson_19_25",
+    "word": "I get up at 8:00 A.M.",
+    "translation": "Eu me levanto às 8:00 da manhã.",
+    "pronunciation": "/aɪ ɡɛt ʌp æt eɪt eɪ-ɛm./",
+    "portuguesePhonetic": "ai guét áp ét êit êi-ém.",
+    "syllables": [
+      "I",
+      " get",
+      " up",
+      " at",
+      " 8:00",
+      " A.M."
+    ],
+    "exampleSentence": "I get up at 8:00 A.M.",
+    "exampleTranslation": "Eu me levanto às 8:00 da manhã."
+  },
+  {
+    "id": "lesson_19_26",
+    "word": "They have class at seven o'clock.",
+    "translation": "Eles têm aula às sete horas.",
+    "pronunciation": "/ðeɪ hæv klæs æt ˈsɛvən əˈklɑk./",
+    "portuguesePhonetic": "dêi rév clés ét sé-ven o-clóc.",
+    "syllables": [
+      "They",
+      " have",
+      " class",
+      " at",
+      " sev",
+      "en",
+      " o'clock."
+    ],
+    "exampleSentence": "They have class at seven o'clock.",
+    "exampleTranslation": "Eles têm aula às sete horas."
+  },
+  {
+    "id": "lesson_19_27",
+    "word": "We work until six o'clock.",
+    "translation": "Nós trabalhamos até as seis horas.",
+    "pronunciation": "/wi wɜrk ənˈtɪl sɪks əˈklɑk./",
+    "portuguesePhonetic": "ui uãrk ân-tíl sícs o-clóc.",
+    "syllables": [
+      "We",
+      " work",
+      " un",
+      "til",
+      " six",
+      " o'clock."
+    ],
+    "exampleSentence": "We work until six o'clock.",
+    "exampleTranslation": "Nós trabalhamos até as seis horas."
+  },
+  {
+    "id": "lesson_19_28",
+    "word": "I cook lunch for my family.",
+    "translation": "Eu cozinho o almoço para minha família.",
+    "pronunciation": "/aɪ kʊk lʌntʃ fɔr maɪ ˈfæməli./",
+    "portuguesePhonetic": "ai cúc lántch fór mai fé-mi-li.",
+    "syllables": [
+      "I",
+      " cook",
+      " lunch",
+      " for",
+      " my",
+      " fam",
+      "i",
+      "ly."
+    ],
+    "exampleSentence": "I cook lunch for my family.",
+    "exampleTranslation": "Eu cozinho o almoço para minha família."
+  },
+  {
+    "id": "lesson_19_29",
+    "word": "Do you want some tomato sauce?",
+    "translation": "Você quer um pouco de molho de tomate?",
+    "pronunciation": "/du ju wɑnt sʌm təˈmeɪtoʊ sɔs?/",
+    "portuguesePhonetic": "du iu uánt sâm to-mêi-tou sós?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " some",
+      " to",
+      "ma",
+      "to",
+      " sauce?"
+    ],
+    "exampleSentence": "Do you want some tomato sauce?",
+    "exampleTranslation": "Você quer um pouco de molho de tomate?"
+  },
+  {
+    "id": "lesson_19_30",
+    "word": "I like to sleep in the living room.",
+    "translation": "Eu gosto de dormir na sala de estar.",
+    "pronunciation": "/aɪ laɪk tu sleep ɪn ðə ˈlɪvɪŋ rum./",
+    "portuguesePhonetic": "ai laic tchu slíp in dâ lív-ing rum.",
+    "syllables": [
+      "I",
+      " like",
+      " to",
+      " sleep",
+      " in",
+      " the",
+      " liv",
+      "ing",
+      " room."
+    ],
+    "exampleSentence": "I like to sleep in the living room.",
+    "exampleTranslation": "Eu gosto de dormir na sala de estar."
+  },
+  {
+    "id": "lesson_19_31",
+    "word": "You don't have to do the laundry today.",
+    "translation": "Você não tem que lavar roupa hoje.",
+    "pronunciation": "/ju doʊnt hæv tu du ðə ˈlɔndri təˈdeɪ./",
+    "portuguesePhonetic": "iu dôunt rév tchu du dâ lón-dri tchu-dêi.",
+    "syllables": [
+      "You",
+      " don't",
+      " have",
+      " to",
+      " do",
+      " the",
+      " laun",
+      "dry",
+      " to",
+      "day."
+    ],
+    "exampleSentence": "You don't have to do the laundry today.",
+    "exampleTranslation": "Você não tem que lavar roupa hoje."
+  },
+  {
+    "id": "lesson_19_32",
+    "word": "Do they study until noon?",
+    "translation": "Eles estudam até meio-dia?",
+    "pronunciation": "/du ðeɪ ˈstʌdi ənˈtɪl nun?/",
+    "portuguesePhonetic": "du dêi stâ-di ân-tíl nun?",
+    "syllables": [
+      "Do",
+      " they",
+      " stud",
+      "y",
+      " un",
+      "til",
+      " noon?"
+    ],
+    "exampleSentence": "Do they study until noon?",
+    "exampleTranslation": "Eles estudam até meio-dia?"
+  },
+  {
+    "id": "lesson_19_33",
+    "word": "I need to clean my bedroom today.",
+    "translation": "Eu preciso limpar meu quarto hoje.",
+    "pronunciation": "/aɪ nid tu klin maɪ ˈbɛdruːm təˈdeɪ./",
+    "portuguesePhonetic": "ai nid tchu clín mai béd-rum tchu-dêi.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " clean",
+      " my",
+      " bed",
+      "room",
+      " to",
+      "day."
+    ],
+    "exampleSentence": "I need to clean my bedroom today.",
+    "exampleTranslation": "Eu preciso limpar meu quarto hoje."
+  },
+  {
+    "id": "lesson_19_34",
+    "word": "I don't have time to clean the kitchen now.",
+    "translation": "Eu não tenho tempo para limpar a cozinha agora.",
+    "pronunciation": "/aɪ doʊnt hæv taɪm tu klin ðə ˈkɪtʃən naʊ./",
+    "portuguesePhonetic": "ai dôunt rév taim tchu clín dâ kí-tchen náu.",
+    "syllables": [
+      "I",
+      " don't",
+      " have",
+      " time",
+      " to",
+      " clean",
+      " the",
+      " kitch",
+      "en",
+      " now."
+    ],
+    "exampleSentence": "I don't have time to clean the kitchen now.",
+    "exampleTranslation": "Eu não tenho tempo para limpar a cozinha agora."
+  },
+  {
+    "id": "lesson_19_35",
+    "word": "We have to sleep on the couch.",
+    "translation": "Nós temos que dormir no sofá.",
+    "pronunciation": "/wi hæv tu sleep ɑn ðə kaʊtʃ./",
+    "portuguesePhonetic": "ui rév tchu slíp ón dâ cáutch.",
+    "syllables": [
+      "We",
+      " have",
+      " to",
+      " sleep",
+      " on",
+      " the",
+      " couch."
+    ],
+    "exampleSentence": "We have to sleep on the couch.",
+    "exampleTranslation": "Nós temos que dormir no sofá."
+  },
+  {
+    "id": "lesson_19_36",
+    "word": "What time do you go to work?",
+    "translation": "A que horas você vai ao trabalho?",
+    "pronunciation": "/wʌt taɪm du ju ɡoʊ tu wɜrk?/",
+    "portuguesePhonetic": "uót taim du iu gôu tchu uãrk?",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " you",
+      " go",
+      " to",
+      " work?"
+    ],
+    "exampleSentence": "What time do you go to work?",
+    "exampleTranslation": "A que horas você vai ao trabalho?"
+  },
+  {
+    "id": "lesson_19_37",
+    "word": "I usually go to work at 7:00 A.M.",
+    "translation": "Eu geralmente vou trabalhar às 7:00 da manhã.",
+    "pronunciation": "/aɪ ˈjuʒuəli ɡoʊ tu wɜrk æt ˈsɛvən eɪ-ɛm./",
+    "portuguesePhonetic": "ai iú-ju-a-li gôu tchu uãrk ét sé-ven êi-ém.",
+    "syllables": [
+      "I",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " go",
+      " to",
+      " work",
+      " at",
+      " 7:00",
+      " A.M."
+    ],
+    "exampleSentence": "I usually go to work at 7:00 A.M.",
+    "exampleTranslation": "Eu geralmente vou trabalhar às 7:00 da manhã."
+  },
+  {
+    "id": "lesson_19_38",
+    "word": "thirty",
+    "translation": "trinta",
+    "pronunciation": "/ˈθɜrti/",
+    "portuguesePhonetic": "zãr-ti",
+    "syllables": [
+      "thir",
+      "ty"
+    ],
+    "exampleSentence": "thirty",
+    "exampleTranslation": "trinta"
+  },
+  {
+    "id": "lesson_19_39",
+    "word": "forty",
+    "translation": "quarenta",
+    "pronunciation": "/ˈfɔrti/",
+    "portuguesePhonetic": "fór-ti",
+    "syllables": [
+      "for",
+      "ty"
+    ],
+    "exampleSentence": "forty",
+    "exampleTranslation": "quarenta"
+  },
+  {
+    "id": "lesson_19_40",
+    "word": "fifty",
+    "translation": "cinquenta",
+    "pronunciation": "/ˈfɪfti/",
+    "portuguesePhonetic": "fif-ti",
+    "syllables": [
+      "fif",
+      "ty"
+    ],
+    "exampleSentence": "fifty",
+    "exampleTranslation": "cinquenta"
+  },
+  {
+    "id": "lesson_19_41",
+    "word": "sixty",
+    "translation": "sessenta",
+    "pronunciation": "/ˈsɪksti/",
+    "portuguesePhonetic": "sícs-ti",
+    "syllables": [
+      "six",
+      "ty"
+    ],
+    "exampleSentence": "sixty",
+    "exampleTranslation": "sessenta"
+  },
+  {
+    "id": "lesson_19_42",
+    "word": "It's four o'clock.",
+    "translation": "São quatro horas.",
+    "pronunciation": "/ɪts fɔr əˈklɑk./",
+    "portuguesePhonetic": "its fór o-clóc.",
+    "syllables": [
+      "It's",
+      " four",
+      " o'clock."
+    ],
+    "exampleSentence": "It's four o'clock.",
+    "exampleTranslation": "São quatro horas."
+  },
+  {
+    "id": "lesson_19_43",
+    "word": "It's four fifteen.",
+    "translation": "São quatro e quinze.",
+    "pronunciation": "/ɪts fɔr fɪfˈtin./",
+    "portuguesePhonetic": "its fór fif-tín.",
+    "syllables": [
+      "It's",
+      " four",
+      " fif",
+      "teen."
+    ],
+    "exampleSentence": "It's four fifteen.",
+    "exampleTranslation": "São quatro e quinze."
+  },
+  {
+    "id": "lesson_19_44",
+    "word": "It's four thirty.",
+    "translation": "São quatro e trinta.",
+    "pronunciation": "/ɪts fɔr ˈθɜrti./",
+    "portuguesePhonetic": "its fór zãr-ti.",
+    "syllables": [
+      "It's",
+      " four",
+      " thir",
+      "ty."
+    ],
+    "exampleSentence": "It's four thirty.",
+    "exampleTranslation": "São quatro e trinta."
+  },
+  {
+    "id": "lesson_19_45",
+    "word": "It's four fifty.",
+    "translation": "São quatro e cinquenta.",
+    "pronunciation": "/ɪts fɔr ˈfɪfti./",
+    "portuguesePhonetic": "its fór fif-ti.",
+    "syllables": [
+      "It's",
+      " four",
+      " fif",
+      "ty."
+    ],
+    "exampleSentence": "It's four fifty.",
+    "exampleTranslation": "São quatro e cinquenta."
+  },
+  {
+    "id": "lesson_19_46",
+    "word": "It's ten to five.",
+    "translation": "São dez para as cinco.",
+    "pronunciation": "/ɪts tɛn tu faɪv./",
+    "portuguesePhonetic": "its tén tchu faiv.",
+    "syllables": [
+      "It's",
+      " ten",
+      " to",
+      " five."
+    ],
+    "exampleSentence": "It's ten to five.",
+    "exampleTranslation": "São dez para as cinco."
+  },
+  {
+    "id": "lesson_19_47",
+    "word": "to have breakfast",
+    "translation": "tomar café da manhã",
+    "pronunciation": "/tu hæv ˈbrɛkfəst/",
+    "portuguesePhonetic": "tchu rév bréc-fast",
+    "syllables": [
+      "to",
+      " have",
+      " break",
+      "fast"
+    ],
+    "exampleSentence": "to have breakfast",
+    "exampleTranslation": "tomar café da manhã"
+  },
+  {
+    "id": "lesson_19_48",
+    "word": "to have dinner",
+    "translation": "jantar",
+    "pronunciation": "/tu hæv ˈdɪnər/",
+    "portuguesePhonetic": "tchu rév dí-ner",
+    "syllables": [
+      "to",
+      " have",
+      " din",
+      "ner"
+    ],
+    "exampleSentence": "to have dinner",
+    "exampleTranslation": "jantar"
+  },
+  {
+    "id": "lesson_19_49",
+    "word": "cook",
+    "translation": "cozinhar",
+    "pronunciation": "/kʊk/",
+    "portuguesePhonetic": "cúc",
+    "syllables": [
+      "cook"
+    ],
+    "exampleSentence": "cook",
+    "exampleTranslation": "cozinhar"
+  },
+  {
+    "id": "lesson_19_50",
+    "word": "clean",
+    "translation": "limpar",
+    "pronunciation": "/klin/",
+    "portuguesePhonetic": "clín",
+    "syllables": [
+      "clean"
+    ],
+    "exampleSentence": "clean",
+    "exampleTranslation": "limpar"
+  },
+  {
+    "id": "lesson_19_51",
+    "word": "do the dishes",
+    "translation": "lavar a louça",
+    "pronunciation": "/du ðə ˈdɪʃəz/",
+    "portuguesePhonetic": "du dâ dí-chis",
+    "syllables": [
+      "do",
+      " the",
+      " dish",
+      "es"
+    ],
+    "exampleSentence": "do the dishes",
+    "exampleTranslation": "lavar a louça"
+  },
+  {
+    "id": "lesson_19_52",
+    "word": "do the laundry",
+    "translation": "lavar a roupa",
+    "pronunciation": "/du ðə ˈlɔndri/",
+    "portuguesePhonetic": "du dâ lón-dri",
+    "syllables": [
+      "do",
+      " the",
+      " laun",
+      "dry"
+    ],
+    "exampleSentence": "do the laundry",
+    "exampleTranslation": "lavar a roupa"
+  },
+  {
+    "id": "lesson_19_53",
+    "word": "have lunch",
+    "translation": "almoçar",
+    "pronunciation": "/hæv lʌntʃ/",
+    "portuguesePhonetic": "rév lántch",
+    "syllables": [
+      "have",
+      " lunch"
+    ],
+    "exampleSentence": "have lunch",
+    "exampleTranslation": "almoçar"
+  },
+  {
+    "id": "lesson_19_54",
+    "word": "have breakfast",
+    "translation": "tomar café da manhã",
+    "pronunciation": "/hæv ˈbrɛkfəst/",
+    "portuguesePhonetic": "rév bréc-fast",
+    "syllables": [
+      "have",
+      " break",
+      "fast"
+    ],
+    "exampleSentence": "have breakfast",
+    "exampleTranslation": "tomar café da manhã"
+  },
+  {
+    "id": "lesson_19_55",
+    "word": "have dinner",
+    "translation": "jantar",
+    "pronunciation": "/hæv ˈdɪnər/",
+    "portuguesePhonetic": "rév dí-ner",
+    "syllables": [
+      "have",
+      " din",
+      "ner"
+    ],
+    "exampleSentence": "have dinner",
+    "exampleTranslation": "jantar"
+  },
+  {
+    "id": "lesson_19_56",
+    "word": "get up",
+    "translation": "levantar-se",
+    "pronunciation": "/ɡɛt ʌp/",
+    "portuguesePhonetic": "guét áp",
+    "syllables": [
+      "get",
+      " up"
+    ],
+    "exampleSentence": "get up",
+    "exampleTranslation": "levantar-se"
+  },
+  {
+    "id": "lesson_19_57",
+    "word": "go to bed",
+    "translation": "ir dormir",
+    "pronunciation": "/ɡoʊ tu bɛd/",
+    "portuguesePhonetic": "gôu tchu béd",
+    "syllables": [
+      "go",
+      " to",
+      " bed"
+    ],
+    "exampleSentence": "go to bed",
+    "exampleTranslation": "ir dormir"
+  },
+  {
+    "id": "lesson_19_58",
+    "word": "bedroom",
+    "translation": "quarto",
+    "pronunciation": "/ˈbɛdruːm/",
+    "portuguesePhonetic": "béd-rum",
+    "syllables": [
+      "bed",
+      "room"
+    ],
+    "exampleSentence": "bedroom",
+    "exampleTranslation": "quarto"
+  },
+  {
+    "id": "lesson_19_59",
+    "word": "bathroom",
+    "translation": "banheiro",
+    "pronunciation": "/ˈbæθruːm/",
+    "portuguesePhonetic": "béz-rum",
+    "syllables": [
+      "bath",
+      "room"
+    ],
+    "exampleSentence": "bathroom",
+    "exampleTranslation": "banheiro"
+  },
+  {
+    "id": "lesson_19_60",
+    "word": "living room",
+    "translation": "sala de estar",
+    "pronunciation": "/ˈlɪvɪŋ rum/",
+    "portuguesePhonetic": "lív-ing rum",
+    "syllables": [
+      "liv",
+      "ing",
+      " room"
+    ],
+    "exampleSentence": "living room",
+    "exampleTranslation": "sala de estar"
+  },
+  {
+    "id": "lesson_19_61",
+    "word": "kitchen",
+    "translation": "cozinha",
+    "pronunciation": "/ˈkɪtʃən/",
+    "portuguesePhonetic": "kí-tchen",
+    "syllables": [
+      "kitch",
+      "en"
+    ],
+    "exampleSentence": "kitchen",
+    "exampleTranslation": "cozinha"
+  },
+  {
+    "id": "lesson_19_62",
+    "word": "couch",
+    "translation": "sofá",
+    "pronunciation": "/kaʊtʃ/",
+    "portuguesePhonetic": "cáutch",
+    "syllables": [
+      "couch"
+    ],
+    "exampleSentence": "couch",
+    "exampleTranslation": "sofá"
+  },
+  {
+    "id": "lesson_19_63",
+    "word": "noon",
+    "translation": "meio-dia",
+    "pronunciation": "/nun/",
+    "portuguesePhonetic": "nun",
+    "syllables": [
+      "noon"
+    ],
+    "exampleSentence": "noon",
+    "exampleTranslation": "meio-dia"
+  },
+  {
+    "id": "lesson_19_64",
+    "word": "midnight",
+    "translation": "meia-noite",
+    "pronunciation": "/ˈmɪdnaɪt/",
+    "portuguesePhonetic": "míd-nait",
+    "syllables": [
+      "mid",
+      "night"
+    ],
+    "exampleSentence": "midnight",
+    "exampleTranslation": "meia-noite"
+  },
+  {
+    "id": "lesson_19_65",
+    "word": "until",
+    "translation": "até",
+    "pronunciation": "/ənˈtɪl/",
+    "portuguesePhonetic": "ân-tíl",
+    "syllables": [
+      "un",
+      "til"
+    ],
+    "exampleSentence": "until",
+    "exampleTranslation": "até"
+  },
+  {
+    "id": "lesson_19_66",
+    "word": "some",
+    "translation": "um pouco de",
+    "pronunciation": "/sʌm/",
+    "portuguesePhonetic": "sâm",
+    "syllables": [
+      "some"
+    ],
+    "exampleSentence": "some",
+    "exampleTranslation": "um pouco de"
+  },
+  {
+    "id": "lesson_19_67",
+    "word": "tomato sauce",
+    "translation": "molho de tomate",
+    "pronunciation": "/təˈmeɪtoʊ sɔs/",
+    "portuguesePhonetic": "to-mêi-tou sós",
+    "syllables": [
+      "to",
+      "ma",
+      "to",
+      " sauce"
+    ],
+    "exampleSentence": "tomato sauce",
+    "exampleTranslation": "molho de tomate"
+  },
+  {
+    "id": "lesson_19_68",
+    "word": "time",
+    "translation": "hora",
+    "pronunciation": "/taɪm/",
+    "portuguesePhonetic": "taim",
+    "syllables": [
+      "time"
+    ],
+    "exampleSentence": "time",
+    "exampleTranslation": "hora"
+  },
+  {
+    "id": "lesson_19_69",
+    "word": "What time is it?",
+    "translation": "Que horas são?",
+    "pronunciation": "/wʌt taɪm ɪz ɪt?/",
+    "portuguesePhonetic": "uót taim íz it?",
+    "syllables": [
+      "What",
+      " time",
+      " is",
+      " it?"
+    ],
+    "exampleSentence": "What time is it?",
+    "exampleTranslation": "Que horas são?"
+  },
+  {
+    "id": "lesson_19_70",
+    "word": "What time do you go to work?",
+    "translation": "A que horas você vai ao trabalho?",
+    "pronunciation": "/wʌt taɪm du ju ɡoʊ tu wɜrk?/",
+    "portuguesePhonetic": "uót taim du iu gôu tchu uãrk?",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " you",
+      " go",
+      " to",
+      " work?"
+    ],
+    "exampleSentence": "What time do you go to work?",
+    "exampleTranslation": "A que horas você vai ao trabalho?"
+  },
+  {
+    "id": "lesson_19_71",
+    "word": "What time is it, please? – It’s five o’clock.",
+    "translation": "Que horas são, por favor? – São cinco horas.",
+    "pronunciation": "/wʌt taɪm ɪz ɪt pliːz? – ɪts faɪv əˈklɑk./",
+    "portuguesePhonetic": "uót taim íz it, plíz? – íts faiv o-clóc.",
+    "syllables": [
+      "What",
+      " time",
+      " is",
+      " it,",
+      " please? ",
+      "It's",
+      " five",
+      " o'clock."
+    ],
+    "exampleSentence": "What time is it, please? – It’s five o’clock.",
+    "exampleTranslation": "Que horas são, por favor? – São cinco horas."
+  },
+  {
+    "id": "lesson_19_72",
+    "word": "What time do you get up? – I get up at 7:00 a.m.",
+    "translation": "A que horas você se levanta? – Eu me levanto às 7:00 horas da manhã.",
+    "pronunciation": "/wʌt taɪm du ju ɡɛt ʌp? – aɪ ɡɛt ʌp æt ˈsɛvən eɪ-ɛm./",
+    "portuguesePhonetic": "uót taim du iu guét áp? – ai guét áp ét sé-ven êi-ém.",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " you",
+      " get",
+      " up?",
+      " I",
+      " get",
+      " up",
+      " at",
+      " 7:00",
+      " a.m."
+    ],
+    "exampleSentence": "What time do you get up? – I get up at 7:00 a.m.",
+    "exampleTranslation": "A que horas você se levanta? – Eu me levanto às 7:00 horas da manhã."
+  },
+  {
+    "id": "lesson_19_73",
+    "word": "I do the laundry in the morning and you clean the kitchen in the afternoon.",
+    "translation": "Eu lavo a roupa de manhã e você limpa a cozinha à tarde.",
+    "pronunciation": "/aɪ du ðə ˈlɔndri ɪn ðə ˈmɔrnɪŋ ænd ju klin ðə ˈkɪtʃən ɪn ði ˌæftərˈnun./",
+    "portuguesePhonetic": "ai du dâ lón-dri in dâ mór-ning énd iu clín dâ kí-tchen in di éf-ter-nun.",
+    "syllables": [
+      "I",
+      " do",
+      " the",
+      " laun",
+      "dry",
+      " in",
+      " the",
+      " morn",
+      "ing",
+      " and",
+      " you",
+      " clean",
+      " the",
+      " kitch",
+      "en",
+      " in",
+      " the",
+      " af",
+      "ter",
+      "noon."
+    ],
+    "exampleSentence": "I do the laundry in the morning and you clean the kitchen in the afternoon.",
+    "exampleTranslation": "Eu lavo a roupa de manhã e você limpa a cozinha à tarde."
+  },
+  {
+    "id": "lesson_19_74",
+    "word": "We love to cook eggs, rice, and vegetables for lunch.",
+    "translation": "Nós amamos cozinhar ovos, arroz e legumes para o almoço.",
+    "pronunciation": "/wi lʌv tu kʊk ɛɡz raɪs ænd ˈvɛdʒtəbəlz fɔr lʌntʃ./",
+    "portuguesePhonetic": "ui lâv tchu cúc égs, rais énd védj-tâ-bôls fór lántch.",
+    "syllables": [
+      "We",
+      " love",
+      " to",
+      " cook",
+      " eggs",
+      " rice",
+      " and",
+      " veg",
+      "e",
+      "ta",
+      "bles",
+      " for",
+      " lunch."
+    ],
+    "exampleSentence": "We love to cook eggs, rice, and vegetables for lunch.",
+    "exampleTranslation": "Nós amamos cozinhar ovos, arroz e legumes para o almoço."
+  },
+  {
+    "id": "lesson_19_75",
+    "word": "I don’t have time to cook now. Do you want to go to a restaurant?",
+    "translation": "Eu não tenho tempo de cozinhar agora. Você quer ir a um restaurante?",
+    "pronunciation": "/aɪ doʊnt hæv taɪm tu kʊk naʊ. du ju wɑnt tu ɡoʊ tu ə ˈrɛstəˌrɑnt?/",
+    "portuguesePhonetic": "ai dôunt rév taim tchu cúc náu. du iu uánt tchu gôu tchu a rés-tâ-rãnt?",
+    "syllables": [
+      "I",
+      " don't",
+      " have",
+      " time",
+      " to",
+      " cook",
+      " now.",
+      " Do",
+      " you",
+      " want",
+      " to",
+      " go",
+      " to",
+      " a",
+      " res",
+      "tau",
+      "rant?"
+    ],
+    "exampleSentence": "I don’t have time to cook now. Do you want to go to a restaurant?",
+    "exampleTranslation": "Eu não tenho tempo de cozinhar agora. Você quer ir a um restaurante?"
+  },
+  {
+    "id": "lesson_19_76",
+    "word": "Do you want some tomato soup?",
+    "translation": "Vocês querem um pouco de sopa de tomate?",
+    "pronunciation": "/du ju wɑnt sʌm təˈmeɪtoʊ sup?/",
+    "portuguesePhonetic": "du iu uánt sâm to-mêi-tou sup?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " some",
+      " to",
+      "ma",
+      "to",
+      " soup?"
+    ],
+    "exampleSentence": "Do you want some tomato soup?",
+    "exampleTranslation": "Vocês querem um pouco de sopa de tomate?"
+  },
+  {
+    "id": "lesson_19_77",
+    "word": "I like to cook for my family.",
+    "translation": "Eu gosto de cozinhar para a minha família.",
+    "pronunciation": "/aɪ laɪk tu kʊk fɔr maɪ ˈfæməli./",
+    "portuguesePhonetic": "ai laic tchu cúc fór mai fé-mi-li.",
+    "syllables": [
+      "I",
+      " like",
+      " to",
+      " cook",
+      " for",
+      " my",
+      " fam",
+      "i",
+      "ly."
+    ],
+    "exampleSentence": "I like to cook for my family.",
+    "exampleTranslation": "Eu gosto de cozinhar para a minha família."
+  },
+  {
+    "id": "lesson_19_78",
+    "word": "Do you clean your bedroom every day?",
+    "translation": "Você limpa seu quarto todos os dias?",
+    "pronunciation": "/du ju klin jʊr ˈbɛdruːm ˈɛvri deɪ?/",
+    "portuguesePhonetic": "du iu clín iór béd-rum év-ri dêi?",
+    "syllables": [
+      "Do",
+      " you",
+      " clean",
+      " your",
+      " bed",
+      "room",
+      " ev",
+      "ery",
+      " day?"
+    ],
+    "exampleSentence": "Do you clean your bedroom every day?",
+    "exampleTranslation": "Você limpa seu quarto todos os dias?"
+  },
+  {
+    "id": "lesson_19_79",
+    "word": "They have class at eight o’clock every day.",
+    "translation": "Eles têm aula às oito horas todos os dias.",
+    "pronunciation": "/ðeɪ hæv klæs æt eɪt əˈklɑk ˈɛvri deɪ./",
+    "portuguesePhonetic": "dêi rév clés ét êit o-clóc év-ri dêi.",
+    "syllables": [
+      "They",
+      " have",
+      " class",
+      " at",
+      " eight",
+      " o'clock",
+      " ev",
+      "ery",
+      " day."
+    ],
+    "exampleSentence": "They have class at eight o’clock every day.",
+    "exampleTranslation": "Eles têm aula às oito horas todos os dias."
+  },
+  {
+    "id": "lesson_19_80",
+    "word": "You wash the dishes and I cook dinner.",
+    "translation": "Você lava a louça e eu cozinho o jantar.",
+    "pronunciation": "/ju wɑʃ ðə ˈdɪʃəz ænd aɪ kʊk ˈdɪnər./",
+    "portuguesePhonetic": "iu uóch dâ dí-chis énd ai cúc dí-ner.",
+    "syllables": [
+      "You",
+      " wash",
+      " the",
+      " dish",
+      "es",
+      " and",
+      " I",
+      " cook",
+      " din",
+      "ner."
+    ],
+    "exampleSentence": "You wash the dishes and I cook dinner.",
+    "exampleTranslation": "Você lava a louça e eu cozinho o jantar."
+  },
+  {
+    "id": "lesson_19_81",
+    "word": "I want some soup for dinner. What about you?",
+    "translation": "Eu quero um pouco de sopa para o jantar. E você?",
+    "pronunciation": "/aɪ wɑnt sʌm sup fɔr ˈdɪnər. wʌt əˈbaʊt ju?/",
+    "portuguesePhonetic": "ai uánt sâm sup fór dí-ner. uát a-báut iu?",
+    "syllables": [
+      "I",
+      " want",
+      " some",
+      " soup",
+      " for",
+      " din",
+      "ner.",
+      " What",
+      " a",
+      "bout",
+      " you?"
+    ],
+    "exampleSentence": "I want some soup for dinner. What about you?",
+    "exampleTranslation": "Eu quero um pouco de sopa para o jantar. E você?"
+  },
+  {
+    "id": "lesson_19_82",
+    "word": "We prefer to eat pasta with tomato sauce for lunch.",
+    "translation": "Nós preferimos comer macarrão com molho de tomate no almoço.",
+    "pronunciation": "/wi prəˈfɜr tu it ˈpɑstə wɪð təˈmeɪtoʊ sɔs fɔr lʌntʃ./",
+    "portuguesePhonetic": "ui pri-fãr tchu ít pás-ta uith to-mêi-tou sós fór lántch.",
+    "syllables": [
+      "We",
+      " pre",
+      "fer",
+      " to",
+      " eat",
+      " pas",
+      "ta",
+      " with",
+      " to",
+      "ma",
+      "to",
+      " sauce",
+      " for",
+      " lunch."
+    ],
+    "exampleSentence": "We prefer to eat pasta with tomato sauce for lunch.",
+    "exampleTranslation": "Nós preferimos comer macarrão com molho de tomate no almoço."
+  },
+  {
+    "id": "lesson_19_83",
+    "word": "I need to get up early to clean the kitchen.",
+    "translation": "Eu preciso acordar cedo para limpar a cozinha.",
+    "pronunciation": "/aɪ nid tu ɡɛt ʌp ˈɜrli tu klin ðə ˈkɪtʃən./",
+    "portuguesePhonetic": "ai nid tchu guét áp ãr-li tchu clín dâ kí-tchen.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " get",
+      " up",
+      " ear",
+      "ly",
+      " to",
+      " clean",
+      " the",
+      " kitch",
+      "en."
+    ],
+    "exampleSentence": "I need to get up early to clean the kitchen.",
+    "exampleTranslation": "Eu preciso acordar cedo para limpar a cozinha."
+  },
+  {
+    "id": "lesson_19_84",
+    "word": "I have to do the laundry in the morning.",
+    "translation": "Eu tenho que lavar a roupa de manhã.",
+    "pronunciation": "/aɪ hæv tu du ðə ˈlɔndri ɪn ðə ˈmɔrnɪŋ./",
+    "portuguesePhonetic": "ai rév tchu du dâ lón-dri in dâ mór-ning.",
+    "syllables": [
+      "I",
+      " have",
+      " to",
+      " do",
+      " the",
+      " laun",
+      "dry",
+      " in",
+      " the",
+      " morn",
+      "ing."
+    ],
+    "exampleSentence": "I have to do the laundry in the morning.",
+    "exampleTranslation": "Eu tenho que lavar a roupa de manhã."
+  },
+  {
+    "id": "lesson_19_85",
+    "word": "get up",
+    "translation": "levantar-se",
+    "pronunciation": "/ɡɛt ʌp/",
+    "portuguesePhonetic": "guét áp",
+    "syllables": [
+      "get",
+      " up"
+    ],
+    "exampleSentence": "get up",
+    "exampleTranslation": "levantar-se"
+  },
+  {
+    "id": "lesson_19_86",
+    "word": "do the laundry",
+    "translation": "lavar roupa",
+    "pronunciation": "/du ðə ˈlɔndri/",
+    "portuguesePhonetic": "du dâ lón-dri",
+    "syllables": [
+      "do",
+      " the",
+      " laun",
+      "dry"
+    ],
+    "exampleSentence": "do the laundry",
+    "exampleTranslation": "lavar roupa"
+  },
+  {
+    "id": "lesson_19_87",
+    "word": "clean the kitchen",
+    "translation": "limpar a cozinha",
+    "pronunciation": "/klin ðə ˈkɪtʃən/",
+    "portuguesePhonetic": "clín dâ kí-tchen",
+    "syllables": [
+      "clean",
+      " the",
+      " kitch",
+      "en"
+    ],
+    "exampleSentence": "clean the kitchen",
+    "exampleTranslation": "limpar a cozinha"
+  },
+  {
+    "id": "lesson_19_88",
+    "word": "cook dinner",
+    "translation": "cozinhar o jantar",
+    "pronunciation": "/kʊk ˈdɪnər/",
+    "portuguesePhonetic": "cúc dí-ner",
+    "syllables": [
+      "cook",
+      " din",
+      "ner"
+    ],
+    "exampleSentence": "cook dinner",
+    "exampleTranslation": "cozinhar o jantar"
+  },
+  {
+    "id": "lesson_19_89",
+    "word": "wash the dishes",
+    "translation": "lavar a louça",
+    "pronunciation": "/wɑʃ ðə ˈdɪʃəz/",
+    "portuguesePhonetic": "uóch dâ dí-chis",
+    "syllables": [
+      "wash",
+      " the",
+      " dish",
+      "es"
+    ],
+    "exampleSentence": "wash the dishes",
+    "exampleTranslation": "lavar a louça"
+  },
+  {
+    "id": "lesson_19_90",
+    "word": "tomato soup",
+    "translation": "sopa de tomate",
+    "pronunciation": "/təˈmeɪtoʊ sup/",
+    "portuguesePhonetic": "to-mêi-tou sup",
+    "syllables": [
+      "to",
+      "ma",
+      "to",
+      " soup"
+    ],
+    "exampleSentence": "tomato soup",
+    "exampleTranslation": "sopa de tomate"
+  },
+  {
+    "id": "lesson_19_91",
+    "word": "pasta with tomato sauce",
+    "translation": "macarrão com molho de tomate",
+    "pronunciation": "/ˈpɑstə wɪð təˈmeɪtoʊ sɔs/",
+    "portuguesePhonetic": "pás-ta uith to-mêi-tou sós",
+    "syllables": [
+      "pas",
+      "ta",
+      " with",
+      " to",
+      "ma",
+      "to",
+      " sauce"
+    ],
+    "exampleSentence": "pasta with tomato sauce",
+    "exampleTranslation": "macarrão com molho de tomate"
+  },
+  {
+    "id": "lesson_19_92",
+    "word": "every day",
+    "translation": "todos os dias",
+    "pronunciation": "/ˈɛvri deɪ/",
+    "portuguesePhonetic": "év-ri dêi",
+    "syllables": [
+      "ev",
+      "ery",
+      " day"
+    ],
+    "exampleSentence": "every day",
+    "exampleTranslation": "todos os dias"
+  },
+  {
+    "id": "lesson_19_93",
+    "word": "restaurant",
+    "translation": "restaurante",
+    "pronunciation": "/ˈrɛstəˌrɑnt/",
+    "portuguesePhonetic": "rés-tâ-rãnt",
+    "syllables": [
+      "res",
+      "tau",
+      "rant"
+    ],
+    "exampleSentence": "restaurant",
+    "exampleTranslation": "restaurante"
+  },
+  {
+    "id": "lesson_19_94",
+    "word": "class",
+    "translation": "aula",
+    "pronunciation": "/klæs/",
+    "portuguesePhonetic": "clés",
+    "syllables": [
+      "class"
+    ],
+    "exampleSentence": "class",
+    "exampleTranslation": "aula"
+  },
+  {
+    "id": "lesson_19_95",
+    "word": "early",
+    "translation": "cedo",
+    "pronunciation": "/ˈɜrli/",
+    "portuguesePhonetic": "ãr-li",
+    "syllables": [
+      "ear",
+      "ly"
+    ],
+    "exampleSentence": "early",
+    "exampleTranslation": "cedo"
+  },
+  {
+    "id": "lesson_19_96",
+    "word": "lunch",
+    "translation": "almoço",
+    "pronunciation": "/lʌntʃ/",
+    "portuguesePhonetic": "lántch",
+    "syllables": [
+      "lunch"
+    ],
+    "exampleSentence": "lunch",
+    "exampleTranslation": "almoço"
+  },
+  {
+    "id": "lesson_19_97",
+    "word": "dinner",
+    "translation": "jantar",
+    "pronunciation": "/ˈdɪnər/",
+    "portuguesePhonetic": "dí-ner",
+    "syllables": [
+      "din",
+      "ner"
+    ],
+    "exampleSentence": "dinner",
+    "exampleTranslation": "jantar"
+  },
+  {
+    "id": "lesson_19_98",
+    "word": "morning",
+    "translation": "manhã",
+    "pronunciation": "/ˈmɔrnɪŋ/",
+    "portuguesePhonetic": "mór-ning",
+    "syllables": [
+      "morn",
+      "ing"
+    ],
+    "exampleSentence": "morning",
+    "exampleTranslation": "manhã"
+  },
+  {
+    "id": "lesson_19_99",
+    "word": "afternoon",
+    "translation": "tarde",
+    "pronunciation": "/ˌæftərˈnun/",
+    "portuguesePhonetic": "éf-ter-nun",
+    "syllables": [
+      "af",
+      "ter",
+      "noon"
+    ],
+    "exampleSentence": "afternoon",
+    "exampleTranslation": "tarde"
+  },
+  {
+    "id": "lesson_19_100",
+    "word": "o’clock",
+    "translation": "em ponto (horas)",
+    "pronunciation": "/əˈklɑk/",
+    "portuguesePhonetic": "o-clóc",
+    "syllables": [
+      "o'clock"
+    ],
+    "exampleSentence": "o’clock",
+    "exampleTranslation": "em ponto (horas)"
+  }
+]

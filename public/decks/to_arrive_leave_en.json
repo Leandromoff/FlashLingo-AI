@@ -1,0 +1,2440 @@
+[
+  {
+    "id": "to_arrive_leave_1",
+    "word": "to arrive",
+    "translation": "chegar",
+    "pronunciation": "/tu əˈraɪv/",
+    "portuguesePhonetic": "tchu a-ráiv",
+    "syllables": [
+      "to",
+      " ar",
+      "rive"
+    ],
+    "exampleSentence": "to arrive",
+    "exampleTranslation": "chegar"
+  },
+  {
+    "id": "to_arrive_leave_2",
+    "word": "to leave",
+    "translation": "deixar, partir, sair",
+    "pronunciation": "/tu liv/",
+    "portuguesePhonetic": "tchu liv",
+    "syllables": [
+      "to",
+      " leave"
+    ],
+    "exampleSentence": "to leave",
+    "exampleTranslation": "deixar, partir, sair"
+  },
+  {
+    "id": "to_arrive_leave_3",
+    "word": "guest",
+    "translation": "hóspede",
+    "pronunciation": "/ɡɛst/",
+    "portuguesePhonetic": "guést",
+    "syllables": [
+      "guest"
+    ],
+    "exampleSentence": "guest",
+    "exampleTranslation": "hóspede"
+  },
+  {
+    "id": "to_arrive_leave_4",
+    "word": "foreigner",
+    "translation": "estrangeiro(a)",
+    "pronunciation": "/ˈfɔrənər/",
+    "portuguesePhonetic": "fó-re-ner",
+    "syllables": [
+      "for",
+      "eign",
+      "er"
+    ],
+    "exampleSentence": "foreigner",
+    "exampleTranslation": "estrangeiro(a)"
+  },
+  {
+    "id": "to_arrive_leave_5",
+    "word": "nationality",
+    "translation": "nacionalidade",
+    "pronunciation": "/ˌnæʃəˈnæləti/",
+    "portuguesePhonetic": "né-xo-né-li-ti",
+    "syllables": [
+      "na",
+      "tion",
+      "al",
+      "i",
+      "ty"
+    ],
+    "exampleSentence": "nationality",
+    "exampleTranslation": "nacionalidade"
+  },
+  {
+    "id": "to_arrive_leave_6",
+    "word": "ride",
+    "translation": "carona",
+    "pronunciation": "/raɪd/",
+    "portuguesePhonetic": "ráid",
+    "syllables": [
+      "ride"
+    ],
+    "exampleSentence": "ride",
+    "exampleTranslation": "carona"
+  },
+  {
+    "id": "to_arrive_leave_7",
+    "word": "hostel",
+    "translation": "albergue",
+    "pronunciation": "/ˈhɑstəl/",
+    "portuguesePhonetic": "hós-tel",
+    "syllables": [
+      "hos",
+      "tel"
+    ],
+    "exampleSentence": "hostel",
+    "exampleTranslation": "albergue"
+  },
+  {
+    "id": "to_arrive_leave_8",
+    "word": "hotel",
+    "translation": "hotel",
+    "pronunciation": "/hoʊˈtɛl/",
+    "portuguesePhonetic": "rou-tél",
+    "syllables": [
+      "ho",
+      "tel"
+    ],
+    "exampleSentence": "hotel",
+    "exampleTranslation": "hotel"
+  },
+  {
+    "id": "to_arrive_leave_9",
+    "word": "lobby",
+    "translation": "saguão",
+    "pronunciation": "/ˈlɑbi/",
+    "portuguesePhonetic": "ló-bi",
+    "syllables": [
+      "lob",
+      "by"
+    ],
+    "exampleSentence": "lobby",
+    "exampleTranslation": "saguão"
+  },
+  {
+    "id": "to_arrive_leave_10",
+    "word": "room service",
+    "translation": "serviço de quarto",
+    "pronunciation": "/rum ˈsɜrvəs/",
+    "portuguesePhonetic": "rúm sãr-vis",
+    "syllables": [
+      "room",
+      " ser",
+      "vice"
+    ],
+    "exampleSentence": "room service",
+    "exampleTranslation": "serviço de quarto"
+  },
+  {
+    "id": "to_arrive_leave_11",
+    "word": "fitness center",
+    "translation": "sala de ginástica",
+    "pronunciation": "/ˈfɪtnəs ˈsɛntər/",
+    "portuguesePhonetic": "fít-nes sén-ter",
+    "syllables": [
+      "fit",
+      "ness",
+      " cen",
+      "ter"
+    ],
+    "exampleSentence": "fitness center",
+    "exampleTranslation": "sala de ginástica"
+  },
+  {
+    "id": "to_arrive_leave_12",
+    "word": "cable TV",
+    "translation": "TV a cabo",
+    "pronunciation": "/ˈkeɪbəl ˌtiˈvi/",
+    "portuguesePhonetic": "quêi-bol tî-vî",
+    "syllables": [
+      "ca",
+      "ble",
+      " T",
+      "V"
+    ],
+    "exampleSentence": "cable TV",
+    "exampleTranslation": "TV a cabo"
+  },
+  {
+    "id": "to_arrive_leave_13",
+    "word": "swimming pool",
+    "translation": "piscina",
+    "pronunciation": "/ˈswɪmɪŋ pul/",
+    "portuguesePhonetic": "suí-min pul",
+    "syllables": [
+      "swim",
+      "ming",
+      " pool"
+    ],
+    "exampleSentence": "swimming pool",
+    "exampleTranslation": "piscina"
+  },
+  {
+    "id": "to_arrive_leave_14",
+    "word": "parking lot",
+    "translation": "estacionamento",
+    "pronunciation": "/ˈpɑrkɪŋ lɑt/",
+    "portuguesePhonetic": "pár-quin lót",
+    "syllables": [
+      "park",
+      "ing",
+      " lot"
+    ],
+    "exampleSentence": "parking lot",
+    "exampleTranslation": "estacionamento"
+  },
+  {
+    "id": "to_arrive_leave_15",
+    "word": "nice",
+    "translation": "bom, legal",
+    "pronunciation": "/naɪs/",
+    "portuguesePhonetic": "náis",
+    "syllables": [
+      "nice"
+    ],
+    "exampleSentence": "nice",
+    "exampleTranslation": "bom, legal"
+  },
+  {
+    "id": "to_arrive_leave_16",
+    "word": "free",
+    "translation": "de graça, gratuito, grátis",
+    "pronunciation": "/fri/",
+    "portuguesePhonetic": "fri",
+    "syllables": [
+      "free"
+    ],
+    "exampleSentence": "free",
+    "exampleTranslation": "de graça, gratuito, grátis"
+  },
+  {
+    "id": "to_arrive_leave_17",
+    "word": "cozy",
+    "translation": "aconchegante",
+    "pronunciation": "/ˈkoʊzi/",
+    "portuguesePhonetic": "côu-zi",
+    "syllables": [
+      "co",
+      "zy"
+    ],
+    "exampleSentence": "cozy",
+    "exampleTranslation": "aconchegante"
+  },
+  {
+    "id": "to_arrive_leave_18",
+    "word": "clean",
+    "translation": "limpo(a)",
+    "pronunciation": "/klin/",
+    "portuguesePhonetic": "clin",
+    "syllables": [
+      "clean"
+    ],
+    "exampleSentence": "clean",
+    "exampleTranslation": "limpo(a)"
+  },
+  {
+    "id": "to_arrive_leave_19",
+    "word": "how",
+    "translation": "como",
+    "pronunciation": "/haʊ/",
+    "portuguesePhonetic": "ráu",
+    "syllables": [
+      "how"
+    ],
+    "exampleSentence": "how",
+    "exampleTranslation": "como"
+  },
+  {
+    "id": "to_arrive_leave_20",
+    "word": "My friends want to go on a trip to France.",
+    "translation": "Meus amigos querem fazer uma viagem para a França.",
+    "pronunciation": "/maɪ frɛndz wɑnt tu ɡoʊ ɑn ə trɪp tu fræns./",
+    "portuguesePhonetic": "mai frénds uónt tchu gôu an a tríp tchu fréns.",
+    "syllables": [
+      "My",
+      " friends",
+      " want",
+      " to",
+      " go",
+      " on",
+      " a",
+      " trip",
+      " to",
+      " France."
+    ],
+    "exampleSentence": "My friends want to go on a trip to France.",
+    "exampleTranslation": "Meus amigos querem fazer uma viagem para a França."
+  },
+  {
+    "id": "to_arrive_leave_21",
+    "word": "The hotel is in front of the museum.",
+    "translation": "O hotel fica em frente ao museu.",
+    "pronunciation": "/ðə hoʊˈtɛl ɪz ɪn frʌnt ʌv ðə mjuˈziəm./",
+    "portuguesePhonetic": "dâ rou-tél iz in frânt âv dâ miu-zí-âm.",
+    "syllables": [
+      "The",
+      " ho",
+      "tel",
+      " is",
+      " in",
+      " front",
+      " of",
+      " the",
+      " mu",
+      "se",
+      "um."
+    ],
+    "exampleSentence": "The hotel is in front of the museum.",
+    "exampleTranslation": "O hotel fica em frente ao museu."
+  },
+  {
+    "id": "to_arrive_leave_22",
+    "word": "I still have to book a room.",
+    "translation": "Eu ainda tenho que reservar um quarto.",
+    "pronunciation": "/aɪ stɪl hæv tu bʊk ə rum./",
+    "portuguesePhonetic": "ai stíl rév tchu búc a rúm.",
+    "syllables": [
+      "I",
+      " still",
+      " have",
+      " to",
+      " book",
+      " a",
+      " room."
+    ],
+    "exampleSentence": "I still have to book a room.",
+    "exampleTranslation": "Eu ainda tenho que reservar um quarto."
+  },
+  {
+    "id": "to_arrive_leave_23",
+    "word": "Actually, they are early.",
+    "translation": "Na verdade, eles estão adiantados.",
+    "pronunciation": "/ˈæktʃuəli, ðeɪ ɑr ˈɜrli./",
+    "portuguesePhonetic": "éc-tchu-a-li, dêi ar ãr-li.",
+    "syllables": [
+      "Ac",
+      "tu",
+      "al",
+      "ly,",
+      " they",
+      " are",
+      " ear",
+      "ly."
+    ],
+    "exampleSentence": "Actually, they are early.",
+    "exampleTranslation": "Na verdade, eles estão adiantados."
+  },
+  {
+    "id": "to_arrive_leave_24",
+    "word": "There is / There are",
+    "translation": "Há / Tem (singular / plural)",
+    "pronunciation": "/ðɛr ɪz / ðɛr ɑr/",
+    "portuguesePhonetic": "dér iz / dér ar",
+    "syllables": [
+      "There",
+      " is",
+      " /",
+      " There",
+      " are"
+    ],
+    "exampleSentence": "There is a big swimming pool in the hotel.",
+    "exampleTranslation": "Tem uma piscina grande no hotel.",
+    "grammarExplanation": "There is = Há / Tem (singular)\nThere are = Há / Tem (plural)"
+  },
+  {
+    "id": "to_arrive_leave_25",
+    "word": "There is a big swimming pool in the hotel.",
+    "translation": "Tem uma piscina grande no hotel.",
+    "pronunciation": "/ðɛr ɪz ə bɪɡ ˈswɪmɪŋ pul ɪn ðə hoʊˈtɛl./",
+    "portuguesePhonetic": "dér iz a bíg suí-min pul in dâ rou-tél.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " big",
+      " swim",
+      "ming",
+      " pool",
+      " in",
+      " the",
+      " ho",
+      "tel."
+    ],
+    "exampleSentence": "There is a big swimming pool in the hotel.",
+    "exampleTranslation": "Tem uma piscina grande no hotel.",
+    "grammarExplanation": "There is = Há / Tem (singular)"
+  },
+  {
+    "id": "to_arrive_leave_26",
+    "word": "I'm sure there is cable TV in our room.",
+    "translation": "Eu tenho certeza de que tem TV a cabo no nosso quarto.",
+    "pronunciation": "/aɪm ʃʊr ðɛr ɪz ˈkeɪbəl ˌtiˈvi ɪn ˈaʊər rum./",
+    "portuguesePhonetic": "aim xúr dér iz quêi-bol tî-vî in áu-er rúm.",
+    "syllables": [
+      "I'm",
+      " sure",
+      " there",
+      " is",
+      " ca",
+      "ble",
+      " T",
+      "V",
+      " in",
+      " our",
+      " room."
+    ],
+    "exampleSentence": "I'm sure there is cable TV in our room.",
+    "exampleTranslation": "Eu tenho certeza de que tem TV a cabo no nosso quarto."
+  },
+  {
+    "id": "to_arrive_leave_27",
+    "word": "There is a cab waiting for you.",
+    "translation": "Tem um táxi esperando por você.",
+    "pronunciation": "/ðɛr ɪz ə kæb ˈweɪtɪŋ fɔr ju./",
+    "portuguesePhonetic": "dér iz a québ uêi-tin fór iu.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " cab",
+      " wait",
+      "ing",
+      " for",
+      " you."
+    ],
+    "exampleSentence": "There is a cab waiting for you.",
+    "exampleTranslation": "Tem um táxi esperando por você."
+  },
+  {
+    "id": "to_arrive_leave_28",
+    "word": "There are usually a lot of young people in hostels.",
+    "translation": "Geralmente há muitos jovens em albergues.",
+    "pronunciation": "/ðɛr ɑr ˈjuʒuəli ə lɑt ʌv jʌŋ ˈpipəl ɪn ˈhɑstəlz./",
+    "portuguesePhonetic": "dér ar iú-ju-a-li a lót âv iân pí-pol in hós-tels.",
+    "syllables": [
+      "There",
+      " are",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " a",
+      " lot",
+      " of",
+      " young",
+      " peo",
+      "ple",
+      " in",
+      " hos",
+      "tels."
+    ],
+    "exampleSentence": "There are usually a lot of young people in hostels.",
+    "exampleTranslation": "Geralmente há muitos jovens em albergues.",
+    "grammarExplanation": "There are = Há / Tem (plural)"
+  },
+  {
+    "id": "to_arrive_leave_29",
+    "word": "There are a lot of tourists in the city this weekend.",
+    "translation": "Há muitos turistas na cidade neste fim de semana.",
+    "pronunciation": "/ðɛr ɑr ə lɑt ʌv ˈtʊrəsts ɪn ðə ˈsɪti ðɪs ˈwikˌɛnd./",
+    "portuguesePhonetic": "dér ar a lót âv tú-rists in dâ sí-ti dís uíc-énd.",
+    "syllables": [
+      "There",
+      " are",
+      " a",
+      " lot",
+      " of",
+      " tour",
+      "ists",
+      " in",
+      " the",
+      " ci",
+      "ty",
+      " this",
+      " week",
+      "end."
+    ],
+    "exampleSentence": "There are a lot of tourists in the city this weekend.",
+    "exampleTranslation": "Há muitos turistas na cidade neste fim de semana."
+  },
+  {
+    "id": "to_arrive_leave_30",
+    "word": "I leave home very early.",
+    "translation": "Eu saio de casa bem cedo.",
+    "pronunciation": "/aɪ liv hoʊm ˈvɛri ˈɜrli./",
+    "portuguesePhonetic": "ai liv rôum vé-ri ãr-li.",
+    "syllables": [
+      "I",
+      " leave",
+      " home",
+      " ver",
+      "y",
+      " ear",
+      "ly."
+    ],
+    "exampleSentence": "I leave home very early.",
+    "exampleTranslation": "Eu saio de casa bem cedo."
+  },
+  {
+    "id": "to_arrive_leave_31",
+    "word": "She leaves work at 6:00 P.M.",
+    "translation": "Ela sai do trabalho às 6 horas da tarde.",
+    "pronunciation": "/ʃi livz wɜrk æt sɪks pi.ɛm./",
+    "portuguesePhonetic": "xi livs uãrc ét sics pi-ém.",
+    "syllables": [
+      "She",
+      " leaves",
+      " work",
+      " at",
+      " 6",
+      ":",
+      "00",
+      " P",
+      ".",
+      "M",
+      "."
+    ],
+    "exampleSentence": "She leaves work at 6:00 P.M.",
+    "exampleTranslation": "Ela sai do trabalho às 6 horas da tarde."
+  },
+  {
+    "id": "to_arrive_leave_32",
+    "word": "What time do you have to leave the hotel?",
+    "translation": "A que horas você tem que deixar o hotel?",
+    "pronunciation": "/wʌt taɪm du ju hæv tu liv ðə hoʊˈtɛl?/",
+    "portuguesePhonetic": "uót taim du iu rév tchu liv dâ rou-tél?",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " you",
+      " have",
+      " to",
+      " leave",
+      " the",
+      " ho",
+      "tel?"
+    ],
+    "exampleSentence": "What time do you have to leave the hotel?",
+    "exampleTranslation": "A que horas você tem que deixar o hotel?"
+  },
+  {
+    "id": "to_arrive_leave_33",
+    "word": "I sometimes arrive home from work very late.",
+    "translation": "Eu às vezes chego em casa do trabalho muito tarde.",
+    "pronunciation": "/aɪ ˈsʌmˌtaɪmz əˈraɪv hoʊm frʌm wɜrk ˈvɛri leɪt./",
+    "portuguesePhonetic": "ai sâm-taims a-ráiv rôum frâm uãrc vé-ri lêit.",
+    "syllables": [
+      "I",
+      " some",
+      "times",
+      " ar",
+      "rive",
+      " home",
+      " from",
+      " work",
+      " ver",
+      "y",
+      " late."
+    ],
+    "exampleSentence": "I sometimes arrive home from work very late.",
+    "exampleTranslation": "Eu às vezes chego em casa do trabalho muito tarde."
+  },
+  {
+    "id": "to_arrive_leave_34",
+    "word": "What time do they need to arrive at the airport?",
+    "translation": "Que horas eles precisam chegar ao aeroporto?",
+    "pronunciation": "/wʌt taɪm du ðeɪ nid tu əˈraɪv æt ðə ˈɛrˌpɔrt?/",
+    "portuguesePhonetic": "uót taim du dêi nid tchu a-ráiv ét dâ ér-pórt?",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " they",
+      " need",
+      " to",
+      " ar",
+      "rive",
+      " at",
+      " the",
+      " air",
+      "port?"
+    ],
+    "exampleSentence": "What time do they need to arrive at the airport?",
+    "exampleTranslation": "Que horas eles precisam chegar ao aeroporto?"
+  },
+  {
+    "id": "to_arrive_leave_35",
+    "word": "Can we meet in the lobby at 8:00?",
+    "translation": "Podemos nos encontrar no saguão às 8 horas?",
+    "pronunciation": "/kæn wi mit ɪn ðə ˈlɑbi æt eɪt?/",
+    "portuguesePhonetic": "quén uí mît in dâ ló-bi ét êit?",
+    "syllables": [
+      "Can",
+      " we",
+      " meet",
+      " in",
+      " the",
+      " lob",
+      "by",
+      " at",
+      " 8",
+      ":",
+      "00",
+      "?"
+    ],
+    "exampleSentence": "Can we meet in the lobby at 8:00?",
+    "exampleTranslation": "Podemos nos encontrar no saguão às 8 horas?"
+  },
+  {
+    "id": "to_arrive_leave_36",
+    "word": "There is a parking lot in front of the restaurant.",
+    "translation": "Há um estacionamento em frente ao restaurante.",
+    "pronunciation": "/ðɛr ɪz ə ˈpɑrkɪŋ lɑt ɪn frʌnt ʌv ðə ˈrɛstəˌrɑnt./",
+    "portuguesePhonetic": "dér iz a pár-quin lót in frânt âv dâ rés-ta-rant.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " park",
+      "ing",
+      " lot",
+      " in",
+      " front",
+      " of",
+      " the",
+      " res",
+      "tau",
+      "rant."
+    ],
+    "exampleSentence": "There is a parking lot in front of the restaurant.",
+    "exampleTranslation": "Há um estacionamento em frente ao restaurante."
+  },
+  {
+    "id": "to_arrive_leave_37",
+    "word": "There is a painkiller in my purse. You can take it.",
+    "translation": "Tem um analgésico na minha bolsa. Você pode pegar.",
+    "pronunciation": "/ðɛr ɪz ə ˈpeɪnˌkɪlər ɪn maɪ pɜrs. ju kæn teɪk ɪt./",
+    "portuguesePhonetic": "dér iz a pêin-qui-ler in mai pãrs. iu quén têic it.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " pain",
+      "kill",
+      "er",
+      " in",
+      " my",
+      " purse.",
+      " You",
+      " can",
+      " take",
+      " it."
+    ],
+    "exampleSentence": "There is a painkiller in my purse. You can take it.",
+    "exampleTranslation": "Tem um analgésico na minha bolsa. Você pode pegar."
+  },
+  {
+    "id": "to_arrive_leave_38",
+    "word": "There is free Wi-Fi at the hotel.",
+    "translation": "Há internet gratuita no hotel.",
+    "pronunciation": "/ðɛr ɪz fri ˈwaɪˈfaɪ æt ðə hoʊˈtɛl./",
+    "portuguesePhonetic": "dér iz fri uai-fai ét dâ rou-tél.",
+    "syllables": [
+      "There",
+      " is",
+      " free",
+      " Wi",
+      "-",
+      "Fi",
+      " at",
+      " the",
+      " ho",
+      "tel."
+    ],
+    "exampleSentence": "There is free Wi-Fi at the hotel.",
+    "exampleTranslation": "Há internet gratuita no hotel."
+  },
+  {
+    "id": "to_arrive_leave_39",
+    "word": "I think there are some free tours, too.",
+    "translation": "Eu acho que há alguns passeios gratuitos também.",
+    "pronunciation": "/aɪ θɪŋk ðɛr ɑr sʌm fri tʊrz, tu./",
+    "portuguesePhonetic": "ai thinc dér ar sâm fri turs, tchu.",
+    "syllables": [
+      "I",
+      " think",
+      " there",
+      " are",
+      " some",
+      " free",
+      " tours,",
+      " too."
+    ],
+    "exampleSentence": "I think there are some free tours, too.",
+    "exampleTranslation": "Eu acho que há alguns passeios gratuitos também."
+  },
+  {
+    "id": "to_arrive_leave_40",
+    "word": "There are great hostels in NYC.",
+    "translation": "Há ótimos albergues em Nova York.",
+    "pronunciation": "/ðɛr ɑr ɡreɪt ˈhɑstəlz ɪn ˌɛnˌwaɪˈsi./",
+    "portuguesePhonetic": "dér ar grêit hós-tels in en-uai-sî.",
+    "syllables": [
+      "There",
+      " are",
+      " great",
+      " hos",
+      "tels",
+      " in",
+      " N",
+      "Y",
+      "C",
+      "."
+    ],
+    "exampleSentence": "There are great hostels in NYC.",
+    "exampleTranslation": "Há ótimos albergues em Nova York."
+  },
+  {
+    "id": "to_arrive_leave_41",
+    "word": "There are guests from different countries here.",
+    "translation": "Há hóspedes de diferentes países aqui.",
+    "pronunciation": "/ðɛr ɑr ɡɛsts frʌm ˈdɪfərənt ˈkʌntriz hɪr./",
+    "portuguesePhonetic": "dér ar guésts frâm dí-fe-rent cân-tris rir.",
+    "syllables": [
+      "There",
+      " are",
+      " guests",
+      " from",
+      " dif",
+      "fer",
+      "ent",
+      " coun",
+      "tries",
+      " here."
+    ],
+    "exampleSentence": "There are guests from different countries here.",
+    "exampleTranslation": "Há hóspedes de diferentes países aqui."
+  },
+  {
+    "id": "to_arrive_leave_42",
+    "word": "to arrive at",
+    "translation": "chegar a (lugar específico)",
+    "pronunciation": "/tu əˈraɪv æt/",
+    "portuguesePhonetic": "tchu a-ráiv ét",
+    "syllables": [
+      "to",
+      " ar",
+      "rive",
+      " at"
+    ],
+    "exampleSentence": "I arrive at the airport at 7:00.",
+    "exampleTranslation": "Eu chego ao aeroporto às 7:00.",
+    "grammarExplanation": "Usado para lugares específicos."
+  },
+  {
+    "id": "to_arrive_leave_43",
+    "word": "I arrive at the airport at 7:00.",
+    "translation": "Eu chego ao aeroporto às 7:00.",
+    "pronunciation": "/aɪ əˈraɪv æt ðə ˈɛrˌpɔrt æt ˈsɛvən./",
+    "portuguesePhonetic": "ai a-ráiv ét dâ ér-pórt ét sé-ven.",
+    "syllables": [
+      "I",
+      " ar",
+      "rive",
+      " at",
+      " the",
+      " air",
+      "port",
+      " at",
+      " 7",
+      ":",
+      "00",
+      "."
+    ],
+    "exampleSentence": "I arrive at the airport at 7:00.",
+    "exampleTranslation": "Eu chego ao aeroporto às 7:00."
+  },
+  {
+    "id": "to_arrive_leave_44",
+    "word": "to arrive from",
+    "translation": "chegar de (origem)",
+    "pronunciation": "/tu əˈraɪv frʌm/",
+    "portuguesePhonetic": "tchu a-ráiv frâm",
+    "syllables": [
+      "to",
+      " ar",
+      "rive",
+      " from"
+    ],
+    "exampleSentence": "She arrived from Canada yesterday.",
+    "exampleTranslation": "Ela chegou do Canadá ontem.",
+    "grammarExplanation": "Usado para indicar a origem."
+  },
+  {
+    "id": "to_arrive_leave_45",
+    "word": "She arrived from Canada yesterday.",
+    "translation": "Ela chegou do Canadá ontem.",
+    "pronunciation": "/ʃi əˈraɪvd frʌm ˈkænədə ˈjɛstərdeɪ./",
+    "portuguesePhonetic": "xi a-ráivd frâm qué-na-da iés-ter-dêi.",
+    "syllables": [
+      "She",
+      " ar",
+      "rived",
+      " from",
+      " Can",
+      "a",
+      "da",
+      " yes",
+      "ter",
+      "day."
+    ],
+    "exampleSentence": "She arrived from Canada yesterday.",
+    "exampleTranslation": "Ela chegou do Canadá ontem."
+  },
+  {
+    "id": "to_arrive_leave_46",
+    "word": "Canada",
+    "translation": "Canadá",
+    "pronunciation": "/ˈkænədə/",
+    "portuguesePhonetic": "qué-na-da",
+    "syllables": [
+      "Can",
+      "a",
+      "da"
+    ],
+    "exampleSentence": "She arrived from Canada yesterday.",
+    "exampleTranslation": "Ela chegou do Canadá ontem."
+  },
+  {
+    "id": "to_arrive_leave_47",
+    "word": "Canadian",
+    "translation": "canadense",
+    "pronunciation": "/kəˈneɪdiən/",
+    "portuguesePhonetic": "ca-nêi-dian",
+    "syllables": [
+      "Ca",
+      "na",
+      "di",
+      "an"
+    ],
+    "exampleSentence": "My friend is Canadian.",
+    "exampleTranslation": "Meu amigo é canadense."
+  },
+  {
+    "id": "to_arrive_leave_48",
+    "word": "Argentina",
+    "translation": "Argentina",
+    "pronunciation": "/ˌɑrdʒənˈtinə/",
+    "portuguesePhonetic": "ar-djen-tí-na",
+    "syllables": [
+      "Ar",
+      "gen",
+      "ti",
+      "na"
+    ],
+    "exampleSentence": "We want to visit Argentina.",
+    "exampleTranslation": "Nós queremos visitar a Argentina."
+  },
+  {
+    "id": "to_arrive_leave_49",
+    "word": "Argentinian",
+    "translation": "argentino(a)",
+    "pronunciation": "/ˌɑrdʒənˈtɪniən/",
+    "portuguesePhonetic": "ar-djen-tí-ni-an",
+    "syllables": [
+      "Ar",
+      "gen",
+      "tin",
+      "i",
+      "an"
+    ],
+    "exampleSentence": "They are Argentinian.",
+    "exampleTranslation": "Eles são argentinos."
+  },
+  {
+    "id": "to_arrive_leave_50",
+    "word": "Japan",
+    "translation": "Japão",
+    "pronunciation": "/dʒəˈpæn/",
+    "portuguesePhonetic": "dja-pén",
+    "syllables": [
+      "Ja",
+      "pan"
+    ],
+    "exampleSentence": "He travels to Japan on business.",
+    "exampleTranslation": "Ele viaja para o Japão a trabalho."
+  },
+  {
+    "id": "to_arrive_leave_51",
+    "word": "Japanese",
+    "translation": "japonês(a)",
+    "pronunciation": "/ˌdʒæpəˈniz/",
+    "portuguesePhonetic": "dja-pa-nís",
+    "syllables": [
+      "Jap",
+      "a",
+      "nese"
+    ],
+    "exampleSentence": "She is Japanese.",
+    "exampleTranslation": "Ela é japonesa."
+  },
+  {
+    "id": "to_arrive_leave_52",
+    "word": "China",
+    "translation": "China",
+    "pronunciation": "/ˈtʃaɪnə/",
+    "portuguesePhonetic": "tchái-na",
+    "syllables": [
+      "Chi",
+      "na"
+    ],
+    "exampleSentence": "They are from China.",
+    "exampleTranslation": "Eles são da China."
+  },
+  {
+    "id": "to_arrive_leave_53",
+    "word": "Chinese",
+    "translation": "chinês(a)",
+    "pronunciation": "/tʃaɪˈniz/",
+    "portuguesePhonetic": "tchai-nís",
+    "syllables": [
+      "Chi",
+      "nese"
+    ],
+    "exampleSentence": "I love Chinese food.",
+    "exampleTranslation": "Eu amo comida chinesa."
+  },
+  {
+    "id": "to_arrive_leave_54",
+    "word": "Mexico",
+    "translation": "México",
+    "pronunciation": "/ˈmɛksəˌkoʊ/",
+    "portuguesePhonetic": "méc-si-cou",
+    "syllables": [
+      "Mex",
+      "i",
+      "co"
+    ],
+    "exampleSentence": "Mexico is a beautiful country.",
+    "exampleTranslation": "O México é um país lindo."
+  },
+  {
+    "id": "to_arrive_leave_55",
+    "word": "Mexican",
+    "translation": "mexicano(a)",
+    "pronunciation": "/ˈmɛksɪkən/",
+    "portuguesePhonetic": "méc-si-can",
+    "syllables": [
+      "Mex",
+      "i",
+      "can"
+    ],
+    "exampleSentence": "Do you like Mexican food?",
+    "exampleTranslation": "Você gosta de comida mexicana?"
+  },
+  {
+    "id": "to_arrive_leave_56",
+    "word": "How do you like your room?",
+    "translation": "O que você acha do seu quarto?",
+    "pronunciation": "/haʊ du ju laɪk jʊr rum?/",
+    "portuguesePhonetic": "ráu du iu laic iór rúm?",
+    "syllables": [
+      "How",
+      " do",
+      " you",
+      " like",
+      " your",
+      " room?"
+    ],
+    "exampleSentence": "How do you like your room?",
+    "exampleTranslation": "O que você acha do seu quarto?"
+  },
+  {
+    "id": "to_arrive_leave_57",
+    "word": "It's great. It's cozy and very clean.",
+    "translation": "É ótimo. É aconchegante e muito limpo.",
+    "pronunciation": "/ɪts ɡreɪt. ɪts ˈkoʊzi ænd ˈvɛri klin./",
+    "portuguesePhonetic": "its grêit. its côu-zi énd vé-ri clin.",
+    "syllables": [
+      "It's",
+      " great.",
+      " It's",
+      " co",
+      "zy",
+      " and",
+      " ver",
+      "y",
+      " clean."
+    ],
+    "exampleSentence": "It's great. It's cozy and very clean.",
+    "exampleTranslation": "É ótimo. É aconchegante e muito limpo."
+  },
+  {
+    "id": "to_arrive_leave_58",
+    "word": "to check in",
+    "translation": "fazer check-in",
+    "pronunciation": "/tu tʃɛk ɪn/",
+    "portuguesePhonetic": "tchu tchéc in",
+    "syllables": [
+      "to",
+      " check",
+      " in"
+    ],
+    "exampleSentence": "We need to check in at 2:00 p.m.",
+    "exampleTranslation": "Precisamos fazer o check-in às 14h."
+  },
+  {
+    "id": "to_arrive_leave_59",
+    "word": "We need to check in at 2:00 p.m.",
+    "translation": "Precisamos fazer o check-in às 14h.",
+    "pronunciation": "/wi nid tu tʃɛk ɪn æt tu pi.ɛm./",
+    "portuguesePhonetic": "uí nîd tchu tchéc in ét tchu pi-ém.",
+    "syllables": [
+      "We",
+      " need",
+      " to",
+      " check",
+      " in",
+      " at",
+      " 2",
+      ":",
+      "00",
+      " p",
+      ".",
+      "m",
+      "."
+    ],
+    "exampleSentence": "We need to check in at 2:00 p.m.",
+    "exampleTranslation": "Precisamos fazer o check-in às 14h."
+  },
+  {
+    "id": "to_arrive_leave_60",
+    "word": "to check out",
+    "translation": "fazer check-out",
+    "pronunciation": "/tu tʃɛk aʊt/",
+    "portuguesePhonetic": "tchu tchéc áut",
+    "syllables": [
+      "to",
+      " check",
+      " out"
+    ],
+    "exampleSentence": "We have to check out before noon.",
+    "exampleTranslation": "Temos que fazer o check-out antes do meio-dia."
+  },
+  {
+    "id": "to_arrive_leave_61",
+    "word": "We have to check out before noon.",
+    "translation": "Temos que fazer o check-out antes do meio-dia.",
+    "pronunciation": "/wi hæv tu tʃɛk aʊt bɪˈfɔr nun./",
+    "portuguesePhonetic": "uí rév tchu tchéc áut bi-fór nun.",
+    "syllables": [
+      "We",
+      " have",
+      " to",
+      " check",
+      " out",
+      " be",
+      "fore",
+      " noon."
+    ],
+    "exampleSentence": "We have to check out before noon.",
+    "exampleTranslation": "Temos que fazer o check-out antes do meio-dia."
+  },
+  {
+    "id": "to_arrive_leave_62",
+    "word": "free Wi-Fi",
+    "translation": "internet gratuita",
+    "pronunciation": "/fri ˈwaɪˈfaɪ/",
+    "portuguesePhonetic": "fri uai-fai",
+    "syllables": [
+      "free",
+      " Wi",
+      "-",
+      "Fi"
+    ],
+    "exampleSentence": "Does the hotel have free Wi-Fi?",
+    "exampleTranslation": "O hotel tem internet gratuita?"
+  },
+  {
+    "id": "to_arrive_leave_63",
+    "word": "Does the hotel have free Wi-Fi?",
+    "translation": "O hotel tem internet gratuita?",
+    "pronunciation": "/dʌz ðə hoʊˈtɛl hæv fri ˈwaɪˈfaɪ?/",
+    "portuguesePhonetic": "dâs dâ rou-tél rév fri uai-fai?",
+    "syllables": [
+      "Does",
+      " the",
+      " ho",
+      "tel",
+      " have",
+      " free",
+      " Wi",
+      "-",
+      "Fi?"
+    ],
+    "exampleSentence": "Does the hotel have free Wi-Fi?",
+    "exampleTranslation": "O hotel tem internet gratuita?"
+  },
+  {
+    "id": "to_arrive_leave_64",
+    "word": "There is a swimming pool.",
+    "translation": "Há uma piscina.",
+    "pronunciation": "/ðɛr ɪz ə ˈswɪmɪŋ pul./",
+    "portuguesePhonetic": "dér iz a suí-min pul.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " swim",
+      "ming",
+      " pool."
+    ],
+    "exampleSentence": "There is a swimming pool.",
+    "exampleTranslation": "Há uma piscina."
+  },
+  {
+    "id": "to_arrive_leave_65",
+    "word": "There is a guest in the lobby.",
+    "translation": "Há um hóspede no saguão.",
+    "pronunciation": "/ðɛr ɪz ə ɡɛst ɪn ðə ˈlɑbi./",
+    "portuguesePhonetic": "dér iz a guést in dâ ló-bi.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " guest",
+      " in",
+      " the",
+      " lob",
+      "by."
+    ],
+    "exampleSentence": "There is a guest in the lobby.",
+    "exampleTranslation": "Há um hóspede no saguão."
+  },
+  {
+    "id": "to_arrive_leave_66",
+    "word": "There are tourists in the city.",
+    "translation": "Há turistas na cidade.",
+    "pronunciation": "/ðɛr ɑr ˈtʊrəsts ɪn ðə ˈsɪti./",
+    "portuguesePhonetic": "dér ar tú-rists in dâ sí-ti.",
+    "syllables": [
+      "There",
+      " are",
+      " tour",
+      "ists",
+      " in",
+      " the",
+      " ci",
+      "ty."
+    ],
+    "exampleSentence": "There are tourists in the city.",
+    "exampleTranslation": "Há turistas na cidade."
+  },
+  {
+    "id": "to_arrive_leave_67",
+    "word": "There are many hotels here.",
+    "translation": "Há muitos hotéis aqui.",
+    "pronunciation": "/ðɛr ɑr ˈmɛni hoʊˈtɛlz hɪr./",
+    "portuguesePhonetic": "dér ar mé-ni rou-téis rir.",
+    "syllables": [
+      "There",
+      " are",
+      " ma",
+      "ny",
+      " ho",
+      "tels",
+      " here."
+    ],
+    "exampleSentence": "There are many hotels here.",
+    "exampleTranslation": "Há muitos hotéis aqui."
+  },
+  {
+    "id": "to_arrive_leave_68",
+    "word": "guest",
+    "translation": "hóspede",
+    "pronunciation": "/ɡɛst/",
+    "portuguesePhonetic": "guést",
+    "syllables": [
+      "guest"
+    ],
+    "exampleSentence": "Is there a guest in the lobby?",
+    "exampleTranslation": "Tem um hóspede no saguão?"
+  },
+  {
+    "id": "to_arrive_leave_69",
+    "word": "foreigner",
+    "translation": "estrangeiro",
+    "pronunciation": "/ˈfɔrənər/",
+    "portuguesePhonetic": "fó-re-ner",
+    "syllables": [
+      "for",
+      "eign",
+      "er"
+    ],
+    "exampleSentence": "He is a foreigner.",
+    "exampleTranslation": "Ele é estrangeiro."
+  },
+  {
+    "id": "to_arrive_leave_70",
+    "word": "nationality",
+    "translation": "nacionalidade",
+    "pronunciation": "/ˌnæʃəˈnæləti/",
+    "portuguesePhonetic": "né-xo-né-li-ti",
+    "syllables": [
+      "na",
+      "tion",
+      "al",
+      "i",
+      "ty"
+    ],
+    "exampleSentence": "What is your nationality?",
+    "exampleTranslation": "Qual é a sua nacionalidade?"
+  },
+  {
+    "id": "to_arrive_leave_71",
+    "word": "hostel",
+    "translation": "albergue",
+    "pronunciation": "/ˈhɑstəl/",
+    "portuguesePhonetic": "hós-tel",
+    "syllables": [
+      "hos",
+      "tel"
+    ],
+    "exampleSentence": "I like to stay at a hostel.",
+    "exampleTranslation": "Eu gosto de ficar em um albergue."
+  },
+  {
+    "id": "to_arrive_leave_72",
+    "word": "hotel",
+    "translation": "hotel",
+    "pronunciation": "/hoʊˈtɛl/",
+    "portuguesePhonetic": "rou-tél",
+    "syllables": [
+      "ho",
+      "tel"
+    ],
+    "exampleSentence": "The hotel is very nice.",
+    "exampleTranslation": "O hotel é muito bom."
+  },
+  {
+    "id": "to_arrive_leave_73",
+    "word": "lobby",
+    "translation": "saguão",
+    "pronunciation": "/ˈlɑbi/",
+    "portuguesePhonetic": "ló-bi",
+    "syllables": [
+      "lob",
+      "by"
+    ],
+    "exampleSentence": "See you in the lobby.",
+    "exampleTranslation": "Vejo você no saguão."
+  },
+  {
+    "id": "to_arrive_leave_74",
+    "word": "room service",
+    "translation": "serviço de quarto",
+    "pronunciation": "/rum ˈsɜrvəs/",
+    "portuguesePhonetic": "rúm sãr-vis",
+    "syllables": [
+      "room",
+      " ser",
+      "vice"
+    ],
+    "exampleSentence": "Let's call room service.",
+    "exampleTranslation": "Vamos ligar para o serviço de quarto."
+  },
+  {
+    "id": "to_arrive_leave_75",
+    "word": "fitness center",
+    "translation": "academia",
+    "pronunciation": "/ˈfɪtnəs ˈsɛntər/",
+    "portuguesePhonetic": "fít-nes sén-ter",
+    "syllables": [
+      "fit",
+      "ness",
+      " cen",
+      "ter"
+    ],
+    "exampleSentence": "The hotel has a fitness center.",
+    "exampleTranslation": "O hotel tem uma academia."
+  },
+  {
+    "id": "to_arrive_leave_76",
+    "word": "cable TV",
+    "translation": "TV a cabo",
+    "pronunciation": "/ˈkeɪbəl ˌtiˈvi/",
+    "portuguesePhonetic": "quêi-bol tî-vî",
+    "syllables": [
+      "ca",
+      "ble",
+      " T",
+      "V"
+    ],
+    "exampleSentence": "Does the room have cable TV?",
+    "exampleTranslation": "O quarto tem TV a cabo?"
+  },
+  {
+    "id": "to_arrive_leave_77",
+    "word": "swimming pool",
+    "translation": "piscina",
+    "pronunciation": "/ˈswɪmɪŋ pul/",
+    "portuguesePhonetic": "suí-min pul",
+    "syllables": [
+      "swim",
+      "ming",
+      " pool"
+    ],
+    "exampleSentence": "The swimming pool is open.",
+    "exampleTranslation": "A piscina está aberta."
+  },
+  {
+    "id": "to_arrive_leave_78",
+    "word": "parking lot",
+    "translation": "estacionamento",
+    "pronunciation": "/ˈpɑrkɪŋ lɑt/",
+    "portuguesePhonetic": "pár-quin lót",
+    "syllables": [
+      "park",
+      "ing",
+      " lot"
+    ],
+    "exampleSentence": "The parking lot is full.",
+    "exampleTranslation": "O estacionamento está cheio."
+  },
+  {
+    "id": "to_arrive_leave_79",
+    "word": "cozy",
+    "translation": "aconchegante",
+    "pronunciation": "/ˈkoʊzi/",
+    "portuguesePhonetic": "côu-zi",
+    "syllables": [
+      "co",
+      "zy"
+    ],
+    "exampleSentence": "The room is cozy.",
+    "exampleTranslation": "O quarto é aconchegante."
+  },
+  {
+    "id": "to_arrive_leave_80",
+    "word": "clean",
+    "translation": "limpo",
+    "pronunciation": "/klin/",
+    "portuguesePhonetic": "clin",
+    "syllables": [
+      "clean"
+    ],
+    "exampleSentence": "Is the bathroom clean?",
+    "exampleTranslation": "O banheiro está limpo?"
+  },
+  {
+    "id": "to_arrive_leave_81",
+    "word": "check in",
+    "translation": "fazer check-in",
+    "pronunciation": "/tʃɛk ɪn/",
+    "portuguesePhonetic": "tchéc in",
+    "syllables": [
+      "check",
+      " in"
+    ],
+    "exampleSentence": "What time is check in?",
+    "exampleTranslation": "Que horas é o check-in?"
+  },
+  {
+    "id": "to_arrive_leave_82",
+    "word": "check out",
+    "translation": "fazer check-out",
+    "pronunciation": "/tʃɛk aʊt/",
+    "portuguesePhonetic": "tchéc áut",
+    "syllables": [
+      "check",
+      " out"
+    ],
+    "exampleSentence": "What time is check out?",
+    "exampleTranslation": "Que horas é o check-out?"
+  },
+  {
+    "id": "to_arrive_leave_83",
+    "word": "free Wi-Fi",
+    "translation": "internet gratuita",
+    "pronunciation": "/fri ˈwaɪˈfaɪ/",
+    "portuguesePhonetic": "fri uai-fai",
+    "syllables": [
+      "free",
+      " Wi",
+      "-",
+      "Fi"
+    ],
+    "exampleSentence": "The hostel offers free Wi-Fi.",
+    "exampleTranslation": "O albergue oferece internet gratuita."
+  },
+  {
+    "id": "to_arrive_leave_84",
+    "word": "Is there a swimming pool in the hotel?",
+    "translation": "Há uma piscina no hotel?",
+    "pronunciation": "/ɪz ðɛr ə ˈswɪmɪŋ pul ɪn ðə hoʊˈtɛl?/",
+    "portuguesePhonetic": "iz dér a suí-min pul in dâ rou-tél?",
+    "syllables": [
+      "Is",
+      " there",
+      " a",
+      " swim",
+      "ming",
+      " pool",
+      " in",
+      " the",
+      " ho",
+      "tel?"
+    ],
+    "exampleSentence": "Is there a swimming pool in the hotel?",
+    "exampleTranslation": "Há uma piscina no hotel?"
+  },
+  {
+    "id": "to_arrive_leave_85",
+    "word": "Yes, there is.",
+    "translation": "Sim, há.",
+    "pronunciation": "/jɛs, ðɛr ɪz./",
+    "portuguesePhonetic": "iés, dér iz.",
+    "syllables": [
+      "Yes,",
+      " there",
+      " is."
+    ],
+    "exampleSentence": "Yes, there is.",
+    "exampleTranslation": "Sim, há."
+  },
+  {
+    "id": "to_arrive_leave_86",
+    "word": "Are there many tourists in the city?",
+    "translation": "Há muitos turistas na cidade?",
+    "pronunciation": "/ɑr ðɛr ˈmɛni ˈtʊrəsts ɪn ðə ˈsɪti?/",
+    "portuguesePhonetic": "ar dér mé-ni tú-rists in dâ sí-ti?",
+    "syllables": [
+      "Are",
+      " there",
+      " ma",
+      "ny",
+      " tour",
+      "ists",
+      " in",
+      " the",
+      " ci",
+      "ty?"
+    ],
+    "exampleSentence": "Are there many tourists in the city?",
+    "exampleTranslation": "Há muitos turistas na cidade?"
+  },
+  {
+    "id": "to_arrive_leave_87",
+    "word": "Yes, there are.",
+    "translation": "Sim, há.",
+    "pronunciation": "/jɛs, ðɛr ɑr./",
+    "portuguesePhonetic": "iés, dér ar.",
+    "syllables": [
+      "Yes,",
+      " there",
+      " are."
+    ],
+    "exampleSentence": "Yes, there are.",
+    "exampleTranslation": "Sim, há."
+  },
+  {
+    "id": "to_arrive_leave_88",
+    "word": "What time do you arrive at the airport?",
+    "translation": "Que horas você chega ao aeroporto?",
+    "pronunciation": "/wʌt taɪm du ju əˈraɪv æt ðə ˈɛrˌpɔrt?/",
+    "portuguesePhonetic": "uót taim du iu a-ráiv ét dâ ér-pórt?",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " you",
+      " ar",
+      "rive",
+      " at",
+      " the",
+      " air",
+      "port?"
+    ],
+    "exampleSentence": "What time do you arrive at the airport?",
+    "exampleTranslation": "Que horas você chega ao aeroporto?"
+  },
+  {
+    "id": "to_arrive_leave_89",
+    "word": "I arrive at 8:00 a.m.",
+    "translation": "Eu chego às 8 da manhã.",
+    "pronunciation": "/aɪ əˈraɪv æt eɪt eɪ.ɛm./",
+    "portuguesePhonetic": "ai a-ráiv ét êit êi-ém.",
+    "syllables": [
+      "I",
+      " ar",
+      "rive",
+      " at",
+      " 8",
+      ":",
+      "00",
+      " a",
+      ".",
+      "m",
+      "."
+    ],
+    "exampleSentence": "I arrive at 8:00 a.m.",
+    "exampleTranslation": "Eu chego às 8 da manhã."
+  },
+  {
+    "id": "to_arrive_leave_90",
+    "word": "How do you like your room?",
+    "translation": "O que você acha do seu quarto?",
+    "pronunciation": "/haʊ du ju laɪk jʊr rum?/",
+    "portuguesePhonetic": "ráu du iu laic iór rúm?",
+    "syllables": [
+      "How",
+      " do",
+      " you",
+      " like",
+      " your",
+      " room?"
+    ],
+    "exampleSentence": "How do you like your room?",
+    "exampleTranslation": "O que você acha do seu quarto?"
+  },
+  {
+    "id": "to_arrive_leave_91",
+    "word": "It's very nice and clean.",
+    "translation": "É muito bonito e limpo.",
+    "pronunciation": "/ɪts ˈvɛri naɪs ænd klin./",
+    "portuguesePhonetic": "its vé-ri náis énd clin.",
+    "syllables": [
+      "It's",
+      " ver",
+      "y",
+      " nice",
+      " and",
+      " clean."
+    ],
+    "exampleSentence": "It's very nice and clean.",
+    "exampleTranslation": "É muito bonito e limpo."
+  },
+  {
+    "id": "to_arrive_leave_92",
+    "word": "Is there free Wi-Fi?",
+    "translation": "Tem internet gratuita?",
+    "pronunciation": "/ɪz ðɛr fri ˈwaɪˈfaɪ?/",
+    "portuguesePhonetic": "iz dér fri uai-fai?",
+    "syllables": [
+      "Is",
+      " there",
+      " free",
+      " Wi",
+      "-",
+      "Fi?"
+    ],
+    "exampleSentence": "Is there free Wi-Fi?",
+    "exampleTranslation": "Tem internet gratuita?"
+  },
+  {
+    "id": "to_arrive_leave_93",
+    "word": "Yes, there is free Wi-Fi in all rooms.",
+    "translation": "Sim, há internet gratuita em todos os quartos.",
+    "pronunciation": "/jɛs, ðɛr ɪz fri ˈwaɪˈfaɪ ɪn ɔl rumz./",
+    "portuguesePhonetic": "iés, dér iz fri uai-fai in ól rúms.",
+    "syllables": [
+      "Yes,",
+      " there",
+      " is",
+      " free",
+      " Wi",
+      "-",
+      "Fi",
+      " in",
+      " all",
+      " rooms."
+    ],
+    "exampleSentence": "Yes, there is free Wi-Fi in all rooms.",
+    "exampleTranslation": "Sim, há internet gratuita em todos os quartos."
+  },
+  {
+    "id": "to_arrive_leave_94",
+    "word": "There are many tourists in this hostel.",
+    "translation": "Há muitos turistas neste albergue.",
+    "pronunciation": "/ðɛr ɑr ˈmɛni ˈtʊrəsts ɪn ðɪs ˈhɑstəl./",
+    "portuguesePhonetic": "dér ar mé-ni tú-rists in dís hós-tel.",
+    "syllables": [
+      "There",
+      " are",
+      " ma",
+      "ny",
+      " tour",
+      "ists",
+      " in",
+      " this",
+      " hos",
+      "tel."
+    ],
+    "exampleSentence": "There are many tourists in this hostel.",
+    "exampleTranslation": "Há muitos turistas neste albergue."
+  },
+  {
+    "id": "to_arrive_leave_95",
+    "word": "What time do you have to arrive at the airport?",
+    "translation": "Que hora você tem que chegar ao aeroporto?",
+    "pronunciation": "/wʌt taɪm du ju hæv tu əˈraɪv æt ðə ˈɛrˌpɔrt?/",
+    "portuguesePhonetic": "uót taim du iu rév tchu a-ráiv ét dâ ér-pórt?",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " you",
+      " have",
+      " to",
+      " ar",
+      "rive",
+      " at",
+      " the",
+      " air",
+      "port?"
+    ],
+    "exampleSentence": "What time do you have to arrive at the airport?",
+    "exampleTranslation": "Que hora você tem que chegar ao aeroporto?"
+  },
+  {
+    "id": "to_arrive_leave_96",
+    "word": "There is a problem in our room. Let's call room service.",
+    "translation": "Há um problema em nosso quarto. Vamos ligar para o serviço de quarto.",
+    "pronunciation": "/ðɛr ɪz ə ˈprɑbləm ɪn ˈaʊər rum. lɛts kɔl rum ˈsɜrvəs./",
+    "portuguesePhonetic": "dér iz a pró-blem in áu-er rúm. léts cól rúm sãr-vis.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " prob",
+      "lem",
+      " in",
+      " our",
+      " room.",
+      " Let's",
+      " call",
+      " room",
+      " ser",
+      "vice."
+    ],
+    "exampleSentence": "There is a problem in our room. Let's call room service.",
+    "exampleTranslation": "Há um problema em nosso quarto. Vamos ligar para o serviço de quarto."
+  },
+  {
+    "id": "to_arrive_leave_97",
+    "word": "I am arriving home now. I am on time.",
+    "translation": "Eu estou chegando em casa agora. Eu estou no horário.",
+    "pronunciation": "/aɪ æm əˈraɪvɪŋ hoʊm naʊ. aɪ æm ɑn taɪm./",
+    "portuguesePhonetic": "ai em a-rái-vin rôum náu. ai em an taim.",
+    "syllables": [
+      "I",
+      " am",
+      " ar",
+      "riv",
+      "ing",
+      " home",
+      " now.",
+      " I",
+      " am",
+      " on",
+      " time."
+    ],
+    "exampleSentence": "I am arriving home now. I am on time.",
+    "exampleTranslation": "Eu estou chegando em casa agora. Eu estou no horário."
+  },
+  {
+    "id": "to_arrive_leave_98",
+    "word": "There is a parking lot in front of the hotel.",
+    "translation": "Há um estacionamento em frente ao hotel.",
+    "pronunciation": "/ðɛr ɪz ə ˈpɑrkɪŋ lɑt ɪn frʌnt ʌv ðə hoʊˈtɛl./",
+    "portuguesePhonetic": "dér iz a pár-quin lót in frânt âv dâ rou-tél.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " park",
+      "ing",
+      " lot",
+      " in",
+      " front",
+      " of",
+      " the",
+      " ho",
+      "tel."
+    ],
+    "exampleSentence": "There is a parking lot in front of the hotel.",
+    "exampleTranslation": "Há um estacionamento em frente ao hotel."
+  },
+  {
+    "id": "to_arrive_leave_99",
+    "word": "I think this hotel is cozy and clean. Let's book a room.",
+    "translation": "Eu acho que este hotel é aconchegante e limpo. Vamos reservar um quarto.",
+    "pronunciation": "/aɪ θɪŋk ðɪs hoʊˈtɛl ɪz ˈkoʊzi ænd klin. lɛts bʊk ə rum./",
+    "portuguesePhonetic": "ai thinc dís rou-tél iz côu-zi énd clin. léts búc a rúm.",
+    "syllables": [
+      "I",
+      " think",
+      " this",
+      " ho",
+      "tel",
+      " is",
+      " co",
+      "zy",
+      " and",
+      " clean.",
+      " Let's",
+      " book",
+      " a",
+      " room."
+    ],
+    "exampleSentence": "I think this hotel is cozy and clean. Let's book a room.",
+    "exampleTranslation": "Eu acho que este hotel é aconchegante e limpo. Vamos reservar um quarto."
+  },
+  {
+    "id": "to_arrive_leave_100",
+    "word": "This hostel is small, but it has cable TV and free wireless internet.",
+    "translation": "Este albergue é pequeno, mas tem TV a cabo e internet sem fio gratuita.",
+    "pronunciation": "/ðɪs ˈhɑstəl ɪz smɔl, bʌt ɪt hæz ˈkeɪbəl ˌtiˈvi ænd fri ˈwaɪərles ˈɪntərˌnɛt./",
+    "portuguesePhonetic": "dís hós-tel iz smól, bât it rás quêi-bol tî-vî énd fri uáir-les ín-ter-net.",
+    "syllables": [
+      "This",
+      " hos",
+      "tel",
+      " is",
+      " small,",
+      " but",
+      " it",
+      " has",
+      " ca",
+      "ble",
+      " T",
+      "V",
+      " and",
+      " free",
+      " wire",
+      "less",
+      " in",
+      "ter",
+      "net."
+    ],
+    "exampleSentence": "This hostel is small, but it has cable TV and free wireless internet.",
+    "exampleTranslation": "Este albergue é pequeno, mas tem TV a cabo e internet sem fio gratuita."
+  },
+  {
+    "id": "to_arrive_leave_101",
+    "word": "Can you call a taxi, please? I have to leave the hotel at noon.",
+    "translation": "Você pode chamar um táxi, por favor? Eu tenho que deixar o hotel ao meio-dia.",
+    "pronunciation": "/kæn ju kɔl ə ˈtæksi, pliz? aɪ hæv tu liv ðə hoʊˈtɛl æt nun./",
+    "portuguesePhonetic": "quén iu cól a téc-si, plis? ai rév tchu liv dâ rou-tél ét nun.",
+    "syllables": [
+      "Can",
+      " you",
+      " call",
+      " a",
+      " tax",
+      "i,",
+      " please?",
+      " I",
+      " have",
+      " to",
+      " leave",
+      " the",
+      " ho",
+      "tel",
+      " at",
+      " noon."
+    ],
+    "exampleSentence": "Can you call a taxi, please? I have to leave the hotel at noon.",
+    "exampleTranslation": "Você pode chamar um táxi, por favor? Eu tenho que deixar o hotel ao meio-dia."
+  },
+  {
+    "id": "to_arrive_leave_102",
+    "word": "My parents aren't here. Actually, they are traveling.",
+    "translation": "Meus pais não estão aqui. Na verdade, eles estão viajando.",
+    "pronunciation": "/maɪ ˈpɛrənts ɑrnt hɪr. ˈæktʃuəli, ðeɪ ɑr ˈtrævəlɪŋ./",
+    "portuguesePhonetic": "mai pé-rents árnt rir. éc-tchu-a-li, dêi ar tré-ve-lin.",
+    "syllables": [
+      "My",
+      " par",
+      "ents",
+      " aren't",
+      " here.",
+      " Ac",
+      "tu",
+      "al",
+      "ly,",
+      " they",
+      " are",
+      " trav",
+      "el",
+      "ing."
+    ],
+    "exampleSentence": "My parents aren't here. Actually, they are traveling.",
+    "exampleTranslation": "Meus pais não estão aqui. Na verdade, eles estão viajando."
+  },
+  {
+    "id": "to_arrive_leave_103",
+    "word": "I think he is a foreigner. What is his nationality?",
+    "translation": "Eu acho que ele é estrangeiro. Qual é a nacionalidade dele?",
+    "pronunciation": "/aɪ θɪŋk hi ɪz ə ˈfɔrənər. wʌt ɪz hɪz ˌnæʃəˈnæləti?/",
+    "portuguesePhonetic": "ai thinc ri iz a fó-re-ner. uót iz ris né-xo-né-li-ti?",
+    "syllables": [
+      "I",
+      " think",
+      " he",
+      " is",
+      " a",
+      " for",
+      "eign",
+      "er.",
+      " What",
+      " is",
+      " his",
+      " na",
+      "tion",
+      "al",
+      "i",
+      "ty?"
+    ],
+    "exampleSentence": "I think he is a foreigner. What is his nationality?",
+    "exampleTranslation": "Eu acho que ele é estrangeiro. Qual é a nacionalidade dele?"
+  },
+  {
+    "id": "to_arrive_leave_104",
+    "word": "There is a lot of money in my wallet.",
+    "translation": "Há muito dinheiro na minha carteira.",
+    "pronunciation": "/ðɛr ɪz ə lɑt ʌv ˈmʌni ɪn maɪ ˈwɔlət./",
+    "portuguesePhonetic": "dér iz a lót âv mâ-ni in mai uó-let.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " lot",
+      " of",
+      " mon",
+      "ey",
+      " in",
+      " my",
+      " wal",
+      "let."
+    ],
+    "exampleSentence": "There is a lot of money in my wallet.",
+    "exampleTranslation": "Há muito dinheiro na minha carteira."
+  },
+  {
+    "id": "to_arrive_leave_105",
+    "word": "There are two swimming pools at her house.",
+    "translation": "Há duas piscinas na casa dela.",
+    "pronunciation": "/ðɛr ɑr tu ˈswɪmɪŋ pulz æt hər haʊs./",
+    "portuguesePhonetic": "dér ar tchu suí-min puls ét rãr ráus.",
+    "syllables": [
+      "There",
+      " are",
+      " two",
+      " swim",
+      "ming",
+      " pools",
+      " at",
+      " her",
+      " house."
+    ],
+    "exampleSentence": "There are two swimming pools at her house.",
+    "exampleTranslation": "Há duas piscinas na casa dela."
+  },
+  {
+    "id": "to_arrive_leave_106",
+    "word": "There is a lot of luggage in the lobby.",
+    "translation": "Há muita bagagem no saguão.",
+    "pronunciation": "/ðɛr ɪz ə lɑt ʌv ˈlʌɡɪdʒ ɪn ðə ˈlɑbi./",
+    "portuguesePhonetic": "dér iz a lót âv lâ-guidj in dâ ló-bi.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " lot",
+      " of",
+      " lug",
+      "gage",
+      " in",
+      " the",
+      " lob",
+      "by."
+    ],
+    "exampleSentence": "There is a lot of luggage in the lobby.",
+    "exampleTranslation": "Há muita bagagem no saguão."
+  },
+  {
+    "id": "to_arrive_leave_107",
+    "word": "There are great attractions in this city.",
+    "translation": "Há ótimas atrações nesta cidade.",
+    "pronunciation": "/ðɛr ɑr ɡreɪt əˈtrækʃənz ɪn ðɪs ˈsɪti./",
+    "portuguesePhonetic": "dér ar grêit a-tréc-xâns in dís sí-ti.",
+    "syllables": [
+      "There",
+      " are",
+      " great",
+      " at",
+      "trac",
+      "tions",
+      " in",
+      " this",
+      " ci",
+      "ty."
+    ],
+    "exampleSentence": "There are great attractions in this city.",
+    "exampleTranslation": "Há ótimas atrações nesta cidade."
+  },
+  {
+    "id": "to_arrive_leave_108",
+    "word": "There is a small fitness center in that hotel.",
+    "translation": "Há uma pequena academia naquele hotel.",
+    "pronunciation": "/ðɛr ɪz ə smɔl ˈfɪtnəs ˈsɛntər ɪn ðæt hoʊˈtɛl./",
+    "portuguesePhonetic": "dér iz a smól fít-nes sén-ter in dét rou-tél.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " small",
+      " fit",
+      "ness",
+      " cen",
+      "ter",
+      " in",
+      " that",
+      " ho",
+      "tel."
+    ],
+    "exampleSentence": "There is a small fitness center in that hotel.",
+    "exampleTranslation": "Há uma pequena academia naquele hotel."
+  },
+  {
+    "id": "to_arrive_leave_109",
+    "word": "There is a big parking lot near the airport.",
+    "translation": "Há um grande estacionamento perto do aeroporto.",
+    "pronunciation": "/ðɛr ɪz ə bɪɡ ˈpɑrkɪŋ lɑt nɪr ðə ˈɛrˌpɔrt./",
+    "portuguesePhonetic": "dér iz a bíg pár-quin lót nír dâ ér-pórt.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " big",
+      " park",
+      "ing",
+      " lot",
+      " near",
+      " the",
+      " air",
+      "port."
+    ],
+    "exampleSentence": "There is a big parking lot near the airport.",
+    "exampleTranslation": "Há um grande estacionamento perto do aeroporto."
+  },
+  {
+    "id": "to_arrive_leave_110",
+    "word": "There are fourteen rooms in the hostel.",
+    "translation": "Há quatorze quartos no albergue.",
+    "pronunciation": "/ðɛr ɑr ˌfɔrˈtin rumz ɪn ðə ˈhɑstəl./",
+    "portuguesePhonetic": "dér ar fór-tîn rúms in dâ hós-tel.",
+    "syllables": [
+      "There",
+      " are",
+      " four",
+      "teen",
+      " rooms",
+      " in",
+      " the",
+      " hos",
+      "tel."
+    ],
+    "exampleSentence": "There are fourteen rooms in the hostel.",
+    "exampleTranslation": "Há quatorze quartos no albergue."
+  },
+  {
+    "id": "to_arrive_leave_111",
+    "word": "There is a cozy restaurant in this hotel.",
+    "translation": "Há um restaurante aconchegante neste hotel.",
+    "pronunciation": "/ðɛr ɪz ə ˈkoʊzi ˈrɛstəˌrɑnt ɪn ðɪs hoʊˈtɛl./",
+    "portuguesePhonetic": "dér iz a côu-zi rés-ta-rant in dís rou-tél.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " co",
+      "zy",
+      " res",
+      "tau",
+      "rant",
+      " in",
+      " this",
+      " ho",
+      "tel."
+    ],
+    "exampleSentence": "There is a cozy restaurant in this hotel.",
+    "exampleTranslation": "Há um restaurante aconchegante neste hotel."
+  },
+  {
+    "id": "to_arrive_leave_112",
+    "word": "Can you give me a ride to the station?",
+    "translation": "Você pode me dar uma carona até a estação?",
+    "pronunciation": "/kæn ju ɡɪv mi ə raɪd tu ðə ˈsteɪʃən?/",
+    "portuguesePhonetic": "quén iu guív mi a ráid tchu dâ stêi-xân?",
+    "syllables": [
+      "Can",
+      " you",
+      " give",
+      " me",
+      " a",
+      " ride",
+      " to",
+      " the",
+      " sta",
+      "tion?"
+    ],
+    "exampleSentence": "Can you give me a ride to the station?",
+    "exampleTranslation": "Você pode me dar uma carona até a estação?"
+  },
+  {
+    "id": "to_arrive_leave_113",
+    "word": "There are some bars near here.",
+    "translation": "Há alguns bares perto daqui.",
+    "pronunciation": "/ðɛr ɑr sʌm bɑrz nɪr hɪr./",
+    "portuguesePhonetic": "dér ar sâm bars nír rir.",
+    "syllables": [
+      "There",
+      " are",
+      " some",
+      " bars",
+      " near",
+      " here."
+    ],
+    "exampleSentence": "There are some bars near here.",
+    "exampleTranslation": "Há alguns bares perto daqui."
+  },
+  {
+    "id": "to_arrive_leave_114",
+    "word": "What time does your mother need to arrive at the hotel?",
+    "translation": "A que horas sua mãe precisa chegar ao hotel?",
+    "pronunciation": "/wʌt taɪm dʌz jʊr ˈmʌðər nid tu əˈraɪv æt ðə hoʊˈtɛl?/",
+    "portuguesePhonetic": "uót taim dâs iór mâ-der nîd tchu a-ráiv ét dâ rou-tél?",
+    "syllables": [
+      "What",
+      " time",
+      " does",
+      " your",
+      " moth",
+      "er",
+      " need",
+      " to",
+      " ar",
+      "rive",
+      " at",
+      " the",
+      " ho",
+      "tel?"
+    ],
+    "exampleSentence": "What time does your mother need to arrive at the hotel?",
+    "exampleTranslation": "A que horas sua mãe precisa chegar ao hotel?"
+  },
+  {
+    "id": "to_arrive_leave_115",
+    "word": "How many tourists usually visit this place?",
+    "translation": "Quantos turistas geralmente visitam este lugar?",
+    "pronunciation": "/haʊ ˈmɛni ˈtʊrəsts ˈjuʒuəli ˈvɪzɪt ðɪs pleɪs?/",
+    "portuguesePhonetic": "ráu mé-ni tú-rists iú-ju-a-li ví-sit dís plêis?",
+    "syllables": [
+      "How",
+      " ma",
+      "ny",
+      " tour",
+      "ists",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " vis",
+      "it",
+      " this",
+      " place?"
+    ],
+    "exampleSentence": "How many tourists usually visit this place?",
+    "exampleTranslation": "Quantos turistas geralmente visitam este lugar?"
+  },
+  {
+    "id": "to_arrive_leave_116",
+    "word": "How do you prefer to travel: by bus or by plane?",
+    "translation": "Como você prefere viajar: de ônibus ou de avião?",
+    "pronunciation": "/haʊ du ju prɪˈfɜr tu ˈtrævəl: baɪ bʌs ɔr baɪ pleɪn?/",
+    "portuguesePhonetic": "ráu du iu pri-fãr tchu tré-vol: bai bâs ór bai plêin?",
+    "syllables": [
+      "How",
+      " do",
+      " you",
+      " pre",
+      "fer",
+      " to",
+      " trav",
+      "el",
+      " by",
+      " bus",
+      " or",
+      " by",
+      " plane?"
+    ],
+    "exampleSentence": "How do you prefer to travel: by bus or by plane?",
+    "exampleTranslation": "Como você prefere viajar: de ônibus ou de avião?"
+  },
+  {
+    "id": "to_arrive_leave_117",
+    "word": "There are some hotels near here.",
+    "translation": "Há alguns hotéis perto daqui.",
+    "pronunciation": "/ðɛr ɑr sʌm hoʊˈtɛlz nɪr hɪr./",
+    "portuguesePhonetic": "dér ar sâm rou-téis nír rir.",
+    "syllables": [
+      "There",
+      " are",
+      " some",
+      " ho",
+      "tels",
+      " near",
+      " here."
+    ],
+    "exampleSentence": "There are some hotels near here.",
+    "exampleTranslation": "Há alguns hotéis perto daqui."
+  },
+  {
+    "id": "to_arrive_leave_118",
+    "word": "tourist",
+    "translation": "turista",
+    "pronunciation": "/ˈtʊrəst/",
+    "portuguesePhonetic": "tú-rist",
+    "syllables": [
+      "tour",
+      "ist"
+    ],
+    "exampleSentence": "He is a friendly tourist.",
+    "exampleTranslation": "Ele é um turista amigável."
+  },
+  {
+    "id": "to_arrive_leave_119",
+    "word": "hostel",
+    "translation": "albergue",
+    "pronunciation": "/ˈhɑstəl/",
+    "portuguesePhonetic": "hós-tel",
+    "syllables": [
+      "hos",
+      "tel"
+    ],
+    "exampleSentence": "The hostel is cheap.",
+    "exampleTranslation": "O albergue é barato."
+  },
+  {
+    "id": "to_arrive_leave_120",
+    "word": "airport",
+    "translation": "aeroporto",
+    "pronunciation": "/ˈɛrˌpɔrt/",
+    "portuguesePhonetic": "ér-pórt",
+    "syllables": [
+      "air",
+      "port"
+    ],
+    "exampleSentence": "We are at the airport.",
+    "exampleTranslation": "Nós estamos no aeroporto."
+  },
+  {
+    "id": "to_arrive_leave_121",
+    "word": "room service",
+    "translation": "serviço de quarto",
+    "pronunciation": "/rum ˈsɜrvəs/",
+    "portuguesePhonetic": "rúm sãr-vis",
+    "syllables": [
+      "room",
+      " ser",
+      "vice"
+    ],
+    "exampleSentence": "Room service is available.",
+    "exampleTranslation": "O serviço de quarto está disponível."
+  },
+  {
+    "id": "to_arrive_leave_122",
+    "word": "arrive",
+    "translation": "chegar",
+    "pronunciation": "/əˈraɪv/",
+    "portuguesePhonetic": "a-ráiv",
+    "syllables": [
+      "ar",
+      "rive"
+    ],
+    "exampleSentence": "We will arrive soon.",
+    "exampleTranslation": "Nós chegaremos em breve."
+  },
+  {
+    "id": "to_arrive_leave_123",
+    "word": "on time",
+    "translation": "no horário",
+    "pronunciation": "/ɑn taɪm/",
+    "portuguesePhonetic": "an taim",
+    "syllables": [
+      "on",
+      " time"
+    ],
+    "exampleSentence": "Please arrive on time.",
+    "exampleTranslation": "Por favor, chegue no horário."
+  },
+  {
+    "id": "to_arrive_leave_124",
+    "word": "parking lot",
+    "translation": "estacionamento",
+    "pronunciation": "/ˈpɑrkɪŋ lɑt/",
+    "portuguesePhonetic": "pár-quin lót",
+    "syllables": [
+      "park",
+      "ing",
+      " lot"
+    ],
+    "exampleSentence": "The house has no parking lot.",
+    "exampleTranslation": "A casa não tem estacionamento."
+  },
+  {
+    "id": "to_arrive_leave_125",
+    "word": "cozy",
+    "translation": "aconchegante",
+    "pronunciation": "/ˈkoʊzi/",
+    "portuguesePhonetic": "côu-zi",
+    "syllables": [
+      "co",
+      "zy"
+    ],
+    "exampleSentence": "The lobby is cozy.",
+    "exampleTranslation": "O saguão é aconchegante."
+  },
+  {
+    "id": "to_arrive_leave_126",
+    "word": "clean",
+    "translation": "limpo",
+    "pronunciation": "/klin/",
+    "portuguesePhonetic": "clin",
+    "syllables": [
+      "clean"
+    ],
+    "exampleSentence": "Is your room clean?",
+    "exampleTranslation": "Seu quarto está limpo?"
+  },
+  {
+    "id": "to_arrive_leave_127",
+    "word": "book a room",
+    "translation": "reservar um quarto",
+    "pronunciation": "/bʊk ə rum/",
+    "portuguesePhonetic": "búc a rúm",
+    "syllables": [
+      "book",
+      " a",
+      " room"
+    ],
+    "exampleSentence": "I want to book a room.",
+    "exampleTranslation": "Eu quero reservar um quarto."
+  },
+  {
+    "id": "to_arrive_leave_128",
+    "word": "cable TV",
+    "translation": "TV a cabo",
+    "pronunciation": "/ˈkeɪbəl ˌtiˈvi/",
+    "portuguesePhonetic": "quêi-bol tî-vî",
+    "syllables": [
+      "ca",
+      "ble",
+      " T",
+      "V"
+    ],
+    "exampleSentence": "We enjoy cable TV.",
+    "exampleTranslation": "Nós gostamos de TV a cabo."
+  },
+  {
+    "id": "to_arrive_leave_129",
+    "word": "wireless internet",
+    "translation": "internet sem fio",
+    "pronunciation": "/ˈwaɪərles ˈɪntərˌnɛt/",
+    "portuguesePhonetic": "uáir-les ín-ter-net",
+    "syllables": [
+      "wire",
+      "less",
+      " in",
+      "ter",
+      "net"
+    ],
+    "exampleSentence": "The hostel has wireless internet.",
+    "exampleTranslation": "O albergue tem internet sem fio."
+  },
+  {
+    "id": "to_arrive_leave_130",
+    "word": "luggage",
+    "translation": "bagagem",
+    "pronunciation": "/ˈlʌɡɪdʒ/",
+    "portuguesePhonetic": "lâ-guidj",
+    "syllables": [
+      "lug",
+      "gage"
+    ],
+    "exampleSentence": "Do you have much luggage?",
+    "exampleTranslation": "Você tem muita bagagem?"
+  },
+  {
+    "id": "to_arrive_leave_131",
+    "word": "lobby",
+    "translation": "saguão",
+    "pronunciation": "/ˈlɑbi/",
+    "portuguesePhonetic": "ló-bi",
+    "syllables": [
+      "lob",
+      "by"
+    ],
+    "exampleSentence": "He is waiting in the lobby.",
+    "exampleTranslation": "Ele está esperando no saguão."
+  },
+  {
+    "id": "to_arrive_leave_132",
+    "word": "attraction",
+    "translation": "atração",
+    "pronunciation": "/əˈtrækʃən/",
+    "portuguesePhonetic": "a-tréc-xân",
+    "syllables": [
+      "at",
+      "trac",
+      "tion"
+    ],
+    "exampleSentence": "The city has many attractions.",
+    "exampleTranslation": "A cidade tem muitas atrações."
+  },
+  {
+    "id": "to_arrive_leave_133",
+    "word": "fitness center",
+    "translation": "academia",
+    "pronunciation": "/ˈfɪtnəs ˈsɛntər/",
+    "portuguesePhonetic": "fít-nes sén-ter",
+    "syllables": [
+      "fit",
+      "ness",
+      " cen",
+      "ter"
+    ],
+    "exampleSentence": "Let's go to the fitness center.",
+    "exampleTranslation": "Vamos para a academia."
+  },
+  {
+    "id": "to_arrive_leave_134",
+    "word": "foreigner",
+    "translation": "estrangeiro",
+    "pronunciation": "/ˈfɔrənər/",
+    "portuguesePhonetic": "fó-re-ner",
+    "syllables": [
+      "for",
+      "eign",
+      "er"
+    ],
+    "exampleSentence": "She is a foreigner.",
+    "exampleTranslation": "Ela é estrangeira."
+  },
+  {
+    "id": "to_arrive_leave_135",
+    "word": "nationality",
+    "translation": "nacionalidade",
+    "pronunciation": "/ˌnæʃəˈnæləti/",
+    "portuguesePhonetic": "né-xo-né-li-ti",
+    "syllables": [
+      "na",
+      "tion",
+      "al",
+      "i",
+      "ty"
+    ],
+    "exampleSentence": "He has dual nationality.",
+    "exampleTranslation": "Ele tem dupla nacionalidade."
+  },
+  {
+    "id": "to_arrive_leave_136",
+    "word": "ride",
+    "translation": "carona",
+    "pronunciation": "/raɪd/",
+    "portuguesePhonetic": "ráid",
+    "syllables": [
+      "ride"
+    ],
+    "exampleSentence": "Thanks for the ride.",
+    "exampleTranslation": "Obrigado pela carona."
+  },
+  {
+    "id": "to_arrive_leave_137",
+    "word": "station",
+    "translation": "estação",
+    "pronunciation": "/ˈsteɪʃən/",
+    "portuguesePhonetic": "stêi-xân",
+    "syllables": [
+      "sta",
+      "tion"
+    ],
+    "exampleSentence": "We are at the station.",
+    "exampleTranslation": "Nós encontramos na estação."
+  },
+  {
+    "id": "to_arrive_leave_138",
+    "word": "tourist attraction",
+    "translation": "ponto turístico",
+    "pronunciation": "/ˈtʊrəst əˈtrækʃən/",
+    "portuguesePhonetic": "tú-rist a-tréc-xân",
+    "syllables": [
+      "tour",
+      "ist",
+      " at",
+      "trac",
+      "tion"
+    ],
+    "exampleSentence": "This is a popular tourist attraction.",
+    "exampleTranslation": "Este é um ponto turístico popular."
+  },
+  {
+    "id": "to_arrive_leave_139",
+    "word": "hotel",
+    "translation": "hotel",
+    "pronunciation": "/hoʊˈtɛl/",
+    "portuguesePhonetic": "rou-tél",
+    "syllables": [
+      "ho",
+      "tel"
+    ],
+    "exampleSentence": "The hotel is downtown.",
+    "exampleTranslation": "O hotel fica no centro da cidade."
+  },
+  {
+    "id": "to_arrive_leave_140",
+    "word": "taxi",
+    "translation": "táxi",
+    "pronunciation": "/ˈtæksi/",
+    "portuguesePhonetic": "téc-si",
+    "syllables": [
+      "tax",
+      "i"
+    ],
+    "exampleSentence": "I need a taxi.",
+    "exampleTranslation": "Eu preciso de um táxi."
+  },
+  {
+    "id": "to_arrive_leave_141",
+    "word": "noon",
+    "translation": "meio-dia",
+    "pronunciation": "/nun/",
+    "portuguesePhonetic": "nun",
+    "syllables": [
+      "noon"
+    ],
+    "exampleSentence": "We will meet at noon.",
+    "exampleTranslation": "Nós nos encontraremos ao meio-dia."
+  }
+]

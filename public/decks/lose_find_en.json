@@ -1,0 +1,653 @@
+[
+  {
+    "id": "lose_find_1",
+    "word": "to lose",
+    "translation": "perder",
+    "pronunciation": "/tu luz/",
+    "portuguesePhonetic": "tchu lúz",
+    "syllables": [
+      "to",
+      " lose"
+    ],
+    "exampleSentence": "I really don't want to lose my mind.",
+    "exampleTranslation": "Eu realmente não quero perder a cabeça."
+  },
+  {
+    "id": "lose_find_2",
+    "word": "to find",
+    "translation": "encontrar, achar",
+    "pronunciation": "/tu faɪnd/",
+    "portuguesePhonetic": "tchu fáind",
+    "syllables": [
+      "to",
+      " find"
+    ],
+    "exampleSentence": "I hope I can find my ID.",
+    "exampleTranslation": "Eu espero conseguir encontrar minha identidade."
+  },
+  {
+    "id": "lose_find_3",
+    "word": "ID",
+    "translation": "identidade",
+    "pronunciation": "/ˌaɪˈdi/",
+    "portuguesePhonetic": "ai-dí",
+    "syllables": [
+      "I",
+      "D"
+    ],
+    "exampleSentence": "I hope I can find my ID.",
+    "exampleTranslation": "Eu espero conseguir encontrar minha identidade."
+  },
+  {
+    "id": "lose_find_4",
+    "word": "driver's license",
+    "translation": "carteira de habilitação",
+    "pronunciation": "/ˈdraɪvərz ˈlaɪsəns/",
+    "portuguesePhonetic": "drái-verz lái-sens",
+    "syllables": [
+      "driv",
+      "er's",
+      " li",
+      "cense"
+    ],
+    "exampleSentence": "I can't find my driver's license.",
+    "exampleTranslation": "Eu não consigo encontrar minha carteira de habilitação."
+  },
+  {
+    "id": "lose_find_5",
+    "word": "headphones",
+    "translation": "fone de ouvido",
+    "pronunciation": "/ˈhɛdˌfoʊnz/",
+    "portuguesePhonetic": "réd-fôunz",
+    "syllables": [
+      "head",
+      "phones"
+    ],
+    "exampleSentence": "Where are my headphones?",
+    "exampleTranslation": "Onde estão meus fones de ouvido?"
+  },
+  {
+    "id": "lose_find_6",
+    "word": "charger",
+    "translation": "carregador",
+    "pronunciation": "/ˈtʃɑrdʒər/",
+    "portuguesePhonetic": "tchár-djer",
+    "syllables": [
+      "char",
+      "ger"
+    ],
+    "exampleSentence": "I always have a charger in my backpack.",
+    "exampleTranslation": "Eu sempre tenho um carregador na minha mochila."
+  },
+  {
+    "id": "lose_find_7",
+    "word": "key",
+    "translation": "chave",
+    "pronunciation": "/ki/",
+    "portuguesePhonetic": "kí",
+    "syllables": [
+      "key"
+    ],
+    "exampleSentence": "Where are my keys? I can't find them.",
+    "exampleTranslation": "Onde estão minhas chaves? Eu não consigo encontrá-las."
+  },
+  {
+    "id": "lose_find_8",
+    "word": "name tag",
+    "translation": "crachá",
+    "pronunciation": "/neɪm tæɡ/",
+    "portuguesePhonetic": "nêim tég",
+    "syllables": [
+      "name",
+      " tag"
+    ],
+    "exampleSentence": "I lost my name tag at the station.",
+    "exampleTranslation": "Eu perdi meu crachá na estação."
+  },
+  {
+    "id": "lose_find_9",
+    "word": "temper",
+    "translation": "temperamento, calma",
+    "pronunciation": "/ˈtɛmpər/",
+    "portuguesePhonetic": "tém-per",
+    "syllables": [
+      "tem",
+      "per"
+    ],
+    "exampleSentence": "You can't lose your temper now.",
+    "exampleTranslation": "Você não pode perder a calma agora."
+  },
+  {
+    "id": "lose_find_10",
+    "word": "control",
+    "translation": "controle",
+    "pronunciation": "/kənˈtroʊl/",
+    "portuguesePhonetic": "con-trôul",
+    "syllables": [
+      "con",
+      "trol"
+    ],
+    "exampleSentence": "He lost control of the car.",
+    "exampleTranslation": "Ele perdeu o controle do carro."
+  },
+  {
+    "id": "lose_find_11",
+    "word": "patience",
+    "translation": "paciência",
+    "pronunciation": "/ˈpeɪʃəns/",
+    "portuguesePhonetic": "pêi-xens",
+    "syllables": [
+      "pa",
+      "tience"
+    ],
+    "exampleSentence": "My teacher never loses patience. I love her.",
+    "exampleTranslation": "Minha professora nunca perde a paciência. Eu a adoro."
+  },
+  {
+    "id": "lose_find_12",
+    "word": "hope",
+    "translation": "esperança",
+    "pronunciation": "/hoʊp/",
+    "portuguesePhonetic": "rôup",
+    "syllables": [
+      "hope"
+    ],
+    "exampleSentence": "You can never lose hope.",
+    "exampleTranslation": "Você nunca pode perder a esperança."
+  },
+  {
+    "id": "lose_find_13",
+    "word": "behind",
+    "translation": "atrás",
+    "pronunciation": "/bɪˈhaɪnd/",
+    "portuguesePhonetic": "bi-ráind",
+    "syllables": [
+      "be",
+      "hind"
+    ],
+    "exampleSentence": "My house is behind the bookstore.",
+    "exampleTranslation": "Minha casa fica atrás da livraria."
+  },
+  {
+    "id": "lose_find_14",
+    "word": "Is there a lost and found section at this station?",
+    "translation": "Tem um setor de achados e perdidos nesta estação?",
+    "pronunciation": "/ɪz ðɛr ə lɔst ænd faʊnd ˈsɛkʃən æt ðɪs ˈsteɪʃən/",
+    "portuguesePhonetic": "iz dér a lóst énd fáund séc-xân ét díz stêi-xân",
+    "syllables": [
+      "Is",
+      " there",
+      " a",
+      " lost",
+      " and",
+      " found",
+      " sec",
+      "tion",
+      " at",
+      " this",
+      " sta",
+      "tion?"
+    ],
+    "exampleSentence": "Is there a lost and found section at this station?",
+    "exampleTranslation": "Tem um setor de achados e perdidos nesta estação?"
+  },
+  {
+    "id": "lose_find_15",
+    "word": "I always get lost in big cities.",
+    "translation": "Eu realmente me perco em cidades grandes.",
+    "pronunciation": "/aɪ ˈɔlweɪz ɡɛt lɔst ɪn bɪɡ ˈsɪtiz/",
+    "portuguesePhonetic": "ai ól-ueiz guét lóst in big sí-tiz",
+    "syllables": [
+      "I",
+      " al",
+      "ways",
+      " get",
+      " lost",
+      " in",
+      " big",
+      " ci",
+      "ties."
+    ],
+    "exampleSentence": "I always get lost in big cities.",
+    "exampleTranslation": "Eu realmente me perco em cidades grandes."
+  },
+  {
+    "id": "lose_find_16",
+    "word": "I really don't want to lose my mind.",
+    "translation": "Eu realmente não quero perder a cabeça.",
+    "pronunciation": "/aɪ ˈrɪli doʊnt wɑnt tu luz maɪ maɪnd/",
+    "portuguesePhonetic": "ai rí-li dôunt uánt tchu lúz mai máind",
+    "syllables": [
+      "I",
+      " real",
+      "ly",
+      " don't",
+      " want",
+      " to",
+      " lose",
+      " my",
+      " mind."
+    ],
+    "exampleSentence": "I really don't want to lose my mind.",
+    "exampleTranslation": "Eu realmente não quero perder a cabeça."
+  },
+  {
+    "id": "lose_find_17",
+    "word": "I never lose faith in people.",
+    "translation": "Eu nunca perco fé nas pessoas.",
+    "pronunciation": "/aɪ ˈnɛvər luz feɪθ ɪn ˈpipəl/",
+    "portuguesePhonetic": "ai né-ver lúz fêith in pí-pôl",
+    "syllables": [
+      "I",
+      " nev",
+      "er",
+      " lose",
+      " faith",
+      " in",
+      " peo",
+      "ple."
+    ],
+    "exampleSentence": "I never lose faith in people.",
+    "exampleTranslation": "Eu nunca perco fé nas pessoas."
+  },
+  {
+    "id": "lose_find_18",
+    "word": "me",
+    "translation": "mim, me",
+    "pronunciation": "/mi/",
+    "portuguesePhonetic": "mí",
+    "syllables": [
+      "me"
+    ],
+    "exampleSentence": "He wants to talk to me.",
+    "exampleTranslation": "Ele quer falar comigo."
+  },
+  {
+    "id": "lose_find_19",
+    "word": "you",
+    "translation": "você, o, a, te",
+    "pronunciation": "/ju/",
+    "portuguesePhonetic": "iú",
+    "syllables": [
+      "you"
+    ],
+    "exampleSentence": "The doctor can see you now.",
+    "exampleTranslation": "O médico pode ver você agora."
+  },
+  {
+    "id": "lose_find_20",
+    "word": "him",
+    "translation": "ele, o, lhe",
+    "pronunciation": "/hɪm/",
+    "portuguesePhonetic": "rím",
+    "syllables": [
+      "him"
+    ],
+    "exampleSentence": "His father takes him to school.",
+    "exampleTranslation": "O pai dele o leva para a escola."
+  },
+  {
+    "id": "lose_find_21",
+    "word": "her",
+    "translation": "ela, a, lhe",
+    "pronunciation": "/hɜr/",
+    "portuguesePhonetic": "rãr",
+    "syllables": [
+      "her"
+    ],
+    "exampleSentence": "My brother likes her.",
+    "exampleTranslation": "Meu irmão gosta dela."
+  },
+  {
+    "id": "lose_find_22",
+    "word": "it",
+    "translation": "ele, ela, o, a (coisas/animais)",
+    "pronunciation": "/ɪt/",
+    "portuguesePhonetic": "it",
+    "syllables": [
+      "it"
+    ],
+    "exampleSentence": "Annie needs to talk to it.",
+    "exampleTranslation": "Annie precisa falar com isso."
+  },
+  {
+    "id": "lose_find_23",
+    "word": "us",
+    "translation": "nós, nos",
+    "pronunciation": "/ʌs/",
+    "portuguesePhonetic": "âs",
+    "syllables": [
+      "us"
+    ],
+    "exampleSentence": "She likes to buy presents for all of us.",
+    "exampleTranslation": "Ela gosta de comprar presentes para todos nós."
+  },
+  {
+    "id": "lose_find_24",
+    "word": "them",
+    "translation": "eles, elas, os, as, lhes",
+    "pronunciation": "/ðɛm/",
+    "portuguesePhonetic": "dém",
+    "syllables": [
+      "them"
+    ],
+    "exampleSentence": "The teacher never hears them.",
+    "exampleTranslation": "O professor nunca os ouve."
+  },
+  {
+    "id": "lose_find_25",
+    "word": "Can you help him find his keys?",
+    "translation": "Você pode ajudá-lo a encontrar as chaves dele?",
+    "pronunciation": "/kæn ju hɛlp hɪm faɪnd hɪz kiz/",
+    "portuguesePhonetic": "kén iu rélp rim fáind riz kíz",
+    "syllables": [
+      "Can",
+      " you",
+      " help",
+      " him",
+      " find",
+      " his",
+      " keys?"
+    ],
+    "exampleSentence": "Can you help him find his keys?",
+    "exampleTranslation": "Você pode ajudá-lo a encontrar as chaves dele?"
+  },
+  {
+    "id": "lose_find_26",
+    "word": "He needs to talk to you this afternoon.",
+    "translation": "Ele precisa falar com você esta tarde.",
+    "pronunciation": "/hi nidz tu tɔk tu ju ðɪs ˌæftərˈnun/",
+    "portuguesePhonetic": "ri nidz tchu tók tchu iu ðis áf-ter-nun",
+    "syllables": [
+      "He",
+      " needs",
+      " to",
+      " talk",
+      " to",
+      " you",
+      " this",
+      " af",
+      "ter",
+      "noon."
+    ],
+    "exampleSentence": "He needs to talk to you this afternoon.",
+    "exampleTranslation": "Ele precisa falar com você esta tarde."
+  },
+  {
+    "id": "lose_find_27",
+    "word": "My teacher never loses patience. I love her.",
+    "translation": "Minha professora nunca perde a paciência. Eu a adoro.",
+    "pronunciation": "/maɪ ˈtitʃər ˈnɛvər ˈluzɪz ˈpeɪʃəns. aɪ lʌv hɜr/",
+    "portuguesePhonetic": "mai tí-tcher né-ver lú-ziz pêi-xens. ai lâv rãr",
+    "syllables": [
+      "My",
+      " teach",
+      "er",
+      " nev",
+      "er",
+      " los",
+      "es",
+      " pa",
+      "tience.",
+      " I",
+      " love",
+      " her."
+    ],
+    "exampleSentence": "My teacher never loses patience. I love her.",
+    "exampleTranslation": "Minha professora nunca perde a paciência. Eu a adoro."
+  },
+  {
+    "id": "lose_find_28",
+    "word": "Let's help him find his keys.",
+    "translation": "Vamos ajudá-lo a encontrar as chaves.",
+    "pronunciation": "/lɛts hɛlp hɪm faɪnd hɪz kiz/",
+    "portuguesePhonetic": "léts rélp rim fáind riz kíz",
+    "syllables": [
+      "Let's",
+      " help",
+      " him",
+      " find",
+      " his",
+      " keys."
+    ],
+    "exampleSentence": "Let's help him find his keys.",
+    "exampleTranslation": "Vamos ajudá-lo a encontrar as chaves."
+  },
+  {
+    "id": "lose_find_29",
+    "word": "Your charger is here. I can see it.",
+    "translation": "Seu carregador está aqui. Eu consigo vê-lo.",
+    "pronunciation": "/jʊr ˈtʃɑrdʒər ɪz hɪr. aɪ kæn si ɪt/",
+    "portuguesePhonetic": "iór tchár-djer iz rir. ai kén si it",
+    "syllables": [
+      "Your",
+      " char",
+      "ger",
+      " is",
+      " here.",
+      " I",
+      " can",
+      " see",
+      " it."
+    ],
+    "exampleSentence": "Your charger is here. I can see it.",
+    "exampleTranslation": "Seu carregador está aqui. Eu consigo vê-lo."
+  },
+  {
+    "id": "lose_find_30",
+    "word": "Do you want to come with us?",
+    "translation": "Você quer vir com a gente?",
+    "pronunciation": "/du ju wɑnt tu kʌm wɪð ʌs/",
+    "portuguesePhonetic": "du iu uónt tchu câm uíð âs",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " come",
+      " with",
+      " us?"
+    ],
+    "exampleSentence": "Do you want to come with us?",
+    "exampleTranslation": "Você quer vir com a gente?"
+  },
+  {
+    "id": "lose_find_31",
+    "word": "Where are my keys? I can't find them.",
+    "translation": "Onde estão minhas chaves? Eu não consigo encontrá-las.",
+    "pronunciation": "/wɛr ɑr maɪ kiz? aɪ kænt faɪnd ðɛm/",
+    "portuguesePhonetic": "uér ar mai kíz? ai ként fáind dém",
+    "syllables": [
+      "Where",
+      " are",
+      " my",
+      " keys?",
+      " I",
+      " can't",
+      " find",
+      " them."
+    ],
+    "exampleSentence": "Where are my keys? I can't find them.",
+    "exampleTranslation": "Onde estão minhas chaves? Eu não consigo encontrá-las."
+  },
+  {
+    "id": "lose_find_32",
+    "word": "You can't lose your temper now.",
+    "translation": "Você não pode perder a calma agora.",
+    "pronunciation": "/ju kænt luz jʊr ˈtɛmpər naʊ/",
+    "portuguesePhonetic": "iu ként lúz iór tém-per náu",
+    "syllables": [
+      "You",
+      " can't",
+      " lose",
+      " your",
+      " tem",
+      "per",
+      " now."
+    ],
+    "exampleSentence": "You can't lose your temper now.",
+    "exampleTranslation": "Você não pode perder a calma agora."
+  },
+  {
+    "id": "lose_find_33",
+    "word": "I hope I can find my ID.",
+    "translation": "Eu espero conseguir encontrar minha identidade.",
+    "pronunciation": "/aɪ hoʊp aɪ kæn faɪnd maɪ ˌaɪˈdi/",
+    "portuguesePhonetic": "ai rôup ai kén fáind mai ai-dí",
+    "syllables": [
+      "I",
+      " hope",
+      " I",
+      " can",
+      " find",
+      " my",
+      " I",
+      "D."
+    ],
+    "exampleSentence": "I hope I can find my ID.",
+    "exampleTranslation": "Eu espero conseguir encontrar minha identidade."
+  },
+  {
+    "id": "lose_find_34",
+    "word": "I always have a charger in my backpack.",
+    "translation": "Eu sempre tenho um carregador na minha mochila.",
+    "pronunciation": "/aɪ ˈɔlweɪz hæv ə ˈtʃɑrdʒər ɪn maɪ ˈbækˌpæk/",
+    "portuguesePhonetic": "ai ól-ueiz rév a tchár-djer in mai béc-péc",
+    "syllables": [
+      "I",
+      " al",
+      "ways",
+      " have",
+      " a",
+      " char",
+      "ger",
+      " in",
+      " my",
+      " back",
+      "pack."
+    ],
+    "exampleSentence": "I always have a charger in my backpack.",
+    "exampleTranslation": "Eu sempre tenho um carregador na minha mochila."
+  },
+  {
+    "id": "lose_find_35",
+    "word": "You can never lose hope.",
+    "translation": "Você nunca pode perder a esperança.",
+    "pronunciation": "/ju kæn ˈnɛvər luz hoʊp/",
+    "portuguesePhonetic": "iu kén né-ver lúz rôup",
+    "syllables": [
+      "You",
+      " can",
+      " nev",
+      "er",
+      " lose",
+      " hope."
+    ],
+    "exampleSentence": "You can never lose hope.",
+    "exampleTranslation": "Você nunca pode perder a esperança."
+  },
+  {
+    "id": "lose_find_36",
+    "word": "She loses her mind easily.",
+    "translation": "Ela perde a cabeça facilmente.",
+    "pronunciation": "/ʃi ˈluzɪz hɜr maɪnd ˈizəli/",
+    "portuguesePhonetic": "xi lú-ziz rãr máind í-zi-li",
+    "syllables": [
+      "She",
+      " los",
+      "es",
+      " her",
+      " mind",
+      " eas",
+      "i",
+      "ly."
+    ],
+    "exampleSentence": "She loses her mind easily.",
+    "exampleTranslation": "Ela perde a cabeça facilmente."
+  },
+  {
+    "id": "lose_find_37",
+    "word": "It's a difficult test, but I can't lose faith.",
+    "translation": "É uma prova difícil, mas eu não posso perder a fé.",
+    "pronunciation": "/ɪts ə ˈdɪfəkəlt tɛst, bʌt aɪ kænt luz feɪθ/",
+    "portuguesePhonetic": "its a dí-fi-câlt tést, bât ai ként lúz fêith",
+    "syllables": [
+      "It's",
+      " a",
+      " dif",
+      "fi",
+      "cult",
+      " test,",
+      " but",
+      " I",
+      " can't",
+      " lose",
+      " faith."
+    ],
+    "exampleSentence": "It's a difficult test, but I can't lose faith.",
+    "exampleTranslation": "É uma prova difícil, mas eu não posso perder a fé."
+  },
+  {
+    "id": "lose_find_38",
+    "word": "We can't get lost at the airport.",
+    "translation": "Nós não podemos nos perder no aeroporto.",
+    "pronunciation": "/wi kænt ɡɛt lɔst æt ðə ˈɛrˌpɔrt/",
+    "portuguesePhonetic": "uí ként guét lóst ét ðâ ér-pórt",
+    "syllables": [
+      "We",
+      " can't",
+      " get",
+      " lost",
+      " at",
+      " the",
+      " air",
+      "port."
+    ],
+    "exampleSentence": "We can't get lost at the airport.",
+    "exampleTranslation": "Nós não podemos nos perder no aeroporto."
+  },
+  {
+    "id": "lose_find_39",
+    "word": "My house is behind the bookstore.",
+    "translation": "Minha casa fica atrás da livraria.",
+    "pronunciation": "/maɪ haʊs ɪz bɪˈhaɪnd ðə ˈbʊkˌstɔr/",
+    "portuguesePhonetic": "mai ráuss iz bi-ráind ðâ buk-stór",
+    "syllables": [
+      "My",
+      " house",
+      " is",
+      " be",
+      "hind",
+      " the",
+      " book",
+      "store."
+    ],
+    "exampleSentence": "My house is behind the bookstore.",
+    "exampleTranslation": "Minha casa fica atrás da livraria."
+  },
+  {
+    "id": "lose_find_40",
+    "word": "I have a math test tomorrow, but I find math easy.",
+    "translation": "Eu tenho uma prova de matemática amanhã, mas eu acho matemática fácil.",
+    "pronunciation": "/aɪ hæv ə mæθ tɛst təˈmɑroʊ, bʌt aɪ faɪnd mæθ ˈizi/",
+    "portuguesePhonetic": "ai rév a méth tést tchu-mó-rôu, bât ai fáind méth í-zi",
+    "syllables": [
+      "I",
+      " have",
+      " a",
+      " math",
+      " test",
+      " to",
+      "mor",
+      "row,",
+      " but",
+      " I",
+      " find",
+      " math",
+      " eas",
+      "y."
+    ],
+    "exampleSentence": "I have a math test tomorrow, but I find math easy.",
+    "exampleTranslation": "Eu tenho uma prova de matemática amanhã, mas eu acho matemática fácil."
+  }
+]

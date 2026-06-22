@@ -1,0 +1,930 @@
+[
+  {
+    "id": "lesson_9_1",
+    "word": "to live",
+    "translation": "morar, viver",
+    "pronunciation": "/tu lɪv/",
+    "portuguesePhonetic": "tchu liv",
+    "syllables": [
+      "to",
+      " live"
+    ],
+    "exampleSentence": "to live",
+    "exampleTranslation": "morar, viver"
+  },
+  {
+    "id": "lesson_9_2",
+    "word": "to understand",
+    "translation": "entender",
+    "pronunciation": "/tu ˌʌndərˈstænd/",
+    "portuguesePhonetic": "tchu ân-der-sténd",
+    "syllables": [
+      "to",
+      " un",
+      "der",
+      "stand"
+    ],
+    "exampleSentence": "to understand",
+    "exampleTranslation": "entender"
+  },
+  {
+    "id": "lesson_9_3",
+    "word": "classmate",
+    "translation": "colega de classe",
+    "pronunciation": "/ˈklæsˌmeɪt/",
+    "portuguesePhonetic": "clés-meit",
+    "syllables": [
+      "class",
+      "mate"
+    ],
+    "exampleSentence": "classmate",
+    "exampleTranslation": "colega de classe"
+  },
+  {
+    "id": "lesson_9_4",
+    "word": "language",
+    "translation": "língua, idioma",
+    "pronunciation": "/ˈlæŋɡwɪdʒ/",
+    "portuguesePhonetic": "lén-guidj",
+    "syllables": [
+      "lan",
+      "guage"
+    ],
+    "exampleSentence": "language",
+    "exampleTranslation": "língua, idioma"
+  },
+  {
+    "id": "lesson_9_5",
+    "word": "word",
+    "translation": "palavra",
+    "pronunciation": "/wɜrd/",
+    "portuguesePhonetic": "uãrd",
+    "syllables": [
+      "word"
+    ],
+    "exampleSentence": "word",
+    "exampleTranslation": "palavra"
+  },
+  {
+    "id": "lesson_9_6",
+    "word": "city",
+    "translation": "cidade",
+    "pronunciation": "/ˈsɪti/",
+    "portuguesePhonetic": "sí-ti",
+    "syllables": [
+      "ci",
+      "ty"
+    ],
+    "exampleSentence": "city",
+    "exampleTranslation": "cidade"
+  },
+  {
+    "id": "lesson_9_7",
+    "word": "country",
+    "translation": "país",
+    "pronunciation": "/ˈkʌntri/",
+    "portuguesePhonetic": "cân-tri",
+    "syllables": [
+      "coun",
+      "try"
+    ],
+    "exampleSentence": "country",
+    "exampleTranslation": "país"
+  },
+  {
+    "id": "lesson_9_8",
+    "word": "Brazil",
+    "translation": "Brasil",
+    "pronunciation": "/brəˈzɪl/",
+    "portuguesePhonetic": "bra-zíl",
+    "syllables": [
+      "Bra",
+      "zil"
+    ],
+    "exampleSentence": "Brazil",
+    "exampleTranslation": "Brasil"
+  },
+  {
+    "id": "lesson_9_9",
+    "word": "Spain",
+    "translation": "Espanha",
+    "pronunciation": "/speɪn/",
+    "portuguesePhonetic": "spein",
+    "syllables": [
+      "Spain"
+    ],
+    "exampleSentence": "Spain",
+    "exampleTranslation": "Espanha"
+  },
+  {
+    "id": "lesson_9_10",
+    "word": "Germany",
+    "translation": "Alemanha",
+    "pronunciation": "/ˈdʒɜrməni/",
+    "portuguesePhonetic": "djãr-ma-ni",
+    "syllables": [
+      "Ger",
+      "ma",
+      "ny"
+    ],
+    "exampleSentence": "Germany",
+    "exampleTranslation": "Alemanha"
+  },
+  {
+    "id": "lesson_9_11",
+    "word": "Italy",
+    "translation": "Itália",
+    "pronunciation": "/ˈɪtəli/",
+    "portuguesePhonetic": "í-ta-li",
+    "syllables": [
+      "It",
+      "a",
+      "ly"
+    ],
+    "exampleSentence": "Italy",
+    "exampleTranslation": "Itália"
+  },
+  {
+    "id": "lesson_9_12",
+    "word": "the United States of America (U.S.A.)",
+    "translation": "Estados Unidos da América (EUA)",
+    "pronunciation": "/ði juˈnaɪtəd steɪts ʌv əˈmɛrɪkə/",
+    "portuguesePhonetic": "di iu-nái-ted steits ov a-mé-ri-ca",
+    "syllables": [
+      "the",
+      " U",
+      "ni",
+      "ted",
+      " States",
+      " of",
+      " A",
+      "mer",
+      "i",
+      "ca"
+    ],
+    "exampleSentence": "the United States of America (U.S.A.)",
+    "exampleTranslation": "Estados Unidos da América (EUA)"
+  },
+  {
+    "id": "lesson_9_13",
+    "word": "alone",
+    "translation": "sozinho(a)",
+    "pronunciation": "/əˈloʊn/",
+    "portuguesePhonetic": "a-lôun",
+    "syllables": [
+      "a",
+      "lone"
+    ],
+    "exampleSentence": "alone",
+    "exampleTranslation": "sozinho(a)"
+  },
+  {
+    "id": "lesson_9_14",
+    "word": "where",
+    "translation": "onde, aonde",
+    "pronunciation": "/wɛr/",
+    "portuguesePhonetic": "uér",
+    "syllables": [
+      "where"
+    ],
+    "exampleSentence": "where",
+    "exampleTranslation": "onde, aonde"
+  },
+  {
+    "id": "lesson_9_15",
+    "word": "abroad",
+    "translation": "exterior (fora do país)",
+    "pronunciation": "/əˈbrɔd/",
+    "portuguesePhonetic": "a-bród",
+    "syllables": [
+      "a",
+      "broad"
+    ],
+    "exampleSentence": "abroad",
+    "exampleTranslation": "exterior (fora do país)"
+  },
+  {
+    "id": "lesson_9_16",
+    "word": "this",
+    "translation": "este, esta, esse, essa",
+    "pronunciation": "/ðɪs/",
+    "portuguesePhonetic": "dis",
+    "syllables": [
+      "this"
+    ],
+    "exampleSentence": "this",
+    "exampleTranslation": "este, esta, esse, essa"
+  },
+  {
+    "id": "lesson_9_17",
+    "word": "that",
+    "translation": "aquele, aquela",
+    "pronunciation": "/ðæt/",
+    "portuguesePhonetic": "dét",
+    "syllables": [
+      "that"
+    ],
+    "exampleSentence": "that",
+    "exampleTranslation": "aquele, aquela"
+  },
+  {
+    "id": "lesson_9_18",
+    "word": "in",
+    "translation": "em, no, na",
+    "pronunciation": "/ɪn/",
+    "portuguesePhonetic": "in",
+    "syllables": [
+      "in"
+    ],
+    "exampleSentence": "in",
+    "exampleTranslation": "em, no, na"
+  },
+  {
+    "id": "lesson_9_19",
+    "word": "I understand that word in English.",
+    "translation": "Eu entendo aquela palavra em inglês.",
+    "pronunciation": "/aɪ ˌʌndərˈstænd ðæt wɜrd ɪn ˈɪŋɡlɪʃ./",
+    "portuguesePhonetic": "ai ân-der-sténd dét uãrd in ín-glix.",
+    "syllables": [
+      "I",
+      " un",
+      "der",
+      "stand",
+      " that",
+      " word",
+      " in",
+      " Eng",
+      "lish."
+    ],
+    "exampleSentence": "I understand that word in English.",
+    "exampleTranslation": "Eu entendo aquela palavra em inglês."
+  },
+  {
+    "id": "lesson_9_20",
+    "word": "I live here, what about you?",
+    "translation": "Eu moro aqui, e você?",
+    "pronunciation": "/aɪ lɪv hɪr, wʌt əˈbaʊt ju?/",
+    "portuguesePhonetic": "ai liv rír, uát a-báut iu?",
+    "syllables": [
+      "I",
+      " live",
+      " here,",
+      " what",
+      " a",
+      "bout",
+      " you?"
+    ],
+    "exampleSentence": "I live here, what about you?",
+    "exampleTranslation": "Eu moro aqui, e você?"
+  },
+  {
+    "id": "lesson_9_21",
+    "word": "We don't live here.",
+    "translation": "Nós não moramos aqui.",
+    "pronunciation": "/wi doʊnt lɪv hɪr./",
+    "portuguesePhonetic": "ui dôunt liv rír.",
+    "syllables": [
+      "We",
+      " don't",
+      " live",
+      " here."
+    ],
+    "exampleSentence": "We don't live here.",
+    "exampleTranslation": "Nós não moramos aqui."
+  },
+  {
+    "id": "lesson_9_22",
+    "word": "They don't understand Spanish.",
+    "translation": "Eles não entendem espanhol.",
+    "pronunciation": "/ðeɪ doʊnt ˌʌndərˈstænd ˈspænɪʃ./",
+    "portuguesePhonetic": "dêi dôunt ân-der-sténd spé-nix.",
+    "syllables": [
+      "They",
+      " don't",
+      " un",
+      "der",
+      "stand",
+      " Span",
+      "ish."
+    ],
+    "exampleSentence": "They don't understand Spanish.",
+    "exampleTranslation": "Eles não entendem espanhol."
+  },
+  {
+    "id": "lesson_9_23",
+    "word": "We don't want to study Portuguese.",
+    "translation": "Nós não queremos estudar português.",
+    "pronunciation": "/wi doʊnt wɑnt tu ˈstʌdi ˌpɔrtʃuˈɡiz./",
+    "portuguesePhonetic": "ui dôunt uánt tchu stâ-di pôr-tchu-guis.",
+    "syllables": [
+      "We",
+      " don't",
+      " want",
+      " to",
+      " stud",
+      "y",
+      " Por",
+      "tu",
+      "guese."
+    ],
+    "exampleSentence": "We don't want to study Portuguese.",
+    "exampleTranslation": "Nós não queremos estudar português."
+  },
+  {
+    "id": "lesson_9_24",
+    "word": "They don't want to live there.",
+    "translation": "Eles não querem morar lá.",
+    "pronunciation": "/ðeɪ doʊnt wɑnt tu lɪv ðɛr./",
+    "portuguesePhonetic": "dêi dôunt uánt tchu liv dér.",
+    "syllables": [
+      "They",
+      " don't",
+      " want",
+      " to",
+      " live",
+      " there."
+    ],
+    "exampleSentence": "They don't want to live there.",
+    "exampleTranslation": "Eles não querem morar lá."
+  },
+  {
+    "id": "lesson_9_25",
+    "word": "Where do you live?",
+    "translation": "Onde você mora?",
+    "pronunciation": "/wɛr du ju lɪv?/",
+    "portuguesePhonetic": "uér du iu liv?",
+    "syllables": [
+      "Where",
+      " do",
+      " you",
+      " live?"
+    ],
+    "exampleSentence": "Where do you live?",
+    "exampleTranslation": "Onde você mora?"
+  },
+  {
+    "id": "lesson_9_26",
+    "word": "Where do you study?",
+    "translation": "Onde você estuda?",
+    "pronunciation": "/wɛr du ju ˈstʌdi?/",
+    "portuguesePhonetic": "uér du iu stâ-di?",
+    "syllables": [
+      "Where",
+      " do",
+      " you",
+      " stud",
+      "y?"
+    ],
+    "exampleSentence": "Where do you study?",
+    "exampleTranslation": "Onde você estuda?"
+  },
+  {
+    "id": "lesson_9_27",
+    "word": "Where do you want to live?",
+    "translation": "Onde você quer morar?",
+    "pronunciation": "/wɛr du ju wɑnt tu lɪv?/",
+    "portuguesePhonetic": "uér du iu uánt tchu liv?",
+    "syllables": [
+      "Where",
+      " do",
+      " you",
+      " want",
+      " to",
+      " live?"
+    ],
+    "exampleSentence": "Where do you want to live?",
+    "exampleTranslation": "Onde você quer morar?"
+  },
+  {
+    "id": "lesson_9_28",
+    "word": "We want to live abroad.",
+    "translation": "Nós queremos morar no exterior.",
+    "pronunciation": "/wi wɑnt tu lɪv əˈbrɔd./",
+    "portuguesePhonetic": "ui uánt tchu liv a-bród.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " live",
+      " a",
+      "broad."
+    ],
+    "exampleSentence": "We want to live abroad.",
+    "exampleTranslation": "Nós queremos morar no exterior."
+  },
+  {
+    "id": "lesson_9_29",
+    "word": "Do you live alone?",
+    "translation": "Você mora sozinho?",
+    "pronunciation": "/du ju lɪv əˈloʊn?/",
+    "portuguesePhonetic": "du iu liv a-lôun?",
+    "syllables": [
+      "Do",
+      " you",
+      " live",
+      " a",
+      "lone?"
+    ],
+    "exampleSentence": "Do you live alone?",
+    "exampleTranslation": "Você mora sozinho?"
+  },
+  {
+    "id": "lesson_9_30",
+    "word": "I don't understand this word.",
+    "translation": "Eu não entendo esta palavra.",
+    "pronunciation": "/aɪ doʊnt ˌʌndərˈstænd ðɪs wɜrd./",
+    "portuguesePhonetic": "ai dôunt ân-der-sténd dis uãrd.",
+    "syllables": [
+      "I",
+      " don't",
+      " un",
+      "der",
+      "stand",
+      " this",
+      " word."
+    ],
+    "exampleSentence": "I don't understand this word.",
+    "exampleTranslation": "Eu não entendo esta palavra."
+  },
+  {
+    "id": "lesson_9_31",
+    "word": "Do you want to live in Italy?",
+    "translation": "Você quer morar na Itália?",
+    "pronunciation": "/du ju wɑnt tu lɪv ɪn ˈɪtəli?/",
+    "portuguesePhonetic": "du iu uánt tchu liv in í-ta-li?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " live",
+      " in",
+      " It",
+      "a",
+      "ly?"
+    ],
+    "exampleSentence": "Do you want to live in Italy?",
+    "exampleTranslation": "Você quer morar na Itália?"
+  },
+  {
+    "id": "lesson_9_32",
+    "word": "They want to live in that country.",
+    "translation": "Eles querem morar naquele país.",
+    "pronunciation": "/ðeɪ wɑnt tu lɪv ɪn ðæt ˈkʌntri./",
+    "portuguesePhonetic": "dêi uánt tchu liv in dét cân-tri.",
+    "syllables": [
+      "They",
+      " want",
+      " to",
+      " live",
+      " in",
+      " that",
+      " coun",
+      "try."
+    ],
+    "exampleSentence": "They want to live in that country.",
+    "exampleTranslation": "Eles querem morar naquele país."
+  },
+  {
+    "id": "lesson_9_33",
+    "word": "Do you want to live in this city?",
+    "translation": "Você quer morar nesta cidade?",
+    "pronunciation": "/du ju wɑnt tu lɪv ɪn ðɪs ˈsɪti?/",
+    "portuguesePhonetic": "du iu uánt tchu liv in dis sí-ti?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " live",
+      " in",
+      " this",
+      " ci",
+      "ty?"
+    ],
+    "exampleSentence": "Do you want to live in this city?",
+    "exampleTranslation": "Você quer morar nesta cidade?"
+  },
+  {
+    "id": "lesson_9_34",
+    "word": "We don't live here.",
+    "translation": "Nós não moramos aqui.",
+    "pronunciation": "/wi doʊnt lɪv hɪr./",
+    "portuguesePhonetic": "ui dôunt liv rír.",
+    "syllables": [
+      "We",
+      " don't",
+      " live",
+      " here."
+    ],
+    "exampleSentence": "We don't live here.",
+    "exampleTranslation": "Nós não moramos aqui."
+  },
+  {
+    "id": "lesson_9_35",
+    "word": "They don't understand that language.",
+    "translation": "Eles não entendem aquele idioma.",
+    "pronunciation": "/ðeɪ doʊnt ˌʌndərˈstænd ðæt ˈlæŋɡwɪdʒ./",
+    "portuguesePhonetic": "dêi dôunt ân-der-sténd dét lén-guidj.",
+    "syllables": [
+      "They",
+      " don't",
+      " un",
+      "der",
+      "stand",
+      " that",
+      " lan",
+      "guage."
+    ],
+    "exampleSentence": "They don't understand that language.",
+    "exampleTranslation": "Eles não entendem aquele idioma."
+  },
+  {
+    "id": "lesson_9_36",
+    "word": "Where do you study English?",
+    "translation": "Onde você estuda inglês?",
+    "pronunciation": "/wɛr du ju ˈstʌdi ˈɪŋɡlɪʃ?/",
+    "portuguesePhonetic": "uér du iu stâ-di ín-glix?",
+    "syllables": [
+      "Where",
+      " do",
+      " you",
+      " stud",
+      "y",
+      " Eng",
+      "lish?"
+    ],
+    "exampleSentence": "Where do you study English?",
+    "exampleTranslation": "Onde você estuda inglês?"
+  },
+  {
+    "id": "lesson_9_37",
+    "word": "Where do you want to eat?",
+    "translation": "O que você quer comer?",
+    "pronunciation": "/wɛr du ju wɑnt tu it?/",
+    "portuguesePhonetic": "uér du iu uánt tchu ít?",
+    "syllables": [
+      "Where",
+      " do",
+      " you",
+      " want",
+      " to",
+      " eat?"
+    ],
+    "exampleSentence": "Where do you want to eat?",
+    "exampleTranslation": "O que você quer comer?"
+  },
+  {
+    "id": "lesson_9_38",
+    "word": "in Brazil",
+    "translation": "no Brasil",
+    "pronunciation": "/ɪn brəˈzɪl/",
+    "portuguesePhonetic": "in bra-zíl",
+    "syllables": [
+      "in",
+      " Bra",
+      "zil"
+    ],
+    "exampleSentence": "in Brazil",
+    "exampleTranslation": "no Brasil"
+  },
+  {
+    "id": "lesson_9_39",
+    "word": "in this country",
+    "translation": "neste país",
+    "pronunciation": "/ɪn ðɪs ˈkʌntri/",
+    "portuguesePhonetic": "in dis cân-tri",
+    "syllables": [
+      "in",
+      " this",
+      " coun",
+      "try"
+    ],
+    "exampleSentence": "in this country",
+    "exampleTranslation": "neste país"
+  },
+  {
+    "id": "lesson_9_40",
+    "word": "in that city",
+    "translation": "naquela cidade",
+    "pronunciation": "/ɪn ðæt ˈsɪti/",
+    "portuguesePhonetic": "in dét sí-ti",
+    "syllables": [
+      "in",
+      " that",
+      " ci",
+      "ty"
+    ],
+    "exampleSentence": "in that city",
+    "exampleTranslation": "naquela cidade"
+  },
+  {
+    "id": "lesson_9_41",
+    "word": "What's your name?",
+    "translation": "Qual é o seu nome?",
+    "pronunciation": "/wʌts jɔr neɪm?/",
+    "portuguesePhonetic": "uáts iór neim?",
+    "syllables": [
+      "What's",
+      " your",
+      " name?"
+    ],
+    "exampleSentence": "What's your name?",
+    "exampleTranslation": "Qual é o seu nome?"
+  },
+  {
+    "id": "lesson_9_42",
+    "word": "What's your full name?",
+    "translation": "Qual é o seu nome completo?",
+    "pronunciation": "/wʌts jɔr fʊl neɪm?/",
+    "portuguesePhonetic": "uáts iór ful neim?",
+    "syllables": [
+      "What's",
+      " your",
+      " full",
+      " name?"
+    ],
+    "exampleSentence": "What's your full name?",
+    "exampleTranslation": "Qual é o seu nome completo?"
+  },
+  {
+    "id": "lesson_9_43",
+    "word": "What's your first name?",
+    "translation": "Qual é o seu primeiro nome?",
+    "pronunciation": "/wʌts jɔr fɜrst neɪm?/",
+    "portuguesePhonetic": "uáts iór fãrst neim?",
+    "syllables": [
+      "What's",
+      " your",
+      " first",
+      " name?"
+    ],
+    "exampleSentence": "What's your first name?",
+    "exampleTranslation": "Qual é o seu primeiro nome?"
+  },
+  {
+    "id": "lesson_9_44",
+    "word": "What's your last name / surname?",
+    "translation": "Qual é o seu sobrenome?",
+    "pronunciation": "/wʌts jɔr læst neɪm / ˈsɜrˌneɪm?/",
+    "portuguesePhonetic": "uáts iór lést neim / sãr-neim?",
+    "syllables": [
+      "What's",
+      " your",
+      " last",
+      " name",
+      " /",
+      " sur",
+      "name?"
+    ],
+    "exampleSentence": "What's your last name / surname?",
+    "exampleTranslation": "Qual é o seu sobrenome?"
+  },
+  {
+    "id": "lesson_9_45",
+    "word": "My name is…",
+    "translation": "Meu nome é…",
+    "pronunciation": "/maɪ neɪm ɪz…/",
+    "portuguesePhonetic": "mai neim iz...",
+    "syllables": [
+      "My",
+      " name",
+      " is..."
+    ],
+    "exampleSentence": "My name is…",
+    "exampleTranslation": "Meu nome é…"
+  },
+  {
+    "id": "lesson_9_46",
+    "word": "Nice to meet you.",
+    "translation": "Prazer em conhecê-lo(a).",
+    "pronunciation": "/naɪs tu mit ju./",
+    "portuguesePhonetic": "nais tchu mít iu.",
+    "syllables": [
+      "Nice",
+      " to",
+      " meet",
+      " you."
+    ],
+    "exampleSentence": "Nice to meet you.",
+    "exampleTranslation": "Prazer em conhecê-lo(a)."
+  },
+  {
+    "id": "lesson_9_47",
+    "word": "Nice to meet you, too.",
+    "translation": "Prazer em conhecê-lo(a) também.",
+    "pronunciation": "/naɪs tu mit ju, tu./",
+    "portuguesePhonetic": "nais tchu mít iu, tchu.",
+    "syllables": [
+      "Nice",
+      " to",
+      " meet",
+      " you,",
+      " too."
+    ],
+    "exampleSentence": "Nice to meet you, too.",
+    "exampleTranslation": "Prazer em conhecê-lo(a) também."
+  },
+  {
+    "id": "lesson_9_48",
+    "word": "live abroad",
+    "translation": "morar no exterior",
+    "pronunciation": "/lɪv əˈbrɔd/",
+    "portuguesePhonetic": "liv a-bród",
+    "syllables": [
+      "live",
+      " a",
+      "broad"
+    ],
+    "exampleSentence": "live abroad",
+    "exampleTranslation": "morar no exterior"
+  },
+  {
+    "id": "lesson_9_49",
+    "word": "live alone",
+    "translation": "morar sozinho",
+    "pronunciation": "/lɪv əˈloʊn/",
+    "portuguesePhonetic": "liv a-lôun",
+    "syllables": [
+      "live",
+      " a",
+      "lone"
+    ],
+    "exampleSentence": "live alone",
+    "exampleTranslation": "morar sozinho"
+  },
+  {
+    "id": "lesson_9_50",
+    "word": "understand a language",
+    "translation": "entender um idioma",
+    "pronunciation": "/ˌʌndərˈstænd ə ˈlæŋɡwɪdʒ/",
+    "portuguesePhonetic": "ân-der-sténd a lén-guidj",
+    "syllables": [
+      "un",
+      "der",
+      "stand",
+      " a",
+      " lan",
+      "guage"
+    ],
+    "exampleSentence": "understand a language",
+    "exampleTranslation": "entender um idioma"
+  },
+  {
+    "id": "lesson_9_51",
+    "word": "understand a word",
+    "translation": "entender uma palavra",
+    "pronunciation": "/ˌʌndərˈstænd ə wɜrd/",
+    "portuguesePhonetic": "ân-der-sténd a uãrd",
+    "syllables": [
+      "un",
+      "der",
+      "stand",
+      " a",
+      " word"
+    ],
+    "exampleSentence": "understand a word",
+    "exampleTranslation": "entender uma palavra"
+  },
+  {
+    "id": "lesson_9_52",
+    "word": "in Italy",
+    "translation": "na Itália",
+    "pronunciation": "/ɪn ˈɪtəli/",
+    "portuguesePhonetic": "in í-ta-li",
+    "syllables": [
+      "in",
+      " It",
+      "a",
+      "ly"
+    ],
+    "exampleSentence": "in Italy",
+    "exampleTranslation": "na Itália"
+  },
+  {
+    "id": "lesson_9_53",
+    "word": "in Germany",
+    "translation": "na Alemanha",
+    "pronunciation": "/ɪn ˈdʒɜrməni/",
+    "portuguesePhonetic": "in djãr-ma-ni",
+    "syllables": [
+      "in",
+      " Ger",
+      "ma",
+      "ny"
+    ],
+    "exampleSentence": "in Germany",
+    "exampleTranslation": "na Alemanha"
+  },
+  {
+    "id": "lesson_9_54",
+    "word": "in Spain",
+    "translation": "na Espanha",
+    "pronunciation": "/ɪn speɪn/",
+    "portuguesePhonetic": "in spein",
+    "syllables": [
+      "in",
+      " Spain"
+    ],
+    "exampleSentence": "in Spain",
+    "exampleTranslation": "na Espanha"
+  },
+  {
+    "id": "lesson_9_55",
+    "word": "in the United States of America",
+    "translation": "nos Estados Unidos da América",
+    "pronunciation": "/ɪn ðə juˈnaɪtəd steɪts ʌv əˈmɛrɪkə/",
+    "portuguesePhonetic": "in dâ iu-nái-ted steits ov a-mé-ri-ca",
+    "syllables": [
+      "in",
+      " the",
+      " U",
+      "ni",
+      "ted",
+      " States",
+      " of",
+      " A",
+      "mer",
+      "i",
+      "ca"
+    ],
+    "exampleSentence": "in the United States of America",
+    "exampleTranslation": "nos Estados Unidos da América"
+  },
+  {
+    "id": "lesson_9_56",
+    "word": "this city",
+    "translation": "esta cidade",
+    "pronunciation": "/ðɪs ˈsɪti/",
+    "portuguesePhonetic": "dis sí-ti",
+    "syllables": [
+      "this",
+      " ci",
+      "ty"
+    ],
+    "exampleSentence": "this city",
+    "exampleTranslation": "esta cidade"
+  },
+  {
+    "id": "lesson_9_57",
+    "word": "that country",
+    "translation": "aquele país",
+    "pronunciation": "/ðæt ˈkʌntri/",
+    "portuguesePhonetic": "dét cân-tri",
+    "syllables": [
+      "that",
+      " coun",
+      "try"
+    ],
+    "exampleSentence": "that country",
+    "exampleTranslation": "aquele país"
+  },
+  {
+    "id": "lesson_9_58",
+    "word": "where do you live?",
+    "translation": "onde você mora?",
+    "pronunciation": "/wɛr du ju lɪv?/",
+    "portuguesePhonetic": "uér du iu liv?",
+    "syllables": [
+      "where",
+      " do",
+      " you",
+      " live?"
+    ],
+    "exampleSentence": "where do you live?",
+    "exampleTranslation": "onde você mora?"
+  },
+  {
+    "id": "lesson_9_59",
+    "word": "where do you study?",
+    "translation": "onde você estuda?",
+    "pronunciation": "/wɛr du ju ˈstʌdi?/",
+    "portuguesePhonetic": "uér du iu stâ-di?",
+    "syllables": [
+      "where",
+      " do",
+      " you",
+      " stud",
+      "y?"
+    ],
+    "exampleSentence": "where do you study?",
+    "exampleTranslation": "onde você estuda?"
+  },
+  {
+    "id": "lesson_9_60",
+    "word": "where do you want to live?",
+    "translation": "onde você quer morar?",
+    "pronunciation": "/wɛr du ju wɑnt tu lɪv?/",
+    "portuguesePhonetic": "uér du iu uánt tchu liv?",
+    "syllables": [
+      "where",
+      " do",
+      " you",
+      " want",
+      " to",
+      " live?"
+    ],
+    "exampleSentence": "where do you want to live?",
+    "exampleTranslation": "onde você quer morar?"
+  }
+]

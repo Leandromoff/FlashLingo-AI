@@ -1,0 +1,563 @@
+[
+  {
+    "id": "to_be_1",
+    "word": "to be",
+    "translation": "ser, estar",
+    "pronunciation": "/tu bi/",
+    "portuguesePhonetic": "tchu bi",
+    "syllables": [
+      "to",
+      " be"
+    ],
+    "exampleSentence": "I want to be happy.",
+    "exampleTranslation": "Eu quero ser feliz."
+  },
+  {
+    "id": "to_be_2",
+    "word": "widower / widow",
+    "translation": "viúvo / viúva",
+    "pronunciation": "/ˈwɪdoʊər / ˈwɪdoʊ/",
+    "portuguesePhonetic": "uí-dôu-er / uí-dôu",
+    "syllables": [
+      "wid",
+      "ow",
+      "er",
+      " /",
+      " wid",
+      "ow"
+    ],
+    "exampleSentence": "That widow wasn't rude to the secretary.",
+    "exampleTranslation": "Aquela viúva não foi rude com a secretária."
+  },
+  {
+    "id": "to_be_3",
+    "word": "single",
+    "translation": "solteiro(a)",
+    "pronunciation": "/ˈsɪŋɡəl/",
+    "portuguesePhonetic": "sín-gôl",
+    "syllables": [
+      "sin",
+      "gle"
+    ],
+    "exampleSentence": "He is a single man.",
+    "exampleTranslation": "Ele é um homem solteiro."
+  },
+  {
+    "id": "to_be_4",
+    "word": "married",
+    "translation": "casado(a)",
+    "pronunciation": "/ˈmɛrid/",
+    "portuguesePhonetic": "mé-rid",
+    "syllables": [
+      "mar",
+      "ried"
+    ],
+    "exampleSentence": "They are a married couple.",
+    "exampleTranslation": "Eles são um casal casado."
+  },
+  {
+    "id": "to_be_5",
+    "word": "divorced",
+    "translation": "divorciado(a)",
+    "pronunciation": "/dɪˈvɔrst/",
+    "portuguesePhonetic": "di-vórst",
+    "syllables": [
+      "di",
+      "vorced"
+    ],
+    "exampleSentence": "My parents are divorced, but get along very well.",
+    "exampleTranslation": "Meus pais são divorciados, mas se dão muito bem."
+  },
+  {
+    "id": "to_be_6",
+    "word": "couple",
+    "translation": "casal",
+    "pronunciation": "/ˈkʌpəl/",
+    "portuguesePhonetic": "câ-pôl",
+    "syllables": [
+      "cou",
+      "ple"
+    ],
+    "exampleSentence": "There were many good-looking couples at that party.",
+    "exampleTranslation": "Havia muitos casais atraentes naquela festa."
+  },
+  {
+    "id": "to_be_7",
+    "word": "adult",
+    "translation": "adulto(a)",
+    "pronunciation": "/əˈdʌlt/",
+    "portuguesePhonetic": "a-dâlt",
+    "syllables": [
+      "a",
+      "dult"
+    ],
+    "exampleSentence": "You are an adult now.",
+    "exampleTranslation": "Você é um adulto agora."
+  },
+  {
+    "id": "to_be_8",
+    "word": "teenager",
+    "translation": "adolescente",
+    "pronunciation": "/ˈtinˌeɪdʒər/",
+    "portuguesePhonetic": "tín-êi-djer",
+    "syllables": [
+      "teen",
+      "ag",
+      "er"
+    ],
+    "exampleSentence": "The teenager is studying.",
+    "exampleTranslation": "O adolescente está estudando."
+  },
+  {
+    "id": "to_be_9",
+    "word": "relationship",
+    "translation": "relacionamento",
+    "pronunciation": "/rɪˈleɪʃənˌʃɪp/",
+    "portuguesePhonetic": "ri-lêi-xân-xip",
+    "syllables": [
+      "re",
+      "la",
+      "tion",
+      "ship"
+    ],
+    "exampleSentence": "She doesn't want to have a relationship now.",
+    "exampleTranslation": "Ela não quer ter um relacionamento agora."
+  },
+  {
+    "id": "to_be_10",
+    "word": "invitation",
+    "translation": "convite",
+    "pronunciation": "/ˌɪnvɪˈteɪʃən/",
+    "portuguesePhonetic": "in-vi-têi-xân",
+    "syllables": [
+      "in",
+      "vi",
+      "ta",
+      "tion"
+    ],
+    "exampleSentence": "Thanks for the invitation.",
+    "exampleTranslation": "Obrigado pelo convite."
+  },
+  {
+    "id": "to_be_11",
+    "word": "kiss",
+    "translation": "beijo",
+    "pronunciation": "/kɪs/",
+    "portuguesePhonetic": "kís",
+    "syllables": [
+      "kiss"
+    ],
+    "exampleSentence": "Every day I give my father a kiss and a hug.",
+    "exampleTranslation": "Todo dia eu dou um beijo e um abraço no meu pai."
+  },
+  {
+    "id": "to_be_12",
+    "word": "hug",
+    "translation": "abraço",
+    "pronunciation": "/hʌɡ/",
+    "portuguesePhonetic": "râg",
+    "syllables": [
+      "hug"
+    ],
+    "exampleSentence": "Every day I give my father a kiss and a hug.",
+    "exampleTranslation": "Todo dia eu dou um beijo e um abraço no meu pai."
+  },
+  {
+    "id": "to_be_13",
+    "word": "good-looking",
+    "translation": "atraente",
+    "pronunciation": "/ɡʊdˈlʊkɪŋ/",
+    "portuguesePhonetic": "gud-lú-kin",
+    "syllables": [
+      "good",
+      "-",
+      "look",
+      "ing"
+    ],
+    "exampleSentence": "There were many good-looking couples at that party.",
+    "exampleTranslation": "Havia muitos casais atraentes naquela festa."
+  },
+  {
+    "id": "to_be_14",
+    "word": "gorgeous",
+    "translation": "deslumbrante",
+    "pronunciation": "/ˈɡɔrdʒəs/",
+    "portuguesePhonetic": "gór-djâs",
+    "syllables": [
+      "gor",
+      "geous"
+    ],
+    "exampleSentence": "She always wears gorgeous dresses when she goes on a date.",
+    "exampleTranslation": "Ela sempre usa vestidos deslumbrantes quando vai a um encontro."
+  },
+  {
+    "id": "to_be_15",
+    "word": "jealous",
+    "translation": "ciumento(a), com ciúmes",
+    "pronunciation": "/ˈdʒɛləs/",
+    "portuguesePhonetic": "djé-lâs",
+    "syllables": [
+      "jeal",
+      "ous"
+    ],
+    "exampleSentence": "He is a jealous boyfriend.",
+    "exampleTranslation": "Ele é um namorado ciumento."
+  },
+  {
+    "id": "to_be_16",
+    "word": "We get along very well.",
+    "translation": "A gente se dá muito bem.",
+    "pronunciation": "/wi ɡɛt əˈlɔŋ ˈvɛri wɛl/",
+    "portuguesePhonetic": "uí guét a-lón vé-ri uél",
+    "syllables": [
+      "We",
+      " get",
+      " a",
+      "long",
+      " ve",
+      "ry",
+      " well."
+    ],
+    "exampleSentence": "We get along very well.",
+    "exampleTranslation": "A gente se dá muito bem."
+  },
+  {
+    "id": "to_be_17",
+    "word": "I don't like to go on blind dates.",
+    "translation": "Eu não gosto de ir a encontros às cegas.",
+    "pronunciation": "/aɪ doʊnt laɪk tu ɡoʊ ɑn blaɪnd deɪts/",
+    "portuguesePhonetic": "ai dôunt láik tchu gôu ón bláind dêits",
+    "syllables": [
+      "I",
+      " don't",
+      " like",
+      " to",
+      " go",
+      " on",
+      " blind",
+      " dates."
+    ],
+    "exampleSentence": "I don't like to go on blind dates.",
+    "exampleTranslation": "Eu não gosto de ir a encontros às cegas."
+  },
+  {
+    "id": "to_be_18",
+    "word": "I don't love him. I want to break up.",
+    "translation": "Eu não o amo. Eu quero terminar.",
+    "pronunciation": "/aɪ doʊnt lʌv hɪm. aɪ wɑnt tu breɪk ʌp/",
+    "portuguesePhonetic": "ai dôunt lâv rim. ai uónt tchu brêik âp",
+    "syllables": [
+      "I",
+      " don't",
+      " love",
+      " him.",
+      " I",
+      " want",
+      " to",
+      " break",
+      " up."
+    ],
+    "exampleSentence": "I don't love him. I want to break up.",
+    "exampleTranslation": "Eu não o amo. Eu quero terminar."
+  },
+  {
+    "id": "to_be_19",
+    "word": "Every time I ask her to come to my house for dinner, she turns it down.",
+    "translation": "Todo vez que Eu o chamo para jantar na minha casa, ela recusa.",
+    "pronunciation": "/ˈɛvri taɪm aɪ æsk hɜr tu kʌm tu maɪ haʊs fɔr ˈdɪnər, ʃi tɜrnz ɪt daʊn/",
+    "portuguesePhonetic": "é-vri táim ai ésk râr tchu kâm tchu mái ráuss fór dí-ner, xi têrnz it dáun",
+    "syllables": [
+      "Ev",
+      "er",
+      "y",
+      " time",
+      " I",
+      " ask",
+      " her",
+      " to",
+      " come",
+      " to",
+      " my",
+      " house",
+      " for",
+      " din",
+      "ner,",
+      " she",
+      " turns",
+      " it",
+      " down."
+    ],
+    "exampleSentence": "Every time I ask her to come to my house for dinner, she turns it down.",
+    "exampleTranslation": "Todo vez que Eu o chamo para jantar na minha casa, ela recusa."
+  },
+  {
+    "id": "to_be_20",
+    "word": "What was their favorite vacation?",
+    "translation": "Quais foram as férias favoritas deles?",
+    "pronunciation": "/wʌt wʌz ðɛr ˈfeɪvərɪt veɪˈkeɪʃən/",
+    "portuguesePhonetic": "uót uâz ðér fêi-vô-rit vêi-kêi-xân",
+    "syllables": [
+      "What",
+      " was",
+      " their",
+      " fa",
+      "vor",
+      "ite",
+      " va",
+      "ca",
+      "tion?"
+    ],
+    "exampleSentence": "What was their favorite vacation?",
+    "exampleTranslation": "Quais foram as férias favoritas deles?"
+  },
+  {
+    "id": "to_be_21",
+    "word": "Where was he last week?",
+    "translation": "Onde ele estava na semana passada?",
+    "pronunciation": "/wɛr wʌz hi læst wik/",
+    "portuguesePhonetic": "uér uâz ri lést uík",
+    "syllables": [
+      "Where",
+      " was",
+      " he",
+      " last",
+      " week?"
+    ],
+    "exampleSentence": "Where was he last week?",
+    "exampleTranslation": "Onde ele estava na semana passada?"
+  },
+  {
+    "id": "to_be_22",
+    "word": "What time was she there?",
+    "translation": "Que horas ela estava lá?",
+    "pronunciation": "/wʌt taɪm wʌz ʃi ðɛr/",
+    "portuguesePhonetic": "uót táim uâz xi ðér",
+    "syllables": [
+      "What",
+      " time",
+      " was",
+      " she",
+      " there?"
+    ],
+    "exampleSentence": "What time was she there?",
+    "exampleTranslation": "Que horas ela estava lá?"
+  },
+  {
+    "id": "to_be_23",
+    "word": "When were John and Jane in France?",
+    "translation": "Quando John e Jane estiveram na França?",
+    "pronunciation": "/wɛn wɜr dʒɑn ænd dʒeɪn ɪn fræns/",
+    "portuguesePhonetic": "uén uêr djón énd djêin in fréns",
+    "syllables": [
+      "When",
+      " were",
+      " John",
+      " and",
+      " Jane",
+      " in",
+      " France?"
+    ],
+    "exampleSentence": "When were John and Jane in France?",
+    "exampleTranslation": "Quando John e Jane estiveram na França?"
+  },
+  {
+    "id": "to_be_24",
+    "word": "Why was she so nervous?",
+    "translation": "Por que ela estava tão nervosa?",
+    "pronunciation": "/waɪ wʌz ʃi soʊ ˈnɜrvəs/",
+    "portuguesePhonetic": "uái uâz xi sôu nêr-vâs",
+    "syllables": [
+      "Why",
+      " was",
+      " she",
+      " so",
+      " ner",
+      "vous?"
+    ],
+    "exampleSentence": "Why was she so nervous?",
+    "exampleTranslation": "Por que ela estava tão nervosa?"
+  },
+  {
+    "id": "to_be_25",
+    "word": "How old were the children?",
+    "translation": "Quantos anos tinham as crianças?",
+    "pronunciation": "/haʊ oʊld wɜr ðə ˈtʃɪldrən/",
+    "portuguesePhonetic": "ráu ôuld uêr ðâ tchíl-dren",
+    "syllables": [
+      "How",
+      " old",
+      " were",
+      " the",
+      " chil",
+      "dren?"
+    ],
+    "exampleSentence": "How old were the children?",
+    "exampleTranslation": "Quantos anos tinham as crianças?"
+  },
+  {
+    "id": "to_be_26",
+    "word": "She doesn't want to have a relationship now.",
+    "translation": "Ela não quer ter um relacionamento agora.",
+    "pronunciation": "/ʃi ˈdʌzənt wɑnt tu hæv ə rɪˈleɪʃənˌʃɪp naʊ/",
+    "portuguesePhonetic": "xi dâ-zent uónt tchu rév a ri-lêi-xân-xip náu",
+    "syllables": [
+      "She",
+      " does",
+      "n't",
+      " want",
+      " to",
+      " have",
+      " a",
+      " re",
+      "la",
+      "tion",
+      "ship",
+      " now."
+    ],
+    "exampleSentence": "She doesn't want to have a relationship now.",
+    "exampleTranslation": "Ela não quer ter um relacionamento agora."
+  },
+  {
+    "id": "to_be_27",
+    "word": "She always wears gorgeous dresses when she goes on a date.",
+    "translation": "Ela sempre usa vestidos deslumbrantes quando vai a um encontro.",
+    "pronunciation": "/ʃi ˈɔlweɪz wɛrz ˈɡɔrdʒəs ˈdrɛsɪz wɛn ʃi ɡoʊz ɑn ə deɪt/",
+    "portuguesePhonetic": "xi ól-uêiz uérz gór-djâs dré-siz uén xi gôuz ón a dêit",
+    "syllables": [
+      "She",
+      " al",
+      "ways",
+      " wears",
+      " gor",
+      "geous",
+      " dress",
+      "es",
+      " when",
+      " she",
+      " goes",
+      " on",
+      " a",
+      " date."
+    ],
+    "exampleSentence": "She always wears gorgeous dresses when she goes on a date.",
+    "exampleTranslation": "Ela sempre usa vestidos deslumbrantes quando vai a um encontro."
+  },
+  {
+    "id": "to_be_28",
+    "word": "My parents are divorced, but get along very well.",
+    "translation": "Meus pais são divorciados, mas se dão muito bem.",
+    "pronunciation": "/maɪ ˈpɛrənts ɑr dɪˈvɔrst, bʌt ɡɛt əˈlɔŋ ˈvɛri wɛl/",
+    "portuguesePhonetic": "mái pé-rents ar di-vórst, bât guét a-lón vé-ri uél",
+    "syllables": [
+      "My",
+      " par",
+      "ents",
+      " are",
+      " di",
+      "vorced,",
+      " but",
+      " get",
+      " a",
+      "long",
+      " ve",
+      "ry",
+      " well."
+    ],
+    "exampleSentence": "My parents are divorced, but get along very well.",
+    "exampleTranslation": "Meus pais são divorciados, mas se dão muito bem."
+  },
+  {
+    "id": "to_be_29",
+    "word": "Every day I give my father a kiss and a hug.",
+    "translation": "Todo dia eu dou um beijo e um abraço no meu pai.",
+    "pronunciation": "/ˈɛvri deɪ aɪ ɡɪv maɪ ˈfɑðər ə kɪs ænd ə hʌɡ/",
+    "portuguesePhonetic": "é-vri dêi ai guív mái fá-ðer a kís énd a râg",
+    "syllables": [
+      "Ev",
+      "er",
+      "y",
+      " day",
+      " I",
+      " give",
+      " my",
+      " fa",
+      "ther",
+      " a",
+      " kiss",
+      " and",
+      " a",
+      " hug."
+    ],
+    "exampleSentence": "Every day I give my father a kiss and a hug.",
+    "exampleTranslation": "Todo dia eu dou um beijo e um abraço no meu pai."
+  },
+  {
+    "id": "to_be_30",
+    "word": "Nobody knows he has a crush on her.",
+    "translation": "Ninguém sabe que ele tem uma queda por ela.",
+    "pronunciation": "/ˈnoʊˌbɑdi noʊz hi hæz ə krʌʃ ɑn hɜr/",
+    "portuguesePhonetic": "nôu-bó-di nôuz ri réz a crâch ón râr",
+    "syllables": [
+      "No",
+      "bod",
+      "y",
+      " knows",
+      " he",
+      " has",
+      " a",
+      " crush",
+      " on",
+      " her."
+    ],
+    "exampleSentence": "Nobody knows he has a crush on her.",
+    "exampleTranslation": "Ninguém sabe que ele tem uma queda por ela."
+  },
+  {
+    "id": "to_be_31",
+    "word": "That widow wasn't rude to the secretary.",
+    "translation": "Aquela viúva não foi rude com a secretária.",
+    "pronunciation": "/ðæt ˈwɪdoʊ ˈwʌzənt rud tu ðə ˈsɛkrəˌtɛri/",
+    "portuguesePhonetic": "ðét uí-dôu uâ-zent rúd tchu ðâ sé-cre-té-ri",
+    "syllables": [
+      "That",
+      " wid",
+      "ow",
+      " was",
+      "n't",
+      " rude",
+      " to",
+      " the",
+      " sec",
+      "re",
+      "tar",
+      "y."
+    ],
+    "exampleSentence": "That widow wasn't rude to the secretary.",
+    "exampleTranslation": "Aquela viúva não foi rude com a secretária."
+  },
+  {
+    "id": "to_be_32",
+    "word": "There were many good-looking couples at that party.",
+    "translation": "Havia muitos casais atraentes naquela festa.",
+    "pronunciation": "/ðɛr wɜr ˈmɛni ɡʊdˈlʊkɪŋ ˈkʌpəlz æt ðæt ˈpɑrti/",
+    "portuguesePhonetic": "ðér uêr mé-ni gud-lú-kin câ-pôlz ét ðét pár-ti",
+    "syllables": [
+      "There",
+      " were",
+      " man",
+      "y",
+      " good",
+      "-",
+      "look",
+      "ing",
+      " cou",
+      "ples",
+      " at",
+      " that",
+      " par",
+      "ty."
+    ],
+    "exampleSentence": "There were many good-looking couples at that party.",
+    "exampleTranslation": "Havia muitos casais atraentes naquela festa."
+  }
+]

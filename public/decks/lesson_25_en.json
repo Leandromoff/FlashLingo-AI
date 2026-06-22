@@ -1,0 +1,1945 @@
+[
+  {
+    "id": "lesson_25_1",
+    "word": "to buy",
+    "translation": "comprar",
+    "pronunciation": "/tu baɪ/",
+    "portuguesePhonetic": "tchu bái",
+    "syllables": [
+      "to",
+      " buy"
+    ],
+    "exampleSentence": "to buy",
+    "exampleTranslation": "comprar"
+  },
+  {
+    "id": "lesson_25_2",
+    "word": "to take",
+    "translation": "pegar, levar, tomar",
+    "pronunciation": "/tu teɪk/",
+    "portuguesePhonetic": "tchu têic",
+    "syllables": [
+      "to",
+      " take"
+    ],
+    "exampleSentence": "to take",
+    "exampleTranslation": "pegar, levar, tomar"
+  },
+  {
+    "id": "lesson_25_3",
+    "word": "gift",
+    "translation": "presente",
+    "pronunciation": "/ɡɪft/",
+    "portuguesePhonetic": "guíft",
+    "syllables": [
+      "gift"
+    ],
+    "exampleSentence": "gift",
+    "exampleTranslation": "presente"
+  },
+  {
+    "id": "lesson_25_4",
+    "word": "souvenir",
+    "translation": "lembrancinha",
+    "pronunciation": "/ˌsuvəˈnɪr/",
+    "portuguesePhonetic": "su-ve-nír",
+    "syllables": [
+      "sou",
+      "ve",
+      "nir"
+    ],
+    "exampleSentence": "souvenir",
+    "exampleTranslation": "lembrancinha"
+  },
+  {
+    "id": "lesson_25_5",
+    "word": "store",
+    "translation": "loja",
+    "pronunciation": "/stɔr/",
+    "portuguesePhonetic": "stór",
+    "syllables": [
+      "store"
+    ],
+    "exampleSentence": "store",
+    "exampleTranslation": "loja"
+  },
+  {
+    "id": "lesson_25_6",
+    "word": "ticket",
+    "translation": "bilhete, ingresso, passagem",
+    "pronunciation": "/ˈtɪkɪt/",
+    "portuguesePhonetic": "tíquet",
+    "syllables": [
+      "tick",
+      "et"
+    ],
+    "exampleSentence": "ticket",
+    "exampleTranslation": "bilhete, ingresso, passagem"
+  },
+  {
+    "id": "lesson_25_7",
+    "word": "food",
+    "translation": "comida",
+    "pronunciation": "/fud/",
+    "portuguesePhonetic": "fud",
+    "syllables": [
+      "food"
+    ],
+    "exampleSentence": "food",
+    "exampleTranslation": "comida"
+  },
+  {
+    "id": "lesson_25_8",
+    "word": "money",
+    "translation": "dinheiro",
+    "pronunciation": "/ˈmʌni/",
+    "portuguesePhonetic": "mâni",
+    "syllables": [
+      "mon",
+      "ey"
+    ],
+    "exampleSentence": "money",
+    "exampleTranslation": "dinheiro"
+  },
+  {
+    "id": "lesson_25_9",
+    "word": "price",
+    "translation": "preço",
+    "pronunciation": "/praɪs/",
+    "portuguesePhonetic": "práis",
+    "syllables": [
+      "price"
+    ],
+    "exampleSentence": "price",
+    "exampleTranslation": "preço"
+  },
+  {
+    "id": "lesson_25_10",
+    "word": "medicine",
+    "translation": "remédio",
+    "pronunciation": "/ˈmɛdəsən/",
+    "portuguesePhonetic": "mé-di-sin",
+    "syllables": [
+      "med",
+      "i",
+      "cine"
+    ],
+    "exampleSentence": "medicine",
+    "exampleTranslation": "remédio"
+  },
+  {
+    "id": "lesson_25_11",
+    "word": "backpack",
+    "translation": "mochila",
+    "pronunciation": "/ˈbækˌpæk/",
+    "portuguesePhonetic": "béc-péc",
+    "syllables": [
+      "back",
+      "pack"
+    ],
+    "exampleSentence": "backpack",
+    "exampleTranslation": "mochila"
+  },
+  {
+    "id": "lesson_25_12",
+    "word": "passport",
+    "translation": "passaporte",
+    "pronunciation": "/ˈpæspɔrt/",
+    "portuguesePhonetic": "pés-pórt",
+    "syllables": [
+      "pass",
+      "port"
+    ],
+    "exampleSentence": "passport",
+    "exampleTranslation": "passaporte"
+  },
+  {
+    "id": "lesson_25_13",
+    "word": "thing",
+    "translation": "coisa",
+    "pronunciation": "/θɪŋ/",
+    "portuguesePhonetic": "zing",
+    "syllables": [
+      "thing"
+    ],
+    "exampleSentence": "thing",
+    "exampleTranslation": "coisa"
+  },
+  {
+    "id": "lesson_25_14",
+    "word": "good",
+    "translation": "bom, boa",
+    "pronunciation": "/ɡʊd/",
+    "portuguesePhonetic": "gúd",
+    "syllables": [
+      "good"
+    ],
+    "exampleSentence": "good",
+    "exampleTranslation": "bom, boa"
+  },
+  {
+    "id": "lesson_25_15",
+    "word": "bad",
+    "translation": "ruim",
+    "pronunciation": "/bæd/",
+    "portuguesePhonetic": "béd",
+    "syllables": [
+      "bad"
+    ],
+    "exampleSentence": "bad",
+    "exampleTranslation": "ruim"
+  },
+  {
+    "id": "lesson_25_16",
+    "word": "cheap",
+    "translation": "barato(a)",
+    "pronunciation": "/tʃip/",
+    "portuguesePhonetic": "tchíp",
+    "syllables": [
+      "cheap"
+    ],
+    "exampleSentence": "cheap",
+    "exampleTranslation": "barato(a)"
+  },
+  {
+    "id": "lesson_25_17",
+    "word": "expensive",
+    "translation": "caro(a)",
+    "pronunciation": "/ɪkˈspɛnsɪv/",
+    "portuguesePhonetic": "ecs-pén-siv",
+    "syllables": [
+      "ex",
+      "pen",
+      "sive"
+    ],
+    "exampleSentence": "expensive",
+    "exampleTranslation": "caro(a)"
+  },
+  {
+    "id": "lesson_25_18",
+    "word": "a lot of",
+    "translation": "muito(a), muitos(as)",
+    "pronunciation": "/ə lɑt ʌv/",
+    "portuguesePhonetic": "â lót óv",
+    "syllables": [
+      "a",
+      " lot",
+      " of"
+    ],
+    "exampleSentence": "a lot of",
+    "exampleTranslation": "muito(a), muitos(as)"
+  },
+  {
+    "id": "lesson_25_19",
+    "word": "How much is it?",
+    "translation": "Quanto custa?",
+    "pronunciation": "/haʊ mʌtʃ ɪz ɪt?/",
+    "portuguesePhonetic": "ráu mâtch ízit?",
+    "syllables": [
+      "How",
+      " much",
+      " is",
+      " it?"
+    ],
+    "exampleSentence": "How much is it?",
+    "exampleTranslation": "Quanto custa?"
+  },
+  {
+    "id": "lesson_25_20",
+    "word": "It's US$5.",
+    "translation": "São cinco dólares.",
+    "pronunciation": "/ɪts faɪv ˈdɑlərz./",
+    "portuguesePhonetic": "its faiv dólars.",
+    "syllables": [
+      "It's",
+      " U",
+      "S$",
+      "5."
+    ],
+    "exampleSentence": "It's US$5.",
+    "exampleTranslation": "São cinco dólares."
+  },
+  {
+    "id": "lesson_25_21",
+    "word": "It's expensive.",
+    "translation": "É caro.",
+    "pronunciation": "/ɪts ɪkˈspɛnsɪv./",
+    "portuguesePhonetic": "its ecs-pén-siv.",
+    "syllables": [
+      "It's",
+      " ex",
+      "pen",
+      "sive."
+    ],
+    "exampleSentence": "It's expensive.",
+    "exampleTranslation": "É caro."
+  },
+  {
+    "id": "lesson_25_22",
+    "word": "Does she eat cheese?",
+    "translation": "Ela come queijo?",
+    "pronunciation": "/dʌz ʃi it tʃiz?/",
+    "portuguesePhonetic": "dâz chi it tchíz?",
+    "syllables": [
+      "Does",
+      " she",
+      " eat",
+      " cheese?"
+    ],
+    "exampleSentence": "Does she eat cheese?",
+    "exampleTranslation": "Ela come queijo?"
+  },
+  {
+    "id": "lesson_25_23",
+    "word": "Does he understand Spanish?",
+    "translation": "Ele entende espanhol?",
+    "pronunciation": "/dʌz hi ˌʌndərˈstænd ˈspænɪʃ?/",
+    "portuguesePhonetic": "dâz ri an-der-sténd espé-nich?",
+    "syllables": [
+      "Does",
+      " he",
+      " un",
+      "der",
+      "stand",
+      " Span",
+      "ish?"
+    ],
+    "exampleSentence": "Does he understand Spanish?",
+    "exampleTranslation": "Ele entende espanhol?"
+  },
+  {
+    "id": "lesson_25_24",
+    "word": "Does she speak French?",
+    "translation": "Ela fala francês?",
+    "pronunciation": "/dʌz ʃi spik frɛntʃ?/",
+    "portuguesePhonetic": "dâz chi spíc frentch?",
+    "syllables": [
+      "Does",
+      " she",
+      " speak",
+      " French?"
+    ],
+    "exampleSentence": "Does she speak French?",
+    "exampleTranslation": "Ela fala francês?"
+  },
+  {
+    "id": "lesson_25_25",
+    "word": "Does he want to buy the ticket?",
+    "translation": "Ele quer comprar o ingresso?",
+    "pronunciation": "/dʌz hi wɑnt tu baɪ ðə ˈtɪkɪt?/",
+    "portuguesePhonetic": "dâz ri uánt tchu bái dâ tíquet?",
+    "syllables": [
+      "Does",
+      " he",
+      " want",
+      " to",
+      " buy",
+      " the",
+      " tick",
+      "et?"
+    ],
+    "exampleSentence": "Does he want to buy the ticket?",
+    "exampleTranslation": "Ele quer comprar o ingresso?"
+  },
+  {
+    "id": "lesson_25_26",
+    "word": "Where does he live?",
+    "translation": "Onde ele mora?",
+    "pronunciation": "/wɛr dʌz hi lɪv?/",
+    "portuguesePhonetic": "uér dâz ri lív?",
+    "syllables": [
+      "Where",
+      " does",
+      " he",
+      " live?"
+    ],
+    "exampleSentence": "Where does he live?",
+    "exampleTranslation": "Onde ele mora?"
+  },
+  {
+    "id": "lesson_25_27",
+    "word": "What does she study?",
+    "translation": "O que ela estuda?",
+    "pronunciation": "/wʌt dʌz ʃi ˈstʌdi?/",
+    "portuguesePhonetic": "uót dâz chi stâ-di?",
+    "syllables": [
+      "What",
+      " does",
+      " she",
+      " stud",
+      "y?"
+    ],
+    "exampleSentence": "What does she study?",
+    "exampleTranslation": "O que ela estuda?"
+  },
+  {
+    "id": "lesson_25_28",
+    "word": "When does he go to the gym?",
+    "translation": "Quando ele vai para a academia?",
+    "pronunciation": "/wɛn dʌz hi ɡoʊ tu ðə dʒɪm?/",
+    "portuguesePhonetic": "uén dâz ri gôu tchu dâ djím?",
+    "syllables": [
+      "When",
+      " does",
+      " he",
+      " go",
+      " to",
+      " the",
+      " gym?"
+    ],
+    "exampleSentence": "When does he go to the gym?",
+    "exampleTranslation": "Quando ele vai para a academia?"
+  },
+  {
+    "id": "lesson_25_29",
+    "word": "He buys food every week.",
+    "translation": "Ele compra comida toda semana.",
+    "pronunciation": "/hi baɪz fud ˈɛvri wik./",
+    "portuguesePhonetic": "ri báis fud év-ri uíc.",
+    "syllables": [
+      "He",
+      " buys",
+      " food",
+      " ev",
+      "ery",
+      " week."
+    ],
+    "exampleSentence": "He buys food every week.",
+    "exampleTranslation": "Ele compra comida toda semana."
+  },
+  {
+    "id": "lesson_25_30",
+    "word": "Does he have to buy a lot of things?",
+    "translation": "Ele tem que comprar muitas coisas?",
+    "pronunciation": "/dʌz hi hæv tu baɪ ə lɑt ʌv θɪŋz?/",
+    "portuguesePhonetic": "dâz ri rév tchu bái â lót óv zings?",
+    "syllables": [
+      "Does",
+      " he",
+      " have",
+      " to",
+      " buy",
+      " a",
+      " lot",
+      " of",
+      " things?"
+    ],
+    "exampleSentence": "Does he have to buy a lot of things?",
+    "exampleTranslation": "Ele tem que comprar muitas coisas?"
+  },
+  {
+    "id": "lesson_25_31",
+    "word": "I need to buy souvenirs for my children.",
+    "translation": "Eu preciso comprar lembrancinhas para meus filhos.",
+    "pronunciation": "/aɪ nid tu baɪ ˌsuvəˈnɪrz fɔr maɪ ˈtʃɪldrən./",
+    "portuguesePhonetic": "ai nid tchu bái su-ve-nírs fór mai tchíl-dren.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " buy",
+      " sou",
+      "ve",
+      "nirs",
+      " for",
+      " my",
+      " chil",
+      "dren."
+    ],
+    "exampleSentence": "I need to buy souvenirs for my children.",
+    "exampleTranslation": "Eu preciso comprar lembrancinhas para meus filhos."
+  },
+  {
+    "id": "lesson_25_32",
+    "word": "Does he need a new passport?",
+    "translation": "Ele precisa de um passaporte novo?",
+    "pronunciation": "/dʌz hi nid ə nu ˈpæspɔrt?/",
+    "portuguesePhonetic": "dâz ri nid â niú pés-pórt?",
+    "syllables": [
+      "Does",
+      " he",
+      " need",
+      " a",
+      " new",
+      " pass",
+      "port?"
+    ],
+    "exampleSentence": "Does he need a new passport?",
+    "exampleTranslation": "Ele precisa de um passaporte novo?"
+  },
+  {
+    "id": "lesson_25_33",
+    "word": "What do you take to work?",
+    "translation": "O que você leva para o trabalho?",
+    "pronunciation": "/wʌt du ju teɪk tu wɜrk?/",
+    "portuguesePhonetic": "uót du iu têic tchu uãrc?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " take",
+      " to",
+      " work?"
+    ],
+    "exampleSentence": "What do you take to work?",
+    "exampleTranslation": "O que você leva para o trabalho?"
+  },
+  {
+    "id": "lesson_25_34",
+    "word": "I need to take my medicine with me.",
+    "translation": "Eu preciso levar meu remédio comigo.",
+    "pronunciation": "/aɪ nid tu teɪk maɪ ˈmɛdəsən wɪð mi./",
+    "portuguesePhonetic": "ai nid tchu têic mai mé-di-sin uíd mi.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " take",
+      " my",
+      " med",
+      "i",
+      "cine",
+      " with",
+      " me."
+    ],
+    "exampleSentence": "I need to take my medicine with me.",
+    "exampleTranslation": "Eu preciso levar meu remédio comigo."
+  },
+  {
+    "id": "lesson_25_35",
+    "word": "Do you know the price of the ticket?",
+    "translation": "Você sabe o preço do ingresso?",
+    "pronunciation": "/du ju noʊ ðə praɪs ʌv ðə ˈtɪkɪt?/",
+    "portuguesePhonetic": "du iu nôu dâ práis óv dâ tíquet?",
+    "syllables": [
+      "Do",
+      " you",
+      " know",
+      " the",
+      " price",
+      " of",
+      " the",
+      " tick",
+      "et?"
+    ],
+    "exampleSentence": "Do you know the price of the ticket?",
+    "exampleTranslation": "Você sabe o preço do ingresso?"
+  },
+  {
+    "id": "lesson_25_36",
+    "word": "Does she need money to go to the movies?",
+    "translation": "Ela precisa de dinheiro para ir ao cinema?",
+    "pronunciation": "/dʌz ʃi nid ˈmʌni tu ɡoʊ tu ðə ˈmuviz?/",
+    "portuguesePhonetic": "dâz chi nid mâ-ni tchu gôu tchu dâ múvis?",
+    "syllables": [
+      "Does",
+      " she",
+      " need",
+      " mon",
+      "ey",
+      " to",
+      " go",
+      " to",
+      " the",
+      " mo",
+      "vies?"
+    ],
+    "exampleSentence": "Does she need money to go to the movies?",
+    "exampleTranslation": "Ela precisa de dinheiro para ir ao cinema?"
+  },
+  {
+    "id": "lesson_25_37",
+    "word": "When does she go to school?",
+    "translation": "Quando ela vai para a escola?",
+    "pronunciation": "/wɛn dʌz ʃi ɡoʊ tu skul?/",
+    "portuguesePhonetic": "uén dâz chi gôu tchu scul?",
+    "syllables": [
+      "When",
+      " does",
+      " she",
+      " go",
+      " to",
+      " school?"
+    ],
+    "exampleSentence": "When does she go to school?",
+    "exampleTranslation": "Quando ela vai para a escola?"
+  },
+  {
+    "id": "lesson_25_38",
+    "word": "What time does he go to work?",
+    "translation": "A que horas ele vai para o trabalho?",
+    "pronunciation": "/wʌt taɪm dʌz hi ɡoʊ tu wɜrk?/",
+    "portuguesePhonetic": "uót táim dâz ri gôu tchu uãrc?",
+    "syllables": [
+      "What",
+      " time",
+      " does",
+      " he",
+      " go",
+      " to",
+      " work?"
+    ],
+    "exampleSentence": "What time does he go to work?",
+    "exampleTranslation": "A que horas ele vai para o trabalho?"
+  },
+  {
+    "id": "lesson_25_39",
+    "word": "70 — seventy",
+    "translation": "setenta",
+    "pronunciation": "/ˈsɛvənti/",
+    "portuguesePhonetic": "sé-ven-ti",
+    "syllables": [
+      "se",
+      "ven",
+      "ty"
+    ],
+    "exampleSentence": "70 — seventy",
+    "exampleTranslation": "setenta"
+  },
+  {
+    "id": "lesson_25_40",
+    "word": "80 — eighty",
+    "translation": "oitenta",
+    "pronunciation": "/ˈeɪti/",
+    "portuguesePhonetic": "êi-ti",
+    "syllables": [
+      "eigh",
+      "ty"
+    ],
+    "exampleSentence": "80 — eighty",
+    "exampleTranslation": "oitenta"
+  },
+  {
+    "id": "lesson_25_41",
+    "word": "90 — ninety",
+    "translation": "noventa",
+    "pronunciation": "/ˈnaɪnti/",
+    "portuguesePhonetic": "náin-ti",
+    "syllables": [
+      "nine",
+      "ty"
+    ],
+    "exampleSentence": "90 — ninety",
+    "exampleTranslation": "noventa"
+  },
+  {
+    "id": "lesson_25_42",
+    "word": "100 — one hundred",
+    "translation": "cem",
+    "pronunciation": "/wʌn ˈhʌndrəd/",
+    "portuguesePhonetic": "uân rân-dred",
+    "syllables": [
+      "one",
+      " hun",
+      "dred"
+    ],
+    "exampleSentence": "100 — one hundred",
+    "exampleTranslation": "cem"
+  },
+  {
+    "id": "lesson_25_43",
+    "word": "to buy a gift for",
+    "translation": "comprar um presente para",
+    "pronunciation": "/tu baɪ ə ɡɪft fɔr/",
+    "portuguesePhonetic": "tchu bái â guíft fór",
+    "syllables": [
+      "to",
+      " buy",
+      " a",
+      " gift",
+      " for"
+    ],
+    "exampleSentence": "to buy a gift for",
+    "exampleTranslation": "comprar um presente para"
+  },
+  {
+    "id": "lesson_25_44",
+    "word": "a lot of things",
+    "translation": "muitas coisas",
+    "pronunciation": "/ə lɑt ʌv θɪŋz/",
+    "portuguesePhonetic": "â lót óv zings",
+    "syllables": [
+      "a",
+      " lot",
+      " of",
+      " things"
+    ],
+    "exampleSentence": "a lot of things",
+    "exampleTranslation": "muitas coisas"
+  },
+  {
+    "id": "lesson_25_45",
+    "word": "a lot of money",
+    "translation": "muito dinheiro",
+    "pronunciation": "/ə lɑt ʌv ˈmʌni/",
+    "portuguesePhonetic": "â lót óv mâ-ni",
+    "syllables": [
+      "a",
+      " lot",
+      " of",
+      " mon",
+      "ey"
+    ],
+    "exampleSentence": "a lot of money",
+    "exampleTranslation": "muito dinheiro"
+  },
+  {
+    "id": "lesson_25_46",
+    "word": "a lot of food",
+    "translation": "muita comida",
+    "pronunciation": "/ə lɑt ʌv fud/",
+    "portuguesePhonetic": "â lót óv fud",
+    "syllables": [
+      "a",
+      " lot",
+      " of",
+      " food"
+    ],
+    "exampleSentence": "a lot of food",
+    "exampleTranslation": "muita comida"
+  },
+  {
+    "id": "lesson_25_47",
+    "word": "a lot of time",
+    "translation": "muito tempo",
+    "pronunciation": "/ə lɑt ʌv taɪm/",
+    "portuguesePhonetic": "â lót óv táim",
+    "syllables": [
+      "a",
+      " lot",
+      " of",
+      " time"
+    ],
+    "exampleSentence": "a lot of time",
+    "exampleTranslation": "muito tempo"
+  },
+  {
+    "id": "lesson_25_48",
+    "word": "a lot of fruit",
+    "translation": "muitas frutas",
+    "pronunciation": "/ə lɑt ʌv frut/",
+    "portuguesePhonetic": "â lót óv frut",
+    "syllables": [
+      "a",
+      " lot",
+      " of",
+      " fruit"
+    ],
+    "exampleSentence": "a lot of fruit",
+    "exampleTranslation": "muitas frutas"
+  },
+  {
+    "id": "lesson_25_49",
+    "word": "a lot of rice",
+    "translation": "muito arroz",
+    "pronunciation": "/ə lɑt ʌv raɪs/",
+    "portuguesePhonetic": "â lót óv ráis",
+    "syllables": [
+      "a",
+      " lot",
+      " of",
+      " rice"
+    ],
+    "exampleSentence": "a lot of rice",
+    "exampleTranslation": "muito arroz"
+  },
+  {
+    "id": "lesson_25_50",
+    "word": "What's this?",
+    "translation": "O que é isto?",
+    "pronunciation": "/wʌts ðɪs?/",
+    "portuguesePhonetic": "uóts dís?",
+    "syllables": [
+      "What's",
+      " this?"
+    ],
+    "exampleSentence": "What's this?",
+    "exampleTranslation": "O que é isto?"
+  },
+  {
+    "id": "lesson_25_51",
+    "word": "It's a gift.",
+    "translation": "É um presente.",
+    "pronunciation": "/ɪts ə ɡɪft./",
+    "portuguesePhonetic": "its â guíft.",
+    "syllables": [
+      "It's",
+      " a",
+      " gift."
+    ],
+    "exampleSentence": "It's a gift.",
+    "exampleTranslation": "É um presente."
+  },
+  {
+    "id": "lesson_25_52",
+    "word": "Does he need...?",
+    "translation": "Ele precisa de...?",
+    "pronunciation": "/dʌz hi nid...?/",
+    "portuguesePhonetic": "dâz ri nid...?",
+    "syllables": [
+      "Does",
+      " he",
+      " need...?"
+    ],
+    "exampleSentence": "Does he need...?",
+    "exampleTranslation": "Ele precisa de...?"
+  },
+  {
+    "id": "lesson_25_53",
+    "word": "Yes, he does.",
+    "translation": "Sim, ele precisa.",
+    "pronunciation": "/jɛs hi dʌz./",
+    "portuguesePhonetic": "iés ri dâz.",
+    "syllables": [
+      "Yes,",
+      " he",
+      " does."
+    ],
+    "exampleSentence": "Yes, he does.",
+    "exampleTranslation": "Sim, ele precisa."
+  },
+  {
+    "id": "lesson_25_54",
+    "word": "No, he doesn't.",
+    "translation": "Não, ele não precisa.",
+    "pronunciation": "/noʊ hi ˈdʌzənt./",
+    "portuguesePhonetic": "nôu ri dâ-zent.",
+    "syllables": [
+      "No,",
+      " he",
+      " doesn't."
+    ],
+    "exampleSentence": "No, he doesn't.",
+    "exampleTranslation": "Não, ele não precisa."
+  },
+  {
+    "id": "lesson_25_55",
+    "word": "buy",
+    "translation": "comprar",
+    "pronunciation": "/baɪ/",
+    "portuguesePhonetic": "bái",
+    "syllables": [
+      "buy"
+    ],
+    "exampleSentence": "buy",
+    "exampleTranslation": "comprar"
+  },
+  {
+    "id": "lesson_25_56",
+    "word": "take",
+    "translation": "levar, pegar",
+    "pronunciation": "/teɪk/",
+    "portuguesePhonetic": "têic",
+    "syllables": [
+      "take"
+    ],
+    "exampleSentence": "take",
+    "exampleTranslation": "levar, pegar"
+  },
+  {
+    "id": "lesson_25_57",
+    "word": "gift",
+    "translation": "presente",
+    "pronunciation": "/ɡɪft/",
+    "portuguesePhonetic": "guíft",
+    "syllables": [
+      "gift"
+    ],
+    "exampleSentence": "gift",
+    "exampleTranslation": "presente"
+  },
+  {
+    "id": "lesson_25_58",
+    "word": "souvenir",
+    "translation": "lembrancinha",
+    "pronunciation": "/ˌsuvəˈnɪr/",
+    "portuguesePhonetic": "su-ve-nír",
+    "syllables": [
+      "sou",
+      "ve",
+      "nir"
+    ],
+    "exampleSentence": "souvenir",
+    "exampleTranslation": "lembrancinha"
+  },
+  {
+    "id": "lesson_25_59",
+    "word": "store",
+    "translation": "loja",
+    "pronunciation": "/stɔr/",
+    "portuguesePhonetic": "stór",
+    "syllables": [
+      "store"
+    ],
+    "exampleSentence": "store",
+    "exampleTranslation": "loja"
+  },
+  {
+    "id": "lesson_25_60",
+    "word": "ticket",
+    "translation": "ingresso, passagem",
+    "pronunciation": "/ˈtɪkɪt/",
+    "portuguesePhonetic": "tíquet",
+    "syllables": [
+      "tick",
+      "et"
+    ],
+    "exampleSentence": "ticket",
+    "exampleTranslation": "ingresso, passagem"
+  },
+  {
+    "id": "lesson_25_61",
+    "word": "food",
+    "translation": "comida",
+    "pronunciation": "/fud/",
+    "portuguesePhonetic": "fud",
+    "syllables": [
+      "food"
+    ],
+    "exampleSentence": "food",
+    "exampleTranslation": "comida"
+  },
+  {
+    "id": "lesson_25_62",
+    "word": "money",
+    "translation": "dinheiro",
+    "pronunciation": "/ˈmʌni/",
+    "portuguesePhonetic": "mâni",
+    "syllables": [
+      "mon",
+      "ey"
+    ],
+    "exampleSentence": "money",
+    "exampleTranslation": "dinheiro"
+  },
+  {
+    "id": "lesson_25_63",
+    "word": "price",
+    "translation": "preço",
+    "pronunciation": "/praɪs/",
+    "portuguesePhonetic": "práis",
+    "syllables": [
+      "price"
+    ],
+    "exampleSentence": "price",
+    "exampleTranslation": "preço"
+  },
+  {
+    "id": "lesson_25_64",
+    "word": "medicine",
+    "translation": "remédio",
+    "pronunciation": "/ˈmɛdəsən/",
+    "portuguesePhonetic": "mé-di-sin",
+    "syllables": [
+      "med",
+      "i",
+      "cine"
+    ],
+    "exampleSentence": "medicine",
+    "exampleTranslation": "remédio"
+  },
+  {
+    "id": "lesson_25_65",
+    "word": "backpack",
+    "translation": "mochila",
+    "pronunciation": "/ˈbækˌpæk/",
+    "portuguesePhonetic": "béc-péc",
+    "syllables": [
+      "back",
+      "pack"
+    ],
+    "exampleSentence": "backpack",
+    "exampleTranslation": "mochila"
+  },
+  {
+    "id": "lesson_25_66",
+    "word": "passport",
+    "translation": "passaporte",
+    "pronunciation": "/ˈpæspɔrt/",
+    "portuguesePhonetic": "pés-pórt",
+    "syllables": [
+      "pass",
+      "port"
+    ],
+    "exampleSentence": "passport",
+    "exampleTranslation": "passaporte"
+  },
+  {
+    "id": "lesson_25_67",
+    "word": "thing",
+    "translation": "coisa",
+    "pronunciation": "/θɪŋ/",
+    "portuguesePhonetic": "zing",
+    "syllables": [
+      "thing"
+    ],
+    "exampleSentence": "thing",
+    "exampleTranslation": "coisa"
+  },
+  {
+    "id": "lesson_25_68",
+    "word": "cheap",
+    "translation": "barato",
+    "pronunciation": "/tʃip/",
+    "portuguesePhonetic": "tchíp",
+    "syllables": [
+      "cheap"
+    ],
+    "exampleSentence": "cheap",
+    "exampleTranslation": "barato"
+  },
+  {
+    "id": "lesson_25_69",
+    "word": "expensive",
+    "translation": "caro",
+    "pronunciation": "/ɪkˈspɛnsɪv/",
+    "portuguesePhonetic": "ecs-pén-siv",
+    "syllables": [
+      "ex",
+      "pen",
+      "sive"
+    ],
+    "exampleSentence": "expensive",
+    "exampleTranslation": "caro"
+  },
+  {
+    "id": "lesson_25_70",
+    "word": "a lot of",
+    "translation": "muito(a), muitos(as)",
+    "pronunciation": "/ə lɑt ʌv/",
+    "portuguesePhonetic": "â lót óv",
+    "syllables": [
+      "a",
+      " lot",
+      " of"
+    ],
+    "exampleSentence": "a lot of",
+    "exampleTranslation": "muito(a), muitos(as)"
+  },
+  {
+    "id": "lesson_25_71",
+    "word": "how much",
+    "translation": "quanto custa",
+    "pronunciation": "/haʊ mʌtʃ/",
+    "portuguesePhonetic": "ráu mâtch",
+    "syllables": [
+      "how",
+      " much"
+    ],
+    "exampleSentence": "how much",
+    "exampleTranslation": "quanto custa"
+  },
+  {
+    "id": "lesson_25_72",
+    "word": "every week",
+    "translation": "toda semana",
+    "pronunciation": "/ˈɛvri wik/",
+    "portuguesePhonetic": "év-ri uíc",
+    "syllables": [
+      "ev",
+      "ery",
+      " week"
+    ],
+    "exampleSentence": "every week",
+    "exampleTranslation": "toda semana"
+  },
+  {
+    "id": "lesson_25_73",
+    "word": "with me",
+    "translation": "comigo",
+    "pronunciation": "/wɪð mi/",
+    "portuguesePhonetic": "uíd mi",
+    "syllables": [
+      "with",
+      " me"
+    ],
+    "exampleSentence": "with me",
+    "exampleTranslation": "comigo"
+  },
+  {
+    "id": "lesson_25_74",
+    "word": "go to the gym",
+    "translation": "ir para a academia",
+    "pronunciation": "/ɡoʊ tu ðə dʒɪm/",
+    "portuguesePhonetic": "gôu tchu dâ djím",
+    "syllables": [
+      "go",
+      " to",
+      " the",
+      " gym"
+    ],
+    "exampleSentence": "go to the gym",
+    "exampleTranslation": "ir para a academia"
+  },
+  {
+    "id": "lesson_25_75",
+    "word": "go to the movies",
+    "translation": "ir ao cinema",
+    "pronunciation": "/ɡoʊ tu ðə ˈmuviz/",
+    "portuguesePhonetic": "gôu tchu dâ múvis",
+    "syllables": [
+      "go",
+      " to",
+      " the",
+      " mo",
+      "vies"
+    ],
+    "exampleSentence": "go to the movies",
+    "exampleTranslation": "ir ao cinema"
+  },
+  {
+    "id": "lesson_25_76",
+    "word": "the price of",
+    "translation": "o preço de",
+    "pronunciation": "/ðə praɪs ʌv/",
+    "portuguesePhonetic": "dâ práis óv",
+    "syllables": [
+      "the",
+      " price",
+      " of"
+    ],
+    "exampleSentence": "the price of",
+    "exampleTranslation": "o preço de"
+  },
+  {
+    "id": "lesson_25_77",
+    "word": "buy souvenirs",
+    "translation": "comprar lembrancinhas",
+    "pronunciation": "/baɪ ˌsuvəˈnɪrz/",
+    "portuguesePhonetic": "bái su-ve-nírs",
+    "syllables": [
+      "buy",
+      " sou",
+      "ve",
+      "nirs"
+    ],
+    "exampleSentence": "buy souvenirs",
+    "exampleTranslation": "comprar lembrancinhas"
+  },
+  {
+    "id": "lesson_25_78",
+    "word": "buy food",
+    "translation": "comprar comida",
+    "pronunciation": "/baɪ fud/",
+    "portuguesePhonetic": "bái fud",
+    "syllables": [
+      "buy",
+      " food"
+    ],
+    "exampleSentence": "buy food",
+    "exampleTranslation": "comprar comida"
+  },
+  {
+    "id": "lesson_25_79",
+    "word": "take medicine",
+    "translation": "tomar/levar remédio",
+    "pronunciation": "/teɪk ˈmɛdəsən/",
+    "portuguesePhonetic": "têic mé-di-sin",
+    "syllables": [
+      "take",
+      " med",
+      "i",
+      "cine"
+    ],
+    "exampleSentence": "take medicine",
+    "exampleTranslation": "tomar/levar remédio"
+  },
+  {
+    "id": "lesson_25_80",
+    "word": "new passport",
+    "translation": "passaporte novo",
+    "pronunciation": "/nu ˈpæspɔrt/",
+    "portuguesePhonetic": "niú pés-pórt",
+    "syllables": [
+      "new",
+      " pass",
+      "port"
+    ],
+    "exampleSentence": "new passport",
+    "exampleTranslation": "passaporte novo"
+  },
+  {
+    "id": "lesson_25_81",
+    "word": "What time...?",
+    "translation": "Que horas...? / A que horas...?",
+    "pronunciation": "/wʌt taɪm...?/",
+    "portuguesePhonetic": "uót táim...?",
+    "syllables": [
+      "What",
+      " time...?"
+    ],
+    "exampleSentence": "What time...?",
+    "exampleTranslation": "Que horas...? / A que horas...?"
+  },
+  {
+    "id": "lesson_25_82",
+    "word": "When...?",
+    "translation": "Quando...?",
+    "pronunciation": "/wɛn...?/",
+    "portuguesePhonetic": "uén...?",
+    "syllables": [
+      "When...?"
+    ],
+    "exampleSentence": "When...?",
+    "exampleTranslation": "Quando...?"
+  },
+  {
+    "id": "lesson_25_83",
+    "word": "Hello! I need to buy a gift for my brother.",
+    "translation": "Olá! Eu preciso comprar um presente para meu irmão.",
+    "pronunciation": "/həˈloʊ! aɪ nid tu baɪ ə ɡɪft fɔr maɪ ˈbrʌðər./",
+    "portuguesePhonetic": "rrâ-lôu! ai nid tchu bái â guíft fór mai brâ-ther.",
+    "syllables": [
+      "Hel",
+      "lo!",
+      " I",
+      " need",
+      " to",
+      " buy",
+      " a",
+      " gift",
+      " for",
+      " my",
+      " broth",
+      "er."
+    ],
+    "exampleSentence": "Hello! I need to buy a gift for my brother.",
+    "exampleTranslation": "Olá! Eu preciso comprar um presente para meu irmão."
+  },
+  {
+    "id": "lesson_25_84",
+    "word": "I usually have to buy many things on weekends. What about you?",
+    "translation": "Eu geralmente tenho que comprar muitas coisas nos fins de semana. E você?",
+    "pronunciation": "/aɪ ˈjuːʒuəli hæv tu baɪ ˈmɛni θɪŋz ɑn ˈwiˌkɛndz. wʌt əˈbaʊt ju?/",
+    "portuguesePhonetic": "ai iú-ju-a-li rév tchu bái mé-ni thíngz ón ui-kénds. uát a-báut iu?",
+    "syllables": [
+      "I",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " have",
+      " to",
+      " buy",
+      " ma",
+      "ny",
+      " things",
+      " on",
+      " week",
+      "ends.",
+      " What",
+      " a",
+      "bout",
+      " you?"
+    ],
+    "exampleSentence": "I usually have to buy many things on weekends. What about you?",
+    "exampleTranslation": "Eu geralmente tenho que comprar muitas coisas nos fins de semana. E você?"
+  },
+  {
+    "id": "lesson_25_85",
+    "word": "Does he need to send the e-mails in the morning?",
+    "translation": "Ele precisa enviar os e-mails de manhã?",
+    "pronunciation": "/dʌz hi nid tu sɛnd ði ˈiˌmeɪlz ɪn ðə ˈmɔrnɪŋ?/",
+    "portuguesePhonetic": "dâz ri nid tchu sénd di í-mêilz in dâ mór-ning?",
+    "syllables": [
+      "Does",
+      " he",
+      " need",
+      " to",
+      " send",
+      " the",
+      " e-mails",
+      " in",
+      " the",
+      " morn",
+      "ing?"
+    ],
+    "exampleSentence": "Does he need to send the e-mails in the morning?",
+    "exampleTranslation": "Ele precisa enviar os e-mails de manhã?"
+  },
+  {
+    "id": "lesson_25_86",
+    "word": "She needs to buy a ticket to go to France.",
+    "translation": "Ela precisa comprar uma passagem para ir à França.",
+    "pronunciation": "/ʃi nidz tu baɪ ə ˈtɪkɪt tu ɡoʊ tu fræns./",
+    "portuguesePhonetic": "chi nids tchu bái â tí-quet tchu gôu tchu fréns.",
+    "syllables": [
+      "She",
+      " needs",
+      " to",
+      " buy",
+      " a",
+      " tick",
+      "et",
+      " to",
+      " go",
+      " to",
+      " France."
+    ],
+    "exampleSentence": "She needs to buy a ticket to go to France.",
+    "exampleTranslation": "Ela precisa comprar uma passagem para ir à França."
+  },
+  {
+    "id": "lesson_25_87",
+    "word": "He likes to buy gifts at the mall. Does he like this store?",
+    "translation": "Ele gosta de comprar presentes no shopping. Ele gosta desta loja?",
+    "pronunciation": "/hi laɪks tu baɪ ɡɪfts æt ðə mɔl. dʌz hi laɪk ðɪs stɔr?/",
+    "portuguesePhonetic": "ri laics tchu bái guífts ét dâ mól. dâz ri laic dís stór?",
+    "syllables": [
+      "He",
+      " likes",
+      " to",
+      " buy",
+      " gifts",
+      " at",
+      " the",
+      " mall.",
+      " Does",
+      " he",
+      " like",
+      " this",
+      " store?"
+    ],
+    "exampleSentence": "He likes to buy gifts at the mall. Does he like this store?",
+    "exampleTranslation": "Ele gosta de comprar presentes no shopping. Ele gosta desta loja?"
+  },
+  {
+    "id": "lesson_25_88",
+    "word": "I take my cell phone and my computer to work every day.",
+    "translation": "Eu levo meu celular e meu computador para o trabalho todos os dias.",
+    "pronunciation": "/aɪ teɪk maɪ sɛl foʊn ænd maɪ kəmˈpjutər tu wɜrk ˈɛvri deɪ./",
+    "portuguesePhonetic": "ai têic mai sél fôun énd mai com-piú-ter tchu uãrc év-ri dêi.",
+    "syllables": [
+      "I",
+      " take",
+      " my",
+      " cell",
+      " phone",
+      " and",
+      " my",
+      " com",
+      "pu",
+      "ter",
+      " to",
+      " work",
+      " ev",
+      "ery",
+      " day."
+    ],
+    "exampleSentence": "I take my cell phone and my computer to work every day.",
+    "exampleTranslation": "Eu levo meu celular e meu computador para o trabalho todos os dias."
+  },
+  {
+    "id": "lesson_25_89",
+    "word": "I like to buy souvenirs for my friends.",
+    "translation": "Eu gosto de comprar lembrancinhas para os meus amigos.",
+    "pronunciation": "/aɪ laɪk tu baɪ ˌsuvəˈnɪrz fɔr maɪ frɛndz./",
+    "portuguesePhonetic": "ai laic tchu bái su-ve-nírz fór mai fréndz.",
+    "syllables": [
+      "I",
+      " like",
+      " to",
+      " buy",
+      " sou",
+      "ve",
+      "nirs",
+      " for",
+      " my",
+      " friends."
+    ],
+    "exampleSentence": "I like to buy souvenirs for my friends.",
+    "exampleTranslation": "Eu gosto de comprar lembrancinhas para os meus amigos."
+  },
+  {
+    "id": "lesson_25_90",
+    "word": "What does she take to school? – She takes a backpack and many books.",
+    "translation": "O que ela leva para a escola? – Ela leva uma mochila e muitos livros.",
+    "pronunciation": "/wʌt dʌz ʃi teɪk tu skul? – ʃi teɪks ə ˈbækˌpæk ænd ˈmɛni bʊks./",
+    "portuguesePhonetic": "uót dâz chi têic tchu scul? – chi têics â béc-péc énd mé-ni búcs.",
+    "syllables": [
+      "What",
+      " does",
+      " she",
+      " take",
+      " to",
+      " school?",
+      " She",
+      " takes",
+      " a",
+      " back",
+      "pack",
+      " and",
+      " ma",
+      "ny",
+      " books."
+    ],
+    "exampleSentence": "What does she take to school? – She takes a backpack and many books.",
+    "exampleTranslation": "O que ela leva para a escola? – Ela leva uma mochila e muitos livros."
+  },
+  {
+    "id": "lesson_25_91",
+    "word": "Do you know the price of this medicine? – It's thirty-five dollars.",
+    "translation": "Você sabe o preço deste remédio? – São 35 dólares.",
+    "pronunciation": "/du ju noʊ ðə praɪs ʌv ðɪs ˈmɛdəsən? – ɪts ˈθɜrti-faɪv ˈdɑlərz./",
+    "portuguesePhonetic": "du iu nôu dâ prais âv dís mé-di-cin? – íts thãr-ti faiv dó-larz.",
+    "syllables": [
+      "Do",
+      " you",
+      " know",
+      " the",
+      " price",
+      " of",
+      " this",
+      " med",
+      "i",
+      "cine?",
+      " It's",
+      " thir",
+      "ty-five",
+      " dol",
+      "lars."
+    ],
+    "exampleSentence": "Do you know the price of this medicine? – It's thirty-five dollars.",
+    "exampleTranslation": "Você sabe o preço deste remédio? – São 35 dólares."
+  },
+  {
+    "id": "lesson_25_92",
+    "word": "I prefer to eat at a restaurant. It is good and cheap.",
+    "translation": "Eu prefiro comer no restaurante. É bom e barato.",
+    "pronunciation": "/aɪ prəˈfɜr tu it æt ə ˈrɛstəˌrɑnt. ɪt ɪz ɡʊd ænd tʃip./",
+    "portuguesePhonetic": "ai pri-fãr tchu ít ét â rés-tâ-rãnt. it íz gúd énd tchíp.",
+    "syllables": [
+      "I",
+      " pre",
+      "fer",
+      " to",
+      " eat",
+      " at",
+      " a",
+      " res",
+      "tau",
+      "rant.",
+      " It",
+      " is",
+      " good",
+      " and",
+      " cheap."
+    ],
+    "exampleSentence": "I prefer to eat at a restaurant. It is good and cheap.",
+    "exampleTranslation": "Eu prefiro comer no restaurante. É bom e barato."
+  },
+  {
+    "id": "lesson_25_93",
+    "word": "Backpack",
+    "translation": "Mochila",
+    "pronunciation": "/ˈbækˌpæk/",
+    "portuguesePhonetic": "béc-péc",
+    "syllables": [
+      "back",
+      "pack"
+    ],
+    "exampleSentence": "Backpack",
+    "exampleTranslation": "Mochila"
+  },
+  {
+    "id": "lesson_25_94",
+    "word": "Passport",
+    "translation": "Passaporte",
+    "pronunciation": "/ˈpæˌspɔrt/",
+    "portuguesePhonetic": "pés-pórt",
+    "syllables": [
+      "pass",
+      "port"
+    ],
+    "exampleSentence": "Passport",
+    "exampleTranslation": "Passaporte"
+  },
+  {
+    "id": "lesson_25_95",
+    "word": "Computer",
+    "translation": "Computador",
+    "pronunciation": "/kəmˈpjuːtə/",
+    "portuguesePhonetic": "com-piú-ter",
+    "syllables": [
+      "com",
+      "pu",
+      "ter"
+    ],
+    "exampleSentence": "Computer",
+    "exampleTranslation": "Computador"
+  },
+  {
+    "id": "lesson_25_96",
+    "word": "Alarm clock",
+    "translation": "Despertador",
+    "pronunciation": "/əˈlɑrm klɑk/",
+    "portuguesePhonetic": "a-lárm clóc",
+    "syllables": [
+      "a",
+      "larm",
+      " clock"
+    ],
+    "exampleSentence": "Alarm clock",
+    "exampleTranslation": "Despertador"
+  },
+  {
+    "id": "lesson_25_97",
+    "word": "Does she eat Italian food in Germany?",
+    "translation": "Ela come comida italiana na Alemanha?",
+    "pronunciation": "/dʌz ʃi it ɪˈtæljən fud ɪn ˈdʒɜrməni?/",
+    "portuguesePhonetic": "dâz chi ít i-té-li-an fúd in djãr-ma-ni?",
+    "syllables": [
+      "Does",
+      " she",
+      " eat",
+      " I",
+      "tal",
+      "ian",
+      " food",
+      " in",
+      " Ger",
+      "ma",
+      "ny?"
+    ],
+    "exampleSentence": "Does she eat Italian food in Germany?",
+    "exampleTranslation": "Ela come comida italiana na Alemanha?"
+  },
+  {
+    "id": "lesson_25_98",
+    "word": "I need to send an e-mail to my boss now.",
+    "translation": "Eu preciso enviar um e-mail para meu chefe agora.",
+    "pronunciation": "/aɪ nid tu sɛnd ən ˈiˌmeɪl tu maɪ bɔs naʊ./",
+    "portuguesePhonetic": "ai nid tchu sénd ân í-mêil tchu mai bós náu.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " send",
+      " an",
+      " e-mail",
+      " to",
+      " my",
+      " boss",
+      " now."
+    ],
+    "exampleSentence": "I need to send an e-mail to my boss now.",
+    "exampleTranslation": "Eu preciso enviar um e-mail para meu chefe agora."
+  },
+  {
+    "id": "lesson_25_99",
+    "word": "I want to buy a gift for my brother.",
+    "translation": "Eu quero comprar um presente para meu irmão.",
+    "pronunciation": "/aɪ wɑnt tu baɪ ə ɡɪft fɔr maɪ ˈbrʌðər./",
+    "portuguesePhonetic": "ai uánt tchu bái â guíft fór mai brâ-ther.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " buy",
+      " a",
+      " gift",
+      " for",
+      " my",
+      " broth",
+      "er."
+    ],
+    "exampleSentence": "I want to buy a gift for my brother.",
+    "exampleTranslation": "Eu quero comprar um presente para meu irmão."
+  },
+  {
+    "id": "lesson_25_100",
+    "word": "Does he know how to speak English?",
+    "translation": "Ele sabe falar inglês?",
+    "pronunciation": "/dʌz he noʊ haʊ tu spik ˈɪŋɡlɪʃ?/",
+    "portuguesePhonetic": "dâz ri nôu ráu tchu spíc ín-glic?",
+    "syllables": [
+      "Does",
+      " he",
+      " know",
+      " how",
+      " to",
+      " speak",
+      " En",
+      "glish?"
+    ],
+    "exampleSentence": "Does he know how to speak English?",
+    "exampleTranslation": "Ele sabe falar inglês?"
+  },
+  {
+    "id": "lesson_25_101",
+    "word": "Does she come to the countryside on Saturdays?",
+    "translation": "Ela vem para o interior aos sábados?",
+    "pronunciation": "/dʌz ʃi kʌm tu ðə ˈkʌntrisaɪd ɑn ˈsætərdeɪz?/",
+    "portuguesePhonetic": "dâz chi câm tchu dâ cân-tri-said ón sé-ter-dêis?",
+    "syllables": [
+      "Does",
+      " she",
+      " come",
+      " to",
+      " the",
+      " coun",
+      "try",
+      "side",
+      " on",
+      " Sat",
+      "ur",
+      "days?"
+    ],
+    "exampleSentence": "Does she come to the countryside on Saturdays?",
+    "exampleTranslation": "Ela vem para o interior aos sábados?"
+  },
+  {
+    "id": "lesson_25_102",
+    "word": "She wants to buy a ticket to go to Italy this year.",
+    "translation": "Ela quer comprar uma passagem para ir à Itália este ano.",
+    "pronunciation": "/ʃi wɑnts tu baɪ ə ˈtɪkɪt tu ɡoʊ tu ˈɪtəli ðɪs jɪr./",
+    "portuguesePhonetic": "chi uánts tchu bái â tí-quet tchu gôu tchu í-ta-li dís ír.",
+    "syllables": [
+      "She",
+      " wants",
+      " to",
+      " buy",
+      " a",
+      " tick",
+      "et",
+      " to",
+      " go",
+      " to",
+      " It",
+      "a",
+      "ly",
+      " this",
+      " year."
+    ],
+    "exampleSentence": "She wants to buy a ticket to go to Italy this year.",
+    "exampleTranslation": "Ela quer comprar uma passagem para ir à Itália este ano."
+  },
+  {
+    "id": "lesson_25_103",
+    "word": "gift",
+    "translation": "presente",
+    "pronunciation": "/ɡɪft/",
+    "portuguesePhonetic": "guíft",
+    "syllables": [
+      "gift"
+    ],
+    "exampleSentence": "gift",
+    "exampleTranslation": "presente"
+  },
+  {
+    "id": "lesson_25_104",
+    "word": "brother",
+    "translation": "irmão",
+    "pronunciation": "/ˈbrʌðər/",
+    "portuguesePhonetic": "brâ-ther",
+    "syllables": [
+      "broth",
+      "er"
+    ],
+    "exampleSentence": "brother",
+    "exampleTranslation": "irmão"
+  },
+  {
+    "id": "lesson_25_105",
+    "word": "e-mail",
+    "translation": "e-mail",
+    "pronunciation": "/ˈiˌmeɪl/",
+    "portuguesePhonetic": "í-mêil",
+    "syllables": [
+      "e-mail"
+    ],
+    "exampleSentence": "e-mail",
+    "exampleTranslation": "e-mail"
+  },
+  {
+    "id": "lesson_25_106",
+    "word": "ticket",
+    "translation": "passagem",
+    "pronunciation": "/ˈtɪkɪt/",
+    "portuguesePhonetic": "tí-quet",
+    "syllables": [
+      "tick",
+      "et"
+    ],
+    "exampleSentence": "ticket",
+    "exampleTranslation": "passagem"
+  },
+  {
+    "id": "lesson_25_107",
+    "word": "France",
+    "translation": "França",
+    "pronunciation": "/fræns/",
+    "portuguesePhonetic": "fréns",
+    "syllables": [
+      "France"
+    ],
+    "exampleSentence": "France",
+    "exampleTranslation": "França"
+  },
+  {
+    "id": "lesson_25_108",
+    "word": "Italy",
+    "translation": "Itália",
+    "pronunciation": "/ˈɪtəli/",
+    "portuguesePhonetic": "í-ta-li",
+    "syllables": [
+      "It",
+      "a",
+      "ly"
+    ],
+    "exampleSentence": "Italy",
+    "exampleTranslation": "Itália"
+  },
+  {
+    "id": "lesson_25_109",
+    "word": "mall",
+    "translation": "shopping",
+    "pronunciation": "/mɔl/",
+    "portuguesePhonetic": "mól",
+    "syllables": [
+      "mall"
+    ],
+    "exampleSentence": "mall",
+    "exampleTranslation": "shopping"
+  },
+  {
+    "id": "lesson_25_110",
+    "word": "store",
+    "translation": "loja",
+    "pronunciation": "/stɔr/",
+    "portuguesePhonetic": "stór",
+    "syllables": [
+      "store"
+    ],
+    "exampleSentence": "store",
+    "exampleTranslation": "loja"
+  },
+  {
+    "id": "lesson_25_111",
+    "word": "cell phone",
+    "translation": "celular",
+    "pronunciation": "/sɛl foʊn/",
+    "portuguesePhonetic": "sél fôun",
+    "syllables": [
+      "cell",
+      " phone"
+    ],
+    "exampleSentence": "cell phone",
+    "exampleTranslation": "celular"
+  },
+  {
+    "id": "lesson_25_112",
+    "word": "computer",
+    "translation": "computador",
+    "pronunciation": "/kəmˈpjutər/",
+    "portuguesePhonetic": "com-piú-ter",
+    "syllables": [
+      "com",
+      "pu",
+      "ter"
+    ],
+    "exampleSentence": "computer",
+    "exampleTranslation": "computador"
+  },
+  {
+    "id": "lesson_25_113",
+    "word": "work",
+    "translation": "trabalho",
+    "pronunciation": "/wɜrk/",
+    "portuguesePhonetic": "uãrc",
+    "syllables": [
+      "work"
+    ],
+    "exampleSentence": "work",
+    "exampleTranslation": "trabalho"
+  },
+  {
+    "id": "lesson_25_114",
+    "word": "souvenir",
+    "translation": "lembrancinha / souvenir",
+    "pronunciation": "/ˌsuvəˈnɪr/",
+    "portuguesePhonetic": "su-ve-nír",
+    "syllables": [
+      "sou",
+      "ve",
+      "nir"
+    ],
+    "exampleSentence": "souvenir",
+    "exampleTranslation": "lembrancinha / souvenir"
+  },
+  {
+    "id": "lesson_25_115",
+    "word": "backpack",
+    "translation": "mochila",
+    "pronunciation": "/ˈbækˌpæk/",
+    "portuguesePhonetic": "béc-péc",
+    "syllables": [
+      "backpack"
+    ],
+    "exampleSentence": "backpack",
+    "exampleTranslation": "mochila"
+  },
+  {
+    "id": "lesson_25_116",
+    "word": "book",
+    "translation": "livro",
+    "pronunciation": "/bʊk/",
+    "portuguesePhonetic": "búc",
+    "syllables": [
+      "book"
+    ],
+    "exampleSentence": "book",
+    "exampleTranslation": "livro"
+  },
+  {
+    "id": "lesson_25_117",
+    "word": "medicine",
+    "translation": "remédio",
+    "pronunciation": "/ˈmɛdəsən/",
+    "portuguesePhonetic": "mé-di-cin",
+    "syllables": [
+      "med",
+      "i",
+      "cine"
+    ],
+    "exampleSentence": "medicine",
+    "exampleTranslation": "remédio"
+  },
+  {
+    "id": "lesson_25_118",
+    "word": "price",
+    "translation": "preço",
+    "pronunciation": "/praɪs/",
+    "portuguesePhonetic": "prais",
+    "syllables": [
+      "price"
+    ],
+    "exampleSentence": "price",
+    "exampleTranslation": "preço"
+  },
+  {
+    "id": "lesson_25_119",
+    "word": "cheap",
+    "translation": "barato",
+    "pronunciation": "/tʃip/",
+    "portuguesePhonetic": "tchíp",
+    "syllables": [
+      "cheap"
+    ],
+    "exampleSentence": "cheap",
+    "exampleTranslation": "barato"
+  },
+  {
+    "id": "lesson_25_120",
+    "word": "boss",
+    "translation": "chefe",
+    "pronunciation": "/bɔs/",
+    "portuguesePhonetic": "bós",
+    "syllables": [
+      "boss"
+    ],
+    "exampleSentence": "boss",
+    "exampleTranslation": "chefe"
+  },
+  {
+    "id": "lesson_25_121",
+    "word": "passport",
+    "translation": "passaporte",
+    "pronunciation": "/ˈpæˌspɔrt/",
+    "portuguesePhonetic": "pés-pórt",
+    "syllables": [
+      "pass",
+      "port"
+    ],
+    "exampleSentence": "passport",
+    "exampleTranslation": "passaporte"
+  },
+  {
+    "id": "lesson_25_122",
+    "word": "alarm clock",
+    "translation": "despertador",
+    "pronunciation": "/əˈlɑrm klɑk/",
+    "portuguesePhonetic": "a-lárm clóc",
+    "syllables": [
+      "a",
+      "larm",
+      " clock"
+    ],
+    "exampleSentence": "alarm clock",
+    "exampleTranslation": "despertador"
+  },
+  {
+    "id": "lesson_25_123",
+    "word": "need to",
+    "translation": "precisar",
+    "pronunciation": "/nid tu/",
+    "portuguesePhonetic": "nid tchu",
+    "syllables": [
+      "need",
+      " to"
+    ],
+    "exampleSentence": "need to",
+    "exampleTranslation": "precisar"
+  },
+  {
+    "id": "lesson_25_124",
+    "word": "want to",
+    "translation": "querer",
+    "pronunciation": "/wɑnt tu/",
+    "portuguesePhonetic": "uánt tchu",
+    "syllables": [
+      "want",
+      " to"
+    ],
+    "exampleSentence": "want to",
+    "exampleTranslation": "querer"
+  },
+  {
+    "id": "lesson_25_125",
+    "word": "buy",
+    "translation": "comprar",
+    "pronunciation": "/baɪ/",
+    "portuguesePhonetic": "bái",
+    "syllables": [
+      "buy"
+    ],
+    "exampleSentence": "buy",
+    "exampleTranslation": "comprar"
+  },
+  {
+    "id": "lesson_25_126",
+    "word": "send",
+    "translation": "enviar",
+    "pronunciation": "/sɛnd/",
+    "portuguesePhonetic": "sénd",
+    "syllables": [
+      "send"
+    ],
+    "exampleSentence": "send",
+    "exampleTranslation": "enviar"
+  },
+  {
+    "id": "lesson_25_127",
+    "word": "take",
+    "translation": "levar",
+    "pronunciation": "/teɪk/",
+    "portuguesePhonetic": "têic",
+    "syllables": [
+      "take"
+    ],
+    "exampleSentence": "take",
+    "exampleTranslation": "levar"
+  },
+  {
+    "id": "lesson_25_128",
+    "word": "know",
+    "translation": "saber / conhecer",
+    "pronunciation": "/noʊ/",
+    "portuguesePhonetic": "nôu",
+    "syllables": [
+      "know"
+    ],
+    "exampleSentence": "know",
+    "exampleTranslation": "saber / conhecer"
+  }
+]

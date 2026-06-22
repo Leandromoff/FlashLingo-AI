@@ -1,0 +1,1986 @@
+[
+  {
+    "id": "lesson_85_1",
+    "word": "to know - knew",
+    "translation": "conhecer / saber - conheceu / soube",
+    "pronunciation": "/tu noʊ / nu/",
+    "portuguesePhonetic": "tchu nôu / niû",
+    "syllables": [
+      "to",
+      " know",
+      " knew"
+    ],
+    "exampleSentence": "I knew him years ago.",
+    "exampleTranslation": "Eu o conhecia anos atrás."
+  },
+  {
+    "id": "lesson_85_2",
+    "word": "to work - worked",
+    "translation": "trabalhar - trabalhou",
+    "pronunciation": "/tu wɜrk / wɜrkt/",
+    "portuguesePhonetic": "tchu uêrc / uêrct",
+    "syllables": [
+      "to",
+      " work",
+      " worked"
+    ],
+    "exampleSentence": "I worked for IBM some years ago.",
+    "exampleTranslation": "Eu trabalhei para a IBM alguns anos atrás."
+  },
+  {
+    "id": "lesson_85_3",
+    "word": "to live - lived",
+    "translation": "morar / viver - morou / viveu",
+    "pronunciation": "/tu lɪv / lɪvd/",
+    "portuguesePhonetic": "tchu lív / lívd",
+    "syllables": [
+      "to",
+      " live",
+      " lived"
+    ],
+    "exampleSentence": "Louise didn't live close to her work.",
+    "exampleTranslation": "Louise não morava perto do trabalho."
+  },
+  {
+    "id": "lesson_85_4",
+    "word": "profession",
+    "translation": "profissão",
+    "pronunciation": "/prəˈfɛʃən/",
+    "portuguesePhonetic": "pro-fé-shôn",
+    "syllables": [
+      "pro",
+      "fes",
+      "sion"
+    ],
+    "exampleSentence": "What do you do for a living?",
+    "exampleTranslation": "O que você faz da vida? / Qual é a sua profissão?"
+  },
+  {
+    "id": "lesson_85_5",
+    "word": "career",
+    "translation": "carreira",
+    "pronunciation": "/kəˈrɪər/",
+    "portuguesePhonetic": "ca-rîer",
+    "syllables": [
+      "ca",
+      "reer"
+    ],
+    "exampleSentence": "That career opportunity was a very good choice.",
+    "exampleTranslation": "Aquela oportunidade de carreira foi uma ótima escolha."
+  },
+  {
+    "id": "lesson_85_6",
+    "word": "résumé",
+    "translation": "currículo",
+    "pronunciation": "/ˈrɛzʊˌmeɪ/",
+    "portuguesePhonetic": "ré-zu-mêi",
+    "syllables": [
+      "ré",
+      "su",
+      "mé"
+    ],
+    "exampleSentence": "His résumé wasn't so good, but he got the job.",
+    "exampleTranslation": "O currículo dele não era tão bom, mas ele conseguiu o emprego."
+  },
+  {
+    "id": "lesson_85_7",
+    "word": "chance",
+    "translation": "chance / oportunidade",
+    "pronunciation": "/tʃæns/",
+    "portuguesePhonetic": "tchéns",
+    "syllables": [
+      "chance"
+    ],
+    "exampleSentence": "Sam didn't have a chance to get a promotion this year.",
+    "exampleTranslation": "Sam não teve uma chance de conseguir uma promoção este ano."
+  },
+  {
+    "id": "lesson_85_8",
+    "word": "choice",
+    "translation": "escolha",
+    "pronunciation": "/tʃɔɪs/",
+    "portuguesePhonetic": "tchóis",
+    "syllables": [
+      "choice"
+    ],
+    "exampleSentence": "That career opportunity was a very good choice.",
+    "exampleTranslation": "Aquela oportunidade de carreira foi uma ótima escolha."
+  },
+  {
+    "id": "lesson_85_9",
+    "word": "opportunity",
+    "translation": "oportunidade",
+    "pronunciation": "/ˌɑpərˈtunəti/",
+    "portuguesePhonetic": "ó-por-tû-ni-di",
+    "syllables": [
+      "op",
+      "por",
+      "tu",
+      "ni",
+      "ty"
+    ],
+    "exampleSentence": "I didn't know it was a great opportunity.",
+    "exampleTranslation": "Eu não sabia que era uma grande oportunidade."
+  },
+  {
+    "id": "lesson_85_10",
+    "word": "employee",
+    "translation": "funcionário",
+    "pronunciation": "/ɛmˈplɔɪ-i/",
+    "portuguesePhonetic": "em-plói-î",
+    "syllables": [
+      "em",
+      "ploy",
+      "ee"
+    ],
+    "exampleSentence": "He didn't know his employees very well.",
+    "exampleTranslation": "Ele não conhecia muito bem seus funcionários."
+  },
+  {
+    "id": "lesson_85_11",
+    "word": "employer",
+    "translation": "empregador",
+    "pronunciation": "/ɛmˈplɔɪər/",
+    "portuguesePhonetic": "em-plói-er",
+    "syllables": [
+      "em",
+      "ploy",
+      "er"
+    ],
+    "exampleSentence": "My employer offered great benefits.",
+    "exampleTranslation": "Meu empregador oferecia ótimos benefícios."
+  },
+  {
+    "id": "lesson_85_12",
+    "word": "salary",
+    "translation": "salário",
+    "pronunciation": "/ˈsæləri/",
+    "portuguesePhonetic": "sǽ-lâ-ri",
+    "syllables": [
+      "sal",
+      "a",
+      "ry"
+    ],
+    "exampleSentence": "The opportunity wasn't so good, but the salary was high.",
+    "exampleTranslation": "A oportunidade não era tão boa, mas o salário era alto."
+  },
+  {
+    "id": "lesson_85_13",
+    "word": "benefit",
+    "translation": "benefício",
+    "pronunciation": "/ˈbɛnəfɪt/",
+    "portuguesePhonetic": "bé-ne-fit",
+    "syllables": [
+      "ben",
+      "e",
+      "fit"
+    ],
+    "exampleSentence": "You didn't work only for salary or benefits.",
+    "exampleTranslation": "Você não trabalhava apenas por salário ou benefícios."
+  },
+  {
+    "id": "lesson_85_14",
+    "word": "raise",
+    "translation": "aumento salarial",
+    "pronunciation": "/reɪz/",
+    "portuguesePhonetic": "rêiz",
+    "syllables": [
+      "raise"
+    ],
+    "exampleSentence": "I got a promotion and a raise.",
+    "exampleTranslation": "Eu consegui uma promoção e um aumento salarial."
+  },
+  {
+    "id": "lesson_85_15",
+    "word": "spreadsheet",
+    "translation": "planilha",
+    "pronunciation": "/ˈsprɛdˌʃit/",
+    "portuguesePhonetic": "es-préd-chît",
+    "syllables": [
+      "spread",
+      "sheet"
+    ],
+    "exampleSentence": "He didn't send me the spreadsheets on time.",
+    "exampleTranslation": "Ele não me enviou as planilhas a tempo."
+  },
+  {
+    "id": "lesson_85_16",
+    "word": "minimum wage",
+    "translation": "salário mínimo",
+    "pronunciation": "/ˈmɪnəməm weɪdʒ/",
+    "portuguesePhonetic": "mí-ni-mâm uêidj",
+    "syllables": [
+      "min",
+      "i",
+      "mum",
+      " wage"
+    ],
+    "exampleSentence": "She didn't know she was working for minimum wage.",
+    "exampleTranslation": "Ela não sabia que estava trabalhando por salário mínimo."
+  },
+  {
+    "id": "lesson_85_17",
+    "word": "What do you do for a living?",
+    "translation": "O que você faz da vida? / Qual é a sua profissão?",
+    "pronunciation": "/wʌt du ju du fɔr ə ˈlɪvɪŋ/",
+    "portuguesePhonetic": "uót du iu du fór a lí-vin",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " do",
+      " for",
+      " a",
+      " liv",
+      "ing?"
+    ],
+    "exampleSentence": "What do you do for a living?",
+    "exampleTranslation": "O que você faz da vida? / Qual é a sua profissão?"
+  },
+  {
+    "id": "lesson_85_18",
+    "word": "I worked for IBM some years ago.",
+    "translation": "Eu trabalhei para a IBM alguns anos atrás.",
+    "pronunciation": "/aɪ wɜrkt fɔr aɪ-bi-ɛm sʌm jɪərz əˈɡoʊ/",
+    "portuguesePhonetic": "ai uêrct fór ai-bî-ém sâm í-erz a-gôu",
+    "syllables": [
+      "I",
+      " worked",
+      " for",
+      " I",
+      "B",
+      "M",
+      " some",
+      " years",
+      " a",
+      "go."
+    ],
+    "exampleSentence": "I worked for IBM some years ago.",
+    "exampleTranslation": "Eu trabalhei para a IBM alguns anos atrás."
+  },
+  {
+    "id": "lesson_85_19",
+    "word": "I want to get that promotion.",
+    "translation": "Eu quero conseguir aquela promoção.",
+    "pronunciation": "/aɪ wɑnt tu ɡɛt ðæt prəˈmoʊʃən/",
+    "portuguesePhonetic": "ai uónt tchu gét ðét pro-môu-chôn",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " get",
+      " that",
+      " pro",
+      "mo",
+      "tion."
+    ],
+    "exampleSentence": "I want to get that promotion.",
+    "exampleTranslation": "Eu quero conseguir aquela promoção."
+  },
+  {
+    "id": "lesson_85_20",
+    "word": "I'm looking for a job in the music business.",
+    "translation": "Estou procurando um emprego na indústria da música.",
+    "pronunciation": "/aɪm ˈlʊkɪŋ fɔr ə dʒɑb ɪn ðə ˈmjuzɪk ˈbɪznəs/",
+    "portuguesePhonetic": "aim lû-quin fór a djób ín ðâ miû-zic bíz-nes",
+    "syllables": [
+      "I'm",
+      " look",
+      "ing",
+      " for",
+      " a",
+      " job",
+      " in",
+      " the",
+      " mu",
+      "sic",
+      " busi",
+      "ness."
+    ],
+    "exampleSentence": "I'm looking for a job in the music business.",
+    "exampleTranslation": "Estou procurando um emprego na indústria da música."
+  },
+  {
+    "id": "lesson_85_21",
+    "word": "I didn't have a career at that time.",
+    "translation": "Eu não tinha uma carreira naquela época.",
+    "pronunciation": "/aɪ ˈdɪdənt hæv ə kəˈrɪər æt ðæt taɪm/",
+    "portuguesePhonetic": "ai díd-nt rév a ca-rîer ét ðét táim",
+    "syllables": [
+      "I",
+      " didn't",
+      " have",
+      " a",
+      " ca",
+      "reer",
+      " at",
+      " that",
+      " time."
+    ],
+    "exampleSentence": "I didn't have a career at that time.",
+    "exampleTranslation": "Eu não tinha uma carreira naquela época."
+  },
+  {
+    "id": "lesson_85_22",
+    "word": "He didn't know his employees very well.",
+    "translation": "Ele não conhecia muito bem seus funcionários.",
+    "pronunciation": "/hi ˈdɪdənt noʊ hɪz ɛmˈplɔɪ-iz ˈvɛri wɛl/",
+    "portuguesePhonetic": "ri díd-nt nôu ríz em-plói-îz vé-ri uél",
+    "syllables": [
+      "He",
+      " didn't",
+      " know",
+      " his",
+      " em",
+      "ploy",
+      "ees",
+      " ve",
+      "ry",
+      " well."
+    ],
+    "exampleSentence": "He didn't know his employees very well.",
+    "exampleTranslation": "Ele não conhecia muito bem seus funcionários."
+  },
+  {
+    "id": "lesson_85_23",
+    "word": "We didn't live near our workplace.",
+    "translation": "Nós não morávamos perto do nosso local de trabalho.",
+    "pronunciation": "/wi ˈdɪdənt lɪv nɪər ˈaʊər ˈwɜrkˌpleɪs/",
+    "portuguesePhonetic": "uí díd-nt lív nîer áu-er uêrc-plêis",
+    "syllables": [
+      "We",
+      " didn't",
+      " live",
+      " near",
+      " our",
+      " work",
+      "place."
+    ],
+    "exampleSentence": "We didn't live near our workplace.",
+    "exampleTranslation": "Nós não morávamos perto do nosso local de trabalho."
+  },
+  {
+    "id": "lesson_85_24",
+    "word": "I didn't know it was a great opportunity.",
+    "translation": "Eu não sabia que era uma grande oportunidade.",
+    "pronunciation": "/aɪ ˈdɪdənt noʊ ɪt wʌz ə ɡreɪt ˌɑpərˈtunəti/",
+    "portuguesePhonetic": "ai díd-nt nôu ít uâz a grêit ó-por-tû-ni-di",
+    "syllables": [
+      "I",
+      " didn't",
+      " know",
+      " it",
+      " was",
+      " a",
+      " great",
+      " op",
+      "por",
+      "tu",
+      "ni",
+      "ty."
+    ],
+    "exampleSentence": "I didn't know it was a great opportunity.",
+    "exampleTranslation": "Eu não sabia que era uma grande oportunidade."
+  },
+  {
+    "id": "lesson_85_25",
+    "word": "They didn't work together. They had the same employer.",
+    "translation": "Eles não trabalhavam juntos. Eles tinham o mesmo empregador.",
+    "pronunciation": "/ðeɪ ˈdɪdənt wɜrk təˈɡɛðər. ðeɪ hæd ðə seɪm ɛmˈplɔɪər/",
+    "portuguesePhonetic": "ðêi díd-nt uêrc tû-gué-ðer. ðêi réd ðâ sêim em-plói-er",
+    "syllables": [
+      "They",
+      " didn't",
+      " work",
+      " to",
+      "geth",
+      "er.",
+      " They",
+      " had",
+      " the",
+      " same",
+      " em",
+      "ploy",
+      "er."
+    ],
+    "exampleSentence": "They didn't work together. They had the same employer.",
+    "exampleTranslation": "Eles não trabalhavam juntos. Eles tinham o mesmo empregador."
+  },
+  {
+    "id": "lesson_85_26",
+    "word": "I didn't know you were looking for a job.",
+    "translation": "Eu não sabia que você estava procurando emprego.",
+    "pronunciation": "/aɪ ˈdɪdənt noʊ ju wɜr ˈlʊkɪŋ fɔr ə dʒɑb/",
+    "portuguesePhonetic": "ai díd-nt nôu iu uêr lû-quin fór a djób",
+    "syllables": [
+      "I",
+      " didn't",
+      " know",
+      " you",
+      " were",
+      " look",
+      "ing",
+      " for",
+      " a",
+      " job."
+    ],
+    "exampleSentence": "I didn't know you were looking for a job.",
+    "exampleTranslation": "Eu não sabia que você estava procurando emprego."
+  },
+  {
+    "id": "lesson_85_27",
+    "word": "I didn't know you worked here.",
+    "translation": "Eu não sabia que você trabalhava aqui.",
+    "pronunciation": "/aɪ ˈdɪdənt noʊ ju wɜrkt hɪər/",
+    "portuguesePhonetic": "ai díd-nt nôu iu uêrct rîer",
+    "syllables": [
+      "I",
+      " didn't",
+      " know",
+      " you",
+      " worked",
+      " here."
+    ],
+    "exampleSentence": "I didn't know you worked here.",
+    "exampleTranslation": "Eu não sabia que você trabalhava aqui."
+  },
+  {
+    "id": "lesson_85_28",
+    "word": "You didn't work only for salary or benefits.",
+    "translation": "Você não trabalhava apenas por salário ou benefícios.",
+    "pronunciation": "/ju ˈdɪdənt wɜrk ˈoʊnli fɔr ˈsæləri ɔr ˈbɛnəfɪts/",
+    "portuguesePhonetic": "iu díd-nt uêrc ôun-li fór sǽ-lâ-ri ór bé-ne-fits",
+    "syllables": [
+      "You",
+      " didn't",
+      " work",
+      " on",
+      "ly",
+      " for",
+      " sal",
+      "a",
+      "ry",
+      " or",
+      " ben",
+      "e",
+      "fits."
+    ],
+    "exampleSentence": "You didn't work only for salary or benefits.",
+    "exampleTranslation": "Você não trabalhava apenas por salário ou benefícios."
+  },
+  {
+    "id": "lesson_85_29",
+    "word": "I didn't know there was a chance of a salary raise.",
+    "translation": "Eu não sabia que havia uma chance de aumento salarial.",
+    "pronunciation": "/aɪ ˈdɪdənt noʊ ðɛr wʌz ə tʃæns ʌv ə ˈsæləri reɪz/",
+    "portuguesePhonetic": "ai díd-nt nôu ðêr uâz a tchéns âv a sǽ-lâ-ri rêiz",
+    "syllables": [
+      "I",
+      " didn't",
+      " know",
+      " there",
+      " was",
+      " a",
+      " chance",
+      " of",
+      " a",
+      " sal",
+      "a",
+      "ry",
+      " raise."
+    ],
+    "exampleSentence": "I didn't know there was a chance of a salary raise.",
+    "exampleTranslation": "Eu não sabia que havia uma chance de aumento salarial."
+  },
+  {
+    "id": "lesson_85_30",
+    "word": "I'm so happy. I got the promotion and a raise.",
+    "translation": "Estou tão feliz. Eu consegui a promoção e um aumento salarial.",
+    "pronunciation": "/aɪm soʊ ˈhæpi. aɪ ɡɑt ðə prəˈmoʊʃən ænd ə reɪz/",
+    "portuguesePhonetic": "aim sôu rǽ-pi. ai gót ðâ pro-môu-chôn énd a rêiz",
+    "syllables": [
+      "I'm",
+      " so",
+      " hap",
+      "py.",
+      " I",
+      " got",
+      " the",
+      " pro",
+      "mo",
+      "tion",
+      " and",
+      " a",
+      " raise."
+    ],
+    "exampleSentence": "I'm so happy. I got the promotion and a raise.",
+    "exampleTranslation": "Estou tão feliz. Eu consegui a promoção e um aumento salarial."
+  },
+  {
+    "id": "lesson_85_31",
+    "word": "Louis needed a new job. He didn't want to work for her.",
+    "translation": "Louis precisava de um novo emprego. Ele não queria trabalhar para ela.",
+    "pronunciation": "/ˈluɪs ˈnidɪd ə nu dʒɑb. hi ˈdɪdənt wɑnt tu wɜrk fɔr hɜr/",
+    "portuguesePhonetic": "lû-is nî-did a niû djób. ri díd-nt uónt tchu uêrc fór rêr",
+    "syllables": [
+      "Lou",
+      "is",
+      " need",
+      "ed",
+      " a",
+      " new",
+      " job.",
+      " He",
+      " didn't",
+      " want",
+      " to",
+      " work",
+      " for",
+      " her."
+    ],
+    "exampleSentence": "Louis needed a new job. He didn't want to work for her.",
+    "exampleTranslation": "Louis precisava de um novo emprego. Ele não queria trabalhar para ela."
+  },
+  {
+    "id": "lesson_85_32",
+    "word": "He didn't send me the spreadsheets on time.",
+    "translation": "Ele não me enviou as planilhas a tempo.",
+    "pronunciation": "/hi ˈdɪdənt sɛnd mi ðə ˈsprɛdˌʃits ɑn taɪm/",
+    "portuguesePhonetic": "ri díd-nt sénd mî ðâ es-préd-chîts ón táim",
+    "syllables": [
+      "He",
+      " didn't",
+      " send",
+      " me",
+      " the",
+      " spread",
+      "sheets",
+      " on",
+      " time."
+    ],
+    "exampleSentence": "He didn't send me the spreadsheets on time.",
+    "exampleTranslation": "Ele não me enviou as planilhas a tempo."
+  },
+  {
+    "id": "lesson_85_33",
+    "word": "She didn't know she was working for minimum wage.",
+    "translation": "Ela não sabia que estava trabalhando por salário mínimo.",
+    "pronunciation": "/ʃi ˈdɪdənt noʊ ʃi wʌz ˈwɜrkɪŋ fɔr ˈmɪnəməm weɪdʒ/",
+    "portuguesePhonetic": "chî díd-nt nôu chî uâz uêr-quin fór mí-ni-mâm uêidj",
+    "syllables": [
+      "She",
+      " didn't",
+      " know",
+      " she",
+      " was",
+      " work",
+      "ing",
+      " for",
+      " min",
+      "i",
+      "mum",
+      " wage."
+    ],
+    "exampleSentence": "She didn't know she was working for minimum wage.",
+    "exampleTranslation": "Ela não sabia que estava trabalhando por salário mínimo."
+  },
+  {
+    "id": "lesson_85_34",
+    "word": "The opportunity wasn't so good, but the salary was high.",
+    "translation": "A oportunidade não era tão boa, mas o salário era alto.",
+    "pronunciation": "/ði ˌɑpərˈtunəti ˈwʌzənt soʊ ɡʊd, bʌt ðə ˈsæləri wʌz haɪ/",
+    "portuguesePhonetic": "ðî ó-por-tû-ni-di uóz-nt sôu gûd, bât ðâ sǽ-lâ-ri uâz rái",
+    "syllables": [
+      "The",
+      " op",
+      "por",
+      "tu",
+      "ni",
+      "ty",
+      " wasn't",
+      " so",
+      " good,",
+      " but",
+      " the",
+      " sal",
+      "a",
+      "ry",
+      " was",
+      " high."
+    ],
+    "exampleSentence": "The opportunity wasn't so good, but the salary was high.",
+    "exampleTranslation": "A oportunidade não era tão boa, mas o salário era alto."
+  },
+  {
+    "id": "lesson_85_35",
+    "word": "That career opportunity was a very good choice.",
+    "translation": "Aquela oportunidade de carreira foi uma ótima escolha.",
+    "pronunciation": "/ðæt kəˈrɪər ˌɑpərˈtunəti wʌz ə ˈvɛri ɡʊd tʃɔɪs/",
+    "portuguesePhonetic": "ðét ca-rîer ó-por-tû-ni-di uâz a vé-ri gûd tchóis",
+    "syllables": [
+      "That",
+      " ca",
+      "reer",
+      " op",
+      "por",
+      "tu",
+      "ni",
+      "ty",
+      " was",
+      " a",
+      " ve",
+      "ry",
+      " good",
+      " choice."
+    ],
+    "exampleSentence": "That career opportunity was a very good choice.",
+    "exampleTranslation": "Aquela oportunidade de carreira foi uma ótima escolha."
+  },
+  {
+    "id": "lesson_85_36",
+    "word": "Louise didn't live close to her work.",
+    "translation": "Louise não morava perto do trabalho.",
+    "pronunciation": "/luˈiz ˈdɪdənt lɪv kloʊs tu hɜr wɜrk/",
+    "portuguesePhonetic": "lu-îz díd-nt lív clôus tchu rêr uêrc",
+    "syllables": [
+      "Lou",
+      "ise",
+      " didn't",
+      " live",
+      " close",
+      " to",
+      " her",
+      " work."
+    ],
+    "exampleSentence": "Louise didn't live close to her work.",
+    "exampleTranslation": "Louise não morava perto do trabalho."
+  },
+  {
+    "id": "lesson_85_37",
+    "word": "She really wanted that job, but didn't send her résumé on time.",
+    "translation": "Ela realmente queria aquele emprego, mas não enviou seu currículo a tempo.",
+    "pronunciation": "/ʃi ˈrɪli ˈwɑntɪd ðæt dʒɑb, bʌt ˈdɪdənt sɛnd hɜr ˈrɛzʊˌmeɪ ɑn taɪm/",
+    "portuguesePhonetic": "chî rî-li uón-tid ðét djób, bât díd-nt sénd rêr ré-zu-mêi ón táim",
+    "syllables": [
+      "She",
+      " real",
+      "ly",
+      " want",
+      "ed",
+      " that",
+      " job,",
+      " but",
+      " didn't",
+      " send",
+      " her",
+      " ré",
+      "su",
+      "mé",
+      " on",
+      " time."
+    ],
+    "exampleSentence": "She really wanted that job, but didn't send her résumé on time.",
+    "exampleTranslation": "Ela realmente queria aquele emprego, mas não enviou seu currículo a tempo."
+  },
+  {
+    "id": "lesson_85_38",
+    "word": "When we knew who our new boss was, we all wanted to change jobs.",
+    "translation": "Quando soubemos quem era nosso novo chefe, todos nós quisemos trocar de emprego.",
+    "pronunciation": "/wɛn wi nu hu ˈaʊər nu bɔs wʌz, wi ɔl ˈwɑntɪd tu tʃeɪndʒ dʒɑbz/",
+    "portuguesePhonetic": "uén uí niû rû áu-er niû bós uâz, uí ól uón-tid tchu tchêindj djóbs",
+    "syllables": [
+      "When",
+      " we",
+      " knew",
+      " who",
+      " our",
+      " new",
+      " boss",
+      " was,",
+      " we",
+      " all",
+      " want",
+      "ed",
+      " to",
+      " change",
+      " jobs."
+    ],
+    "exampleSentence": "When we knew who our new boss was, we all wanted to change jobs.",
+    "exampleTranslation": "Quando soubemos quem era nosso novo chefe, todos nós quisemos trocar de emprego."
+  },
+  {
+    "id": "lesson_85_39",
+    "word": "You didn't miss that promotion opportunity because your career is international.",
+    "translation": "Você não perdeu aquela oportunidade de promoção porque sua carreira é internacional.",
+    "pronunciation": "/ju ˈdɪdənt mɪs ðæt prəˈmoʊʃən ˌɑpərˈtunəti bɪˈkɔz jɔər kəˈrɪər ɪz ˌɪntərˈnæʃənəl/",
+    "portuguesePhonetic": "iu díd-nt mís ðét pro-môu-chôn ó-por-tû-ni-di bi-cóz iór ca-rîer íz in-ter-né-cho-nôl",
+    "syllables": [
+      "You",
+      " didn't",
+      " miss",
+      " that",
+      " pro",
+      "mo",
+      "tion",
+      " op",
+      "por",
+      "tu",
+      "ni",
+      "ty",
+      " be",
+      "cause",
+      " your",
+      " ca",
+      "reer",
+      " is",
+      " in",
+      "ter",
+      "na",
+      "tion",
+      "al."
+    ],
+    "exampleSentence": "You didn't miss that promotion opportunity because your career is international.",
+    "exampleTranslation": "Você não perdeu aquela oportunidade de promoção porque sua carreira é internacional."
+  },
+  {
+    "id": "lesson_85_40",
+    "word": "His résumé wasn't so good, but he got the job.",
+    "translation": "O currículo dele não era tão bom, mas ele conseguiu o emprego.",
+    "pronunciation": "/hɪz ˈrɛzʊˌmeɪ ˈwʌzənt soʊ ɡʊd, bʌt hi ɡɑt ðə dʒɑb/",
+    "portuguesePhonetic": "ríz ré-zu-mêi uóz-nt sôu gûd, bât ri gót ðâ djób",
+    "syllables": [
+      "His",
+      " ré",
+      "su",
+      "mé",
+      " wasn't",
+      " so",
+      " good,",
+      " but",
+      " he",
+      " got",
+      " the",
+      " job."
+    ],
+    "exampleSentence": "His résumé wasn't so good, but he got the job.",
+    "exampleTranslation": "O currículo dele não era tão bom, mas ele conseguiu o emprego."
+  },
+  {
+    "id": "lesson_85_41",
+    "word": "The job was near the place I lived, but they didn't pay well.",
+    "translation": "O emprego era perto do lugar onde eu morava, mas eles não pagavam bem.",
+    "pronunciation": "/ðə dʒɑb wʌz nɪər ðə pleɪs aɪ lɪvd, bʌt ðeɪ ˈdɪdənt peɪ wɛl/",
+    "portuguesePhonetic": "ðâ djób uâz nîer ðâ plêis ai lívd, bât ðêi díd-nt pêi uél",
+    "syllables": [
+      "The",
+      " job",
+      " was",
+      " near",
+      " the",
+      " place",
+      " I",
+      " lived,",
+      " but",
+      " they",
+      " didn't",
+      " pay",
+      " well."
+    ],
+    "exampleSentence": "The job was near the place I lived, but they didn't pay well.",
+    "exampleTranslation": "O emprego era perto do lugar onde eu morava, mas eles não pagavam bem."
+  },
+  {
+    "id": "lesson_85_42",
+    "word": "I got a promotion.",
+    "translation": "Eu consegui uma promoção.",
+    "pronunciation": "/aɪ ɡɑt ə prəˈmoʊʃən/",
+    "portuguesePhonetic": "ai gót a pro-môu-chôn",
+    "syllables": [
+      "I",
+      " got",
+      " a",
+      " pro",
+      "mo",
+      "tion."
+    ],
+    "exampleSentence": "I got a promotion.",
+    "exampleTranslation": "Eu consegui uma promoção."
+  },
+  {
+    "id": "lesson_85_43",
+    "word": "They had a career in common.",
+    "translation": "Eles tinham uma carreira em comum.",
+    "pronunciation": "/ðeɪ hæd ə kəˈrɪər ɪn ˈkɑmən/",
+    "portuguesePhonetic": "ðêi réd a ca-rîer ín có-môn",
+    "syllables": [
+      "They",
+      " had",
+      " a",
+      " ca",
+      "reer",
+      " in",
+      " com",
+      "mon."
+    ],
+    "exampleSentence": "They had a career in common.",
+    "exampleTranslation": "Eles tinham uma carreira em comum."
+  },
+  {
+    "id": "lesson_85_44",
+    "word": "What position are you looking for?",
+    "translation": "Que cargo você está procurando?",
+    "pronunciation": "/wʌt pəˈzɪʃən ɑr ju ˈlʊkɪŋ fɔr/",
+    "portuguesePhonetic": "uót po-zí-chôn ár iu lû-quin fór",
+    "syllables": [
+      "What",
+      " po",
+      "si",
+      "tion",
+      " are",
+      " you",
+      " look",
+      "ing",
+      " for?"
+    ],
+    "exampleSentence": "What position are you looking for?",
+    "exampleTranslation": "Que cargo você está procurando?"
+  },
+  {
+    "id": "lesson_85_45",
+    "word": "He worked as a sales manager.",
+    "translation": "Ele trabalhou como gerente de vendas.",
+    "pronunciation": "/hi wɜrkt æz ə seɪlz ˈmænədʒər/",
+    "portuguesePhonetic": "ri uêrct éz a sêilz mǽ-na-djer",
+    "syllables": [
+      "He",
+      " worked",
+      " as",
+      " a",
+      " sales",
+      " man",
+      "a",
+      "ger."
+    ],
+    "exampleSentence": "He worked as a sales manager.",
+    "exampleTranslation": "Ele trabalhou como gerente de vendas."
+  },
+  {
+    "id": "lesson_85_46",
+    "word": "I know him.",
+    "translation": "Eu o conheço.",
+    "pronunciation": "/aɪ noʊ hɪm/",
+    "portuguesePhonetic": "ai nôu rím",
+    "syllables": [
+      "I",
+      " know",
+      " him."
+    ],
+    "exampleSentence": "I know him.",
+    "exampleTranslation": "Eu o conheço."
+  },
+  {
+    "id": "lesson_85_47",
+    "word": "I knew him years ago.",
+    "translation": "Eu o conhecia anos atrás.",
+    "pronunciation": "/aɪ nu hɪm jɪərz əˈɡoʊ/",
+    "portuguesePhonetic": "ai niû rím í-erz a-gôu",
+    "syllables": [
+      "I",
+      " knew",
+      " him",
+      " years",
+      " a",
+      "go."
+    ],
+    "exampleSentence": "I knew him years ago.",
+    "exampleTranslation": "Eu o conhecia anos atrás."
+  },
+  {
+    "id": "lesson_85_48",
+    "word": "I didn't know him.",
+    "translation": "Eu não o conhecia.",
+    "pronunciation": "/aɪ ˈdɪdənt noʊ hɪm/",
+    "portuguesePhonetic": "ai díd-nt nôu rím",
+    "syllables": [
+      "I",
+      " didn't",
+      " know",
+      " him."
+    ],
+    "exampleSentence": "I didn't know him.",
+    "exampleTranslation": "Eu não o conhecia."
+  },
+  {
+    "id": "lesson_85_49",
+    "word": "I work in a hospital.",
+    "translation": "Eu trabalho em um hospital.",
+    "pronunciation": "/aɪ wɜrk ɪn ə ˈhɑspɪtəl/",
+    "portuguesePhonetic": "ai uêrc ín a rós-pi-tôl",
+    "syllables": [
+      "I",
+      " work",
+      " in",
+      " a",
+      " hos",
+      "pi",
+      "tal."
+    ],
+    "exampleSentence": "I work in a hospital.",
+    "exampleTranslation": "Eu trabalho em um hospital."
+  },
+  {
+    "id": "lesson_85_50",
+    "word": "I worked in a hospital.",
+    "translation": "Eu trabalhei em um hospital.",
+    "pronunciation": "/aɪ wɜrkt ɪn ə ˈhɑspɪtəl/",
+    "portuguesePhonetic": "ai uêrct ín a rós-pi-tôl",
+    "syllables": [
+      "I",
+      " worked",
+      " in",
+      " a",
+      " hos",
+      "pi",
+      "tal."
+    ],
+    "exampleSentence": "I worked in a hospital.",
+    "exampleTranslation": "Eu trabalhei em um hospital."
+  },
+  {
+    "id": "lesson_85_51",
+    "word": "I didn't work there.",
+    "translation": "Eu não trabalhei lá.",
+    "pronunciation": "/aɪ ˈdɪdənt wɜrk ðɛr/",
+    "portuguesePhonetic": "ai díd-nt uêrc ðêr",
+    "syllables": [
+      "I",
+      " didn't",
+      " work",
+      " there."
+    ],
+    "exampleSentence": "I didn't work there.",
+    "exampleTranslation": "Eu não trabalhei lá."
+  },
+  {
+    "id": "lesson_85_52",
+    "word": "I live in São Paulo.",
+    "translation": "Eu moro em São Paulo.",
+    "pronunciation": "/aɪ lɪv ɪn saʊ ˈpaʊloʊ/",
+    "portuguesePhonetic": "ai lív ín sãu páu-lou",
+    "syllables": [
+      "I",
+      " live",
+      " in",
+      " São",
+      " Pau",
+      "lo."
+    ],
+    "exampleSentence": "I live in São Paulo.",
+    "exampleTranslation": "Eu moro em São Paulo."
+  },
+  {
+    "id": "lesson_85_53",
+    "word": "I lived in Rio de Janeiro.",
+    "translation": "Eu morei no Rio de Janeiro.",
+    "pronunciation": "/aɪ lɪvd ɪn ˈriːoʊ deɪ dʒəˈnɛəroʊ/",
+    "portuguesePhonetic": "ai lívd ín rî-ou dê dja-nêi-rou",
+    "syllables": [
+      "I",
+      " lived",
+      " in",
+      " Ri",
+      "o",
+      " de",
+      " Ja",
+      "nei",
+      "ro."
+    ],
+    "exampleSentence": "I lived in Rio de Janeiro.",
+    "exampleTranslation": "Eu morei no Rio de Janeiro."
+  },
+  {
+    "id": "lesson_85_54",
+    "word": "I didn't live there.",
+    "translation": "Eu não morei lá.",
+    "pronunciation": "/aɪ ˈdɪdənt lɪv ðɛr/",
+    "portuguesePhonetic": "ai díd-nt lív ðêr",
+    "syllables": [
+      "I",
+      " didn't",
+      " live",
+      " there."
+    ],
+    "exampleSentence": "I didn't live there.",
+    "exampleTranslation": "Eu não morei lá."
+  },
+  {
+    "id": "lesson_85_55",
+    "word": "profession",
+    "translation": "profissão",
+    "pronunciation": "/prəˈfɛʃən/",
+    "portuguesePhonetic": "pro-fé-shôn",
+    "syllables": [
+      "pro",
+      "fes",
+      "sion"
+    ],
+    "exampleSentence": "I work in other professions now.",
+    "exampleTranslation": "Eu trabalho em outras profissões agora."
+  },
+  {
+    "id": "lesson_85_56",
+    "word": "career",
+    "translation": "carreira",
+    "pronunciation": "/kəˈrɪər/",
+    "portuguesePhonetic": "ca-rîer",
+    "syllables": [
+      "ca",
+      "reer"
+    ],
+    "exampleSentence": "You have a great career path.",
+    "exampleTranslation": "Você tem uma ótima trajetória de carreira."
+  },
+  {
+    "id": "lesson_85_57",
+    "word": "résumé",
+    "translation": "currículo",
+    "pronunciation": "/ˈrɛzʊˌmeɪ/",
+    "portuguesePhonetic": "ré-zu-mêi",
+    "syllables": [
+      "ré",
+      "su",
+      "mé"
+    ],
+    "exampleSentence": "Send us your résumé.",
+    "exampleTranslation": "Envie-nos seu currículo."
+  },
+  {
+    "id": "lesson_85_58",
+    "word": "employee",
+    "translation": "funcionário",
+    "pronunciation": "/ɛmˈplɔɪ-i/",
+    "portuguesePhonetic": "em-plói-î",
+    "syllables": [
+      "em",
+      "ploy",
+      "ee"
+    ],
+    "exampleSentence": "They hired a new employee.",
+    "exampleTranslation": "Eles contrataram um novo funcionário."
+  },
+  {
+    "id": "lesson_85_59",
+    "word": "employer",
+    "translation": "empregador",
+    "pronunciation": "/ɛmˈplɔɪər/",
+    "portuguesePhonetic": "em-plói-er",
+    "syllables": [
+      "em",
+      "ploy",
+      "er"
+    ],
+    "exampleSentence": "The employer was very kind.",
+    "exampleTranslation": "O empregador era muito gentil."
+  },
+  {
+    "id": "lesson_85_60",
+    "word": "salary",
+    "translation": "salário",
+    "pronunciation": "/ˈsæləri/",
+    "portuguesePhonetic": "sǽ-lâ-ri",
+    "syllables": [
+      "sal",
+      "a",
+      "ry"
+    ],
+    "exampleSentence": "My salary is deposited on Friday.",
+    "exampleTranslation": "Meu salário é depositado na sexta-feira."
+  },
+  {
+    "id": "lesson_85_61",
+    "word": "benefit",
+    "translation": "benefício",
+    "pronunciation": "/ˈbɛnəfɪt/",
+    "portuguesePhonetic": "bé-ne-fit",
+    "syllables": [
+      "ben",
+      "e",
+      "fit"
+    ],
+    "exampleSentence": "That company offers health benefits.",
+    "exampleTranslation": "Aquela empresa oferece benefícios de saúde."
+  },
+  {
+    "id": "lesson_85_62",
+    "word": "raise",
+    "translation": "aumento salarial",
+    "pronunciation": "/reɪz/",
+    "portuguesePhonetic": "rêiz",
+    "syllables": [
+      "raise"
+    ],
+    "exampleSentence": "He asked for a raise last week.",
+    "exampleTranslation": "Ele pediu um aumento na semana passada."
+  },
+  {
+    "id": "lesson_85_63",
+    "word": "promotion",
+    "translation": "promoção",
+    "pronunciation": "/prəˈmoʊʃən/",
+    "portuguesePhonetic": "pro-môu-chôn",
+    "syllables": [
+      "pro",
+      "mo",
+      "tion"
+    ],
+    "exampleSentence": "I want to get that promotion.",
+    "exampleTranslation": "Eu quero conseguir aquela promoção."
+  },
+  {
+    "id": "lesson_85_64",
+    "word": "opportunity",
+    "translation": "oportunidade",
+    "pronunciation": "/ˌɑpərˈtunəti/",
+    "portuguesePhonetic": "ó-por-tû-ni-di",
+    "syllables": [
+      "op",
+      "por",
+      "tu",
+      "ni",
+      "ty"
+    ],
+    "exampleSentence": "It's a huge opportunity for our sector.",
+    "exampleTranslation": "É uma oportunidade gigante para o nosso setor."
+  },
+  {
+    "id": "lesson_85_65",
+    "word": "minimum wage",
+    "translation": "salário mínimo",
+    "pronunciation": "/ˈmɪnəməm weɪdʒ/",
+    "portuguesePhonetic": "mí-ni-mâm uêidj",
+    "syllables": [
+      "min",
+      "i",
+      "mum",
+      " wage"
+    ],
+    "exampleSentence": "Their minimum wage is higher than ours.",
+    "exampleTranslation": "O salário mínimo deles é mais alto que o nosso."
+  },
+  {
+    "id": "lesson_85_66",
+    "word": "spreadsheet",
+    "translation": "planilha",
+    "pronunciation": "/ˈsprɛdˌʃit/",
+    "portuguesePhonetic": "es-préd-chît",
+    "syllables": [
+      "spread",
+      "sheet"
+    ],
+    "exampleSentence": "Please fill in this spreadsheet.",
+    "exampleTranslation": "Por favor, preencha esta planilha."
+  },
+  {
+    "id": "lesson_85_67",
+    "word": "What do you do for a living?",
+    "translation": "Qual é a sua profissão?",
+    "pronunciation": "/wʌt du ju du fɔr ə ˈlɪvɪŋ/",
+    "portuguesePhonetic": "uót du iu du fór a lí-vin",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " do",
+      " for",
+      " a",
+      " liv",
+      "ing?"
+    ],
+    "exampleSentence": "What do you do for a living?",
+    "exampleTranslation": "Qual é a sua profissão?"
+  },
+  {
+    "id": "lesson_85_68",
+    "word": "I work as an IT Specialist.",
+    "translation": "Eu trabalho como Especialista de TI.",
+    "pronunciation": "/aɪ wɜrk æz ən aɪ-ti ˈspɛʃəlɪst/",
+    "portuguesePhonetic": "ai uêrc éz én ai-tî espé-cha-list",
+    "syllables": [
+      "I",
+      " work",
+      " as",
+      " an",
+      " I",
+      "T",
+      " Spe",
+      "cial",
+      "ist."
+    ],
+    "exampleSentence": "I work as an IT Specialist.",
+    "exampleTranslation": "Eu trabalho como Especialista de TI."
+  },
+  {
+    "id": "lesson_85_69",
+    "word": "I worked for a hospital network.",
+    "translation": "Eu trabalhei para uma rede hospitalar.",
+    "pronunciation": "/aɪ wɜrkt fɔr ə ˈhɑspɪtəl ˈnɛtˌwɜrk/",
+    "portuguesePhonetic": "ai uêrct fór a rós-pi-tôl nét-uêrc",
+    "syllables": [
+      "I",
+      " worked",
+      " for",
+      " a",
+      " hos",
+      "pi",
+      "tal",
+      " net",
+      "work."
+    ],
+    "exampleSentence": "I worked for a hospital network.",
+    "exampleTranslation": "Eu trabalhei para uma rede hospitalar."
+  },
+  {
+    "id": "lesson_85_70",
+    "word": "I got a salary raise last year.",
+    "translation": "Eu recebi um aumento salarial no ano passado.",
+    "pronunciation": "/aɪ ɡɑt ə ˈsæləri reɪz læst jɪər/",
+    "portuguesePhonetic": "ai gót a sǽ-lâ-ri rêiz lést í-er",
+    "syllables": [
+      "I",
+      " got",
+      " a",
+      " sal",
+      "a",
+      "ry",
+      " raise",
+      " last",
+      " year."
+    ],
+    "exampleSentence": "I got a salary raise last year.",
+    "exampleTranslation": "Eu recebi um aumento salarial no ano passado."
+  },
+  {
+    "id": "lesson_85_71",
+    "word": "I didn't know about that opportunity.",
+    "translation": "Eu não sabia daquela oportunidade.",
+    "pronunciation": "/aɪ ˈdɪdənt noʊ əˈbaʊt ðæt ˌɑpərˈtunəti/",
+    "portuguesePhonetic": "ai díd-nt nôu a-báut ðét ó-por-tû-ni-di",
+    "syllables": [
+      "I",
+      " didn't",
+      " know",
+      " a",
+      "bout",
+      " that",
+      " op",
+      "por",
+      "tu",
+      "ni",
+      "ty."
+    ],
+    "exampleSentence": "I didn't know about that opportunity.",
+    "exampleTranslation": "Eu não sabia daquela oportunidade."
+  },
+  {
+    "id": "lesson_85_72",
+    "word": "My employer offered great benefits.",
+    "translation": "Meu empregador oferecia ótimos benefícios.",
+    "pronunciation": "/maɪ ɛmˈplɔɪər ˈɔfərd ɡreɪt ˈbɛnəfɪts/",
+    "portuguesePhonetic": "mái em-plói-er ó-ferd grêit bé-ne-fits",
+    "syllables": [
+      "My",
+      " em",
+      "ploy",
+      "er",
+      " of",
+      "fered",
+      " great",
+      " ben",
+      "e",
+      "fits."
+    ],
+    "exampleSentence": "My employer offered great benefits.",
+    "exampleTranslation": "Meu empregador oferecia ótimos benefícios."
+  },
+  {
+    "id": "lesson_85_73",
+    "word": "I lived near my workplace.",
+    "translation": "Eu morava perto do meu local de trabalho.",
+    "pronunciation": "/aɪ lɪvd nɪər maɪ ˈwɜrkˌpleɪs/",
+    "portuguesePhonetic": "ai lívd nîer mái uêrc-plêis",
+    "syllables": [
+      "I",
+      " lived",
+      " near",
+      " my",
+      " work",
+      "place."
+    ],
+    "exampleSentence": "I lived near my workplace.",
+    "exampleTranslation": "Eu morava perto do meu local de trabalho."
+  },
+  {
+    "id": "lesson_85_74",
+    "word": "You didn't work for my company for ten years.",
+    "translation": "Você não trabalhou para minha empresa por dez anos.",
+    "pronunciation": "/ju ˈdɪdənt wɜrk fɔr maɪ ˈkʌmpəni fɔr tɛn jɪərz/",
+    "portuguesePhonetic": "iu díd-nt uêrc fór mái cảm-pa-ni fór tén í-erz",
+    "syllables": [
+      "You",
+      " didn't",
+      " work",
+      " for",
+      " my",
+      " com",
+      "pa",
+      "ny",
+      " for",
+      " ten",
+      " years."
+    ],
+    "exampleSentence": "You didn't work for my company for ten years.",
+    "exampleTranslation": "Você não trabalhou para minha empresa por dez anos."
+  },
+  {
+    "id": "lesson_85_75",
+    "word": "John and Sam didn't live in Brazil because of their profession.",
+    "translation": "John e Sam não moraram no Brasil por causa da profissão deles.",
+    "pronunciation": "/dʒɑn ænd sæm ˈdɪdənt lɪv ɪn brəˈzɪl bɪˈkɔz ʌv ðɛr prəˈfɛʃən/",
+    "portuguesePhonetic": "djón énd sém díd-nt lív ín bra-zíl bi-cóz âv ðêr pro-fé-shôn",
+    "syllables": [
+      "John",
+      " and",
+      " Sam",
+      " didn't",
+      " live",
+      " in",
+      " Bra",
+      "zil",
+      " be",
+      "cause",
+      " of",
+      " their",
+      " pro",
+      "fes",
+      "sion."
+    ],
+    "exampleSentence": "John and Sam didn't live in Brazil because of their profession.",
+    "exampleTranslation": "John e Sam não moraram no Brasil por causa da profissão deles."
+  },
+  {
+    "id": "lesson_85_76",
+    "word": "Raphael didn't know anything about the raise.",
+    "translation": "Raphael não sabia nada sobre o aumento salarial.",
+    "pronunciation": "/ˈræfeɪəl ˈdɪdənt noʊ ˈɛniˌθɪŋ əˈbaʊt ðə reɪz/",
+    "portuguesePhonetic": "rá-fei-ôl díd-nt nôu é-ni-θin a-báut ðâ rêiz",
+    "syllables": [
+      "Raph",
+      "a",
+      "el",
+      " didn't",
+      " know",
+      " an",
+      "y",
+      "thing",
+      " a",
+      "bout",
+      " the",
+      " raise."
+    ],
+    "exampleSentence": "Raphael didn't know anything about the raise.",
+    "exampleTranslation": "Raphael não sabia nada sobre o aumento salarial."
+  },
+  {
+    "id": "lesson_85_77",
+    "word": "We didn't have an opportunity to work for an international company.",
+    "translation": "Nós não tivemos a oportunidade de trabalhar para uma empresa internacional.",
+    "pronunciation": "/wi ˈdɪdənt hæv ən ˌɑpərˈtunəti tu wɜrk fɔr ən ˌɪntərˈnæʃənəl ˈkʌmpəni/",
+    "portuguesePhonetic": "uí díd-nt rév én ó-por-tû-ni-di tchu uêrc fór én in-ter-né-cho-nôl cảm-pa-ni",
+    "syllables": [
+      "We",
+      " didn't",
+      " have",
+      " an",
+      " op",
+      "por",
+      "tu",
+      "ni",
+      "ty",
+      " to",
+      " work",
+      " for",
+      " an",
+      " in",
+      "ter",
+      "na",
+      "tion",
+      "al",
+      " com",
+      "pa",
+      "ny."
+    ],
+    "exampleSentence": "We didn't have an opportunity to work for an international company.",
+    "exampleTranslation": "Nós não tivemos a oportunidade de trabalhar para uma empresa internacional."
+  },
+  {
+    "id": "lesson_85_78",
+    "word": "Sam didn't have a chance to get a promotion this year.",
+    "translation": "Sam não teve uma chance de conseguir uma promoção este ano.",
+    "pronunciation": "/sæm ˈdɪdənt hæv ə tʃæns tu ɡɛt ə prəˈmoʊʃən ðɪs jɪər/",
+    "portuguesePhonetic": "sém díd-nt rév a tchéns tchu gét a pro-môu-chôn ðís í-er",
+    "syllables": [
+      "Sam",
+      " didn't",
+      " have",
+      " a",
+      " chance",
+      " to",
+      " get",
+      " a",
+      " pro",
+      "mo",
+      "tion",
+      " this",
+      " year."
+    ],
+    "exampleSentence": "Sam didn't have a chance to get a promotion this year.",
+    "exampleTranslation": "Sam não teve uma chance de conseguir uma promoção este ano."
+  },
+  {
+    "id": "lesson_85_79",
+    "word": "My family and I didn't live in Cuba for three years.",
+    "translation": "Minha família e eu não moramos em Cuba por três anos.",
+    "pronunciation": "/maɪ ˈfæməli ænd aɪ ˈdɪdənt lɪv ɪn ˈkjubə fɔr θri jɪərz/",
+    "portuguesePhonetic": "mái fǽ-mi-li énd ai díd-nt lív ín qiû-ba fór θrî í-erz",
+    "syllables": [
+      "My",
+      " fam",
+      "i",
+      "ly",
+      " and",
+      " I",
+      " didn't",
+      " live",
+      " in",
+      " Cu",
+      "ba",
+      " for",
+      " three",
+      " years."
+    ],
+    "exampleSentence": "My family and I didn't live in Cuba for three years.",
+    "exampleTranslation": "Minha família e eu não moramos em Cuba por três anos."
+  },
+  {
+    "id": "lesson_85_80",
+    "word": "John and Max didn't know how many employees they had.",
+    "translation": "John e Max não sabiam quantos funcionários eles tinham.",
+    "pronunciation": "/dʒɑn ænd mæks ˈdɪdənt noʊ haʊ ˈmɛni ɛmˈplɔɪ-iz ðeɪ hæd/",
+    "portuguesePhonetic": "djón énd mécs díd-nt nôu háu mé-ni em-plói-îz ðêi réd",
+    "syllables": [
+      "John",
+      " and",
+      " Max",
+      " didn't",
+      " know",
+      " how",
+      " ma",
+      "ny",
+      " em",
+      "ploy",
+      "ees",
+      " they",
+      " had."
+    ],
+    "exampleSentence": "John and Max didn't know how many employees they had.",
+    "exampleTranslation": "John e Max não sabiam quantos funcionários eles tinham."
+  },
+  {
+    "id": "lesson_85_81",
+    "word": "I didn't live in Asia when I was young.",
+    "translation": "Eu não morei na Ásia quando era jovem.",
+    "pronunciation": "/aɪ ˈdɪdənt lɪv ɪn ˈeɪʒə wɛn aɪ wʌz jʌŋ/",
+    "portuguesePhonetic": "ai díd-nt lív ín êi-ja uén ai uâz iân",
+    "syllables": [
+      "I",
+      " didn't",
+      " live",
+      " in",
+      " A",
+      "sia",
+      " when",
+      " I",
+      " was",
+      " young."
+    ],
+    "exampleSentence": "I didn't live in Asia when I was young.",
+    "exampleTranslation": "Eu não morei na Ásia quando era jovem."
+  },
+  {
+    "id": "lesson_85_82",
+    "word": "Peter didn't know a lot about chemistry when he was at school.",
+    "translation": "Peter não sabia muito sobre química quando estava na escola.",
+    "pronunciation": "/ˈpitər ˈdɪdənt noʊ ə lɑt əˈbaʊt ˈkɛmɪstri wɛn hi wʌz æt skul/",
+    "portuguesePhonetic": "pî-ter díd-nt nôu a lót a-báut qué-mis-tri uén ri uâz ét scûl",
+    "syllables": [
+      "Pe",
+      "ter",
+      " didn't",
+      " know",
+      " a",
+      " lot",
+      " a",
+      "bout",
+      " chem",
+      "is",
+      "try",
+      " when",
+      " he",
+      " was",
+      " at",
+      " school."
+    ],
+    "exampleSentence": "Peter didn't know a lot about chemistry when he was at school.",
+    "exampleTranslation": "Peter não sabia muito sobre química quando estava na escola."
+  },
+  {
+    "id": "lesson_85_83",
+    "word": "They weren't best friends before the accident.",
+    "translation": "Eles não eram melhores amigos antes do acidente.",
+    "pronunciation": "/ðeɪ ˈwɜrənt bɛst frɛndz bɪˈfɔr ði ˈæksədənt/",
+    "portuguesePhonetic": "ðêi uêrn-t bést fréndz bi-fór ðî á-si-dent",
+    "syllables": [
+      "They",
+      " weren't",
+      " best",
+      " friends",
+      " be",
+      "fore",
+      " the",
+      " ac",
+      "ci",
+      "dent."
+    ],
+    "exampleSentence": "They weren't best friends before the accident.",
+    "exampleTranslation": "Eles não eram melhores amigos antes do acidente."
+  },
+  {
+    "id": "lesson_85_84",
+    "word": "I didn't know about the raise.",
+    "translation": "Eu não sabia sobre o aumento salarial.",
+    "pronunciation": "/aɪ ˈdɪdənt noʊ əˈbaʊt ðə reɪz/",
+    "portuguesePhonetic": "ai díd-nt nôu a-báut ðâ rêiz",
+    "syllables": [
+      "I",
+      " didn't",
+      " know",
+      " a",
+      "bout",
+      " the",
+      " raise."
+    ],
+    "exampleSentence": "I didn't know about the raise.",
+    "exampleTranslation": "Eu não sabia sobre o aumento salarial."
+  },
+  {
+    "id": "lesson_85_85",
+    "word": "Tim didn't have an opportunity when he was working for my father.",
+    "translation": "Tim não teve uma oportunidade quando trabalhava para meu pai.",
+    "pronunciation": "/tɪm ˈdɪdənt hæv ən ˌɑpərˈtunəti wɛn hi wʌz ˈwɜrkɪŋ fɔr maɪ ˈfɑðər/",
+    "portuguesePhonetic": "tím díd-nt rév én ó-por-tû-ni-di uén ri uâz uêr-quin fór mái fá-ðer",
+    "syllables": [
+      "Tim",
+      " didn't",
+      " have",
+      " an",
+      " op",
+      "por",
+      "tu",
+      "ni",
+      "ty",
+      " when",
+      " he",
+      " was",
+      " work",
+      "ing",
+      " for",
+      " my",
+      " fa",
+      "ther."
+    ],
+    "exampleSentence": "Tim didn't have an opportunity when he was working for my father.",
+    "exampleTranslation": "Tim não teve uma oportunidade quando trabalhava para meu pai."
+  },
+  {
+    "id": "lesson_85_86",
+    "word": "Carl was looking for a job abroad because he didn't have a choice.",
+    "translation": "Carl estava procurando um emprego no exterior porque não tinha escolha.",
+    "pronunciation": "/kɑrl wʌz ˈlʊkɪŋ fɔr ə dʒɑb əˈbrɔd bɪˈfɔz hi ˈdɪdənt hæv ə tʃɔɪs/",
+    "portuguesePhonetic": "cárl uâz lû-quin fór a djób a-bród bi-cóz ri díd-nt rév a tchóis",
+    "syllables": [
+      "Carl",
+      " was",
+      " look",
+      "ing",
+      " for",
+      " a",
+      " job",
+      " a",
+      "broad",
+      " be",
+      "cause",
+      " he",
+      " didn't",
+      " have",
+      " a",
+      " choice."
+    ],
+    "exampleSentence": "Carl was looking for a job abroad because he didn't have a choice.",
+    "exampleTranslation": "Carl estava procurando um emprego no exterior porque não tinha escolha."
+  },
+  {
+    "id": "lesson_85_87",
+    "word": "They didn't live in Atlanta last year.",
+    "translation": "Eles não moraram em Atlanta no ano passado.",
+    "pronunciation": "/ðeɪ ˈdɪdənt lɪv ɪn ætˈlæntə læst jɪər/",
+    "portuguesePhonetic": "ðêi díd-nt lív ín ét-lén-ta lést í-er",
+    "syllables": [
+      "They",
+      " didn't",
+      " live",
+      " in",
+      " At",
+      "lan",
+      "ta",
+      " last",
+      " year."
+    ],
+    "exampleSentence": "They didn't live in Atlanta last year.",
+    "exampleTranslation": "Eles não moraram em Atlanta no ano passado."
+  },
+  {
+    "id": "lesson_85_88",
+    "word": "The employer pays a good salary, but last week we didn't get a raise.",
+    "translation": "O empregador paga um bom salário, mas na semana passada nós não recebemos um aumento.",
+    "pronunciation": "/ðə ɛmˈplɔɪər peɪz ə ɡʊd ˈsæləri, bʌt læst wik wi ˈdɪdənt ɡɛt ə reɪz/",
+    "portuguesePhonetic": "ðâ em-plói-er pêiz a gûd sǽ-lâ-ri, bât lést uîc uí díd-nt gét a rêiz",
+    "syllables": [
+      "The",
+      " em",
+      "ploy",
+      "er",
+      " pays",
+      " a",
+      " good",
+      " sal",
+      "a",
+      "ry,",
+      " but",
+      " last",
+      " week",
+      " we",
+      " didn't",
+      " get",
+      " a",
+      " raise."
+    ],
+    "exampleSentence": "The employer pays a good salary, but last week we didn't get a raise.",
+    "exampleTranslation": "O empregador paga um bom salário, mas na semana passada nós não recebemos um aumento."
+  },
+  {
+    "id": "lesson_85_89",
+    "word": "I didn't work for that company two years ago.",
+    "translation": "Eu não trabalhei para aquela empresa há dois anos.",
+    "pronunciation": "/aɪ ˈdɪdənt wɜrk fɔr ðæt ˈkʌmpəni tu jɪərz əˈɡoʊ/",
+    "portuguesePhonetic": "ai díd-nt uêrc fór ðét cảm-pa-ni tû í-erz a-gôu",
+    "syllables": [
+      "I",
+      " didn't",
+      " work",
+      " for",
+      " that",
+      " com",
+      "pa",
+      "ny",
+      " two",
+      " years",
+      " a",
+      "go."
+    ],
+    "exampleSentence": "I didn't work for that company two years ago.",
+    "exampleTranslation": "Eu não trabalhei para aquela empresa há dois anos."
+  },
+  {
+    "id": "lesson_85_90",
+    "word": "He didn't live abroad because of his family.",
+    "translation": "Ele não morou no exterior por causa da família dele.",
+    "pronunciation": "/hi ˈdɪdənt lɪv əˈbrɔd bɪˈkɔz ʌv hɪz ˈfæməli/",
+    "portuguesePhonetic": "ri díd-nt lív a-bród bi-cóz âv ríz fǽ-mi-li",
+    "syllables": [
+      "He",
+      " didn't",
+      " live",
+      " a",
+      "broad",
+      " be",
+      "cause",
+      " of",
+      " his",
+      " fam",
+      "i",
+      "ly."
+    ],
+    "exampleSentence": "He didn't live abroad because of his family.",
+    "exampleTranslation": "Ele não morou no exterior por causa da família dele."
+  },
+  {
+    "id": "lesson_85_91",
+    "word": "Kate was looking for a job, but didn't know where her résumé was.",
+    "translation": "Kate estava procurando um emprego, mas não sabia onde estava seu currículo.",
+    "pronunciation": "/keɪt wʌz ˈlʊkɪŋ fɔr ə dʒɑb, bʌt ˈdɪdənt noʊ wɛr hɜr ˈrɛzʊˌmeɪ wʌz/",
+    "portuguesePhonetic": "quêit uâz lû-quin fór a djób, bât díd-nt nôu uêr rêr ré-zu-mêi uâz",
+    "syllables": [
+      "Kate",
+      " was",
+      " look",
+      "ing",
+      " for",
+      " a",
+      " job,",
+      " but",
+      " didn't",
+      " know",
+      " where",
+      " her",
+      " ré",
+      "su",
+      "mé",
+      " was."
+    ],
+    "exampleSentence": "Kate was looking for a job, but didn't know where her résumé was.",
+    "exampleTranslation": "Kate estava procurando um emprego, mas não sabia onde estava seu currículo."
+  },
+  {
+    "id": "lesson_85_92",
+    "word": "I worked. / I didn't work.",
+    "translation": "Eu trabalhei. / Eu não trabalhei.",
+    "pronunciation": "/aɪ wɜrkt / aɪ ˈdɪdənt wɜrk/",
+    "portuguesePhonetic": "ai uêrct / ai díd-nt uêrc",
+    "syllables": [
+      "I",
+      " worked.",
+      " /",
+      " I",
+      " didn't",
+      " work."
+    ],
+    "exampleSentence": "I worked, but he didn't work.",
+    "exampleTranslation": "Eu trabalhei, mas ele não trabalhou."
+  },
+  {
+    "id": "lesson_85_93",
+    "word": "They lived there. / They didn't live there.",
+    "translation": "Eles moraram lá. / Eles não moraram lá.",
+    "pronunciation": "/ðeɪ lɪvd ðɛr / ðeɪ ˈdɪdənt lɪv ðɛr/",
+    "portuguesePhonetic": "ðêi lívd ðêr / ðêi díd-nt lív ðêr",
+    "syllables": [
+      "They",
+      " lived",
+      " there.",
+      " /",
+      " They",
+      " didn't",
+      " live",
+      " there."
+    ],
+    "exampleSentence": "They lived there, but we didn't live there.",
+    "exampleTranslation": "Eles moraram lá, mas nós não moramos lá."
+  },
+  {
+    "id": "lesson_85_94",
+    "word": "He knew the answer. / He didn't know the answer.",
+    "translation": "Ele sabia a resposta. / Ele não sabia a resposta.",
+    "pronunciation": "/hi nu ði ˈænsər / hi ˈdɪdənt noʊ ði ˈænsər/",
+    "portuguesePhonetic": "ri niû ðî án-ser / ri díd-nt nôu ðî án-ser",
+    "syllables": [
+      "He",
+      " knew",
+      " the",
+      " an",
+      "swer.",
+      " /",
+      " He",
+      " didn't",
+      " know",
+      " the",
+      " an",
+      "swer."
+    ],
+    "exampleSentence": "He knew the answer, but they didn't know the answer.",
+    "exampleTranslation": "Ele sabia a resposta, mas eles não sabiam a resposta."
+  },
+  {
+    "id": "lesson_85_95",
+    "word": "We had a chance. / We didn't have a chance.",
+    "translation": "Nós tivemos uma chance. / Nós não tivemos uma chance.",
+    "pronunciation": "/wi hæd ə tʃæns / wi ˈdɪdənt hæv ə tʃæns/",
+    "portuguesePhonetic": "uí réd a tchéns / uí díd-nt rév a tchéns",
+    "syllables": [
+      "We",
+      " had",
+      " a",
+      " chance.",
+      " /",
+      " We",
+      " didn't",
+      " have",
+      " a",
+      " chance."
+    ],
+    "exampleSentence": "We had a chance, but they didn't have a chance.",
+    "exampleTranslation": "Nós tivemos uma chance, mas eles não tiveram uma chance."
+  },
+  {
+    "id": "lesson_85_96",
+    "word": "I worked for IBM. / I didn't work for IBM.",
+    "translation": "Eu trabalhei para a IBM. / Eu não trabalhei para a IBM.",
+    "pronunciation": "/aɪ wɜrkt fɔr aɪ-bi-ɛm / aɪ ˈdɪdənt wɜrk fɔr aɪ-bi-ɛm/",
+    "portuguesePhonetic": "ai uêrct fór ai-bî-ém / ai díd-nt uêrc fór ai-bî-ém",
+    "syllables": [
+      "I",
+      " worked",
+      " for",
+      " I",
+      "B",
+      "M.",
+      " /",
+      " I",
+      " didn't",
+      " work",
+      " for",
+      " I",
+      "B",
+      "M."
+    ],
+    "exampleSentence": "I worked for IBM, but my brother didn't work for IBM.",
+    "exampleTranslation": "Eu trabalhei para a IBM, mas meu irmão não trabalhou para a IBM."
+  },
+  {
+    "id": "lesson_85_97",
+    "word": "She lived in Canada. / She didn't live in Canada.",
+    "translation": "Ela morou no Canadá. / Ela não morou no Canadá.",
+    "pronunciation": "/ʃi lɪvd ɪn ˈkænədə / ʃi ˈdɪdənt lɪv ɪn ˈkænədə/",
+    "portuguesePhonetic": "chî lívd ín cǽ-na-da / chî díd-nt lív ín cǽ-na-da",
+    "syllables": [
+      "She",
+      " lived",
+      " in",
+      " Can",
+      "a",
+      "da.",
+      " /",
+      " She",
+      " didn't",
+      " live",
+      " in",
+      " Can",
+      "a",
+      "da."
+    ],
+    "exampleSentence": "She lived in Canada, but they didn't live in Canada.",
+    "exampleTranslation": "Ela morou no Canadá, mas eles não moraram no Canadá."
+  },
+  {
+    "id": "lesson_85_98",
+    "word": "They knew the manager. / They didn't know the manager.",
+    "translation": "Eles conheciam o gerente. / Eles não conheciam o gerente.",
+    "pronunciation": "/ðeɪ nu ðə ˈmænədʒər / ðeɪ ˈdɪdənt noʊ ðə ˈmænədʒər/",
+    "portuguesePhonetic": "ðêi niû ðâ mǽ-na-djer / ðêi díd-nt nôu ðâ mǽ-na-djer",
+    "syllables": [
+      "They",
+      " knew",
+      " the",
+      " man",
+      "a",
+      "ger.",
+      " /",
+      " They",
+      " didn't",
+      " know",
+      " the",
+      " man",
+      "a",
+      "ger."
+    ],
+    "exampleSentence": "They knew the manager, but I didn't know the manager.",
+    "exampleTranslation": "Eles conheciam o gerente, mas eu não conhecia o gerente."
+  },
+  {
+    "id": "lesson_85_99",
+    "word": "He was happy. / He wasn't happy.",
+    "translation": "Ele estava feliz. / Ele não estava feliz.",
+    "pronunciation": "/hi wʌz ˈhæpi / hi ˈwʌzənt ˈhæpi/",
+    "portuguesePhonetic": "ri uâz rǽ-pi / ri uóz-nt rǽ-pi",
+    "syllables": [
+      "He",
+      " was",
+      " hap",
+      "py.",
+      " /",
+      " He",
+      " wasn't",
+      " hap",
+      "py."
+    ],
+    "exampleSentence": "He was happy, but they weren't happy.",
+    "exampleTranslation": "Ele estava feliz, mas eles não estavam felizes."
+  },
+  {
+    "id": "lesson_85_100",
+    "word": "They were friends. / They weren't friends.",
+    "translation": "Eles eram amigos. / Eles não eram amigos.",
+    "pronunciation": "/ðeɪ wɜr frɛndz / ðeɪ wɜrnt frɛndz/",
+    "portuguesePhonetic": "ðêi uêr fréndz / ðêi uêrn-t fréndz",
+    "syllables": [
+      "They",
+      " were",
+      " friends.",
+      " /",
+      " They",
+      " weren't",
+      " friends."
+    ],
+    "exampleSentence": "They were friends, but we weren't friends.",
+    "exampleTranslation": "Eles eram amigos, mas nós não éramos amigos."
+  },
+  {
+    "id": "lesson_85_101",
+    "word": "They were best friends.",
+    "translation": "Eles eram melhores amigos.",
+    "pronunciation": "/ðeɪ wɜr bɛst frɛndz/",
+    "portuguesePhonetic": "ðêi uêr bést fréndz",
+    "syllables": [
+      "They",
+      " were",
+      " best",
+      " friends."
+    ],
+    "exampleSentence": "They were best friends.",
+    "exampleTranslation": "Eles eram melhores amigos."
+  },
+  {
+    "id": "lesson_85_102",
+    "word": "They weren't best friends.",
+    "translation": "Eles não eram melhores amigos.",
+    "pronunciation": "/ðeɪ wɜrnt bɛst frɛndz/",
+    "portuguesePhonetic": "ðêi uêrn-t bést fréndz",
+    "syllables": [
+      "They",
+      " weren't",
+      " best",
+      " friends."
+    ],
+    "exampleSentence": "They weren't best friends.",
+    "exampleTranslation": "Eles não eram melhores amigos."
+  }
+]

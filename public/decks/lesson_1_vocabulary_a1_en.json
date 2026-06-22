@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_1",
+    "word": "a house",
+    "translation": "uma casa",
+    "pronunciation": "/ə haʊs/",
+    "portuguesePhonetic": "[a ráus]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_2",
+    "word": "a car",
+    "translation": "um carro",
+    "pronunciation": "/ə kɑːr/",
+    "portuguesePhonetic": "[a kár]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_3",
+    "word": "a bicycle",
+    "translation": "uma bicicleta",
+    "pronunciation": "/ə ˈbaɪsɪkl̩/",
+    "portuguesePhonetic": "[a báissikou]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_4",
+    "word": "a book",
+    "translation": "um livro",
+    "pronunciation": "/ə bʊk/",
+    "portuguesePhonetic": "[a búk]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_5",
+    "word": "a pen",
+    "translation": "uma caneta",
+    "pronunciation": "/ə pɛn/",
+    "portuguesePhonetic": "[a pén]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_6",
+    "word": "a notebook",
+    "translation": "um caderno",
+    "pronunciation": "/ə ˈnoʊtbʊk/",
+    "portuguesePhonetic": "[a nôutbuk]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_7",
+    "word": "a backpack",
+    "translation": "uma mochila",
+    "pronunciation": "/ə ˈbækpæk/",
+    "portuguesePhonetic": "[a békpék]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_8",
+    "word": "a watch",
+    "translation": "um relógio (de pulso)",
+    "pronunciation": "/ə wɑːtʃ/",
+    "portuguesePhonetic": "[a uátch]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_9",
+    "word": "a computer",
+    "translation": "um computador",
+    "pronunciation": "/ə kəmˈpjuːtər/",
+    "portuguesePhonetic": "[a kompiúter]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_10",
+    "word": "a TV",
+    "translation": "uma TV / televisão",
+    "pronunciation": "/ə ˌtiːˈviː/",
+    "portuguesePhonetic": "[a ti-ví]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_11",
+    "word": "glasses",
+    "translation": "óculos",
+    "pronunciation": "/ˈɡlæsɪz/",
+    "portuguesePhonetic": "[glésiz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_12",
+    "word": "shoes",
+    "translation": "sapatos",
+    "pronunciation": "/ʃuːz/",
+    "portuguesePhonetic": "[chúz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_13",
+    "word": "a wallet",
+    "translation": "uma carteira",
+    "pronunciation": "/ə ˈwɑːlɪt/",
+    "portuguesePhonetic": "[a uálet]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_14",
+    "word": "a key",
+    "translation": "uma chave",
+    "pronunciation": "/ə kiː/",
+    "portuguesePhonetic": "[a kí]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_15",
+    "word": "a mobile phone",
+    "translation": "um celular (EUA: \"cell phone\")",
+    "pronunciation": "/ə ˈmoʊbl̩ foʊn/",
+    "portuguesePhonetic": "[a môubou fôun]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_16",
+    "word": "headphones",
+    "translation": "fones de ouvido",
+    "pronunciation": "/ˈhɛdfoʊnz/",
+    "portuguesePhonetic": "[rrédfounz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_17",
+    "word": "an umbrella",
+    "translation": "um guarda-chuva",
+    "pronunciation": "/ən ʌmˈbrɛlə/",
+    "portuguesePhonetic": "[an âmbréla]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_18",
+    "word": "a passport",
+    "translation": "um passaporte",
+    "pronunciation": "/ə ˈpæspɔːrt/",
+    "portuguesePhonetic": "[a pésport]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_19",
+    "word": "a hat",
+    "translation": "um chapéu",
+    "pronunciation": "/ə hæt/",
+    "portuguesePhonetic": "[a rrét]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_20",
+    "word": "a bottle of water",
+    "translation": "uma garrafa de água",
+    "pronunciation": "/ə ˈbɑːtl̩ əv ˈwɔːtər/",
+    "portuguesePhonetic": "[a bárou ov uóter]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_21",
+    "word": "a charger",
+    "translation": "um carregador",
+    "pronunciation": "/ə ˈtʃɑːrdʒər/",
+    "portuguesePhonetic": "[a tchárdjer]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_22",
+    "word": "sunglasses",
+    "translation": "óculos de sol",
+    "pronunciation": "/ˈsʌnɡlæsɪz/",
+    "portuguesePhonetic": "[sânglésiz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_23",
+    "word": "an ID card",
+    "translation": "um documento de identidade",
+    "pronunciation": "/ən ˌaɪˈdiː kɑːrd/",
+    "portuguesePhonetic": "[an ai-dí kárd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_24",
+    "word": "a coat",
+    "translation": "um casaco",
+    "pronunciation": "/ə koʊt/",
+    "portuguesePhonetic": "[a kôut]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_25",
+    "word": "a bag",
+    "translation": "uma bolsa / sacola",
+    "pronunciation": "/ə bæɡ/",
+    "portuguesePhonetic": "[a bég]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_26",
+    "word": "I need my keys.",
+    "translation": "Preciso das minhas chaves.",
+    "pronunciation": "/aɪ niːd maɪ kiːz/",
+    "portuguesePhonetic": "[ái níd mái kíz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_27",
+    "word": "My wallet is in my backpack.",
+    "translation": "Minha carteira está na minha mochila.",
+    "pronunciation": "/maɪ ˈwɑːlɪt ɪz ɪn maɪ ˈbækpæk/",
+    "portuguesePhonetic": "[mái uálet iz in mái békpék]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_28",
+    "word": "I take my umbrella.",
+    "translation": "Eu pego meu guarda-chuva.",
+    "pronunciation": "/aɪ teɪk maɪ ʌmˈbrɛlə/",
+    "portuguesePhonetic": "[ái têik mái âmbréla]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_29",
+    "word": "I put on my hat.",
+    "translation": "Eu coloco meu chapéu.",
+    "pronunciation": "/aɪ pʊt ɑːn maɪ hæt/",
+    "portuguesePhonetic": "[ái pút ón mái rrét]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_30",
+    "word": "I lock the house.",
+    "translation": "Eu tranco a casa.",
+    "pronunciation": "/aɪ lɑːk ðə haʊs/",
+    "portuguesePhonetic": "[ái lók dha ráus]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_31",
+    "word": "I get in the car.",
+    "translation": "Eu entro no carro.",
+    "pronunciation": "/aɪ ɡɛt ɪn ðə kɑːr/",
+    "portuguesePhonetic": "[ái guét in dha kár]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_32",
+    "word": "I ride my bicycle.",
+    "translation": "Eu ando de bicicleta.",
+    "pronunciation": "/aɪ raɪd maɪ ˈbaɪsɪkl̩/",
+    "portuguesePhonetic": "[ái ráid mái báissikou]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_33",
+    "word": "I wear my headphones.",
+    "translation": "Eu uso meus fones de ouvido.",
+    "pronunciation": "/aɪ wɛr maɪ ˈhɛdfoʊnz/",
+    "portuguesePhonetic": "[ái uér mái rrédfounz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_34",
+    "word": "I check my watch.",
+    "translation": "Eu olho meu relógio.",
+    "pronunciation": "/aɪ tʃɛk maɪ wɑːtʃ/",
+    "portuguesePhonetic": "[ái tchék mái uátch]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_35",
+    "word": "I use my mobile phone.",
+    "translation": "Eu uso meu celular.",
+    "pronunciation": "/aɪ juːz maɪ ˈmoʊbl̩ foʊn/",
+    "portuguesePhonetic": "[ái iúz mái môubou fôun]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_36",
+    "word": "I open my computer.",
+    "translation": "Eu abro meu computador.",
+    "pronunciation": "/aɪ ˈoʊpən maɪ kəmˈpjuːtər/",
+    "portuguesePhonetic": "[ái ôupan mái kompiúter]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_37",
+    "word": "I write in my notebook.",
+    "translation": "Eu escrevo no meu caderno.",
+    "pronunciation": "/aɪ raɪt ɪn maɪ ˈnoʊtbʊk/",
+    "portuguesePhonetic": "[ái ráit in mái nôutbuk]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_38",
+    "word": "I read a book.",
+    "translation": "Eu leio um livro.",
+    "pronunciation": "/aɪ riːd ə bʊk/",
+    "portuguesePhonetic": "[ái ríd a búk]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_39",
+    "word": "I need a pen.",
+    "translation": "Eu preciso de uma caneta.",
+    "pronunciation": "/aɪ niːd ə pɛn/",
+    "portuguesePhonetic": "[ái níd a pén]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_40",
+    "word": "I wear my glasses.",
+    "translation": "Eu uso meus óculos.",
+    "pronunciation": "/aɪ wɛr maɪ ˈɡlæsɪz/",
+    "portuguesePhonetic": "[ái uér mái glésiz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_41",
+    "word": "I watch TV.",
+    "translation": "Eu assisto TV.",
+    "pronunciation": "/aɪ wɑːtʃ ˌtiːˈviː/",
+    "portuguesePhonetic": "[ái uátch ti-ví]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_42",
+    "word": "I take off my shoes.",
+    "translation": "Eu tiro meus sapatos.",
+    "pronunciation": "/aɪ teɪk ɔːf maɪ ʃuːz/",
+    "portuguesePhonetic": "[ái têik óf mái chúz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_43",
+    "word": "I charge my phone.",
+    "translation": "Eu carrego meu celular.",
+    "pronunciation": "/aɪ tʃɑːrdʒ maɪ foʊn/",
+    "portuguesePhonetic": "[ái tchárdj mái fôun]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_44",
+    "word": "I drink a bottle of water.",
+    "translation": "Eu bebo uma garrafa de água.",
+    "pronunciation": "/aɪ drɪŋk ə ˈbɑːtl̩ əv ˈwɔːtər/",
+    "portuguesePhonetic": "[ái drínk a bárou ov uóter]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_45",
+    "word": "I have my passport.",
+    "translation": "Eu tenho meu passaporte.",
+    "pronunciation": "/aɪ hæv maɪ ˈpæspɔːrt/",
+    "portuguesePhonetic": "[ái rrév mái pésport]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_46",
+    "word": "My bag is heavy.",
+    "translation": "Minha bolsa está pesada.",
+    "pronunciation": "/maɪ bæɡ ɪz ˈhɛvi/",
+    "portuguesePhonetic": "[mái bég iz rrévi]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_47",
+    "word": "I show my ID card.",
+    "translation": "Eu mostro meu documento.",
+    "pronunciation": "/aɪ ʃoʊ maɪ ˌaɪˈdiː kɑːrd/",
+    "portuguesePhonetic": "[ái chôu mái ai-dí kárd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_48",
+    "word": "I wear my coat.",
+    "translation": "Eu visto meu casaco.",
+    "pronunciation": "/aɪ wɛr maɪ koʊt/",
+    "portuguesePhonetic": "[ái uér mái kôut]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_49",
+    "word": "I bring my umbrella because it's raining.",
+    "translation": "Eu levo meu guarda-chuva porque está chovendo.",
+    "pronunciation": "/aɪ brɪŋ maɪ ʌmˈbrɛlə bɪˈkɔːz ɪts ˈreɪnɪŋ/",
+    "portuguesePhonetic": "[ái brín mái âmbréla bikóz íts rrêinin]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_50",
+    "word": "I wear sunglasses in the sun.",
+    "translation": "Eu uso óculos de sol no sol.",
+    "pronunciation": "/aɪ wɛr ˈsʌnɡlæsɪz ɪn ðə sʌn/",
+    "portuguesePhonetic": "[ái uér sânglésiz in dha sân]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_51",
+    "word": "I have a car.",
+    "translation": "Eu tenho um carro.",
+    "pronunciation": "/aɪ hæv ə kɑːr/",
+    "portuguesePhonetic": "[ái rrév a kár]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_52",
+    "word": "She reads a book.",
+    "translation": "Ela lê um livro.",
+    "pronunciation": "/ʃiː riːdz ə bʊk/",
+    "portuguesePhonetic": "[chí rídz a búk]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_53",
+    "word": "He needs a pen.",
+    "translation": "Ele precisa de uma caneta.",
+    "pronunciation": "/hiː niːdz ə pɛn/",
+    "portuguesePhonetic": "[rrí nídz a pén]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_54",
+    "word": "We watch TV.",
+    "translation": "Nós assistimos TV.",
+    "pronunciation": "/wiː wɑːtʃ ˌtiːˈviː/",
+    "portuguesePhonetic": "[uí uátch ti-ví]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_55",
+    "word": "My shoes are new.",
+    "translation": "Meus sapatos são novos.",
+    "pronunciation": "/maɪ ʃuːz ɑːr nuː/",
+    "portuguesePhonetic": "[mái chúz ár niú]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_56",
+    "word": "The house is big.",
+    "translation": "A casa é grande.",
+    "pronunciation": "/ðə haʊs ɪz bɪɡ/",
+    "portuguesePhonetic": "[dha ráus iz bíg]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_57",
+    "word": "Where is my wallet?",
+    "translation": "Onde está minha carteira?",
+    "pronunciation": "/wɛr ɪz maɪ ˈwɑːlɪt/",
+    "portuguesePhonetic": "[uér iz mái uálet]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_58",
+    "word": "I don't have my keys.",
+    "translation": "Eu não tenho minhas chaves.",
+    "pronunciation": "/aɪ doʊnt hæv maɪ kiːz/",
+    "portuguesePhonetic": "[ái dôunt rrév mái kíz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_59",
+    "word": "Do you have a bicycle?",
+    "translation": "Você tem uma bicicleta?",
+    "pronunciation": "/duː juː hæv ə ˈbaɪsɪkl̩/",
+    "portuguesePhonetic": "[dú iú rrév a báissikou]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_60",
+    "word": "Is this your umbrella?",
+    "translation": "Este é o seu guarda-chuva?",
+    "pronunciation": "/ɪz ðɪs jɔːr ʌmˈbrɛlə/",
+    "portuguesePhonetic": "[iz dhis iór âmbréla]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_61",
+    "word": "He doesn't wear glasses.",
+    "translation": "Ele não usa óculos.",
+    "pronunciation": "/hiː ˈdʌznt wɛr ˈɡlæsɪz/",
+    "portuguesePhonetic": "[rrí dâznt uér glésiz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_62",
+    "word": "Why is your backpack open?",
+    "translation": "Por que sua mochila está aberta?",
+    "pronunciation": "/waɪ ɪz jɔːr ˈbækpæk ˈoʊpən/",
+    "portuguesePhonetic": "[uái iz iór békpék ôupan]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_63",
+    "word": "I take my umbrella because it's raining.",
+    "translation": "Eu pego meu guarda-chuva porque está chovendo.",
+    "pronunciation": "/aɪ teɪk maɪ ʌmˈbrɛlə bɪˈkɔːz ɪts ˈreɪnɪŋ/",
+    "portuguesePhonetic": "[ái têik mái âmbréla bikóz íts rrêinin]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_64",
+    "word": "She is using her computer now.",
+    "translation": "Ela está usando o computador dela agora.",
+    "pronunciation": "/ʃiː ɪz ˈjuːzɪŋ hɜːr kəmˈpjuːtər naʊ/",
+    "portuguesePhonetic": "[chí iz iúzin rrâr kompiúter náu]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_65",
+    "word": "I bought a new watch yesterday.",
+    "translation": "Eu comprei um relógio novo ontem.",
+    "pronunciation": "/aɪ bɔːt ə nuː wɑːtʃ ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[ái bót a niú uátch iéster dei]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_66",
+    "word": "We were reading our books when you called.",
+    "translation": "Estávamos lendo nossos livros quando você ligou.",
+    "pronunciation": "/wiː wɜːr ˈriːdɪŋ aʊər bʊks wɛn juː kɔːld/",
+    "portuguesePhonetic": "[uí uâr rídin áuer búks uén iú kóld]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_67",
+    "word": "He lost his passport at the airport.",
+    "translation": "Ele perdeu o passaporte no aeroporto.",
+    "pronunciation": "/hiː lɔːst hɪz ˈpæspɔːrt æt ðə ˈɛrpɔːrt/",
+    "portuguesePhonetic": "[rrí lóst rriz pésport ét dhi érport]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_68",
+    "word": "I can't find my phone, but I have my wallet.",
+    "translation": "Não acho meu celular, mas tenho minha carteira.",
+    "pronunciation": "/aɪ kænt faɪnd maɪ foʊn bʌt aɪ hæv maɪ ˈwɑːlɪt/",
+    "portuguesePhonetic": "[ái ként fáind mái fôun bât ái rrév mái uálet]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_69",
+    "word": "She always wears her headphones when she studies.",
+    "translation": "Ela sempre usa os fones quando estuda.",
+    "pronunciation": "/ʃiː ˈɔːlweɪz wɛrz hɜːr ˈhɛdfoʊnz wɛn ʃiː ˈstʌdiz/",
+    "portuguesePhonetic": "[chí ólueiz uérz rrâr rrédfounz uén chí stâdiz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_70",
+    "word": "I will buy a new computer because mine is old.",
+    "translation": "Vou comprar um computador novo porque o meu é velho.",
+    "pronunciation": "/aɪ wɪl baɪ ə nuː kəmˈpjuːtər bɪˈkɔːz maɪn ɪz oʊld/",
+    "portuguesePhonetic": "[ái uíou bái a niú kompiúter bikóz máin iz ôuld]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_71",
+    "word": "If it rains, I'll take my umbrella and my coat.",
+    "translation": "Se chover, vou levar meu guarda-chuva e meu casaco.",
+    "pronunciation": "/ɪf ɪt reɪnz aɪl teɪk maɪ ʌmˈbrɛlə ænd maɪ koʊt/",
+    "portuguesePhonetic": "[if ít rêinz áiou têik mái âmbréla énd mái kôut]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_72",
+    "word": "He didn't bring his book, so he read on his phone.",
+    "translation": "Ele não trouxe o livro, então leu no celular.",
+    "pronunciation": "/hiː ˈdɪdnt brɪŋ hɪz bʊk soʊ hiː rɛd ɑːn hɪz foʊn/",
+    "portuguesePhonetic": "[rrí dídent brín rriz búk sôu rrí réd ón rriz fôun]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_73",
+    "word": "My glasses are broken, and I can't read the screen.",
+    "translation": "Meus óculos estão quebrados, e não consigo ler a tela.",
+    "pronunciation": "/maɪ ˈɡlæsɪz ɑːr ˈbroʊkən ænd aɪ kænt riːd ðə skriːn/",
+    "portuguesePhonetic": "[mái glésiz ár brôukan énd ái ként ríd dha skrín]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_74",
+    "word": "Have you seen my keys? I left them on the table.",
+    "translation": "Você viu minhas chaves? Eu as deixei na mesa.",
+    "pronunciation": "/hæv juː siːn maɪ kiːz · aɪ lɛft ðɛm ɑːn ðə ˈteɪbl̩/",
+    "portuguesePhonetic": "[rrév iú sín mái kíz · ái léft dhém ón dha têibou]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_75",
+    "word": "Although the car is old, it still works very well.",
+    "translation": "Embora o carro seja velho, ele ainda funciona muito bem.",
+    "pronunciation": "/ɔːlˈðoʊ ðə kɑːr ɪz oʊld ɪt stɪl wɜːrks ˈvɛri wɛl/",
+    "portuguesePhonetic": "[oldhôu dha kár iz ôuld ít stíou uârks véri uél]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_76",
+    "word": "\"Where is my book?\" / \"It's on the desk.\"",
+    "translation": "\"Onde está meu livro?\" / \"Está na escrivaninha.\"",
+    "pronunciation": "/wɛr ɪz maɪ bʊk · ɪts ɑːn ðə dɛsk/",
+    "portuguesePhonetic": "[uér iz mái búk · íts ón dha désk]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_77",
+    "word": "\"Is this your pen?\" / \"Yes, it is.\"",
+    "translation": "\"Esta caneta é sua?\" / \"Sim, é.\"",
+    "pronunciation": "/ɪz ðɪs jɔːr pɛn · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz dhis iór pén · iés ít iz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_78",
+    "word": "\"Do you have a car?\" / \"No, I have a bicycle.\"",
+    "translation": "\"Você tem carro?\" / \"Não, tenho uma bicicleta.\"",
+    "pronunciation": "/duː juː hæv ə kɑːr · noʊ aɪ hæv ə ˈbaɪsɪkl̩/",
+    "portuguesePhonetic": "[dú iú rrév a kár · nôu ái rrév a báissikou]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_79",
+    "word": "\"Where are my keys?\" / \"They're in your bag.\"",
+    "translation": "\"Onde estão minhas chaves?\" / \"Estão na sua bolsa.\"",
+    "pronunciation": "/wɛr ɑːr maɪ kiːz · ðer ɪn jɔːr bæɡ/",
+    "portuguesePhonetic": "[uér ár mái kíz · dhér in iór bég]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_80",
+    "word": "\"Can I borrow your umbrella?\" / \"Sure, here it is.\"",
+    "translation": "\"Posso pegar seu guarda-chuva emprestado?\" / \"Claro, aqui está.\"",
+    "pronunciation": "/kæn aɪ ˈbɑːroʊ jɔːr ʌmˈbrɛlə · ʃʊr hɪr ɪt ɪz/",
+    "portuguesePhonetic": "[kén ái bárou iór âmbréla · chúr rrír ít iz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_81",
+    "word": "\"Whose backpack is this?\" / \"It's mine.\"",
+    "translation": "\"De quem é esta mochila?\" / \"É minha.\"",
+    "pronunciation": "/huːz ˈbækpæk ɪz ðɪs · ɪts maɪn/",
+    "portuguesePhonetic": "[rrúz békpék iz dhis · íts máin]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_82",
+    "word": "\"Is your phone charged?\" / \"No, it isn't.\"",
+    "translation": "\"Seu celular está carregado?\" / \"Não, não está.\"",
+    "pronunciation": "/ɪz jɔːr foʊn tʃɑːrdʒd · noʊ ɪt ˈɪznt/",
+    "portuguesePhonetic": "[iz iór fôun tchárdjd · nôu ít íznt]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_83",
+    "word": "\"Do you wear glasses?\" / \"Yes, I do.\"",
+    "translation": "\"Você usa óculos?\" / \"Sim, uso.\"",
+    "pronunciation": "/duː juː wɛr ˈɡlæsɪz · jɛs aɪ duː/",
+    "portuguesePhonetic": "[dú iú uér glésiz · iés ái dú]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_84",
+    "word": "\"Where is the bottle of water?\" / \"It's in the fridge.\"",
+    "translation": "\"Onde está a garrafa de água?\" / \"Está na geladeira.\"",
+    "pronunciation": "/wɛr ɪz ðə ˈbɑːtl̩ əv ˈwɔːtər · ɪts ɪn ðə frɪdʒ/",
+    "portuguesePhonetic": "[uér iz dha bárou ov uóter · íts in dha frídj]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_85",
+    "word": "\"Are these your shoes?\" / \"No, they aren't.\"",
+    "translation": "\"Estes sapatos são seus?\" / \"Não, não são.\"",
+    "pronunciation": "/ɑːr ðiːz jɔːr ʃuːz · noʊ ðeɪ ˈɑːrnt/",
+    "portuguesePhonetic": "[ár dhíz iór chúz · nôu dhêi árent]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_86",
+    "word": "\"Do you have your passport?\" / \"Yes, it's in my bag.\"",
+    "translation": "\"Você está com o passaporte?\" / \"Sim, está na minha bolsa.\"",
+    "pronunciation": "/duː juː hæv jɔːr ˈpæspɔːrt · jɛs ɪts ɪn maɪ bæɡ/",
+    "portuguesePhonetic": "[dú iú rrév iór pésport · iés íts in mái bég]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_87",
+    "word": "\"Can I use your computer?\" / \"Of course.\"",
+    "translation": "\"Posso usar seu computador?\" / \"Claro.\"",
+    "pronunciation": "/kæn aɪ juːz jɔːr kəmˈpjuːtər · ʌv kɔːrs/",
+    "portuguesePhonetic": "[kén ái iúz iór kompiúter · óv kórs]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_88",
+    "word": "\"Where is your wallet?\" / \"It's in my pocket.\"",
+    "translation": "\"Onde está sua carteira?\" / \"Está no meu bolso.\"",
+    "pronunciation": "/wɛr ɪz jɔːr ˈwɑːlɪt · ɪts ɪn maɪ ˈpɑːkɪt/",
+    "portuguesePhonetic": "[uér iz iór uálet · íts in mái páket]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_89",
+    "word": "\"Is this your hat?\" / \"Yes, thank you!\"",
+    "translation": "\"Este é o seu chapéu?\" / \"Sim, obrigado!\"",
+    "pronunciation": "/ɪz ðɪs jɔːr hæt · jɛs ˈθæŋk juː/",
+    "portuguesePhonetic": "[iz dhis iór rrét · iés thénk iú]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_90",
+    "word": "\"What time is it?\" / \"Let me check my watch.\"",
+    "translation": "\"Que horas são?\" / \"Deixa eu ver meu relógio.\"",
+    "pronunciation": "/wʌt taɪm ɪz ɪt · lɛt miː tʃɛk maɪ wɑːtʃ/",
+    "portuguesePhonetic": "[uât táim iz ít · lét mí tchék mái uátch]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_91",
+    "word": "\"Do you watch a lot of TV?\" / \"No, not much.\"",
+    "translation": "\"Você assiste muita TV?\" / \"Não, não muito.\"",
+    "pronunciation": "/duː juː wɑːtʃ ə lɑːt əv ˌtiːˈviː · noʊ nɑːt mʌtʃ/",
+    "portuguesePhonetic": "[dú iú uátch a lót ov ti-ví · nôu nót mâtch]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_92",
+    "word": "\"Can I have a pen, please?\" / \"Here you go.\"",
+    "translation": "\"Pode me dar uma caneta, por favor?\" / \"Aqui está.\"",
+    "pronunciation": "/kæn aɪ hæv ə pɛn pliːz · hɪr juː ɡoʊ/",
+    "portuguesePhonetic": "[kén ái rrév a pén plíz · rrír iú gôu]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_93",
+    "word": "\"Where are my headphones?\" / \"They're next to the computer.\"",
+    "translation": "\"Onde estão meus fones?\" / \"Estão ao lado do computador.\"",
+    "pronunciation": "/wɛr ɑːr maɪ ˈhɛdfoʊnz · ðer nɛkst tə ðə kəmˈpjuːtər/",
+    "portuguesePhonetic": "[uér ár mái rrédfounz · dhér nékst tu dha kompiúter]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_94",
+    "word": "\"Is the house far?\" / \"No, it's close.\"",
+    "translation": "\"A casa é longe?\" / \"Não, é perto.\"",
+    "pronunciation": "/ɪz ðə haʊs fɑːr · noʊ ɪts kloʊs/",
+    "portuguesePhonetic": "[iz dha ráus fár · nôu íts klôus]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_95",
+    "word": "\"Did you bring your notebook?\" / \"Yes, I did.\"",
+    "translation": "\"Você trouxe seu caderno?\" / \"Sim, trouxe.\"",
+    "pronunciation": "/dɪd juː brɪŋ jɔːr ˈnoʊtbʊk · jɛs aɪ dɪd/",
+    "portuguesePhonetic": "[díd iú brín iór nôutbuk · iés ái díd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_96",
+    "word": "\"Whose phone is ringing?\" / \"It's mine, sorry!\"",
+    "translation": "\"De quem é o celular tocando?\" / \"É o meu, desculpa!\"",
+    "pronunciation": "/huːz foʊn ɪz ˈrɪŋɪŋ · ɪts maɪn ˈsɑːri/",
+    "portuguesePhonetic": "[rrúz fôun iz rrínin · íts máin sári]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_97",
+    "word": "\"Is it your bicycle?\" / \"No, it's my brother's.\"",
+    "translation": "\"É a sua bicicleta?\" / \"Não, é a do meu irmão.\"",
+    "pronunciation": "/ɪz ɪt jɔːr ˈbaɪsɪkl̩ · noʊ ɪts maɪ ˈbrʌðərz/",
+    "portuguesePhonetic": "[iz ít iór báissikou · nôu íts mái brâdherz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_98",
+    "word": "\"Do you need a bag?\" / \"Yes, please.\"",
+    "translation": "\"Você precisa de uma sacola?\" / \"Sim, por favor.\"",
+    "pronunciation": "/duː juː niːd ə bæɡ · jɛs pliːz/",
+    "portuguesePhonetic": "[dú iú níd a bég · iés plíz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_99",
+    "word": "\"Where's my coat?\" / \"It's by the door.\"",
+    "translation": "\"Onde está meu casaco?\" / \"Está perto da porta.\"",
+    "pronunciation": "/wɛrz maɪ koʊt · ɪts baɪ ðə dɔːr/",
+    "portuguesePhonetic": "[uérz mái kôut · íts bái dha dór]"
+  },
+  {
+    "id": "lesson_1_vocabulary_a1_en_card_100",
+    "word": "\"Can you turn off the TV?\" / \"Sure, no problem.\"",
+    "translation": "\"Você pode desligar a TV?\" / \"Claro, sem problema.\"",
+    "pronunciation": "/kæn juː tɜːrn ɔːf ðə ˌtiːˈviː · ʃʊr noʊ ˈprɑːbləm/",
+    "portuguesePhonetic": "[kén iú târn óf dha ti-ví · chúr nôu práblem]"
+  }
+]

@@ -1,0 +1,1033 @@
+[
+  {
+    "id": "lesson_11_1",
+    "word": "to go",
+    "translation": "ir",
+    "pronunciation": "/tu ɡoʊ/",
+    "portuguesePhonetic": "tchu gôu",
+    "syllables": [
+      "to",
+      " go"
+    ],
+    "exampleSentence": "to go",
+    "exampleTranslation": "ir"
+  },
+  {
+    "id": "lesson_11_2",
+    "word": "to see",
+    "translation": "ver",
+    "pronunciation": "/tu si/",
+    "portuguesePhonetic": "tchu si",
+    "syllables": [
+      "to",
+      " see"
+    ],
+    "exampleSentence": "to see",
+    "exampleTranslation": "ver"
+  },
+  {
+    "id": "lesson_11_3",
+    "word": "father",
+    "translation": "pai",
+    "pronunciation": "/ˈfɑðər/",
+    "portuguesePhonetic": "fá-der",
+    "syllables": [
+      "fa",
+      "ther"
+    ],
+    "exampleSentence": "father",
+    "exampleTranslation": "pai"
+  },
+  {
+    "id": "lesson_11_4",
+    "word": "mother",
+    "translation": "mãe",
+    "pronunciation": "/ˈmʌðər/",
+    "portuguesePhonetic": "mâ-der",
+    "syllables": [
+      "moth",
+      "er"
+    ],
+    "exampleSentence": "mother",
+    "exampleTranslation": "mãe"
+  },
+  {
+    "id": "lesson_11_5",
+    "word": "parents",
+    "translation": "pais",
+    "pronunciation": "/ˈpɛrənts/",
+    "portuguesePhonetic": "pé-rents",
+    "syllables": [
+      "par",
+      "ents"
+    ],
+    "exampleSentence": "parents",
+    "exampleTranslation": "pais"
+  },
+  {
+    "id": "lesson_11_6",
+    "word": "brother",
+    "translation": "irmão",
+    "pronunciation": "/ˈbrʌðər/",
+    "portuguesePhonetic": "brâ-der",
+    "syllables": [
+      "broth",
+      "er"
+    ],
+    "exampleSentence": "brother",
+    "exampleTranslation": "irmão"
+  },
+  {
+    "id": "lesson_11_7",
+    "word": "sister",
+    "translation": "irmã",
+    "pronunciation": "/ˈsɪstər/",
+    "portuguesePhonetic": "sís-ter",
+    "syllables": [
+      "sis",
+      "ter"
+    ],
+    "exampleSentence": "sister",
+    "exampleTranslation": "irmã"
+  },
+  {
+    "id": "lesson_11_8",
+    "word": "children",
+    "translation": "filhos, crianças",
+    "pronunciation": "/ˈtʃɪldrən/",
+    "portuguesePhonetic": "tchíl-dren",
+    "syllables": [
+      "chil",
+      "dren"
+    ],
+    "exampleSentence": "children",
+    "exampleTranslation": "filhos, crianças"
+  },
+  {
+    "id": "lesson_11_9",
+    "word": "husband",
+    "translation": "marido, esposo",
+    "pronunciation": "/ˈhʌzbənd/",
+    "portuguesePhonetic": "râz-band",
+    "syllables": [
+      "hus",
+      "band"
+    ],
+    "exampleSentence": "husband",
+    "exampleTranslation": "marido, esposo"
+  },
+  {
+    "id": "lesson_11_10",
+    "word": "wife",
+    "translation": "esposa",
+    "pronunciation": "/waɪf/",
+    "portuguesePhonetic": "uaif",
+    "syllables": [
+      "wife"
+    ],
+    "exampleSentence": "wife",
+    "exampleTranslation": "esposa"
+  },
+  {
+    "id": "lesson_11_11",
+    "word": "family",
+    "translation": "família",
+    "pronunciation": "/ˈfæməli/",
+    "portuguesePhonetic": "fé-mi-li",
+    "syllables": [
+      "fam",
+      "i",
+      "ly"
+    ],
+    "exampleSentence": "family",
+    "exampleTranslation": "família"
+  },
+  {
+    "id": "lesson_11_12",
+    "word": "neighbor",
+    "translation": "vizinho(a)",
+    "pronunciation": "/ˈneɪbər/",
+    "portuguesePhonetic": "nêi-bor",
+    "syllables": [
+      "neigh",
+      "bor"
+    ],
+    "exampleSentence": "neighbor",
+    "exampleTranslation": "vizinho(a)"
+  },
+  {
+    "id": "lesson_11_13",
+    "word": "boss",
+    "translation": "chefe",
+    "pronunciation": "/bɔs/",
+    "portuguesePhonetic": "bós",
+    "syllables": [
+      "boss"
+    ],
+    "exampleSentence": "boss",
+    "exampleTranslation": "chefe"
+  },
+  {
+    "id": "lesson_11_14",
+    "word": "co-worker",
+    "translation": "colega de trabalho",
+    "pronunciation": "/ˈkoʊˌwɜrkər/",
+    "portuguesePhonetic": "côu-uãr-ker",
+    "syllables": [
+      "co-",
+      "work",
+      "er"
+    ],
+    "exampleSentence": "co-worker",
+    "exampleTranslation": "colega de trabalho"
+  },
+  {
+    "id": "lesson_11_15",
+    "word": "class",
+    "translation": "aula",
+    "pronunciation": "/klæs/",
+    "portuguesePhonetic": "clés",
+    "syllables": [
+      "class"
+    ],
+    "exampleSentence": "class",
+    "exampleTranslation": "aula"
+  },
+  {
+    "id": "lesson_11_16",
+    "word": "work",
+    "translation": "trabalho, emprego",
+    "pronunciation": "/wɜrk/",
+    "portuguesePhonetic": "uãrk",
+    "syllables": [
+      "work"
+    ],
+    "exampleSentence": "work",
+    "exampleTranslation": "trabalho, emprego"
+  },
+  {
+    "id": "lesson_11_17",
+    "word": "France",
+    "translation": "França",
+    "pronunciation": "/fræns/",
+    "portuguesePhonetic": "frens",
+    "syllables": [
+      "France"
+    ],
+    "exampleSentence": "France",
+    "exampleTranslation": "França"
+  },
+  {
+    "id": "lesson_11_18",
+    "word": "the United Kingdom (U.K.)",
+    "translation": "Reino Unido",
+    "pronunciation": "/ði juˈnaɪtəd ˈkɪŋdəm/",
+    "portuguesePhonetic": "di iu-nái-ted kín-dom",
+    "syllables": [
+      "the",
+      " Unit",
+      "ed",
+      " King",
+      "dom"
+    ],
+    "exampleSentence": "the United Kingdom (U.K.)",
+    "exampleTranslation": "Reino Unido"
+  },
+  {
+    "id": "lesson_11_19",
+    "word": "I see my neighbor at work.",
+    "translation": "Eu vejo meu vizinho no trabalho.",
+    "pronunciation": "/aɪ si maɪ ˈneɪbər æt wɜrk./",
+    "portuguesePhonetic": "ai si mai nêi-bor ét uãrk.",
+    "syllables": [
+      "I",
+      " see",
+      " my",
+      " neigh",
+      "bor",
+      " at",
+      " work."
+    ],
+    "exampleSentence": "I see my neighbor at work.",
+    "exampleTranslation": "Eu vejo meu vizinho no trabalho."
+  },
+  {
+    "id": "lesson_11_20",
+    "word": "Do you study at home?",
+    "translation": "Você estuda em casa?",
+    "pronunciation": "/du ju ˈstʌdi æt hoʊm?/",
+    "portuguesePhonetic": "du iu stâ-di ét rôum?",
+    "syllables": [
+      "Do",
+      " you",
+      " stud",
+      "y",
+      " at",
+      " home?"
+    ],
+    "exampleSentence": "Do you study at home?",
+    "exampleTranslation": "Você estuda em casa?"
+  },
+  {
+    "id": "lesson_11_21",
+    "word": "I see my parents in the evening.",
+    "translation": "Eu vejo meus pais à noite.",
+    "pronunciation": "/aɪ si maɪ ˈpɛrənts ɪn ðə ˈivnɪŋ./",
+    "portuguesePhonetic": "ai si mai pé-rents in dâ ív-ning.",
+    "syllables": [
+      "I",
+      " see",
+      " my",
+      " par",
+      "ents",
+      " in",
+      " the",
+      " eve",
+      "ning."
+    ],
+    "exampleSentence": "I see my parents in the evening.",
+    "exampleTranslation": "Eu vejo meus pais à noite."
+  },
+  {
+    "id": "lesson_11_22",
+    "word": "I don't study at night.",
+    "translation": "Eu não estudo à noite.",
+    "pronunciation": "/aɪ doʊnt ˈstʌdi æt naɪt./",
+    "portuguesePhonetic": "ai dôunt stâ-di ét nait.",
+    "syllables": [
+      "I",
+      " don't",
+      " stud",
+      "y",
+      " at",
+      " night."
+    ],
+    "exampleSentence": "I don't study at night.",
+    "exampleTranslation": "Eu não estudo à noite."
+  },
+  {
+    "id": "lesson_11_23",
+    "word": "Do they live in Germany?",
+    "translation": "Eles moram na Alemanha?",
+    "pronunciation": "/du ðeɪ lɪv ɪn ˈdʒɜrməni?/",
+    "portuguesePhonetic": "du dêi liv in djãr-ma-ni?",
+    "syllables": [
+      "Do",
+      " they",
+      " live",
+      " in",
+      " Ger",
+      "ma",
+      "ny?"
+    ],
+    "exampleSentence": "Do they live in Germany?",
+    "exampleTranslation": "Eles moram na Alemanha?"
+  },
+  {
+    "id": "lesson_11_24",
+    "word": "Do they go to school in the morning?",
+    "translation": "Eles vão para a escola de manhã?",
+    "pronunciation": "/du ðeɪ ɡoʊ tu skul ɪn ðə ˈmɔrnɪŋ?/",
+    "portuguesePhonetic": "du dêi gôu tchu scul in dâ môr-ning?",
+    "syllables": [
+      "Do",
+      " they",
+      " go",
+      " to",
+      " school",
+      " in",
+      " the",
+      " morn",
+      "ing?"
+    ],
+    "exampleSentence": "Do they go to school in the morning?",
+    "exampleTranslation": "Eles vão para a escola de manhã?"
+  },
+  {
+    "id": "lesson_11_25",
+    "word": "Do they speak Italian?",
+    "translation": "Eles falam italiano?",
+    "pronunciation": "/du ðeɪ spik ɪˈtæljən?/",
+    "portuguesePhonetic": "du dêi spíc i-té-li-an?",
+    "syllables": [
+      "Do",
+      " they",
+      " speak",
+      " I",
+      "tal",
+      "ian?"
+    ],
+    "exampleSentence": "Do they speak Italian?",
+    "exampleTranslation": "Eles falam italiano?"
+  },
+  {
+    "id": "lesson_11_26",
+    "word": "Where do they want to go?",
+    "translation": "Aonde eles querem ir?",
+    "pronunciation": "/wɛr du ðeɪ wɑnt tu ɡoʊ?/",
+    "portuguesePhonetic": "uér du dêi uánt tchu gôu?",
+    "syllables": [
+      "Where",
+      " do",
+      " they",
+      " want",
+      " to",
+      " go?"
+    ],
+    "exampleSentence": "Where do they want to go?",
+    "exampleTranslation": "Aonde eles querem ir?"
+  },
+  {
+    "id": "lesson_11_27",
+    "word": "They want to go to Germany.",
+    "translation": "Eles querem ir para a Alemanha.",
+    "pronunciation": "/ðeɪ wɑnt tu ɡoʊ tu ˈdʒɜrməni./",
+    "portuguesePhonetic": "dêi uánt tchu gôu tchu djãr-ma-ni.",
+    "syllables": [
+      "They",
+      " want",
+      " to",
+      " go",
+      " to",
+      " Ger",
+      "ma",
+      "ny."
+    ],
+    "exampleSentence": "They want to go to Germany.",
+    "exampleTranslation": "Eles querem ir para a Alemanha."
+  },
+  {
+    "id": "lesson_11_28",
+    "word": "We want to go to school.",
+    "translation": "Nós queremos ir para a escola.",
+    "pronunciation": "/wi wɑnt tu ɡoʊ tu skul./",
+    "portuguesePhonetic": "ui uánt tchu gôu tchu scul.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " go",
+      " to",
+      " school."
+    ],
+    "exampleSentence": "We want to go to school.",
+    "exampleTranslation": "Nós queremos ir para a escola."
+  },
+  {
+    "id": "lesson_11_29",
+    "word": "They go to class in the evening.",
+    "translation": "Eles vão para a aula à noite.",
+    "pronunciation": "/ðeɪ ɡoʊ tu klæs ɪn ðə ˈivnɪŋ./",
+    "portuguesePhonetic": "dêi gôu tchu clés in dâ ív-ning.",
+    "syllables": [
+      "They",
+      " go",
+      " to",
+      " class",
+      " in",
+      " the",
+      " eve",
+      "ning."
+    ],
+    "exampleSentence": "They go to class in the evening.",
+    "exampleTranslation": "Eles vão para a aula à noite."
+  },
+  {
+    "id": "lesson_11_30",
+    "word": "Do they want to go to the U.K.?",
+    "translation": "Eles querem ir para o Reino Unido?",
+    "pronunciation": "/du ðeɪ wɑnt tu ɡoʊ tu ðə ˈuːˈkeɪ?/",
+    "portuguesePhonetic": "du dêi uánt tchu gôu tchu dâ iu-kêi?",
+    "syllables": [
+      "Do",
+      " they",
+      " want",
+      " to",
+      " go",
+      " to",
+      " the",
+      " U.",
+      "K.?"
+    ],
+    "exampleSentence": "Do they want to go to the U.K.?",
+    "exampleTranslation": "Eles querem ir para o Reino Unido?"
+  },
+  {
+    "id": "lesson_11_31",
+    "word": "I go to work in the morning.",
+    "translation": "Eu vou para o trabalho de manhã.",
+    "pronunciation": "/aɪ ɡoʊ tu wɜrk ɪn ðə ˈmɔrnɪŋ./",
+    "portuguesePhonetic": "ai gôu tchu uãrk in dâ môr-ning.",
+    "syllables": [
+      "I",
+      " go",
+      " to",
+      " work",
+      " in",
+      " the",
+      " morn",
+      "ing."
+    ],
+    "exampleSentence": "I go to work in the morning.",
+    "exampleTranslation": "Eu vou para o trabalho de manhã."
+  },
+  {
+    "id": "lesson_11_32",
+    "word": "They go to school in the afternoon.",
+    "translation": "Eles vão para a escola à tarde.",
+    "pronunciation": "/ðeɪ ɡoʊ tu skul ɪn ðə ˌæftərˈnun./",
+    "portuguesePhonetic": "dêi gôu tchu scul in dâ éf-ter-nun.",
+    "syllables": [
+      "They",
+      " go",
+      " to",
+      " school",
+      " in",
+      " the",
+      " af",
+      "ter",
+      "noon."
+    ],
+    "exampleSentence": "They go to school in the afternoon.",
+    "exampleTranslation": "Eles vão para a escola à tarde."
+  },
+  {
+    "id": "lesson_11_33",
+    "word": "They want to go to France.",
+    "translation": "Eles querem ir para a França.",
+    "pronunciation": "/ðeɪ wɑnt tu ɡoʊ tu fræns./",
+    "portuguesePhonetic": "dêi uánt tchu gôu tchu frens.",
+    "syllables": [
+      "They",
+      " want",
+      " to",
+      " go",
+      " to",
+      " France."
+    ],
+    "exampleSentence": "They want to go to France.",
+    "exampleTranslation": "Eles querem ir para a França."
+  },
+  {
+    "id": "lesson_11_34",
+    "word": "We don't like to go to class in the evening.",
+    "translation": "Nós não gostamos de ir para a aula à noite.",
+    "pronunciation": "/wi doʊnt laɪk tu ɡoʊ tu klæs ɪn ðə ˈivnɪŋ./",
+    "portuguesePhonetic": "ui dôunt laic tchu gôu tchu clés in dâ ív-ning.",
+    "syllables": [
+      "We",
+      " don't",
+      " like",
+      " to",
+      " go",
+      " to",
+      " class",
+      " in",
+      " the",
+      " eve",
+      "ning."
+    ],
+    "exampleSentence": "We don't like to go to class in the evening.",
+    "exampleTranslation": "Nós não gostamos de ir para a aula à noite."
+  },
+  {
+    "id": "lesson_11_35",
+    "word": "I want to go to the U.S.A.",
+    "translation": "Eu quero ir para os Estados Unidos.",
+    "pronunciation": "/aɪ wɑnt tu ɡoʊ tu ðə ˌjuː.ɛs.ˈeɪ./",
+    "portuguesePhonetic": "ai uánt tchu gôu tchu dâ iu-es-êi.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " go",
+      " to",
+      " the",
+      " U.",
+      "S.",
+      "A."
+    ],
+    "exampleSentence": "I want to go to the U.S.A.",
+    "exampleTranslation": "Eu quero ir para os Estados Unidos."
+  },
+  {
+    "id": "lesson_11_36",
+    "word": "I see my husband at home.",
+    "translation": "Eu vejo meu esposo em casa.",
+    "pronunciation": "/aɪ si maɪ ˈhʌzbənd æt hoʊm./",
+    "portuguesePhonetic": "ai si mai râz-band ét rôum.",
+    "syllables": [
+      "I",
+      " see",
+      " my",
+      " hus",
+      "band",
+      " at",
+      " home."
+    ],
+    "exampleSentence": "I see my husband at home.",
+    "exampleTranslation": "Eu vejo meu esposo em casa."
+  },
+  {
+    "id": "lesson_11_37",
+    "word": "Do they speak English at work?",
+    "translation": "Eles falam inglês no trabalho?",
+    "pronunciation": "/du ðeɪ spik ˈɪŋɡlɪʃ æt wɜrk?/",
+    "portuguesePhonetic": "du dêi spíc ín-glix ét uãrk?",
+    "syllables": [
+      "Do",
+      " they",
+      " speak",
+      " Eng",
+      "lish",
+      " at",
+      " work?"
+    ],
+    "exampleSentence": "Do they speak English at work?",
+    "exampleTranslation": "Eles falam inglês no trabalho?"
+  },
+  {
+    "id": "lesson_11_38",
+    "word": "Do they speak Italian or French?",
+    "translation": "Eles falam italiano ou francês?",
+    "pronunciation": "/du ðeɪ spik ɪˈtæljən ɔr frɛntʃ?/",
+    "portuguesePhonetic": "du dêi spíc i-té-li-an or frentch?",
+    "syllables": [
+      "Do",
+      " they",
+      " speak",
+      " I",
+      "tal",
+      "ian",
+      " or",
+      " French?"
+    ],
+    "exampleSentence": "Do they speak Italian or French?",
+    "exampleTranslation": "Eles falam italiano ou francês?"
+  },
+  {
+    "id": "lesson_11_39",
+    "word": "Do you live with your family?",
+    "translation": "Você mora com sua família?",
+    "pronunciation": "/du ju lɪv wɪð jɔr ˈfæməli?/",
+    "portuguesePhonetic": "du iu liv uid iór fé-mi-li?",
+    "syllables": [
+      "Do",
+      " you",
+      " live",
+      " with",
+      " your",
+      " fam",
+      "i",
+      "ly?"
+    ],
+    "exampleSentence": "Do you live with your family?",
+    "exampleTranslation": "Você mora com sua família?"
+  },
+  {
+    "id": "lesson_11_40",
+    "word": "Do you speak German with your teacher?",
+    "translation": "Você fala alemão com seu professor?",
+    "pronunciation": "/du ju spik ˈdʒɜrmən wɪð jɔr ˈtitʃər?/",
+    "portuguesePhonetic": "du iu spíc djãr-man uid iór tchí-tcher?",
+    "syllables": [
+      "Do",
+      " you",
+      " speak",
+      " Ger",
+      "man",
+      " with",
+      " your",
+      " teach",
+      "er?"
+    ],
+    "exampleSentence": "Do you speak German with your teacher?",
+    "exampleTranslation": "Você fala alemão com seu professor?"
+  },
+  {
+    "id": "lesson_11_41",
+    "word": "to go to the U.S.A.",
+    "translation": "ir para os Estados Unidos",
+    "pronunciation": "/tu ɡoʊ tu ðə ˌjuː.ɛs.ˈeɪ/",
+    "portuguesePhonetic": "tchu gôu tchu dâ iu-es-êi",
+    "syllables": [
+      "to",
+      " go",
+      " to",
+      " the",
+      " U.",
+      "S.",
+      "A."
+    ],
+    "exampleSentence": "to go to the U.S.A.",
+    "exampleTranslation": "ir para os Estados Unidos"
+  },
+  {
+    "id": "lesson_11_42",
+    "word": "to study in the U.S.A.",
+    "translation": "estudar nos Estados Unidos",
+    "pronunciation": "/tu ˈstʌdi ɪn ðə ˌjuː.ɛs.ˈeɪ/",
+    "portuguesePhonetic": "tchu stâ-di in dâ iu-es-êi",
+    "syllables": [
+      "to",
+      " stud",
+      "y",
+      " in",
+      " the",
+      " U.",
+      "S.",
+      "A."
+    ],
+    "exampleSentence": "to study in the U.S.A.",
+    "exampleTranslation": "estudar nos Estados Unidos"
+  },
+  {
+    "id": "lesson_11_43",
+    "word": "at work",
+    "translation": "no trabalho",
+    "pronunciation": "/æt wɜrk/",
+    "portuguesePhonetic": "ét uãrk",
+    "syllables": [
+      "at",
+      " work"
+    ],
+    "exampleSentence": "at work",
+    "exampleTranslation": "no trabalho"
+  },
+  {
+    "id": "lesson_11_44",
+    "word": "at home",
+    "translation": "em casa",
+    "pronunciation": "/æt hoʊm/",
+    "portuguesePhonetic": "ét rôum",
+    "syllables": [
+      "at",
+      " home"
+    ],
+    "exampleSentence": "at home",
+    "exampleTranslation": "em casa"
+  },
+  {
+    "id": "lesson_11_45",
+    "word": "at school",
+    "translation": "na escola",
+    "pronunciation": "/æt skul/",
+    "portuguesePhonetic": "ét scul",
+    "syllables": [
+      "at",
+      " school"
+    ],
+    "exampleSentence": "at school",
+    "exampleTranslation": "na escola"
+  },
+  {
+    "id": "lesson_11_46",
+    "word": "They live...",
+    "translation": "Eles moram...",
+    "pronunciation": "/ðeɪ lɪv.../",
+    "portuguesePhonetic": "dêi liv...",
+    "syllables": [
+      "They",
+      " live..."
+    ],
+    "exampleSentence": "They live...",
+    "exampleTranslation": "Eles moram..."
+  },
+  {
+    "id": "lesson_11_47",
+    "word": "My parents live...",
+    "translation": "Meus pais moram...",
+    "pronunciation": "/maɪ ˈpɛrənts lɪv.../",
+    "portuguesePhonetic": "mai pé-rents liv...",
+    "syllables": [
+      "My",
+      " par",
+      "ents",
+      " live..."
+    ],
+    "exampleSentence": "My parents live...",
+    "exampleTranslation": "Meus pais moram..."
+  },
+  {
+    "id": "lesson_11_48",
+    "word": "We speak...",
+    "translation": "Nós falamos...",
+    "pronunciation": "/wi spik.../",
+    "portuguesePhonetic": "ui spíc...",
+    "syllables": [
+      "We",
+      " speak..."
+    ],
+    "exampleSentence": "We speak...",
+    "exampleTranslation": "Nós falamos..."
+  },
+  {
+    "id": "lesson_11_49",
+    "word": "My sister and I speak...",
+    "translation": "Minha irmã e eu falamos...",
+    "pronunciation": "/maɪ ˈsɪstər ænd aɪ spik.../",
+    "portuguesePhonetic": "mai sís-ter énd ai spíc...",
+    "syllables": [
+      "My",
+      " sis",
+      "ter",
+      " and",
+      " I",
+      " speak..."
+    ],
+    "exampleSentence": "My sister and I speak...",
+    "exampleTranslation": "Minha irmã e eu falamos..."
+  },
+  {
+    "id": "lesson_11_50",
+    "word": "class → classes",
+    "translation": "aula → aulas",
+    "pronunciation": "/klæs → ˈklæsəz/",
+    "portuguesePhonetic": "clés → clê-siz",
+    "syllables": [
+      "class",
+      " →",
+      " class",
+      "es"
+    ],
+    "exampleSentence": "class → classes",
+    "exampleTranslation": "aula → aulas"
+  },
+  {
+    "id": "lesson_11_51",
+    "word": "go to work",
+    "translation": "ir para o trabalho",
+    "pronunciation": "/ɡoʊ tu wɜrk/",
+    "portuguesePhonetic": "gôu tchu uãrk",
+    "syllables": [
+      "go",
+      " to",
+      " work"
+    ],
+    "exampleSentence": "go to work",
+    "exampleTranslation": "ir para o trabalho"
+  },
+  {
+    "id": "lesson_11_52",
+    "word": "go to school",
+    "translation": "ir para a escola",
+    "pronunciation": "/ɡoʊ tu skul/",
+    "portuguesePhonetic": "gôu tchu scul",
+    "syllables": [
+      "go",
+      " to",
+      " school"
+    ],
+    "exampleSentence": "go to school",
+    "exampleTranslation": "ir para a escola"
+  },
+  {
+    "id": "lesson_11_53",
+    "word": "go to class",
+    "translation": "ir para a aula",
+    "pronunciation": "/ɡoʊ tu klæs/",
+    "portuguesePhonetic": "gôu tchu clés",
+    "syllables": [
+      "go",
+      " to",
+      " class"
+    ],
+    "exampleSentence": "go to class",
+    "exampleTranslation": "ir para a aula"
+  },
+  {
+    "id": "lesson_11_54",
+    "word": "go to France",
+    "translation": "ir para a França",
+    "pronunciation": "/ɡoʊ tu fræns/",
+    "portuguesePhonetic": "gôu tchu frens",
+    "syllables": [
+      "go",
+      " to",
+      " France"
+    ],
+    "exampleSentence": "go to France",
+    "exampleTranslation": "ir para a França"
+  },
+  {
+    "id": "lesson_11_55",
+    "word": "go to Germany",
+    "translation": "ir para a Alemanha",
+    "pronunciation": "/ɡoʊ tu ˈdʒɜrməni/",
+    "portuguesePhonetic": "gôu tchu djãr-ma-ni",
+    "syllables": [
+      "go",
+      " to",
+      " Ger",
+      "ma",
+      "ny"
+    ],
+    "exampleSentence": "go to Germany",
+    "exampleTranslation": "ir para a Alemanha"
+  },
+  {
+    "id": "lesson_11_56",
+    "word": "go to the U.K.",
+    "translation": "ir para o Reino Unido",
+    "pronunciation": "/ɡoʊ tu ðə ˈuːˈkeɪ/",
+    "portuguesePhonetic": "gôu tchu dâ iu-kêi",
+    "syllables": [
+      "go",
+      " to",
+      " the",
+      " U.",
+      "K."
+    ],
+    "exampleSentence": "go to the U.K.",
+    "exampleTranslation": "ir para o Reino Unido"
+  },
+  {
+    "id": "lesson_11_57",
+    "word": "go to the U.S.A.",
+    "translation": "ir para os Estados Unidos",
+    "pronunciation": "/ɡoʊ tu ðə ˌjuː.ɛs.ˈeɪ/",
+    "portuguesePhonetic": "gôu tchu dâ iu-es-êi",
+    "syllables": [
+      "go",
+      " to",
+      " the",
+      " U.",
+      "S.",
+      "A."
+    ],
+    "exampleSentence": "go to the U.S.A.",
+    "exampleTranslation": "ir para os Estados Unidos"
+  },
+  {
+    "id": "lesson_11_58",
+    "word": "see my parents",
+    "translation": "ver meus pais",
+    "pronunciation": "/si maɪ ˈpɛrənts/",
+    "portuguesePhonetic": "si mai pé-rents",
+    "syllables": [
+      "see",
+      " my",
+      " par",
+      "ents"
+    ],
+    "exampleSentence": "see my parents",
+    "exampleTranslation": "ver meus pais"
+  },
+  {
+    "id": "lesson_11_59",
+    "word": "see my husband",
+    "translation": "ver meu marido",
+    "pronunciation": "/si maɪ ˈhʌzbənd/",
+    "portuguesePhonetic": "si mai râz-band",
+    "syllables": [
+      "see",
+      " my",
+      " hus",
+      "band"
+    ],
+    "exampleSentence": "see my husband",
+    "exampleTranslation": "ver meu marido"
+  },
+  {
+    "id": "lesson_11_60",
+    "word": "live with my family",
+    "translation": "morar com minha família",
+    "pronunciation": "/lɪv wɪð maɪ ˈfæməli/",
+    "portuguesePhonetic": "liv uid mai fé-mi-li",
+    "syllables": [
+      "live",
+      " with",
+      " my",
+      " fam",
+      "i",
+      "ly"
+    ],
+    "exampleSentence": "live with my family",
+    "exampleTranslation": "morar com minha família"
+  },
+  {
+    "id": "lesson_11_61",
+    "word": "at home",
+    "translation": "em casa",
+    "pronunciation": "/æt hoʊm/",
+    "portuguesePhonetic": "ét rôum",
+    "syllables": [
+      "at",
+      " home"
+    ],
+    "exampleSentence": "at home",
+    "exampleTranslation": "em casa"
+  },
+  {
+    "id": "lesson_11_62",
+    "word": "at work",
+    "translation": "no trabalho",
+    "pronunciation": "/æt wɜrk/",
+    "portuguesePhonetic": "ét uãrk",
+    "syllables": [
+      "at",
+      " work"
+    ],
+    "exampleSentence": "at work",
+    "exampleTranslation": "no trabalho"
+  },
+  {
+    "id": "lesson_11_63",
+    "word": "in the morning",
+    "translation": "de manhã",
+    "pronunciation": "/ɪn ðə ˈmɔrnɪŋ/",
+    "portuguesePhonetic": "in dâ môr-ning",
+    "syllables": [
+      "in",
+      " the",
+      " morn",
+      "ing"
+    ],
+    "exampleSentence": "in the morning",
+    "exampleTranslation": "de manhã"
+  },
+  {
+    "id": "lesson_11_64",
+    "word": "in the afternoon",
+    "translation": "à tarde",
+    "pronunciation": "/ɪn ðə ˌæftərˈnun/",
+    "portuguesePhonetic": "in dâ éf-ter-nun",
+    "syllables": [
+      "in",
+      " the",
+      " af",
+      "ter",
+      "noon"
+    ],
+    "exampleSentence": "in the afternoon",
+    "exampleTranslation": "à tarde"
+  },
+  {
+    "id": "lesson_11_65",
+    "word": "in the evening",
+    "translation": "à noite",
+    "pronunciation": "/ɪn ðə ˈivnɪŋ/",
+    "portuguesePhonetic": "in dâ ív-ning",
+    "syllables": [
+      "in",
+      " the",
+      " eve",
+      "ning"
+    ],
+    "exampleSentence": "in the evening",
+    "exampleTranslation": "à noite"
+  },
+  {
+    "id": "lesson_11_66",
+    "word": "at night",
+    "translation": "à noite (durante a noite)",
+    "pronunciation": "/æt naɪt/",
+    "portuguesePhonetic": "ét nait",
+    "syllables": [
+      "at",
+      " night"
+    ],
+    "exampleSentence": "at night",
+    "exampleTranslation": "à noite (durante a noite)"
+  }
+]

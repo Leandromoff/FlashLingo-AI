@@ -1,0 +1,1696 @@
+[
+  {
+    "id": "to_open_close_1",
+    "word": "to open",
+    "translation": "abrir",
+    "pronunciation": "/tu ˈoʊpən/",
+    "portuguesePhonetic": "tchu ôu-pen",
+    "syllables": [
+      "to",
+      " o",
+      "pen"
+    ],
+    "exampleSentence": "to open",
+    "exampleTranslation": "abrir"
+  },
+  {
+    "id": "to_open_close_2",
+    "word": "to close",
+    "translation": "fechar",
+    "pronunciation": "/tu kloʊz/",
+    "portuguesePhonetic": "tchu clôuz",
+    "syllables": [
+      "to",
+      " close"
+    ],
+    "exampleSentence": "to close",
+    "exampleTranslation": "fechar"
+  },
+  {
+    "id": "to_open_close_3",
+    "word": "bottle",
+    "translation": "garrafa",
+    "pronunciation": "/ˈbɑtəl/",
+    "portuguesePhonetic": "bá-tou",
+    "syllables": [
+      "bot",
+      "tle"
+    ],
+    "exampleSentence": "bottle",
+    "exampleTranslation": "garrafa"
+  },
+  {
+    "id": "to_open_close_4",
+    "word": "can",
+    "translation": "lata",
+    "pronunciation": "/kæn/",
+    "portuguesePhonetic": "kén",
+    "syllables": [
+      "can"
+    ],
+    "exampleSentence": "can",
+    "exampleTranslation": "lata"
+  },
+  {
+    "id": "to_open_close_5",
+    "word": "spoon",
+    "translation": "colher",
+    "pronunciation": "/spun/",
+    "portuguesePhonetic": "spun",
+    "syllables": [
+      "spoon"
+    ],
+    "exampleSentence": "spoon",
+    "exampleTranslation": "colher"
+  },
+  {
+    "id": "to_open_close_6",
+    "word": "fork",
+    "translation": "garfo",
+    "pronunciation": "/fɔrk/",
+    "portuguesePhonetic": "fórc",
+    "syllables": [
+      "fork"
+    ],
+    "exampleSentence": "fork",
+    "exampleTranslation": "garfo"
+  },
+  {
+    "id": "to_open_close_7",
+    "word": "knife",
+    "translation": "faca",
+    "pronunciation": "/naɪf/",
+    "portuguesePhonetic": "naif",
+    "syllables": [
+      "knife"
+    ],
+    "exampleSentence": "knife",
+    "exampleTranslation": "faca"
+  },
+  {
+    "id": "to_open_close_8",
+    "word": "napkin",
+    "translation": "guardanapo",
+    "pronunciation": "/ˈnæpkɪn/",
+    "portuguesePhonetic": "nép-kin",
+    "syllables": [
+      "nap",
+      "kin"
+    ],
+    "exampleSentence": "napkin",
+    "exampleTranslation": "guardanapo"
+  },
+  {
+    "id": "to_open_close_9",
+    "word": "straw",
+    "translation": "canudo, canudinho",
+    "pronunciation": "/strɔ/",
+    "portuguesePhonetic": "stró",
+    "syllables": [
+      "straw"
+    ],
+    "exampleSentence": "straw",
+    "exampleTranslation": "canudo, canudinho"
+  },
+  {
+    "id": "to_open_close_10",
+    "word": "milkshake",
+    "translation": "milk-shake",
+    "pronunciation": "/ˈmɪlkˌʃeɪk/",
+    "portuguesePhonetic": "milc-xêic",
+    "syllables": [
+      "milk",
+      "shake"
+    ],
+    "exampleSentence": "milkshake",
+    "exampleTranslation": "milk-shake"
+  },
+  {
+    "id": "to_open_close_11",
+    "word": "snack",
+    "translation": "lanche",
+    "pronunciation": "/snæk/",
+    "portuguesePhonetic": "snéc",
+    "syllables": [
+      "snack"
+    ],
+    "exampleSentence": "snack",
+    "exampleTranslation": "lanche"
+  },
+  {
+    "id": "to_open_close_12",
+    "word": "snack bar",
+    "translation": "lanchonete",
+    "pronunciation": "/ˈsnæk bɑr/",
+    "portuguesePhonetic": "snéc bar",
+    "syllables": [
+      "snack",
+      " bar"
+    ],
+    "exampleSentence": "snack bar",
+    "exampleTranslation": "lanchonete"
+  },
+  {
+    "id": "to_open_close_13",
+    "word": "ice cream parlor",
+    "translation": "sorveteria",
+    "pronunciation": "/aɪs krim ˈpɑrlər/",
+    "portuguesePhonetic": "ais crim par-lãr",
+    "syllables": [
+      "ice",
+      " cream",
+      " par",
+      "lor"
+    ],
+    "exampleSentence": "ice cream parlor",
+    "exampleTranslation": "sorveteria"
+  },
+  {
+    "id": "to_open_close_14",
+    "word": "different",
+    "translation": "diferente",
+    "pronunciation": "/ˈdɪfərənt/",
+    "portuguesePhonetic": "dí-frent",
+    "syllables": [
+      "dif",
+      "fe",
+      "rent"
+    ],
+    "exampleSentence": "different",
+    "exampleTranslation": "diferente"
+  },
+  {
+    "id": "to_open_close_15",
+    "word": "delicious",
+    "translation": "delicioso",
+    "pronunciation": "/dɪˈlɪʃəs/",
+    "portuguesePhonetic": "di-lí-xãs",
+    "syllables": [
+      "de",
+      "li",
+      "cious"
+    ],
+    "exampleSentence": "delicious",
+    "exampleTranslation": "delicioso"
+  },
+  {
+    "id": "to_open_close_16",
+    "word": "something",
+    "translation": "algo, alguma coisa",
+    "pronunciation": "/ˈsʌmθɪŋ/",
+    "portuguesePhonetic": "sâm-thin",
+    "syllables": [
+      "some",
+      "thing"
+    ],
+    "exampleSentence": "something",
+    "exampleTranslation": "algo, alguma coisa"
+  },
+  {
+    "id": "to_open_close_17",
+    "word": "anything",
+    "translation": "algo, alguma coisa, nada",
+    "pronunciation": "/ˈɛniˌθɪŋ/",
+    "portuguesePhonetic": "é-ni-thin",
+    "syllables": [
+      "a",
+      "ny",
+      "thing"
+    ],
+    "exampleSentence": "anything",
+    "exampleTranslation": "algo, alguma coisa, nada"
+  },
+  {
+    "id": "to_open_close_18",
+    "word": "I want to go out tonight.",
+    "translation": "Eu quero sair hoje à noite.",
+    "pronunciation": "/aɪ wɑnt tə ɡoʊ aʊt təˈnaɪt./",
+    "portuguesePhonetic": "ai uónt tchu gôu aút tchu-nait.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " go",
+      " out",
+      " to",
+      "night."
+    ],
+    "exampleSentence": "I want to go out tonight.",
+    "exampleTranslation": "Eu quero sair hoje à noite."
+  },
+  {
+    "id": "to_open_close_19",
+    "word": "We work out every other day.",
+    "translation": "Nós fazemos exercícios dia sim, dia não.",
+    "pronunciation": "/wi wɜrk aʊt ˈɛvri ˈʌðər deɪ./",
+    "portuguesePhonetic": "uí uãrk aút é-vri â-der dêi.",
+    "syllables": [
+      "We",
+      " work",
+      " out",
+      " e",
+      "very",
+      " o",
+      "ther",
+      " day."
+    ],
+    "exampleSentence": "We work out every other day.",
+    "exampleTranslation": "Nós fazemos exercícios dia sim, dia não."
+  },
+  {
+    "id": "to_open_close_20",
+    "word": "What do you want to order?",
+    "translation": "O que você quer pedir?",
+    "pronunciation": "/wɑt du ju wɑnt tu ˈɔrdər?/",
+    "portuguesePhonetic": "uát du iu uónt tchu ór-der?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " want",
+      " to",
+      " or",
+      "der?"
+    ],
+    "exampleSentence": "What do you want to order?",
+    "exampleTranslation": "O que você quer pedir?"
+  },
+  {
+    "id": "to_open_close_21",
+    "word": "I need to eat something.",
+    "translation": "Eu preciso comer alguma coisa.",
+    "pronunciation": "/aɪ nid tə it ˈsʌmθɪŋ./",
+    "portuguesePhonetic": "ai nid tchu it sâm-thin.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " eat",
+      " some",
+      "thing."
+    ],
+    "exampleSentence": "I need to eat something.",
+    "exampleTranslation": "Eu preciso comer alguma coisa."
+  },
+  {
+    "id": "to_open_close_22",
+    "word": "We want to give you something for your birthday.",
+    "translation": "Nós queremos te dar algo pelo seu aniversário.",
+    "pronunciation": "/wi wɑnt tə ɡɪv ju ˈsʌmθɪŋ fɔr jʊr ˈbɜrθˌdeɪ./",
+    "portuguesePhonetic": "uí uónt tchu giv iu sâm-thin fór iór bãrth-dêi.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " give",
+      " you",
+      " some",
+      "thing",
+      " for",
+      " your",
+      " birth",
+      "day."
+    ],
+    "exampleSentence": "We want to give you something for your birthday.",
+    "exampleTranslation": "Nós queremos te dar algo pelo seu aniversário."
+  },
+  {
+    "id": "to_open_close_23",
+    "word": "I don't want anything to drink, thanks.",
+    "translation": "Eu não quero nada para beber, obrigado.",
+    "pronunciation": "/aɪ doʊnt wɑnt ˈɛniˌθɪŋ tə drɪŋk, θæŋks./",
+    "portuguesePhonetic": "ai dôunt uónt é-ni-thin tchu drinc, théncs.",
+    "syllables": [
+      "I",
+      " don't",
+      " want",
+      " a",
+      "ny",
+      "thing",
+      " to",
+      " drink,",
+      " thanks."
+    ],
+    "exampleSentence": "I don't want anything to drink, thanks.",
+    "exampleTranslation": "Eu não quero nada para beber, obrigado."
+  },
+  {
+    "id": "to_open_close_24",
+    "word": "She doesn't want to buy anything.",
+    "translation": "Ela não quer comprar nada.",
+    "pronunciation": "/ʃi ˈdʌzənt wɑnt tə baɪ ˈɛniˌθɪŋ./",
+    "portuguesePhonetic": "xi dâ-zont uónt tchu bai é-ni-thin.",
+    "syllables": [
+      "She",
+      " doe",
+      "sn't",
+      " want",
+      " to",
+      " buy",
+      " a",
+      "ny",
+      "thing."
+    ],
+    "exampleSentence": "She doesn't want to buy anything.",
+    "exampleTranslation": "Ela não quer comprar nada."
+  },
+  {
+    "id": "to_open_close_25",
+    "word": "Do you have anything to study today?",
+    "translation": "Você tem alguma coisa para estudar hoje?",
+    "pronunciation": "/du ju hæv ˈɛniˌθɪŋ tə ˈstʌdi təˈdeɪ?/",
+    "portuguesePhonetic": "du iu rév é-ni-thin tchu stâ-di tchu-dêi?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " a",
+      "ny",
+      "thing",
+      " to",
+      " stu",
+      "dy",
+      " to",
+      "day?"
+    ],
+    "exampleSentence": "Do you have anything to study today?",
+    "exampleTranslation": "Você tem alguma coisa para estudar hoje?"
+  },
+  {
+    "id": "to_open_close_26",
+    "word": "Do they want anything for dessert?",
+    "translation": "Eles querem alguma coisa de sobremesa?",
+    "pronunciation": "/du ðeɪ wɑnt ˈɛniˌθɪŋ fɔr dɪˈzɜrt?/",
+    "portuguesePhonetic": "du dêi uónt é-ni-thin for di-zãrt?",
+    "syllables": [
+      "Do",
+      " they",
+      " want",
+      " a",
+      "ny",
+      "thing",
+      " for",
+      " des",
+      "sert?"
+    ],
+    "exampleSentence": "Do they want anything for dessert?",
+    "exampleTranslation": "Eles querem alguma coisa de sobremesa?"
+  },
+  {
+    "id": "to_open_close_27",
+    "word": "The snack bar opens at noon.",
+    "translation": "A lanchonete abre ao meio-dia.",
+    "pronunciation": "/ðə snæk bɑr ˈoʊpənz æt nun./",
+    "portuguesePhonetic": "dâ snéc bar ôu-pens ét nun.",
+    "syllables": [
+      "The",
+      " snack",
+      " bar",
+      " o",
+      "pens",
+      " at",
+      " noon."
+    ],
+    "exampleSentence": "The snack bar opens at noon.",
+    "exampleTranslation": "A lanchonete abre ao meio-dia."
+  },
+  {
+    "id": "to_open_close_28",
+    "word": "Does it open on weekends too?",
+    "translation": "Ele abre aos finais de semana também?",
+    "pronunciation": "/dʌz ɪt ˈoʊpən ɑn ˈwikɛndz tu?/",
+    "portuguesePhonetic": "dâs it ôu-pen an ui-kends tu?",
+    "syllables": [
+      "Does",
+      " it",
+      " o",
+      "pen",
+      " on",
+      " week",
+      "ends",
+      " too?"
+    ],
+    "exampleSentence": "Does it open on weekends too?",
+    "exampleTranslation": "Ele abre aos finais de semana também?"
+  },
+  {
+    "id": "to_open_close_29",
+    "word": "The school opens at 9:00 AM.",
+    "translation": "A escola abre às 9h da manhã.",
+    "pronunciation": "/ðə skul ˈoʊpənz æt naɪn eɪ-ɛm./",
+    "portuguesePhonetic": "dâ scul ôu-pens ét nain êi-ém.",
+    "syllables": [
+      "The",
+      " school",
+      " o",
+      "pens",
+      " at",
+      " 9:00",
+      " AM."
+    ],
+    "exampleSentence": "The school opens at 9:00 AM.",
+    "exampleTranslation": "A escola abre às 9h da manhã."
+  },
+  {
+    "id": "to_open_close_30",
+    "word": "The snack bar opens at 9:00 AM.",
+    "translation": "A lanchonete abre às 9h da manhã.",
+    "pronunciation": "/ðə snæk bɑr ˈoʊpənz æt naɪn eɪ-ɛm./",
+    "portuguesePhonetic": "dâ snéc bar ôu-pens ét nain êi-ém.",
+    "syllables": [
+      "The",
+      " snack",
+      " bar",
+      " o",
+      "pens",
+      " at",
+      " 9:00",
+      " AM."
+    ],
+    "exampleSentence": "The snack bar opens at 9:00 AM.",
+    "exampleTranslation": "A lanchonete abre às 9h da manhã."
+  },
+  {
+    "id": "to_open_close_31",
+    "word": "The gym doesn't close on Sundays.",
+    "translation": "A academia não fecha aos domingos.",
+    "pronunciation": "/ðə dʒɪm ˈdʌzənt kloʊz ɑn ˈsʌndeɪz./",
+    "portuguesePhonetic": "dâ djin dâ-zônt clôuz an sân-dêis.",
+    "syllables": [
+      "The",
+      " gym",
+      " doe",
+      "sn't",
+      " close",
+      " on",
+      " Sun",
+      "days."
+    ],
+    "exampleSentence": "The gym doesn't close on Sundays.",
+    "exampleTranslation": "A academia não fecha aos domingos."
+  },
+  {
+    "id": "to_open_close_32",
+    "word": "Do they close the museum early on Tuesdays?",
+    "translation": "Eles fecham o museu cedo às terças-feiras?",
+    "pronunciation": "/du ðeɪ kloʊz ðə mjuˈziəm ˈɜrli ɑn ˈtuzdeɪz?/",
+    "portuguesePhonetic": "du dêi clôuz dâ miu-zí-em ãr-li an tús-dêis?",
+    "syllables": [
+      "Do",
+      " they",
+      " close",
+      " the",
+      " mu",
+      "se",
+      "um",
+      " ear",
+      "ly",
+      " on",
+      " Tues",
+      "days?"
+    ],
+    "exampleSentence": "Do they close the museum early on Tuesdays?",
+    "exampleTranslation": "Eles fecham o museu cedo às terças-feiras?"
+  },
+  {
+    "id": "to_open_close_33",
+    "word": "What time does it open?",
+    "translation": "A que horas abre?",
+    "pronunciation": "/wɑt taɪm dʌz ɪt ˈoʊpən?/",
+    "portuguesePhonetic": "uát taim dâs it ôu-pen?",
+    "syllables": [
+      "What",
+      " time",
+      " does",
+      " it",
+      " o",
+      "pen?"
+    ],
+    "exampleSentence": "What time does it open?",
+    "exampleTranslation": "A que horas abre?"
+  },
+  {
+    "id": "to_open_close_34",
+    "word": "Do you need anything?",
+    "translation": "Você precisa de alguma coisa?",
+    "pronunciation": "/du ju nid ˈɛniˌθɪŋ?/",
+    "portuguesePhonetic": "du iu nid é-ni-thin?",
+    "syllables": [
+      "Do",
+      " you",
+      " need",
+      " a",
+      "ny",
+      "thing?"
+    ],
+    "exampleSentence": "Do you need anything?",
+    "exampleTranslation": "Você precisa de alguma coisa?"
+  },
+  {
+    "id": "to_open_close_35",
+    "word": "I don't need anything, thanks.",
+    "translation": "Eu não preciso de nada, obrigado.",
+    "pronunciation": "/aɪ doʊnt nid ˈɛniˌθɪŋ, θæŋks./",
+    "portuguesePhonetic": "ai dôunt nid é-ni-thin, théncs.",
+    "syllables": [
+      "I",
+      " don't",
+      " need",
+      " a",
+      "ny",
+      "thing,",
+      " thanks."
+    ],
+    "exampleSentence": "I don't need anything, thanks.",
+    "exampleTranslation": "Eu não preciso de nada, obrigado."
+  },
+  {
+    "id": "to_open_close_36",
+    "word": "Are you thirsty? Do you want something to drink?",
+    "translation": "Você está com sede? Quer alguma coisa para beber?",
+    "pronunciation": "/ɑr ju ˈθɜrsti? du ju wɑnt ˈsʌmθɪŋ tə drɪŋk?/",
+    "portuguesePhonetic": "ar iu thãrs-ti? du iu uónt sâm-thin tchu drinc?",
+    "syllables": [
+      "Are",
+      " you",
+      " thirs",
+      "ty?",
+      " Do",
+      " you",
+      " want",
+      " some",
+      "thing",
+      " to",
+      " drink?"
+    ],
+    "exampleSentence": "Are you thirsty? Do you want something to drink?",
+    "exampleTranslation": "Você está com sede? Quer alguma coisa para beber?"
+  },
+  {
+    "id": "to_open_close_37",
+    "word": "I'm hungry. I want something to eat.",
+    "translation": "Estou com fome. Eu quero algo para comer.",
+    "pronunciation": "/aɪm ˈhʌŋɡri. aɪ wɑnt ˈsʌmθɪŋ tu it./",
+    "portuguesePhonetic": "aim rân-gri. ai uónt sâm-thin tchu it.",
+    "syllables": [
+      "I'm",
+      " hun",
+      "gry.",
+      " I",
+      " want",
+      " some",
+      "thing",
+      " to",
+      " eat."
+    ],
+    "exampleSentence": "I'm hungry. I want something to eat.",
+    "exampleTranslation": "Estou com fome. Eu quero algo para comer."
+  },
+  {
+    "id": "to_open_close_38",
+    "word": "Open this bottle for me, please.",
+    "translation": "Abra esta garrafa para mim, por favor.",
+    "pronunciation": "/ˈoʊpən ðɪs ˈbɑtəl fɔr mi, pliz./",
+    "portuguesePhonetic": "ôu-pen díz bá-tou fór mi, plis.",
+    "syllables": [
+      "O",
+      "pen",
+      " this",
+      " bot",
+      "tle",
+      " for",
+      " me,",
+      " please."
+    ],
+    "exampleSentence": "Open this bottle for me, please.",
+    "exampleTranslation": "Abra esta garrafa para mim, por favor."
+  },
+  {
+    "id": "to_open_close_39",
+    "word": "I need a fork to eat my cake.",
+    "translation": "Eu preciso de um garfo para comer meu bolo.",
+    "pronunciation": "/aɪ nid ə fɔrk tu it maɪ keɪk./",
+    "portuguesePhonetic": "ai nid a fórc tchu it mai cêic.",
+    "syllables": [
+      "I",
+      " need",
+      " a",
+      " fork",
+      " to",
+      " eat",
+      " my",
+      " cake."
+    ],
+    "exampleSentence": "I need a fork to eat my cake.",
+    "exampleTranslation": "Eu preciso de um garfo para comer meu bolo."
+  },
+  {
+    "id": "to_open_close_40",
+    "word": "to have breakfast",
+    "translation": "tomar café da manhã",
+    "pronunciation": "/tə hæv ˈbrɛkfəst/",
+    "portuguesePhonetic": "tchu rév bréc-fast",
+    "syllables": [
+      "to",
+      " have",
+      " break",
+      "fast"
+    ],
+    "exampleSentence": "to have breakfast",
+    "exampleTranslation": "tomar café da manhã"
+  },
+  {
+    "id": "to_open_close_41",
+    "word": "to have lunch",
+    "translation": "almoçar",
+    "pronunciation": "/tə hæv lʌntʃ/",
+    "portuguesePhonetic": "tchu rév lântch",
+    "syllables": [
+      "to",
+      " have",
+      " lunch"
+    ],
+    "exampleSentence": "to have lunch",
+    "exampleTranslation": "almoçar"
+  },
+  {
+    "id": "to_open_close_42",
+    "word": "to have a snack",
+    "translation": "fazer um lanche",
+    "pronunciation": "/tə hæv ə snæk/",
+    "portuguesePhonetic": "tchu rév a snéc",
+    "syllables": [
+      "to",
+      " have",
+      " a",
+      " snack"
+    ],
+    "exampleSentence": "to have a snack",
+    "exampleTranslation": "fazer um lanche"
+  },
+  {
+    "id": "to_open_close_43",
+    "word": "to have dinner",
+    "translation": "jantar",
+    "pronunciation": "/tə hæv ˈdɪnər/",
+    "portuguesePhonetic": "tchu rév dí-ner",
+    "syllables": [
+      "to",
+      " have",
+      " din",
+      "ner"
+    ],
+    "exampleSentence": "to have dinner",
+    "exampleTranslation": "jantar"
+  },
+  {
+    "id": "to_open_close_44",
+    "word": "to have dessert",
+    "translation": "comer sobremesa",
+    "pronunciation": "/tə hæv dɪˈzɜrt/",
+    "portuguesePhonetic": "tchu rév di-zãrt",
+    "syllables": [
+      "to",
+      " have",
+      " des",
+      "sert"
+    ],
+    "exampleSentence": "to have dessert",
+    "exampleTranslation": "comer sobremesa"
+  },
+  {
+    "id": "to_open_close_45",
+    "word": "to have some soup",
+    "translation": "tomar um pouco de sopa",
+    "pronunciation": "/tə hæv sʌm sup/",
+    "portuguesePhonetic": "tchu rév sâm sup",
+    "syllables": [
+      "to",
+      " have",
+      " some",
+      " soup"
+    ],
+    "exampleSentence": "to have some soup",
+    "exampleTranslation": "tomar um pouco de sopa"
+  },
+  {
+    "id": "to_open_close_46",
+    "word": "to have milkshake",
+    "translation": "tomar milkshake",
+    "pronunciation": "/tə hæv ˈmɪlkˌʃeɪk/",
+    "portuguesePhonetic": "tchu rév milc-xêic",
+    "syllables": [
+      "to",
+      " have",
+      " milk",
+      "shake"
+    ],
+    "exampleSentence": "to have milkshake",
+    "exampleTranslation": "tomar milkshake"
+  },
+  {
+    "id": "to_open_close_47",
+    "word": "to have ice cream",
+    "translation": "tomar sorvete",
+    "pronunciation": "/tə hæv aɪs krim/",
+    "portuguesePhonetic": "tchu rév aís crim",
+    "syllables": [
+      "to",
+      " have",
+      " ice",
+      " cream"
+    ],
+    "exampleSentence": "to have ice cream",
+    "exampleTranslation": "tomar sorvete"
+  },
+  {
+    "id": "to_open_close_48",
+    "word": "Are you ready to order?",
+    "translation": "Você está pronto para pedir?",
+    "pronunciation": "/ɑr ju ˈrɛdi tu ˈɔrdər?/",
+    "portuguesePhonetic": "ar iu ré-di tchu ór-der?",
+    "syllables": [
+      "Are",
+      " you",
+      " rea",
+      "dy",
+      " to",
+      " or",
+      "der?"
+    ],
+    "exampleSentence": "Are you ready to order?",
+    "exampleTranslation": "Você está pronto para pedir?"
+  },
+  {
+    "id": "to_open_close_49",
+    "word": "Yes, I'll have a cheeseburger and fries.",
+    "translation": "Sim, eu vou querer um cheeseburger e batatas fritas.",
+    "pronunciation": "/jɛs, aɪl hæv ə ˈtʃizˌbɜrɡər ænd fraɪz./",
+    "portuguesePhonetic": "iés, ail rév a tchis-bãr-guer énd frais.",
+    "syllables": [
+      "Yes,",
+      " I'",
+      "ll",
+      " have",
+      " a",
+      " cheese",
+      "bur",
+      "ger",
+      " and",
+      " fries."
+    ],
+    "exampleSentence": "Yes, I'll have a cheeseburger and fries.",
+    "exampleTranslation": "Sim, eu vou querer um cheeseburger e batatas fritas."
+  },
+  {
+    "id": "to_open_close_50",
+    "word": "knife → knives",
+    "translation": "faca → facas (plural irregular)",
+    "pronunciation": "/naɪf → naɪvz/",
+    "portuguesePhonetic": "naif → naivz",
+    "syllables": [
+      "knife",
+      " →",
+      " knives"
+    ],
+    "exampleSentence": "knife → knives",
+    "exampleTranslation": "faca → facas (plural irregular)"
+  },
+  {
+    "id": "to_open_close_51",
+    "word": "I need to open this bottle. I want to drink some juice.",
+    "translation": "Eu preciso abrir esta garrafa. Eu quero beber um pouco de suco.",
+    "pronunciation": "/aɪ nid tu ˈoʊpən ðɪs ˈbɑtəl. aɪ wɑnt tu drɪŋk sʌm dʒus./",
+    "portuguesePhonetic": "ai nid tchu ôu-pen díz bá-tou. ai uánt tchu drínc sâm djus.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " o",
+      "pen",
+      " this",
+      " bot",
+      "tle.",
+      " I",
+      " want",
+      " to",
+      " drink",
+      " some",
+      " juice."
+    ],
+    "exampleSentence": "I need to open this bottle. I want to drink some juice.",
+    "exampleTranslation": "Eu preciso abrir esta garrafa. Eu quero beber um pouco de suco."
+  },
+  {
+    "id": "to_open_close_52",
+    "word": "The ice cream shop closes at ten o'clock on Saturdays.",
+    "translation": "A sorveteria fecha às dez horas aos sábados.",
+    "pronunciation": "/ðə aɪs krim ʃɑp ˈkloʊzəz æt tɛn əˈklɑk ɑn ˈsætərˌdeɪz./",
+    "portuguesePhonetic": "dâ áis crim xáp clôu-ziz ét tén a-clóc an sé-ter-dêis.",
+    "syllables": [
+      "The",
+      " ice",
+      " cream",
+      " shop",
+      " clo",
+      "ses",
+      " at",
+      " ten",
+      " o'clock",
+      " on",
+      " Sat",
+      "ur",
+      "days."
+    ],
+    "exampleSentence": "The ice cream shop closes at ten o'clock on Saturdays.",
+    "exampleTranslation": "A sorveteria fecha às dez horas aos sábados."
+  },
+  {
+    "id": "to_open_close_53",
+    "word": "I need a fork and a knife, please.",
+    "translation": "Eu preciso de um garfo e uma faca, por favor.",
+    "pronunciation": "/aɪ nid ə fɔrk ænd ə naɪf, pliz./",
+    "portuguesePhonetic": "ai nid â fórc énd â naif, plis.",
+    "syllables": [
+      "I",
+      " need",
+      " a",
+      " fork",
+      " and",
+      " a",
+      " knife,",
+      " please."
+    ],
+    "exampleSentence": "I need a fork and a knife, please.",
+    "exampleTranslation": "Eu preciso de um garfo e uma faca, por favor."
+  },
+  {
+    "id": "to_open_close_54",
+    "word": "Do you want something to drink? – A can of soda, please.",
+    "translation": "Você quer alguma coisa para beber? – Uma lata de refrigerante, por favor.",
+    "pronunciation": "/du ju wɑnt ˈsʌmθɪŋ tu drɪŋk? – ə kæn ʌv ˈsoʊdə, pliz./",
+    "portuguesePhonetic": "du iu uánt sâm-thing tchu drínc? – â kén áv sôu-da, plis.",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " some",
+      "thing",
+      " to",
+      " drink?",
+      " –",
+      " A",
+      " can",
+      " of",
+      " so",
+      "da,",
+      " please."
+    ],
+    "exampleSentence": "Do you want something to drink? – A can of soda, please.",
+    "exampleTranslation": "Você quer alguma coisa para beber? – Uma lata de refrigerante, por favor."
+  },
+  {
+    "id": "to_open_close_55",
+    "word": "They want to have a snack now.",
+    "translation": "Eles querem fazer um lanche agora.",
+    "pronunciation": "/ðeɪ wɑnt tu hæv ə snæk naʊ./",
+    "portuguesePhonetic": "dêi uánt tchu rév â snéc náu.",
+    "syllables": [
+      "They",
+      " want",
+      " to",
+      " have",
+      " a",
+      " snack",
+      " now."
+    ],
+    "exampleSentence": "They want to have a snack now.",
+    "exampleTranslation": "Eles querem fazer um lanche agora."
+  },
+  {
+    "id": "to_open_close_56",
+    "word": "I want to have a milkshake at the snack bar. – It opens at eight o'clock.",
+    "translation": "Eu quero tomar um milk-shake na lanchonete. – Ela abre às oito horas.",
+    "pronunciation": "/aɪ wɑnt tu hæv ə ˈmɪlkˌʃeɪk æt ðə snæk bɑr. – ɪt ˈoʊpənz æt eɪt əˈklɑk./",
+    "portuguesePhonetic": "ai uánt tchu rév â mílc-xêic ét dâ snéc bár. – it ôu-penz ét êit a-clóc.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " have",
+      " a",
+      " milk",
+      "shake",
+      " at",
+      " the",
+      " snack",
+      " bar.",
+      " –",
+      " It",
+      " o",
+      "pens",
+      " at",
+      " eight",
+      " o'clock."
+    ],
+    "exampleSentence": "I want to have a milkshake at the snack bar. – It opens at eight o'clock.",
+    "exampleTranslation": "Eu quero tomar um milk-shake na lanchonete. – Ela abre às oito horas."
+  },
+  {
+    "id": "to_open_close_57",
+    "word": "Where is the ice cream shop? – It's near here.",
+    "translation": "Onde é a sorveteria? – É perto daqui.",
+    "pronunciation": "/wɛr ɪz ðə aɪs krim ʃɑp? – ɪts nɪr hɪr./",
+    "portuguesePhonetic": "uér iz dâ áis crim xáp? – its níar ríar.",
+    "syllables": [
+      "Where",
+      " is",
+      " the",
+      " ice",
+      " cream",
+      " shop?",
+      " –",
+      " It's",
+      " near",
+      " here."
+    ],
+    "exampleSentence": "Where is the ice cream shop? – It's near here.",
+    "exampleTranslation": "Onde é a sorveteria? – É perto daqui."
+  },
+  {
+    "id": "to_open_close_58",
+    "word": "What time does the Italian restaurant open? – It opens at 7:00 p.m.",
+    "translation": "A que horas o restaurante italiano abre? – Abre às 7:00 da noite.",
+    "pronunciation": "/wʌt taɪm dʌz ðə ɪˈtæljən ˈrɛstəˌrɑnt ˈoʊpən? – ɪt ˈoʊpənz æt ˈsɛvən pi-ɛm./",
+    "portuguesePhonetic": "uát táim dâz dâ i-té-lian rés-to-rant ôu-pen? – it ôu-penz ét sé-ven pi-ém.",
+    "syllables": [
+      "What",
+      " time",
+      " does",
+      " the",
+      " I",
+      "tal",
+      "ian",
+      " res",
+      "tau",
+      "rant",
+      " o",
+      "pen?",
+      " –",
+      " It",
+      " o",
+      "pens",
+      " at",
+      " 7:00",
+      " p.m."
+    ],
+    "exampleSentence": "What time does the Italian restaurant open? – It opens at 7:00 p.m.",
+    "exampleTranslation": "A que horas o restaurante italiano abre? – Abre às 7:00 da noite."
+  },
+  {
+    "id": "to_open_close_59",
+    "word": "Do you need anything? – Yes, we need some napkins, please.",
+    "translation": "Vocês precisam de alguma coisa? – Sim, nós precisamos de guardanapos, por favor.",
+    "pronunciation": "/du ju nid ˈɛniˌθɪŋ? – jɛs, wi nid sʌm ˈnæpkɪnz, pliz./",
+    "portuguesePhonetic": "du iu nid é-ni-thing? – iés, ui nid sâm nép-kins, plis.",
+    "syllables": [
+      "Do",
+      " you",
+      " need",
+      " an",
+      "y",
+      "thing?",
+      " –",
+      " Yes,",
+      " we",
+      " need",
+      " some",
+      " nap",
+      "kins,",
+      " please."
+    ],
+    "exampleSentence": "Do you need anything? – Yes, we need some napkins, please.",
+    "exampleTranslation": "Vocês precisam de alguma coisa? – Sim, nós precisamos de guardanapos, por favor."
+  },
+  {
+    "id": "to_open_close_60",
+    "word": "I'm hungry. Do you want to order something?",
+    "translation": "Eu estou com fome. Você quer pedir alguma coisa?",
+    "pronunciation": "/aɪm ˈhʌŋɡri. du ju wɑnt tu ˈɔrdər ˈsʌmθɪŋ?/",
+    "portuguesePhonetic": "aim rân-gri. du iu uánt tchu ór-der sâm-thing?",
+    "syllables": [
+      "I'm",
+      " hun",
+      "gry.",
+      " Do",
+      " you",
+      " want",
+      " to",
+      " or",
+      "der",
+      " some",
+      "thing?"
+    ],
+    "exampleSentence": "I'm hungry. Do you want to order something?",
+    "exampleTranslation": "Eu estou com fome. Você quer pedir alguma coisa?"
+  },
+  {
+    "id": "to_open_close_61",
+    "word": "I need some medicine to feel better.",
+    "translation": "Eu preciso de um remédio para me sentir melhor.",
+    "pronunciation": "/aɪ nid sʌm ˈmɛdəsən tu fil ˈbɛtər./",
+    "portuguesePhonetic": "ai nid sâm mé-di-sin tchu fil bé-ter.",
+    "syllables": [
+      "I",
+      " need",
+      " some",
+      " med",
+      "i",
+      "cine",
+      " to",
+      " feel",
+      " bet",
+      "ter."
+    ],
+    "exampleSentence": "I need some medicine to feel better.",
+    "exampleTranslation": "Eu preciso de um remédio para me sentir melhor."
+  },
+  {
+    "id": "to_open_close_62",
+    "word": "We want to go out tonight.",
+    "translation": "Nós queremos sair esta noite.",
+    "pronunciation": "/wi wɑnt tu ɡoʊ aʊt təˈnaɪt./",
+    "portuguesePhonetic": "ui uánt tchu gôu áut tchu-náit.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " go",
+      " out",
+      " to",
+      "night."
+    ],
+    "exampleSentence": "We want to go out tonight.",
+    "exampleTranslation": "Nós queremos sair esta noite."
+  },
+  {
+    "id": "to_open_close_63",
+    "word": "I drink coffee every other day.",
+    "translation": "Eu tomo café dia sim, dia não.",
+    "pronunciation": "/aɪ drɪŋk ˈkɔfi ˈɛvri ˈʌðər deɪ./",
+    "portuguesePhonetic": "ai drínc có-fi év-ri á-der dêi.",
+    "syllables": [
+      "I",
+      " drink",
+      " cof",
+      "fee",
+      " ev",
+      "ery",
+      " oth",
+      "er",
+      " day."
+    ],
+    "exampleSentence": "I drink coffee every other day.",
+    "exampleTranslation": "Eu tomo café dia sim, dia não."
+  },
+  {
+    "id": "to_open_close_64",
+    "word": "I'm sure she is at home.",
+    "translation": "Tenho certeza de que ela está em casa.",
+    "pronunciation": "/aɪm ʃʊr ʃi ɪz æt hoʊm./",
+    "portuguesePhonetic": "aim xúr chi iz ét rôum.",
+    "syllables": [
+      "I'm",
+      " sure",
+      " she",
+      " is",
+      " at",
+      " home."
+    ],
+    "exampleSentence": "I'm sure she is at home.",
+    "exampleTranslation": "Tenho certeza de que ela está em casa."
+  },
+  {
+    "id": "to_open_close_65",
+    "word": "We want to order a pizza.",
+    "translation": "Nós queremos pedir uma pizza.",
+    "pronunciation": "/wi wɑnt tu ˈɔrdər ə ˈpitsə./",
+    "portuguesePhonetic": "ui uánt tchu ór-der â pít-tsa.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " or",
+      "der",
+      " a",
+      " piz",
+      "za."
+    ],
+    "exampleSentence": "We want to order a pizza.",
+    "exampleTranslation": "Nós queremos pedir uma pizza."
+  },
+  {
+    "id": "to_open_close_66",
+    "word": "I want to have dessert after dinner.",
+    "translation": "Eu quero comer sobremesa depois do jantar.",
+    "pronunciation": "/aɪ wɑnt tu hæv dɪˈzɜrt ˈæftər ˈdɪnər./",
+    "portuguesePhonetic": "ai uánt tchu rév di-zãrt éf-ter dín-ner.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " have",
+      " des",
+      "sert",
+      " af",
+      "ter",
+      " din",
+      "ner."
+    ],
+    "exampleSentence": "I want to have dessert after dinner.",
+    "exampleTranslation": "Eu quero comer sobremesa depois do jantar."
+  },
+  {
+    "id": "to_open_close_67",
+    "word": "Do you need anything?",
+    "translation": "Você precisa de alguma coisa?",
+    "pronunciation": "/du ju nid ˈɛniˌθɪŋ?/",
+    "portuguesePhonetic": "du iu nid é-ni-thing?",
+    "syllables": [
+      "Do",
+      " you",
+      " need",
+      " an",
+      "y",
+      "thing?"
+    ],
+    "exampleSentence": "Do you need anything?",
+    "exampleTranslation": "Você precisa de alguma coisa?"
+  },
+  {
+    "id": "to_open_close_68",
+    "word": "I want something to drink.",
+    "translation": "Eu quero alguma coisa para beber.",
+    "pronunciation": "/aɪ wɑnt ˈsʌmθɪŋ tu drɪŋk./",
+    "portuguesePhonetic": "ai uánt sâm-thing tchu drínc.",
+    "syllables": [
+      "I",
+      " want",
+      " some",
+      "thing",
+      " to",
+      " drink."
+    ],
+    "exampleSentence": "I want something to drink.",
+    "exampleTranslation": "Eu quero alguma coisa para beber."
+  },
+  {
+    "id": "to_open_close_69",
+    "word": "Do you have anything to study today?",
+    "translation": "Você tem alguma coisa para estudar hoje?",
+    "pronunciation": "/du ju hæv ˈɛniˌθɪŋ tu ˈstʌdi təˈdeɪ?/",
+    "portuguesePhonetic": "du iu rév é-ni-thing tchu stâ-di tchu-dêi?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " an",
+      "y",
+      "thing",
+      " to",
+      " stud",
+      "y",
+      " to",
+      "day?"
+    ],
+    "exampleSentence": "Do you have anything to study today?",
+    "exampleTranslation": "Você tem alguma coisa para estudar hoje?"
+  },
+  {
+    "id": "to_open_close_70",
+    "word": "We don't want anything to drink.",
+    "translation": "Nós não queremos nada para beber.",
+    "pronunciation": "/wi doʊnt wɑnt ˈɛniˌθɪŋ tu drɪŋk./",
+    "portuguesePhonetic": "ui dôunt uánt é-ni-thing tchu drínc.",
+    "syllables": [
+      "We",
+      " don't",
+      " want",
+      " an",
+      "y",
+      "thing",
+      " to",
+      " drink."
+    ],
+    "exampleSentence": "We don't want anything to drink.",
+    "exampleTranslation": "Nós não queremos nada para beber."
+  },
+  {
+    "id": "to_open_close_71",
+    "word": "I want to give something to my mother on her birthday.",
+    "translation": "Eu quero dar alguma coisa para minha mãe no aniversário dela.",
+    "pronunciation": "/aɪ wɑnt tu ɡɪv ˈsʌmθɪŋ tu maɪ ˈmʌðər ɑn hər ˈbɜrθˌdeɪ./",
+    "portuguesePhonetic": "ai uánt tchu giv sâm-thing tchu mai má-der an rãr bãrth-dêi.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " give",
+      " some",
+      "thing",
+      " to",
+      " my",
+      " moth",
+      "er",
+      " on",
+      " her",
+      " birth",
+      "day."
+    ],
+    "exampleSentence": "I want to give something to my mother on her birthday.",
+    "exampleTranslation": "Eu quero dar alguma coisa para minha mãe no aniversário dela."
+  },
+  {
+    "id": "to_open_close_72",
+    "word": "Do they need something to open that bottle?",
+    "translation": "Eles precisam de alguma coisa para abrir aquela garrafa?",
+    "pronunciation": "/du ðeɪ nid ˈsʌmθɪŋ tu ˈoʊpən ðæt ˈbɑtəl?/",
+    "portuguesePhonetic": "du dêi nid sâm-thing tchu ôu-pen dét bá-tou?",
+    "syllables": [
+      "Do",
+      " they",
+      " need",
+      " some",
+      "thing",
+      " to",
+      " o",
+      "pen",
+      " that",
+      " bot",
+      "tle?"
+    ],
+    "exampleSentence": "Do they need something to open that bottle?",
+    "exampleTranslation": "Eles precisam de alguma coisa para abrir aquela garrafa?"
+  },
+  {
+    "id": "to_open_close_73",
+    "word": "I don't want to eat anything different this weekend.",
+    "translation": "Eu não quero comer nada diferente neste fim de semana.",
+    "pronunciation": "/aɪ doʊnt wɑnt tu it ˈɛniˌθɪŋ ˈdɪfərənt ðɪs ˈwiˌkɛnd./",
+    "portuguesePhonetic": "ai dôunt uánt tchu item é-ni-thing dí-fe-rent díz uíc-end.",
+    "syllables": [
+      "I",
+      " don't",
+      " want",
+      " to",
+      " eat",
+      " an",
+      "y",
+      "thing",
+      " dif",
+      "fer",
+      "ent",
+      " this",
+      " week",
+      "end."
+    ],
+    "exampleSentence": "I don't want to eat anything different this weekend.",
+    "exampleTranslation": "Eu não quero comer nada diferente neste fim de semana."
+  },
+  {
+    "id": "to_open_close_74",
+    "word": "I don't think she needs anything.",
+    "translation": "Eu não acho que ela precise de nada.",
+    "pronunciation": "/aɪ doʊnt θɪŋk ʃi nidz ˈɛniˌθɪŋ./",
+    "portuguesePhonetic": "ai dôunt thínc chi nids é-ni-thing.",
+    "syllables": [
+      "I",
+      " don't",
+      " think",
+      " she",
+      " needs",
+      " an",
+      "y",
+      "thing."
+    ],
+    "exampleSentence": "I don't think she needs anything.",
+    "exampleTranslation": "Eu não acho que ela precise de nada."
+  },
+  {
+    "id": "to_open_close_75",
+    "word": "Do you want to make something delicious for the children?",
+    "translation": "Você quer fazer alguma coisa deliciosa para as crianças?",
+    "pronunciation": "/du ju wɑnt tu meɪk ˈsʌmθɪŋ dɪˈlɪʃəs fɔr ðə ˈtʃɪldrən?/",
+    "portuguesePhonetic": "du iu uánt tchu mêic sâm-thing di-lí-chas fór dâ tchíl-dren?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " make",
+      " some",
+      "thing",
+      " de",
+      "li",
+      "cious",
+      " for",
+      " the",
+      " chil",
+      "dren?"
+    ],
+    "exampleSentence": "Do you want to make something delicious for the children?",
+    "exampleTranslation": "Você quer fazer alguma coisa deliciosa para as crianças?"
+  },
+  {
+    "id": "to_open_close_76",
+    "word": "You don't have to read anything before the exam.",
+    "translation": "Você não precisa ler nada antes da prova.",
+    "pronunciation": "/ju doʊnt hæv tu rid ˈɛniˌθɪŋ bɪˈfɔr ðə ɪɡˈzæm./",
+    "portuguesePhonetic": "iu dôunt rév tchu rid é-ni-thing bi-fór dâ eg-zém.",
+    "syllables": [
+      "You",
+      " don't",
+      " have",
+      " to",
+      " read",
+      " an",
+      "y",
+      "thing",
+      " be",
+      "fore",
+      " the",
+      " ex",
+      "am."
+    ],
+    "exampleSentence": "You don't have to read anything before the exam.",
+    "exampleTranslation": "Você não precisa ler nada antes da prova."
+  },
+  {
+    "id": "to_open_close_77",
+    "word": "bottle",
+    "translation": "garrafa",
+    "pronunciation": "/ˈbɑtəl/",
+    "portuguesePhonetic": "bá-tou",
+    "syllables": [
+      "bot",
+      "tle"
+    ],
+    "exampleSentence": "I need to open this bottle.",
+    "exampleTranslation": "Eu preciso abrir esta garrafa."
+  },
+  {
+    "id": "to_open_close_78",
+    "word": "juice",
+    "translation": "suco",
+    "pronunciation": "/dʒus/",
+    "portuguesePhonetic": "djus",
+    "syllables": [
+      "juice"
+    ],
+    "exampleSentence": "I want to drink some juice.",
+    "exampleTranslation": "Eu quero beber um pouco de suco."
+  },
+  {
+    "id": "to_open_close_79",
+    "word": "ice cream shop",
+    "translation": "sorveteria",
+    "pronunciation": "/aɪs krim ʃɑp/",
+    "portuguesePhonetic": "áis crim xáp",
+    "syllables": [
+      "ice",
+      " cream",
+      " shop"
+    ],
+    "exampleSentence": "Where is the ice cream shop?",
+    "exampleTranslation": "Onde é a sorveteria?"
+  },
+  {
+    "id": "to_open_close_80",
+    "word": "fork",
+    "translation": "garfo",
+    "pronunciation": "/fɔrk/",
+    "portuguesePhonetic": "fórc",
+    "syllables": [
+      "fork"
+    ],
+    "exampleSentence": "I need a fork and a knife, please.",
+    "exampleTranslation": "Eu preciso de um garfo e uma faca, por favor."
+  },
+  {
+    "id": "to_open_close_81",
+    "word": "knife",
+    "translation": "faca",
+    "pronunciation": "/naɪf/",
+    "portuguesePhonetic": "naif",
+    "syllables": [
+      "knife"
+    ],
+    "exampleSentence": "I need a fork and a knife, please.",
+    "exampleTranslation": "Eu preciso de um garfo e uma faca, por favor."
+  },
+  {
+    "id": "to_open_close_82",
+    "word": "can of soda",
+    "translation": "lata de refrigerante",
+    "pronunciation": "/kæn ʌv ˈsoʊdə/",
+    "portuguesePhonetic": "kén áv sôu-da",
+    "syllables": [
+      "can",
+      " of",
+      " so",
+      "da"
+    ],
+    "exampleSentence": "Do you want a can of soda?",
+    "exampleTranslation": "Você quer uma lata de refrigerante?"
+  },
+  {
+    "id": "to_open_close_83",
+    "word": "snack",
+    "translation": "lanche",
+    "pronunciation": "/snæk/",
+    "portuguesePhonetic": "snéc",
+    "syllables": [
+      "snack"
+    ],
+    "exampleSentence": "They want to have a snack now.",
+    "exampleTranslation": "Eles querem fazer um lanche agora."
+  },
+  {
+    "id": "to_open_close_84",
+    "word": "snack bar",
+    "translation": "lanchonete",
+    "pronunciation": "/snæk bɑr/",
+    "portuguesePhonetic": "snéc bár",
+    "syllables": [
+      "snack",
+      " bar"
+    ],
+    "exampleSentence": "I want to have a milkshake at the snack bar.",
+    "exampleTranslation": "Eu quero tomar um milk-shake na lanchonete."
+  },
+  {
+    "id": "to_open_close_85",
+    "word": "milkshake",
+    "translation": "milk-shake",
+    "pronunciation": "/ˈmɪlkˌʃeɪk/",
+    "portuguesePhonetic": "mílc-xêic",
+    "syllables": [
+      "milk",
+      "shake"
+    ],
+    "exampleSentence": "I love to drink milkshake.",
+    "exampleTranslation": "Eu adoro tomar milk-shake."
+  },
+  {
+    "id": "to_open_close_86",
+    "word": "napkin",
+    "translation": "guardanapo",
+    "pronunciation": "/ˈnæpkɪn/",
+    "portuguesePhonetic": "nép-kin",
+    "syllables": [
+      "nap",
+      "kin"
+    ],
+    "exampleSentence": "Yes, we need some napkins, please.",
+    "exampleTranslation": "Sim, nós precisamos de guardanapos, por favor."
+  },
+  {
+    "id": "to_open_close_87",
+    "word": "order",
+    "translation": "pedir",
+    "pronunciation": "/ˈɔrdər/",
+    "portuguesePhonetic": "ór-der",
+    "syllables": [
+      "or",
+      "der"
+    ],
+    "exampleSentence": "Do you want to order something?",
+    "exampleTranslation": "Você quer pedir alguma coisa?"
+  },
+  {
+    "id": "to_open_close_88",
+    "word": "dessert",
+    "translation": "sobremesa",
+    "pronunciation": "/dɪˈzɜrt/",
+    "portuguesePhonetic": "di-zãrt",
+    "syllables": [
+      "des",
+      "sert"
+    ],
+    "exampleSentence": "I want to have dessert after dinner.",
+    "exampleTranslation": "Eu quero comer sobremesa depois do jantar."
+  },
+  {
+    "id": "to_open_close_89",
+    "word": "hungry",
+    "translation": "com fome",
+    "pronunciation": "/ˈhʌŋɡri/",
+    "portuguesePhonetic": "rân-gri",
+    "syllables": [
+      "hun",
+      "gry"
+    ],
+    "exampleSentence": "I'm hungry. Do you want to order something?",
+    "exampleTranslation": "Eu estou com fome. Você quer pedir alguma coisa?"
+  },
+  {
+    "id": "to_open_close_90",
+    "word": "anything",
+    "translation": "qualquer coisa / nada (em negativas)",
+    "pronunciation": "/ˈɛniˌθɪŋ/",
+    "portuguesePhonetic": "é-ni-thing",
+    "syllables": [
+      "an",
+      "y",
+      "thing"
+    ],
+    "exampleSentence": "Do you need anything?",
+    "exampleTranslation": "Você precisa de alguma coisa?"
+  },
+  {
+    "id": "to_open_close_91",
+    "word": "something",
+    "translation": "alguma coisa",
+    "pronunciation": "/ˈsʌmθɪŋ/",
+    "portuguesePhonetic": "sâm-thing",
+    "syllables": [
+      "some",
+      "thing"
+    ],
+    "exampleSentence": "I want something to drink.",
+    "exampleTranslation": "Eu quero alguma coisa para beber."
+  },
+  {
+    "id": "to_open_close_92",
+    "word": "to feel better",
+    "translation": "sentir-se melhor",
+    "pronunciation": "/tu fil ˈbɛtər/",
+    "portuguesePhonetic": "tchu fil bé-ter",
+    "syllables": [
+      "to",
+      " feel",
+      " bet",
+      "ter"
+    ],
+    "exampleSentence": "I need some medicine to feel better.",
+    "exampleTranslation": "Eu preciso de um remédio para me sentir melhor."
+  },
+  {
+    "id": "to_open_close_93",
+    "word": "to go out",
+    "translation": "sair",
+    "pronunciation": "/tu ɡoʊ aʊt/",
+    "portuguesePhonetic": "tchu gôu áut",
+    "syllables": [
+      "to",
+      " go",
+      " out"
+    ],
+    "exampleSentence": "We want to go out tonight.",
+    "exampleTranslation": "Nós queremos sair esta noite."
+  },
+  {
+    "id": "to_open_close_94",
+    "word": "every other day",
+    "translation": "dia sim, dia não",
+    "pronunciation": "/ˈɛvri ˈʌðər deɪ/",
+    "portuguesePhonetic": "év-ri á-der dêi",
+    "syllables": [
+      "ev",
+      "ery",
+      " oth",
+      "er",
+      " day"
+    ],
+    "exampleSentence": "I drink coffee every other day.",
+    "exampleTranslation": "Eu tomo café dia sim, dia não."
+  },
+  {
+    "id": "to_open_close_95",
+    "word": "I'm sure",
+    "translation": "tenho certeza",
+    "pronunciation": "/aɪm ʃʊr/",
+    "portuguesePhonetic": "aim xúr",
+    "syllables": [
+      "I'm",
+      " sure"
+    ],
+    "exampleSentence": "I'm sure she is at home.",
+    "exampleTranslation": "Tenho certeza de que ela está em casa."
+  },
+  {
+    "id": "to_open_close_96",
+    "word": "Italian restaurant",
+    "translation": "restaurante italiano",
+    "pronunciation": "/ɪˈtæljən ˈrɛstəˌrɑnt/",
+    "portuguesePhonetic": "i-té-lian rés-to-rant",
+    "syllables": [
+      "I",
+      "tal",
+      "ian",
+      " res",
+      "tau",
+      "rant"
+    ],
+    "exampleSentence": "What time does the Italian restaurant open?",
+    "exampleTranslation": "A que horas o restaurante italiano abre?"
+  },
+  {
+    "id": "to_open_close_97",
+    "word": "open",
+    "translation": "abrir",
+    "pronunciation": "/ˈoʊpən/",
+    "portuguesePhonetic": "ôu-pen",
+    "syllables": [
+      "o",
+      "pen"
+    ],
+    "exampleSentence": "What time does the Italian restaurant open?",
+    "exampleTranslation": "A que horas o restaurante italiano abre?"
+  },
+  {
+    "id": "to_open_close_98",
+    "word": "close",
+    "translation": "fechar",
+    "pronunciation": "/kloʊz/",
+    "portuguesePhonetic": "clôuz",
+    "syllables": [
+      "close"
+    ],
+    "exampleSentence": "The ice cream shop closes at ten o'clock.",
+    "exampleTranslation": "A sorveteria fecha às dez horas."
+  },
+  {
+    "id": "to_open_close_99",
+    "word": "near here",
+    "translation": "perto daqui",
+    "pronunciation": "/nɪr hɪr/",
+    "portuguesePhonetic": "níar ríar",
+    "syllables": [
+      "near",
+      " here"
+    ],
+    "exampleSentence": "Where is the ice cream shop? – It's near here.",
+    "exampleTranslation": "Onde é a sorveteria? – É perto daqui."
+  }
+]

@@ -1,0 +1,1709 @@
+[
+  {
+    "id": "to_be_intro_1",
+    "word": "to be",
+    "translation": "ser, estar",
+    "pronunciation": "/tə bi/",
+    "portuguesePhonetic": "tchu bi",
+    "syllables": [
+      "to",
+      " be"
+    ],
+    "exampleSentence": "to be",
+    "exampleTranslation": "ser, estar"
+  },
+  {
+    "id": "to_be_intro_2",
+    "word": "I am",
+    "translation": "eu sou, estou",
+    "pronunciation": "/aɪ æm/",
+    "portuguesePhonetic": "ai ém",
+    "syllables": [
+      "I",
+      " am"
+    ],
+    "exampleSentence": "I am",
+    "exampleTranslation": "eu sou, estou"
+  },
+  {
+    "id": "to_be_intro_3",
+    "word": "you are",
+    "translation": "você é, está",
+    "pronunciation": "/ju ɑr/",
+    "portuguesePhonetic": "iu ar",
+    "syllables": [
+      "you",
+      " are"
+    ],
+    "exampleSentence": "you are",
+    "exampleTranslation": "você é, está"
+  },
+  {
+    "id": "to_be_intro_4",
+    "word": "he is",
+    "translation": "ele é, está",
+    "pronunciation": "/hi ɪz/",
+    "portuguesePhonetic": "ri iz",
+    "syllables": [
+      "he",
+      " is"
+    ],
+    "exampleSentence": "he is",
+    "exampleTranslation": "ele é, está"
+  },
+  {
+    "id": "to_be_intro_5",
+    "word": "she is",
+    "translation": "ela é, está",
+    "pronunciation": "/ʃi ɪz/",
+    "portuguesePhonetic": "xi iz",
+    "syllables": [
+      "she",
+      " is"
+    ],
+    "exampleSentence": "she is",
+    "exampleTranslation": "ela é, está"
+  },
+  {
+    "id": "to_be_intro_6",
+    "word": "it is",
+    "translation": "é, está",
+    "pronunciation": "/ɪt ɪz/",
+    "portuguesePhonetic": "it iz",
+    "syllables": [
+      "it",
+      " is"
+    ],
+    "exampleSentence": "it is",
+    "exampleTranslation": "é, está"
+  },
+  {
+    "id": "to_be_intro_7",
+    "word": "we are",
+    "translation": "nós somos, estamos",
+    "pronunciation": "/wi ɑr/",
+    "portuguesePhonetic": "uí ar",
+    "syllables": [
+      "we",
+      " are"
+    ],
+    "exampleSentence": "we are",
+    "exampleTranslation": "nós somos, estamos"
+  },
+  {
+    "id": "to_be_intro_8",
+    "word": "you are",
+    "translation": "vocês são, estão",
+    "pronunciation": "/ju ɑr/",
+    "portuguesePhonetic": "iu ar",
+    "syllables": [
+      "you",
+      " are"
+    ],
+    "exampleSentence": "you are",
+    "exampleTranslation": "vocês são, estão"
+  },
+  {
+    "id": "to_be_intro_9",
+    "word": "they are",
+    "translation": "eles(as) são, estão",
+    "pronunciation": "/ðeɪ ɑr/",
+    "portuguesePhonetic": "dêi ar",
+    "syllables": [
+      "they",
+      " are"
+    ],
+    "exampleSentence": "they are",
+    "exampleTranslation": "eles(as) são, estão"
+  },
+  {
+    "id": "to_be_intro_10",
+    "word": "nurse",
+    "translation": "enfermeiro(a)",
+    "pronunciation": "/nɜrs/",
+    "portuguesePhonetic": "nãrs",
+    "syllables": [
+      "nurse"
+    ],
+    "exampleSentence": "nurse",
+    "exampleTranslation": "enfermeiro(a)"
+  },
+  {
+    "id": "to_be_intro_11",
+    "word": "doctor",
+    "translation": "médico(a)",
+    "pronunciation": "/ˈdɑktər/",
+    "portuguesePhonetic": "dóc-tor",
+    "syllables": [
+      "doc",
+      "tor"
+    ],
+    "exampleSentence": "doctor",
+    "exampleTranslation": "médico(a)"
+  },
+  {
+    "id": "to_be_intro_12",
+    "word": "dentist",
+    "translation": "dentista",
+    "pronunciation": "/ˈdɛntɪst/",
+    "portuguesePhonetic": "dén-tist",
+    "syllables": [
+      "den",
+      "tist"
+    ],
+    "exampleSentence": "dentist",
+    "exampleTranslation": "dentista"
+  },
+  {
+    "id": "to_be_intro_13",
+    "word": "sick",
+    "translation": "doente",
+    "pronunciation": "/sɪk/",
+    "portuguesePhonetic": "sic",
+    "syllables": [
+      "sick"
+    ],
+    "exampleSentence": "sick",
+    "exampleTranslation": "doente"
+  },
+  {
+    "id": "to_be_intro_14",
+    "word": "headache",
+    "translation": "dor de cabeça",
+    "pronunciation": "/ˈhɛdˌeɪk/",
+    "portuguesePhonetic": "réd-eic",
+    "syllables": [
+      "head",
+      "ache"
+    ],
+    "exampleSentence": "headache",
+    "exampleTranslation": "dor de cabeça"
+  },
+  {
+    "id": "to_be_intro_15",
+    "word": "stomachache",
+    "translation": "dor de estômago",
+    "pronunciation": "/ˈstʌməkˌeɪk/",
+    "portuguesePhonetic": "stó-mac-eic",
+    "syllables": [
+      "sto",
+      "mach",
+      "ache"
+    ],
+    "exampleSentence": "stomachache",
+    "exampleTranslation": "dor de estômago"
+  },
+  {
+    "id": "to_be_intro_16",
+    "word": "sore throat",
+    "translation": "dor de garganta",
+    "pronunciation": "/sɔr θroʊt/",
+    "portuguesePhonetic": "sór thrôut",
+    "syllables": [
+      "sore",
+      " throat"
+    ],
+    "exampleSentence": "sore throat",
+    "exampleTranslation": "dor de garganta"
+  },
+  {
+    "id": "to_be_intro_17",
+    "word": "toothache",
+    "translation": "dor de dente",
+    "pronunciation": "/ˈtuθˌeɪk/",
+    "portuguesePhonetic": "tuth-eic",
+    "syllables": [
+      "tooth",
+      "ache"
+    ],
+    "exampleSentence": "toothache",
+    "exampleTranslation": "dor de dente"
+  },
+  {
+    "id": "to_be_intro_18",
+    "word": "cold",
+    "translation": "resfriado",
+    "pronunciation": "/koʊld/",
+    "portuguesePhonetic": "côuld",
+    "syllables": [
+      "cold"
+    ],
+    "exampleSentence": "cold",
+    "exampleTranslation": "resfriado"
+  },
+  {
+    "id": "to_be_intro_19",
+    "word": "fever",
+    "translation": "febre",
+    "pronunciation": "/ˈfivər/",
+    "portuguesePhonetic": "fí-ver",
+    "syllables": [
+      "fe",
+      "ver"
+    ],
+    "exampleSentence": "fever",
+    "exampleTranslation": "febre"
+  },
+  {
+    "id": "to_be_intro_20",
+    "word": "appointment",
+    "translation": "compromisso, consulta",
+    "pronunciation": "/əˈpɔɪntmənt/",
+    "portuguesePhonetic": "a-póint-ment",
+    "syllables": [
+      "ap",
+      "point",
+      "ment"
+    ],
+    "exampleSentence": "appointment",
+    "exampleTranslation": "compromisso, consulta"
+  },
+  {
+    "id": "to_be_intro_21",
+    "word": "painkiller",
+    "translation": "analgésico",
+    "pronunciation": "/ˈpeɪnˌkɪlər/",
+    "portuguesePhonetic": "pêin-ki-ler",
+    "syllables": [
+      "pain",
+      "kil",
+      "ler"
+    ],
+    "exampleSentence": "painkiller",
+    "exampleTranslation": "analgésico"
+  },
+  {
+    "id": "to_be_intro_22",
+    "word": "pill",
+    "translation": "comprimido",
+    "pronunciation": "/pɪl/",
+    "portuguesePhonetic": "pil",
+    "syllables": [
+      "pill"
+    ],
+    "exampleSentence": "pill",
+    "exampleTranslation": "comprimido"
+  },
+  {
+    "id": "to_be_intro_23",
+    "word": "health",
+    "translation": "saúde",
+    "pronunciation": "/hɛlθ/",
+    "portuguesePhonetic": "relth",
+    "syllables": [
+      "health"
+    ],
+    "exampleSentence": "health",
+    "exampleTranslation": "saúde"
+  },
+  {
+    "id": "to_be_intro_24",
+    "word": "kind",
+    "translation": "gentil",
+    "pronunciation": "/kaɪnd/",
+    "portuguesePhonetic": "caind",
+    "syllables": [
+      "kind"
+    ],
+    "exampleSentence": "kind",
+    "exampleTranslation": "gentil"
+  },
+  {
+    "id": "to_be_intro_25",
+    "word": "these",
+    "translation": "esses(as), estes(as)",
+    "pronunciation": "/ðiz/",
+    "portuguesePhonetic": "díz",
+    "syllables": [
+      "these"
+    ],
+    "exampleSentence": "these",
+    "exampleTranslation": "esses(as), estes(as)"
+  },
+  {
+    "id": "to_be_intro_26",
+    "word": "those",
+    "translation": "aqueles(as)",
+    "pronunciation": "/ðoʊz/",
+    "portuguesePhonetic": "dôuz",
+    "syllables": [
+      "those"
+    ],
+    "exampleSentence": "those",
+    "exampleTranslation": "aqueles(as)"
+  },
+  {
+    "id": "to_be_intro_27",
+    "word": "Take this medicine for your toothache.",
+    "translation": "Tome este remédio para sua dor de dente.",
+    "pronunciation": "/teɪk ðɪs ˈmɛdəsɪn fɔr jʊr ˈtuθˌeɪk/",
+    "portuguesePhonetic": "têik díz mé-di-sin for iór tuth-eic",
+    "syllables": [
+      "Take",
+      " this",
+      " me",
+      "di",
+      "cine",
+      " for",
+      " your",
+      " tooth",
+      "ache."
+    ],
+    "exampleSentence": "Take this medicine for your toothache.",
+    "exampleTranslation": "Tome este remédio para sua dor de dente."
+  },
+  {
+    "id": "to_be_intro_28",
+    "word": "I feel better now.",
+    "translation": "Eu me sinto melhor agora.",
+    "pronunciation": "/aɪ fil ˈbɛtər naʊ/",
+    "portuguesePhonetic": "ai fil bé-ter náu",
+    "syllables": [
+      "I",
+      " feel",
+      " bet",
+      "ter",
+      " now."
+    ],
+    "exampleSentence": "I feel better now.",
+    "exampleTranslation": "Eu me sinto melhor agora."
+  },
+  {
+    "id": "to_be_intro_29",
+    "word": "I still have to go to the dentist.",
+    "translation": "Eu ainda tenho que ir ao dentista.",
+    "pronunciation": "/aɪ stɪl hæv tə ɡoʊ tə ðə ˈdɛntɪst/",
+    "portuguesePhonetic": "ai stil rév tchu gôu tchu dâ dén-tist",
+    "syllables": [
+      "I",
+      " still",
+      " have",
+      " to",
+      " go",
+      " to",
+      " the",
+      " den",
+      "tist."
+    ],
+    "exampleSentence": "I still have to go to the dentist.",
+    "exampleTranslation": "Eu ainda tenho que ir ao dentista."
+  },
+  {
+    "id": "to_be_intro_30",
+    "word": "I'm in pain.",
+    "translation": "Eu estou com dor.",
+    "pronunciation": "/aɪm ɪn peɪn/",
+    "portuguesePhonetic": "aim in pêin",
+    "syllables": [
+      "I'm",
+      " in",
+      " pain."
+    ],
+    "exampleSentence": "I'm in pain.",
+    "exampleTranslation": "Eu estou com dor."
+  },
+  {
+    "id": "to_be_intro_31",
+    "word": "I'm a teacher. You're a nurse.",
+    "translation": "Eu sou professor. Você é enfermeira.",
+    "pronunciation": "/aɪm ə ˈtitʃər. jʊr ə nɜrs/",
+    "portuguesePhonetic": "aim a tí-tcher. iór a nãrs",
+    "syllables": [
+      "I'm",
+      " a",
+      " tea",
+      "cher.",
+      " You're",
+      " a",
+      " nurse."
+    ],
+    "exampleSentence": "I'm a teacher. You're a nurse.",
+    "exampleTranslation": "Eu sou professor. Você é enfermeira."
+  },
+  {
+    "id": "to_be_intro_32",
+    "word": "She's late for her appointment.",
+    "translation": "Ela está atrasada para o compromisso dela.",
+    "pronunciation": "/ʃiz leɪt fɔr hɜr əˈpɔɪntmənt/",
+    "portuguesePhonetic": "xiz lêit for rãr a-póint-ment",
+    "syllables": [
+      "She's",
+      " late",
+      " for",
+      " her",
+      " ap",
+      "point",
+      "ment."
+    ],
+    "exampleSentence": "She's late for her appointment.",
+    "exampleTranslation": "Ela está atrasada para o compromisso dela."
+  },
+  {
+    "id": "to_be_intro_33",
+    "word": "He's still in pain.",
+    "translation": "Ele ainda está com dor.",
+    "pronunciation": "/hiz stɪl ɪn peɪn/",
+    "portuguesePhonetic": "riz stil in pêin",
+    "syllables": [
+      "He's",
+      " still",
+      " in",
+      " pain."
+    ],
+    "exampleSentence": "He's still in pain.",
+    "exampleTranslation": "Ele ainda está com dor."
+  },
+  {
+    "id": "to_be_intro_34",
+    "word": "It's early, let's watch a movie.",
+    "translation": "É cedo, vamos assistir um filme.",
+    "pronunciation": "/ɪts ˈɜrli, lɛts wɑtʃ ə ˈmuvi/",
+    "portuguesePhonetic": "its ãr-li, lets uátch a mú-vi",
+    "syllables": [
+      "It's",
+      " ear",
+      "ly,",
+      " let's",
+      " watch",
+      " a",
+      " mo",
+      "vie."
+    ],
+    "exampleSentence": "It's early, let's watch a movie.",
+    "exampleTranslation": "É cedo, vamos assistir um filme."
+  },
+  {
+    "id": "to_be_intro_35",
+    "word": "We're friends.",
+    "translation": "Nós somos amigos.",
+    "pronunciation": "/wɪr frɛndz/",
+    "portuguesePhonetic": "uíar frends",
+    "syllables": [
+      "We're",
+      " friends."
+    ],
+    "exampleSentence": "We're friends.",
+    "exampleTranslation": "Nós somos amigos."
+  },
+  {
+    "id": "to_be_intro_36",
+    "word": "You're great doctors.",
+    "translation": "Vocês são ótimos médicos.",
+    "pronunciation": "/jʊr ɡreɪt ˈdɑktərz/",
+    "portuguesePhonetic": "iór grêit dóc-tors",
+    "syllables": [
+      "You're",
+      " great",
+      " doc",
+      "tors."
+    ],
+    "exampleSentence": "You're great doctors.",
+    "exampleTranslation": "Vocês são ótimos médicos."
+  },
+  {
+    "id": "to_be_intro_37",
+    "word": "They're at the hospital now.",
+    "translation": "Eles estão no hospital agora.",
+    "pronunciation": "/ðɛr æt ðə ˈhɑspɪtəl naʊ/",
+    "portuguesePhonetic": "dér ét dâ rós-pi-tal náu",
+    "syllables": [
+      "They're",
+      " at",
+      " the",
+      " hos",
+      "pi",
+      "tal",
+      " now."
+    ],
+    "exampleSentence": "They're at the hospital now.",
+    "exampleTranslation": "Eles estão no hospital agora."
+  },
+  {
+    "id": "to_be_intro_38",
+    "word": "this is",
+    "translation": "este/essa é",
+    "pronunciation": "/ðɪs ɪz/",
+    "portuguesePhonetic": "díz iz",
+    "syllables": [
+      "this",
+      " is"
+    ],
+    "exampleSentence": "this is",
+    "exampleTranslation": "este/essa é"
+  },
+  {
+    "id": "to_be_intro_39",
+    "word": "these are",
+    "translation": "estes/essas são",
+    "pronunciation": "/ðiz ɑr/",
+    "portuguesePhonetic": "díz ar",
+    "syllables": [
+      "these",
+      " are"
+    ],
+    "exampleSentence": "these are",
+    "exampleTranslation": "estes/essas são"
+  },
+  {
+    "id": "to_be_intro_40",
+    "word": "that is",
+    "translation": "aquele/aquela é",
+    "pronunciation": "/ðæt ɪz/",
+    "portuguesePhonetic": "dét iz",
+    "syllables": [
+      "that",
+      " is"
+    ],
+    "exampleSentence": "that is",
+    "exampleTranslation": "aquele/aquela é"
+  },
+  {
+    "id": "to_be_intro_41",
+    "word": "those are",
+    "translation": "aqueles/aquelas são",
+    "pronunciation": "/ðoʊz ɑr/",
+    "portuguesePhonetic": "dôuz ar",
+    "syllables": [
+      "those",
+      " are"
+    ],
+    "exampleSentence": "those are",
+    "exampleTranslation": "aqueles/aquelas são"
+  },
+  {
+    "id": "to_be_intro_42",
+    "word": "I have a headache.",
+    "translation": "Eu estou com dor de cabeça.",
+    "pronunciation": "/aɪ hæv ə ˈhɛdˌeɪk./",
+    "portuguesePhonetic": "ai rév a réd-eik",
+    "syllables": [
+      "I",
+      " have",
+      " a",
+      " head",
+      "ache."
+    ],
+    "exampleSentence": "I have a headache.",
+    "exampleTranslation": "Eu estou com dor de cabeça."
+  },
+  {
+    "id": "to_be_intro_43",
+    "word": "She has an appointment at the dentist today.",
+    "translation": "Ela tem uma consulta no dentista hoje.",
+    "pronunciation": "/ʃi hæz ən əˈpɔɪntmənt æt ðə ˈdɛntɪst təˈdeɪ./",
+    "portuguesePhonetic": "chi réz én a-póint-ment ét dâ dén-tist tu-dei",
+    "syllables": [
+      "She",
+      " has",
+      " an",
+      " ap",
+      "point",
+      "ment",
+      " at",
+      " the",
+      " den",
+      "tist",
+      " to",
+      "day."
+    ],
+    "exampleSentence": "She has an appointment at the dentist today.",
+    "exampleTranslation": "Ela tem uma consulta no dentista hoje."
+  },
+  {
+    "id": "to_be_intro_44",
+    "word": "Does he have a fever?",
+    "translation": "Ele está com febre?",
+    "pronunciation": "/dʌz hi hæv ə ˈfivər?/",
+    "portuguesePhonetic": "dâz rí rév a fí-ver?",
+    "syllables": [
+      "Does",
+      " he",
+      " have",
+      " a",
+      " fe",
+      "ver?"
+    ],
+    "exampleSentence": "Does he have a fever?",
+    "exampleTranslation": "Ele está com febre?"
+  },
+  {
+    "id": "to_be_intro_45",
+    "word": "Take a painkiller for your toothache.",
+    "translation": "Tome um analgésico para sua dor de dente.",
+    "pronunciation": "/teɪk ə ˈpeɪnˌkɪlər fɔr jɔr ˈtuθˌeɪk./",
+    "portuguesePhonetic": "teik a pêin-ki-ler for iór tuth-eik",
+    "syllables": [
+      "Take",
+      " a",
+      " pain",
+      "kil",
+      "ler",
+      " for",
+      " your",
+      " tooth",
+      "ache."
+    ],
+    "exampleSentence": "Take a painkiller for your toothache.",
+    "exampleTranslation": "Tome um analgésico para sua dor de dente."
+  },
+  {
+    "id": "to_be_intro_46",
+    "word": "I think she has a stomachache.",
+    "translation": "Eu acho que ela está com dor de estômago.",
+    "pronunciation": "/aɪ θɪŋk ʃi hæz ə ˈstʌməkˌeɪk./",
+    "portuguesePhonetic": "ai thinc chi réz a stâ-mak-eik",
+    "syllables": [
+      "I",
+      " think",
+      " she",
+      " has",
+      " a",
+      " stom",
+      "ach",
+      "ache."
+    ],
+    "exampleSentence": "I think she has a stomachache.",
+    "exampleTranslation": "Eu acho que ela está com dor de estômago."
+  },
+  {
+    "id": "to_be_intro_47",
+    "word": "I still take that medicine every day.",
+    "translation": "Eu ainda tomo aquele remédio todos os dias.",
+    "pronunciation": "/aɪ stɪl teɪk ðæt ˈmɛdəsən ˈɛvri deɪ./",
+    "portuguesePhonetic": "ai stil teik dét mé-di-sin é-vri dei",
+    "syllables": [
+      "I",
+      " still",
+      " take",
+      " that",
+      " med",
+      "i",
+      "cine",
+      " ev",
+      "e",
+      "ry",
+      " day."
+    ],
+    "exampleSentence": "I still take that medicine every day.",
+    "exampleTranslation": "Eu ainda tomo aquele remédio todos os dias."
+  },
+  {
+    "id": "to_be_intro_48",
+    "word": "I’m in pain. I need to go to the hospital.",
+    "translation": "Eu estou com dor. Eu preciso ir ao hospital.",
+    "pronunciation": "/aɪm ɪn peɪn. aɪ nid tu ɡoʊ tu ðə ˈhɑspɪtəl./",
+    "portuguesePhonetic": "aim in pêin. ai nid tchu gôu tchu dâ rós-pi-tal",
+    "syllables": [
+      "I’m",
+      " in",
+      " pain.",
+      " I",
+      " need",
+      " to",
+      " go",
+      " to",
+      " the",
+      " hos",
+      "pi",
+      "tal."
+    ],
+    "exampleSentence": "I’m in pain. I need to go to the hospital.",
+    "exampleTranslation": "Eu estou com dor. Eu preciso ir ao hospital."
+  },
+  {
+    "id": "to_be_intro_49",
+    "word": "He is at the train station.",
+    "translation": "Ele está na estação de trem.",
+    "pronunciation": "/hi ɪz æt ðə treɪn ˈsteɪʃən./",
+    "portuguesePhonetic": "ri iz ét dâ trein stêi-chôn",
+    "syllables": [
+      "He",
+      " is",
+      " at",
+      " the",
+      " train",
+      " sta",
+      "tion."
+    ],
+    "exampleSentence": "He is at the train station.",
+    "exampleTranslation": "Ele está na estação de trem."
+  },
+  {
+    "id": "to_be_intro_50",
+    "word": "Drink a lot of water. It’s good for your health.",
+    "translation": "Beba muita água. É bom para sua saúde.",
+    "pronunciation": "/drɪŋk ə lɑt ʌv ˈwɔtər. ɪts ɡʊd fɔr jɔr hɛlθ./",
+    "portuguesePhonetic": "drinc a lót ov uá-ter. its gud for iór relth",
+    "syllables": [
+      "Drink",
+      " a",
+      " lot",
+      " of",
+      " wa",
+      "ter.",
+      " It’s",
+      " good",
+      " for",
+      " your",
+      " health."
+    ],
+    "exampleSentence": "Drink a lot of water. It’s good for your health.",
+    "exampleTranslation": "Beba muita água. É bom para sua saúde."
+  },
+  {
+    "id": "to_be_intro_51",
+    "word": "The children are at home because they’re sick.",
+    "translation": "As crianças estão em casa porque elas estão doentes.",
+    "pronunciation": "/ðə ˈtʃɪldrən ɑr æt hoʊm bɪˈkɔz ðɛr sɪk./",
+    "portuguesePhonetic": "dâ tchíl-dren ar ét rôum bi-cóz déiar síc",
+    "syllables": [
+      "The",
+      " chil",
+      "dren",
+      " are",
+      " at",
+      " home",
+      " be",
+      "cause",
+      " they’re",
+      " sick."
+    ],
+    "exampleSentence": "The children are at home because they’re sick.",
+    "exampleTranslation": "As crianças estão em casa porque elas estão doentes."
+  },
+  {
+    "id": "to_be_intro_52",
+    "word": "Please take those reports to the doctor.",
+    "translation": "Por favor, leve aqueles relatórios para o médico.",
+    "pronunciation": "/pliz teɪk ðoʊz rɪˈpɔrts tə ðə ˈdɑktər./",
+    "portuguesePhonetic": "plis teik dôuz ri-pórts tchu dâ dóc-ter",
+    "syllables": [
+      "Please",
+      " take",
+      " those",
+      " re",
+      "ports",
+      " to",
+      " the",
+      " doc",
+      "tor."
+    ],
+    "exampleSentence": "Please take those reports to the doctor.",
+    "exampleTranslation": "Por favor, leve aqueles relatórios para o médico."
+  },
+  {
+    "id": "to_be_intro_53",
+    "word": "Do you have to take these pills?",
+    "translation": "Você tem que tomar esses comprimidos?",
+    "pronunciation": "/du ju hæv tə teɪk ðiz pɪlz?/",
+    "portuguesePhonetic": "du iu rév tchu teik díz pils?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " to",
+      " take",
+      " these",
+      " pills?"
+    ],
+    "exampleSentence": "Do you have to take these pills?",
+    "exampleTranslation": "Você tem que tomar esses comprimidos?"
+  },
+  {
+    "id": "to_be_intro_54",
+    "word": "I have a toothache. Do you have a painkiller?",
+    "translation": "Eu estou com dor de dente. Você tem um analgésico?",
+    "pronunciation": "/aɪ hæv ə ˈtuθˌeɪk. du ju hæv ə ˈpeɪnˌkɪlər?/",
+    "portuguesePhonetic": "ai rév â tuth-eik. du iu rév â pêin-ki-ler?",
+    "syllables": [
+      "I",
+      " have",
+      " a",
+      " tooth",
+      "ache.",
+      " Do",
+      " you",
+      " have",
+      " a",
+      " pain",
+      "kil",
+      "ler?"
+    ],
+    "exampleSentence": "I have a toothache. Do you have a painkiller?",
+    "exampleTranslation": "Eu estou com dor de dente. Você tem um analgésico?"
+  },
+  {
+    "id": "to_be_intro_55",
+    "word": "How many pills do you have to take?",
+    "translation": "Quantos comprimidos você tem que tomar?",
+    "pronunciation": "/haʊ ˈmɛni pɪlz du ju hæv tu teɪk?/",
+    "portuguesePhonetic": "ráu mé-ni pils du iu rév tchu teic?",
+    "syllables": [
+      "How",
+      " ma",
+      "ny",
+      " pills",
+      " do",
+      " you",
+      " have",
+      " to",
+      " take?"
+    ],
+    "exampleSentence": "How many pills do you have to take?",
+    "exampleTranslation": "Quantos comprimidos você tem que tomar?"
+  },
+  {
+    "id": "to_be_intro_56",
+    "word": "Do you have a doctor's appointment today?",
+    "translation": "Você tem uma consulta no médico hoje?",
+    "pronunciation": "/du ju hæv ə ˈdɑktərz əˈpɔɪntmənt təˈdeɪ?/",
+    "portuguesePhonetic": "du iu rév â dóc-terz a-póint-ment tchu-dêi?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " a",
+      " doc",
+      "tor's",
+      " ap",
+      "point",
+      "ment",
+      " to",
+      "day?"
+    ],
+    "exampleSentence": "Do you have a doctor's appointment today?",
+    "exampleTranslation": "Você tem uma consulta no médico hoje?"
+  },
+  {
+    "id": "to_be_intro_57",
+    "word": "I am a doctor and she is a nurse. We are at the hospital now.",
+    "translation": "Eu sou médico e ela é enfermeira. Nós estamos no hospital agora.",
+    "pronunciation": "/aɪ æm ə ˈdɑktər ænd ʃi ɪz ə nɜrs. wi ɑr æt ðə ˈhɑˌspɪtəl naʊ./",
+    "portuguesePhonetic": "ai ém â dóc-ter énd chi íz â nãrc. ui ar ét dâ rós-pi-tal náu.",
+    "syllables": [
+      "I",
+      " am",
+      " a",
+      " doc",
+      "tor",
+      " and",
+      " she",
+      " is",
+      " a",
+      " nurse.",
+      " We",
+      " are",
+      " at",
+      " the",
+      " hos",
+      "pi",
+      "tal",
+      " now."
+    ],
+    "exampleSentence": "I am a doctor and she is a nurse. We are at the hospital now.",
+    "exampleTranslation": "Eu sou médico e ela é enfermeira. Nós estamos no hospital agora."
+  },
+  {
+    "id": "to_be_intro_58",
+    "word": "What time do you have to take these pills?",
+    "translation": "A que horas você tem que tomar esses comprimidos?",
+    "pronunciation": "/wʌt taɪm du ju hæv tu teɪk ðiz pɪlz?/",
+    "portuguesePhonetic": "uát táim du iu rév tchu teic díz pils?",
+    "syllables": [
+      "What",
+      " time",
+      " do",
+      " you",
+      " have",
+      " to",
+      " take",
+      " these",
+      " pills?"
+    ],
+    "exampleSentence": "What time do you have to take these pills?",
+    "exampleTranslation": "A que horas você tem que tomar esses comprimidos?"
+  },
+  {
+    "id": "to_be_intro_59",
+    "word": "Do you want to go to the doctor? – I don't think so. I feel better now.",
+    "translation": "Você quer ir ao médico? – Eu acho que não. Eu me sinto melhor agora.",
+    "pronunciation": "/du ju wɑnt tu ɡoʊ tu ðə ˈdɑktər? – aɪ doʊnt θɪŋk soʊ. aɪ fil ˈbɛtər naʊ./",
+    "portuguesePhonetic": "du iu uánt tchu gôu tchu dâ dóc-ter? – ai dôunt thínc sôu. ai fil bé-ter náu.",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " go",
+      " to",
+      " the",
+      " doc",
+      "tor?",
+      " I",
+      " don't",
+      " think",
+      " so.",
+      " I",
+      " feel",
+      " bet",
+      "ter",
+      " now."
+    ],
+    "exampleSentence": "Do you want to go to the doctor? – I don't think so. I feel better now.",
+    "exampleTranslation": "Você quer ir ao médico? – Eu acho que não. Eu me sinto melhor agora."
+  },
+  {
+    "id": "to_be_intro_60",
+    "word": "He is at home because he is sick.",
+    "translation": "Ele está em casa porque ele está doente.",
+    "pronunciation": "/hi ɪz æt hoʊm bɪˈkɔz hi ɪz sɪk./",
+    "portuguesePhonetic": "ri íz ét rôum bi-cóz ri íz síc.",
+    "syllables": [
+      "He",
+      " is",
+      " at",
+      " home",
+      " be",
+      "cause",
+      " he",
+      " is",
+      " sick."
+    ],
+    "exampleSentence": "He is at home because he is sick.",
+    "exampleTranslation": "Ele está em casa porque ele está doente."
+  },
+  {
+    "id": "to_be_intro_61",
+    "word": "I still have many appointments today. What about you?",
+    "translation": "Eu ainda tenho muitos compromissos hoje. E você?",
+    "pronunciation": "/aɪ stɪl hæv ˈmɛni əˈpɔɪntmənts təˈdeɪ. wʌt əˈbaʊt ju?/",
+    "portuguesePhonetic": "ai stíl rév mé-ni a-póint-ments tchu-dêi. uát a-báut iu?",
+    "syllables": [
+      "I",
+      " still",
+      " have",
+      " ma",
+      "ny",
+      " ap",
+      "point",
+      "ments",
+      " to",
+      "day.",
+      " What",
+      " a",
+      "bout",
+      " you?"
+    ],
+    "exampleSentence": "I still have many appointments today. What about you?",
+    "exampleTranslation": "Eu ainda tenho muitos compromissos hoje. E você?"
+  },
+  {
+    "id": "to_be_intro_62",
+    "word": "She has a cold and she has a fever. Let's go to the hospital.",
+    "translation": "Ela está resfriada e está com febre. Vamos ao hospital.",
+    "pronunciation": "/ʃi hæz ə koʊld ænd ʃi hæz ə ˈfivər. lɛts ɡoʊ tu ðə ˈhɑˌspɪtəl./",
+    "portuguesePhonetic": "chi réz â côuld énd chi réz â fí-ver. léts gôu tchu dâ rós-pi-tal.",
+    "syllables": [
+      "She",
+      " has",
+      " a",
+      " cold",
+      " and",
+      " she",
+      " has",
+      " a",
+      " fe",
+      "ver.",
+      " Let's",
+      " go",
+      " to",
+      " the",
+      " hos",
+      "pi",
+      "tal."
+    ],
+    "exampleSentence": "She has a cold and she has a fever. Let's go to the hospital.",
+    "exampleTranslation": "Ela está resfriada e está com febre. Vamos ao hospital."
+  },
+  {
+    "id": "to_be_intro_63",
+    "word": "I need to take some medicine for my sore throat.",
+    "translation": "Eu preciso tomar algum remédio para minha dor de garganta.",
+    "pronunciation": "/aɪ nid tu teɪk sʌm ˈmɛdəsən fɔr maɪ sɔr θroʊt./",
+    "portuguesePhonetic": "ai nid tchu teic sâm mé-di-sin fór mai sór thrôut.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " take",
+      " some",
+      " med",
+      "i",
+      "cine",
+      " for",
+      " my",
+      " sore",
+      " throat."
+    ],
+    "exampleSentence": "I need to take some medicine for my sore throat.",
+    "exampleTranslation": "Eu preciso tomar algum remédio para minha dor de garganta."
+  },
+  {
+    "id": "to_be_intro_64",
+    "word": "Does she take her medicine in the morning?",
+    "translation": "Ela toma o remédio dela pela manhã?",
+    "pronunciation": "/dʌz ʃi teɪk hər ˈmɛdəsən ɪn ðə ˈmɔrnɪŋ?/",
+    "portuguesePhonetic": "dâz chi teic rãr mé-di-sin in dâ mór-ning?",
+    "syllables": [
+      "Does",
+      " she",
+      " take",
+      " her",
+      " med",
+      "i",
+      "cine",
+      " in",
+      " the",
+      " morn",
+      "ing?"
+    ],
+    "exampleSentence": "Does she take her medicine in the morning?",
+    "exampleTranslation": "Ela toma o remédio dela pela manhã?"
+  },
+  {
+    "id": "to_be_intro_65",
+    "word": "Does she need to talk to the nurse?",
+    "translation": "Ela precisa falar com a enfermeira?",
+    "pronunciation": "/dʌz ʃi nid tu tɔk tu ðə nɜrs?/",
+    "portuguesePhonetic": "dâz chi nid tchu tóc tchu dâ nãrc?",
+    "syllables": [
+      "Does",
+      " she",
+      " need",
+      " to",
+      " talk",
+      " to",
+      " the",
+      " nurse?"
+    ],
+    "exampleSentence": "Does she need to talk to the nurse?",
+    "exampleTranslation": "Ela precisa falar com a enfermeira?"
+  },
+  {
+    "id": "to_be_intro_66",
+    "word": "Do they still have painkillers at home?",
+    "translation": "Eles ainda têm analgésicos em casa?",
+    "pronunciation": "/du ðeɪ stɪl hæv ˈpeɪnˌkɪlərz æt hoʊm?/",
+    "portuguesePhonetic": "du dêi stíl rév pêin-ki-lerz ét rôum?",
+    "syllables": [
+      "Do",
+      " they",
+      " still",
+      " have",
+      " pain",
+      "kil",
+      "lers",
+      " at",
+      " home?"
+    ],
+    "exampleSentence": "Do they still have painkillers at home?",
+    "exampleTranslation": "Eles ainda têm analgésicos em casa?"
+  },
+  {
+    "id": "to_be_intro_67",
+    "word": "Does she have a stomachache?",
+    "translation": "Ela está com dor de estômago?",
+    "pronunciation": "/dʌz ʃi hæv ə ˈstʌmək-eɪk?/",
+    "portuguesePhonetic": "dâz chi rév â stâ-mak-eic?",
+    "syllables": [
+      "Does",
+      " she",
+      " have",
+      " a",
+      " stom",
+      "ach",
+      "ache?"
+    ],
+    "exampleSentence": "Does she have a stomachache?",
+    "exampleTranslation": "Ela está com dor de estômago?"
+  },
+  {
+    "id": "to_be_intro_68",
+    "word": "Do we have to go to the doctor tomorrow?",
+    "translation": "Nós temos que ir ao médico amanhã?",
+    "pronunciation": "/du wi hæv tu ɡoʊ tu ðə ˈdɑktər təˈmɑˌroʊ?/",
+    "portuguesePhonetic": "du ui rév tchu gôu tchu dâ dóc-ter tu-mó-rou?",
+    "syllables": [
+      "Do",
+      " we",
+      " have",
+      " to",
+      " go",
+      " to",
+      " the",
+      " doc",
+      "tor",
+      " to",
+      "mor",
+      "row?"
+    ],
+    "exampleSentence": "Do we have to go to the doctor tomorrow?",
+    "exampleTranslation": "Nós temos que ir ao médico amanhã?"
+  },
+  {
+    "id": "to_be_intro_69",
+    "word": "Do you have an appointment at the dentist?",
+    "translation": "Você tem uma consulta no dentista?",
+    "pronunciation": "/du ju hæv ən əˈpɔɪntmənt æt ðə ˈdɛntɪst?/",
+    "portuguesePhonetic": "du iu rév ân a-póint-ment ét dâ dén-tist?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " an",
+      " ap",
+      "point",
+      "ment",
+      " at",
+      " the",
+      " den",
+      "tist?"
+    ],
+    "exampleSentence": "Do you have an appointment at the dentist?",
+    "exampleTranslation": "Você tem uma consulta no dentista?"
+  },
+  {
+    "id": "to_be_intro_70",
+    "word": "Does he need to talk to his parents about the problem?",
+    "translation": "Ele precisa falar com os pais dele sobre o problema?",
+    "pronunciation": "/dʌz hi nid tu tɔk tu hɪz ˈpɛrənts əˈbaʊt ðə ˈprɑbləm?/",
+    "portuguesePhonetic": "dâz ri nid tchu tóc tchu ríz pé-rents a-báut dâ pró-blem?",
+    "syllables": [
+      "Does",
+      " he",
+      " need",
+      " to",
+      " talk",
+      " to",
+      " his",
+      " par",
+      "ents",
+      " a",
+      "bout",
+      " the",
+      " prob",
+      "lem?"
+    ],
+    "exampleSentence": "Does he need to talk to his parents about the problem?",
+    "exampleTranslation": "Ele precisa falar com os pais dele sobre o problema?"
+  },
+  {
+    "id": "to_be_intro_71",
+    "word": "Do I want to take a painkiller for my headache?",
+    "translation": "Eu quero tomar um analgésico para minha dor de cabeça?",
+    "pronunciation": "/du aɪ wɑnt tu teɪk ə ˈpeɪnˌkɪlər fɔr maɪ ˈhɛdˌeɪk?/",
+    "portuguesePhonetic": "du ai uánt tchu teic â pêin-ki-ler fór mai réd-eic?",
+    "syllables": [
+      "Do",
+      " I",
+      " want",
+      " to",
+      " take",
+      " a",
+      " pain",
+      "kil",
+      "ler",
+      " for",
+      " my",
+      " head",
+      "ache?"
+    ],
+    "exampleSentence": "Do I want to take a painkiller for my headache?",
+    "exampleTranslation": "Eu quero tomar um analgésico para minha dor de cabeça?"
+  },
+  {
+    "id": "to_be_intro_72",
+    "word": "He is a nurse. He works at the hospital every day.",
+    "translation": "Ele é enfermeiro. Ele trabalha no hospital todos os dias.",
+    "pronunciation": "/hi ɪz ə nɜrs. hi wɜrks æt ðə ˈhɑˌspɪtəl ˈɛvri deɪ./",
+    "portuguesePhonetic": "ri íz â nãrc. ri uãrcs ét dâ rós-pi-tal év-ri dêi.",
+    "syllables": [
+      "He",
+      " is",
+      " a",
+      " nurse.",
+      " He",
+      " works",
+      " at",
+      " the",
+      " hos",
+      "pi",
+      "tal",
+      " ev",
+      "ery",
+      " day."
+    ],
+    "exampleSentence": "He is a nurse. He works at the hospital every day.",
+    "exampleTranslation": "Ele é enfermeiro. Ele trabalha no hospital todos os dias."
+  },
+  {
+    "id": "to_be_intro_73",
+    "word": "I am a teacher at the university.",
+    "translation": "Eu sou professor(a) na universidade.",
+    "pronunciation": "/aɪ æm ə ˈtitʃər æt ðə ˌjunəˈvɜrsəti./",
+    "portuguesePhonetic": "ai ém â tí-tcher ét dâ iu-ni-vãr-si-ti.",
+    "syllables": [
+      "I",
+      " am",
+      " a",
+      " teach",
+      "er",
+      " at",
+      " the",
+      " u",
+      "ni",
+      "ver",
+      "si",
+      "ty."
+    ],
+    "exampleSentence": "I am a teacher at the university.",
+    "exampleTranslation": "Eu sou professor(a) na universidade."
+  },
+  {
+    "id": "to_be_intro_74",
+    "word": "It's seven fifteen. We are late for class.",
+    "translation": "São sete e quinze. Nós estamos atrasados para a aula.",
+    "pronunciation": "/ɪts ˈsɛvən fɪfˈtin. wi ɑr leɪt fɔr klæs./",
+    "portuguesePhonetic": "its sé-ven fif-tin. ui ar lêit fór clés.",
+    "syllables": [
+      "It's",
+      " sev",
+      "en",
+      " fif",
+      "teen.",
+      " We",
+      " are",
+      " late",
+      " for",
+      " class."
+    ],
+    "exampleSentence": "It's seven fifteen. We are late for class.",
+    "exampleTranslation": "São sete e quinze. Nós estamos atrasados para a aula."
+  },
+  {
+    "id": "to_be_intro_75",
+    "word": "She is in pain. She needs to take a painkiller.",
+    "translation": "Ela está com dor. Ela precisa tomar um analgésico.",
+    "pronunciation": "/ʃi ɪz ɪn peɪn. ʃi nidz tu teɪk ə ˈpeɪnˌkɪlər./",
+    "portuguesePhonetic": "chi íz in pêin. chi nids tchu teic â pêin-ki-ler.",
+    "syllables": [
+      "She",
+      " is",
+      " in",
+      " pain.",
+      " She",
+      " needs",
+      " to",
+      " take",
+      " a",
+      " pain",
+      "kil",
+      "ler."
+    ],
+    "exampleSentence": "She is in pain. She needs to take a painkiller.",
+    "exampleTranslation": "Ela está com dor. Ela precisa tomar um analgésico."
+  },
+  {
+    "id": "to_be_intro_76",
+    "word": "I want to buy those pills. They are for my stomachache.",
+    "translation": "Eu quero comprar aqueles comprimidos. Eles são para minha dor de estômago.",
+    "pronunciation": "/aɪ wɑnt tu baɪ ðoʊz pɪlz. ðeɪ ɑr fɔr maɪ ˈstʌmək-eɪk./",
+    "portuguesePhonetic": "ai uánt tchu bái dôuz pils. dêi ar fór mai stâ-mak-eic.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " buy",
+      " those",
+      " pills.",
+      " They",
+      " are",
+      " for",
+      " my",
+      " stom",
+      "ach",
+      "ache."
+    ],
+    "exampleSentence": "I want to buy those pills. They are for my stomachache.",
+    "exampleTranslation": "Eu quero comprar aqueles comprimidos. Eles são para minha dor de estômago."
+  },
+  {
+    "id": "to_be_intro_77",
+    "word": "You have to read these books. They're interesting.",
+    "translation": "Você tem que ler estes livros. Eles são interessantes.",
+    "pronunciation": "/ju hæv tu rid ðiz bʊks. ðɛr ˈɪntərɛstɪŋ./",
+    "portuguesePhonetic": "iu rév tchu rid díz búcs. déiar ín-tres-ting.",
+    "syllables": [
+      "You",
+      " have",
+      " to",
+      " read",
+      " these",
+      " books.",
+      " They're",
+      " in",
+      "te",
+      "res",
+      "ting."
+    ],
+    "exampleSentence": "You have to read these books. They're interesting.",
+    "exampleTranslation": "Você tem que ler estes livros. Eles são interessantes."
+  },
+  {
+    "id": "to_be_intro_78",
+    "word": "toothache",
+    "translation": "dor de dente",
+    "pronunciation": "/ˈtuθˌeɪk/",
+    "portuguesePhonetic": "tuth-eik",
+    "syllables": [
+      "tooth",
+      "ache"
+    ],
+    "exampleSentence": "I have a toothache. Do you have a painkiller?",
+    "exampleTranslation": "Eu estou com dor de dente. Você tem um analgésico?"
+  },
+  {
+    "id": "to_be_intro_79",
+    "word": "headache",
+    "translation": "dor de cabeça",
+    "pronunciation": "/ˈhɛdˌeɪk/",
+    "portuguesePhonetic": "réd-eic",
+    "syllables": [
+      "head",
+      "ache"
+    ],
+    "exampleSentence": "Do I want to take a painkiller for my headache?",
+    "exampleTranslation": "Eu quero tomar um analgésico para minha dor de cabeça?"
+  },
+  {
+    "id": "to_be_intro_80",
+    "word": "stomachache",
+    "translation": "dor de estômago",
+    "pronunciation": "/ˈstʌmək-eɪk/",
+    "portuguesePhonetic": "stâ-mak-eic",
+    "syllables": [
+      "stom",
+      "ach",
+      "ache"
+    ],
+    "exampleSentence": "Does she have a stomachache?",
+    "exampleTranslation": "Ela está com dor de estômago?"
+  },
+  {
+    "id": "to_be_intro_81",
+    "word": "sore throat",
+    "translation": "dor de garganta",
+    "pronunciation": "/sɔr θroʊt/",
+    "portuguesePhonetic": "sór thrôut",
+    "syllables": [
+      "sore",
+      " throat"
+    ],
+    "exampleSentence": "I need to take some medicine for my sore throat.",
+    "exampleTranslation": "Eu preciso tomar algum remédio para minha dor de garganta."
+  },
+  {
+    "id": "to_be_intro_82",
+    "word": "painkiller",
+    "translation": "analgésico",
+    "pronunciation": "/ˈpeɪnˌkɪlər/",
+    "portuguesePhonetic": "pêin-ki-ler",
+    "syllables": [
+      "pain",
+      "kil",
+      "ler"
+    ],
+    "exampleSentence": "She needs to take a painkiller.",
+    "exampleTranslation": "Ela precisa tomar um analgésico."
+  },
+  {
+    "id": "to_be_intro_83",
+    "word": "pill",
+    "translation": "comprimido",
+    "pronunciation": "/pɪl/",
+    "portuguesePhonetic": "pil",
+    "syllables": [
+      "pill"
+    ],
+    "exampleSentence": "How many pills do you have to take?",
+    "exampleTranslation": "Quantos comprimidos você tem que tomar?"
+  },
+  {
+    "id": "to_be_intro_84",
+    "word": "medicine",
+    "translation": "remédio",
+    "pronunciation": "/ˈmɛdəsən/",
+    "portuguesePhonetic": "mé-di-sin",
+    "syllables": [
+      "med",
+      "i",
+      "cine"
+    ],
+    "exampleSentence": "Does she take her medicine in the morning?",
+    "exampleTranslation": "Ela toma o remédio dela pela manhã?"
+  },
+  {
+    "id": "to_be_intro_85",
+    "word": "doctor",
+    "translation": "médico",
+    "pronunciation": "/ˈdɑktər/",
+    "portuguesePhonetic": "dóc-ter",
+    "syllables": [
+      "doc",
+      "tor"
+    ],
+    "exampleSentence": "Do you want to go to the doctor?",
+    "exampleTranslation": "Você quer ir ao médico?"
+  },
+  {
+    "id": "to_be_intro_86",
+    "word": "nurse",
+    "translation": "enfermeira / enfermeiro",
+    "pronunciation": "/nɜrs/",
+    "portuguesePhonetic": "nãrc",
+    "syllables": [
+      "nurse"
+    ],
+    "exampleSentence": "Does she need to talk to the nurse?",
+    "exampleTranslation": "Ela precisa falar com a enfermeira?"
+  },
+  {
+    "id": "to_be_intro_87",
+    "word": "hospital",
+    "translation": "hospital",
+    "pronunciation": "/ˈhɑˌspɪtəl/",
+    "portuguesePhonetic": "rós-pi-tal",
+    "syllables": [
+      "hos",
+      "pi",
+      "tal"
+    ],
+    "exampleSentence": "We are at the hospital now.",
+    "exampleTranslation": "Nós estamos no hospital agora."
+  },
+  {
+    "id": "to_be_intro_88",
+    "word": "appointment",
+    "translation": "consulta / compromisso",
+    "pronunciation": "/əˈpɔɪntmənt/",
+    "portuguesePhonetic": "a-póint-ment",
+    "syllables": [
+      "ap",
+      "point",
+      "ment"
+    ],
+    "exampleSentence": "Do you have a doctor's appointment today?",
+    "exampleTranslation": "Você tem uma consulta no médico hoje?"
+  },
+  {
+    "id": "to_be_intro_89",
+    "word": "dentist",
+    "translation": "dentista",
+    "pronunciation": "/ˈdɛntɪst/",
+    "portuguesePhonetic": "dén-tist",
+    "syllables": [
+      "den",
+      "tist"
+    ],
+    "exampleSentence": "Do you have an appointment at the dentist?",
+    "exampleTranslation": "Você tem uma consulta no dentista?"
+  },
+  {
+    "id": "to_be_intro_90",
+    "word": "sick",
+    "translation": "doente",
+    "pronunciation": "/sɪk/",
+    "portuguesePhonetic": "síc",
+    "syllables": [
+      "sick"
+    ],
+    "exampleSentence": "He is at home because he is sick.",
+    "exampleTranslation": "Ele está em casa porque ele está doente."
+  },
+  {
+    "id": "to_be_intro_91",
+    "word": "cold",
+    "translation": "resfriado",
+    "pronunciation": "/koʊld/",
+    "portuguesePhonetic": "côuld",
+    "syllables": [
+      "cold"
+    ],
+    "exampleSentence": "She has a cold and she has a fever.",
+    "exampleTranslation": "Ela está resfriada e está com febre."
+  },
+  {
+    "id": "to_be_intro_92",
+    "word": "fever",
+    "translation": "febre",
+    "pronunciation": "/ˈfivər/",
+    "portuguesePhonetic": "fí-ver",
+    "syllables": [
+      "fe",
+      "ver"
+    ],
+    "exampleSentence": "She has a cold and she has a fever.",
+    "exampleTranslation": "Ela está resfriada e está com febre."
+  },
+  {
+    "id": "to_be_intro_93",
+    "word": "in pain",
+    "translation": "com dor",
+    "pronunciation": "/ɪn peɪn/",
+    "portuguesePhonetic": "in pêin",
+    "syllables": [
+      "in",
+      " pain"
+    ],
+    "exampleSentence": "She is in pain. She needs to take a painkiller.",
+    "exampleTranslation": "Ela está com dor. Ela precisa tomar um analgésico."
+  },
+  {
+    "id": "to_be_intro_94",
+    "word": "feel better",
+    "translation": "sentir-se melhor",
+    "pronunciation": "/fil ˈbɛtər/",
+    "portuguesePhonetic": "fil bé-ter",
+    "syllables": [
+      "feel",
+      " bet",
+      "ter"
+    ],
+    "exampleSentence": "I feel better now.",
+    "exampleTranslation": "Eu me sinto melhor agora."
+  },
+  {
+    "id": "to_be_intro_95",
+    "word": "take medicine",
+    "translation": "tomar remédio",
+    "pronunciation": "/teɪk ˈmɛdəsən/",
+    "portuguesePhonetic": "teic mé-di-sin",
+    "syllables": [
+      "take",
+      " med",
+      "i",
+      "cine"
+    ],
+    "exampleSentence": "I need to take some medicine for my sore throat.",
+    "exampleTranslation": "Eu preciso tomar algum remédio para minha dor de garganta."
+  },
+  {
+    "id": "to_be_intro_96",
+    "word": "take pills",
+    "translation": "tomar comprimidos",
+    "pronunciation": "/teɪk pɪlz/",
+    "portuguesePhonetic": "teic pils",
+    "syllables": [
+      "take",
+      " pills"
+    ],
+    "exampleSentence": "Do you have to take these pills?",
+    "exampleTranslation": "Você tem que tomar esses comprimidos?"
+  },
+  {
+    "id": "to_be_intro_97",
+    "word": "still",
+    "translation": "ainda",
+    "pronunciation": "/stɪl/",
+    "portuguesePhonetic": "stíl",
+    "syllables": [
+      "still"
+    ],
+    "exampleSentence": "Do they still have painkillers at home?",
+    "exampleTranslation": "Eles ainda têm analgésicos em casa?"
+  },
+  {
+    "id": "to_be_intro_98",
+    "word": "late for class",
+    "translation": "atrasado para a aula",
+    "pronunciation": "/leɪt fɔr klæs/",
+    "portuguesePhonetic": "lêit fór clés",
+    "syllables": [
+      "late",
+      " for",
+      " class"
+    ],
+    "exampleSentence": "It's seven fifteen. We are late for class.",
+    "exampleTranslation": "São sete e quinze. Nós estamos atrasados para a aula."
+  },
+  {
+    "id": "to_be_intro_99",
+    "word": "university",
+    "translation": "universidade",
+    "pronunciation": "/ˌjunəˈvɜrsəti/",
+    "portuguesePhonetic": "iu-ni-vãr-si-ti",
+    "syllables": [
+      "u",
+      "ni",
+      "ver",
+      "si",
+      "ty"
+    ],
+    "exampleSentence": "I am a teacher at the university.",
+    "exampleTranslation": "Eu sou professor(a) na universidade."
+  },
+  {
+    "id": "to_be_intro_100",
+    "word": "those",
+    "translation": "aqueles",
+    "pronunciation": "/ðoʊz/",
+    "portuguesePhonetic": "dôuz",
+    "syllables": [
+      "those"
+    ],
+    "exampleSentence": "Please take those reports to the doctor.",
+    "exampleTranslation": "Por favor, leve aqueles relatórios para o médico."
+  },
+  {
+    "id": "to_be_intro_101",
+    "word": "these",
+    "translation": "estes / essas",
+    "pronunciation": "/ðiz/",
+    "portuguesePhonetic": "díz",
+    "syllables": [
+      "these"
+    ],
+    "exampleSentence": "You have to read these books.",
+    "exampleTranslation": "Você tem que ler estes livros."
+  },
+  {
+    "id": "to_be_intro_102",
+    "word": "interesting",
+    "translation": "interessante",
+    "pronunciation": "/ˈɪntərɛstɪŋ/",
+    "portuguesePhonetic": "ín-tres-ting",
+    "syllables": [
+      "in",
+      "te",
+      "res",
+      "ting"
+    ],
+    "exampleSentence": "They're interesting.",
+    "exampleTranslation": "Eles são interessantes."
+  },
+  {
+    "id": "to_be_intro_103",
+    "word": "what about you?",
+    "translation": "e você?",
+    "pronunciation": "/wʌt əˈbaʊt ju?/",
+    "portuguesePhonetic": "uát a-báut iu?",
+    "syllables": [
+      "What",
+      " a",
+      "bout",
+      " you?"
+    ],
+    "exampleSentence": "I still have many appointments today. What about you?",
+    "exampleTranslation": "Eu ainda tenho muitos compromissos hoje. E você?"
+  }
+]

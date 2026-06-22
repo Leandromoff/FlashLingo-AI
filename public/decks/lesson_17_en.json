@@ -1,0 +1,1211 @@
+[
+  {
+    "id": "lesson_17_1",
+    "word": "to work",
+    "translation": "trabalhar",
+    "pronunciation": "/tu wɜrk/",
+    "portuguesePhonetic": "tchu uãrk",
+    "syllables": [
+      "to",
+      " work"
+    ],
+    "exampleSentence": "to work",
+    "exampleTranslation": "trabalhar"
+  },
+  {
+    "id": "lesson_17_2",
+    "word": "to sleep",
+    "translation": "dormir",
+    "pronunciation": "/tu sleep/",
+    "portuguesePhonetic": "tchu slíp",
+    "syllables": [
+      "to",
+      " sleep"
+    ],
+    "exampleSentence": "to sleep",
+    "exampleTranslation": "dormir"
+  },
+  {
+    "id": "lesson_17_3",
+    "word": "company",
+    "translation": "empresa",
+    "pronunciation": "/ˈkʌmpəni/",
+    "portuguesePhonetic": "câm-pa-ni",
+    "syllables": [
+      "com",
+      "pa",
+      "ny"
+    ],
+    "exampleSentence": "company",
+    "exampleTranslation": "empresa"
+  },
+  {
+    "id": "lesson_17_4",
+    "word": "office",
+    "translation": "escritório",
+    "pronunciation": "/ˈɔfəs/",
+    "portuguesePhonetic": "ó-fis",
+    "syllables": [
+      "of",
+      "fice"
+    ],
+    "exampleSentence": "office",
+    "exampleTranslation": "escritório"
+  },
+  {
+    "id": "lesson_17_5",
+    "word": "bank",
+    "translation": "banco",
+    "pronunciation": "/bæŋk/",
+    "portuguesePhonetic": "bénc",
+    "syllables": [
+      "bank"
+    ],
+    "exampleSentence": "bank",
+    "exampleTranslation": "banco"
+  },
+  {
+    "id": "lesson_17_6",
+    "word": "church",
+    "translation": "igreja",
+    "pronunciation": "/tʃɜrtʃ/",
+    "portuguesePhonetic": "tchãrtch",
+    "syllables": [
+      "church"
+    ],
+    "exampleSentence": "church",
+    "exampleTranslation": "igreja"
+  },
+  {
+    "id": "lesson_17_7",
+    "word": "drugstore",
+    "translation": "farmácia",
+    "pronunciation": "/ˈdrʌɡˌstɔr/",
+    "portuguesePhonetic": "drâg-stór",
+    "syllables": [
+      "drug",
+      "store"
+    ],
+    "exampleSentence": "drugstore",
+    "exampleTranslation": "farmácia"
+  },
+  {
+    "id": "lesson_17_8",
+    "word": "grocery store",
+    "translation": "mercado",
+    "pronunciation": "/ˈɡroʊsəri stɔr/",
+    "portuguesePhonetic": "grôu-se-ri stór",
+    "syllables": [
+      "gro",
+      "cery",
+      " store"
+    ],
+    "exampleSentence": "grocery store",
+    "exampleTranslation": "mercado"
+  },
+  {
+    "id": "lesson_17_9",
+    "word": "hospital",
+    "translation": "hospital",
+    "pronunciation": "/ˈhɑˌspɪtəl/",
+    "portuguesePhonetic": "rós-pi-tol",
+    "syllables": [
+      "hos",
+      "pi",
+      "tal"
+    ],
+    "exampleSentence": "hospital",
+    "exampleTranslation": "hospital"
+  },
+  {
+    "id": "lesson_17_10",
+    "word": "gas station",
+    "translation": "posto de gasolina",
+    "pronunciation": "/ˈɡæs ˌsteɪʃən/",
+    "portuguesePhonetic": "gás stêi-chon",
+    "syllables": [
+      "gas",
+      " sta",
+      "tion"
+    ],
+    "exampleSentence": "gas station",
+    "exampleTranslation": "posto de gasolina"
+  },
+  {
+    "id": "lesson_17_11",
+    "word": "job",
+    "translation": "trabalho, emprego",
+    "pronunciation": "/dʒɑb/",
+    "portuguesePhonetic": "djób",
+    "syllables": [
+      "job"
+    ],
+    "exampleSentence": "job",
+    "exampleTranslation": "trabalho, emprego"
+  },
+  {
+    "id": "lesson_17_12",
+    "word": "early",
+    "translation": "cedo, adiantado",
+    "pronunciation": "/ˈɜrli/",
+    "portuguesePhonetic": "ãr-li",
+    "syllables": [
+      "ear",
+      "ly"
+    ],
+    "exampleSentence": "early",
+    "exampleTranslation": "cedo, adiantado"
+  },
+  {
+    "id": "lesson_17_13",
+    "word": "late",
+    "translation": "tarde, atrasado",
+    "pronunciation": "/leɪt/",
+    "portuguesePhonetic": "lêit",
+    "syllables": [
+      "late"
+    ],
+    "exampleSentence": "late",
+    "exampleTranslation": "tarde, atrasado"
+  },
+  {
+    "id": "lesson_17_14",
+    "word": "usually",
+    "translation": "geralmente",
+    "pronunciation": "/ˈjuʒuəli/",
+    "portuguesePhonetic": "iú-ju-a-li",
+    "syllables": [
+      "u",
+      "su",
+      "al",
+      "ly"
+    ],
+    "exampleSentence": "usually",
+    "exampleTranslation": "geralmente"
+  },
+  {
+    "id": "lesson_17_15",
+    "word": "now",
+    "translation": "agora",
+    "pronunciation": "/naʊ/",
+    "portuguesePhonetic": "náu",
+    "syllables": [
+      "now"
+    ],
+    "exampleSentence": "now",
+    "exampleTranslation": "agora"
+  },
+  {
+    "id": "lesson_17_16",
+    "word": "when",
+    "translation": "quando",
+    "pronunciation": "/wɛn/",
+    "portuguesePhonetic": "uén",
+    "syllables": [
+      "when"
+    ],
+    "exampleSentence": "when",
+    "exampleTranslation": "quando"
+  },
+  {
+    "id": "lesson_17_17",
+    "word": "but",
+    "translation": "mas",
+    "pronunciation": "/bʌt/",
+    "portuguesePhonetic": "bât",
+    "syllables": [
+      "but"
+    ],
+    "exampleSentence": "but",
+    "exampleTranslation": "mas"
+  },
+  {
+    "id": "lesson_17_18",
+    "word": "I need to take a shower.",
+    "translation": "Eu preciso tomar um banho.",
+    "pronunciation": "/aɪ nid tu teɪk ə ˈʃaʊər./",
+    "portuguesePhonetic": "ai nid tchu têic â cháu-er.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " take",
+      " a",
+      " show",
+      "er."
+    ],
+    "exampleSentence": "I need to take a shower.",
+    "exampleTranslation": "Eu preciso tomar um banho."
+  },
+  {
+    "id": "lesson_17_19",
+    "word": "I get up early every day.",
+    "translation": "Eu me levanto cedo todos os dias.",
+    "pronunciation": "/aɪ ɡɛt ʌp ˈɜrli ˈɛvri deɪ./",
+    "portuguesePhonetic": "ai guét áp ãr-li év-ri dêi.",
+    "syllables": [
+      "I",
+      " get",
+      " up",
+      " ear",
+      "ly",
+      " ev",
+      "ery",
+      " day."
+    ],
+    "exampleSentence": "I get up early every day.",
+    "exampleTranslation": "Eu me levanto cedo todos os dias."
+  },
+  {
+    "id": "lesson_17_20",
+    "word": "I go to bed late.",
+    "translation": "Eu vou dormir tarde.",
+    "pronunciation": "/aɪ ɡoʊ tu bɛd leɪt./",
+    "portuguesePhonetic": "ai gôu tchu béd lêit.",
+    "syllables": [
+      "I",
+      " go",
+      " to",
+      " bed",
+      " late."
+    ],
+    "exampleSentence": "I go to bed late.",
+    "exampleTranslation": "Eu vou dormir tarde."
+  },
+  {
+    "id": "lesson_17_21",
+    "word": "When do you need to go?",
+    "translation": "Quando você precisa ir?",
+    "pronunciation": "/wɛn du ju nid tu ɡoʊ?/",
+    "portuguesePhonetic": "uén du iu nid tchu gôu?",
+    "syllables": [
+      "When",
+      " do",
+      " you",
+      " need",
+      " to",
+      " go?"
+    ],
+    "exampleSentence": "When do you need to go?",
+    "exampleTranslation": "Quando você precisa ir?"
+  },
+  {
+    "id": "lesson_17_22",
+    "word": "When do you read the news?",
+    "translation": "Quando você lê notícias?",
+    "pronunciation": "/wɛn du ju rid ðə nuz?/",
+    "portuguesePhonetic": "uén du iu rid dâ nus?",
+    "syllables": [
+      "When",
+      " do",
+      " you",
+      " read",
+      " the",
+      " news?"
+    ],
+    "exampleSentence": "When do you read the news?",
+    "exampleTranslation": "Quando você lê notícias?"
+  },
+  {
+    "id": "lesson_17_23",
+    "word": "When do you have to go to the office?",
+    "translation": "Quando você tem que ir ao escritório?",
+    "pronunciation": "/wɛn du ju hæv tu ɡoʊ tu ðə ˈɔfəs?/",
+    "portuguesePhonetic": "uén du iu rév tchu gôu tchu dâ ó-fis?",
+    "syllables": [
+      "When",
+      " do",
+      " you",
+      " have",
+      " to",
+      " go",
+      " to",
+      " the",
+      " of",
+      "fice?"
+    ],
+    "exampleSentence": "When do you have to go to the office?",
+    "exampleTranslation": "Quando você tem que ir ao escritório?"
+  },
+  {
+    "id": "lesson_17_24",
+    "word": "When do they want to go to church?",
+    "translation": "Quando eles querem ir à igreja?",
+    "pronunciation": "/wɛn du ðeɪ wɑnt tu ɡoʊ tu tʃɜrtʃ?/",
+    "portuguesePhonetic": "uén du dêi uánt tchu gôu tchu tchãrtch?",
+    "syllables": [
+      "When",
+      " do",
+      " they",
+      " want",
+      " to",
+      " go",
+      " to",
+      " church?"
+    ],
+    "exampleSentence": "When do they want to go to church?",
+    "exampleTranslation": "Quando eles querem ir à igreja?"
+  },
+  {
+    "id": "lesson_17_25",
+    "word": "I work at the bank.",
+    "translation": "Eu trabalho no banco.",
+    "pronunciation": "/aɪ wɜrk æt ðə bæŋk./",
+    "portuguesePhonetic": "ai uãrk ét dâ bénc.",
+    "syllables": [
+      "I",
+      " work",
+      " at",
+      " the",
+      " bank."
+    ],
+    "exampleSentence": "I work at the bank.",
+    "exampleTranslation": "Eu trabalho no banco."
+  },
+  {
+    "id": "lesson_17_26",
+    "word": "They don't work at the hospital.",
+    "translation": "Eles não trabalham no hospital.",
+    "pronunciation": "/ðeɪ doʊnt wɜrk æt ðə ˈhɑˌspɪtəl./",
+    "portuguesePhonetic": "dêi dôunt uãrk ét dâ rós-pi-tol.",
+    "syllables": [
+      "They",
+      " don't",
+      " work",
+      " at",
+      " the",
+      " hos",
+      "pi",
+      "tal."
+    ],
+    "exampleSentence": "They don't work at the hospital.",
+    "exampleTranslation": "Eles não trabalham no hospital."
+  },
+  {
+    "id": "lesson_17_27",
+    "word": "We work at the gas station.",
+    "translation": "Nós trabalhamos no posto de gasolina.",
+    "pronunciation": "/wi wɜrk æt ðə ˈɡæs ˌsteɪʃən./",
+    "portuguesePhonetic": "ui uãrk ét dâ gás stêi-chon.",
+    "syllables": [
+      "We",
+      " work",
+      " at",
+      " the",
+      " gas",
+      " sta",
+      "tion."
+    ],
+    "exampleSentence": "We work at the gas station.",
+    "exampleTranslation": "Nós trabalhamos no posto de gasolina."
+  },
+  {
+    "id": "lesson_17_28",
+    "word": "Do you work at the office?",
+    "translation": "Você trabalha no escritório?",
+    "pronunciation": "/du ju wɜrk æt ðə ˈɔfəs?/",
+    "portuguesePhonetic": "du iu uãrk ét dâ ó-fis?",
+    "syllables": [
+      "Do",
+      " you",
+      " work",
+      " at",
+      " the",
+      " of",
+      "fice?"
+    ],
+    "exampleSentence": "Do you work at the office?",
+    "exampleTranslation": "Você trabalha no escritório?"
+  },
+  {
+    "id": "lesson_17_29",
+    "word": "They work at the grocery store.",
+    "translation": "Eles trabalham no mercado.",
+    "pronunciation": "/ðeɪ wɜrk æt ðə ˈɡroʊsəri stɔr./",
+    "portuguesePhonetic": "dêi uãrk ét dâ grôu-se-ri stór.",
+    "syllables": [
+      "They",
+      " work",
+      " at",
+      " the",
+      " gro",
+      "cery",
+      " store."
+    ],
+    "exampleSentence": "They work at the grocery store.",
+    "exampleTranslation": "Eles trabalham no mercado."
+  },
+  {
+    "id": "lesson_17_30",
+    "word": "I usually see my friends at the coffee shop.",
+    "translation": "Eu geralmente vejo meus amigos na cafeteria.",
+    "pronunciation": "/aɪ ˈjuʒuəli si maɪ frɛndz æt ðə ˈkɔfi ʃɑp./",
+    "portuguesePhonetic": "ai iú-ju-a-li si mai frends ét dâ có-fi chóp.",
+    "syllables": [
+      "I",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " see",
+      " my",
+      " friends",
+      " at",
+      " the",
+      " cof",
+      "fee",
+      " shop."
+    ],
+    "exampleSentence": "I usually see my friends at the coffee shop.",
+    "exampleTranslation": "Eu geralmente vejo meus amigos na cafeteria."
+  },
+  {
+    "id": "lesson_17_31",
+    "word": "Do you get up early?",
+    "translation": "Você se levanta cedo?",
+    "pronunciation": "/du ju ɡɛt ʌp ˈɜrli?/",
+    "portuguesePhonetic": "du iu guét áp ãr-li?",
+    "syllables": [
+      "Do",
+      " you",
+      " get",
+      " up",
+      " ear",
+      "ly?"
+    ],
+    "exampleSentence": "Do you get up early?",
+    "exampleTranslation": "Você se levanta cedo?"
+  },
+  {
+    "id": "lesson_17_32",
+    "word": "I study, but I don't work.",
+    "translation": "Eu estudo, mas eu não trabalho.",
+    "pronunciation": "/aɪ ˈstʌdi, bʌt aɪ doʊnt wɜrk./",
+    "portuguesePhonetic": "ai stâ-di, bât ai dôunt uãrk.",
+    "syllables": [
+      "I",
+      " stud",
+      "y,",
+      " but",
+      " I",
+      " don't",
+      " work."
+    ],
+    "exampleSentence": "I study, but I don't work.",
+    "exampleTranslation": "Eu estudo, mas eu não trabalho."
+  },
+  {
+    "id": "lesson_17_33",
+    "word": "Do you have to go to the drugstore now?",
+    "translation": "Você tem que ir à farmácia agora?",
+    "pronunciation": "/du ju hæv tu ɡoʊ tu ðə ˈdrʌɡˌstɔr naʊ?/",
+    "portuguesePhonetic": "du iu rév tchu gôu tchu dâ drâg-stór náu?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " to",
+      " go",
+      " to",
+      " the",
+      " drug",
+      "store",
+      " now?"
+    ],
+    "exampleSentence": "Do you have to go to the drugstore now?",
+    "exampleTranslation": "Você tem que ir à farmácia agora?"
+  },
+  {
+    "id": "lesson_17_34",
+    "word": "Do you work at the hospital?",
+    "translation": "Você trabalha no hospital?",
+    "pronunciation": "/du ju wɜrk æt ðə ˈhɑˌspɪtəl?/",
+    "portuguesePhonetic": "du iu uãrk ét dâ rós-pi-tol?",
+    "syllables": [
+      "Do",
+      " you",
+      " work",
+      " at",
+      " the",
+      " hos",
+      "pi",
+      "tal?"
+    ],
+    "exampleSentence": "Do you work at the hospital?",
+    "exampleTranslation": "Você trabalha no hospital?"
+  },
+  {
+    "id": "lesson_17_35",
+    "word": "Do you go to work late?",
+    "translation": "Você vai trabalhar tarde?",
+    "pronunciation": "/du ju ɡoʊ tu wɜrk leɪt?/",
+    "portuguesePhonetic": "du iu gôu tchu uãrk lêit?",
+    "syllables": [
+      "Do",
+      " you",
+      " go",
+      " to",
+      " work",
+      " late?"
+    ],
+    "exampleSentence": "Do you go to work late?",
+    "exampleTranslation": "Você vai trabalhar tarde?"
+  },
+  {
+    "id": "lesson_17_36",
+    "word": "Do you usually go to bed late?",
+    "translation": "Você geralmente vai dormir tarde?",
+    "pronunciation": "/du ju ˈjuʒuəli ɡoʊ tu bɛd leɪt?/",
+    "portuguesePhonetic": "du iu iú-ju-a-li gôu tchu béd lêit?",
+    "syllables": [
+      "Do",
+      " you",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " go",
+      " to",
+      " bed",
+      " late?"
+    ],
+    "exampleSentence": "Do you usually go to bed late?",
+    "exampleTranslation": "Você geralmente vai dormir tarde?"
+  },
+  {
+    "id": "lesson_17_37",
+    "word": "Do you go to the office in the afternoon?",
+    "translation": "Você vai para o escritório à tarde?",
+    "pronunciation": "/du ju ɡoʊ tu ðə ˈɔfəs ɪn ðə ˌæftərˈnun?/",
+    "portuguesePhonetic": "du iu gôu tchu dâ ó-fis in dâ éf-ter-nun?",
+    "syllables": [
+      "Do",
+      " you",
+      " go",
+      " to",
+      " the",
+      " of",
+      "fice",
+      " in",
+      " the",
+      " af",
+      "ter",
+      "noon?"
+    ],
+    "exampleSentence": "Do you go to the office in the afternoon?",
+    "exampleTranslation": "Você vai para o escritório à tarde?"
+  },
+  {
+    "id": "lesson_17_38",
+    "word": "When do you have to go to the bank?",
+    "translation": "Quando você tem que ir ao banco?",
+    "pronunciation": "/wɛn du ju hæv tu ɡoʊ tu ðə bæŋk?/",
+    "portuguesePhonetic": "uén du iu rév tchu gôu tchu dâ bénc?",
+    "syllables": [
+      "When",
+      " do",
+      " you",
+      " have",
+      " to",
+      " go",
+      " to",
+      " the",
+      " bank?"
+    ],
+    "exampleSentence": "When do you have to go to the bank?",
+    "exampleTranslation": "Quando você tem que ir ao banco?"
+  },
+  {
+    "id": "lesson_17_39",
+    "word": "eleven",
+    "translation": "onze",
+    "pronunciation": "/ɪˈlɛvən/",
+    "portuguesePhonetic": "i-lé-ven",
+    "syllables": [
+      "e",
+      "lev",
+      "en"
+    ],
+    "exampleSentence": "eleven",
+    "exampleTranslation": "onze"
+  },
+  {
+    "id": "lesson_17_40",
+    "word": "twelve",
+    "translation": "doze",
+    "pronunciation": "/twɛlv/",
+    "portuguesePhonetic": "tuélv",
+    "syllables": [
+      "twelve"
+    ],
+    "exampleSentence": "twelve",
+    "exampleTranslation": "doze"
+  },
+  {
+    "id": "lesson_17_41",
+    "word": "thirteen",
+    "translation": "treze",
+    "pronunciation": "/θɜrˈtin/",
+    "portuguesePhonetic": "zãr-tín",
+    "syllables": [
+      "thir",
+      "teen"
+    ],
+    "exampleSentence": "thirteen",
+    "exampleTranslation": "treze"
+  },
+  {
+    "id": "lesson_17_42",
+    "word": "fourteen",
+    "translation": "quatorze",
+    "pronunciation": "/fɔrˈtin/",
+    "portuguesePhonetic": "fór-tín",
+    "syllables": [
+      "four",
+      "teen"
+    ],
+    "exampleSentence": "fourteen",
+    "exampleTranslation": "quatorze"
+  },
+  {
+    "id": "lesson_17_43",
+    "word": "fifteen",
+    "translation": "quinze",
+    "pronunciation": "/fɪfˈtin/",
+    "portuguesePhonetic": "fif-tín",
+    "syllables": [
+      "fif",
+      "teen"
+    ],
+    "exampleSentence": "fifteen",
+    "exampleTranslation": "quinze"
+  },
+  {
+    "id": "lesson_17_44",
+    "word": "sixteen",
+    "translation": "dezesseis",
+    "pronunciation": "/sɪksˈtin/",
+    "portuguesePhonetic": "sícs-tín",
+    "syllables": [
+      "six",
+      "teen"
+    ],
+    "exampleSentence": "sixteen",
+    "exampleTranslation": "dezesseis"
+  },
+  {
+    "id": "lesson_17_45",
+    "word": "seventeen",
+    "translation": "dezessete",
+    "pronunciation": "/ˌsɛvənˈtin/",
+    "portuguesePhonetic": "sé-ven-tín",
+    "syllables": [
+      "sev",
+      "en",
+      "teen"
+    ],
+    "exampleSentence": "seventeen",
+    "exampleTranslation": "dezessete"
+  },
+  {
+    "id": "lesson_17_46",
+    "word": "eighteen",
+    "translation": "dezoito",
+    "pronunciation": "/eɪˈtin/",
+    "portuguesePhonetic": "êi-tín",
+    "syllables": [
+      "eigh",
+      "teen"
+    ],
+    "exampleSentence": "eighteen",
+    "exampleTranslation": "dezoito"
+  },
+  {
+    "id": "lesson_17_47",
+    "word": "nineteen",
+    "translation": "dezenove",
+    "pronunciation": "/naɪnˈtin/",
+    "portuguesePhonetic": "nain-tín",
+    "syllables": [
+      "nine",
+      "teen"
+    ],
+    "exampleSentence": "nineteen",
+    "exampleTranslation": "dezenove"
+  },
+  {
+    "id": "lesson_17_48",
+    "word": "twenty",
+    "translation": "vinte",
+    "pronunciation": "/ˈtwɛnti/",
+    "portuguesePhonetic": "tuén-ti",
+    "syllables": [
+      "twen",
+      "ty"
+    ],
+    "exampleSentence": "twenty",
+    "exampleTranslation": "vinte"
+  },
+  {
+    "id": "lesson_17_49",
+    "word": "twenty-one",
+    "translation": "vinte e um",
+    "pronunciation": "/ˈtwɛnti wʌn/",
+    "portuguesePhonetic": "tuén-ti uán",
+    "syllables": [
+      "twen",
+      "ty-",
+      "one"
+    ],
+    "exampleSentence": "twenty-one",
+    "exampleTranslation": "vinte e um"
+  },
+  {
+    "id": "lesson_17_50",
+    "word": "twenty-two",
+    "translation": "vinte e dois",
+    "pronunciation": "/ˈtwɛnti tu/",
+    "portuguesePhonetic": "tuén-ti tchu",
+    "syllables": [
+      "twen",
+      "ty-",
+      "two"
+    ],
+    "exampleSentence": "twenty-two",
+    "exampleTranslation": "vinte e dois"
+  },
+  {
+    "id": "lesson_17_51",
+    "word": "I go to church.",
+    "translation": "Eu vou à igreja.",
+    "pronunciation": "/aɪ ɡoʊ tu tʃɜrtʃ./",
+    "portuguesePhonetic": "ai gôu tchu tchãrtch.",
+    "syllables": [
+      "I",
+      " go",
+      " to",
+      " church."
+    ],
+    "exampleSentence": "I go to church.",
+    "exampleTranslation": "Eu vou à igreja."
+  },
+  {
+    "id": "lesson_17_52",
+    "word": "I go to school.",
+    "translation": "Eu vou para a escola.",
+    "pronunciation": "/aɪ ɡoʊ tu skul./",
+    "portuguesePhonetic": "ai gôu tchu scul.",
+    "syllables": [
+      "I",
+      " go",
+      " to",
+      " school."
+    ],
+    "exampleSentence": "I go to school.",
+    "exampleTranslation": "Eu vou para a escola."
+  },
+  {
+    "id": "lesson_17_53",
+    "word": "I see my friend at church.",
+    "translation": "Eu vejo meu amigo na igreja.",
+    "pronunciation": "/aɪ si maɪ frɛnd æt tʃɜrtʃ./",
+    "portuguesePhonetic": "ai si mai frend ét tchãrtch.",
+    "syllables": [
+      "I",
+      " see",
+      " my",
+      " friend",
+      " at",
+      " church."
+    ],
+    "exampleSentence": "I see my friend at church.",
+    "exampleTranslation": "Eu vejo meu amigo na igreja."
+  },
+  {
+    "id": "lesson_17_54",
+    "word": "I see my friend at school.",
+    "translation": "Eu vejo meu amigo na escola.",
+    "pronunciation": "/aɪ si maɪ frɛnd æt skul./",
+    "portuguesePhonetic": "ai si mai frend ét scul.",
+    "syllables": [
+      "I",
+      " see",
+      " my",
+      " friend",
+      " at",
+      " school."
+    ],
+    "exampleSentence": "I see my friend at school.",
+    "exampleTranslation": "Eu vejo meu amigo na escola."
+  },
+  {
+    "id": "lesson_17_55",
+    "word": "We go to the grocery store.",
+    "translation": "Nós vamos ao mercado.",
+    "pronunciation": "/wi ɡoʊ tu ðə ˈɡroʊsəri stɔr./",
+    "portuguesePhonetic": "ui gôu tchu dâ grôu-se-ri stór.",
+    "syllables": [
+      "We",
+      " go",
+      " to",
+      " the",
+      " gro",
+      "cery",
+      " store."
+    ],
+    "exampleSentence": "We go to the grocery store.",
+    "exampleTranslation": "Nós vamos ao mercado."
+  },
+  {
+    "id": "lesson_17_56",
+    "word": "We go to the coffee shop.",
+    "translation": "Nós vamos à cafeteria.",
+    "pronunciation": "/wi ɡoʊ tu ðə ˈkɔfi ʃɑp./",
+    "portuguesePhonetic": "ui gôu tchu dâ có-fi chóp.",
+    "syllables": [
+      "We",
+      " go",
+      " to",
+      " the",
+      " cof",
+      "fee",
+      " shop."
+    ],
+    "exampleSentence": "We go to the coffee shop.",
+    "exampleTranslation": "Nós vamos à cafeteria."
+  },
+  {
+    "id": "lesson_17_57",
+    "word": "You see your friends at the restaurant.",
+    "translation": "Você vê seus amigos no restaurante.",
+    "pronunciation": "/ju si jɔr frɛndz æt ðə ˈrɛstəˌrɑnt./",
+    "portuguesePhonetic": "iu si iór frends ét dâ rés-tto-rant.",
+    "syllables": [
+      "You",
+      " see",
+      " your",
+      " friends",
+      " at",
+      " the",
+      " res",
+      "tau",
+      "rant."
+    ],
+    "exampleSentence": "You see your friends at the restaurant.",
+    "exampleTranslation": "Você vê seus amigos no restaurante."
+  },
+  {
+    "id": "lesson_17_58",
+    "word": "You see your friends at the office.",
+    "translation": "Você vê seus amigos no escritório.",
+    "pronunciation": "/ju si jɔr frɛndz æt ðə ˈɔfəs./",
+    "portuguesePhonetic": "iu si iór frends ét dâ ó-fis.",
+    "syllables": [
+      "You",
+      " see",
+      " your",
+      " friends",
+      " at",
+      " the",
+      " of",
+      "fice."
+    ],
+    "exampleSentence": "You see your friends at the office.",
+    "exampleTranslation": "Você vê seus amigos no escritório."
+  },
+  {
+    "id": "lesson_17_59",
+    "word": "take a shower",
+    "translation": "tomar banho",
+    "pronunciation": "/teɪk ə ˈʃaʊər/",
+    "portuguesePhonetic": "têic â cháu-er",
+    "syllables": [
+      "take",
+      " a",
+      " show",
+      "er"
+    ],
+    "exampleSentence": "take a shower",
+    "exampleTranslation": "tomar banho"
+  },
+  {
+    "id": "lesson_17_60",
+    "word": "get up",
+    "translation": "levantar-se",
+    "pronunciation": "/ɡɛt ʌp/",
+    "portuguesePhonetic": "guét áp",
+    "syllables": [
+      "get",
+      " up"
+    ],
+    "exampleSentence": "get up",
+    "exampleTranslation": "levantar-se"
+  },
+  {
+    "id": "lesson_17_61",
+    "word": "go to bed",
+    "translation": "ir dormir",
+    "pronunciation": "/ɡoʊ tu bɛd/",
+    "portuguesePhonetic": "gôu tchu béd",
+    "syllables": [
+      "go",
+      " to",
+      " bed"
+    ],
+    "exampleSentence": "go to bed",
+    "exampleTranslation": "ir dormir"
+  },
+  {
+    "id": "lesson_17_62",
+    "word": "go to work",
+    "translation": "ir para o trabalho",
+    "pronunciation": "/ɡoʊ tu wɜrk/",
+    "portuguesePhonetic": "gôu tchu uãrk",
+    "syllables": [
+      "go",
+      " to",
+      " work"
+    ],
+    "exampleSentence": "go to work",
+    "exampleTranslation": "ir para o trabalho"
+  },
+  {
+    "id": "lesson_17_63",
+    "word": "work at the bank",
+    "translation": "trabalhar no banco",
+    "pronunciation": "/wɜrk æt ðə bæŋk/",
+    "portuguesePhonetic": "uãrk ét dâ bénc",
+    "syllables": [
+      "work",
+      " at",
+      " the",
+      " bank"
+    ],
+    "exampleSentence": "work at the bank",
+    "exampleTranslation": "trabalhar no banco"
+  },
+  {
+    "id": "lesson_17_64",
+    "word": "work at the hospital",
+    "translation": "trabalhar no hospital",
+    "pronunciation": "/wɜrk æt ðə ˈhɑˌspɪtəl/",
+    "portuguesePhonetic": "uãrk ét dâ rós-pi-tol",
+    "syllables": [
+      "work",
+      " at",
+      " the",
+      " hos",
+      "pi",
+      "tal"
+    ],
+    "exampleSentence": "work at the hospital",
+    "exampleTranslation": "trabalhar no hospital"
+  },
+  {
+    "id": "lesson_17_65",
+    "word": "work at the office",
+    "translation": "trabalhar no escritório",
+    "pronunciation": "/wɜrk æt ðə ˈɔfəs/",
+    "portuguesePhonetic": "uãrk ét dâ ó-fis",
+    "syllables": [
+      "work",
+      " at",
+      " the",
+      " of",
+      "fice"
+    ],
+    "exampleSentence": "work at the office",
+    "exampleTranslation": "trabalhar no escritório"
+  },
+  {
+    "id": "lesson_17_66",
+    "word": "work at the gas station",
+    "translation": "trabalhar no posto de gasolina",
+    "pronunciation": "/wɜrk æt ðə ˈɡæs ˌsteɪʃən/",
+    "portuguesePhonetic": "uãrk ét dâ gás stêi-chon",
+    "syllables": [
+      "work",
+      " at",
+      " the",
+      " gas",
+      " sta",
+      "tion"
+    ],
+    "exampleSentence": "work at the gas station",
+    "exampleTranslation": "trabalhar no posto de gasolina"
+  },
+  {
+    "id": "lesson_17_67",
+    "word": "work at the grocery store",
+    "translation": "trabalhar no mercado",
+    "pronunciation": "/wɜrk æt ðə ˈɡroʊsəri stɔr/",
+    "portuguesePhonetic": "uãrk ét dâ grôu-se-ri stór",
+    "syllables": [
+      "work",
+      " at",
+      " the",
+      " gro",
+      "cery",
+      " store"
+    ],
+    "exampleSentence": "work at the grocery store",
+    "exampleTranslation": "trabalhar no mercado"
+  },
+  {
+    "id": "lesson_17_68",
+    "word": "go to church",
+    "translation": "ir à igreja",
+    "pronunciation": "/ɡoʊ tu tʃɜrtʃ/",
+    "portuguesePhonetic": "gôu tchu tchãrtch",
+    "syllables": [
+      "go",
+      " to",
+      " church"
+    ],
+    "exampleSentence": "go to church",
+    "exampleTranslation": "ir à igreja"
+  },
+  {
+    "id": "lesson_17_69",
+    "word": "go to school",
+    "translation": "ir para a escola",
+    "pronunciation": "/ɡoʊ tu skul/",
+    "portuguesePhonetic": "gôu tchu scul",
+    "syllables": [
+      "go",
+      " to",
+      " school"
+    ],
+    "exampleSentence": "go to school",
+    "exampleTranslation": "ir para a escola"
+  },
+  {
+    "id": "lesson_17_70",
+    "word": "coffee shop",
+    "translation": "cafeteria",
+    "pronunciation": "/ˈkɔfi ʃɑp/",
+    "portuguesePhonetic": "có-fi chóp",
+    "syllables": [
+      "cof",
+      "fee",
+      " shop"
+    ],
+    "exampleSentence": "coffee shop",
+    "exampleTranslation": "cafeteria"
+  },
+  {
+    "id": "lesson_17_71",
+    "word": "drugstore",
+    "translation": "farmácia",
+    "pronunciation": "/ˈdrʌɡˌstɔr/",
+    "portuguesePhonetic": "drâg-stór",
+    "syllables": [
+      "drug",
+      "store"
+    ],
+    "exampleSentence": "drugstore",
+    "exampleTranslation": "farmácia"
+  },
+  {
+    "id": "lesson_17_72",
+    "word": "usually",
+    "translation": "geralmente",
+    "pronunciation": "/ˈjuʒuəli/",
+    "portuguesePhonetic": "iú-ju-a-li",
+    "syllables": [
+      "u",
+      "su",
+      "al",
+      "ly"
+    ],
+    "exampleSentence": "usually",
+    "exampleTranslation": "geralmente"
+  },
+  {
+    "id": "lesson_17_73",
+    "word": "early",
+    "translation": "cedo",
+    "pronunciation": "/ˈɜrli/",
+    "portuguesePhonetic": "ãr-li",
+    "syllables": [
+      "ear",
+      "ly"
+    ],
+    "exampleSentence": "early",
+    "exampleTranslation": "cedo"
+  },
+  {
+    "id": "lesson_17_74",
+    "word": "late",
+    "translation": "tarde",
+    "pronunciation": "/leɪt/",
+    "portuguesePhonetic": "lêit",
+    "syllables": [
+      "late"
+    ],
+    "exampleSentence": "late",
+    "exampleTranslation": "tarde"
+  },
+  {
+    "id": "lesson_17_75",
+    "word": "when",
+    "translation": "quando",
+    "pronunciation": "/wɛn/",
+    "portuguesePhonetic": "uén",
+    "syllables": [
+      "when"
+    ],
+    "exampleSentence": "when",
+    "exampleTranslation": "quando"
+  },
+  {
+    "id": "lesson_17_76",
+    "word": "now",
+    "translation": "agora",
+    "pronunciation": "/naʊ/",
+    "portuguesePhonetic": "náu",
+    "syllables": [
+      "now"
+    ],
+    "exampleSentence": "now",
+    "exampleTranslation": "agora"
+  },
+  {
+    "id": "lesson_17_77",
+    "word": "but",
+    "translation": "mas",
+    "pronunciation": "/bʌt/",
+    "portuguesePhonetic": "bât",
+    "syllables": [
+      "but"
+    ],
+    "exampleSentence": "but",
+    "exampleTranslation": "mas"
+  },
+  {
+    "id": "lesson_17_78",
+    "word": "job",
+    "translation": "emprego / trabalho",
+    "pronunciation": "/dʒɑb/",
+    "portuguesePhonetic": "djób",
+    "syllables": [
+      "job"
+    ],
+    "exampleSentence": "job",
+    "exampleTranslation": "emprego / trabalho"
+  },
+  {
+    "id": "lesson_17_79",
+    "word": "company",
+    "translation": "empresa",
+    "pronunciation": "/ˈkʌmpəni/",
+    "portuguesePhonetic": "câm-pa-ni",
+    "syllables": [
+      "com",
+      "pa",
+      "ny"
+    ],
+    "exampleSentence": "company",
+    "exampleTranslation": "empresa"
+  }
+]

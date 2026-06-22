@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "lesson_61_card_1",
+    "word": "to move",
+    "translation": "mover, mudar",
+    "pronunciation": "/tu muv/",
+    "portuguesePhonetic": "tchu muv",
+    "syllables": [
+      "to",
+      " move"
+    ],
+    "exampleSentence": "Why do you need to move to New York?",
+    "exampleTranslation": "Por que você precisa se mudar para Nova York?"
+  },
+  {
+    "id": "lesson_61_card_2",
+    "word": "to put",
+    "translation": "colocar, pôr",
+    "pronunciation": "/tu pʊt/",
+    "portuguesePhonetic": "tchu put",
+    "syllables": [
+      "to",
+      " put"
+    ],
+    "exampleSentence": "Don't put this chair here. It's broken.",
+    "exampleTranslation": "Não coloque essa cadeira aqui. Está quebrada."
+  },
+  {
+    "id": "lesson_61_card_3",
+    "word": "armchair",
+    "translation": "poltrona",
+    "pronunciation": "/ˈɑːrmtʃer/",
+    "portuguesePhonetic": "árm-tchér",
+    "syllables": [
+      "arm",
+      "chair"
+    ],
+    "exampleSentence": "Let's move this armchair to the right side.",
+    "exampleTranslation": "Vamos mudar esta poltrona para o lado direito."
+  },
+  {
+    "id": "lesson_61_card_4",
+    "word": "chair",
+    "translation": "cadeira",
+    "pronunciation": "/tʃer/",
+    "portuguesePhonetic": "tchér",
+    "syllables": [
+      "chair"
+    ],
+    "exampleSentence": "Don't put this chair here. It's broken.",
+    "exampleTranslation": "Não coloque essa cadeira aqui. Está quebrada."
+  },
+  {
+    "id": "lesson_61_card_5",
+    "word": "desk",
+    "translation": "escrivaninha",
+    "pronunciation": "/dɛsk/",
+    "portuguesePhonetic": "désq",
+    "syllables": [
+      "desk"
+    ],
+    "exampleSentence": "I always clean up my desk after work.",
+    "exampleTranslation": "Eu sempre limpo minha escrivaninha depois do trabalho."
+  },
+  {
+    "id": "lesson_61_card_6",
+    "word": "carpet",
+    "translation": "tapete",
+    "pronunciation": "/ˈkɑːrpɪt/",
+    "portuguesePhonetic": "cár-pit",
+    "syllables": [
+      "car",
+      "pet"
+    ],
+    "exampleSentence": "There aren't any carpets in my new house.",
+    "exampleTranslation": "Não tem tapetes na minha casa nova."
+  },
+  {
+    "id": "lesson_61_card_7",
+    "word": "tidy",
+    "translation": "arrumado(a)",
+    "pronunciation": "/ˈtaɪdi/",
+    "portuguesePhonetic": "tái-di",
+    "syllables": [
+      "ti",
+      "dy"
+    ],
+    "exampleSentence": "Your bedroom is so tidy. My house is really messy!",
+    "exampleTranslation": "Seu quarto é tão arrumado. Minha casa é muito bagunçada!"
+  },
+  {
+    "id": "lesson_61_card_8",
+    "word": "broken",
+    "translation": "quebrado(a)",
+    "pronunciation": "/ˈbroʊkən/",
+    "portuguesePhonetic": "brôu-quen",
+    "syllables": [
+      "bro",
+      "ken"
+    ],
+    "exampleSentence": "The laptop on the desk is broken.",
+    "exampleTranslation": "O notebook em cima da escrivaninha está quebrado."
+  },
+  {
+    "id": "lesson_61_card_9",
+    "word": "messy",
+    "translation": "bagunçado(a)",
+    "pronunciation": "/ˈmɛsi/",
+    "portuguesePhonetic": "mé-si",
+    "syllables": [
+      "mes",
+      "sy"
+    ],
+    "exampleSentence": "Your bedroom is so tidy. My house is really messy!",
+    "exampleTranslation": "Seu quarto é tão arrumado. Minha casa é muito bagunçada!"
+  },
+  {
+    "id": "lesson_61_card_10",
+    "word": "dirty",
+    "translation": "sujo(a)",
+    "pronunciation": "/ˈdɜːrti/",
+    "portuguesePhonetic": "dãr-ti",
+    "syllables": [
+      "dir",
+      "ty"
+    ],
+    "exampleSentence": "Don't put the dirty carpets here, please.",
+    "exampleTranslation": "Não coloque os tapetes sujos aqui, por favor."
+  },
+  {
+    "id": "lesson_61_card_11",
+    "word": "to the left",
+    "translation": "para a esquerda",
+    "pronunciation": "/tu ðə lɛft/",
+    "portuguesePhonetic": "tchu dâ left",
+    "syllables": [
+      "to",
+      " the",
+      " left"
+    ],
+    "exampleSentence": "Move this coffee table to the left, please.",
+    "exampleTranslation": "Mude esta mesa de centro para a esquerda, por favor."
+  },
+  {
+    "id": "lesson_61_card_12",
+    "word": "to the right",
+    "translation": "para a direita",
+    "pronunciation": "/tu ðə raɪt/",
+    "portuguesePhonetic": "tchu dâ ráid",
+    "syllables": [
+      "to",
+      " the",
+      " right"
+    ],
+    "exampleSentence": "Let's move this armchair to the right side.",
+    "exampleTranslation": "Vamos mudar esta poltrona para o lado direito."
+  },
+  {
+    "id": "lesson_61_card_13",
+    "word": "next to",
+    "translation": "ao lado de",
+    "pronunciation": "/nɛkst tu/",
+    "portuguesePhonetic": "nécst tchu",
+    "syllables": [
+      "next",
+      " to"
+    ],
+    "exampleSentence": "Put the desk next to the dresser, please.",
+    "exampleTranslation": "Coloque a escrivaninha ao lado da cômoda, por favor."
+  },
+  {
+    "id": "lesson_61_card_14",
+    "word": "Put away these clothes in the closet, please.",
+    "translation": "Guarde estas roupas no guarda-roupa, por favor.",
+    "pronunciation": "/pʊt əˈweɪ ðiz kloʊðz ɪn ðə ˈklɑzət, pliz./",
+    "portuguesePhonetic": "put a-uêi dîs clôus in dâ cló-zet, plis.",
+    "syllables": [
+      "Put",
+      " a",
+      "way",
+      " these",
+      " clothes",
+      " in",
+      " the",
+      " clos",
+      "et,",
+      " please."
+    ],
+    "exampleSentence": "Put away these clothes in the closet, please.",
+    "exampleTranslation": "Guarde estas roupas no guarda-roupa, por favor."
+  },
+  {
+    "id": "lesson_61_card_15",
+    "word": "Don't put this chair here. It's broken.",
+    "translation": "Não coloque essa cadeira aqui. Está quebrada.",
+    "pronunciation": "/doʊnt pʊt ðɪs tʃer hɪr. ɪts ˈbroʊkən./",
+    "portuguesePhonetic": "dôunt put dís tchér rir. its brôu-quen.",
+    "syllables": [
+      "Don't",
+      " put",
+      " this",
+      " chair",
+      " here.",
+      " It's",
+      " bro",
+      "ken."
+    ],
+    "exampleSentence": "Don't put this chair here. It's broken.",
+    "exampleTranslation": "Não coloque essa cadeira aqui. Está quebrada."
+  },
+  {
+    "id": "lesson_61_card_16",
+    "word": "What a mess!",
+    "translation": "Que bagunça!",
+    "pronunciation": "/wʌt ə mɛs!/",
+    "portuguesePhonetic": "uót a més!",
+    "syllables": [
+      "What",
+      " a",
+      " mess!"
+    ],
+    "exampleSentence": "What a mess! I need to clean up this kitchen.",
+    "exampleTranslation": "Que bagunça! Eu preciso limpar esta cozinha."
+  },
+  {
+    "id": "lesson_61_card_17",
+    "word": "I always clean up my desk after work.",
+    "translation": "Eu sempre limpo minha escrivaninha depois do trabalho.",
+    "pronunciation": "/aɪ ˈɔlˌweɪz klin ʌp maɪ dɛsk ˈæftər wɜrk./",
+    "portuguesePhonetic": "ai ól-uêis clín áp mai désq éf-ter uãrc.",
+    "syllables": [
+      "I",
+      " al",
+      "ways",
+      " clean",
+      " up",
+      " my",
+      " desk",
+      " af",
+      "ter",
+      " work."
+    ],
+    "exampleSentence": "I always clean up my desk after work.",
+    "exampleTranslation": "Eu sempre limpo minha escrivaninha depois do trabalho."
+  },
+  {
+    "id": "lesson_61_card_18",
+    "word": "There is a closet in this room, too.",
+    "translation": "Tem um guarda-roupa neste quarto também.",
+    "pronunciation": "/ðɛr ɪz ə ˈklɑzət ɪn ðɪs rum, tu./",
+    "portuguesePhonetic": "dér iz a cló-zet in dís rúm, tchu.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " clos",
+      "et",
+      " in",
+      " this",
+      " room,",
+      " too."
+    ],
+    "exampleSentence": "There is a closet in this room, too.",
+    "exampleTranslation": "Tem um guarda-roupa neste quarto também."
+  },
+  {
+    "id": "lesson_61_card_19",
+    "word": "There are four broken chairs here.",
+    "translation": "Tem quatro cadeiras quebradas aqui.",
+    "pronunciation": "/ðɛr ɑr fɔr ˈbroʊkən tʃɛrz hɪr./",
+    "portuguesePhonetic": "dér ar fór brôu-quen tchérs rir.",
+    "syllables": [
+      "There",
+      " are",
+      " four",
+      " bro",
+      "ken",
+      " chairs",
+      " here."
+    ],
+    "exampleSentence": "There are four broken chairs here.",
+    "exampleTranslation": "Tem quatro cadeiras quebradas aqui."
+  },
+  {
+    "id": "lesson_61_card_20",
+    "word": "There aren't any carpets in my new house.",
+    "translation": "Não tem tapetes na minha casa nova.",
+    "pronunciation": "/ðɛr ɑrnt ˈɛni ˈkɑrpɪts ɪn maɪ nu haʊs./",
+    "portuguesePhonetic": "dér árnt é-ni cár-pits in mai niu ráus.",
+    "syllables": [
+      "There",
+      " aren't",
+      " a",
+      "ny",
+      " car",
+      "pets",
+      " in",
+      " my",
+      " new",
+      " house."
+    ],
+    "exampleSentence": "There aren't any carpets in my new house.",
+    "exampleTranslation": "Não tem tapetes na minha casa nova."
+  },
+  {
+    "id": "lesson_61_card_21",
+    "word": "There isn't a coffee table in this living room.",
+    "translation": "Não tem uma mesa de centro nesta sala de estar.",
+    "pronunciation": "/ðɛr ˈɪzənt ə ˈkɔfi ˈteɪbəl ɪn ðɪs ˈlɪvɪŋ rum./",
+    "portuguesePhonetic": "dér î-zent a có-fi têi-bol in dís lí-vin rúm.",
+    "syllables": [
+      "There",
+      " isn't",
+      " a",
+      " cof",
+      "fee",
+      " ta",
+      "ble",
+      " in",
+      " this",
+      " liv",
+      "ing",
+      " room."
+    ],
+    "exampleSentence": "There isn't a coffee table in this living room.",
+    "exampleTranslation": "Não tem uma mesa de centro nesta sala de estar."
+  },
+  {
+    "id": "lesson_61_card_22",
+    "word": "There aren't any armchairs in the bedroom.",
+    "translation": "Não há poltronas no quarto.",
+    "pronunciation": "/ðɛr ɑrnt ˈɛni ˈɑrmˌtʃɛrz ɪn ðə ˈbɛdˌrum./",
+    "portuguesePhonetic": "dér árnt é-ni árm-tchérs in dâ béd-rúm.",
+    "syllables": [
+      "There",
+      " aren't",
+      " a",
+      "ny",
+      " arm",
+      "chairs",
+      " in",
+      " the",
+      " bed",
+      "room."
+    ],
+    "exampleSentence": "There aren't any armchairs in the bedroom.",
+    "exampleTranslation": "Não há poltronas no quarto."
+  },
+  {
+    "id": "lesson_61_card_23",
+    "word": "There isn't a swimming pool in this hotel.",
+    "translation": "Não tem uma piscina neste hotel.",
+    "pronunciation": "/ðɛr ˈɪzənt ə ˈswɪmɪŋ pul ɪn ðɪs hoʊˈtɛl./",
+    "portuguesePhonetic": "dér î-zent a suí-min pul in dís rou-tél.",
+    "syllables": [
+      "There",
+      " isn't",
+      " a",
+      " swim",
+      "ming",
+      " pool",
+      " in",
+      " this",
+      " ho",
+      "tel."
+    ],
+    "exampleSentence": "There isn't a swimming pool in this hotel.",
+    "exampleTranslation": "Não tem uma piscina neste hotel."
+  },
+  {
+    "id": "lesson_61_card_24",
+    "word": "Is there an ATM near here?",
+    "translation": "Tem algum caixa eletrônico perto daqui?",
+    "pronunciation": "/ɪz ðɛr ən ˌeɪˌtiˈɛm nɪr hɪr?/",
+    "portuguesePhonetic": "iz dér ân êi-tî-ém nír rir?",
+    "syllables": [
+      "Is",
+      " there",
+      " an",
+      " A",
+      "T",
+      "M",
+      " near",
+      " here?"
+    ],
+    "exampleSentence": "Is there an ATM near here?",
+    "exampleTranslation": "Tem algum caixa eletrônico perto daqui?"
+  },
+  {
+    "id": "lesson_61_card_25",
+    "word": "How many shopping malls are there in this city?",
+    "translation": "Quantos shoppings têm nesta cidade?",
+    "pronunciation": "/haʊ ˈmɛni ˈʃɑpɪŋ mɔlz ɑr ðɛr ɪn ðɪs ˈsɪti?/",
+    "portuguesePhonetic": "ráu mé-ni xó-pin móls ar dér in dís sí-ti?",
+    "syllables": [
+      "How",
+      " ma",
+      "ny",
+      " shop",
+      "ping",
+      " malls",
+      " are",
+      " there",
+      " in",
+      " this",
+      " ci",
+      "ty?"
+    ],
+    "exampleSentence": "How many shopping malls are there in this city?",
+    "exampleTranslation": "Quantos shoppings têm nesta cidade?"
+  },
+  {
+    "id": "lesson_61_card_26",
+    "word": "Move this coffee table to the left, please.",
+    "translation": "Mude esta mesa de centro para a esquerda, por favor.",
+    "pronunciation": "/muv ðɪs ˈkɔfi ˈteɪbəl tu ðə lɛft, pliz./",
+    "portuguesePhonetic": "muv dís có-fi têi-bol tchu dâ left, plis.",
+    "syllables": [
+      "Move",
+      " this",
+      " cof",
+      "fee",
+      " ta",
+      "ble",
+      " to",
+      " the",
+      " left,",
+      " please."
+    ],
+    "exampleSentence": "Move this coffee table to the left, please.",
+    "exampleTranslation": "Mude esta mesa de centro para a esquerda, por favor."
+  },
+  {
+    "id": "lesson_61_card_27",
+    "word": "Don't put the dirty carpets here, please.",
+    "translation": "Não coloque os tapetes sujos aqui, por favor.",
+    "pronunciation": "/doʊnt pʊt ðə ˈdɜrti ˈkɑrpəts hɪr, pliz./",
+    "portuguesePhonetic": "dôunt put dâ dãr-ti cár-pits rir, plis.",
+    "syllables": [
+      "Don't",
+      " put",
+      " the",
+      " dir",
+      "ty",
+      " car",
+      "pets",
+      " here,",
+      " please."
+    ],
+    "exampleSentence": "Don't put the dirty carpets here, please.",
+    "exampleTranslation": "Não coloque os tapetes sujos aqui, por favor."
+  },
+  {
+    "id": "lesson_61_card_28",
+    "word": "Let's move this armchair to the right side.",
+    "translation": "Vamos mudar esta poltrona para o lado direito.",
+    "pronunciation": "/lɛts muv ðɪs ˈɑrmˌtʃɛr tu ðə raɪt saɪd./",
+    "portuguesePhonetic": "léts muv dís árm-tchér tchu dâ ráid sáid.",
+    "syllables": [
+      "Let's",
+      " move",
+      " this",
+      " arm",
+      "chair",
+      " to",
+      " the",
+      " right",
+      " side."
+    ],
+    "exampleSentence": "Let's move this armchair to the right side.",
+    "exampleTranslation": "Vamos mudar esta poltrona para o lado direito."
+  },
+  {
+    "id": "lesson_61_card_29",
+    "word": "Put the desk next to the dresser, please.",
+    "translation": "Coloque a escrivaninha ao lado da cômoda, por favor.",
+    "pronunciation": "/pʊt ðə dɛsk nɛkst tu ðə ˈdrɛsər, pliz./",
+    "portuguesePhonetic": "put dâ désq nécst tchu dâ dré-ser, plis.",
+    "syllables": [
+      "Put",
+      " the",
+      " desk",
+      " next",
+      " to",
+      " the",
+      " dres",
+      "ser,",
+      " please."
+    ],
+    "exampleSentence": "Put the desk next to the dresser, please.",
+    "exampleTranslation": "Coloque a escrivaninha ao lado da cômoda, por favor."
+  },
+  {
+    "id": "lesson_61_card_30",
+    "word": "Your bedroom is so tidy. My house is really messy!",
+    "translation": "Seu quarto é tão arrumado. Minha casa é muito bagunçada!",
+    "pronunciation": "/jʊr ˈbɛdˌrum ɪz soʊ ˈtaɪdi. maɪ haʊs ɪz ˈrɪli ˈmɛsi!/",
+    "portuguesePhonetic": "iór béd-rúm iz sôu tái-di. mai ráus iz rí-li mé-si!",
+    "syllables": [
+      "Your",
+      " bed",
+      "room",
+      " is",
+      " so",
+      " ti",
+      "dy.",
+      " My",
+      " house",
+      " is",
+      " real",
+      "ly",
+      " mes",
+      "sy!"
+    ],
+    "exampleSentence": "Your bedroom is so tidy. My house is really messy!",
+    "exampleTranslation": "Seu quarto é tão arrumado. Minha casa é muito bagunçada!"
+  },
+  {
+    "id": "lesson_61_card_31",
+    "word": "What a mess! I need to clean up this kitchen.",
+    "translation": "Que bagunça! Eu preciso limpar esta cozinha.",
+    "pronunciation": "/wʌt ə mɛs! aɪ nid tu klin ʌp ðɪs ˈkɪtʃən./",
+    "portuguesePhonetic": "uót a més! ai nîd tchu clín áp dís quí-tchen.",
+    "syllables": [
+      "What",
+      " a",
+      " mess!",
+      " I",
+      " need",
+      " to",
+      " clean",
+      " up",
+      " this",
+      " kitch",
+      "en."
+    ],
+    "exampleSentence": "What a mess! I need to clean up this kitchen.",
+    "exampleTranslation": "Que bagunça! Eu preciso limpar esta cozinha."
+  },
+  {
+    "id": "lesson_61_card_32",
+    "word": "Why do you need to move to New York?",
+    "translation": "Por que você precisa se mudar para Nova York?",
+    "pronunciation": "/waɪ du ju nid tu muv tu nu jɔrk?/",
+    "portuguesePhonetic": "uái du iu nîd tchu muv tchu niu iórc?",
+    "syllables": [
+      "Why",
+      " do",
+      " you",
+      " need",
+      " to",
+      " move",
+      " to",
+      " New",
+      " York?"
+    ],
+    "exampleSentence": "Why do you need to move to New York?",
+    "exampleTranslation": "Por que você precisa se mudar para Nova York?"
+  },
+  {
+    "id": "lesson_61_card_33",
+    "word": "My husband wants to put a new closet in our bedroom.",
+    "translation": "Meu marido quer colocar um guarda-roupa novo no nosso quarto.",
+    "pronunciation": "/maɪ ˈhʌzbənd wɑnts tu pʊt ə nu ˈklɑzət ɪn ˈaʊər ˈbɛdˌrum./",
+    "portuguesePhonetic": "mai rás-band uónts tchu put a niu cló-zet in áu-er béd-rúm.",
+    "syllables": [
+      "My",
+      " hus",
+      "band",
+      " wants",
+      " to",
+      " put",
+      " a",
+      " new",
+      " clos",
+      "et",
+      " in",
+      " our",
+      " bed",
+      "room."
+    ],
+    "exampleSentence": "My husband wants to put a new closet in our bedroom.",
+    "exampleTranslation": "Meu marido quer colocar um guarda-roupa novo no nosso quarto."
+  },
+  {
+    "id": "lesson_61_card_34",
+    "word": "The laptop on the desk is broken.",
+    "translation": "O notebook em cima da escrivaninha está quebrado.",
+    "pronunciation": "/ðə ˈlæpˌtɑp ɑn ðə dɛsk ɪz ˈbroʊkən./",
+    "portuguesePhonetic": "dâ lép-tóp an dâ désq iz brôu-quen.",
+    "syllables": [
+      "The",
+      " lap",
+      "top",
+      " on",
+      " the",
+      " desk",
+      " is",
+      " bro",
+      "ken."
+    ],
+    "exampleSentence": "The laptop on the desk is broken.",
+    "exampleTranslation": "O notebook em cima da escrivaninha está quebrado."
+  },
+  {
+    "id": "lesson_61_card_35",
+    "word": "Is there a vegan restaurant near here?",
+    "translation": "Tem algum restaurante vegano aqui perto?",
+    "pronunciation": "/ɪz ðɛr ə ˈviɡən ˈrɛstəˌrɑnt nɪr hɪr?/",
+    "portuguesePhonetic": "iz dér a ví-gan rés-ta-rant nír rir?",
+    "syllables": [
+      "Is",
+      " there",
+      " a",
+      " ve",
+      "gan",
+      " res",
+      "tau",
+      "rant",
+      " near",
+      " here?"
+    ],
+    "exampleSentence": "Is there a vegan restaurant near here?",
+    "exampleTranslation": "Tem algum restaurante vegano aqui perto?"
+  },
+  {
+    "id": "lesson_61_card_36",
+    "word": "There are some good bookstores in this mall.",
+    "translation": "Tem algumas boas livrarias neste shopping.",
+    "pronunciation": "/ðɛr ɑr sʌm ɡʊd ˈbʊkˌstɔrz ɪn ðɪs mɔl./",
+    "portuguesePhonetic": "dér ar sâm gud búc-stórs in dís mól.",
+    "syllables": [
+      "There",
+      " are",
+      " some",
+      " good",
+      " book",
+      "stores",
+      " in",
+      " this",
+      " mall."
+    ],
+    "exampleSentence": "There are some good bookstores in this mall.",
+    "exampleTranslation": "Tem algumas boas livrarias neste shopping."
+  },
+  {
+    "id": "lesson_61_card_37",
+    "word": "I want to move to the countryside.",
+    "translation": "Eu quero me mudar para o interior.",
+    "pronunciation": "/aɪ wɑnt tu muv tu ðə ˈkʌntriˌsaɪd./",
+    "portuguesePhonetic": "ai uónt tchu muv tchu dâ cân-tri-said.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " move",
+      " to",
+      " the",
+      " coun",
+      "try",
+      "side."
+    ],
+    "exampleSentence": "I want to move to the countryside.",
+    "exampleTranslation": "Eu quero me mudar para o interior."
+  },
+  {
+    "id": "lesson_61_card_38",
+    "word": "Let's put these magazines away.",
+    "translation": "Vamos guardar estas revistas.",
+    "pronunciation": "/lɛts pʊt ðiz ˈmæɡəˌzinz əˈweɪ./",
+    "portuguesePhonetic": "léts put dîs mé-ga-zîns a-uêi.",
+    "syllables": [
+      "Let's",
+      " put",
+      " these",
+      " mag",
+      "a",
+      "zines",
+      " a",
+      "way."
+    ],
+    "exampleSentence": "Let's put these magazines away.",
+    "exampleTranslation": "Vamos guardar estas revistas."
+  },
+  {
+    "id": "lesson_61_card_39",
+    "word": "dirty carpet",
+    "translation": "tapete sujo",
+    "pronunciation": "/ˈdɜrti ˈkɑrpət/",
+    "portuguesePhonetic": "dãr-ti cár-pit",
+    "syllables": [
+      "dir",
+      "ty",
+      " car",
+      "pet"
+    ],
+    "exampleSentence": "Don't put the dirty carpets here, please.",
+    "exampleTranslation": "Não coloque os tapetes sujos aqui, por favor."
+  },
+  {
+    "id": "lesson_61_card_40",
+    "word": "tidy bedroom",
+    "translation": "quarto arrumado",
+    "pronunciation": "/ˈtaɪdi ˈbɛdˌrum/",
+    "portuguesePhonetic": "tái-di béd-rúm",
+    "syllables": [
+      "ti",
+      "dy",
+      " bed",
+      "room"
+    ],
+    "exampleSentence": "Your bedroom is so tidy. My house is really messy!",
+    "exampleTranslation": "Seu quarto é tão arrumado. Minha casa é muito bagunçada!"
+  },
+  {
+    "id": "lesson_61_card_41",
+    "word": "There is no problem.",
+    "translation": "Não há problema.",
+    "pronunciation": "/ðɛr ɪz noʊ ˈprɑbləm./",
+    "portuguesePhonetic": "dér iz nôu pró-blem.",
+    "syllables": [
+      "There",
+      " is",
+      " no",
+      " prob",
+      "lem."
+    ],
+    "exampleSentence": "There is no problem.",
+    "exampleTranslation": "Não há problema."
+  },
+  {
+    "id": "lesson_61_card_42",
+    "word": "Is there a bank in this station?",
+    "translation": "Tem um banco nesta estação?",
+    "pronunciation": "/ɪz ðɛr ə bæŋk ɪn ðɪs ˈsteɪʃən?/",
+    "portuguesePhonetic": "iz dér a bénq in dís stêi-xân?",
+    "syllables": [
+      "Is",
+      " there",
+      " a",
+      " bank",
+      " in",
+      " this",
+      " sta",
+      "tion?"
+    ],
+    "exampleSentence": "Is there a bank in this station?",
+    "exampleTranslation": "Tem um banco nesta estação?"
+  },
+  {
+    "id": "lesson_61_card_43",
+    "word": "closet",
+    "translation": "guarda-roupa",
+    "pronunciation": "/ˈklɑzət/",
+    "portuguesePhonetic": "cló-zet",
+    "syllables": [
+      "clos",
+      "et"
+    ],
+    "exampleSentence": "There is a closet in this room, too.",
+    "exampleTranslation": "Tem um guarda-roupa neste quarto também."
+  },
+  {
+    "id": "lesson_61_card_44",
+    "word": "coffee table",
+    "translation": "mesa de centro",
+    "pronunciation": "/ˈkɔfi ˈteɪbəl/",
+    "portuguesePhonetic": "có-fi têi-bol",
+    "syllables": [
+      "cof",
+      "fee",
+      " ta",
+      "ble"
+    ],
+    "exampleSentence": "There isn't a coffee table in this living room.",
+    "exampleTranslation": "Não tem uma mesa de centro nesta sala de estar."
+  },
+  {
+    "id": "lesson_61_card_45",
+    "word": "living room",
+    "translation": "sala de estar",
+    "pronunciation": "/ˈlɪvɪŋ rum/",
+    "portuguesePhonetic": "lí-vin rúm",
+    "syllables": [
+      "liv",
+      "ing",
+      " room"
+    ],
+    "exampleSentence": "There is a broken armchair in the living room.",
+    "exampleTranslation": "Há uma poltrona quebrada na sala de estar."
+  },
+  {
+    "id": "lesson_61_card_46",
+    "word": "bedroom",
+    "translation": "quarto",
+    "pronunciation": "/ˈbɛdˌrum/",
+    "portuguesePhonetic": "béd-rúm",
+    "syllables": [
+      "bed",
+      "room"
+    ],
+    "exampleSentence": "My husband wants to put a new closet in our bedroom.",
+    "exampleTranslation": "Meu marido quer colocar um guarda-roupa novo no nosso quarto."
+  },
+  {
+    "id": "lesson_61_card_47",
+    "word": "swimming pool",
+    "translation": "piscina",
+    "pronunciation": "/ˈswɪmɪŋ pul/",
+    "portuguesePhonetic": "suí-min pul",
+    "syllables": [
+      "swim",
+      "ming",
+      " pool"
+    ],
+    "exampleSentence": "There isn't a swimming pool in this hotel.",
+    "exampleTranslation": "Não tem uma piscina neste hotel."
+  },
+  {
+    "id": "lesson_61_card_48",
+    "word": "shopping mall",
+    "translation": "shopping",
+    "pronunciation": "/ˈʃɑpɪŋ mɔl/",
+    "portuguesePhonetic": "xó-pin mól",
+    "syllables": [
+      "shop",
+      "ping",
+      " mall"
+    ],
+    "exampleSentence": "How many shopping malls are there in this city?",
+    "exampleTranslation": "Quantos shoppings têm nesta cidade?"
+  },
+  {
+    "id": "lesson_61_card_49",
+    "word": "dresser",
+    "translation": "cômoda",
+    "pronunciation": "/ˈdrɛsər/",
+    "portuguesePhonetic": "dré-ser",
+    "syllables": [
+      "dres",
+      "ser"
+    ],
+    "exampleSentence": "Put the desk next to the dresser, please.",
+    "exampleTranslation": "Coloque a escrivaninha ao lado da cômoda, por favor."
+  },
+  {
+    "id": "lesson_61_card_50",
+    "word": "bookstore",
+    "translation": "livraria",
+    "pronunciation": "/ˈbʊkˌstɔr/",
+    "portuguesePhonetic": "búc-stór",
+    "syllables": [
+      "book",
+      "store"
+    ],
+    "exampleSentence": "There are some good bookstores in this mall.",
+    "exampleTranslation": "Tem algumas boas livrarias neste shopping."
+  },
+  {
+    "id": "lesson_61_card_51",
+    "word": "countryside",
+    "translation": "interior / zona rural",
+    "pronunciation": "/ˈkʌntriˌsaɪd/",
+    "portuguesePhonetic": "cân-tri-said",
+    "syllables": [
+      "coun",
+      "try",
+      "side"
+    ],
+    "exampleSentence": "I want to move to the countryside.",
+    "exampleTranslation": "Eu quero me mudar para o interior."
+  },
+  {
+    "id": "lesson_61_card_52",
+    "word": "kitchen",
+    "translation": "cozinha",
+    "pronunciation": "/ˈkɪtʃən/",
+    "portuguesePhonetic": "quí-tchen",
+    "syllables": [
+      "kitch",
+      "en"
+    ],
+    "exampleSentence": "What a mess! I need to clean up this kitchen.",
+    "exampleTranslation": "Que bagunça! Eu preciso limpar esta cozinha."
+  },
+  {
+    "id": "lesson_61_card_53",
+    "word": "There are two chairs next to the desk.",
+    "translation": "Há duas cadeiras ao lado da escrivaninha.",
+    "pronunciation": "/ðɛr ɑr tu tʃɛrz nɛkst tu ðə dɛsk./",
+    "portuguesePhonetic": "dér ar tchu tchérs nécst tchu dâ désq.",
+    "syllables": [
+      "There",
+      " are",
+      " two",
+      " chairs",
+      " next",
+      " to",
+      " the",
+      " desk."
+    ],
+    "exampleSentence": "There are two chairs next to the desk.",
+    "exampleTranslation": "Há duas cadeiras ao lado da escrivaninha."
+  },
+  {
+    "id": "lesson_61_card_54",
+    "word": "Is there a funny movie on TV tonight?",
+    "translation": "Tem um filme engraçado na TV esta noite?",
+    "pronunciation": "/ɪz ðɛr ə ˈfʌni ˈmuvi ɑn ˌtiˈvi təˈnaɪt?/",
+    "portuguesePhonetic": "iz dér a fá-ni mú-vi an tî-vî tu-náit?",
+    "syllables": [
+      "Is",
+      " there",
+      " a",
+      " fun",
+      "ny",
+      " mo",
+      "vie",
+      " on",
+      " T",
+      "V",
+      " to",
+      "night?"
+    ],
+    "exampleSentence": "Is there a funny movie on TV tonight?",
+    "exampleTranslation": "Tem um filme engraçado na TV esta noite?"
+  },
+  {
+    "id": "lesson_61_card_55",
+    "word": "What a mess! Clean it up, please!",
+    "translation": "Que bagunça! Limpe isso, por favor!",
+    "pronunciation": "/wʌt ə mɛs! klin ɪt ʌp, pliz!/",
+    "portuguesePhonetic": "uót a més! clín it áp, plis!",
+    "syllables": [
+      "What",
+      " a",
+      " mess!",
+      " Clean",
+      " it",
+      " up,",
+      " please!"
+    ],
+    "exampleSentence": "What a mess! Clean it up, please!",
+    "exampleTranslation": "Que bagunça! Limpe isso, por favor!"
+  },
+  {
+    "id": "lesson_61_card_56",
+    "word": "Can I move this coffee table next to the armchair?",
+    "translation": "Posso mover esta mesa de centro para perto da poltrona?",
+    "pronunciation": "/kæn aɪ muv ðɪs ˈkɔfi ˈteɪbəl nɛkst tu ðə ˈɑrmˌtʃɛr?/",
+    "portuguesePhonetic": "quén ai muv dís có-fi têi-bol nécst tchu dâ árm-tchér?",
+    "syllables": [
+      "Can",
+      " I",
+      " move",
+      " this",
+      " cof",
+      "fee",
+      " ta",
+      "ble",
+      " next",
+      " to",
+      " the",
+      " arm",
+      "chair?"
+    ],
+    "exampleSentence": "Can I move this coffee table next to the armchair?",
+    "exampleTranslation": "Posso mover esta mesa de centro para perto da poltrona?"
+  },
+  {
+    "id": "lesson_61_card_57",
+    "word": "I tidy the closet today, please.",
+    "translation": "Eu arrumo o guarda-roupa hoje, por favor.",
+    "pronunciation": "/aɪ ˈtaɪdi ðə ˈklɑzət təˈdeɪ, pliz./",
+    "portuguesePhonetic": "ai tái-di dâ cló-zet tu-dêi, plis.",
+    "syllables": [
+      "I",
+      " ti",
+      "dy",
+      " the",
+      " clos",
+      "et",
+      " to",
+      "day,",
+      " please."
+    ],
+    "exampleSentence": "I tidy the closet today, please.",
+    "exampleTranslation": "Eu arrumo o guarda-roupa hoje, por favor."
+  },
+  {
+    "id": "lesson_61_card_58",
+    "word": "Is there a broken desk in your bedroom?",
+    "translation": "Há uma escrivaninha quebrada no seu quarto?",
+    "pronunciation": "/ɪz ðɛr ə ˈbroʊkən dɛsk ɪn jʊr ˈbɛdˌrum?/",
+    "portuguesePhonetic": "iz dér a brôu-quen désq in iór béd-rúm?",
+    "syllables": [
+      "Is",
+      " there",
+      " a",
+      " bro",
+      "ken",
+      " desk",
+      " in",
+      " your",
+      " bed",
+      "room?"
+    ],
+    "exampleSentence": "Is there a broken desk in your bedroom?",
+    "exampleTranslation": "Há uma escrivaninha quebrada no seu quarto?"
+  },
+  {
+    "id": "lesson_61_card_59",
+    "word": "Your sister needs to put a carpet next to the dresser.",
+    "translation": "Sua irmã precisa colocar um tapete ao lado da cômoda.",
+    "pronunciation": "/jʊr ˈsɪstər nidz tu pʊt ə ˈkɑrpət nɛkst tu ðə ˈdrɛsər./",
+    "portuguesePhonetic": "iór sís-ter nîds tchu put a cár-pit nécst tchu dâ dré-ser.",
+    "syllables": [
+      "Your",
+      " sis",
+      "ter",
+      " needs",
+      " to",
+      " put",
+      " a",
+      " car",
+      "pet",
+      " next",
+      " to",
+      " the",
+      " dres",
+      "ser."
+    ],
+    "exampleSentence": "Your sister needs to put a carpet next to the dresser.",
+    "exampleTranslation": "Sua irmã precisa colocar um tapete ao lado da cômoda."
+  },
+  {
+    "id": "lesson_61_card_60",
+    "word": "Put it away. There is a dirty carpet here.",
+    "translation": "Guarde isso. Há um tapete sujo aqui.",
+    "pronunciation": "/pʊt ɪt əˈweɪ. ðɛr ɪz ə ˈdɜrti ˈkɑrpət hɪr./",
+    "portuguesePhonetic": "put it a-uêi. dér iz a dãr-ti cár-pit rir.",
+    "syllables": [
+      "Put",
+      " it",
+      " a",
+      "way.",
+      " There",
+      " is",
+      " a",
+      " dir",
+      "ty",
+      " car",
+      "pet",
+      " here."
+    ],
+    "exampleSentence": "Put it away. There is a dirty carpet here.",
+    "exampleTranslation": "Guarde isso. Há um tapete sujo aqui."
+  },
+  {
+    "id": "lesson_61_card_61",
+    "word": "Did he move the coffee table to the left?",
+    "translation": "Ele moveu a mesa de centro para a esquerda?",
+    "pronunciation": "/dɪd hi muv ðə ˈkɔfi ˈteɪbəl tu ðə lɛft?/",
+    "portuguesePhonetic": "did rî muv dâ có-fi têi-bol tchu dâ left?",
+    "syllables": [
+      "Did",
+      " he",
+      " move",
+      " the",
+      " cof",
+      "fee",
+      " ta",
+      "ble",
+      " to",
+      " the",
+      " left?"
+    ],
+    "exampleSentence": "Did he move the coffee table to the left?",
+    "exampleTranslation": "Ele moveu a mesa de centro para a esquerda?"
+  },
+  {
+    "id": "lesson_61_card_62",
+    "word": "They put the broken armchair in the bedroom.",
+    "translation": "Eles colocaram a poltrona quebrada no quarto.",
+    "pronunciation": "/ðeɪ pʊt ðə ˈbroʊkən ˈɑrmˌtʃɛr ɪn ðə ˈbɛdˌrum./",
+    "portuguesePhonetic": "dêi put dâ brôu-quen árm-tchér in dâ béd-rúm.",
+    "syllables": [
+      "They",
+      " put",
+      " the",
+      " bro",
+      "ken",
+      " arm",
+      "chair",
+      " in",
+      " the",
+      " bed",
+      "room."
+    ],
+    "exampleSentence": "They put the broken armchair in the bedroom.",
+    "exampleTranslation": "Eles colocaram a poltrona quebrada no quarto."
+  },
+  {
+    "id": "lesson_61_card_63",
+    "word": "Hey, Sarah! Can you help me out, please?",
+    "translation": "Ei, Sarah! Você pode me ajudar, por favor?",
+    "pronunciation": "/heɪ ˈsɛrə! kæn ju hɛlp mi aʊt, pliz?/",
+    "portuguesePhonetic": "rêi, sá-ra! quén iu rélp mi áut, plis?",
+    "syllables": [
+      "Hey,",
+      " Sa",
+      "rah!",
+      " Can",
+      " you",
+      " help",
+      " me",
+      " out,",
+      " please?"
+    ],
+    "exampleSentence": "Hey, Sarah! Can you help me out, please?",
+    "exampleTranslation": "Ei, Sarah! Você pode me ajudar, por favor?"
+  },
+  {
+    "id": "lesson_61_card_64",
+    "word": "Sure, no problem. What do you need?",
+    "translation": "Claro, sem problema. Do que você precisa?",
+    "pronunciation": "/ʃʊr, noʊ ˈprɑbləm. wʌt du ju nid?/",
+    "portuguesePhonetic": "xúr, nôu pró-blem. uót du iu nîd?",
+    "syllables": [
+      "Sure,",
+      " no",
+      " prob",
+      "lem.",
+      " What",
+      " do",
+      " you",
+      " need?"
+    ],
+    "exampleSentence": "Sure, no problem. What do you need?",
+    "exampleTranslation": "Claro, sem problema. Do que você precisa?"
+  },
+  {
+    "id": "lesson_61_card_65",
+    "word": "My house is dirty and I need to clean it up.",
+    "translation": "Minha casa está suja e eu preciso limpá-la.",
+    "pronunciation": "/maɪ haʊs ɪz ˈdɜrti ænd aɪ nid tu klin ɪt ʌp./",
+    "portuguesePhonetic": "mai ráus iz dãr-ti énd ai nîd tchu clín it áp.",
+    "syllables": [
+      "My",
+      " house",
+      " is",
+      " dir",
+      "ty",
+      " and",
+      " I",
+      " need",
+      " to",
+      " clean",
+      " it",
+      " up."
+    ],
+    "exampleSentence": "My house is dirty and I need to clean it up.",
+    "exampleTranslation": "Minha casa está suja e eu preciso limpá-la."
+  },
+  {
+    "id": "lesson_61_card_66",
+    "word": "Well, I need to put some stuff away before I meet you at school.",
+    "translation": "Bem, eu preciso guardar algumas coisas antes de encontrar você na escola.",
+    "pronunciation": "/wɛl, aɪ nid tu pʊt sʌm stʌf əˈweɪ bɪˈfɔr aɪ mit ju æt skul./",
+    "portuguesePhonetic": "uél, ai nîd tchu put sâm stâf a-uêi bi-fór ai mît iu ét scul.",
+    "syllables": [
+      "Well,",
+      " I",
+      " need",
+      " to",
+      " put",
+      " some",
+      " stuff",
+      " a",
+      "way",
+      " be",
+      "fore",
+      " I",
+      " meet",
+      " you",
+      " at",
+      " school."
+    ],
+    "exampleSentence": "Well, I need to put some stuff away before I meet you at school.",
+    "exampleTranslation": "Bem, eu preciso guardar algumas coisas antes de encontrar você na escola."
+  },
+  {
+    "id": "lesson_61_card_67",
+    "word": "Great! We need to move the armchairs, and there is a broken desk next to the dresser.",
+    "translation": "Ótimo! Precisamos mover as poltronas, e há uma escrivaninha quebrada ao lado da cômoda.",
+    "pronunciation": "/ɡreɪt! wi nid tu muv ðə ˈɑrmˌtʃɛrz, ænd ðɛr ɪz ə ˈbroʊkən dɛsk nɛkst tu ðə ˈdrɛsər./",
+    "portuguesePhonetic": "grêit! uí nîd tchu muv dâ árm-tchérs, énd dér iz a brôu-quen désq nécst tchu dâ dré-ser.",
+    "syllables": [
+      "Great!",
+      " We",
+      " need",
+      " to",
+      " move",
+      " the",
+      " arm",
+      "chairs,",
+      " and",
+      " there",
+      " is",
+      " a",
+      " bro",
+      "ken",
+      " desk",
+      " next",
+      " to",
+      " the",
+      " dres",
+      "ser."
+    ],
+    "exampleSentence": "Great! We need to move the armchairs, and there is a broken desk next to the dresser.",
+    "exampleTranslation": "Ótimo! Precisamos mover as poltronas, e há uma escrivaninha quebrada ao lado da cômoda."
+  },
+  {
+    "id": "lesson_61_card_68",
+    "word": "What a mess! Do you want to move the carpet?",
+    "translation": "Que bagunça! Você quer mover o tapete?",
+    "pronunciation": "/wʌt ə mɛs! du ju wɑnt tu muv ðə ˈkɑrpət?/",
+    "portuguesePhonetic": "uót a més! du iu uónt tchu muv dâ cár-pit?",
+    "syllables": [
+      "What",
+      " a",
+      " mess!",
+      " Do",
+      " you",
+      " want",
+      " to",
+      " move",
+      " the",
+      " car",
+      "pet?"
+    ],
+    "exampleSentence": "What a mess! Do you want to move the carpet?",
+    "exampleTranslation": "Que bagunça! Você quer mover o tapete?"
+  },
+  {
+    "id": "lesson_61_card_69",
+    "word": "Not now! I like it next to the closet.",
+    "translation": "Agora não! Eu gosto dele ao lado do guarda-roupa.",
+    "pronunciation": "/nɑt naʊ! aɪ laɪk ɪt nɛkst tu ðə ˈklɑzət./",
+    "portuguesePhonetic": "nót náu! ai laic it nécst tchu dâ cló-zet.",
+    "syllables": [
+      "Not",
+      " now!",
+      " I",
+      " like",
+      " it",
+      " next",
+      " to",
+      " the",
+      " clos",
+      "et."
+    ],
+    "exampleSentence": "Not now! I like it next to the closet.",
+    "exampleTranslation": "Agora não! Eu gosto dele ao lado do guarda-roupa."
+  },
+  {
+    "id": "lesson_61_card_70",
+    "word": "That's OK!",
+    "translation": "Tudo bem!",
+    "pronunciation": "/θæŋk ju soʊ mʌtʃ./",
+    "portuguesePhonetic": "déts ôu-quêi!",
+    "syllables": [
+      "That's",
+      " O",
+      "K!"
+    ],
+    "exampleSentence": "That's OK!",
+    "exampleTranslation": "Tudo bem!"
+  },
+  {
+    "id": "lesson_61_card_71",
+    "word": "Thank you so much.",
+    "translation": "Muito obrigada.",
+    "pronunciation": "/θæŋk ju soʊ mʌtʃ./",
+    "portuguesePhonetic": "thénq iu sôu mâtch.",
+    "syllables": [
+      "Thank",
+      " you",
+      " so",
+      " much."
+    ],
+    "exampleSentence": "Thank you so much.",
+    "exampleTranslation": "Muito obrigada."
+  },
+  {
+    "id": "lesson_61_card_72",
+    "word": "My pleasure!",
+    "translation": "Foi um prazer!",
+    "pronunciation": "/maɪ ˈplɛʒər!/",
+    "portuguesePhonetic": "mai plé-juer!",
+    "syllables": [
+      "My",
+      " plea",
+      "sure!"
+    ],
+    "exampleSentence": "My pleasure!",
+    "exampleTranslation": "Foi um prazer!"
+  },
+  {
+    "id": "lesson_61_card_73",
+    "word": "There is a dresser next to the bed.",
+    "translation": "Há uma cômoda ao lado da cama.",
+    "pronunciation": "/ðɛr ɪz ə ˈdrɛsər nɛkst tu ðə bɛd./",
+    "portuguesePhonetic": "dér iz a dré-ser nécst tchu dâ béd.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " dres",
+      "ser",
+      " next",
+      " to",
+      " the",
+      " bed."
+    ],
+    "exampleSentence": "There is a dresser next to the bed.",
+    "exampleTranslation": "Há uma cômoda ao lado da cama."
+  },
+  {
+    "id": "lesson_61_card_74",
+    "word": "Are there any carpets in your house?",
+    "translation": "Há tapetes na sua casa?",
+    "pronunciation": "/ɑr ðɛr ˈɛni ˈkɑrpəts ɪn jʊr haʊs?/",
+    "portuguesePhonetic": "ar dér é-ni cár-pits in iór ráus?",
+    "syllables": [
+      "Are",
+      " there",
+      " an",
+      "y",
+      " car",
+      "pets",
+      " in",
+      " your",
+      " house?"
+    ],
+    "exampleSentence": "Are there any carpets in your house?",
+    "exampleTranslation": "Há tapetes na sua casa?"
+  },
+  {
+    "id": "lesson_61_card_75",
+    "word": "Those desks aren't clean.",
+    "translation": "Aquelas escrivaninhas não estão limpas.",
+    "pronunciation": "/ðoʊz dɛsks ɑrnt klin./",
+    "portuguesePhonetic": "dôus désqs árnt clín.",
+    "syllables": [
+      "Those",
+      " desks",
+      " aren't",
+      " clean."
+    ],
+    "exampleSentence": "Those desks aren't clean.",
+    "exampleTranslation": "Aquelas escrivaninhas não estão limpas."
+  },
+  {
+    "id": "lesson_61_card_76",
+    "word": "What a messy bedroom!",
+    "translation": "Que quarto bagunçado!",
+    "pronunciation": "/wʌt ə ˈmɛsi ˈbɛdˌrum!/",
+    "portuguesePhonetic": "uót a mé-si béd-rúm!",
+    "syllables": [
+      "What",
+      " a",
+      " mes",
+      "sy",
+      " bed",
+      "room!"
+    ],
+    "exampleSentence": "What a messy bedroom!",
+    "exampleTranslation": "Que quarto bagunçado!"
+  },
+  {
+    "id": "lesson_61_card_77",
+    "word": "Put these chairs to the left.",
+    "translation": "Coloque estas cadeiras à esquerda.",
+    "pronunciation": "/pʊt ðiz tʃɛrz tu ðə lɛft./",
+    "portuguesePhonetic": "put dîs tchérs tchu dâ left.",
+    "syllables": [
+      "Put",
+      " these",
+      " chairs",
+      " to",
+      " the",
+      " left."
+    ],
+    "exampleSentence": "Put these chairs to the left.",
+    "exampleTranslation": "Coloque estas cadeiras à esquerda."
+  },
+  {
+    "id": "lesson_61_card_78",
+    "word": "There is a broken armchair in the living room.",
+    "translation": "Há uma poltrona quebrada na sala de estar.",
+    "pronunciation": "/ðɛr ɪz ə ˈbroʊkən ˈɑrmˌtʃɛr ɪn ðə ˈlɪvɪŋ rum./",
+    "portuguesePhonetic": "dér iz a brôu-quen árm-tchér in dâ lí-vin rúm.",
+    "syllables": [
+      "There",
+      " is",
+      " a",
+      " bro",
+      "ken",
+      " arm",
+      "chair",
+      " in",
+      " the",
+      " liv",
+      "ing",
+      " room."
+    ],
+    "exampleSentence": "There is a broken armchair in the living room.",
+    "exampleTranslation": "Há uma poltrona quebrada na sala de estar."
+  },
+  {
+    "id": "lesson_61_card_79",
+    "word": "Is there a closet in your apartment?",
+    "translation": "Há um guarda-roupa no seu apartamento?",
+    "pronunciation": "/ɪz ðɛr ə ˈklɑzət ɪn jʊr əˈpɑrtmənt?/",
+    "portuguesePhonetic": "iz dér a cló-zet in iór a-párt-ment?",
+    "syllables": [
+      "Is",
+      " there",
+      " a",
+      " clos",
+      "et",
+      " in",
+      " your",
+      " a",
+      "part",
+      "ment?"
+    ],
+    "exampleSentence": "Is there a closet in your apartment?",
+    "exampleTranslation": "Há um guarda-roupa no seu apartamento?"
+  },
+  {
+    "id": "lesson_61_card_80",
+    "word": "This place is really tidy. I don't need to clean it up.",
+    "translation": "Este lugar está realmente arrumado. Eu não preciso limpá-lo.",
+    "pronunciation": "/ðɪs pleɪs ɪz ˈrɪli ˈtaɪdi. aɪ doʊnt nid tu klin ɪt ʌp./",
+    "portuguesePhonetic": "dís plêis iz rí-li tái-di. ai dôunt nîd tchu clín it áp.",
+    "syllables": [
+      "This",
+      " place",
+      " is",
+      " real",
+      "ly",
+      " ti",
+      "dy.",
+      " I",
+      " don't",
+      " need",
+      " to",
+      " clean",
+      " it",
+      " up."
+    ],
+    "exampleSentence": "This place is really tidy. I don't need to clean it up.",
+    "exampleTranslation": "Este lugar está realmente arrumado. Eu não preciso limpá-lo."
+  },
+  {
+    "id": "lesson_61_card_81",
+    "word": "chair",
+    "translation": "cadeira",
+    "pronunciation": "/tʃer/",
+    "portuguesePhonetic": "tchér",
+    "syllables": [
+      "chair"
+    ],
+    "exampleSentence": "Put these chairs to the left.",
+    "exampleTranslation": "Coloque estas cadeiras à esquerda."
+  },
+  {
+    "id": "lesson_61_card_82",
+    "word": "desk",
+    "translation": "escrivaninha",
+    "pronunciation": "/dɛsk/",
+    "portuguesePhonetic": "désq",
+    "syllables": [
+      "desk"
+    ],
+    "exampleSentence": "Those desks aren't clean.",
+    "exampleTranslation": "Aquelas escrivaninhas não estão limpas."
+  },
+  {
+    "id": "lesson_61_card_83",
+    "word": "armchair",
+    "translation": "poltrona",
+    "pronunciation": "/ˈɑːrmtʃer/",
+    "portuguesePhonetic": "árm-tchér",
+    "syllables": [
+      "arm",
+      "chair"
+    ],
+    "exampleSentence": "There is a broken armchair in the living room.",
+    "exampleTranslation": "Há uma poltrona quebrada na sala de estar."
+  },
+  {
+    "id": "lesson_61_card_84",
+    "word": "carpet",
+    "translation": "tapete",
+    "pronunciation": "/ˈkɑːrpɪt/",
+    "portuguesePhonetic": "cár-pit",
+    "syllables": [
+      "car",
+      "pet"
+    ],
+    "exampleSentence": "Are there any carpets in your house?",
+    "exampleTranslation": "Há tapetes na sua casa?"
+  },
+  {
+    "id": "lesson_61_card_85",
+    "word": "dresser",
+    "translation": "cômoda",
+    "pronunciation": "/ˈdrɛsər/",
+    "portuguesePhonetic": "dré-ser",
+    "syllables": [
+      "dres",
+      "ser"
+    ],
+    "exampleSentence": "There is a dresser next to the bed.",
+    "exampleTranslation": "Há uma cômoda ao lado da cama."
+  },
+  {
+    "id": "lesson_61_card_86",
+    "word": "closet",
+    "translation": "guarda-roupa",
+    "pronunciation": "/ˈklɑzət/",
+    "portuguesePhonetic": "cló-zet",
+    "syllables": [
+      "clos",
+      "et"
+    ],
+    "exampleSentence": "Is there a closet in your apartment?",
+    "exampleTranslation": "Há um guarda-roupa no seu apartamento?"
+  },
+  {
+    "id": "lesson_61_card_87",
+    "word": "bedroom",
+    "translation": "quarto",
+    "pronunciation": "/ˈbɛdˌrum/",
+    "portuguesePhonetic": "béd-rúm",
+    "syllables": [
+      "bed",
+      "room"
+    ],
+    "exampleSentence": "What a messy bedroom!",
+    "exampleTranslation": "Que quarto bagunçado!"
+  },
+  {
+    "id": "lesson_61_card_88",
+    "word": "living room",
+    "translation": "sala de estar",
+    "pronunciation": "/ˈlɪvɪŋ rum/",
+    "portuguesePhonetic": "lí-vin rúm",
+    "syllables": [
+      "liv",
+      "ing",
+      " room"
+    ],
+    "exampleSentence": "There is a broken armchair in the living room.",
+    "exampleTranslation": "Há uma poltrona quebrada na sala de estar."
+  },
+  {
+    "id": "lesson_61_card_89",
+    "word": "tidy",
+    "translation": "arrumado",
+    "pronunciation": "/ˈtaɪdi/",
+    "portuguesePhonetic": "tái-di",
+    "syllables": [
+      "ti",
+      "dy"
+    ],
+    "exampleSentence": "This place is really tidy. I don't need to clean it up.",
+    "exampleTranslation": "Este lugar está realmente arrumado. Eu não preciso limpá-lo."
+  },
+  {
+    "id": "lesson_61_card_90",
+    "word": "messy",
+    "translation": "bagunçado",
+    "pronunciation": "/ˈmɛsi/",
+    "portuguesePhonetic": "mé-si",
+    "syllables": [
+      "mes",
+      "sy"
+    ],
+    "exampleSentence": "What a messy bedroom!",
+    "exampleTranslation": "Que quarto bagunçado!"
+  },
+  {
+    "id": "lesson_61_card_91",
+    "word": "dirty",
+    "translation": "sujo",
+    "pronunciation": "/ˈdɜːrti/",
+    "portuguesePhonetic": "dãr-ti",
+    "syllables": [
+      "dir",
+      "ty"
+    ],
+    "exampleSentence": "My house is dirty and I need to clean it up.",
+    "exampleTranslation": "Minha casa está suja e eu preciso limpá-la."
+  },
+  {
+    "id": "lesson_61_card_92",
+    "word": "broken",
+    "translation": "quebrado",
+    "pronunciation": "/ˈbroʊkən/",
+    "portuguesePhonetic": "brôu-quen",
+    "syllables": [
+      "bro",
+      "ken"
+    ],
+    "exampleSentence": "Is there a broken desk in your bedroom?",
+    "exampleTranslation": "Há uma escrivaninha quebrada no seu quarto?"
+  },
+  {
+    "id": "lesson_61_card_93",
+    "word": "move",
+    "translation": "mover",
+    "pronunciation": "/muv/",
+    "portuguesePhonetic": "muv",
+    "syllables": [
+      "move"
+    ],
+    "exampleSentence": "Can I move this coffee table next to the armchair?",
+    "exampleTranslation": "Posso mover esta mesa de centro para perto da poltrona?"
+  },
+  {
+    "id": "lesson_61_card_94",
+    "word": "put away",
+    "translation": "guardar",
+    "pronunciation": "/pʊt əˈweɪ/",
+    "portuguesePhonetic": "put a-uêi",
+    "syllables": [
+      "put",
+      " a",
+      "way"
+    ],
+    "exampleSentence": "Put away these clothes in the closet, please.",
+    "exampleTranslation": "Guarde estas roupas no guarda-roupa, por favor."
+  },
+  {
+    "id": "lesson_61_card_95",
+    "word": "clean up",
+    "translation": "limpar / arrumar",
+    "pronunciation": "/klin ʌp/",
+    "portuguesePhonetic": "clín áp",
+    "syllables": [
+      "clean",
+      " up"
+    ],
+    "exampleSentence": "This place is really tidy. I don't need to clean it up.",
+    "exampleTranslation": "Este lugar está realmente arrumado. Eu não preciso limpá-lo."
+  },
+  {
+    "id": "lesson_61_card_96",
+    "word": "to the left",
+    "translation": "para a esquerda",
+    "pronunciation": "/tu ðə lɛft/",
+    "portuguesePhonetic": "tchu dâ left",
+    "syllables": [
+      "to",
+      " the",
+      " left"
+    ],
+    "exampleSentence": "Put these chairs to the left.",
+    "exampleTranslation": "Coloque estas cadeiras à esquerda."
+  },
+  {
+    "id": "lesson_61_card_97",
+    "word": "next to",
+    "translation": "ao lado de",
+    "pronunciation": "/nɛkst tu/",
+    "portuguesePhonetic": "nécst tchu",
+    "syllables": [
+      "next",
+      " to"
+    ],
+    "exampleSentence": "There is a dresser next to the bed.",
+    "exampleTranslation": "Há uma cômoda ao lado da cama."
+  },
+  {
+    "id": "lesson_61_card_98",
+    "word": "coffee table",
+    "translation": "mesa de centro",
+    "pronunciation": "/ˈkɔfi ˈteɪbəl/",
+    "portuguesePhonetic": "có-fi têi-bol",
+    "syllables": [
+      "cof",
+      "fee",
+      " ta",
+      "ble"
+    ],
+    "exampleSentence": "Can I move this coffee table next to the armchair?",
+    "exampleTranslation": "Posso mover esta mesa de centro para perto da poltrona?"
+  }
+]

@@ -1,0 +1,2271 @@
+[
+  {
+    "id": "to_sell_pay_1",
+    "word": "to sell",
+    "translation": "vender",
+    "pronunciation": "/tə sɛl/",
+    "portuguesePhonetic": "tchu sel",
+    "syllables": [
+      "to",
+      " sell"
+    ],
+    "exampleSentence": "to sell",
+    "exampleTranslation": "vender"
+  },
+  {
+    "id": "to_sell_pay_2",
+    "word": "to pay",
+    "translation": "pagar",
+    "pronunciation": "/tə peɪ/",
+    "portuguesePhonetic": "tchu pêi",
+    "syllables": [
+      "to",
+      " pay"
+    ],
+    "exampleSentence": "to pay",
+    "exampleTranslation": "pagar"
+  },
+  {
+    "id": "to_sell_pay_3",
+    "word": "customer",
+    "translation": "cliente",
+    "pronunciation": "/ˈkʌstəmər/",
+    "portuguesePhonetic": "câs-to-mer",
+    "syllables": [
+      "cus",
+      "tom",
+      "er"
+    ],
+    "exampleSentence": "customer",
+    "exampleTranslation": "cliente"
+  },
+  {
+    "id": "to_sell_pay_4",
+    "word": "attendant",
+    "translation": "atendente",
+    "pronunciation": "/əˈtɛndənt/",
+    "portuguesePhonetic": "a-tên-dent",
+    "syllables": [
+      "at",
+      "tend",
+      "ant"
+    ],
+    "exampleSentence": "attendant",
+    "exampleTranslation": "atendente"
+  },
+  {
+    "id": "to_sell_pay_5",
+    "word": "wallet",
+    "translation": "carteira",
+    "pronunciation": "/ˈwɔlɪt/",
+    "portuguesePhonetic": "uó-lit",
+    "syllables": [
+      "wal",
+      "let"
+    ],
+    "exampleSentence": "wallet",
+    "exampleTranslation": "carteira"
+  },
+  {
+    "id": "to_sell_pay_6",
+    "word": "purse",
+    "translation": "bolsa",
+    "pronunciation": "/pɜrs/",
+    "portuguesePhonetic": "pãrs",
+    "syllables": [
+      "purse"
+    ],
+    "exampleSentence": "purse",
+    "exampleTranslation": "bolsa"
+  },
+  {
+    "id": "to_sell_pay_7",
+    "word": "bag",
+    "translation": "bolsa, sacola",
+    "pronunciation": "/bæɡ/",
+    "portuguesePhonetic": "bég",
+    "syllables": [
+      "bag"
+    ],
+    "exampleSentence": "bag",
+    "exampleTranslation": "bolsa, sacola"
+  },
+  {
+    "id": "to_sell_pay_8",
+    "word": "cash",
+    "translation": "dinheiro (espécie)",
+    "pronunciation": "/kæʃ/",
+    "portuguesePhonetic": "quéx",
+    "syllables": [
+      "cash"
+    ],
+    "exampleSentence": "cash",
+    "exampleTranslation": "dinheiro (espécie)"
+  },
+  {
+    "id": "to_sell_pay_9",
+    "word": "credit card",
+    "translation": "cartão de crédito",
+    "pronunciation": "/ˈkrɛdɪt kɑrd/",
+    "portuguesePhonetic": "cré-dit cárd",
+    "syllables": [
+      "cred",
+      "it",
+      " card"
+    ],
+    "exampleSentence": "credit card",
+    "exampleTranslation": "cartão de crédito"
+  },
+  {
+    "id": "to_sell_pay_10",
+    "word": "receipt",
+    "translation": "recibo",
+    "pronunciation": "/rɪˈsit/",
+    "portuguesePhonetic": "ri-sít",
+    "syllables": [
+      "re",
+      "ceipt"
+    ],
+    "exampleSentence": "receipt",
+    "exampleTranslation": "recibo"
+  },
+  {
+    "id": "to_sell_pay_11",
+    "word": "change",
+    "translation": "troco",
+    "pronunciation": "/tʃeɪndʒ/",
+    "portuguesePhonetic": "tchêindj",
+    "syllables": [
+      "change"
+    ],
+    "exampleSentence": "change",
+    "exampleTranslation": "troco"
+  },
+  {
+    "id": "to_sell_pay_12",
+    "word": "ATM",
+    "translation": "caixa eletrônico",
+    "pronunciation": "/ˌeɪˌtiˈɛm/",
+    "portuguesePhonetic": "êi ti ém",
+    "syllables": [
+      "A",
+      "T",
+      "M"
+    ],
+    "exampleSentence": "ATM",
+    "exampleTranslation": "caixa eletrônico"
+  },
+  {
+    "id": "to_sell_pay_13",
+    "word": "discount",
+    "translation": "desconto",
+    "pronunciation": "/ˈdɪskaʊnt/",
+    "portuguesePhonetic": "dís-caunt",
+    "syllables": [
+      "dis",
+      "count"
+    ],
+    "exampleSentence": "discount",
+    "exampleTranslation": "desconto"
+  },
+  {
+    "id": "to_sell_pay_14",
+    "word": "product",
+    "translation": "produto",
+    "pronunciation": "/ˈprɑdəkt/",
+    "portuguesePhonetic": "pró-dâct",
+    "syllables": [
+      "prod",
+      "uct"
+    ],
+    "exampleSentence": "product",
+    "exampleTranslation": "produto"
+  },
+  {
+    "id": "to_sell_pay_15",
+    "word": "item",
+    "translation": "item",
+    "pronunciation": "/ˈaɪtəm/",
+    "portuguesePhonetic": "ái-tem",
+    "syllables": [
+      "i",
+      "tem"
+    ],
+    "exampleSentence": "item",
+    "exampleTranslation": "item"
+  },
+  {
+    "id": "to_sell_pay_16",
+    "word": "fitting room",
+    "translation": "provador",
+    "pronunciation": "/ˈfɪtɪŋ rum/",
+    "portuguesePhonetic": "fí-tin rum",
+    "syllables": [
+      "fit",
+      "ting",
+      " room"
+    ],
+    "exampleSentence": "fitting room",
+    "exampleTranslation": "provador"
+  },
+  {
+    "id": "to_sell_pay_17",
+    "word": "department store",
+    "translation": "loja de departamento",
+    "pronunciation": "/dɪˈpɑrtmənt stɔr/",
+    "portuguesePhonetic": "di-párt-ment stór",
+    "syllables": [
+      "de",
+      "part",
+      "ment",
+      " store"
+    ],
+    "exampleSentence": "department store",
+    "exampleTranslation": "loja de departamento"
+  },
+  {
+    "id": "to_sell_pay_18",
+    "word": "outlet mall",
+    "translation": "outlet",
+    "pronunciation": "/ˈaʊtlɛt mɔl/",
+    "portuguesePhonetic": "áut-let mól",
+    "syllables": [
+      "out",
+      "let",
+      " mall"
+    ],
+    "exampleSentence": "outlet mall",
+    "exampleTranslation": "outlet"
+  },
+  {
+    "id": "to_sell_pay_19",
+    "word": "garage sale",
+    "translation": "venda de garagem",
+    "pronunciation": "/ɡəˈrɑʒ seɪl/",
+    "portuguesePhonetic": "ga-ráj sêil",
+    "syllables": [
+      "ga",
+      "rage",
+      " sale"
+    ],
+    "exampleSentence": "garage sale",
+    "exampleTranslation": "venda de garagem"
+  },
+  {
+    "id": "to_sell_pay_20",
+    "word": "Do you want to go shopping with me?",
+    "translation": "Você quer fazer compras comigo?",
+    "pronunciation": "/du ju wɑnt tu ɡoʊ ˈʃɑpɪŋ wɪð mi?/",
+    "portuguesePhonetic": "du iu uánt tchu gôu xó-ping uid mi?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " go",
+      " shop",
+      "ping",
+      " with",
+      " me?"
+    ],
+    "exampleSentence": "Do you want to go shopping with me?",
+    "exampleTranslation": "Você quer fazer compras comigo?"
+  },
+  {
+    "id": "to_sell_pay_21",
+    "word": "I'm looking for a brown jacket.",
+    "translation": "Estou procurando por uma jaqueta marrom.",
+    "pronunciation": "/aɪm ˈlʊkɪŋ fɔr ə braʊn ˈdʒækɪt./",
+    "portuguesePhonetic": "aim lú-quin fór a braun djé-kit.",
+    "syllables": [
+      "I'm",
+      " look",
+      "ing",
+      " for",
+      " a",
+      " brown",
+      " jack",
+      "et."
+    ],
+    "exampleSentence": "I'm looking for a brown jacket.",
+    "exampleTranslation": "Estou procurando por uma jaqueta marrom."
+  },
+  {
+    "id": "to_sell_pay_22",
+    "word": "I always get a discount at that store.",
+    "translation": "Eu sempre consigo um desconto naquela loja.",
+    "pronunciation": "/aɪ ˈɔlweɪz ɡɛt ə ˈdɪskaʊnt æt ðæt stɔr./",
+    "portuguesePhonetic": "ai ól-ueiz gét a dís-caunt ét dét stór.",
+    "syllables": [
+      "I",
+      " al",
+      "ways",
+      " get",
+      " a",
+      " dis",
+      "count",
+      " at",
+      " that",
+      " store."
+    ],
+    "exampleSentence": "I always get a discount at that store.",
+    "exampleTranslation": "Eu sempre consigo um desconto naquela loja."
+  },
+  {
+    "id": "to_sell_pay_23",
+    "word": "Are the shoes on sale too?",
+    "translation": "Os sapatos estão em liquidação também?",
+    "pronunciation": "/ɑr ðə ʃuz ɑn seɪl tu?/",
+    "portuguesePhonetic": "ar dâ xus an sêil tchu?",
+    "syllables": [
+      "Are",
+      " the",
+      " shoes",
+      " on",
+      " sale",
+      " too?"
+    ],
+    "exampleSentence": "Are the shoes on sale too?",
+    "exampleTranslation": "Os sapatos estão em liquidação também?"
+  },
+  {
+    "id": "to_sell_pay_24",
+    "word": "I'm not doing my homework now.",
+    "translation": "Eu não estou fazendo minha lição de casa agora.",
+    "pronunciation": "/aɪm nɑt ˈduɪŋ maɪ ˈhoʊmˌwɜrk naʊ./",
+    "portuguesePhonetic": "aim nát du-in mai rôum-uãrk náu.",
+    "syllables": [
+      "I'm",
+      " not",
+      " do",
+      "ing",
+      " my",
+      " home",
+      "work",
+      " now."
+    ],
+    "exampleSentence": "I'm not doing my homework now.",
+    "exampleTranslation": "Eu não estou fazendo minha lição de casa agora."
+  },
+  {
+    "id": "to_sell_pay_25",
+    "word": "You aren't studying alone.",
+    "translation": "Você não está estudando sozinho.",
+    "pronunciation": "/ju ˈɑrənt ˈstʌdiɪŋ əˈloʊn./",
+    "portuguesePhonetic": "iu árnt stâ-di-in a-lôun.",
+    "syllables": [
+      "You",
+      " ar",
+      "en't",
+      " stud",
+      "y",
+      "ing",
+      " a",
+      "lone."
+    ],
+    "exampleSentence": "You aren't studying alone.",
+    "exampleTranslation": "Você não está estudando sozinho."
+  },
+  {
+    "id": "to_sell_pay_26",
+    "word": "She isn't calling the attendant.",
+    "translation": "Ela não está chamando o atendente.",
+    "pronunciation": "/ʃi ˈɪzənt ˈkɔlɪŋ ðə əˈtɛndənt./",
+    "portuguesePhonetic": "xi í-zent có-lin dâ a-tên-dent.",
+    "syllables": [
+      "She",
+      " is",
+      "n't",
+      " call",
+      "ing",
+      " the",
+      " at",
+      "tend",
+      "ant."
+    ],
+    "exampleSentence": "She isn't calling the attendant.",
+    "exampleTranslation": "Ela não está chamando o atendente."
+  },
+  {
+    "id": "to_sell_pay_27",
+    "word": "He isn't paying with his credit card.",
+    "translation": "Ele não está pagando com o cartão de crédito dele.",
+    "pronunciation": "/hi ˈɪzənt ˈpeɪɪŋ wɪð hɪz ˈkrɛdɪt kɑrd./",
+    "portuguesePhonetic": "ri í-zent pêi-in uid riz cré-dit cárd.",
+    "syllables": [
+      "He",
+      " is",
+      "n't",
+      " pay",
+      "ing",
+      " with",
+      " his",
+      " cred",
+      "it",
+      " card."
+    ],
+    "exampleSentence": "He isn't paying with his credit card.",
+    "exampleTranslation": "Ele não está pagando com o cartão de crédito dele."
+  },
+  {
+    "id": "to_sell_pay_28",
+    "word": "We aren't working at the mall today.",
+    "translation": "Nós não estamos trabalhando no shopping hoje.",
+    "pronunciation": "/wi ˈɑrənt ˈwɜrkɪŋ æt ðə mɔl təˈdeɪ./",
+    "portuguesePhonetic": "uí árnt uãr-quin ét dâ mól tchu-dêi.",
+    "syllables": [
+      "We",
+      " ar",
+      "en't",
+      " work",
+      "ing",
+      " at",
+      " the",
+      " mall",
+      " to",
+      "day."
+    ],
+    "exampleSentence": "We aren't working at the mall today.",
+    "exampleTranslation": "Nós não estamos trabalhando no shopping hoje."
+  },
+  {
+    "id": "to_sell_pay_29",
+    "word": "They aren't talking to the customers now.",
+    "translation": "Eles não estão falando com os clientes agora.",
+    "pronunciation": "/ðeɪ ˈɑrənt ˈtɔkɪŋ tu ðə ˈkʌstəmərz naʊ./",
+    "portuguesePhonetic": "dêi árnt tó-quin tchu dâ câs-to-mers náu.",
+    "syllables": [
+      "They",
+      " ar",
+      "en't",
+      " talk",
+      "ing",
+      " to",
+      " the",
+      " cus",
+      "tom",
+      "ers",
+      " now."
+    ],
+    "exampleSentence": "They aren't talking to the customers now.",
+    "exampleTranslation": "Eles não estão falando com os clientes agora."
+  },
+  {
+    "id": "to_sell_pay_30",
+    "word": "Do you need a receipt?",
+    "translation": "Você precisa de recibo?",
+    "pronunciation": "/du ju nid ə rɪˈsit?/",
+    "portuguesePhonetic": "du iu nid a ri-sít?",
+    "syllables": [
+      "Do",
+      " you",
+      " need",
+      " a",
+      " re",
+      "ceipt?"
+    ],
+    "exampleSentence": "Do you need a receipt?",
+    "exampleTranslation": "Você precisa de recibo?"
+  },
+  {
+    "id": "to_sell_pay_31",
+    "word": "I'm still looking for a blue dress.",
+    "translation": "Eu ainda estou procurando um vestido azul.",
+    "pronunciation": "/aɪm stɪl ˈlʊkɪŋ fɔr ə blu drɛs./",
+    "portuguesePhonetic": "aim stíl lú-quin fór a blu drés.",
+    "syllables": [
+      "I'm",
+      " still",
+      " look",
+      "ing",
+      " for",
+      " a",
+      " blue",
+      " dress."
+    ],
+    "exampleSentence": "I'm still looking for a blue dress.",
+    "exampleTranslation": "Eu ainda estou procurando um vestido azul."
+  },
+  {
+    "id": "to_sell_pay_32",
+    "word": "My neighbors are having a garage sale today.",
+    "translation": "Meus vizinhos estão fazendo uma venda de garagem hoje.",
+    "pronunciation": "/maɪ ˈneɪbərz ɑr ˈhævɪŋ ə ɡəˈrɑʒ seɪl təˈdeɪ./",
+    "portuguesePhonetic": "mai nêi-bors ar ré-vin a ga-ráj sêil tchu-dêi.",
+    "syllables": [
+      "My",
+      " neigh",
+      "bors",
+      " are",
+      " hav",
+      "ing",
+      " a",
+      " ga",
+      "rage",
+      " sale",
+      " to",
+      "day."
+    ],
+    "exampleSentence": "My neighbors are having a garage sale today.",
+    "exampleTranslation": "Meus vizinhos estão fazendo uma venda de garagem hoje."
+  },
+  {
+    "id": "to_sell_pay_33",
+    "word": "I get a discount when I buy three items.",
+    "translation": "Eu consigo um desconto quando compro três itens.",
+    "pronunciation": "/aɪ ɡɛt ə ˈdɪskaʊnt wɛn aɪ baɪ θri ˈaɪtəmz./",
+    "portuguesePhonetic": "ai gét a dís-caunt uén ai bai thri ái-tems.",
+    "syllables": [
+      "I",
+      " get",
+      " a",
+      " dis",
+      "count",
+      " when",
+      " I",
+      " buy",
+      " three",
+      " i",
+      "tems."
+    ],
+    "exampleSentence": "I get a discount when I buy three items.",
+    "exampleTranslation": "Eu consigo um desconto quando compro três itens."
+  },
+  {
+    "id": "to_sell_pay_34",
+    "word": "I usually pay US$5 for the ice cream here.",
+    "translation": "Eu geralmente pago US$5 pelo sorvete aqui.",
+    "pronunciation": "/aɪ ˈjuʒuəli peɪ faɪv ˈdɑlərz fɔr ði aɪs krim hɪr./",
+    "portuguesePhonetic": "ai iú-ju-a-li pêi faiv dól-ars fór di ais crim rir.",
+    "syllables": [
+      "I",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " pay",
+      " U",
+      "S",
+      "$5",
+      " for",
+      " the",
+      " ice",
+      " cream",
+      " here."
+    ],
+    "exampleSentence": "I usually pay US$5 for the ice cream here.",
+    "exampleTranslation": "Eu geralmente pago US$5 pelo sorvete aqui."
+  },
+  {
+    "id": "to_sell_pay_35",
+    "word": "My mother works at a department store.",
+    "translation": "Minha mãe trabalha em uma loja de departamento.",
+    "pronunciation": "/maɪ ˈmʌðər wɜrks æt ə dɪˈpɑrtmənt stɔr./",
+    "portuguesePhonetic": "mai mâ-der uãrcs ét a di-párt-ment stór.",
+    "syllables": [
+      "My",
+      " moth",
+      "er",
+      " works",
+      " at",
+      " a",
+      " de",
+      "part",
+      "ment",
+      " store."
+    ],
+    "exampleSentence": "My mother works at a department store.",
+    "exampleTranslation": "Minha mãe trabalha em uma loja de departamento."
+  },
+  {
+    "id": "to_sell_pay_36",
+    "word": "I'm selling my stuff to my neighbors.",
+    "translation": "Eu estou vendendo minhas coisas para meus vizinhos.",
+    "pronunciation": "/aɪm ˈsɛlɪŋ maɪ stʌf tu maɪ ˈneɪbərz./",
+    "portuguesePhonetic": "aim sé-lin mai stâf tchu mai nêi-bors.",
+    "syllables": [
+      "I'm",
+      " sell",
+      "ing",
+      " my",
+      " stuff",
+      " to",
+      " my",
+      " neigh",
+      "bors."
+    ],
+    "exampleSentence": "I'm selling my stuff to my neighbors.",
+    "exampleTranslation": "Eu estou vendendo minhas coisas para meus vizinhos."
+  },
+  {
+    "id": "to_sell_pay_37",
+    "word": "Thanks. I'm not looking for anything special.",
+    "translation": "Obrigado. Não estou procurando por nada em especial.",
+    "pronunciation": "/θæŋks. aɪm nɑt ˈlʊkɪŋ fɔr ˈɛniˌθɪŋ ˈspɛʃəl./",
+    "portuguesePhonetic": "théncs. aim nát lú-quin fór é-ni-thin spé-xal.",
+    "syllables": [
+      "Thanks.",
+      " I'm",
+      " not",
+      " look",
+      "ing",
+      " for",
+      " an",
+      "y",
+      "thing",
+      " spe",
+      "cial."
+    ],
+    "exampleSentence": "Thanks. I'm not looking for anything special.",
+    "exampleTranslation": "Obrigado. Não estou procurando por nada em especial."
+  },
+  {
+    "id": "to_sell_pay_38",
+    "word": "He's not trying on the black suit.",
+    "translation": "Ele não está provando o terno preto.",
+    "pronunciation": "/hiz nɑt ˈtraɪɪŋ ɑn ðə blæk sut./",
+    "portuguesePhonetic": "riz nát trái-in an dâ bléc sut.",
+    "syllables": [
+      "He's",
+      " not",
+      " try",
+      "ing",
+      " on",
+      " the",
+      " black",
+      " suit."
+    ],
+    "exampleSentence": "He's not trying on the black suit.",
+    "exampleTranslation": "Ele não está provando o terno preto."
+  },
+  {
+    "id": "to_sell_pay_39",
+    "word": "They aren't watching that movie you like.",
+    "translation": "Eles não estão assistindo àquele filme que você gosta.",
+    "pronunciation": "/ðeɪ ˈɑrənt ˈwɑtʃɪŋ ðæt ˈmuvi ju laɪk./",
+    "portuguesePhonetic": "dêi árnt uó-tchin dét mú-vi iu laic.",
+    "syllables": [
+      "They",
+      " ar",
+      "en't",
+      " watch",
+      "ing",
+      " that",
+      " mo",
+      "vie",
+      " you",
+      " like."
+    ],
+    "exampleSentence": "They aren't watching that movie you like.",
+    "exampleTranslation": "Eles não estão assistindo àquele filme que você gosta."
+  },
+  {
+    "id": "to_sell_pay_40",
+    "word": "She isn't wearing a green skirt.",
+    "translation": "Ela não está usando uma saia verde.",
+    "pronunciation": "/ʃi ˈɪzənt ˈwɛrɪŋ ə ɡrin skɜrt./",
+    "portuguesePhonetic": "xi í-zent ué-rin a grin scãrt.",
+    "syllables": [
+      "She",
+      " is",
+      "n't",
+      " wea",
+      "ring",
+      " a",
+      " green",
+      " skirt."
+    ],
+    "exampleSentence": "She isn't wearing a green skirt.",
+    "exampleTranslation": "Ela não está usando uma saia verde."
+  },
+  {
+    "id": "to_sell_pay_41",
+    "word": "We're not having lunch.",
+    "translation": "Nós não estamos almoçando.",
+    "pronunciation": "/wir nɑt ˈhævɪŋ lʌntʃ./",
+    "portuguesePhonetic": "uír nát ré-vin lântch.",
+    "syllables": [
+      "We're",
+      " not",
+      " hav",
+      "ing",
+      " lunch."
+    ],
+    "exampleSentence": "We're not having lunch.",
+    "exampleTranslation": "Nós não estamos almoçando."
+  },
+  {
+    "id": "to_sell_pay_42",
+    "word": "I have US$20 in change.",
+    "translation": "Eu tenho US$20 em troco.",
+    "pronunciation": "/aɪ hæv ˈtwɛnti ˈdɑlərz ɪn tʃeɪndʒ./",
+    "portuguesePhonetic": "ai rév tuên-ti dól-ars in tchêindj.",
+    "syllables": [
+      "I",
+      " have",
+      " U",
+      "S",
+      "$20",
+      " in",
+      " change."
+    ],
+    "exampleSentence": "I have US$20 in change.",
+    "exampleTranslation": "Eu tenho US$20 em troco."
+  },
+  {
+    "id": "to_sell_pay_43",
+    "word": "Here's your change.",
+    "translation": "Aqui está o seu troco.",
+    "pronunciation": "/hɪrz jʊr tʃeɪndʒ./",
+    "portuguesePhonetic": "rîrz iór tchêindj.",
+    "syllables": [
+      "Here's",
+      " your",
+      " change."
+    ],
+    "exampleSentence": "Here's your change.",
+    "exampleTranslation": "Aqui está o seu troco."
+  },
+  {
+    "id": "to_sell_pay_44",
+    "word": "Do you have change for a 20?",
+    "translation": "Você tem troco para uma nota de 20?",
+    "pronunciation": "/du ju hæv tʃeɪndʒ fɔr ə ˈtwɛnti?/",
+    "portuguesePhonetic": "du iu rév tchêindj fór a tuên-ti?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " change",
+      " for",
+      " a",
+      " 20?"
+    ],
+    "exampleSentence": "Do you have change for a 20?",
+    "exampleTranslation": "Você tem troco para uma nota de 20?"
+  },
+  {
+    "id": "to_sell_pay_45",
+    "word": "I'm not / I am not",
+    "translation": "Eu não estou / eu não sou",
+    "pronunciation": "/aɪm nɑt / aɪ æm nɑt/",
+    "portuguesePhonetic": "aim nát / ai ém nát",
+    "syllables": [
+      "I'm",
+      " not",
+      " /",
+      " I",
+      " am",
+      " not"
+    ],
+    "exampleSentence": "I'm not / I am not",
+    "exampleTranslation": "Eu não estou / eu não sou"
+  },
+  {
+    "id": "to_sell_pay_46",
+    "word": "You're not / You aren't",
+    "translation": "Você não está / você não é",
+    "pronunciation": "/jʊr nɑt / ju ˈɑrənt/",
+    "portuguesePhonetic": "iór nát / iu árnt",
+    "syllables": [
+      "You're",
+      " not",
+      " /",
+      " You",
+      " ar",
+      "en't"
+    ],
+    "exampleSentence": "You're not / You aren't",
+    "exampleTranslation": "Você não está / você não é"
+  },
+  {
+    "id": "to_sell_pay_47",
+    "word": "He's not / He isn't",
+    "translation": "Ele não está / ele não é",
+    "pronunciation": "/hiz nɑt / hi ˈɪzənt/",
+    "portuguesePhonetic": "riz nát / ri í-zent",
+    "syllables": [
+      "He's",
+      " not",
+      " /",
+      " He",
+      " is",
+      "n't"
+    ],
+    "exampleSentence": "He's not / He isn't",
+    "exampleTranslation": "Ele não está / ele não é"
+  },
+  {
+    "id": "to_sell_pay_48",
+    "word": "She's not / She isn't",
+    "translation": "Ela não está / ela não é",
+    "pronunciation": "/ʃiz nɑt / ʃi ˈɪzənt/",
+    "portuguesePhonetic": "xiz nát / xi í-zent",
+    "syllables": [
+      "She's",
+      " not",
+      " /",
+      " She",
+      " is",
+      "n't"
+    ],
+    "exampleSentence": "She's not / She isn't",
+    "exampleTranslation": "Ela não está / ela não é"
+  },
+  {
+    "id": "to_sell_pay_49",
+    "word": "It's not / It isn't",
+    "translation": "Isso não está / não é",
+    "pronunciation": "/ɪts nɑt / ɪt ˈɪzənt/",
+    "portuguesePhonetic": "its nát / it í-zent",
+    "syllables": [
+      "It's",
+      " not",
+      " /",
+      " It",
+      " is",
+      "n't"
+    ],
+    "exampleSentence": "It's not / It isn't",
+    "exampleTranslation": "Isso não está / não é"
+  },
+  {
+    "id": "to_sell_pay_50",
+    "word": "We're not / We aren't",
+    "translation": "Nós não estamos / nós não somos",
+    "pronunciation": "/wir nɑt / wi ˈɑrənt/",
+    "portuguesePhonetic": "uír nát / uí árnt",
+    "syllables": [
+      "We're",
+      " not",
+      " /",
+      " We",
+      " ar",
+      "en't"
+    ],
+    "exampleSentence": "We're not / We aren't",
+    "exampleTranslation": "Nós não estamos / nós não somos"
+  },
+  {
+    "id": "to_sell_pay_51",
+    "word": "You're not / You aren't",
+    "translation": "Vocês não estão / vocês não são",
+    "pronunciation": "/jʊr nɑt / ju ˈɑrənt/",
+    "portuguesePhonetic": "iór nát / iu árnt",
+    "syllables": [
+      "You're",
+      " not",
+      " /",
+      " You",
+      " ar",
+      "en't"
+    ],
+    "exampleSentence": "You're not / You aren't",
+    "exampleTranslation": "Vocês não estão / vocês não são"
+  },
+  {
+    "id": "to_sell_pay_52",
+    "word": "They're not / They aren't",
+    "translation": "Eles não estão / eles não são",
+    "pronunciation": "/ðeɪr nɑt / ðeɪ ˈɑrənt/",
+    "portuguesePhonetic": "dêir nát / dêi árnt",
+    "syllables": [
+      "They're",
+      " not",
+      " /",
+      " They",
+      " ar",
+      "en't"
+    ],
+    "exampleSentence": "They're not / They aren't",
+    "exampleTranslation": "Eles não estão / eles não são"
+  },
+  {
+    "id": "to_sell_pay_53",
+    "word": "to buy for",
+    "translation": "comprar para",
+    "pronunciation": "/tə baɪ fɔr/",
+    "portuguesePhonetic": "tchu bai fór",
+    "syllables": [
+      "to",
+      " buy",
+      " for"
+    ],
+    "exampleSentence": "to buy for",
+    "exampleTranslation": "comprar para"
+  },
+  {
+    "id": "to_sell_pay_54",
+    "word": "I want to buy a gift for my mother.",
+    "translation": "Eu quero comprar um presente para minha mãe.",
+    "pronunciation": "/aɪ wɑnt tu baɪ ə ɡɪft fɔr maɪ ˈmʌðər./",
+    "portuguesePhonetic": "ai uónt tchu bai a gift fór mai mâ-der.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " buy",
+      " a",
+      " gift",
+      " for",
+      " my",
+      " moth",
+      "er."
+    ],
+    "exampleSentence": "I want to buy a gift for my mother.",
+    "exampleTranslation": "Eu quero comprar um presente para minha mãe."
+  },
+  {
+    "id": "to_sell_pay_55",
+    "word": "to sell to",
+    "translation": "vender para",
+    "pronunciation": "/tə sɛl tu/",
+    "portuguesePhonetic": "tchu sel tchu",
+    "syllables": [
+      "to",
+      " sell",
+      " to"
+    ],
+    "exampleSentence": "to sell to",
+    "exampleTranslation": "vender para"
+  },
+  {
+    "id": "to_sell_pay_56",
+    "word": "I'm selling my car to my brother.",
+    "translation": "Estou vendendo meu carro para meu irmão.",
+    "pronunciation": "/aɪm ˈsɛlɪŋ maɪ kɑr tu maɪ ˈbrʌðər./",
+    "portuguesePhonetic": "aim sé-lin mai cár tchu mai brâ-der.",
+    "syllables": [
+      "I'm",
+      " sell",
+      "ing",
+      " my",
+      " car",
+      " to",
+      " my",
+      " broth",
+      "er."
+    ],
+    "exampleSentence": "I'm selling my car to my brother.",
+    "exampleTranslation": "Estou vendendo meu carro para meu irmão."
+  },
+  {
+    "id": "to_sell_pay_57",
+    "word": "to give a discount",
+    "translation": "dar um desconto",
+    "pronunciation": "/tə ɡɪv ə ˈdɪskaʊnt/",
+    "portuguesePhonetic": "tchu guív a dís-caunt",
+    "syllables": [
+      "to",
+      " give",
+      " a",
+      " dis",
+      "count"
+    ],
+    "exampleSentence": "to give a discount",
+    "exampleTranslation": "dar um desconto"
+  },
+  {
+    "id": "to_sell_pay_58",
+    "word": "Can you give me a discount?",
+    "translation": "Você pode me dar um desconto?",
+    "pronunciation": "/kæn ju ɡɪv mi ə ˈdɪskaʊnt?/",
+    "portuguesePhonetic": "quén iu guív mi a dís-caunt?",
+    "syllables": [
+      "Can",
+      " you",
+      " give",
+      " me",
+      " a",
+      " dis",
+      "count?"
+    ],
+    "exampleSentence": "Can you give me a discount?",
+    "exampleTranslation": "Você pode me dar um desconto?"
+  },
+  {
+    "id": "to_sell_pay_59",
+    "word": "to get a discount",
+    "translation": "conseguir um desconto",
+    "pronunciation": "/tə ɡɛt ə ˈdɪskaʊnt/",
+    "portuguesePhonetic": "tchu gét a dís-caunt",
+    "syllables": [
+      "to",
+      " get",
+      " a",
+      " dis",
+      "count"
+    ],
+    "exampleSentence": "to get a discount",
+    "exampleTranslation": "conseguir um desconto"
+  },
+  {
+    "id": "to_sell_pay_60",
+    "word": "I got a discount on this jacket.",
+    "translation": "Eu consegui um desconto nesta jaqueta.",
+    "pronunciation": "/aɪ ɡɑt ə ˈdɪskaʊnt ɑn ðɪs ˈdʒækɪt./",
+    "portuguesePhonetic": "ai gót a dís-caunt on díz djé-kit.",
+    "syllables": [
+      "I",
+      " got",
+      " a",
+      " dis",
+      "count",
+      " on",
+      " this",
+      " jack",
+      "et."
+    ],
+    "exampleSentence": "I got a discount on this jacket.",
+    "exampleTranslation": "Eu consegui um desconto nesta jaqueta."
+  },
+  {
+    "id": "to_sell_pay_61",
+    "word": "to be 10% off",
+    "translation": "estar com 10% de desconto",
+    "pronunciation": "/tu bi tɛn pərˈsɛnt ɔf/",
+    "portuguesePhonetic": "tchu bi tén per-sént óf",
+    "syllables": [
+      "to",
+      " be",
+      " 10%",
+      " off"
+    ],
+    "exampleSentence": "to be 10% off",
+    "exampleTranslation": "estar com 10% de desconto"
+  },
+  {
+    "id": "to_sell_pay_62",
+    "word": "This product is 10% off today.",
+    "translation": "Este produto está com 10% de desconto hoje.",
+    "pronunciation": "/ðɪs ˈprɑdəkt ɪz tɛn pərˈsɛnt ɔf təˈdeɪ./",
+    "portuguesePhonetic": "díz pró-dâct iz tén per-sént óf tchu-dêi.",
+    "syllables": [
+      "This",
+      " prod",
+      "uct",
+      " is",
+      " 10%",
+      " off",
+      " to",
+      "day."
+    ],
+    "exampleSentence": "This product is 10% off today.",
+    "exampleTranslation": "Este produto está com 10% de desconto hoje."
+  },
+  {
+    "id": "to_sell_pay_63",
+    "word": "How would you like to pay?",
+    "translation": "Como você gostaria de pagar?",
+    "pronunciation": "/haʊ wʊd ju laɪk tu peɪ?/",
+    "portuguesePhonetic": "ráu uud iu laic tchu pêi?",
+    "syllables": [
+      "How",
+      " would",
+      " you",
+      " like",
+      " to",
+      " pay?"
+    ],
+    "exampleSentence": "How would you like to pay?",
+    "exampleTranslation": "Como você gostaria de pagar?"
+  },
+  {
+    "id": "to_sell_pay_64",
+    "word": "I'll pay in cash.",
+    "translation": "Vou pagar em dinheiro.",
+    "pronunciation": "/aɪl peɪ ɪn kæʃ./",
+    "portuguesePhonetic": "ail pêi in quéx.",
+    "syllables": [
+      "I'll",
+      " pay",
+      " in",
+      " cash."
+    ],
+    "exampleSentence": "I'll pay in cash.",
+    "exampleTranslation": "Vou pagar em dinheiro."
+  },
+  {
+    "id": "to_sell_pay_65",
+    "word": "I'll pay by credit card.",
+    "translation": "Vou pagar com cartão de crédito.",
+    "pronunciation": "/aɪl peɪ baɪ ˈkrɛdɪt kɑrd./",
+    "portuguesePhonetic": "ail pêi bai cré-dit cárd.",
+    "syllables": [
+      "I'll",
+      " pay",
+      " by",
+      " cred",
+      "it",
+      " card."
+    ],
+    "exampleSentence": "I'll pay by credit card.",
+    "exampleTranslation": "Vou pagar com cartão de crédito."
+  },
+  {
+    "id": "to_sell_pay_66",
+    "word": "Can I pay with my debit card?",
+    "translation": "Posso pagar com meu cartão de débito?",
+    "pronunciation": "/kæn aɪ peɪ wɪð maɪ ˈdɛbɪt kɑrd?/",
+    "portuguesePhonetic": "quén ai pêi uid mai dé-bit cárd?",
+    "syllables": [
+      "Can",
+      " I",
+      " pay",
+      " with",
+      " my",
+      " deb",
+      "it",
+      " card?"
+    ],
+    "exampleSentence": "Can I pay with my debit card?",
+    "exampleTranslation": "Posso pagar com meu cartão de débito?"
+  },
+  {
+    "id": "to_sell_pay_67",
+    "word": "Where is the ATM?",
+    "translation": "Onde fica o caixa eletrônico?",
+    "pronunciation": "/wɛr ɪz ði eɪ-ti-ɛm?/",
+    "portuguesePhonetic": "uér iz di ei-ti-em?",
+    "syllables": [
+      "Where",
+      " is",
+      " the",
+      " A",
+      "T",
+      "M?"
+    ],
+    "exampleSentence": "Where is the ATM?",
+    "exampleTranslation": "Onde fica o caixa eletrônico?"
+  },
+  {
+    "id": "to_sell_pay_68",
+    "word": "Can I have the receipt, please?",
+    "translation": "Posso ficar com o recibo, por favor?",
+    "pronunciation": "/kæn aɪ hæv ðə rɪˈsit, pliz?/",
+    "portuguesePhonetic": "quén ai rév dâ ri-sít, pliz?",
+    "syllables": [
+      "Can",
+      " I",
+      " have",
+      " the",
+      " re",
+      "ceipt,",
+      " please?"
+    ],
+    "exampleSentence": "Can I have the receipt, please?",
+    "exampleTranslation": "Posso ficar com o recibo, por favor?"
+  },
+  {
+    "id": "to_sell_pay_69",
+    "word": "This item is on sale.",
+    "translation": "Este item está em promoção.",
+    "pronunciation": "/ðɪs ˈaɪtəm ɪz ɑn seɪl./",
+    "portuguesePhonetic": "díz ái-tem iz an sêil.",
+    "syllables": [
+      "This",
+      " i",
+      "tem",
+      " is",
+      " on",
+      " sale."
+    ],
+    "exampleSentence": "This item is on sale.",
+    "exampleTranslation": "Este item está em promoção."
+  },
+  {
+    "id": "to_sell_pay_70",
+    "word": "That store always has good discounts.",
+    "translation": "Aquela loja sempre tem bons descontos.",
+    "pronunciation": "/ðæt stɔr ˈɔlweɪz hæz ɡʊd ˈdɪskaʊnts./",
+    "portuguesePhonetic": "dét stór ól-ueiz réz gud dís-caunts.",
+    "syllables": [
+      "That",
+      " store",
+      " al",
+      "ways",
+      " has",
+      " good",
+      " dis",
+      "counts."
+    ],
+    "exampleSentence": "That store always has good discounts.",
+    "exampleTranslation": "Aquela loja sempre tem bons descontos."
+  },
+  {
+    "id": "to_sell_pay_71",
+    "word": "I'm looking for a gift.",
+    "translation": "Estou procurando um presente.",
+    "pronunciation": "/aɪm ˈlʊkɪŋ fɔr ə ɡɪft./",
+    "portuguesePhonetic": "aim lú-quin fór a gift.",
+    "syllables": [
+      "I'm",
+      " look",
+      "ing",
+      " for",
+      " a",
+      " gift."
+    ],
+    "exampleSentence": "I'm looking for a gift.",
+    "exampleTranslation": "Estou procurando um presente."
+  },
+  {
+    "id": "to_sell_pay_72",
+    "word": "The fitting room is over there.",
+    "translation": "O provador fica ali.",
+    "pronunciation": "/ðə ˈfɪtɪŋ rum ɪz ˈoʊvər ðɛr./",
+    "portuguesePhonetic": "dâ fí-tin rum iz ôu-ver dér.",
+    "syllables": [
+      "The",
+      " fit",
+      "ting",
+      " room",
+      " is",
+      " o",
+      "ver",
+      " there."
+    ],
+    "exampleSentence": "The fitting room is over there.",
+    "exampleTranslation": "O provador fica ali."
+  },
+  {
+    "id": "to_sell_pay_73",
+    "word": "She wants to sell her bags and shoes to her friends.",
+    "translation": "Ela quer vender as bolsas e sapatos dela para as amigas dela.",
+    "pronunciation": "/ʃi wɑnts tu sɛl hɜr bæɡz ænd ʃuz tu hɜr frɛndz./",
+    "portuguesePhonetic": "xi uónts tchu sel rãr bégzs énd xus tchu rãr frends.",
+    "syllables": [
+      "She",
+      " wants",
+      " to",
+      " sell",
+      " her",
+      " bags",
+      " and",
+      " shoes",
+      " to",
+      " her",
+      " friends."
+    ],
+    "exampleSentence": "She wants to sell her bags and shoes to her friends.",
+    "exampleTranslation": "Ela quer vender as bolsas e sapatos dela para as amigas dela."
+  },
+  {
+    "id": "to_sell_pay_74",
+    "word": "The customers aren't buying anything today.",
+    "translation": "Os clientes não estão comprando nada hoje.",
+    "pronunciation": "/ðə ˈkʌstəmərz ɑrnt ˈbaɪɪŋ ˈɛniˌθɪŋ təˈdeɪ./",
+    "portuguesePhonetic": "dâ câs-to-mers árnt bái-in é-ni-thin tchu-dêi.",
+    "syllables": [
+      "The",
+      " cus",
+      "tom",
+      "ers",
+      " are",
+      "n't",
+      " buy",
+      "ing",
+      " an",
+      "y",
+      "thing",
+      " to",
+      "day."
+    ],
+    "exampleSentence": "The customers aren't buying anything today.",
+    "exampleTranslation": "Os clientes não estão comprando nada hoje."
+  },
+  {
+    "id": "to_sell_pay_75",
+    "word": "He usually pays US$10 for that item at the market.",
+    "translation": "Ele geralmente paga US$10 por aquele item no mercado.",
+    "pronunciation": "/hi ˈjuʒuəli peɪz tɛn ˈdɑlərz fɔr ðæt ˈaɪtəm æt ðə ˈmɑrkət./",
+    "portuguesePhonetic": "ri iú-ju-a-li pêiz tén dól-ars fór dét ái-tem ét dâ már-quet.",
+    "syllables": [
+      "He",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " pays",
+      " U",
+      "S",
+      "$10",
+      " for",
+      " that",
+      " i",
+      "tem",
+      " at",
+      " the",
+      " mar",
+      "ket."
+    ],
+    "exampleSentence": "He usually pays US$10 for that item at the market.",
+    "exampleTranslation": "Ele geralmente paga US$10 por aquele item no mercado."
+  },
+  {
+    "id": "to_sell_pay_76",
+    "word": "What do you want to buy at the department store?",
+    "translation": "O que você quer comprar na loja de departamento?",
+    "pronunciation": "/wʌt du ju wɑnt tu baɪ æt ðə dɪˈpɑrtmənt stɔr?/",
+    "portuguesePhonetic": "uát du iu uánt tchu bai ét dâ di-párt-ment stór?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " want",
+      " to",
+      " buy",
+      " at",
+      " the",
+      " de",
+      "part",
+      "ment",
+      " store?"
+    ],
+    "exampleSentence": "What do you want to buy at the department store?",
+    "exampleTranslation": "O que você quer comprar na loja de departamento?"
+  },
+  {
+    "id": "to_sell_pay_77",
+    "word": "I always get a discount at that store. They give me a 10% discount.",
+    "translation": "Eu sempre consigo um desconto naquela loja. Eles me dão 10% de desconto.",
+    "pronunciation": "/aɪ ˈɔlweɪz ɡɛt ə ˈdɪskaʊnt æt ðæt stɔr. ðeɪ ɡɪv mi ə tɛn pərˈsɛnt ˈdɪskaʊnt./",
+    "portuguesePhonetic": "ai ól-ueiz gét a dís-caunt ét dét stór. dêi guív mi a tén per-sént dís-caunt.",
+    "syllables": [
+      "I",
+      " al",
+      "ways",
+      " get",
+      " a",
+      " dis",
+      "count",
+      " at",
+      " that",
+      " store.",
+      " They",
+      " give",
+      " me",
+      " a",
+      " 10%",
+      " dis",
+      "count."
+    ],
+    "exampleSentence": "I always get a discount at that store. They give me a 10% discount.",
+    "exampleTranslation": "Eu sempre consigo um desconto naquela loja. Eles me dão 10% de desconto."
+  },
+  {
+    "id": "to_sell_pay_78",
+    "word": "I want to have a garage sale this weekend. I need to sell a lot of things.",
+    "translation": "Eu quero fazer uma venda de garagem no fim de semana. Eu preciso vender muitas coisas.",
+    "pronunciation": "/aɪ wɑnt tu hæv ə ɡəˈrɑʒ seɪl ðɪs ˈwikˌɛnd. aɪ nid tu sɛl ə lɑt ʌv θɪŋz./",
+    "portuguesePhonetic": "ai uónt tchu rév a ga-ráj sêil díz uíc-énd. ai nid tchu sel a lót óv thins.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " have",
+      " a",
+      " ga",
+      "rage",
+      " sale",
+      " this",
+      " week",
+      "end.",
+      " I",
+      " need",
+      " to",
+      " sell",
+      " a",
+      " lot",
+      " of",
+      " things."
+    ],
+    "exampleSentence": "I want to have a garage sale this weekend. I need to sell a lot of things.",
+    "exampleTranslation": "Eu quero fazer uma venda de garagem no fim de semana. Eu preciso vender muitas coisas."
+  },
+  {
+    "id": "to_sell_pay_79",
+    "word": "He is our new attendant at the department store.",
+    "translation": "Ele é nosso novo atendente na loja de departamento.",
+    "pronunciation": "/hi ɪz ˈaʊər nu əˈtɛndənt æt ðə dɪˈpɑrtmənt stɔr./",
+    "portuguesePhonetic": "ri iz áu-er nu a-tên-dent ét dâ di-párt-ment stór.",
+    "syllables": [
+      "He",
+      " is",
+      " our",
+      " new",
+      " at",
+      "tend",
+      "ant",
+      " at",
+      " the",
+      " de",
+      "part",
+      "ment",
+      " store."
+    ],
+    "exampleSentence": "He is our new attendant at the department store.",
+    "exampleTranslation": "Ele é nosso novo atendente na loja de departamento."
+  },
+  {
+    "id": "to_sell_pay_80",
+    "word": "Do you want the receipt in your bag?",
+    "translation": "Você quer o recibo na sua sacola?",
+    "pronunciation": "/du ju wɑnt ðə rɪˈsit ɪn jʊr bæɡ?/",
+    "portuguesePhonetic": "du iu uánt dâ ri-sít in iór bég?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " the",
+      " re",
+      "ceipt",
+      " in",
+      " your",
+      " bag?"
+    ],
+    "exampleSentence": "Do you want the receipt in your bag?",
+    "exampleTranslation": "Você quer o recibo na sua sacola?"
+  },
+  {
+    "id": "to_sell_pay_81",
+    "word": "Where is she? – She is in the fitting room. She is trying on the T-shirt.",
+    "translation": "Onde ela está? – Ela está no provador. Ela está provando a camiseta.",
+    "pronunciation": "/wɛr ɪz ʃi? – ʃi ɪz ɪn ðə ˈfɪtɪŋ rum. ʃi ɪz ˈtraɪɪŋ ɑn ðə ˈtiˌʃɜrt./",
+    "portuguesePhonetic": "uér iz xi? – xi iz in dâ fí-tin rum. xi iz trái-in an dâ tí-xãrt.",
+    "syllables": [
+      "Where",
+      " is",
+      " she?",
+      " –",
+      " She",
+      " is",
+      " in",
+      " the",
+      " fit",
+      "ting",
+      " room.",
+      " She",
+      " is",
+      " try",
+      "ing",
+      " on",
+      " the",
+      " T-",
+      "shirt."
+    ],
+    "exampleSentence": "Where is she? – She is in the fitting room. She is trying on the T-shirt.",
+    "exampleTranslation": "Onde ela está? – Ela está no provador. Ela está provando a camiseta."
+  },
+  {
+    "id": "to_sell_pay_82",
+    "word": "Can I help you? – Yes, I'm looking for a brown wallet.",
+    "translation": "Posso te ajudar? – Sim, estou procurando uma carteira marrom.",
+    "pronunciation": "/kæn aɪ hɛlp ju? – jɛs, aɪm ˈlʊkɪŋ fɔr ə braʊn ˈwɔlɪt./",
+    "portuguesePhonetic": "quén ai rélp iu? – iés, aim lú-quin fór a braun uó-lit.",
+    "syllables": [
+      "Can",
+      " I",
+      " help",
+      " you?",
+      " –",
+      " Yes,",
+      " I'm",
+      " look",
+      "ing",
+      " for",
+      " a",
+      " brown",
+      " wal",
+      "let."
+    ],
+    "exampleSentence": "Can I help you? – Yes, I'm looking for a brown wallet.",
+    "exampleTranslation": "Posso te ajudar? – Sim, estou procurando uma carteira marrom."
+  },
+  {
+    "id": "to_sell_pay_83",
+    "word": "Hello! Can I help you?",
+    "translation": "Olá! Posso ajudá-la?",
+    "pronunciation": "/həˈloʊ! kæn aɪ hɛlp ju?/",
+    "portuguesePhonetic": "ré-lou! quén ai rélp iu?",
+    "syllables": [
+      "Hel",
+      "lo!",
+      " Can",
+      " I",
+      " help",
+      " you?"
+    ],
+    "exampleSentence": "Hello! Can I help you?",
+    "exampleTranslation": "Olá! Posso ajudá-la?"
+  },
+  {
+    "id": "to_sell_pay_84",
+    "word": "Yes. I'm looking for a white dress.",
+    "translation": "Sim. Estou procurando um vestido branco.",
+    "pronunciation": "/jɛs. aɪm ˈlʊkɪŋ fɔr ə waɪt drɛs./",
+    "portuguesePhonetic": "iés. aim lú-quin fór a uáit drés.",
+    "syllables": [
+      "Yes.",
+      " I'm",
+      " look",
+      "ing",
+      " for",
+      " a",
+      " white",
+      " dress."
+    ],
+    "exampleSentence": "Yes. I'm looking for a white dress.",
+    "exampleTranslation": "Sim. Estou procurando um vestido branco."
+  },
+  {
+    "id": "to_sell_pay_85",
+    "word": "OK. What size are you?",
+    "translation": "Certo. Que tamanho você usa?",
+    "pronunciation": "/oʊˈkeɪ. wʌt saɪz ɑr ju?/",
+    "portuguesePhonetic": "ou-kêi. uát saiz ar iu?",
+    "syllables": [
+      "O",
+      "K.",
+      " What",
+      " size",
+      " are",
+      " you?"
+    ],
+    "exampleSentence": "OK. What size are you?",
+    "exampleTranslation": "Certo. Que tamanho você usa?"
+  },
+  {
+    "id": "to_sell_pay_86",
+    "word": "Well, I think I'm a medium.",
+    "translation": "Bem, eu acho que sou tamanho médio.",
+    "pronunciation": "/wɛl, aɪ θɪŋk aɪm ə ˈmidiəm./",
+    "portuguesePhonetic": "uél, ai thinc aim a mí-di-âm.",
+    "syllables": [
+      "Well,",
+      " I",
+      " think",
+      " I'm",
+      " a",
+      " me",
+      "di",
+      "um."
+    ],
+    "exampleSentence": "Well, I think I'm a medium.",
+    "exampleTranslation": "Bem, eu acho que sou tamanho médio."
+  },
+  {
+    "id": "to_sell_pay_87",
+    "word": "Here you are. Go to the fitting room and try it on!",
+    "translation": "Aqui está. Vá ao provador e experimente!",
+    "pronunciation": "/hɪr ju ɑr. ɡoʊ tu ðə ˈfɪtɪŋ rum ænd traɪ ɪt ɑn!/",
+    "portuguesePhonetic": "rir iu ar. gôu tchu dâ fí-tin rum énd trai it an!",
+    "syllables": [
+      "Here",
+      " you",
+      " are.",
+      " Go",
+      " to",
+      " the",
+      " fit",
+      "ting",
+      " room",
+      " and",
+      " try",
+      " it",
+      " on!"
+    ],
+    "exampleSentence": "Here you are. Go to the fitting room and try it on!",
+    "exampleTranslation": "Aqui está. Vá ao provador e experimente!"
+  },
+  {
+    "id": "to_sell_pay_88",
+    "word": "Oh! Wow... I love it! How much is it?",
+    "translation": "Uau! Eu adorei! Quanto custa?",
+    "pronunciation": "/oʊ! waʊ... aɪ lʌv ɪt! haʊ mʌtʃ ɪz ɪt?/",
+    "portuguesePhonetic": "ou! uáu... ai lâv it! ráu mâtch iz it?",
+    "syllables": [
+      "Oh!",
+      " Wow...",
+      " I",
+      " love",
+      " it!",
+      " How",
+      " much",
+      " is",
+      " it?"
+    ],
+    "exampleSentence": "Oh! Wow... I love it! How much is it?",
+    "exampleTranslation": "Uau! Eu adorei! Quanto custa?"
+  },
+  {
+    "id": "to_sell_pay_89",
+    "word": "It's usually US$100, but this item is on sale today. It's 15% off.",
+    "translation": "Normalmente custa US$100, mas este item está em promoção hoje. Está com 15% de desconto.",
+    "pronunciation": "/ɪts ˈjuʒuəli wʌn ˈhʌndrəd ˈdɑlərz, bʌt ðɪs ˈaɪtəm ɪz ɑn seɪl təˈdeɪ. ɪts fɪfˈtin pərˈsɛnt ɔf./",
+    "portuguesePhonetic": "its iú-ju-a-li uân rân-dred dól-ars, bât díz ái-tem iz an sêil tchu-dêi. its fif-tín per-sént óf.",
+    "syllables": [
+      "It's",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " U",
+      "S",
+      "$100,",
+      " but",
+      " this",
+      " i",
+      "tem",
+      " is",
+      " on",
+      " sale",
+      " to",
+      "day.",
+      " It's",
+      " 15%",
+      " off."
+    ],
+    "exampleSentence": "It's usually US$100, but this item is on sale today. It's 15% off.",
+    "exampleTranslation": "Normalmente custa US$100, mas este item está em promoção hoje. Está com 15% de desconto."
+  },
+  {
+    "id": "to_sell_pay_90",
+    "word": "I'll take it!",
+    "translation": "Vou levar!",
+    "pronunciation": "/aɪl teɪk ɪt!/",
+    "portuguesePhonetic": "ail têic it!",
+    "syllables": [
+      "I'll",
+      " take",
+      " it!"
+    ],
+    "exampleSentence": "I'll take it!",
+    "exampleTranslation": "Vou levar!"
+  },
+  {
+    "id": "to_sell_pay_91",
+    "word": "Right. Cash or credit?",
+    "translation": "Certo. Dinheiro ou cartão?",
+    "pronunciation": "/raɪt. kæʃ ɔr ˈkrɛdɪt?/",
+    "portuguesePhonetic": "ráit. quéx or cré-dit?",
+    "syllables": [
+      "Right.",
+      " Cash",
+      " or",
+      " cred",
+      "it?"
+    ],
+    "exampleSentence": "Right. Cash or credit?",
+    "exampleTranslation": "Certo. Dinheiro ou cartão?"
+  },
+  {
+    "id": "to_sell_pay_92",
+    "word": "Credit card, please.",
+    "translation": "Cartão de crédito, por favor.",
+    "pronunciation": "/ˈkrɛdɪt kɑrd, pliz./",
+    "portuguesePhonetic": "cré-dit cárd, pliz.",
+    "syllables": [
+      "Cred",
+      "it",
+      " card,",
+      " please."
+    ],
+    "exampleSentence": "Credit card, please.",
+    "exampleTranslation": "Cartão de crédito, por favor."
+  },
+  {
+    "id": "to_sell_pay_93",
+    "word": "OK. Here's your receipt. The change is in your bag.",
+    "translation": "Certo. Aqui está o seu recibo. O troco está na sua sacola.",
+    "pronunciation": "/oʊˈkeɪ. hɪrz jʊr rɪˈsit. ðə tʃeɪndʒ ɪz ɪn jʊr bæɡ./",
+    "portuguesePhonetic": "ou-kêi. rîrz iór ri-sít. dâ tchêindj iz in iór bég.",
+    "syllables": [
+      "O",
+      "K.",
+      " Here's",
+      " your",
+      " re",
+      "ceipt.",
+      " The",
+      " change",
+      " is",
+      " in",
+      " your",
+      " bag."
+    ],
+    "exampleSentence": "OK. Here's your receipt. The change is in your bag.",
+    "exampleTranslation": "Certo. Aqui está o seu recibo. O troco está na sua sacola."
+  },
+  {
+    "id": "to_sell_pay_94",
+    "word": "Thank you!",
+    "translation": "Obrigada!",
+    "pronunciation": "/θæŋk ju!/",
+    "portuguesePhonetic": "thénc iu!",
+    "syllables": [
+      "Thank",
+      " you!"
+    ],
+    "exampleSentence": "Thank you!",
+    "exampleTranslation": "Obrigada!"
+  },
+  {
+    "id": "to_sell_pay_95",
+    "word": "I am not wearing a black dress.",
+    "translation": "Eu não estou usando um vestido preto.",
+    "pronunciation": "/aɪ æm nɑt ˈwɛrɪŋ ə blæk drɛs./",
+    "portuguesePhonetic": "ai ém nát ué-rin a bléc drés.",
+    "syllables": [
+      "I",
+      " am",
+      " not",
+      " wea",
+      "ring",
+      " a",
+      " black",
+      " dress."
+    ],
+    "exampleSentence": "I am not wearing a black dress.",
+    "exampleTranslation": "Eu não estou usando um vestido preto."
+  },
+  {
+    "id": "to_sell_pay_96",
+    "word": "They aren't working today because it's Saturday.",
+    "translation": "Eles não estão trabalhando hoje porque é sábado.",
+    "pronunciation": "/ðeɪ ˈɑrənt ˈwɜrkɪŋ təˈdeɪ bɪˈkɔz ɪts ˈsætərdeɪ./",
+    "portuguesePhonetic": "dêi árnt uãr-quin tchu-dêi bi-cós its sé-tcher-dêi.",
+    "syllables": [
+      "They",
+      " ar",
+      "en't",
+      " work",
+      "ing",
+      " to",
+      "day",
+      " be",
+      "cause",
+      " it's",
+      " Sat",
+      "ur",
+      "day."
+    ],
+    "exampleSentence": "They aren't working today because it's Saturday.",
+    "exampleTranslation": "Eles não estão trabalhando hoje porque é sábado."
+  },
+  {
+    "id": "to_sell_pay_97",
+    "word": "She isn't trying on the yellow shirt.",
+    "translation": "Ela não está experimentando a camisa amarela.",
+    "pronunciation": "/ʃi ˈɪzənt ˈtraɪɪŋ ɑn ðə ˈjɛloʊ ʃɜrt./",
+    "portuguesePhonetic": "xi í-zent trái-in an dâ ié-lou xãrt.",
+    "syllables": [
+      "She",
+      " is",
+      "n't",
+      " try",
+      "ing",
+      " on",
+      " the",
+      " yel",
+      "low",
+      " shirt."
+    ],
+    "exampleSentence": "She isn't trying on the yellow shirt.",
+    "exampleTranslation": "Ela não está experimentando a camisa amarela."
+  },
+  {
+    "id": "to_sell_pay_98",
+    "word": "They aren't selling books in the garage sale.",
+    "translation": "Eles não estão vendendo livros na venda de garagem.",
+    "pronunciation": "/ðeɪ ˈɑrənt ˈsɛlɪŋ bʊks ɪn ðə ɡəˈrɑʒ seɪl./",
+    "portuguesePhonetic": "dêi árnt sé-lin bucs in dâ ga-ráj sêil.",
+    "syllables": [
+      "They",
+      " ar",
+      "en't",
+      " sell",
+      "ing",
+      " books",
+      " in",
+      " the",
+      " ga",
+      "rage",
+      " sale."
+    ],
+    "exampleSentence": "They aren't selling books in the garage sale.",
+    "exampleTranslation": "Eles não estão vendendo livros na venda de garagem."
+  },
+  {
+    "id": "to_sell_pay_99",
+    "word": "He is looking for an attendant at the store.",
+    "translation": "Ele está procurando um atendente na loja.",
+    "pronunciation": "/hi ɪz ˈlʊkɪŋ fɔr ən əˈtɛndənt æt ðə stɔr./",
+    "portuguesePhonetic": "ri iz lú-quin fór an a-tên-dent ét dâ stór.",
+    "syllables": [
+      "He",
+      " is",
+      " look",
+      "ing",
+      " for",
+      " an",
+      " at",
+      "tend",
+      "ant",
+      " at",
+      " the",
+      " store."
+    ],
+    "exampleSentence": "He is looking for an attendant at the store.",
+    "exampleTranslation": "Ele está procurando um atendente na loja."
+  },
+  {
+    "id": "to_sell_pay_100",
+    "word": "The customer is buying a new wallet for his father.",
+    "translation": "O cliente está comprando uma carteira nova para o pai dele.",
+    "pronunciation": "/ðə ˈkʌstəmər ɪz ˈbaɪɪŋ ə nu ˈwɔlɪt fɔr hɪz ˈfɑðər./",
+    "portuguesePhonetic": "dâ câs-to-mer iz bái-in a nu uó-lit fór riz fá-der.",
+    "syllables": [
+      "The",
+      " cus",
+      "tom",
+      "er",
+      " is",
+      " buy",
+      "ing",
+      " a",
+      " new",
+      " wal",
+      "let",
+      " for",
+      " his",
+      " fa",
+      "ther."
+    ],
+    "exampleSentence": "The customer is buying a new wallet for his father.",
+    "exampleTranslation": "O cliente está comprando uma carteira nova para o pai dele."
+  },
+  {
+    "id": "to_sell_pay_101",
+    "word": "The children aren't studying now.",
+    "translation": "As crianças não estão estudando agora.",
+    "pronunciation": "/ðə ˈtʃɪldrən ˈɑrənt ˈstʌdiɪŋ naʊ./",
+    "portuguesePhonetic": "dâ tchil-dren árnt stâ-di-in náu.",
+    "syllables": [
+      "The",
+      " chil",
+      "dren",
+      " ar",
+      "en't",
+      " stud",
+      "y",
+      "ing",
+      " now."
+    ],
+    "exampleSentence": "The children aren't studying now.",
+    "exampleTranslation": "As crianças não estão estudando agora."
+  },
+  {
+    "id": "to_sell_pay_102",
+    "word": "bag",
+    "translation": "bolsa",
+    "pronunciation": "/bæɡ/",
+    "portuguesePhonetic": "bég",
+    "syllables": [
+      "bag"
+    ],
+    "exampleSentence": "bag",
+    "exampleTranslation": "bolsa"
+  },
+  {
+    "id": "to_sell_pay_103",
+    "word": "shoes",
+    "translation": "sapatos",
+    "pronunciation": "/ʃuz/",
+    "portuguesePhonetic": "xus",
+    "syllables": [
+      "shoes"
+    ],
+    "exampleSentence": "shoes",
+    "exampleTranslation": "sapatos"
+  },
+  {
+    "id": "to_sell_pay_104",
+    "word": "customer",
+    "translation": "cliente",
+    "pronunciation": "/ˈkʌstəmər/",
+    "portuguesePhonetic": "câs-to-mer",
+    "syllables": [
+      "cus",
+      "tom",
+      "er"
+    ],
+    "exampleSentence": "customer",
+    "exampleTranslation": "cliente"
+  },
+  {
+    "id": "to_sell_pay_105",
+    "word": "item",
+    "translation": "item / produto",
+    "pronunciation": "/ˈaɪtəm/",
+    "portuguesePhonetic": "ái-tem",
+    "syllables": [
+      "i",
+      "tem"
+    ],
+    "exampleSentence": "item",
+    "exampleTranslation": "item / produto"
+  },
+  {
+    "id": "to_sell_pay_106",
+    "word": "market",
+    "translation": "mercado",
+    "pronunciation": "/ˈmɑrkət/",
+    "portuguesePhonetic": "már-quet",
+    "syllables": [
+      "mar",
+      "ket"
+    ],
+    "exampleSentence": "market",
+    "exampleTranslation": "mercado"
+  },
+  {
+    "id": "to_sell_pay_107",
+    "word": "department store",
+    "translation": "loja de departamento",
+    "pronunciation": "/dɪˈpɑrtmənt stɔr/",
+    "portuguesePhonetic": "di-párt-ment stór",
+    "syllables": [
+      "de",
+      "part",
+      "ment",
+      " store"
+    ],
+    "exampleSentence": "department store",
+    "exampleTranslation": "loja de departamento"
+  },
+  {
+    "id": "to_sell_pay_108",
+    "word": "discount",
+    "translation": "desconto",
+    "pronunciation": "/ˈdɪskaʊnt/",
+    "portuguesePhonetic": "dís-caunt",
+    "syllables": [
+      "dis",
+      "count"
+    ],
+    "exampleSentence": "discount",
+    "exampleTranslation": "desconto"
+  },
+  {
+    "id": "to_sell_pay_109",
+    "word": "garage sale",
+    "translation": "venda de garagem",
+    "pronunciation": "/ɡəˈrɑʒ seɪl/",
+    "portuguesePhonetic": "ga-ráj sêil",
+    "syllables": [
+      "ga",
+      "rage",
+      " sale"
+    ],
+    "exampleSentence": "garage sale",
+    "exampleTranslation": "venda de garagem"
+  },
+  {
+    "id": "to_sell_pay_110",
+    "word": "attendant",
+    "translation": "atendente",
+    "pronunciation": "/əˈtɛndənt/",
+    "portuguesePhonetic": "a-tên-dent",
+    "syllables": [
+      "at",
+      "tend",
+      "ant"
+    ],
+    "exampleSentence": "attendant",
+    "exampleTranslation": "atendente"
+  },
+  {
+    "id": "to_sell_pay_111",
+    "word": "receipt",
+    "translation": "recibo",
+    "pronunciation": "/rɪˈsit/",
+    "portuguesePhonetic": "ri-sít",
+    "syllables": [
+      "re",
+      "ceipt"
+    ],
+    "exampleSentence": "receipt",
+    "exampleTranslation": "recibo"
+  },
+  {
+    "id": "to_sell_pay_112",
+    "word": "fitting room",
+    "translation": "provador",
+    "pronunciation": "/ˈfɪtɪŋ rum/",
+    "portuguesePhonetic": "fí-tin rum",
+    "syllables": [
+      "fit",
+      "ting",
+      " room"
+    ],
+    "exampleSentence": "fitting room",
+    "exampleTranslation": "provador"
+  },
+  {
+    "id": "to_sell_pay_113",
+    "word": "wallet",
+    "translation": "carteira",
+    "pronunciation": "/ˈwɔlɪt/",
+    "portuguesePhonetic": "uó-lit",
+    "syllables": [
+      "wal",
+      "let"
+    ],
+    "exampleSentence": "wallet",
+    "exampleTranslation": "carteira"
+  },
+  {
+    "id": "to_sell_pay_114",
+    "word": "sell",
+    "translation": "vender",
+    "pronunciation": "/sɛl/",
+    "portuguesePhonetic": "sel",
+    "syllables": [
+      "sell"
+    ],
+    "exampleSentence": "sell",
+    "exampleTranslation": "vender"
+  },
+  {
+    "id": "to_sell_pay_115",
+    "word": "buy",
+    "translation": "comprar",
+    "pronunciation": "/baɪ/",
+    "portuguesePhonetic": "bai",
+    "syllables": [
+      "buy"
+    ],
+    "exampleSentence": "buy",
+    "exampleTranslation": "comprar"
+  },
+  {
+    "id": "to_sell_pay_116",
+    "word": "pay",
+    "translation": "pagar",
+    "pronunciation": "/peɪ/",
+    "portuguesePhonetic": "pêi",
+    "syllables": [
+      "pay"
+    ],
+    "exampleSentence": "pay",
+    "exampleTranslation": "pagar"
+  },
+  {
+    "id": "to_sell_pay_117",
+    "word": "look for",
+    "translation": "procurar",
+    "pronunciation": "/lʊk fɔr/",
+    "portuguesePhonetic": "luc fór",
+    "syllables": [
+      "look",
+      " for"
+    ],
+    "exampleSentence": "look for",
+    "exampleTranslation": "procurar"
+  },
+  {
+    "id": "to_sell_pay_118",
+    "word": "try on",
+    "translation": "experimentar / provar",
+    "pronunciation": "/traɪ ɑn/",
+    "portuguesePhonetic": "trai an",
+    "syllables": [
+      "try",
+      " on"
+    ],
+    "exampleSentence": "try on",
+    "exampleTranslation": "experimentar / provar"
+  },
+  {
+    "id": "to_sell_pay_119",
+    "word": "cash",
+    "translation": "dinheiro",
+    "pronunciation": "/kæʃ/",
+    "portuguesePhonetic": "quéx",
+    "syllables": [
+      "cash"
+    ],
+    "exampleSentence": "cash",
+    "exampleTranslation": "dinheiro"
+  },
+  {
+    "id": "to_sell_pay_120",
+    "word": "credit",
+    "translation": "cartão",
+    "pronunciation": "/ˈkrɛdɪt/",
+    "portuguesePhonetic": "cré-dit",
+    "syllables": [
+      "cred",
+      "it"
+    ],
+    "exampleSentence": "credit",
+    "exampleTranslation": "cartão"
+  },
+  {
+    "id": "to_sell_pay_121",
+    "word": "size",
+    "translation": "tamanho",
+    "pronunciation": "/saɪz/",
+    "portuguesePhonetic": "saiz",
+    "syllables": [
+      "size"
+    ],
+    "exampleSentence": "size",
+    "exampleTranslation": "tamanho"
+  },
+  {
+    "id": "to_sell_pay_122",
+    "word": "white",
+    "translation": "branco",
+    "pronunciation": "/waɪt/",
+    "portuguesePhonetic": "uáit",
+    "syllables": [
+      "white"
+    ],
+    "exampleSentence": "white",
+    "exampleTranslation": "branco"
+  },
+  {
+    "id": "to_sell_pay_123",
+    "word": "brown",
+    "translation": "marrom",
+    "pronunciation": "/braʊn/",
+    "portuguesePhonetic": "braun",
+    "syllables": [
+      "brown"
+    ],
+    "exampleSentence": "brown",
+    "exampleTranslation": "marrom"
+  },
+  {
+    "id": "to_sell_pay_124",
+    "word": "shirt",
+    "translation": "camisa",
+    "pronunciation": "/ʃɜrt/",
+    "portuguesePhonetic": "xãrt",
+    "syllables": [
+      "shirt"
+    ],
+    "exampleSentence": "shirt",
+    "exampleTranslation": "camisa"
+  },
+  {
+    "id": "to_sell_pay_125",
+    "word": "dress",
+    "translation": "vestido",
+    "pronunciation": "/drɛs/",
+    "portuguesePhonetic": "drés",
+    "syllables": [
+      "dress"
+    ],
+    "exampleSentence": "dress",
+    "exampleTranslation": "vestido"
+  },
+  {
+    "id": "to_sell_pay_126",
+    "word": "weekend",
+    "translation": "fim de semana",
+    "pronunciation": "/ˈwikˌɛnd/",
+    "portuguesePhonetic": "uíc-énd",
+    "syllables": [
+      "week",
+      "end"
+    ],
+    "exampleSentence": "weekend",
+    "exampleTranslation": "fim de semana"
+  },
+  {
+    "id": "to_sell_pay_127",
+    "word": "today",
+    "translation": "hoje",
+    "pronunciation": "/təˈdeɪ/",
+    "portuguesePhonetic": "tchu-dêi",
+    "syllables": [
+      "to",
+      "day"
+    ],
+    "exampleSentence": "today",
+    "exampleTranslation": "hoje"
+  },
+  {
+    "id": "to_sell_pay_128",
+    "word": "usually",
+    "translation": "geralmente",
+    "pronunciation": "/ˈjuʒuəli/",
+    "portuguesePhonetic": "iú-ju-a-li",
+    "syllables": [
+      "u",
+      "su",
+      "al",
+      "ly"
+    ],
+    "exampleSentence": "usually",
+    "exampleTranslation": "geralmente"
+  },
+  {
+    "id": "to_sell_pay_129",
+    "word": "always",
+    "translation": "sempre",
+    "pronunciation": "/ˈɔlweɪz/",
+    "portuguesePhonetic": "ól-ueiz",
+    "syllables": [
+      "al",
+      "ways"
+    ],
+    "exampleSentence": "always",
+    "exampleTranslation": "sempre"
+  },
+  {
+    "id": "to_sell_pay_130",
+    "word": "a lot of things",
+    "translation": "muitas coisas",
+    "pronunciation": "/ə lɑt ʌv θɪŋz/",
+    "portuguesePhonetic": "a lót óv thins",
+    "syllables": [
+      "a",
+      " lot",
+      " of",
+      " things"
+    ],
+    "exampleSentence": "a lot of things",
+    "exampleTranslation": "muitas coisas"
+  },
+  {
+    "id": "to_sell_pay_131",
+    "word": "in your bag",
+    "translation": "na sua sacola",
+    "pronunciation": "/in jʊr bæɡ/",
+    "portuguesePhonetic": "in iór bég",
+    "syllables": [
+      "in",
+      " your",
+      " bag"
+    ],
+    "exampleSentence": "in your bag",
+    "exampleTranslation": "na sua sacola"
+  },
+  {
+    "id": "to_sell_pay_132",
+    "word": "15% off",
+    "translation": "15% de desconto",
+    "pronunciation": "/fɪfˈtin pərˈsɛnt ɔf/",
+    "portuguesePhonetic": "fif-tín per-sént óf",
+    "syllables": [
+      "15%",
+      " off"
+    ],
+    "exampleSentence": "15% off",
+    "exampleTranslation": "15% de desconto"
+  }
+]

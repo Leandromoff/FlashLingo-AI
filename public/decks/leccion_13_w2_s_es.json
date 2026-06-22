@@ -1,0 +1,1196 @@
+[
+  {
+    "id": "leccion_13_1",
+    "word": "necesitar",
+    "translation": "precisar (de)",
+    "pronunciation": "/neθesiˈtaɾ/",
+    "portuguesePhonetic": "ne-ce-ci-tár",
+    "syllables": [
+      "ne",
+      "ce",
+      "si",
+      "tar"
+    ],
+    "exampleSentence": "necesitar",
+    "exampleTranslation": "precisar (de)"
+  },
+  {
+    "id": "leccion_13_2",
+    "word": "tener",
+    "translation": "ter",
+    "pronunciation": "/teˈneɾ/",
+    "portuguesePhonetic": "te-nér",
+    "syllables": [
+      "te",
+      "ner"
+    ],
+    "exampleSentence": "tener",
+    "exampleTranslation": "ter"
+  },
+  {
+    "id": "leccion_13_3",
+    "word": "móvil",
+    "translation": "celular, telemóvel",
+    "pronunciation": "/ˈmoβil/",
+    "portuguesePhonetic": "mó-bil",
+    "syllables": [
+      "mó",
+      "vil"
+    ],
+    "exampleSentence": "móvil",
+    "exampleTranslation": "celular, telemóvel"
+  },
+  {
+    "id": "leccion_13_4",
+    "word": "tableta",
+    "translation": "tablet",
+    "pronunciation": "/taˈβleta/",
+    "portuguesePhonetic": "ta-blê-ta",
+    "syllables": [
+      "ta",
+      "ble",
+      "ta"
+    ],
+    "exampleSentence": "tableta",
+    "exampleTranslation": "tablet"
+  },
+  {
+    "id": "leccion_13_5",
+    "word": "ordenador",
+    "translation": "computador",
+    "pronunciation": "/oɾðenaˈðoɾ/",
+    "portuguesePhonetic": "or-de-na-dór",
+    "syllables": [
+      "or",
+      "de",
+      "na",
+      "dor"
+    ],
+    "exampleSentence": "ordenador",
+    "exampleTranslation": "computador"
+  },
+  {
+    "id": "leccion_13_6",
+    "word": "gafas de sol",
+    "translation": "óculos de sol",
+    "pronunciation": "/ˈganas ðe sol/",
+    "portuguesePhonetic": "gá-fas de sól",
+    "syllables": [
+      "ga",
+      "fas",
+      " de",
+      " sol"
+    ],
+    "exampleSentence": "gafas de sol",
+    "exampleTranslation": "óculos de sol"
+  },
+  {
+    "id": "leccion_13_7",
+    "word": "zapatos",
+    "translation": "sapatos",
+    "pronunciation": "/θaˈpatos/",
+    "portuguesePhonetic": "za-pá-tos",
+    "syllables": [
+      "za",
+      "pa",
+      "tos"
+    ],
+    "exampleSentence": "zapatos",
+    "exampleTranslation": "sapatos"
+  },
+  {
+    "id": "leccion_13_8",
+    "word": "ropa",
+    "translation": "roupas",
+    "pronunciation": "/ˈropa/",
+    "portuguesePhonetic": "rrô-pa",
+    "syllables": [
+      "ro",
+      "pa"
+    ],
+    "exampleSentence": "ropa",
+    "exampleTranslation": "roupas"
+  },
+  {
+    "id": "leccion_13_9",
+    "word": "coche",
+    "translation": "carro",
+    "pronunciation": "/ˈkotʃe/",
+    "portuguesePhonetic": "cô-tche",
+    "syllables": [
+      "co",
+      "che"
+    ],
+    "exampleSentence": "coche",
+    "exampleTranslation": "carro"
+  },
+  {
+    "id": "leccion_13_10",
+    "word": "casa",
+    "translation": "casa",
+    "pronunciation": "/ˈkasa/",
+    "portuguesePhonetic": "cá-sa",
+    "syllables": [
+      "ca",
+      "sa"
+    ],
+    "exampleSentence": "casa",
+    "exampleTranslation": "casa"
+  },
+  {
+    "id": "leccion_13_11",
+    "word": "nuevo(a)",
+    "translation": "novo(a)",
+    "pronunciation": "/ˈnweβo/",
+    "portuguesePhonetic": "nu-ê-bo",
+    "syllables": [
+      "nue",
+      "vo"
+    ],
+    "exampleSentence": "nuevo",
+    "exampleTranslation": "novo"
+  },
+  {
+    "id": "leccion_13_12",
+    "word": "viejo(a)",
+    "translation": "velho(a)",
+    "pronunciation": "/ˈbjexo/",
+    "portuguesePhonetic": "bi-ê-rro",
+    "syllables": [
+      "vie",
+      "jo"
+    ],
+    "exampleSentence": "viejo",
+    "exampleTranslation": "velho"
+  },
+  {
+    "id": "leccion_13_13",
+    "word": "americano(a)",
+    "translation": "americano(a)",
+    "pronunciation": "/ameɾiˈkano/",
+    "portuguesePhonetic": "a-me-ri-cá-no",
+    "syllables": [
+      "a",
+      "me",
+      "ri",
+      "ca",
+      "no"
+    ],
+    "exampleSentence": "americano",
+    "exampleTranslation": "americano"
+  },
+  {
+    "id": "leccion_13_14",
+    "word": "británico(a)",
+    "translation": "britânico(a)",
+    "pronunciation": "/βɾiˈtaniko/",
+    "portuguesePhonetic": "bri-tá-ni-co",
+    "syllables": [
+      "bri",
+      "tá",
+      "ni",
+      "co"
+    ],
+    "exampleSentence": "británico",
+    "exampleTranslation": "britânico"
+  },
+  {
+    "id": "leccion_13_15",
+    "word": "brasileño(a)",
+    "translation": "brasileiro(a)",
+    "pronunciation": "/βɾasiˈleɲo/",
+    "portuguesePhonetic": "bra-si-lê-nho",
+    "syllables": [
+      "bra",
+      "si",
+      "le",
+      "ño"
+    ],
+    "exampleSentence": "brasileño",
+    "exampleTranslation": "brasileiro"
+  },
+  {
+    "id": "leccion_13_16",
+    "word": "realmente, muy",
+    "translation": "realmente, muito",
+    "pronunciation": "/realˈmente, mui/",
+    "portuguesePhonetic": "re-al-mén-te, múi",
+    "syllables": [
+      "real",
+      "men",
+      "te"
+    ],
+    "exampleSentence": "realmente",
+    "exampleTranslation": "realmente, muito"
+  },
+  {
+    "id": "leccion_13_17",
+    "word": "un",
+    "translation": "um, uma",
+    "pronunciation": "/un/",
+    "portuguesePhonetic": "un",
+    "syllables": [
+      "un"
+    ],
+    "exampleSentence": "un",
+    "exampleTranslation": "um, uma"
+  },
+  {
+    "id": "leccion_13_18",
+    "word": "una",
+    "translation": "um, uma",
+    "pronunciation": "/ˈuna/",
+    "portuguesePhonetic": "ú-na",
+    "syllables": [
+      "u",
+      "na"
+    ],
+    "exampleSentence": "una",
+    "exampleTranslation": "um, uma"
+  },
+  {
+    "id": "leccion_13_19",
+    "word": "No necesito ir a la escuela hoy.",
+    "translation": "Eu não preciso ir à escola hoje.",
+    "pronunciation": "/no neθeˈsito iɾ a la esˈkwela oi/",
+    "portuguesePhonetic": "nô ne-the-çí-to ir a la es-cuê-la ói.",
+    "syllables": [
+      "No",
+      " ne",
+      "ce",
+      "si",
+      "to",
+      " ir",
+      " a",
+      " la",
+      " es",
+      "cue",
+      "la",
+      " hoy."
+    ],
+    "exampleSentence": "No necesito ir a la escuela hoy.",
+    "exampleTranslation": "Eu não preciso ir à escola hoje."
+  },
+  {
+    "id": "leccion_13_20",
+    "word": "Tú hablas inglés muy bien.",
+    "translation": "Você fala inglês muito bem.",
+    "pronunciation": "/tu ˈaβlas iŋˈgles mui βjen/",
+    "portuguesePhonetic": "tú á-blas in-glês múi bi-ên.",
+    "syllables": [
+      "Tú",
+      " ha",
+      "blas",
+      " in",
+      "glés",
+      " muy",
+      " bien."
+    ],
+    "exampleSentence": "Tú hablas inglés muy bien.",
+    "exampleTranslation": "Você fala inglês muito bem."
+  },
+  {
+    "id": "leccion_13_21",
+    "word": "¿Tú necesitas una tableta?",
+    "translation": "Você precisa de um tablet?",
+    "pronunciation": "/tu neθeˈsitas ˈuna taˈβleta/",
+    "portuguesePhonetic": "¿tú ne-the-çí-tas ú-na ta-blê-ta?",
+    "syllables": [
+      "¿Tú",
+      " ne",
+      "ce",
+      "si",
+      "tas",
+      " u",
+      "na",
+      " ta",
+      "ble",
+      "ta?"
+    ],
+    "exampleSentence": "¿Tú necesitas una tableta?",
+    "exampleTranslation": "Você precisa de um tablet?"
+  },
+  {
+    "id": "leccion_13_22",
+    "word": "Yo quiero una manzana.",
+    "translation": "Eu quero uma maçã.",
+    "pronunciation": "/ʝo ˈkjeɾo ˈuna manˈθana/",
+    "portuguesePhonetic": "iô qui-ê-ro ú-na man-thá-na.",
+    "syllables": [
+      "Yo",
+      " quie",
+      "ro",
+      " u",
+      "na",
+      " man",
+      "za",
+      "na."
+    ],
+    "exampleSentence": "Yo quiero una manzana.",
+    "exampleTranslation": "Eu quero uma maçã."
+  },
+  {
+    "id": "leccion_13_23",
+    "word": "Me gustan tus zapatos nuevos.",
+    "translation": "Eu gosto dos seus sapatos novos.",
+    "pronunciation": "/me ˈɣustan tus θaˈpatos ˈnweβos/",
+    "portuguesePhonetic": "me gús-tan tus tha-pá-tos nu-ê-bos.",
+    "syllables": [
+      "Me",
+      " gus",
+      "tan",
+      " tus",
+      " za",
+      "pa",
+      "tos",
+      " nue",
+      "vos."
+    ],
+    "exampleSentence": "Me gustan tus zapatos nuevos.",
+    "exampleTranslation": "Eu gosto dos seus sapatos novos."
+  },
+  {
+    "id": "leccion_13_24",
+    "word": "Ellos tienen un coche viejo.",
+    "translation": "Eles têm um carro velho.",
+    "pronunciation": "/ˈeʝos ˈtienen un ˈkotʃe ˈβjexo/",
+    "portuguesePhonetic": "ê-lyos ti-ê-nen un cô-tche bi-ê-rro.",
+    "syllables": [
+      "E",
+      "llos",
+      " tie",
+      "nen",
+      " un",
+      " co",
+      "che",
+      " vie",
+      "jo."
+    ],
+    "exampleSentence": "Ellos tienen un coche viejo.",
+    "exampleTranslation": "Eles têm um carro velho."
+  },
+  {
+    "id": "leccion_13_25",
+    "word": "Nosotros queremos una casa nueva.",
+    "translation": "Nós queremos uma casa nova.",
+    "pronunciation": "/noˈsotɾos keˈɾemos ˈuna ˈkasa ˈnweβa/",
+    "portuguesePhonetic": "no-só-tros que-rê-mos ú-na cá-sa nu-ê-ba.",
+    "syllables": [
+      "No",
+      "so",
+      "tros",
+      " que",
+      "re",
+      "mos",
+      " u",
+      "na",
+      " ca",
+      "sa",
+      " nue",
+      "va."
+    ],
+    "exampleSentence": "Nosotros queremos una casa nueva.",
+    "exampleTranslation": "Nós queremos uma casa nova."
+  },
+  {
+    "id": "leccion_13_26",
+    "word": "Tengo un amigo brasileño.",
+    "translation": "Eu tenho um amigo brasileiro.",
+    "pronunciation": "/ˈteŋɡo un aˈmiɣo βɾasiˈleɲo/",
+    "portuguesePhonetic": "tén-go un a-mí-go bra-si-lê-nho.",
+    "syllables": [
+      "Ten",
+      "go",
+      " un",
+      " a",
+      "mi",
+      "go",
+      " bra",
+      "si",
+      "le",
+      "ño."
+    ],
+    "exampleSentence": "Tengo un amigo brasileño.",
+    "exampleTranslation": "Eu tenho um amigo brasileiro."
+  },
+  {
+    "id": "leccion_13_27",
+    "word": "Me gustan las galletas americanas.",
+    "translation": "Eu gosto de biscoitos americanos.",
+    "pronunciation": "/me ˈɣustan las ɣaˈʝetas ameɾiˈkanas/",
+    "portuguesePhonetic": "me gús-tan las ga-lyê-tas a-me-ri-cá-nas.",
+    "syllables": [
+      "Me",
+      " gus",
+      "tan",
+      " las",
+      " ga",
+      "lle",
+      "tas",
+      " a",
+      "me",
+      "ri",
+      "ca",
+      "nas."
+    ],
+    "exampleSentence": "Me gustan las galletas americanas.",
+    "exampleTranslation": "Eu gosto de biscoitos americanos."
+  },
+  {
+    "id": "leccion_13_28",
+    "word": "¿Tú tienes un compañero de trabajo británico?",
+    "translation": "Você tem um colega de trabalho britânico?",
+    "pronunciation": "/tu ˈtjenes un kompaˈɲeɾo ðe tɾaˈβaxo βɾiˈtaniko/",
+    "portuguesePhonetic": "¿tú ti-ê-nes un com-pa-nhê-ro de tra-bá-rro bri-tá-ni-co?",
+    "syllables": [
+      "¿Tú",
+      " tie",
+      "nes",
+      " un",
+      " com",
+      "pa",
+      "ñe",
+      "ro",
+      " de",
+      " tra",
+      "ba",
+      "jo",
+      " bri",
+      "tá",
+      "ni",
+      "co?"
+    ],
+    "exampleSentence": "¿Tú tienes un compañero de trabajo británico?",
+    "exampleTranslation": "Você tem um colega de trabalho britânico?"
+  },
+  {
+    "id": "leccion_13_29",
+    "word": "Necesitamos hablar con tu esposo.",
+    "translation": "Nós precisamos falar com seu marido.",
+    "pronunciation": "/neθesiˈtamos aˈβlaɾ kon tu esˈposo/",
+    "portuguesePhonetic": "ne-ce-ci-tá-mos a-blár con tu es-pô-so.",
+    "syllables": [
+      "Ne",
+      "ce",
+      "si",
+      "ta",
+      "mos",
+      " ha",
+      "blar",
+      " con",
+      " tu",
+      " es",
+      "po",
+      "so."
+    ],
+    "exampleSentence": "Necesitamos hablar con tu esposo.",
+    "exampleTranslation": "Nós precisamos falar com seu marido."
+  },
+  {
+    "id": "leccion_13_30",
+    "word": "Necesito un ordenador nuevo.",
+    "translation": "Eu preciso de um computador novo.",
+    "pronunciation": "/neθeˈsito un oɾðenaˈðoɾ ˈnweβo/",
+    "portuguesePhonetic": "ne-the-çí-to un or-de-na-dór nu-ê-bo.",
+    "syllables": [
+      "Ne",
+      "ce",
+      "si",
+      "to",
+      " un",
+      " or",
+      "de",
+      "na",
+      "dor",
+      " nue",
+      "vo."
+    ],
+    "exampleSentence": "Necesito un ordenador nuevo.",
+    "exampleTranslation": "Eu preciso de um computador novo."
+  },
+  {
+    "id": "leccion_13_31",
+    "word": "Nosotros no tenemos un jefe brasileño.",
+    "translation": "Nós não temos um chefe brasileiro.",
+    "pronunciation": "/noˈsotɾos no teˈnemos un ˈxefe βɾasiˈleɲo/",
+    "portuguesePhonetic": "no-só-tros nô te-nê-mos un rrê-fe bra-si-lê-nho.",
+    "syllables": [
+      "No",
+      "so",
+      "tros",
+      " no",
+      " te",
+      "ne",
+      "mos",
+      " un",
+      " je",
+      "fe",
+      " bra",
+      "si",
+      "le",
+      "ño."
+    ],
+    "exampleSentence": "Nosotros no tenemos un jefe brasileño.",
+    "exampleTranslation": "Nós não temos um chefe brasileiro."
+  },
+  {
+    "id": "leccion_13_32",
+    "word": "Realmente necesito zapatos nuevos.",
+    "translation": "Eu realmente preciso de sapatos novos.",
+    "pronunciation": "/realˈmente neθeˈsito θaˈpatos ˈnweβos/",
+    "portuguesePhonetic": "re-al-mén-te ne-the-çí-to tha-pá-tos nu-ê-bos.",
+    "syllables": [
+      "Real",
+      "men",
+      "te",
+      " ne",
+      "ce",
+      "si",
+      "to",
+      " za",
+      "pa",
+      "tos",
+      " nue",
+      "vos."
+    ],
+    "exampleSentence": "Realmente necesito zapatos nuevos.",
+    "exampleTranslation": "Eu realmente preciso de sapatos novos."
+  },
+  {
+    "id": "leccion_13_33",
+    "word": "¿Qué necesitas estudiar?",
+    "translation": "O que você precisa estudar?",
+    "pronunciation": "/ke neθeˈsitas estuˈðʝaɾ/",
+    "portuguesePhonetic": "¿qué ne-the-çí-tas es-tu-diár?",
+    "syllables": [
+      "¿Qué",
+      " ne",
+      "ce",
+      "si",
+      "tas",
+      " es",
+      "tu",
+      "diar?"
+    ],
+    "exampleSentence": "¿Qué necesitas estudiar?",
+    "exampleTranslation": "O que você precisa estudar?"
+  },
+  {
+    "id": "leccion_13_34",
+    "word": "Ellos tienen un coche viejo.",
+    "translation": "Eles têm um carro velho.",
+    "pronunciation": "/ˈeʝos ˈtienen un ˈkotʃe ˈβjexo/",
+    "portuguesePhonetic": "ê-lyos ti-ê-nen un cô-tche bi-ê-rro.",
+    "syllables": [
+      "E",
+      "llos",
+      " tie",
+      "nen",
+      " un",
+      " co",
+      "che",
+      " vie",
+      "jo."
+    ],
+    "exampleSentence": "Ellos tienen un coche viejo.",
+    "exampleTranslation": "Eles têm um carro velho."
+  },
+  {
+    "id": "leccion_13_35",
+    "word": "Tengo un móvil nuevo.",
+    "translation": "Eu tenho um celular novo.",
+    "pronunciation": "/ˈteŋɡo un ˈmoβil ˈnweβo/",
+    "portuguesePhonetic": "tén-go un mó-bil nu-ê-bo.",
+    "syllables": [
+      "Ten",
+      "go",
+      " un",
+      " mó",
+      "vil",
+      " nue",
+      "vo."
+    ],
+    "exampleSentence": "Tengo un móvil nuevo.",
+    "exampleTranslation": "Eu tenho um celular novo."
+  },
+  {
+    "id": "leccion_13_36",
+    "word": "Tengo que irme. Adiós.",
+    "translation": "Eu tenho que ir. Tchau.",
+    "pronunciation": "/ˈteŋɡo ke ˈiɾme. aˈðjos./",
+    "portuguesePhonetic": "tén-go que ir-me. a-diós.",
+    "syllables": [
+      "Ten",
+      "go",
+      " que",
+      " ir",
+      "me.",
+      " A",
+      "diós."
+    ],
+    "exampleSentence": "Tengo que irme. Adiós.",
+    "exampleTranslation": "Eu tenho que ir. Tchau."
+  },
+  {
+    "id": "leccion_13_37",
+    "word": "Realmente tenemos que estudiar un idioma nuevo.",
+    "translation": "Nós realmente temos que estudar um idioma novo.",
+    "pronunciation": "/realˈmente teˈnemos ke estuˈðʝaɾ un iˈðjoma ˈnweβo/",
+    "portuguesePhonetic": "re-al-mén-te te-nê-mos que es-tu-diár un i-di-ô-ma nu-ê-bo.",
+    "syllables": [
+      "Real",
+      "men",
+      "te",
+      " te",
+      "ne",
+      "mos",
+      " que",
+      " es",
+      "tu",
+      "diar",
+      " un",
+      " i",
+      "dio",
+      "ma",
+      " nue",
+      "vo."
+    ],
+    "exampleSentence": "Realmente tenemos que estudiar un idioma nuevo.",
+    "exampleTranslation": "Nós realmente temos que estudar um idioma novo."
+  },
+  {
+    "id": "leccion_13_38",
+    "word": "¿A dónde tienes que ir hoy?",
+    "translation": "Aonde você tem que ir hoje?",
+    "pronunciation": "/a ˈðonde ˈtjenes ke iɾ oi/",
+    "portuguesePhonetic": "¿a dôn-de ti-ê-nes que ir ói?",
+    "syllables": [
+      "¿A",
+      " dón",
+      "de",
+      " tie",
+      "nes",
+      " que",
+      " ir",
+      " hoy?"
+    ],
+    "exampleSentence": "¿A dónde tienes que ir hoy?",
+    "exampleTranslation": "Aonde você tem que ir hoje?"
+  },
+  {
+    "id": "leccion_13_39",
+    "word": "0 - cero",
+    "translation": "zero",
+    "pronunciation": "/ˈθeɾo/",
+    "portuguesePhonetic": "thê-ro",
+    "syllables": [
+      "0",
+      " -",
+      " ce",
+      "ro"
+    ],
+    "exampleSentence": "0 - cero",
+    "exampleTranslation": "zero"
+  },
+  {
+    "id": "leccion_13_40",
+    "word": "1 - uno",
+    "translation": "um",
+    "pronunciation": "/ˈuno/",
+    "portuguesePhonetic": "ú-no",
+    "syllables": [
+      "1",
+      " -",
+      " u",
+      "no"
+    ],
+    "exampleSentence": "1 - uno",
+    "exampleTranslation": "um"
+  },
+  {
+    "id": "leccion_13_41",
+    "word": "2 - dos",
+    "translation": "dois",
+    "pronunciation": "/dos/",
+    "portuguesePhonetic": "dôs",
+    "syllables": [
+      "2",
+      " -",
+      " dos"
+    ],
+    "exampleSentence": "2 - dos",
+    "exampleTranslation": "dois"
+  },
+  {
+    "id": "leccion_13_42",
+    "word": "3 - tres",
+    "translation": "três",
+    "pronunciation": "/tɾes/",
+    "portuguesePhonetic": "três",
+    "syllables": [
+      "3",
+      " -",
+      " tres"
+    ],
+    "exampleSentence": "3 - tres",
+    "exampleTranslation": "três"
+  },
+  {
+    "id": "leccion_13_43",
+    "word": "4 - cuatro",
+    "translation": "quatro",
+    "pronunciation": "/ˈkwatɾo/",
+    "portuguesePhonetic": "cuá-tro",
+    "syllables": [
+      "4",
+      " -",
+      " cua",
+      "tro"
+    ],
+    "exampleSentence": "4 - cuatro",
+    "exampleTranslation": "quatro"
+  },
+  {
+    "id": "leccion_13_44",
+    "word": "5 - cinco",
+    "translation": "cinco",
+    "pronunciation": "/ˈθiŋko/",
+    "portuguesePhonetic": "thín-co",
+    "syllables": [
+      "5",
+      " -",
+      " cin",
+      "co"
+    ],
+    "exampleSentence": "5 - cinco",
+    "exampleTranslation": "cinco"
+  },
+  {
+    "id": "leccion_13_45",
+    "word": "6 - seis",
+    "translation": "seis",
+    "pronunciation": "/seis/",
+    "portuguesePhonetic": "sêis",
+    "syllables": [
+      "6",
+      " -",
+      " seis"
+    ],
+    "exampleSentence": "6 - seis",
+    "exampleTranslation": "seis"
+  },
+  {
+    "id": "leccion_13_46",
+    "word": "7 - siete",
+    "translation": "sete",
+    "pronunciation": "/ˈsjete/",
+    "portuguesePhonetic": "si-ê-te",
+    "syllables": [
+      "7",
+      " -",
+      " sie",
+      "te"
+    ],
+    "exampleSentence": "7 - siete",
+    "exampleTranslation": "sete"
+  },
+  {
+    "id": "leccion_13_47",
+    "word": "8 - ocho",
+    "translation": "oito",
+    "pronunciation": "/ˈotʃo/",
+    "portuguesePhonetic": "ô-tcho",
+    "syllables": [
+      "8",
+      " -",
+      " o",
+      "cho"
+    ],
+    "exampleSentence": "8 - ocho",
+    "exampleTranslation": "oito"
+  },
+  {
+    "id": "leccion_13_48",
+    "word": "9 - nueve",
+    "translation": "nove",
+    "pronunciation": "/ˈnweβe/",
+    "portuguesePhonetic": "nu-ê-be",
+    "syllables": [
+      "9",
+      " -",
+      " nue",
+      "be"
+    ],
+    "exampleSentence": "9 - nueve",
+    "exampleTranslation": "nove"
+  },
+  {
+    "id": "leccion_13_49",
+    "word": "10 - diez",
+    "translation": "dez",
+    "pronunciation": "/ðjeθ/",
+    "portuguesePhonetic": "di-êth",
+    "syllables": [
+      "10",
+      " -",
+      " diez"
+    ],
+    "exampleSentence": "10 - diez",
+    "exampleTranslation": "dez"
+  },
+  {
+    "id": "leccion_13_50",
+    "word": "¿Cuál es tu número de teléfono?",
+    "translation": "Qual é o seu número de telefone?",
+    "pronunciation": "/kwal es tu ˈnumeɾo ðe teˈlefono/",
+    "portuguesePhonetic": "¿cuál es tu nú-me-ro de te-lê-fo-no?",
+    "syllables": [
+      "¿Cuál",
+      " es",
+      " tu",
+      " nú",
+      "me",
+      "ro",
+      " de",
+      " te",
+      "lé",
+      "fo",
+      "no?"
+    ],
+    "exampleSentence": "¿Cuál es tu número de teléfono?",
+    "exampleTranslation": "Qual é o seu número de telefone?"
+  },
+  {
+    "id": "leccion_13_51",
+    "word": "Es 523-707-4782.",
+    "translation": "É 523-707-4782.",
+    "pronunciation": "/es ˈθiŋko-dos-tɾes ˈsjete-ˈθeɾo-ˈsjete ˈkwatɾo-ˈsjete-ˈotʃo-dos./",
+    "portuguesePhonetic": "es thín-co-dôs-três si-ê-te-thê-ro-si-ê-te cuá-tro-si-ê-te-ô-tcho-dôs.",
+    "syllables": [
+      "Es",
+      " 523-",
+      "707-",
+      "4782."
+    ],
+    "exampleSentence": "Es 523-707-4782.",
+    "exampleTranslation": "É 523-707-4782."
+  },
+  {
+    "id": "leccion_13_52",
+    "word": "una manzana",
+    "translation": "uma maçã",
+    "pronunciation": "/ˈuna manˈθana/",
+    "portuguesePhonetic": "ú-na man-thá-na",
+    "syllables": [
+      "u",
+      "na",
+      " man",
+      "za",
+      "na"
+    ],
+    "exampleSentence": "una manzana",
+    "exampleTranslation": "uma maçã"
+  },
+  {
+    "id": "leccion_13_53",
+    "word": "un huevo",
+    "translation": "um ovo",
+    "pronunciation": "/un ˈweβo/",
+    "portuguesePhonetic": "un u-ê-bo",
+    "syllables": [
+      "un",
+      " hue",
+      "vo"
+    ],
+    "exampleSentence": "un huevo",
+    "exampleTranslation": "um ovo"
+  },
+  {
+    "id": "leccion_13_54",
+    "word": "un coche viejo",
+    "translation": "um carro velho",
+    "pronunciation": "/un ˈkotʃe ˈβjexo/",
+    "portuguesePhonetic": "un cô-tche bi-ê-rro",
+    "syllables": [
+      "un",
+      " co",
+      "che",
+      " vie",
+      "jo"
+    ],
+    "exampleSentence": "un coche viejo",
+    "exampleTranslation": "um carro velho"
+  },
+  {
+    "id": "leccion_13_55",
+    "word": "un profesor americano",
+    "translation": "um professor americano",
+    "pronunciation": "/un pɾofeˈsoɾ ameɾiˈkano/",
+    "portuguesePhonetic": "un pro-fe-sór a-me-ri-cá-no",
+    "syllables": [
+      "un",
+      " pro",
+      "fe",
+      "sor",
+      " a",
+      "me",
+      "ri",
+      "ca",
+      "no"
+    ],
+    "exampleSentence": "un profesor americano",
+    "exampleTranslation": "um professor americano"
+  },
+  {
+    "id": "leccion_13_56",
+    "word": "un coche",
+    "translation": "um carro",
+    "pronunciation": "/un ˈkotʃe/",
+    "portuguesePhonetic": "un cô-tche",
+    "syllables": [
+      "un",
+      " co",
+      "che"
+    ],
+    "exampleSentence": "un coche",
+    "exampleTranslation": "um carro"
+  },
+  {
+    "id": "leccion_13_57",
+    "word": "una casa",
+    "translation": "uma casa",
+    "pronunciation": "/ˈuna ˈkasa/",
+    "portuguesePhonetic": "ú-na cá-sa",
+    "syllables": [
+      "u",
+      "na",
+      " ca",
+      "sa"
+    ],
+    "exampleSentence": "una casa",
+    "exampleTranslation": "uma casa"
+  },
+  {
+    "id": "leccion_13_58",
+    "word": "un amigo",
+    "translation": "um amigo",
+    "pronunciation": "/un aˈmiɣo/",
+    "portuguesePhonetic": "un a-mí-go",
+    "syllables": [
+      "un",
+      " a",
+      "mi",
+      "go"
+    ],
+    "exampleSentence": "un amigo",
+    "exampleTranslation": "um amigo"
+  },
+  {
+    "id": "leccion_13_59",
+    "word": "un ordenador",
+    "translation": "um computador",
+    "pronunciation": "/un oɾðenaˈðoɾ/",
+    "portuguesePhonetic": "un or-de-na-dór",
+    "syllables": [
+      "un",
+      " or",
+      "de",
+      "na",
+      "dor"
+    ],
+    "exampleSentence": "un ordenador",
+    "exampleTranslation": "um computador"
+  },
+  {
+    "id": "leccion_13_60",
+    "word": "ordenador nuevo",
+    "translation": "computador novo",
+    "pronunciation": "/oɾðenaˈðoɾ ˈnweβo/",
+    "portuguesePhonetic": "or-de-na-dór nu-ê-bo",
+    "syllables": [
+      "or",
+      "de",
+      "na",
+      "dor",
+      " nue",
+      "vo"
+    ],
+    "exampleSentence": "ordenador nuevo",
+    "exampleTranslation": "computador novo"
+  },
+  {
+    "id": "leccion_13_61",
+    "word": "móvil nuevo",
+    "translation": "celular novo",
+    "pronunciation": "/ˈmoβil ˈnweβo/",
+    "portuguesePhonetic": "mó-bil nu-ê-bo",
+    "syllables": [
+      "mó",
+      "vil",
+      " nue",
+      "vo"
+    ],
+    "exampleSentence": "móvil nuevo",
+    "exampleTranslation": "celular novo"
+  },
+  {
+    "id": "leccion_13_62",
+    "word": "zapatos nuevos",
+    "translation": "sapatos novos",
+    "pronunciation": "/θaˈpatos ˈnweβos/",
+    "portuguesePhonetic": "tha-pá-tos nu-ê-bos",
+    "syllables": [
+      "za",
+      "pa",
+      "tos",
+      " nue",
+      "vos"
+    ],
+    "exampleSentence": "zapatos nuevos",
+    "exampleTranslation": "sapatos novos"
+  },
+  {
+    "id": "leccion_13_63",
+    "word": "coche viejo",
+    "translation": "carro velho",
+    "pronunciation": "/ˈkotʃe ˈβjexo/",
+    "portuguesePhonetic": "cô-tche bi-ê-rro",
+    "syllables": [
+      "co",
+      "che",
+      " vie",
+      "jo"
+    ],
+    "exampleSentence": "coche viejo",
+    "exampleTranslation": "carro velho"
+  },
+  {
+    "id": "leccion_13_64",
+    "word": "amigo brasileño",
+    "translation": "amigo brasileiro",
+    "pronunciation": "/aˈmiɣo βɾasiˈleɲo/",
+    "portuguesePhonetic": "a-mí-go bra-si-lê-nho",
+    "syllables": [
+      "a",
+      "mi",
+      "go",
+      " bra",
+      "si",
+      "le",
+      "ño"
+    ],
+    "exampleSentence": "amigo brasileño",
+    "exampleTranslation": "amigo brasileiro"
+  },
+  {
+    "id": "leccion_13_65",
+    "word": "compañero de trabajo británico",
+    "translation": "colega de trabalho britânico",
+    "pronunciation": "/kompaˈɲeɾo ðe tɾaˈβaxo βɾiˈtaniko/",
+    "portuguesePhonetic": "com-pa-nhê-ro de tra-bá-rro bri-tá-ni-co",
+    "syllables": [
+      "com",
+      "pa",
+      "ñe",
+      "ro",
+      " de",
+      " tra",
+      "ba",
+      "jo",
+      " bri",
+      "tá",
+      "ni",
+      "co"
+    ],
+    "exampleSentence": "compañero de trabajo británico",
+    "exampleTranslation": "colega de trabalho britânico"
+  },
+  {
+    "id": "leccion_13_66",
+    "word": "profesor americano",
+    "translation": "professor americano",
+    "pronunciation": "/pɾofeˈsoɾ ameɾiˈkano/",
+    "portuguesePhonetic": "pro-fe-sór a-me-ri-cá-no",
+    "syllables": [
+      "pro",
+      "fe",
+      "sor",
+      " a",
+      "me",
+      "ri",
+      "ca",
+      "no"
+    ],
+    "exampleSentence": "profesor americano",
+    "exampleTranslation": "professor americano"
+  },
+  {
+    "id": "leccion_13_67",
+    "word": "hablar inglés muy bien",
+    "translation": "falar inglês muito bem",
+    "pronunciation": "/aˈβlaɾ iŋˈgles mui βjen/",
+    "portuguesePhonetic": "a-blár in-glês múi bi-ên",
+    "syllables": [
+      "ha",
+      "blar",
+      " in",
+      "glés",
+      " muy",
+      " bien"
+    ],
+    "exampleSentence": "hablar inglés muy bien",
+    "exampleTranslation": "falar inglês muito bem"
+  },
+  {
+    "id": "leccion_13_68",
+    "word": "tener que ir",
+    "translation": "ter que ir",
+    "pronunciation": "/teˈneɾ ke iɾ/",
+    "portuguesePhonetic": "te-nér que ir",
+    "syllables": [
+      "te",
+      "ner",
+      " que",
+      " ir"
+    ],
+    "exampleSentence": "tener que ir",
+    "exampleTranslation": "ter que ir"
+  },
+  {
+    "id": "leccion_13_69",
+    "word": "necesitar estudiar",
+    "translation": "precisar estudar",
+    "pronunciation": "/neθesiˈtaɾ estuˈðʝaɾ/",
+    "portuguesePhonetic": "ne-the-çí-tár es-tu-diár",
+    "syllables": [
+      "ne",
+      "ce",
+      "si",
+      "tar",
+      " es",
+      "tu",
+      "diar"
+    ],
+    "exampleSentence": "necesitar estudiar",
+    "exampleTranslation": "precisar estudar"
+  },
+  {
+    "id": "leccion_13_70",
+    "word": "número de teléfono",
+    "translation": "número de telefone",
+    "pronunciation": "/ˈnumeɾo ðe teˈlefono/",
+    "portuguesePhonetic": "nú-me-ro de te-lê-fo-no",
+    "syllables": [
+      "nú",
+      "me",
+      "ro",
+      " de",
+      " te",
+      "lé",
+      "fo",
+      "no"
+    ],
+    "exampleSentence": "número de teléfono",
+    "exampleTranslation": "número de telefone"
+  }
+]

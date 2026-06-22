@@ -1,0 +1,430 @@
+[
+  {
+    "id": "to_be_2_1",
+    "word": "sunny",
+    "translation": "ensolarado(a)",
+    "pronunciation": "/ˈsʌni/",
+    "portuguesePhonetic": "sâ-ni",
+    "syllables": [
+      "sun",
+      "ny"
+    ],
+    "exampleSentence": "It was hot and sunny.",
+    "exampleTranslation": "Estava quente e ensolarado."
+  },
+  {
+    "id": "to_be_2_2",
+    "word": "snowy",
+    "translation": "nevoso(a)",
+    "pronunciation": "/ˈsnoʊi/",
+    "portuguesePhonetic": "snôu-i",
+    "syllables": [
+      "snow",
+      "y"
+    ],
+    "exampleSentence": "Was it snowy yesterday?",
+    "exampleTranslation": "Estava nevoso ontem?"
+  },
+  {
+    "id": "to_be_2_3",
+    "word": "rainy",
+    "translation": "chuvoso(a)",
+    "pronunciation": "/ˈreɪni/",
+    "portuguesePhonetic": "rêi-ni",
+    "syllables": [
+      "rain",
+      "y"
+    ],
+    "exampleSentence": "It is a rainy day.",
+    "exampleTranslation": "É um dia chuvoso."
+  },
+  {
+    "id": "to_be_2_4",
+    "word": "cloudy",
+    "translation": "nubloso(a), nublado",
+    "pronunciation": "/ˈklaʊdi/",
+    "portuguesePhonetic": "cláu-di",
+    "syllables": [
+      "cloud",
+      "y"
+    ],
+    "exampleSentence": "The sky is cloudy today.",
+    "exampleTranslation": "O céu está nublado hoje."
+  },
+  {
+    "id": "to_be_2_5",
+    "word": "windy",
+    "translation": "com muito vento, ventando",
+    "pronunciation": "/ˈwɪndi/",
+    "portuguesePhonetic": "uín-di",
+    "syllables": [
+      "win",
+      "dy"
+    ],
+    "exampleSentence": "It was incredible. It was hot and windy.",
+    "exampleTranslation": "Foi incrível. Estava quente e ventando."
+  },
+  {
+    "id": "to_be_2_6",
+    "word": "fascinating",
+    "translation": "fascinante",
+    "pronunciation": "/ˈfæsəˌneɪtɪŋ/",
+    "portuguesePhonetic": "fé-si-nêi-tin",
+    "syllables": [
+      "fas",
+      "ci",
+      "nat",
+      "ing"
+    ],
+    "exampleSentence": "The movie was good, but not fascinating.",
+    "exampleTranslation": "O filme foi bom, mas não fascinante."
+  },
+  {
+    "id": "to_be_2_7",
+    "word": "incredible",
+    "translation": "incrível",
+    "pronunciation": "/ɪnˈkrɛdəbəl/",
+    "portuguesePhonetic": "in-cré-di-bôl",
+    "syllables": [
+      "in",
+      "cred",
+      "i",
+      "ble"
+    ],
+    "exampleSentence": "Was the movie good? It was incredible.",
+    "exampleTranslation": "O filme foi bom? Foi incrível."
+  },
+  {
+    "id": "to_be_2_8",
+    "word": "scared",
+    "translation": "assustado(a)",
+    "pronunciation": "/skɛrd/",
+    "portuguesePhonetic": "skérd",
+    "syllables": [
+      "scared"
+    ],
+    "exampleSentence": "Were you scared?",
+    "exampleTranslation": "Você estava assustado?"
+  },
+  {
+    "id": "to_be_2_9",
+    "word": "polite",
+    "translation": "educado(a), respeitoso(a)",
+    "pronunciation": "/pəˈlaɪt/",
+    "portuguesePhonetic": "po-láit",
+    "syllables": [
+      "po",
+      "lite"
+    ],
+    "exampleSentence": "She was very kind and polite.",
+    "exampleTranslation": "Ela foi muito gentil e educada."
+  },
+  {
+    "id": "to_be_2_10",
+    "word": "rude",
+    "translation": "grosseiro(a)",
+    "pronunciation": "/rud/",
+    "portuguesePhonetic": "rúd",
+    "syllables": [
+      "rude"
+    ],
+    "exampleSentence": "Why was he so rude to us?",
+    "exampleTranslation": "Por que ele foi tão grosseiro conosco?"
+  },
+  {
+    "id": "to_be_2_11",
+    "word": "reliable",
+    "translation": "confiável",
+    "pronunciation": "/rɪˈlaɪəbəl/",
+    "portuguesePhonetic": "ri-lái-a-bôl",
+    "syllables": [
+      "re",
+      "li",
+      "a",
+      "ble"
+    ],
+    "exampleSentence": "Was the business reliable?",
+    "exampleTranslation": "O negócio era confiável?"
+  },
+  {
+    "id": "to_be_2_12",
+    "word": "unreliable",
+    "translation": "não confiável, duvidoso(a)",
+    "pronunciation": "/ˌʌnrɪˈlaɪəbəl/",
+    "portuguesePhonetic": "ân-ri-lái-a-bôl",
+    "syllables": [
+      "un",
+      "re",
+      "li",
+      "a",
+      "ble"
+    ],
+    "exampleSentence": "That lawyer is unreliable.",
+    "exampleTranslation": "Aquele advogado não é confiável."
+  },
+  {
+    "id": "to_be_2_13",
+    "word": "What was the weather like at the beach?",
+    "translation": "Como estava o tempo na praia?",
+    "pronunciation": "/wʌt wʌz ðə ˈwɛðər laɪk æt ðə bitʃ/",
+    "portuguesePhonetic": "uát uâz dâ ué-der láic ét dâ bitch",
+    "syllables": [
+      "What",
+      " was",
+      " the",
+      " weath",
+      "er",
+      " like",
+      " at",
+      " the",
+      " beach?"
+    ],
+    "exampleSentence": "What was the weather like at the beach?",
+    "exampleTranslation": "Como estava o tempo na praia?"
+  },
+  {
+    "id": "to_be_2_14",
+    "word": "I'm cold. I want to drink some hot tea.",
+    "translation": "Eu estou com frio. Eu quero tomar um chá quente.",
+    "pronunciation": "/aɪm koʊld. aɪ wɑnt tu drɪŋk sʌm hɑt ti/",
+    "portuguesePhonetic": "áim côuld. ai uónt tchu drinc sâm rót ti",
+    "syllables": [
+      "I'm",
+      " cold.",
+      " I",
+      " want",
+      " to",
+      " drink",
+      " some",
+      " hot",
+      " tea."
+    ],
+    "exampleSentence": "I'm cold. I want to drink some hot tea.",
+    "exampleTranslation": "Eu estou com frio. Eu quero tomar um chá quente."
+  },
+  {
+    "id": "to_be_2_15",
+    "word": "I get scared when I watch horror movies.",
+    "translation": "Eu fico com medo quando assisto a filmes de terror.",
+    "pronunciation": "/aɪ ɡɛt skɛrd wɛn aɪ wɑtʃ ˈhɔrər ˈmuviz/",
+    "portuguesePhonetic": "ai guét skérd uén ai uótch ró-ror mú-viz",
+    "syllables": [
+      "I",
+      " get",
+      " scared",
+      " when",
+      " I",
+      " watch",
+      " hor",
+      "ror",
+      " mo",
+      "vies."
+    ],
+    "exampleSentence": "I get scared when I watch horror movies.",
+    "exampleTranslation": "Eu fico com medo quando assisto a filmes de terror."
+  },
+  {
+    "id": "to_be_2_16",
+    "word": "Where were you?",
+    "translation": "Onde você estava?",
+    "pronunciation": "/wɛr wɜr ju/",
+    "portuguesePhonetic": "uér uãr iu",
+    "syllables": [
+      "Where",
+      " were",
+      " you?"
+    ],
+    "exampleSentence": "Where were you?",
+    "exampleTranslation": "Onde você estava?",
+    "grammarExplanation": "Question with \"to be\" in the past (were you)"
+  },
+  {
+    "id": "to_be_2_17",
+    "word": "Was she with you yesterday?",
+    "translation": "Ela estava com você ontem?",
+    "pronunciation": "/wʌz ʃi wɪð ju ˈjɛstərˌdeɪ/",
+    "portuguesePhonetic": "uâz xi uíð iu iés-ter-dei",
+    "syllables": [
+      "Was",
+      " she",
+      " with",
+      " you",
+      " yes",
+      "ter",
+      "day?"
+    ],
+    "exampleSentence": "Was she with you yesterday?",
+    "exampleTranslation": "Ela estava com você ontem?",
+    "grammarExplanation": "Question with \"to be\" in the past (was she)"
+  },
+  {
+    "id": "to_be_2_18",
+    "word": "Was he polite to you?",
+    "translation": "Ele foi educado com você?",
+    "pronunciation": "/wʌz hi pəˈlaɪt tu ju/",
+    "portuguesePhonetic": "uâz ri po-láit tchu iu",
+    "syllables": [
+      "Was",
+      " he",
+      " po",
+      "lite",
+      " to",
+      " you?"
+    ],
+    "exampleSentence": "Was he polite to you?",
+    "exampleTranslation": "Ele foi educado com você?",
+    "grammarExplanation": "Question with \"to be\" in the past (was he)"
+  },
+  {
+    "id": "to_be_2_19",
+    "word": "Were you at home this morning?",
+    "translation": "Vocês estavam em casa esta manhã?",
+    "pronunciation": "/wɜr ju æt hoʊm ðɪs ˈmɔrnɪŋ/",
+    "portuguesePhonetic": "uãr iu ét rôum díz mór-nin",
+    "syllables": [
+      "Were",
+      " you",
+      " at",
+      " home",
+      " this",
+      " mor",
+      "ning?"
+    ],
+    "exampleSentence": "Were you at home this morning?",
+    "exampleTranslation": "Vocês estavam em casa esta manhã?",
+    "grammarExplanation": "Question with \"to be\" in the past (were you)"
+  },
+  {
+    "id": "to_be_2_20",
+    "word": "Were we at the right place?",
+    "translation": "Nós estávamos no lugar correto?",
+    "pronunciation": "/wɜr wi æt ðə raɪt pleɪs/",
+    "portuguesePhonetic": "uãr uí ét dâ ráit plêis",
+    "syllables": [
+      "Were",
+      " we",
+      " at",
+      " the",
+      " right",
+      " place?"
+    ],
+    "exampleSentence": "Were we at the right place?",
+    "exampleTranslation": "Nós estávamos no lugar correto?",
+    "grammarExplanation": "Question with \"to be\" in the past (were we)"
+  },
+  {
+    "id": "to_be_2_21",
+    "word": "I get frustrated when I lose something.",
+    "translation": "Eu fico frustrado quando perco algo.",
+    "pronunciation": "/aɪ ɡɛt ˈfrʌˌstreɪtɪd wɛn aɪ luz ˈsʌmθɪŋ/",
+    "portuguesePhonetic": "ai guét frâs-trêi-ted uén ai lúz sâm-thin",
+    "syllables": [
+      "I",
+      " get",
+      " frus",
+      "tra",
+      "ted",
+      " when",
+      " I",
+      " lose",
+      " some",
+      "thing."
+    ],
+    "exampleSentence": "I get frustrated when I lose something.",
+    "exampleTranslation": "Eu fico frustrado quando perco algo."
+  },
+  {
+    "id": "to_be_2_22",
+    "word": "Our boss gets really rude when we talk about deadlines.",
+    "translation": "Nosso chefe fica muito grosseiro quando falamos sobre prazos.",
+    "pronunciation": "/ˈaʊər bɔs ɡɛts ˈrɪli rud wɛn wi tɔk əˈbaʊt ˈdɛdˌlaɪnz/",
+    "portuguesePhonetic": "áu-er bós guéts rí-li rúd uén uí tók a-báut déd-lains",
+    "syllables": [
+      "Our",
+      " boss",
+      " gets",
+      " real",
+      "ly",
+      " rude",
+      " when",
+      " we",
+      " talk",
+      " a",
+      "bout",
+      " dead",
+      "lines."
+    ],
+    "exampleSentence": "Our boss gets really rude when we talk about deadlines.",
+    "exampleTranslation": "Nosso chefe fica muito grosseiro quando falamos sobre prazos."
+  },
+  {
+    "id": "to_be_2_23",
+    "word": "What was the weather like during your last vacation?",
+    "translation": "Como estava o tempo durante suas últimas férias?",
+    "pronunciation": "/wʌt wʌz ðə ˈwɛðər laɪk ˈdʊrɪŋ jʊr læst veɪˈkeɪʃən/",
+    "portuguesePhonetic": "uát uâz dâ ué-der láic dú-rin iór lést vei-kêi-xân",
+    "syllables": [
+      "What",
+      " was",
+      " the",
+      " weath",
+      "er",
+      " like",
+      " du",
+      "ring",
+      " your",
+      " last",
+      " va",
+      "ca",
+      "tion?"
+    ],
+    "exampleSentence": "What was the weather like during your last vacation?",
+    "exampleTranslation": "Como estava o tempo durante suas últimas férias?"
+  },
+  {
+    "id": "to_be_2_24",
+    "word": "She gets really scared when she goes to the dentist.",
+    "translation": "Ela fica com muito medo quando vai ao dentista.",
+    "pronunciation": "/ʃi ɡɛts ˈrɪli skɛrd wɛn ʃi ɡoʊz tu ðə ˈdɛntɪst/",
+    "portuguesePhonetic": "xi guéts rí-li skérd uén xi gôuz tchu dâ dén-tist",
+    "syllables": [
+      "She",
+      " gets",
+      " real",
+      "ly",
+      " scared",
+      " when",
+      " she",
+      " goes",
+      " to",
+      " the",
+      " den",
+      "tist."
+    ],
+    "exampleSentence": "She gets really scared when she goes to the dentist.",
+    "exampleTranslation": "Ela fica com muito medo quando vai ao dentista."
+  },
+  {
+    "id": "to_be_2_25",
+    "word": "We always get frustrated with his ideas.",
+    "translation": "Nós sempre ficamos frustrados com as ideias dele.",
+    "pronunciation": "/wi ˈɔlweɪz ɡɛt ˈfrʌˌstreɪtɪd wɪð hɪz aɪˈdiəz/",
+    "portuguesePhonetic": "uí ól-ueiz guét frâs-trêi-ted uíð riz ai-dí-as",
+    "syllables": [
+      "We",
+      " al",
+      "ways",
+      " get",
+      " frus",
+      "tra",
+      "ted",
+      " with",
+      " his",
+      " i",
+      "de",
+      "as."
+    ],
+    "exampleSentence": "We always get frustrated with his ideas.",
+    "exampleTranslation": "Nós sempre ficamos frustrados com as ideias dele."
+  }
+]

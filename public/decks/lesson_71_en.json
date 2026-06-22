@@ -1,0 +1,1405 @@
+[
+  {
+    "id": "lesson_71_1",
+    "word": "to be",
+    "translation": "ser, estar",
+    "pronunciation": "/tu bi/",
+    "portuguesePhonetic": "tchu bî",
+    "syllables": [
+      "to",
+      " be"
+    ],
+    "exampleSentence": "I want to be happy.",
+    "exampleTranslation": "Eu quero ser feliz."
+  },
+  {
+    "id": "lesson_71_2",
+    "word": "widower",
+    "translation": "viúvo",
+    "pronunciation": "/ˈwɪdoʊər/",
+    "portuguesePhonetic": "uí-dôu-er",
+    "syllables": [
+      "wid",
+      "ow",
+      "er"
+    ],
+    "exampleSentence": "He is a widower.",
+    "exampleTranslation": "Ele é viúvo."
+  },
+  {
+    "id": "lesson_71_3",
+    "word": "widow",
+    "translation": "viúva",
+    "pronunciation": "/ˈwɪdoʊ/",
+    "portuguesePhonetic": "uí-dôu",
+    "syllables": [
+      "wid",
+      "ow"
+    ],
+    "exampleSentence": "That widow wasn't rude to the secretary.",
+    "exampleTranslation": "Aquela viúva não foi rude com a secretária."
+  },
+  {
+    "id": "lesson_71_4",
+    "word": "single",
+    "translation": "solteiro(a)",
+    "pronunciation": "/ˈsɪŋɡəl/",
+    "portuguesePhonetic": "sín-gôl",
+    "syllables": [
+      "sin",
+      "gle"
+    ],
+    "exampleSentence": "She was single three months ago.",
+    "exampleTranslation": "Emily era solteira há três meses."
+  },
+  {
+    "id": "lesson_71_5",
+    "word": "married",
+    "translation": "casado(a)",
+    "pronunciation": "/ˈmɛrid/",
+    "portuguesePhonetic": "mé-rid",
+    "syllables": [
+      "mar",
+      "ried"
+    ],
+    "exampleSentence": "They are married.",
+    "exampleTranslation": "Eles são casados."
+  },
+  {
+    "id": "lesson_71_6",
+    "word": "divorced",
+    "translation": "divorciado(a)",
+    "pronunciation": "/dɪˈvɔrst/",
+    "portuguesePhonetic": "di-vórst",
+    "syllables": [
+      "di",
+      "vorced"
+    ],
+    "exampleSentence": "My parents are divorced, but get along very well.",
+    "exampleTranslation": "Meus pais são divorciados, mas se dão muito bem."
+  },
+  {
+    "id": "lesson_71_7",
+    "word": "couple",
+    "translation": "casal",
+    "pronunciation": "/ˈkʌpəl/",
+    "portuguesePhonetic": "câ-pôl",
+    "syllables": [
+      "cou",
+      "ple"
+    ],
+    "exampleSentence": "There were many good-looking couples at that party.",
+    "exampleTranslation": "Havia muitos casais atraentes naquela festa."
+  },
+  {
+    "id": "lesson_71_8",
+    "word": "adult",
+    "translation": "adulto(a)",
+    "pronunciation": "/əˈdʌlt/",
+    "portuguesePhonetic": "a-dâlt",
+    "syllables": [
+      "a",
+      "dult"
+    ],
+    "exampleSentence": "You are an adult now.",
+    "exampleTranslation": "Você é um adulto agora."
+  },
+  {
+    "id": "lesson_71_9",
+    "word": "teenager",
+    "translation": "adolescente",
+    "pronunciation": "/ˈtiːnˌeɪdʒər/",
+    "portuguesePhonetic": "tín-êi-djer",
+    "syllables": [
+      "teen",
+      "ag",
+      "er"
+    ],
+    "exampleSentence": "Some teenagers were at the school on Saturday.",
+    "exampleTranslation": "Alguns adolescentes estavam na escola no sábado."
+  },
+  {
+    "id": "lesson_71_10",
+    "word": "relationship",
+    "translation": "relacionamento",
+    "pronunciation": "/rɪˈleɪʃənˌʃɪp/",
+    "portuguesePhonetic": "ri-lêi-xân-xip",
+    "syllables": [
+      "re",
+      "la",
+      "tion",
+      "ship"
+    ],
+    "exampleSentence": "She doesn't want to have a relationship now.",
+    "exampleTranslation": "Ela não quer ter um relacionamento agora."
+  },
+  {
+    "id": "lesson_71_11",
+    "word": "invitation",
+    "translation": "convite",
+    "pronunciation": "/ˌɪnvɪˈteɪʃən/",
+    "portuguesePhonetic": "in-vi-têi-xân",
+    "syllables": [
+      "in",
+      "vi",
+      "ta",
+      "tion"
+    ],
+    "exampleSentence": "Thanks for the invitation.",
+    "exampleTranslation": "Obrigado pelo convite."
+  },
+  {
+    "id": "lesson_71_12",
+    "word": "kiss",
+    "translation": "beijo",
+    "pronunciation": "/kɪs/",
+    "portuguesePhonetic": "kís",
+    "syllables": [
+      "kiss"
+    ],
+    "exampleSentence": "Every day I give my father a kiss and a hug.",
+    "exampleTranslation": "Todos os dias eu dou um beijo e um abraço no meu pai."
+  },
+  {
+    "id": "lesson_71_13",
+    "word": "hug",
+    "translation": "abraço",
+    "pronunciation": "/hʌɡ/",
+    "portuguesePhonetic": "râg",
+    "syllables": [
+      "hug"
+    ],
+    "exampleSentence": "Every day I give my father a kiss and a hug.",
+    "exampleTranslation": "Todos os dias eu dou um beijo e um abraço no meu pai."
+  },
+  {
+    "id": "lesson_71_14",
+    "word": "good-looking",
+    "translation": "atraente",
+    "pronunciation": "/ˈɡʊdˈlʊkɪŋ/",
+    "portuguesePhonetic": "gud-lú-kin",
+    "syllables": [
+      "good",
+      "-",
+      "look",
+      "ing"
+    ],
+    "exampleSentence": "There were many good-looking couples at that party.",
+    "exampleTranslation": "Havia muitos casais atraentes naquela festa."
+  },
+  {
+    "id": "lesson_71_15",
+    "word": "gorgeous",
+    "translation": "deslumbrante",
+    "pronunciation": "/ˈɡɔrdʒəs/",
+    "portuguesePhonetic": "gór-djâs",
+    "syllables": [
+      "gor",
+      "geous"
+    ],
+    "exampleSentence": "She always wears gorgeous dresses when she goes on a date.",
+    "exampleTranslation": "Ela sempre usa vestidos deslumbrantes quando vai a um encontro."
+  },
+  {
+    "id": "lesson_71_16",
+    "word": "jealous",
+    "translation": "ciumento(a), com ciúmes",
+    "pronunciation": "/ˈdʒɛləs/",
+    "portuguesePhonetic": "djé-lâs",
+    "syllables": [
+      "jeal",
+      "ous"
+    ],
+    "exampleSentence": "Mike was jealous at the party.",
+    "exampleTranslation": "Mike estava com ciúmes na festa."
+  },
+  {
+    "id": "lesson_71_17",
+    "word": "We get along very well.",
+    "translation": "Nós nos damos muito bem.",
+    "pronunciation": "/wi ɡɛt əˈlɔŋ ˈvɛri wɛl/",
+    "portuguesePhonetic": "uí guét a-lón vé-ri uél",
+    "syllables": [
+      "We",
+      " get",
+      " a",
+      "long",
+      " ve",
+      "ry",
+      " well."
+    ],
+    "exampleSentence": "We get along very well.",
+    "exampleTranslation": "Nós nos damos muito bem."
+  },
+  {
+    "id": "lesson_71_18",
+    "word": "I don't like to go on blind dates.",
+    "translation": "Eu não gosto de ir a encontros às cegas.",
+    "pronunciation": "/aɪ doʊnt laɪk tu ɡoʊ ɑn blaɪnd deɪts/",
+    "portuguesePhonetic": "ai dôunt láik tchu gôu ón bláind dêits",
+    "syllables": [
+      "I",
+      " don't",
+      " like",
+      " to",
+      " go",
+      " on",
+      " blind",
+      " dates."
+    ],
+    "exampleSentence": "I don't like to go on blind dates.",
+    "exampleTranslation": "Eu não gosto de ir a encontros às cegas."
+  },
+  {
+    "id": "lesson_71_19",
+    "word": "I don't love him. I want to break up.",
+    "translation": "Eu não o amo. Quero terminar.",
+    "pronunciation": "/aɪ doʊnt lʌv hɪm. aɪ wɑnt tu breɪk ʌp/",
+    "portuguesePhonetic": "ai dôunt lâv rim. ai uónt tchu brêik âp",
+    "syllables": [
+      "I",
+      " don't",
+      " love",
+      " him.",
+      " I",
+      " want",
+      " to",
+      " break",
+      " up."
+    ],
+    "exampleSentence": "I don't love him. I want to break up.",
+    "exampleTranslation": "Eu não o amo. Quero terminar."
+  },
+  {
+    "id": "lesson_71_20",
+    "word": "Every time I ask her to come to my house for dinner, she turns it down.",
+    "translation": "Toda vez que eu a convido para jantar na minha casa, ela recusa.",
+    "pronunciation": "/ˈɛvri taɪm aɪ æsk hɜr tu kʌm tu maɪ haʊs fɔr ˈdɪnər, ʃi tɜrnz ɪt daʊn/",
+    "portuguesePhonetic": "é-vri táim ai ésk râr tchu kâm tchu mái ráuss fór dí-ner, xi têrnz it dáun",
+    "syllables": [
+      "Ev",
+      "er",
+      "y",
+      " time",
+      " I",
+      " ask",
+      " her",
+      " to",
+      " come",
+      " to",
+      " my",
+      " house",
+      " for",
+      " din",
+      "ner,",
+      " she",
+      " turns",
+      " it",
+      " down."
+    ],
+    "exampleSentence": "Every time I ask her to come to my house for dinner, she turns it down.",
+    "exampleTranslation": "Toda vez que eu a convido para jantar na minha casa, ela recusa."
+  },
+  {
+    "id": "lesson_71_21",
+    "word": "What was their favorite vacation?",
+    "translation": "Quais foram as férias favoritas deles?",
+    "pronunciation": "/wʌt wʌz ðɛr ˈfeɪvərɪt veɪˈkeɪʃən/",
+    "portuguesePhonetic": "uót uâz ðér fêi-vô-rit vêi-kêi-xân",
+    "syllables": [
+      "What",
+      " was",
+      " their",
+      " fa",
+      "vor",
+      "ite",
+      " va",
+      "ca",
+      "tion?"
+    ],
+    "exampleSentence": "What was their favorite vacation?",
+    "exampleTranslation": "Quais foram as férias favoritas deles?"
+  },
+  {
+    "id": "lesson_71_22",
+    "word": "Where was he last week?",
+    "translation": "Onde ele estava na semana passada?",
+    "pronunciation": "/wɛr wʌz hi læst wik/",
+    "portuguesePhonetic": "uér uâz ri lést uík",
+    "syllables": [
+      "Where",
+      " was",
+      " he",
+      " last",
+      " week?"
+    ],
+    "exampleSentence": "Where was he last week?",
+    "exampleTranslation": "Onde ele estava na semana passada?"
+  },
+  {
+    "id": "lesson_71_23",
+    "word": "How were they?",
+    "translation": "Como eles estavam?",
+    "pronunciation": "/haʊ wɜr ðeɪ/",
+    "portuguesePhonetic": "ráu uêr ðêi",
+    "syllables": [
+      "How",
+      " were",
+      " they?"
+    ],
+    "exampleSentence": "How were they?",
+    "exampleTranslation": "Como eles estavam?"
+  },
+  {
+    "id": "lesson_71_24",
+    "word": "What time was she there?",
+    "translation": "Que horas ela esteve lá?",
+    "pronunciation": "/wʌt taɪm wʌz ʃi ðɛr/",
+    "portuguesePhonetic": "uót táim uâz xi ðér",
+    "syllables": [
+      "What",
+      " time",
+      " was",
+      " she",
+      " there?"
+    ],
+    "exampleSentence": "What time was she there?",
+    "exampleTranslation": "Que horas ela esteve lá?"
+  },
+  {
+    "id": "lesson_71_25",
+    "word": "When were John and Jane in France?",
+    "translation": "Quando John e Jane estiveram na França?",
+    "pronunciation": "/wɛn wɜr dʒɑn ænd dʒeɪn ɪn fræns/",
+    "portuguesePhonetic": "uén uêr djón énd djêin in fréns",
+    "syllables": [
+      "When",
+      " were",
+      " John",
+      " and",
+      " Jane",
+      " in",
+      " France?"
+    ],
+    "exampleSentence": "When were John and Jane in France?",
+    "exampleTranslation": "Quando John e Jane estiveram na França?"
+  },
+  {
+    "id": "lesson_71_26",
+    "word": "Why was she so nervous?",
+    "translation": "Por que ela estava tão nervosa?",
+    "pronunciation": "/waɪ wʌz ʃi soʊ ˈnɜrvəs/",
+    "portuguesePhonetic": "uái uâz xi sôu nêr-vâs",
+    "syllables": [
+      "Why",
+      " was",
+      " she",
+      " so",
+      " ner",
+      "vous?"
+    ],
+    "exampleSentence": "Why was she so nervous?",
+    "exampleTranslation": "Por que ela estava tão nervosa?"
+  },
+  {
+    "id": "lesson_71_27",
+    "word": "How old were the children?",
+    "translation": "Quantos anos tinham as crianças?",
+    "pronunciation": "/haʊ oʊld wɜr ðə ˈtʃɪldrən/",
+    "portuguesePhonetic": "ráu ôuld uêr ðâ tchíl-dren",
+    "syllables": [
+      "How",
+      " old",
+      " were",
+      " the",
+      " chil",
+      "dren?"
+    ],
+    "exampleSentence": "How old were the children?",
+    "exampleTranslation": "Quantos anos tinham as crianças?"
+  },
+  {
+    "id": "lesson_71_28",
+    "word": "She doesn't want to have a relationship now.",
+    "translation": "Ela não quer ter um relacionamento agora.",
+    "pronunciation": "/ʃi ˈdʌzənt wɑnt tu hæv ə rɪˈleɪʃənˌʃɪp naʊ/",
+    "portuguesePhonetic": "xi dâ-zent uónt tchu rév a ri-lêi-xân-xip náu",
+    "syllables": [
+      "She",
+      " does",
+      "n't",
+      " want",
+      " to",
+      " have",
+      " a",
+      " re",
+      "la",
+      "tion",
+      "ship",
+      " now."
+    ],
+    "exampleSentence": "She doesn't want to have a relationship now.",
+    "exampleTranslation": "Ela não quer ter um relacionamento agora."
+  },
+  {
+    "id": "lesson_71_29",
+    "word": "My parents are divorced, but get along very well.",
+    "translation": "Meus pais são divorciados, mas se dão muito bem.",
+    "pronunciation": "/maɪ ˈpɛrənts ɑr dɪˈvɔrst, bʌt ɡɛt əˈlɔŋ ˈvɛri wɛl/",
+    "portuguesePhonetic": "mái pé-rents ar di-vórst, bât guét a-lón vé-ri uél",
+    "syllables": [
+      "My",
+      " par",
+      "ents",
+      " are",
+      " di",
+      "vorced,",
+      " but",
+      " get",
+      " a",
+      "long",
+      " ve",
+      "ry",
+      " well."
+    ],
+    "exampleSentence": "My parents are divorced, but get along very well.",
+    "exampleTranslation": "Meus pais são divorciados, mas se dão muito bem."
+  },
+  {
+    "id": "lesson_71_30",
+    "word": "Every day I give my father a kiss and a hug.",
+    "translation": "Todos os dias eu dou um beijo e um abraço no meu pai.",
+    "pronunciation": "/ˈɛvri deɪ aɪ ɡɪv maɪ ˈfɑðər ə kɪs ænd ə hʌɡ/",
+    "portuguesePhonetic": "é-vri dêi ai guív mái fá-ðer a kís énd a râg",
+    "syllables": [
+      "Ev",
+      "er",
+      "y",
+      " day",
+      " I",
+      " give",
+      " my",
+      " fa",
+      "ther",
+      " a",
+      " kiss",
+      " and",
+      " a",
+      " hug."
+    ],
+    "exampleSentence": "Every day I give my father a kiss and a hug.",
+    "exampleTranslation": "Todos os dias eu dou um beijo e um abraço no meu pai."
+  },
+  {
+    "id": "lesson_71_31",
+    "word": "Nobody knows he has a crush on her.",
+    "translation": "Ninguém sabe que ele tem uma queda por ela.",
+    "pronunciation": "/ˈnoʊˌbɑdi noʊz hi hæz ə krʌʃ ɑn hɜr/",
+    "portuguesePhonetic": "nôu-bó-di nôuz ri réz a crâch ón râr",
+    "syllables": [
+      "No",
+      "bod",
+      "y",
+      " knows",
+      " he",
+      " has",
+      " a",
+      " crush",
+      " on",
+      " her."
+    ],
+    "exampleSentence": "Nobody knows he has a crush on her.",
+    "exampleTranslation": "Ninguém sabe que ele tem uma queda por ela."
+  },
+  {
+    "id": "lesson_71_32",
+    "word": "That widow wasn't rude to the secretary.",
+    "translation": "Aquela viúva não foi rude com a secretária.",
+    "pronunciation": "/ðæt ˈwɪdoʊ ˈwʌzənt rud tu ðə ˈsɛkrəˌtɛri/",
+    "portuguesePhonetic": "ðét uí-dôu uâ-zent rúd tchu ðâ sé-cre-té-ri",
+    "syllables": [
+      "That",
+      " wid",
+      "ow",
+      " was",
+      "n't",
+      " rude",
+      " to",
+      " the",
+      " sec",
+      "re",
+      "tar",
+      "y."
+    ],
+    "exampleSentence": "That widow wasn't rude to the secretary.",
+    "exampleTranslation": "Aquela viúva não foi rude com a secretária."
+  },
+  {
+    "id": "lesson_71_33",
+    "word": "There were many good-looking couples at that party.",
+    "translation": "Havia muitos casais atraentes naquela festa.",
+    "pronunciation": "/ðɛr wɜr ˈmɛni ɡʊdˈlʊkɪŋ ˈkʌpəlz æt ðæt ˈpɑrti/",
+    "portuguesePhonetic": "ðér uêr mé-ni gud-lú-kin câ-pôlz ét ðét pár-ti",
+    "syllables": [
+      "There",
+      " were",
+      " man",
+      "y",
+      " good",
+      "-",
+      "look",
+      "ing",
+      " cou",
+      "ples",
+      " at",
+      " that",
+      " par",
+      "ty."
+    ],
+    "exampleSentence": "There were many good-looking couples at that party.",
+    "exampleTranslation": "Havia muitos casais atraentes naquela festa."
+  },
+  {
+    "id": "lesson_71_34",
+    "word": "She always wears gorgeous dresses when she goes on a date.",
+    "translation": "Ela sempre usa vestidos deslumbrantes quando vai a um encontro.",
+    "pronunciation": "/ʃi ˈɔlweɪz wɛrz ˈɡɔrdʒəs ˈdrɛsɪz wɛn ʃi ɡoʊz ɑn ə deɪt/",
+    "portuguesePhonetic": "xi ól-uêiz uérz gór-djâs dré-siz uén xi gôuz ón a dêit",
+    "syllables": [
+      "She",
+      " al",
+      "ways",
+      " wears",
+      " gor",
+      "geous",
+      " dress",
+      "es",
+      " when",
+      " she",
+      " goes",
+      " on",
+      " a",
+      " date."
+    ],
+    "exampleSentence": "She always wears gorgeous dresses when she goes on a date.",
+    "exampleTranslation": "Ela sempre usa vestidos deslumbrantes quando vai a um encontro."
+  },
+  {
+    "id": "lesson_71_35",
+    "word": "Do you want to go on a blind date?",
+    "translation": "Você quer ir a um encontro às cegas?",
+    "pronunciation": "/du ju wɑnt tu ɡoʊ ɑn ə blaɪnd deɪt/",
+    "portuguesePhonetic": "du iu uónt tchu gôu ón a bláind dêit",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " go",
+      " on",
+      " a",
+      " blind",
+      " date?"
+    ],
+    "exampleSentence": "Do you want to go on a blind date?",
+    "exampleTranslation": "Você quer ir a um encontro às cegas?"
+  },
+  {
+    "id": "lesson_71_36",
+    "word": "He wants to break up with her.",
+    "translation": "Ele quer terminar com ela.",
+    "pronunciation": "/hi wɑnts tu breɪk ʌp wɪð hɜr/",
+    "portuguesePhonetic": "ri uónts tchu brêik âp uíð râr",
+    "syllables": [
+      "He",
+      " wants",
+      " to",
+      " break",
+      " up",
+      " with",
+      " her."
+    ],
+    "exampleSentence": "He wants to break up with her.",
+    "exampleTranslation": "Ele quer terminar com ela."
+  },
+  {
+    "id": "lesson_71_37",
+    "word": "She always turns down his invitations.",
+    "translation": "Ela sempre recusa os convites dele.",
+    "pronunciation": "/ʃi ˈɔlweɪz tɜrnz daʊn hɪz ˌɪnvɪˈteɪʃənz/",
+    "portuguesePhonetic": "xi ól-uêiz têrnz dáun ris in-vi-têi-xânz",
+    "syllables": [
+      "She",
+      " al",
+      "ways",
+      " turns",
+      " down",
+      " his",
+      " in",
+      "vi",
+      "ta",
+      "tions."
+    ],
+    "exampleSentence": "She always turns down his invitations.",
+    "exampleTranslation": "Ela sempre recusa os convites dele."
+  },
+  {
+    "id": "lesson_71_38",
+    "word": "Sorry, but I can't make it to your party.",
+    "translation": "Desculpe, mas não posso ir à sua festa.",
+    "pronunciation": "/ˈsɑri, bʌt aɪ kænt meɪk ɪt tu jʊr ˈpɑrti/",
+    "portuguesePhonetic": "só-ri, bât ai quént mêic id tchu iór pár-ti",
+    "syllables": [
+      "Sor",
+      "ry,",
+      " but",
+      " I",
+      " can't",
+      " make",
+      " it",
+      " to",
+      " your",
+      " par",
+      "ty."
+    ],
+    "exampleSentence": "Sorry, but I can't make it to your party.",
+    "exampleTranslation": "Desculpe, mas não posso ir à sua festa."
+  },
+  {
+    "id": "lesson_71_39",
+    "word": "What was that?",
+    "translation": "O que foi aquilo?",
+    "pronunciation": "/wʌt wʌz ðæt/",
+    "portuguesePhonetic": "uót uâz ðét",
+    "syllables": [
+      "What",
+      " was",
+      " that?"
+    ],
+    "exampleSentence": "What was that?",
+    "exampleTranslation": "O que foi aquilo?"
+  },
+  {
+    "id": "lesson_71_40",
+    "word": "Where were you?",
+    "translation": "Onde você estava?",
+    "pronunciation": "/wɛr wɜr ju/",
+    "portuguesePhonetic": "uér uêr iu",
+    "syllables": [
+      "Where",
+      " were",
+      " you?"
+    ],
+    "exampleSentence": "Where were you?",
+    "exampleTranslation": "Onde você estava?"
+  },
+  {
+    "id": "lesson_71_41",
+    "word": "When was it?",
+    "translation": "Quando foi?",
+    "pronunciation": "/wɛn wʌz ɪt/",
+    "portuguesePhonetic": "uén uâz it",
+    "syllables": [
+      "When",
+      " was",
+      " it?"
+    ],
+    "exampleSentence": "When was it?",
+    "exampleTranslation": "Quando foi?"
+  },
+  {
+    "id": "lesson_71_42",
+    "word": "How was it?",
+    "translation": "Como foi?",
+    "pronunciation": "/haʊ wʌz ɪt/",
+    "portuguesePhonetic": "ráu uâz it",
+    "syllables": [
+      "How",
+      " was",
+      " it?"
+    ],
+    "exampleSentence": "How was it?",
+    "exampleTranslation": "Como foi?"
+  },
+  {
+    "id": "lesson_71_43",
+    "word": "How much was this dress?",
+    "translation": "Quanto custava este vestido?",
+    "pronunciation": "/haʊ mʌtʃ wʌz ðɪs drɛs/",
+    "portuguesePhonetic": "ráu mâtch uâz ðís drés",
+    "syllables": [
+      "How",
+      " much",
+      " was",
+      " this",
+      " dress?"
+    ],
+    "exampleSentence": "How much was this dress?",
+    "exampleTranslation": "Quanto custava este vestido?"
+  },
+  {
+    "id": "lesson_71_44",
+    "word": "Why were you there?",
+    "translation": "Por que você estava lá?",
+    "pronunciation": "/waɪ wɜr ju ðɛr/",
+    "portuguesePhonetic": "uái uêr iu ðér",
+    "syllables": [
+      "Why",
+      " were",
+      " you",
+      " there?"
+    ],
+    "exampleSentence": "Why were you there?",
+    "exampleTranslation": "Por que você estava lá?"
+  },
+  {
+    "id": "lesson_71_45",
+    "word": "How old were you?",
+    "translation": "Quantos anos você tinha?",
+    "pronunciation": "/haʊ oʊld wɜr ju/",
+    "portuguesePhonetic": "ráu ôuld uêr iu",
+    "syllables": [
+      "How",
+      " old",
+      " were",
+      " you?"
+    ],
+    "exampleSentence": "How old were you?",
+    "exampleTranslation": "Quantos anos você tinha?"
+  },
+  {
+    "id": "lesson_71_46",
+    "word": "get along (with someone)",
+    "translation": "Dar-se bem (com alguém)",
+    "pronunciation": "/ɡɛt əˈlɔŋ/",
+    "portuguesePhonetic": "guét a-lón",
+    "syllables": [
+      "get",
+      " a",
+      "long"
+    ],
+    "exampleSentence": "I get along with my brother.",
+    "exampleTranslation": "Eu me dou bem com meu irmão."
+  },
+  {
+    "id": "lesson_71_47",
+    "word": "blind date",
+    "translation": "Encontro às cegas",
+    "pronunciation": "/blaɪnd deɪt/",
+    "portuguesePhonetic": "bláind dêit",
+    "syllables": [
+      "blind",
+      " date"
+    ],
+    "exampleSentence": "They met on a blind date.",
+    "exampleTranslation": "Eles se conheceram em um encontro às cegas."
+  },
+  {
+    "id": "lesson_71_48",
+    "word": "break up",
+    "translation": "Terminar um relacionamento",
+    "pronunciation": "/breɪk ʌp/",
+    "portuguesePhonetic": "brêik âp",
+    "syllables": [
+      "break",
+      " up"
+    ],
+    "exampleSentence": "They decided to break up.",
+    "exampleTranslation": "Eles decidiram terminar."
+  },
+  {
+    "id": "lesson_71_49",
+    "word": "turn down",
+    "translation": "Recusar",
+    "pronunciation": "/tɜrn daʊn/",
+    "portuguesePhonetic": "têrn dáun",
+    "syllables": [
+      "turn",
+      " down"
+    ],
+    "exampleSentence": "She didn't want to turn down the offer.",
+    "exampleTranslation": "Ela não queria recusar a oferta."
+  },
+  {
+    "id": "lesson_71_50",
+    "word": "have a crush on someone",
+    "translation": "Ter uma queda por alguém",
+    "pronunciation": "/hæv ə krʌʃ ɒn ˈsʌmˌwʌn/",
+    "portuguesePhonetic": "rév a crâch ón sâm-uân",
+    "syllables": [
+      "have",
+      " a",
+      " crush",
+      " on",
+      " some",
+      "one"
+    ],
+    "exampleSentence": "Nobody knows he has a crush on her.",
+    "exampleTranslation": "Ninguém sabe que ele tem uma queda por ela."
+  },
+  {
+    "id": "lesson_71_51",
+    "word": "go on a date",
+    "translation": "Ir a um encontro",
+    "pronunciation": "/ɡoʊ ɑn ə deɪt/",
+    "portuguesePhonetic": "gôu ón a dêit",
+    "syllables": [
+      "go",
+      " on",
+      " a",
+      " date"
+    ],
+    "exampleSentence": "They are going to go on a date tonight.",
+    "exampleTranslation": "Eles vão a um encontro hoje à noite."
+  },
+  {
+    "id": "lesson_71_52",
+    "word": "can't make it",
+    "translation": "Não poder comparecer / não conseguir ir",
+    "pronunciation": "/kænt meɪk ɪt/",
+    "portuguesePhonetic": "quént mêic it",
+    "syllables": [
+      "can't",
+      " make",
+      " it"
+    ],
+    "exampleSentence": "Sorry, but I can't make it to your party.",
+    "exampleTranslation": "Desculpe, mas não posso ir à sua festa."
+  },
+  {
+    "id": "lesson_71_53",
+    "word": "Was Mike jealous at the party?",
+    "translation": "Mike estava com ciúmes na festa?",
+    "pronunciation": "/wʌz maɪk ˈdʒɛləs æt ðə ˈpɑrti/",
+    "portuguesePhonetic": "uâz máic djé-lâs ét ðâ pár-ti",
+    "syllables": [
+      "Was",
+      " Mike",
+      " jeal",
+      "ous",
+      " at",
+      " the",
+      " par",
+      "ty?"
+    ],
+    "exampleSentence": "Was Mike jealous at the party?",
+    "exampleTranslation": "Mike estava com ciúmes na festa?"
+  },
+  {
+    "id": "lesson_71_54",
+    "word": "Mike was jealous at the party because his girlfriend was gorgeous.",
+    "translation": "Mike estava com ciúmes na festa porque sua namorada era deslumbrante.",
+    "pronunciation": "/maɪk wʌz ˈdʒɛləs æt ðə ˈpɑrti bɪˈkɔz hɪz ˈɡɜrlˌfrɛnd wʌz ˈɡɔrdʒəs/",
+    "portuguesePhonetic": "máic uâz djé-lâs ét ðâ pár-ti bi-cós rís gêrl-frénd uâz gór-djâs",
+    "syllables": [
+      "Mike",
+      " was",
+      " jeal",
+      "ous",
+      " at",
+      " the",
+      " par",
+      "ty",
+      " be",
+      "cause",
+      " his",
+      " girl",
+      "friend",
+      " was",
+      " gor",
+      "geous."
+    ],
+    "exampleSentence": "Mike was jealous at the party because his girlfriend was gorgeous.",
+    "exampleTranslation": "Mike estava com ciúmes na festa porque sua namorada era deslumbrante."
+  },
+  {
+    "id": "lesson_71_55",
+    "word": "When was your last vacation?",
+    "translation": "Quando foram suas últimas férias?",
+    "pronunciation": "/wɛn wʌz jʊr læst veɪˈkeɪʃən/",
+    "portuguesePhonetic": "uén uâz iór lést vêi-kêi-xân",
+    "syllables": [
+      "When",
+      " was",
+      " your",
+      " last",
+      " va",
+      "ca",
+      "tion?"
+    ],
+    "exampleSentence": "When was your last vacation?",
+    "exampleTranslation": "Quando foram suas últimas férias?"
+  },
+  {
+    "id": "lesson_71_56",
+    "word": "My last vacation was in November.",
+    "translation": "Minhas últimas férias foram em novembro.",
+    "pronunciation": "/maɪ læst veɪˈkeɪʃən wʌz ɪn noʊˈvɛmbər/",
+    "portuguesePhonetic": "mái lést vêi-kêi-xân uâz in nôu-vém-ber",
+    "syllables": [
+      "My",
+      " last",
+      " va",
+      "ca",
+      "tion",
+      " was",
+      " in",
+      " No",
+      "vem",
+      "ber."
+    ],
+    "exampleSentence": "My last vacation was in November.",
+    "exampleTranslation": "Minhas últimas férias foram em novembro."
+  },
+  {
+    "id": "lesson_71_57",
+    "word": "When was Emily single?",
+    "translation": "Quando Emily era solteira?",
+    "pronunciation": "/wɛn wʌz ˈɛmɪli ˈsɪŋɡəl/",
+    "portuguesePhonetic": "uén uâz é-mi-li sín-gôl",
+    "syllables": [
+      "When",
+      " was",
+      " Em",
+      "i",
+      "ly",
+      " sin",
+      "gle?"
+    ],
+    "exampleSentence": "When was Emily single?",
+    "exampleTranslation": "Quando Emily era solteira?"
+  },
+  {
+    "id": "lesson_71_58",
+    "word": "Emily was single three months ago.",
+    "translation": "Emily era solteira há três meses.",
+    "pronunciation": "/ˈɛmɪli wʌz ˈsɪŋɡəl θri mʌnθs əˈɡoʊ/",
+    "portuguesePhonetic": "é-mi-li uâz sín-gôl-dâ θrî mánths a-gôu",
+    "syllables": [
+      "Em",
+      "i",
+      "ly",
+      " was",
+      " sin",
+      "gle",
+      " three",
+      " months",
+      " a",
+      "go."
+    ],
+    "exampleSentence": "Emily was single three months ago.",
+    "exampleTranslation": "Emily era solteira há três meses."
+  },
+  {
+    "id": "lesson_71_59",
+    "word": "Where were some teenagers on Saturday?",
+    "translation": "Onde alguns adolescentes estavam no sábado?",
+    "pronunciation": "/wɛr wɜr sʌm ˈtiːnˌeɪdʒərz ɑn ˈsætərdeɪ/",
+    "portuguesePhonetic": "uér uêr sâm tín-êi-djers ón sé-ter-dêi",
+    "syllables": [
+      "Where",
+      " were",
+      " some",
+      " teen",
+      "ag",
+      "ers",
+      " on",
+      " Sat",
+      "ur",
+      "day?"
+    ],
+    "exampleSentence": "Where were some teenagers on Saturday?",
+    "exampleTranslation": "Onde alguns adolescentes estavam no sábado?"
+  },
+  {
+    "id": "lesson_71_60",
+    "word": "Some teenagers were at the school on Saturday.",
+    "translation": "Alguns adolescentes estavam na escola no sábado.",
+    "pronunciation": "/sʌm ˈtiːnˌeɪdʒərz wɜr æt ðə skuːl ɑn ˈsætərdeɪ/",
+    "portuguesePhonetic": "sâm tín-êi-djers uêr ét ðâ scûl ón sé-ter-dêi",
+    "syllables": [
+      "Some",
+      " teen",
+      "ag",
+      "ers",
+      " were",
+      " at",
+      " the",
+      " school",
+      " on",
+      " Sat",
+      "ur",
+      "day."
+    ],
+    "exampleSentence": "Some teenagers were at the school on Saturday.",
+    "exampleTranslation": "Alguns adolescentes estavam na escola no sábado."
+  },
+  {
+    "id": "lesson_71_61",
+    "word": "Where were the widow and her daughter on Monday?",
+    "translation": "Onde a viúva e sua filha estavam na segunda-feira?",
+    "pronunciation": "/wɛr wɜr ðə ˈwɪdoʊ ænd hɜr ˈdɔtər ɑn ˈmʌndeɪ/",
+    "portuguesePhonetic": "uér uêr ðâ uí-dôu énd râr dót-er ón mán-dêi",
+    "syllables": [
+      "Where",
+      " were",
+      " the",
+      " wid",
+      "ow",
+      " and",
+      " her",
+      " daugh",
+      "ter",
+      " on",
+      " Mon",
+      "day?"
+    ],
+    "exampleSentence": "Where were the widow and her daughter on Monday?",
+    "exampleTranslation": "Onde a viúva e sua filha estavam na segunda-feira?"
+  },
+  {
+    "id": "lesson_71_62",
+    "word": "The widow and her daughter were at a restaurant on Monday.",
+    "translation": "A viúva e sua filha estavam em um restaurante na segunda-feira.",
+    "pronunciation": "/ðə ˈwɪdoʊ ænd hɜr ˈdɔtər wɜr æt ə ˈrɛstəˌrɑnt ɑn ˈmʌndeɪ/",
+    "portuguesePhonetic": "ðâ uí-dôu énd râr dót-er uêr ét a rés-to-ránt ón mán-dêi",
+    "syllables": [
+      "The",
+      " wid",
+      "ow",
+      " and",
+      " her",
+      " daugh",
+      "ter",
+      " were",
+      " at",
+      " a",
+      " res",
+      "tau",
+      "rant",
+      " on",
+      " Mon",
+      "day."
+    ],
+    "exampleSentence": "The widow and her daughter were at a restaurant on Monday.",
+    "exampleTranslation": "A viúva e sua filha estavam em um restaurante na segunda-feira."
+  },
+  {
+    "id": "lesson_71_63",
+    "word": "Why were they in a relationship?",
+    "translation": "Por que eles estavam em um relacionamento?",
+    "pronunciation": "/waɪ wɜr ðeɪ ɪn ə rɪˈleɪʃənˌʃɪp/",
+    "portuguesePhonetic": "uái uêr ðêi in a ri-lêi-xân-xip",
+    "syllables": [
+      "Why",
+      " were",
+      " they",
+      " in",
+      " a",
+      " re",
+      "la",
+      "tion",
+      "ship?"
+    ],
+    "exampleSentence": "Why were they in a relationship?",
+    "exampleTranslation": "Por que eles estavam em um relacionamento?"
+  },
+  {
+    "id": "lesson_71_64",
+    "word": "They were in a relationship because they get along well.",
+    "translation": "Eles estavam em um relacionamento porque se dão bem.",
+    "pronunciation": "/ðeɪ wɜr ɪn ə rɪˈleɪʃənˌʃɪp bɪˈkɔz ðeɪ ɡɛt əˈlɔŋ wɛl/",
+    "portuguesePhonetic": "ðêi uêr in a ri-lêi-xân-xip bi-cós ðêi guét a-lón uél",
+    "syllables": [
+      "They",
+      " were",
+      " in",
+      " a",
+      " re",
+      "la",
+      "tion",
+      "ship",
+      " be",
+      "cause",
+      " they",
+      " get",
+      " a",
+      "long",
+      " well."
+    ],
+    "exampleSentence": "They were in a relationship because they get along well.",
+    "exampleTranslation": "Eles estavam em um relacionamento porque se dão bem."
+  },
+  {
+    "id": "lesson_71_65",
+    "word": "What time was your date with the good-looking woman?",
+    "translation": "Que horas foi seu encontro com a mulher atraente?",
+    "pronunciation": "/wʌt taɪm wʌz jʊr deɪt wɪð ðə ɡʊdˈlʊkɪŋ ˈwʊmən/",
+    "portuguesePhonetic": "uót táim uâz iór dêit uíð ðâ gud-lú-kin uú-man",
+    "syllables": [
+      "What",
+      " time",
+      " was",
+      " your",
+      " date",
+      " with",
+      " the",
+      " good",
+      "-",
+      "look",
+      "ing",
+      " wom",
+      "an?"
+    ],
+    "exampleSentence": "What time was your date with the good-looking woman?",
+    "exampleTranslation": "Que horas foi seu encontro com a mulher atraente?"
+  },
+  {
+    "id": "lesson_71_66",
+    "word": "My date with the good-looking woman was at 9 p.m.",
+    "translation": "Meu encontro com a mulher atraente foi às 21h.",
+    "pronunciation": "/maɪ deɪt wɪð ðə ɡʊdˈlʊkɪŋ ˈwʊmən wʌz æt naɪn pi.ɛm./",
+    "portuguesePhonetic": "mái dêit uíð ðâ gud-lú-kin uú-man uâz ét náin pî-ém",
+    "syllables": [
+      "My",
+      " date",
+      " with",
+      " the",
+      " good",
+      "-",
+      "look",
+      "ing",
+      " wom",
+      "an",
+      " was",
+      " at",
+      " nine",
+      " p.",
+      "m."
+    ],
+    "exampleSentence": "My date with the good-looking woman was at 9 p.m.",
+    "exampleTranslation": "Meu encontro com a mulher atraente foi às 21h."
+  },
+  {
+    "id": "lesson_71_67",
+    "word": "How was the weather?",
+    "translation": "Como estava o tempo?",
+    "pronunciation": "/haʊ wʌz ðə ˈwɛðər/",
+    "portuguesePhonetic": "ráu uâz ðâ ué-ðer",
+    "syllables": [
+      "How",
+      " was",
+      " the",
+      " weath",
+      "er?"
+    ],
+    "exampleSentence": "How was the weather?",
+    "exampleTranslation": "Como estava o tempo?"
+  },
+  {
+    "id": "lesson_71_68",
+    "word": "The weather was hot, but rainy.",
+    "translation": "O tempo estava quente, mas chuvoso.",
+    "pronunciation": "/ðə ˈwɛðər wʌz hɑt, bʌt ˈreɪni/",
+    "portuguesePhonetic": "ðâ ué-ðer uâz rót, bât rêi-ni",
+    "syllables": [
+      "The",
+      " weath",
+      "er",
+      " was",
+      " hot,",
+      " but",
+      " rain",
+      "y."
+    ],
+    "exampleSentence": "The weather was hot, but rainy.",
+    "exampleTranslation": "O tempo estava quente, mas chuvoso."
+  },
+  {
+    "id": "lesson_71_69",
+    "word": "jealous",
+    "translation": "ciumento(a)",
+    "pronunciation": "/ˈdʒɛləs/",
+    "portuguesePhonetic": "djé-lâs",
+    "syllables": [
+      "jeal",
+      "ous"
+    ],
+    "exampleSentence": "Mike was jealous at the party.",
+    "exampleTranslation": "Mike estava com ciúmes na festa."
+  },
+  {
+    "id": "lesson_71_70",
+    "word": "get along",
+    "translation": "dar-se bem",
+    "pronunciation": "/ɡɛt əˈlɔŋ/",
+    "portuguesePhonetic": "guét a-lón",
+    "syllables": [
+      "get",
+      " a",
+      "long"
+    ],
+    "exampleSentence": "We get along very well.",
+    "exampleTranslation": "Nós nos damos muito bem."
+  },
+  {
+    "id": "lesson_71_71",
+    "word": "gorgeous",
+    "translation": "deslumbrante",
+    "pronunciation": "/ˈɡɔrdʒəs/",
+    "portuguesePhonetic": "gór-djâs",
+    "syllables": [
+      "gor",
+      "geous"
+    ],
+    "exampleSentence": "She was gorgeous.",
+    "exampleTranslation": "Ela estava deslumbrante."
+  },
+  {
+    "id": "lesson_71_72",
+    "word": "turn down",
+    "translation": "recusar",
+    "pronunciation": "/tɜrn daʊn/",
+    "portuguesePhonetic": "têrn dáun",
+    "syllables": [
+      "turn",
+      " down"
+    ],
+    "exampleSentence": "Do not turn down this invitation.",
+    "exampleTranslation": "Não recuse este convite."
+  },
+  {
+    "id": "lesson_71_73",
+    "word": "break up",
+    "translation": "terminar relacionamento",
+    "pronunciation": "/breɪk ʌp/",
+    "portuguesePhonetic": "brêik âp",
+    "syllables": [
+      "break",
+      " up"
+    ],
+    "exampleSentence": "I want to break up.",
+    "exampleTranslation": "Quero terminar."
+  },
+  {
+    "id": "lesson_71_74",
+    "word": "widow",
+    "translation": "viúva",
+    "pronunciation": "/ˈwɪdoʊ/",
+    "portuguesePhonetic": "uí-dôu",
+    "syllables": [
+      "wid",
+      "ow"
+    ],
+    "exampleSentence": "The widow is very kind.",
+    "exampleTranslation": "A viúva é muito gentil."
+  },
+  {
+    "id": "lesson_71_75",
+    "word": "teenager",
+    "translation": "adolescente",
+    "pronunciation": "/ˈtiːnˌeɪdʒər/",
+    "portuguesePhonetic": "tín-êi-djer",
+    "syllables": [
+      "teen",
+      "ag",
+      "er"
+    ],
+    "exampleSentence": "He is a smart teenager.",
+    "exampleTranslation": "Ele é um adolescente inteligente."
+  },
+  {
+    "id": "lesson_71_76",
+    "word": "relationship",
+    "translation": "relacionamento",
+    "pronunciation": "/rɪˈleɪʃənˌʃɪp/",
+    "portuguesePhonetic": "ri-lêi-xân-xip",
+    "syllables": [
+      "re",
+      "la",
+      "tion",
+      "ship"
+    ],
+    "exampleSentence": "They are in a long relationship.",
+    "exampleTranslation": "Eles estão em um longo relacionamento."
+  },
+  {
+    "id": "lesson_71_77",
+    "word": "vacation",
+    "translation": "férias",
+    "pronunciation": "/veɪˈkeɪʃən/",
+    "portuguesePhonetic": "vêi-quêi-xân",
+    "syllables": [
+      "va",
+      "ca",
+      "tion"
+    ],
+    "exampleSentence": "When was your last vacation?",
+    "exampleTranslation": "Quando foram suas últimas férias?"
+  },
+  {
+    "id": "lesson_71_78",
+    "word": "weather",
+    "translation": "clima / tempo",
+    "pronunciation": "/ˈwɛðər/",
+    "portuguesePhonetic": "ué-ðer",
+    "syllables": [
+      "weath",
+      "er"
+    ],
+    "exampleSentence": "How was the weather?",
+    "exampleTranslation": "Como estava o tempo?"
+  },
+  {
+    "id": "lesson_71_79",
+    "word": "rainy",
+    "translation": "chuvoso",
+    "pronunciation": "/ˈreɪni/",
+    "portuguesePhonetic": "rêi-ni",
+    "syllables": [
+      "rain",
+      "y"
+    ],
+    "exampleSentence": "The weather was rainy yesterday.",
+    "exampleTranslation": "O tempo estava chuvoso ontem."
+  },
+  {
+    "id": "lesson_71_80",
+    "word": "hot",
+    "translation": "quente",
+    "pronunciation": "/hɑt/",
+    "portuguesePhonetic": "rót",
+    "syllables": [
+      "hot"
+    ],
+    "exampleSentence": "It was hot.",
+    "exampleTranslation": "Estava quente."
+  },
+  {
+    "id": "lesson_71_81",
+    "word": "date",
+    "translation": "encontro",
+    "pronunciation": "/deɪt/",
+    "portuguesePhonetic": "dêit",
+    "syllables": [
+      "date"
+    ],
+    "exampleSentence": "My date was at nine p.m.",
+    "exampleTranslation": "Meu encontro foi às nove da noite."
+  },
+  {
+    "id": "lesson_71_82",
+    "word": "good-looking",
+    "translation": "atraente",
+    "pronunciation": "/ˈɡʊdˈlʊkɪŋ/",
+    "portuguesePhonetic": "gud-lú-kin",
+    "syllables": [
+      "good",
+      "-",
+      "look",
+      "ing"
+    ],
+    "exampleSentence": "She was a good-looking woman.",
+    "exampleTranslation": "Ela era uma mulher atraente."
+  }
+]

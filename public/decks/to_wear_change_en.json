@@ -1,0 +1,1799 @@
+[
+  {
+    "id": "to_wear_change_1",
+    "word": "to wear",
+    "translation": "vestir, usar",
+    "pronunciation": "/tə wɛr/",
+    "portuguesePhonetic": "tchu uér",
+    "syllables": [
+      "to",
+      " wear"
+    ],
+    "exampleSentence": "to wear",
+    "exampleTranslation": "vestir, usar"
+  },
+  {
+    "id": "to_wear_change_2",
+    "word": "to change",
+    "translation": "trocar, mudar",
+    "pronunciation": "/tə tʃeɪndʒ/",
+    "portuguesePhonetic": "tchu tchêindj",
+    "syllables": [
+      "to",
+      " change"
+    ],
+    "exampleSentence": "to change",
+    "exampleTranslation": "trocar, mudar"
+  },
+  {
+    "id": "to_wear_change_3",
+    "word": "shirt",
+    "translation": "blusa, camisa",
+    "pronunciation": "/ʃɜrt/",
+    "portuguesePhonetic": "xãrt",
+    "syllables": [
+      "shirt"
+    ],
+    "exampleSentence": "shirt",
+    "exampleTranslation": "blusa, camisa"
+  },
+  {
+    "id": "to_wear_change_4",
+    "word": "T-shirt",
+    "translation": "camiseta",
+    "pronunciation": "/ˈtiˌʃɜrt/",
+    "portuguesePhonetic": "ti-xãrt",
+    "syllables": [
+      "T-",
+      "shirt"
+    ],
+    "exampleSentence": "T-shirt",
+    "exampleTranslation": "camiseta"
+  },
+  {
+    "id": "to_wear_change_5",
+    "word": "pants",
+    "translation": "calça",
+    "pronunciation": "/pænts/",
+    "portuguesePhonetic": "pénts",
+    "syllables": [
+      "pants"
+    ],
+    "exampleSentence": "pants",
+    "exampleTranslation": "calça"
+  },
+  {
+    "id": "to_wear_change_6",
+    "word": "jeans",
+    "translation": "calça jeans",
+    "pronunciation": "/dʒinz/",
+    "portuguesePhonetic": "djins",
+    "syllables": [
+      "jeans"
+    ],
+    "exampleSentence": "jeans",
+    "exampleTranslation": "calça jeans"
+  },
+  {
+    "id": "to_wear_change_7",
+    "word": "skirt",
+    "translation": "saia",
+    "pronunciation": "/skɜrt/",
+    "portuguesePhonetic": "scãrt",
+    "syllables": [
+      "skirt"
+    ],
+    "exampleSentence": "skirt",
+    "exampleTranslation": "saia"
+  },
+  {
+    "id": "to_wear_change_8",
+    "word": "dress",
+    "translation": "vestido",
+    "pronunciation": "/drɛs/",
+    "portuguesePhonetic": "drés",
+    "syllables": [
+      "dress"
+    ],
+    "exampleSentence": "dress",
+    "exampleTranslation": "vestido"
+  },
+  {
+    "id": "to_wear_change_9",
+    "word": "jacket",
+    "translation": "jaqueta",
+    "pronunciation": "/ˈdʒækɪt/",
+    "portuguesePhonetic": "djé-kit",
+    "syllables": [
+      "ja",
+      "cket"
+    ],
+    "exampleSentence": "jacket",
+    "exampleTranslation": "jaqueta"
+  },
+  {
+    "id": "to_wear_change_10",
+    "word": "coat",
+    "translation": "casaco",
+    "pronunciation": "/koʊt/",
+    "portuguesePhonetic": "côut",
+    "syllables": [
+      "coat"
+    ],
+    "exampleSentence": "coat",
+    "exampleTranslation": "casaco"
+  },
+  {
+    "id": "to_wear_change_11",
+    "word": "sneakers",
+    "translation": "tênis",
+    "pronunciation": "/ˈsnikərz/",
+    "portuguesePhonetic": "sní-kãrs",
+    "syllables": [
+      "snea",
+      "kers"
+    ],
+    "exampleSentence": "sneakers",
+    "exampleTranslation": "tênis"
+  },
+  {
+    "id": "to_wear_change_12",
+    "word": "suit",
+    "translation": "terno",
+    "pronunciation": "/sut/",
+    "portuguesePhonetic": "sut",
+    "syllables": [
+      "suit"
+    ],
+    "exampleSentence": "suit",
+    "exampleTranslation": "terno"
+  },
+  {
+    "id": "to_wear_change_13",
+    "word": "shorts",
+    "translation": "bermuda",
+    "pronunciation": "/ʃɔrts/",
+    "portuguesePhonetic": "xórts",
+    "syllables": [
+      "shorts"
+    ],
+    "exampleSentence": "shorts",
+    "exampleTranslation": "bermuda"
+  },
+  {
+    "id": "to_wear_change_14",
+    "word": "glasses",
+    "translation": "óculos",
+    "pronunciation": "/ˈɡlæsɪz/",
+    "portuguesePhonetic": "glé-siz",
+    "syllables": [
+      "glas",
+      "ses"
+    ],
+    "exampleSentence": "glasses",
+    "exampleTranslation": "óculos"
+  },
+  {
+    "id": "to_wear_change_15",
+    "word": "watch",
+    "translation": "relógio",
+    "pronunciation": "/wɑtʃ/",
+    "portuguesePhonetic": "uótch",
+    "syllables": [
+      "watch"
+    ],
+    "exampleSentence": "watch",
+    "exampleTranslation": "relógio"
+  },
+  {
+    "id": "to_wear_change_16",
+    "word": "outfit",
+    "translation": "roupa, conjunto",
+    "pronunciation": "/ˈaʊtˌfɪt/",
+    "portuguesePhonetic": "aút-fit",
+    "syllables": [
+      "out",
+      "fit"
+    ],
+    "exampleSentence": "outfit",
+    "exampleTranslation": "roupa, conjunto"
+  },
+  {
+    "id": "to_wear_change_17",
+    "word": "style",
+    "translation": "estilo",
+    "pronunciation": "/staɪl/",
+    "portuguesePhonetic": "stail",
+    "syllables": [
+      "style"
+    ],
+    "exampleSentence": "style",
+    "exampleTranslation": "estilo"
+  },
+  {
+    "id": "to_wear_change_18",
+    "word": "special",
+    "translation": "especial",
+    "pronunciation": "/ˈspɛʃəl/",
+    "portuguesePhonetic": "spé-xou",
+    "syllables": [
+      "spe",
+      "cial"
+    ],
+    "exampleSentence": "special",
+    "exampleTranslation": "especial"
+  },
+  {
+    "id": "to_wear_change_19",
+    "word": "I want to buy a pair of shoes.",
+    "translation": "Eu quero comprar um par de sapatos.",
+    "pronunciation": "/aɪ wɑnt tə baɪ ə pɛr əv ʃuz./",
+    "portuguesePhonetic": "ai uónt tchu bai a pér óv xuz.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " buy",
+      " a",
+      " pair",
+      " of",
+      " shoes."
+    ],
+    "exampleSentence": "I want to buy a pair of shoes.",
+    "exampleTranslation": "Eu quero comprar um par de sapatos."
+  },
+  {
+    "id": "to_wear_change_20",
+    "word": "I want to try that dress on.",
+    "translation": "Eu quero provar aquele vestido.",
+    "pronunciation": "/aɪ wɑnt tə traɪ ðæt drɛs ɑn./",
+    "portuguesePhonetic": "ai uónt tchu trai dát drés an.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " try",
+      " that",
+      " dress",
+      " on."
+    ],
+    "exampleSentence": "I want to try that dress on.",
+    "exampleTranslation": "Eu quero provar aquele vestido."
+  },
+  {
+    "id": "to_wear_change_21",
+    "word": "What size are you?",
+    "translation": "Que tamanho você usa?",
+    "pronunciation": "/wɑt saɪz ɑr ju?/",
+    "portuguesePhonetic": "uát saiz ar iu?",
+    "syllables": [
+      "What",
+      " size",
+      " are",
+      " you?"
+    ],
+    "exampleSentence": "What size are you?",
+    "exampleTranslation": "Que tamanho você usa?"
+  },
+  {
+    "id": "to_wear_change_22",
+    "word": "I am waiting for the doctor.",
+    "translation": "Eu estou esperando pelo médico.",
+    "pronunciation": "/aɪ æm ˈweɪtɪŋ fɔr ðə ˈdɑktər./",
+    "portuguesePhonetic": "ai ém uêi-tin fór dâ dóc-tãr.",
+    "syllables": [
+      "I",
+      " am",
+      " wai",
+      "ting",
+      " for",
+      " the",
+      " doc",
+      "tor."
+    ],
+    "exampleSentence": "I am waiting for the doctor.",
+    "exampleTranslation": "Eu estou esperando pelo médico."
+  },
+  {
+    "id": "to_wear_change_23",
+    "word": "You are wearing a beautiful coat.",
+    "translation": "Você está usando um casaco bonito.",
+    "pronunciation": "/ju ɑr ˈwɛrɪŋ ə ˈbjutəfəl koʊt./",
+    "portuguesePhonetic": "iu ar ué-rin a biú-ti-fou côut.",
+    "syllables": [
+      "You",
+      " are",
+      " wea",
+      "ring",
+      " a",
+      " beau",
+      "ti",
+      "ful",
+      " coat."
+    ],
+    "exampleSentence": "You are wearing a beautiful coat.",
+    "exampleTranslation": "Você está usando um casaco bonito."
+  },
+  {
+    "id": "to_wear_change_24",
+    "word": "She is changing her outfit.",
+    "translation": "Ela está mudando a roupa dela.",
+    "pronunciation": "/ʃi ɪz ˈtʃeɪndʒɪŋ hɜr ˈaʊtˌfɪt./",
+    "portuguesePhonetic": "xi iz tchêin-djin rãr aút-fit.",
+    "syllables": [
+      "She",
+      " is",
+      " chan",
+      "ging",
+      " her",
+      " out",
+      "fit."
+    ],
+    "exampleSentence": "She is changing her outfit.",
+    "exampleTranslation": "Ela está mudando a roupa dela."
+  },
+  {
+    "id": "to_wear_change_25",
+    "word": "He is making a delicious cake.",
+    "translation": "Ele está fazendo um bolo delicioso.",
+    "pronunciation": "/hi ɪz ˈmeɪkɪŋ ə dɪˈlɪʃəs keɪk./",
+    "portuguesePhonetic": "ri iz mêi-kin a di-lí-xãs cêic.",
+    "syllables": [
+      "He",
+      " is",
+      " ma",
+      "king",
+      " a",
+      " de",
+      "li",
+      "cious",
+      " cake."
+    ],
+    "exampleSentence": "He is making a delicious cake.",
+    "exampleTranslation": "Ele está fazendo um bolo delicioso."
+  },
+  {
+    "id": "to_wear_change_26",
+    "word": "The class is starting now.",
+    "translation": "A aula está começando agora.",
+    "pronunciation": "/ðə klæs ɪz ˈstɑrtɪŋ naʊ./",
+    "portuguesePhonetic": "dâ clés iz star-tin náu.",
+    "syllables": [
+      "The",
+      " class",
+      " is",
+      " star",
+      "ting",
+      " now."
+    ],
+    "exampleSentence": "The class is starting now.",
+    "exampleTranslation": "A aula está começando agora."
+  },
+  {
+    "id": "to_wear_change_27",
+    "word": "They are watching a movie now.",
+    "translation": "Eles estão assistindo um filme agora.",
+    "pronunciation": "/ðeɪ ɑr ˈwɑtʃɪŋ ə ˈmuvi naʊ./",
+    "portuguesePhonetic": "dêi ar uó-tchin a mú-vi náu.",
+    "syllables": [
+      "They",
+      " are",
+      " wat",
+      "ching",
+      " a",
+      " mo",
+      "vie",
+      " now."
+    ],
+    "exampleSentence": "They are watching a movie now.",
+    "exampleTranslation": "Eles estão assistindo um filme agora."
+  },
+  {
+    "id": "to_wear_change_28",
+    "word": "We are reading a funny story.",
+    "translation": "Nós estamos lendo uma história engraçada.",
+    "pronunciation": "/wi ɑr ˈridɪŋ ə ˈfʌni ˈstɔri./",
+    "portuguesePhonetic": "uí ar rí-din a fâ-ni stó-ri.",
+    "syllables": [
+      "We",
+      " are",
+      " rea",
+      "ding",
+      " a",
+      " fun",
+      "ny",
+      " sto",
+      "ry."
+    ],
+    "exampleSentence": "We are reading a funny story.",
+    "exampleTranslation": "Nós estamos lendo uma história engraçada."
+  },
+  {
+    "id": "to_wear_change_29",
+    "word": "The children are studying in the living room.",
+    "translation": "As crianças estão estudando na sala.",
+    "pronunciation": "/ðə ˈtʃɪldrən ɑr ˈstʌdiɪŋ ɪn ðə ˈlɪvɪŋ rum./",
+    "portuguesePhonetic": "dâ tchil-dren ar stâ-di-in in dâ lí-vin rum.",
+    "syllables": [
+      "The",
+      " chil",
+      "dren",
+      " are",
+      " stu",
+      "dy",
+      "ing",
+      " in",
+      " the",
+      " li",
+      "ving",
+      " room."
+    ],
+    "exampleSentence": "The children are studying in the living room.",
+    "exampleTranslation": "As crianças estão estudando na sala."
+  },
+  {
+    "id": "to_wear_change_30",
+    "word": "I want to try this shirt on.",
+    "translation": "Eu quero provar esta camisa.",
+    "pronunciation": "/aɪ wɑnt tə traɪ ðɪs ʃɜrt ɑn./",
+    "portuguesePhonetic": "ai uónt tchu trai díz xãrt an.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " try",
+      " this",
+      " shirt",
+      " on."
+    ],
+    "exampleSentence": "I want to try this shirt on.",
+    "exampleTranslation": "Eu quero provar esta camisa."
+  },
+  {
+    "id": "to_wear_change_31",
+    "word": "You're wearing funny socks!",
+    "translation": "Você está usando meias engraçadas!",
+    "pronunciation": "/jʊr ˈwɛrɪŋ ˈfʌni sɑks!/",
+    "portuguesePhonetic": "iuar ué-rin fâ-ni sócs!",
+    "syllables": [
+      "You're",
+      " wea",
+      "ring",
+      " fun",
+      "ny",
+      " socks!"
+    ],
+    "exampleSentence": "You're wearing funny socks!",
+    "exampleTranslation": "Você está usando meias engraçadas!"
+  },
+  {
+    "id": "to_wear_change_32",
+    "word": "I need to change my clothes before we go.",
+    "translation": "Eu preciso trocar minhas roupas antes de irmos.",
+    "pronunciation": "/aɪ nid tə tʃeɪndʒ maɪ kloʊðz bɪˈfɔr wi ɡoʊ./",
+    "portuguesePhonetic": "ai nid tchu tchêindj mai clôudz bi-fór uí gôu.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " change",
+      " my",
+      " clothes",
+      " be",
+      "fore",
+      " we",
+      " go."
+    ],
+    "exampleSentence": "I need to change my clothes before we go.",
+    "exampleTranslation": "Eu preciso trocar minhas roupas antes de irmos."
+  },
+  {
+    "id": "to_wear_change_33",
+    "word": "Do you want to try the blue pants on?",
+    "translation": "Você quer provar a calça azul?",
+    "pronunciation": "/du ju wɑnt tə traɪ ðə blu pænts ɑn?/",
+    "portuguesePhonetic": "du iu uónt tchu trai dâ blu pénts an?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " try",
+      " the",
+      " blue",
+      " pants",
+      " on?"
+    ],
+    "exampleSentence": "Do you want to try the blue pants on?",
+    "exampleTranslation": "Você quer provar a calça azul?"
+  },
+  {
+    "id": "to_wear_change_34",
+    "word": "I prefer to wear comfortable clothes to work.",
+    "translation": "Eu prefiro usar roupas confortáveis para o trabalho.",
+    "pronunciation": "/aɪ prɪˈfɜr tə wɛr ˈkʌmfərtəbəl kloʊðz tə wɜrk./",
+    "portuguesePhonetic": "ai pri-fãr tchu uér câm-fãr-ta-bou clôudz tchu uãrk.",
+    "syllables": [
+      "I",
+      " pre",
+      "fer",
+      " to",
+      " wear",
+      " com",
+      "for",
+      "ta",
+      "ble",
+      " clothes",
+      " to",
+      " work."
+    ],
+    "exampleSentence": "I prefer to wear comfortable clothes to work.",
+    "exampleTranslation": "Eu prefiro usar roupas confortáveis para o trabalho."
+  },
+  {
+    "id": "to_wear_change_35",
+    "word": "He is always wearing sunglasses.",
+    "translation": "Ele está sempre usando óculos de sol.",
+    "pronunciation": "/hi ɪz ˈɔlˌweɪz ˈwɛrɪŋ ˈsʌnˌɡlæsɪz./",
+    "portuguesePhonetic": "ri iz ól-uêiz ué-rin sân-glé-siz.",
+    "syllables": [
+      "He",
+      " is",
+      " al",
+      "ways",
+      " wea",
+      "ring",
+      " sun",
+      "glas",
+      "ses."
+    ],
+    "exampleSentence": "He is always wearing sunglasses.",
+    "exampleTranslation": "Ele está sempre usando óculos de sol."
+  },
+  {
+    "id": "to_wear_change_36",
+    "word": "I really like the suit you're wearing today.",
+    "translation": "Eu gosto muito do terno que você está usando hoje.",
+    "pronunciation": "/aɪ ˈrɪli laɪk ðə sut jʊr ˈwɛrɪŋ təˈdeɪ./",
+    "portuguesePhonetic": "ai rí-li laic dâ sut iuar ué-rin tchu-dêi.",
+    "syllables": [
+      "I",
+      " real",
+      "ly",
+      " like",
+      " the",
+      " suit",
+      " you're",
+      " wea",
+      "ring",
+      " to",
+      "day."
+    ],
+    "exampleSentence": "I really like the suit you're wearing today.",
+    "exampleTranslation": "Eu gosto muito do terno que você está usando hoje."
+  },
+  {
+    "id": "to_wear_change_37",
+    "word": "She is talking to the sales clerk now.",
+    "translation": "Ela está falando com a vendedora agora.",
+    "pronunciation": "/ʃi ɪz ˈtɔkɪŋ tə ðə seɪlz klɜrk naʊ./",
+    "portuguesePhonetic": "xi iz tó-kin tchu dâ sêils clãrc náu.",
+    "syllables": [
+      "She",
+      " is",
+      " tal",
+      "king",
+      " to",
+      " the",
+      " sales",
+      " clerk",
+      " now."
+    ],
+    "exampleSentence": "She is talking to the sales clerk now.",
+    "exampleTranslation": "Ela está falando com a vendedora agora."
+  },
+  {
+    "id": "to_wear_change_38",
+    "word": "We're changing our outfit to go to the bar.",
+    "translation": "Nós estamos mudando nossa roupa para ir ao bar.",
+    "pronunciation": "/wɪr ˈtʃeɪndʒɪŋ aʊər ˈaʊtˌfɪt tə ɡoʊ tə ðə bɑr./",
+    "portuguesePhonetic": "uíar tchêin-djin áur aút-fit tchu gôu tchu dâ bar.",
+    "syllables": [
+      "We're",
+      " chan",
+      "ging",
+      " our",
+      " out",
+      "fit",
+      " to",
+      " go",
+      " to",
+      " the",
+      " bar."
+    ],
+    "exampleSentence": "We're changing our outfit to go to the bar.",
+    "exampleTranslation": "Nós estamos mudando nossa roupa para ir ao bar."
+  },
+  {
+    "id": "to_wear_change_39",
+    "word": "They're waiting for you at the mall.",
+    "translation": "Eles estão esperando por você no shopping.",
+    "pronunciation": "/ðɛr ˈweɪtɪŋ fɔr ju æt ðə mɔl./",
+    "portuguesePhonetic": "dér uêi-tin fór iu ét dâ mól.",
+    "syllables": [
+      "They're",
+      " wai",
+      "ting",
+      " for",
+      " you",
+      " at",
+      " the",
+      " mall."
+    ],
+    "exampleSentence": "They're waiting for you at the mall.",
+    "exampleTranslation": "Eles estão esperando por você no shopping."
+  },
+  {
+    "id": "to_wear_change_40",
+    "word": "I'm buying a new pair of pants for my husband.",
+    "translation": "Eu estou comprando um par de calças novo para meu marido.",
+    "pronunciation": "/aɪm ˈbaɪɪŋ ə nu pɛr əv pænts fɔr maɪ ˈhʌzbənd./",
+    "portuguesePhonetic": "aim bái-in a nu pér óv pénts fór mai râz-bãnd.",
+    "syllables": [
+      "I'm",
+      " buy",
+      "ing",
+      " a",
+      " new",
+      " pair",
+      " of",
+      " pants",
+      " for",
+      " my",
+      " hus",
+      "band."
+    ],
+    "exampleSentence": "I'm buying a new pair of pants for my husband.",
+    "exampleTranslation": "Eu estou comprando um par de calças novo para meu marido."
+  },
+  {
+    "id": "to_wear_change_41",
+    "word": "small",
+    "translation": "pequeno / P",
+    "pronunciation": "/smɔl/",
+    "portuguesePhonetic": "smól",
+    "syllables": [
+      "small"
+    ],
+    "exampleSentence": "small",
+    "exampleTranslation": "pequeno / P"
+  },
+  {
+    "id": "to_wear_change_42",
+    "word": "medium",
+    "translation": "médio / M",
+    "pronunciation": "/ˈmidiəm/",
+    "portuguesePhonetic": "mí-di-ãm",
+    "syllables": [
+      "me",
+      "di",
+      "um"
+    ],
+    "exampleSentence": "medium",
+    "exampleTranslation": "médio / M"
+  },
+  {
+    "id": "to_wear_change_43",
+    "word": "large",
+    "translation": "grande / G",
+    "pronunciation": "/lɑrdʒ/",
+    "portuguesePhonetic": "lardj",
+    "syllables": [
+      "large"
+    ],
+    "exampleSentence": "large",
+    "exampleTranslation": "grande / G"
+  },
+  {
+    "id": "to_wear_change_44",
+    "word": "a pair of shoes",
+    "translation": "um par de sapatos",
+    "pronunciation": "/ə pɛr əv ʃuz/",
+    "portuguesePhonetic": "a pér óv xuz",
+    "syllables": [
+      "a",
+      " pair",
+      " of",
+      " shoes"
+    ],
+    "exampleSentence": "a pair of shoes",
+    "exampleTranslation": "um par de sapatos"
+  },
+  {
+    "id": "to_wear_change_45",
+    "word": "a pair of sneakers",
+    "translation": "um par de tênis",
+    "pronunciation": "/ə pɛr əv ˈsnikərz/",
+    "portuguesePhonetic": "a pér óv sní-kãrs",
+    "syllables": [
+      "a",
+      " pair",
+      " of",
+      " snea",
+      "kers"
+    ],
+    "exampleSentence": "a pair of sneakers",
+    "exampleTranslation": "um par de tênis"
+  },
+  {
+    "id": "to_wear_change_46",
+    "word": "a pair of pants",
+    "translation": "um (par de) calça",
+    "pronunciation": "/ə pɛr əv pænts/",
+    "portuguesePhonetic": "a pér óv pénts",
+    "syllables": [
+      "a",
+      " pair",
+      " of",
+      " pants"
+    ],
+    "exampleSentence": "a pair of pants",
+    "exampleTranslation": "um (par de) calça"
+  },
+  {
+    "id": "to_wear_change_47",
+    "word": "a pair of shorts",
+    "translation": "um (par de) bermuda",
+    "pronunciation": "/ə pɛr əv ʃɔrts/",
+    "portuguesePhonetic": "a pér óv xórts",
+    "syllables": [
+      "a",
+      " pair",
+      " of",
+      " shorts"
+    ],
+    "exampleSentence": "a pair of shorts",
+    "exampleTranslation": "um (par de) bermuda"
+  },
+  {
+    "id": "to_wear_change_48",
+    "word": "a pair of jeans",
+    "translation": "um (par de) calça jeans",
+    "pronunciation": "/ə pɛr əv dʒinz/",
+    "portuguesePhonetic": "a pér óv djins",
+    "syllables": [
+      "a",
+      " pair",
+      " of",
+      " jeans"
+    ],
+    "exampleSentence": "a pair of jeans",
+    "exampleTranslation": "um (par de) calça jeans"
+  },
+  {
+    "id": "to_wear_change_49",
+    "word": "blue",
+    "translation": "azul",
+    "pronunciation": "/blu/",
+    "portuguesePhonetic": "blu",
+    "syllables": [
+      "blue"
+    ],
+    "exampleSentence": "blue",
+    "exampleTranslation": "azul"
+  },
+  {
+    "id": "to_wear_change_50",
+    "word": "black",
+    "translation": "preto",
+    "pronunciation": "/blæk/",
+    "portuguesePhonetic": "bléc",
+    "syllables": [
+      "black"
+    ],
+    "exampleSentence": "black",
+    "exampleTranslation": "preto"
+  },
+  {
+    "id": "to_wear_change_51",
+    "word": "pink",
+    "translation": "rosa",
+    "pronunciation": "/pɪŋk/",
+    "portuguesePhonetic": "pinc",
+    "syllables": [
+      "pink"
+    ],
+    "exampleSentence": "pink",
+    "exampleTranslation": "rosa"
+  },
+  {
+    "id": "to_wear_change_52",
+    "word": "purple",
+    "translation": "roxo",
+    "pronunciation": "/ˈpɜrpəl/",
+    "portuguesePhonetic": "pãr-pou",
+    "syllables": [
+      "pur",
+      "ple"
+    ],
+    "exampleSentence": "purple",
+    "exampleTranslation": "roxo"
+  },
+  {
+    "id": "to_wear_change_53",
+    "word": "red",
+    "translation": "vermelho",
+    "pronunciation": "/rɛd/",
+    "portuguesePhonetic": "réd",
+    "syllables": [
+      "red"
+    ],
+    "exampleSentence": "red",
+    "exampleTranslation": "vermelho"
+  },
+  {
+    "id": "to_wear_change_54",
+    "word": "orange",
+    "translation": "laranja",
+    "pronunciation": "/ˈɔrɪndʒ/",
+    "portuguesePhonetic": "ó-rindj",
+    "syllables": [
+      "o",
+      "range"
+    ],
+    "exampleSentence": "orange",
+    "exampleTranslation": "laranja"
+  },
+  {
+    "id": "to_wear_change_55",
+    "word": "brown",
+    "translation": "marrom",
+    "pronunciation": "/braʊn/",
+    "portuguesePhonetic": "bráun",
+    "syllables": [
+      "brown"
+    ],
+    "exampleSentence": "brown",
+    "exampleTranslation": "marrom"
+  },
+  {
+    "id": "to_wear_change_56",
+    "word": "gray",
+    "translation": "cinza",
+    "pronunciation": "/ɡreɪ/",
+    "portuguesePhonetic": "grêi",
+    "syllables": [
+      "gray"
+    ],
+    "exampleSentence": "gray",
+    "exampleTranslation": "cinza"
+  },
+  {
+    "id": "to_wear_change_57",
+    "word": "yellow",
+    "translation": "amarelo",
+    "pronunciation": "/ˈjɛloʊ/",
+    "portuguesePhonetic": "ié-lou",
+    "syllables": [
+      "yel",
+      "low"
+    ],
+    "exampleSentence": "yellow",
+    "exampleTranslation": "amarelo"
+  },
+  {
+    "id": "to_wear_change_58",
+    "word": "green",
+    "translation": "verde",
+    "pronunciation": "/ɡrin/",
+    "portuguesePhonetic": "grin",
+    "syllables": [
+      "green"
+    ],
+    "exampleSentence": "green",
+    "exampleTranslation": "verde"
+  },
+  {
+    "id": "to_wear_change_59",
+    "word": "How much is this skirt?",
+    "translation": "Quanto custa esta saia?",
+    "pronunciation": "/haʊ mʌtʃ ɪz ðɪs skɜrt?/",
+    "portuguesePhonetic": "ráu mâtch iz díz scãrt?",
+    "syllables": [
+      "How",
+      " much",
+      " is",
+      " this",
+      " skirt?"
+    ],
+    "exampleSentence": "How much is this skirt?",
+    "exampleTranslation": "Quanto custa esta saia?"
+  },
+  {
+    "id": "to_wear_change_60",
+    "word": "It's US$30.",
+    "translation": "Custa 30 dólares.",
+    "pronunciation": "/ɪts ˈθɜrti ˈdɑlərz./",
+    "portuguesePhonetic": "its thãr-ti dó-lars.",
+    "syllables": [
+      "It's",
+      " US$30."
+    ],
+    "exampleSentence": "It's US$30.",
+    "exampleTranslation": "Custa 30 dólares."
+  },
+  {
+    "id": "to_wear_change_61",
+    "word": "How much are these sunglasses?",
+    "translation": "Quanto custam estes óculos de sol?",
+    "pronunciation": "/haʊ mʌtʃ ɑr ðiz ˈsʌnˌɡlæsɪz?/",
+    "portuguesePhonetic": "ráu mâtch ar díz sân-glé-siz?",
+    "syllables": [
+      "How",
+      " much",
+      " are",
+      " these",
+      " sun",
+      "glas",
+      "ses?"
+    ],
+    "exampleSentence": "How much are these sunglasses?",
+    "exampleTranslation": "Quanto custam estes óculos de sol?"
+  },
+  {
+    "id": "to_wear_change_62",
+    "word": "They're US$100.",
+    "translation": "Custam 100 dólares.",
+    "pronunciation": "/ðɛr wʌn ˈhʌndrəd ˈdɑlərz./",
+    "portuguesePhonetic": "dér uân rân-dred dó-lars.",
+    "syllables": [
+      "They're",
+      " US$100."
+    ],
+    "exampleSentence": "They're US$100.",
+    "exampleTranslation": "Custam 100 dólares."
+  },
+  {
+    "id": "to_wear_change_63",
+    "word": "I'm a medium.",
+    "translation": "Eu sou (tamanho) médio.",
+    "pronunciation": "/aɪm ə ˈmidiəm./",
+    "portuguesePhonetic": "aim a mí-di-ãm.",
+    "syllables": [
+      "I'm",
+      " a",
+      " me",
+      "di",
+      "um."
+    ],
+    "exampleSentence": "I'm a medium.",
+    "exampleTranslation": "Eu sou (tamanho) médio."
+  },
+  {
+    "id": "to_wear_change_64",
+    "word": "I wear medium.",
+    "translation": "Eu uso (tamanho) médio.",
+    "pronunciation": "/aɪ wɛr ˈmidiəm./",
+    "portuguesePhonetic": "ai uér mí-di-ãm.",
+    "syllables": [
+      "I",
+      " wear",
+      " me",
+      "di",
+      "um."
+    ],
+    "exampleSentence": "I wear medium.",
+    "exampleTranslation": "Eu uso (tamanho) médio."
+  },
+  {
+    "id": "to_wear_change_65",
+    "word": "Do you have to wear a suit to work every day?",
+    "translation": "Você tem que usar um terno para o trabalho todos os dias?",
+    "pronunciation": "/du ju hæv tə wɛr ə sut tə wɜrk ˈɛvri deɪ?/",
+    "portuguesePhonetic": "du iu rév tchu uér a sut tchu uãrk év-ri dêi?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " to",
+      " wear",
+      " a",
+      " suit",
+      " to",
+      " work",
+      " ev",
+      "er",
+      "y",
+      " day?"
+    ],
+    "exampleSentence": "Do you have to wear a suit to work every day?",
+    "exampleTranslation": "Você tem que usar um terno para o trabalho todos os dias?"
+  },
+  {
+    "id": "to_wear_change_66",
+    "word": "I want to try on the green T-shirt, please.",
+    "translation": "Eu quero provar a camiseta verde, por favor.",
+    "pronunciation": "/aɪ wɑnt tə traɪ ɑn ðə ɡrin ˈtiˌʃɜrt, pliz./",
+    "portuguesePhonetic": "ai uónt tchu trai an dâ grin tí-xãrt, plis.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " try",
+      " on",
+      " the",
+      " green",
+      " T-",
+      "shirt,",
+      " please."
+    ],
+    "exampleSentence": "I want to try on the green T-shirt, please.",
+    "exampleTranslation": "Eu quero provar a camiseta verde, por favor."
+  },
+  {
+    "id": "to_wear_change_67",
+    "word": "She wants to change her clothes. She doesn't want to wear that jacket.",
+    "translation": "Ela quer trocar de roupa. Ela não quer usar aquela jaqueta.",
+    "pronunciation": "/ʃi wɑnts tə tʃeɪndʒ hɜr kloʊðz. ʃi ˈdʌzənt wɑnt tə wɛr ðæt ˈdʒækɪt./",
+    "portuguesePhonetic": "xi uónts tchu tchêindj rãr clôudz. xi dâ-zent uónt tchu uér dét djé-kit.",
+    "syllables": [
+      "She",
+      " wants",
+      " to",
+      " change",
+      " her",
+      " clothes.",
+      " She",
+      " does",
+      "n't",
+      " want",
+      " to",
+      " wear",
+      " that",
+      " jack",
+      "et."
+    ],
+    "exampleSentence": "She wants to change her clothes. She doesn't want to wear that jacket.",
+    "exampleTranslation": "Ela quer trocar de roupa. Ela não quer usar aquela jaqueta."
+  },
+  {
+    "id": "to_wear_change_68",
+    "word": "What size do you wear? – I wear a medium size.",
+    "translation": "Que tamanho você usa? – Eu uso médio.",
+    "pronunciation": "/wɑt saɪz du ju wɛr? – aɪ wɛr ə ˈmidiəm saɪz./",
+    "portuguesePhonetic": "uát saiz du iu uér? – ai uér a mí-di-ãm saiz.",
+    "syllables": [
+      "What",
+      " size",
+      " do",
+      " you",
+      " wear?",
+      " –",
+      " I",
+      " wear",
+      " a",
+      " me",
+      "di",
+      "um",
+      " size."
+    ],
+    "exampleSentence": "What size do you wear? – I wear a medium size.",
+    "exampleTranslation": "Que tamanho você usa? – Eu uso médio."
+  },
+  {
+    "id": "to_wear_change_69",
+    "word": "I am wearing a red skirt and a white shirt.",
+    "translation": "Eu estou usando uma saia vermelha e uma camisa branca.",
+    "pronunciation": "/aɪ æm ˈwɛrɪŋ ə rɛd skɜrt ænd ə waɪt ʃɜrt./",
+    "portuguesePhonetic": "ai ém ué-rin a réd scãrt énd a uáit xãrt.",
+    "syllables": [
+      "I",
+      " am",
+      " wea",
+      "ring",
+      " a",
+      " red",
+      " skirt",
+      " and",
+      " a",
+      " white",
+      " shirt."
+    ],
+    "exampleSentence": "I am wearing a red skirt and a white shirt.",
+    "exampleTranslation": "Eu estou usando uma saia vermelha e uma camisa branca."
+  },
+  {
+    "id": "to_wear_change_70",
+    "word": "She is trying on the yellow dress.",
+    "translation": "Ela está provando o vestido amarelo.",
+    "pronunciation": "/ʃi ɪz ˈtraɪɪŋ ɑn ðə ˈjɛloʊ drɛs./",
+    "portuguesePhonetic": "xi iz trái-in an dâ ié-lou drés.",
+    "syllables": [
+      "She",
+      " is",
+      " try",
+      "ing",
+      " on",
+      " the",
+      " yel",
+      "low",
+      " dress."
+    ],
+    "exampleSentence": "She is trying on the yellow dress.",
+    "exampleTranslation": "Ela está provando o vestido amarelo."
+  },
+  {
+    "id": "to_wear_change_71",
+    "word": "We want to buy new clothes. I need a new pair of jeans and some T-shirts.",
+    "translation": "Nós queremos comprar roupas novas. Eu preciso de uma calça jeans nova e de algumas camisetas.",
+    "pronunciation": "/wi wɑnt tə baɪ nu kloʊðz. aɪ nid ə nu pɛr əv dʒinz ænd sʌm ˈtiˌʃɜrts./",
+    "portuguesePhonetic": "uí uónt tchu bai nu clôudz. ai nid a nu pér óv djins énd sâm tí-xãrts.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " buy",
+      " new",
+      " clothes.",
+      " I",
+      " need",
+      " a",
+      " new",
+      " pair",
+      " of",
+      " jeans",
+      " and",
+      " some",
+      " T-",
+      "shirts."
+    ],
+    "exampleSentence": "We want to buy new clothes. I need a new pair of jeans and some T-shirts.",
+    "exampleTranslation": "Nós queremos comprar roupas novas. Eu preciso de uma calça jeans nova e de algumas camisetas."
+  },
+  {
+    "id": "to_wear_change_72",
+    "word": "I need to buy a present for my father. I want to buy a watch.",
+    "translation": "Eu preciso comprar um presente para meu pai. Eu quero comprar um relógio.",
+    "pronunciation": "/aɪ nid tə baɪ ə ˈprɛzənt fɔr maɪ ˈfɑðər. aɪ wɑnt tə baɪ ə wɑtʃ./",
+    "portuguesePhonetic": "ai nid tchu bai a pré-zent fór mai fá-der. ai uónt tchu bai a uótch.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " buy",
+      " a",
+      " pres",
+      "ent",
+      " for",
+      " my",
+      " fa",
+      "ther.",
+      " I",
+      " want",
+      " to",
+      " buy",
+      " a",
+      " watch."
+    ],
+    "exampleSentence": "I need to buy a present for my father. I want to buy a watch.",
+    "exampleTranslation": "Eu preciso comprar um presente para meu pai. Eu quero comprar um relógio."
+  },
+  {
+    "id": "to_wear_change_73",
+    "word": "I have to go to the mall this afternoon. Do you need anything?",
+    "translation": "Eu tenho que ir ao shopping hoje à tarde. Você precisa de alguma coisa?",
+    "pronunciation": "/aɪ hæv tə ɡoʊ tə ðə mɔl ðɪs ˌæftərˈnun. du ju nid ˈɛniˌθɪŋ?/",
+    "portuguesePhonetic": "ai rév tchu gôu tchu dâ mól díz áf-ter-nun. du iu nid é-ni-thin?",
+    "syllables": [
+      "I",
+      " have",
+      " to",
+      " go",
+      " to",
+      " the",
+      " mall",
+      " this",
+      " af",
+      "ter",
+      "noon.",
+      " Do",
+      " you",
+      " need",
+      " an",
+      "y",
+      "thing?"
+    ],
+    "exampleSentence": "I have to go to the mall this afternoon. Do you need anything?",
+    "exampleTranslation": "Eu tenho que ir ao shopping hoje à tarde. Você precisa de alguma coisa?"
+  },
+  {
+    "id": "to_wear_change_74",
+    "word": "We are here waiting for you. Hurry up!",
+    "translation": "Nós estamos aqui esperando por você. Apresse-se!",
+    "pronunciation": "/wi ɑr hɪr ˈweɪtɪŋ fɔr ju. ˈhɜri ʌp!/",
+    "portuguesePhonetic": "uí ar rir uêi-tin fór iu. rã-ri âp!",
+    "syllables": [
+      "We",
+      " are",
+      " here",
+      " wai",
+      "ting",
+      " for",
+      " you.",
+      " Hur",
+      "ry",
+      " up!"
+    ],
+    "exampleSentence": "We are here waiting for you. Hurry up!",
+    "exampleTranslation": "Nós estamos aqui esperando por você. Apresse-se!"
+  },
+  {
+    "id": "to_wear_change_75",
+    "word": "She usually wears her favorite pair of sneakers.",
+    "translation": "Ela geralmente usa seu par favorito de tênis.",
+    "pronunciation": "/ʃi ˈjuʒuəli wɛrz hɜr ˈfeɪvərɪt pɛr əv ˈsnikərz./",
+    "portuguesePhonetic": "xi iú-ju-a-li uérz rãr fêi-vo-rit pér óv sní-kãrs.",
+    "syllables": [
+      "She",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " wears",
+      " her",
+      " fa",
+      "vor",
+      "ite",
+      " pair",
+      " of",
+      " snea",
+      "kers."
+    ],
+    "exampleSentence": "She usually wears her favorite pair of sneakers.",
+    "exampleTranslation": "Ela geralmente usa seu par favorito de tênis."
+  },
+  {
+    "id": "to_wear_change_76",
+    "word": "They are at the mall now. They are watching a funny movie.",
+    "translation": "Eles estão no shopping agora. Eles estão assistindo a um filme engraçado.",
+    "pronunciation": "/ðeɪ ɑr æt ðə mɔl naʊ. ðeɪ ɑr ˈwɑtʃɪŋ ə ˈfʌni ˈmuvi./",
+    "portuguesePhonetic": "dêi ar ét dâ mól náu. dêi ar uó-tchin a fâ-ni mú-vi.",
+    "syllables": [
+      "They",
+      " are",
+      " at",
+      " the",
+      " mall",
+      " now.",
+      " They",
+      " are",
+      " wat",
+      "ching",
+      " a",
+      " fun",
+      "ny",
+      " mo",
+      "vie."
+    ],
+    "exampleSentence": "They are at the mall now. They are watching a funny movie.",
+    "exampleTranslation": "Eles estão no shopping agora. Eles estão assistindo a um filme engraçado."
+  },
+  {
+    "id": "to_wear_change_77",
+    "word": "Taylor is changing his clothes to go out with his friends now.",
+    "translation": "Taylor está trocando de roupa para sair com seus amigos agora.",
+    "pronunciation": "/ˈteɪlər ɪz ˈtʃeɪndʒɪŋ hɪz kloʊðz tə ɡoʊ aʊt wɪð hɪz frɛndz naʊ./",
+    "portuguesePhonetic": "têi-lãr iz tchêin-djin riz clôudz tchu gôu aút uid riz frends náu.",
+    "syllables": [
+      "Tay",
+      "lor",
+      " is",
+      " chan",
+      "ging",
+      " his",
+      " clothes",
+      " to",
+      " go",
+      " out",
+      " with",
+      " his",
+      " friends",
+      " now."
+    ],
+    "exampleSentence": "Taylor is changing his clothes to go out with his friends now.",
+    "exampleTranslation": "Taylor está trocando de roupa para sair com seus amigos agora."
+  },
+  {
+    "id": "to_wear_change_78",
+    "word": "Look! He is wearing a beautiful new watch.",
+    "translation": "Olhe! Ele está usando um lindo relógio novo.",
+    "pronunciation": "/lʊk! hi ɪz ˈwɛrɪŋ ə ˈbjutəfəl nu wɑtʃ./",
+    "portuguesePhonetic": "luc! ri iz ué-rin a biú-ti-fou nu uótch.",
+    "syllables": [
+      "Look!",
+      " He",
+      " is",
+      " wea",
+      "ring",
+      " a",
+      " beau",
+      "ti",
+      "ful",
+      " new",
+      " watch."
+    ],
+    "exampleSentence": "Look! He is wearing a beautiful new watch.",
+    "exampleTranslation": "Olhe! Ele está usando um lindo relógio novo."
+  },
+  {
+    "id": "to_wear_change_79",
+    "word": "They are waiting for me at the restaurant. I'm late.",
+    "translation": "Eles estão me esperando no restaurante. Eu estou atrasado.",
+    "pronunciation": "/ðeɪ ɑr ˈweɪtɪŋ fɔr mi æt ðə ˈrɛstəˌrɑnt. aɪm leɪt./",
+    "portuguesePhonetic": "dêi ar uêi-tin fór mi ét dâ rés-to-rant. aim lêit.",
+    "syllables": [
+      "They",
+      " are",
+      " wai",
+      "ting",
+      " for",
+      " me",
+      " at",
+      " the",
+      " res",
+      "tau",
+      "rant.",
+      " I'm",
+      " late."
+    ],
+    "exampleSentence": "They are waiting for me at the restaurant. I'm late.",
+    "exampleTranslation": "Eles estão me esperando no restaurante. Eu estou atrasado."
+  },
+  {
+    "id": "to_wear_change_80",
+    "word": "She makes delicious cakes for her children every week.",
+    "translation": "Ela faz bolos deliciosos para seus filhos todas as semanas.",
+    "pronunciation": "/ʃi meɪks dɪˈlɪʃəs keɪks fɔr hɜr ˈtʃɪldrən ˈɛvri wik./",
+    "portuguesePhonetic": "xi mêics di-lí-xãs cêics fór rãr tchil-dren év-ri uíc.",
+    "syllables": [
+      "She",
+      " makes",
+      " de",
+      "li",
+      "cious",
+      " cakes",
+      " for",
+      " her",
+      " chil",
+      "dren",
+      " ev",
+      "er",
+      "y",
+      " week."
+    ],
+    "exampleSentence": "She makes delicious cakes for her children every week.",
+    "exampleTranslation": "Ela faz bolos deliciosos para seus filhos todas as semanas."
+  },
+  {
+    "id": "to_wear_change_81",
+    "word": "I am trying the blue shorts on now.",
+    "translation": "Eu estou experimentando o short azul agora.",
+    "pronunciation": "/aɪ æm ˈtraɪɪŋ ðə blu ʃɔrts ɑn naʊ./",
+    "portuguesePhonetic": "ai ém trái-in dâ blu xórts an náu.",
+    "syllables": [
+      "I",
+      " am",
+      " try",
+      "ing",
+      " the",
+      " blue",
+      " shorts",
+      " on",
+      " now."
+    ],
+    "exampleSentence": "I am trying the blue shorts on now.",
+    "exampleTranslation": "Eu estou experimentando o short azul agora."
+  },
+  {
+    "id": "to_wear_change_82",
+    "word": "suit",
+    "translation": "terno",
+    "pronunciation": "/sut/",
+    "portuguesePhonetic": "sut",
+    "syllables": [
+      "suit"
+    ],
+    "exampleSentence": "suit",
+    "exampleTranslation": "terno"
+  },
+  {
+    "id": "to_wear_change_83",
+    "word": "wear",
+    "translation": "usar / vestir",
+    "pronunciation": "/wɛr/",
+    "portuguesePhonetic": "uér",
+    "syllables": [
+      "wear"
+    ],
+    "exampleSentence": "wear",
+    "exampleTranslation": "usar / vestir"
+  },
+  {
+    "id": "to_wear_change_84",
+    "word": "try on",
+    "translation": "provar (roupa)",
+    "pronunciation": "/traɪ ɑn/",
+    "portuguesePhonetic": "trai an",
+    "syllables": [
+      "try",
+      " on"
+    ],
+    "exampleSentence": "try on",
+    "exampleTranslation": "provar (roupa)"
+  },
+  {
+    "id": "to_wear_change_85",
+    "word": "T-shirt",
+    "translation": "camiseta",
+    "pronunciation": "/ˈtiˌʃɜrt/",
+    "portuguesePhonetic": "ti-xãrt",
+    "syllables": [
+      "T-",
+      "shirt"
+    ],
+    "exampleSentence": "T-shirt",
+    "exampleTranslation": "camiseta"
+  },
+  {
+    "id": "to_wear_change_86",
+    "word": "jacket",
+    "translation": "jaqueta",
+    "pronunciation": "/ˈdʒækɪt/",
+    "portuguesePhonetic": "djé-kit",
+    "syllables": [
+      "jack",
+      "et"
+    ],
+    "exampleSentence": "jacket",
+    "exampleTranslation": "jaqueta"
+  },
+  {
+    "id": "to_wear_change_87",
+    "word": "size",
+    "translation": "tamanho",
+    "pronunciation": "/saɪz/",
+    "portuguesePhonetic": "saiz",
+    "syllables": [
+      "size"
+    ],
+    "exampleSentence": "size",
+    "exampleTranslation": "tamanho"
+  },
+  {
+    "id": "to_wear_change_88",
+    "word": "medium",
+    "translation": "médio",
+    "pronunciation": "/ˈmidiəm/",
+    "portuguesePhonetic": "mí-di-ãm",
+    "syllables": [
+      "me",
+      "di",
+      "um"
+    ],
+    "exampleSentence": "medium",
+    "exampleTranslation": "médio"
+  },
+  {
+    "id": "to_wear_change_89",
+    "word": "skirt",
+    "translation": "saia",
+    "pronunciation": "/skɜrt/",
+    "portuguesePhonetic": "scãrt",
+    "syllables": [
+      "skirt"
+    ],
+    "exampleSentence": "skirt",
+    "exampleTranslation": "saia"
+  },
+  {
+    "id": "to_wear_change_90",
+    "word": "shirt",
+    "translation": "camisa",
+    "pronunciation": "/ʃɜrt/",
+    "portuguesePhonetic": "xãrt",
+    "syllables": [
+      "shirt"
+    ],
+    "exampleSentence": "shirt",
+    "exampleTranslation": "camisa"
+  },
+  {
+    "id": "to_wear_change_91",
+    "word": "dress",
+    "translation": "vestido",
+    "pronunciation": "/drɛs/",
+    "portuguesePhonetic": "drés",
+    "syllables": [
+      "dress"
+    ],
+    "exampleSentence": "dress",
+    "exampleTranslation": "vestido"
+  },
+  {
+    "id": "to_wear_change_92",
+    "word": "jeans",
+    "translation": "calça jeans",
+    "pronunciation": "/dʒinz/",
+    "portuguesePhonetic": "djins",
+    "syllables": [
+      "jeans"
+    ],
+    "exampleSentence": "jeans",
+    "exampleTranslation": "calça jeans"
+  },
+  {
+    "id": "to_wear_change_93",
+    "word": "clothes",
+    "translation": "roupas",
+    "pronunciation": "/kloʊðz/",
+    "portuguesePhonetic": "clôudz",
+    "syllables": [
+      "clothes"
+    ],
+    "exampleSentence": "clothes",
+    "exampleTranslation": "roupas"
+  },
+  {
+    "id": "to_wear_change_94",
+    "word": "present",
+    "translation": "presente",
+    "pronunciation": "/ˈprɛzənt/",
+    "portuguesePhonetic": "pré-zent",
+    "syllables": [
+      "pres",
+      "ent"
+    ],
+    "exampleSentence": "present",
+    "exampleTranslation": "presente"
+  },
+  {
+    "id": "to_wear_change_95",
+    "word": "watch",
+    "translation": "relógio",
+    "pronunciation": "/wɑtʃ/",
+    "portuguesePhonetic": "uótch",
+    "syllables": [
+      "watch"
+    ],
+    "exampleSentence": "watch",
+    "exampleTranslation": "relógio"
+  },
+  {
+    "id": "to_wear_change_96",
+    "word": "mall",
+    "translation": "shopping",
+    "pronunciation": "/mɔl/",
+    "portuguesePhonetic": "mól",
+    "syllables": [
+      "mall"
+    ],
+    "exampleSentence": "mall",
+    "exampleTranslation": "shopping"
+  },
+  {
+    "id": "to_wear_change_97",
+    "word": "need",
+    "translation": "precisar",
+    "pronunciation": "/nid/",
+    "portuguesePhonetic": "nid",
+    "syllables": [
+      "need"
+    ],
+    "exampleSentence": "need",
+    "exampleTranslation": "precisar"
+  },
+  {
+    "id": "to_wear_change_98",
+    "word": "wait for",
+    "translation": "esperar por",
+    "pronunciation": "/weɪt fɔr/",
+    "portuguesePhonetic": "uêit fór",
+    "syllables": [
+      "wait",
+      " for"
+    ],
+    "exampleSentence": "wait for",
+    "exampleTranslation": "esperar por"
+  },
+  {
+    "id": "to_wear_change_99",
+    "word": "hurry up",
+    "translation": "apresse-se",
+    "pronunciation": "/ˈhɜri ʌp/",
+    "portuguesePhonetic": "rã-ri âp",
+    "syllables": [
+      "hur",
+      "ry",
+      " up"
+    ],
+    "exampleSentence": "hurry up",
+    "exampleTranslation": "apresse-se"
+  },
+  {
+    "id": "to_wear_change_100",
+    "word": "sneakers",
+    "translation": "tênis",
+    "pronunciation": "/ˈsnikərz/",
+    "portuguesePhonetic": "sní-kãrs",
+    "syllables": [
+      "snea",
+      "kers"
+    ],
+    "exampleSentence": "sneakers",
+    "exampleTranslation": "tênis"
+  },
+  {
+    "id": "to_wear_change_101",
+    "word": "funny movie",
+    "translation": "filme engraçado",
+    "pronunciation": "/ˈfʌni ˈmuvi/",
+    "portuguesePhonetic": "fâ-ni mú-vi",
+    "syllables": [
+      "fun",
+      "ny",
+      " mo",
+      "vie"
+    ],
+    "exampleSentence": "funny movie",
+    "exampleTranslation": "filme engraçado"
+  },
+  {
+    "id": "to_wear_change_102",
+    "word": "change clothes",
+    "translation": "trocar de roupa",
+    "pronunciation": "/tʃeɪndʒ kloʊðz/",
+    "portuguesePhonetic": "tchêindj clôudz",
+    "syllables": [
+      "change",
+      " clothes"
+    ],
+    "exampleSentence": "change clothes",
+    "exampleTranslation": "trocar de roupa"
+  },
+  {
+    "id": "to_wear_change_103",
+    "word": "restaurant",
+    "translation": "restaurante",
+    "pronunciation": "/ˈrɛstəˌrɑnt/",
+    "portuguesePhonetic": "rés-to-rant",
+    "syllables": [
+      "res",
+      "tau",
+      "rant"
+    ],
+    "exampleSentence": "restaurant",
+    "exampleTranslation": "restaurante"
+  },
+  {
+    "id": "to_wear_change_104",
+    "word": "late",
+    "translation": "atrasado",
+    "pronunciation": "/leɪt/",
+    "portuguesePhonetic": "lêit",
+    "syllables": [
+      "late"
+    ],
+    "exampleSentence": "late",
+    "exampleTranslation": "atrasado"
+  },
+  {
+    "id": "to_wear_change_105",
+    "word": "cake",
+    "translation": "bolo",
+    "pronunciation": "/keɪk/",
+    "portuguesePhonetic": "cêic",
+    "syllables": [
+      "cake"
+    ],
+    "exampleSentence": "cake",
+    "exampleTranslation": "bolo"
+  },
+  {
+    "id": "to_wear_change_106",
+    "word": "children",
+    "translation": "crianças / filhos",
+    "pronunciation": "/ˈtʃɪldrən/",
+    "portuguesePhonetic": "tchil-dren",
+    "syllables": [
+      "chil",
+      "dren"
+    ],
+    "exampleSentence": "children",
+    "exampleTranslation": "crianças / filhos"
+  },
+  {
+    "id": "to_wear_change_107",
+    "word": "shorts",
+    "translation": "short",
+    "pronunciation": "/ʃɔrts/",
+    "portuguesePhonetic": "xórts",
+    "syllables": [
+      "shorts"
+    ],
+    "exampleSentence": "shorts",
+    "exampleTranslation": "short"
+  },
+  {
+    "id": "to_wear_change_108",
+    "word": "favorite",
+    "translation": "favorito",
+    "pronunciation": "/ˈfeɪvərɪt/",
+    "portuguesePhonetic": "fêi-vo-rit",
+    "syllables": [
+      "fa",
+      "vor",
+      "ite"
+    ],
+    "exampleSentence": "favorite",
+    "exampleTranslation": "favorito"
+  },
+  {
+    "id": "to_wear_change_109",
+    "word": "beautiful",
+    "translation": "bonito / lindo",
+    "pronunciation": "/ˈbjutəfəl/",
+    "portuguesePhonetic": "biú-ti-fou",
+    "syllables": [
+      "beau",
+      "ti",
+      "ful"
+    ],
+    "exampleSentence": "beautiful",
+    "exampleTranslation": "bonito / lindo"
+  },
+  {
+    "id": "to_wear_change_110",
+    "word": "every day",
+    "translation": "todos os dias",
+    "pronunciation": "/ˈɛvri deɪ/",
+    "portuguesePhonetic": "év-ri dêi",
+    "syllables": [
+      "ev",
+      "er",
+      "y",
+      " day"
+    ],
+    "exampleSentence": "every day",
+    "exampleTranslation": "todos os dias"
+  },
+  {
+    "id": "to_wear_change_111",
+    "word": "this afternoon",
+    "translation": "hoje à tarde",
+    "pronunciation": "/ðɪs ˌæftərˈnun/",
+    "portuguesePhonetic": "díz áf-ter-nun",
+    "syllables": [
+      "this",
+      " af",
+      "ter",
+      "noon"
+    ],
+    "exampleSentence": "this afternoon",
+    "exampleTranslation": "hoje à tarde"
+  },
+  {
+    "id": "to_wear_change_112",
+    "word": "right now / now",
+    "translation": "agora",
+    "pronunciation": "/raɪt naʊ / naʊ/",
+    "portuguesePhonetic": "ráit náu / náu",
+    "syllables": [
+      "right",
+      " now",
+      " /",
+      " now"
+    ],
+    "exampleSentence": "right now / now",
+    "exampleTranslation": "agora"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_1",
+    "word": "este / esta",
+    "translation": "este / esta (perto de mim)",
+    "pronunciation": "/ˈeste · ˈesta/",
+    "portuguesePhonetic": "[éste · ésta]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_2",
+    "word": "ese / esa",
+    "translation": "esse / essa (perto de você)",
+    "pronunciation": "/ˈese · ˈesa/",
+    "portuguesePhonetic": "[ése · ésa]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_3",
+    "word": "estos / estas",
+    "translation": "estes / estas",
+    "pronunciation": "/ˈestos · ˈestas/",
+    "portuguesePhonetic": "[éstos · éstas]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_4",
+    "word": "esos / esas",
+    "translation": "esses / essas",
+    "pronunciation": "/ˈesos · ˈesas/",
+    "portuguesePhonetic": "[ésos · ésas]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_5",
+    "word": "aquí",
+    "translation": "aqui",
+    "pronunciation": "/aˈki/",
+    "portuguesePhonetic": "[akí]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_6",
+    "word": "allí",
+    "translation": "ali / lá",
+    "pronunciation": "/aˈʎi/",
+    "portuguesePhonetic": "[alhí]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_7",
+    "word": "un libro",
+    "translation": "um livro",
+    "pronunciation": "/un ˈliβɾo/",
+    "portuguesePhonetic": "[un líbro]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_8",
+    "word": "libros",
+    "translation": "livros",
+    "pronunciation": "/ˈliβɾos/",
+    "portuguesePhonetic": "[líbros]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_9",
+    "word": "Esto es un libro.",
+    "translation": "Isto é um livro.",
+    "pronunciation": "/ˈesto es un ˈliβɾo/",
+    "portuguesePhonetic": "[ésto és un líbro]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_10",
+    "word": "Eso es un libro.",
+    "translation": "Isso é um livro.",
+    "pronunciation": "/ˈeso es un ˈliβɾo/",
+    "portuguesePhonetic": "[éso és un líbro]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_11",
+    "word": "Estos son libros.",
+    "translation": "Estes são livros.",
+    "pronunciation": "/ˈestos son ˈliβɾos/",
+    "portuguesePhonetic": "[éstos son líbros]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_12",
+    "word": "Esos son libros.",
+    "translation": "Esses são livros.",
+    "pronunciation": "/ˈesos son ˈliβɾos/",
+    "portuguesePhonetic": "[ésos son líbros]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_13",
+    "word": "Esto está aquí.",
+    "translation": "Isto está aqui.",
+    "pronunciation": "/ˈesto esˈta aˈki/",
+    "portuguesePhonetic": "[ésto está akí]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_14",
+    "word": "Eso está allí.",
+    "translation": "Isso está lá.",
+    "pronunciation": "/ˈeso esˈta aˈʎi/",
+    "portuguesePhonetic": "[éso está alhí]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_15",
+    "word": "este libro",
+    "translation": "este monstro",
+    "pronunciation": "/ˈeste ˈliβɾo/",
+    "portuguesePhonetic": "[éste líbro]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_16",
+    "word": "ese libro",
+    "translation": "esse monstro",
+    "pronunciation": "/ˈese ˈliβɾo/",
+    "portuguesePhonetic": "[ése líbro]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_17",
+    "word": "¿Es esto un libro?",
+    "translation": "Isto é um livro?",
+    "pronunciation": "/es ˈesto un ˈliβɾo/",
+    "portuguesePhonetic": "[és ésto un líbro]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_18",
+    "word": "¿Es eso un libro?",
+    "translation": "Isso é um livro?",
+    "pronunciation": "/es ˈeso un ˈliβɾo/",
+    "portuguesePhonetic": "[és éso un líbro]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_19",
+    "word": "¿Son estos libros?",
+    "translation": "Estes são livros?",
+    "pronunciation": "/son ˈestos ˈliβɾos/",
+    "portuguesePhonetic": "[son éstos líbros]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_20",
+    "word": "¿Son esos libros?",
+    "translation": "Esses são livros?",
+    "pronunciation": "/son ˈesos ˈliβɾos/",
+    "portuguesePhonetic": "[son ésos líbros]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_21",
+    "word": "Esto no es un libro.",
+    "translation": "Isto não é um livro.",
+    "pronunciation": "/ˈesto no es un ˈliβɾo/",
+    "portuguesePhonetic": "[ésto no és un líbro]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_22",
+    "word": "Eso no es un libro.",
+    "translation": "Isso não é um livro.",
+    "pronunciation": "/ˈeso no es un ˈliβɾo/",
+    "portuguesePhonetic": "[éso no és un líbro]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_23",
+    "word": "Estos no son libros.",
+    "translation": "Estes não são livros.",
+    "pronunciation": "/ˈestos no son ˈliβɾos/",
+    "portuguesePhonetic": "[éstos no son líbros]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_24",
+    "word": "Esos no son libros.",
+    "translation": "Esses não são livros.",
+    "pronunciation": "/ˈesos no son ˈliβɾos/",
+    "portuguesePhonetic": "[ésos no son líbros]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_25",
+    "word": "¿Qué es esto?",
+    "translation": "O que é isto?",
+    "pronunciation": "/ke es ˈesto/",
+    "portuguesePhonetic": "[ke és ésto]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_26",
+    "word": "Esta manzana está fresca.",
+    "translation": "Esta maçã está fresca.",
+    "pronunciation": "/ˈesta manˈθana esˈta ˈfɾeska/",
+    "portuguesePhonetic": "[ésta manthána está fréska]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_27",
+    "word": "Esa manzana está vieja.",
+    "translation": "Essa maçã está velha.",
+    "pronunciation": "/ˈesa manˈθana esˈta ˈbjexa/",
+    "portuguesePhonetic": "[ésa manthána está biérra]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_28",
+    "word": "Estos tomates están rojos.",
+    "translation": "Estes tomates estão vermelhos.",
+    "pronunciation": "/ˈestos toˈmates esˈtan ˈroxos/",
+    "portuguesePhonetic": "[éstos tomátes están rórros]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_29",
+    "word": "Esos plátanos están verdes.",
+    "translation": "Aquelas bananas estão verdes.",
+    "pronunciation": "/ˈesos ˈplatanos esˈtan ˈbeɾðes/",
+    "portuguesePhonetic": "[ésos plátanos están bérdes]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_30",
+    "word": "¿Cuánto cuesta esto?",
+    "translation": "Quanto custa isto?",
+    "pronunciation": "/ˈkwanto ˈkwesta ˈesto/",
+    "portuguesePhonetic": "[kuánto kuésta ésto]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_31",
+    "word": "Me gusta esta camisa.",
+    "translation": "Eu gosto desta camisa.",
+    "pronunciation": "/me ˈɡusta ˈesta kaˈmisa/",
+    "portuguesePhonetic": "[me gústa ésta kamísa]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_32",
+    "word": "No me gusta esa chaqueta.",
+    "translation": "Eu não gosto dessa jaqueta.",
+    "pronunciation": "/no me ˈɡusta ˈesa tʃaˈketa/",
+    "portuguesePhonetic": "[no me gústa ésa tchakéta]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_33",
+    "word": "Estos zapatos son bonitos.",
+    "translation": "Estes sapatos são bonitos.",
+    "pronunciation": "/ˈestos θaˈpatos son boˈnitos/",
+    "portuguesePhonetic": "[éstos thapátos son bonítos]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_34",
+    "word": "Esos pantalones son demasiado grandes.",
+    "translation": "Aquelas calças são grandes demais.",
+    "pronunciation": "/ˈesos pantaˈlones son demaˈsjaðo ˈɡɾandes/",
+    "portuguesePhonetic": "[ésos pantalónes son demasiádo grándes]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_35",
+    "word": "¿Puedo probarme esto?",
+    "translation": "Posso experimentar isto?",
+    "pronunciation": "/ˈpweðo pɾoˈβaɾme ˈesto/",
+    "portuguesePhonetic": "[puédo probárme ésto]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_36",
+    "word": "Esta sopa está caliente.",
+    "translation": "Esta sopa está quente.",
+    "pronunciation": "/ˈesta ˈsopa esˈta kaˈljente/",
+    "portuguesePhonetic": "[ésta sópa está kaliénte]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_37",
+    "word": "Esa mesa está libre.",
+    "translation": "Aquela mesa está livre.",
+    "pronunciation": "/ˈesa ˈmesa esˈta ˈliβɾe/",
+    "portuguesePhonetic": "[ésa mésa está líbre]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_38",
+    "word": "Estos tenedores están sucios.",
+    "translation": "Estes garfos estão sujos.",
+    "pronunciation": "/ˈestos teneˈðoɾes esˈtan ˈsuθjos/",
+    "portuguesePhonetic": "[éstos tenedóres están súthios]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_39",
+    "word": "Esas bebidas son mías.",
+    "translation": "Aquelas bebidas são minhas.",
+    "pronunciation": "/ˈesas beˈβiðas son ˈmias/",
+    "portuguesePhonetic": "[ésas bebídas son mías]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_40",
+    "word": "Quiero esto, por favor.",
+    "translation": "Eu quiero isto, por favor.",
+    "pronunciation": "/ˈkjeɾo ˈesto poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[kiéro ésto por fabór]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_41",
+    "word": "Esta habitación está limpia.",
+    "translation": "Este quarto está limpo.",
+    "pronunciation": "/ˈesta aβitaˈθjon esˈta ˈlimpja/",
+    "portuguesePhonetic": "[ésta abitathión está límpia]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_42",
+    "word": "Esa ventana está abierta.",
+    "translation": "Aquela janela está abierta.",
+    "pronunciation": "/ˈesa benˈtana esˈta aˈβjeɾta/",
+    "portuguesePhonetic": "[ésa bentána está abiérta]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_43",
+    "word": "Estas toallas están mojadas.",
+    "translation": "Estas toalhas estão molhadas.",
+    "pronunciation": "/ˈestas toˈaʎas esˈtan moˈxaðas/",
+    "portuguesePhonetic": "[éstas toálhas están morrádas]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_44",
+    "word": "Esos platos están limpios.",
+    "translation": "Aqueles pratos estão limpos.",
+    "pronunciation": "/ˈesos ˈplatos esˈtan ˈlimpjos/",
+    "portuguesePhonetic": "[ésos plátos están límpios]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_45",
+    "word": "Este libro es interesante.",
+    "translation": "Este livro é interessante.",
+    "pronunciation": "/ˈeste ˈliβɾo es inteɾeˈsante/",
+    "portuguesePhonetic": "[éste líbro és interesánte]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_46",
+    "word": "Esa respuesta es correcta.",
+    "translation": "Aquela resposta está correta.",
+    "pronunciation": "/ˈesa resˈpwesta es koˈrekta/",
+    "portuguesePhonetic": "[ésa respuésta és korrékta]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_47",
+    "word": "Estos apuntes son útiles.",
+    "translation": "Estas anotações são úteis.",
+    "pronunciation": "/ˈestos aˈpuntes son ˈutiles/",
+    "portuguesePhonetic": "[éstos apúntes son útiles]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_48",
+    "word": "Este sitio es agradable.",
+    "translation": "Este lugar é legal.",
+    "pronunciation": "/ˈeste ˈsitjo es aɣɾaˈðaβle/",
+    "portuguesePhonetic": "[éste sítio és agradáble]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_49",
+    "word": "Esa canción es genial.",
+    "translation": "Aquela música é ótima.",
+    "pronunciation": "/ˈesa kanˈθjon es xeˈnjal/",
+    "portuguesePhonetic": "[ésa kanthión és rrenniál]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_50",
+    "word": "Esas personas son mis amigos.",
+    "translation": "Aquelas pessoas são meus amigos.",
+    "pronunciation": "/ˈesas peɾˈsonas son mis aˈmiɣos/",
+    "portuguesePhonetic": "[ésas persónas son mis amígos]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_51",
+    "word": "Esta es mi casa.",
+    "translation": "Esta é minha casa.",
+    "pronunciation": "/ˈesta es mi ˈkasa/",
+    "portuguesePhonetic": "[ésta és mi kása]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_52",
+    "word": "Ese es tu coche.",
+    "translation": "Esse é seu carro.",
+    "pronunciation": "/ˈese es tu ˈkotʃe/",
+    "portuguesePhonetic": "[ése és tu kótche]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_53",
+    "word": "Estas son mis llaves.",
+    "translation": "Estas são minhas chaves.",
+    "pronunciation": "/ˈestas son mis ˈʎaβes/",
+    "portuguesePhonetic": "[éstas son mis lhábes]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_54",
+    "word": "Esos son sus libros.",
+    "translation": "Aqueles são os livros dela.",
+    "pronunciation": "/ˈesos son sus ˈliβɾos/",
+    "portuguesePhonetic": "[ésos son sus líbros]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_55",
+    "word": "Esta bolsa pesa mucho.",
+    "translation": "Esta bolsa está pesada.",
+    "pronunciation": "/ˈesta ˈbolsa ˈpesa ˈmutʃo/",
+    "portuguesePhonetic": "[ésta bólsa pésa mútcho]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_56",
+    "word": "Esa película fue aburrida.",
+    "translation": "Aquele filme foi chato.",
+    "pronunciation": "/ˈesa peˈlikula fwe aβuˈriða/",
+    "portuguesePhonetic": "[ésa pelíkula fué aburrída]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_57",
+    "word": "¿De quién es este móvil?",
+    "translation": "De quem é este celular?",
+    "pronunciation": "/de kjen es ˈeste ˈmoβil/",
+    "portuguesePhonetic": "[de kién és éste móbil]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_58",
+    "word": "No quiero esos.",
+    "translation": "Eu não quero aqueles.",
+    "pronunciation": "/no ˈkjeɾo ˈesos/",
+    "portuguesePhonetic": "[no kiéro ésos]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_59",
+    "word": "¿Está ocupado este asiento?",
+    "translation": "Este assento está ocupado?",
+    "pronunciation": "/esˈta okuˈpaðo ˈeste aˈsjento/",
+    "portuguesePhonetic": "[está okupádo éste asiénto]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_60",
+    "word": "¿Son tuyos estos zapatos?",
+    "translation": "Estes sapatos são seus?",
+    "pronunciation": "/son ˈtuʝos ˈestos θaˈpatos/",
+    "portuguesePhonetic": "[son túios éstos thapátos]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_61",
+    "word": "Ese no es mi abrigo.",
+    "translation": "Aquele não é meu casaco.",
+    "pronunciation": "/ˈese no es mi aˈβɾiɣo/",
+    "portuguesePhonetic": "[ése no és mi abrígo]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_62",
+    "word": "¿Por qué están aquí esas cajas?",
+    "translation": "Por que aquelas caixas estão aqui?",
+    "pronunciation": "/poɾ ke esˈtan aˈki ˈesas ˈkaxas/",
+    "portuguesePhonetic": "[por ké están akí ésas kárras]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_63",
+    "word": "Me gusta este porque es más barato.",
+    "translation": "Gosto deste porque é mais barato.",
+    "pronunciation": "/me ˈɡusta ˈeste ˈpoɾke es mas baˈɾato/",
+    "portuguesePhonetic": "[me gústa éste pórke és mas baráto]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_64",
+    "word": "Ese fue el mejor día de mi vida.",
+    "translation": "Aquele foi o melhor dia da minha vida.",
+    "pronunciation": "/ˈese fwe el meˈxoɾ ˈdia de mi ˈβiða/",
+    "portuguesePhonetic": "[ése fué el merrór día de mi bída]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_65",
+    "word": "Estas son las fotos que hice ayer.",
+    "translation": "Estas são as fotos que tirei ontem.",
+    "pronunciation": "/ˈestas son las ˈfotos ke ˈiθe aˈʝeɾ/",
+    "portuguesePhonetic": "[éstas son las fótos ke íthe aiér]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_66",
+    "word": "Esas eran las reglas cuando era niño.",
+    "translation": "Aquelas eram as regras quando eu era criança.",
+    "pronunciation": "/ˈesas ˈeɾan las ˈreɣlas ˈkwando ˈeɾa ˈniɲo/",
+    "portuguesePhonetic": "[ésas éran las réglas kuándo éra nínho]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_67",
+    "word": "Me llevo este, pero ese no.",
+    "translation": "Vou levar este, mas aquele não.",
+    "pronunciation": "/me ˈʎeβo ˈeste ˈpeɾo ˈese no/",
+    "portuguesePhonetic": "[me lhébo éste péro ése no]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_68",
+    "word": "Esta es la casa donde crecí.",
+    "translation": "Esta é a casa onde cresci.",
+    "pronunciation": "/ˈesta es la ˈkasa ˈdonde kɾeˈθi/",
+    "portuguesePhonetic": "[ésta és la kása dônde krethí]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_69",
+    "word": "Ese es el hombre que me ayudó.",
+    "translation": "Aquele é o homem que me ajudou.",
+    "pronunciation": "/ˈese es el ˈombɾe ke me aʝuˈðo/",
+    "portuguesePhonetic": "[ése és el ômbre ke me aiudó]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_70",
+    "word": "Estos son los libros que estoy leyendo ahora.",
+    "translation": "Estes são os livros que estou lendo agora.",
+    "pronunciation": "/ˈestos son los ˈliβɾos ke esˈtoi leˈʝendo aˈoɾa/",
+    "portuguesePhonetic": "[éstos son los líbros ke estôi leiéndo aóra]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_71",
+    "word": "Esas son las personas que conocimos cuando viajamos.",
+    "translation": "Aquelas são as pessoas que conhecemos quando viajamos.",
+    "pronunciation": "/ˈesas son las peɾˈsonas ke konoˈθimos ˈkwando bjaˈxamos/",
+    "portuguesePhonetic": "[ésas son las persónas ke konothímos kuándo biarrámos]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_72",
+    "word": "Prefiero este color porque es más vivo que ese.",
+    "translation": "Prefiro esta cor porque é mais viva que aquela.",
+    "pronunciation": "/pɾeˈfjeɾo ˈeste koˈloɾ ˈpoɾke es mas ˈbiβo ke ˈese/",
+    "portuguesePhonetic": "[prefiéro éste kolór pórke és mas bíbo ke ése]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_73",
+    "word": "Esto no es lo que pedí, pero no pasa nada.",
+    "translation": "Isto não é o que pedi, mas tudo bem.",
+    "pronunciation": "/ˈesto no es lo ke peˈði ˈpeɾo no ˈpasa ˈnaða/",
+    "portuguesePhonetic": "[ésto no és lo ke pedí péro no pása náda]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_74",
+    "word": "¿Son estas las llaves que buscabas?",
+    "translation": "Estas são as chaves que você procurava?",
+    "pronunciation": "/son ˈestas las ˈʎaβes ke busˈkaβas/",
+    "portuguesePhonetic": "[son éstas las lhábes ke buskábas]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_75",
+    "word": "Aunque esos son más baratos, creo que estos son mejores.",
+    "translation": "Embora aqueles sejam mais baratos, acho que estes são melhores.",
+    "pronunciation": "/ˈawŋke ˈesos son mas baˈɾatos ˈkɾeo ke ˈestos son meˈxoɾes/",
+    "portuguesePhonetic": "[áunke ésos son mas barátos kréo ke éstos son merróres]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_76",
+    "word": "«¿Qué es esto?» / «Es un libro.»",
+    "translation": "\"O que é isto?\" / \"É um livro.\"",
+    "pronunciation": "/ke es ˈesto · es un ˈliβɾo/",
+    "portuguesePhonetic": "[ke és ésto · és un líbro]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_77",
+    "word": "«¿Es ese tu coche?» / «Sí, lo es.»",
+    "translation": "\"Aquele é seu carro?\" / \"Sim, é.\"",
+    "pronunciation": "/es ˈese tu ˈkotʃe · si lo es/",
+    "portuguesePhonetic": "[és ése tu kótche · sí lo és]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_78",
+    "word": "«¿Son estas tus llaves?» / «No, no lo son.»",
+    "translation": "\"Estas são suas chaves?\" / \"Não, não são.\"",
+    "pronunciation": "/son ˈestas tus ˈʎaβes · no no lo son/",
+    "portuguesePhonetic": "[son éstas tus lhábes · no no lo son]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_79",
+    "word": "«¿De quién son esos libros?» / «Son míos.»",
+    "translation": "\"De quem são aqueles livros?\" / \"São meus.\"",
+    "pronunciation": "/de kjen son ˈesos ˈliβɾos · son ˈmios/",
+    "portuguesePhonetic": "[de kién son ésos líbros · son míos]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_80",
+    "word": "«¿Te gusta esto?» / «Sí, me encanta.»",
+    "translation": "\"Você gosta disto?\" / \"Sim, eu adoro.\"",
+    "pronunciation": "/te ˈɡusta ˈesto · si me eŋˈkanta/",
+    "portuguesePhonetic": "[te gústa ésto · sí me enkánta]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_81",
+    "word": "«¿Está libre este asiento?» / «No, está ocupado.»",
+    "translation": "\"Este assento está livre?\" / \"Não, está ocupado.\"",
+    "pronunciation": "/esˈta ˈliβɾe ˈeste aˈsjento · no esˈta okuˈpaðo/",
+    "portuguesePhonetic": "[está líbre éste asiénto · no está okupádo]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_82",
+    "word": "«¿Cuánto cuesta eso?» / «Cuesta diez euros.»",
+    "translation": "\"Quanto custa aquilo?\" / \"Custa dez euros.\"",
+    "pronunciation": "/ˈkwanto ˈkwesta ˈeso · ˈkwesta djeθ ˈewɾos/",
+    "portuguesePhonetic": "[kuánto kuésta éso · kuésta diéth éuros]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_83",
+    "word": "«¿Puedo llevarme estos?» / «Claro, llévatelos.»",
+    "translation": "\"Posso ficar com estes?\" / \"Claro, pode levar.\"",
+    "pronunciation": "/ˈpweðo ʎeˈβaɾme ˈestos · ˈklaɾo ˈʎeβatelos/",
+    "portuguesePhonetic": "[puédo lhebárme éstos · kláro lhébatelos]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_84",
+    "word": "«¿Son esos tus amigos?» / «Sí, lo son.»",
+    "translation": "\"Aqueles são seus amigos?\" / \"Sim, são.\"",
+    "pronunciation": "/son ˈesos tus aˈmiɣos · si lo son/",
+    "portuguesePhonetic": "[son ésos tus amígos · sí lo son]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_85",
+    "word": "«¿Qué es ese ruido?» / «No lo sé.»",
+    "translation": "\"Que barulho é esse?\" / \"Não sei.\"",
+    "pronunciation": "/ke es ˈese ˈrwiðo · no lo se/",
+    "portuguesePhonetic": "[ke és ése ruído · no lo sé]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_86",
+    "word": "«¿Es este el camino correcto?» / «No, es por ahí.»",
+    "translation": "\"É por aqui?\" / \"Não, é por ali.\"",
+    "pronunciation": "/es ˈeste el kaˈmino koˈrekto · no es poɾ aˈi/",
+    "portuguesePhonetic": "[és éste el kamíno korrékto · no és por aí]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_87",
+    "word": "«¿Quieres este o ese?» / «Este, por favor.»",
+    "translation": "\"Você quer este ou esse?\" / \"Este, por favor.\"",
+    "pronunciation": "/ˈkjeɾes ˈeste o ˈese · ˈeste poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[kiéres éste o ése · éste por fabór]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_88",
+    "word": "«¿Están de oferta estos?» / «Sí, lo están.»",
+    "translation": "\"Estes estão em promoção?\" / \"Sim, estão.\"",
+    "pronunciation": "/esˈtan de oˈfeɾta ˈestos · si lo esˈtan/",
+    "portuguesePhonetic": "[están de oférta éstos · sí lo están]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_89",
+    "word": "«¿De quién es este móvil?» / «No es mío.»",
+    "translation": "\"De quem é este celular?\" / \"Não é meu.\"",
+    "pronunciation": "/de kjen es ˈeste ˈmoβil · no es ˈmio/",
+    "portuguesePhonetic": "[de kién és éste móbil · no és mío]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_90",
+    "word": "«¿Está ocupado ese asiento?» / «No, está libre.»",
+    "translation": "\"Aquele assento está ocupado?\" / \"Não, está livre.\"",
+    "pronunciation": "/esˈta okuˈpaðo ˈese aˈsjento · no esˈta ˈliβɾe/",
+    "portuguesePhonetic": "[está okupádo ése asiénto · no está líbre]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_91",
+    "word": "«¿Vienen estos en azul?» / «Sí, sí vienen.»",
+    "translation": "\"Estes têm na cor azul?\" / \"Sim, têm.\"",
+    "pronunciation": "/ˈbjenen ˈestos en aˈθul · si si ˈbjenen/",
+    "portuguesePhonetic": "[biénen éstos en athúl · sí sí biénen]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_92",
+    "word": "«¿Es esta tu primera vez aquí?» / «Sí, lo es.»",
+    "translation": "\"Esta é sua primeira vez aqui?\" / \"Sim, é.\"",
+    "pronunciation": "/es ˈesta tu pɾiˈmeɾa beθ aˈki · si lo es/",
+    "portuguesePhonetic": "[és ésta tu priméra béth akí · sí lo és]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_93",
+    "word": "«¿Son esas nubes?» / «Sí, puede que llueva.»",
+    "translation": "\"Aquilo são nuvens?\" / \"Sim, pode chover.\"",
+    "pronunciation": "/son ˈesas ˈnuβes · si ˈpweðe ke ˈʎweβa/",
+    "portuguesePhonetic": "[son ésas núbes · sí puéde ke lhuéba]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_94",
+    "word": "«¿Qué son estos?» / «Son mis apuntes.»",
+    "translation": "\"O que são estes?\" / \"São minhas anotações.\"",
+    "pronunciation": "/ke son ˈestos · son mis aˈpuntes/",
+    "portuguesePhonetic": "[ke son éstos · son mis apúntes]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_95",
+    "word": "«¿Es esto demasiado caro?» / «Un poco, sí.»",
+    "translation": "\"Isto é caro demais?\" / \"Um pouco, sim.\"",
+    "pronunciation": "/es ˈesto demaˈsjaðo ˈkaɾo · un ˈpoko si/",
+    "portuguesePhonetic": "[és ésto demasiádo káro · un póko sí]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_96",
+    "word": "«¿Son nuestros estos asientos?» / «No, son esos.»",
+    "translation": "\"Estes assentos são nossos?\" / \"Não, são aqueles.\"",
+    "pronunciation": "/son ˈnwestɾos ˈestos aˈsjentos · no son ˈesos/",
+    "portuguesePhonetic": "[son nuéstros éstos asiéntos · no son ésos]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_97",
+    "word": "«¿Hiciste esto?» / «Sí, lo hice.»",
+    "translation": "\"Você fez isto?\" / \"Sim, fiz.\"",
+    "pronunciation": "/iˈθiste ˈesto · si lo ˈiθe/",
+    "portuguesePhonetic": "[ithíste ésto · sí lo íthe]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_98",
+    "word": "«¿Es ese el autobús?» / «No, ese es un camión.»",
+    "translation": "\"Aquele é o ônibus?\" / \"Não, aquilo é um caminhão.\"",
+    "pronunciation": "/es ˈese el awtoˈβus · no ˈese es un kaˈmjon/",
+    "portuguesePhonetic": "[és ése el autobús · no ése és un kamión]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_99",
+    "word": "«¿Son estas las fotos?» / «Sí, esas son.»",
+    "translation": "\"São estas as fotos?\" / \"Sim, são aquelas.\"",
+    "pronunciation": "/son ˈestas las ˈfotos · si ˈesas son/",
+    "portuguesePhonetic": "[son éstas las fótos · sí ésas son]"
+  },
+  {
+    "id": "leccion_2_gramatica_a1_s_es_card_100",
+    "word": "«¿Estaba esto aquí ayer?» / «No, no estaba.»",
+    "translation": "\"Isto estava aqui ontem?\" / \"Não, não estava.\"",
+    "pronunciation": "/esˈtaβa ˈesto aˈki aˈʝeɾ · no no esˈtaβa/",
+    "portuguesePhonetic": "[estába ésto akí aiér · no no estába]"
+  }
+]

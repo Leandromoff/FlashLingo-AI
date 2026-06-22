@@ -1,0 +1,1923 @@
+[
+  {
+    "id": "lesson_21_1",
+    "word": "to stay",
+    "translation": "ficar",
+    "pronunciation": "/tu steɪ/",
+    "portuguesePhonetic": "tchu stêi",
+    "syllables": [
+      "to",
+      " stay"
+    ],
+    "exampleSentence": "to stay",
+    "exampleTranslation": "ficar"
+  },
+  {
+    "id": "lesson_21_2",
+    "word": "to come",
+    "translation": "vir",
+    "pronunciation": "/tu kʌm/",
+    "portuguesePhonetic": "tchu câm",
+    "syllables": [
+      "to",
+      " come"
+    ],
+    "exampleSentence": "to come",
+    "exampleTranslation": "vir"
+  },
+  {
+    "id": "lesson_21_3",
+    "word": "home",
+    "translation": "casa, lar",
+    "pronunciation": "/hoʊm/",
+    "portuguesePhonetic": "rôum",
+    "syllables": [
+      "home"
+    ],
+    "exampleSentence": "home",
+    "exampleTranslation": "casa, lar"
+  },
+  {
+    "id": "lesson_21_4",
+    "word": "apartment",
+    "translation": "apartamento",
+    "pronunciation": "/əˈpɑrtmənt/",
+    "portuguesePhonetic": "a-párt-ment",
+    "syllables": [
+      "a",
+      "part",
+      "ment"
+    ],
+    "exampleSentence": "apartment",
+    "exampleTranslation": "apartamento"
+  },
+  {
+    "id": "lesson_21_5",
+    "word": "beach",
+    "translation": "praia",
+    "pronunciation": "/bitʃ/",
+    "portuguesePhonetic": "bitch",
+    "syllables": [
+      "beach"
+    ],
+    "exampleSentence": "beach",
+    "exampleTranslation": "praia"
+  },
+  {
+    "id": "lesson_21_6",
+    "word": "countryside",
+    "translation": "campo, interior",
+    "pronunciation": "/ˈkʌntrisaɪd/",
+    "portuguesePhonetic": "cân-tri-said",
+    "syllables": [
+      "coun",
+      "try",
+      "side"
+    ],
+    "exampleSentence": "countryside",
+    "exampleTranslation": "campo, interior"
+  },
+  {
+    "id": "lesson_21_7",
+    "word": "day",
+    "translation": "dia",
+    "pronunciation": "/deɪ/",
+    "portuguesePhonetic": "dêi",
+    "syllables": [
+      "day"
+    ],
+    "exampleSentence": "day",
+    "exampleTranslation": "dia"
+  },
+  {
+    "id": "lesson_21_8",
+    "word": "week",
+    "translation": "semana",
+    "pronunciation": "/wik/",
+    "portuguesePhonetic": "uíc",
+    "syllables": [
+      "week"
+    ],
+    "exampleSentence": "week",
+    "exampleTranslation": "semana"
+  },
+  {
+    "id": "lesson_21_9",
+    "word": "Sunday",
+    "translation": "domingo",
+    "pronunciation": "/ˈsʌndeɪ/",
+    "portuguesePhonetic": "sân-dêi",
+    "syllables": [
+      "Sun",
+      "day"
+    ],
+    "exampleSentence": "Sunday",
+    "exampleTranslation": "domingo"
+  },
+  {
+    "id": "lesson_21_10",
+    "word": "Monday",
+    "translation": "segunda-feira",
+    "pronunciation": "/ˈmʌndeɪ/",
+    "portuguesePhonetic": "mân-dêi",
+    "syllables": [
+      "Mon",
+      "day"
+    ],
+    "exampleSentence": "Monday",
+    "exampleTranslation": "segunda-feira"
+  },
+  {
+    "id": "lesson_21_11",
+    "word": "Tuesday",
+    "translation": "terça-feira",
+    "pronunciation": "/ˈtuzdeɪ/",
+    "portuguesePhonetic": "tiúz-dêi",
+    "syllables": [
+      "Tues",
+      "day"
+    ],
+    "exampleSentence": "Tuesday",
+    "exampleTranslation": "terça-feira"
+  },
+  {
+    "id": "lesson_21_12",
+    "word": "Wednesday",
+    "translation": "quarta-feira",
+    "pronunciation": "/ˈwɛnzdeɪ/",
+    "portuguesePhonetic": "uénz-dêi",
+    "syllables": [
+      "Wednes",
+      "day"
+    ],
+    "exampleSentence": "Wednesday",
+    "exampleTranslation": "quarta-feira"
+  },
+  {
+    "id": "lesson_21_13",
+    "word": "Thursday",
+    "translation": "quinta-feira",
+    "pronunciation": "/ˈθɜrzdeɪ/",
+    "portuguesePhonetic": "zãrz-dêi",
+    "syllables": [
+      "Thurs",
+      "day"
+    ],
+    "exampleSentence": "Thursday",
+    "exampleTranslation": "quinta-feira"
+  },
+  {
+    "id": "lesson_21_14",
+    "word": "Friday",
+    "translation": "sexta-feira",
+    "pronunciation": "/ˈfraɪdeɪ/",
+    "portuguesePhonetic": "frai-dêi",
+    "syllables": [
+      "Fri",
+      "day"
+    ],
+    "exampleSentence": "Friday",
+    "exampleTranslation": "sexta-feira"
+  },
+  {
+    "id": "lesson_21_15",
+    "word": "Saturday",
+    "translation": "sábado",
+    "pronunciation": "/ˈsætərdeɪ/",
+    "portuguesePhonetic": "sé-ter-dêi",
+    "syllables": [
+      "Sat",
+      "ur",
+      "day"
+    ],
+    "exampleSentence": "Saturday",
+    "exampleTranslation": "sábado"
+  },
+  {
+    "id": "lesson_21_16",
+    "word": "he",
+    "translation": "ele",
+    "pronunciation": "/hi/",
+    "portuguesePhonetic": "ri",
+    "syllables": [
+      "he"
+    ],
+    "exampleSentence": "he",
+    "exampleTranslation": "ele"
+  },
+  {
+    "id": "lesson_21_17",
+    "word": "she",
+    "translation": "ela",
+    "pronunciation": "/ʃi/",
+    "portuguesePhonetic": "chi",
+    "syllables": [
+      "she"
+    ],
+    "exampleSentence": "she",
+    "exampleTranslation": "ela"
+  },
+  {
+    "id": "lesson_21_18",
+    "word": "I sometimes go to the countryside.",
+    "translation": "Eu às vezes vou para o interior.",
+    "pronunciation": "/aɪ səmˈtaɪmz ɡoʊ tu ðə ˈkʌntrisaɪd./",
+    "portuguesePhonetic": "ai sâm-taims gôu tchu dâ cân-tri-said.",
+    "syllables": [
+      "I",
+      " some",
+      "times",
+      " go",
+      " to",
+      " the",
+      " coun",
+      "try",
+      "side."
+    ],
+    "exampleSentence": "I sometimes go to the countryside.",
+    "exampleTranslation": "Eu às vezes vou para o interior."
+  },
+  {
+    "id": "lesson_21_19",
+    "word": "Do you clean your house during the week?",
+    "translation": "Você limpa sua casa durante a semana?",
+    "pronunciation": "/du ju klin jɔr haʊs ˈdʊrɪŋ ðə wik?/",
+    "portuguesePhonetic": "du iu clín iór ráus dIú-ring dâ uíc?",
+    "syllables": [
+      "Do",
+      " you",
+      " clean",
+      " your",
+      " house",
+      " dur",
+      "ing",
+      " the",
+      " week?"
+    ],
+    "exampleSentence": "Do you clean your house during the week?",
+    "exampleTranslation": "Você limpa sua casa durante a semana?"
+  },
+  {
+    "id": "lesson_21_20",
+    "word": "They go to the beach on weekends.",
+    "translation": "Eles vão para a praia nos fins de semana.",
+    "pronunciation": "/ðeɪ ɡoʊ tu ðə bitʃ ɑn ˈwiˌkɛndz./",
+    "portuguesePhonetic": "dêi gôu tchu dâ bitch ón uíc-ends.",
+    "syllables": [
+      "They",
+      " go",
+      " to",
+      " the",
+      " beach",
+      " on",
+      " week",
+      "ends."
+    ],
+    "exampleSentence": "They go to the beach on weekends.",
+    "exampleTranslation": "Eles vão para a praia nos fins de semana."
+  },
+  {
+    "id": "lesson_21_21",
+    "word": "She works at the bank.",
+    "translation": "Ela trabalha no banco.",
+    "pronunciation": "/ʃi wɜrks æt ðə bæŋk./",
+    "portuguesePhonetic": "chi uãrcs ét dâ bénc.",
+    "syllables": [
+      "She",
+      " works",
+      " at",
+      " the",
+      " bank."
+    ],
+    "exampleSentence": "She works at the bank.",
+    "exampleTranslation": "Ela trabalha no banco."
+  },
+  {
+    "id": "lesson_21_22",
+    "word": "He eats bread and butter every day.",
+    "translation": "Ele come pão com manteiga todos os dias.",
+    "pronunciation": "/hi its brɛd ænd ˈbʌtər ˈɛvri deɪ./",
+    "portuguesePhonetic": "ri its bréd énd bâ-ter év-ri dêi.",
+    "syllables": [
+      "He",
+      " eats",
+      " bread",
+      " and",
+      " but",
+      "ter",
+      " ev",
+      "ery",
+      " day."
+    ],
+    "exampleSentence": "He eats bread and butter every day.",
+    "exampleTranslation": "Ele come pão com manteiga todos os dias."
+  },
+  {
+    "id": "lesson_21_23",
+    "word": "She speaks English and German.",
+    "translation": "Ela fala inglês e alemão.",
+    "pronunciation": "/ʃi spiks ˈɪŋɡlɪʃ ænd ˈdʒɜrmən./",
+    "portuguesePhonetic": "chi spícs ín-glich énd djãr-man.",
+    "syllables": [
+      "She",
+      " speaks",
+      " En",
+      "glish",
+      " and",
+      " Ger",
+      "man."
+    ],
+    "exampleSentence": "She speaks English and German.",
+    "exampleTranslation": "Ela fala inglês e alemão."
+  },
+  {
+    "id": "lesson_21_24",
+    "word": "He stays home in the evening.",
+    "translation": "Ele fica em casa à noite.",
+    "pronunciation": "/hi steɪz hoʊm ɪn ðə ˈivnɪŋ./",
+    "portuguesePhonetic": "ri stêis rôum in dâ ív-ning.",
+    "syllables": [
+      "He",
+      " stays",
+      " home",
+      " in",
+      " the",
+      " eve",
+      "ning."
+    ],
+    "exampleSentence": "He stays home in the evening.",
+    "exampleTranslation": "Ele fica em casa à noite."
+  },
+  {
+    "id": "lesson_21_25",
+    "word": "She sleeps on the couch.",
+    "translation": "Ela dorme no sofá.",
+    "pronunciation": "/ʃi slips ɑn ðə kaʊtʃ./",
+    "portuguesePhonetic": "chi slíps ón dâ cáutch.",
+    "syllables": [
+      "She",
+      " sleeps",
+      " on",
+      " the",
+      " couch."
+    ],
+    "exampleSentence": "She sleeps on the couch.",
+    "exampleTranslation": "Ela dorme no sofá."
+  },
+  {
+    "id": "lesson_21_26",
+    "word": "She goes to school in the morning.",
+    "translation": "Ela vai à escola de manhã.",
+    "pronunciation": "/ʃi ɡoʊ tu skul ɪn ðə ˈmɔrnɪŋ./",
+    "portuguesePhonetic": "chi gôu tchu scul in dâ mór-ning.",
+    "syllables": [
+      "She",
+      " goes",
+      " to",
+      " school",
+      " in",
+      " the",
+      " morn",
+      "ing."
+    ],
+    "exampleSentence": "She goes to school in the morning.",
+    "exampleTranslation": "Ela vai à escola de manhã."
+  },
+  {
+    "id": "lesson_21_27",
+    "word": "He has two sisters.",
+    "translation": "Ele tem duas irmãs.",
+    "pronunciation": "/hi hæz tu ˈsɪstərz./",
+    "portuguesePhonetic": "ri réz tchu sís-ters.",
+    "syllables": [
+      "He",
+      " has",
+      " two",
+      " sis",
+      "ters."
+    ],
+    "exampleSentence": "He has two sisters.",
+    "exampleTranslation": "Ele tem duas irmãs."
+  },
+  {
+    "id": "lesson_21_28",
+    "word": "She studies at home.",
+    "translation": "Ela estuda em casa.",
+    "pronunciation": "/ʃi ˈstʌdiz æt hoʊm./",
+    "portuguesePhonetic": "chi stâ-dis ét rôum.",
+    "syllables": [
+      "She",
+      " stud",
+      "ies",
+      " at",
+      " home."
+    ],
+    "exampleSentence": "She studies at home.",
+    "exampleTranslation": "Ela estuda em casa."
+  },
+  {
+    "id": "lesson_21_29",
+    "word": "I stay home on Mondays.",
+    "translation": "Eu fico em casa às segundas-feiras.",
+    "pronunciation": "/aɪ steɪ hoʊm ɑn ˈmʌndeɪz./",
+    "portuguesePhonetic": "ai stêi rôum ón mân-dêis.",
+    "syllables": [
+      "I",
+      " stay",
+      " home",
+      " on",
+      " Mon",
+      "days."
+    ],
+    "exampleSentence": "I stay home on Mondays.",
+    "exampleTranslation": "Eu fico em casa às segundas-feiras."
+  },
+  {
+    "id": "lesson_21_30",
+    "word": "I sometimes read at night.",
+    "translation": "Eu às vezes leio à noite.",
+    "pronunciation": "/aɪ səmˈtaɪmz rid æt naɪt./",
+    "portuguesePhonetic": "ai sâm-taims gôu ét nait.",
+    "syllables": [
+      "I",
+      " some",
+      "times",
+      " read",
+      " at",
+      " night."
+    ],
+    "exampleSentence": "I sometimes read at night.",
+    "exampleTranslation": "Eu às vezes leio à noite."
+  },
+  {
+    "id": "lesson_21_31",
+    "word": "They come here during the week.",
+    "translation": "Eles vêm aqui durante a semana.",
+    "pronunciation": "/ðeɪ kʌm hir ˈdʊrɪŋ ðə wik./",
+    "portuguesePhonetic": "dêi câm rír dIú-ring dâ uíc.",
+    "syllables": [
+      "They",
+      " come",
+      " here",
+      " dur",
+      "ing",
+      " the",
+      " week."
+    ],
+    "exampleSentence": "They come here during the week.",
+    "exampleTranslation": "Eles vêm aqui durante a semana."
+  },
+  {
+    "id": "lesson_21_32",
+    "word": "He goes home on weekends.",
+    "translation": "Ele vai para casa nos fins de semana.",
+    "pronunciation": "/hi ɡoʊz hoʊm ɑn ˈwiˌkɛndz./",
+    "portuguesePhonetic": "ri gôuz rôum ón uíc-ends.",
+    "syllables": [
+      "He",
+      " goes",
+      " home",
+      " on",
+      " week",
+      "ends."
+    ],
+    "exampleSentence": "He goes home on weekends.",
+    "exampleTranslation": "Ele vai para casa nos fins de semana."
+  },
+  {
+    "id": "lesson_21_33",
+    "word": "She goes to work at 8:00 A.M.",
+    "translation": "Ela vai ao trabalho às 8:00 da manhã.",
+    "pronunciation": "/ʃi ɡoʊz tu wɜrk æt eɪt eɪ-ɛm./",
+    "portuguesePhonetic": "chi gôuz tchu uãrc ét êit êi-ém.",
+    "syllables": [
+      "She",
+      " goes",
+      " to",
+      " work",
+      " at",
+      " 8:00",
+      " A.M."
+    ],
+    "exampleSentence": "She goes to work at 8:00 A.M.",
+    "exampleTranslation": "Ela vai ao trabalho às 8:00 da manhã."
+  },
+  {
+    "id": "lesson_21_34",
+    "word": "He wants to live abroad.",
+    "translation": "Ele quer morar no exterior.",
+    "pronunciation": "/hi wɑnts tu lɪv əˈbrɔd./",
+    "portuguesePhonetic": "ri uánts tchu lív a-bród.",
+    "syllables": [
+      "He",
+      " wants",
+      " to",
+      " live",
+      " a",
+      "broad."
+    ],
+    "exampleSentence": "He wants to live abroad.",
+    "exampleTranslation": "Ele quer morar no exterior."
+  },
+  {
+    "id": "lesson_21_35",
+    "word": "He has a house in the countryside.",
+    "translation": "Ele tem uma casa no campo.",
+    "pronunciation": "/hi hæz ə haʊs ɪn ðə ˈkʌntrisaɪd./",
+    "portuguesePhonetic": "ri réz â ráus in dâ cân-tri-said.",
+    "syllables": [
+      "He",
+      " has",
+      " a",
+      " house",
+      " in",
+      " the",
+      " coun",
+      "try",
+      "side."
+    ],
+    "exampleSentence": "He has a house in the countryside.",
+    "exampleTranslation": "Ele tem uma casa no campo."
+  },
+  {
+    "id": "lesson_21_36",
+    "word": "She works at home on Tuesdays and Thursdays.",
+    "translation": "Ela trabalha em casa às terças e quintas-feiras.",
+    "pronunciation": "/ʃi wɜrks æt hoʊm ɑn ˈtuzdeɪz ænd ˈθɜrzdeɪz./",
+    "portuguesePhonetic": "chi uãrcs ét rôum ón tiúz-dêis énd zãrz-dêis.",
+    "syllables": [
+      "She",
+      " works",
+      " at",
+      " home",
+      " on",
+      " Tues",
+      "days",
+      " and",
+      " Thurs",
+      "days."
+    ],
+    "exampleSentence": "She works at home on Tuesdays and Thursdays.",
+    "exampleTranslation": "Ela trabalha em casa às terças e quintas-feiras."
+  },
+  {
+    "id": "lesson_21_37",
+    "word": "She has a restaurant at the beach.",
+    "translation": "Ela tem um restaurante na praia.",
+    "pronunciation": "/ʃi hæz ə ˈrɛstəˌrɑnt æt ðə bitʃ./",
+    "portuguesePhonetic": "chi réz â rés-tto-rant ét dâ bitch.",
+    "syllables": [
+      "She",
+      " has",
+      " a",
+      " res",
+      "tau",
+      "rant",
+      " at",
+      " the",
+      " beach."
+    ],
+    "exampleSentence": "She has a restaurant at the beach.",
+    "exampleTranslation": "Ela tem um restaurante na praia."
+  },
+  {
+    "id": "lesson_21_38",
+    "word": "He studies in the morning.",
+    "translation": "Ele estuda de manhã.",
+    "pronunciation": "/hi ˈstʌdiz ɪn ðə ˈmɔrnɪŋ./",
+    "portuguesePhonetic": "ri stâ-dis in dâ mór-ning.",
+    "syllables": [
+      "He",
+      " stud",
+      "ies",
+      " in",
+      " the",
+      " morn",
+      "ing."
+    ],
+    "exampleSentence": "He studies in the morning.",
+    "exampleTranslation": "Ele estuda de manhã."
+  },
+  {
+    "id": "lesson_21_39",
+    "word": "I go / She goes",
+    "translation": "Verbo ir - 1ª / 3ª pessoa",
+    "pronunciation": "/aɪ ɡoʊ / ʃi ɡoʊz/",
+    "portuguesePhonetic": "ai gôu / chi gôuz",
+    "syllables": [
+      "I",
+      " go",
+      " /",
+      " She",
+      " goes"
+    ],
+    "exampleSentence": "I go / She goes",
+    "exampleTranslation": "Eu vou / Ela vai"
+  },
+  {
+    "id": "lesson_21_40",
+    "word": "I stay / She stays",
+    "translation": "Verbo ficar - 1ª / 3ª pessoa",
+    "pronunciation": "/aɪ steɪ / ʃi steɪz/",
+    "portuguesePhonetic": "ai stêi / chi stêis",
+    "syllables": [
+      "I",
+      " stay",
+      " /",
+      " She",
+      " stays"
+    ],
+    "exampleSentence": "I stay / She stays",
+    "exampleTranslation": "Eu fico / Ela fica"
+  },
+  {
+    "id": "lesson_21_41",
+    "word": "I have / He has",
+    "translation": "Verbo ter - 1ª / 3ª pessoa",
+    "pronunciation": "/aɪ hæv / hi hæz/",
+    "portuguesePhonetic": "ai rév / ri réz",
+    "syllables": [
+      "I",
+      " have",
+      " /",
+      " He",
+      " has"
+    ],
+    "exampleSentence": "I have / He has",
+    "exampleTranslation": "Eu tenho / Ele tem"
+  },
+  {
+    "id": "lesson_21_42",
+    "word": "I study / He studies",
+    "translation": "Verbo estudar - 1ª / 3ª pessoa",
+    "pronunciation": "/aɪ ˈstʌdi / hi ˈstʌdiz/",
+    "portuguesePhonetic": "ai stâ-di / ri stâ-dis",
+    "syllables": [
+      "I",
+      " stud",
+      "y /",
+      " He",
+      " stud",
+      "ies"
+    ],
+    "exampleSentence": "I study / He studies",
+    "exampleTranslation": "Eu estudo / Ele estuda"
+  },
+  {
+    "id": "lesson_21_43",
+    "word": "to go to the beach",
+    "translation": "ir para a praia",
+    "pronunciation": "/tu ɡoʊ tu ðə bitʃ/",
+    "portuguesePhonetic": "tchu gôu tchu dâ bitch",
+    "syllables": [
+      "to",
+      " go",
+      " to",
+      " the",
+      " beach"
+    ],
+    "exampleSentence": "to go to the beach",
+    "exampleTranslation": "ir para a praia"
+  },
+  {
+    "id": "lesson_21_44",
+    "word": "to go to the countryside",
+    "translation": "ir para o interior",
+    "pronunciation": "/tu ɡoʊ tu ðə ˈkʌntrisaɪd/",
+    "portuguesePhonetic": "tchu gôu tchu dâ cân-tri-said",
+    "syllables": [
+      "to",
+      " go",
+      " to",
+      " the",
+      " coun",
+      "try",
+      "side"
+    ],
+    "exampleSentence": "to go to the countryside",
+    "exampleTranslation": "ir para o interior"
+  },
+  {
+    "id": "lesson_21_45",
+    "word": "to go home",
+    "translation": "ir para casa",
+    "pronunciation": "/tu ɡoʊ hoʊm/",
+    "portuguesePhonetic": "tchu gôu rôum",
+    "syllables": [
+      "to",
+      " go",
+      " home"
+    ],
+    "exampleSentence": "to go home",
+    "exampleTranslation": "ir para casa"
+  },
+  {
+    "id": "lesson_21_46",
+    "word": "to stay home",
+    "translation": "ficar em casa",
+    "pronunciation": "/tu steɪ hoʊm/",
+    "portuguesePhonetic": "tchu stêi rôum",
+    "syllables": [
+      "to",
+      " stay",
+      " home"
+    ],
+    "exampleSentence": "to stay home",
+    "exampleTranslation": "ficar em casa"
+  },
+  {
+    "id": "lesson_21_47",
+    "word": "at the beach",
+    "translation": "na praia",
+    "pronunciation": "/æt ðə bitʃ/",
+    "portuguesePhonetic": "ét dâ bitch",
+    "syllables": [
+      "at",
+      " the",
+      " beach"
+    ],
+    "exampleSentence": "at the beach",
+    "exampleTranslation": "na praia"
+  },
+  {
+    "id": "lesson_21_48",
+    "word": "in the countryside",
+    "translation": "no campo / interior",
+    "pronunciation": "/ɪn ðə ˈkʌntrisaɪd/",
+    "portuguesePhonetic": "in dâ cân-tri-said",
+    "syllables": [
+      "in",
+      " the",
+      " coun",
+      "try",
+      "side"
+    ],
+    "exampleSentence": "in the countryside",
+    "exampleTranslation": "no campo / interior"
+  },
+  {
+    "id": "lesson_21_49",
+    "word": "What day is it today?",
+    "translation": "Que dia é hoje?",
+    "pronunciation": "/wʌt deɪ ɪz ɪt təˈdeɪ?/",
+    "portuguesePhonetic": "uót dêi íz item tchu-dêi?",
+    "syllables": [
+      "What",
+      " day",
+      " is",
+      " it",
+      " to",
+      "day?"
+    ],
+    "exampleSentence": "What day is it today?",
+    "exampleTranslation": "Que dia é hoje?"
+  },
+  {
+    "id": "lesson_21_50",
+    "word": "It's Wednesday.",
+    "translation": "É quarta-feira.",
+    "pronunciation": "/ɪts ˈwɛnzdeɪ./",
+    "portuguesePhonetic": "its uénz-dêi.",
+    "syllables": [
+      "It's",
+      " Wednes",
+      "day."
+    ],
+    "exampleSentence": "It's Wednesday.",
+    "exampleTranslation": "É quarta-feira."
+  },
+  {
+    "id": "lesson_21_51",
+    "word": "home",
+    "translation": "casa, lar",
+    "pronunciation": "/hoʊm/",
+    "portuguesePhonetic": "rôum",
+    "syllables": [
+      "home"
+    ],
+    "exampleSentence": "home",
+    "exampleTranslation": "casa, lar"
+  },
+  {
+    "id": "lesson_21_52",
+    "word": "apartment",
+    "translation": "apartamento",
+    "pronunciation": "/əˈpɑrtmənt/",
+    "portuguesePhonetic": "a-párt-ment",
+    "syllables": [
+      "a",
+      "part",
+      "ment"
+    ],
+    "exampleSentence": "apartment",
+    "exampleTranslation": "apartamento"
+  },
+  {
+    "id": "lesson_21_53",
+    "word": "beach",
+    "translation": "praia",
+    "pronunciation": "/bitʃ/",
+    "portuguesePhonetic": "bitch",
+    "syllables": [
+      "beach"
+    ],
+    "exampleSentence": "beach",
+    "exampleTranslation": "praia"
+  },
+  {
+    "id": "lesson_21_54",
+    "word": "countryside",
+    "translation": "campo, interior",
+    "pronunciation": "/ˈkʌntrisaɪd/",
+    "portuguesePhonetic": "cân-tri-said",
+    "syllables": [
+      "coun",
+      "try",
+      "side"
+    ],
+    "exampleSentence": "countryside",
+    "exampleTranslation": "campo, interior"
+  },
+  {
+    "id": "lesson_21_55",
+    "word": "day",
+    "translation": "dia",
+    "pronunciation": "/deɪ/",
+    "portuguesePhonetic": "dêi",
+    "syllables": [
+      "day"
+    ],
+    "exampleSentence": "day",
+    "exampleTranslation": "dia"
+  },
+  {
+    "id": "lesson_21_56",
+    "word": "week",
+    "translation": "semana",
+    "pronunciation": "/wik/",
+    "portuguesePhonetic": "uíc",
+    "syllables": [
+      "week"
+    ],
+    "exampleSentence": "week",
+    "exampleTranslation": "semana"
+  },
+  {
+    "id": "lesson_21_57",
+    "word": "during the week",
+    "translation": "durante a semana",
+    "pronunciation": "/ˈdʊrɪŋ ðə wik/",
+    "portuguesePhonetic": "dIú-ring dâ uíc",
+    "syllables": [
+      "dur",
+      "ing",
+      " the",
+      " week"
+    ],
+    "exampleSentence": "during the week",
+    "exampleTranslation": "durante a semana"
+  },
+  {
+    "id": "lesson_21_58",
+    "word": "on weekends",
+    "translation": "nos fins de semana",
+    "pronunciation": "/rn ˈwiˌkɛndz/",
+    "portuguesePhonetic": "ón uíc-ends",
+    "syllables": [
+      "on",
+      " week",
+      "ends"
+    ],
+    "exampleSentence": "on weekends",
+    "exampleTranslation": "nos fins de semana"
+  },
+  {
+    "id": "lesson_21_59",
+    "word": "abroad",
+    "translation": "no exterior",
+    "pronunciation": "/əˈbrɔd/",
+    "portuguesePhonetic": "a-bród",
+    "syllables": [
+      "a",
+      "broad"
+    ],
+    "exampleSentence": "abroad",
+    "exampleTranslation": "no exterior"
+  },
+  {
+    "id": "lesson_21_60",
+    "word": "Monday",
+    "translation": "segunda-feira",
+    "pronunciation": "/ˈmʌndeɪ/",
+    "portuguesePhonetic": "mân-dêi",
+    "syllables": [
+      "Mon",
+      "day"
+    ],
+    "exampleSentence": "Monday",
+    "exampleTranslation": "segunda-feira"
+  },
+  {
+    "id": "lesson_21_61",
+    "word": "Tuesday",
+    "translation": "terça-feira",
+    "pronunciation": "/ˈtuzdeɪ/",
+    "portuguesePhonetic": "tiúz-dêi",
+    "syllables": [
+      "Tues",
+      "day"
+    ],
+    "exampleSentence": "Tuesday",
+    "exampleTranslation": "terça-feira"
+  },
+  {
+    "id": "lesson_21_62",
+    "word": "Wednesday",
+    "translation": "quarta-feira",
+    "pronunciation": "/ˈwɛnzdeɪ/",
+    "portuguesePhonetic": "uénz-dêi",
+    "syllables": [
+      "Wednes",
+      "day"
+    ],
+    "exampleSentence": "Wednesday",
+    "exampleTranslation": "quarta-feira"
+  },
+  {
+    "id": "lesson_21_63",
+    "word": "Thursday",
+    "translation": "quinta-feira",
+    "pronunciation": "/ˈθɜrzdeɪ/",
+    "portuguesePhonetic": "zãrz-dêi",
+    "syllables": [
+      "Thurs",
+      "day"
+    ],
+    "exampleSentence": "Thursday",
+    "exampleTranslation": "quinta-feira"
+  },
+  {
+    "id": "lesson_21_64",
+    "word": "Friday",
+    "translation": "sexta-feira",
+    "pronunciation": "/ˈfraɪdeɪ/",
+    "portuguesePhonetic": "frai-dêi",
+    "syllables": [
+      "Fri",
+      "day"
+    ],
+    "exampleSentence": "Friday",
+    "exampleTranslation": "sexta-feira"
+  },
+  {
+    "id": "lesson_21_65",
+    "word": "Saturday",
+    "translation": "sábado",
+    "pronunciation": "/ˈsætərdeɪ/",
+    "portuguesePhonetic": "sé-ter-dêi",
+    "syllables": [
+      "Sat",
+      "ur",
+      "day"
+    ],
+    "exampleSentence": "Saturday",
+    "exampleTranslation": "sábado"
+  },
+  {
+    "id": "lesson_21_66",
+    "word": "Sunday",
+    "translation": "domingo",
+    "pronunciation": "/ˈsʌndeɪ/",
+    "portuguesePhonetic": "sân-dêi",
+    "syllables": [
+      "Sun",
+      "day"
+    ],
+    "exampleSentence": "Sunday",
+    "exampleTranslation": "domingo"
+  },
+  {
+    "id": "lesson_21_67",
+    "word": "sometimes",
+    "translation": "às vezes",
+    "pronunciation": "/səmˈtaɪmz/",
+    "portuguesePhonetic": "sâm-taims",
+    "syllables": [
+      "some",
+      "times"
+    ],
+    "exampleSentence": "sometimes",
+    "exampleTranslation": "às vezes"
+  },
+  {
+    "id": "lesson_21_68",
+    "word": "come",
+    "translation": "vir",
+    "pronunciation": "/kʌm/",
+    "portuguesePhonetic": "câm",
+    "syllables": [
+      "come"
+    ],
+    "exampleSentence": "come",
+    "exampleTranslation": "vir"
+  },
+  {
+    "id": "lesson_21_69",
+    "word": "stay",
+    "translation": "ficar",
+    "pronunciation": "/steɪ/",
+    "portuguesePhonetic": "stêi",
+    "syllables": [
+      "stay"
+    ],
+    "exampleSentence": "stay",
+    "exampleTranslation": "ficar"
+  },
+  {
+    "id": "lesson_21_70",
+    "word": "stay home",
+    "translation": "ficar em casa",
+    "pronunciation": "/steɪ hoʊm/",
+    "portuguesePhonetic": "stêi rôum",
+    "syllables": [
+      "stay",
+      " home"
+    ],
+    "exampleSentence": "stay home",
+    "exampleTranslation": "ficar em casa"
+  },
+  {
+    "id": "lesson_21_71",
+    "word": "go home",
+    "translation": "ir para casa",
+    "pronunciation": "/ɡoʊ hoʊm/",
+    "portuguesePhonetic": "gôu rôum",
+    "syllables": [
+      "go",
+      " home"
+    ],
+    "exampleSentence": "go home",
+    "exampleTranslation": "ir para casa"
+  },
+  {
+    "id": "lesson_21_72",
+    "word": "work at home",
+    "translation": "trabalhar em casa",
+    "pronunciation": "/wɜrk æt hoʊm/",
+    "portuguesePhonetic": "uãrk ét rôum",
+    "syllables": [
+      "work",
+      " at",
+      " home"
+    ],
+    "exampleSentence": "work at home",
+    "exampleTranslation": "trabalhar em casa"
+  },
+  {
+    "id": "lesson_21_73",
+    "word": "live abroad",
+    "translation": "morar no exterior",
+    "pronunciation": "/lɪv əˈbrɔd/",
+    "portuguesePhonetic": "lív a-bród",
+    "syllables": [
+      "live",
+      " a",
+      "broad"
+    ],
+    "exampleSentence": "live abroad",
+    "exampleTranslation": "morar no exterior"
+  },
+  {
+    "id": "lesson_21_74",
+    "word": "have a house",
+    "translation": "ter uma casa",
+    "pronunciation": "/hæv ə haʊs/",
+    "portuguesePhonetic": "rév â ráus",
+    "syllables": [
+      "have",
+      " a",
+      " house"
+    ],
+    "exampleSentence": "have a house",
+    "exampleTranslation": "ter uma casa"
+  },
+  {
+    "id": "lesson_21_75",
+    "word": "study in the morning",
+    "translation": "estudar de manhã",
+    "pronunciation": "/ˈstʌdi ɪn ðə ˈmɔrnɪŋ/",
+    "portuguesePhonetic": "stâ-di in dâ mór-ning",
+    "syllables": [
+      "stud",
+      "y",
+      " in",
+      " the",
+      " morn",
+      "ing"
+    ],
+    "exampleSentence": "study in the morning",
+    "exampleTranslation": "estudar de manhã"
+  },
+  {
+    "id": "lesson_21_76",
+    "word": "at the beach",
+    "translation": "na praia",
+    "pronunciation": "/æt ðə bitʃ/",
+    "portuguesePhonetic": "ét dâ bitch",
+    "syllables": [
+      "at",
+      " the",
+      " beach"
+    ],
+    "exampleSentence": "at the beach",
+    "exampleTranslation": "na praia"
+  },
+  {
+    "id": "lesson_21_77",
+    "word": "in the countryside",
+    "translation": "no interior / no campo",
+    "pronunciation": "/ɪn ðə ˈkʌntrisaɪd/",
+    "portuguesePhonetic": "in dâ cân-tri-said",
+    "syllables": [
+      "in",
+      " the",
+      " coun",
+      "try",
+      "side"
+    ],
+    "exampleSentence": "in the countryside",
+    "exampleTranslation": "no interior / no campo"
+  },
+  {
+    "id": "lesson_21_78",
+    "word": "She stays at home during the week.",
+    "translation": "Ela fica em casa durante a semana.",
+    "pronunciation": "/ʃi steɪz æt hoʊm ˈdjʊərɪŋ ðə wik./",
+    "portuguesePhonetic": "chi stêiz ét rôum diú-ring dâ uíc.",
+    "syllables": [
+      "She",
+      " stays",
+      " at",
+      " home",
+      " dur",
+      "ing",
+      " the",
+      " week."
+    ],
+    "exampleSentence": "She stays at home during the week.",
+    "exampleTranslation": "Ela fica em casa durante a semana."
+  },
+  {
+    "id": "lesson_21_79",
+    "word": "He comes to the beach on weekends.",
+    "translation": "Ele vem para a praia aos finais de semana.",
+    "pronunciation": "/hi kʌmz tu ðə bitʃ ɑn ˈwiˌkɛndz./",
+    "portuguesePhonetic": "ri câmz tchu dâ bitch ón ui-kénds.",
+    "syllables": [
+      "He",
+      " comes",
+      " to",
+      " the",
+      " beach",
+      " on",
+      " week",
+      "ends."
+    ],
+    "exampleSentence": "He comes to the beach on weekends.",
+    "exampleTranslation": "Ele vem para a praia aos finais de semana."
+  },
+  {
+    "id": "lesson_21_80",
+    "word": "I clean the kitchen and she cleans the bedroom.",
+    "translation": "Eu limpo a cozinha e ela limpa o quarto.",
+    "pronunciation": "/aɪ klin ðə ˈkɪtʃən ænd ʃi klinz ðə ˈbɛdruːm./",
+    "portuguesePhonetic": "ai clín dâ kí-tchen énd chi clínz dâ béd-rum.",
+    "syllables": [
+      "I",
+      " clean",
+      " the",
+      " kitch",
+      "en",
+      " and",
+      " she",
+      " cleans",
+      " the",
+      " bed",
+      "room."
+    ],
+    "exampleSentence": "I clean the kitchen and she cleans the bedroom.",
+    "exampleTranslation": "Eu limpo a cozinha e ela limpa o quarto."
+  },
+  {
+    "id": "lesson_21_81",
+    "word": "She goes to school on Mondays and Wednesdays.",
+    "translation": "Ela vai à escola às segundas e quartas-feiras.",
+    "pronunciation": "/ʃi ɡoʊz tu skul ɑn ˈmʌndeɪz ænd ˈwɛnzdeɪz./",
+    "portuguesePhonetic": "chi gôuz tchu scul ón mân-dêiz énd uénz-dêiz.",
+    "syllables": [
+      "She",
+      " goes",
+      " to",
+      " school",
+      " on",
+      " Mon",
+      "days",
+      " and",
+      " Wednes",
+      "days."
+    ],
+    "exampleSentence": "She goes to school on Mondays and Wednesdays.",
+    "exampleTranslation": "Ela vai à escola às segundas e quartas-feiras."
+  },
+  {
+    "id": "lesson_21_82",
+    "word": "She loves to go to the countryside on Saturdays and Sundays.",
+    "translation": "Ela adora ficar no interior aos sábados e domingos.",
+    "pronunciation": "/ʃi lʌvz tu ɡoʊ tu ðə ˈkʌntrisaɪd ɑn ˈsætərdeɪz ænd ˈsʌndeɪz./",
+    "portuguesePhonetic": "chi lâvz tchu gôu tchu dâ cân-tri-said ón sé-ter-dêiz énd sân-dêiz.",
+    "syllables": [
+      "She",
+      " loves",
+      " to",
+      " go",
+      " to",
+      " the",
+      " coun",
+      "try",
+      "side",
+      " on",
+      " Sat",
+      "ur",
+      "days",
+      " and",
+      " Sun",
+      "days."
+    ],
+    "exampleSentence": "She loves to go to the countryside on Saturdays and Sundays.",
+    "exampleTranslation": "Ela adora ficar no interior aos sábados e domingos."
+  },
+  {
+    "id": "lesson_21_83",
+    "word": "She has an apartment at the beach.",
+    "translation": "Ela tem um apartamento na praia.",
+    "pronunciation": "/ʃi hæz ən əˈpɑrtmənt æt ðə bitʃ./",
+    "portuguesePhonetic": "chi réz ân a-párt-ment ét dâ bitch.",
+    "syllables": [
+      "She",
+      " has",
+      " an",
+      " a",
+      "part",
+      "ment",
+      " at",
+      " the",
+      " beach."
+    ],
+    "exampleSentence": "She has an apartment at the beach.",
+    "exampleTranslation": "Ela tem um apartamento na praia."
+  },
+  {
+    "id": "lesson_21_84",
+    "word": "Do you usually come here on Sundays?",
+    "translation": "Você geralmente vem aqui aos domingos?",
+    "pronunciation": "/du ju ˈjuːʒuəli kʌm hɪr ɑn ˈsʌndeɪz?/",
+    "portuguesePhonetic": "du iu iú-ju-a-li câm rír ón sân-dêiz?",
+    "syllables": [
+      "Do",
+      " you",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " come",
+      " here",
+      " on",
+      " Sun",
+      "days?"
+    ],
+    "exampleSentence": "Do you usually come here on Sundays?",
+    "exampleTranslation": "Você geralmente vem aqui aos domingos?"
+  },
+  {
+    "id": "lesson_21_85",
+    "word": "He works until late during the week.",
+    "translation": "Ele trabalha até tarde durante a semana.",
+    "pronunciation": "/hi wɜrks ʌnˈtɪl leɪt ˈdjʊərɪŋ ðə wik./",
+    "portuguesePhonetic": "ri uãrcs an-tíl lêit diú-ring dâ uíc.",
+    "syllables": [
+      "He",
+      " works",
+      " un",
+      "til",
+      " late",
+      " dur",
+      "ing",
+      " the",
+      " week."
+    ],
+    "exampleSentence": "He works until late during the week.",
+    "exampleTranslation": "Ele trabalha até tarde durante a semana."
+  },
+  {
+    "id": "lesson_21_86",
+    "word": "Do you have to go home now?",
+    "translation": "Você tem que ir para casa agora?",
+    "pronunciation": "/du ju hæv tu ɡoʊ hoʊm naʊ?/",
+    "portuguesePhonetic": "du iu rév tchu gôu rôum náu?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " to",
+      " go",
+      " home",
+      " now?"
+    ],
+    "exampleSentence": "Do you have to go home now?",
+    "exampleTranslation": "Você tem que ir para casa agora?"
+  },
+  {
+    "id": "lesson_21_87",
+    "word": "I sometimes go to the beach with my friends.",
+    "translation": "Eu às vezes vou à praia com meus amigos.",
+    "pronunciation": "/aɪ səmˈtaɪmz ɡoʊ tu ðə bitʃ wɪð maɪ frɛndz./",
+    "portuguesePhonetic": "ai sâm-táimz gôu tchu dâ bitch uith mai fréndz.",
+    "syllables": [
+      "I",
+      " some",
+      "times",
+      " go",
+      " to",
+      " the",
+      " beach",
+      " with",
+      " my",
+      " friends."
+    ],
+    "exampleSentence": "I sometimes go to the beach with my friends.",
+    "exampleTranslation": "Eu às vezes vou à praia com meus amigos."
+  },
+  {
+    "id": "lesson_21_88",
+    "word": "He goes to the beach on weekends.",
+    "translation": "Ele vai à praia nos finais de semana.",
+    "pronunciation": "/hi ɡoʊz tu ðə bitʃ ɑn ˈwiˌkɛndz./",
+    "portuguesePhonetic": "ri gôuz tchu dâ bitch ón ui-kénds.",
+    "syllables": [
+      "He",
+      " goes",
+      " to",
+      " the",
+      " beach",
+      " on",
+      " week",
+      "ends."
+    ],
+    "exampleSentence": "He goes to the beach on weekends.",
+    "exampleTranslation": "Ele vai à praia nos finais de semana."
+  },
+  {
+    "id": "lesson_21_89",
+    "word": "She sometimes stays home on Saturdays.",
+    "translation": "Ela às vezes fica em casa aos sábados.",
+    "pronunciation": "/ʃi səmˈtaɪmz steɪz hoʊm ɑn ˈsætərdeɪz./",
+    "portuguesePhonetic": "chi sâm-táimz stêiz rôum ón sé-ter-dêiz.",
+    "syllables": [
+      "She",
+      " some",
+      "times",
+      " stays",
+      " home",
+      " on",
+      " Sat",
+      "ur",
+      "days."
+    ],
+    "exampleSentence": "She sometimes stays home on Saturdays.",
+    "exampleTranslation": "Ela às vezes fica em casa aos sábados."
+  },
+  {
+    "id": "lesson_21_90",
+    "word": "He cooks pasta with tomato sauce on Sundays.",
+    "translation": "Ele cozinha macarrão com molho de tomate aos domingos.",
+    "pronunciation": "/hi kʊks ˈpɑstə wɪð təˈmeɪtoʊ sɔs ɑn ˈsʌndeɪz./",
+    "portuguesePhonetic": "ri cúcs pás-ta uith to-mêi-tou sós ón sân-dêiz.",
+    "syllables": [
+      "He",
+      " cooks",
+      " pas",
+      "ta",
+      " with",
+      " to",
+      "ma",
+      "to",
+      " sauce",
+      " on",
+      " Sun",
+      "days."
+    ],
+    "exampleSentence": "He cooks pasta with tomato sauce on Sundays.",
+    "exampleTranslation": "Ele cozinha macarrão com molho de tomate aos domingos."
+  },
+  {
+    "id": "lesson_21_91",
+    "word": "She has a new e-mail address.",
+    "translation": "Ela tem um novo endereço de e-mail.",
+    "pronunciation": "/ʃi hæz ə nu ˈiˌmeɪl əˈdrɛs./",
+    "portuguesePhonetic": "chi réz â niu í-mêil a-drés.",
+    "syllables": [
+      "She",
+      " has",
+      " a",
+      " new",
+      " e-mail",
+      " ad",
+      "dress."
+    ],
+    "exampleSentence": "She has a new e-mail address.",
+    "exampleTranslation": "Ela tem um novo endereço de e-mail."
+  },
+  {
+    "id": "lesson_21_92",
+    "word": "He cleans the house during the week.",
+    "translation": "Ele limpa a casa durante a semana.",
+    "pronunciation": "/hi klinz ðə haʊs ˈdjʊərɪŋ ðə wik./",
+    "portuguesePhonetic": "ri clínz dâ ráus diú-ring dâ uíc.",
+    "syllables": [
+      "He",
+      " cleans",
+      " the",
+      " house",
+      " dur",
+      "ing",
+      " the",
+      " week."
+    ],
+    "exampleSentence": "He cleans the house during the week.",
+    "exampleTranslation": "Ele limpa a casa durante a semana."
+  },
+  {
+    "id": "lesson_21_93",
+    "word": "She goes to the English class on Mondays and Fridays.",
+    "translation": "Ela vai para a aula de inglês às segundas e sextas-feiras.",
+    "pronunciation": "/ʃi ɡoʊz tu ði ˈɪŋɡlɪʃ klæs ɑn ˈmʌndeɪz ænd ˈfraɪdeɪz./",
+    "portuguesePhonetic": "chi gôuz tchu di ín-glic clés ón mân-dêiz énd frái-dêiz.",
+    "syllables": [
+      "She",
+      " goes",
+      " to",
+      " the",
+      " En",
+      "glish",
+      " class",
+      " on",
+      " Mon",
+      "days",
+      " and",
+      " Fri",
+      "days."
+    ],
+    "exampleSentence": "She goes to the English class on Mondays and Fridays.",
+    "exampleTranslation": "Ela vai para a aula de inglês às segundas e sextas-feiras."
+  },
+  {
+    "id": "lesson_21_94",
+    "word": "He prefers to go to the countryside on weekends.",
+    "translation": "Ele prefere ir para o interior nos finais de semana.",
+    "pronunciation": "/hi prəˈfɜrz tu ɡoʊ tu ðə ˈkʌntrisaɪd ɑn ˈwiˌkɛndz./",
+    "portuguesePhonetic": "ri pri-fãrz tchu gôu tchu dâ cân-tri-said ón ui-kénds.",
+    "syllables": [
+      "He",
+      " pre",
+      "fers",
+      " to",
+      " go",
+      " to",
+      " the",
+      " coun",
+      "try",
+      "side",
+      " on",
+      " week",
+      "ends."
+    ],
+    "exampleSentence": "He prefers to go to the countryside on weekends.",
+    "exampleTranslation": "Ele prefere ir para o interior nos finais de semana."
+  },
+  {
+    "id": "lesson_21_95",
+    "word": "She speaks Portuguese and he speaks French.",
+    "translation": "Ela fala português e ele fala francês.",
+    "pronunciation": "/ʃi spiks ˌpɔrtʃəˈɡiz ænd hi spiks frɛntʃ./",
+    "portuguesePhonetic": "chi spícs pór-tchug-uiz énd ri spícs fréntch.",
+    "syllables": [
+      "She",
+      " speaks",
+      " Por",
+      "tu",
+      "guese",
+      " and",
+      " he",
+      " speaks",
+      " French."
+    ],
+    "exampleSentence": "She speaks Portuguese and he speaks French.",
+    "exampleTranslation": "Ela fala português e ele fala francês."
+  },
+  {
+    "id": "lesson_21_96",
+    "word": "He studies German on Mondays and Wednesdays.",
+    "translation": "Ele estuda alemão às segundas e quartas-feiras.",
+    "pronunciation": "/hi ˈstʌdiz ˈdʒɜrmən ɑn ˈmʌndeɪz ænd ˈwɛnzdeɪz./",
+    "portuguesePhonetic": "ri stâ-diz djãr-man ón mân-dêiz énd uénz-dêiz.",
+    "syllables": [
+      "He",
+      " stud",
+      "ies",
+      " Ger",
+      "man",
+      " on",
+      " Mon",
+      "days",
+      " and",
+      " Wednes",
+      "days."
+    ],
+    "exampleSentence": "He studies German on Mondays and Wednesdays.",
+    "exampleTranslation": "Ele estuda alemão às segundas e quartas-feiras."
+  },
+  {
+    "id": "lesson_21_97",
+    "word": "I go to work at seven o'clock.",
+    "translation": "Eu vou para o trabalho às sete horas.",
+    "pronunciation": "/aɪ ɡoʊ tu wɜrk æt ˈsɛvən əˈklɑk./",
+    "portuguesePhonetic": "ai gôu tchu uãrc ét sé-ven o-clóc.",
+    "syllables": [
+      "I",
+      " go",
+      " to",
+      " work",
+      " at",
+      " sev",
+      "en",
+      " o'clock."
+    ],
+    "exampleSentence": "I go to work at seven o'clock.",
+    "exampleTranslation": "Eu vou para o trabalho às sete horas."
+  },
+  {
+    "id": "lesson_21_98",
+    "word": "She drinks coffee in the morning.",
+    "translation": "Ela toma café pela manhã.",
+    "pronunciation": "/ʃi drɪŋks ˈkɔfi ɪn ðə ˈmɔrnɪŋ./",
+    "portuguesePhonetic": "chi dríncs có-fi in dâ mór-ning.",
+    "syllables": [
+      "She",
+      " drinks",
+      " cof",
+      "fee",
+      " in",
+      " the",
+      " morn",
+      "ing."
+    ],
+    "exampleSentence": "She drinks coffee in the morning.",
+    "exampleTranslation": "Ela toma café pela manhã."
+  },
+  {
+    "id": "lesson_21_99",
+    "word": "He goes to school during the week.",
+    "translation": "Ele vai à escola durante a semana.",
+    "pronunciation": "/hi ɡoʊz tu skul ˈdjʊərɪŋ ðə wik./",
+    "portuguesePhonetic": "ri gôuz tchu scul diú-ring dâ uíc.",
+    "syllables": [
+      "He",
+      " goes",
+      " to",
+      " school",
+      " dur",
+      "ing",
+      " the",
+      " week."
+    ],
+    "exampleSentence": "He goes to school during the week.",
+    "exampleTranslation": "Ele vai à escola durante a semana."
+  },
+  {
+    "id": "lesson_21_100",
+    "word": "We sleep until late on Saturdays.",
+    "translation": "Nós dormimos até tarde aos sábados.",
+    "pronunciation": "/wi slip ʌnˈtɪl leɪt ɑn ˈsætərdeɪz./",
+    "portuguesePhonetic": "ui slíp an-tíl lêit ón sé-ter-dêis.",
+    "syllables": [
+      "We",
+      " sleep",
+      " un",
+      "til",
+      " late",
+      " on",
+      " Sat",
+      "ur",
+      "days."
+    ],
+    "exampleSentence": "We sleep until late on Saturdays.",
+    "exampleTranslation": "Nós dormimos até tarde aos sábados."
+  },
+  {
+    "id": "lesson_21_101",
+    "word": "I don't like to sleep on the couch.",
+    "translation": "Eu não gosto de dormir no sofá.",
+    "pronunciation": "/aɪ doʊnt laɪk tu slip ɑn ðə kaʊtʃ./",
+    "portuguesePhonetic": "ai dôunt laic tchu slíp ón dâ cáutch.",
+    "syllables": [
+      "I",
+      " don't",
+      " like",
+      " to",
+      " sleep",
+      " on",
+      " the",
+      " couch."
+    ],
+    "exampleSentence": "I don't like to sleep on the couch.",
+    "exampleTranslation": "Eu não gosto de dormir no sofá."
+  },
+  {
+    "id": "lesson_21_102",
+    "word": "during the week",
+    "translation": "durante a semana",
+    "pronunciation": "/ˈdjʊərɪŋ ðə wik/",
+    "portuguesePhonetic": "diú-ring dâ uíc",
+    "syllables": [
+      "dur",
+      "ing",
+      " the",
+      " week"
+    ],
+    "exampleSentence": "during the week",
+    "exampleTranslation": "durante a semana"
+  },
+  {
+    "id": "lesson_21_103",
+    "word": "weekends",
+    "translation": "finais de semana",
+    "pronunciation": "/ˈwiˌkɛndz/",
+    "portuguesePhonetic": "ui-kénds",
+    "syllables": [
+      "week",
+      "ends"
+    ],
+    "exampleSentence": "weekends",
+    "exampleTranslation": "finais de semana"
+  },
+  {
+    "id": "lesson_21_104",
+    "word": "countryside",
+    "translation": "interior / campo",
+    "pronunciation": "/ˈkʌntrisaɪd/",
+    "portuguesePhonetic": "cân-tri-said",
+    "syllables": [
+      "coun",
+      "try",
+      "side"
+    ],
+    "exampleSentence": "countryside",
+    "exampleTranslation": "interior / campo"
+  },
+  {
+    "id": "lesson_21_105",
+    "word": "apartment",
+    "translation": "apartamento",
+    "pronunciation": "/əˈpɑrtmənt/",
+    "portuguesePhonetic": "a-párt-ment",
+    "syllables": [
+      "a",
+      "part",
+      "ment"
+    ],
+    "exampleSentence": "apartment",
+    "exampleTranslation": "apartamento"
+  },
+  {
+    "id": "lesson_21_106",
+    "word": "usually",
+    "translation": "geralmente",
+    "pronunciation": "/ˈjuːʒuəli/",
+    "portuguesePhonetic": "iú-ju-a-li",
+    "syllables": [
+      "u",
+      "su",
+      "al",
+      "ly"
+    ],
+    "exampleSentence": "usually",
+    "exampleTranslation": "geralmente"
+  },
+  {
+    "id": "lesson_21_107",
+    "word": "sometimes",
+    "translation": "às vezes",
+    "pronunciation": "/səmˈtaɪmz/",
+    "portuguesePhonetic": "sâm-táimz",
+    "syllables": [
+      "some",
+      "times"
+    ],
+    "exampleSentence": "sometimes",
+    "exampleTranslation": "às vezes"
+  },
+  {
+    "id": "lesson_21_108",
+    "word": "until late",
+    "translation": "até tarde",
+    "pronunciation": "/ʌnˈtɪl leɪt/",
+    "portuguesePhonetic": "an-tíl lêit",
+    "syllables": [
+      "un",
+      "til",
+      " late"
+    ],
+    "exampleSentence": "until late",
+    "exampleTranslation": "até tarde"
+  },
+  {
+    "id": "lesson_21_109",
+    "word": "e-mail address",
+    "translation": "endereço de e-mail",
+    "pronunciation": "/ˈiˌmeɪl əˈdrɛs/",
+    "portuguesePhonetic": "í-mêil a-drés",
+    "syllables": [
+      "e-mail",
+      " ad",
+      "dress"
+    ],
+    "exampleSentence": "e-mail address",
+    "exampleTranslation": "endereço de e-mail"
+  },
+  {
+    "id": "lesson_21_110",
+    "word": "Monday",
+    "translation": "segunda-feira",
+    "pronunciation": "/ˈmʌndeɪ/",
+    "portuguesePhonetic": "mân-dêi",
+    "syllables": [
+      "Mon",
+      "day"
+    ],
+    "exampleSentence": "Monday",
+    "exampleTranslation": "segunda-feira"
+  },
+  {
+    "id": "lesson_21_111",
+    "word": "Wednesday",
+    "translation": "quarta-feira",
+    "pronunciation": "/ˈwɛnzdeɪ/",
+    "portuguesePhonetic": "uénz-dêi",
+    "syllables": [
+      "Wednes",
+      "day"
+    ],
+    "exampleSentence": "Wednesday",
+    "exampleTranslation": "quarta-feira"
+  },
+  {
+    "id": "lesson_21_112",
+    "word": "Friday",
+    "translation": "sexta-feira",
+    "pronunciation": "/ˈfraɪdeɪ/",
+    "portuguesePhonetic": "frái-dêi",
+    "syllables": [
+      "Fri",
+      "day"
+    ],
+    "exampleSentence": "Friday",
+    "exampleTranslation": "sexta-feira"
+  },
+  {
+    "id": "lesson_21_113",
+    "word": "Sunday",
+    "translation": "domingo",
+    "pronunciation": "/ˈsʌndeɪ/",
+    "portuguesePhonetic": "sân-dêi",
+    "syllables": [
+      "Sun",
+      "day"
+    ],
+    "exampleSentence": "Sunday",
+    "exampleTranslation": "domingo"
+  },
+  {
+    "id": "lesson_21_114",
+    "word": "couch",
+    "translation": "sofá",
+    "pronunciation": "/kaʊtʃ/",
+    "portuguesePhonetic": "cáutch",
+    "syllables": [
+      "couch"
+    ],
+    "exampleSentence": "couch",
+    "exampleTranslation": "sofá"
+  },
+  {
+    "id": "lesson_21_115",
+    "word": "beach",
+    "translation": "praia",
+    "pronunciation": "/bitʃ/",
+    "portuguesePhonetic": "bitch",
+    "syllables": [
+      "beach"
+    ],
+    "exampleSentence": "beach",
+    "exampleTranslation": "praia"
+  },
+  {
+    "id": "lesson_21_116",
+    "word": "stay home",
+    "translation": "ficar em casa",
+    "pronunciation": "/steɪ hoʊm/",
+    "portuguesePhonetic": "stêi rôum",
+    "syllables": [
+      "stay",
+      " home"
+    ],
+    "exampleSentence": "stay home",
+    "exampleTranslation": "ficar em casa"
+  },
+  {
+    "id": "lesson_21_117",
+    "word": "go to school",
+    "translation": "ir à escola",
+    "pronunciation": "/ɡoʊ tu skul/",
+    "portuguesePhonetic": "gôu tchu scul",
+    "syllables": [
+      "go",
+      " to",
+      " school"
+    ],
+    "exampleSentence": "go to school",
+    "exampleTranslation": "ir à escola"
+  },
+  {
+    "id": "lesson_21_118",
+    "word": "speak",
+    "translation": "falar",
+    "pronunciation": "/spik/",
+    "portuguesePhonetic": "spíc",
+    "syllables": [
+      "speak"
+    ],
+    "exampleSentence": "speak",
+    "exampleTranslation": "falar"
+  },
+  {
+    "id": "lesson_21_119",
+    "word": "prefer",
+    "translation": "preferir",
+    "pronunciation": "/prəˈfɜr/",
+    "portuguesePhonetic": "pri-fãr",
+    "syllables": [
+      "pre",
+      "fer"
+    ],
+    "exampleSentence": "prefer",
+    "exampleTranslation": "preferir"
+  },
+  {
+    "id": "lesson_21_120",
+    "word": "clean",
+    "translation": "limpar",
+    "pronunciation": "/klin/",
+    "portuguesePhonetic": "clín",
+    "syllables": [
+      "clean"
+    ],
+    "exampleSentence": "clean",
+    "exampleTranslation": "limpar"
+  },
+  {
+    "id": "lesson_21_121",
+    "word": "drink coffee",
+    "translation": "tomar café",
+    "pronunciation": "/drɪŋk ˈkɔfi/",
+    "portuguesePhonetic": "drínc có-fi",
+    "syllables": [
+      "drink",
+      " cof",
+      "fee"
+    ],
+    "exampleSentence": "drink coffee",
+    "exampleTranslation": "tomar café"
+  },
+  {
+    "id": "lesson_21_122",
+    "word": "sleep",
+    "translation": "dormir",
+    "pronunciation": "/slip/",
+    "portuguesePhonetic": "slíp",
+    "syllables": [
+      "sleep"
+    ],
+    "exampleSentence": "sleep",
+    "exampleTranslation": "dormir"
+  }
+]

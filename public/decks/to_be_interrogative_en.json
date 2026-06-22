@@ -1,0 +1,1854 @@
+[
+  {
+    "id": "to_be_interrogative_1",
+    "word": "Am I?",
+    "translation": "Eu sou, estou?",
+    "pronunciation": "/æm aɪ?/",
+    "portuguesePhonetic": "ém ai?",
+    "syllables": [
+      "Am",
+      " I?"
+    ],
+    "exampleSentence": "Am I?",
+    "exampleTranslation": "Eu sou, estou?"
+  },
+  {
+    "id": "to_be_interrogative_2",
+    "word": "Are you?",
+    "translation": "Você é, está?",
+    "pronunciation": "/ɑr ju?/",
+    "portuguesePhonetic": "ar iu?",
+    "syllables": [
+      "Are",
+      " you?"
+    ],
+    "exampleSentence": "Are you?",
+    "exampleTranslation": "Você é, está?"
+  },
+  {
+    "id": "to_be_interrogative_3",
+    "word": "Is he?",
+    "translation": "Ele é, está?",
+    "pronunciation": "/ɪz hi?/",
+    "portuguesePhonetic": "iz ri?",
+    "syllables": [
+      "Is",
+      " he?"
+    ],
+    "exampleSentence": "Is he?",
+    "exampleTranslation": "Ele é, está?"
+  },
+  {
+    "id": "to_be_interrogative_4",
+    "word": "Is she?",
+    "translation": "Ela é, está?",
+    "pronunciation": "/ɪz ʃi?/",
+    "portuguesePhonetic": "iz xi?",
+    "syllables": [
+      "Is",
+      " she?"
+    ],
+    "exampleSentence": "Is she?",
+    "exampleTranslation": "Ela é, está?"
+  },
+  {
+    "id": "to_be_interrogative_5",
+    "word": "Is it?",
+    "translation": "É, está?",
+    "pronunciation": "/ɪz ɪt?/",
+    "portuguesePhonetic": "iz it?",
+    "syllables": [
+      "Is",
+      " it?"
+    ],
+    "exampleSentence": "Is it?",
+    "exampleTranslation": "É, está?"
+  },
+  {
+    "id": "to_be_interrogative_6",
+    "word": "Are we?",
+    "translation": "Nós somos, estamos?",
+    "pronunciation": "/ɑr wi?/",
+    "portuguesePhonetic": "ar uí?",
+    "syllables": [
+      "Are",
+      " we?"
+    ],
+    "exampleSentence": "Are we?",
+    "exampleTranslation": "Nós somos, estamos?"
+  },
+  {
+    "id": "to_be_interrogative_7",
+    "word": "Are you? (plural)",
+    "translation": "Vocês são, estão?",
+    "pronunciation": "/ɑr ju?/",
+    "portuguesePhonetic": "ar iu?",
+    "syllables": [
+      "Are",
+      " you?"
+    ],
+    "exampleSentence": "Are you? (plural)",
+    "exampleTranslation": "Vocês são, estão?"
+  },
+  {
+    "id": "to_be_interrogative_8",
+    "word": "Are they?",
+    "translation": "Eles(as) são, estão?",
+    "pronunciation": "/ɑr ðeɪ?/",
+    "portuguesePhonetic": "ar dêi?",
+    "syllables": [
+      "Are",
+      " they?"
+    ],
+    "exampleSentence": "Are they?",
+    "exampleTranslation": "Eles(as) são, estão?"
+  },
+  {
+    "id": "to_be_interrogative_9",
+    "word": "January",
+    "translation": "janeiro",
+    "pronunciation": "/ˈdʒænjuˌɛri/",
+    "portuguesePhonetic": "djé-niú-e-ri",
+    "syllables": [
+      "Ja",
+      "nu",
+      "a",
+      "ry"
+    ],
+    "exampleSentence": "January",
+    "exampleTranslation": "janeiro"
+  },
+  {
+    "id": "to_be_interrogative_10",
+    "word": "February",
+    "translation": "fevereiro",
+    "pronunciation": "/ˈfɛbruˌɛri/",
+    "portuguesePhonetic": "fé-bru-e-ri",
+    "syllables": [
+      "Fe",
+      "bru",
+      "a",
+      "ry"
+    ],
+    "exampleSentence": "February",
+    "exampleTranslation": "fevereiro"
+  },
+  {
+    "id": "to_be_interrogative_11",
+    "word": "March",
+    "translation": "março",
+    "pronunciation": "/mɑrtʃ/",
+    "portuguesePhonetic": "mártch",
+    "syllables": [
+      "March"
+    ],
+    "exampleSentence": "March",
+    "exampleTranslation": "março"
+  },
+  {
+    "id": "to_be_interrogative_12",
+    "word": "April",
+    "translation": "abril",
+    "pronunciation": "/ˈeɪprəl/",
+    "portuguesePhonetic": "êi-prou",
+    "syllables": [
+      "A",
+      "pril"
+    ],
+    "exampleSentence": "April",
+    "exampleTranslation": "abril"
+  },
+  {
+    "id": "to_be_interrogative_13",
+    "word": "May",
+    "translation": "maio",
+    "pronunciation": "/meɪ/",
+    "portuguesePhonetic": "mêi",
+    "syllables": [
+      "May"
+    ],
+    "exampleSentence": "May",
+    "exampleTranslation": "maio"
+  },
+  {
+    "id": "to_be_interrogative_14",
+    "word": "June",
+    "translation": "junho",
+    "pronunciation": "/dʒun/",
+    "portuguesePhonetic": "djun",
+    "syllables": [
+      "June"
+    ],
+    "exampleSentence": "June",
+    "exampleTranslation": "junho"
+  },
+  {
+    "id": "to_be_interrogative_15",
+    "word": "July",
+    "translation": "julho",
+    "pronunciation": "/dʒuˈlaɪ/",
+    "portuguesePhonetic": "dju-lai",
+    "syllables": [
+      "Ju",
+      "ly"
+    ],
+    "exampleSentence": "July",
+    "exampleTranslation": "julho"
+  },
+  {
+    "id": "to_be_interrogative_16",
+    "word": "August",
+    "translation": "agosto",
+    "pronunciation": "/ˈɔɡəst/",
+    "portuguesePhonetic": "ó-gãst",
+    "syllables": [
+      "Au",
+      "gust"
+    ],
+    "exampleSentence": "August",
+    "exampleTranslation": "agosto"
+  },
+  {
+    "id": "to_be_interrogative_17",
+    "word": "September",
+    "translation": "setembro",
+    "pronunciation": "/sɛpˈtɛmbər/",
+    "portuguesePhonetic": "sep-tém-ber",
+    "syllables": [
+      "Sep",
+      "tem",
+      "ber"
+    ],
+    "exampleSentence": "September",
+    "exampleTranslation": "setembro"
+  },
+  {
+    "id": "to_be_interrogative_18",
+    "word": "October",
+    "translation": "outubro",
+    "pronunciation": "/ɑkˈtoʊbər/",
+    "portuguesePhonetic": "oc-tôu-ber",
+    "syllables": [
+      "Oc",
+      "to",
+      "ber"
+    ],
+    "exampleSentence": "October",
+    "exampleTranslation": "outubro"
+  },
+  {
+    "id": "to_be_interrogative_19",
+    "word": "November",
+    "translation": "novembro",
+    "pronunciation": "/noʊˈvɛmbər/",
+    "portuguesePhonetic": "nôu-vém-ber",
+    "syllables": [
+      "No",
+      "vem",
+      "ber"
+    ],
+    "exampleSentence": "November",
+    "exampleTranslation": "novembro"
+  },
+  {
+    "id": "to_be_interrogative_20",
+    "word": "December",
+    "translation": "dezembro",
+    "pronunciation": "/dɪˈsɛmbər/",
+    "portuguesePhonetic": "di-sém-ber",
+    "syllables": [
+      "De",
+      "cem",
+      "ber"
+    ],
+    "exampleSentence": "December",
+    "exampleTranslation": "dezembro"
+  },
+  {
+    "id": "to_be_interrogative_21",
+    "word": "birthday",
+    "translation": "aniversário",
+    "pronunciation": "/ˈbɜrθˌdeɪ/",
+    "portuguesePhonetic": "bãrth-dei",
+    "syllables": [
+      "birth",
+      "day"
+    ],
+    "exampleSentence": "birthday",
+    "exampleTranslation": "aniversário"
+  },
+  {
+    "id": "to_be_interrogative_22",
+    "word": "young",
+    "translation": "jovem",
+    "pronunciation": "/jʌŋ/",
+    "portuguesePhonetic": "iâng",
+    "syllables": [
+      "young"
+    ],
+    "exampleSentence": "young",
+    "exampleTranslation": "jovem"
+  },
+  {
+    "id": "to_be_interrogative_23",
+    "word": "ready",
+    "translation": "pronto(a)",
+    "pronunciation": "/ˈrɛdi/",
+    "portuguesePhonetic": "ré-di",
+    "syllables": [
+      "rea",
+      "dy"
+    ],
+    "exampleSentence": "ready",
+    "exampleTranslation": "pronto(a)"
+  },
+  {
+    "id": "to_be_interrogative_24",
+    "word": "who",
+    "translation": "quem",
+    "pronunciation": "/hu/",
+    "portuguesePhonetic": "rú",
+    "syllables": [
+      "who"
+    ],
+    "exampleSentence": "who",
+    "exampleTranslation": "quem"
+  },
+  {
+    "id": "to_be_interrogative_25",
+    "word": "How old are you?",
+    "translation": "Quantos anos você tem?",
+    "pronunciation": "/haʊ oʊld ɑr ju?/",
+    "portuguesePhonetic": "ráu ôuld ar iu?",
+    "syllables": [
+      "How",
+      " old",
+      " are",
+      " you?"
+    ],
+    "exampleSentence": "How old are you?",
+    "exampleTranslation": "Quantos anos você tem?"
+  },
+  {
+    "id": "to_be_interrogative_26",
+    "word": "I'm 20 years old.",
+    "translation": "Eu tenho 20 anos.",
+    "pronunciation": "/aɪm ˈtwɛnti jɪrz oʊld./",
+    "portuguesePhonetic": "aim tu-én-ti iers ôuld.",
+    "syllables": [
+      "I'm",
+      " 20",
+      " years",
+      " old."
+    ],
+    "exampleSentence": "I'm 20 years old.",
+    "exampleTranslation": "Eu tenho 20 anos."
+  },
+  {
+    "id": "to_be_interrogative_27",
+    "word": "When is your birthday?",
+    "translation": "Quando é o seu aniversário?",
+    "pronunciation": "/wɛn ɪz jʊr ˈbɜrθˌdeɪ?/",
+    "portuguesePhonetic": "uen iz iór bãrth-dei?",
+    "syllables": [
+      "When",
+      " is",
+      " your",
+      " birth",
+      "day?"
+    ],
+    "exampleSentence": "When is your birthday?",
+    "exampleTranslation": "Quando é o seu aniversário?"
+  },
+  {
+    "id": "to_be_interrogative_28",
+    "word": "It's on May 2nd.",
+    "translation": "É em 2 de maio.",
+    "pronunciation": "/ɪts ɑn meɪ ˈsɛkənd./",
+    "portuguesePhonetic": "its an mêi sé-cond.",
+    "syllables": [
+      "It's",
+      " on",
+      " May",
+      " 2nd."
+    ],
+    "exampleSentence": "It's on May 2nd.",
+    "exampleTranslation": "É em 2 de maio."
+  },
+  {
+    "id": "to_be_interrogative_29",
+    "word": "Are you ready?",
+    "translation": "Você está pronto?",
+    "pronunciation": "/ɑr ju ˈrɛdi?/",
+    "portuguesePhonetic": "ar iu ré-di?",
+    "syllables": [
+      "Are",
+      " you",
+      " rea",
+      "dy?"
+    ],
+    "exampleSentence": "Are you ready?",
+    "exampleTranslation": "Você está pronto?"
+  },
+  {
+    "id": "to_be_interrogative_30",
+    "word": "Is she Brazilian?",
+    "translation": "Ela é brasileira?",
+    "pronunciation": "/ɪz ʃi brəˈzɪljən?/",
+    "portuguesePhonetic": "iz xi bra-zi-li-an?",
+    "syllables": [
+      "Is",
+      " she",
+      " Bra",
+      "zil",
+      "ian?"
+    ],
+    "exampleSentence": "Is she Brazilian?",
+    "exampleTranslation": "Ela é brasileira?"
+  },
+  {
+    "id": "to_be_interrogative_31",
+    "word": "Are they at the office?",
+    "translation": "Eles estão no escritório?",
+    "pronunciation": "/ɑr ðeɪ æt ði ˈɔfɪs?/",
+    "portuguesePhonetic": "ar dêi ét di ó-fis?",
+    "syllables": [
+      "Are",
+      " they",
+      " at",
+      " the",
+      " of",
+      "fice?"
+    ],
+    "exampleSentence": "Are they at the office?",
+    "exampleTranslation": "Eles estão no escritório?"
+  },
+  {
+    "id": "to_be_interrogative_32",
+    "word": "Is your father a manager?",
+    "translation": "Seu pai é gerente?",
+    "pronunciation": "/ɪz jʊr ˈfɑðər ə ˈmænɪdʒər?/",
+    "portuguesePhonetic": "iz iór fá-der a mé-ne-djer?",
+    "syllables": [
+      "Is",
+      " your",
+      " fa",
+      "ther",
+      " a",
+      " ma",
+      "na",
+      "ger?"
+    ],
+    "exampleSentence": "Is your father a manager?",
+    "exampleTranslation": "Seu pai é gerente?"
+  },
+  {
+    "id": "to_be_interrogative_33",
+    "word": "Is the movie bad?",
+    "translation": "O filme é ruim?",
+    "pronunciation": "/ɪz ðə ˈmuvi bæd?/",
+    "portuguesePhonetic": "iz dâ mú-vi béd?",
+    "syllables": [
+      "Is",
+      " the",
+      " mo",
+      "vie",
+      " bad?"
+    ],
+    "exampleSentence": "Is the movie bad?",
+    "exampleTranslation": "O filme é ruim?"
+  },
+  {
+    "id": "to_be_interrogative_34",
+    "word": "Is the boss a referee?",
+    "translation": "O chefe é árbitro?",
+    "pronunciation": "/ɪz ðə bɔs ə ˌrɛfəˈri?/",
+    "portuguesePhonetic": "iz dâ bós a ré-fe-ri?",
+    "syllables": [
+      "Is",
+      " the",
+      " boss",
+      " a",
+      " re",
+      "fe",
+      "ree?"
+    ],
+    "exampleSentence": "Is the boss a referee?",
+    "exampleTranslation": "O chefe é árbitro?"
+  },
+  {
+    "id": "to_be_interrogative_35",
+    "word": "Are the students there?",
+    "translation": "Os alunos estão lá?",
+    "pronunciation": "/ɑr ðə ˈstudənts ðɛr?/",
+    "portuguesePhonetic": "ar dâ stú-dents dér?",
+    "syllables": [
+      "Are",
+      " the",
+      " stu",
+      "dents",
+      " there?"
+    ],
+    "exampleSentence": "Are the students there?",
+    "exampleTranslation": "Os alunos estão lá?"
+  },
+  {
+    "id": "to_be_interrogative_36",
+    "word": "Who is he?",
+    "translation": "Quem é ele?",
+    "pronunciation": "/hu ɪz hi?/",
+    "portuguesePhonetic": "rú iz ri?",
+    "syllables": [
+      "Who",
+      " is",
+      " he?"
+    ],
+    "exampleSentence": "Who is he?",
+    "exampleTranslation": "Quem é ele?"
+  },
+  {
+    "id": "to_be_interrogative_37",
+    "word": "Am I late?",
+    "translation": "Eu estou atrasado?",
+    "pronunciation": "/æm aɪ leɪt?/",
+    "portuguesePhonetic": "ém ai lêit?",
+    "syllables": [
+      "Am",
+      " I",
+      " late?"
+    ],
+    "exampleSentence": "Am I late?",
+    "exampleTranslation": "Eu estou atrasado?"
+  },
+  {
+    "id": "to_be_interrogative_38",
+    "word": "Are you Brazilian?",
+    "translation": "Você é brasileiro?",
+    "pronunciation": "/ɑr ju brəˈzɪljən?/",
+    "portuguesePhonetic": "ar iu bra-zi-li-an?",
+    "syllables": [
+      "Are",
+      " you",
+      " Bra",
+      "zil",
+      "ian?"
+    ],
+    "exampleSentence": "Are you Brazilian?",
+    "exampleTranslation": "Você é brasileiro?"
+  },
+  {
+    "id": "to_be_interrogative_39",
+    "word": "Is she a student?",
+    "translation": "Ela é estudante?",
+    "pronunciation": "/ɪz ʃi ə ˈstudənt?/",
+    "portuguesePhonetic": "iz xi a stú-dent?",
+    "syllables": [
+      "Is",
+      " she",
+      " a",
+      " stu",
+      "dent?"
+    ],
+    "exampleSentence": "Is she a student?",
+    "exampleTranslation": "Ela é estudante?"
+  },
+  {
+    "id": "to_be_interrogative_40",
+    "word": "Is he a sales clerk?",
+    "translation": "Ele é vendedor?",
+    "pronunciation": "/ɪz hi ə seɪlz klɜrk?/",
+    "portuguesePhonetic": "iz ri a sêils clãrk?",
+    "syllables": [
+      "Is",
+      " he",
+      " a",
+      " sales",
+      " clerk?"
+    ],
+    "exampleSentence": "Is he a sales clerk?",
+    "exampleTranslation": "Ele é vendedor?"
+  },
+  {
+    "id": "to_be_interrogative_41",
+    "word": "Is it a good book?",
+    "translation": "É um bom livro?",
+    "pronunciation": "/ɪz ɪt ə ɡʊd bʊk?/",
+    "portuguesePhonetic": "iz it a gud buc?",
+    "syllables": [
+      "Is",
+      " it",
+      " a",
+      " good",
+      " book?"
+    ],
+    "exampleSentence": "Is it a good book?",
+    "exampleTranslation": "É um bom livro?"
+  },
+  {
+    "id": "to_be_interrogative_42",
+    "word": "Are we ready to start?",
+    "translation": "Nós estamos prontos para começar?",
+    "pronunciation": "/ɑr wi ˈrɛdi tə stɑrt?/",
+    "portuguesePhonetic": "ar uí ré-di tchu start?",
+    "syllables": [
+      "Are",
+      " we",
+      " rea",
+      "dy",
+      " to",
+      " start?"
+    ],
+    "exampleSentence": "Are we ready to start?",
+    "exampleTranslation": "Nós estamos prontos para começar?"
+  },
+  {
+    "id": "to_be_interrogative_43",
+    "word": "Are they with you?",
+    "translation": "Eles estão com você?",
+    "pronunciation": "/ɑr ðeɪ wɪθ ju?/",
+    "portuguesePhonetic": "ar dêi uith iu?",
+    "syllables": [
+      "Are",
+      " they",
+      " with",
+      " you?"
+    ],
+    "exampleSentence": "Are they with you?",
+    "exampleTranslation": "Eles estão com você?"
+  },
+  {
+    "id": "to_be_interrogative_44",
+    "word": "Who are you?",
+    "translation": "Quem é você?",
+    "pronunciation": "/hu ɑr ju?/",
+    "portuguesePhonetic": "rú ar iu?",
+    "syllables": [
+      "Who",
+      " are",
+      " you?"
+    ],
+    "exampleSentence": "Who are you?",
+    "exampleTranslation": "Quem é você?"
+  },
+  {
+    "id": "to_be_interrogative_45",
+    "word": "Who are those people?",
+    "translation": "Quem são aquelas pessoas?",
+    "pronunciation": "/hu ɑr ðoʊz ˈpipəl?/",
+    "portuguesePhonetic": "rú ar dôuz pí-pol?",
+    "syllables": [
+      "Who",
+      " are",
+      " those",
+      " peo",
+      "ple?"
+    ],
+    "exampleSentence": "Who are those people?",
+    "exampleTranslation": "Quem são aquelas pessoas?"
+  },
+  {
+    "id": "to_be_interrogative_46",
+    "word": "How old is she?",
+    "translation": "Quantos anos ela tem?",
+    "pronunciation": "/haʊ oʊld ɪz ʃi?/",
+    "portuguesePhonetic": "ráu ôuld iz xi?",
+    "syllables": [
+      "How",
+      " old",
+      " is",
+      " she?"
+    ],
+    "exampleSentence": "How old is she?",
+    "exampleTranslation": "Quantos anos ela tem?"
+  },
+  {
+    "id": "to_be_interrogative_47",
+    "word": "She's ten years old.",
+    "translation": "Ela tem dez anos.",
+    "pronunciation": "/ʃiz tɛn jɪrz oʊld./",
+    "portuguesePhonetic": "xíz ten iers ôuld.",
+    "syllables": [
+      "She's",
+      " ten",
+      " years",
+      " old."
+    ],
+    "exampleSentence": "She's ten years old.",
+    "exampleTranslation": "Ela tem dez anos."
+  },
+  {
+    "id": "to_be_interrogative_48",
+    "word": "When is her birthday?",
+    "translation": "Quando é o aniversário dela?",
+    "pronunciation": "/wɛn ɪz hɜr ˈbɜrθˌdeɪ?/",
+    "portuguesePhonetic": "uen iz rãr bãrth-dei?",
+    "syllables": [
+      "When",
+      " is",
+      " her",
+      " birth",
+      "day?"
+    ],
+    "exampleSentence": "When is her birthday?",
+    "exampleTranslation": "Quando é o aniversário dela?"
+  },
+  {
+    "id": "to_be_interrogative_49",
+    "word": "It's in April.",
+    "translation": "É em abril.",
+    "pronunciation": "/ɪts ɪn ˈeɪprəl./",
+    "portuguesePhonetic": "its in êi-prou.",
+    "syllables": [
+      "It's",
+      " in",
+      " A",
+      "pril."
+    ],
+    "exampleSentence": "It's in April.",
+    "exampleTranslation": "É em abril."
+  },
+  {
+    "id": "to_be_interrogative_50",
+    "word": "sixteenth",
+    "translation": "16th — décimo sexto",
+    "pronunciation": "/sɪkˈstinθ/",
+    "portuguesePhonetic": "sics-tinth",
+    "syllables": [
+      "six",
+      "teenth"
+    ],
+    "exampleSentence": "sixteenth",
+    "exampleTranslation": "16th — décimo sexto"
+  },
+  {
+    "id": "to_be_interrogative_51",
+    "word": "seventeenth",
+    "translation": "17th — décimo sétimo",
+    "pronunciation": "/ˌsɛvənˈtinθ/",
+    "portuguesePhonetic": "se-ven-tinth",
+    "syllables": [
+      "se",
+      "ven",
+      "teenth"
+    ],
+    "exampleSentence": "seventeenth",
+    "exampleTranslation": "17th — décimo sétimo"
+  },
+  {
+    "id": "to_be_interrogative_52",
+    "word": "eighteenth",
+    "translation": "18th — décimo oitavo",
+    "pronunciation": "/eɪˈtinθ/",
+    "portuguesePhonetic": "ei-tinth",
+    "syllables": [
+      "eigh",
+      "teenth"
+    ],
+    "exampleSentence": "eighteenth",
+    "exampleTranslation": "18th — décimo oitavo"
+  },
+  {
+    "id": "to_be_interrogative_53",
+    "word": "nineteenth",
+    "translation": "19th — décimo nono",
+    "pronunciation": "/naɪnˈtinθ/",
+    "portuguesePhonetic": "nain-tinth",
+    "syllables": [
+      "nine",
+      "teenth"
+    ],
+    "exampleSentence": "nineteenth",
+    "exampleTranslation": "19th — décimo nono"
+  },
+  {
+    "id": "to_be_interrogative_54",
+    "word": "twentieth",
+    "translation": "20th — vigésimo",
+    "pronunciation": "/ˈtwɛntiəθ/",
+    "portuguesePhonetic": "tu-én-ti-eth",
+    "syllables": [
+      "twen",
+      "ti",
+      "eth"
+    ],
+    "exampleSentence": "twentieth",
+    "exampleTranslation": "20th — vigésimo"
+  },
+  {
+    "id": "to_be_interrogative_55",
+    "word": "twenty-first",
+    "translation": "21st — vigésimo primeiro",
+    "pronunciation": "/ˈtwɛnti-fɜrst/",
+    "portuguesePhonetic": "tu-én-ti-fãrst",
+    "syllables": [
+      "twen",
+      "ty-",
+      "first"
+    ],
+    "exampleSentence": "twenty-first",
+    "exampleTranslation": "21st — vigésimo primeiro"
+  },
+  {
+    "id": "to_be_interrogative_56",
+    "word": "twenty-second",
+    "translation": "22nd — vigésimo segundo",
+    "pronunciation": "/ˈtwɛnti-ˈsɛkənd/",
+    "portuguesePhonetic": "tu-én-ti-sé-cond",
+    "syllables": [
+      "twen",
+      "ty-",
+      "se",
+      "cond"
+    ],
+    "exampleSentence": "twenty-second",
+    "exampleTranslation": "22nd — vigésimo segundo"
+  },
+  {
+    "id": "to_be_interrogative_57",
+    "word": "twenty-third",
+    "translation": "23rd — vigésimo terceiro",
+    "pronunciation": "/ˈtwɛnti-θɜrd/",
+    "portuguesePhonetic": "tu-én-ti-thãrd",
+    "syllables": [
+      "twen",
+      "ty-",
+      "third"
+    ],
+    "exampleSentence": "twenty-third",
+    "exampleTranslation": "23rd — vigésimo terceiro"
+  },
+  {
+    "id": "to_be_interrogative_58",
+    "word": "twenty-fourth",
+    "translation": "24th — vigésimo quarto",
+    "pronunciation": "/ˈtwɛnti-fɔrθ/",
+    "portuguesePhonetic": "tu-én-ti-fórth",
+    "syllables": [
+      "twen",
+      "ty-",
+      "fourth"
+    ],
+    "exampleSentence": "twenty-fourth",
+    "exampleTranslation": "24th — vigésimo quarto"
+  },
+  {
+    "id": "to_be_interrogative_59",
+    "word": "twenty-fifth",
+    "translation": "25th — vigésimo quinto",
+    "pronunciation": "/ˈtwɛnti-fɪfθ/",
+    "portuguesePhonetic": "tu-én-ti-fif-th",
+    "syllables": [
+      "twen",
+      "ty-",
+      "fifth"
+    ],
+    "exampleSentence": "twenty-fifth",
+    "exampleTranslation": "25th — vigésimo quinto"
+  },
+  {
+    "id": "to_be_interrogative_60",
+    "word": "twenty-ninth",
+    "translation": "29th — vigésimo nono",
+    "pronunciation": "/ˈtwɛnti-naɪnθ/",
+    "portuguesePhonetic": "tu-én-ti-nain-th",
+    "syllables": [
+      "twen",
+      "ty-",
+      "ninth"
+    ],
+    "exampleSentence": "twenty-ninth",
+    "exampleTranslation": "29th — vigésimo nono"
+  },
+  {
+    "id": "to_be_interrogative_61",
+    "word": "thirtieth",
+    "translation": "30th — trigésimo",
+    "pronunciation": "/ˈθɜrtiəθ/",
+    "portuguesePhonetic": "thãr-ti-eth",
+    "syllables": [
+      "thir",
+      "ti",
+      "eth"
+    ],
+    "exampleSentence": "thirtieth",
+    "exampleTranslation": "30th — trigésimo"
+  },
+  {
+    "id": "to_be_interrogative_62",
+    "word": "thirty-first",
+    "translation": "31st — trigésimo primeiro",
+    "pronunciation": "/ˈθɜrti-fɜrst/",
+    "portuguesePhonetic": "thãr-ti-fãrst",
+    "syllables": [
+      "thir",
+      "ty-",
+      "first"
+    ],
+    "exampleSentence": "thirty-first",
+    "exampleTranslation": "31st — trigésimo primeiro"
+  },
+  {
+    "id": "to_be_interrogative_63",
+    "word": "in October",
+    "translation": "em outubro",
+    "pronunciation": "/ɪn ɑkˈtoʊbər/",
+    "portuguesePhonetic": "in oc-tôu-ber",
+    "syllables": [
+      "in",
+      " Oc",
+      "to",
+      "ber"
+    ],
+    "exampleSentence": "in October",
+    "exampleTranslation": "em outubro"
+  },
+  {
+    "id": "to_be_interrogative_64",
+    "word": "in April",
+    "translation": "em abril",
+    "pronunciation": "/ɪn ˈeɪprəl/",
+    "portuguesePhonetic": "in êi-prou",
+    "syllables": [
+      "in",
+      " A",
+      "pril"
+    ],
+    "exampleSentence": "in April",
+    "exampleTranslation": "em abril"
+  },
+  {
+    "id": "to_be_interrogative_65",
+    "word": "on October 29th",
+    "translation": "em 29 de outubro",
+    "pronunciation": "/ɑn ɑkˈtoʊbər ˈtwɛnti-naɪnθ/",
+    "portuguesePhonetic": "an oc-tôu-ber tu-én-ti-nain-th",
+    "syllables": [
+      "on",
+      " Oc",
+      "to",
+      "ber",
+      " 29th"
+    ],
+    "exampleSentence": "on October 29th",
+    "exampleTranslation": "em 29 de outubro"
+  },
+  {
+    "id": "to_be_interrogative_66",
+    "word": "My birthday is in October.",
+    "translation": "Meu aniversário é em outubro.",
+    "pronunciation": "/maɪ ˈbɜrθˌdeɪ ɪz ɪn ɑkˈtoʊbər./",
+    "portuguesePhonetic": "mai bãrth-dei iz in oc-tôu-ber.",
+    "syllables": [
+      "My",
+      " birth",
+      "day",
+      " is",
+      " in",
+      " Oc",
+      "to",
+      "ber."
+    ],
+    "exampleSentence": "My birthday is in October.",
+    "exampleTranslation": "Meu aniversário é em outubro."
+  },
+  {
+    "id": "to_be_interrogative_67",
+    "word": "My birthday is on October 29th.",
+    "translation": "Meu aniversário é em 29 de outubro.",
+    "pronunciation": "/maɪ ˈbɜrθˌdeɪ ɪz ɑn ɑkˈtoʊbər ˈtwɛnti-naɪnθ./",
+    "portuguesePhonetic": "mai bãrth-dei iz an oc-tôu-ber tu-én-ti-nain-th.",
+    "syllables": [
+      "My",
+      " birth",
+      "day",
+      " is",
+      " on",
+      " Oc",
+      "to",
+      "ber",
+      " 29th."
+    ],
+    "exampleSentence": "My birthday is on October 29th.",
+    "exampleTranslation": "Meu aniversário é em 29 de outubro."
+  },
+  {
+    "id": "to_be_interrogative_68",
+    "word": "Are you British or American? – We are American.",
+    "translation": "Vocês são britânicos ou americanos? – Nós somos americanos.",
+    "pronunciation": "/ɑr ju ˈbrɪtɪʃ ɔr əˈmɛrɪkən? – wi ɑr əˈmɛrɪkən./",
+    "portuguesePhonetic": "ar iu brí-tich ór a-mé-ri-can? – ui ar a-mé-ri-can.",
+    "syllables": [
+      "Are",
+      " you",
+      " Brit",
+      "ish",
+      " or",
+      " A",
+      "mer",
+      "i",
+      "can?",
+      " –",
+      " We",
+      " are",
+      " A",
+      "mer",
+      "i",
+      "can."
+    ],
+    "exampleSentence": "Are you British or American? – We are American.",
+    "exampleTranslation": "Vocês são britânicos ou americanos? – Nós somos americanos."
+  },
+  {
+    "id": "to_be_interrogative_69",
+    "word": "Is the sales clerk busy now? – No, she isn't.",
+    "translation": "A vendedora está ocupada agora? – Não, ela não está.",
+    "pronunciation": "/ɪz ðə seɪlz klɜrk ˈbɪzi naʊ? – noʊ, ʃi ˈɪzənt./",
+    "portuguesePhonetic": "iz dâ sêils clãrc bí-zi náu? – nôu, chi í-zent.",
+    "syllables": [
+      "Is",
+      " the",
+      " sales",
+      " clerk",
+      " bu",
+      "sy",
+      " now?",
+      " –",
+      " No,",
+      " she",
+      " isn't."
+    ],
+    "exampleSentence": "Is the sales clerk busy now? – No, she isn't.",
+    "exampleTranslation": "A vendedora está ocupada agora? – Não, ela não está."
+  },
+  {
+    "id": "to_be_interrogative_70",
+    "word": "How old are you? – I'm 23 years old.",
+    "translation": "Quantos anos você tem? – Eu tenho 23 anos.",
+    "pronunciation": "/haʊ oʊld ɑr ju? – aɪm ˈtwɛnti-θri jɪrz oʊld./",
+    "portuguesePhonetic": "ráu ôuld ar iu? – aim tu-én-ti-thri íar-zôuld.",
+    "syllables": [
+      "How",
+      " old",
+      " are",
+      " you?",
+      " –",
+      " I'm",
+      " 23",
+      " years",
+      " old."
+    ],
+    "exampleSentence": "How old are you? – I'm 23 years old.",
+    "exampleTranslation": "Quantos anos você tem? – Eu tenho 23 anos."
+  },
+  {
+    "id": "to_be_interrogative_71",
+    "word": "Who is she? – She is my mother. Her name is Kim.",
+    "translation": "Quem é ela? – Ela é minha mãe. O nome dela é Kim.",
+    "pronunciation": "/hu ɪz ʃi? – ʃi ɪz maɪ ˈmʌðər. hər neɪm ɪz kɪm./",
+    "portuguesePhonetic": "rú iz chi? – chi iz mai má-der. rãr nêim iz quim.",
+    "syllables": [
+      "Who",
+      " is",
+      " she?",
+      " –",
+      " She",
+      " is",
+      " my",
+      " moth",
+      "er.",
+      " Her",
+      " name",
+      " is",
+      " Kim."
+    ],
+    "exampleSentence": "Who is she? – She is my mother. Her name is Kim.",
+    "exampleTranslation": "Quem é ela? – Ela é minha mãe. O nome dela é Kim."
+  },
+  {
+    "id": "to_be_interrogative_72",
+    "word": "Who are those children? – They are my brothers. They live with my father.",
+    "translation": "Quem são aquelas crianças? – Eles são meus irmãos. Eles moram com meu pai.",
+    "pronunciation": "/hu ɑr ðoʊz ˈtʃɪldrən? – ðeɪ ɑr maɪ ˈbrʌðərz. ðeɪ lɪv wɪð maɪ ˈfɑðər./",
+    "portuguesePhonetic": "rú ar dôuz tchíl-dren? – dêi ar mai brá-derz. dêi liv uid mai fá-der.",
+    "syllables": [
+      "Who",
+      " are",
+      " those",
+      " chil",
+      "dren?",
+      " –",
+      " They",
+      " are",
+      " my",
+      " broth",
+      "ers.",
+      " They",
+      " live",
+      " with",
+      " my",
+      " fa",
+      "ther."
+    ],
+    "exampleSentence": "Who are those children? – They are my brothers. They live with my father.",
+    "exampleTranslation": "Quem são aquelas crianças? – Eles são meus irmãos. Eles moram com meu pai."
+  },
+  {
+    "id": "to_be_interrogative_73",
+    "word": "Are you ready to start the class? – Yes, we are!",
+    "translation": "Vocês estão prontos para começar a aula? – Sim, nós estamos!",
+    "pronunciation": "/ɑr ju ˈrɛdi tu stɑrt ðə khlæs? – jɛs, wi ɑr!/",
+    "portuguesePhonetic": "ar iu ré-di tchu stárt dâ clés? – iés, ui ar!",
+    "syllables": [
+      "Are",
+      " you",
+      " rea",
+      "dy",
+      " to",
+      " start",
+      " the",
+      " class?",
+      " –",
+      " Yes,",
+      " we",
+      " are!"
+    ],
+    "exampleSentence": "Are you ready to start the class? – Yes, we are!",
+    "exampleTranslation": "Vocês estão prontos para começar a aula? – Sim, nós estamos!"
+  },
+  {
+    "id": "to_be_interrogative_74",
+    "word": "When is your birthday? – My birthday is in February.",
+    "translation": "Quando é seu aniversário? – Meu aniversário é em fevereiro.",
+    "pronunciation": "/wɛn ɪz jʊr ˈbɜrθˌdeɪ? – maɪ ˈbɜrθˌdeɪ ɪz ɪn ˈfɛbjuˌɛri./",
+    "portuguesePhonetic": "uén iz iór bãrth-dêi? – mai bãrth-dêi iz in fé-bru-é-ri.",
+    "syllables": [
+      "When",
+      " is",
+      " your",
+      " birth",
+      "day?",
+      " –",
+      " My",
+      " birth",
+      "day",
+      " is",
+      " in",
+      " Feb",
+      "ru",
+      "ar",
+      "y."
+    ],
+    "exampleSentence": "When is your birthday? – My birthday is in February.",
+    "exampleTranslation": "Quando é seu aniversário? – Meu aniversário é em fevereiro."
+  },
+  {
+    "id": "to_be_interrogative_75",
+    "word": "Is your uncle an engineer? – No, he is a doctor.",
+    "translation": "Seu tio é engenheiro? – Não, ele é médico.",
+    "pronunciation": "/ɪz jʊr ˈʌŋkəl ən ˌɛndʒəˈnɪr? – noʊ, heɪ ɪz ə ˈdɑktər./",
+    "portuguesePhonetic": "iz iór án-col ân en-di-níar? – nôu, ri iz â dóc-ter.",
+    "syllables": [
+      "Is",
+      " your",
+      " un",
+      "cle",
+      " an",
+      " en",
+      "gi",
+      "neer?",
+      " –",
+      " No,",
+      " he",
+      " is",
+      " a",
+      " doc",
+      "tor."
+    ],
+    "exampleSentence": "Is your uncle an engineer? – No, he is a doctor.",
+    "exampleTranslation": "Seu tio é engenheiro? – Não, ele é médico."
+  },
+  {
+    "id": "to_be_interrogative_76",
+    "word": "Is the restaurant good? – Yes, it's very good.",
+    "translation": "O restaurante é bom? – Sim, é muito bom.",
+    "pronunciation": "/ɪz ðə ˈrɛstəˌrɑnt ɡʊd? – jɛs, ɪts ˈvɛri ɡʊd./",
+    "portuguesePhonetic": "iz dâ rés-to-rant gud? – iés, its vé-ri gud.",
+    "syllables": [
+      "Is",
+      " the",
+      " res",
+      "tau",
+      "rant",
+      " good?",
+      " –",
+      " Yes,",
+      " it's",
+      " ve",
+      "ry",
+      " good."
+    ],
+    "exampleSentence": "Is the restaurant good? – Yes, it's very good.",
+    "exampleTranslation": "O restaurante é bom? – Sim, é muito bom."
+  },
+  {
+    "id": "to_be_interrogative_77",
+    "word": "He is Brazilian, but he lives in Germany.",
+    "translation": "Ele é brasileiro, mas vive na Alemanha.",
+    "pronunciation": "/hi ɪz brəˈzɪljən, bʌt hi lɪvz ɪn ˈdʒɜrməni./",
+    "portuguesePhonetic": "ri iz bra-zí-lian, bât ri livz in djãr-ma-ni.",
+    "syllables": [
+      "He",
+      " is",
+      " Bra",
+      "zil",
+      "ian,",
+      " but",
+      " he",
+      " lives",
+      " in",
+      " Ger",
+      "ma",
+      "ny."
+    ],
+    "exampleSentence": "He is Brazilian, but he lives in Germany.",
+    "exampleTranslation": "Ele é brasileiro, mas vive na Alemanha."
+  },
+  {
+    "id": "to_be_interrogative_78",
+    "word": "Who are these children?",
+    "translation": "Quem são estas crianças?",
+    "pronunciation": "/hu ɑr ðiz ˈtʃɪldrən?/",
+    "portuguesePhonetic": "rú ar díz tchíl-dren?",
+    "syllables": [
+      "Who",
+      " are",
+      " these",
+      " chil",
+      "dren?"
+    ],
+    "exampleSentence": "Who are these children?",
+    "exampleTranslation": "Quem são estas crianças?"
+  },
+  {
+    "id": "to_be_interrogative_79",
+    "word": "These children are my students.",
+    "translation": "Resposta: Estas crianças são meus alunos.",
+    "pronunciation": "/ðiz ˈtʃɪldrən ɑr maɪ ˈstudənts./",
+    "portuguesePhonetic": "díz tchíl-dren ar mai stú-dents.",
+    "syllables": [
+      "These",
+      " chil",
+      "dren",
+      " are",
+      " my",
+      " stu",
+      "dents."
+    ],
+    "exampleSentence": "These children are my students.",
+    "exampleTranslation": "Resposta: Estas crianças são meus alunos."
+  },
+  {
+    "id": "to_be_interrogative_80",
+    "word": "How old are they?",
+    "translation": "Quantos anos eles têm?",
+    "pronunciation": "/haʊ oʊld ɑr ðeɪ?/",
+    "portuguesePhonetic": "ráu ôuld ar dêi?",
+    "syllables": [
+      "How",
+      " old",
+      " are",
+      " they?"
+    ],
+    "exampleSentence": "How old are they?",
+    "exampleTranslation": "Quantos anos eles têm?"
+  },
+  {
+    "id": "to_be_interrogative_81",
+    "word": "They are seven years old.",
+    "translation": "Resposta: Eles têm sete anos.",
+    "pronunciation": "/ðeɪ ɑr ˈsɛvən jɪrz oʊld./",
+    "portuguesePhonetic": "dêi ar sé-ven íar-zôuld.",
+    "syllables": [
+      "They",
+      " are",
+      " sev",
+      "en",
+      " years",
+      " old."
+    ],
+    "exampleSentence": "They are seven years old.",
+    "exampleTranslation": "Resposta: Eles têm sete anos."
+  },
+  {
+    "id": "to_be_interrogative_82",
+    "word": "Why are they worried?",
+    "translation": "Por que eles estão preocupados?",
+    "pronunciation": "/waɪ ɑr ðeɪ ˈwɜrid?/",
+    "portuguesePhonetic": "uái ar dêi uã-rid?",
+    "syllables": [
+      "Why",
+      " are",
+      " they",
+      " wor",
+      "ried?"
+    ],
+    "exampleSentence": "Why are they worried?",
+    "exampleTranslation": "Por que eles estão preocupados?"
+  },
+  {
+    "id": "to_be_interrogative_83",
+    "word": "They are worried because they have an exam tomorrow.",
+    "translation": "Resposta: Eles estão preocupados porque têm uma prova amanhã.",
+    "pronunciation": "/ðeɪ ɑr ˈwɜrid bɪˈkɔz ðeɪ hæv ən ɪɡˈzæm təˈmɑˌroʊ./",
+    "portuguesePhonetic": "dêi ar uã-rid bi-cóz dêi rév ân eg-zém tu-mó-rou.",
+    "syllables": [
+      "They",
+      " are",
+      " wor",
+      "ried",
+      " be",
+      "cause",
+      " they",
+      " have",
+      " an",
+      " ex",
+      "am",
+      " to",
+      "mor",
+      "row."
+    ],
+    "exampleSentence": "They are worried because they have an exam tomorrow.",
+    "exampleTranslation": "Resposta: Eles estão preocupados porque têm uma prova amanhã."
+  },
+  {
+    "id": "to_be_interrogative_84",
+    "word": "Who is that student?",
+    "translation": "Quem é aquele estudante?",
+    "pronunciation": "/hu ɪz ðæt ˈstudənt?/",
+    "portuguesePhonetic": "rú iz dét stú-dent?",
+    "syllables": [
+      "Who",
+      " is",
+      " that",
+      " stu",
+      "dent?"
+    ],
+    "exampleSentence": "Who is that student?",
+    "exampleTranslation": "Quem é aquele estudante?"
+  },
+  {
+    "id": "to_be_interrogative_85",
+    "word": "That student is my friend.",
+    "translation": "Resposta: Aquele estudante é meu amigo.",
+    "pronunciation": "/ðæt ˈstudənt ɪz maɪ frɛnd./",
+    "portuguesePhonetic": "dét stú-dent iz mai frend.",
+    "syllables": [
+      "That",
+      " stu",
+      "dent",
+      " is",
+      " my",
+      " friend."
+    ],
+    "exampleSentence": "That student is my friend.",
+    "exampleTranslation": "Resposta: Aquele estudante é meu amigo."
+  },
+  {
+    "id": "to_be_interrogative_86",
+    "word": "Who are those people at the store?",
+    "translation": "Quem são aquelas pessoas na loja?",
+    "pronunciation": "/hu ɑr ðoʊz ˈpipəl æt ðə stɔr?/",
+    "portuguesePhonetic": "rú ar dôuz pí-pol ét dâ stór?",
+    "syllables": [
+      "Who",
+      " are",
+      " those",
+      " peo",
+      "ple",
+      " at",
+      " the",
+      " store?"
+    ],
+    "exampleSentence": "Who are those people at the store?",
+    "exampleTranslation": "Quem são aquelas pessoas na loja?"
+  },
+  {
+    "id": "to_be_interrogative_87",
+    "word": "Those people at the store are sales clerks.",
+    "translation": "Resposta: Aquelas pessoas na loja são vendedores.",
+    "pronunciation": "/ðoʊz ˈpipəl æt ðə stɔr ɑr seɪlz klɜrks./",
+    "portuguesePhonetic": "dôuz pí-pol ét dâ stór ar sêils clãrcs.",
+    "syllables": [
+      "Those",
+      " peo",
+      "ple",
+      " at",
+      " the",
+      " store",
+      " are",
+      " sales",
+      " clerks."
+    ],
+    "exampleSentence": "Those people at the store are sales clerks.",
+    "exampleTranslation": "Resposta: Aquelas pessoas na loja são vendedores."
+  },
+  {
+    "id": "to_be_interrogative_88",
+    "word": "Are you sick?",
+    "translation": "Você está doente?",
+    "pronunciation": "/ɑr ju sɪk?/",
+    "portuguesePhonetic": "ar iu síc?",
+    "syllables": [
+      "Are",
+      " you",
+      " sick?"
+    ],
+    "exampleSentence": "Are you sick?",
+    "exampleTranslation": "Você está doente?"
+  },
+  {
+    "id": "to_be_interrogative_89",
+    "word": "No, I'm not sick. I'm sad.",
+    "translation": "Resposta: Não, eu não estou doente. Estou triste.",
+    "pronunciation": "/noʊ, aɪm nɑt sɪk. aɪm sæd./",
+    "portuguesePhonetic": "nôu, aim nat síc. aim séd.",
+    "syllables": [
+      "No,",
+      " I'm",
+      " not",
+      " sick.",
+      " I'm",
+      " sad."
+    ],
+    "exampleSentence": "No, I'm not sick. I'm sad.",
+    "exampleTranslation": "Resposta: Não, eu não estou doente. Estou triste."
+  },
+  {
+    "id": "to_be_interrogative_90",
+    "word": "When is your birthday?",
+    "translation": "Quando é seu aniversário?",
+    "pronunciation": "/wɛn ɪz jʊr ˈbɜrθˌdeɪ?/",
+    "portuguesePhonetic": "uén iz iór bãrth-dei?",
+    "syllables": [
+      "When",
+      " is",
+      " your",
+      " birth",
+      "day?"
+    ],
+    "exampleSentence": "When is your birthday?",
+    "exampleTranslation": "Quando é seu aniversário?"
+  },
+  {
+    "id": "to_be_interrogative_91",
+    "word": "My birthday is tomorrow.",
+    "translation": "Resposta: Meu aniversário é amanhã.",
+    "pronunciation": "/maɪ ˈbɜrθˌdeɪ ɪz təˈmɔˌroʊ./",
+    "portuguesePhonetic": "mai bãrth-dei iz tu-mó-rou.",
+    "syllables": [
+      "My",
+      " birth",
+      "day",
+      " is",
+      " to",
+      "mor",
+      "row."
+    ],
+    "exampleSentence": "My birthday is tomorrow.",
+    "exampleTranslation": "Resposta: Meu aniversário é amanhã."
+  },
+  {
+    "id": "to_be_interrogative_92",
+    "word": "How old are you?",
+    "translation": "Quantos anos você tem?",
+    "pronunciation": "/haʊ oʊld ɑr ju?/",
+    "portuguesePhonetic": "ráu ôuld ar iu?",
+    "syllables": [
+      "How",
+      " old",
+      " are",
+      " you?"
+    ],
+    "exampleSentence": "How old are you?",
+    "exampleTranslation": "Quantos anos você tem?"
+  },
+  {
+    "id": "to_be_interrogative_93",
+    "word": "I am 61 years old.",
+    "translation": "Resposta: Eu tenho 61 anos.",
+    "pronunciation": "/aɪ æm sɪksti-wʌn jɪrz oʊld./",
+    "portuguesePhonetic": "ai ém sics-ti-uán íar-zôuld.",
+    "syllables": [
+      "I",
+      " am",
+      " 61",
+      " years",
+      " old."
+    ],
+    "exampleSentence": "I am 61 years old.",
+    "exampleTranslation": "Resposta: Eu tenho 61 anos."
+  },
+  {
+    "id": "to_be_interrogative_94",
+    "word": "British",
+    "translation": "britânico",
+    "pronunciation": "/ˈbrɪtɪʃ/",
+    "portuguesePhonetic": "brí-tich",
+    "syllables": [
+      "Brit",
+      "ish"
+    ],
+    "exampleSentence": "Are you British or American?",
+    "exampleTranslation": "Vocês são britânicos ou americanos?"
+  },
+  {
+    "id": "to_be_interrogative_95",
+    "word": "American",
+    "translation": "americano",
+    "pronunciation": "/əˈmɛrɪkən/",
+    "portuguesePhonetic": "a-mé-ri-can",
+    "syllables": [
+      "A",
+      "mer",
+      "i",
+      "can"
+    ],
+    "exampleSentence": "We are American.",
+    "exampleTranslation": "Nós somos americanos."
+  },
+  {
+    "id": "to_be_interrogative_96",
+    "word": "sales clerk",
+    "translation": "vendedor(a)",
+    "pronunciation": "/seɪlz klɜrk/",
+    "portuguesePhonetic": "sêils clãrc",
+    "syllables": [
+      "sales",
+      " clerk"
+    ],
+    "exampleSentence": "Is the sales clerk busy now?",
+    "exampleTranslation": "A vendedora está ocupada agora?"
+  },
+  {
+    "id": "to_be_interrogative_97",
+    "word": "engineer",
+    "translation": "engenheiro",
+    "pronunciation": "/ˌɛndʒəˈnɪr/",
+    "portuguesePhonetic": "en-di-níar",
+    "syllables": [
+      "en",
+      "gi",
+      "neer"
+    ],
+    "exampleSentence": "Is your uncle an engineer?",
+    "exampleTranslation": "Seu tio é engenheiro?"
+  },
+  {
+    "id": "to_be_interrogative_98",
+    "word": "doctor",
+    "translation": "médico",
+    "pronunciation": "/ˈdɑktər/",
+    "portuguesePhonetic": "dóc-ter",
+    "syllables": [
+      "doc",
+      "tor"
+    ],
+    "exampleSentence": "No, he is a doctor.",
+    "exampleTranslation": "Não, ele é médico."
+  },
+  {
+    "id": "to_be_interrogative_99",
+    "word": "mother",
+    "translation": "mãe",
+    "pronunciation": "/ˈmʌðər/",
+    "portuguesePhonetic": "má-der",
+    "syllables": [
+      "moth",
+      "er"
+    ],
+    "exampleSentence": "She is my mother.",
+    "exampleTranslation": "Ela é minha mãe."
+  },
+  {
+    "id": "to_be_interrogative_100",
+    "word": "father",
+    "translation": "pai",
+    "pronunciation": "/ˈfɑðər/",
+    "portuguesePhonetic": "fá-der",
+    "syllables": [
+      "fa",
+      "ther"
+    ],
+    "exampleSentence": "They live with my father.",
+    "exampleTranslation": "Eles moram com meu pai."
+  },
+  {
+    "id": "to_be_interrogative_101",
+    "word": "brother",
+    "translation": "irmão",
+    "pronunciation": "/ˈbrʌðər/",
+    "portuguesePhonetic": "brá-der",
+    "syllables": [
+      "broth",
+      "er"
+    ],
+    "exampleSentence": "They are my brothers.",
+    "exampleTranslation": "Eles são meus irmãos."
+  },
+  {
+    "id": "to_be_interrogative_102",
+    "word": "birthday",
+    "translation": "aniversário",
+    "pronunciation": "/ˈbɜrθˌdeɪ/",
+    "portuguesePhonetic": "bãrth-dêi",
+    "syllables": [
+      "birth",
+      "day"
+    ],
+    "exampleSentence": "When is your birthday?",
+    "exampleTranslation": "Quando é seu aniversário?"
+  },
+  {
+    "id": "to_be_interrogative_103",
+    "word": "February",
+    "translation": "fevereiro",
+    "pronunciation": "/ˈfɛbjuˌɛri/",
+    "portuguesePhonetic": "fé-bru-é-ri",
+    "syllables": [
+      "Feb",
+      "ru",
+      "ar",
+      "y"
+    ],
+    "exampleSentence": "My birthday is in February.",
+    "exampleTranslation": "Meu aniversário é em fevereiro."
+  },
+  {
+    "id": "to_be_interrogative_104",
+    "word": "restaurant",
+    "translation": "restaurante",
+    "pronunciation": "/ˈrɛstəˌrɑnt/",
+    "portuguesePhonetic": "rés-to-rant",
+    "syllables": [
+      "res",
+      "tau",
+      "rant"
+    ],
+    "exampleSentence": "Is the restaurant good?",
+    "exampleTranslation": "O restaurante é bom?"
+  },
+  {
+    "id": "to_be_interrogative_105",
+    "word": "Brazilian",
+    "translation": "brasileiro",
+    "pronunciation": "/brəˈzɪljən/",
+    "portuguesePhonetic": "bra-zí-lian",
+    "syllables": [
+      "Bra",
+      "zil",
+      "ian"
+    ],
+    "exampleSentence": "He is Brazilian, but he lives in Germany.",
+    "exampleTranslation": "Ele é brasileiro, mas vive na Alemanha."
+  },
+  {
+    "id": "to_be_interrogative_106",
+    "word": "Germany",
+    "translation": "Alemanha",
+    "pronunciation": "/ˈdʒɜrməni/",
+    "portuguesePhonetic": "djãr-ma-ni",
+    "syllables": [
+      "Ger",
+      "ma",
+      "ny"
+    ],
+    "exampleSentence": "He lives in Germany.",
+    "exampleTranslation": "Ele vive na Alemanha."
+  },
+  {
+    "id": "to_be_interrogative_107",
+    "word": "student",
+    "translation": "aluno",
+    "pronunciation": "/ˈstudənt/",
+    "portuguesePhonetic": "stú-dent",
+    "syllables": [
+      "stu",
+      "dent"
+    ],
+    "exampleSentence": "These children are my students.",
+    "exampleTranslation": "Estas crianças são meus alunos."
+  },
+  {
+    "id": "to_be_interrogative_108",
+    "word": "exam",
+    "translation": "prova",
+    "pronunciation": "/ɪɡˈzæm/",
+    "portuguesePhonetic": "eg-zém",
+    "syllables": [
+      "ex",
+      "am"
+    ],
+    "exampleSentence": "They have an exam tomorrow.",
+    "exampleTranslation": "Eles têm uma prova amanhã."
+  },
+  {
+    "id": "to_be_interrogative_109",
+    "word": "worried",
+    "translation": "preocupado",
+    "pronunciation": "/ˈwɜrid/",
+    "portuguesePhonetic": "uã-rid",
+    "syllables": [
+      "wor",
+      "ried"
+    ],
+    "exampleSentence": "Why are they worried?",
+    "exampleTranslation": "Por que eles estão preocupados?"
+  },
+  {
+    "id": "to_be_interrogative_110",
+    "word": "sad",
+    "translation": "triste",
+    "pronunciation": "/sæd/",
+    "portuguesePhonetic": "séd",
+    "syllables": [
+      "sad"
+    ],
+    "exampleSentence": "No, I'm not sick. I'm sad.",
+    "exampleTranslation": "Não, eu não estou doente. Estou triste."
+  },
+  {
+    "id": "to_be_interrogative_111",
+    "word": "sick",
+    "translation": "doente",
+    "pronunciation": "/sɪk/",
+    "portuguesePhonetic": "síc",
+    "syllables": [
+      "sick"
+    ],
+    "exampleSentence": "Are you sick?",
+    "exampleTranslation": "Você está doente?"
+  },
+  {
+    "id": "to_be_interrogative_112",
+    "word": "ready",
+    "translation": "pronto",
+    "pronunciation": "/ˈrɛdi/",
+    "portuguesePhonetic": "ré-di",
+    "syllables": [
+      "rea",
+      "dy"
+    ],
+    "exampleSentence": "Are you ready to start?",
+    "exampleTranslation": "Você está pronto para começar?"
+  },
+  {
+    "id": "to_be_interrogative_113",
+    "word": "start",
+    "translation": "começar",
+    "pronunciation": "/stɑrt/",
+    "portuguesePhonetic": "stárt",
+    "syllables": [
+      "start"
+    ],
+    "exampleSentence": "Are you ready to start the class?",
+    "exampleTranslation": "Vocês estão prontos para começar a aula?"
+  },
+  {
+    "id": "to_be_interrogative_114",
+    "word": "class",
+    "translation": "aula",
+    "pronunciation": "/klæs/",
+    "portuguesePhonetic": "clés",
+    "syllables": [
+      "class"
+    ],
+    "exampleSentence": "Are you ready to start the class?",
+    "exampleTranslation": "Vocês estão prontos para começar a aula?"
+  },
+  {
+    "id": "to_be_interrogative_115",
+    "word": "live",
+    "translation": "morar",
+    "pronunciation": "/lɪv/",
+    "portuguesePhonetic": "liv",
+    "syllables": [
+      "live"
+    ],
+    "exampleSentence": "They live with my father.",
+    "exampleTranslation": "Eles moram com meu pai."
+  },
+  {
+    "id": "to_be_interrogative_116",
+    "word": "very good",
+    "translation": "muito bom",
+    "pronunciation": "/ˈvɛri ɡʊd/",
+    "portuguesePhonetic": "vé-ri gud",
+    "syllables": [
+      "ve",
+      "ry",
+      " good"
+    ],
+    "exampleSentence": "Yes, it's very good.",
+    "exampleTranslation": "Sim, é muito bom."
+  },
+  {
+    "id": "to_be_interrogative_117",
+    "word": "How old are you?",
+    "translation": "Quantos anos você tem?",
+    "pronunciation": "/haʊ oʊld ɑr ju?/",
+    "portuguesePhonetic": "ráu ôuld ar iu?",
+    "syllables": [
+      "How",
+      " old",
+      " are",
+      " you?"
+    ],
+    "exampleSentence": "How old are you?",
+    "exampleTranslation": "Quantos anos você tem?"
+  },
+  {
+    "id": "to_be_interrogative_118",
+    "word": "Who is she?",
+    "translation": "Quem é ela?",
+    "pronunciation": "/hu ɪz ʃi?/",
+    "portuguesePhonetic": "rú iz chi?",
+    "syllables": [
+      "Who",
+      " is",
+      " she?"
+    ],
+    "exampleSentence": "Who is she?",
+    "exampleTranslation": "Quem é ela?"
+  },
+  {
+    "id": "to_be_interrogative_119",
+    "word": "When is your birthday?",
+    "translation": "Quando é seu aniversário?",
+    "pronunciation": "/wɛn ɪz jʊr ˈbɜrθˌdeɪ?/",
+    "portuguesePhonetic": "uén iz iór bãrth-dêi?",
+    "syllables": [
+      "When",
+      " is",
+      " your",
+      " birth",
+      "day?"
+    ],
+    "exampleSentence": "When is your birthday?",
+    "exampleTranslation": "Quando é seu aniversário?"
+  },
+  {
+    "id": "to_be_interrogative_120",
+    "word": "Are you ready?",
+    "translation": "Você está pronto?",
+    "pronunciation": "/ɑr ju ˈrɛdi?/",
+    "portuguesePhonetic": "ar iu ré-di?",
+    "syllables": [
+      "Are",
+      " you",
+      " rea",
+      "dy?"
+    ],
+    "exampleSentence": "Are you ready?",
+    "exampleTranslation": "Você está pronto?"
+  }
+]

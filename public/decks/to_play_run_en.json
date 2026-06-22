@@ -1,0 +1,2185 @@
+[
+  {
+    "id": "to_play_run_1",
+    "word": "to play",
+    "translation": "jogar, tocar, brincar",
+    "pronunciation": "/tu pleɪ/",
+    "portuguesePhonetic": "tchu plêi",
+    "syllables": [
+      "to",
+      " play"
+    ],
+    "exampleSentence": "to play",
+    "exampleTranslation": "jogar, tocar, brincar"
+  },
+  {
+    "id": "to_play_run_2",
+    "word": "to run",
+    "translation": "correr",
+    "pronunciation": "/tu rən/",
+    "portuguesePhonetic": "tchu rân",
+    "syllables": [
+      "to",
+      " run"
+    ],
+    "exampleSentence": "to run",
+    "exampleTranslation": "correr"
+  },
+  {
+    "id": "to_play_run_3",
+    "word": "guitar",
+    "translation": "violão",
+    "pronunciation": "/ɡɪˈtɑr/",
+    "portuguesePhonetic": "gui-tár",
+    "syllables": [
+      "gui",
+      "tar"
+    ],
+    "exampleSentence": "guitar",
+    "exampleTranslation": "violão"
+  },
+  {
+    "id": "to_play_run_4",
+    "word": "electric guitar",
+    "translation": "guitarra",
+    "pronunciation": "/ɪˈlɛktrɪk ɡɪˈtɑr/",
+    "portuguesePhonetic": "i-léc-tric gui-tár",
+    "syllables": [
+      "e",
+      "lec",
+      "tric",
+      " gui",
+      "tar"
+    ],
+    "exampleSentence": "electric guitar",
+    "exampleTranslation": "guitarra"
+  },
+  {
+    "id": "to_play_run_5",
+    "word": "piano",
+    "translation": "piano",
+    "pronunciation": "/piˈænoʊ/",
+    "portuguesePhonetic": "pi-é-nou",
+    "syllables": [
+      "pi",
+      "a",
+      "no"
+    ],
+    "exampleSentence": "piano",
+    "exampleTranslation": "piano"
+  },
+  {
+    "id": "to_play_run_6",
+    "word": "keyboard",
+    "translation": "teclado",
+    "pronunciation": "/ˈkiˌbɔrd/",
+    "portuguesePhonetic": "quí-bórd",
+    "syllables": [
+      "key",
+      "board"
+    ],
+    "exampleSentence": "keyboard",
+    "exampleTranslation": "teclado"
+  },
+  {
+    "id": "to_play_run_7",
+    "word": "drums",
+    "translation": "bateria",
+    "pronunciation": "/drəmz/",
+    "portuguesePhonetic": "drâms",
+    "syllables": [
+      "drums"
+    ],
+    "exampleSentence": "drums",
+    "exampleTranslation": "bateria"
+  },
+  {
+    "id": "to_play_run_8",
+    "word": "flute",
+    "translation": "flauta",
+    "pronunciation": "/flut/",
+    "portuguesePhonetic": "flut",
+    "syllables": [
+      "flute"
+    ],
+    "exampleSentence": "flute",
+    "exampleTranslation": "flauta"
+  },
+  {
+    "id": "to_play_run_9",
+    "word": "violin",
+    "translation": "violino",
+    "pronunciation": "/ˌvaɪəˈlɪn/",
+    "portuguesePhonetic": "vai-o-lín",
+    "syllables": [
+      "vi",
+      "o",
+      "lin"
+    ],
+    "exampleSentence": "violin",
+    "exampleTranslation": "violino"
+  },
+  {
+    "id": "to_play_run_10",
+    "word": "instrument",
+    "translation": "instrumento",
+    "pronunciation": "/ˈɪnstrəmənt/",
+    "portuguesePhonetic": "ín-stru-ment",
+    "syllables": [
+      "in",
+      "stru",
+      "ment"
+    ],
+    "exampleSentence": "instrument",
+    "exampleTranslation": "instrumento"
+  },
+  {
+    "id": "to_play_run_11",
+    "word": "game",
+    "translation": "jogo",
+    "pronunciation": "/ɡeɪm/",
+    "portuguesePhonetic": "guêim",
+    "syllables": [
+      "game"
+    ],
+    "exampleSentence": "game",
+    "exampleTranslation": "jogo"
+  },
+  {
+    "id": "to_play_run_12",
+    "word": "soccer",
+    "translation": "futebol",
+    "pronunciation": "/ˈsɑkər/",
+    "portuguesePhonetic": "só-quer",
+    "syllables": [
+      "soc",
+      "cer"
+    ],
+    "exampleSentence": "soccer",
+    "exampleTranslation": "futebol"
+  },
+  {
+    "id": "to_play_run_13",
+    "word": "basketball",
+    "translation": "basquete",
+    "pronunciation": "/ˈbæskətˌbɔl/",
+    "portuguesePhonetic": "bés-quet-ból",
+    "syllables": [
+      "bas",
+      "ket",
+      "ball"
+    ],
+    "exampleSentence": "basketball",
+    "exampleTranslation": "basquete"
+  },
+  {
+    "id": "to_play_run_14",
+    "word": "volleyball",
+    "translation": "vôlei",
+    "pronunciation": "/ˈvɑliˌbɔl/",
+    "portuguesePhonetic": "vó-li-ból",
+    "syllables": [
+      "vol",
+      "ley",
+      "ball"
+    ],
+    "exampleSentence": "volleyball",
+    "exampleTranslation": "vôlei"
+  },
+  {
+    "id": "to_play_run_15",
+    "word": "hobby",
+    "translation": "passatempo",
+    "pronunciation": "/ˈhɑbi/",
+    "portuguesePhonetic": "ró-bi",
+    "syllables": [
+      "hob",
+      "by"
+    ],
+    "exampleSentence": "hobby",
+    "exampleTranslation": "passatempo"
+  },
+  {
+    "id": "to_play_run_16",
+    "word": "yoga",
+    "translation": "ioga",
+    "pronunciation": "/ˈjoʊɡə/",
+    "portuguesePhonetic": "iô-ga",
+    "syllables": [
+      "yo",
+      "ga"
+    ],
+    "exampleSentence": "yoga",
+    "exampleTranslation": "ioga"
+  },
+  {
+    "id": "to_play_run_17",
+    "word": "marathon",
+    "translation": "maratona",
+    "pronunciation": "/ˈmærəˌθɑn/",
+    "portuguesePhonetic": "mé-ra-thôn",
+    "syllables": [
+      "mar",
+      "a",
+      "thon"
+    ],
+    "exampleSentence": "marathon",
+    "exampleTranslation": "maratona"
+  },
+  {
+    "id": "to_play_run_18",
+    "word": "treadmill",
+    "translation": "esteira (ergométrica)",
+    "pronunciation": "/ˈtrɛdmɪl/",
+    "portuguesePhonetic": "tréd-mil",
+    "syllables": [
+      "tread",
+      "mill"
+    ],
+    "exampleSentence": "treadmill",
+    "exampleTranslation": "esteira (ergométrica)"
+  },
+  {
+    "id": "to_play_run_19",
+    "word": "I ride a bike every day.",
+    "translation": "Eu ando de bicicleta todos os dias.",
+    "pronunciation": "/aɪ raɪd ə baɪk ˈɛvəri deɪ./",
+    "portuguesePhonetic": "ai raid a baic é-vri dêi.",
+    "syllables": [
+      "I",
+      " ride",
+      " a",
+      " bike",
+      " ev",
+      "er",
+      "y",
+      " day."
+    ],
+    "exampleSentence": "I ride a bike every day.",
+    "exampleTranslation": "Eu ando de bicicleta todos os dias."
+  },
+  {
+    "id": "to_play_run_20",
+    "word": "Have fun at the game!",
+    "translation": "Divirta-se no jogo!",
+    "pronunciation": "/hæv fʌn æt ðə ɡeɪm!/",
+    "portuguesePhonetic": "rév fân ét dâ guêim!",
+    "syllables": [
+      "Have",
+      " fun",
+      " at",
+      " the",
+      " game!"
+    ],
+    "exampleSentence": "Have fun at the game!",
+    "exampleTranslation": "Divirta-se no jogo!"
+  },
+  {
+    "id": "to_play_run_21",
+    "word": "I go running and you go swimming.",
+    "translation": "Eu corro e você nada.",
+    "pronunciation": "/aɪ ɡoʊ ˈrʌnɪŋ ænd ju ɡoʊ ˈswɪmɪŋ./",
+    "portuguesePhonetic": "ai gôu râ-nin énd iu gôu suí-min.",
+    "syllables": [
+      "I",
+      " go",
+      " run",
+      "ning",
+      " and",
+      " you",
+      " go",
+      " swim",
+      "ming."
+    ],
+    "exampleSentence": "I go running and you go swimming.",
+    "exampleTranslation": "Eu corro e você nada."
+  },
+  {
+    "id": "to_play_run_22",
+    "word": "What do you do in your free time?",
+    "translation": "O que você faz no seu tempo livre?",
+    "pronunciation": "/wʌt du ju du ɪn jʊr fri taɪm?/",
+    "portuguesePhonetic": "uót du iu du in iór fri taim?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " do",
+      " in",
+      " your",
+      " free",
+      " time?"
+    ],
+    "exampleSentence": "What do you do in your free time?",
+    "exampleTranslation": "O que você faz no seu tempo livre?"
+  },
+  {
+    "id": "to_play_run_23",
+    "word": "I can play the piano very well.",
+    "translation": "Eu consigo tocar piano muito bem.",
+    "pronunciation": "/aɪ kæn peɪ ðə piˈænoʊ ˈvɛri wɛl./",
+    "portuguesePhonetic": "ai quén plêi dâ pi-é-nou vé-ri uél.",
+    "syllables": [
+      "I",
+      " can",
+      " play",
+      " the",
+      " pi",
+      "a",
+      "no",
+      " ver",
+      "y",
+      " well."
+    ],
+    "exampleSentence": "I can play the piano very well.",
+    "exampleTranslation": "Eu consigo tocar piano muito bem."
+  },
+  {
+    "id": "to_play_run_24",
+    "word": "She can play soccer and basketball.",
+    "translation": "Ela consegue jogar futebol e basquete.",
+    "pronunciation": "/ʃi kæn pleɪ ˈsɑkər ænd ˈbæskətˌbɔl./",
+    "portuguesePhonetic": "xi quén plêi só-quer énd bés-quet-ból.",
+    "syllables": [
+      "She",
+      " can",
+      " play",
+      " soc",
+      "cer",
+      " and",
+      " bas",
+      "ket",
+      "ball."
+    ],
+    "exampleSentence": "She can play soccer and basketball.",
+    "exampleTranslation": "Ela consegue jogar futebol e basquete."
+  },
+  {
+    "id": "to_play_run_25",
+    "word": "He can speak Italian and German.",
+    "translation": "Ele consegue falar italiano e alemão.",
+    "pronunciation": "/hi kæn spik ɪˈtæljən ænd ˈdʒɜrmən./",
+    "portuguesePhonetic": "ri quén spíc i-tá-lian énd djãr-man.",
+    "syllables": [
+      "He",
+      " can",
+      " speak",
+      " I",
+      "tal",
+      "ian",
+      " and",
+      " Ger",
+      "man."
+    ],
+    "exampleSentence": "He can speak Italian and German.",
+    "exampleTranslation": "Ele consegue falar italiano e alemão."
+  },
+  {
+    "id": "to_play_run_26",
+    "word": "Yes, Maria can drink milk.",
+    "translation": "Sim, a Maria pode beber leite.",
+    "pronunciation": "/jɛs, məˈriə kæn drɪŋk mɪlk./",
+    "portuguesePhonetic": "iés, ma-ría quén drínc mílc.",
+    "syllables": [
+      "Yes,",
+      " Ma",
+      "ri",
+      "a",
+      " can",
+      " drink",
+      " milk."
+    ],
+    "exampleSentence": "Yes, Maria can drink milk.",
+    "exampleTranslation": "Sim, a Maria pode beber leite."
+  },
+  {
+    "id": "to_play_run_27",
+    "word": "I can't play this instrument.",
+    "translation": "Eu não consigo tocar esse instrumento.",
+    "pronunciation": "/aɪ kænt pleɪ ðɪs ˈɪnstrəmənt./",
+    "portuguesePhonetic": "ai quént plêi dís ín-stru-ment.",
+    "syllables": [
+      "I",
+      " can't",
+      " play",
+      " this",
+      " in",
+      "stru",
+      "ment."
+    ],
+    "exampleSentence": "I can't play this instrument.",
+    "exampleTranslation": "Eu não consigo tocar esse instrumento."
+  },
+  {
+    "id": "to_play_run_28",
+    "word": "He can't talk to you now.",
+    "translation": "Ele não pode falar com você agora.",
+    "pronunciation": "/hi kænt tɔk tu ju naʊ./",
+    "portuguesePhonetic": "ri quént tóc tchu iu náu.",
+    "syllables": [
+      "He",
+      " can't",
+      " talk",
+      " to",
+      " you",
+      " now."
+    ],
+    "exampleSentence": "He can't talk to you now.",
+    "exampleTranslation": "Ele não pode falar com você agora."
+  },
+  {
+    "id": "to_play_run_29",
+    "word": "They can't run in this place.",
+    "translation": "Eles não podem correr neste lugar.",
+    "pronunciation": "/ðeɪ kænt rən ɪn ðɪs pleɪs./",
+    "portuguesePhonetic": "dêi quént rân in dís plêis.",
+    "syllables": [
+      "They",
+      " can't",
+      " run",
+      " in",
+      " this",
+      " place."
+    ],
+    "exampleSentence": "They can't run in this place.",
+    "exampleTranslation": "Eles não podem correr neste lugar."
+  },
+  {
+    "id": "to_play_run_30",
+    "word": "She still can't run a marathon.",
+    "translation": "Ela ainda não consegue correr uma maratona.",
+    "pronunciation": "/ʃi stɪl kænt rən ə ˈmærəˌθɑn./",
+    "portuguesePhonetic": "xi stíl quént rân a mé-ra-thôn.",
+    "syllables": [
+      "She",
+      " still",
+      " can't",
+      " run",
+      " a",
+      " mar",
+      "a",
+      "thon."
+    ],
+    "exampleSentence": "She still can't run a marathon.",
+    "exampleTranslation": "Ela ainda não consegue correr uma maratona."
+  },
+  {
+    "id": "to_play_run_31",
+    "word": "I think he plays soccer at the university.",
+    "translation": "Eu acho que ele joga futebol na universidade.",
+    "pronunciation": "/aɪ θɪŋk hi pleɪz ˈsɑkər æt ðə ˌjunəˈvɜrsəti./",
+    "portuguesePhonetic": "ai thinc ri plêis só-quer ét dâ iu-ni-vãr-si-ti.",
+    "syllables": [
+      "I",
+      " think",
+      " he",
+      " plays",
+      " soc",
+      "cer",
+      " at",
+      " the",
+      " u",
+      "ni",
+      "ver",
+      "si",
+      "ty."
+    ],
+    "exampleSentence": "I think he plays soccer at the university.",
+    "exampleTranslation": "Eu acho que ele joga futebol na universidade."
+  },
+  {
+    "id": "to_play_run_32",
+    "word": "He usually rides his bike on weekends.",
+    "translation": "Ele geralmente anda de bicicleta nos fins de semana.",
+    "pronunciation": "/hi ˈjuʒuəli raɪdz hɪz baɪk ɑn ˈwikˌɛndz./",
+    "portuguesePhonetic": "ri iú-ju-a-li raids riz baic an uíc-énds.",
+    "syllables": [
+      "He",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " rides",
+      " his",
+      " bike",
+      " on",
+      " week",
+      "ends."
+    ],
+    "exampleSentence": "He usually rides his bike on weekends.",
+    "exampleTranslation": "Ele geralmente anda de bicicleta nos fins de semana."
+  },
+  {
+    "id": "to_play_run_33",
+    "word": "How often do you run?",
+    "translation": "Com que frequência você corre?",
+    "pronunciation": "/haʊ ˈɔfən du ju rən?/",
+    "portuguesePhonetic": "ráu ó-fen du iu rân?",
+    "syllables": [
+      "How",
+      " of",
+      "ten",
+      " do",
+      " you",
+      " run?"
+    ],
+    "exampleSentence": "How often do you run?",
+    "exampleTranslation": "Com que frequência você corre?"
+  },
+  {
+    "id": "to_play_run_34",
+    "word": "How many instruments do you play?",
+    "translation": "Quantos instrumentos você toca?",
+    "pronunciation": "/haʊ ˈmɛni ˈɪnstrəmənts du ju pleɪ?/",
+    "portuguesePhonetic": "ráu mé-ni ín-stru-ments du iu plêi?",
+    "syllables": [
+      "How",
+      " ma",
+      "ny",
+      " in",
+      "stru",
+      "ments",
+      " do",
+      " you",
+      " play?"
+    ],
+    "exampleSentence": "How many instruments do you play?",
+    "exampleTranslation": "Quantos instrumentos você toca?"
+  },
+  {
+    "id": "to_play_run_35",
+    "word": "Does she play the drums?",
+    "translation": "Ela toca bateria?",
+    "pronunciation": "/dʌz ʃi pleɪ ðə drəmz?/",
+    "portuguesePhonetic": "dâz xi plêi dâ drâms?",
+    "syllables": [
+      "Does",
+      " she",
+      " play",
+      " the",
+      " drums?"
+    ],
+    "exampleSentence": "Does she play the drums?",
+    "exampleTranslation": "Ela toca bateria?"
+  },
+  {
+    "id": "to_play_run_36",
+    "word": "Our children love to play with their grandfather.",
+    "translation": "Nossos filhos amam brincar com o avô deles.",
+    "pronunciation": "/ˈaʊər ˈtʃɪldrən lʌv tu pleɪ wɪð ðɛr ˈɡrændˌfɑðər./",
+    "portuguesePhonetic": "áu-er tchil-dren lâv tchu plêi uid dér grénd-fá-der.",
+    "syllables": [
+      "Our",
+      " chil",
+      "dren",
+      " love",
+      " to",
+      " play",
+      " with",
+      " their",
+      " grand",
+      "fa",
+      "ther."
+    ],
+    "exampleSentence": "Our children love to play with their grandfather.",
+    "exampleTranslation": "Nossos filhos amam brincar com o avô deles."
+  },
+  {
+    "id": "to_play_run_37",
+    "word": "Yes, you can learn new languages.",
+    "translation": "Sim, você consegue aprender novos idiomas.",
+    "pronunciation": "/jɛs, ju kæn lɜrn nu ˈlæŋɡwɪdʒəz./",
+    "portuguesePhonetic": "iés, iu quén lãrn niu lán-gui-djis.",
+    "syllables": [
+      "Yes,",
+      " you",
+      " can",
+      " learn",
+      " new",
+      " lan",
+      "gua",
+      "ges."
+    ],
+    "exampleSentence": "Yes, you can learn new languages.",
+    "exampleTranslation": "Sim, você consegue aprender novos idiomas."
+  },
+  {
+    "id": "to_play_run_38",
+    "word": "I think he can run a marathon.",
+    "translation": "Eu acho que ele consegue correr uma maratona.",
+    "pronunciation": "/aɪ θɪŋk hi kæn rən ə ˈmærəˌθɑn./",
+    "portuguesePhonetic": "ai thinc ri quén rân a mé-ra-thôn.",
+    "syllables": [
+      "I",
+      " think",
+      " he",
+      " can",
+      " run",
+      " a",
+      " mar",
+      "a",
+      "thon."
+    ],
+    "exampleSentence": "I think he can run a marathon.",
+    "exampleTranslation": "Eu acho que ele consegue correr uma maratona."
+  },
+  {
+    "id": "to_play_run_39",
+    "word": "We can start our classes next week.",
+    "translation": "Nós podemos começar nossas aulas na próxima semana.",
+    "pronunciation": "/wi kæn stɑrt ˈaʊər ˈklæsəz nɛkst wik./",
+    "portuguesePhonetic": "uí quén stárt áu-er clá-sis nécst uíc.",
+    "syllables": [
+      "We",
+      " can",
+      " start",
+      " our",
+      " class",
+      "es",
+      " next",
+      " week."
+    ],
+    "exampleSentence": "We can start our classes next week.",
+    "exampleTranslation": "Nós podemos começar nossas aulas na próxima semana."
+  },
+  {
+    "id": "to_play_run_40",
+    "word": "My sister can't read in Spanish.",
+    "translation": "Minha irmã não consegue ler em espanhol.",
+    "pronunciation": "/maɪ ˈsɪstər kænt rid ɪn ˈspænɪʃ./",
+    "portuguesePhonetic": "mai sís-ter quént rid in spé-nix.",
+    "syllables": [
+      "My",
+      " sis",
+      "ter",
+      " can't",
+      " read",
+      " in",
+      " Span",
+      "ish."
+    ],
+    "exampleSentence": "My sister can't read in Spanish.",
+    "exampleTranslation": "Minha irmã não consegue ler em espanhol."
+  },
+  {
+    "id": "to_play_run_41",
+    "word": "I can't play soccer today. I'm busy.",
+    "translation": "Eu não posso jogar futebol hoje. Estou ocupado.",
+    "pronunciation": "/aɪ kænt pleɪ ˈsɑkər təˈdeɪ. aɪm ˈbɪzi./",
+    "portuguesePhonetic": "ai quént plêi só-quer tchu-dêi. aim bí-zi.",
+    "syllables": [
+      "I",
+      " can't",
+      " play",
+      " soc",
+      "cer",
+      " to",
+      "day.",
+      " I'm",
+      " bu",
+      "sy."
+    ],
+    "exampleSentence": "I can't play soccer today. I'm busy.",
+    "exampleTranslation": "Eu não posso jogar futebol hoje. Estou ocupado."
+  },
+  {
+    "id": "to_play_run_42",
+    "word": "They still can't understand movies in Spanish.",
+    "translation": "Eles ainda não conseguem entender filmes em espanhol.",
+    "pronunciation": "/ðeɪ stɪl kænt ˌʌndərˈstænd ˈmuviz ɪn ˈspænɪʃ./",
+    "portuguesePhonetic": "dêi stíl quént ân-der-sténd mú-vis in spé-nix.",
+    "syllables": [
+      "They",
+      " still",
+      " can't",
+      " un",
+      "der",
+      "stand",
+      " mo",
+      "vies",
+      " in",
+      " Span",
+      "ish."
+    ],
+    "exampleSentence": "They still can't understand movies in Spanish.",
+    "exampleTranslation": "Eles ainda não conseguem entender filmes em espanhol."
+  },
+  {
+    "id": "to_play_run_43",
+    "word": "I play soccer.",
+    "translation": "Eu jogo futebol.",
+    "pronunciation": "/aɪ pleɪ ˈsɑkər./",
+    "portuguesePhonetic": "ai plêi só-quer.",
+    "syllables": [
+      "I",
+      " play",
+      " soc",
+      "cer."
+    ],
+    "exampleSentence": "I play soccer.",
+    "exampleTranslation": "Eu jogo futebol."
+  },
+  {
+    "id": "to_play_run_44",
+    "word": "I play the flute.",
+    "translation": "Eu toco flauta.",
+    "pronunciation": "/aɪ pleɪ ðə flut./",
+    "portuguesePhonetic": "ai plêi dâ flut.",
+    "syllables": [
+      "I",
+      " play",
+      " the",
+      " flute."
+    ],
+    "exampleSentence": "I play the flute.",
+    "exampleTranslation": "Eu toco flauta."
+  },
+  {
+    "id": "to_play_run_45",
+    "word": "I play basketball.",
+    "translation": "Eu jogo basquete.",
+    "pronunciation": "/aɪ pleɪ ˈbæskətˌbɔl./",
+    "portuguesePhonetic": "ai plêi bés-quet-ból.",
+    "syllables": [
+      "I",
+      " play",
+      " bas",
+      "ket",
+      "ball."
+    ],
+    "exampleSentence": "I play basketball.",
+    "exampleTranslation": "Eu jogo basquete."
+  },
+  {
+    "id": "to_play_run_46",
+    "word": "She plays the piano.",
+    "translation": "Ela toca piano.",
+    "pronunciation": "/ʃi pleɪz ðə piˈænoʊ./",
+    "portuguesePhonetic": "xi plêis dâ pi-é-nou.",
+    "syllables": [
+      "She",
+      " plays",
+      " the",
+      " pi",
+      "a",
+      "no."
+    ],
+    "exampleSentence": "She plays the piano.",
+    "exampleTranslation": "Ela toca piano."
+  },
+  {
+    "id": "to_play_run_47",
+    "word": "He plays the guitar.",
+    "translation": "Ele toca violão.",
+    "pronunciation": "/hi pleɪz ðə ɡɪˈtɑr./",
+    "portuguesePhonetic": "ri plêis dâ gui-tár.",
+    "syllables": [
+      "He",
+      " plays",
+      " the",
+      " gui",
+      "tar."
+    ],
+    "exampleSentence": "He plays the guitar.",
+    "exampleTranslation": "Ele toca violão."
+  },
+  {
+    "id": "to_play_run_48",
+    "word": "to run on the treadmill",
+    "translation": "correr na esteira",
+    "pronunciation": "/tu rən ɑn ðə ˈtrɛdmɪl/",
+    "portuguesePhonetic": "tchu rân an dâ tréd-mil",
+    "syllables": [
+      "to",
+      " run",
+      " on",
+      " the",
+      " tread",
+      "mill"
+    ],
+    "exampleSentence": "to run on the treadmill",
+    "exampleTranslation": "correr na esteira"
+  },
+  {
+    "id": "to_play_run_49",
+    "word": "to run in the street",
+    "translation": "correr na rua",
+    "pronunciation": "/tu rən ɪn ðə strit/",
+    "portuguesePhonetic": "tchu rân in dâ strit",
+    "syllables": [
+      "to",
+      " run",
+      " in",
+      " the",
+      " street"
+    ],
+    "exampleSentence": "to run in the street",
+    "exampleTranslation": "correr na rua"
+  },
+  {
+    "id": "to_play_run_50",
+    "word": "I run on the treadmill every morning.",
+    "translation": "Eu corro na esteira todas as manhãs.",
+    "pronunciation": "/aɪ rən ɑn ðə ˈtrɛdmɪl ˈɛvəri ˈmɔrnɪŋ./",
+    "portuguesePhonetic": "ai rân an dâ tréd-mil é-vri mór-nin.",
+    "syllables": [
+      "I",
+      " run",
+      " on",
+      " the",
+      " tread",
+      "mill",
+      " ev",
+      "er",
+      "y",
+      " morn",
+      "ing."
+    ],
+    "exampleSentence": "I run on the treadmill every morning.",
+    "exampleTranslation": "Eu corro na esteira todas as manhãs."
+  },
+  {
+    "id": "to_play_run_51",
+    "word": "They run in the street on weekends.",
+    "translation": "Eles correm na rua nos finais de semana.",
+    "pronunciation": "/ðeɪ rən ɪn ðə strit ɑn ˈwikˌɛndz./",
+    "portuguesePhonetic": "dêi rân in dâ strit an uíc-énds.",
+    "syllables": [
+      "They",
+      " run",
+      " in",
+      " the",
+      " street",
+      " on",
+      " week",
+      "ends."
+    ],
+    "exampleSentence": "They run in the street on weekends.",
+    "exampleTranslation": "Eles correm na rua nos finais de semana."
+  },
+  {
+    "id": "to_play_run_52",
+    "word": "to go swimming",
+    "translation": "ir nadar",
+    "pronunciation": "/tu ɡoʊ ˈswɪmɪŋ/",
+    "portuguesePhonetic": "tchu gôu suí-min",
+    "syllables": [
+      "to",
+      " go",
+      " swim",
+      "ming"
+    ],
+    "exampleSentence": "to go swimming",
+    "exampleTranslation": "ir nadar"
+  },
+  {
+    "id": "to_play_run_53",
+    "word": "to go running",
+    "translation": "ir correr",
+    "pronunciation": "/tu ɡoʊ ˈrʌnɪŋ/",
+    "portuguesePhonetic": "tchu gôu râ-nin",
+    "syllables": [
+      "to",
+      " go",
+      " run",
+      "ning"
+    ],
+    "exampleSentence": "to go running",
+    "exampleTranslation": "ir correr"
+  },
+  {
+    "id": "to_play_run_54",
+    "word": "I go swimming on Saturdays.",
+    "translation": "Eu vou nadar aos sábados.",
+    "pronunciation": "/aɪ ɡoʊ ˈswɪmɪŋ ɑn ˈsætərdeɪz./",
+    "portuguesePhonetic": "ai gôu suí-min an sé-ter-dêis.",
+    "syllables": [
+      "I",
+      " go",
+      " swim",
+      "ming",
+      " on",
+      " Sat",
+      "ur",
+      "days."
+    ],
+    "exampleSentence": "I go swimming on Saturdays.",
+    "exampleTranslation": "Eu vou nadar aos sábados."
+  },
+  {
+    "id": "to_play_run_55",
+    "word": "We go running after work.",
+    "translation": "Nós vamos correr depois do trabalho.",
+    "pronunciation": "/wi ɡoʊ ˈrʌnɪŋ ˈæftər wɜrk./",
+    "portuguesePhonetic": "uí gôu râ-nin áf-ter uãrc.",
+    "syllables": [
+      "We",
+      " go",
+      " run",
+      "ning",
+      " af",
+      "ter",
+      " work."
+    ],
+    "exampleSentence": "We go running after work.",
+    "exampleTranslation": "Nós vamos correr depois do trabalho."
+  },
+  {
+    "id": "to_play_run_56",
+    "word": "to do yoga",
+    "translation": "praticar ioga",
+    "pronunciation": "/tu du ˈjoʊɡə/",
+    "portuguesePhonetic": "tchu du iô-ga",
+    "syllables": [
+      "to",
+      " do",
+      " yo",
+      "ga"
+    ],
+    "exampleSentence": "to do yoga",
+    "exampleTranslation": "praticar ioga"
+  },
+  {
+    "id": "to_play_run_57",
+    "word": "She does yoga every morning.",
+    "translation": "Ela pratica ioga todas as manhãs.",
+    "pronunciation": "/ʃi dʌz ˈjoʊɡə ˈɛvəri ˈmɔrnɪŋ./",
+    "portuguesePhonetic": "xi dâs iô-ga é-vri mór-nin.",
+    "syllables": [
+      "She",
+      " does",
+      " yo",
+      "ga",
+      " ev",
+      "er",
+      "y",
+      " morn",
+      "ing."
+    ],
+    "exampleSentence": "She does yoga every morning.",
+    "exampleTranslation": "Ela pratica ioga todas as manhãs."
+  },
+  {
+    "id": "to_play_run_58",
+    "word": "I can play the guitar.",
+    "translation": "Eu consigo tocar violão.",
+    "pronunciation": "/aɪ kæn pleɪ ðə ɡɪˈtɑr./",
+    "portuguesePhonetic": "ai quén plêi dâ gui-tár.",
+    "syllables": [
+      "I",
+      " can",
+      " play",
+      " the",
+      " gui",
+      "tar."
+    ],
+    "exampleSentence": "I can play the guitar.",
+    "exampleTranslation": "Eu consigo tocar violão."
+  },
+  {
+    "id": "to_play_run_59",
+    "word": "She can run fast.",
+    "translation": "Ela consegue correr rápido.",
+    "pronunciation": "/ʃi kæn rən fæst./",
+    "portuguesePhonetic": "xi quén rân fést.",
+    "syllables": [
+      "She",
+      " can",
+      " run",
+      " fast."
+    ],
+    "exampleSentence": "She can run fast.",
+    "exampleTranslation": "Ela consegue correr rápido."
+  },
+  {
+    "id": "to_play_run_60",
+    "word": "I can't play the piano.",
+    "translation": "Eu não consigo tocar piano.",
+    "pronunciation": "/aɪ kænt pleɪ ðə piˈænoʊ./",
+    "portuguesePhonetic": "ai quént plêi dâ pi-é-nou.",
+    "syllables": [
+      "I",
+      " can't",
+      " play",
+      " the",
+      " pi",
+      "a",
+      "no."
+    ],
+    "exampleSentence": "I can't play the piano.",
+    "exampleTranslation": "Eu não consigo tocar piano."
+  },
+  {
+    "id": "to_play_run_61",
+    "word": "They can't swim.",
+    "translation": "Eles não conseguem nadar.",
+    "pronunciation": "/ðeɪ kænt swɪm./",
+    "portuguesePhonetic": "dêi quént suím.",
+    "syllables": [
+      "They",
+      " can't",
+      " swim."
+    ],
+    "exampleSentence": "They can't swim.",
+    "exampleTranslation": "Eles não conseguem nadar."
+  },
+  {
+    "id": "to_play_run_62",
+    "word": "Can you play soccer?",
+    "translation": "Você sabe jogar futebol?",
+    "pronunciation": "/kæn ju pleɪ ˈsɑkər?/",
+    "portuguesePhonetic": "quén iu plêi só-quer?",
+    "syllables": [
+      "Can",
+      " you",
+      " play",
+      " soc",
+      "cer?"
+    ],
+    "exampleSentence": "Can you play soccer?",
+    "exampleTranslation": "Você sabe jogar futebol?"
+  },
+  {
+    "id": "to_play_run_63",
+    "word": "Can she speak English?",
+    "translation": "Ela consegue falar inglês?",
+    "pronunciation": "/kæn ʃi spik ˈɪŋɡlɪʃ?/",
+    "portuguesePhonetic": "quén xi spíc ín-glix?",
+    "syllables": [
+      "Can",
+      " she",
+      " speak",
+      " En",
+      "glish?"
+    ],
+    "exampleSentence": "Can she speak English?",
+    "exampleTranslation": "Ela consegue falar inglês?"
+  },
+  {
+    "id": "to_play_run_64",
+    "word": "guitar",
+    "translation": "violão",
+    "pronunciation": "/ɡɪˈtɑr/",
+    "portuguesePhonetic": "gui-tár",
+    "syllables": [
+      "gui",
+      "tar"
+    ],
+    "exampleSentence": "guitar",
+    "exampleTranslation": "violão"
+  },
+  {
+    "id": "to_play_run_65",
+    "word": "electric guitar",
+    "translation": "guitarra",
+    "pronunciation": "/ɪˈlɛktrɪk ɡɪˈtɑr/",
+    "portuguesePhonetic": "i-léc-tric gui-tár",
+    "syllables": [
+      "e",
+      "lec",
+      "tric",
+      " gui",
+      "tar"
+    ],
+    "exampleSentence": "electric guitar",
+    "exampleTranslation": "guitarra"
+  },
+  {
+    "id": "to_play_run_66",
+    "word": "piano",
+    "translation": "piano",
+    "pronunciation": "/piˈænoʊ/",
+    "portuguesePhonetic": "pi-é-nou",
+    "syllables": [
+      "pi",
+      "a",
+      "no"
+    ],
+    "exampleSentence": "piano",
+    "exampleTranslation": "piano"
+  },
+  {
+    "id": "to_play_run_67",
+    "word": "keyboard",
+    "translation": "teclado",
+    "pronunciation": "/ˈkiˌbɔrd/",
+    "portuguesePhonetic": "quí-bórd",
+    "syllables": [
+      "key",
+      "board"
+    ],
+    "exampleSentence": "keyboard",
+    "exampleTranslation": "teclado"
+  },
+  {
+    "id": "to_play_run_68",
+    "word": "drums",
+    "translation": "bateria",
+    "pronunciation": "/drəmz/",
+    "portuguesePhonetic": "drâms",
+    "syllables": [
+      "drums"
+    ],
+    "exampleSentence": "drums",
+    "exampleTranslation": "bateria"
+  },
+  {
+    "id": "to_play_run_69",
+    "word": "flute",
+    "translation": "flauta",
+    "pronunciation": "/flut/",
+    "portuguesePhonetic": "flut",
+    "syllables": [
+      "flute"
+    ],
+    "exampleSentence": "flute",
+    "exampleTranslation": "flauta"
+  },
+  {
+    "id": "to_play_run_70",
+    "word": "violin",
+    "translation": "violino",
+    "pronunciation": "/ˌvaɪəˈlɪn/",
+    "portuguesePhonetic": "vai-o-lín",
+    "syllables": [
+      "vi",
+      "o",
+      "lin"
+    ],
+    "exampleSentence": "violin",
+    "exampleTranslation": "violino"
+  },
+  {
+    "id": "to_play_run_71",
+    "word": "instrument",
+    "translation": "instrumento",
+    "pronunciation": "/ˈɪnstrəmənt/",
+    "portuguesePhonetic": "ín-stru-ment",
+    "syllables": [
+      "in",
+      "stru",
+      "ment"
+    ],
+    "exampleSentence": "instrument",
+    "exampleTranslation": "instrumento"
+  },
+  {
+    "id": "to_play_run_72",
+    "word": "soccer",
+    "translation": "futebol",
+    "pronunciation": "/ˈsɑkər/",
+    "portuguesePhonetic": "só-quer",
+    "syllables": [
+      "soc",
+      "cer"
+    ],
+    "exampleSentence": "soccer",
+    "exampleTranslation": "futebol"
+  },
+  {
+    "id": "to_play_run_73",
+    "word": "basketball",
+    "translation": "basquete",
+    "pronunciation": "/ˈbæskətˌbɔl/",
+    "portuguesePhonetic": "bés-quet-ból",
+    "syllables": [
+      "bas",
+      "ket",
+      "ball"
+    ],
+    "exampleSentence": "basketball",
+    "exampleTranslation": "basquete"
+  },
+  {
+    "id": "to_play_run_74",
+    "word": "volleyball",
+    "translation": "vôlei",
+    "pronunciation": "/ˈvɑliˌbɔl/",
+    "portuguesePhonetic": "vó-li-ból",
+    "syllables": [
+      "vol",
+      "ley",
+      "ball"
+    ],
+    "exampleSentence": "volleyball",
+    "exampleTranslation": "vôlei"
+  },
+  {
+    "id": "to_play_run_75",
+    "word": "hobby",
+    "translation": "passatempo",
+    "pronunciation": "/ˈhɑbi/",
+    "portuguesePhonetic": "ró-bi",
+    "syllables": [
+      "hob",
+      "by"
+    ],
+    "exampleSentence": "hobby",
+    "exampleTranslation": "passatempo"
+  },
+  {
+    "id": "to_play_run_76",
+    "word": "yoga",
+    "translation": "ioga",
+    "pronunciation": "/ˈjoʊɡə/",
+    "portuguesePhonetic": "iô-ga",
+    "syllables": [
+      "yo",
+      "ga"
+    ],
+    "exampleSentence": "yoga",
+    "exampleTranslation": "ioga"
+  },
+  {
+    "id": "to_play_run_77",
+    "word": "marathon",
+    "translation": "maratona",
+    "pronunciation": "/ˈmærəˌθɑn/",
+    "portuguesePhonetic": "mé-ra-thôn",
+    "syllables": [
+      "mar",
+      "a",
+      "thon"
+    ],
+    "exampleSentence": "marathon",
+    "exampleTranslation": "maratona"
+  },
+  {
+    "id": "to_play_run_78",
+    "word": "treadmill",
+    "translation": "esteira",
+    "pronunciation": "/ˈtrɛdmɪl/",
+    "portuguesePhonetic": "tréd-mil",
+    "syllables": [
+      "tread",
+      "mill"
+    ],
+    "exampleSentence": "treadmill",
+    "exampleTranslation": "esteira"
+  },
+  {
+    "id": "to_play_run_79",
+    "word": "run",
+    "translation": "correr",
+    "pronunciation": "/rən/",
+    "portuguesePhonetic": "rân",
+    "syllables": [
+      "run"
+    ],
+    "exampleSentence": "run",
+    "exampleTranslation": "correr"
+  },
+  {
+    "id": "to_play_run_80",
+    "word": "ride a bike",
+    "translation": "andar de bicicleta",
+    "pronunciation": "/raɪd ə baɪk/",
+    "portuguesePhonetic": "raid a baic",
+    "syllables": [
+      "ride",
+      " a",
+      " bike"
+    ],
+    "exampleSentence": "ride a bike",
+    "exampleTranslation": "andar de bicicleta"
+  },
+  {
+    "id": "to_play_run_81",
+    "word": "free time",
+    "translation": "tempo livre",
+    "pronunciation": "/fri taɪm/",
+    "portuguesePhonetic": "fri taim",
+    "syllables": [
+      "free",
+      " time"
+    ],
+    "exampleSentence": "free time",
+    "exampleTranslation": "tempo livre"
+  },
+  {
+    "id": "to_play_run_82",
+    "word": "have fun",
+    "translation": "divertir-se",
+    "pronunciation": "/hæv fʌn/",
+    "portuguesePhonetic": "rév fân",
+    "syllables": [
+      "have",
+      " fun"
+    ],
+    "exampleSentence": "have fun",
+    "exampleTranslation": "divertir-se"
+  },
+  {
+    "id": "to_play_run_83",
+    "word": "Can you play the guitar?",
+    "translation": "Você sabe tocar violão?",
+    "pronunciation": "/kæn ju pleɪ ðə ɡɪˈtɑr?/",
+    "portuguesePhonetic": "quén iu plêi dâ gui-tár?",
+    "syllables": [
+      "Can",
+      " you",
+      " play",
+      " the",
+      " gui",
+      "tar?"
+    ],
+    "exampleSentence": "Can you play the guitar?",
+    "exampleTranslation": "Você sabe tocar violão?"
+  },
+  {
+    "id": "to_play_run_84",
+    "word": "No, but I can play the piano.",
+    "translation": "Não, mas eu sei tocar piano.",
+    "pronunciation": "/noʊ, bʌt aɪ kæn pleɪ ðə piˈænoʊ./",
+    "portuguesePhonetic": "nôu, bât ai quén plêi dâ pi-é-nou.",
+    "syllables": [
+      "No,",
+      " but",
+      " I",
+      " can",
+      " play",
+      " the",
+      " pi",
+      "a",
+      "no."
+    ],
+    "exampleSentence": "No, but I can play the piano.",
+    "exampleTranslation": "Não, mas eu sei tocar piano."
+  },
+  {
+    "id": "to_play_run_85",
+    "word": "Do you play any instruments?",
+    "translation": "Você toca algum instrumento?",
+    "pronunciation": "/du ju pleɪ ˈɛni ˈɪnstrəmənts?/",
+    "portuguesePhonetic": "du iu plêi é-ni ín-stru-ments?",
+    "syllables": [
+      "Do",
+      " you",
+      " play",
+      " an",
+      "y",
+      " in",
+      "stru",
+      "ments?"
+    ],
+    "exampleSentence": "Do you play any instruments?",
+    "exampleTranslation": "Você toca algum instrumento?"
+  },
+  {
+    "id": "to_play_run_86",
+    "word": "What do you do in your free time?",
+    "translation": "O que você faz no seu tempo livre?",
+    "pronunciation": "/wʌt du ju do ɪn jʊr fri taɪm?/",
+    "portuguesePhonetic": "uót du iu du in iór fri taim?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " do",
+      " in",
+      " your",
+      " free",
+      " time?"
+    ],
+    "exampleSentence": "What do you do in your free time?",
+    "exampleTranslation": "O que você faz no seu tempo livre?"
+  },
+  {
+    "id": "to_play_run_87",
+    "word": "I like to play soccer and go running.",
+    "translation": "Eu gosto de jogar futebol e correr.",
+    "pronunciation": "/aɪ laɪk tu pleɪ ˈsɑkər ænd ɡoʊ ˈrʌnɪŋ./",
+    "portuguesePhonetic": "ai laic tchu plêi só-quer énd gôu râ-nin.",
+    "syllables": [
+      "I",
+      " like",
+      " to",
+      " play",
+      " soc",
+      "cer",
+      " and",
+      " go",
+      " run",
+      "ning."
+    ],
+    "exampleSentence": "I like to play soccer and go running.",
+    "exampleTranslation": "Eu gosto de jogar futebol e correr."
+  },
+  {
+    "id": "to_play_run_88",
+    "word": "Can you run a marathon?",
+    "translation": "Você consegue correr uma maratona?",
+    "pronunciation": "/kæn ju rən ə ˈmærəˌθɑn?/",
+    "portuguesePhonetic": "quén iu rân a mé-ra-thôn?",
+    "syllables": [
+      "Can",
+      " you",
+      " run",
+      " a",
+      " mar",
+      "a",
+      "thon?"
+    ],
+    "exampleSentence": "Can you run a marathon?",
+    "exampleTranslation": "Você consegue correr uma maratona?"
+  },
+  {
+    "id": "to_play_run_89",
+    "word": "No, I can't.",
+    "translation": "Não, eu não consigo.",
+    "pronunciation": "/noʊ, aɪ kænt./",
+    "portuguesePhonetic": "nôu, ai quént.",
+    "syllables": [
+      "No,",
+      " I",
+      " can't."
+    ],
+    "exampleSentence": "No, I can't.",
+    "exampleTranslation": "Não, eu não consigo."
+  },
+  {
+    "id": "to_play_run_90",
+    "word": "Can your sister speak English?",
+    "translation": "Sua irmã consegue falar inglês?",
+    "pronunciation": "/kæn jʊr ˈsɪstər spik ˈɪŋɡlɪʃ?/",
+    "portuguesePhonetic": "quén iór sís-ter spíc ín-glix?",
+    "syllables": [
+      "Can",
+      " your",
+      " sis",
+      "ter",
+      " speak",
+      " En",
+      "glish?"
+    ],
+    "exampleSentence": "Can your sister speak English?",
+    "exampleTranslation": "Sua irmã consegue falar inglês?"
+  },
+  {
+    "id": "to_play_run_91",
+    "word": "Yes, she can.",
+    "translation": "Sim, ela consegue.",
+    "pronunciation": "/jɛs, ʃi kæn./",
+    "portuguesePhonetic": "iés, xi quén.",
+    "syllables": [
+      "Yes,",
+      " she",
+      " can."
+    ],
+    "exampleSentence": "Yes, she can.",
+    "exampleTranslation": "Sim, ela consegue."
+  },
+  {
+    "id": "to_play_run_92",
+    "word": "You can play the drums very well. Where do you study music?",
+    "translation": "Você consegue tocar bateria muito bem. Onde você estuda música?",
+    "pronunciation": "/ju kæn pleɪ ðə drəmz ˈvɛri wɛl. wɛr du ju ˈstʌdi ˈmjuzɪk?/",
+    "portuguesePhonetic": "iu quén plêi dâ drâms vé-ri uél. uér du iu stâ-di miú-zic?",
+    "syllables": [
+      "You",
+      " can",
+      " play",
+      " the",
+      " drums",
+      " ver",
+      "y",
+      " well.",
+      " Where",
+      " do",
+      " you",
+      " stud",
+      "y",
+      " mu",
+      "sic?"
+    ],
+    "exampleSentence": "You can play the drums very well. Where do you study music?",
+    "exampleTranslation": "Você consegue tocar bateria muito bem. Onde você estuda música?"
+  },
+  {
+    "id": "to_play_run_93",
+    "word": "He can play the flute, but he can't play the violin.",
+    "translation": "Ele consegue tocar flauta, mas não consegue tocar violino.",
+    "pronunciation": "/hi kæn pleɪ ðə flut, bʌt hi kænt pleɪ ðə ˌvaɪəˈlɪn./",
+    "portuguesePhonetic": "ri quén plêi dâ flut, bât ri quént plêi dâ vai-o-lín.",
+    "syllables": [
+      "He",
+      " can",
+      " play",
+      " the",
+      " flute,",
+      " but",
+      " he",
+      " can't",
+      " play",
+      " the",
+      " vi",
+      "o",
+      "lin."
+    ],
+    "exampleSentence": "He can play the flute, but he can't play the violin.",
+    "exampleTranslation": "Ele consegue tocar flauta, mas não consegue tocar violino."
+  },
+  {
+    "id": "to_play_run_94",
+    "word": "I can play this game very well. Do you want to play with me?",
+    "translation": "Eu consigo jogar este jogo muito bem. Você quer jogar comigo?",
+    "pronunciation": "/aɪ kæn pleɪ ðɪs ɡeɪm ˈvɛri wɛl. du ju wɑnt tu pleɪ wɪð mi?/",
+    "portuguesePhonetic": "ai quén plêi dís guêim vé-ri uél. du iu uónt tchu plêi uid mi?",
+    "syllables": [
+      "I",
+      " can",
+      " play",
+      " this",
+      " game",
+      " ver",
+      "y",
+      " well.",
+      " Do",
+      " you",
+      " want",
+      " to",
+      " play",
+      " with",
+      " me?"
+    ],
+    "exampleSentence": "I can play this game very well. Do you want to play with me?",
+    "exampleTranslation": "Eu consigo jogar este jogo muito bem. Você quer jogar comigo?"
+  },
+  {
+    "id": "to_play_run_95",
+    "word": "He runs on the treadmill at the gym. What about you?",
+    "translation": "Ele corre na esteira na academia. E você?",
+    "pronunciation": "/hi rənz ɑn ðə ˈtrɛdmɪl æt ðə dʒɪm. wʌt əˈbaʊt ju?/",
+    "portuguesePhonetic": "ri râns an dâ tréd-mil ét dâ djím. uót a-báut iu?",
+    "syllables": [
+      "He",
+      " runs",
+      " on",
+      " the",
+      " tread",
+      "mill",
+      " at",
+      " the",
+      " gym.",
+      " What",
+      " a",
+      "bout",
+      " you?"
+    ],
+    "exampleSentence": "He runs on the treadmill at the gym. What about you?",
+    "exampleTranslation": "Ele corre na esteira na academia. E você?"
+  },
+  {
+    "id": "to_play_run_96",
+    "word": "I can't play volleyball, so I play basketball.",
+    "translation": "Eu não consigo jogar vôlei, então eu jogo basquete.",
+    "pronunciation": "/aɪ kænt pleɪ ˈvɑliˌbɔl, soʊ aɪ pleɪ ˈbæskətˌbɔl./",
+    "portuguesePhonetic": "ai quént plêi vó-li-ból, sôu ai plêi bés-quet-ból.",
+    "syllables": [
+      "I",
+      " can't",
+      " play",
+      " vol",
+      "ley",
+      "ball,",
+      " so",
+      " I",
+      " play",
+      " bas",
+      "ket",
+      "ball."
+    ],
+    "exampleSentence": "I can't play volleyball, so I play basketball.",
+    "exampleTranslation": "Eu não consigo jogar vôlei, então eu jogo basquete."
+  },
+  {
+    "id": "to_play_run_97",
+    "word": "Do you know my brother? He can play soccer very well.",
+    "translation": "Vocês conhecem meu irmão? Ele consegue jogar futebol muito bem.",
+    "pronunciation": "/du ju noʊ maɪ ˈbrʌðər? hi kæn peɪ ˈsɑkər ˈvɛri wɛl./",
+    "portuguesePhonetic": "du iu nôu mai brâ-der? ri quén plêi só-quer vé-ri uél.",
+    "syllables": [
+      "Do",
+      " you",
+      " know",
+      " my",
+      " broth",
+      "er?",
+      " He",
+      " can",
+      " play",
+      " soc",
+      "cer",
+      " ver",
+      "y",
+      " well."
+    ],
+    "exampleSentence": "Do you know my brother? He can play soccer very well.",
+    "exampleTranslation": "Vocês conhecem meu irmão? Ele consegue jogar futebol muito bem."
+  },
+  {
+    "id": "to_play_run_98",
+    "word": "I have an idea. Let's swim!",
+    "translation": "Eu tenho uma ideia. Vamos nadar!",
+    "pronunciation": "/aɪ hæv ən aɪˈdiə. lɛts swɪm!/",
+    "portuguesePhonetic": "ai rév an ai-día. léts suím!",
+    "syllables": [
+      "I",
+      " have",
+      " an",
+      " i",
+      "de",
+      "a.",
+      " Let's",
+      " swim!"
+    ],
+    "exampleSentence": "I have an idea. Let's swim!",
+    "exampleTranslation": "Eu tenho uma ideia. Vamos nadar!"
+  },
+  {
+    "id": "to_play_run_99",
+    "word": "I can't play the piano after 9:00 p.m. I live in an apartment.",
+    "translation": "Eu não posso tocar piano depois das 9:00 da noite. Eu moro em um apartamento.",
+    "pronunciation": "/aɪ kænt pleɪ ðə piˈænoʊ ˈæftər naɪn pi.ɛm. aɪ lɪv ɪn ən əˈpɑrtmənt./",
+    "portuguesePhonetic": "ai quént plêi dâ pi-é-nou áf-ter nain pi-ém. ai lív in an a-párt-ment.",
+    "syllables": [
+      "I",
+      " can't",
+      " play",
+      " the",
+      " pi",
+      "a",
+      "no",
+      " af",
+      "ter",
+      " 9",
+      ":",
+      "00",
+      " p",
+      ".",
+      "m",
+      ".",
+      " I",
+      " live",
+      " in",
+      " an",
+      " a",
+      "part",
+      "ment."
+    ],
+    "exampleSentence": "I can't play the piano after 9:00 p.m. I live in an apartment.",
+    "exampleTranslation": "Eu não posso tocar piano depois das 9:00 da noite. Eu moro em um apartamento."
+  },
+  {
+    "id": "to_play_run_100",
+    "word": "Sorry, but I can't go with you. I do yoga on Tuesdays.",
+    "translation": "Desculpe, mas eu não posso ir com você. Eu faço ioga às terças-feiras.",
+    "pronunciation": "/ˈsɑri, bʌt aɪ kænt ɡoʊ wɪð ju. aɪ du ˈjoʊɡə ɑn ˈtuzdeɪz./",
+    "portuguesePhonetic": "só-ri, bât ai quént gôu uid iu. ai du iô-ga an tús-dêis.",
+    "syllables": [
+      "Sor",
+      "ry,",
+      " but",
+      " I",
+      " can't",
+      " go",
+      " with",
+      " you.",
+      " I",
+      " do",
+      " yo",
+      "ga",
+      " on",
+      " Tues",
+      "days."
+    ],
+    "exampleSentence": "Sorry, but I can't go with you. I do yoga on Tuesdays.",
+    "exampleTranslation": "Desculpe, mas eu não posso ir com você. Eu faço ioga às terças-feiras."
+  },
+  {
+    "id": "to_play_run_101",
+    "word": "He can only ride a bike on weekends.",
+    "translation": "Ele só pode andar de bicicleta aos finais de semana.",
+    "pronunciation": "/hi kæn ˈoʊnli raɪd ə baɪk ɑn ˈwikˌɛndz./",
+    "portuguesePhonetic": "ri quén ôun-li raid a baic an uíc-énds.",
+    "syllables": [
+      "He",
+      " can",
+      " on",
+      "ly",
+      " ride",
+      " a",
+      " bike",
+      " on",
+      " week",
+      "ends."
+    ],
+    "exampleSentence": "He can only ride a bike on weekends.",
+    "exampleTranslation": "Ele só pode andar de bicicleta aos finais de semana."
+  },
+  {
+    "id": "to_play_run_102",
+    "word": "I can play the guitar. It's easy.",
+    "translation": "Eu consigo tocar violão. É fácil.",
+    "pronunciation": "/aɪ kæn pleɪ ðə ɡɪˈtɑr. ɪts ˈizi./",
+    "portuguesePhonetic": "ai quén plêi dâ gui-tár. its í-zi.",
+    "syllables": [
+      "I",
+      " can",
+      " play",
+      " the",
+      " gui",
+      "tar.",
+      " It's",
+      " ea",
+      "sy."
+    ],
+    "exampleSentence": "I can play the guitar. It's easy.",
+    "exampleTranslation": "Eu consigo tocar violão. É fácil."
+  },
+  {
+    "id": "to_play_run_103",
+    "word": "You can ride a bike here.",
+    "translation": "Você pode andar de bicicleta aqui.",
+    "pronunciation": "/ju kæn raɪd ə baɪk hɪr./",
+    "portuguesePhonetic": "iu quén raid a baic rir.",
+    "syllables": [
+      "You",
+      " can",
+      " ride",
+      " a",
+      " bike",
+      " here."
+    ],
+    "exampleSentence": "You can ride a bike here.",
+    "exampleTranslation": "Você pode andar de bicicleta aqui."
+  },
+  {
+    "id": "to_play_run_104",
+    "word": "They always play volleyball on weekends.",
+    "translation": "Eles sempre jogam vôlei nos fins de semana.",
+    "pronunciation": "/ðeɪ ˈɔlweɪz pleɪ ˈvɑliˌbɔl ɑn ˈwikˌɛndz./",
+    "portuguesePhonetic": "dêi ól-ueiz plêi vó-li-ból an uíc-énds.",
+    "syllables": [
+      "They",
+      " al",
+      "ways",
+      " play",
+      " vol",
+      "ley",
+      "ball",
+      " on",
+      " week",
+      "ends."
+    ],
+    "exampleSentence": "They always play volleyball on weekends.",
+    "exampleTranslation": "Eles sempre jogam vôlei nos fins de semana."
+  },
+  {
+    "id": "to_play_run_105",
+    "word": "They are running in the park now.",
+    "translation": "Eles estão correndo no parque agora.",
+    "pronunciation": "/ðeɪ ɑr ˈrʌnɪŋ ɪn ðə pɑrk naʊ./",
+    "portuguesePhonetic": "dêi ar râ-nin in dâ párc náu.",
+    "syllables": [
+      "They",
+      " are",
+      " run",
+      "ning",
+      " in",
+      " the",
+      " park",
+      " now."
+    ],
+    "exampleSentence": "They are running in the park now.",
+    "exampleTranslation": "Eles estão correndo no parque agora."
+  },
+  {
+    "id": "to_play_run_106",
+    "word": "You can play the piano now.",
+    "translation": "Você pode tocar piano agora.",
+    "pronunciation": "/ju kæn pleɪ ðə piˈænoʊ naʊ./",
+    "portuguesePhonetic": "iu quén plêi dâ pi-é-nou náu.",
+    "syllables": [
+      "You",
+      " can",
+      " play",
+      " the",
+      " pi",
+      "a",
+      "no",
+      " now."
+    ],
+    "exampleSentence": "You can play the piano now.",
+    "exampleTranslation": "Você pode tocar piano agora."
+  },
+  {
+    "id": "to_play_run_107",
+    "word": "He wants to run the marathon next month.",
+    "translation": "Ele quer correr a maratona no próximo mês.",
+    "pronunciation": "/hi wɑnts tu rən ðə ˈmærəˌθɑn nɛkst mʌnθ./",
+    "portuguesePhonetic": "ri uónts tchu rân dâ mé-ra-thôn nécst mânth.",
+    "syllables": [
+      "He",
+      " wants",
+      " to",
+      " run",
+      " the",
+      " mar",
+      "a",
+      "thon",
+      " next",
+      " month."
+    ],
+    "exampleSentence": "He wants to run the marathon next month.",
+    "exampleTranslation": "Ele quer correr a maratona no próximo mês."
+  },
+  {
+    "id": "to_play_run_108",
+    "word": "They like to play soccer in their free time.",
+    "translation": "Eles gostam de jogar futebol no tempo livre.",
+    "pronunciation": "/ðeɪ laɪk tu pleɪ ˈsɑkər ɪn ðɛr fri taɪm./",
+    "portuguesePhonetic": "dêi laic tchu plêi só-quer in dér fri taim.",
+    "syllables": [
+      "They",
+      " like",
+      " to",
+      " play",
+      " soc",
+      "cer",
+      " in",
+      " their",
+      " free",
+      " time."
+    ],
+    "exampleSentence": "They like to play soccer in their free time.",
+    "exampleTranslation": "Eles gostam de jogar futebol no tempo livre."
+  },
+  {
+    "id": "to_play_run_109",
+    "word": "She can go out tonight.",
+    "translation": "Ela pode sair hoje à noite.",
+    "pronunciation": "/ʃi kæn ɡoʊ aʊt təˈnaɪt./",
+    "portuguesePhonetic": "xi quén gôu áut tchu-náit.",
+    "syllables": [
+      "She",
+      " can",
+      " go",
+      " out",
+      " to",
+      "night."
+    ],
+    "exampleSentence": "She can go out tonight.",
+    "exampleTranslation": "Ela pode sair hoje à noite."
+  },
+  {
+    "id": "to_play_run_110",
+    "word": "drums",
+    "translation": "bateria",
+    "pronunciation": "/drəmz/",
+    "portuguesePhonetic": "drâms",
+    "syllables": [
+      "drums"
+    ],
+    "exampleSentence": "drums",
+    "exampleTranslation": "bateria"
+  },
+  {
+    "id": "to_play_run_111",
+    "word": "flute",
+    "translation": "flauta",
+    "pronunciation": "/flut/",
+    "portuguesePhonetic": "flut",
+    "syllables": [
+      "flute"
+    ],
+    "exampleSentence": "flute",
+    "exampleTranslation": "flauta"
+  },
+  {
+    "id": "to_play_run_112",
+    "word": "violin",
+    "translation": "violino",
+    "pronunciation": "/ˌvaɪəˈlɪn/",
+    "portuguesePhonetic": "vai-o-lín",
+    "syllables": [
+      "vi",
+      "o",
+      "lin"
+    ],
+    "exampleSentence": "violin",
+    "exampleTranslation": "violino"
+  },
+  {
+    "id": "to_play_run_113",
+    "word": "treadmill",
+    "translation": "esteira",
+    "pronunciation": "/ˈtrɛdmɪl/",
+    "portuguesePhonetic": "tréd-mil",
+    "syllables": [
+      "tread",
+      "mill"
+    ],
+    "exampleSentence": "treadmill",
+    "exampleTranslation": "esteira"
+  },
+  {
+    "id": "to_play_run_114",
+    "word": "gym",
+    "translation": "academia",
+    "pronunciation": "/dʒɪm/",
+    "portuguesePhonetic": "djím",
+    "syllables": [
+      "gym"
+    ],
+    "exampleSentence": "gym",
+    "exampleTranslation": "academia"
+  },
+  {
+    "id": "to_play_run_115",
+    "word": "volleyball",
+    "translation": "vôlei",
+    "pronunciation": "/ˈvɑliˌbɔl/",
+    "portuguesePhonetic": "vó-li-ból",
+    "syllables": [
+      "vol",
+      "ley",
+      "ball"
+    ],
+    "exampleSentence": "volleyball",
+    "exampleTranslation": "vôlei"
+  },
+  {
+    "id": "to_play_run_116",
+    "word": "basketball",
+    "translation": "basquete",
+    "pronunciation": "/ˈbæskətˌbɔl/",
+    "portuguesePhonetic": "bés-quet-ból",
+    "syllables": [
+      "bas",
+      "ket",
+      "ball"
+    ],
+    "exampleSentence": "basketball",
+    "exampleTranslation": "basquete"
+  },
+  {
+    "id": "to_play_run_117",
+    "word": "soccer",
+    "translation": "futebol",
+    "pronunciation": "/ˈsɑkər/",
+    "portuguesePhonetic": "só-quer",
+    "syllables": [
+      "soc",
+      "cer"
+    ],
+    "exampleSentence": "soccer",
+    "exampleTranslation": "futebol"
+  },
+  {
+    "id": "to_play_run_118",
+    "word": "swim",
+    "translation": "nadar",
+    "pronunciation": "/swɪm/",
+    "portuguesePhonetic": "suím",
+    "syllables": [
+      "swim"
+    ],
+    "exampleSentence": "swim",
+    "exampleTranslation": "nadar"
+  },
+  {
+    "id": "to_play_run_119",
+    "word": "piano",
+    "translation": "piano",
+    "pronunciation": "/piˈænoʊ/",
+    "portuguesePhonetic": "pi-é-nou",
+    "syllables": [
+      "pi",
+      "a",
+      "no"
+    ],
+    "exampleSentence": "piano",
+    "exampleTranslation": "piano"
+  },
+  {
+    "id": "to_play_run_120",
+    "word": "apartment",
+    "translation": "apartamento",
+    "pronunciation": "/əˈpɑrtmənt/",
+    "portuguesePhonetic": "a-párt-ment",
+    "syllables": [
+      "a",
+      "part",
+      "ment"
+    ],
+    "exampleSentence": "apartment",
+    "exampleTranslation": "apartamento"
+  },
+  {
+    "id": "to_play_run_121",
+    "word": "yoga",
+    "translation": "ioga",
+    "pronunciation": "/ˈjoʊɡə/",
+    "portuguesePhonetic": "iô-ga",
+    "syllables": [
+      "yo",
+      "ga"
+    ],
+    "exampleSentence": "yoga",
+    "exampleTranslation": "ioga"
+  },
+  {
+    "id": "to_play_run_122",
+    "word": "ride a bike",
+    "translation": "andar de bicicleta",
+    "pronunciation": "/raɪd ə baɪk/",
+    "portuguesePhonetic": "raid a baic",
+    "syllables": [
+      "ride",
+      " a",
+      " bike"
+    ],
+    "exampleSentence": "ride a bike",
+    "exampleTranslation": "andar de bicicleta"
+  },
+  {
+    "id": "to_play_run_123",
+    "word": "weekend",
+    "translation": "fim de semana",
+    "pronunciation": "/ˈwikˌɛnd/",
+    "portuguesePhonetic": "uíc-énd",
+    "syllables": [
+      "week",
+      "end"
+    ],
+    "exampleSentence": "weekend",
+    "exampleTranslation": "fim de semana"
+  },
+  {
+    "id": "to_play_run_124",
+    "word": "guitar",
+    "translation": "violão / guitarra",
+    "pronunciation": "/ɡɪˈtɑr/",
+    "portuguesePhonetic": "gui-tár",
+    "syllables": [
+      "gui",
+      "tar"
+    ],
+    "exampleSentence": "guitar",
+    "exampleTranslation": "violão / guitarra"
+  },
+  {
+    "id": "to_play_run_125",
+    "word": "marathon",
+    "translation": "maratona",
+    "pronunciation": "/ˈmærəˌθɑn/",
+    "portuguesePhonetic": "mé-ra-thôn",
+    "syllables": [
+      "mar",
+      "a",
+      "thon"
+    ],
+    "exampleSentence": "marathon",
+    "exampleTranslation": "maratona"
+  },
+  {
+    "id": "to_play_run_126",
+    "word": "free time",
+    "translation": "tempo livre",
+    "pronunciation": "/fri taɪm/",
+    "portuguesePhonetic": "fri taim",
+    "syllables": [
+      "free",
+      " time"
+    ],
+    "exampleSentence": "free time",
+    "exampleTranslation": "tempo livre"
+  },
+  {
+    "id": "to_play_run_127",
+    "word": "downtown",
+    "translation": "centro da cidade",
+    "pronunciation": "/ˈdaʊnˈtaʊn/",
+    "portuguesePhonetic": "dáun-táun",
+    "syllables": [
+      "down",
+      "town"
+    ],
+    "exampleSentence": "downtown",
+    "exampleTranslation": "centro da cidade"
+  },
+  {
+    "id": "to_play_run_128",
+    "word": "concert for charity",
+    "translation": "concerto beneficente",
+    "pronunciation": "/ˈkɑnsərt fɔr ˈtʃærɪti/",
+    "portuguesePhonetic": "cón-cert fór tché-ri-ti",
+    "syllables": [
+      "con",
+      "cert",
+      " for",
+      " char",
+      "i",
+      "ty"
+    ],
+    "exampleSentence": "concert for charity",
+    "exampleTranslation": "concerto beneficente"
+  },
+  {
+    "id": "to_play_run_129",
+    "word": "musician",
+    "translation": "músico",
+    "pronunciation": "/mjuˈzɪʃən/",
+    "portuguesePhonetic": "miu-zí-xân",
+    "syllables": [
+      "mu",
+      "si",
+      "cian"
+    ],
+    "exampleSentence": "musician",
+    "exampleTranslation": "músico"
+  },
+  {
+    "id": "to_play_run_130",
+    "word": "band",
+    "translation": "banda",
+    "pronunciation": "/bænd/",
+    "portuguesePhonetic": "bénd",
+    "syllables": [
+      "band"
+    ],
+    "exampleSentence": "band",
+    "exampleTranslation": "banda"
+  },
+  {
+    "id": "to_play_run_131",
+    "word": "instrument",
+    "translation": "instrumento musical",
+    "pronunciation": "/ˈɪnstrəmənt/",
+    "portuguesePhonetic": "ín-stru-ment",
+    "syllables": [
+      "in",
+      "stru",
+      "ment"
+    ],
+    "exampleSentence": "instrument",
+    "exampleTranslation": "instrumento musical"
+  },
+  {
+    "id": "to_play_run_132",
+    "word": "play an instrument",
+    "translation": "tocar um instrumento",
+    "pronunciation": "/pleɪ ən ˈɪnstrəmənt/",
+    "portuguesePhonetic": "plêi an ín-stru-ment",
+    "syllables": [
+      "play",
+      " an",
+      " in",
+      "stru",
+      "ment"
+    ],
+    "exampleSentence": "play an instrument",
+    "exampleTranslation": "tocar um instrumento"
+  }
+]

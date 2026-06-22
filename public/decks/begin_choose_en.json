@@ -1,0 +1,661 @@
+[
+  {
+    "id": "begin_choose_1",
+    "word": "to begin",
+    "translation": "iniciar, começar",
+    "pronunciation": "/tu bɪˈɡɪn/",
+    "portuguesePhonetic": "tchu bi-guín",
+    "syllables": [
+      "to",
+      " be",
+      "gin"
+    ],
+    "exampleSentence": "I am beginning to watch the end of the first season.",
+    "exampleTranslation": "Eu estou começando a assistir o final da primeira temporada."
+  },
+  {
+    "id": "begin_choose_2",
+    "word": "to choose",
+    "translation": "escolher",
+    "pronunciation": "/tu tʃuz/",
+    "portuguesePhonetic": "tchu tchúz",
+    "syllables": [
+      "to",
+      " choose"
+    ],
+    "exampleSentence": "She is choosing some TV shows to watch on Saturday night.",
+    "exampleTranslation": "Ela está escolhendo alguns programas de TV para assistir no sábado à noite."
+  },
+  {
+    "id": "begin_choose_3",
+    "word": "TV channel",
+    "translation": "canal de TV",
+    "pronunciation": "/ˌtiˈvi ˈtʃænəl/",
+    "portuguesePhonetic": "ti-ví tché-nôl",
+    "syllables": [
+      "TV",
+      " chan",
+      "nel"
+    ],
+    "exampleSentence": "The new series on that TV channel is awkward.",
+    "exampleTranslation": "A nova série naquele canal de TV é estranha."
+  },
+  {
+    "id": "begin_choose_4",
+    "word": "TV show",
+    "translation": "programa de TV",
+    "pronunciation": "/ˌtiˈvi ʃoʊ/",
+    "portuguesePhonetic": "ti-ví chôu",
+    "syllables": [
+      "TV",
+      " show"
+    ],
+    "exampleSentence": "I prefer live TV shows to movies or series.",
+    "exampleTranslation": "Eu prefiro programas de TV ao vivo a filmes ou séries."
+  },
+  {
+    "id": "begin_choose_5",
+    "word": "season",
+    "translation": "temporada",
+    "pronunciation": "/ˈsizən/",
+    "portuguesePhonetic": "sí-zân",
+    "syllables": [
+      "sea",
+      "son"
+    ],
+    "exampleSentence": "I am beginning to watch the end of the first season.",
+    "exampleTranslation": "Eu estou começando a assistir o final da primeira temporada."
+  },
+  {
+    "id": "begin_choose_6",
+    "word": "episode",
+    "translation": "episódio",
+    "pronunciation": "/ˈɛpəˌsoʊd/",
+    "portuguesePhonetic": "é-pi-sôud",
+    "syllables": [
+      "ep",
+      "i",
+      "sode"
+    ],
+    "exampleSentence": "I never miss an episode.",
+    "exampleTranslation": "Eu nunca perco um episódio."
+  },
+  {
+    "id": "begin_choose_7",
+    "word": "scene",
+    "translation": "cena",
+    "pronunciation": "/sin/",
+    "portuguesePhonetic": "sín",
+    "syllables": [
+      "scene"
+    ],
+    "exampleSentence": "Sean Connery's last scene was fascinating.",
+    "exampleTranslation": "A última cena de Sean Connery foi fascinante."
+  },
+  {
+    "id": "begin_choose_8",
+    "word": "finale",
+    "translation": "final",
+    "pronunciation": "/fɪˈnæli/",
+    "portuguesePhonetic": "fi-ná-li",
+    "syllables": [
+      "fi",
+      "na",
+      "le"
+    ],
+    "exampleSentence": "We were very disappointed with the movie finale.",
+    "exampleTranslation": "Nós ficamos muito decepcionados com o final do filme."
+  },
+  {
+    "id": "begin_choose_9",
+    "word": "spoiler",
+    "translation": "spoiler",
+    "pronunciation": "/ˈspɔɪlər/",
+    "portuguesePhonetic": "spói-ler",
+    "syllables": [
+      "spoil",
+      "er"
+    ],
+    "exampleSentence": "I hate James' spoilers. Nobody wants to know the end of the movies.",
+    "exampleTranslation": "Eu odeio os spoilers do James. Ninguém quer saber o final dos filmes."
+  },
+  {
+    "id": "begin_choose_10",
+    "word": "beginning",
+    "translation": "começo, início",
+    "pronunciation": "/bɪˈɡɪnɪŋ/",
+    "portuguesePhonetic": "bi-guí-nin",
+    "syllables": [
+      "be",
+      "gin",
+      "ning"
+    ],
+    "exampleSentence": "My favorite scene was in the beginning of the movie.",
+    "exampleTranslation": "Minha cena favorita foi no começo do filme."
+  },
+  {
+    "id": "begin_choose_11",
+    "word": "end",
+    "translation": "final",
+    "pronunciation": "/ɛnd/",
+    "portuguesePhonetic": "énd",
+    "syllables": [
+      "end"
+    ],
+    "exampleSentence": "The end of that episode was amazing.",
+    "exampleTranslation": "O final daquele episódio foi incrível."
+  },
+  {
+    "id": "begin_choose_12",
+    "word": "live",
+    "translation": "ao vivo",
+    "pronunciation": "/laɪv/",
+    "portuguesePhonetic": "láiv",
+    "syllables": [
+      "live"
+    ],
+    "exampleSentence": "I prefer live TV shows to movies or series.",
+    "exampleTranslation": "Eu prefiro programas de TV ao vivo a filmes ou séries."
+  },
+  {
+    "id": "begin_choose_13",
+    "word": "whose",
+    "translation": "de quem",
+    "pronunciation": "/huz/",
+    "portuguesePhonetic": "rúz",
+    "syllables": [
+      "whose"
+    ],
+    "exampleSentence": "Whose movies are these?",
+    "exampleTranslation": "De quem são esses filmes?"
+  },
+  {
+    "id": "begin_choose_14",
+    "word": "I always have to buy more popcorn at the beginning and at the end of the movie.",
+    "translation": "Eu sempre tenho que comprar mais pipoca no início e no final do filme.",
+    "pronunciation": "/aɪ ˈɔlweɪz hæv tu baɪ mɔr ˈpɑpkɔrn æt ðə bɪˈɡɪnɪŋ ænd æt ðə ɛnd əv ðə ˈmuvi/",
+    "portuguesePhonetic": "ai ól-uêiz rév tchu bái mór póp-córn ét ðâ bi-guí-nin énd ét ðâ énd óv ðâ mú-vi",
+    "syllables": [
+      "I",
+      " al",
+      "ways",
+      " have",
+      " to",
+      " buy",
+      " more",
+      " pop",
+      "corn",
+      " at",
+      " the",
+      " be",
+      "gin",
+      "ning",
+      " and",
+      " at",
+      " the",
+      " end",
+      " of",
+      " the",
+      " mov",
+      "ie."
+    ],
+    "exampleSentence": "I always have to buy more popcorn at the beginning and at the end of the movie.",
+    "exampleTranslation": "Eu sempre tenho que comprar mais pipoca no início e no final do filme."
+  },
+  {
+    "id": "begin_choose_15",
+    "word": "She is into independent movies.",
+    "translation": "Ela curte filmes independentes.",
+    "pronunciation": "/ʃi ɪz ˈɪntu ˌɪndɪˈpɛndənt ˈmuviz/",
+    "portuguesePhonetic": "xi iz ín-tchu in-di-pén-dent mú-viz",
+    "syllables": [
+      "She",
+      " is",
+      " in",
+      "to",
+      " in",
+      "de",
+      "pend",
+      "ent",
+      " mov",
+      "ies."
+    ],
+    "exampleSentence": "She is into independent movies.",
+    "exampleTranslation": "Ela curte filmes independentes."
+  },
+  {
+    "id": "begin_choose_16",
+    "word": "I never miss an episode.",
+    "translation": "Eu nunca perco um episódio.",
+    "pronunciation": "/aɪ ˈnɛvər mɪs æn ˈɛpəˌsoʊd/",
+    "portuguesePhonetic": "ai né-ver mís én é-pi-sôud",
+    "syllables": [
+      "I",
+      " nev",
+      "er",
+      " miss",
+      " an",
+      " ep",
+      "i",
+      "sode."
+    ],
+    "exampleSentence": "I never miss an episode.",
+    "exampleTranslation": "Eu nunca perco um episódio."
+  },
+  {
+    "id": "begin_choose_17",
+    "word": "We love binge-watching series during the weekend.",
+    "translation": "Nós adoramos \"maratonar\" séries nos finais de semana.",
+    "pronunciation": "/wi lʌv ˈbɪndʒˌwɑtʃɪŋ ˈsɪriz ˈdʊrɪŋ ðə ˈwikˌɛnd/",
+    "portuguesePhonetic": "uí lâv bíndj-uó-tchin sí-riz dú-rin ðâ uí-kénd",
+    "syllables": [
+      "We",
+      " love",
+      " binge",
+      "-",
+      "watch",
+      "ing",
+      " se",
+      "ries",
+      " dur",
+      "ing",
+      " the",
+      " week",
+      "end."
+    ],
+    "exampleSentence": "We love binge-watching series during the weekend.",
+    "exampleTranslation": "Nós adoramos \"maratonar\" séries nos finais de semana."
+  },
+  {
+    "id": "begin_choose_18",
+    "word": "Whose movies are these?",
+    "translation": "De quem são esses filmes?",
+    "pronunciation": "/huz ˈmuviz ɑr ðiz/",
+    "portuguesePhonetic": "rúz mú-viz ar ðíz",
+    "syllables": [
+      "Whose",
+      " mov",
+      "ies",
+      " are",
+      " these?"
+    ],
+    "exampleSentence": "Whose movies are these?",
+    "exampleTranslation": "De quem são esses filmes?"
+  },
+  {
+    "id": "begin_choose_19",
+    "word": "Whose house was that?",
+    "translation": "De quem era aquela casa?",
+    "pronunciation": "/huz haʊs wʌz ðæt/",
+    "portuguesePhonetic": "rúz ráuss uâz ðét",
+    "syllables": [
+      "Whose",
+      " house",
+      " was",
+      " that?"
+    ],
+    "exampleSentence": "Whose house was that?",
+    "exampleTranslation": "De quem era aquela casa?"
+  },
+  {
+    "id": "begin_choose_20",
+    "word": "Whose birthday is it today?",
+    "translation": "De quem é o aniversário hoje?",
+    "pronunciation": "/huz ˈbɜrθˌdeɪ ɪz ɪt təˈdeɪ/",
+    "portuguesePhonetic": "rúz bêrth-dêi iz it tchu-dêi",
+    "syllables": [
+      "Whose",
+      " birth",
+      "day",
+      " is",
+      " it",
+      " to",
+      "day?"
+    ],
+    "exampleSentence": "Whose birthday is it today?",
+    "exampleTranslation": "De quem é o aniversário hoje?"
+  },
+  {
+    "id": "begin_choose_21",
+    "word": "It's their birthday today.",
+    "translation": "É o aniversário deles(as) hoje.",
+    "pronunciation": "/ɪts ðɛr ˈbɜrθˌdeɪ təˈdeɪ/",
+    "portuguesePhonetic": "its ðér bêrth-dêi tchu-dêi",
+    "syllables": [
+      "It's",
+      " their",
+      " birth",
+      "day",
+      " to",
+      "day."
+    ],
+    "exampleSentence": "It's their birthday today.",
+    "exampleTranslation": "É o aniversário deles(as) hoje."
+  },
+  {
+    "id": "begin_choose_22",
+    "word": "These are Anna's videos.",
+    "translation": "Estes vídeos são da Anna.",
+    "pronunciation": "/ðiz ɑr ˈænəz ˈvɪdioʊz/",
+    "portuguesePhonetic": "ðíz ar é-naz ví-di-ôuz",
+    "syllables": [
+      "These",
+      " are",
+      " An",
+      "na's",
+      " vid",
+      "e",
+      "os."
+    ],
+    "exampleSentence": "These are Anna's videos.",
+    "exampleTranslation": "Estes vídeos são da Anna."
+  },
+  {
+    "id": "begin_choose_23",
+    "word": "I hate James' spoilers. Nobody wants to know the end of the movies.",
+    "translation": "Eu odeio os spoilers do James. Ninguém quer saber o final dos filmes.",
+    "pronunciation": "/aɪ heɪt ˈdʒeɪmzɪz ˈspɔɪlərz. ˈnoʊˌbɑdi wɑnts tu noʊ ðə ɛnd əv ðə ˈmuviz/",
+    "portuguesePhonetic": "ai rêit djêim-ziz spói-lerz. nôu-bó-di uónts tchu nôu ðâ énd óv ðâ mú-viz",
+    "syllables": [
+      "I",
+      " hate",
+      " James'",
+      " spoil",
+      "ers.",
+      " No",
+      "bod",
+      "y",
+      " wants",
+      " to",
+      " know",
+      " the",
+      " end",
+      " of",
+      " the",
+      " mov",
+      "ies."
+    ],
+    "exampleSentence": "I hate James' spoilers. Nobody wants to know the end of the movies.",
+    "exampleTranslation": "Eu odeio os spoilers do James. Ninguém quer saber o final dos filmes."
+  },
+  {
+    "id": "begin_choose_24",
+    "word": "I am beginning to watch the end of the first season.",
+    "translation": "Eu estou começando a assistir o final da primeira temporada.",
+    "pronunciation": "/aɪ æm bɪˈɡɪnɪŋ tu wɑtʃ ðə ɛnd əv ðə fɜrst ˈsizən/",
+    "portuguesePhonetic": "ai ém bi-guí-nin tchu uótch ðâ énd óv ðâ fêrst sí-zân",
+    "syllables": [
+      "I",
+      " am",
+      " be",
+      "gin",
+      "ning",
+      " to",
+      " watch",
+      " the",
+      " end",
+      " of",
+      " the",
+      " first",
+      " sea",
+      "son."
+    ],
+    "exampleSentence": "I am beginning to watch the end of the first season.",
+    "exampleTranslation": "Eu estou começando a assistir o final da primeira temporada."
+  },
+  {
+    "id": "begin_choose_25",
+    "word": "She is choosing some TV shows to watch on Saturday night.",
+    "translation": "Ela está escolhendo alguns programas de TV para assistir no sábado à noite.",
+    "pronunciation": "/ʃi ɪz ˈtʃuzɪŋ sʌm ˌtiˈvi ʃoʊz tu wɑtʃ ɑn ˈsætərdi naɪt/",
+    "portuguesePhonetic": "xi iz tchú-zin sâm ti-ví chôuz tchu uótch ón sé-târ-dêi náit",
+    "syllables": [
+      "She",
+      " is",
+      " choos",
+      "ing",
+      " some",
+      " TV",
+      " shows",
+      " to",
+      " watch",
+      " on",
+      " Sat",
+      "ur",
+      "day",
+      " night."
+    ],
+    "exampleSentence": "She is choosing some TV shows to watch on Saturday night.",
+    "exampleTranslation": "Ela está escolhendo alguns programas de TV para assistir no sábado à noite."
+  },
+  {
+    "id": "begin_choose_26",
+    "word": "The end of that episode was amazing.",
+    "translation": "O final daquele episódio foi incrível.",
+    "pronunciation": "/ðə ɛnd əv ðæt ˈɛpəˌsoʊd wʌz əˈmeɪzɪŋ/",
+    "portuguesePhonetic": "ðâ énd óv ðét é-pi-sôud uâz a-mêi-zin",
+    "syllables": [
+      "The",
+      " end",
+      " of",
+      " that",
+      " ep",
+      "i",
+      "sode",
+      " was",
+      " a",
+      "maz",
+      "ing."
+    ],
+    "exampleSentence": "The end of that episode was amazing.",
+    "exampleTranslation": "O final daquele episódio foi incrível."
+  },
+  {
+    "id": "begin_choose_27",
+    "word": "I prefer live TV shows to movies or series.",
+    "translation": "Eu prefiro programas de TV ao vivo a filmes ou séries.",
+    "pronunciation": "/aɪ prɪˈfɜr laɪv ˌtiˈvi ʃoʊz tu ˈmuviz ɔr ˈsɪriz/",
+    "portuguesePhonetic": "ai pri-fêr láiv ti-ví chôuz tchu mú-viz ór sí-riz",
+    "syllables": [
+      "I",
+      " pre",
+      "fer",
+      " live",
+      " TV",
+      " shows",
+      " to",
+      " mov",
+      "ies",
+      " or",
+      " se",
+      "ries."
+    ],
+    "exampleSentence": "I prefer live TV shows to movies or series.",
+    "exampleTranslation": "Eu prefiro programas de TV ao vivo a filmes ou séries."
+  },
+  {
+    "id": "begin_choose_28",
+    "word": "The new series on that TV channel is awkward.",
+    "translation": "A nova série naquele canal de TV é estranha.",
+    "pronunciation": "/ðə nu ˈsɪriz ɑn ðæt ˌtiˈvi ˈtʃænəl ɪz ˈɔkwərd/",
+    "portuguesePhonetic": "ðâ niu sí-riz ón ðét ti-ví tché-nôl iz ó-kuârd",
+    "syllables": [
+      "The",
+      " new",
+      " se",
+      "ries",
+      " on",
+      " that",
+      " TV",
+      " chan",
+      "nel",
+      " is",
+      " awk",
+      "ward."
+    ],
+    "exampleSentence": "The new series on that TV channel is awkward.",
+    "exampleTranslation": "A nova série naquele canal de TV é estranha."
+  },
+  {
+    "id": "begin_choose_29",
+    "word": "We don't pay for cable TV.",
+    "translation": "Nós não pagamos por TV a cabo.",
+    "pronunciation": "/wi doʊnt peɪ fɔr ˈkeɪbəl ˌtiˈvi/",
+    "portuguesePhonetic": "uí dôunt pêi fór kêi-bôl ti-ví",
+    "syllables": [
+      "We",
+      " don't",
+      " pay",
+      " for",
+      " ca",
+      "ble",
+      " TV."
+    ],
+    "exampleSentence": "We don't pay for cable TV.",
+    "exampleTranslation": "Nós não pagamos por TV a cabo."
+  },
+  {
+    "id": "begin_choose_30",
+    "word": "We were very disappointed with the movie finale.",
+    "translation": "Nós ficamos muito decepcionados com o final do filme.",
+    "pronunciation": "/wi wɜr ˈvɛri ˌdɪsəˈpɔɪntɪd wɪð ðə ˈmuvi fɪˈnæli/",
+    "portuguesePhonetic": "uí uêr vé-ri di-sa-póin-ted uíð ðâ mú-vi fi-ná-li",
+    "syllables": [
+      "We",
+      " were",
+      " ve",
+      "ry",
+      " dis",
+      "ap",
+      "point",
+      "ed",
+      " with",
+      " the",
+      " mov",
+      "ie",
+      " fi",
+      "na",
+      "le."
+    ],
+    "exampleSentence": "We were very disappointed with the movie finale.",
+    "exampleTranslation": "Nós ficamos muito decepcionados com o final do filme."
+  },
+  {
+    "id": "begin_choose_31",
+    "word": "Sean Connery's last scene was fascinating.",
+    "translation": "A última cena de Sean Connery foi fascinante.",
+    "pronunciation": "/ʃɔn ˈkɑnəriz læst sin wʌz ˈfæsəˌneɪtɪŋ/",
+    "portuguesePhonetic": "xón có-ne-riz lést sín uâz fé-si-nêi-tin",
+    "syllables": [
+      "Sean",
+      " Con",
+      "ner",
+      "y's",
+      " last",
+      " scene",
+      " was",
+      " fas",
+      "ci",
+      "nat",
+      "ing."
+    ],
+    "exampleSentence": "Sean Connery's last scene was fascinating.",
+    "exampleTranslation": "A última cena de Sean Connery foi fascinante."
+  },
+  {
+    "id": "begin_choose_32",
+    "word": "My favorite scene was in the beginning of the movie.",
+    "translation": "Minha cena favorita foi no começo do filme.",
+    "pronunciation": "/maɪ ˈfeɪvərɪt sin wʌz ɪn ðə bɪˈɡɪnɪŋ əv ðə ˈmuvi/",
+    "portuguesePhonetic": "mái fêi-vô-rit sín uâz in ðâ bi-guí-nin óv ðâ mú-vi",
+    "syllables": [
+      "My",
+      " fa",
+      "vor",
+      "ite",
+      " scene",
+      " was",
+      " in",
+      " the",
+      " be",
+      "gin",
+      "ning",
+      " of",
+      " the",
+      " mov",
+      "ie."
+    ],
+    "exampleSentence": "My favorite scene was in the beginning of the movie.",
+    "exampleTranslation": "Minha cena favorita foi no começo do filme."
+  },
+  {
+    "id": "begin_choose_33",
+    "word": "She's into movies. She wants to be a director.",
+    "translation": "Ela curte filmes. Ela quer ser diretora.",
+    "pronunciation": "/ʃiz ˈɪntu ˈmuviz. ʃi wɑnts tu bi ə dɪˈrɛktər/",
+    "portuguesePhonetic": "xíz ín-tchu mú-viz. xi uónts tchu bi a di-réc-tor",
+    "syllables": [
+      "She's",
+      " in",
+      "to",
+      " mov",
+      "ies.",
+      " She",
+      " wants",
+      " to",
+      " be",
+      " a",
+      " di",
+      "rec",
+      "tor."
+    ],
+    "exampleSentence": "She's into movies. She wants to be a director.",
+    "exampleTranslation": "Ela curte filmes. Ela quer ser diretora."
+  },
+  {
+    "id": "begin_choose_34",
+    "word": "They were binge-watching movies on the weekend.",
+    "translation": "Eles estavam maratonando filmes no fim de semana.",
+    "pronunciation": "/ðeɪ wɜr ˈbɪndʒˌwɑtʃɪŋ ˈmuviz ɑn ðə ˈwikˌɛnd/",
+    "portuguesePhonetic": "ðêi uêr bíndj-uó-tchin mú-viz ón ðâ uí-kénd",
+    "syllables": [
+      "They",
+      " were",
+      " binge",
+      "-",
+      "watch",
+      "ing",
+      " mov",
+      "ies",
+      " on",
+      " the",
+      " week",
+      "end."
+    ],
+    "exampleSentence": "They were binge-watching movies on the weekend.",
+    "exampleTranslation": "Eles estavam maratonando filmes no fim de semana."
+  },
+  {
+    "id": "begin_choose_35",
+    "word": "We're choosing a new series to begin to watch.",
+    "translation": "Nós estamos escolhendo uma nova série para começar a assistir.",
+    "pronunciation": "/wɪr ˈtʃuzɪŋ ə nu ˈsɪriz tu bɪˈɡɪn tu wɑtʃ/",
+    "portuguesePhonetic": "uír tchú-zin a niu sí-riz tchu bi-guín tchu uótch",
+    "syllables": [
+      "We're",
+      " choos",
+      "ing",
+      " a",
+      " new",
+      " se",
+      "ries",
+      " to",
+      " be",
+      "gin",
+      " to",
+      " watch."
+    ],
+    "exampleSentence": "We're choosing a new series to begin to watch.",
+    "exampleTranslation": "Nós estamos escolhendo uma nova série para começar a assistir."
+  }
+]

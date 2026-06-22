@@ -1,0 +1,703 @@
+[
+  {
+    "id": "to_be_1_1",
+    "word": "to be",
+    "translation": "ser, estar",
+    "pronunciation": "/tu bi/",
+    "portuguesePhonetic": "tchu bi",
+    "syllables": [
+      "to",
+      " be"
+    ],
+    "exampleSentence": "I want to be a doctor.",
+    "exampleTranslation": "Eu quero ser um médico."
+  },
+  {
+    "id": "to_be_1_2",
+    "word": "excited",
+    "translation": "animado(a)",
+    "pronunciation": "/ɪkˈsaɪtɪd/",
+    "portuguesePhonetic": "ik-sái-ted",
+    "syllables": [
+      "ex",
+      "cit",
+      "ed"
+    ],
+    "exampleSentence": "I was really excited to go to the countryside last spring.",
+    "exampleTranslation": "Eu estava muito animado para ir ao interior na primavera passada."
+  },
+  {
+    "id": "to_be_1_3",
+    "word": "bored",
+    "translation": "entediado(a)",
+    "pronunciation": "/bɔrd/",
+    "portuguesePhonetic": "bórd",
+    "syllables": [
+      "bored"
+    ],
+    "exampleSentence": "The children were bored this morning.",
+    "exampleTranslation": "As crianças estavam entediadas esta manhã."
+  },
+  {
+    "id": "to_be_1_4",
+    "word": "disappointed",
+    "translation": "desapontado(a) / decepcionado(a)",
+    "pronunciation": "/ˌdɪsəˈpɔɪntɪd/",
+    "portuguesePhonetic": "di-sa-póin-ted",
+    "syllables": [
+      "dis",
+      "ap",
+      "point",
+      "ed"
+    ],
+    "exampleSentence": "John was very disappointed with the food.",
+    "exampleTranslation": "John ficou muito decepcionado com a comida."
+  },
+  {
+    "id": "to_be_1_5",
+    "word": "awkward",
+    "translation": "constrangedor(a)",
+    "pronunciation": "/ˈɔkwərd/",
+    "portuguesePhonetic": "ó-kuard",
+    "syllables": [
+      "awk",
+      "ward"
+    ],
+    "exampleSentence": "What an awkward situation!",
+    "exampleTranslation": "Que situação constrangedora!"
+  },
+  {
+    "id": "to_be_1_6",
+    "word": "careful",
+    "translation": "cuidadoso(a)",
+    "pronunciation": "/ˈkɛrfəl/",
+    "portuguesePhonetic": "kér-ful",
+    "syllables": [
+      "care",
+      "ful"
+    ],
+    "exampleSentence": "Be careful, she is old.",
+    "exampleTranslation": "Cuidado, ela é idosa."
+  },
+  {
+    "id": "to_be_1_7",
+    "word": "amazing",
+    "translation": "ótimo(a) / excelente",
+    "pronunciation": "/əˈmeɪzɪŋ/",
+    "portuguesePhonetic": "a-mêi-zin",
+    "syllables": [
+      "a",
+      "maz",
+      "ing"
+    ],
+    "exampleSentence": "Last summer was amazing.",
+    "exampleTranslation": "O verão passado foi incrível."
+  },
+  {
+    "id": "to_be_1_8",
+    "word": "embarrassed",
+    "translation": "envergonhado(a)",
+    "pronunciation": "/ɪmˈbɛrəst/",
+    "portuguesePhonetic": "im-bé-rest",
+    "syllables": [
+      "em",
+      "bar",
+      "rassed"
+    ],
+    "exampleSentence": "Be careful with your words. Your sister is really embarrassed.",
+    "exampleTranslation": "Cuidado com suas palavras. Sua irmã está muito envergonhada."
+  },
+  {
+    "id": "to_be_1_9",
+    "word": "frustrated",
+    "translation": "frustrado(a)",
+    "pronunciation": "/ˈfrʌˌstreɪtɪd/",
+    "portuguesePhonetic": "frâs-trêi-ted",
+    "syllables": [
+      "frus",
+      "tra",
+      "ted"
+    ],
+    "exampleSentence": "They were frustrated during the trip.",
+    "exampleTranslation": "Eles ficaram frustrados durante a viagem."
+  },
+  {
+    "id": "to_be_1_10",
+    "word": "summer",
+    "translation": "verão",
+    "pronunciation": "/ˈsʌmər/",
+    "portuguesePhonetic": "sâ-mer",
+    "syllables": [
+      "sum",
+      "mer"
+    ],
+    "exampleSentence": "Last summer was amazing.",
+    "exampleTranslation": "O verão passado foi incrível."
+  },
+  {
+    "id": "to_be_1_11",
+    "word": "fall",
+    "translation": "outono",
+    "pronunciation": "/fɔl/",
+    "portuguesePhonetic": "fól",
+    "syllables": [
+      "fall"
+    ],
+    "exampleSentence": "Do you like the fall?",
+    "exampleTranslation": "Você gosta do outono?"
+  },
+  {
+    "id": "to_be_1_12",
+    "word": "spring",
+    "translation": "primavera",
+    "pronunciation": "/sprɪŋ/",
+    "portuguesePhonetic": "sprin",
+    "syllables": [
+      "spring"
+    ],
+    "exampleSentence": "I was really excited to go to the countryside last spring.",
+    "exampleTranslation": "Eu estava muito animado para ir ao interior na primavera passada."
+  },
+  {
+    "id": "to_be_1_13",
+    "word": "winter",
+    "translation": "inverno",
+    "pronunciation": "/ˈwɪntər/",
+    "portuguesePhonetic": "uín-ter",
+    "syllables": [
+      "win",
+      "ter"
+    ],
+    "exampleSentence": "Our winter trip was amazing last month.",
+    "exampleTranslation": "Nossa viagem de inverno foi excelente no mês passado."
+  },
+  {
+    "id": "to_be_1_14",
+    "word": "last",
+    "translation": "último(a), passado(a)",
+    "pronunciation": "/læst/",
+    "portuguesePhonetic": "lést",
+    "syllables": [
+      "last"
+    ],
+    "exampleSentence": "I was there last week.",
+    "exampleTranslation": "Eu estava lá na semana passada."
+  },
+  {
+    "id": "to_be_1_15",
+    "word": "yesterday",
+    "translation": "ontem",
+    "pronunciation": "/ˈjɛstərˌdeɪ/",
+    "portuguesePhonetic": "iés-ter-dei",
+    "syllables": [
+      "yes",
+      "ter",
+      "day"
+    ],
+    "exampleSentence": "You were at home yesterday.",
+    "exampleTranslation": "Você estava em casa ontem."
+  },
+  {
+    "id": "to_be_1_16",
+    "word": "ago",
+    "translation": "atrás",
+    "pronunciation": "/əˈɡoʊ/",
+    "portuguesePhonetic": "a-gôu",
+    "syllables": [
+      "a",
+      "go"
+    ],
+    "exampleSentence": "My parents were in Europe five days ago.",
+    "exampleTranslation": "Meus pais estiveram na Europa cinco dias atrás."
+  },
+  {
+    "id": "to_be_1_17",
+    "word": "You can rely on me.",
+    "translation": "Você pode confiar em mim.",
+    "pronunciation": "/ju kæn rɪˈlaɪ ɑn mi/",
+    "portuguesePhonetic": "iu kén ri-lái on mi",
+    "syllables": [
+      "You",
+      " can",
+      " re",
+      "ly",
+      " on",
+      " me."
+    ],
+    "exampleSentence": "You can rely on me.",
+    "exampleTranslation": "Você pode confiar em mim."
+  },
+  {
+    "id": "to_be_1_18",
+    "word": "Be careful, she is old.",
+    "translation": "Cuidado, ela é idosa.",
+    "pronunciation": "/bi ˈkɛrfəl, ʃi ɪz oʊld/",
+    "portuguesePhonetic": "bi kér-ful, xi iz ôuld",
+    "syllables": [
+      "Be",
+      " care",
+      "ful,",
+      " she",
+      " is",
+      " old."
+    ],
+    "exampleSentence": "Be careful, she is old.",
+    "exampleTranslation": "Cuidado, ela é idosa."
+  },
+  {
+    "id": "to_be_1_19",
+    "word": "I was there last week.",
+    "translation": "Eu estava lá na semana passada.",
+    "pronunciation": "/aɪ wʌz ðɛr læst wik/",
+    "portuguesePhonetic": "ai uâz dér lést uíc",
+    "syllables": [
+      "I",
+      " was",
+      " there",
+      " last",
+      " week."
+    ],
+    "exampleSentence": "I was there last week.",
+    "exampleTranslation": "Eu estava lá na semana passada.",
+    "grammarExplanation": "Past tense of \"to be\" (I was)"
+  },
+  {
+    "id": "to_be_1_20",
+    "word": "My parents were in Europe five days ago.",
+    "translation": "Meus pais estiveram na Europa cinco dias atrás.",
+    "pronunciation": "/maɪ ˈpɛrənts wɜr ɪn ˈjʊrəp faɪv deɪz əˈɡoʊ/",
+    "portuguesePhonetic": "mai pé-rents uãr in iú-rop fáiv dêiz a-gôu",
+    "syllables": [
+      "My",
+      " pa",
+      "rents",
+      " were",
+      " in",
+      " Eu",
+      "rope",
+      " five",
+      " days",
+      " a",
+      "go."
+    ],
+    "exampleSentence": "My parents were in Europe five days ago.",
+    "exampleTranslation": "Meus pais estiveram na Europa cinco dias atrás.",
+    "grammarExplanation": "Past tense of \"to be\" (they were)"
+  },
+  {
+    "id": "to_be_1_21",
+    "word": "You were at home yesterday.",
+    "translation": "Você estava em casa ontem.",
+    "pronunciation": "/ju wɜr æt hoʊm ˈjɛstərˌdeɪ/",
+    "portuguesePhonetic": "iu uãr ét rôum iés-ter-dei",
+    "syllables": [
+      "You",
+      " were",
+      " at",
+      " home",
+      " yes",
+      "ter",
+      "day."
+    ],
+    "exampleSentence": "You were at home yesterday.",
+    "exampleTranslation": "Você estava em casa ontem.",
+    "grammarExplanation": "Past tense of \"to be\" (you were)"
+  },
+  {
+    "id": "to_be_1_22",
+    "word": "He wasn't very careful.",
+    "translation": "Ele não foi muito cuidadoso.",
+    "pronunciation": "/hi ˈwʌzənt ˈvɛri ˈkɛrfəl/",
+    "portuguesePhonetic": "ri uâ-zent vé-ri kér-ful",
+    "syllables": [
+      "He",
+      " was",
+      "n't",
+      " ve",
+      "ry",
+      " care",
+      "ful."
+    ],
+    "exampleSentence": "He wasn't very careful.",
+    "exampleTranslation": "Ele não foi muito cuidadoso.",
+    "grammarExplanation": "Past tense of \"to be\" (he wasn't)"
+  },
+  {
+    "id": "to_be_1_23",
+    "word": "He wasn't very excited about the job.",
+    "translation": "Ele não estava muito animado com o emprego.",
+    "pronunciation": "/hi ˈwʌzənt ˈvɛri ɪkˈsaɪtɪd əˈbaʊt ðə dʒɑb/",
+    "portuguesePhonetic": "ri uâ-zent vé-ri ik-sái-ted a-báut dâ djób",
+    "syllables": [
+      "He",
+      " was",
+      "n't",
+      " ve",
+      "ry",
+      " ex",
+      "cit",
+      "ed",
+      " a",
+      "bout",
+      " the",
+      " job."
+    ],
+    "exampleSentence": "He wasn't very excited about the job.",
+    "exampleTranslation": "Ele não estava muito animado com o emprego."
+  },
+  {
+    "id": "to_be_1_24",
+    "word": "She was at the beach last weekend.",
+    "translation": "Ela estava na praia no fim de semana passado.",
+    "pronunciation": "/ʃi wʌz æt ðə bitʃ læst ˈwikˌɛnd/",
+    "portuguesePhonetic": "xi uâz ét dâ bitch lést uí-kend",
+    "syllables": [
+      "She",
+      " was",
+      " at",
+      " the",
+      " beach",
+      " last",
+      " week",
+      "end."
+    ],
+    "exampleSentence": "She was at the beach last weekend.",
+    "exampleTranslation": "Ela estava na praia no fim de semana passado.",
+    "grammarExplanation": "Past tense of \"to be\" (she was)"
+  },
+  {
+    "id": "to_be_1_25",
+    "word": "Last summer was amazing.",
+    "translation": "O verão passado foi incrível.",
+    "pronunciation": "/læst ˈsʌmər wʌz əˈmeɪzɪŋ/",
+    "portuguesePhonetic": "lést sâ-mer uâz a-mêi-zin",
+    "syllables": [
+      "Last",
+      " sum",
+      "mer",
+      " was",
+      " a",
+      "maz",
+      "ing."
+    ],
+    "exampleSentence": "Last summer was amazing.",
+    "exampleTranslation": "O verão passado foi incrível.",
+    "grammarExplanation": "Past tense of \"to be\" (it was)"
+  },
+  {
+    "id": "to_be_1_26",
+    "word": "We were all frustrated and disappointed.",
+    "translation": "Todos estávamos frustrados e desapontados.",
+    "pronunciation": "/wi wɜr ɔl ˈfrʌˌstreɪtɪd ænd ˌdɪsəˈpɔɪntɪd/",
+    "portuguesePhonetic": "uí uãr ól frâs-trêi-ted énd di-sa-póin-ted",
+    "syllables": [
+      "We",
+      " were",
+      " all",
+      " frus",
+      "tra",
+      "ted",
+      " and",
+      " dis",
+      "ap",
+      "point",
+      "ed."
+    ],
+    "exampleSentence": "We were all frustrated and disappointed.",
+    "exampleTranslation": "Todos estávamos frustrados e desapontados.",
+    "grammarExplanation": "Past tense of \"to be\" (we were)"
+  },
+  {
+    "id": "to_be_1_27",
+    "word": "The meeting was awkward.",
+    "translation": "A reunião foi constrangedora.",
+    "pronunciation": "/ðə ˈmitɪŋ wʌz ˈɔkwərd/",
+    "portuguesePhonetic": "dâ mí-tin uâz ó-kuard",
+    "syllables": [
+      "The",
+      " meet",
+      "ing",
+      " was",
+      " awk",
+      "ward."
+    ],
+    "exampleSentence": "The meeting was awkward.",
+    "exampleTranslation": "A reunião foi constrangedora."
+  },
+  {
+    "id": "to_be_1_28",
+    "word": "They weren't at school two days ago.",
+    "translation": "Eles não estavam na escola dois dias atrás.",
+    "pronunciation": "/ðeɪ wɜrnt æt skul tu deɪz əˈɡoʊ/",
+    "portuguesePhonetic": "dêi uãrnt ét scul tchu dêiz a-gôu",
+    "syllables": [
+      "They",
+      " were",
+      "n't",
+      " at",
+      " school",
+      " two",
+      " days",
+      " a",
+      "go."
+    ],
+    "exampleSentence": "They weren't at school two days ago.",
+    "exampleTranslation": "Eles não estavam na escola dois dias atrás.",
+    "grammarExplanation": "Past tense of \"to be\" (they weren't)"
+  },
+  {
+    "id": "to_be_1_29",
+    "word": "The children were bored this morning.",
+    "translation": "As crianças estavam entediadas esta manhã.",
+    "pronunciation": "/ðə ˈtʃɪldrən wɜr bɔrd ðɪs ˈmɔrnɪŋ/",
+    "portuguesePhonetic": "dâ tchíl-dren uãr bórd díz mór-nin",
+    "syllables": [
+      "The",
+      " chil",
+      "dren",
+      " were",
+      " bored",
+      " this",
+      " mor",
+      "ning."
+    ],
+    "exampleSentence": "The children were bored this morning.",
+    "exampleTranslation": "As crianças estavam entediadas esta manhã."
+  },
+  {
+    "id": "to_be_1_30",
+    "word": "He wasn't very careful about the problem.",
+    "translation": "Ele não foi muito cuidadoso com o problema.",
+    "pronunciation": "/hi ˈwʌzənt ˈvɛri ˈkɛrfəl əˈbaʊt ðə ˈprɑbləm/",
+    "portuguesePhonetic": "ri uâ-zent vé-ri kér-ful a-báut dâ pró-blem",
+    "syllables": [
+      "He",
+      " was",
+      "n't",
+      " ve",
+      "ry",
+      " care",
+      "ful",
+      " a",
+      "bout",
+      " the",
+      " pro",
+      "blem."
+    ],
+    "exampleSentence": "He wasn't very careful about the problem.",
+    "exampleTranslation": "Ele não foi muito cuidadoso com o problema."
+  },
+  {
+    "id": "to_be_1_31",
+    "word": "What an awkward situation!",
+    "translation": "Que situação constrangedora!",
+    "pronunciation": "/wʌt ən ˈɔkwərd ˌsɪtʃuˈeɪʃən/",
+    "portuguesePhonetic": "uát an ó-kuard si-tchu-êi-xân",
+    "syllables": [
+      "What",
+      " an",
+      " awk",
+      "ward",
+      " si",
+      "tu",
+      "a",
+      "tion!"
+    ],
+    "exampleSentence": "What an awkward situation!",
+    "exampleTranslation": "Que situação constrangedora!"
+  },
+  {
+    "id": "to_be_1_32",
+    "word": "It wasn't hot at the beach yesterday.",
+    "translation": "Não estava quente na praia ontem.",
+    "pronunciation": "/ɪt ˈwʌzənt hɑt æt ðə bitʃ ˈjɛstərˌdeɪ/",
+    "portuguesePhonetic": "it uâ-zent rót ét dâ bitch iés-ter-dei",
+    "syllables": [
+      "It",
+      " was",
+      "n't",
+      " hot",
+      " at",
+      " the",
+      " beach",
+      " yes",
+      "ter",
+      "day."
+    ],
+    "exampleSentence": "It wasn't hot at the beach yesterday.",
+    "exampleTranslation": "Não estava quente na praia ontem.",
+    "grammarExplanation": "Past tense of \"to be\" (it wasn't)"
+  },
+  {
+    "id": "to_be_1_33",
+    "word": "Do you like the fall?",
+    "translation": "Você gosta do outono?",
+    "pronunciation": "/du ju laɪk ðə fɔl/",
+    "portuguesePhonetic": "du iu láic dâ fól",
+    "syllables": [
+      "Do",
+      " you",
+      " like",
+      " the",
+      " fall?"
+    ],
+    "exampleSentence": "Do you like the fall?",
+    "exampleTranslation": "Você gosta do outono?"
+  },
+  {
+    "id": "to_be_1_34",
+    "word": "Our winter trip was amazing last month.",
+    "translation": "Nossa viagem de inverno foi excelente no mês passado.",
+    "pronunciation": "/ˈaʊər ˈwɪntər trɪp wʌz əˈmeɪzɪŋ læst mʌnθ/",
+    "portuguesePhonetic": "áu-er uín-ter trip uâz a-mêi-zin lést mânth",
+    "syllables": [
+      "Our",
+      " win",
+      "ter",
+      " trip",
+      " was",
+      " a",
+      "maz",
+      "ing",
+      " last",
+      " month."
+    ],
+    "exampleSentence": "Our winter trip was amazing last month.",
+    "exampleTranslation": "Nossa viagem de inverno foi excelente no mês passado."
+  },
+  {
+    "id": "to_be_1_35",
+    "word": "You can't rely on everybody.",
+    "translation": "Você não pode confiar em todo mundo.",
+    "pronunciation": "/ju kænt rɪˈlaɪ ɑn ˈɛvriˌbɑdi/",
+    "portuguesePhonetic": "iu ként ri-lái on é-vri-bó-di",
+    "syllables": [
+      "You",
+      " can't",
+      " re",
+      "ly",
+      " on",
+      " ev",
+      "er",
+      "y",
+      "bod",
+      "y."
+    ],
+    "exampleSentence": "You can't rely on everybody.",
+    "exampleTranslation": "Você não pode confiar em todo mundo."
+  },
+  {
+    "id": "to_be_1_36",
+    "word": "John was very disappointed with the food.",
+    "translation": "John ficou muito decepcionado com a comida.",
+    "pronunciation": "/dʒɑn wʌz ˈvɛri ˌdɪsəˈpɔɪntɪd wɪð ðə fud/",
+    "portuguesePhonetic": "djón uâz vé-ri di-sa-póin-ted uíð dâ fud",
+    "syllables": [
+      "John",
+      " was",
+      " ve",
+      "ry",
+      " dis",
+      "ap",
+      "point",
+      "ed",
+      " with",
+      " the",
+      " food."
+    ],
+    "exampleSentence": "John was very disappointed with the food.",
+    "exampleTranslation": "John ficou muito decepcionado com a comida."
+  },
+  {
+    "id": "to_be_1_37",
+    "word": "Be careful with your words. Your sister is really embarrassed.",
+    "translation": "Cuidado com suas palavras. Sua irmã está muito envergonhada.",
+    "pronunciation": "/bi ˈkɛrfəl wɪð jʊr wɜrdz. jʊr ˈsɪstər ɪz ˈrɪli ɪmˈbɛrəst/",
+    "portuguesePhonetic": "bi kér-ful uíð iór uãrds. iór sís-ter iz rí-li im-bé-rest",
+    "syllables": [
+      "Be",
+      " care",
+      "ful",
+      " with",
+      " your",
+      " words.",
+      " Your",
+      " sis",
+      "ter",
+      " is",
+      " real",
+      "ly",
+      " em",
+      "bar",
+      "rassed."
+    ],
+    "exampleSentence": "Be careful with your words. Your sister is really embarrassed.",
+    "exampleTranslation": "Cuidado com suas palavras. Sua irmã está muito envergonhada."
+  },
+  {
+    "id": "to_be_1_38",
+    "word": "They were frustrated during the trip.",
+    "translation": "Eles ficaram frustrados durante a viagem.",
+    "pronunciation": "/ðeɪ wɜr ˈfrʌˌstreɪtɪd ˈdʊrɪŋ ðə trɪp/",
+    "portuguesePhonetic": "dêi uãr frâs-trêi-ted dú-rin dâ trip",
+    "syllables": [
+      "They",
+      " were",
+      " frus",
+      "tra",
+      "ted",
+      " du",
+      "ring",
+      " the",
+      " trip."
+    ],
+    "exampleSentence": "They were frustrated during the trip.",
+    "exampleTranslation": "Eles ficaram frustrados durante a viagem."
+  },
+  {
+    "id": "to_be_1_39",
+    "word": "I was really excited to go to the countryside last spring.",
+    "translation": "Eu estava muito animado para ir ao interior na primavera passada.",
+    "pronunciation": "/aɪ wʌz ˈrɪli ɪkˈsaɪtɪd tu ɡoʊ tu ðə ˈkʌntriˌsaɪd læst sprɪŋ/",
+    "portuguesePhonetic": "ai uâz rí-li ik-sái-ted tchu gôu tchu dâ cân-tri-said lést sprin",
+    "syllables": [
+      "I",
+      " was",
+      " real",
+      "ly",
+      " ex",
+      "cit",
+      "ed",
+      " to",
+      " go",
+      " to",
+      " the",
+      " coun",
+      "try",
+      "side",
+      " last",
+      " spring."
+    ],
+    "exampleSentence": "I was really excited to go to the countryside last spring.",
+    "exampleTranslation": "Eu estava muito animado para ir ao interior na primavera passada."
+  },
+  {
+    "id": "to_be_1_40",
+    "word": "They weren't here five days ago.",
+    "translation": "Eles não estavam aqui cinco dias atrás.",
+    "pronunciation": "/ðeɪ wɜrnt hɪr faɪv deɪz əˈɡoʊ/",
+    "portuguesePhonetic": "dêi uãrnt rir fáiv dêiz a-gôu",
+    "syllables": [
+      "They",
+      " were",
+      "n't",
+      " here",
+      " five",
+      " days",
+      " a",
+      "go."
+    ],
+    "exampleSentence": "They weren't here five days ago.",
+    "exampleTranslation": "Eles não estavam aqui cinco dias atrás."
+  }
+]

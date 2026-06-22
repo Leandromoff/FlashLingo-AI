@@ -1,0 +1,257 @@
+{
+  "lesson_1": {
+    "en": 41
+  },
+  "lesson_3": {
+    "en": 46
+  },
+  "lesson_5": {
+    "en": 55
+  },
+  "lesson_7": {
+    "en": 52
+  },
+  "lesson_9": {
+    "en": 60
+  },
+  "lesson_11": {
+    "en": 66
+  },
+  "lesson_13": {
+    "en": 70
+  },
+  "lesson_15": {
+    "en": 63
+  },
+  "lesson_17": {
+    "en": 79
+  },
+  "lesson_19": {
+    "en": 100
+  },
+  "lesson_21": {
+    "en": 122
+  },
+  "lesson_23": {
+    "en": 125
+  },
+  "lesson_25": {
+    "en": 128
+  },
+  "lesson_27": {
+    "en": 109
+  },
+  "lesson_29": {
+    "en": 132
+  },
+  "write_think": {
+    "en": 102
+  },
+  "to_be_negative": {
+    "en": 118
+  },
+  "to_wear_change": {
+    "en": 112
+  },
+  "to_sell_pay": {
+    "en": 132
+  },
+  "to_put_do": {
+    "en": 128
+  },
+  "to_play_run": {
+    "en": 132
+  },
+  "to_spend_travel": {
+    "en": 110
+  },
+  "to_arrive_leave": {
+    "en": 141
+  },
+  "to_call_wait": {
+    "en": 101
+  },
+  "to_open_close": {
+    "en": 99
+  },
+  "to_make_give": {
+    "en": 95
+  },
+  "to_be_interrogative": {
+    "en": 120
+  },
+  "to_be_intro": {
+    "en": 103
+  },
+  "start_finish": {
+    "en": 98
+  },
+  "lesson_33": {
+    "en": 104
+  },
+  "share_rent": {
+    "en": 116
+  },
+  "to_lose_find": {
+    "en": 114
+  },
+  "to_be_past": {
+    "en": 104
+  },
+  "to_be_past_questions": {
+    "en": 111
+  },
+  "lesson_71": {
+    "en": 82
+  },
+  "lesson_73": {
+    "en": 115
+  },
+  "lesson_75": {
+    "en": 101
+  },
+  "lesson_77": {
+    "en": 84
+  },
+  "lesson_79": {
+    "en": 66
+  },
+  "lesson_81": {
+    "en": 88
+  },
+  "lesson_83": {
+    "en": 78
+  },
+  "lesson_85": {
+    "en": 102
+  },
+  "lesson_89": {
+    "en": 128
+  },
+  "lesson_91": {
+    "en": 92
+  },
+  "to_be_1": {
+    "en": 40
+  },
+  "to_be_2": {
+    "en": 25
+  },
+  "to_be": {
+    "en": 32
+  },
+  "begin_choose": {
+    "en": 35
+  },
+  "lose_find": {
+    "en": 40
+  },
+  "listen_watch": {
+    "en": 22
+  },
+  "post_follow": {
+    "en": 24
+  },
+  "to_move_put": {
+    "en": 98
+  },
+  "lesson_1_vocabulary_a1": {
+    "en": 100
+  },
+  "leccion_1_w2_s": {
+    "es": 46
+  },
+  "leccion_3_w2_s": {
+    "es": 49
+  },
+  "leccion_5_w2_s": {
+    "es": 55
+  },
+  "leccion_7_w2_s": {
+    "es": 52
+  },
+  "leccion_9_w2_s": {
+    "es": 60
+  },
+  "leccion_11_w2_s": {
+    "es": 66
+  },
+  "leccion_13_w2_s": {
+    "es": 70
+  },
+  "leccion_15_w2_s": {
+    "es": 63
+  },
+  "leccion_17_w2_s": {
+    "es": 79
+  },
+  "leccion_19_w2_s": {
+    "es": 70
+  },
+  "leccion_21_w2_s": {
+    "es": 77
+  },
+  "leccion_23_w2_s": {
+    "es": 75
+  },
+  "leccion_25_w2_s": {
+    "es": 82
+  },
+  "leccion_27_w2_s": {
+    "es": 70
+  },
+  "leccion_29_w2_s": {
+    "es": 82
+  },
+  "leccion_31_w2_s": {
+    "es": 54
+  },
+  "leccion_33_w2_s": {
+    "es": 53
+  },
+  "leccion_35_w2_s": {
+    "es": 47
+  },
+  "leccion_37_w2_s": {
+    "es": 53
+  },
+  "leccion_39_w2_s": {
+    "es": 72
+  },
+  "leccion_41_w2_s": {
+    "es": 64
+  },
+  "leccion_43_w2_s": {
+    "es": 48
+  },
+  "leccion_45_w2_s": {
+    "es": 50
+  },
+  "leccion_47_w2_s": {
+    "es": 47
+  },
+  "leccion_49_w2_s": {
+    "es": 64
+  },
+  "leccion_1_vocabulario_a1_s": {
+    "es": 100
+  },
+  "lesson_1_grammar_a1": {
+    "en": 100
+  },
+  "leccion_1_gramatica_a1_s": {
+    "es": 100
+  },
+  "lesson_2_grammar_a1": {
+    "en": 100
+  },
+  "leccion_2_gramatica_a1_s": {
+    "es": 100
+  },
+  "leccion_2_vocabulario_a1_s": {
+    "es": 100
+  },
+  "lesson_2_vocabulary_a1": {
+    "en": 100
+  }
+}

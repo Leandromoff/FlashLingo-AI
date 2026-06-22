@@ -1,0 +1,1593 @@
+[
+  {
+    "id": "lesson_1_grammar_a1_id_uynxyef",
+    "word": "I am",
+    "translation": "Eu sou / estou",
+    "syllables": [
+      "I",
+      "am"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ æm/",
+    "portuguesePhonetic": "[ái ém]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_or26su3",
+    "word": "I'm",
+    "translation": "Eu sou / estou (contração)",
+    "syllables": [
+      "I'm"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm/",
+    "portuguesePhonetic": "[áim]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_2fuxq2z",
+    "word": "You are",
+    "translation": "Você é / está",
+    "syllables": [
+      "You",
+      "are"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/juː ɑːr/",
+    "portuguesePhonetic": "[iú ár]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_h7l9n7j",
+    "word": "You're",
+    "translation": "Você é / está (contração)",
+    "syllables": [
+      "You're"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/jʊr/",
+    "portuguesePhonetic": "[iór]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_6367f5f",
+    "word": "He is",
+    "translation": "Ele é / está",
+    "syllables": [
+      "He",
+      "is"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ɪz/",
+    "portuguesePhonetic": "[rrí iz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_q7ej6mc",
+    "word": "He's",
+    "translation": "Ele é / está (contração)",
+    "syllables": [
+      "He's"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiːz/",
+    "portuguesePhonetic": "[rríz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_buataf1",
+    "word": "She is",
+    "translation": "Ela é / está",
+    "syllables": [
+      "She",
+      "is"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ɪz/",
+    "portuguesePhonetic": "[chí iz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_gm40e8g",
+    "word": "She's",
+    "translation": "Ela é / está (contração)",
+    "syllables": [
+      "She's"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiːz/",
+    "portuguesePhonetic": "[chíz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_u0kpati",
+    "word": "It is",
+    "translation": "Ele/ela/isto é / está (coisas)",
+    "syllables": [
+      "It",
+      "is"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪt ɪz/",
+    "portuguesePhonetic": "[ít iz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_jnep2jl",
+    "word": "It's",
+    "translation": "É / está (contração)",
+    "syllables": [
+      "It's"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts/",
+    "portuguesePhonetic": "[íts]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_psmoscv",
+    "word": "We are",
+    "translation": "Nós somos / estamos",
+    "syllables": [
+      "We",
+      "are"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ɑːr/",
+    "portuguesePhonetic": "[uí ár]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_3qpz5mj",
+    "word": "We're",
+    "translation": "Nós somos / estamos (contração)",
+    "syllables": [
+      "We're"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪr/",
+    "portuguesePhonetic": "[uír]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_5bky5al",
+    "word": "They are",
+    "translation": "Eles/elas são / estão",
+    "syllables": [
+      "They",
+      "are"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ ɑːr/",
+    "portuguesePhonetic": "[dhêi ár]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_wultezz",
+    "word": "They're",
+    "translation": "Eles/elas são / estão (contração)",
+    "syllables": [
+      "They're"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðer/",
+    "portuguesePhonetic": "[dhér]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_ej67vbo",
+    "word": "I am not / I'm not",
+    "translation": "Eu não sou / estou",
+    "syllables": [
+      "I",
+      "am",
+      "not",
+      "/",
+      "I'm",
+      "not"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm nɑːt/",
+    "portuguesePhonetic": "[áim nót]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_9pfy5ed",
+    "word": "You aren't",
+    "translation": "Você não é / está",
+    "syllables": [
+      "You",
+      "aren't"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/juː ˈɑːrnt/",
+    "portuguesePhonetic": "[iú árent]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_q6aq3p4",
+    "word": "He isn't",
+    "translation": "Ele não é / está",
+    "syllables": [
+      "He",
+      "isn't"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ˈɪznt/",
+    "portuguesePhonetic": "[rrí íznt]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_43gfpuk",
+    "word": "She isn't",
+    "translation": "Ela não é / está",
+    "syllables": [
+      "She",
+      "isn't"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈɪznt/",
+    "portuguesePhonetic": "[chí íznt]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_bezx5qp",
+    "word": "It isn't",
+    "translation": "Não é / está (coisas)",
+    "syllables": [
+      "It",
+      "isn't"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪt ˈɪznt/",
+    "portuguesePhonetic": "[ít íznt]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_p8gwj9s",
+    "word": "We aren't",
+    "translation": "Nós não somos / estamos",
+    "syllables": [
+      "We",
+      "aren't"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ˈɑːrnt/",
+    "portuguesePhonetic": "[uí árent]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_klfj24c",
+    "word": "They aren't",
+    "translation": "Eles não são / estão",
+    "syllables": [
+      "They",
+      "aren't"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ ˈɑːrnt/",
+    "portuguesePhonetic": "[dhêi árent]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_tlrkg7n",
+    "word": "Am I?",
+    "translation": "Eu sou / estou?",
+    "syllables": [
+      "Am",
+      "I?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æm aɪ/",
+    "portuguesePhonetic": "[ém ái]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_rbhahe8",
+    "word": "Are you?",
+    "translation": "Você é / está?",
+    "syllables": [
+      "Are",
+      "you?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː/",
+    "portuguesePhonetic": "[ár iú]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_marwr0s",
+    "word": "Is he?",
+    "translation": "Ele é / está?",
+    "syllables": [
+      "Is",
+      "he?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz hiː/",
+    "portuguesePhonetic": "[iz rrí]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_q6lc70o",
+    "word": "Is she? / Is it? / Are they?",
+    "translation": "Ela é/está? / Isto é/está? / Eles são/estão?",
+    "syllables": [
+      "Is",
+      "she?",
+      "/",
+      "Is",
+      "it?",
+      "/",
+      "Are",
+      "they?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ʃiː",
+    "portuguesePhonetic": "[iz chí · iz ít · ár dhêi]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_axi49z2",
+    "word": "I'm ready.",
+    "translation": "Estou pronto.",
+    "syllables": [
+      "I'm",
+      "ready."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈrɛdi/",
+    "portuguesePhonetic": "[áim rrédi]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_hnayy97",
+    "word": "Where are my keys?",
+    "translation": "Onde estão minhas chaves?",
+    "syllables": [
+      "Where",
+      "are",
+      "my",
+      "keys?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɑːr maɪ kiːz/",
+    "portuguesePhonetic": "[uér ár mái kíz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_3bnbbmr",
+    "word": "They're on the table.",
+    "translation": "Estão na mesa.",
+    "syllables": [
+      "They're",
+      "on",
+      "the",
+      "table."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðer ɑːn ðə ˈteɪbl̩/",
+    "portuguesePhonetic": "[dhér ón dha têibou]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_8ocb0zb",
+    "word": "The door is open.",
+    "translation": "A porta está aberta.",
+    "syllables": [
+      "The",
+      "door",
+      "is",
+      "open."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə dɔːr ɪz ˈoʊpən/",
+    "portuguesePhonetic": "[dha dór iz ôupan]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_1gnt02d",
+    "word": "We're late!",
+    "translation": "Estamos atrasados!",
+    "syllables": [
+      "We're",
+      "late!"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪr leɪt/",
+    "portuguesePhonetic": "[uír lêit]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_fv3z2ap",
+    "word": "How much is it?",
+    "translation": "Quanto custa?",
+    "syllables": [
+      "How",
+      "much",
+      "is",
+      "it?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ mʌtʃ ɪz ɪt/",
+    "portuguesePhonetic": "[rráu mâtch iz ít]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_sfl7y4a",
+    "word": "It's five dollars.",
+    "translation": "São cinco dólares.",
+    "syllables": [
+      "It's",
+      "five",
+      "dollars."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts faɪv ˈdɑːlərz/",
+    "portuguesePhonetic": "[íts fáiv dálars]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_b4wxf4u",
+    "word": "The apples are fresh.",
+    "translation": "As maçãs estão fresquinhas.",
+    "syllables": [
+      "The",
+      "apples",
+      "are",
+      "fresh."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈæpl̩z ɑːr frɛʃ/",
+    "portuguesePhonetic": "[dha épous ár fréch]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_y42d6wt",
+    "word": "Where is the milk?",
+    "translation": "Onde está o leite?",
+    "syllables": [
+      "Where",
+      "is",
+      "the",
+      "milk?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɪz ðə mɪlk/",
+    "portuguesePhonetic": "[uér iz dha mílk]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_ik6exz3",
+    "word": "It's in aisle three.",
+    "translation": "Está no corredor três.",
+    "syllables": [
+      "It's",
+      "in",
+      "aisle",
+      "three."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ɪn aɪl θriː/",
+    "portuguesePhonetic": "[íts in áiou thrí]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_rnl80uf",
+    "word": "The bus is late.",
+    "translation": "O ônibus está atrasado.",
+    "syllables": [
+      "The",
+      "bus",
+      "is",
+      "late."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə bʌs ɪz leɪt/",
+    "portuguesePhonetic": "[dha bâs iz lêit]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_0igln06",
+    "word": "I'm at work.",
+    "translation": "Estou no trabalho.",
+    "syllables": [
+      "I'm",
+      "at",
+      "work."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm æt wɜːrk/",
+    "portuguesePhonetic": "[áim ét uârk]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_f1we1lt",
+    "word": "My boss is busy.",
+    "translation": "Meu chefe está ocupado.",
+    "syllables": [
+      "My",
+      "boss",
+      "is",
+      "busy."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ bɔːs ɪz ˈbɪzi/",
+    "portuguesePhonetic": "[mái bós iz bízi]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_3nrcopu",
+    "word": "The meeting is at ten.",
+    "translation": "A reunião é às dez.",
+    "syllables": [
+      "The",
+      "meeting",
+      "is",
+      "at",
+      "ten."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈmiːtɪŋ ɪz æt tɛn/",
+    "portuguesePhonetic": "[dha mítin iz ét tén]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_homdksw",
+    "word": "We're in a hurry.",
+    "translation": "Estamos com pressa.",
+    "syllables": [
+      "We're",
+      "in",
+      "a",
+      "hurry."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪr ɪn ə ˈhɜːri/",
+    "portuguesePhonetic": "[uír in a rrâri]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_7wwcbh0",
+    "word": "The food is delicious.",
+    "translation": "A comida está deliciosa.",
+    "syllables": [
+      "The",
+      "food",
+      "is",
+      "delicious."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə fuːd ɪz dɪˈlɪʃəs/",
+    "portuguesePhonetic": "[dha fúd iz delíchas]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_5lomvub",
+    "word": "Are you hungry?",
+    "translation": "Você está com fome?",
+    "syllables": [
+      "Are",
+      "you",
+      "hungry?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː ˈhʌŋɡri/",
+    "portuguesePhonetic": "[ár iú râNgri]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_1moadr6",
+    "word": "The waiter is friendly.",
+    "translation": "O garçom é simpático.",
+    "syllables": [
+      "The",
+      "waiter",
+      "is",
+      "friendly."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈweɪtər ɪz ˈfrɛndli/",
+    "portuguesePhonetic": "[dha uêiter iz fréndli]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_w1vg7mu",
+    "word": "The bill is ready.",
+    "translation": "A conta está pronta.",
+    "syllables": [
+      "The",
+      "bill",
+      "is",
+      "ready."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə bɪl ɪz ˈrɛdi/",
+    "portuguesePhonetic": "[dha bíou iz rrédi]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_e43o7sr",
+    "word": "It's sunny today.",
+    "translation": "Está ensolarado hoje.",
+    "syllables": [
+      "It's",
+      "sunny",
+      "today."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ˈsʌni təˈdeɪ/",
+    "portuguesePhonetic": "[íts sâni tudêi]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_h379982",
+    "word": "The weather is nice.",
+    "translation": "O tempo está bom.",
+    "syllables": [
+      "The",
+      "weather",
+      "is",
+      "nice."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈwɛðər ɪz naɪs/",
+    "portuguesePhonetic": "[dha uédher iz náis]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_w4hfnsn",
+    "word": "It's cold outside.",
+    "translation": "Está frio lá fora.",
+    "syllables": [
+      "It's",
+      "cold",
+      "outside."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts koʊld ˌaʊtˈsaɪd/",
+    "portuguesePhonetic": "[íts kôuld autsáid]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_g948gw8",
+    "word": "My friends are here.",
+    "translation": "Meus amigos estão aqui.",
+    "syllables": [
+      "My",
+      "friends",
+      "are",
+      "here."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ frɛndz ɑːr hɪr/",
+    "portuguesePhonetic": "[mái fréndz ár rrír]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_lafqx97",
+    "word": "The movie is great.",
+    "translation": "O filme está ótimo.",
+    "syllables": [
+      "The",
+      "movie",
+      "is",
+      "great."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈmuːvi ɪz ɡreɪt/",
+    "portuguesePhonetic": "[dha múvi iz grêit]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_gwbhipn",
+    "word": "We're happy.",
+    "translation": "Estamos felizes.",
+    "syllables": [
+      "We're",
+      "happy."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪr ˈhæpi/",
+    "portuguesePhonetic": "[uír rrépi]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_pfkzekx",
+    "word": "I am tired.",
+    "translation": "Estou cansado.",
+    "syllables": [
+      "I",
+      "am",
+      "tired."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ æm ˈtaɪərd/",
+    "portuguesePhonetic": "[ái ém táierd]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_lng8t8x",
+    "word": "She is my friend.",
+    "translation": "Ela é minha amiga.",
+    "syllables": [
+      "She",
+      "is",
+      "my",
+      "friend."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ɪz maɪ frɛnd/",
+    "portuguesePhonetic": "[chí iz mái frénd]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_3oi54ll",
+    "word": "They are at school.",
+    "translation": "Eles estão na escola.",
+    "syllables": [
+      "They",
+      "are",
+      "at",
+      "school."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ ɑːr æt skuːl/",
+    "portuguesePhonetic": "[dhêi ár ét skúl]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_1kgmn05",
+    "word": "The room is clean.",
+    "translation": "O quarto está limpo.",
+    "syllables": [
+      "The",
+      "room",
+      "is",
+      "clean."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ruːm ɪz kliːn/",
+    "portuguesePhonetic": "[dha rrúm iz klín]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_2h347y7",
+    "word": "We are not ready yet.",
+    "translation": "Ainda não estamos prontos.",
+    "syllables": [
+      "We",
+      "are",
+      "not",
+      "ready",
+      "yet."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ɑːr nɑːt ˈrɛdi jɛt/",
+    "portuguesePhonetic": "[uí ár nót rrédi iét]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_gqk99oa",
+    "word": "He isn't at home.",
+    "translation": "Ele não está em casa.",
+    "syllables": [
+      "He",
+      "isn't",
+      "at",
+      "home."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ˈɪznt æt hoʊm/",
+    "portuguesePhonetic": "[rrí íznt ét rrôum]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_97tk9gu",
+    "word": "Are you a student?",
+    "translation": "Você é estudante?",
+    "syllables": [
+      "Are",
+      "you",
+      "a",
+      "student?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː ə ˈstuːdənt/",
+    "portuguesePhonetic": "[ár iú a stúdent]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_0hdhfsx",
+    "word": "Why are you sad?",
+    "translation": "Por que você está triste?",
+    "syllables": [
+      "Why",
+      "are",
+      "you",
+      "sad?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ɑːr juː sæd/",
+    "portuguesePhonetic": "[uái ár iú séd]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_oejrscg",
+    "word": "The kids are happy because it's their birthday.",
+    "translation": "As crianças estão felizes porque é aniversário delas.",
+    "syllables": [
+      "The",
+      "kids",
+      "are",
+      "happy",
+      "because",
+      "it's",
+      "their",
+      "birthday."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə kɪdz ɑːr ˈhæpi bɪˈkɔːz ɪts ðɛr ˈbɜːrθdeɪ/",
+    "portuguesePhonetic": "[dha kídz ár rrépi bikóz íts dhér bârthdei]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_xs2on7o",
+    "word": "I am tired but I am happy.",
+    "translation": "Estou cansado, mas estou feliz.",
+    "syllables": [
+      "I",
+      "am",
+      "tired",
+      "but",
+      "I",
+      "am",
+      "happy."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ æm ˈtaɪərd bʌt aɪ æm ˈhæpi/",
+    "portuguesePhonetic": "[ái ém táierd bât ái ém rrépi]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_pk95ccs",
+    "word": "She is at work when I am at home.",
+    "translation": "Ela está no trabalho quando eu estou em casa.",
+    "syllables": [
+      "She",
+      "is",
+      "at",
+      "work",
+      "when",
+      "I",
+      "am",
+      "at",
+      "home."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ɪz æt wɜːrk wɛn aɪ æm æt hoʊm/",
+    "portuguesePhonetic": "[chí iz ét uârk uén ái ém ét rrôum]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_kmgv1zs",
+    "word": "It is raining now.",
+    "translation": "Está chovendo agora.",
+    "syllables": [
+      "It",
+      "is",
+      "raining",
+      "now."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪt ɪz ˈreɪnɪŋ naʊ/",
+    "portuguesePhonetic": "[ít iz rrêinin náu]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_b96djvm",
+    "word": "We are watching a movie.",
+    "translation": "Estamos assistindo a um filme.",
+    "syllables": [
+      "We",
+      "are",
+      "watching",
+      "a",
+      "movie."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ɑːr ˈwɑːtʃɪŋ ə ˈmuːvi/",
+    "portuguesePhonetic": "[uí ár uátchin a múvi]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_kp8bsf7",
+    "word": "Are they coming to the party?",
+    "translation": "Eles estão vindo para a festa?",
+    "syllables": [
+      "Are",
+      "they",
+      "coming",
+      "to",
+      "the",
+      "party?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr ðeɪ ˈkʌmɪŋ tə ðə ˈpɑːrti/",
+    "portuguesePhonetic": "[ár dhêi kâmin tu dha párti]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_uf5cac1",
+    "word": "I was at the gym yesterday.",
+    "translation": "Eu estava na academia ontem.",
+    "syllables": [
+      "I",
+      "was",
+      "at",
+      "the",
+      "gym",
+      "yesterday."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ wəz æt ðə dʒɪm ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[ái uâz ét dha djím iéster dei]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_2bk4zax",
+    "word": "They were very tired last night.",
+    "translation": "Eles estavam muito cansados ontem à noite.",
+    "syllables": [
+      "They",
+      "were",
+      "very",
+      "tired",
+      "last",
+      "night."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ wɜːr ˈvɛri ˈtaɪərd læst naɪt/",
+    "portuguesePhonetic": "[dhêi uâr véri táierd lést náit]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_idufp2k",
+    "word": "Where were you this morning?",
+    "translation": "Onde você estava esta manhã?",
+    "syllables": [
+      "Where",
+      "were",
+      "you",
+      "this",
+      "morning?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr wɜːr juː ðɪs ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[uér uâr iú dhis mórnin]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_dwjiuf9",
+    "word": "He wasn't at the office because he was sick.",
+    "translation": "Ele não estava no escritório porque estava doente.",
+    "syllables": [
+      "He",
+      "wasn't",
+      "at",
+      "the",
+      "office",
+      "because",
+      "he",
+      "was",
+      "sick."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ˈwʌznt æt ðə ˈɔːfɪs bɪˈkɔːz hiː wəz sɪk/",
+    "portuguesePhonetic": "[rrí uâznt ét dhi ófis bikóz rrí uâz sík]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_264hl0m",
+    "word": "We were happy when the sun was shining.",
+    "translation": "Estávamos felizes quando o sol estava brilhando.",
+    "syllables": [
+      "We",
+      "were",
+      "happy",
+      "when",
+      "the",
+      "sun",
+      "was",
+      "shining."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː wɜːr ˈhæpi wɛn ðə sʌn wəz ˈʃaɪnɪŋ/",
+    "portuguesePhonetic": "[uí uâr rrépi uén dha sân uâz cháinin]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_anb3ble",
+    "word": "Is she going to be ready soon?",
+    "translation": "Ela vai estar pronta logo?",
+    "syllables": [
+      "Is",
+      "she",
+      "going",
+      "to",
+      "be",
+      "ready",
+      "soon?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ʃiː ˈɡoʊɪŋ tə biː ˈrɛdi suːn/",
+    "portuguesePhonetic": "[iz chí gôuin tu bí rrédi súun]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_9yksqtc",
+    "word": "I will be there at eight.",
+    "translation": "Eu estarei lá às oito.",
+    "syllables": [
+      "I",
+      "will",
+      "be",
+      "there",
+      "at",
+      "eight."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ wɪl biː ðɛr æt eɪt/",
+    "portuguesePhonetic": "[ái uíou bí dhér ét êit]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_pcr8qwa",
+    "word": "They are going to be late, but it's okay.",
+    "translation": "Eles vão se atrasar, mas tudo bem.",
+    "syllables": [
+      "They",
+      "are",
+      "going",
+      "to",
+      "be",
+      "late,",
+      "but",
+      "it's",
+      "okay."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ ɑːr ˈɡoʊɪŋ tə biː leɪt bʌt ɪts oʊˈkeɪ/",
+    "portuguesePhonetic": "[dhêi ár gôuin tu bí lêit bât íts ôukêi]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_6w725by",
+    "word": "Are you sure you are right?",
+    "translation": "Você tem certeza de que está certo?",
+    "syllables": [
+      "Are",
+      "you",
+      "sure",
+      "you",
+      "are",
+      "right?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː ʃʊr juː ɑːr raɪt/",
+    "portuguesePhonetic": "[ár iú chúr iú ár ráit]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_82h0c76",
+    "word": "I'm not sure if he is at home or at work.",
+    "translation": "Não tenho certeza se ele está em casa ou no trabalho.",
+    "syllables": [
+      "I'm",
+      "not",
+      "sure",
+      "if",
+      "he",
+      "is",
+      "at",
+      "home",
+      "or",
+      "at",
+      "work."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm nɑːt ʃʊr ɪf hiː ɪz æt hoʊm ɔːr æt wɜːrk/",
+    "portuguesePhonetic": "[áim nót chúr if rrí iz ét rrôum ór ét uârk]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_5mfrcgp",
+    "word": "She isn't happy because the weather is bad and her friends are busy.",
+    "translation": "Ela não está feliz porque o tempo está ruim e seus amigos estão ocupados.",
+    "syllables": [
+      "She",
+      "isn't",
+      "happy",
+      "because",
+      "the",
+      "weather",
+      "is",
+      "bad",
+      "and",
+      "her",
+      "friends",
+      "are",
+      "busy."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈɪznt ˈhæpi bɪˈkɔːz ðə ˈwɛðər ɪz bæd ænd hɜːr frɛndz ɑːr ˈbɪzi/",
+    "portuguesePhonetic": "[chí íznt rrépi bikóz dha uédher iz béd énd rrâr fréndz ár bízi]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_92fimlg",
+    "word": "\"Are you ready?\" / \"Yes, I am.\"",
+    "translation": "\"Você está pronto?\" / \"Sim, estou.\"",
+    "syllables": [
+      "\"Are",
+      "you",
+      "ready?\"",
+      "/",
+      "\"Yes,",
+      "I",
+      "am.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː ˈrɛdi",
+    "portuguesePhonetic": "[ár iú rrédi · iés ái ém]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_15c1i94",
+    "word": "\"Is he your brother?\" / \"No, he isn't.\"",
+    "translation": "\"Ele é seu irmão?\" / \"Não, não é.\"",
+    "syllables": [
+      "\"Is",
+      "he",
+      "your",
+      "brother?\"",
+      "/",
+      "\"No,",
+      "he",
+      "isn't.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz hiː jɔːr ˈbrʌðər",
+    "portuguesePhonetic": "[iz rrí iór brâdher · nôu rrí íznt]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_rliw681",
+    "word": "\"Where are my keys?\" / \"They're on the table.\"",
+    "translation": "\"Onde estão minhas chaves?\" / \"Estão na mesa.\"",
+    "syllables": [
+      "\"Where",
+      "are",
+      "my",
+      "keys?\"",
+      "/",
+      "\"They're",
+      "on",
+      "the",
+      "table.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɑːr maɪ kiːz",
+    "portuguesePhonetic": "[uér ár mái kíz · dhér ón dha têibou]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_f96bgxr",
+    "word": "\"Are they at home?\" / \"Yes, they are.\"",
+    "translation": "\"Eles estão em casa?\" / \"Sim, estão.\"",
+    "syllables": [
+      "\"Are",
+      "they",
+      "at",
+      "home?\"",
+      "/",
+      "\"Yes,",
+      "they",
+      "are.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr ðeɪ æt hoʊm",
+    "portuguesePhonetic": "[ár dhêi ét rrôum · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_tfifm3e",
+    "word": "\"Is she a teacher?\" / \"Yes, she is.\"",
+    "translation": "\"Ela é professora?\" / \"Sim, é.\"",
+    "syllables": [
+      "\"Is",
+      "she",
+      "a",
+      "teacher?\"",
+      "/",
+      "\"Yes,",
+      "she",
+      "is.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ʃiː ə ˈtiːtʃər",
+    "portuguesePhonetic": "[iz chí a títcher · iés chí iz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_0hs2qkw",
+    "word": "\"Am I late?\" / \"No, you aren't.\"",
+    "translation": "\"Estou atrasado?\" / \"Não, não está.\"",
+    "syllables": [
+      "\"Am",
+      "I",
+      "late?\"",
+      "/",
+      "\"No,",
+      "you",
+      "aren't.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æm aɪ leɪt",
+    "portuguesePhonetic": "[ém ái lêit · nôu iú árent]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_yy4ooe7",
+    "word": "\"Are we there yet?\" / \"No, we aren't.\"",
+    "translation": "\"Já chegamos?\" / \"Não, ainda não.\"",
+    "syllables": [
+      "\"Are",
+      "we",
+      "there",
+      "yet?\"",
+      "/",
+      "\"No,",
+      "we",
+      "aren't.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr wiː ðɛr jɛt",
+    "portuguesePhonetic": "[ár uí dhér iét · nôu uí árent]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_a0jyzac",
+    "word": "\"Is it cold outside?\" / \"Yes, it is.\"",
+    "translation": "\"Está frio lá fora?\" / \"Sim, está.\"",
+    "syllables": [
+      "\"Is",
+      "it",
+      "cold",
+      "outside?\"",
+      "/",
+      "\"Yes,",
+      "it",
+      "is.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ɪt koʊld ˌaʊtˈsaɪd",
+    "portuguesePhonetic": "[iz ít kôuld autsáid · iés ít iz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_wj97brx",
+    "word": "\"Are you hungry?\" / \"Yes, I am.\"",
+    "translation": "\"Você está com fome?\" / \"Sim, estou.\"",
+    "syllables": [
+      "\"Are",
+      "you",
+      "hungry?\"",
+      "/",
+      "\"Yes,",
+      "I",
+      "am.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː ˈhʌŋɡri",
+    "portuguesePhonetic": "[ár iú râNgri · iés ái ém]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_nbn1bvn",
+    "word": "\"Is the store open?\" / \"No, it isn't.\"",
+    "translation": "\"A loja está aberta?\" / \"Não, não está.\"",
+    "syllables": [
+      "\"Is",
+      "the",
+      "store",
+      "open?\"",
+      "/",
+      "\"No,",
+      "it",
+      "isn't.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðə stɔːr ˈoʊpən",
+    "portuguesePhonetic": "[iz dha stór ôupan · nôu ít íznt]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_b29dcvu",
+    "word": "\"Are your friends here?\" / \"Yes, they are.\"",
+    "translation": "\"Seus amigos estão aqui?\" / \"Sim, estão.\"",
+    "syllables": [
+      "\"Are",
+      "your",
+      "friends",
+      "here?\"",
+      "/",
+      "\"Yes,",
+      "they",
+      "are.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr jɔːr frɛndz hɪr",
+    "portuguesePhonetic": "[ár iór fréndz rrír · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_8t8gh7z",
+    "word": "\"Is the bus late?\" / \"Yes, it is.\"",
+    "translation": "\"O ônibus está atrasado?\" / \"Sim, está.\"",
+    "syllables": [
+      "\"Is",
+      "the",
+      "bus",
+      "late?\"",
+      "/",
+      "\"Yes,",
+      "it",
+      "is.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðə bʌs leɪt",
+    "portuguesePhonetic": "[iz dha bâs lêit · iés ít iz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_mf91khj",
+    "word": "\"Are you a student?\" / \"No, I'm not.\"",
+    "translation": "\"Você é estudante?\" / \"Não, não sou.\"",
+    "syllables": [
+      "\"Are",
+      "you",
+      "a",
+      "student?\"",
+      "/",
+      "\"No,",
+      "I'm",
+      "not.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː ə ˈstuːdənt",
+    "portuguesePhonetic": "[ár iú a stúdent · nôu áim nót]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_qshk1kf",
+    "word": "\"Is dinner ready?\" / \"Yes, it is.\"",
+    "translation": "\"O jantar está pronto?\" / \"Sim, está.\"",
+    "syllables": [
+      "\"Is",
+      "dinner",
+      "ready?\"",
+      "/",
+      "\"Yes,",
+      "it",
+      "is.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ˈdɪnər ˈrɛdi",
+    "portuguesePhonetic": "[iz díner rrédi · iés ít iz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_ulmxos2",
+    "word": "\"Are you okay?\" / \"No, I'm not.\"",
+    "translation": "\"Você está bem?\" / \"Não, não estou.\"",
+    "syllables": [
+      "\"Are",
+      "you",
+      "okay?\"",
+      "/",
+      "\"No,",
+      "I'm",
+      "not.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː oʊˈkeɪ",
+    "portuguesePhonetic": "[ár iú ôukêi · nôu áim nót]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_2tj4i1b",
+    "word": "\"Is this your bag?\" / \"Yes, it is.\"",
+    "translation": "\"Esta bolsa é sua?\" / \"Sim, é.\"",
+    "syllables": [
+      "\"Is",
+      "this",
+      "your",
+      "bag?\"",
+      "/",
+      "\"Yes,",
+      "it",
+      "is.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɪs jɔːr bæɡ",
+    "portuguesePhonetic": "[iz dhis iór bég · iés ít iz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_npm38ab",
+    "word": "\"Are the kids asleep?\" / \"Yes, they are.\"",
+    "translation": "\"As crianças estão dormindo?\" / \"Sim, estão.\"",
+    "syllables": [
+      "\"Are",
+      "the",
+      "kids",
+      "asleep?\"",
+      "/",
+      "\"Yes,",
+      "they",
+      "are.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr ðə kɪdz əˈsliːp",
+    "portuguesePhonetic": "[ár dha kídz aslíp · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_irab4p5",
+    "word": "\"Is he at work?\" / \"No, he isn't.\"",
+    "translation": "\"Ele está no trabalho?\" / \"Não, não está.\"",
+    "syllables": [
+      "\"Is",
+      "he",
+      "at",
+      "work?\"",
+      "/",
+      "\"No,",
+      "he",
+      "isn't.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz hiː æt wɜːrk",
+    "portuguesePhonetic": "[iz rrí ét uârk · nôu rrí íznt]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_fuspf8z",
+    "word": "\"Are you from Brazil?\" / \"Yes, I am.\"",
+    "translation": "\"Você é do Brasil?\" / \"Sim, sou.\"",
+    "syllables": [
+      "\"Are",
+      "you",
+      "from",
+      "Brazil?\"",
+      "/",
+      "\"Yes,",
+      "I",
+      "am.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː frəm brəˈzɪl",
+    "portuguesePhonetic": "[ár iú from brazíou · iés ái ém]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_e0af1uq",
+    "word": "\"Is she happy?\" / \"Yes, she is.\"",
+    "translation": "\"Ela está feliz?\" / \"Sim, está.\"",
+    "syllables": [
+      "\"Is",
+      "she",
+      "happy?\"",
+      "/",
+      "\"Yes,",
+      "she",
+      "is.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ʃiː ˈhæpi",
+    "portuguesePhonetic": "[iz chí rrépi · iés chí iz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_cro3dac",
+    "word": "\"Are we early?\" / \"No, we aren't.\"",
+    "translation": "\"Estamos adiantados?\" / \"Não, não estamos.\"",
+    "syllables": [
+      "\"Are",
+      "we",
+      "early?\"",
+      "/",
+      "\"No,",
+      "we",
+      "aren't.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr wiː ˈɜːrli",
+    "portuguesePhonetic": "[ár uí ârli · nôu uí árent]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_e5o4o84",
+    "word": "\"Is it raining?\" / \"No, it isn't.\"",
+    "translation": "\"Está chovendo?\" / \"Não, não está.\"",
+    "syllables": [
+      "\"Is",
+      "it",
+      "raining?\"",
+      "/",
+      "\"No,",
+      "it",
+      "isn't.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ɪt ˈreɪnɪŋ",
+    "portuguesePhonetic": "[iz ít rrêinin · nôu ít íznt]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_aasywq4",
+    "word": "\"Are you tired?\" / \"Yes, I am.\"",
+    "translation": "\"Você está cansado?\" / \"Sim, estou.\"",
+    "syllables": [
+      "\"Are",
+      "you",
+      "tired?\"",
+      "/",
+      "\"Yes,",
+      "I",
+      "am.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː ˈtaɪərd",
+    "portuguesePhonetic": "[ár iú táierd · iés ái ém]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_jrh945e",
+    "word": "\"Is the coffee hot?\" / \"Yes, it is.\"",
+    "translation": "\"O café está quente?\" / \"Sim, está.\"",
+    "syllables": [
+      "\"Is",
+      "the",
+      "coffee",
+      "hot?\"",
+      "/",
+      "\"Yes,",
+      "it",
+      "is.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðə ˈkɔːfi hɑːt",
+    "portuguesePhonetic": "[iz dha kófi rrót · iés ít iz]"
+  },
+  {
+    "id": "lesson_1_grammar_a1_id_yc18sa2",
+    "word": "\"Are they coming?\" / \"No, they aren't.\"",
+    "translation": "\"Eles estão vindo?\" / \"Não, não estão.\"",
+    "syllables": [
+      "\"Are",
+      "they",
+      "coming?\"",
+      "/",
+      "\"No,",
+      "they",
+      "aren't.\""
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr ðeɪ ˈkʌmɪŋ",
+    "portuguesePhonetic": "[ár dhêi kâmin · nôu dhêi árent]"
+  }
+]

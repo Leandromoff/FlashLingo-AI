@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_1",
+    "word": "Yo soy",
+    "translation": "Eu sou",
+    "pronunciation": "/ʝo soi/",
+    "portuguesePhonetic": "[iô sôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_2",
+    "word": "Yo estoy",
+    "translation": "Eu estou",
+    "pronunciation": "/ʝo esˈtoi/",
+    "portuguesePhonetic": "[iô estôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_3",
+    "word": "Tú eres",
+    "translation": "Tu és / Você é",
+    "pronunciation": "/tu ˈeɾes/",
+    "portuguesePhonetic": "[tu éres]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_4",
+    "word": "Tú estás",
+    "translation": "Tu estás / Você está",
+    "pronunciation": "/tu esˈtas/",
+    "portuguesePhonetic": "[tu estás]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_5",
+    "word": "Él es",
+    "translation": "Ele é",
+    "pronunciation": "/el es/",
+    "portuguesePhonetic": "[él és]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_6",
+    "word": "Él está",
+    "translation": "Ele está",
+    "pronunciation": "/el esˈta/",
+    "portuguesePhonetic": "[él está]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_7",
+    "word": "Ella es",
+    "translation": "Ela é",
+    "pronunciation": "/ˈeʎa es/",
+    "portuguesePhonetic": "[élha és]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_8",
+    "word": "Ella está",
+    "translation": "Ela está",
+    "pronunciation": "/ˈeʎa esˈta/",
+    "portuguesePhonetic": "[élha está]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_9",
+    "word": "Es",
+    "translation": "É (coisas)",
+    "pronunciation": "/es/",
+    "portuguesePhonetic": "[és]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_10",
+    "word": "Está",
+    "translation": "Está (coisas)",
+    "pronunciation": "/esˈta/",
+    "portuguesePhonetic": "[está]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_11",
+    "word": "Nosotros somos",
+    "translation": "Nós somos",
+    "pronunciation": "/noˈsotɾos ˈsomos/",
+    "portuguesePhonetic": "[nosótros sômos]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_12",
+    "word": "Nosotros estamos",
+    "translation": "Nós estamos",
+    "pronunciation": "/noˈsotɾos esˈtamos/",
+    "portuguesePhonetic": "[nosótros estámos]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_13",
+    "word": "Vosotros sois",
+    "translation": "Vós sois / Vocês são",
+    "pronunciation": "/boˈsotɾos sois/",
+    "portuguesePhonetic": "[bosótros sôis]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_14",
+    "word": "Vosotros estáis",
+    "translation": "Vós estais / Vocês estão",
+    "pronunciation": "/boˈsotɾos esˈtais/",
+    "portuguesePhonetic": "[bosótros estáis]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_15",
+    "word": "Ellos son",
+    "translation": "Eles são",
+    "pronunciation": "/ˈeʎos son/",
+    "portuguesePhonetic": "[élhos són]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_16",
+    "word": "Ellos están",
+    "translation": "Eles estão",
+    "pronunciation": "/ˈeʎos esˈtan/",
+    "portuguesePhonetic": "[élhos están]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_17",
+    "word": "No soy",
+    "translation": "Não sou",
+    "pronunciation": "/no soi/",
+    "portuguesePhonetic": "[nô sôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_18",
+    "word": "No estoy",
+    "translation": "Não estou",
+    "pronunciation": "/no esˈtoi/",
+    "portuguesePhonetic": "[nô estôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_19",
+    "word": "No es",
+    "translation": "Não é",
+    "pronunciation": "/no es/",
+    "portuguesePhonetic": "[nô és]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_20",
+    "word": "No está",
+    "translation": "Não está",
+    "pronunciation": "/no esˈta/",
+    "portuguesePhonetic": "[nô está]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_21",
+    "word": "No somos / No estamos",
+    "translation": "Não somos / não estamos",
+    "pronunciation": "/no ˈsomos · no esˈtamos/",
+    "portuguesePhonetic": "[nô sômos · nô estámos]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_22",
+    "word": "¿Soy yo?",
+    "translation": "Sou eu?",
+    "pronunciation": "/soi ʝo/",
+    "portuguesePhonetic": "[sôi iô]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_23",
+    "word": "¿Eres tú?",
+    "translation": "És tu? / Você é?",
+    "pronunciation": "/ˈeɾes tu/",
+    "portuguesePhonetic": "[éres tu]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_24",
+    "word": "¿Es él?",
+    "translation": "É ele?",
+    "pronunciation": "/es el/",
+    "portuguesePhonetic": "[és él]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_25",
+    "word": "¿Está ella? / ¿Están ellos?",
+    "translation": "Ela está? / Eles estão?",
+    "pronunciation": "/esˈta ˈeʎa · esˈtan ˈeʎos/",
+    "portuguesePhonetic": "[está élha · están élhos]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_26",
+    "word": "Estoy listo.",
+    "translation": "Estou pronto.",
+    "pronunciation": "/esˈtoi ˈlisto/",
+    "portuguesePhonetic": "[estôi lísto]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_27",
+    "word": "¿Dónde están mis llaves?",
+    "translation": "Onde estão minhas chaves?",
+    "pronunciation": "/ˈdonde esˈtan mis ˈʎaβes/",
+    "portuguesePhonetic": "[dônde están mis lhábes]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_28",
+    "word": "Están en la mesa.",
+    "translation": "Estão na mesa.",
+    "pronunciation": "/esˈtan en la ˈmesa/",
+    "portuguesePhonetic": "[están en la mésa]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_29",
+    "word": "La puerta está abierta.",
+    "translation": "A porta está aberta.",
+    "pronunciation": "/la ˈpweɾta esˈta aˈβjeɾta/",
+    "portuguesePhonetic": "[la puérta está abiérta]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_30",
+    "word": "¡Llegamos tarde!",
+    "translation": "Estamos atrasados!",
+    "pronunciation": "/ʎeˈɣamos ˈtaɾðe/",
+    "portuguesePhonetic": "[lhegámos tárde]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_31",
+    "word": "¿Cuánto es?",
+    "translation": "Quanto é?",
+    "pronunciation": "/ˈkwanto es/",
+    "portuguesePhonetic": "[kuánto és]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_32",
+    "word": "Son cinco euros.",
+    "translation": "São cinco euros.",
+    "pronunciation": "/son ˈθinko ˈewɾos/",
+    "portuguesePhonetic": "[són thínko éuros]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_33",
+    "word": "Las manzanas están frescas.",
+    "translation": "As maçãs estão frescas.",
+    "pronunciation": "/las manˈθanas esˈtan ˈfɾeskas/",
+    "portuguesePhonetic": "[las manthánas están fréskas]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_34",
+    "word": "¿Dónde está la leche?",
+    "translation": "Onde está o leite?",
+    "pronunciation": "/ˈdonde esˈta la ˈletʃe/",
+    "portuguesePhonetic": "[dônde está la létche]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_35",
+    "word": "Está en el pasillo tres.",
+    "translation": "Está no corredor três.",
+    "pronunciation": "/esˈta en el paˈsiʎo tɾes/",
+    "portuguesePhonetic": "[está en el pasílho trés]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_36",
+    "word": "El autobús está retrasado.",
+    "translation": "O ônibus está atrasado.",
+    "pronunciation": "/el awtoˈβus esˈta retɾaˈsaðo/",
+    "portuguesePhonetic": "[el autobús está retrasádo]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_37",
+    "word": "Estoy en el trabajo.",
+    "translation": "Estou no trabalho.",
+    "pronunciation": "/esˈtoi en el tɾaˈβaxo/",
+    "portuguesePhonetic": "[estôi en el trabárro]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_38",
+    "word": "Mi jefe está ocupado.",
+    "translation": "Meu chefe está ocupado.",
+    "pronunciation": "/mi ˈxefe esˈta okuˈpaðo/",
+    "portuguesePhonetic": "[mi rréfe está okupádo]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_39",
+    "word": "La reunión es a las diez.",
+    "translation": "A reunião é às dez.",
+    "pronunciation": "/la reuˈnjon es a las djeθ/",
+    "portuguesePhonetic": "[la reunión és a las diéth]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_40",
+    "word": "Tenemos prisa.",
+    "translation": "Estamos com pressa.",
+    "pronunciation": "/teˈnemos ˈpɾisa/",
+    "portuguesePhonetic": "[tenémos prísa]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_41",
+    "word": "La comida está deliciosa.",
+    "translation": "A comida está deliciosa.",
+    "pronunciation": "/la koˈmiða esˈta deliˈθjosa/",
+    "portuguesePhonetic": "[la komída está delithiósa]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_42",
+    "word": "¿Tienes hambre?",
+    "translation": "Você está com fome?",
+    "pronunciation": "/ˈtjenes ˈambɾe/",
+    "portuguesePhonetic": "[tiénes âmbre]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_43",
+    "word": "El camarero es simpático.",
+    "translation": "O garçom é simpático.",
+    "pronunciation": "/el kamaˈɾeɾo es simˈpatiko/",
+    "portuguesePhonetic": "[el kamaréro és simpátiko]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_44",
+    "word": "La cuenta está lista.",
+    "translation": "A conta está pronta.",
+    "pronunciation": "/la ˈkwenta esˈta ˈlista/",
+    "portuguesePhonetic": "[la kuénta está lísta]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_45",
+    "word": "Hoy hace sol.",
+    "translation": "Está ensolarado hoje.",
+    "pronunciation": "/oi ˈaθe sol/",
+    "portuguesePhonetic": "[ôi áthe sól]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_46",
+    "word": "El tiempo es agradable.",
+    "translation": "O tempo está agradável.",
+    "pronunciation": "/el ˈtjempo es aɣɾaˈðaβle/",
+    "portuguesePhonetic": "[el tiémpo és agradáble]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_47",
+    "word": "Hace frío fuera.",
+    "translation": "Está frio lá fora.",
+    "pronunciation": "/ˈaθe ˈfɾio ˈfweɾa/",
+    "portuguesePhonetic": "[áthe frío fuéra]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_48",
+    "word": "Mis amigos están aquí.",
+    "translation": "Meus amigos estão aqui.",
+    "pronunciation": "/mis aˈmiɣos esˈtan aˈki/",
+    "portuguesePhonetic": "[mis amígos están akí]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_49",
+    "word": "La película es genial.",
+    "translation": "O filme está ótimo.",
+    "pronunciation": "/la peˈlikula es xeˈnjal/",
+    "portuguesePhonetic": "[la pelíkula és rrenniál]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_50",
+    "word": "Estamos contentos.",
+    "translation": "Estamos felizes.",
+    "pronunciation": "/esˈtamos konˈtentos/",
+    "portuguesePhonetic": "[estámos konténtos]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_51",
+    "word": "Estoy cansado.",
+    "translation": "Estou cansado.",
+    "pronunciation": "/esˈtoi kanˈsaðo/",
+    "portuguesePhonetic": "[estôi kansádo]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_52",
+    "word": "Ella es mi amiga.",
+    "translation": "Ela é minha amiga.",
+    "pronunciation": "/ˈeʎa es mi aˈmiɣa/",
+    "portuguesePhonetic": "[élha és mi amíga]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_53",
+    "word": "Están en el colegio.",
+    "translation": "Eles estão na escola.",
+    "pronunciation": "/esˈtan en el koˈlexjo/",
+    "portuguesePhonetic": "[están en el kolérrio]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_54",
+    "word": "La habitación está limpia.",
+    "translation": "O quarto está limpo.",
+    "pronunciation": "/la aβitaˈθjon esˈta ˈlimpja/",
+    "portuguesePhonetic": "[la abitathión está límpia]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_55",
+    "word": "Todavía no estamos listos.",
+    "translation": "Ainda não estamos prontos.",
+    "pronunciation": "/toðaˈβia no esˈtamos ˈlistos/",
+    "portuguesePhonetic": "[todabía no estámos lístos]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_56",
+    "word": "Él no está en casa.",
+    "translation": "Ele não está em casa.",
+    "pronunciation": "/el no esˈta en ˈkasa/",
+    "portuguesePhonetic": "[él no está en kása]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_57",
+    "word": "¿Eres estudiante?",
+    "translation": "Você é estudante?",
+    "pronunciation": "/ˈeɾes estuˈðjante/",
+    "portuguesePhonetic": "[éres estudiánte]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_58",
+    "word": "¿Por qué estás triste?",
+    "translation": "Por que você está triste?",
+    "pronunciation": "/poɾ ke esˈtas ˈtɾiste/",
+    "portuguesePhonetic": "[por ké estás tríste]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_59",
+    "word": "Los niños están felices porque es su cumpleaños.",
+    "translation": "As crianças estão felizes porque é aniversário delas.",
+    "pronunciation": "/los ˈniɲos esˈtan feˈliθes ˈpoɾke es su kumpleˈaɲos/",
+    "portuguesePhonetic": "[los nínhos están felíthes pórke és su kumpleánhos]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_60",
+    "word": "Estoy cansado pero estoy feliz.",
+    "translation": "Estou cansado, mas estou feliz.",
+    "pronunciation": "/esˈtoi kanˈsaðo ˈpeɾo esˈtoi feˈliθ/",
+    "portuguesePhonetic": "[estôi kansádo péro estôi felíth]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_61",
+    "word": "Ella está en el trabajo cuando yo estoy en casa.",
+    "translation": "Ela está no trabalho quando eu estou em casa.",
+    "pronunciation": "/ˈeʎa esˈta en el tɾaˈβaxo ˈkwando ʝo esˈtoi en ˈkasa/",
+    "portuguesePhonetic": "[élha está en el trabárro kuándo iô estôi en kása]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_62",
+    "word": "Está lloviendo ahora.",
+    "translation": "Está chovendo agora.",
+    "pronunciation": "/esˈta ʎoˈβjendo aˈoɾa/",
+    "portuguesePhonetic": "[está lhobiéndo aóra]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_63",
+    "word": "Estamos viendo una película.",
+    "translation": "Estamos assistindo a um filme.",
+    "pronunciation": "/esˈtamos ˈbjendo una peˈlikula/",
+    "portuguesePhonetic": "[estámos biéndo una pelíkula]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_64",
+    "word": "¿Vienen a la fiesta?",
+    "translation": "Eles vêm para a festa?",
+    "pronunciation": "/ˈbjenen a la ˈfjesta/",
+    "portuguesePhonetic": "[biénen a la fiésta]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_65",
+    "word": "Estuve en el gimnasio ayer.",
+    "translation": "Estive na academia ontem.",
+    "pronunciation": "/esˈtuβe en el ximˈnasjo aˈʝeɾ/",
+    "portuguesePhonetic": "[estúbe en el rrimnásio aiér]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_66",
+    "word": "Estaban muy cansados anoche.",
+    "translation": "Eles estavam muito cansados ontem à noite.",
+    "pronunciation": "/esˈtaβan mui kanˈsaðos aˈnotʃe/",
+    "portuguesePhonetic": "[estában múi kansádos anótche]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_67",
+    "word": "¿Dónde estabas esta mañana?",
+    "translation": "Onde você estava esta manhã?",
+    "pronunciation": "/ˈdonde esˈtaβas ˈesta maˈɲana/",
+    "portuguesePhonetic": "[dônde estábas ésta manhána]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_68",
+    "word": "No estaba en la oficina porque estaba enfermo.",
+    "translation": "Ele não estava no escritório porque estava doente.",
+    "pronunciation": "/no esˈtaβa en la ofiˈθina ˈpoɾke esˈtaβa emˈfeɾmo/",
+    "portuguesePhonetic": "[no estába en la ofithína pórke estába emférmo]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_69",
+    "word": "Estábamos contentos cuando brillaba el sol.",
+    "translation": "Estávamos felizes quando o sol estava brilhando.",
+    "pronunciation": "/esˈtaβamos konˈtentos ˈkwando bɾiˈʎaβa el sol/",
+    "portuguesePhonetic": "[estábamos konténtos kuándo brilhába el sól]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_70",
+    "word": "¿Va a estar lista pronto?",
+    "translation": "Ela vai estar pronta logo?",
+    "pronunciation": "/ba a esˈtaɾ ˈlista ˈpɾonto/",
+    "portuguesePhonetic": "[ba a estár lísta prónto]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_71",
+    "word": "Estaré allí a las ocho.",
+    "translation": "Estarei lá às oito.",
+    "pronunciation": "/estaˈɾe aˈʎi a las ˈotʃo/",
+    "portuguesePhonetic": "[estaré alhí a las ótcho]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_72",
+    "word": "Van a llegar tarde, pero no pasa nada.",
+    "translation": "Eles vão se atrasar, mas tudo bem.",
+    "pronunciation": "/ban a ʎeˈɣaɾ ˈtaɾðe ˈpeɾo no ˈpasa ˈnaða/",
+    "portuguesePhonetic": "[ban a lhegár tárde péro no pása náda]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_73",
+    "word": "¿Estás seguro de que tienes razón?",
+    "translation": "Você tem certeza de que está certo?",
+    "pronunciation": "/esˈtas seˈɣuɾo de ke ˈtjenes raˈθon/",
+    "portuguesePhonetic": "[estás segúro de ke tiénes rrathón]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_74",
+    "word": "No sé si está en casa o en el trabajo.",
+    "translation": "Não sei se ele está em casa ou no trabalho.",
+    "pronunciation": "/no se si esˈta en ˈkasa o en el tɾaˈβaxo/",
+    "portuguesePhonetic": "[no sé si está en kása o en el trabárro]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_75",
+    "word": "Ella no está contenta porque hace mal tiempo y sus amigos están ocupados.",
+    "translation": "Ela não está feliz porque o tempo está ruim e seus amigos estão ocupados.",
+    "pronunciation": "/ˈeʎa no esˈta konˈtenta ˈpoɾke ˈaθe mal ˈtjempo i sus aˈmiɣos esˈtan okuˈpaðos/",
+    "portuguesePhonetic": "[élha no está konténta pórke áthe mal tiémpo i sus amígos están okupádos]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_76",
+    "word": "«¿Estás listo?» / «Sí, lo estoy.»",
+    "translation": "\"Você está pronto?\" / \"Sim, estou.\"",
+    "pronunciation": "/esˈtas ˈlisto · si lo esˈtoi/",
+    "portuguesePhonetic": "[estás lísto · sí lo estôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_77",
+    "word": "«¿Es tu hermano?» / «No, no lo es.»",
+    "translation": "\"Ele é seu irmão?\" / \"Não, não é.\"",
+    "pronunciation": "/es tu eɾˈmano · no no lo es/",
+    "portuguesePhonetic": "[és tu ermáno · no no lo és]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_78",
+    "word": "«¿Dónde están mis llaves?» / «Están en la mesa.»",
+    "translation": "\"Onde estão minhas chaves?\" / \"Estão na mesa.\"",
+    "pronunciation": "/ˈdonde esˈtan mis ˈʎaβes · esˈtan en la ˈmesa/",
+    "portuguesePhonetic": "[dônde están mis lhábes · están en la mésa]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_79",
+    "word": "«¿Están en casa?» / «Sí, lo están.»",
+    "translation": "\"Eles estão em casa?\" / \"Sim, estão.\"",
+    "pronunciation": "/esˈtan en ˈkasa · si lo esˈtan/",
+    "portuguesePhonetic": "[están en kása · sí lo están]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_80",
+    "word": "«¿Es profesora?» / «Sí, lo es.»",
+    "translation": "\"Ela é professora?\" / \"Sim, é.\"",
+    "pronunciation": "/es pɾofeˈsoɾa · si lo es/",
+    "portuguesePhonetic": "[és profesóra · sí lo és]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_81",
+    "word": "«¿Llego tarde?» / «No, no llegas tarde.»",
+    "translation": "\"Estou atrasado?\" / \"Não, não está.\"",
+    "pronunciation": "/ˈʎeɣo ˈtaɾðe · no no ˈʎeɣas ˈtaɾðe/",
+    "portuguesePhonetic": "[lhégo tárde · no no lhégas tárde]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_82",
+    "word": "«¿Ya hemos llegado?» / «No, todavía no.»",
+    "translation": "\"Já chegamos?\" / \"Não, ainda não.\"",
+    "pronunciation": "/ʝa ˈemos ʎeˈɣaðo · no toðaˈβia no/",
+    "portuguesePhonetic": "[ia émos lhegádo · no todabía no]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_83",
+    "word": "«¿Hace frío fuera?» / «Sí, hace frío.»",
+    "translation": "\"Está frio lá fora?\" / \"Sim, está.\"",
+    "pronunciation": "/ˈaθe ˈfɾio ˈfweɾa · si ˈaθe ˈfɾio/",
+    "portuguesePhonetic": "[áthe frío fuéra · sí áthe frío]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_84",
+    "word": "«¿Tienes hambre?» / «Sí, tengo hambre.»",
+    "translation": "\"Você está com fome?\" / \"Sim, estou.\"",
+    "pronunciation": "/ˈtjenes ˈambɾe · si ˈteŋɡo ˈambɾe/",
+    "portuguesePhonetic": "[tiénes âmbre · sí téngo âmbre]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_85",
+    "word": "«¿Está abierta la tienda?» / «No, no lo está.»",
+    "translation": "\"A loja está aberta?\" / \"Não, não está.\"",
+    "pronunciation": "/esˈta aˈβjeɾta la ˈtjenda · no no lo esˈta/",
+    "portuguesePhonetic": "[está abiérta la tiénda · no no lo está]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_86",
+    "word": "«¿Están aquí tus amigos?» / «Sí, lo están.»",
+    "translation": "\"Seus amigos estão aqui?\" / \"Sim, estão.\"",
+    "pronunciation": "/esˈtan aˈki tus aˈmiɣos · si lo esˈtan/",
+    "portuguesePhonetic": "[están akí tus amígos · sí lo estão]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_87",
+    "word": "«¿Llega tarde el autobús?» / «Sí, llega tarde.»",
+    "translation": "\"O ônibus está atrasado?\" / \"Sim, está.\"",
+    "pronunciation": "/ˈʎeɣa ˈtaɾðe el awtoˈβus · si ˈʎeɣa ˈtaɾðe/",
+    "portuguesePhonetic": "[lhéga tárde el autobús · sí lhéga tárde]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_88",
+    "word": "«¿Eres estudiante?» / «No, no lo soy.»",
+    "translation": "\"Você é estudante?\" / \"Não, não sou.\"",
+    "pronunciation": "/ˈeɾes estuˈðjante · no no lo soi/",
+    "portuguesePhonetic": "[éres estudiánte · no no lo sôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_89",
+    "word": "«¿Está lista la cena?» / «Sí, lo está.»",
+    "translation": "\"O jantar está pronto?\" / \"Sim, está.\"",
+    "pronunciation": "/esˈta ˈlista la ˈθena · si lo esˈta/",
+    "portuguesePhonetic": "[está lísta la théna · sí lo está]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_90",
+    "word": "«¿Estás bien?» / «No, no estoy bien.»",
+    "translation": "\"Você está bem?\" / \"Não, não estou.\"",
+    "pronunciation": "/esˈtas bjen · no no esˈtoi bjen/",
+    "portuguesePhonetic": "[estás bién · no no estôi bién]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_91",
+    "word": "«¿Es tuya esta bolsa?» / «Sí, lo es.»",
+    "translation": "\"Esta bolsa é sua?\" / \"Sim, é.\"",
+    "pronunciation": "/es ˈtuʝa ˈesta ˈbolsa · si lo es/",
+    "portuguesePhonetic": "[és túia ésta bólsa · sí lo és]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_92",
+    "word": "«¿Están dormidos los niños?» / «Sí, lo están.»",
+    "translation": "\"As crianças estão dormindo?\" / \"Sim, estão.\"",
+    "pronunciation": "/esˈtan doɾˈmiðos los ˈniɲos · si lo esˈtan/",
+    "portuguesePhonetic": "[están dormídos los nínhos · sí lo estão]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_93",
+    "word": "«¿Está en el trabajo?» / «No, no lo está.»",
+    "translation": "\"Ele está no trabalho?\" / \"Não, não está.\"",
+    "pronunciation": "/esˈta en el tɾaˈβaxo · no no lo esˈta/",
+    "portuguesePhonetic": "[está en el trabárro · no no lo está]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_94",
+    "word": "«¿Eres de Brasil?» / «Sí, lo soy.»",
+    "translation": "\"Você é do Brasil?\" / \"Sim, sou.\"",
+    "pronunciation": "/ˈeɾes de bɾaˈsil · si lo soi/",
+    "portuguesePhonetic": "[éres de brasíl · sí lo sôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_95",
+    "word": "«¿Está contenta?» / «Sí, lo está.»",
+    "translation": "\"Ela está feliz?\" / \"Sim, está.\"",
+    "pronunciation": "/esˈta konˈtenta · si lo esˈta/",
+    "portuguesePhonetic": "[está konténta · sí lo está]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_96",
+    "word": "«¿Llegamos pronto?» / «No, no llegamos pronto.»",
+    "translation": "\"Estamos adiantados?\" / \"Não, não estamos.\"",
+    "pronunciation": "/ʎeˈɣamos ˈpɾonto · no no ʎeˈɣamos ˈpɾonto/",
+    "portuguesePhonetic": "[lhegámos prónto · no no lhegámos prónto]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_97",
+    "word": "«¿Está lloviendo?» / «No, no llueve.»",
+    "translation": "\"Está chovendo?\" / \"Não, não está.\"",
+    "pronunciation": "/esˈta ʎoˈβjendo · no no ˈʎweβe/",
+    "portuguesePhonetic": "[está lhobiéndo · no no lhuébe]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_98",
+    "word": "«¿Estás cansado?» / «Sí, lo estoy.»",
+    "translation": "\"Você está cansado?\" / \"Sim, estou.\"",
+    "pronunciation": "/esˈtas kanˈsaðo · si lo esˈtoi/",
+    "portuguesePhonetic": "[estás kansádo · sí lo estôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_99",
+    "word": "«¿Está caliente el café?» / «Sí, lo está.»",
+    "translation": "\"O café está quente?\" / \"Sim, está.\"",
+    "pronunciation": "/esˈta kaˈljente el kaˈfe · si lo esˈta/",
+    "portuguesePhonetic": "[está kaliénte el kafé · sí lo está]"
+  },
+  {
+    "id": "leccion_1_gramatica_a1_s_es_card_100",
+    "word": "«¿Vienen?» / «No, no vienen.»",
+    "translation": "\"Eles estão vindo?\" / \"Não, não estão.\"",
+    "pronunciation": "/ˈbjenen · no no ˈbjenen/",
+    "portuguesePhonetic": "[biénen · no no biénen]"
+  }
+]

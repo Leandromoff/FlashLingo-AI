@@ -1,0 +1,1856 @@
+[
+  {
+    "id": "write_think_1",
+    "word": "to write",
+    "translation": "escrever",
+    "pronunciation": "/tə raɪt/",
+    "portuguesePhonetic": "tchu rait",
+    "syllables": [
+      "to",
+      " write"
+    ],
+    "exampleSentence": "to write",
+    "exampleTranslation": "escrever"
+  },
+  {
+    "id": "write_think_2",
+    "word": "to think",
+    "translation": "pensar, achar",
+    "pronunciation": "/tə θɪŋk/",
+    "portuguesePhonetic": "tchu thinc",
+    "syllables": [
+      "to",
+      " think"
+    ],
+    "exampleSentence": "to think",
+    "exampleTranslation": "pensar, achar"
+  },
+  {
+    "id": "write_think_3",
+    "word": "report",
+    "translation": "relatório",
+    "pronunciation": "/rɪˈpɔrt/",
+    "portuguesePhonetic": "ri-pórt",
+    "syllables": [
+      "re",
+      "port"
+    ],
+    "exampleSentence": "report",
+    "exampleTranslation": "relatório"
+  },
+  {
+    "id": "write_think_4",
+    "word": "composition",
+    "translation": "redação",
+    "pronunciation": "/ˌkɑmpəˈzɪʃən/",
+    "portuguesePhonetic": "com-po-zí-xan",
+    "syllables": [
+      "com",
+      "po",
+      "si",
+      "tion"
+    ],
+    "exampleSentence": "composition",
+    "exampleTranslation": "redação"
+  },
+  {
+    "id": "write_think_5",
+    "word": "person",
+    "translation": "pessoa",
+    "pronunciation": "/ˈpɜrsən/",
+    "portuguesePhonetic": "pâr-san",
+    "syllables": [
+      "per",
+      "son"
+    ],
+    "exampleSentence": "person",
+    "exampleTranslation": "pessoa"
+  },
+  {
+    "id": "write_think_6",
+    "word": "boring",
+    "translation": "chato(a), entediante",
+    "pronunciation": "/ˈbɔrɪŋ/",
+    "portuguesePhonetic": "bó-rin",
+    "syllables": [
+      "bor",
+      "ing"
+    ],
+    "exampleSentence": "boring",
+    "exampleTranslation": "chato(a), entediante"
+  },
+  {
+    "id": "write_think_7",
+    "word": "beautiful",
+    "translation": "lindo(a), bonito(a)",
+    "pronunciation": "/ˈbjutəfəl/",
+    "portuguesePhonetic": "biu-ti-ful",
+    "syllables": [
+      "beau",
+      "ti",
+      "ful"
+    ],
+    "exampleSentence": "beautiful",
+    "exampleTranslation": "lindo(a), bonito(a)"
+  },
+  {
+    "id": "write_think_8",
+    "word": "easy",
+    "translation": "fácil",
+    "pronunciation": "/ˈizi/",
+    "portuguesePhonetic": "í-zi",
+    "syllables": [
+      "ea",
+      "sy"
+    ],
+    "exampleSentence": "easy",
+    "exampleTranslation": "fácil"
+  },
+  {
+    "id": "write_think_9",
+    "word": "hard",
+    "translation": "difícil",
+    "pronunciation": "/hɑrd/",
+    "portuguesePhonetic": "rard",
+    "syllables": [
+      "hard"
+    ],
+    "exampleSentence": "hard",
+    "exampleTranslation": "difícil"
+  },
+  {
+    "id": "write_think_10",
+    "word": "interesting",
+    "translation": "interessante",
+    "pronunciation": "/ˈɪntrəstɪŋ/",
+    "portuguesePhonetic": "ín-tres-tin",
+    "syllables": [
+      "in",
+      "te",
+      "res",
+      "ting"
+    ],
+    "exampleSentence": "interesting",
+    "exampleTranslation": "interessante"
+  },
+  {
+    "id": "write_think_11",
+    "word": "important",
+    "translation": "importante",
+    "pronunciation": "/ɪmˈpɔrtənt/",
+    "portuguesePhonetic": "im-pór-tant",
+    "syllables": [
+      "im",
+      "por",
+      "tant"
+    ],
+    "exampleSentence": "important",
+    "exampleTranslation": "importante"
+  },
+  {
+    "id": "write_think_12",
+    "word": "funny",
+    "translation": "engraçado(a)",
+    "pronunciation": "/ˈfʌni/",
+    "portuguesePhonetic": "fâ-ni",
+    "syllables": [
+      "fun",
+      "ny"
+    ],
+    "exampleSentence": "funny",
+    "exampleTranslation": "engraçado(a)"
+  },
+  {
+    "id": "write_think_13",
+    "word": "together",
+    "translation": "juntos(as)",
+    "pronunciation": "/təˈɡɛðər/",
+    "portuguesePhonetic": "tu-gué-der",
+    "syllables": [
+      "to",
+      "ge",
+      "ther"
+    ],
+    "exampleSentence": "together",
+    "exampleTranslation": "juntos(as)"
+  },
+  {
+    "id": "write_think_14",
+    "word": "everybody",
+    "translation": "todos, todo mundo",
+    "pronunciation": "/ˈɛvriˌbɑdi/",
+    "portuguesePhonetic": "é-vri-ba-di",
+    "syllables": [
+      "e",
+      "very",
+      "bo",
+      "dy"
+    ],
+    "exampleSentence": "everybody",
+    "exampleTranslation": "todos, todo mundo"
+  },
+  {
+    "id": "write_think_15",
+    "word": "why",
+    "translation": "por que",
+    "pronunciation": "/waɪ/",
+    "portuguesePhonetic": "uái",
+    "syllables": [
+      "why"
+    ],
+    "exampleSentence": "why",
+    "exampleTranslation": "por que"
+  },
+  {
+    "id": "write_think_16",
+    "word": "because",
+    "translation": "porque",
+    "pronunciation": "/bɪˈkɔz/",
+    "portuguesePhonetic": "bi-cóz",
+    "syllables": [
+      "be",
+      "cause"
+    ],
+    "exampleSentence": "because",
+    "exampleTranslation": "porque"
+  },
+  {
+    "id": "write_think_17",
+    "word": "How do you say \"chato\" in English?",
+    "translation": "Como se diz \"chato\" em inglês?",
+    "pronunciation": "/haʊ du ju seɪ \"chato\" ɪn ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "ráu du iu sêi \"tchá-tu\" in ín-glix",
+    "syllables": [
+      "How",
+      " do",
+      " you",
+      " say",
+      " \"cha",
+      "to\"",
+      " in",
+      " En",
+      "glish?"
+    ],
+    "exampleSentence": "How do you say \"chato\" in English?",
+    "exampleTranslation": "Como se diz \"chato\" em inglês?"
+  },
+  {
+    "id": "write_think_18",
+    "word": "What's the meaning of \"boring\"?",
+    "translation": "O que significa \"boring\"?",
+    "pronunciation": "/wʌts ðə ˈminɪŋ ʌv \"ˈbɔrɪŋ\"/",
+    "portuguesePhonetic": "uáts dâ mí-nin ov bó-rin",
+    "syllables": [
+      "What's",
+      " the",
+      " mean",
+      "ing",
+      " of",
+      " \"bo",
+      "ring\"?"
+    ],
+    "exampleSentence": "What's the meaning of \"boring\"?",
+    "exampleTranslation": "O que significa \"boring\"?"
+  },
+  {
+    "id": "write_think_19",
+    "word": "I think so.",
+    "translation": "Eu acho que sim.",
+    "pronunciation": "/aɪ θɪŋk soʊ/",
+    "portuguesePhonetic": "ai thinc sôu",
+    "syllables": [
+      "I",
+      " think",
+      " so."
+    ],
+    "exampleSentence": "I think so.",
+    "exampleTranslation": "Eu acho que sim."
+  },
+  {
+    "id": "write_think_20",
+    "word": "I don't think so.",
+    "translation": "Eu acho que não.",
+    "pronunciation": "/aɪ doʊnt θɪŋk soʊ/",
+    "portuguesePhonetic": "ai dôunt thinc sôu",
+    "syllables": [
+      "I",
+      " don't",
+      " think",
+      " so."
+    ],
+    "exampleSentence": "I don't think so.",
+    "exampleTranslation": "Eu acho que não."
+  },
+  {
+    "id": "write_think_21",
+    "word": "Why do you want to watch this movie?",
+    "translation": "Por que você quer assistir este filme?",
+    "pronunciation": "/waɪ du ju wɑnt tə wɑtʃ ðɪs ˈmuvi/",
+    "portuguesePhonetic": "uái du iu uánt tchu uátch díz mú-vi",
+    "syllables": [
+      "Why",
+      " do",
+      " you",
+      " want",
+      " to",
+      " watch",
+      " this",
+      " mo",
+      "vie?"
+    ],
+    "exampleSentence": "Why do you want to watch this movie?",
+    "exampleTranslation": "Por que você quer assistir este filme?"
+  },
+  {
+    "id": "write_think_22",
+    "word": "Because it's funny.",
+    "translation": "Porque ele é engraçado.",
+    "pronunciation": "/bɪˈkɔz ɪts ˈfʌni/",
+    "portuguesePhonetic": "bi-cóz its fâ-ni",
+    "syllables": [
+      "Be",
+      "cause",
+      " it's",
+      " fun",
+      "ny."
+    ],
+    "exampleSentence": "Because it's funny.",
+    "exampleTranslation": "Porque ele é engraçado."
+  },
+  {
+    "id": "write_think_23",
+    "word": "I want to watch this movie because it's funny.",
+    "translation": "Eu quero assistir este filme porque ele é engraçado.",
+    "pronunciation": "/aɪ wɑnt tə wɑtʃ ðɪs ˈmuvi bɪˈkɔz ɪts ˈfʌni/",
+    "portuguesePhonetic": "ai uánt tchu uátch díz mú-vi bi-cóz its fâ-ni",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " watch",
+      " this",
+      " mo",
+      "vie",
+      " be",
+      "cause",
+      " it's",
+      " fun",
+      "ny."
+    ],
+    "exampleSentence": "I want to watch this movie because it's funny.",
+    "exampleTranslation": "Eu quero assistir este filme porque ele é engraçado."
+  },
+  {
+    "id": "write_think_24",
+    "word": "Why do they need to work until late today?",
+    "translation": "Por que eles precisam trabalhar até tarde hoje?",
+    "pronunciation": "/waɪ du ðeɪ nid tə wɜrk ənˈtɪl leɪt təˈdeɪ/",
+    "portuguesePhonetic": "uái du dêi nid tchu uârk ân-til lêit tu-dêi",
+    "syllables": [
+      "Why",
+      " do",
+      " they",
+      " need",
+      " to",
+      " work",
+      " un",
+      "til",
+      " late",
+      " to",
+      "day?"
+    ],
+    "exampleSentence": "Why do they need to work until late today?",
+    "exampleTranslation": "Por que eles precisam trabalhar até tarde hoje?"
+  },
+  {
+    "id": "write_think_25",
+    "word": "Because they have an important deadline.",
+    "translation": "Porque eles têm um prazo importante.",
+    "pronunciation": "/bɪˈkɔz ðeɪ hæv ən ɪmˈpɔrtənt ˈdɛdˌlaɪn/",
+    "portuguesePhonetic": "bi-cóz dêi rév én im-pór-tant déd-lain",
+    "syllables": [
+      "Be",
+      "cause",
+      " they",
+      " have",
+      " an",
+      " im",
+      "por",
+      "tant",
+      " dead",
+      "line."
+    ],
+    "exampleSentence": "Because they have an important deadline.",
+    "exampleTranslation": "Porque eles têm um prazo importante."
+  },
+  {
+    "id": "write_think_26",
+    "word": "Why does she want to start college only next year?",
+    "translation": "Por que ela quer começar a faculdade apenas no próximo ano?",
+    "pronunciation": "/waɪ dʌz ʃi wɑnt tə stɑrt ˈkɑlɪdʒ ˈoʊnli nɛkst jɪr/",
+    "portuguesePhonetic": "uái dâz xi uánt tchu start có-ledj ôun-li nékst ír",
+    "syllables": [
+      "Why",
+      " does",
+      " she",
+      " want",
+      " to",
+      " start",
+      " col",
+      "lege",
+      " on",
+      "ly",
+      " next",
+      " year?"
+    ],
+    "exampleSentence": "Why does she want to start college only next year?",
+    "exampleTranslation": "Por que ela quer começar a faculdade apenas no próximo ano?"
+  },
+  {
+    "id": "write_think_27",
+    "word": "Because she doesn't have money this year.",
+    "translation": "Porque ela não tem dinheiro este ano.",
+    "pronunciation": "/bɪˈkɔz ʃi ˈdʌzənt hæv ˈmʌni ðɪs jɪr/",
+    "portuguesePhonetic": "bi-cóz xi dâ-zent rév mâ-ni díz ír",
+    "syllables": [
+      "Be",
+      "cause",
+      " she",
+      " does",
+      "n't",
+      " have",
+      " mo",
+      "ney",
+      " this",
+      " year."
+    ],
+    "exampleSentence": "Because she doesn't have money this year.",
+    "exampleTranslation": "Porque ela não tem dinheiro este ano."
+  },
+  {
+    "id": "write_think_28",
+    "word": "I think it's a great idea.",
+    "translation": "Eu acho que é uma ótima ideia.",
+    "pronunciation": "/aɪ θɪŋk ɪts ə ɡreɪt aɪˈdiə/",
+    "portuguesePhonetic": "ai thinc its a grêit ai-dí-a",
+    "syllables": [
+      "I",
+      " think",
+      " it's",
+      " a",
+      " great",
+      " i",
+      "dea."
+    ],
+    "exampleSentence": "I think it's a great idea.",
+    "exampleTranslation": "Eu acho que é uma ótima ideia."
+  },
+  {
+    "id": "write_think_29",
+    "word": "He wants to write a book about his city.",
+    "translation": "Ele quer escrever um livro sobre sua cidade.",
+    "pronunciation": "/hi wɑnts tə raɪt ə bʊk əˈbaʊt hɪz ˈsɪti/",
+    "portuguesePhonetic": "ri uánts tchu rait a buk a-báut ríz sí-ti",
+    "syllables": [
+      "He",
+      " wants",
+      " to",
+      " write",
+      " a",
+      " book",
+      " a",
+      "bout",
+      " his",
+      " ci",
+      "ty."
+    ],
+    "exampleSentence": "He wants to write a book about his city.",
+    "exampleTranslation": "Ele quer escrever um livro sobre sua cidade."
+  },
+  {
+    "id": "write_think_30",
+    "word": "They think it's hard to learn Italian.",
+    "translation": "Eles acham que é difícil aprender italiano.",
+    "pronunciation": "/ðeɪ θɪŋk ɪts hɑrd tə lɜrn ɪˈtæljən/",
+    "portuguesePhonetic": "dêi thinc its rard tchu lãrn i-té-lian",
+    "syllables": [
+      "They",
+      " think",
+      " it's",
+      " hard",
+      " to",
+      " learn",
+      " I",
+      "ta",
+      "lian."
+    ],
+    "exampleSentence": "They think it's hard to learn Italian.",
+    "exampleTranslation": "Eles acham que é difícil aprender italiano."
+  },
+  {
+    "id": "write_think_31",
+    "word": "I need to write an important report.",
+    "translation": "Eu preciso escrever um relatório importante.",
+    "pronunciation": "/aɪ nid tə raɪt ən ɪmˈpɔrtənt rɪˈpɔrt/",
+    "portuguesePhonetic": "ai nid tchu rait én im-pór-tant ri-pórt",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " write",
+      " an",
+      " im",
+      "por",
+      "tant",
+      " re",
+      "port."
+    ],
+    "exampleSentence": "I need to write an important report.",
+    "exampleTranslation": "Eu preciso escrever um relatório importante."
+  },
+  {
+    "id": "write_think_32",
+    "word": "Does he think it's boring?",
+    "translation": "Ele acha que é entediante?",
+    "pronunciation": "/dʌz hi θɪŋk ɪts ˈbɔrɪŋ/",
+    "portuguesePhonetic": "dâz ri thinc its bó-rin",
+    "syllables": [
+      "Does",
+      " he",
+      " think",
+      " it's",
+      " bo",
+      "ring?"
+    ],
+    "exampleSentence": "Does he think it's boring?",
+    "exampleTranslation": "Ele acha que é entediante?"
+  },
+  {
+    "id": "write_think_33",
+    "word": "What does she think about it?",
+    "translation": "O que ela acha disso?",
+    "pronunciation": "/wʌt dʌz ʃi θɪŋk əˈbaʊt ɪt/",
+    "portuguesePhonetic": "uát dâz xi thinc a-báut it",
+    "syllables": [
+      "What",
+      " does",
+      " she",
+      " think",
+      " a",
+      "bout",
+      " it?"
+    ],
+    "exampleSentence": "What does she think about it?",
+    "exampleTranslation": "O que ela acha disso?"
+  },
+  {
+    "id": "write_think_34",
+    "word": "Everybody likes chocolate.",
+    "translation": "Todo mundo gosta de chocolate.",
+    "pronunciation": "/ˈɛvriˌbɑdi laɪks ˈtʃɔklət/",
+    "portuguesePhonetic": "é-vri-ba-di laiks tchó-clet",
+    "syllables": [
+      "E",
+      "very",
+      "bo",
+      "dy",
+      " likes",
+      " cho",
+      "co",
+      "late."
+    ],
+    "exampleSentence": "Everybody likes chocolate.",
+    "exampleTranslation": "Todo mundo gosta de chocolate."
+  },
+  {
+    "id": "write_think_35",
+    "word": "Does everybody speak English here?",
+    "translation": "Todo mundo fala inglês aqui?",
+    "pronunciation": "/dʌz ˈɛvriˌbɑdi spik ˈɪŋɡlɪʃ hɪr/",
+    "portuguesePhonetic": "dâz é-vri-ba-di spik ín-glix rir",
+    "syllables": [
+      "Does",
+      " e",
+      "very",
+      "bo",
+      "dy",
+      " speak",
+      " En",
+      "glish",
+      " here?"
+    ],
+    "exampleSentence": "Does everybody speak English here?",
+    "exampleTranslation": "Todo mundo fala inglês aqui?"
+  },
+  {
+    "id": "write_think_36",
+    "word": "Why do you want to learn French?",
+    "translation": "Por que você quer aprender francês?",
+    "pronunciation": "/waɪ du ju wɑnt tə lɜrn frɛntʃ/",
+    "portuguesePhonetic": "uái du iu uánt tchu lãrn frentch",
+    "syllables": [
+      "Why",
+      " do",
+      " you",
+      " want",
+      " to",
+      " learn",
+      " French?"
+    ],
+    "exampleSentence": "Why do you want to learn French?",
+    "exampleTranslation": "Por que você quer aprender francês?"
+  },
+  {
+    "id": "write_think_37",
+    "word": "Because I want to go to college in France.",
+    "translation": "Porque eu quero ir para a faculdade na França.",
+    "pronunciation": "/bɪˈkɔz aɪ wɑnt tə ɡoʊ tə ˈkɑlɪdʒ ɪn fræns/",
+    "portuguesePhonetic": "bi-cóz ai uánt tchu gôu tchu có-ledj in fréns",
+    "syllables": [
+      "Be",
+      "cause",
+      " I",
+      " want",
+      " to",
+      " go",
+      " to",
+      " col",
+      "lege",
+      " in",
+      " France."
+    ],
+    "exampleSentence": "Because I want to go to college in France.",
+    "exampleTranslation": "Porque eu quero ir para a faculdade na França."
+  },
+  {
+    "id": "write_think_38",
+    "word": "Why does he want to read books in German?",
+    "translation": "Por que ele quer ler livros em alemão?",
+    "pronunciation": "/waɪ dʌz hi wɑnt tə rid bʊks ɪn ˈdʒɜrmən/",
+    "portuguesePhonetic": "uái dâz ri uánt tchu rid buks in djãr-man",
+    "syllables": [
+      "Why",
+      " does",
+      " he",
+      " want",
+      " to",
+      " read",
+      " books",
+      " in",
+      " Ger",
+      "man?"
+    ],
+    "exampleSentence": "Why does he want to read books in German?",
+    "exampleTranslation": "Por que ele quer ler livros em alemão?"
+  },
+  {
+    "id": "write_think_39",
+    "word": "Because he wants to understand the language.",
+    "translation": "Porque ele quer entender o idioma.",
+    "pronunciation": "/bɪˈkɔz hi wɑnts tə ˌʌndərˈstænd ðə ˈlæŋɡwədʒ/",
+    "portuguesePhonetic": "bi-cóz ri uánts tchu ân-der-sténd dâ lén-guedj",
+    "syllables": [
+      "Be",
+      "cause",
+      " he",
+      " wants",
+      " to",
+      " un",
+      "der",
+      "stand",
+      " the",
+      " lan",
+      "guage."
+    ],
+    "exampleSentence": "Because he wants to understand the language.",
+    "exampleTranslation": "Porque ele quer entender o idioma."
+  },
+  {
+    "id": "write_think_40",
+    "word": "I write messages to my friends.",
+    "translation": "Eu escrevo mensagens para meus amigos.",
+    "pronunciation": "/aɪ raɪt ˈmɛsɪdʒɪz tə maɪ frɛndz/",
+    "portuguesePhonetic": "ai rait mé-sa-djiz tchu mai frends",
+    "syllables": [
+      "I",
+      " write",
+      " mes",
+      "sa",
+      "ges",
+      " to",
+      " my",
+      " friends."
+    ],
+    "exampleSentence": "I write messages to my friends.",
+    "exampleTranslation": "Eu escrevo mensagens para meus amigos."
+  },
+  {
+    "id": "write_think_41",
+    "word": "What's the meaning of \"easy\"?",
+    "translation": "Qual o significado de \"easy\"?",
+    "pronunciation": "/wʌts ðə ˈminɪŋ ʌv \"ˈizi\"/",
+    "portuguesePhonetic": "uáts dâ mí-nin ov í-zi",
+    "syllables": [
+      "What's",
+      " the",
+      " mean",
+      "ing",
+      " of",
+      " \"ea",
+      "sy\"?"
+    ],
+    "exampleSentence": "What's the meaning of \"easy\"?",
+    "exampleTranslation": "Qual o significado de \"easy\"?"
+  },
+  {
+    "id": "write_think_42",
+    "word": "It's \"fácil\".",
+    "translation": "É \"fácil\".",
+    "pronunciation": "/ɪts \"fácil\"/",
+    "portuguesePhonetic": "its fá-cil",
+    "syllables": [
+      "It's",
+      " \"fá",
+      "cil\"."
+    ],
+    "exampleSentence": "It's \"fácil\".",
+    "exampleTranslation": "É \"fácil\"."
+  },
+  {
+    "id": "write_think_43",
+    "word": "Sorry, I don't know.",
+    "translation": "Desculpe, eu não sei.",
+    "pronunciation": "/ˈsɑri aɪ doʊnt noʊ/",
+    "portuguesePhonetic": "só-ri ai dôunt nôu",
+    "syllables": [
+      "Sor",
+      "ry,",
+      " I",
+      " don't",
+      " know."
+    ],
+    "exampleSentence": "Sorry, I don't know.",
+    "exampleTranslation": "Desculpe, eu não sei."
+  },
+  {
+    "id": "write_think_44",
+    "word": "I think it's boring.",
+    "translation": "Eu acho chato.",
+    "pronunciation": "/aɪ θɪŋk ɪts ˈbɔrɪŋ/",
+    "portuguesePhonetic": "ai thinc its bó-rin",
+    "syllables": [
+      "I",
+      " think",
+      " it's",
+      " bo",
+      "ring."
+    ],
+    "exampleSentence": "I think it's boring.",
+    "exampleTranslation": "Eu acho chato."
+  },
+  {
+    "id": "write_think_45",
+    "word": "I think it's interesting!",
+    "translation": "Eu acho interessante!",
+    "pronunciation": "/aɪ θɪŋk ɪts ˈɪntrəstɪŋ/",
+    "portuguesePhonetic": "ai thinc its ín-tres-tin",
+    "syllables": [
+      "I",
+      " think",
+      " it's",
+      " in",
+      "te",
+      "res",
+      "ting!"
+    ],
+    "exampleSentence": "I think it's interesting!",
+    "exampleTranslation": "Eu acho interessante!"
+  },
+  {
+    "id": "write_think_46",
+    "word": "I don't think it's funny.",
+    "translation": "Eu não acho graça.",
+    "pronunciation": "/aɪ doʊnt θɪŋk ɪts ˈfʌni/",
+    "portuguesePhonetic": "ai dôunt thinc its fâ-ni",
+    "syllables": [
+      "I",
+      " don't",
+      " think",
+      " it's",
+      " fun",
+      "ny."
+    ],
+    "exampleSentence": "I don't think it's funny.",
+    "exampleTranslation": "Eu não acho graça."
+  },
+  {
+    "id": "write_think_47",
+    "word": "people",
+    "translation": "pessoas",
+    "pronunciation": "/ˈpipəl/",
+    "portuguesePhonetic": "pí-pl",
+    "syllables": [
+      "peo",
+      "ple"
+    ],
+    "exampleSentence": "people",
+    "exampleTranslation": "pessoas"
+  },
+  {
+    "id": "write_think_48",
+    "word": "What do you think of this book?",
+    "translation": "O que você acha deste livro?",
+    "pronunciation": "/wʌt du ju θɪŋk ʌv ðɪs bʊk?/",
+    "portuguesePhonetic": "uát du iu thínc áv dís búc?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " think",
+      " of",
+      " this",
+      " book?"
+    ],
+    "exampleSentence": "What do you think of this book?",
+    "exampleTranslation": "O que você acha deste livro?"
+  },
+  {
+    "id": "write_think_49",
+    "word": "She has to start an important project next semester.",
+    "translation": "Ela tem que começar um projeto importante no próximo semestre.",
+    "pronunciation": "/ʃi hæz tu stɑrt ən ɪmˈpɔrtənt ˈprɑdʒɛkt nɛkst sɪˈmɛstər./",
+    "portuguesePhonetic": "chi réz tchu stárt ân im-pór-tant pró-djéct nécst si-més-ter.",
+    "syllables": [
+      "She",
+      " has",
+      " to",
+      " start",
+      " an",
+      " im",
+      "por",
+      "tant",
+      " pro",
+      "ject",
+      " next",
+      " se",
+      "mes",
+      "ter."
+    ],
+    "exampleSentence": "She has to start an important project next semester.",
+    "exampleTranslation": "Ela tem que começar um projeto importante no próximo semestre."
+  },
+  {
+    "id": "write_think_50",
+    "word": "Do you like this movie? – Yes, I do. I think it is funny.",
+    "translation": "Você gosta deste filme? – Sim, eu gosto. Eu acho que é engraçado.",
+    "pronunciation": "/du ju laɪk ðɪs ˈmuvi? – jɛs, aɪ du. aɪ θɪŋk ɪt ɪz ˈfʌni./",
+    "portuguesePhonetic": "du iu láic dís mú-vi? – iés, ai du. ai thínc it íz fâ-ni.",
+    "syllables": [
+      "Do",
+      " you",
+      " like",
+      " this",
+      " mo",
+      "vie?",
+      " Yes,",
+      " I",
+      " do.",
+      " I",
+      " think",
+      " it",
+      " is",
+      " fun",
+      "ny."
+    ],
+    "exampleSentence": "Do you like this movie? – Yes, I do. I think it is funny.",
+    "exampleTranslation": "Você gosta deste filme? – Sim, eu gosto. Eu acho que é engraçado."
+  },
+  {
+    "id": "write_think_51",
+    "word": "She needs to write an essay about her life.",
+    "translation": "Ela precisa escrever uma redação sobre a vida dela.",
+    "pronunciation": "/ʃi nidz tu raɪt ən ˈɛseɪ əˈbaʊt hər laɪf./",
+    "portuguesePhonetic": "chi nids tchu ráit ân é-sêi a-báut rãr láif.",
+    "syllables": [
+      "She",
+      " needs",
+      " to",
+      " write",
+      " an",
+      " es",
+      "say",
+      " a",
+      "bout",
+      " her",
+      " life."
+    ],
+    "exampleSentence": "She needs to write an essay about her life.",
+    "exampleTranslation": "Ela precisa escrever uma redação sobre a vida dela."
+  },
+  {
+    "id": "write_think_52",
+    "word": "Why do you want to talk to everybody? – Because we have to think about the problem together.",
+    "translation": "Por que você quer falar com todo mundo? – Porque nós temos que pensar sobre o problema juntos.",
+    "pronunciation": "/waɪ du ju wɑnt tu tɔk tu ˈɛvriˌbɑdi? – bɪˈkɔz wi hæv tu θɪŋk əˈbaʊt ðə ˈprɑbləm təˈɡɛðər./",
+    "portuguesePhonetic": "uái du iu uánt tchu tóc tchu év-ri-bó-di? – bi-cóz ui rév tchu thínc a-báut dâ pró-blem tchu-gué-der.",
+    "syllables": [
+      "Why",
+      " do",
+      " you",
+      " want",
+      " to",
+      " talk",
+      " to",
+      " ev",
+      "ery",
+      "bod",
+      "y?",
+      " Be",
+      "cause",
+      " we",
+      " have",
+      " to",
+      " think",
+      " a",
+      "bout",
+      " the",
+      " prob",
+      "lem",
+      " to",
+      "geth",
+      "er."
+    ],
+    "exampleSentence": "Why do you want to talk to everybody? – Because we have to think about the problem together.",
+    "exampleTranslation": "Por que você quer falar com todo mundo? – Porque nós temos que pensar sobre o problema juntos."
+  },
+  {
+    "id": "write_think_53",
+    "word": "I don't want to write about fashion. I want to write about sports.",
+    "translation": "Eu não quero escrever sobre moda. Eu quero escrever sobre esportes.",
+    "pronunciation": "/aɪ doʊnt wɑnt tu raɪt əˈbaʊt ˈfæʃən. aɪ wɑnt tu raɪt əˈbaʊt spɔrts./",
+    "portuguesePhonetic": "ai dôunt uánt tchu ráit a-báut fé-chan. ai uánt tchu ráit a-báut spórts.",
+    "syllables": [
+      "I",
+      " don't",
+      " want",
+      " to",
+      " write",
+      " a",
+      "bout",
+      " fash",
+      "ion.",
+      " I",
+      " want",
+      " to",
+      " write",
+      " a",
+      "bout",
+      " sports."
+    ],
+    "exampleSentence": "I don't want to write about fashion. I want to write about sports.",
+    "exampleTranslation": "Eu não quero escrever sobre moda. Eu quero escrever sobre esportes."
+  },
+  {
+    "id": "write_think_54",
+    "word": "I love this book. It is interesting!",
+    "translation": "Eu amo este livro. É interessante!",
+    "pronunciation": "/aɪ lʌv ðɪs bʊk. ɪt ɪz ˈɪntərɛstɪŋ!/",
+    "portuguesePhonetic": "ai lâv dís búc. it íz ín-tres-ting!",
+    "syllables": [
+      "I",
+      " love",
+      " this",
+      " book.",
+      " It",
+      " is",
+      " in",
+      "te",
+      "res",
+      "ting!"
+    ],
+    "exampleSentence": "I love this book. It is interesting!",
+    "exampleTranslation": "Eu amo este livro. É interessante!"
+  },
+  {
+    "id": "write_think_55",
+    "word": "Do you talk to important people at work?",
+    "translation": "Você fala com pessoas importantes no trabalho?",
+    "pronunciation": "/du ju tɔk tu ɪmˈpɔrtənt ˈpipəl æt wɜrk?/",
+    "portuguesePhonetic": "du iu tóc tchu im-pór-tant pí-pl ét uãrc?",
+    "syllables": [
+      "Do",
+      " you",
+      " talk",
+      " to",
+      " im",
+      "por",
+      "tant",
+      " peo",
+      "ple",
+      " at",
+      " work?"
+    ],
+    "exampleSentence": "Do you talk to important people at work?",
+    "exampleTranslation": "Você fala com pessoas importantes no trabalho?"
+  },
+  {
+    "id": "write_think_56",
+    "word": "What does he think of that movie? – He thinks it is boring.",
+    "translation": "O que ele acha daquele filme? – Ele acha que é chato.",
+    "pronunciation": "/wʌt dʌz hi θɪŋk ʌv ðæt ˈmuvi? – hi θɪŋks ɪt ɪz ˈbɔrɪŋ./",
+    "portuguesePhonetic": "uát dâz ri thínc áv dét mú-vi? – ri thíncs it íz bó-ring.",
+    "syllables": [
+      "What",
+      " does",
+      " he",
+      " think",
+      " of",
+      " that",
+      " mo",
+      "vie?",
+      " He",
+      " thinks",
+      " it",
+      " is",
+      " bor",
+      "ing."
+    ],
+    "exampleSentence": "What does he think of that movie? – He thinks it is boring.",
+    "exampleTranslation": "O que ele acha daquele filme? – Ele acha que é chato."
+  },
+  {
+    "id": "write_think_57",
+    "word": "Why do you have to go now? – Because I need to write a report about the project.",
+    "translation": "Por que você tem que ir agora? – Porque eu preciso escrever um relatório sobre o projeto.",
+    "pronunciation": "/waɪ du ju hæv tu ɡoʊ naʊ? – bɪˈkɔz aɪ nid tu raɪt ə rɪˈpɔrt əˈbaʊt ðə ˈprɑdʒɛkt./",
+    "portuguesePhonetic": "uái du iu rév tchu gôu náu? – bi-cóz ai nid tchu ráit â ri-pórt a-báut dâ pró-djéct.",
+    "syllables": [
+      "Why",
+      " do",
+      " you",
+      " have",
+      " to",
+      " go",
+      " now?",
+      " Be",
+      "cause",
+      " I",
+      " need",
+      " to",
+      " write",
+      " a",
+      " re",
+      "port",
+      " a",
+      "bout",
+      " the",
+      " pro",
+      "ject."
+    ],
+    "exampleSentence": "Why do you have to go now? – Because I need to write a report about the project.",
+    "exampleTranslation": "Por que você tem que ir agora? – Porque eu preciso escrever um relatório sobre o projeto."
+  },
+  {
+    "id": "write_think_58",
+    "word": "Why do you want to go home early tonight?",
+    "translation": "Por que você quer ir para casa cedo esta noite?",
+    "pronunciation": "/waɪ du ju wɑnt tu ɡoʊ hoʊm ˈɜrli təˈnaɪt?/",
+    "portuguesePhonetic": "uái du iu uánt tchu gôu rôum ãr-li tchu-náit?",
+    "syllables": [
+      "Why",
+      " do",
+      " you",
+      " want",
+      " to",
+      " go",
+      " home",
+      " ear",
+      "ly",
+      " to",
+      "night?"
+    ],
+    "exampleSentence": "Why do you want to go home early tonight?",
+    "exampleTranslation": "Por que você quer ir para casa cedo esta noite?"
+  },
+  {
+    "id": "write_think_59",
+    "word": "Because I want to watch a movie with my children.",
+    "translation": "Porque eu quero assistir a um filme com meus filhos.",
+    "pronunciation": "/bɪˈkɔz aɪ wɑnt tu wɑtʃ ə ˈmuvi wɪð maɪ ˈtʃɪldrən./",
+    "portuguesePhonetic": "bi-cóz ai uánt tchu uótch â mú-vi uíd mai tchíl-dren.",
+    "syllables": [
+      "Be",
+      "cause",
+      " I",
+      " want",
+      " to",
+      " watch",
+      " a",
+      " mo",
+      "vie",
+      " with",
+      " my",
+      " chil",
+      "dren."
+    ],
+    "exampleSentence": "Because I want to watch a movie with my children.",
+    "exampleTranslation": "Porque eu quero assistir a um filme com meus filhos."
+  },
+  {
+    "id": "write_think_60",
+    "word": "Does he work at that company?",
+    "translation": "Ele trabalha naquela empresa?",
+    "pronunciation": "/dʌz hi wɜrk æt ðæt ˈkʌmpəni?/",
+    "portuguesePhonetic": "dâz ri uãrc ét dét câm-pa-ni?",
+    "syllables": [
+      "Does",
+      " he",
+      " work",
+      " at",
+      " that",
+      " com",
+      "pa",
+      "ny?"
+    ],
+    "exampleSentence": "Does he work at that company?",
+    "exampleTranslation": "Ele trabalha naquela empresa?"
+  },
+  {
+    "id": "write_think_61",
+    "word": "I don't think so. I think he only studies.",
+    "translation": "Eu não acho. Acho que ele apenas estuda.",
+    "pronunciation": "/aɪ doʊnt θɪŋk soʊ. aɪ θɪŋk hi ˈoʊnli ˈstʌdiz./",
+    "portuguesePhonetic": "ai dôunt thínc sôu. ai thínc ri óun-li stâ-dis.",
+    "syllables": [
+      "I",
+      " don't",
+      " think",
+      " so.",
+      " I",
+      " think",
+      " he",
+      " on",
+      "ly",
+      " stud",
+      "ies."
+    ],
+    "exampleSentence": "I don't think so. I think he only studies.",
+    "exampleTranslation": "Eu não acho. Acho que ele apenas estuda."
+  },
+  {
+    "id": "write_think_62",
+    "word": "Why do they need my e-mail address?",
+    "translation": "Por que eles precisam do meu endereço de e-mail?",
+    "pronunciation": "/waɪ du ðeɪ nid maɪ ˈiˌmeɪl əˈdrɛs?/",
+    "portuguesePhonetic": "uái du dêi nid mai í-mêil a-drés?",
+    "syllables": [
+      "Why",
+      " do",
+      " they",
+      " need",
+      " my",
+      " e-mail",
+      " ad",
+      "dress?"
+    ],
+    "exampleSentence": "Why do they need my e-mail address?",
+    "exampleTranslation": "Por que eles precisam do meu endereço de e-mail?"
+  },
+  {
+    "id": "write_think_63",
+    "word": "Because they want to send you the report.",
+    "translation": "Porque eles querem enviar o relatório para você.",
+    "pronunciation": "/bɪˈkɔz ðeɪ wɑnt tu sɛnd ju ðə rɪˈpɔrt./",
+    "portuguesePhonetic": "bi-cóz dêi uánt tchu sénd iu dâ ri-pórt.",
+    "syllables": [
+      "Be",
+      "cause",
+      " they",
+      " want",
+      " to",
+      " send",
+      " you",
+      " the",
+      " re",
+      "port."
+    ],
+    "exampleSentence": "Because they want to send you the report.",
+    "exampleTranslation": "Porque eles querem enviar o relatório para você."
+  },
+  {
+    "id": "write_think_64",
+    "word": "Why does she have to go to school this afternoon?",
+    "translation": "Por que ela tem que ir para a escola esta tarde?",
+    "pronunciation": "/waɪ dʌz ʃi hæv tu ɡoʊ tu skul ðɪs ˌæftərˈnun?/",
+    "portuguesePhonetic": "uái dâz chi rév tchu gôu tchu scul dís éf-ter-nun?",
+    "syllables": [
+      "Why",
+      " does",
+      " she",
+      " have",
+      " to",
+      " go",
+      " to",
+      " school",
+      " this",
+      " af",
+      "ter",
+      "noon?"
+    ],
+    "exampleSentence": "Why does she have to go to school this afternoon?",
+    "exampleTranslation": "Por que ela tem que ir para a escola esta tarde?"
+  },
+  {
+    "id": "write_think_65",
+    "word": "Because she has an English exam.",
+    "translation": "Porque ela tem uma prova de inglês.",
+    "pronunciation": "/bɪˈkɔz ʃi hæz ən ˈɪŋɡlɪʃ ɪɡˈzæm./",
+    "portuguesePhonetic": "bi-cóz chi réz ân ín-glic eg-zém.",
+    "syllables": [
+      "Be",
+      "cause",
+      " she",
+      " has",
+      " an",
+      " En",
+      "glish",
+      " ex",
+      "am."
+    ],
+    "exampleSentence": "Because she has an English exam.",
+    "exampleTranslation": "Porque ela tem uma prova de inglês."
+  },
+  {
+    "id": "write_think_66",
+    "word": "Why do you study English?",
+    "translation": "Por que você estuda inglês?",
+    "pronunciation": "/waɪ du ju ˈstʌdi ˈɪŋɡlɪʃ?/",
+    "portuguesePhonetic": "uái du iu stâ-di ín-glic?",
+    "syllables": [
+      "Why",
+      " do",
+      " you",
+      " stu",
+      "dy",
+      " En",
+      "glish?"
+    ],
+    "exampleSentence": "Why do you study English?",
+    "exampleTranslation": "Por que você estuda inglês?"
+  },
+  {
+    "id": "write_think_67",
+    "word": "I study English because I want to travel and improve my career.",
+    "translation": "Eu estudo inglês porque quero viajar e melhorar minha carreira.",
+    "pronunciation": "/aɪ ˈstʌdi ˈɪŋɡlɪʃ bɪˈkɔz aɪ wɑnt tu ˈtrævəl ænd ɪmˈpruv maɪ kəˈrɪr./",
+    "portuguesePhonetic": "ai stâ-di ín-glic bi-cóz ai uánt tchu tré-vel énd im-prúv mai ca-ríar.",
+    "syllables": [
+      "I",
+      " stu",
+      "dy",
+      " En",
+      "glish",
+      " be",
+      "cause",
+      " I",
+      " want",
+      " to",
+      " trav",
+      "el",
+      " and",
+      " im",
+      "prove",
+      " my",
+      " ca",
+      "reer."
+    ],
+    "exampleSentence": "I study English because I want to travel and improve my career.",
+    "exampleTranslation": "Eu estudo inglês porque quero viajar e melhorar minha carreira."
+  },
+  {
+    "id": "write_think_68",
+    "word": "Why do you want to watch this video?",
+    "translation": "Por que você quer assistir a este vídeo?",
+    "pronunciation": "/waɪ du ju wɑnt tu wɑtʃ ðɪs ˈvɪdioʊ?/",
+    "portuguesePhonetic": "uái du iu uánt tchu uótch dís ví-di-ou?",
+    "syllables": [
+      "Why",
+      " do",
+      " you",
+      " want",
+      " to",
+      " watch",
+      " this",
+      " vid",
+      "e",
+      "o?"
+    ],
+    "exampleSentence": "Why do you want to watch this video?",
+    "exampleTranslation": "Por que você quer assistir a este vídeo?"
+  },
+  {
+    "id": "write_think_69",
+    "word": "I want to watch this video because it looks interesting.",
+    "translation": "Eu quero assistir a este vídeo porque ele parece interessante.",
+    "pronunciation": "/aɪ wɑnt tu wɑtʃ ðɪs ˈvɪdioʊ bɪˈkɔz ɪt lʊks ˈɪntərɛstɪŋ./",
+    "portuguesePhonetic": "ai uánt tchu uótch dís ví-di-ou bi-cóz it lúcs ín-tres-ting.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " watch",
+      " this",
+      " vid",
+      "e",
+      "o",
+      " be",
+      "cause",
+      " it",
+      " looks",
+      " in",
+      "te",
+      "res",
+      "ting."
+    ],
+    "exampleSentence": "I want to watch this video because it looks interesting.",
+    "exampleTranslation": "Eu quero assistir a este vídeo porque ele parece interessante."
+  },
+  {
+    "id": "write_think_70",
+    "word": "Why does your mother/father need to go downtown now?",
+    "translation": "Por que sua mãe/seu pai precisa ir ao centro agora?",
+    "pronunciation": "/waɪ dʌz jʊər ˈmʌðər/ˈfɑðər nid tu ɡoʊ ˈdaʊnˈtaʊn naʊ?/",
+    "portuguesePhonetic": "uái dâz iór mâ-der/fá-der nid tchu gôu dáun-táun náu?",
+    "syllables": [
+      "Why",
+      " does",
+      " your",
+      " moth",
+      "er/",
+      "fa",
+      "ther",
+      " need",
+      " to",
+      " go",
+      " down",
+      "town",
+      " now?"
+    ],
+    "exampleSentence": "Why does your mother/father need to go downtown now?",
+    "exampleTranslation": "Por que sua mãe/seu pai precisa ir ao centro agora?"
+  },
+  {
+    "id": "write_think_71",
+    "word": "My father needs to go downtown because he has a meeting.",
+    "translation": "Meu pai precisa ir ao centro porque ele tem uma reunião.",
+    "pronunciation": "/maɪ ˈfɑðər nidz tu ɡoʊ ˈdaʊnˈtaʊn bɪˈkɔz hi hæz ə ˈmitɪŋ./",
+    "portuguesePhonetic": "mai fá-der nids tchu gôu dáun-táun bi-cóz ri réz â mí-ting.",
+    "syllables": [
+      "My",
+      " fa",
+      "ther",
+      " needs",
+      " to",
+      " go",
+      " down",
+      "town",
+      " be",
+      "cause",
+      " he",
+      " has",
+      " a",
+      " meet",
+      "ing."
+    ],
+    "exampleSentence": "My father needs to go downtown because he has a meeting.",
+    "exampleTranslation": "Meu pai precisa ir ao centro porque ele tem uma reunião."
+  },
+  {
+    "id": "write_think_72",
+    "word": "Why does your brother/sister stay home in the morning?",
+    "translation": "Por que seu irmão/sua irmã fica em casa pela manhã?",
+    "pronunciation": "/waɪ dʌz jʊər ˈbrʌðər/ˈsɪstər steɪ hoʊm ɪn ðə ˈmɔrnɪŋ?/",
+    "portuguesePhonetic": "uái dâz iór brâ-der/sís-ter stêi rôum in dâ mór-ning?",
+    "syllables": [
+      "Why",
+      " does",
+      " your",
+      " broth",
+      "er/",
+      "sis",
+      "ter",
+      " stay",
+      " home",
+      " in",
+      " the",
+      " morn",
+      "ing?"
+    ],
+    "exampleSentence": "Why does your brother/sister stay home in the morning?",
+    "exampleTranslation": "Por que seu irmão/sua irmã fica em casa pela manhã?"
+  },
+  {
+    "id": "write_think_73",
+    "word": "My sister stays home in the morning because she studies in the afternoon.",
+    "translation": "Minha irmã fica em casa pela manhã porque ela estuda à tarde.",
+    "pronunciation": "/maɪ ˈsɪstər steɪz hoʊm ɪn ðə ˈmɔrnɪŋ bɪˈkɔz ʃi ˈstʌdiz ɪn ði ˌæftərˈnun./",
+    "portuguesePhonetic": "mai sís-ter stêiz rôum in dâ mór-ning bi-cóz chi stâ-dis in di éf-ter-nun.",
+    "syllables": [
+      "My",
+      " sis",
+      "ter",
+      " stays",
+      " home",
+      " in",
+      " the",
+      " morn",
+      "ing",
+      " be",
+      "cause",
+      " she",
+      " stud",
+      "ies",
+      " in",
+      " the",
+      " af",
+      "ter",
+      "noon."
+    ],
+    "exampleSentence": "My sister stays home in the morning because she studies in the afternoon.",
+    "exampleTranslation": "Minha irmã fica em casa pela manhã porque ela estuda à tarde."
+  },
+  {
+    "id": "write_think_74",
+    "word": "Why do you want to go to the mall this afternoon?",
+    "translation": "Por que você quer ir ao shopping esta tarde?",
+    "pronunciation": "/waɪ du ju wɑnt tu ɡoʊ tu ðə mɔl ðɪs ˌæftərˈnun?/",
+    "portuguesePhonetic": "uái du iu uánt tchu gôu tchu dâ mól dís éf-ter-nun?",
+    "syllables": [
+      "Why",
+      " do",
+      " you",
+      " want",
+      " to",
+      " go",
+      " to",
+      " the",
+      " mall",
+      " this",
+      " af",
+      "ter",
+      "noon?"
+    ],
+    "exampleSentence": "Why do you want to go to the mall this afternoon?",
+    "exampleTranslation": "Por que você quer ir ao shopping esta tarde?"
+  },
+  {
+    "id": "write_think_75",
+    "word": "I want to go to the mall because I need to buy a gift.",
+    "translation": "Eu quero ir ao shopping porque preciso comprar um presente.",
+    "pronunciation": "/aɪ wɑnt tu ɡoʊ tu ðə mɔl bɪˈkɔz aɪ nid tu baɪ ə ɡɪft./",
+    "portuguesePhonetic": "ai uánt tchu gôu tchu dâ mól bi-cóz ai nid tchu bái â guíft.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " go",
+      " to",
+      " the",
+      " mall",
+      " be",
+      "cause",
+      " I",
+      " need",
+      " to",
+      " buy",
+      " a",
+      " gift."
+    ],
+    "exampleSentence": "I want to go to the mall because I need to buy a gift.",
+    "exampleTranslation": "Eu quero ir ao shopping porque preciso comprar um presente."
+  },
+  {
+    "id": "write_think_76",
+    "word": "Why do we have to come home early on Sunday?",
+    "translation": "Por que nós temos que voltar para casa cedo no domingo?",
+    "pronunciation": "/waɪ du wi hæv tu kʌm hoʊm ˈɜrli ɑn ˈsʌndeɪ?/",
+    "portuguesePhonetic": "uái du ui rév tchu câm rôum ãr-li ón sân-dêi?",
+    "syllables": [
+      "Why",
+      " do",
+      " we",
+      " have",
+      " to",
+      " come",
+      " home",
+      " ear",
+      "ly",
+      " on",
+      " Sun",
+      "day?"
+    ],
+    "exampleSentence": "Why do we have to come home early on Sunday?",
+    "exampleTranslation": "Por que nós temos que voltar para casa cedo no domingo?"
+  },
+  {
+    "id": "write_think_77",
+    "word": "We have to come home early on Sunday because we work on Monday.",
+    "translation": "Nós temos que voltar para casa cedo no domingo porque trabalhamos na segunda-feira.",
+    "pronunciation": "/wi hæv tu kʌm hoʊm ˈɜrli ɑn ˈsʌndeɪ bɪˈkɔz wi wɜrk ɑn ˈmʌndeɪ./",
+    "portuguesePhonetic": "ui rév tchu câm rôum ãr-li ón sân-dêi bi-cóz ui uãrc ón môn-dêi.",
+    "syllables": [
+      "We",
+      " have",
+      " to",
+      " come",
+      " home",
+      " ear",
+      "ly",
+      " on",
+      " Sun",
+      "day",
+      " be",
+      "cause",
+      " we",
+      " work",
+      " on",
+      " Mon",
+      "day."
+    ],
+    "exampleSentence": "We have to come home early on Sunday because we work on Monday.",
+    "exampleTranslation": "Nós temos que voltar para casa cedo no domingo porque trabalhamos na segunda-feira."
+  },
+  {
+    "id": "write_think_78",
+    "word": "think",
+    "translation": "achar / pensar",
+    "pronunciation": "/θɪŋk/",
+    "portuguesePhonetic": "thinc",
+    "syllables": [
+      "think"
+    ],
+    "exampleSentence": "Because we have to think about the problem together.",
+    "exampleTranslation": "Porque nós temos que pensar sobre o problema juntos."
+  },
+  {
+    "id": "write_think_79",
+    "word": "book",
+    "translation": "livro",
+    "pronunciation": "/bʊk/",
+    "portuguesePhonetic": "búc",
+    "syllables": [
+      "book"
+    ],
+    "exampleSentence": "What do you think of this book?",
+    "exampleTranslation": "O que você acha deste livro?"
+  },
+  {
+    "id": "write_think_80",
+    "word": "movie",
+    "translation": "filme",
+    "pronunciation": "/ˈmuvi/",
+    "portuguesePhonetic": "mú-vi",
+    "syllables": [
+      "mo",
+      "vie"
+    ],
+    "exampleSentence": "Do you like this movie?",
+    "exampleTranslation": "Você gosta deste filme?"
+  },
+  {
+    "id": "write_think_81",
+    "word": "funny",
+    "translation": "engraçado",
+    "pronunciation": "/ˈfʌni/",
+    "portuguesePhonetic": "fâ-ni",
+    "syllables": [
+      "fun",
+      "ny"
+    ],
+    "exampleSentence": "I think it is funny.",
+    "exampleTranslation": "Eu acho que é engraçado."
+  },
+  {
+    "id": "write_think_82",
+    "word": "boring",
+    "translation": "chato",
+    "pronunciation": "/ˈbɔrɪŋ/",
+    "portuguesePhonetic": "bó-ring",
+    "syllables": [
+      "bor",
+      "ing"
+    ],
+    "exampleSentence": "He thinks it is boring.",
+    "exampleTranslation": "Ele acha que é chato."
+  },
+  {
+    "id": "write_think_83",
+    "word": "essay",
+    "translation": "redação",
+    "pronunciation": "/ˈɛseɪ/",
+    "portuguesePhonetic": "é-sêi",
+    "syllables": [
+      "es",
+      "say"
+    ],
+    "exampleSentence": "She needs to write an essay about her life.",
+    "exampleTranslation": "Ela precisa escrever uma redação sobre a vida dela."
+  },
+  {
+    "id": "write_think_84",
+    "word": "report",
+    "translation": "relatório",
+    "pronunciation": "/rɪˈpɔrt/",
+    "portuguesePhonetic": "ri-pórt",
+    "syllables": [
+      "re",
+      "port"
+    ],
+    "exampleSentence": "Because they want to send you the report.",
+    "exampleTranslation": "Porque eles querem enviar o relatório para você."
+  },
+  {
+    "id": "write_think_85",
+    "word": "project",
+    "translation": "projeto",
+    "pronunciation": "/ˈprɑdʒɛkt/",
+    "portuguesePhonetic": "pró-djéct",
+    "syllables": [
+      "pro",
+      "ject"
+    ],
+    "exampleSentence": "She has to start an important project next semester.",
+    "exampleTranslation": "Ela tem que começar um projeto importante no próximo semestre."
+  },
+  {
+    "id": "write_think_86",
+    "word": "fashion",
+    "translation": "moda",
+    "pronunciation": "/ˈfæʃən/",
+    "portuguesePhonetic": "fé-chan",
+    "syllables": [
+      "fash",
+      "ion"
+    ],
+    "exampleSentence": "I don't want to write about fashion.",
+    "exampleTranslation": "Eu não quero escrever sobre moda."
+  },
+  {
+    "id": "write_think_87",
+    "word": "sports",
+    "translation": "esportes",
+    "pronunciation": "/spɔrts/",
+    "portuguesePhonetic": "spórts",
+    "syllables": [
+      "sports"
+    ],
+    "exampleSentence": "I want to write about sports.",
+    "exampleTranslation": "Eu quero escrever sobre esportes."
+  },
+  {
+    "id": "write_think_88",
+    "word": "interesting",
+    "translation": "interessante",
+    "pronunciation": "/ˈɪntərɛstɪŋ/",
+    "portuguesePhonetic": "ín-tres-ting",
+    "syllables": [
+      "in",
+      "te",
+      "res",
+      "ting"
+    ],
+    "exampleSentence": "I love this book. It is interesting!",
+    "exampleTranslation": "Eu amo este livro. É interessante!"
+  },
+  {
+    "id": "write_think_89",
+    "word": "together",
+    "translation": "juntos",
+    "pronunciation": "/təˈɡɛðər/",
+    "portuguesePhonetic": "tchu-gué-der",
+    "syllables": [
+      "to",
+      "geth",
+      "er"
+    ],
+    "exampleSentence": "We have to think about the problem together.",
+    "exampleTranslation": "Nós temos que pensar sobre o problema juntos."
+  },
+  {
+    "id": "write_think_90",
+    "word": "everybody",
+    "translation": "todo mundo",
+    "pronunciation": "/ˈɛvriˌbɑdi/",
+    "portuguesePhonetic": "év-ri-bó-di",
+    "syllables": [
+      "ev",
+      "ery",
+      "bod",
+      "y"
+    ],
+    "exampleSentence": "Why do you want to talk to everybody?",
+    "exampleTranslation": "Por que você quer falar com todo mundo?"
+  },
+  {
+    "id": "write_think_91",
+    "word": "important people",
+    "translation": "pessoas importantes",
+    "pronunciation": "/ɪmˈpɔrtənt ˈpipəl/",
+    "portuguesePhonetic": "im-pór-tant pí-pl",
+    "syllables": [
+      "im",
+      "por",
+      "tant",
+      " peo",
+      "ple"
+    ],
+    "exampleSentence": "Do you talk to important people at work?",
+    "exampleTranslation": "Você fala com pessoas importantes no trabalho?"
+  },
+  {
+    "id": "write_think_92",
+    "word": "company",
+    "translation": "empresa",
+    "pronunciation": "/ˈkʌmpəni/",
+    "portuguesePhonetic": "câm-pa-ni",
+    "syllables": [
+      "com",
+      "pa",
+      "ny"
+    ],
+    "exampleSentence": "Does he work at that company?",
+    "exampleTranslation": "Ele trabalha naquela empresa?"
+  },
+  {
+    "id": "write_think_93",
+    "word": "exam",
+    "translation": "prova",
+    "pronunciation": "/ɪɡˈzæm/",
+    "portuguesePhonetic": "eg-zém",
+    "syllables": [
+      "ex",
+      "am"
+    ],
+    "exampleSentence": "Because she has an English exam.",
+    "exampleTranslation": "Porque ela tem uma prova de inglês."
+  },
+  {
+    "id": "write_think_94",
+    "word": "opinion",
+    "translation": "opinião",
+    "pronunciation": "/əˈpɪnjən/",
+    "portuguesePhonetic": "o-pí-ni-on",
+    "syllables": [
+      "o",
+      "pin",
+      "ion"
+    ],
+    "exampleSentence": "What is your opinion about that?",
+    "exampleTranslation": "Qual é a sua opinião sobre isso?"
+  },
+  {
+    "id": "write_think_95",
+    "word": "meaning",
+    "translation": "significado",
+    "pronunciation": "/ˈminɪŋ/",
+    "portuguesePhonetic": "mí-ning",
+    "syllables": [
+      "mean",
+      "ing"
+    ],
+    "exampleSentence": "What is the meaning of this word?",
+    "exampleTranslation": "Qual é o significado desta palavra?"
+  },
+  {
+    "id": "write_think_96",
+    "word": "children",
+    "translation": "filhos / crianças",
+    "pronunciation": "/ˈtʃɪldrən/",
+    "portuguesePhonetic": "tchíl-dren",
+    "syllables": [
+      "chil",
+      "dren"
+    ],
+    "exampleSentence": "Because I want to watch a movie with my children.",
+    "exampleTranslation": "Porque eu quero assistir a um filme com meus filhos."
+  },
+  {
+    "id": "write_think_97",
+    "word": "next semester",
+    "translation": "próximo semestre",
+    "pronunciation": "/nɛkst sɪˈmɛstər/",
+    "portuguesePhonetic": "nécst si-més-ter",
+    "syllables": [
+      "next",
+      " se",
+      "mes",
+      "ter"
+    ],
+    "exampleSentence": "She has to start an important project next semester.",
+    "exampleTranslation": "Ela tem que começar um projeto importante no próximo semestre."
+  },
+  {
+    "id": "write_think_98",
+    "word": "start",
+    "translation": "começar",
+    "pronunciation": "/stɑrt/",
+    "portuguesePhonetic": "stárt",
+    "syllables": [
+      "start"
+    ],
+    "exampleSentence": "She has to start an important project next semester.",
+    "exampleTranslation": "Ela tem que começar um projeto importante no próximo semestre."
+  },
+  {
+    "id": "write_think_99",
+    "word": "write",
+    "translation": "escrever",
+    "pronunciation": "/raɪt/",
+    "portuguesePhonetic": "ráit",
+    "syllables": [
+      "write"
+    ],
+    "exampleSentence": "She needs to write an essay about her life.",
+    "exampleTranslation": "Ela precisa escrever uma redação sobre a vida dela."
+  },
+  {
+    "id": "write_think_100",
+    "word": "because",
+    "translation": "porque",
+    "pronunciation": "/bɪˈkɔz/",
+    "portuguesePhonetic": "bi-cóz",
+    "syllables": [
+      "be",
+      "cause"
+    ],
+    "exampleSentence": "I study English because I want to travel.",
+    "exampleTranslation": "Eu estudo inglês porque quero viajar."
+  },
+  {
+    "id": "write_think_101",
+    "word": "talk to",
+    "translation": "falar com",
+    "pronunciation": "/tɔk tu/",
+    "portuguesePhonetic": "tóc tchu",
+    "syllables": [
+      "talk",
+      " to"
+    ],
+    "exampleSentence": "Why do you want to talk to everybody?",
+    "exampleTranslation": "Por que você quer falar com todo mundo?"
+  },
+  {
+    "id": "write_think_102",
+    "word": "think about",
+    "translation": "pensar sobre",
+    "pronunciation": "/θɪŋk əˈbaʊt/",
+    "portuguesePhonetic": "thinc a-báut",
+    "syllables": [
+      "think",
+      " a",
+      "bout"
+    ],
+    "exampleSentence": "Because we have to think about the problem together.",
+    "exampleTranslation": "Porque nós temos que pensar sobre o problema juntos."
+  }
+]

@@ -1,0 +1,1051 @@
+[
+  {
+    "id": "leccion_37_1",
+    "word": "ser / estar",
+    "translation": "ser, estar",
+    "pronunciation": "/seɾ o es-ˈtaɾ/",
+    "portuguesePhonetic": "ser / es-tár",
+    "syllables": [
+      "ser",
+      " /",
+      " es",
+      "tar"
+    ],
+    "exampleSentence": "ser / estar",
+    "exampleTranslation": "ser, estar"
+  },
+  {
+    "id": "leccion_37_2",
+    "word": "yo soy / yo estoy",
+    "translation": "eu sou, estou",
+    "pronunciation": "/ʝo soi o ʝo es-ˈtoi/",
+    "portuguesePhonetic": "io sói / io es-tói",
+    "syllables": [
+      "yo",
+      " soy",
+      " /",
+      " yo",
+      " es",
+      "toy"
+    ],
+    "exampleSentence": "yo soy / yo estoy",
+    "exampleTranslation": "eu sou, estou"
+  },
+  {
+    "id": "leccion_37_3",
+    "word": "tú eres / tú estás",
+    "translation": "você é, está",
+    "pronunciation": "/tu ˈe-ɾes o tu es-ˈtas/",
+    "portuguesePhonetic": "tu é-res / tu es-tás",
+    "syllables": [
+      "tú",
+      " e",
+      "res",
+      " /",
+      " tú",
+      " es",
+      "tás"
+    ],
+    "exampleSentence": "tú eres / tú estás",
+    "exampleTranslation": "você é, está"
+  },
+  {
+    "id": "leccion_37_4",
+    "word": "él es / él está",
+    "translation": "ele é, está",
+    "pronunciation": "/el es o el es-ˈta/",
+    "portuguesePhonetic": "él és / él es-tá",
+    "syllables": [
+      "él",
+      " es",
+      " /",
+      " él",
+      " es",
+      "tá"
+    ],
+    "exampleSentence": "él es / él está",
+    "exampleTranslation": "ele é, está"
+  },
+  {
+    "id": "leccion_37_5",
+    "word": "ella es / ella está",
+    "translation": "ela é, está",
+    "pronunciation": "/ˈe-ʝa es o ˈe-ʝa es-ˈta/",
+    "portuguesePhonetic": "ê-lia és / ê-lia es-tá",
+    "syllables": [
+      "e",
+      "lla",
+      " es",
+      " /",
+      " e",
+      "lla",
+      " es",
+      "tá"
+    ],
+    "exampleSentence": "ella es / ella está",
+    "exampleTranslation": "ela é, está"
+  },
+  {
+    "id": "leccion_37_6",
+    "word": "es / está",
+    "translation": "é, está",
+    "pronunciation": "/es o es-ˈta/",
+    "portuguesePhonetic": "és / es-tá",
+    "syllables": [
+      "es",
+      " /",
+      " es",
+      "tá"
+    ],
+    "exampleSentence": "es / está",
+    "exampleTranslation": "é, está"
+  },
+  {
+    "id": "leccion_37_7",
+    "word": "nosotros somos / nosotros estamos",
+    "translation": "nós somos, estamos",
+    "pronunciation": "/no-ˈso-tɾos ˈso-mos o no-ˈso-tɾos es-ˈta-mos/",
+    "portuguesePhonetic": "no-só-tros só-mos / no-só-tros es-tá-mos",
+    "syllables": [
+      "no",
+      "so",
+      "tros",
+      " so",
+      "mos",
+      " /",
+      " no",
+      "so",
+      "tros",
+      " es",
+      "ta",
+      "mos"
+    ],
+    "exampleSentence": "nosotros somos / nosotros estamos",
+    "exampleTranslation": "nós somos, estamos"
+  },
+  {
+    "id": "leccion_37_8",
+    "word": "ustedes son / ustedes están",
+    "translation": "vocês são, estão",
+    "pronunciation": "/us-ˈte-ðes son o us-ˈte-ðes es-ˈtan/",
+    "portuguesePhonetic": "us-té-des són / us-té-des es-tán",
+    "syllables": [
+      "us",
+      "te",
+      "des",
+      " son",
+      " /",
+      " us",
+      "te",
+      "des",
+      " es",
+      "tán"
+    ],
+    "exampleSentence": "ustedes son / ustedes están",
+    "exampleTranslation": "vocês são, estão"
+  },
+  {
+    "id": "leccion_37_9",
+    "word": "ellos son / ellos están",
+    "translation": "eles(as) são, estão",
+    "pronunciation": "/ˈe-ʝos son o ˈe-ʝos es-ˈtan/",
+    "portuguesePhonetic": "ê-lios són / ê-lios es-tán",
+    "syllables": [
+      "e",
+      "llos",
+      " son",
+      " /",
+      " e",
+      "llos",
+      " es",
+      "tán"
+    ],
+    "exampleSentence": "ellos son / ellos están",
+    "exampleTranslation": "eles(as) são, estão"
+  },
+  {
+    "id": "leccion_37_10",
+    "word": "enfermero / enfermera",
+    "translation": "enfermeiro(a)",
+    "pronunciation": "/en-feɾ-ˈme-ɾo o en-feɾ-ˈme-ɾa/",
+    "portuguesePhonetic": "en-fer-mê-ro / en-fer-mê-ra",
+    "syllables": [
+      "en",
+      "fer",
+      "me",
+      "ro",
+      " /",
+      " en",
+      "fer",
+      "me",
+      "ra"
+    ],
+    "exampleSentence": "enfermero / enfermera",
+    "exampleTranslation": "enfermeiro(a)"
+  },
+  {
+    "id": "leccion_37_11",
+    "word": "médico / médica",
+    "translation": "médico(a)",
+    "pronunciation": "/ˈme-ði-ko o ˈme-ði-ka/",
+    "portuguesePhonetic": "mé-di-co / mé-di-ca",
+    "syllables": [
+      "mé",
+      "di",
+      "co",
+      " /",
+      " mé",
+      "di",
+      "ca"
+    ],
+    "exampleSentence": "médico / médica",
+    "exampleTranslation": "médico(a)"
+  },
+  {
+    "id": "leccion_37_12",
+    "word": "dentista",
+    "translation": "dentista",
+    "pronunciation": "/den-ˈtis-ta/",
+    "portuguesePhonetic": "den-tís-ta",
+    "syllables": [
+      "den",
+      "tis",
+      "ta"
+    ],
+    "exampleSentence": "dentista",
+    "exampleTranslation": "dentista"
+  },
+  {
+    "id": "leccion_37_13",
+    "word": "enfermo / enferma",
+    "translation": "doente",
+    "pronunciation": "/en-ˈfeɾ-mo o en-ˈfeɾ-ma/",
+    "portuguesePhonetic": "en-fér-mo / en-fér-ma",
+    "syllables": [
+      "en",
+      "fer",
+      "mo",
+      " /",
+      " en",
+      "fer",
+      "ma"
+    ],
+    "exampleSentence": "enfermo / enferma",
+    "exampleTranslation": "doente"
+  },
+  {
+    "id": "leccion_37_14",
+    "word": "dolor de cabeza",
+    "translation": "dor de cabeça",
+    "pronunciation": "/ðo-ˈloɾ ðe ka-ˈβe-θa/",
+    "portuguesePhonetic": "do-lór de ca-bê-tha",
+    "syllables": [
+      "do",
+      "lor",
+      " de",
+      " ca",
+      "be",
+      "za"
+    ],
+    "exampleSentence": "dolor de cabeza",
+    "exampleTranslation": "dor de cabeça"
+  },
+  {
+    "id": "leccion_37_15",
+    "word": "dolor de estómago",
+    "translation": "dor de estômago",
+    "pronunciation": "/ðo-ˈloɾ ðe es-ˈto-ma-ɣo/",
+    "portuguesePhonetic": "do-lór de es-tó-ma-go",
+    "syllables": [
+      "do",
+      "lor",
+      " de",
+      " es",
+      "tó",
+      "ma",
+      "go"
+    ],
+    "exampleSentence": "dolor de estómago",
+    "exampleTranslation": "dor de estômago"
+  },
+  {
+    "id": "leccion_37_16",
+    "word": "dolor de garganta",
+    "translation": "dor de garganta",
+    "pronunciation": "/ðo-ˈloɾ ðe ɡaɾ-ˈɣan-ta/",
+    "portuguesePhonetic": "do-lór de gar-gán-ta",
+    "syllables": [
+      "do",
+      "lor",
+      " de",
+      " gar",
+      "gan",
+      "ta"
+    ],
+    "exampleSentence": "dolor de garganta",
+    "exampleTranslation": "dor de garganta"
+  },
+  {
+    "id": "leccion_37_17",
+    "word": "dolor de muelas / dolor de dientes",
+    "translation": "dor de dente",
+    "pronunciation": "/ðo-ˈloɾ ðe ˈmwe-las o ðo-ˈloɾ ðe ˈðjen-tes/",
+    "portuguesePhonetic": "do-lór de muê-las / do-lór de diên-tes",
+    "syllables": [
+      "do",
+      "lor",
+      " de",
+      " mue",
+      "las",
+      " /",
+      " do",
+      "lor",
+      " de",
+      " dien",
+      "tes"
+    ],
+    "exampleSentence": "dolor de muelas / dolor de dientes",
+    "exampleTranslation": "dor de dente"
+  },
+  {
+    "id": "leccion_37_18",
+    "word": "resfriado / catarro",
+    "translation": "resfriado",
+    "pronunciation": "/res-fɾja-ðo o ka-ˈta-ro/",
+    "portuguesePhonetic": "res-friá-do / ca-tár-ro",
+    "syllables": [
+      "res",
+      "fria",
+      "do",
+      " /",
+      " ca",
+      "ta",
+      "rro"
+    ],
+    "exampleSentence": "resfriado / catarro",
+    "exampleTranslation": "resfriado"
+  },
+  {
+    "id": "leccion_37_19",
+    "word": "fiebre",
+    "translation": "febre",
+    "pronunciation": "/ˈfje-βɾe/",
+    "portuguesePhonetic": "fiê-bre",
+    "syllables": [
+      "fie",
+      "bre"
+    ],
+    "exampleSentence": "fiebre",
+    "exampleTranslation": "febre"
+  },
+  {
+    "id": "leccion_37_20",
+    "word": "cita / compromiso",
+    "translation": "compromisso, consulta",
+    "pronunciation": "/ˈθi-ta o kom-pɾo-ˈmi-so/",
+    "portuguesePhonetic": "thí-ta / com-pro-mí-so",
+    "syllables": [
+      "ci",
+      "ta",
+      " /",
+      " com",
+      "pro",
+      "mi",
+      "so"
+    ],
+    "exampleSentence": "cita / compromiso",
+    "exampleTranslation": "compromisso, consulta"
+  },
+  {
+    "id": "leccion_37_21",
+    "word": "analgésico / calmante",
+    "translation": "analgésico",
+    "pronunciation": "/a-nal-ˈxe-si-ko o kal-ˈman-te/",
+    "portuguesePhonetic": "a-nal-rhé-si-co / cal-mán-te",
+    "syllables": [
+      "a",
+      "nal",
+      "gé",
+      "si",
+      "co",
+      " /",
+      " cal",
+      "man",
+      "te"
+    ],
+    "exampleSentence": "analgésico / calmante",
+    "exampleTranslation": "analgésico"
+  },
+  {
+    "id": "leccion_37_22",
+    "word": "pastilla / píldora",
+    "translation": "comprimido",
+    "pronunciation": "/pas-ˈti-ʝa o ˈpil-do-ɾa/",
+    "portuguesePhonetic": "pas-tí-lia / píl-do-ra",
+    "syllables": [
+      "pas",
+      "ti",
+      "lla",
+      " /",
+      " píl",
+      "do",
+      "ra"
+    ],
+    "exampleSentence": "pastilla / píldora",
+    "exampleTranslation": "comprimido"
+  },
+  {
+    "id": "leccion_37_23",
+    "word": "salud",
+    "translation": "saúde",
+    "pronunciation": "/sa-ˈluð/",
+    "portuguesePhonetic": "sa-lúd",
+    "syllables": [
+      "sa",
+      "lud"
+    ],
+    "exampleSentence": "salud",
+    "exampleTranslation": "saúde"
+  },
+  {
+    "id": "leccion_37_24",
+    "word": "amable / gentil",
+    "translation": "gentil",
+    "pronunciation": "/a-ˈma-βle o xen-ˈtil/",
+    "portuguesePhonetic": "a-má-ble / rren-tíl",
+    "syllables": [
+      "a",
+      "ma",
+      "ble",
+      " /",
+      " gen",
+      "til"
+    ],
+    "exampleSentence": "amable / gentil",
+    "exampleTranslation": "gentil"
+  },
+  {
+    "id": "leccion_37_25",
+    "word": "estos / estas",
+    "translation": "esses(as), estes(as)",
+    "pronunciation": "/ˈes-tos o ˈes-tas/",
+    "portuguesePhonetic": "és-tos / és-tas",
+    "syllables": [
+      "es",
+      "tos",
+      " /",
+      " es",
+      "tas"
+    ],
+    "exampleSentence": "estos / estas",
+    "exampleTranslation": "esses(as), estes(as)"
+  },
+  {
+    "id": "leccion_37_26",
+    "word": "aquellos / aquellas",
+    "translation": "aqueles(as)",
+    "pronunciation": "/a-ˈke-ʝos o a-ˈke-ʝas/",
+    "portuguesePhonetic": "a-kê-lios / a-kê-lias",
+    "syllables": [
+      "a",
+      "que",
+      "llos",
+      " /",
+      " a",
+      "que",
+      "llas"
+    ],
+    "exampleSentence": "aquellos / aquellas",
+    "exampleTranslation": "aqueles(as)"
+  },
+  {
+    "id": "leccion_37_27",
+    "word": "Toma este medicamento para tu dolor de muelas.",
+    "translation": "Tome este remédio para sua dor de dente.",
+    "pronunciation": "/ˈto-ma ˈes-te me-ði-ka-ˈmen-to ˈpa-ɾa tu ðo-ˈloɾ ðe ˈmwe-las/",
+    "portuguesePhonetic": "tô-ma és-te me-di-ca-mén-to pá-ra tu do-lór de muê-las",
+    "syllables": [
+      "To",
+      "ma",
+      " es",
+      "te",
+      " me",
+      "di",
+      "ca",
+      "men",
+      "to",
+      " pa",
+      "ra",
+      " tu",
+      " do",
+      "lor",
+      " de",
+      " mue",
+      "las."
+    ],
+    "exampleSentence": "Toma este medicamento para tu dolor de muelas.",
+    "exampleTranslation": "Tome este remédio para sua dor de dente."
+  },
+  {
+    "id": "leccion_37_28",
+    "word": "Me siento mejor ahora.",
+    "translation": "Eu me sinto melhor agora.",
+    "pronunciation": "/me ˈsjen-to me-ˈxoɾ a-ˈo-ɾa/",
+    "portuguesePhonetic": "me si-ên-to me-rhór a-ó-ra",
+    "syllables": [
+      "Me",
+      " sien",
+      "to",
+      " me",
+      "jor",
+      " a",
+      "ho",
+      "ra."
+    ],
+    "exampleSentence": "Me siento mejor ahora.",
+    "exampleTranslation": "Eu me sinto melhor agora."
+  },
+  {
+    "id": "leccion_37_29",
+    "word": "Todavía tengo que ir al dentista.",
+    "translation": "Eu ainda tenho que ir ao dentista.",
+    "pronunciation": "/to-ða-ˈβi-a ˈteŋ-ɡo ke iɾ al den-ˈtis-ta/",
+    "portuguesePhonetic": "to-da-bí-a tén-go que ir al den-tís-ta",
+    "syllables": [
+      "To",
+      "da",
+      "ví",
+      "a",
+      " ten",
+      "go",
+      " que",
+      " ir",
+      " al",
+      " den",
+      "tis",
+      "ta."
+    ],
+    "exampleSentence": "Todavía tengo que ir al dentista.",
+    "exampleTranslation": "Eu ainda tenho que ir ao dentista."
+  },
+  {
+    "id": "leccion_37_30",
+    "word": "Tengo dolor.",
+    "translation": "Eu estou com dor.",
+    "pronunciation": "/ˈteŋ-ɡo ðo-ˈloɾ/",
+    "portuguesePhonetic": "tén-go do-lór",
+    "syllables": [
+      "Ten",
+      "go",
+      " do",
+      "lor."
+    ],
+    "exampleSentence": "Tengo dolor.",
+    "exampleTranslation": "Eu estou com dor."
+  },
+  {
+    "id": "leccion_37_31",
+    "word": "Yo soy profesor. Tú eres enfermera.",
+    "translation": "Eu sou professor. Você é enfermeira.",
+    "pronunciation": "/ʝo soi pɾo-fe-ˈsoɾ | tu ˈe-ɾes en-feɾ-ˈme-ɾa/",
+    "portuguesePhonetic": "io sói pro-fe-sór / tu é-res en-fer-mê-ra",
+    "syllables": [
+      "Yo",
+      " soy",
+      " pro",
+      "fe",
+      "sor.",
+      " Tú",
+      " e",
+      "res",
+      " en",
+      "fer",
+      "me",
+      "ra."
+    ],
+    "exampleSentence": "Yo soy profesor. Tú eres enfermera.",
+    "exampleTranslation": "Eu sou professor. Você é enfermeira."
+  },
+  {
+    "id": "leccion_37_32",
+    "word": "Ella llega tarde a su cita.",
+    "translation": "Ela está atrasada para o compromisso dela.",
+    "pronunciation": "/ˈe-ʝa ˈʝe-ɣa ˈtaɾ-ðe a su ˈθi-ta/",
+    "portuguesePhonetic": "ê-lia iê-ga tár-de a su cí-ta",
+    "syllables": [
+      "E",
+      "lla",
+      " lle",
+      "ga",
+      " tar",
+      "de",
+      " a",
+      " su",
+      " ci",
+      "ta."
+    ],
+    "exampleSentence": "Ella llega tarde a su cita.",
+    "exampleTranslation": "Ela está atrasada para o compromisso dela."
+  },
+  {
+    "id": "leccion_37_33",
+    "word": "Él todavía tiene dolor.",
+    "translation": "Ele ainda está com dor.",
+    "pronunciation": "/el to-ða-ˈβi-a ˈtje-ne ðo-ˈloɾ/",
+    "portuguesePhonetic": "él to-da-bí-a ti-ê-ne do-lór",
+    "syllables": [
+      "Él",
+      " to",
+      "da",
+      "ví",
+      "a",
+      " tie",
+      "ne",
+      " do",
+      "lor."
+    ],
+    "exampleSentence": "Él todavía tiene dolor.",
+    "exampleTranslation": "Ele ainda está com dor."
+  },
+  {
+    "id": "leccion_37_34",
+    "word": "Es temprano, veamos una película.",
+    "translation": "É cedo, vamos assistir um filme.",
+    "pronunciation": "/es tem-ˈpɾa-no | βe-ˈa-mos ˈu-na pe-ˈli-ku-la/",
+    "portuguesePhonetic": "és tem-prá-no / be-á-mos ú-na pe-lí-cu-la",
+    "syllables": [
+      "Es",
+      " tem",
+      "pra",
+      "no,",
+      " ve",
+      "a",
+      "mos",
+      " u",
+      "na",
+      " pe",
+      "lí",
+      "cu",
+      "la."
+    ],
+    "exampleSentence": "Es temprano, veamos una película.",
+    "exampleTranslation": "É cedo, vamos assistir um filme."
+  },
+  {
+    "id": "leccion_37_35",
+    "word": "Somos amigos.",
+    "translation": "Nós somos amigos.",
+    "pronunciation": "/ˈso-mos a-ˈmi-ɣos/",
+    "portuguesePhonetic": "só-mos a-mí-gos",
+    "syllables": [
+      "So",
+      "mos",
+      " a",
+      "mi",
+      "gos."
+    ],
+    "exampleSentence": "Somos amigos.",
+    "exampleTranslation": "Nós somos amigos."
+  },
+  {
+    "id": "leccion_37_36",
+    "word": "Ustedes son excelentes médicos.",
+    "translation": "Vocês são ótimos médicos.",
+    "pronunciation": "/us-ˈte-ðes son ek-se-ˈlen-tes ˈme-ði-kos/",
+    "portuguesePhonetic": "us-té-des són ec-se-lén-tes mé-di-cos",
+    "syllables": [
+      "Us",
+      "te",
+      "des",
+      " son",
+      " ex",
+      "ce",
+      "len",
+      "tes",
+      " mé",
+      "di",
+      "cos."
+    ],
+    "exampleSentence": "Ustedes son excelentes médicos.",
+    "exampleTranslation": "Vocês são ótimos médicos."
+  },
+  {
+    "id": "leccion_37_37",
+    "word": "Ellos están en el hospital ahora.",
+    "translation": "Eles estão no hospital agora.",
+    "pronunciation": "/ˈe-ʝos es-ˈtan en el os-pi-ˈtal a-ˈo-ɾa/",
+    "portuguesePhonetic": "ê-lyos es-tán en él os-pi-tál a-ó-ra",
+    "syllables": [
+      "E",
+      "llos",
+      " es",
+      "tán",
+      " en",
+      " el",
+      " hos",
+      "pi",
+      "tal",
+      " a",
+      "ho",
+      "ra."
+    ],
+    "exampleSentence": "Ellos están en el hospital ahora.",
+    "exampleTranslation": "Eles estão no hospital agora."
+  },
+  {
+    "id": "leccion_37_38",
+    "word": "este es / esta es",
+    "translation": "este/essa é",
+    "pronunciation": "/ˈes-te es o ˈes-ta es/",
+    "portuguesePhonetic": "és-te és / és-ta és",
+    "syllables": [
+      "es",
+      "te",
+      " es",
+      " /",
+      " es",
+      "ta",
+      " es"
+    ],
+    "exampleSentence": "este es / esta es",
+    "exampleTranslation": "este/essa é"
+  },
+  {
+    "id": "leccion_37_39",
+    "word": "estos son / estas son",
+    "translation": "estes/essas são",
+    "pronunciation": "/ˈes-tos son o ˈes-tas son/",
+    "portuguesePhonetic": "és-tos són / és-tas són",
+    "syllables": [
+      "es",
+      "tos",
+      " son",
+      " /",
+      " es",
+      "tas",
+      " son"
+    ],
+    "exampleSentence": "estos son / estas son",
+    "exampleTranslation": "estes/essas são"
+  },
+  {
+    "id": "leccion_37_40",
+    "word": "ese es / esa es / aquel es / aquella es",
+    "translation": "aquele/aquela é",
+    "pronunciation": "/ˈe-se es o a-ˈkel es/",
+    "portuguesePhonetic": "ê-se és / a-kél és",
+    "syllables": [
+      "e",
+      "se",
+      " es",
+      " /",
+      " a",
+      "quel",
+      " es"
+    ],
+    "exampleSentence": "ese es / esa es / aquel es / aquella es",
+    "exampleTranslation": "aquele/aquela é"
+  },
+  {
+    "id": "leccion_37_41",
+    "word": "esos son / esas son / aquellos son / aquellas son",
+    "translation": "aqueles/aquelas são",
+    "pronunciation": "/ˈe-sos son o a-ˈke-ʝos son/",
+    "portuguesePhonetic": "ê-sos són / a-kê-lios són",
+    "syllables": [
+      "e",
+      "sos",
+      " son",
+      " /",
+      " a",
+      "que",
+      "llos",
+      " son"
+    ],
+    "exampleSentence": "esos son / esas son / aquellos son / aquellas son",
+    "exampleTranslation": "aqueles/aquelas são"
+  },
+  {
+    "id": "leccion_37_42",
+    "word": "Tengo dolor de cabeza.",
+    "translation": "Eu estou com dor de cabeça.",
+    "pronunciation": "/ˈteŋ-ɡo ðo-ˈloɾ ðe ka-ˈβe-θa/",
+    "portuguesePhonetic": "tén-go do-lór de ca-bê-tha",
+    "syllables": [
+      "Ten",
+      "go",
+      " do",
+      "lor",
+      " de",
+      " ca",
+      "be",
+      "za."
+    ],
+    "exampleSentence": "Tengo dolor de cabeza.",
+    "exampleTranslation": "Eu estou com dor de cabeça."
+  },
+  {
+    "id": "leccion_37_43",
+    "word": "Ella tiene una cita en el dentista hoy.",
+    "translation": "Ela tem uma consulta no dentista hoje.",
+    "pronunciation": "/ˈe-ʝa ˈtje-ne ˈu-na ˈθi-ta en el den-ˈtis-ta oj/",
+    "portuguesePhonetic": "ê-lia ti-ê-ne ú-na thí-ta en él den-tís-ta ói",
+    "syllables": [
+      "E",
+      "lla",
+      " tie",
+      "ne",
+      " u",
+      "na",
+      " ci",
+      "ta",
+      " en",
+      " el",
+      " den",
+      "tis",
+      "ta",
+      " hoy."
+    ],
+    "exampleSentence": "Ella tiene una cita en el dentista hoy.",
+    "exampleTranslation": "Ela tem uma consulta no dentista hoje."
+  },
+  {
+    "id": "leccion_37_44",
+    "word": "¿Tiene él fiebre?",
+    "translation": "Ele está com febre?",
+    "pronunciation": "/¿ˈtje-ne el ˈfje-βɾe?/",
+    "portuguesePhonetic": "¿ti-ê-ne él fiê-bre?",
+    "syllables": [
+      "¿Tie",
+      "nes",
+      " él",
+      " fie",
+      "bre?"
+    ],
+    "exampleSentence": "¿Tiene él fiebre?",
+    "exampleTranslation": "Ele está com febre?"
+  },
+  {
+    "id": "leccion_37_45",
+    "word": "Toma un analgésico para tu dolor de muelas.",
+    "translation": "Tome um analgésico para sua dor de dente.",
+    "pronunciation": "/ˈto-ma un a-nal-ˈxe-si-ko ˈpa-ɾa tu ðo-ˈloɾ ðe ˈmwe-las/",
+    "portuguesePhonetic": "tô-ma un a-nal-rhé-si-co pá-ra tu do-lór de muê-las",
+    "syllables": [
+      "To",
+      "ma",
+      " un",
+      " a",
+      "nal",
+      "gé",
+      "si",
+      "co",
+      " pa",
+      "ra",
+      " tu",
+      " do",
+      "lor",
+      " de",
+      " mue",
+      "las."
+    ],
+    "exampleSentence": "Toma un analgésico para tu dolor de muelas.",
+    "exampleTranslation": "Tome um analgésico para sua dor de dente."
+  },
+  {
+    "id": "leccion_37_46",
+    "word": "Creo que ella tiene dolor de estómago.",
+    "translation": "Eu acho que ela está com dor de estômago.",
+    "pronunciation": "/ˈkɾe-o ke ˈe-ʝa ˈtje-ne ðo-ˈloɾ ðe es-ˈto-ma-ɣo/",
+    "portuguesePhonetic": "crê-o que ê-lia ti-ê-ne do-lór de es-tó-ma-go",
+    "syllables": [
+      "Creo",
+      " que",
+      " e",
+      "lla",
+      " tie",
+      "ne",
+      " do",
+      "lor",
+      " de",
+      " es",
+      "tó",
+      "ma",
+      "go."
+    ],
+    "exampleSentence": "Creo que ella tiene dolor de estómago.",
+    "exampleTranslation": "Eu acho que ela está com dor de estômago."
+  },
+  {
+    "id": "leccion_37_47",
+    "word": "Todavía tomo ese medicamento todos los días.",
+    "translation": "Eu ainda tomo aquele remédio todos os dias.",
+    "pronunciation": "/to-ða-ˈβi-a ˈto-mo ˈe-se me-ði-ka-ˈmen-to ˈto-ðos los ˈði-as/",
+    "portuguesePhonetic": "to-da-bí-a tô-mo ê-se me-di-ca-mén-to tô-dos los dí-as",
+    "syllables": [
+      "To",
+      "da",
+      "ví",
+      "a",
+      " to",
+      "mo",
+      " e",
+      "se",
+      " me",
+      "di",
+      "ca",
+      "men",
+      "to",
+      " to",
+      "dos",
+      " los",
+      " dí",
+      "as."
+    ],
+    "exampleSentence": "Todavía tomo ese medicamento todos los días.",
+    "exampleTranslation": "Eu ainda tomo aquele remédio todos os dias."
+  },
+  {
+    "id": "leccion_37_48",
+    "word": "Tengo dolor. Necesito ir al hospital.",
+    "translation": "Eu estou com dor. Eu preciso ir ao hospital.",
+    "pronunciation": "/ˈteŋ-ɡo ðo-ˈloɾ | ne-θe-ˈsi-to iɾ al os-pi-ˈtal/",
+    "portuguesePhonetic": "tén-go do-lór / ne-the-sí-to ir al os-pi-tál",
+    "syllables": [
+      "Ten",
+      "go",
+      " do",
+      "lor.",
+      " Ne",
+      "ce",
+      "si",
+      "to",
+      " ir",
+      " al",
+      " hos",
+      "pi",
+      "tal."
+    ],
+    "exampleSentence": "Tengo dolor. Necesito ir al hospital.",
+    "exampleTranslation": "Eu estou com dor. Eu preciso ir ao hospital."
+  },
+  {
+    "id": "leccion_37_49",
+    "word": "Él está en la estación de tren.",
+    "translation": "Ele está na estação de trem.",
+    "pronunciation": "/el es-ˈta en la es-ta-ˈθjon ðe tɾen/",
+    "portuguesePhonetic": "él es-tá en la es-ta-thión de tren",
+    "syllables": [
+      "Él",
+      " es",
+      "tá",
+      " en",
+      " la",
+      " es",
+      "ta",
+      "ción",
+      " de",
+      " tren."
+    ],
+    "exampleSentence": "Él está en la estación de tren.",
+    "exampleTranslation": "Ele está na estação de trem."
+  },
+  {
+    "id": "leccion_37_50",
+    "word": "Bebe mucha agua. Es bueno para tu salud.",
+    "translation": "Beba muita água. É bom para sua saúde.",
+    "pronunciation": "/ˈβe-βe ˈmu-tʃa ˈa-ɣwa | es ˈβwe-no ˈpa-ɾa tu sa-ˈluð/",
+    "portuguesePhonetic": "bê-be mú-tcha á-gua / és buê-no pá-ra tu sa-lúd",
+    "syllables": [
+      "Be",
+      "be",
+      " mu",
+      "cha",
+      " a",
+      "gua.",
+      " Es",
+      " bue",
+      "no",
+      " pa",
+      "ra",
+      " tu",
+      " sa",
+      "lud."
+    ],
+    "exampleSentence": "Bebe mucha agua. Es bueno para tu salud.",
+    "exampleTranslation": "Beba muita água. É bom para sua saúde."
+  },
+  {
+    "id": "leccion_37_51",
+    "word": "Los niños están en casa porque están enfermos.",
+    "translation": "As crianças estão em casa porque elas estão doentes.",
+    "pronunciation": "/los ˈni-ɲos es-ˈtan en ˈka-sa poɾ-ˈke es-ˈtan en-ˈfeɾ-mos/",
+    "portuguesePhonetic": "los ní-nhos es-tán en cá-sa por-quê es-tán en-fér-mos",
+    "syllables": [
+      "Los",
+      " ni",
+      "ños",
+      " es",
+      "tán",
+      " en",
+      " ca",
+      "sa",
+      " por",
+      "que",
+      " es",
+      "tán",
+      " en",
+      "fer",
+      "mos."
+    ],
+    "exampleSentence": "Los niños están en casa porque están enfermos.",
+    "exampleTranslation": "As crianças estão em casa porque elas estão doentes."
+  },
+  {
+    "id": "leccion_37_52",
+    "word": "Por favor, lleva aquellos informes al médico.",
+    "translation": "Por favor, leve aqueles relatórios para o médico.",
+    "pronunciation": "/poɾ fa-ˈβoɾ | ˈʝe-βa a-ˈke-ʝos in-ˈfoɾ-mes al ˈme-ði-ko/",
+    "portuguesePhonetic": "por fa-bór / iê-ba a-kê-lios in-fór-mes al mé-di-co",
+    "syllables": [
+      "Por",
+      " fa",
+      "vor,",
+      " lle",
+      "va",
+      " a",
+      "que",
+      "llos",
+      " in",
+      "for",
+      "mes",
+      " al",
+      " mé",
+      "di",
+      "co."
+    ],
+    "exampleSentence": "Por favor, lleva aquellos informes al médico.",
+    "exampleTranslation": "Por favor, leve aqueles relatórios para o médico."
+  },
+  {
+    "id": "leccion_37_53",
+    "word": "¿Tienes que tomar estas pastillas?",
+    "translation": "Você tem que tomar esses comprimidos?",
+    "pronunciation": "/¿ˈtje-nes ke to-ˈmaɾ ˈes-tas pas-ˈti-ʝas?/",
+    "portuguesePhonetic": "¿ti-ê-nes que to-már és-tas pas-tí-lias?",
+    "syllables": [
+      "¿Tie",
+      "nes",
+      " que",
+      " to",
+      "mar",
+      " es",
+      "tas",
+      " pas",
+      "ti",
+      "llas?"
+    ],
+    "exampleSentence": "¿Tienes que tomar estas pastillas?",
+    "exampleTranslation": "Você tem que tomar esses comprimidos?"
+  }
+]

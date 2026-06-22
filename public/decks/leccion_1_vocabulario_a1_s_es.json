@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_1",
+    "word": "una casa",
+    "translation": "uma casa",
+    "pronunciation": "/ˈuna ˈkasa/",
+    "portuguesePhonetic": "[úna kása]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_2",
+    "word": "un coche",
+    "translation": "um carro",
+    "pronunciation": "/un ˈkotʃe/",
+    "portuguesePhonetic": "[un kótche]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_3",
+    "word": "una bicicleta",
+    "translation": "uma bicicleta",
+    "pronunciation": "/ˈuna biθiˈkleta/",
+    "portuguesePhonetic": "[úna bithikléta]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_4",
+    "word": "un libro",
+    "translation": "um livro",
+    "pronunciation": "/un ˈliβɾo/",
+    "portuguesePhonetic": "[un líbro]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_5",
+    "word": "un bolígrafo",
+    "translation": "uma caneta",
+    "pronunciation": "/un boˈliɣɾafo/",
+    "portuguesePhonetic": "[un bolígrafo]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_6",
+    "word": "un cuaderno",
+    "translation": "um caderno",
+    "pronunciation": "/un kwaˈðeɾno/",
+    "portuguesePhonetic": "[un kuadérno]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_7",
+    "word": "una mochila",
+    "translation": "uma mochila",
+    "pronunciation": "/ˈuna moˈtʃila/",
+    "portuguesePhonetic": "[úna motchíla]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_8",
+    "word": "un reloj",
+    "translation": "um relógio",
+    "pronunciation": "/un reˈlox/",
+    "portuguesePhonetic": "[un rrelórr]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_9",
+    "word": "un ordenador",
+    "translation": "um computador",
+    "pronunciation": "/un oɾðenaˈðoɾ/",
+    "portuguesePhonetic": "[un ordenadór]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_10",
+    "word": "una televisión",
+    "translation": "uma TV / televisão",
+    "pronunciation": "/ˈuna teleβiˈsjon/",
+    "portuguesePhonetic": "[úna telebisión]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_11",
+    "word": "las gafas",
+    "translation": "óculos",
+    "pronunciation": "/las ˈɡafas/",
+    "portuguesePhonetic": "[las gáfas]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_12",
+    "word": "los zapatos",
+    "translation": "sapatos",
+    "pronunciation": "/los θaˈpatos/",
+    "portuguesePhonetic": "[los thapátos]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_13",
+    "word": "una cartera",
+    "translation": "uma carteira",
+    "pronunciation": "/ˈuna kaɾˈteɾa/",
+    "portuguesePhonetic": "[úna kartéra]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_14",
+    "word": "una llave",
+    "translation": "uma chave",
+    "pronunciation": "/ˈuna ˈʎaβe/",
+    "portuguesePhonetic": "[úna lhábe]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_15",
+    "word": "un móvil",
+    "translation": "um celular",
+    "pronunciation": "/un ˈmoβil/",
+    "portuguesePhonetic": "[un móbil]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_16",
+    "word": "los auriculares",
+    "translation": "fones de ouvido",
+    "pronunciation": "/los awɾikuˈlaɾes/",
+    "portuguesePhonetic": "[los aurikuláres]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_17",
+    "word": "un paraguas",
+    "translation": "um guarda-chuva",
+    "pronunciation": "/un paˈɾaɣwas/",
+    "portuguesePhonetic": "[un parágwas]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_18",
+    "word": "un pasaporte",
+    "translation": "um passaporte",
+    "pronunciation": "/un pasaˈpoɾte/",
+    "portuguesePhonetic": "[un pasapórte]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_19",
+    "word": "un sombrero",
+    "translation": "um chapéu",
+    "pronunciation": "/un somˈbɾeɾo/",
+    "portuguesePhonetic": "[un sombréro]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_20",
+    "word": "una botella de agua",
+    "translation": "uma garrafa de água",
+    "pronunciation": "/ˈuna boˈteʎa de ˈaɣwa/",
+    "portuguesePhonetic": "[úna botélha de ágwa]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_21",
+    "word": "un cargador",
+    "translation": "um carregador",
+    "pronunciation": "/un kaɾɣaˈðoɾ/",
+    "portuguesePhonetic": "[un kargadór]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_22",
+    "word": "las gafas de sol",
+    "translation": "óculos de sol",
+    "pronunciation": "/las ˈɡafas de sol/",
+    "portuguesePhonetic": "[las gáfas de sól]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_23",
+    "word": "el DNI",
+    "translation": "o documento de identidade",
+    "pronunciation": "/el de ˈene i/",
+    "portuguesePhonetic": "[el de éne i]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_24",
+    "word": "un abrigo",
+    "translation": "um casaco",
+    "pronunciation": "/un aˈβɾiɣo/",
+    "portuguesePhonetic": "[un abrígo]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_25",
+    "word": "una bolsa",
+    "translation": "uma bolsa / sacola",
+    "pronunciation": "/ˈuna ˈbolsa/",
+    "portuguesePhonetic": "[úna bólsa]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_26",
+    "word": "Necesito mis llaves.",
+    "translation": "Preciso das minhas chaves.",
+    "pronunciation": "/neθeˈsito mis ˈʎaβes/",
+    "portuguesePhonetic": "[nethesíto mis lhábes]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_27",
+    "word": "Mi cartera está en la mochila.",
+    "translation": "Minha carteira está na mochila.",
+    "pronunciation": "/mi kaɾˈteɾa esˈta en la moˈtʃila/",
+    "portuguesePhonetic": "[mi kartéra está en la motchíla]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_28",
+    "word": "Cojo el paraguas.",
+    "translation": "Pego o guarda-chuva.",
+    "pronunciation": "/ˈkoxo el paˈɾaɣwas/",
+    "portuguesePhonetic": "[kórro el parágwas]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_29",
+    "word": "Me pongo el sombrero.",
+    "translation": "Coloco o chapéu.",
+    "pronunciation": "/me ˈpoŋɡo el somˈbɾeɾo/",
+    "portuguesePhonetic": "[me póngo el sombréro]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_30",
+    "word": "Cierro la casa con llave.",
+    "translation": "Tranco a casa.",
+    "pronunciation": "/ˈθjero la ˈkasa kon ˈʎaβe/",
+    "portuguesePhonetic": "[thiérro la kása kon lhábe]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_31",
+    "word": "Subo al coche.",
+    "translation": "Entro no carro.",
+    "pronunciation": "/ˈsuβo al ˈkotʃe/",
+    "portuguesePhonetic": "[súbo al kótche]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_32",
+    "word": "Voy en bicicleta.",
+    "translation": "Vou de bicicleta.",
+    "pronunciation": "/boi en biθiˈkleta/",
+    "portuguesePhonetic": "[bôi en bithikléta]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_33",
+    "word": "Llevo los auriculares.",
+    "translation": "Uso os fones.",
+    "pronunciation": "/ˈʎeβo los awɾikuˈlaɾes/",
+    "portuguesePhonetic": "[lhébo los aurikuláres]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_34",
+    "word": "Miro el reloj.",
+    "translation": "Olho o relógio.",
+    "pronunciation": "/ˈmiɾo el reˈlox/",
+    "portuguesePhonetic": "[míro el rrelórr]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_35",
+    "word": "Uso el móvil.",
+    "translation": "Uso o celular.",
+    "pronunciation": "/ˈuso el ˈmoβil/",
+    "portuguesePhonetic": "[úso el móbil]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_36",
+    "word": "Abro el ordenador.",
+    "translation": "Abro o computador.",
+    "pronunciation": "/ˈaβɾo el oɾðenaˈðoɾ/",
+    "portuguesePhonetic": "[ábro el ordenadór]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_37",
+    "word": "Escribo en el cuaderno.",
+    "translation": "Escrevo no caderno.",
+    "pronunciation": "/esˈkɾiβo en el kwaˈðeɾno/",
+    "portuguesePhonetic": "[eskríbo en el kuadérno]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_38",
+    "word": "Leo un libro.",
+    "translation": "Leio um livro.",
+    "pronunciation": "/ˈleo un ˈliβɾo/",
+    "portuguesePhonetic": "[léo un líbro]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_39",
+    "word": "Necesito un bolígrafo.",
+    "translation": "Preciso de uma caneta.",
+    "pronunciation": "/neθeˈsito un boˈliɣɾafo/",
+    "portuguesePhonetic": "[nethesíto un bolígrafo]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_40",
+    "word": "Llevo las gafas.",
+    "translation": "Uso os óculos.",
+    "pronunciation": "/ˈʎeβo las ˈɡafas/",
+    "portuguesePhonetic": "[lhébo las gáfas]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_41",
+    "word": "Veo la televisión.",
+    "translation": "Vejo TV.",
+    "pronunciation": "/ˈbeo la teleβiˈsjon/",
+    "portuguesePhonetic": "[béo la telebisión]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_42",
+    "word": "Me quito los zapatos.",
+    "translation": "Tiro os sapatos.",
+    "pronunciation": "/me ˈkito los θaˈpatos/",
+    "portuguesePhonetic": "[me kíto los thapátos]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_43",
+    "word": "Cargo el móvil.",
+    "translation": "Carrego o celular.",
+    "pronunciation": "/ˈkaɾɣo el ˈmoβil/",
+    "portuguesePhonetic": "[kárgo el móbil]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_44",
+    "word": "Bebo una botella de agua.",
+    "translation": "Bebo uma garrafa de água.",
+    "pronunciation": "/ˈbeβo una boˈteʎa de ˈaɣwa/",
+    "portuguesePhonetic": "[bébo una botélha de ágwa]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_45",
+    "word": "Tengo el pasaporte.",
+    "translation": "Tenho o passaporte.",
+    "pronunciation": "/ˈteŋɡo el pasaˈpoɾte/",
+    "portuguesePhonetic": "[téngo el pasapórte]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_46",
+    "word": "La bolsa pesa mucho.",
+    "translation": "A bolsa pesa muito.",
+    "pronunciation": "/la ˈbolsa ˈpesa ˈmutʃo/",
+    "portuguesePhonetic": "[la bólsa pésa mútcho]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_47",
+    "word": "Enseño el DNI.",
+    "translation": "Mostro o documento.",
+    "pronunciation": "/enˈseɲo el de ˈene i/",
+    "portuguesePhonetic": "[ensénho el de éne i]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_48",
+    "word": "Me pongo el abrigo.",
+    "translation": "Visto o casaco.",
+    "pronunciation": "/me ˈpoŋɡo el aˈβɾiɣo/",
+    "portuguesePhonetic": "[me póngo el abrígo]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_49",
+    "word": "Llevo el paraguas porque llueve.",
+    "translation": "Levo o guarda-chuva porque chove.",
+    "pronunciation": "/ˈʎeβo el paˈɾaɣwas ˈpoɾke ˈʎweβe/",
+    "portuguesePhonetic": "[lhébo el parágwas pórke lhuébe]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_50",
+    "word": "Llevo gafas de sol cuando hace sol.",
+    "translation": "Uso óculos de sol quando faz sol.",
+    "pronunciation": "/ˈʎeβo ˈɡafas de sol ˈkwando ˈaθe sol/",
+    "portuguesePhonetic": "[lhébo gáfas de sól kuándo áthe sól]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_51",
+    "word": "Tengo un coche.",
+    "translation": "Tenho um carro.",
+    "pronunciation": "/ˈteŋɡo un ˈkotʃe/",
+    "portuguesePhonetic": "[téngo un kótche]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_52",
+    "word": "Ella lee un libro.",
+    "translation": "Ela lê um livro.",
+    "pronunciation": "/ˈeʎa ˈlee un ˈliβɾo/",
+    "portuguesePhonetic": "[élha lée un líbro]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_53",
+    "word": "Él necesita un bolígrafo.",
+    "translation": "Ele precisa de uma caneta.",
+    "pronunciation": "/el neθeˈsita un boˈliɣɾafo/",
+    "portuguesePhonetic": "[él nethesíta un bolígrafo]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_54",
+    "word": "Vemos la tele.",
+    "translation": "Vemos TV.",
+    "pronunciation": "/ˈbemos la ˈtele/",
+    "portuguesePhonetic": "[bémos la téle]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_55",
+    "word": "Mis zapatos son nuevos.",
+    "translation": "Meus sapatos são novos.",
+    "pronunciation": "/mis θaˈpatos son ˈnweβos/",
+    "portuguesePhonetic": "[mis thapátos son nuébos]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_56",
+    "word": "La casa es grande.",
+    "translation": "A casa é grande.",
+    "pronunciation": "/la ˈkasa es ˈɡɾande/",
+    "portuguesePhonetic": "[la kása és gránde]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_57",
+    "word": "¿Dónde está mi cartera?",
+    "translation": "Onde está minha carteira?",
+    "pronunciation": "/ˈdonde esˈta mi kaɾˈteɾa/",
+    "portuguesePhonetic": "[dônde está mi kartéra]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_58",
+    "word": "No tengo las llaves.",
+    "translation": "Não tenho as chaves.",
+    "pronunciation": "/no ˈteŋɡo las ˈʎaβes/",
+    "portuguesePhonetic": "[no téngo las lhábes]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_59",
+    "word": "¿Tienes una bicicleta?",
+    "translation": "Você tem uma bicicleta?",
+    "pronunciation": "/ˈtjenes una biθiˈkleta/",
+    "portuguesePhonetic": "[tiénes una bithikléta]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_60",
+    "word": "¿Es este tu paraguas?",
+    "translation": "Este é o seu guarda-chuva?",
+    "pronunciation": "/es ˈeste tu paˈɾaɣwas/",
+    "portuguesePhonetic": "[és éste tu parágwas]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_61",
+    "word": "Él no lleva gafas.",
+    "translation": "Ele não usa óculos.",
+    "pronunciation": "/el no ˈʎeβa ˈɡafas/",
+    "portuguesePhonetic": "[él no lhéba gáfas]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_62",
+    "word": "¿Por qué está abierta tu mochila?",
+    "translation": "Por que sua mochila está aberta?",
+    "pronunciation": "/poɾ ke esˈta aˈβjeɾta tu moˈtʃila/",
+    "portuguesePhonetic": "[por ké está abiérta tu motchíla]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_63",
+    "word": "Cojo el paraguas porque llueve.",
+    "translation": "Pego o guarda-chuva porque chove.",
+    "pronunciation": "/ˈkoxo el paˈɾaɣwas ˈpoɾke ˈʎweβe/",
+    "portuguesePhonetic": "[kórro el parágwas pórke lhuébe]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_64",
+    "word": "Está usando el ordenador ahora.",
+    "translation": "Ela está usando o computador agora.",
+    "pronunciation": "/esˈta uˈsando el oɾðenaˈðoɾ aˈoɾa/",
+    "portuguesePhonetic": "[está usándo el ordenadór aóra]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_65",
+    "word": "Ayer compré un reloj nuevo.",
+    "translation": "Ontem comprei um relógio novo.",
+    "pronunciation": "/aˈʝeɾ komˈpɾe un reˈlox ˈnweβo/",
+    "portuguesePhonetic": "[aiér kompré un rrelórr nuébo]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_66",
+    "word": "Estábamos leyendo cuando llamaste.",
+    "translation": "Estávamos lendo quando você ligou.",
+    "pronunciation": "/esˈtaβamos leˈʝendo ˈkwando ʎaˈmaste/",
+    "portuguesePhonetic": "[estábamos leiéndo kuándo lhamáste]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_67",
+    "word": "Perdió el pasaporte en el aeropuerto.",
+    "translation": "Ele perdeu o passaporte no aeroporto.",
+    "pronunciation": "/peɾˈðjo el pasaˈpoɾte en el aeɾoˈpweɾto/",
+    "portuguesePhonetic": "[perdió el pasapórte en el aeropuérto]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_68",
+    "word": "No encuentro el móvil, pero tengo la cartera.",
+    "translation": "Não acho o celular, mas tenho a carteira.",
+    "pronunciation": "/no eŋˈkwentɾo el ˈmoβil ˈpeɾo ˈteŋɡo la kaɾˈteɾa/",
+    "portuguesePhonetic": "[no enkuéntro el móbil péro téngo la kartéra]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_69",
+    "word": "Siempre lleva los auriculares cuando estudia.",
+    "translation": "Sempre usa os fones quando estuda.",
+    "pronunciation": "/ˈsjempɾe ˈʎeβa los awɾikuˈlaɾes ˈkwando esˈtuðja/",
+    "portuguesePhonetic": "[siémpre lhéba los aurikuláres kuándo estúdia]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_70",
+    "word": "Compraré un ordenador nuevo porque el mío es viejo.",
+    "translation": "Vou comprar um computador novo porque o meu é velho.",
+    "pronunciation": "/kompɾaˈɾe un oɾðenaˈðoɾ ˈnweβo ˈpoɾke el ˈmio es ˈbjexo/",
+    "portuguesePhonetic": "[kompraré un ordenadór nuébo pórke el mío és biérro]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_71",
+    "word": "Si llueve, cogeré el paraguas y el abrigo.",
+    "translation": "Se chover, vou pegar o guarda-chuva e o casaco.",
+    "pronunciation": "/si ˈʎweβe koxeˈɾe el paˈɾaɣwas i el aˈβɾiɣo/",
+    "portuguesePhonetic": "[si lhuébe korreré el parágwas i el abrígo]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_72",
+    "word": "No trajo el libro, así que leyó en el móvil.",
+    "translation": "Não trouxe o livro, então leu no celular.",
+    "pronunciation": "/no ˈtɾaxo el ˈliβɾo aˈsi ke leˈʝo en el ˈmoβil/",
+    "portuguesePhonetic": "[no trárro el líbro así ke leió en el móbil]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_73",
+    "word": "Mis gafas están rotas y no puedo leer la pantalla.",
+    "translation": "Meus óculos estão quebrados e não consigo ler a tela.",
+    "pronunciation": "/mis ˈɡafas esˈtan ˈrotas i no ˈpweðo leˈeɾ la panˈtaʎa/",
+    "portuguesePhonetic": "[mis gáfas están rótas i no puédo leér la pantálha]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_74",
+    "word": "¿Has visto mis llaves? Las dejé en la mesa.",
+    "translation": "Você viu minhas chaves? Eu as deixei na mesa.",
+    "pronunciation": "/as ˈbisto mis ˈʎaβes · las deˈxe en la ˈmesa/",
+    "portuguesePhonetic": "[as bísto mis lhábes · las derré en la mésa]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_75",
+    "word": "Aunque el coche es viejo, todavía funciona muy bien.",
+    "translation": "Embora o carro seja velho, ainda funciona muito bem.",
+    "pronunciation": "/ˈawŋke el ˈkotʃe es ˈbjexo toðaˈβia funˈθjona mui bjen/",
+    "portuguesePhonetic": "[áunke el kótche és biérro todabía funthióna múi bién]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_76",
+    "word": "«¿Dónde está mi libro?» / «Está en la mesa.»",
+    "translation": "\"Onde está meu livro?\" / \"Está na mesa.\"",
+    "pronunciation": "/ˈdonde esˈta mi ˈliβɾo · esˈta en la ˈmesa/",
+    "portuguesePhonetic": "[dônde está mi líbro · está en la mésa]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_77",
+    "word": "«¿Es tuyo este bolígrafo?» / «Sí, lo es.»",
+    "translation": "\"Esta caneta é sua?\" / \"Sim, é.\"",
+    "pronunciation": "/es ˈtuʝo ˈeste boˈliɣɾafo · si lo es/",
+    "portuguesePhonetic": "[és túio éste bolígrafo · sí lo és]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_78",
+    "word": "«¿Tienes coche?» / «No, tengo bicicleta.»",
+    "translation": "\"Você tem carro?\" / \"Não, tenho bicicleta.\"",
+    "pronunciation": "/ˈtjenes ˈkotʃe · no ˈteŋɡo biθiˈkleta/",
+    "portuguesePhonetic": "[tiénes kótche · no téngo bithikléta]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_79",
+    "word": "«¿Dónde están mis llaves?» / «Están en tu bolsa.»",
+    "translation": "\"Onde están minhas chaves?\" / \"Estão na sua bolsa.\"",
+    "pronunciation": "/ˈdonde esˈtan mis ˈʎaβes · esˈtan en tu ˈbolsa/",
+    "portuguesePhonetic": "[dônde están mis lhábes · están en tu bólsa]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_80",
+    "word": "«¿Me prestas el paraguas?» / «Claro, aquí tienes.»",
+    "translation": "\"Me empresta o guarda-chuva?\" / \"Claro, aqui está.\"",
+    "pronunciation": "/me ˈpɾestas el paˈɾaɣwas · ˈklaɾo aˈki ˈtjenes/",
+    "portuguesePhonetic": "[me préstas el parágwas · kláro akí tiénes]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_81",
+    "word": "«¿De quién es esta mochila?» / «Es mía.»",
+    "translation": "\"De quem é esta mochila?\" / \"É minha.\"",
+    "pronunciation": "/de kjen es ˈesta moˈtʃila · es ˈmia/",
+    "portuguesePhonetic": "[de kién és ésta motchíla · és mía]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_82",
+    "word": "«¿Está cargado el móvil?» / «No, no lo está.»",
+    "translation": "\"O celular está carregado?\" / \"Não, não está.\"",
+    "pronunciation": "/esˈta kaɾˈɣaðo el ˈmoβil · no no lo esˈta/",
+    "portuguesePhonetic": "[está kargádo el móbil · no no lo está]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_83",
+    "word": "«¿Llevas gafas?» / «Sí, llevo gafas.»",
+    "translation": "\"Você usa óculos?\" / \"Sim, uso óculos.\"",
+    "pronunciation": "/ˈʎeβas ˈɡafas · si ˈʎeβo ˈɡafas/",
+    "portuguesePhonetic": "[lhébas gáfas · sí lhébo gáfas]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_84",
+    "word": "«¿Dónde está la botella de agua?» / «Está en la nevera.»",
+    "translation": "\"Onde está a garrafa de água?\" / \"Está na geladeira.\"",
+    "pronunciation": "/ˈdonde esˈta la boˈteʎa de ˈaɣwa · esˈta en la neˈβeɾa/",
+    "portuguesePhonetic": "[dônde está la botélha de ágwa · está en la nebéra]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_85",
+    "word": "«¿Son tuyos estos zapatos?» / «No, no lo son.»",
+    "translation": "\"Estes sapatos são seus?\" / \"Não, não são.\"",
+    "pronunciation": "/son ˈtuʝos ˈestos θaˈpatos · no no lo son/",
+    "portuguesePhonetic": "[son túios éstos thapátos · no no lo son]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_86",
+    "word": "«¿Tienes el pasaporte?» / «Sí, está en la bolsa.»",
+    "translation": "\"Você está com o passaporte?\" / \"Sim, está na bolsa.\"",
+    "pronunciation": "/ˈtjenes el pasaˈpoɾte · si esˈta en la ˈbolsa/",
+    "portuguesePhonetic": "[tiénes el pasapórte · sí está en la bólsa]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_87",
+    "word": "«¿Puedo usar tu ordenador?» / «Claro que sí.»",
+    "translation": "\"Posso usar seu computador?\" / \"Claro que sim.\"",
+    "pronunciation": "/ˈpweðo uˈsaɾ tu oɾðenaˈðoɾ · ˈklaɾo ke si/",
+    "portuguesePhonetic": "[puédo usár tu ordenadór · kláro ke sí]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_88",
+    "word": "«¿Dónde está tu cartera?» / «Está en el bolsillo.»",
+    "translation": "\"Onde está sua carteira?\" / \"Está no bolso.\"",
+    "pronunciation": "/ˈdonde esˈta tu kaɾˈteɾa · esˈta en el bolˈsiʎo/",
+    "portuguesePhonetic": "[dônde está tu kartéra · está en el bolsílho]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_89",
+    "word": "«¿Es tuyo este sombrero?» / «Sí, ¡gracias!»",
+    "translation": "\"Este chapéu é seu?\" / \"Sim, obrigado!\"",
+    "pronunciation": "/es ˈtuʝo ˈeste somˈbɾeɾo · si ˈɡɾaθjas/",
+    "portuguesePhonetic": "[és túio éste sombréro · sí gráthias]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_90",
+    "word": "«¿Qué hora es?» / «Déjame mirar el reloj.»",
+    "translation": "\"Que horas são?\" / \"Deixa eu ver o relógio.\"",
+    "pronunciation": "/ke ˈoɾa es · ˈdexame miˈɾaɾ el reˈlox/",
+    "portuguesePhonetic": "[ke óra és · dérrame mirár el rrelórr]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_91",
+    "word": "«¿Ves mucho la tele?» / «No, no mucho.»",
+    "translation": "\"Você vê muita TV?\" / \"Não, não muito.\"",
+    "pronunciation": "/bes ˈmutʃo la ˈtele · no no ˈmutʃo/",
+    "portuguesePhonetic": "[bés mútcho la téle · no no mútcho]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_92",
+    "word": "«¿Me das un bolígrafo, por favor?» / «Aquí tienes.»",
+    "translation": "\"Me dá uma caneta, por favor?\" / \"Aqui está.\"",
+    "pronunciation": "/me das un boˈliɣɾafo poɾ faˈβoɾ · aˈki ˈtjenes/",
+    "portuguesePhonetic": "[me das un bolígrafo por fabór · akí tiénes]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_93",
+    "word": "«¿Dónde están los auriculares?» / «Están al lado del ordenador.»",
+    "translation": "\"Onde estão os fones?\" / \"Estão ao lado do computador.\"",
+    "pronunciation": "/ˈdonde esˈtan los awɾikuˈlaɾes · esˈtan al ˈlaðo del oɾðenaˈðoɾ/",
+    "portuguesePhonetic": "[dônde están los aurikuláres · están al ládo del ordenadór]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_94",
+    "word": "«¿Está lejos la casa?» / «No, está cerca.»",
+    "translation": "\"A casa é longe?\" / \"Não, é perto.\"",
+    "pronunciation": "/esˈta ˈlexos la ˈkasa · no esˈta ˈθeɾka/",
+    "portuguesePhonetic": "[está lérros la kása · no está thérka]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_95",
+    "word": "«¿Trajiste el cuaderno?» / «Sí, lo traje.»",
+    "translation": "\"Você trouxe o caderno?\" / \"Sim, trouxe.\"",
+    "pronunciation": "/tɾaˈxiste el kwaˈðeɾno · si lo ˈtɾaxe/",
+    "portuguesePhonetic": "[trarríste el kuadérno · sí lo trárre]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_96",
+    "word": "«¿De quién es el móvil que suena?» / «Es el mío, ¡perdón!»",
+    "translation": "\"De quem é o celular tocando?\" / \"É o meu, desculpa!\"",
+    "pronunciation": "/de kjen es el ˈmoβil ke ˈswena · es el ˈmio peɾˈðon/",
+    "portuguesePhonetic": "[de kién és el móbil ke suéna · és el mío perdón]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_97",
+    "word": "«¿Es tuya la bicicleta?» / «No, es de mi hermano.»",
+    "translation": "\"A bicicleta é sua?\" / \"Não, é do meu irmão.\"",
+    "pronunciation": "/es ˈtuʝa la biθiˈkleta · no es de mi eɾˈmano/",
+    "portuguesePhonetic": "[és túia la bithikléta · no és de mi ermáno]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_98",
+    "word": "«¿Necesitas una bolsa?» / «Sí, por favor.»",
+    "translation": "\"Você precisa de uma sacola?\" / \"Sim, por favor.\"",
+    "pronunciation": "/neθeˈsitas una ˈbolsa · si poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[nethesítas una bólsa · sí por fabór]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_99",
+    "word": "«¿Dónde está mi abrigo?» / «Está al lado de la puerta.»",
+    "translation": "\"Onde está meu casaco?\" / \"Está ao lado da porta.\"",
+    "pronunciation": "/ˈdonde esˈta mi aˈβɾiɣo · esˈta al ˈlaðo de la ˈpweɾta/",
+    "portuguesePhonetic": "[dônde está mi abrígo · está al ládo de la puérta]"
+  },
+  {
+    "id": "leccion_1_vocabulario_a1_s_es_card_100",
+    "word": "«¿Puedes apagar la tele?» / «Claro, sin problema.»",
+    "translation": "\"Você pode desligar a TV?\" / \"Claro, sem problema.\"",
+    "pronunciation": "/ˈpweðes apaˈɣaɾ la ˈtele · ˈklaɾo sin pɾoˈβlema/",
+    "portuguesePhonetic": "[puédes apagár la téle · kláro sin probléma]"
+  }
+]

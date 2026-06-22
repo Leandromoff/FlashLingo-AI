@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_1",
+    "word": "call a friend",
+    "translation": "ligar para um amigo",
+    "pronunciation": "/kɔːl ə frɛnd/",
+    "portuguesePhonetic": "[kól a frénd]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_2",
+    "word": "cook dinner",
+    "translation": "cozinhar o jantar",
+    "pronunciation": "/kʊk ˈdɪnər/",
+    "portuguesePhonetic": "[kúk díner]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_3",
+    "word": "do exercise",
+    "translation": "fazer exercício",
+    "pronunciation": "/duː ˈɛksərsaɪz/",
+    "portuguesePhonetic": "[dú éksersaiz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_4",
+    "word": "go on vacation",
+    "translation": "viajar de férias",
+    "pronunciation": "/ɡoʊ ɑːn veɪˈkeɪʃn̩/",
+    "portuguesePhonetic": "[gôu ón veikêichan]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_5",
+    "word": "go to bed",
+    "translation": "ir dormir",
+    "pronunciation": "/ɡoʊ tə bɛd/",
+    "portuguesePhonetic": "[gôu tu béd]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_6",
+    "word": "go to work",
+    "translation": "ir para o trabalho",
+    "pronunciation": "/ɡoʊ tə wɜːrk/",
+    "portuguesePhonetic": "[gôu tu uârk]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_7",
+    "word": "drink some coffee",
+    "translation": "tomar um café",
+    "pronunciation": "/drɪŋk sʌm ˈkɔːfi/",
+    "portuguesePhonetic": "[drínk sâm kófi]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_8",
+    "word": "eat dinner",
+    "translation": "jantar",
+    "pronunciation": "/iːt ˈdɪnər/",
+    "portuguesePhonetic": "[ít díner]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_9",
+    "word": "listen to music",
+    "translation": "ouvir música",
+    "pronunciation": "/ˈlɪsn̩ tə ˈmjuːzɪk/",
+    "portuguesePhonetic": "[lísan tu miúzik]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_10",
+    "word": "play soccer",
+    "translation": "jogar futebol",
+    "pronunciation": "/pleɪ ˈsɑːkər/",
+    "portuguesePhonetic": "[plêi sáker]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_11",
+    "word": "play the guitar",
+    "translation": "tocar violão",
+    "pronunciation": "/pleɪ ðə ɡɪˈtɑːr/",
+    "portuguesePhonetic": "[plêi dha guitár]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_12",
+    "word": "play video games",
+    "translation": "jogar videogame",
+    "pronunciation": "/pleɪ ˈvɪdioʊ ɡeɪmz/",
+    "portuguesePhonetic": "[plêi vídiou guêimz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_13",
+    "word": "read a book",
+    "translation": "ler um livro",
+    "pronunciation": "/riːd ə bʊk/",
+    "portuguesePhonetic": "[ríd a búk]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_14",
+    "word": "send a text",
+    "translation": "mandar uma mensagem",
+    "pronunciation": "/sɛnd ə tɛkst/",
+    "portuguesePhonetic": "[sénd a tékst]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_15",
+    "word": "study English",
+    "translation": "estudar inglês",
+    "pronunciation": "/ˈstʌdi ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "[stâdi ínglich]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_16",
+    "word": "take a photo",
+    "translation": "tirar uma foto",
+    "pronunciation": "/teɪk ə ˈfoʊtoʊ/",
+    "portuguesePhonetic": "[têik a fôutou]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_17",
+    "word": "visit a museum",
+    "translation": "visitar um museu",
+    "pronunciation": "/ˈvɪzɪt ə mjuˈziːəm/",
+    "portuguesePhonetic": "[vízit a miuzíam]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_18",
+    "word": "watch TV",
+    "translation": "assistir TV",
+    "pronunciation": "/wɑːtʃ ˌtiːˈviː/",
+    "portuguesePhonetic": "[uátch ti-ví]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_19",
+    "word": "wear glasses",
+    "translation": "usar óculos",
+    "pronunciation": "/wɛr ˈɡlæsɪz/",
+    "portuguesePhonetic": "[uér glésiz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_20",
+    "word": "send an email",
+    "translation": "enviar um e-mail",
+    "pronunciation": "/sɛnd ən ˈiːmeɪl/",
+    "portuguesePhonetic": "[sénd an ímeiou]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_21",
+    "word": "take a shower",
+    "translation": "tomar banho",
+    "pronunciation": "/teɪk ə ˈʃaʊər/",
+    "portuguesePhonetic": "[têik a cháuer]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_22",
+    "word": "brush your teeth",
+    "translation": "escovar os dentes",
+    "pronunciation": "/brʌʃ jɔːr tiːθ/",
+    "portuguesePhonetic": "[brâch iór títh]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_23",
+    "word": "make breakfast",
+    "translation": "fazer o café da manhã",
+    "pronunciation": "/meɪk ˈbrɛkfəst/",
+    "portuguesePhonetic": "[mêik brékfest]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_24",
+    "word": "walk the dog",
+    "translation": "passear com o cachorro",
+    "pronunciation": "/wɔːk ðə dɔːɡ/",
+    "portuguesePhonetic": "[uók dha dóg]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_25",
+    "word": "go shopping",
+    "translation": "fazer compras",
+    "pronunciation": "/ɡoʊ ˈʃɑːpɪŋ/",
+    "portuguesePhonetic": "[gôu chápin]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_26",
+    "word": "I wake up early.",
+    "translation": "Eu acordo cedo.",
+    "pronunciation": "/aɪ weɪk ʌp ˈɜːrli/",
+    "portuguesePhonetic": "[ái uêik âp ârli]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_27",
+    "word": "I take a shower.",
+    "translation": "Eu tomo banho.",
+    "pronunciation": "/aɪ teɪk ə ˈʃaʊər/",
+    "portuguesePhonetic": "[ái têik a cháuer]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_28",
+    "word": "I make breakfast.",
+    "translation": "Eu faço o café da manhã.",
+    "pronunciation": "/aɪ meɪk ˈbrɛkfəst/",
+    "portuguesePhonetic": "[ái mêik brékfest]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_29",
+    "word": "I drink some coffee.",
+    "translation": "Eu tomo um café.",
+    "pronunciation": "/aɪ drɪŋk sʌm ˈkɔːfi/",
+    "portuguesePhonetic": "[ái drínk sâm kófi]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_30",
+    "word": "I go to work.",
+    "translation": "Eu vou para o trabalho.",
+    "pronunciation": "/aɪ ɡoʊ tə wɜːrk/",
+    "portuguesePhonetic": "[ái gôu tu uârk]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_31",
+    "word": "I send an email.",
+    "translation": "Eu envio um e-mail.",
+    "pronunciation": "/aɪ sɛnd ən ˈiːmeɪl/",
+    "portuguesePhonetic": "[ái sénd an ímeiou]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_32",
+    "word": "I call a friend.",
+    "translation": "Eu ligo para um amigo.",
+    "pronunciation": "/aɪ kɔːl ə frɛnd/",
+    "portuguesePhonetic": "[ái kól a frénd]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_33",
+    "word": "I send a text.",
+    "translation": "Eu mando uma mensagem.",
+    "pronunciation": "/aɪ sɛnd ə tɛkst/",
+    "portuguesePhonetic": "[ái sénd a tékst]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_34",
+    "word": "I take a photo.",
+    "translation": "Eu tiro uma foto.",
+    "pronunciation": "/aɪ teɪk ə ˈfoʊtoʊ/",
+    "portuguesePhonetic": "[ái têik a fôutou]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_35",
+    "word": "I wear glasses at work.",
+    "translation": "Eu uso óculos no trabalho.",
+    "pronunciation": "/aɪ wɛr ˈɡlæsɪz æt wɜːrk/",
+    "portuguesePhonetic": "[ái uér glésiz ét uârk]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_36",
+    "word": "I do exercise.",
+    "translation": "Eu faço exercício.",
+    "pronunciation": "/aɪ duː ˈɛksərsaɪz/",
+    "portuguesePhonetic": "[ái dú éksersaiz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_37",
+    "word": "I play soccer with friends.",
+    "translation": "Eu jogo futebol com amigos.",
+    "pronunciation": "/aɪ pleɪ ˈsɑːkər wɪð frɛndz/",
+    "portuguesePhonetic": "[ái plêi sáker uídh fréndz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_38",
+    "word": "I listen to music.",
+    "translation": "Eu ouço música.",
+    "pronunciation": "/aɪ ˈlɪsn̩ tə ˈmjuːzɪk/",
+    "portuguesePhonetic": "[ái lísan tu miúzik]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_39",
+    "word": "I walk the dog.",
+    "translation": "Eu passeio com o cachorro.",
+    "pronunciation": "/aɪ wɔːk ðə dɔːɡ/",
+    "portuguesePhonetic": "[ái uók dha dóg]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_40",
+    "word": "I cook dinner.",
+    "translation": "Eu cozinho o jantar.",
+    "pronunciation": "/aɪ kʊk ˈdɪnər/",
+    "portuguesePhonetic": "[ái kúk díner]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_41",
+    "word": "I eat dinner.",
+    "translation": "Eu janto.",
+    "pronunciation": "/aɪ iːt ˈdɪnər/",
+    "portuguesePhonetic": "[ái ít díner]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_42",
+    "word": "I watch TV.",
+    "translation": "Eu assisto TV.",
+    "pronunciation": "/aɪ wɑːtʃ ˌtiːˈviː/",
+    "portuguesePhonetic": "[ái uátch ti-ví]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_43",
+    "word": "I play video games.",
+    "translation": "Eu jogo videogame.",
+    "pronunciation": "/aɪ pleɪ ˈvɪdioʊ ɡeɪmz/",
+    "portuguesePhonetic": "[ái plêi vídiou guêimz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_44",
+    "word": "I play the guitar.",
+    "translation": "Eu toco violão.",
+    "pronunciation": "/aɪ pleɪ ðə ɡɪˈtɑːr/",
+    "portuguesePhonetic": "[ái plêi dha guitár]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_45",
+    "word": "I read a book.",
+    "translation": "Eu leio um livro.",
+    "pronunciation": "/aɪ riːd ə bʊk/",
+    "portuguesePhonetic": "[ái ríd a búk]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_46",
+    "word": "I go to bed.",
+    "translation": "Eu vou dormir.",
+    "pronunciation": "/aɪ ɡoʊ tə bɛd/",
+    "portuguesePhonetic": "[ái gôu tu béd]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_47",
+    "word": "I study English.",
+    "translation": "Eu estudo inglês.",
+    "pronunciation": "/aɪ ˈstʌdi ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "[ái stâdi ínglich]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_48",
+    "word": "I go shopping.",
+    "translation": "Eu faço compras.",
+    "pronunciation": "/aɪ ɡoʊ ˈʃɑːpɪŋ/",
+    "portuguesePhonetic": "[ái gôu chápin]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_49",
+    "word": "I visit a museum.",
+    "translation": "Eu visito um museu.",
+    "pronunciation": "/aɪ ˈvɪzɪt ə mjuˈziːəm/",
+    "portuguesePhonetic": "[ái vízit a miuzíam]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_50",
+    "word": "I go on vacation.",
+    "translation": "Eu viajo de férias.",
+    "pronunciation": "/aɪ ɡoʊ ɑːn veɪˈkeɪʃn̩/",
+    "portuguesePhonetic": "[ái gôu ón veikêichan]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_51",
+    "word": "I read a book.",
+    "translation": "Eu leio um livro.",
+    "pronunciation": "/aɪ riːd ə bʊk/",
+    "portuguesePhonetic": "[ái ríd a búk]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_52",
+    "word": "She plays the guitar.",
+    "translation": "Ela toca violão.",
+    "pronunciation": "/ʃiː pleɪz ðə ɡɪˈtɑːr/",
+    "portuguesePhonetic": "[chí plêiz dha guitár]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_53",
+    "word": "He cooks dinner.",
+    "translation": "Ele cozinha o jantar.",
+    "pronunciation": "/hiː kʊks ˈdɪnər/",
+    "portuguesePhonetic": "[rrí kúks díner]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_54",
+    "word": "We watch TV.",
+    "translation": "Nós assistimos TV.",
+    "pronunciation": "/wiː wɑːtʃ ˌtiːˈviː/",
+    "portuguesePhonetic": "[uí uátch ti-ví]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_55",
+    "word": "I always drink coffee.",
+    "translation": "Eu sempre tomo café.",
+    "pronunciation": "/aɪ ˈɔːlweɪz drɪŋk ˈkɔːfi/",
+    "portuguesePhonetic": "[ái ólueiz drínk kófi]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_56",
+    "word": "She often goes to the gym.",
+    "translation": "Ela vai à academia com frequência.",
+    "pronunciation": "/ʃiː ˈɔːfn̩ ɡoʊz tə ðə dʒɪm/",
+    "portuguesePhonetic": "[chí ófen gôuz tu dha djím]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_57",
+    "word": "They never play video games.",
+    "translation": "Eles nunca jogam videogame.",
+    "pronunciation": "/ðeɪ ˈnɛvər pleɪ ˈvɪdioʊ ɡeɪmz/",
+    "portuguesePhonetic": "[dhêi néver plêi vídiou guêimz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_58",
+    "word": "Do you study English?",
+    "translation": "Você estuda inglês?",
+    "pronunciation": "/duː juː ˈstʌdi ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "[dú iú stâdi ínglich]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_59",
+    "word": "I don't watch TV.",
+    "translation": "Eu não assisto TV.",
+    "pronunciation": "/aɪ doʊnt wɑːtʃ ˌtiːˈviː/",
+    "portuguesePhonetic": "[ái dôunt uátch ti-ví]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_60",
+    "word": "Does he play soccer?",
+    "translation": "Ele joga futebol?",
+    "pronunciation": "/dʌz hiː pleɪ ˈsɑːkər/",
+    "portuguesePhonetic": "[dâz rrí plêi sáker]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_61",
+    "word": "Why do you wear glasses?",
+    "translation": "Por que você usa óculos?",
+    "pronunciation": "/waɪ duː juː wɛr ˈɡlæsɪz/",
+    "portuguesePhonetic": "[uái dú iú uér glésiz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_62",
+    "word": "When do you go to bed?",
+    "translation": "A que horas você vai dormir?",
+    "pronunciation": "/wɛn duː juː ɡoʊ tə bɛd/",
+    "portuguesePhonetic": "[uén dú iú gôu tu béd]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_63",
+    "word": "I listen to music when I work.",
+    "translation": "Eu ouço música quando trabalho.",
+    "pronunciation": "/aɪ ˈlɪsn̩ tə ˈmjuːzɪk wɛn aɪ wɜːrk/",
+    "portuguesePhonetic": "[ái lísan tu miúzik uén ái uârk]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_64",
+    "word": "She is cooking dinner now.",
+    "translation": "Ela está cozinhando o jantar agora.",
+    "pronunciation": "/ʃiː ɪz ˈkʊkɪŋ ˈdɪnər naʊ/",
+    "portuguesePhonetic": "[chí iz kúkin díner náu]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_65",
+    "word": "I called a friend yesterday.",
+    "translation": "Eu liguei para um amigo ontem.",
+    "pronunciation": "/aɪ kɔːld ə frɛnd ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[ái kóld a frénd iéster dei]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_66",
+    "word": "We were playing video games when you arrived.",
+    "translation": "Estávamos jogando videogame quando você chegou.",
+    "pronunciation": "/wiː wɜːr ˈpleɪɪŋ ˈvɪdioʊ ɡeɪmz wɛn juː əˈraɪvd/",
+    "portuguesePhonetic": "[uí uâr plêin vídiou guêimz uén iú aráivd]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_67",
+    "word": "He took a photo of the museum.",
+    "translation": "Ele tirou uma foto do museu.",
+    "pronunciation": "/hiː tʊk ə ˈfoʊtoʊ əv ðə mjuˈziːəm/",
+    "portuguesePhonetic": "[rrí túk a fôutou ov dha miuzíam]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_68",
+    "word": "I want to go on vacation because I'm tired.",
+    "translation": "Eu quero viajar de férias porque estou cansado.",
+    "pronunciation": "/aɪ wɑːnt tə ɡoʊ ɑːn veɪˈkeɪʃn̩ bɪˈkɔːz aɪm ˈtaɪərd/",
+    "portuguesePhonetic": "[ái uánt tu gôu ón veikêichan bikóz áim táierd]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_69",
+    "word": "She reads a book every night before she goes to bed.",
+    "translation": "Ela lê um livro toda noite antes de dormir.",
+    "pronunciation": "/ʃiː riːdz ə bʊk ˈɛvri naɪt bɪˈfɔːr ʃiː ɡoʊz tə bɛd/",
+    "portuguesePhonetic": "[chí rídz a búk évri náit bifór chí gôuz tu béd]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_70",
+    "word": "I'll send you an email when I get home.",
+    "translation": "Vou te enviar um e-mail quando chegar em casa.",
+    "pronunciation": "/aɪl sɛnd juː ən ˈiːmeɪl wɛn aɪ ɡɛt hoʊm/",
+    "portuguesePhonetic": "[áiou sénd iú an ímeiou uén ái guét rrôum]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_71",
+    "word": "He didn't go to work because he was sick.",
+    "translation": "Ele não foi trabalhar porque estava doente.",
+    "pronunciation": "/hiː ˈdɪdnt ɡoʊ tə wɜːrk bɪˈkɔːz hiː wəz sɪk/",
+    "portuguesePhonetic": "[rrí dídent gôu tu uârk bikóz rrí uâz sík]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_72",
+    "word": "I usually cook dinner, but tonight we'll eat out.",
+    "translation": "Eu geralmente cozinho o jantar, mas hoje vamos comer fora.",
+    "pronunciation": "/aɪ ˈjuːʒuəli kʊk ˈdɪnər bʌt təˈnaɪt wiːl iːt aʊt/",
+    "portuguesePhonetic": "[ái iújuali kúk díner bât tunáit uíou ít áut]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_73",
+    "word": "Although I study English every day, I still make mistakes.",
+    "translation": "Embora eu estude inglês todo dia, ainda cometo erros.",
+    "pronunciation": "/ɔːlˈðoʊ aɪ ˈstʌdi ˈɪŋɡlɪʃ ˈɛvri deɪ aɪ stɪl meɪk mɪˈsteɪks/",
+    "portuguesePhonetic": "[oldhôu ái stâdi ínglich évri dêi ái stíou mêik mistêiks]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_74",
+    "word": "Have you ever visited a museum in another country?",
+    "translation": "Você já visitou um museu em outro país?",
+    "pronunciation": "/hæv juː ˈɛvər ˈvɪzɪtɪd ə mjuˈziːəm ɪn əˈnʌðər ˈkʌntri/",
+    "portuguesePhonetic": "[rrév iú éver vízited a miuzíam in anâdher kântri]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_75",
+    "word": "I was listening to music, so I didn't hear the phone.",
+    "translation": "Eu estava ouvindo música, então não ouvi o telefone.",
+    "pronunciation": "/aɪ wəz ˈlɪsn̩ɪŋ tə ˈmjuːzɪk soʊ aɪ ˈdɪdnt hɪr ðə foʊn/",
+    "portuguesePhonetic": "[ái uâz lísanin tu miúzik sôu ái dídent rrír dha fôun]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_76",
+    "word": "\"What do you do after work?\" / \"I cook dinner.\"",
+    "translation": "\"O que você faz depois do trabalho?\" / \"Eu cozinho o jantar.\"",
+    "pronunciation": "/wʌt duː juː duː ˈæftər wɜːrk · aɪ kʊk ˈdɪnər/",
+    "portuguesePhonetic": "[uât dú iú dú éfter uârk · ái kúk díner]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_77",
+    "word": "\"Do you play soccer?\" / \"Yes, every weekend.\"",
+    "translation": "\"Você joga futebol?\" / \"Sim, todo fim de semana.\"",
+    "pronunciation": "/duː juː pleɪ ˈsɑːkər · jɛs ˈɛvri ˈwiːkɛnd/",
+    "portuguesePhonetic": "[dú iú plêi sáker · iés évri uíkend]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_78",
+    "word": "\"Can you call me later?\" / \"Sure, I will.\"",
+    "translation": "\"Você pode me ligar mais tarde?\" / \"Claro, vou ligar.\"",
+    "pronunciation": "/kæn juː kɔːl miː ˈleɪtər · ʃʊr aɪ wɪl/",
+    "portuguesePhonetic": "[kén iú kól mí lêiter · chúr ái uíou]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_79",
+    "word": "\"What are you doing?\" / \"I'm reading a book.\"",
+    "translation": "\"O que você está fazendo?\" / \"Estou lendo um livro.\"",
+    "pronunciation": "/wʌt ɑːr juː ˈduːɪŋ · aɪm ˈriːdɪŋ ə bʊk/",
+    "portuguesePhonetic": "[uât ár iú dúin · áim rídin a búk]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_80",
+    "word": "\"Do you want some coffee?\" / \"Yes, please.\"",
+    "translation": "\"Você quer um café?\" / \"Sim, por favor.\"",
+    "pronunciation": "/duː juː wɑːnt sʌm ˈkɔːfi · jɛs pliːz/",
+    "portuguesePhonetic": "[dú iú uánt sâm kófi · iés plíz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_81",
+    "word": "\"Did you send the email?\" / \"Yes, I did.\"",
+    "translation": "\"Você enviou o e-mail?\" / \"Sim, enviei.\"",
+    "pronunciation": "/dɪd juː sɛnd ðə ˈiːmeɪl · jɛs aɪ dɪd/",
+    "portuguesePhonetic": "[díd iú sénd dha ímeiou · iés ái díd]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_82",
+    "word": "\"Can you take a photo of us?\" / \"Of course!\"",
+    "translation": "\"Você pode tirar uma foto da gente?\" / \"Claro!\"",
+    "pronunciation": "/kæn juː teɪk ə ˈfoʊtoʊ əv ʌs · ʌv kɔːrs/",
+    "portuguesePhonetic": "[kén iú têik a fôutou ov âs · óv kórs]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_83",
+    "word": "\"What time do you go to bed?\" / \"Around eleven.\"",
+    "translation": "\"A que horas você vai dormir?\" / \"Por volta das onze.\"",
+    "pronunciation": "/wʌt taɪm duː juː ɡoʊ tə bɛd · əˈraʊnd ɪˈlɛvn̩/",
+    "portuguesePhonetic": "[uât táim dú iú gôu tu béd · aráund ilévan]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_84",
+    "word": "\"Do you study English every day?\" / \"No, just on weekends.\"",
+    "translation": "\"Você estuda inglês todo dia?\" / \"Não, só nos fins de semana.\"",
+    "pronunciation": "/duː juː ˈstʌdi ˈɪŋɡlɪʃ ˈɛvri deɪ · noʊ dʒʌst ɑːn ˈwiːkɛndz/",
+    "portuguesePhonetic": "[dú iú stâdi ínglich évri dêi · nôu djâst ón uíkendz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_85",
+    "word": "\"What do you do for fun?\" / \"I play video games.\"",
+    "translation": "\"O que você faz pra se divertir?\" / \"Eu jogo videogame.\"",
+    "pronunciation": "/wʌt duː juː duː fɔːr fʌn · aɪ pleɪ ˈvɪdioʊ ɡeɪmz/",
+    "portuguesePhonetic": "[uât dú iú dú fór fân · ái plêi vídiou guêimz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_86",
+    "word": "\"Are you going on vacation?\" / \"Yes, next week.\"",
+    "translation": "\"Você vai viajar de férias?\" / \"Sim, semana que vem.\"",
+    "pronunciation": "/ɑːr juː ˈɡoʊɪŋ ɑːn veɪˈkeɪʃn̩ · jɛs nɛkst wiːk/",
+    "portuguesePhonetic": "[ár iú gôuin ón veikêichan · iés nékst uík]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_87",
+    "word": "\"Do you exercise a lot?\" / \"No, not really.\"",
+    "translation": "\"Você faz muito exercício?\" / \"Não, na verdade não.\"",
+    "pronunciation": "/duː juː ˈɛksərsaɪz ə lɑːt · noʊ nɑːt ˈrɪli/",
+    "portuguesePhonetic": "[dú iú éksersaiz a lót · nôu nót ríli]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_88",
+    "word": "\"Can you send me a text?\" / \"Sure, what's your number?\"",
+    "translation": "\"Pode me mandar uma mensagem?\" / \"Claro, qual é seu número?\"",
+    "pronunciation": "/kæn juː sɛnd miː ə tɛkst · ʃʊr wʌts jɔːr ˈnʌmbər/",
+    "portuguesePhonetic": "[kén iú sénd mí a tékst · chúr uâts iór nâmber]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_89",
+    "word": "\"Do you wear glasses?\" / \"Only for reading.\"",
+    "translation": "\"Você usa óculos?\" / \"Só para ler.\"",
+    "pronunciation": "/duː juː wɛr ˈɡlæsɪz · ˈoʊnli fɔːr ˈriːdɪŋ/",
+    "portuguesePhonetic": "[dú iú uér glésiz · ôunli fór rídin]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_90",
+    "word": "\"What do you listen to?\" / \"Mostly rock music.\"",
+    "translation": "\"O que você ouve?\" / \"Mais rock.\"",
+    "pronunciation": "/wʌt duː juː ˈlɪsn̩ tuː · ˈmoʊstli rɑːk ˈmjuːzɪk/",
+    "portuguesePhonetic": "[uât dú iú lísan tú · môustli rók miúzik]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_91",
+    "word": "\"Do you want to watch TV?\" / \"Maybe later.\"",
+    "translation": "\"Você quer assistir TV?\" / \"Talvez mais tarde.\"",
+    "pronunciation": "/duː juː wɑːnt tə wɑːtʃ ˌtiːˈviː · ˈmeɪbi ˈleɪtər/",
+    "portuguesePhonetic": "[dú iú uánt tu uátch ti-ví · mêibi lêiter]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_92",
+    "word": "\"Can you play the guitar?\" / \"A little bit.\"",
+    "translation": "\"Você sabe tocar violão?\" / \"Um pouquinho.\"",
+    "pronunciation": "/kæn juː pleɪ ðə ɡɪˈtɑːr · ə ˈlɪtl̩ bɪt/",
+    "portuguesePhonetic": "[kén iú plêi dha guitár · a lítou bít]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_93",
+    "word": "\"Did you go to work today?\" / \"No, it's my day off.\"",
+    "translation": "\"Você foi trabalhar hoje?\" / \"Não, é minha folga.\"",
+    "pronunciation": "/dɪd juː ɡoʊ tə wɜːrk təˈdeɪ · noʊ ɪts maɪ deɪ ɔːf/",
+    "portuguesePhonetic": "[díd iú gôu tu uârk tudêi · nôu íts mái dêi óf]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_94",
+    "word": "\"Do you cook every day?\" / \"No, sometimes I order food.\"",
+    "translation": "\"Você cozinha todo dia?\" / \"Não, às vezes peço comida.\"",
+    "pronunciation": "/duː juː kʊk ˈɛvri deɪ · noʊ ˈsʌmtaɪmz aɪ ˈɔːrdər fuːd/",
+    "portuguesePhonetic": "[dú iú kúk évri dêi · nôu sâmtaimz ái órder fúd]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_95",
+    "word": "\"Have you visited the new museum?\" / \"Not yet.\"",
+    "translation": "\"Você já visitou o museu novo?\" / \"Ainda não.\"",
+    "pronunciation": "/hæv juː ˈvɪzɪtɪd ðə nuː mjuˈziːəm · nɑːt jɛt/",
+    "portuguesePhonetic": "[rrév iú vízited dha niú miuzíam · nót iét]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_96",
+    "word": "\"What did you do yesterday?\" / \"I read a book.\"",
+    "translation": "\"O que você fez ontem?\" / \"Eu li um livro.\"",
+    "pronunciation": "/wʌt dɪd juː duː ˈjɛstərdeɪ · aɪ rɛd ə bʊk/",
+    "portuguesePhonetic": "[uât díd iú dú iéster dei · ái réd a búk]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_97",
+    "word": "\"Do you drink coffee in the morning?\" / \"Yes, always.\"",
+    "translation": "\"Você toma café de manhã?\" / \"Sim, sempre.\"",
+    "pronunciation": "/duː juː drɪŋk ˈkɔːfi ɪn ðə ˈmɔːrnɪŋ · jɛs ˈɔːlweɪz/",
+    "portuguesePhonetic": "[dú iú drínk kófi in dha mórnin · iés ólueiz]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_98",
+    "word": "\"Are you free tonight?\" / \"No, I'm studying English.\"",
+    "translation": "\"Você está livre hoje à noite?\" / \"Não, estou estudando inglês.\"",
+    "pronunciation": "/ɑːr juː friː təˈnaɪt · noʊ aɪm ˈstʌdiɪŋ ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "[ár iú frí tunáit · nôu áim stâdiin ínglich]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_99",
+    "word": "\"Did you call your friend?\" / \"Yes, we talked for an hour.\"",
+    "translation": "\"Você ligou para seu amigo?\" / \"Sim, conversamos por uma hora.\"",
+    "pronunciation": "/dɪd juː kɔːl jɔːr frɛnd · jɛs wiː tɔːkt fɔːr ən ˈaʊər/",
+    "portuguesePhonetic": "[díd iú kól iór frénd · iés uí tókt fór an áuer]"
+  },
+  {
+    "id": "lesson_2_vocabulary_a1_en_card_100",
+    "word": "\"What are your plans for the weekend?\" / \"I'm going on vacation.\"",
+    "translation": "\"Quais são seus planos pro fim de semana?\" / \"Vou viajar de férias.\"",
+    "pronunciation": "/wʌt ɑːr jɔːr plænz fɔːr ðə ˈwiːkɛnd · aɪm ˈɡoʊɪŋ ɑːn veɪˈkeɪʃn̩/",
+    "portuguesePhonetic": "[uât ár iór plénz fór dha uíkend · áim gôuin ón veikêichan]"
+  }
+]

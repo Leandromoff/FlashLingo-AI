@@ -1,0 +1,1704 @@
+[
+  {
+    "id": "to_call_wait_1",
+    "word": "to call",
+    "translation": "chamar, ligar",
+    "pronunciation": "/tə kɔl/",
+    "portuguesePhonetic": "tchu col",
+    "syllables": [
+      "to",
+      " call"
+    ],
+    "exampleSentence": "to call",
+    "exampleTranslation": "chamar, ligar"
+  },
+  {
+    "id": "to_call_wait_2",
+    "word": "to wait",
+    "translation": "esperar",
+    "pronunciation": "/tə weɪt/",
+    "portuguesePhonetic": "tchu uêit",
+    "syllables": [
+      "to",
+      " wait"
+    ],
+    "exampleSentence": "to wait",
+    "exampleTranslation": "esperar"
+  },
+  {
+    "id": "to_call_wait_3",
+    "word": "beverage",
+    "translation": "bebida",
+    "pronunciation": "/ˈbɛvərɪdʒ/",
+    "portuguesePhonetic": "bé-ve-ridj",
+    "syllables": [
+      "be",
+      "ve",
+      "rage"
+    ],
+    "exampleSentence": "beverage",
+    "exampleTranslation": "bebida"
+  },
+  {
+    "id": "to_call_wait_4",
+    "word": "bar",
+    "translation": "bar",
+    "pronunciation": "/bɑr/",
+    "portuguesePhonetic": "bar",
+    "syllables": [
+      "bar"
+    ],
+    "exampleSentence": "bar",
+    "exampleTranslation": "bar"
+  },
+  {
+    "id": "to_call_wait_5",
+    "word": "barbecue",
+    "translation": "churrasco",
+    "pronunciation": "/ˈbɑrbɪˌkju/",
+    "portuguesePhonetic": "bar-bi-kiú",
+    "syllables": [
+      "bar",
+      "be",
+      "cue"
+    ],
+    "exampleSentence": "barbecue",
+    "exampleTranslation": "churrasco"
+  },
+  {
+    "id": "to_call_wait_6",
+    "word": "chef",
+    "translation": "chefe de cozinha",
+    "pronunciation": "/ʃɛf/",
+    "portuguesePhonetic": "xéf",
+    "syllables": [
+      "chef"
+    ],
+    "exampleSentence": "chef",
+    "exampleTranslation": "chefe de cozinha"
+  },
+  {
+    "id": "to_call_wait_7",
+    "word": "vegetarian",
+    "translation": "vegetariano(a)",
+    "pronunciation": "/ˌvɛdʒəˈtɛriən/",
+    "portuguesePhonetic": "ve-dji-té-ri-an",
+    "syllables": [
+      "ve",
+      "ge",
+      "ta",
+      "ri",
+      "an"
+    ],
+    "exampleSentence": "vegetarian",
+    "exampleTranslation": "vegetariano(a)"
+  },
+  {
+    "id": "to_call_wait_8",
+    "word": "vegan",
+    "translation": "vegano(a)",
+    "pronunciation": "/ˈviɡən/",
+    "portuguesePhonetic": "ví-gan",
+    "syllables": [
+      "ve",
+      "gan"
+    ],
+    "exampleSentence": "vegan",
+    "exampleTranslation": "vegano(a)"
+  },
+  {
+    "id": "to_call_wait_9",
+    "word": "comfortable",
+    "translation": "confortável",
+    "pronunciation": "/ˈkʌmfərtəbəl/",
+    "portuguesePhonetic": "câm-fãr-ta-bou",
+    "syllables": [
+      "com",
+      "for",
+      "ta",
+      "ble"
+    ],
+    "exampleSentence": "comfortable",
+    "exampleTranslation": "confortável"
+  },
+  {
+    "id": "to_call_wait_10",
+    "word": "almost",
+    "translation": "quase",
+    "pronunciation": "/ˈɔlˌmoʊst/",
+    "portuguesePhonetic": "ól-môust",
+    "syllables": [
+      "al",
+      "most"
+    ],
+    "exampleSentence": "almost",
+    "exampleTranslation": "quase"
+  },
+  {
+    "id": "to_call_wait_11",
+    "word": "often",
+    "translation": "frequentemente",
+    "pronunciation": "/ˈɔfən/",
+    "portuguesePhonetic": "ó-fen",
+    "syllables": [
+      "of",
+      "ten"
+    ],
+    "exampleSentence": "often",
+    "exampleTranslation": "frequentemente"
+  },
+  {
+    "id": "to_call_wait_12",
+    "word": "always",
+    "translation": "sempre",
+    "pronunciation": "/ˈɔlˌweɪz/",
+    "portuguesePhonetic": "ól-uêiz",
+    "syllables": [
+      "al",
+      "ways"
+    ],
+    "exampleSentence": "always",
+    "exampleTranslation": "sempre"
+  },
+  {
+    "id": "to_call_wait_13",
+    "word": "never",
+    "translation": "nunca",
+    "pronunciation": "/ˈnɛvər/",
+    "portuguesePhonetic": "né-vãr",
+    "syllables": [
+      "ne",
+      "ver"
+    ],
+    "exampleSentence": "never",
+    "exampleTranslation": "nunca"
+  },
+  {
+    "id": "to_call_wait_14",
+    "word": "somebody",
+    "translation": "alguém",
+    "pronunciation": "/ˈsʌmbədi/",
+    "portuguesePhonetic": "sâm-bó-di",
+    "syllables": [
+      "some",
+      "bo",
+      "dy"
+    ],
+    "exampleSentence": "somebody",
+    "exampleTranslation": "alguém"
+  },
+  {
+    "id": "to_call_wait_15",
+    "word": "anybody",
+    "translation": "alguém, ninguém, qualquer um",
+    "pronunciation": "/ˈɛnibədi/",
+    "portuguesePhonetic": "é-ni-bó-di",
+    "syllables": [
+      "a",
+      "ny",
+      "bo",
+      "dy"
+    ],
+    "exampleSentence": "anybody",
+    "exampleTranslation": "alguém, ninguém, qualquer um"
+  },
+  {
+    "id": "to_call_wait_16",
+    "word": "so",
+    "translation": "então, daí, depois",
+    "pronunciation": "/soʊ/",
+    "portuguesePhonetic": "sôu",
+    "syllables": [
+      "so"
+    ],
+    "exampleSentence": "so",
+    "exampleTranslation": "então, daí, depois"
+  },
+  {
+    "id": "to_call_wait_17",
+    "word": "how often",
+    "translation": "com que frequência",
+    "pronunciation": "/haʊ ˈɔfən/",
+    "portuguesePhonetic": "ráu ó-fen",
+    "syllables": [
+      "how",
+      " of",
+      "ten"
+    ],
+    "exampleSentence": "how often",
+    "exampleTranslation": "com que frequência"
+  },
+  {
+    "id": "to_call_wait_18",
+    "word": "I'm in a hurry.",
+    "translation": "Estou com pressa.",
+    "pronunciation": "/aɪm ɪn ə ˈhɜri./",
+    "portuguesePhonetic": "aim in a rã-ri.",
+    "syllables": [
+      "I'm",
+      " in",
+      " a",
+      " hur",
+      "ry."
+    ],
+    "exampleSentence": "I'm in a hurry.",
+    "exampleTranslation": "Estou com pressa."
+  },
+  {
+    "id": "to_call_wait_19",
+    "word": "Hurry up! We're late.",
+    "translation": "Apresse-se! Nós estamos atrasados.",
+    "pronunciation": "/ˈhɜri ʌp! wɪr leɪt./",
+    "portuguesePhonetic": "rã-ri âp! uíar lêit.",
+    "syllables": [
+      "Hur",
+      "ry",
+      " up!",
+      " We're",
+      " late."
+    ],
+    "exampleSentence": "Hurry up! We're late.",
+    "exampleTranslation": "Apresse-se! Nós estamos atrasados."
+  },
+  {
+    "id": "to_call_wait_20",
+    "word": "He's always on time.",
+    "translation": "Ele está sempre no horário.",
+    "pronunciation": "/hiz ˈɔlˌweɪz ɑn taɪm./",
+    "portuguesePhonetic": "riz ól-uêiz an taim.",
+    "syllables": [
+      "He's",
+      " al",
+      "ways",
+      " on",
+      " time."
+    ],
+    "exampleSentence": "He's always on time.",
+    "exampleTranslation": "Ele está sempre no horário."
+  },
+  {
+    "id": "to_call_wait_21",
+    "word": "Somebody is upset about this problem.",
+    "translation": "Alguém está chateado com esse problema.",
+    "pronunciation": "/ˈsʌmbədi ɪz əpˈsɛt əˈbaʊt ðɪs ˈprɑbləm./",
+    "portuguesePhonetic": "sâm-bó-di iz ãp-sét a-báut díz pró-blam.",
+    "syllables": [
+      "Some",
+      "bo",
+      "dy",
+      " is",
+      " up",
+      "set",
+      " a",
+      "bout",
+      " this",
+      " pro",
+      "blem."
+    ],
+    "exampleSentence": "Somebody is upset about this problem.",
+    "exampleTranslation": "Alguém está chateado com esse problema."
+  },
+  {
+    "id": "to_call_wait_22",
+    "word": "We need somebody to make their dinner.",
+    "translation": "Nós precisamos de alguém para fazer o jantar deles.",
+    "pronunciation": "/wi nid ˈsʌmbədi tə meɪk ðɛr ˈdɪnər./",
+    "portuguesePhonetic": "uí nid sâm-bó-di tchu mêic dér dí-nãr.",
+    "syllables": [
+      "We",
+      " need",
+      " some",
+      "bo",
+      "dy",
+      " to",
+      " make",
+      " their",
+      " din",
+      "ner."
+    ],
+    "exampleSentence": "We need somebody to make their dinner.",
+    "exampleTranslation": "Nós precisamos de alguém para fazer o jantar deles."
+  },
+  {
+    "id": "to_call_wait_23",
+    "word": "I don't know anybody here.",
+    "translation": "Eu não conheço ninguém aqui.",
+    "pronunciation": "/aɪ doʊnt noʊ ˈɛnibədi hɪr./",
+    "portuguesePhonetic": "ai dôunt nôu é-ni-bó-di rir.",
+    "syllables": [
+      "I",
+      " don't",
+      " know",
+      " a",
+      "ny",
+      "bo",
+      "dy",
+      " here."
+    ],
+    "exampleSentence": "I don't know anybody here.",
+    "exampleTranslation": "Eu não conheço ninguém aqui."
+  },
+  {
+    "id": "to_call_wait_24",
+    "word": "He doesn't want to talk to anybody.",
+    "translation": "Ele não quer falar com ninguém.",
+    "pronunciation": "/hi ˈdʌzənt wɑnt tə tɔk tu ˈɛnibədi./",
+    "portuguesePhonetic": "ri dâ-zônt uónt tchu tóc tchu é-ni-bó-di.",
+    "syllables": [
+      "He",
+      " doe",
+      "sn't",
+      " want",
+      " to",
+      " talk",
+      " to",
+      " a",
+      "ny",
+      "bo",
+      "dy."
+    ],
+    "exampleSentence": "He doesn't want to talk to anybody.",
+    "exampleTranslation": "Ele não quer falar com ninguém."
+  },
+  {
+    "id": "to_call_wait_25",
+    "word": "Does anybody speak English here?",
+    "translation": "Alguém fala inglês aqui?",
+    "pronunciation": "/dʌz ˈɛnibədi spik ˈɪŋɡlɪʃ hɪr?/",
+    "portuguesePhonetic": "dâz é-ni-bó-di spíc in-glix rir?",
+    "syllables": [
+      "Does",
+      " a",
+      "ny",
+      "bo",
+      "dy",
+      " speak",
+      " En",
+      "glish",
+      " here?"
+    ],
+    "exampleSentence": "Does anybody speak English here?",
+    "exampleTranslation": "Alguém fala inglês aqui?"
+  },
+  {
+    "id": "to_call_wait_26",
+    "word": "I need to call my mother now.",
+    "translation": "Eu preciso ligar para a minha mãe agora.",
+    "pronunciation": "/aɪ nid tə kɔl maɪ ˈmʌðər naʊ./",
+    "portuguesePhonetic": "ai nid tchu col mai mâ-dãr náu.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " call",
+      " my",
+      " mo",
+      "ther",
+      " now."
+    ],
+    "exampleSentence": "I need to call my mother now.",
+    "exampleTranslation": "Eu preciso ligar para a minha mãe agora."
+  },
+  {
+    "id": "to_call_wait_27",
+    "word": "She always calls me on my birthday.",
+    "translation": "Ela sempre me liga no meu aniversário.",
+    "pronunciation": "/ʃi ˈɔlˌweɪz kɔlz mi ɑn maɪ ˈbɜrθˌdeɪ./",
+    "portuguesePhonetic": "xi ól-uêiz cols mi an mai bãrth-dêi.",
+    "syllables": [
+      "She",
+      " al",
+      "ways",
+      " calls",
+      " me",
+      " on",
+      " my",
+      " birth",
+      "day."
+    ],
+    "exampleSentence": "She always calls me on my birthday.",
+    "exampleTranslation": "Ela sempre me liga no meu aniversário."
+  },
+  {
+    "id": "to_call_wait_28",
+    "word": "Call your father. He's worried.",
+    "translation": "Ligue para o seu pai. Ele está preocupado.",
+    "pronunciation": "/kɔl jʊr ˈfɑðər. hiz ˈwɜrid./",
+    "portuguesePhonetic": "col iór fá-dãr. riz uô-rid.",
+    "syllables": [
+      "Call",
+      " your",
+      " fa",
+      "ther.",
+      " He's",
+      " wor",
+      "ried."
+    ],
+    "exampleSentence": "Call your father. He's worried.",
+    "exampleTranslation": "Ligue para o seu pai. Ele está preocupado."
+  },
+  {
+    "id": "to_call_wait_29",
+    "word": "I have to wait for my brother here.",
+    "translation": "Eu tenho que esperar pelo meu irmão aqui.",
+    "pronunciation": "/aɪ hæv tə weɪt fɔr maɪ ˈbrʌðər hɪr./",
+    "portuguesePhonetic": "ai rév tchu uêit fór mai brâ-dãr rir.",
+    "syllables": [
+      "I",
+      " have",
+      " to",
+      " wait",
+      " for",
+      " my",
+      " bro",
+      "ther",
+      " here."
+    ],
+    "exampleSentence": "I have to wait for my brother here.",
+    "exampleTranslation": "Eu tenho que esperar pelo meu irmão aqui."
+  },
+  {
+    "id": "to_call_wait_30",
+    "word": "I'm late, so don't wait for me.",
+    "translation": "Eu estou atrasado, então não me espere.",
+    "pronunciation": "/aɪm leɪt, soʊ doʊnt weɪt fɔr mi./",
+    "portuguesePhonetic": "aim lêit, sôu dôunt uêit fór mi.",
+    "syllables": [
+      "I'm",
+      " late,",
+      " so",
+      " don't",
+      " wait",
+      " for",
+      " me."
+    ],
+    "exampleSentence": "I'm late, so don't wait for me.",
+    "exampleTranslation": "Eu estou atrasado, então não me espere."
+  },
+  {
+    "id": "to_call_wait_31",
+    "word": "Dinner is almost ready.",
+    "translation": "O jantar está quase pronto.",
+    "pronunciation": "/ˈdɪnər ɪz ˈɔlˌmoʊst ˈrɛdi./",
+    "portuguesePhonetic": "dí-nãr iz ól-môust ré-di.",
+    "syllables": [
+      "Din",
+      "ner",
+      " is",
+      " al",
+      "most",
+      " rea",
+      "dy."
+    ],
+    "exampleSentence": "Dinner is almost ready.",
+    "exampleTranslation": "O jantar está quase pronto."
+  },
+  {
+    "id": "to_call_wait_32",
+    "word": "Do you know anybody in Germany?",
+    "translation": "Você conhece alguém na Alemanha?",
+    "pronunciation": "/du ju noʊ ˈɛnibədi ɪn ˈdʒɜrməni?/",
+    "portuguesePhonetic": "du iu nôu é-ni-bó-di in djãr-ma-ni?",
+    "syllables": [
+      "Do",
+      " you",
+      " know",
+      " a",
+      "ny",
+      "bo",
+      "dy",
+      " in",
+      " Ger",
+      "ma",
+      "ny?"
+    ],
+    "exampleSentence": "Do you know anybody in Germany?",
+    "exampleTranslation": "Você conhece alguém na Alemanha?"
+  },
+  {
+    "id": "to_call_wait_33",
+    "word": "She doesn't want to see anybody.",
+    "translation": "Ela não quer ver ninguém.",
+    "pronunciation": "/ʃi ˈdʌzənt wɑnt tə si ˈɛnibədi./",
+    "portuguesePhonetic": "xi dâ-zônt uónt tchu si é-ni-bó-di.",
+    "syllables": [
+      "She",
+      " doe",
+      "sn't",
+      " want",
+      " to",
+      " see",
+      " a",
+      "ny",
+      "bo",
+      "dy."
+    ],
+    "exampleSentence": "She doesn't want to see anybody.",
+    "exampleTranslation": "Ela não quer ver ninguém."
+  },
+  {
+    "id": "to_call_wait_34",
+    "word": "Somebody wants to speak with you.",
+    "translation": "Alguém quer falar com você.",
+    "pronunciation": "/ˈsʌmbədi wɑnts tə spik wɪθ ju./",
+    "portuguesePhonetic": "sâm-bó-di uónts tchu spíc uith iu.",
+    "syllables": [
+      "Some",
+      "bo",
+      "dy",
+      " wants",
+      " to",
+      " speak",
+      " with",
+      " you."
+    ],
+    "exampleSentence": "Somebody wants to speak with you.",
+    "exampleTranslation": "Alguém quer falar com você."
+  },
+  {
+    "id": "to_call_wait_35",
+    "word": "How often do you see your cousins?",
+    "translation": "Com que frequência você vê seus primos?",
+    "pronunciation": "/haʊ ˈɔfən du ju si jʊr ˈkʌzənz?/",
+    "portuguesePhonetic": "ráu ó-fen du iu si iór cã-zins?",
+    "syllables": [
+      "How",
+      " of",
+      "ten",
+      " do",
+      " you",
+      " see",
+      " your",
+      " cou",
+      "sins?"
+    ],
+    "exampleSentence": "How often do you see your cousins?",
+    "exampleTranslation": "Com que frequência você vê seus primos?"
+  },
+  {
+    "id": "to_call_wait_36",
+    "word": "He is never in a hurry.",
+    "translation": "Ele nunca está com pressa.",
+    "pronunciation": "/hi ɪz ˈnɛvər ɪn ə ˈhɜri./",
+    "portuguesePhonetic": "ri iz né-vãr in a rã-ri.",
+    "syllables": [
+      "He",
+      " is",
+      " ne",
+      "ver",
+      " in",
+      " a",
+      " hur",
+      "ry."
+    ],
+    "exampleSentence": "He is never in a hurry.",
+    "exampleTranslation": "Ele nunca está com pressa."
+  },
+  {
+    "id": "to_call_wait_37",
+    "word": "I often read books in English.",
+    "translation": "Eu frequentemente leio livros em inglês.",
+    "pronunciation": "/aɪ ˈɔfən rid bʊks ɪn ˈɪŋɡlɪʃ./",
+    "portuguesePhonetic": "ai ó-fen rid bucs in in-glix.",
+    "syllables": [
+      "I",
+      " of",
+      "ten",
+      " read",
+      " books",
+      " in",
+      " En",
+      "glish."
+    ],
+    "exampleSentence": "I often read books in English.",
+    "exampleTranslation": "Eu frequentemente leio livros em inglês."
+  },
+  {
+    "id": "to_call_wait_38",
+    "word": "usually",
+    "translation": "geralmente",
+    "pronunciation": "/ˈjuʒuəli/",
+    "portuguesePhonetic": "iú-ju-a-li",
+    "syllables": [
+      "u",
+      "sual",
+      "ly"
+    ],
+    "exampleSentence": "usually",
+    "exampleTranslation": "geralmente"
+  },
+  {
+    "id": "to_call_wait_39",
+    "word": "sometimes",
+    "translation": "às vezes",
+    "pronunciation": "/ˈsʌmˌtaɪmz/",
+    "portuguesePhonetic": "sâm-taims",
+    "syllables": [
+      "some",
+      "times"
+    ],
+    "exampleSentence": "sometimes",
+    "exampleTranslation": "às vezes"
+  },
+  {
+    "id": "to_call_wait_40",
+    "word": "almost never",
+    "translation": "quase nunca",
+    "pronunciation": "/ˈɔlˌmoʊst ˈnɛvər/",
+    "portuguesePhonetic": "ól-môust né-vãr",
+    "syllables": [
+      "al",
+      "most",
+      " ne",
+      "ver"
+    ],
+    "exampleSentence": "almost never",
+    "exampleTranslation": "quase nunca"
+  },
+  {
+    "id": "to_call_wait_41",
+    "word": "once a week",
+    "translation": "uma vez por semana",
+    "pronunciation": "/wʌns ə wik/",
+    "portuguesePhonetic": "uâns a uic",
+    "syllables": [
+      "once",
+      " a",
+      " week"
+    ],
+    "exampleSentence": "once a week",
+    "exampleTranslation": "uma vez por semana"
+  },
+  {
+    "id": "to_call_wait_42",
+    "word": "twice a week",
+    "translation": "duas vezes por semana",
+    "pronunciation": "/twaɪs ə wik/",
+    "portuguesePhonetic": "tu-ais a uic",
+    "syllables": [
+      "twice",
+      " a",
+      " week"
+    ],
+    "exampleSentence": "twice a week",
+    "exampleTranslation": "duas vezes por semana"
+  },
+  {
+    "id": "to_call_wait_43",
+    "word": "three times a week",
+    "translation": "três vezes por semana",
+    "pronunciation": "/θri taɪmz ə wik/",
+    "portuguesePhonetic": "thrí taims a uic",
+    "syllables": [
+      "three",
+      " times",
+      " a",
+      " week"
+    ],
+    "exampleSentence": "three times a week",
+    "exampleTranslation": "três vezes por semana"
+  },
+  {
+    "id": "to_call_wait_44",
+    "word": "every day",
+    "translation": "todo dia",
+    "pronunciation": "/ˈɛvri deɪ/",
+    "portuguesePhonetic": "é-vri dêi",
+    "syllables": [
+      "e",
+      "very",
+      " day"
+    ],
+    "exampleSentence": "every day",
+    "exampleTranslation": "todo dia"
+  },
+  {
+    "id": "to_call_wait_45",
+    "word": "I sometimes see my grandmother.",
+    "translation": "Eu às vezes vejo a minha avó.",
+    "pronunciation": "/aɪ ˈsʌmˌtaɪmz si maɪ ˈɡrændˌmʌðər./",
+    "portuguesePhonetic": "ai sâm-taims si mai grénd-mâ-dãr.",
+    "syllables": [
+      "I",
+      " some",
+      "times",
+      " see",
+      " my",
+      " grand",
+      "mo",
+      "ther."
+    ],
+    "exampleSentence": "I sometimes see my grandmother.",
+    "exampleTranslation": "Eu às vezes vejo a minha avó."
+  },
+  {
+    "id": "to_call_wait_46",
+    "word": "She is sometimes at home.",
+    "translation": "Ela às vezes está em casa.",
+    "pronunciation": "/ʃi ɪz ˈsʌmˌtaɪmz æt hoʊm./",
+    "portuguesePhonetic": "xi iz sâm-taims ét rôum.",
+    "syllables": [
+      "She",
+      " is",
+      " some",
+      "times",
+      " at",
+      " home."
+    ],
+    "exampleSentence": "She is sometimes at home.",
+    "exampleTranslation": "Ela às vezes está em casa."
+  },
+  {
+    "id": "to_call_wait_47",
+    "word": "See you later / soon / tomorrow.",
+    "translation": "Vejo você mais tarde / em breve / amanhã.",
+    "pronunciation": "/si ju ˈleɪtər / sun / təˈmɑroʊ./",
+    "portuguesePhonetic": "si iu lêi-tãr / sun / tchu-mó-rou.",
+    "syllables": [
+      "See",
+      " you",
+      " la",
+      "ter /",
+      " soon /",
+      " to",
+      "mor",
+      "row."
+    ],
+    "exampleSentence": "See you later / soon / tomorrow.",
+    "exampleTranslation": "Vejo você mais tarde / em breve / amanhã."
+  },
+  {
+    "id": "to_call_wait_48",
+    "word": "I need to call my husband. I'm in a hurry.",
+    "translation": "Eu preciso ligar para o meu marido. Eu estou com pressa.",
+    "pronunciation": "/aɪ nid tu kɔl maɪ ˈhʌzbənd. aɪm ɪn ə ˈhɜri./",
+    "portuguesePhonetic": "ai nid tchu col mai rãs-band. aim in a rã-ri.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " call",
+      " my",
+      " hus",
+      "band.",
+      " I'm",
+      " in",
+      " a",
+      " hur",
+      "ry."
+    ],
+    "exampleSentence": "I need to call my husband. I'm in a hurry.",
+    "exampleTranslation": "Eu preciso ligar para o meu marido. Eu estou com pressa."
+  },
+  {
+    "id": "to_call_wait_49",
+    "word": "Does he want to wait for his doctor?",
+    "translation": "Ele quer esperar pelo médico dele?",
+    "pronunciation": "/dʌz hi wɑnt tu weɪt fɔr hɪz ˈdɑktər?/",
+    "portuguesePhonetic": "dâz ri uánt tchu uêit fór riz dóc-ter?",
+    "syllables": [
+      "Does",
+      " he",
+      " want",
+      " to",
+      " wait",
+      " for",
+      " his",
+      " doc",
+      "tor?"
+    ],
+    "exampleSentence": "Does he want to wait for his doctor?",
+    "exampleTranslation": "Ele quer esperar pelo médico dele?"
+  },
+  {
+    "id": "to_call_wait_50",
+    "word": "Why are you always in a hurry? – Because I'm usually late.",
+    "translation": "Por que você está sempre com pressa? – Porque eu geralmente estou atrasado.",
+    "pronunciation": "/waɪ ɑr ju ˈɔlˌweɪz ɪn ə ˈhɜri? – bɪˈkɔz aɪm ˈjuʒuəli leɪt./",
+    "portuguesePhonetic": "uái ar iu ól-uêiz in a rã-ri? – bi-cóz aim iú-ju-a-li lêit.",
+    "syllables": [
+      "Why",
+      " are",
+      " you",
+      " al",
+      "ways",
+      " in",
+      " a",
+      " hur",
+      "ry?",
+      " –",
+      " Be",
+      "cause",
+      " I'm",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " late."
+    ],
+    "exampleSentence": "Why are you always in a hurry? – Because I'm usually late.",
+    "exampleTranslation": "Por que você está sempre com pressa? – Porque eu geralmente estou atrasado."
+  },
+  {
+    "id": "to_call_wait_51",
+    "word": "Is she a vegetarian? – No, I think she is vegan.",
+    "translation": "Ela é vegetariana? – Não, eu acho que ela é vegana.",
+    "pronunciation": "/ɪz ʃi ə ˌvɛdʒəˈtɛriən? – noʊ, aɪ θɪŋk ʃi ɪz ˈviɡən./",
+    "portuguesePhonetic": "iz xi a ve-dji-té-ri-an? – nôu, ai thínc xi iz ví-gan.",
+    "syllables": [
+      "Is",
+      " she",
+      " a",
+      " veg",
+      "e",
+      "tar",
+      "i",
+      "an?",
+      " –",
+      " No,",
+      " I",
+      " think",
+      " she",
+      " is",
+      " ve",
+      "gan."
+    ],
+    "exampleSentence": "Is she a vegetarian? – No, I think she is vegan.",
+    "exampleTranslation": "Ela é vegetariana? – Não, eu acho que ela é vegana."
+  },
+  {
+    "id": "to_call_wait_52",
+    "word": "How often do you eat fast food?",
+    "translation": "Com que frequência você come comida rápida?",
+    "pronunciation": "/haʊ ˈɔfən du ju it fæst fud?/",
+    "portuguesePhonetic": "ráu ó-fen du iu it fest fud?",
+    "syllables": [
+      "How",
+      " of",
+      "ten",
+      " do",
+      " you",
+      " eat",
+      " fast",
+      " food?"
+    ],
+    "exampleSentence": "How often do you eat fast food?",
+    "exampleTranslation": "Com que frequência você come comida rápida?"
+  },
+  {
+    "id": "to_call_wait_53",
+    "word": "Wait a minute. I need to call my father.",
+    "translation": "Espere um pouco. Eu preciso telefonar para meu pai.",
+    "pronunciation": "/weɪt ə ˈmɪnət. aɪ nid tu kɔl maɪ ˈfɑðər./",
+    "portuguesePhonetic": "uêit a mí-nit. ai nid tchu col mai fá-der.",
+    "syllables": [
+      "Wait",
+      " a",
+      " min",
+      "ute.",
+      " I",
+      " need",
+      " to",
+      " call",
+      " my",
+      " fa",
+      "ther."
+    ],
+    "exampleSentence": "Wait a minute. I need to call my father.",
+    "exampleTranslation": "Espere um pouco. Eu preciso telefonar para meu pai."
+  },
+  {
+    "id": "to_call_wait_54",
+    "word": "Hurry up! Our boss doesn't like to wait.",
+    "translation": "Apressem-se! O nosso chefe não gosta de esperar.",
+    "pronunciation": "/ˈhɜri ʌp! ˈaʊər bɔs ˈdʌzənt laɪk tu weɪt./",
+    "portuguesePhonetic": "rã-ri âp! áu-er bós dâ-zent láic tchu uêit.",
+    "syllables": [
+      "Hur",
+      "ry",
+      " up!",
+      " Our",
+      " boss",
+      " doesn't",
+      " like",
+      " to",
+      " wait."
+    ],
+    "exampleSentence": "Hurry up! Our boss doesn't like to wait.",
+    "exampleTranslation": "Apressem-se! O nosso chefe não gosta de esperar."
+  },
+  {
+    "id": "to_call_wait_55",
+    "word": "I often go to that bar. My classmates sometimes meet me there.",
+    "translation": "Eu vou frequentemente àquele bar. Meus colegas de classe me encontram lá às vezes.",
+    "pronunciation": "/aɪ ˈɔfən goʊ tu ðæt bɑr. maɪ ˈklæsˌmeɪts ˈsʌmˌtaɪmz mit mi ðɛr./",
+    "portuguesePhonetic": "ai ó-fen gôu tchu dét bar. mai clés-mêits sâm-taims mit mi dér.",
+    "syllables": [
+      "I",
+      " of",
+      "ten",
+      " go",
+      " to",
+      " that",
+      " bar.",
+      " My",
+      " class",
+      "mates",
+      " some",
+      "times",
+      " meet",
+      " me",
+      " there."
+    ],
+    "exampleSentence": "I often go to that bar. My classmates sometimes meet me there.",
+    "exampleTranslation": "Eu vou frequentemente àquele bar. Meus colegas de classe me encontram lá às vezes."
+  },
+  {
+    "id": "to_call_wait_56",
+    "word": "Does anybody study with you at home? – No, I study alone.",
+    "translation": "Alguém estuda com você em casa? – Não, eu estudo sozinho.",
+    "pronunciation": "/dʌz ˈɛniˌbɑdi ˈstʌdi wɪð ju æt hoʊm? – noʊ, aɪ ˈstʌdi əˈloʊn./",
+    "portuguesePhonetic": "dâz é-ni-bó-di stâ-di uid iu ét rôum? – nôu, ai stâ-di a-lôun.",
+    "syllables": [
+      "Does",
+      " an",
+      "y",
+      "bod",
+      "y",
+      " stud",
+      "y",
+      " with",
+      " you",
+      " at",
+      " home?",
+      " –",
+      " No,",
+      " I",
+      " stud",
+      "y",
+      " a",
+      "lone."
+    ],
+    "exampleSentence": "Does anybody study with you at home? – No, I study alone.",
+    "exampleTranslation": "Alguém estuda com você em casa? – Não, eu estudo sozinho."
+  },
+  {
+    "id": "to_call_wait_57",
+    "word": "I don't like this sofa because it isn't comfortable.",
+    "translation": "Eu não gosto deste sofá porque ele não é confortável.",
+    "pronunciation": "/aɪ doʊnt laɪk ðɪs ˈsoʊfə bɪˈkɔz ɪt ˈɪzənt ˈkʌmfərtəbəl./",
+    "portuguesePhonetic": "ai dôunt láic díz sôu-fa bi-cóz it í-zent câm-fãr-ta-bou.",
+    "syllables": [
+      "I",
+      " don't",
+      " like",
+      " this",
+      " so",
+      "fa",
+      " be",
+      "cause",
+      " it",
+      " is",
+      "n't",
+      " com",
+      "fort",
+      "a",
+      "ble."
+    ],
+    "exampleSentence": "I don't like this sofa because it isn't comfortable.",
+    "exampleTranslation": "Eu não gosto deste sofá porque ele não é confortável."
+  },
+  {
+    "id": "to_call_wait_58",
+    "word": "How often do you eat vegetarian food?",
+    "translation": "Com que frequência você come comida vegetariana?",
+    "pronunciation": "/haʊ ˈɔfən du ju item ˌvɛdʒəˈtɛriən fud?/",
+    "portuguesePhonetic": "ráu ó-fen du iu it ve-dji-té-ri-an fud?",
+    "syllables": [
+      "How",
+      " of",
+      "ten",
+      " do",
+      " you",
+      " eat",
+      " veg",
+      "e",
+      "tar",
+      "i",
+      "an",
+      " food?"
+    ],
+    "exampleSentence": "How often do you eat vegetarian food?",
+    "exampleTranslation": "Com que frequência você come comida vegetariana?"
+  },
+  {
+    "id": "to_call_wait_59",
+    "word": "The dessert is almost ready.",
+    "translation": "A sobremesa está quase pronta.",
+    "pronunciation": "/ðə dɪˈzɜrt ɪz ˈɔlˌmoʊst ˈrɛdi./",
+    "portuguesePhonetic": "dâ di-zãrt iz ól-môust ré-di.",
+    "syllables": [
+      "The",
+      " des",
+      "sert",
+      " is",
+      " al",
+      "most",
+      " rea",
+      "dy."
+    ],
+    "exampleSentence": "The dessert is almost ready.",
+    "exampleTranslation": "A sobremesa está quase pronta."
+  },
+  {
+    "id": "to_call_wait_60",
+    "word": "Does he want to order more pizzas?",
+    "translation": "Ele quer pedir mais pizzas?",
+    "pronunciation": "/dʌz hi wɑnt tu ˈɔrdər mɔr ˈpitsəz?/",
+    "portuguesePhonetic": "dâz ri uánt tchu ór-der mór pít-tsas?",
+    "syllables": [
+      "Does",
+      " he",
+      " want",
+      " to",
+      " or",
+      "der",
+      " more",
+      " piz",
+      "zas?"
+    ],
+    "exampleSentence": "Does he want to order more pizzas?",
+    "exampleTranslation": "Ele quer pedir mais pizzas?"
+  },
+  {
+    "id": "to_call_wait_61",
+    "word": "I'm in a hurry, so I need to go now.",
+    "translation": "Estou com pressa, então preciso ir agora.",
+    "pronunciation": "/aɪm ɪn ə ˈhɜri, soʊ aɪ nid tu ɡoʊ naʊ./",
+    "portuguesePhonetic": "aim in a rã-ri, sôu ai nid tchu gôu náu.",
+    "syllables": [
+      "I'm",
+      " in",
+      " a",
+      " hur",
+      "ry,",
+      " so",
+      " I",
+      " need",
+      " to",
+      " go",
+      " now."
+    ],
+    "exampleSentence": "I'm in a hurry, so I need to go now.",
+    "exampleTranslation": "Estou com pressa, então preciso ir agora."
+  },
+  {
+    "id": "to_call_wait_62",
+    "word": "What time does the bar open?",
+    "translation": "A que horas o bar abre?",
+    "pronunciation": "/wʌt taɪm dʌz ðə bɑr ˈoʊpən?/",
+    "portuguesePhonetic": "uát táim dâz dâ bar ôu-pen?",
+    "syllables": [
+      "What",
+      " time",
+      " does",
+      " the",
+      " bar",
+      " o",
+      "pen?"
+    ],
+    "exampleSentence": "What time does the bar open?",
+    "exampleTranslation": "A que horas o bar abre?"
+  },
+  {
+    "id": "to_call_wait_63",
+    "word": "Let's go to that vegan restaurant tonight.",
+    "translation": "Vamos àquele restaurante vegano esta noite.",
+    "pronunciation": "/lɛts ɡoʊ tu ðæt ˈviɡən ˈrɛstəˌrɑnt təˈnaɪt./",
+    "portuguesePhonetic": "léts gôu tchu dét ví-gan rés-to-rant tchu-náit.",
+    "syllables": [
+      "Let's",
+      " go",
+      " to",
+      " that",
+      " ve",
+      "gan",
+      " res",
+      "tau",
+      "rant",
+      " to",
+      "night."
+    ],
+    "exampleSentence": "Let's go to that vegan restaurant tonight.",
+    "exampleTranslation": "Vamos àquele restaurante vegano esta noite."
+  },
+  {
+    "id": "to_call_wait_64",
+    "word": "How often does he cook for his family?",
+    "translation": "Com que frequência ele cozinha para a família dele?",
+    "pronunciation": "/haʊ ˈɔfən dʌz hi kʊk fɔr hɪz ˈfæməli?/",
+    "portuguesePhonetic": "ráu ó-fen dâz ri cuc fór riz fé-mi-li?",
+    "syllables": [
+      "How",
+      " of",
+      "ten",
+      " does",
+      " he",
+      " cook",
+      " for",
+      " his",
+      " fam",
+      "i",
+      "ly?"
+    ],
+    "exampleSentence": "How often does he cook for his family?",
+    "exampleTranslation": "Com que frequência ele cozinha para a família dele?"
+  },
+  {
+    "id": "to_call_wait_65",
+    "word": "He is often on time for his appointments.",
+    "translation": "Ele frequentemente chega pontualmente aos compromissos dele.",
+    "pronunciation": "/hi ɪz ˈɔfən ɑn taɪm fɔr hɪz əˈpɔɪntmənts./",
+    "portuguesePhonetic": "ri iz ó-fen an taim fór riz a-póint-ments.",
+    "syllables": [
+      "He",
+      " is",
+      " of",
+      "ten",
+      " on",
+      " time",
+      " for",
+      " his",
+      " ap",
+      "point",
+      "ments."
+    ],
+    "exampleSentence": "He is often on time for his appointments.",
+    "exampleTranslation": "Ele frequentemente chega pontualmente aos compromissos dele."
+  },
+  {
+    "id": "to_call_wait_66",
+    "word": "I'm a vegan, so I don't eat beef.",
+    "translation": "Eu sou vegano, então não como carne bovina.",
+    "pronunciation": "/aɪm ə ˈviɡən, soʊ aɪ doʊnt it bif./",
+    "portuguesePhonetic": "aim â ví-gan, sôu ai dôunt it bif.",
+    "syllables": [
+      "I'm",
+      " a",
+      " ve",
+      "gan,",
+      " so",
+      " I",
+      " don't",
+      " eat",
+      " beef."
+    ],
+    "exampleSentence": "I'm a vegan, so I don't eat beef.",
+    "exampleTranslation": "Eu sou vegano, então não como carne bovina."
+  },
+  {
+    "id": "to_call_wait_67",
+    "word": "I don't know anybody in this coffee shop.",
+    "translation": "Eu não conheço ninguém nesta cafeteria.",
+    "pronunciation": "/aɪ doʊnt noʊ ˈɛniˌbɑdi ɪn ðɪs ˈkɔfi ʃɑp./",
+    "portuguesePhonetic": "ai dôunt nôu é-ni-bó-di in díz có-fi xáp.",
+    "syllables": [
+      "I",
+      " don't",
+      " know",
+      " an",
+      "y",
+      "bod",
+      "y",
+      " in",
+      " this",
+      " cof",
+      "fee",
+      " shop."
+    ],
+    "exampleSentence": "I don't know anybody in this coffee shop.",
+    "exampleTranslation": "Eu não conheço ninguém nesta cafeteria."
+  },
+  {
+    "id": "to_call_wait_68",
+    "word": "How often do you come to this snack bar?",
+    "translation": "Com que frequência você vem a esta lanchonete?",
+    "pronunciation": "/haʊ ˈɔfən du ju kʌm tu ðɪs snæk bɑr?/",
+    "portuguesePhonetic": "ráu ó-fen du iu câm tchu díz snéc bár?",
+    "syllables": [
+      "How",
+      " of",
+      "ten",
+      " do",
+      " you",
+      " come",
+      " to",
+      " this",
+      " snack",
+      " bar?"
+    ],
+    "exampleSentence": "How often do you come to this snack bar?",
+    "exampleTranslation": "Com que frequência você vem a esta lanchonete?"
+  },
+  {
+    "id": "to_call_wait_69",
+    "word": "Why are you in a hurry?",
+    "translation": "Por que você está com pressa?",
+    "pronunciation": "/waɪ ɑr ju ɪn ə ˈhɜri?/",
+    "portuguesePhonetic": "uái ar iu in a rã-ri?",
+    "syllables": [
+      "Why",
+      " are",
+      " you",
+      " in",
+      " a",
+      " hur",
+      "ry?"
+    ],
+    "exampleSentence": "Why are you in a hurry?",
+    "exampleTranslation": "Por que você está com pressa?"
+  },
+  {
+    "id": "to_call_wait_70",
+    "word": "Somebody wants to speak with you at the office.",
+    "translation": "Alguém quer falar com você no escritório.",
+    "pronunciation": "/ˈsʌmˌbɑdi wɑnts tu spik wɪð ju æt ðə ˈɔfəs./",
+    "portuguesePhonetic": "sâm-bó-di uánts tchu spíc uid iu ét dâ ó-fis.",
+    "syllables": [
+      "Some",
+      "bod",
+      "y",
+      " wants",
+      " to",
+      " speak",
+      " with",
+      " you",
+      " at",
+      " the",
+      " of",
+      "fice."
+    ],
+    "exampleSentence": "Somebody wants to speak with you at the office.",
+    "exampleTranslation": "Alguém quer falar com você no escritório."
+  },
+  {
+    "id": "to_call_wait_71",
+    "word": "I need to wait for my co-worker.",
+    "translation": "Eu preciso esperar pelo meu colega de trabalho.",
+    "pronunciation": "/aɪ nid tu weɪt fɔr maɪ ˌkoʊˈwɜrkər./",
+    "portuguesePhonetic": "ai nid tchu uêit fór mai côu-uãr-ker.",
+    "syllables": [
+      "I",
+      " need",
+      " to",
+      " wait",
+      " for",
+      " my",
+      " co-",
+      "work",
+      "er."
+    ],
+    "exampleSentence": "I need to wait for my co-worker.",
+    "exampleTranslation": "Eu preciso esperar pelo meu colega de trabalho."
+  },
+  {
+    "id": "to_call_wait_72",
+    "word": "husband",
+    "translation": "marido",
+    "pronunciation": "/ˈhʌzbənd/",
+    "portuguesePhonetic": "rãs-band",
+    "syllables": [
+      "hus",
+      "band"
+    ],
+    "exampleSentence": "I need to call my husband.",
+    "exampleTranslation": "Eu preciso ligar para o meu marido."
+  },
+  {
+    "id": "to_call_wait_73",
+    "word": "in a hurry",
+    "translation": "com pressa",
+    "pronunciation": "/ɪn ə ˈhɜri/",
+    "portuguesePhonetic": "in a rã-ri",
+    "syllables": [
+      "in",
+      " a",
+      " hur",
+      "ry"
+    ],
+    "exampleSentence": "I am in a hurry.",
+    "exampleTranslation": "Eu estou com pressa."
+  },
+  {
+    "id": "to_call_wait_74",
+    "word": "late",
+    "translation": "atrasado",
+    "pronunciation": "/leɪt/",
+    "portuguesePhonetic": "lêit",
+    "syllables": [
+      "late"
+    ],
+    "exampleSentence": "I am late.",
+    "exampleTranslation": "Eu estou atrasado."
+  },
+  {
+    "id": "to_call_wait_75",
+    "word": "vegetarian",
+    "translation": "vegetariano",
+    "pronunciation": "/ˌvɛdʒəˈtɛriən/",
+    "portuguesePhonetic": "ve-dji-té-ri-an",
+    "syllables": [
+      "veg",
+      "e",
+      "tar",
+      "i",
+      "an"
+    ],
+    "exampleSentence": "Is she a vegetarian?",
+    "exampleTranslation": "Ela é vegetariana?"
+  },
+  {
+    "id": "to_call_wait_76",
+    "word": "vegan",
+    "translation": "vegano",
+    "pronunciation": "/ˈviɡən/",
+    "portuguesePhonetic": "ví-gan",
+    "syllables": [
+      "ve",
+      "gan"
+    ],
+    "exampleSentence": "She is vegan.",
+    "exampleTranslation": "Ela é vegana."
+  },
+  {
+    "id": "to_call_wait_77",
+    "word": "fast food",
+    "translation": "comida rápida",
+    "pronunciation": "/fæst fud/",
+    "portuguesePhonetic": "fest fud",
+    "syllables": [
+      "fast",
+      " food"
+    ],
+    "exampleSentence": "How often do you eat fast food?",
+    "exampleTranslation": "Com que frequência você come comida rápida?"
+  },
+  {
+    "id": "to_call_wait_78",
+    "word": "wait",
+    "translation": "esperar",
+    "pronunciation": "/weɪt/",
+    "portuguesePhonetic": "uêit",
+    "syllables": [
+      "wait"
+    ],
+    "exampleSentence": "We have to wait here.",
+    "exampleTranslation": "Nós temos que esperar aqui."
+  },
+  {
+    "id": "to_call_wait_79",
+    "word": "call",
+    "translation": "ligar / telefonar",
+    "pronunciation": "/kɔl/",
+    "portuguesePhonetic": "col",
+    "syllables": [
+      "call"
+    ],
+    "exampleSentence": "I need to call my father.",
+    "exampleTranslation": "Eu preciso ligar para meu pai."
+  },
+  {
+    "id": "to_call_wait_80",
+    "word": "father",
+    "translation": "pai",
+    "pronunciation": "/ˈfɑðər/",
+    "portuguesePhonetic": "fá-der",
+    "syllables": [
+      "fa",
+      "ther"
+    ],
+    "exampleSentence": "I need to call my father.",
+    "exampleTranslation": "Eu preciso telefonar para meu pai."
+  },
+  {
+    "id": "to_call_wait_81",
+    "word": "boss",
+    "translation": "chefe",
+    "pronunciation": "/bɔs/",
+    "portuguesePhonetic": "bós",
+    "syllables": [
+      "boss"
+    ],
+    "exampleSentence": "My boss is nice.",
+    "exampleTranslation": "Meu chefe é legal."
+  },
+  {
+    "id": "to_call_wait_82",
+    "word": "classmate",
+    "translation": "colega de classe",
+    "pronunciation": "/ˈklæsˌmeɪt/",
+    "portuguesePhonetic": "clés-mêit",
+    "syllables": [
+      "class",
+      "mate"
+    ],
+    "exampleSentence": "My classmates sometimes meet me there.",
+    "exampleTranslation": "Meus colegas de classe me encontram lá às vezes."
+  },
+  {
+    "id": "to_call_wait_83",
+    "word": "alone",
+    "translation": "sozinho",
+    "pronunciation": "/əˈloʊn/",
+    "portuguesePhonetic": "a-lôun",
+    "syllables": [
+      "a",
+      "lone"
+    ],
+    "exampleSentence": "I study alone.",
+    "exampleTranslation": "Eu estudo sozinho."
+  },
+  {
+    "id": "to_call_wait_84",
+    "word": "sofa",
+    "translation": "sofá",
+    "pronunciation": "/ˈsoʊfə/",
+    "portuguesePhonetic": "sôu-fa",
+    "syllables": [
+      "so",
+      "fa"
+    ],
+    "exampleSentence": "I don't like this sofa.",
+    "exampleTranslation": "Eu não gosto deste sofá."
+  },
+  {
+    "id": "to_call_wait_85",
+    "word": "comfortable",
+    "translation": "confortável",
+    "pronunciation": "/ˈkʌmfərtəbəl/",
+    "portuguesePhonetic": "câm-fãr-ta-bou",
+    "syllables": [
+      "com",
+      "fort",
+      "a",
+      "ble"
+    ],
+    "exampleSentence": "It is very comfortable.",
+    "exampleTranslation": "É muito confortável."
+  },
+  {
+    "id": "to_call_wait_86",
+    "word": "dessert",
+    "translation": "sobremesa",
+    "pronunciation": "/dɪˈzɜrt/",
+    "portuguesePhonetic": "di-zãrt",
+    "syllables": [
+      "des",
+      "sert"
+    ],
+    "exampleSentence": "The dessert is almost ready.",
+    "exampleTranslation": "A sobremesa está quase pronta."
+  },
+  {
+    "id": "to_call_wait_87",
+    "word": "ready",
+    "translation": "pronto",
+    "pronunciation": "/ˈrɛdi/",
+    "portuguesePhonetic": "ré-di",
+    "syllables": [
+      "rea",
+      "dy"
+    ],
+    "exampleSentence": "The dinner is ready.",
+    "exampleTranslation": "O jantar está pronto."
+  },
+  {
+    "id": "to_call_wait_88",
+    "word": "order",
+    "translation": "pedir",
+    "pronunciation": "/ˈɔrdər/",
+    "portuguesePhonetic": "ór-der",
+    "syllables": [
+      "or",
+      "der"
+    ],
+    "exampleSentence": "Does he want to order pizzas?",
+    "exampleTranslation": "Ele quer pedir pizzas?"
+  },
+  {
+    "id": "to_call_wait_89",
+    "word": "pizza",
+    "translation": "pizza",
+    "pronunciation": "/ˈpitsə/",
+    "portuguesePhonetic": "pít-tsa",
+    "syllables": [
+      "piz",
+      "za"
+    ],
+    "exampleSentence": "We want to order a pizza.",
+    "exampleTranslation": "Nós queremos pedir uma pizza."
+  },
+  {
+    "id": "to_call_wait_90",
+    "word": "bar",
+    "translation": "bar",
+    "pronunciation": "/bɑr/",
+    "portuguesePhonetic": "bar",
+    "syllables": [
+      "bar"
+    ],
+    "exampleSentence": "I go to that bar.",
+    "exampleTranslation": "Eu vou àquele bar."
+  },
+  {
+    "id": "to_call_wait_91",
+    "word": "appointment",
+    "translation": "compromisso",
+    "pronunciation": "/əˈpɔɪntmənt/",
+    "portuguesePhonetic": "a-póint-ment",
+    "syllables": [
+      "ap",
+      "point",
+      "ment"
+    ],
+    "exampleSentence": "He is often on time for his appointments.",
+    "exampleTranslation": "Ele frequentemente chega pontualmente aos compromissos dele."
+  },
+  {
+    "id": "to_call_wait_92",
+    "word": "on time",
+    "translation": "pontual",
+    "pronunciation": "/ɑn taɪm/",
+    "portuguesePhonetic": "an taim",
+    "syllables": [
+      "on",
+      " time"
+    ],
+    "exampleSentence": "He is often on time.",
+    "exampleTranslation": "Ele frequentemente chega pontualmente."
+  },
+  {
+    "id": "to_call_wait_93",
+    "word": "anybody",
+    "translation": "ninguém / alguém",
+    "pronunciation": "/ˈɛniˌbɑdi/",
+    "portuguesePhonetic": "é-ni-bó-di",
+    "syllables": [
+      "an",
+      "y",
+      "bod",
+      "y"
+    ],
+    "exampleSentence": "I don't know anybody.",
+    "exampleTranslation": "Eu não conheço ninguém."
+  },
+  {
+    "id": "to_call_wait_94",
+    "word": "somebody",
+    "translation": "alguém",
+    "pronunciation": "/ˈsʌmˌbɑdi/",
+    "portuguesePhonetic": "sâm-bó-di",
+    "syllables": [
+      "some",
+      "bod",
+      "y"
+    ],
+    "exampleSentence": "Somebody wants to speak with you.",
+    "exampleTranslation": "Alguém quer falar com você."
+  },
+  {
+    "id": "to_call_wait_95",
+    "word": "beef",
+    "translation": "carne bovina",
+    "pronunciation": "/bif/",
+    "portuguesePhonetic": "bif",
+    "syllables": [
+      "beef"
+    ],
+    "exampleSentence": "I don't eat beef.",
+    "exampleTranslation": "Eu não como carne bovina."
+  },
+  {
+    "id": "to_call_wait_96",
+    "word": "coffee shop",
+    "translation": "cafeteria",
+    "pronunciation": "/ˈkɔfi ʃɑp/",
+    "portuguesePhonetic": "có-fi xáp",
+    "syllables": [
+      "cof",
+      "fee",
+      " shop"
+    ],
+    "exampleSentence": "I don't know anybody in this coffee shop.",
+    "exampleTranslation": "Eu não conheço ninguém nesta cafeteria."
+  },
+  {
+    "id": "to_call_wait_97",
+    "word": "snack bar",
+    "translation": "lanchonete",
+    "pronunciation": "/snæk bɑr/",
+    "portuguesePhonetic": "snéc bár",
+    "syllables": [
+      "snack",
+      " bar"
+    ],
+    "exampleSentence": "How often do you come to this snack bar?",
+    "exampleTranslation": "Com que frequência você come nesta lanchonete?"
+  },
+  {
+    "id": "to_call_wait_98",
+    "word": "How often...?",
+    "translation": "Com que frequência...?",
+    "pronunciation": "/haʊ ˈɔfən?/",
+    "portuguesePhonetic": "ráu ó-fen?",
+    "syllables": [
+      "How",
+      " of",
+      "ten?"
+    ],
+    "exampleSentence": "How often do you study?",
+    "exampleTranslation": "Com que frequência você estuda?"
+  },
+  {
+    "id": "to_call_wait_99",
+    "word": "Hurry up!",
+    "translation": "Apresse-se!",
+    "pronunciation": "/ˈhɜri ʌp!/",
+    "portuguesePhonetic": "rã-ri âp!",
+    "syllables": [
+      "Hur",
+      "ry",
+      " up!"
+    ],
+    "exampleSentence": "Hurry up! We are late.",
+    "exampleTranslation": "Apresse-se! Nós estamos atrasados."
+  },
+  {
+    "id": "to_call_wait_100",
+    "word": "Wait a minute.",
+    "translation": "Espere um minuto.",
+    "pronunciation": "/weɪt ə ˈmɪnət./",
+    "portuguesePhonetic": "uêit a mí-nit.",
+    "syllables": [
+      "Wait",
+      " a",
+      " min",
+      "ute."
+    ],
+    "exampleSentence": "Wait a minute, please.",
+    "exampleTranslation": "Espere um minuto, por favor."
+  },
+  {
+    "id": "to_call_wait_101",
+    "word": "Let's go...",
+    "translation": "Vamos...",
+    "pronunciation": "/lɛts ɡoʊ.../",
+    "portuguesePhonetic": "léts gôu...",
+    "syllables": [
+      "Let's",
+      " go..."
+    ],
+    "exampleSentence": "Let's go home.",
+    "exampleTranslation": "Vamos para casa."
+  }
+]

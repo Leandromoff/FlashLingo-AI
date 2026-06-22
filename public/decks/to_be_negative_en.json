@@ -1,0 +1,1815 @@
+[
+  {
+    "id": "to_be_negative_1",
+    "word": "I am not",
+    "translation": "eu não sou, não estou",
+    "pronunciation": "/aɪ æm nɑt/",
+    "portuguesePhonetic": "ai ém nat",
+    "syllables": [
+      "I",
+      " am",
+      " not"
+    ],
+    "exampleSentence": "I am not",
+    "exampleTranslation": "eu não sou, não estou"
+  },
+  {
+    "id": "to_be_negative_2",
+    "word": "you are not",
+    "translation": "você não é, não está",
+    "pronunciation": "/ju ɑr nɑt/",
+    "portuguesePhonetic": "iu ar nat",
+    "syllables": [
+      "you",
+      " are",
+      " not"
+    ],
+    "exampleSentence": "you are not",
+    "exampleTranslation": "você não é, não está"
+  },
+  {
+    "id": "to_be_negative_3",
+    "word": "he is not",
+    "translation": "ele não é, não está",
+    "pronunciation": "/hi ɪz nɑt/",
+    "portuguesePhonetic": "ri iz nat",
+    "syllables": [
+      "he",
+      " is",
+      " not"
+    ],
+    "exampleSentence": "he is not",
+    "exampleTranslation": "ele não é, não está"
+  },
+  {
+    "id": "to_be_negative_4",
+    "word": "she is not",
+    "translation": "ela não é, não está",
+    "pronunciation": "/ʃi ɪz nɑt/",
+    "portuguesePhonetic": "xi iz nat",
+    "syllables": [
+      "she",
+      " is",
+      " not"
+    ],
+    "exampleSentence": "she is not",
+    "exampleTranslation": "ela não é, não está"
+  },
+  {
+    "id": "to_be_negative_5",
+    "word": "it is not",
+    "translation": "não é, não está",
+    "pronunciation": "/ɪt ɪz nɑt/",
+    "portuguesePhonetic": "it iz nat",
+    "syllables": [
+      "it",
+      " is",
+      " not"
+    ],
+    "exampleSentence": "it is not",
+    "exampleTranslation": "não é, não está"
+  },
+  {
+    "id": "to_be_negative_6",
+    "word": "we are not",
+    "translation": "nós não somos, não estamos",
+    "pronunciation": "/wi ɑr nɑt/",
+    "portuguesePhonetic": "uí ar nat",
+    "syllables": [
+      "we",
+      " are",
+      " not"
+    ],
+    "exampleSentence": "we are not",
+    "exampleTranslation": "nós não somos, não estamos"
+  },
+  {
+    "id": "to_be_negative_7",
+    "word": "they are not",
+    "translation": "eles(as) não são, não estão",
+    "pronunciation": "/ðeɪ ɑr nɑt/",
+    "portuguesePhonetic": "dêi ar nat",
+    "syllables": [
+      "they",
+      " are",
+      " not"
+    ],
+    "exampleSentence": "they are not",
+    "exampleTranslation": "eles(as) não são, não estão"
+  },
+  {
+    "id": "to_be_negative_8",
+    "word": "student",
+    "translation": "aluno(a), estudante",
+    "pronunciation": "/ˈstudənt/",
+    "portuguesePhonetic": "stú-dent",
+    "syllables": [
+      "stu",
+      "dent"
+    ],
+    "exampleSentence": "student",
+    "exampleTranslation": "aluno(a), estudante"
+  },
+  {
+    "id": "to_be_negative_9",
+    "word": "manager",
+    "translation": "gerente",
+    "pronunciation": "/ˈmænɪdʒər/",
+    "portuguesePhonetic": "mé-ne-djer",
+    "syllables": [
+      "ma",
+      "na",
+      "ger"
+    ],
+    "exampleSentence": "manager",
+    "exampleTranslation": "gerente"
+  },
+  {
+    "id": "to_be_negative_10",
+    "word": "sales clerk",
+    "translation": "vendedor(a)",
+    "pronunciation": "/seɪlz klɜrk/",
+    "portuguesePhonetic": "sêils clãrk",
+    "syllables": [
+      "sales",
+      " clerk"
+    ],
+    "exampleSentence": "sales clerk",
+    "exampleTranslation": "vendedor(a)"
+  },
+  {
+    "id": "to_be_negative_11",
+    "word": "lawyer",
+    "translation": "advogado(a)",
+    "pronunciation": "/ˈlɔɪər/",
+    "portuguesePhonetic": "ló-iãr",
+    "syllables": [
+      "law",
+      "yer"
+    ],
+    "exampleSentence": "lawyer",
+    "exampleTranslation": "advogado(a)"
+  },
+  {
+    "id": "to_be_negative_12",
+    "word": "engineer",
+    "translation": "engenheiro(a)",
+    "pronunciation": "/ˌɛndʒəˈnɪr/",
+    "portuguesePhonetic": "en-dji-nir",
+    "syllables": [
+      "en",
+      "gi",
+      "neer"
+    ],
+    "exampleSentence": "engineer",
+    "exampleTranslation": "engenheiro(a)"
+  },
+  {
+    "id": "to_be_negative_13",
+    "word": "designer",
+    "translation": "projetista",
+    "pronunciation": "/dɪˈzaɪnər/",
+    "portuguesePhonetic": "di-zai-ner",
+    "syllables": [
+      "de",
+      "sign",
+      "er"
+    ],
+    "exampleSentence": "designer",
+    "exampleTranslation": "projetista"
+  },
+  {
+    "id": "to_be_negative_14",
+    "word": "hungry",
+    "translation": "com fome",
+    "pronunciation": "/ˈhʌŋɡri/",
+    "portuguesePhonetic": "rân-gri",
+    "syllables": [
+      "hun",
+      "gry"
+    ],
+    "exampleSentence": "hungry",
+    "exampleTranslation": "com fome"
+  },
+  {
+    "id": "to_be_negative_15",
+    "word": "thirsty",
+    "translation": "com sede",
+    "pronunciation": "/ˈθɜrsti/",
+    "portuguesePhonetic": "thãrs-ti",
+    "syllables": [
+      "thirs",
+      "ty"
+    ],
+    "exampleSentence": "thirsty",
+    "exampleTranslation": "com sede"
+  },
+  {
+    "id": "to_be_negative_16",
+    "word": "tired",
+    "translation": "cansado(a)",
+    "pronunciation": "/ˈtaɪərd/",
+    "portuguesePhonetic": "tai-erd",
+    "syllables": [
+      "tired"
+    ],
+    "exampleSentence": "tired",
+    "exampleTranslation": "cansado(a)"
+  },
+  {
+    "id": "to_be_negative_17",
+    "word": "sad",
+    "translation": "triste",
+    "pronunciation": "/sæd/",
+    "portuguesePhonetic": "séd",
+    "syllables": [
+      "sad"
+    ],
+    "exampleSentence": "sad",
+    "exampleTranslation": "triste"
+  },
+  {
+    "id": "to_be_negative_18",
+    "word": "upset",
+    "translation": "chateado(a), aborrecido(a)",
+    "pronunciation": "/əpˈsɛt/",
+    "portuguesePhonetic": "ãp-sét",
+    "syllables": [
+      "up",
+      "set"
+    ],
+    "exampleSentence": "upset",
+    "exampleTranslation": "chateado(a), aborrecido(a)"
+  },
+  {
+    "id": "to_be_negative_19",
+    "word": "worried",
+    "translation": "preocupado(a)",
+    "pronunciation": "/ˈwɜrid/",
+    "portuguesePhonetic": "uô-rid",
+    "syllables": [
+      "wor",
+      "ried"
+    ],
+    "exampleSentence": "worried",
+    "exampleTranslation": "preocupado(a)"
+  },
+  {
+    "id": "to_be_negative_20",
+    "word": "happy",
+    "translation": "feliz",
+    "pronunciation": "/ˈhæpi/",
+    "portuguesePhonetic": "ré-pi",
+    "syllables": [
+      "hap",
+      "py"
+    ],
+    "exampleSentence": "happy",
+    "exampleTranslation": "feliz"
+  },
+  {
+    "id": "to_be_negative_21",
+    "word": "smart",
+    "translation": "esperto(a), inteligente",
+    "pronunciation": "/smɑrt/",
+    "portuguesePhonetic": "smárt",
+    "syllables": [
+      "smart"
+    ],
+    "exampleSentence": "smart",
+    "exampleTranslation": "esperto(a), inteligente"
+  },
+  {
+    "id": "to_be_negative_22",
+    "word": "pretty",
+    "translation": "bonito(a)",
+    "pronunciation": "/ˈprɪti/",
+    "portuguesePhonetic": "prí-ti",
+    "syllables": [
+      "pret",
+      "ty"
+    ],
+    "exampleSentence": "pretty",
+    "exampleTranslation": "bonito(a)"
+  },
+  {
+    "id": "to_be_negative_23",
+    "word": "healthy",
+    "translation": "saudável",
+    "pronunciation": "/ˈhɛlθi/",
+    "portuguesePhonetic": "rél-thi",
+    "syllables": [
+      "heal",
+      "thy"
+    ],
+    "exampleSentence": "healthy",
+    "exampleTranslation": "saudável"
+  },
+  {
+    "id": "to_be_negative_24",
+    "word": "busy",
+    "translation": "ocupado(a)",
+    "pronunciation": "/ˈbɪzi/",
+    "portuguesePhonetic": "bí-zi",
+    "syllables": [
+      "bu",
+      "sy"
+    ],
+    "exampleSentence": "busy",
+    "exampleTranslation": "ocupado(a)"
+  },
+  {
+    "id": "to_be_negative_25",
+    "word": "very",
+    "translation": "muito",
+    "pronunciation": "/ˈvɛri/",
+    "portuguesePhonetic": "vé-ri",
+    "syllables": [
+      "ve",
+      "ry"
+    ],
+    "exampleSentence": "very",
+    "exampleTranslation": "muito"
+  },
+  {
+    "id": "to_be_negative_26",
+    "word": "What do you do?",
+    "translation": "O que você faz?",
+    "pronunciation": "/wɑt du ju du?/",
+    "portuguesePhonetic": "uát du iu du?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " do?"
+    ],
+    "exampleSentence": "What do you do?",
+    "exampleTranslation": "O que você faz?"
+  },
+  {
+    "id": "to_be_negative_27",
+    "word": "I'm sure!",
+    "translation": "Eu tenho certeza!",
+    "pronunciation": "/aɪm ʃʊr!/",
+    "portuguesePhonetic": "aim xûr!",
+    "syllables": [
+      "I'm",
+      " sure!"
+    ],
+    "exampleSentence": "I'm sure!",
+    "exampleTranslation": "Eu tenho certeza!"
+  },
+  {
+    "id": "to_be_negative_28",
+    "word": "I'm worried about the exam.",
+    "translation": "Eu estou preocupado com a prova.",
+    "pronunciation": "/aɪm ˈwɜrid əˈbaʊt ði ɪɡˈzæm./",
+    "portuguesePhonetic": "aim uô-rid a-báut di ig-zém.",
+    "syllables": [
+      "I'm",
+      " wor",
+      "ried",
+      " a",
+      "bout",
+      " the",
+      " ex",
+      "am."
+    ],
+    "exampleSentence": "I'm worried about the exam.",
+    "exampleTranslation": "Eu estou preocupado com a prova."
+  },
+  {
+    "id": "to_be_negative_29",
+    "word": "I'm not hungry now.",
+    "translation": "Eu não estou com fome agora.",
+    "pronunciation": "/aɪm nɑt ˈhʌŋɡri naʊ./",
+    "portuguesePhonetic": "aim nat rân-gri náu.",
+    "syllables": [
+      "I'm",
+      " not",
+      " hun",
+      "gry",
+      " now."
+    ],
+    "exampleSentence": "I'm not hungry now.",
+    "exampleTranslation": "Eu não estou com fome agora."
+  },
+  {
+    "id": "to_be_negative_30",
+    "word": "You are not very far from here.",
+    "translation": "Você não está muito longe daqui.",
+    "pronunciation": "/ju ɑr nɑt ˈvɛri fɑr frʌm hɪr./",
+    "portuguesePhonetic": "iu ar nat vé-ri far from rir.",
+    "syllables": [
+      "You",
+      " are",
+      " not",
+      " ve",
+      "ry",
+      " far",
+      " from",
+      " here."
+    ],
+    "exampleSentence": "You are not very far from here.",
+    "exampleTranslation": "Você não está muito longe daqui."
+  },
+  {
+    "id": "to_be_negative_31",
+    "word": "He is not busy this week.",
+    "translation": "Ele não está ocupado esta semana.",
+    "pronunciation": "/hi ɪz nɑt ˈbɪzi ðɪs wik./",
+    "portuguesePhonetic": "ri iz nat bí-zi diz uic.",
+    "syllables": [
+      "He",
+      " is",
+      " not",
+      " bu",
+      "sy",
+      " this",
+      " week."
+    ],
+    "exampleSentence": "He is not busy this week.",
+    "exampleTranslation": "Ele não está ocupado esta semana."
+  },
+  {
+    "id": "to_be_negative_32",
+    "word": "She is not tired today.",
+    "translation": "Ela não está cansada hoje.",
+    "pronunciation": "/ʃi ɪz nɑt ˈtaɪərd təˈdeɪ./",
+    "portuguesePhonetic": "xi iz nat tai-erd tchu-dêi.",
+    "syllables": [
+      "She",
+      " is",
+      " not",
+      " tired",
+      " to",
+      "day."
+    ],
+    "exampleSentence": "She is not tired today.",
+    "exampleTranslation": "Ela não está cansada hoje."
+  },
+  {
+    "id": "to_be_negative_33",
+    "word": "It is not late to go there.",
+    "translation": "Não está tarde para ir lá.",
+    "pronunciation": "/ɪt ɪz nɑt leɪt tə ɡoʊ ðɛr./",
+    "portuguesePhonetic": "it iz nat lêit tchu gôu dér.",
+    "syllables": [
+      "It",
+      " is",
+      " not",
+      " late",
+      " to",
+      " go",
+      " there."
+    ],
+    "exampleSentence": "It is not late to go there.",
+    "exampleTranslation": "Não está tarde para ir lá."
+  },
+  {
+    "id": "to_be_negative_34",
+    "word": "We are not lawyers, we're managers.",
+    "translation": "Nós não somos advogados, nós somos gerentes.",
+    "pronunciation": "/wi ɑr nɑt ˈlɔɪərz, wɪr ˈmænɪdʒərz./",
+    "portuguesePhonetic": "uí ar nat ló-iãrs, uíar mé-ne-djers.",
+    "syllables": [
+      "We",
+      " are",
+      " not",
+      " law",
+      "yers,",
+      " we're",
+      " ma",
+      "na",
+      "gers."
+    ],
+    "exampleSentence": "We are not lawyers, we're managers.",
+    "exampleTranslation": "Nós não somos advogados, nós somos gerentes."
+  },
+  {
+    "id": "to_be_negative_35",
+    "word": "They are not upset.",
+    "translation": "Eles não estão chateados.",
+    "pronunciation": "/ðeɪ ɑr nɑt əpˈsɛt./",
+    "portuguesePhonetic": "dêi ar nat ãp-sét.",
+    "syllables": [
+      "They",
+      " are",
+      " not",
+      " up",
+      "set."
+    ],
+    "exampleSentence": "They are not upset.",
+    "exampleTranslation": "Eles não estão chateados."
+  },
+  {
+    "id": "to_be_negative_36",
+    "word": "I'm not",
+    "translation": "I am not (contração)",
+    "pronunciation": "/aɪm nɑt/",
+    "portuguesePhonetic": "aim nat",
+    "syllables": [
+      "I'm",
+      " not"
+    ],
+    "exampleSentence": "I'm not",
+    "exampleTranslation": "I am not (contração)"
+  },
+  {
+    "id": "to_be_negative_37",
+    "word": "You're not",
+    "translation": "You are not (contração)",
+    "pronunciation": "/jʊr nɑt/",
+    "portuguesePhonetic": "iór nat",
+    "syllables": [
+      "You're",
+      " not"
+    ],
+    "exampleSentence": "You're not",
+    "exampleTranslation": "You are not (contração)"
+  },
+  {
+    "id": "to_be_negative_38",
+    "word": "He's not",
+    "translation": "He is not (contração)",
+    "pronunciation": "/hiz nɑt/",
+    "portuguesePhonetic": "riz nat",
+    "syllables": [
+      "He's",
+      " not"
+    ],
+    "exampleSentence": "He's not",
+    "exampleTranslation": "He is not (contração)"
+  },
+  {
+    "id": "to_be_negative_39",
+    "word": "She's not",
+    "translation": "She is not (contração)",
+    "pronunciation": "/ʃiz nɑt/",
+    "portuguesePhonetic": "xíz nat",
+    "syllables": [
+      "She's",
+      " not"
+    ],
+    "exampleSentence": "She's not",
+    "exampleTranslation": "She is not (contração)"
+  },
+  {
+    "id": "to_be_negative_40",
+    "word": "It's not",
+    "translation": "It is not (contração)",
+    "pronunciation": "/ɪts nɑt/",
+    "portuguesePhonetic": "its nat",
+    "syllables": [
+      "It's",
+      " not"
+    ],
+    "exampleSentence": "It's not",
+    "exampleTranslation": "It is not (contração)"
+  },
+  {
+    "id": "to_be_negative_41",
+    "word": "We're not",
+    "translation": "We are not (contração)",
+    "pronunciation": "/wɪr nɑt/",
+    "portuguesePhonetic": "uíar nat",
+    "syllables": [
+      "We're",
+      " not"
+    ],
+    "exampleSentence": "We're not",
+    "exampleTranslation": "We are not (contração)"
+  },
+  {
+    "id": "to_be_negative_42",
+    "word": "They're not",
+    "translation": "They are not (contração)",
+    "pronunciation": "/ðɛr nɑt/",
+    "portuguesePhonetic": "dér nat",
+    "syllables": [
+      "They're",
+      " not"
+    ],
+    "exampleSentence": "They're not",
+    "exampleTranslation": "They are not (contração)"
+  },
+  {
+    "id": "to_be_negative_43",
+    "word": "I am not a designer.",
+    "translation": "Eu não sou projetista.",
+    "pronunciation": "/aɪ æm nɑt ə dɪˈzaɪnər./",
+    "portuguesePhonetic": "ai ém nat a di-zai-ner.",
+    "syllables": [
+      "I",
+      " am",
+      " not",
+      " a",
+      " de",
+      "sign",
+      "er."
+    ],
+    "exampleSentence": "I am not a designer.",
+    "exampleTranslation": "Eu não sou projetista."
+  },
+  {
+    "id": "to_be_negative_44",
+    "word": "They are not at school now.",
+    "translation": "Eles não estão na escola agora.",
+    "pronunciation": "/ðeɪ ɑr nɑt æt skul naʊ./",
+    "portuguesePhonetic": "dêi ar nat ét scul náu.",
+    "syllables": [
+      "They",
+      " are",
+      " not",
+      " at",
+      " school",
+      " now."
+    ],
+    "exampleSentence": "They are not at school now.",
+    "exampleTranslation": "Eles não estão na escola agora."
+  },
+  {
+    "id": "to_be_negative_45",
+    "word": "You are not late for class.",
+    "translation": "Você não está atrasado para a aula.",
+    "pronunciation": "/ju ɑr nɑt leɪt fɔr klæs./",
+    "portuguesePhonetic": "iu ar nat lêit for clés.",
+    "syllables": [
+      "You",
+      " are",
+      " not",
+      " late",
+      " for",
+      " class."
+    ],
+    "exampleSentence": "You are not late for class.",
+    "exampleTranslation": "Você não está atrasado para a aula."
+  },
+  {
+    "id": "to_be_negative_46",
+    "word": "She is not at home.",
+    "translation": "Ela não está em casa.",
+    "pronunciation": "/ʃi ɪz nɑt æt hoʊm./",
+    "portuguesePhonetic": "xi iz nat ét rôum.",
+    "syllables": [
+      "She",
+      " is",
+      " not",
+      " at",
+      " home."
+    ],
+    "exampleSentence": "She is not at home.",
+    "exampleTranslation": "Ela não está em casa."
+  },
+  {
+    "id": "to_be_negative_47",
+    "word": "We are not very tired.",
+    "translation": "Nós não estamos muito cansados.",
+    "pronunciation": "/wi ɑr nɑt ˈvɛri ˈtaɪərd./",
+    "portuguesePhonetic": "uí ar nat vé-ri tai-erd.",
+    "syllables": [
+      "We",
+      " are",
+      " not",
+      " ve",
+      "ry",
+      " tired."
+    ],
+    "exampleSentence": "We are not very tired.",
+    "exampleTranslation": "Nós não estamos muito cansados."
+  },
+  {
+    "id": "to_be_negative_48",
+    "word": "We are not engineers.",
+    "translation": "Nós não somos engenheiros.",
+    "pronunciation": "/wi ɑr nɑt ˌɛndʒəˈnɪrz./",
+    "portuguesePhonetic": "uí ar nat en-dji-nirs.",
+    "syllables": [
+      "We",
+      " are",
+      " not",
+      " en",
+      "gi",
+      "neers."
+    ],
+    "exampleSentence": "We are not engineers.",
+    "exampleTranslation": "Nós não somos engenheiros."
+  },
+  {
+    "id": "to_be_negative_49",
+    "word": "They are not sad, they're happy.",
+    "translation": "Eles não estão tristes, eles estão felizes.",
+    "pronunciation": "/ðeɪ ɑr nɑt sæd, ðɛr ˈhæpi./",
+    "portuguesePhonetic": "dêi ar nat séd, dér ré-pi.",
+    "syllables": [
+      "They",
+      " are",
+      " not",
+      " sad,",
+      " they're",
+      " hap",
+      "py."
+    ],
+    "exampleSentence": "They are not sad, they're happy.",
+    "exampleTranslation": "Eles não estão tristes, eles estão felizes."
+  },
+  {
+    "id": "to_be_negative_50",
+    "word": "I think French fries are not healthy.",
+    "translation": "Eu acho que batata frita não é saudável.",
+    "pronunciation": "/aɪ θɪŋk frɛntʃ fraɪz ɑr nɑt ˈhɛlθi./",
+    "portuguesePhonetic": "ai thínk frentch frais ar nat rél-thi.",
+    "syllables": [
+      "I",
+      " think",
+      " French",
+      " fries",
+      " are",
+      " not",
+      " heal",
+      "thy."
+    ],
+    "exampleSentence": "I think French fries are not healthy.",
+    "exampleTranslation": "Eu acho que batata frita não é saudável."
+  },
+  {
+    "id": "to_be_negative_51",
+    "word": "These are not her shoes.",
+    "translation": "Estes não são os sapatos dela.",
+    "pronunciation": "/ðiz ɑr nɑt hɜr ʃuz./",
+    "portuguesePhonetic": "díz ar nat rãr xuz.",
+    "syllables": [
+      "These",
+      " are",
+      " not",
+      " her",
+      " shoes."
+    ],
+    "exampleSentence": "These are not her shoes.",
+    "exampleTranslation": "Estes não são os sapatos dela."
+  },
+  {
+    "id": "to_be_negative_52",
+    "word": "It is not an interesting story.",
+    "translation": "Não é uma história interessante.",
+    "pronunciation": "/ɪt ɪz nɑt ən ˈɪntrəstɪŋ ˈstɔri./",
+    "portuguesePhonetic": "it iz nat én in-tres-tin stó-ri.",
+    "syllables": [
+      "It",
+      " is",
+      " not",
+      " an",
+      " in",
+      "te",
+      "res",
+      "ting",
+      " sto",
+      "ry."
+    ],
+    "exampleSentence": "It is not an interesting story.",
+    "exampleTranslation": "Não é uma história interessante."
+  },
+  {
+    "id": "to_be_negative_53",
+    "word": "We are not busy at the park now.",
+    "translation": "Nós não estamos ocupados no parque agora.",
+    "pronunciation": "/wi ɑr nɑt ˈbɪzi æt ðə pɑrk naʊ./",
+    "portuguesePhonetic": "uí ar nat bí-zi ét dâ parc náu.",
+    "syllables": [
+      "We",
+      " are",
+      " not",
+      " bu",
+      "sy",
+      " at",
+      " the",
+      " park",
+      " now."
+    ],
+    "exampleSentence": "We are not busy at the park now.",
+    "exampleTranslation": "Nós não estamos ocupados no parque agora."
+  },
+  {
+    "id": "to_be_negative_54",
+    "word": "The exam is not very hard.",
+    "translation": "A prova não está muito difícil.",
+    "pronunciation": "/ði ɪɡˈzæm ɪz nɑt ˈvɛri hɑrd./",
+    "portuguesePhonetic": "di ig-zém iz nat vé-ri rard.",
+    "syllables": [
+      "The",
+      " ex",
+      "am",
+      " is",
+      " not",
+      " ve",
+      "ry",
+      " hard."
+    ],
+    "exampleSentence": "The exam is not very hard.",
+    "exampleTranslation": "A prova não está muito difícil."
+  },
+  {
+    "id": "to_be_negative_55",
+    "word": "first",
+    "translation": "1st — primeiro",
+    "pronunciation": "/fɜrst/",
+    "portuguesePhonetic": "fãrst",
+    "syllables": [
+      "first"
+    ],
+    "exampleSentence": "first",
+    "exampleTranslation": "1st — primeiro"
+  },
+  {
+    "id": "to_be_negative_56",
+    "word": "second",
+    "translation": "2nd — segundo",
+    "pronunciation": "/ˈsɛkənd/",
+    "portuguesePhonetic": "sé-cond",
+    "syllables": [
+      "se",
+      "cond"
+    ],
+    "exampleSentence": "second",
+    "exampleTranslation": "2nd — segundo"
+  },
+  {
+    "id": "to_be_negative_57",
+    "word": "third",
+    "translation": "3rd — terceiro",
+    "pronunciation": "/θɜrd/",
+    "portuguesePhonetic": "thãrd",
+    "syllables": [
+      "third"
+    ],
+    "exampleSentence": "third",
+    "exampleTranslation": "3rd — terceiro"
+  },
+  {
+    "id": "to_be_negative_58",
+    "word": "fourth",
+    "translation": "4th — quarto",
+    "pronunciation": "/fɔrθ/",
+    "portuguesePhonetic": "fórth",
+    "syllables": [
+      "fourth"
+    ],
+    "exampleSentence": "fourth",
+    "exampleTranslation": "4th — quarto"
+  },
+  {
+    "id": "to_be_negative_59",
+    "word": "fifth",
+    "translation": "5th — quinto",
+    "pronunciation": "/fɪfθ/",
+    "portuguesePhonetic": "fif-th",
+    "syllables": [
+      "fifth"
+    ],
+    "exampleSentence": "fifth",
+    "exampleTranslation": "5th — quinto"
+  },
+  {
+    "id": "to_be_negative_60",
+    "word": "sixth",
+    "translation": "6th — sexto",
+    "pronunciation": "/sɪksθ/",
+    "portuguesePhonetic": "sics-th",
+    "syllables": [
+      "sixth"
+    ],
+    "exampleSentence": "sixth",
+    "exampleTranslation": "6th — sexto"
+  },
+  {
+    "id": "to_be_negative_61",
+    "word": "seventh",
+    "translation": "7th — sétimo",
+    "pronunciation": "/ˈsɛvənθ/",
+    "portuguesePhonetic": "sé-ven-th",
+    "syllables": [
+      "se",
+      "venth"
+    ],
+    "exampleSentence": "seventh",
+    "exampleTranslation": "7th — sétimo"
+  },
+  {
+    "id": "to_be_negative_62",
+    "word": "eighth",
+    "translation": "8th — oitavo",
+    "pronunciation": "/eɪtθ/",
+    "portuguesePhonetic": "êit-th",
+    "syllables": [
+      "eighth"
+    ],
+    "exampleSentence": "eighth",
+    "exampleTranslation": "8th — oitavo"
+  },
+  {
+    "id": "to_be_negative_63",
+    "word": "ninth",
+    "translation": "9th — nono",
+    "pronunciation": "/naɪnθ/",
+    "portuguesePhonetic": "nain-th",
+    "syllables": [
+      "ninth"
+    ],
+    "exampleSentence": "ninth",
+    "exampleTranslation": "9th — nono"
+  },
+  {
+    "id": "to_be_negative_64",
+    "word": "tenth",
+    "translation": "10th — décimo",
+    "pronunciation": "/tɛnθ/",
+    "portuguesePhonetic": "ten-th",
+    "syllables": [
+      "tenth"
+    ],
+    "exampleSentence": "tenth",
+    "exampleTranslation": "10th — décimo"
+  },
+  {
+    "id": "to_be_negative_65",
+    "word": "eleventh",
+    "translation": "11th — décimo primeiro",
+    "pronunciation": "/ɪˈlɛvənθ/",
+    "portuguesePhonetic": "i-lé-ven-th",
+    "syllables": [
+      "e",
+      "le",
+      "venth"
+    ],
+    "exampleSentence": "eleventh",
+    "exampleTranslation": "11th — décimo primeiro"
+  },
+  {
+    "id": "to_be_negative_66",
+    "word": "twelfth",
+    "translation": "12th — décimo segundo",
+    "pronunciation": "/twɛlfθ/",
+    "portuguesePhonetic": "tu-élf-th",
+    "syllables": [
+      "twelfth"
+    ],
+    "exampleSentence": "twelfth",
+    "exampleTranslation": "12th — décimo segundo"
+  },
+  {
+    "id": "to_be_negative_67",
+    "word": "thirteenth",
+    "translation": "13th — décimo terceiro",
+    "pronunciation": "/ˈθɜrˈtinθ/",
+    "portuguesePhonetic": "thãr-tinth",
+    "syllables": [
+      "thir",
+      "teenth"
+    ],
+    "exampleSentence": "thirteenth",
+    "exampleTranslation": "13th — décimo terceiro"
+  },
+  {
+    "id": "to_be_negative_68",
+    "word": "fourteenth",
+    "translation": "14th — décimo quarto",
+    "pronunciation": "/ˈfɔrˈtinθ/",
+    "portuguesePhonetic": "fór-tinth",
+    "syllables": [
+      "four",
+      "teenth"
+    ],
+    "exampleSentence": "fourteenth",
+    "exampleTranslation": "14th — décimo quarto"
+  },
+  {
+    "id": "to_be_negative_69",
+    "word": "fifteenth",
+    "translation": "15th — décimo quinto",
+    "pronunciation": "/ˈfɪfˈtinθ/",
+    "portuguesePhonetic": "fif-tinth",
+    "syllables": [
+      "fif",
+      "teenth"
+    ],
+    "exampleSentence": "fifteenth",
+    "exampleTranslation": "15th — décimo quinto"
+  },
+  {
+    "id": "to_be_negative_70",
+    "word": "How are you today?",
+    "translation": "Como você está hoje?",
+    "pronunciation": "/haʊ ɑr ju təˈdeɪ?/",
+    "portuguesePhonetic": "ráu ar iu tchu-dêi?",
+    "syllables": [
+      "How",
+      " are",
+      " you",
+      " to",
+      "day?"
+    ],
+    "exampleSentence": "How are you today?",
+    "exampleTranslation": "Como você está hoje?"
+  },
+  {
+    "id": "to_be_negative_71",
+    "word": "I'm fine! How about you?",
+    "translation": "Eu estou bem! E você?",
+    "pronunciation": "/aɪm faɪn! haʊ əˈbaʊt ju?/",
+    "portuguesePhonetic": "aim fain! ráu a-báut iu?",
+    "syllables": [
+      "I'm",
+      " fine!",
+      " How",
+      " a",
+      "bout",
+      " you?"
+    ],
+    "exampleSentence": "I'm fine! How about you?",
+    "exampleTranslation": "Eu estou bem! E você?"
+  },
+  {
+    "id": "to_be_negative_72",
+    "word": "I'm great, thanks.",
+    "translation": "Eu estou ótimo, obrigado.",
+    "pronunciation": "/aɪm ɡreɪt, θæŋks./",
+    "portuguesePhonetic": "aim grêit, thénks.",
+    "syllables": [
+      "I'm",
+      " great,",
+      " thanks."
+    ],
+    "exampleSentence": "I'm great, thanks.",
+    "exampleTranslation": "Eu estou ótimo, obrigado."
+  },
+  {
+    "id": "to_be_negative_73",
+    "word": "I'm not hungry. I'm thirsty.",
+    "translation": "Eu não estou com fome, eu estou com sede.",
+    "pronunciation": "/aɪm nɑt ˈhʌŋɡri. aɪm ˈθɜrsti./",
+    "portuguesePhonetic": "aim nat rân-gri. aim thãrs-ti.",
+    "syllables": [
+      "I'm",
+      " not",
+      " hun",
+      "gry.",
+      " I'm",
+      " thirs",
+      "ty."
+    ],
+    "exampleSentence": "I'm not hungry. I'm thirsty.",
+    "exampleTranslation": "Eu não estou com fome, eu estou com sede."
+  },
+  {
+    "id": "to_be_negative_74",
+    "word": "They aren't coworkers. They are classmates.",
+    "translation": "Eles não são colegas de trabalho, eles são colegas de classe.",
+    "pronunciation": "/ðeɪ ˈɑrənt ˈkoʊˌwɜrkərz. ðeɪ ɑr ˈklæsˌmeɪts./",
+    "portuguesePhonetic": "dêi ár-ent côu-uãr-querz. dêi ar clés-mêits.",
+    "syllables": [
+      "They",
+      " aren't",
+      " co",
+      "work",
+      "ers.",
+      " They",
+      " are",
+      " class",
+      "mates."
+    ],
+    "exampleSentence": "They aren't coworkers. They are classmates.",
+    "exampleTranslation": "Eles não são colegas de trabalho, eles são colegas de classe."
+  },
+  {
+    "id": "to_be_negative_75",
+    "word": "I am a salesperson, she is an engineer, and he is a manager.",
+    "translation": "Eu sou vendedor, ela é engenheira e ele é gerente.",
+    "pronunciation": "/aɪ æm ə ˈseɪlzˌpɜrsən, ʃi ɪz ən ˌɛndʒəˈnɪr, ænd hi ɪz ə ˈmænədʒər./",
+    "portuguesePhonetic": "ai ém â sêils-pãr-son, chi íz ân en-di-níar, énd ri íz â mé-ni-djer.",
+    "syllables": [
+      "I",
+      " am",
+      " a",
+      " sales",
+      "per",
+      "son,",
+      " she",
+      " is",
+      " an",
+      " en",
+      "gi",
+      "neer,",
+      " and",
+      " he",
+      " is",
+      " a",
+      " man",
+      "a",
+      "ger."
+    ],
+    "exampleSentence": "I am a salesperson, she is an engineer, and he is a manager.",
+    "exampleTranslation": "Eu sou vendedor, ela é engenheira e ele é gerente."
+  },
+  {
+    "id": "to_be_negative_76",
+    "word": "He is usually very kind, but he is very busy now.",
+    "translation": "Ele é geralmente muito gentil, mas ele está muito ocupado agora.",
+    "pronunciation": "/hi ɪz ˈjuʒuəli ˈvɛri kaɪnd, bʌt hi ɪz ˈvɛri ˈbɪzi naʊ./",
+    "portuguesePhonetic": "ri íz iú-ju-a-li vé-ri cáind, bât ri íz vé-ri bí-zi náu.",
+    "syllables": [
+      "He",
+      " is",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " ve",
+      "ry",
+      " kind,",
+      " but",
+      " he",
+      " is",
+      " ve",
+      "ry",
+      " bu",
+      "sy",
+      " now."
+    ],
+    "exampleSentence": "He is usually very kind, but he is very busy now.",
+    "exampleTranslation": "Ele é geralmente muito gentil, mas ele está muito ocupado agora."
+  },
+  {
+    "id": "to_be_negative_77",
+    "word": "We don't like to eat bacon and sausage. It isn't healthy.",
+    "translation": "Nós não gostamos de comer bacon e salsicha. Não é saudável.",
+    "pronunciation": "/wi doʊnt laɪk tu it ˈbeɪkən ænd ˈsɔsɪdʒ. ɪt ˈɪzənt ˈhɛlθi./",
+    "portuguesePhonetic": "ui dôunt láic tchu it bêi-con énd só-sidj. it í-zent rél-thi.",
+    "syllables": [
+      "We",
+      " don't",
+      " like",
+      " to",
+      " eat",
+      " ba",
+      "con",
+      " and",
+      " sau",
+      "sage.",
+      " It",
+      " isn't",
+      " heal",
+      "thy."
+    ],
+    "exampleSentence": "We don't like to eat bacon and sausage. It isn't healthy.",
+    "exampleTranslation": "Nós não gostamos de comer bacon e salsicha. Não é saudável."
+  },
+  {
+    "id": "to_be_negative_78",
+    "word": "What do you do? – I'm a student. What about you?",
+    "translation": "O que você faz? – Eu sou estudante. E você?",
+    "pronunciation": "/wʌt du ju du? – aɪm ə ˈstudənt. wʌt əˈbaʊt ju?/",
+    "portuguesePhonetic": "uát du iu du? – aim â stú-dent. uát a-báut iu?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " do?",
+      " –",
+      " I'm",
+      " a",
+      " stu",
+      "dent.",
+      " What",
+      " a",
+      "bout",
+      " you?"
+    ],
+    "exampleSentence": "What do you do? – I'm a student. What about you?",
+    "exampleTranslation": "O que você faz? – Eu sou estudante. E você?"
+  },
+  {
+    "id": "to_be_negative_79",
+    "word": "I'm not busy now. Do you want to talk to me?",
+    "translation": "Eu não estou ocupada agora. Você quer falar comigo?",
+    "pronunciation": "/aɪm nɑt ˈbɪzi naʊ. du ju wɑnt tu tɔk tu mi?/",
+    "portuguesePhonetic": "aim nat bí-zi náu. du iu uánt tchu tóc tchu mi?",
+    "syllables": [
+      "I'm",
+      " not",
+      " bu",
+      "sy",
+      " now.",
+      " Do",
+      " you",
+      " want",
+      " to",
+      " talk",
+      " to",
+      " me?"
+    ],
+    "exampleSentence": "I'm not busy now. Do you want to talk to me?",
+    "exampleTranslation": "Eu não estou ocupada agora. Você quer falar comigo?"
+  },
+  {
+    "id": "to_be_negative_80",
+    "word": "They aren't bored. They are tired. I'm sure.",
+    "translation": "Eles não estão aborrecidos, eles estão cansados. Eu tenho certeza.",
+    "pronunciation": "/ðeɪ ˈɑrənt bɔrd. ðeɪ ɑr ˈtaɪərd. aɪm ʃʊr./",
+    "portuguesePhonetic": "dêi ár-ent bórd. dêi ar táierd. aim chúr.",
+    "syllables": [
+      "They",
+      " aren't",
+      " bored.",
+      " They",
+      " are",
+      " tired.",
+      " I'm",
+      " sure."
+    ],
+    "exampleSentence": "They aren't bored. They are tired. I'm sure.",
+    "exampleTranslation": "Eles não estão aborrecidos, eles estão cansados. Eu tenho certeza."
+  },
+  {
+    "id": "to_be_negative_81",
+    "word": "My sister is very smart and beautiful.",
+    "translation": "Minha irmã é muito esperta e bonita.",
+    "pronunciation": "/maɪ ˈsɪstər ɪz ˈvɛri smɑrt ænd ˈbjutəfəl./",
+    "portuguesePhonetic": "mai sís-ter íz vé-ri smárt énd biú-ti-ful.",
+    "syllables": [
+      "My",
+      " sis",
+      "ter",
+      " is",
+      " ve",
+      "ry",
+      " smart",
+      " and",
+      " beau",
+      "ti",
+      "ful."
+    ],
+    "exampleSentence": "My sister is very smart and beautiful.",
+    "exampleTranslation": "Minha irmã é muito esperta e bonita."
+  },
+  {
+    "id": "to_be_negative_82",
+    "word": "They are worried about that problem.",
+    "translation": "Eles estão preocupados com aquele problema.",
+    "pronunciation": "/ðeɪ ɑr ˈwɜrid əˈbaʊt ðæt ˈprɑbləm./",
+    "portuguesePhonetic": "dêi ar uã-rid a-báut dét pró-blem.",
+    "syllables": [
+      "They",
+      " are",
+      " wor",
+      "ried",
+      " a",
+      "bout",
+      " that",
+      " prob",
+      "lem."
+    ],
+    "exampleSentence": "They are worried about that problem.",
+    "exampleTranslation": "Eles estão preocupados com aquele problema."
+  },
+  {
+    "id": "to_be_negative_83",
+    "word": "We aren't tired. We don't have to get up at six o'clock tomorrow.",
+    "translation": "Nós não estamos cansados. Nós não temos que acordar às seis horas amanhã.",
+    "pronunciation": "/wi ˈɑrənt ˈtaɪərd. wi doʊnt hæv tu ɡɛt ʌp æt sɪks əˈklɑk təˈmɑˌroʊ./",
+    "portuguesePhonetic": "ui ár-ent táierd. ui dôunt rév tchu guét áp ét sics o-clóc tu-mó-rou.",
+    "syllables": [
+      "We",
+      " aren't",
+      " tired.",
+      " We",
+      " don't",
+      " have",
+      " to",
+      " get",
+      " up",
+      " at",
+      " six",
+      " o'clock",
+      " to",
+      "mor",
+      "row."
+    ],
+    "exampleSentence": "We aren't tired. We don't have to get up at six o'clock tomorrow.",
+    "exampleTranslation": "Nós não estamos cansados. Nós não temos que acordar às seis horas amanhã."
+  },
+  {
+    "id": "to_be_negative_84",
+    "word": "They aren't upset.",
+    "translation": "Eles não estão chateados.",
+    "pronunciation": "/ðeɪ ˈɑrənt ʌpˈsɛt./",
+    "portuguesePhonetic": "dêi ár-ent áp-sét.",
+    "syllables": [
+      "They",
+      " aren't",
+      " up",
+      "set."
+    ],
+    "exampleSentence": "They aren't upset.",
+    "exampleTranslation": "Eles não estão chateados."
+  },
+  {
+    "id": "to_be_negative_85",
+    "word": "He isn't worried about that exam.",
+    "translation": "Ele não está preocupado com aquela prova.",
+    "pronunciation": "/hi ˈɪzənt ˈwɜrid əˈbaʊt ðæt ɪɡˈzæm./",
+    "portuguesePhonetic": "ri í-zent uã-rid a-báut dét eg-zém.",
+    "syllables": [
+      "He",
+      " isn't",
+      " wor",
+      "ried",
+      " a",
+      "bout",
+      " that",
+      " ex",
+      "am."
+    ],
+    "exampleSentence": "He isn't worried about that exam.",
+    "exampleTranslation": "Ele não está preocupado com aquela prova."
+  },
+  {
+    "id": "to_be_negative_86",
+    "word": "She isn't sad and she doesn't want to stay home alone.",
+    "translation": "Ela não está triste e não quer ficar sozinha em casa.",
+    "pronunciation": "/ʃi ˈɪzənt sæd ænd ʃi ˈdʌzənt wɑnt tu steɪ hoʊm əˈloʊn./",
+    "portuguesePhonetic": "chi í-zent séd énd chi dâ-zent uánt tchu stêi rôum a-lôun.",
+    "syllables": [
+      "She",
+      " isn't",
+      " sad",
+      " and",
+      " she",
+      " doesn't",
+      " want",
+      " to",
+      " stay",
+      " home",
+      " a",
+      "lone."
+    ],
+    "exampleSentence": "She isn't sad and she doesn't want to stay home alone.",
+    "exampleTranslation": "Ela não está triste e não quer ficar sozinha em casa."
+  },
+  {
+    "id": "to_be_negative_87",
+    "word": "I am not busy this month.",
+    "translation": "Eu não estou ocupado neste mês.",
+    "pronunciation": "/aɪ æm nɑt ˈbɪzi ðɪs mʌnθ./",
+    "portuguesePhonetic": "ai ém nat bí-zi dís mânth.",
+    "syllables": [
+      "I",
+      " am",
+      " not",
+      " bu",
+      "sy",
+      " this",
+      " month."
+    ],
+    "exampleSentence": "I am not busy this month.",
+    "exampleTranslation": "Eu não estou ocupado neste mês."
+  },
+  {
+    "id": "to_be_negative_88",
+    "word": "They aren't thirsty. They don't want a glass of water.",
+    "translation": "Eles não estão com sede. Eles não querem um copo de água.",
+    "pronunciation": "/ðeɪ ˈɑrənt ˈθɜrsti. ðeɪ doʊnt wɑnt ə ɡlæs ʌv ˈwɔtər./",
+    "portuguesePhonetic": "dêi ár-ent thãrs-ti. dêi dôunt uánt â glés áv uó-ter.",
+    "syllables": [
+      "They",
+      " aren't",
+      " thirs",
+      "ty.",
+      " They",
+      " don't",
+      " want",
+      " a",
+      " glass",
+      " of",
+      " wa",
+      "ter."
+    ],
+    "exampleSentence": "They aren't thirsty. They don't want a glass of water.",
+    "exampleTranslation": "Eles não estão com sede. Eles não querem um copo de água."
+  },
+  {
+    "id": "to_be_negative_89",
+    "word": "She isn't a lawyer. She doesn't work downtown.",
+    "translation": "Ela não é advogada. Ela não trabalha no centro da cidade.",
+    "pronunciation": "/ʃi ˈɪzənt ə ˈlɔjər. ʃi ˈdʌzənt wɜrk ˈdaʊnˈtaʊn./",
+    "portuguesePhonetic": "chi í-zent â lói-er. chi dâ-zent uãrc dáun-táun.",
+    "syllables": [
+      "She",
+      " isn't",
+      " a",
+      " law",
+      "yer.",
+      " She",
+      " doesn't",
+      " work",
+      " down",
+      "town."
+    ],
+    "exampleSentence": "She isn't a lawyer. She doesn't work downtown.",
+    "exampleTranslation": "Ela não é advogada. Ela não trabalha no centro da cidade."
+  },
+  {
+    "id": "to_be_negative_90",
+    "word": "My parents aren't hungry. They don't want to have lunch now.",
+    "translation": "Meus pais não estão com fome. Eles não querem almoçar agora.",
+    "pronunciation": "/maɪ ˈpɛrənts ˈɑrənt ˈhʌŋɡri. ðeɪ doʊnt wɑnt tu hæv lʌntʃ naʊ./",
+    "portuguesePhonetic": "mai pé-rents ár-ent rân-gri. dêi dôunt uánt tchu rév lântch náu.",
+    "syllables": [
+      "My",
+      " par",
+      "ents",
+      " aren't",
+      " hun",
+      "gry.",
+      " They",
+      " don't",
+      " want",
+      " to",
+      " have",
+      " lunch",
+      " now."
+    ],
+    "exampleSentence": "My parents aren't hungry. They don't want to have lunch now.",
+    "exampleTranslation": "Meus pais não estão com fome. Eles não querem almoçar agora."
+  },
+  {
+    "id": "to_be_negative_91",
+    "word": "hungry",
+    "translation": "com fome",
+    "pronunciation": "/ˈhʌŋɡri/",
+    "portuguesePhonetic": "rân-gri",
+    "syllables": [
+      "hun",
+      "gry"
+    ],
+    "exampleSentence": "I am not hungry.",
+    "exampleTranslation": "Eu não estou com fome."
+  },
+  {
+    "id": "to_be_negative_92",
+    "word": "thirsty",
+    "translation": "com sede",
+    "pronunciation": "/ˈθɜrsti/",
+    "portuguesePhonetic": "thãrs-ti",
+    "syllables": [
+      "thirs",
+      "ty"
+    ],
+    "exampleSentence": "They aren't thirsty.",
+    "exampleTranslation": "Eles não estão com sede."
+  },
+  {
+    "id": "to_be_negative_93",
+    "word": "coworker",
+    "translation": "colega de trabalho",
+    "pronunciation": "/ˈkoʊˌwɜrkər/",
+    "portuguesePhonetic": "côu-uãr-quer",
+    "syllables": [
+      "co",
+      "work",
+      "er"
+    ],
+    "exampleSentence": "They aren't coworkers.",
+    "exampleTranslation": "Eles não são colegas de trabalho."
+  },
+  {
+    "id": "to_be_negative_94",
+    "word": "classmate",
+    "translation": "colega de classe",
+    "pronunciation": "/ˈklæsˌmeɪt/",
+    "portuguesePhonetic": "clés-mêit",
+    "syllables": [
+      "class",
+      "mate"
+    ],
+    "exampleSentence": "They are classmates.",
+    "exampleTranslation": "Eles são colegas de classe."
+  },
+  {
+    "id": "to_be_negative_95",
+    "word": "salesperson",
+    "translation": "vendedor(a)",
+    "pronunciation": "/ˈseɪlzˌpɜrsən/",
+    "portuguesePhonetic": "sêils-pãr-son",
+    "syllables": [
+      "sales",
+      "per",
+      "son"
+    ],
+    "exampleSentence": "I am a salesperson.",
+    "exampleTranslation": "Eu sou vendedor."
+  },
+  {
+    "id": "to_be_negative_96",
+    "word": "engineer",
+    "translation": "engenheiro(a)",
+    "pronunciation": "/ˌɛndʒəˈnɪr/",
+    "portuguesePhonetic": "en-di-níar",
+    "syllables": [
+      "en",
+      "gi",
+      "neer"
+    ],
+    "exampleSentence": "She is an engineer.",
+    "exampleTranslation": "Ela é engenheira."
+  },
+  {
+    "id": "to_be_negative_97",
+    "word": "manager",
+    "translation": "gerente",
+    "pronunciation": "/ˈmænədʒər/",
+    "portuguesePhonetic": "mé-ni-djer",
+    "syllables": [
+      "man",
+      "a",
+      "ger"
+    ],
+    "exampleSentence": "He is a manager.",
+    "exampleTranslation": "Ele é gerente."
+  },
+  {
+    "id": "to_be_negative_98",
+    "word": "kind",
+    "translation": "gentil",
+    "pronunciation": "/kaɪnd/",
+    "portuguesePhonetic": "cáind",
+    "syllables": [
+      "kind"
+    ],
+    "exampleSentence": "He is usually very kind.",
+    "exampleTranslation": "Ele é geralmente muito gentil."
+  },
+  {
+    "id": "to_be_negative_99",
+    "word": "busy",
+    "translation": "ocupado",
+    "pronunciation": "/ˈbɪzi/",
+    "portuguesePhonetic": "bí-zi",
+    "syllables": [
+      "bu",
+      "sy"
+    ],
+    "exampleSentence": "I'm not busy now.",
+    "exampleTranslation": "Eu não estou ocupada agora."
+  },
+  {
+    "id": "to_be_negative_100",
+    "word": "bacon",
+    "translation": "bacon",
+    "pronunciation": "/ˈbeɪkən/",
+    "portuguesePhonetic": "bêi-con",
+    "syllables": [
+      "ba",
+      "con"
+    ],
+    "exampleSentence": "We don't like to eat bacon.",
+    "exampleTranslation": "Nós não gostamos de comer bacon."
+  },
+  {
+    "id": "to_be_negative_101",
+    "word": "sausage",
+    "translation": "salsicha",
+    "pronunciation": "/ˈsɔsɪdʒ/",
+    "portuguesePhonetic": "só-sidj",
+    "syllables": [
+      "sau",
+      "sage"
+    ],
+    "exampleSentence": "We don't like to eat sausage.",
+    "exampleTranslation": "Nós não gostamos de comer salsicha."
+  },
+  {
+    "id": "to_be_negative_102",
+    "word": "healthy",
+    "translation": "saudável",
+    "pronunciation": "/ˈhɛlθi/",
+    "portuguesePhonetic": "rél-thi",
+    "syllables": [
+      "heal",
+      "thy"
+    ],
+    "exampleSentence": "It isn't healthy.",
+    "exampleTranslation": "Não é saudável."
+  },
+  {
+    "id": "to_be_negative_103",
+    "word": "student",
+    "translation": "estudante",
+    "pronunciation": "/ˈstudənt/",
+    "portuguesePhonetic": "stú-dent",
+    "syllables": [
+      "stu",
+      "dent"
+    ],
+    "exampleSentence": "I'm a student.",
+    "exampleTranslation": "Eu sou estudante."
+  },
+  {
+    "id": "to_be_negative_104",
+    "word": "bored",
+    "translation": "entediado / aborrecido",
+    "pronunciation": "/bɔrd/",
+    "portuguesePhonetic": "bórd",
+    "syllables": [
+      "bored"
+    ],
+    "exampleSentence": "They aren't bored.",
+    "exampleTranslation": "Eles não estão aborrecidos."
+  },
+  {
+    "id": "to_be_negative_105",
+    "word": "tired",
+    "translation": "cansado",
+    "pronunciation": "/ˈtaɪərd/",
+    "portuguesePhonetic": "táierd",
+    "syllables": [
+      "tired"
+    ],
+    "exampleSentence": "They are tired.",
+    "exampleTranslation": "Eles estão cansados."
+  },
+  {
+    "id": "to_be_negative_106",
+    "word": "smart",
+    "translation": "inteligente / esperto",
+    "pronunciation": "/smɑrt/",
+    "portuguesePhonetic": "smárt",
+    "syllables": [
+      "smart"
+    ],
+    "exampleSentence": "My sister is very smart and beautiful.",
+    "exampleTranslation": "Minha irmã é muito esperta e bonita."
+  },
+  {
+    "id": "to_be_negative_107",
+    "word": "beautiful",
+    "translation": "bonita",
+    "pronunciation": "/ˈbjutəfəl/",
+    "portuguesePhonetic": "biú-ti-ful",
+    "syllables": [
+      "beau",
+      "ti",
+      "ful"
+    ],
+    "exampleSentence": "My sister is beautiful.",
+    "exampleTranslation": "Minha irmã é bonita."
+  },
+  {
+    "id": "to_be_negative_108",
+    "word": "worried",
+    "translation": "preocupado",
+    "pronunciation": "/ˈwɜrid/",
+    "portuguesePhonetic": "uã-rid",
+    "syllables": [
+      "wor",
+      "ried"
+    ],
+    "exampleSentence": "They are worried about that problem.",
+    "exampleTranslation": "Eles estão preocupados com aquele problema."
+  },
+  {
+    "id": "to_be_negative_109",
+    "word": "upset",
+    "translation": "chateado",
+    "pronunciation": "/ʌpˈsɛt/",
+    "portuguesePhonetic": "áp-sét",
+    "syllables": [
+      "up",
+      "set"
+    ],
+    "exampleSentence": "They aren't upset.",
+    "exampleTranslation": "Eles não estão chateados."
+  },
+  {
+    "id": "to_be_negative_110",
+    "word": "exam",
+    "translation": "prova",
+    "pronunciation": "/ɪɡˈzæm/",
+    "portuguesePhonetic": "eg-zém",
+    "syllables": [
+      "ex",
+      "am"
+    ],
+    "exampleSentence": "He isn't worried about that exam.",
+    "exampleTranslation": "Ele não está preocupado com aquela prova."
+  },
+  {
+    "id": "to_be_negative_111",
+    "word": "alone",
+    "translation": "sozinho",
+    "pronunciation": "/əˈloʊn/",
+    "portuguesePhonetic": "a-lôun",
+    "syllables": [
+      "a",
+      "lone"
+    ],
+    "exampleSentence": "She doesn't want to stay home alone.",
+    "exampleTranslation": "Ela não quer ficar sozinha em casa."
+  },
+  {
+    "id": "to_be_negative_112",
+    "word": "lawyer",
+    "translation": "advogado(a)",
+    "pronunciation": "/ˈlɔjər/",
+    "portuguesePhonetic": "lói-er",
+    "syllables": [
+      "law",
+      "yer"
+    ],
+    "exampleSentence": "She isn't a lawyer.",
+    "exampleTranslation": "Ela não é advogada."
+  },
+  {
+    "id": "to_be_negative_113",
+    "word": "downtown",
+    "translation": "centro da cidade",
+    "pronunciation": "/ˈdaʊnˈtaʊn/",
+    "portuguesePhonetic": "dáun-táun",
+    "syllables": [
+      "down",
+      "town"
+    ],
+    "exampleSentence": "She doesn't work downtown.",
+    "exampleTranslation": "Ela não trabalha no centro da cidade."
+  },
+  {
+    "id": "to_be_negative_114",
+    "word": "glass of water",
+    "translation": "copo de água",
+    "pronunciation": "/ɡlæs ʌv ˈwɔtər/",
+    "portuguesePhonetic": "glés áv uó-ter",
+    "syllables": [
+      "glass",
+      " of",
+      " wa",
+      "ter"
+    ],
+    "exampleSentence": "They want a glass of water.",
+    "exampleTranslation": "Eles querem um copo de água."
+  },
+  {
+    "id": "to_be_negative_115",
+    "word": "have lunch",
+    "translation": "almoçar",
+    "pronunciation": "/hæv lʌntʃ/",
+    "portuguesePhonetic": "rév lântch",
+    "syllables": [
+      "have",
+      " lunch"
+    ],
+    "exampleSentence": "They don't want to have lunch now.",
+    "exampleTranslation": "Eles não querem almoçar agora."
+  },
+  {
+    "id": "to_be_negative_116",
+    "word": "I'm sure",
+    "translation": "eu tenho certeza",
+    "pronunciation": "/aɪm ʃʊr/",
+    "portuguesePhonetic": "aim chúr",
+    "syllables": [
+      "I'm",
+      " sure"
+    ],
+    "exampleSentence": "I'm sure they are tired.",
+    "exampleTranslation": "Eu tenho certeza de que eles estão cansados."
+  },
+  {
+    "id": "to_be_negative_117",
+    "word": "What do you do?",
+    "translation": "O que você faz?",
+    "pronunciation": "/wʌt du ju du?/",
+    "portuguesePhonetic": "uát du iu du?",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " do?"
+    ],
+    "exampleSentence": "What do you do?",
+    "exampleTranslation": "O que você faz?"
+  },
+  {
+    "id": "to_be_negative_118",
+    "word": "What about you?",
+    "translation": "E você?",
+    "pronunciation": "/wʌt əˈbaʊt ju?/",
+    "portuguesePhonetic": "uát a-báut iu?",
+    "syllables": [
+      "What",
+      " a",
+      "bout",
+      " you?"
+    ],
+    "exampleSentence": "I'm a student. What about you?",
+    "exampleTranslation": "Eu sou estudante. E você?"
+  }
+]

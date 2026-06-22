@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_2_grammar_a1_en_card_1",
+    "word": "this",
+    "translation": "este / isto (aqui, perto)",
+    "pronunciation": "/ðɪs/",
+    "portuguesePhonetic": "[dhís]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_2",
+    "word": "that",
+    "translation": "esse / aquele (lá, longe)",
+    "pronunciation": "/ðæt/",
+    "portuguesePhonetic": "[dhét]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_3",
+    "word": "these",
+    "translation": "estes (aqui, perto, plural)",
+    "pronunciation": "/ðiːz/",
+    "portuguesePhonetic": "[dhíz]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_4",
+    "word": "those",
+    "translation": "esses / aqueles (lá, longe, plural)",
+    "pronunciation": "/ðoʊz/",
+    "portuguesePhonetic": "[dhôuz]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_5",
+    "word": "here",
+    "translation": "aqui",
+    "pronunciation": "/hɪr/",
+    "portuguesePhonetic": "[rrír]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_6",
+    "word": "there",
+    "translation": "ali / lá",
+    "pronunciation": "/ðɛr/",
+    "portuguesePhonetic": "[dhér]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_7",
+    "word": "a book",
+    "translation": "um livro",
+    "pronunciation": "/ə bʊk/",
+    "portuguesePhonetic": "[a búk]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_8",
+    "word": "books",
+    "translation": "livros",
+    "pronunciation": "/bʊks/",
+    "portuguesePhonetic": "[búks]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_9",
+    "word": "This is a book.",
+    "translation": "Este é um livro.",
+    "pronunciation": "/ðɪs ɪz ə bʊk/",
+    "portuguesePhonetic": "[dhís iz a búk]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_10",
+    "word": "That is a book.",
+    "translation": "Aquele é um livro.",
+    "pronunciation": "/ðæt ɪz ə bʊk/",
+    "portuguesePhonetic": "[dhét iz a búk]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_11",
+    "word": "These are books.",
+    "translation": "Estes são livros.",
+    "pronunciation": "/ðiːz ɑːr bʊks/",
+    "portuguesePhonetic": "[dhíz ár búks]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_12",
+    "word": "Those are books.",
+    "translation": "Aqueles são livros.",
+    "pronunciation": "/ðoʊz ɑːr bʊks/",
+    "portuguesePhonetic": "[dhôuz ár búks]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_13",
+    "word": "This is here.",
+    "translation": "Isto está aqui.",
+    "pronunciation": "/ðɪs ɪz hɪr/",
+    "portuguesePhonetic": "[dhís iz rrír]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_14",
+    "word": "That is there.",
+    "translation": "Aquilo está lá.",
+    "pronunciation": "/ðæt ɪz ðɛr/",
+    "portuguesePhonetic": "[dhét iz dhér]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_15",
+    "word": "this one",
+    "translation": "este aqui",
+    "pronunciation": "/ðɪs wʌn/",
+    "portuguesePhonetic": "[dhís uân]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_16",
+    "word": "that one",
+    "translation": "aquele ali",
+    "pronunciation": "/ðæt wʌn/",
+    "portuguesePhonetic": "[dhét uân]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_17",
+    "word": "Is this a book?",
+    "translation": "Este é um livro?",
+    "pronunciation": "/ɪz ðɪs ə bʊk/",
+    "portuguesePhonetic": "[iz dhís a búk]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_18",
+    "word": "Is that a book?",
+    "translation": "Aquele é um livro?",
+    "pronunciation": "/ɪz ðæt ə bʊk/",
+    "portuguesePhonetic": "[iz dhét a búk]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_19",
+    "word": "Are these books?",
+    "translation": "Estes são livros?",
+    "pronunciation": "/ɑːr ðiːz bʊks/",
+    "portuguesePhonetic": "[ár dhíz búks]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_20",
+    "word": "Are those books?",
+    "translation": "Aqueles são livros?",
+    "pronunciation": "/ɑːr ðoʊz bʊks/",
+    "portuguesePhonetic": "[ár dhôuz búks]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_21",
+    "word": "This isn't a book.",
+    "translation": "Este não é um livro.",
+    "pronunciation": "/ðɪs ˈɪznt ə bʊk/",
+    "portuguesePhonetic": "[dhís íznt a búk]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_22",
+    "word": "That isn't a book.",
+    "translation": "Aquele não é um livro.",
+    "pronunciation": "/ðæt ˈɪznt ə bʊk/",
+    "portuguesePhonetic": "[dhét íznt a búk]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_23",
+    "word": "These aren't books.",
+    "translation": "Estes não são livros.",
+    "pronunciation": "/ðiːz ˈɑːrnt bʊks/",
+    "portuguesePhonetic": "[dhíz árent búks]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_24",
+    "word": "Those aren't books.",
+    "translation": "Aqueles não são livros.",
+    "pronunciation": "/ðoʊz ˈɑːrnt bʊks/",
+    "portuguesePhonetic": "[dhôuz árent búks]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_25",
+    "word": "What is this?",
+    "translation": "O que é isto?",
+    "pronunciation": "/wʌt ɪz ðɪs/",
+    "portuguesePhonetic": "[uât iz dhís]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_26",
+    "word": "This apple is fresh.",
+    "translation": "Esta maçã está fresca.",
+    "pronunciation": "/ðɪs ˈæpl̩ ɪz frɛʃ/",
+    "portuguesePhonetic": "[dhís épou iz fréch]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_27",
+    "word": "That apple is old.",
+    "translation": "Aquela maçã está velha.",
+    "pronunciation": "/ðæt ˈæpl̩ ɪz oʊld/",
+    "portuguesePhonetic": "[dhét épou iz ôuld]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_28",
+    "word": "These tomatoes are red.",
+    "translation": "Estes tomates estão vermelhos.",
+    "pronunciation": "/ðiːz təˈmeɪtoʊz ɑːr rɛd/",
+    "portuguesePhonetic": "[dhíz tomêitouz ár réd]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_29",
+    "word": "Those bananas are green.",
+    "translation": "Aquelas bananas estão verdes.",
+    "pronunciation": "/ðoʊz bəˈnænəz ɑːr ɡriːn/",
+    "portuguesePhonetic": "[dhôuz banénaz ár grín]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_30",
+    "word": "How much is this?",
+    "translation": "Quanto custa isto?",
+    "pronunciation": "/haʊ mʌtʃ ɪz ðɪs/",
+    "portuguesePhonetic": "[rráu mâtch iz dhís]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_31",
+    "word": "I like this shirt.",
+    "translation": "Eu gosto desta camisa.",
+    "pronunciation": "/aɪ laɪk ðɪs ʃɜːrt/",
+    "portuguesePhonetic": "[ái láik dhís chârt]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_32",
+    "word": "I don't like that jacket.",
+    "translation": "Eu não gosto daquela jaqueta.",
+    "pronunciation": "/aɪ doʊnt laɪk ðæt ˈdʒækɪt/",
+    "portuguesePhonetic": "[ái dôunt láik dhét djéket]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_33",
+    "word": "These shoes are nice.",
+    "translation": "Estes sapatos são bonitos.",
+    "pronunciation": "/ðiːz ʃuːz ɑːr naɪs/",
+    "portuguesePhonetic": "[dhíz chúz ár náis]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_34",
+    "word": "Those pants are too big.",
+    "translation": "Aquelas calças são grandes demais.",
+    "pronunciation": "/ðoʊz pænts ɑːr tuː bɪɡ/",
+    "portuguesePhonetic": "[dhôuz pénts ár tú bíg]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_35",
+    "word": "Can I try this on?",
+    "translation": "Posso experimentar isto?",
+    "pronunciation": "/kæn aɪ traɪ ðɪs ɑːn/",
+    "portuguesePhonetic": "[kén ái trái dhís ón]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_36",
+    "word": "This soup is hot.",
+    "translation": "Esta sopa está quente.",
+    "pronunciation": "/ðɪs suːp ɪz hɑːt/",
+    "portuguesePhonetic": "[dhís súp iz rrót]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_37",
+    "word": "That table is free.",
+    "translation": "Aquela mesa está livre.",
+    "pronunciation": "/ðæt ˈteɪbl̩ ɪz friː/",
+    "portuguesePhonetic": "[dhét têibou iz frí]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_38",
+    "word": "These forks are dirty.",
+    "translation": "Estes garfos estão sujos.",
+    "pronunciation": "/ðiːz fɔːrks ɑːr ˈdɜːrti/",
+    "portuguesePhonetic": "[dhíz fórks ár dârti]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_39",
+    "word": "Those drinks are mine.",
+    "translation": "Aquelas bebidas são minhas.",
+    "pronunciation": "/ðoʊz drɪŋks ɑːr maɪn/",
+    "portuguesePhonetic": "[dhôuz drínks ár máin]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_40",
+    "word": "I want this, please.",
+    "translation": "Eu quero isto, por favor.",
+    "pronunciation": "/aɪ wɑːnt ðɪs pliːz/",
+    "portuguesePhonetic": "[ái uánt dhís plíz]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_41",
+    "word": "This room is clean.",
+    "translation": "Este quarto está limpo.",
+    "pronunciation": "/ðɪs ruːm ɪz kliːn/",
+    "portuguesePhonetic": "[dhís rúm iz klín]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_42",
+    "word": "That window is open.",
+    "translation": "Aquela janela está aberta.",
+    "pronunciation": "/ðæt ˈwɪndoʊ ɪz ˈoʊpən/",
+    "portuguesePhonetic": "[dhét uíndou iz ôupan]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_43",
+    "word": "These towels are wet.",
+    "translation": "Estas toalhas estão molhadas.",
+    "pronunciation": "/ðiːz ˈtaʊəlz ɑːr wɛt/",
+    "portuguesePhonetic": "[dhíz táuelz ár uét]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_44",
+    "word": "Those dishes are clean.",
+    "translation": "Aqueles pratos estão limpos.",
+    "pronunciation": "/ðoʊz ˈdɪʃɪz ɑːr kliːn/",
+    "portuguesePhonetic": "[dhôuz díchiz ár klín]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_45",
+    "word": "This book is interesting.",
+    "translation": "Este livro é interessante.",
+    "pronunciation": "/ðɪs bʊk ɪz ˈɪntrəstɪŋ/",
+    "portuguesePhonetic": "[dhís búk iz íntrestin]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_46",
+    "word": "That answer is correct.",
+    "translation": "Aquela resposta está correta.",
+    "pronunciation": "/ðæt ˈænsər ɪz kəˈrɛkt/",
+    "portuguesePhonetic": "[dhét énser iz korréct]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_47",
+    "word": "These notes are useful.",
+    "translation": "Estas anotações são úteis.",
+    "pronunciation": "/ðiːz noʊts ɑːr ˈjuːsfl̩/",
+    "portuguesePhonetic": "[dhíz nôuts ár iúsfou]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_48",
+    "word": "This place is nice.",
+    "translation": "Este lugar é legal.",
+    "pronunciation": "/ðɪs pleɪs ɪz naɪs/",
+    "portuguesePhonetic": "[dhís plêis iz náis]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_49",
+    "word": "That song is great.",
+    "translation": "Aquela música é ótima.",
+    "pronunciation": "/ðæt sɔːŋ ɪz ɡreɪt/",
+    "portuguesePhonetic": "[dhét sóN iz grêit]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_50",
+    "word": "Those people are my friends.",
+    "translation": "Aquelas pessoas são meus amigos.",
+    "pronunciation": "/ðoʊz ˈpiːpl̩ ɑːr maɪ frɛndz/",
+    "portuguesePhonetic": "[dhôuz pípou ár mái fréndz]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_51",
+    "word": "This is my house.",
+    "translation": "Esta é minha casa.",
+    "pronunciation": "/ðɪs ɪz maɪ haʊs/",
+    "portuguesePhonetic": "[dhís iz mái ráus]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_52",
+    "word": "That is your car.",
+    "translation": "Aquele é seu carro.",
+    "pronunciation": "/ðæt ɪz jɔːr kɑːr/",
+    "portuguesePhonetic": "[dhét iz iór kár]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_53",
+    "word": "These are my keys.",
+    "translation": "Estas são minhas chaves.",
+    "pronunciation": "/ðiːz ɑːr maɪ kiːz/",
+    "portuguesePhonetic": "[dhíz ár mái kíz]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_54",
+    "word": "Those are her books.",
+    "translation": "Aqueles são os livros dela.",
+    "pronunciation": "/ðoʊz ɑːr hɜːr bʊks/",
+    "portuguesePhonetic": "[dhôuz ár rrâr búks]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_55",
+    "word": "This bag is heavy.",
+    "translation": "Esta bolsa está pesada.",
+    "pronunciation": "/ðɪs bæɡ ɪz ˈhɛvi/",
+    "portuguesePhonetic": "[dhís bég iz rrévi]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_56",
+    "word": "That movie was boring.",
+    "translation": "Aquele filme foi chato.",
+    "pronunciation": "/ðæt ˈmuːvi wəz ˈbɔːrɪŋ/",
+    "portuguesePhonetic": "[dhét múvi uâz bórin]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_57",
+    "word": "Whose phone is this?",
+    "translation": "De quem é este celular?",
+    "pronunciation": "/huːz foʊn ɪz ðɪs/",
+    "portuguesePhonetic": "[rrúz fôun iz dhís]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_58",
+    "word": "I don't want those.",
+    "translation": "Eu não quero aqueles.",
+    "pronunciation": "/aɪ doʊnt wɑːnt ðoʊz/",
+    "portuguesePhonetic": "[ái dôunt uánt dhôuz]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_59",
+    "word": "Is this seat taken?",
+    "translation": "Este assento está ocupado?",
+    "pronunciation": "/ɪz ðɪs siːt ˈteɪkən/",
+    "portuguesePhonetic": "[iz dhís sít têikan]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_60",
+    "word": "Are these your shoes?",
+    "translation": "Estes sapatos são seus?",
+    "pronunciation": "/ɑːr ðiːz jɔːr ʃuːz/",
+    "portuguesePhonetic": "[ár dhíz iór chúz]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_61",
+    "word": "That isn't my coat.",
+    "translation": "Aquele não é meu casaco.",
+    "pronunciation": "/ðæt ˈɪznt maɪ koʊt/",
+    "portuguesePhonetic": "[dhét íznt mái kôut]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_62",
+    "word": "Why are those boxes here?",
+    "translation": "Por que aquelas caixas estão aqui?",
+    "pronunciation": "/waɪ ɑːr ðoʊz ˈbɑːksɪz hɪr/",
+    "portuguesePhonetic": "[uái ár dhôuz báksiz rrír]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_63",
+    "word": "I like this one because it's cheaper.",
+    "translation": "Eu gosto deste porque é mais barato.",
+    "pronunciation": "/aɪ laɪk ðɪs wʌn bɪˈkɔːz ɪts ˈtʃiːpər/",
+    "portuguesePhonetic": "[ái láik dhís uân bikóz íts tchíper]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_64",
+    "word": "That was the best day of my life.",
+    "translation": "Aquele foi o melhor dia da minha vida.",
+    "pronunciation": "/ðæt wəz ðə bɛst deɪ əv maɪ laɪf/",
+    "portuguesePhonetic": "[dhét uâz dha bést dêi ov mái láif]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_65",
+    "word": "These are the photos I took yesterday.",
+    "translation": "Estas são as fotos que tirei ontem.",
+    "pronunciation": "/ðiːz ɑːr ðə ˈfoʊtoʊz aɪ tʊk ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[dhíz ár dha fôutouz ái túk iéster dei]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_66",
+    "word": "Those were the rules when I was a child.",
+    "translation": "Aquelas eram as regras quando eu era criança.",
+    "pronunciation": "/ðoʊz wɜːr ðə ruːlz wɛn aɪ wəz ə tʃaɪld/",
+    "portuguesePhonetic": "[dhôuz uâr dha rúlz uén ái uâz a tcháild]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_67",
+    "word": "I'll take this, but not that.",
+    "translation": "Vou levar este, mas não aquele.",
+    "pronunciation": "/aɪl teɪk ðɪs bʌt nɑːt ðæt/",
+    "portuguesePhonetic": "[áiou têik dhís bât nót dhét]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_68",
+    "word": "This is the house where I grew up.",
+    "translation": "Esta é a casa onde eu cresci.",
+    "pronunciation": "/ðɪs ɪz ðə haʊs wɛr aɪ ɡruː ʌp/",
+    "portuguesePhonetic": "[dhís iz dha ráus uér ái grú âp]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_69",
+    "word": "That is the man who helped me.",
+    "translation": "Aquele é o homem que me ajudou.",
+    "pronunciation": "/ðæt ɪz ðə mæn huː hɛlpt miː/",
+    "portuguesePhonetic": "[dhét iz dha mén rrú rrélpt mí]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_70",
+    "word": "These are the books that I'm reading now.",
+    "translation": "Estes são os livros que estou lendo agora.",
+    "pronunciation": "/ðiːz ɑːr ðə bʊks ðæt aɪm ˈriːdɪŋ naʊ/",
+    "portuguesePhonetic": "[dhíz ár dha búks dhét áim rídin náu]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_71",
+    "word": "Those are the people we met when we traveled.",
+    "translation": "Aquelas são as pessoas que conhecemos quando viajamos.",
+    "pronunciation": "/ðoʊz ɑːr ðə ˈpiːpl̩ wiː mɛt wɛn wiː ˈtrævl̩d/",
+    "portuguesePhonetic": "[dhôuz ár dha pípou uí mét uén uí trévold]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_72",
+    "word": "I prefer this color because it's brighter than that one.",
+    "translation": "Prefiro esta cor porque é mais viva que aquela.",
+    "pronunciation": "/aɪ prɪˈfɜːr ðɪs ˈkʌlər bɪˈkɔːz ɪts ˈbraɪtər ðæn ðæt wʌn/",
+    "portuguesePhonetic": "[ái priférr dhís kâler bikóz íts bráiter dhén dhét uân]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_73",
+    "word": "This isn't what I ordered, but that's okay.",
+    "translation": "Isto não é o que pedi, mas tudo bem.",
+    "pronunciation": "/ðɪs ˈɪznt wʌt aɪ ˈɔːrdərd bʌt ðæts oʊˈkeɪ/",
+    "portuguesePhonetic": "[dhís íznt uât ái órderd bât dhéts ôukêi]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_74",
+    "word": "Are these the keys you were looking for?",
+    "translation": "Estas são as chaves que você procurava?",
+    "pronunciation": "/ɑːr ðiːz ðə kiːz juː wɜːr ˈlʊkɪŋ fɔːr/",
+    "portuguesePhonetic": "[ár dhíz dha kíz iú uâr lúkin fór]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_75",
+    "word": "Although those are cheaper, I think these are better.",
+    "translation": "Embora aqueles sejam mais baratos, acho que estes são melhores.",
+    "pronunciation": "/ɔːlˈðoʊ ðoʊz ɑːr ˈtʃiːpər aɪ θɪŋk ðiːz ɑːr ˈbɛtər/",
+    "portuguesePhonetic": "[oldhôu dhôuz ár tchíper ái thínk dhíz ár béter]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_76",
+    "word": "\"What is this?\" / \"It's a book.\"",
+    "translation": "\"O que é isto?\" / \"É um livro.\"",
+    "pronunciation": "/wʌt ɪz ðɪs · ɪts ə bʊk/",
+    "portuguesePhonetic": "[uât iz dhís · íts a búk]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_77",
+    "word": "\"Is that your car?\" / \"Yes, it is.\"",
+    "translation": "\"Aquele é seu carro?\" / \"Sim, é.\"",
+    "pronunciation": "/ɪz ðæt jɔːr kɑːr · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz dhét iór kár · iés ít iz]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_78",
+    "word": "\"Are these your keys?\" / \"No, they aren't.\"",
+    "translation": "\"Estas são suas chaves?\" / \"Não, não são.\"",
+    "pronunciation": "/ɑːr ðiːz jɔːr kiːz · noʊ ðeɪ ˈɑːrnt/",
+    "portuguesePhonetic": "[ár dhíz iór kíz · nôu dhêi árent]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_79",
+    "word": "\"Whose books are those?\" / \"They're mine.\"",
+    "translation": "\"De quem são aqueles livros?\" / \"São meus.\"",
+    "pronunciation": "/huːz bʊks ɑːr ðoʊz · ðer maɪn/",
+    "portuguesePhonetic": "[rrúz búks ár dhôuz · dhér máin]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_80",
+    "word": "\"Do you like this?\" / \"Yes, I love it.\"",
+    "translation": "\"Você gosta disto?\" / \"Sim, eu adoro.\"",
+    "pronunciation": "/duː juː laɪk ðɪs · jɛs aɪ lʌv ɪt/",
+    "portuguesePhonetic": "[dú iú láik dhís · iés ái lâv ít]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_81",
+    "word": "\"Is this seat free?\" / \"No, it's taken.\"",
+    "translation": "\"Este assento está livre?\" / \"Não, está ocupado.\"",
+    "pronunciation": "/ɪz ðɪs siːt friː · noʊ ɪts ˈteɪkən/",
+    "portuguesePhonetic": "[iz dhís sít frí · nôu íts têikan]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_82",
+    "word": "\"How much is that?\" / \"It's ten dollars.\"",
+    "translation": "\"Quanto custa aquilo?\" / \"Custa dez dólares.\"",
+    "pronunciation": "/haʊ mʌtʃ ɪz ðæt · ɪts tɛn ˈdɑːlərz/",
+    "portuguesePhonetic": "[rráu mâtch iz dhét · íts tén dálars]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_83",
+    "word": "\"Can I have these?\" / \"Sure, take them.\"",
+    "translation": "\"Posso ficar com estes?\" / \"Claro, pode levar.\"",
+    "pronunciation": "/kæn aɪ hæv ðiːz · ʃʊr teɪk ðɛm/",
+    "portuguesePhonetic": "[kén ái rrév dhíz · chúr têik dhém]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_84",
+    "word": "\"Are those your friends?\" / \"Yes, they are.\"",
+    "translation": "\"Aqueles são seus amigos?\" / \"Sim, são.\"",
+    "pronunciation": "/ɑːr ðoʊz jɔːr frɛndz · jɛs ðeɪ ɑːr/",
+    "portuguesePhonetic": "[ár dhôuz iór fréndz · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_85",
+    "word": "\"What's that noise?\" / \"I don't know.\"",
+    "translation": "\"Que barulho é aquele?\" / \"Não sei.\"",
+    "pronunciation": "/wʌts ðæt nɔɪz · aɪ doʊnt noʊ/",
+    "portuguesePhonetic": "[uâts dhét nóiz · ái dôunt nôu]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_86",
+    "word": "\"Is this the right way?\" / \"No, it's that way.\"",
+    "translation": "\"É por aqui?\" / \"Não, é por ali.\"",
+    "pronunciation": "/ɪz ðɪs ðə raɪt weɪ · noʊ ɪts ðæt weɪ/",
+    "portuguesePhonetic": "[iz dhís dha ráit uêi · nôu íts dhét uêi]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_87",
+    "word": "\"Do you want this one or that one?\" / \"This one, please.\"",
+    "translation": "\"Você quer este ou aquele?\" / \"Este, por favor.\"",
+    "pronunciation": "/duː juː wɑːnt ðɪs wʌn ɔːr ðæt wʌn · ðɪs wʌn pliːz/",
+    "portuguesePhonetic": "[dú iú uánt dhís uân ór dhét uân · dhís uân plíz]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_88",
+    "word": "\"Are these on sale?\" / \"Yes, they are.\"",
+    "translation": "\"Estes estão em promoção?\" / \"Sim, estão.\"",
+    "pronunciation": "/ɑːr ðiːz ɑːn seɪl · jɛs ðeɪ ɑːr/",
+    "portuguesePhonetic": "[ár dhíz ón sêiou · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_89",
+    "word": "\"Whose phone is this?\" / \"It's not mine.\"",
+    "translation": "\"De quem é este celular?\" / \"Não é meu.\"",
+    "pronunciation": "/huːz foʊn ɪz ðɪs · ɪts nɑːt maɪn/",
+    "portuguesePhonetic": "[rrúz fôun iz dhís · íts nót máin]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_90",
+    "word": "\"Is that seat taken?\" / \"No, it's free.\"",
+    "translation": "\"Aquele assento está ocupado?\" / \"Não, está livre.\"",
+    "pronunciation": "/ɪz ðæt siːt ˈteɪkən · noʊ ɪts friː/",
+    "portuguesePhonetic": "[iz dhét sít têikan · nôu íts frí]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_91",
+    "word": "\"Do these come in blue?\" / \"Yes, they do.\"",
+    "translation": "\"Estes têm na cor azul?\" / \"Sim, têm.\"",
+    "pronunciation": "/duː ðiːz kʌm ɪn bluː · jɛs ðeɪ duː/",
+    "portuguesePhonetic": "[dú dhíz kâm in blú · iés dhêi dú]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_92",
+    "word": "\"Is this your first time here?\" / \"Yes, it is.\"",
+    "translation": "\"Esta é sua primeira vez aqui?\" / \"Sim, é.\"",
+    "pronunciation": "/ɪz ðɪs jɔːr fɜːrst taɪm hɪr · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz dhís iór fârst táim rrír · iés ít iz]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_93",
+    "word": "\"Are those clouds?\" / \"Yes, it might rain.\"",
+    "translation": "\"Aquilo são nuvens?\" / \"Sim, pode chover.\"",
+    "pronunciation": "/ɑːr ðoʊz klaʊdz · jɛs ɪt maɪt reɪn/",
+    "portuguesePhonetic": "[ár dhôuz kláudz · iés ít máit rêin]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_94",
+    "word": "\"What are these?\" / \"They're my notes.\"",
+    "translation": "\"O que são estes?\" / \"São minhas anotações.\"",
+    "pronunciation": "/wʌt ɑːr ðiːz · ðer maɪ noʊts/",
+    "portuguesePhonetic": "[uât ár dhíz · dhér mái nôuts]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_95",
+    "word": "\"Is this too expensive?\" / \"A little, yes.\"",
+    "translation": "\"Isto é caro demais?\" / \"Um pouco, sim.\"",
+    "pronunciation": "/ɪz ðɪs tuː ɪkˈspɛnsɪv · ə ˈlɪtl̩ jɛs/",
+    "portuguesePhonetic": "[iz dhís tú ikspénsiv · a lítou iés]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_96",
+    "word": "\"Are these seats ours?\" / \"No, those are.\"",
+    "translation": "\"Estes assentos são nossos?\" / \"Não, são aqueles.\"",
+    "pronunciation": "/ɑːr ðiːz siːts ˈaʊərz · noʊ ðoʊz ɑːr/",
+    "portuguesePhonetic": "[ár dhíz síts áuerz · nôu dhôuz ár]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_97",
+    "word": "\"Did you make this?\" / \"Yes, I did.\"",
+    "translation": "\"Você fez isto?\" / \"Sim, fiz.\"",
+    "pronunciation": "/dɪd juː meɪk ðɪs · jɛs aɪ dɪd/",
+    "portuguesePhonetic": "[díd iú mêik dhís · iés ái díd]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_98",
+    "word": "\"Is that the bus?\" / \"No, that's a truck.\"",
+    "translation": "\"Aquele é o ônibus?\" / \"Não, aquilo é um caminhão.\"",
+    "pronunciation": "/ɪz ðæt ðə bʌs · noʊ ðæts ə trʌk/",
+    "portuguesePhonetic": "[iz dhét dha bâs · nôu dhéts a trâk]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_99",
+    "word": "\"Are these the photos?\" / \"Yes, those are the ones.\"",
+    "translation": "\"São estas as fotos?\" / \"Sim, aquelas são.\"",
+    "pronunciation": "/ɑːr ðiːz ðə ˈfoʊtoʊz · jɛs ðoʊz ɑːr ðə wʌnz/",
+    "portuguesePhonetic": "[ár dhíz dha fôutouz · iés dhôuz ár dha uânz]"
+  },
+  {
+    "id": "lesson_2_grammar_a1_en_card_100",
+    "word": "\"Was this here yesterday?\" / \"No, it wasn't.\"",
+    "translation": "\"Isto estava aqui ontem?\" / \"Não, não estava.\"",
+    "pronunciation": "/wəz ðɪs hɪr ˈjɛstərdeɪ · noʊ ɪt ˈwʌznt/",
+    "portuguesePhonetic": "[uâz dhís rrír iéster dei · nôu ít uâznt]"
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "lesson_3_1",
+    "word": "to want",
+    "translation": "querer",
+    "pronunciation": "/tu wɑnt/",
+    "portuguesePhonetic": "tchu uánt",
+    "syllables": [
+      "to",
+      " want"
+    ],
+    "exampleSentence": "to want",
+    "exampleTranslation": "querer"
+  },
+  {
+    "id": "lesson_3_2",
+    "word": "to like",
+    "translation": "gostar (de)",
+    "pronunciation": "/tu laɪk/",
+    "portuguesePhonetic": "tchu laic",
+    "syllables": [
+      "to",
+      " like"
+    ],
+    "exampleSentence": "to like",
+    "exampleTranslation": "gostar (de)"
+  },
+  {
+    "id": "lesson_3_3",
+    "word": "apple",
+    "translation": "maçã",
+    "pronunciation": "/ˈæpəl/",
+    "portuguesePhonetic": "é-pol",
+    "syllables": [
+      "ap",
+      "ple"
+    ],
+    "exampleSentence": "apple",
+    "exampleTranslation": "maçã"
+  },
+  {
+    "id": "lesson_3_4",
+    "word": "orange",
+    "translation": "laranja",
+    "pronunciation": "/ˈɔrəndʒ/",
+    "portuguesePhonetic": "ó-rindj",
+    "syllables": [
+      "or",
+      "ange"
+    ],
+    "exampleSentence": "orange",
+    "exampleTranslation": "laranja"
+  },
+  {
+    "id": "lesson_3_5",
+    "word": "banana",
+    "translation": "banana",
+    "pronunciation": "/bəˈnænə/",
+    "portuguesePhonetic": "ba-né-na",
+    "syllables": [
+      "ba",
+      "nan",
+      "a"
+    ],
+    "exampleSentence": "banana",
+    "exampleTranslation": "banana"
+  },
+  {
+    "id": "lesson_3_6",
+    "word": "fruit",
+    "translation": "fruta",
+    "pronunciation": "/frut/",
+    "portuguesePhonetic": "frut",
+    "syllables": [
+      "fruit"
+    ],
+    "exampleSentence": "fruit",
+    "exampleTranslation": "fruta"
+  },
+  {
+    "id": "lesson_3_7",
+    "word": "toast",
+    "translation": "torrada",
+    "pronunciation": "/toʊst/",
+    "portuguesePhonetic": "tôust",
+    "syllables": [
+      "toast"
+    ],
+    "exampleSentence": "toast",
+    "exampleTranslation": "torrada"
+  },
+  {
+    "id": "lesson_3_8",
+    "word": "jam",
+    "translation": "geleia",
+    "pronunciation": "/dʒæm/",
+    "portuguesePhonetic": "djém",
+    "syllables": [
+      "jam"
+    ],
+    "exampleSentence": "jam",
+    "exampleTranslation": "geleia"
+  },
+  {
+    "id": "lesson_3_9",
+    "word": "cereal",
+    "translation": "cereal",
+    "pronunciation": "/ˈsɪriəl/",
+    "portuguesePhonetic": "sí-ri-al",
+    "syllables": [
+      "ce",
+      "re",
+      "al"
+    ],
+    "exampleSentence": "cereal",
+    "exampleTranslation": "cereal"
+  },
+  {
+    "id": "lesson_3_10",
+    "word": "yogurt",
+    "translation": "iogurte",
+    "pronunciation": "/ˈjoʊɡərt/",
+    "portuguesePhonetic": "iô-gurt",
+    "syllables": [
+      "yo",
+      "gurt"
+    ],
+    "exampleSentence": "yogurt",
+    "exampleTranslation": "iogurte"
+  },
+  {
+    "id": "lesson_3_11",
+    "word": "honey",
+    "translation": "mel",
+    "pronunciation": "/ˈhʌni/",
+    "portuguesePhonetic": "râ-ni",
+    "syllables": [
+      "hon",
+      "ey"
+    ],
+    "exampleSentence": "honey",
+    "exampleTranslation": "mel"
+  },
+  {
+    "id": "lesson_3_12",
+    "word": "granola",
+    "translation": "granola",
+    "pronunciation": "/ɡrəˈnoʊlə/",
+    "portuguesePhonetic": "gra-nôu-la",
+    "syllables": [
+      "gra",
+      "no",
+      "la"
+    ],
+    "exampleSentence": "granola",
+    "exampleTranslation": "granola"
+  },
+  {
+    "id": "lesson_3_13",
+    "word": "egg",
+    "translation": "ovo",
+    "pronunciation": "/ɛɡ/",
+    "portuguesePhonetic": "ég",
+    "syllables": [
+      "egg"
+    ],
+    "exampleSentence": "egg",
+    "exampleTranslation": "ovo"
+  },
+  {
+    "id": "lesson_3_14",
+    "word": "pie",
+    "translation": "torta",
+    "pronunciation": "/paɪ/",
+    "portuguesePhonetic": "pai",
+    "syllables": [
+      "pie"
+    ],
+    "exampleSentence": "pie",
+    "exampleTranslation": "torta"
+  },
+  {
+    "id": "lesson_3_15",
+    "word": "chocolate",
+    "translation": "chocolate",
+    "pronunciation": "/ˈtʃɔklət/",
+    "portuguesePhonetic": "tchó-clet",
+    "syllables": [
+      "choc",
+      "o",
+      "late"
+    ],
+    "exampleSentence": "chocolate",
+    "exampleTranslation": "chocolate"
+  },
+  {
+    "id": "lesson_3_16",
+    "word": "I eat toast and jam for breakfast.",
+    "translation": "Eu como torradas com geleia no café da manhã.",
+    "pronunciation": "/aɪ it toʊst ænd dʒæm fɔr ˈbrɛkfəst./",
+    "portuguesePhonetic": "ai ít tôust énd djém for bréc-fast.",
+    "syllables": [
+      "I",
+      " eat",
+      " toast",
+      " and",
+      " jam",
+      " for",
+      " break",
+      "fast."
+    ],
+    "exampleSentence": "I eat toast and jam for breakfast.",
+    "exampleTranslation": "Eu como torradas com geleia no café da manhã."
+  },
+  {
+    "id": "lesson_3_17",
+    "word": "I want a piece of chocolate, please.",
+    "translation": "Eu quero um pedaço de chocolate, por favor.",
+    "pronunciation": "/aɪ wɑnt ə pis ʌv ˈtʃɔklət, pliz./",
+    "portuguesePhonetic": "ai uánt a pís ov tchó-clet, pliz.",
+    "syllables": [
+      "I",
+      " want",
+      " a",
+      " piece",
+      " of",
+      " choc",
+      "o",
+      "late,",
+      " please."
+    ],
+    "exampleSentence": "I want a piece of chocolate, please.",
+    "exampleTranslation": "Eu quero um pedaço de chocolate, por favor."
+  },
+  {
+    "id": "lesson_3_18",
+    "word": "I want a slice of pie.",
+    "translation": "Eu quero uma fatia de torta.",
+    "pronunciation": "/aɪ wɑnt ə slaɪs ʌv paɪ./",
+    "portuguesePhonetic": "ai uánt a sláis ov pai.",
+    "syllables": [
+      "I",
+      " want",
+      " a",
+      " slice",
+      " of",
+      " pie."
+    ],
+    "exampleSentence": "I want a slice of pie.",
+    "exampleTranslation": "Eu quero uma fatia de torta."
+  },
+  {
+    "id": "lesson_3_19",
+    "word": "I want banana and granola.",
+    "translation": "Eu quero banana e granola.",
+    "pronunciation": "/aɪ wɑnt bəˈnænə ænd ɡrəˈnoʊlə./",
+    "portuguesePhonetic": "ai uánt ba-né-na énd gra-nôu-la.",
+    "syllables": [
+      "I",
+      " want",
+      " ba",
+      "nan",
+      "a",
+      " and",
+      " gra",
+      "no",
+      "la."
+    ],
+    "exampleSentence": "I want banana and granola.",
+    "exampleTranslation": "Eu quero banana e granola."
+  },
+  {
+    "id": "lesson_3_20",
+    "word": "I don’t want chocolate pie.",
+    "translation": "Eu não quero torta de chocolate.",
+    "pronunciation": "/aɪ doʊnt wɑnt ˈtʃɔklət paɪ./",
+    "portuguesePhonetic": "ai dôunt uánt tchó-clet pai.",
+    "syllables": [
+      "I",
+      " don’t",
+      " want",
+      " choc",
+      "o",
+      "late",
+      " pie."
+    ],
+    "exampleSentence": "I don’t want chocolate pie.",
+    "exampleTranslation": "Eu não quero torta de chocolate."
+  },
+  {
+    "id": "lesson_3_21",
+    "word": "I like apples.",
+    "translation": "Eu gosto de maçãs.",
+    "pronunciation": "/aɪ laɪk ˈæpəlz./",
+    "portuguesePhonetic": "ai laic é-pols.",
+    "syllables": [
+      "I",
+      " like",
+      " ap",
+      "ples."
+    ],
+    "exampleSentence": "I like apples.",
+    "exampleTranslation": "Eu gosto de maçãs."
+  },
+  {
+    "id": "lesson_3_22",
+    "word": "I don’t like jam.",
+    "translation": "Eu não gosto de geleia.",
+    "pronunciation": "/aɪ doʊnt laɪk dʒæm./",
+    "portuguesePhonetic": "ai dôunt laic djém.",
+    "syllables": [
+      "I",
+      " don’t",
+      " like",
+      " jam."
+    ],
+    "exampleSentence": "I don’t like jam.",
+    "exampleTranslation": "Eu não gosto de geleia."
+  },
+  {
+    "id": "lesson_3_23",
+    "word": "I like to eat cereal and honey.",
+    "translation": "Eu gosto de comer cereal com mel.",
+    "pronunciation": "/aɪ laɪk tu it ˈsɪriəl ænd ˈhʌni./",
+    "portuguesePhonetic": "ai laic tchu ít sí-ri-al énd râ-ni.",
+    "syllables": [
+      "I",
+      " like",
+      " to",
+      " eat",
+      " ce",
+      "re",
+      "al",
+      " and",
+      " hon",
+      "ey."
+    ],
+    "exampleSentence": "I like to eat cereal and honey.",
+    "exampleTranslation": "Eu gosto de comer cereal com mel."
+  },
+  {
+    "id": "lesson_3_24",
+    "word": "I want to drink orange juice.",
+    "translation": "Eu quero beber suco de laranja.",
+    "pronunciation": "/aɪ wɑnt tu drɪŋk ˈɔrəndʒ dʒus./",
+    "portuguesePhonetic": "ai uánt tchu drínc ó-rindj djus.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " drink",
+      " or",
+      "ange",
+      " juice."
+    ],
+    "exampleSentence": "I want to drink orange juice.",
+    "exampleTranslation": "Eu quero beber suco de laranja."
+  },
+  {
+    "id": "lesson_3_25",
+    "word": "I want yogurt and granola.",
+    "translation": "Eu quero iogurte com granola.",
+    "pronunciation": "/aɪ wɑnt ˈjoʊɡərt ænd ɡrəˈnoʊlə./",
+    "portuguesePhonetic": "ai uánt iô-gurt énd gra-nôu-la.",
+    "syllables": [
+      "I",
+      " want",
+      " yo",
+      "gurt",
+      " and",
+      " gra",
+      "no",
+      "la."
+    ],
+    "exampleSentence": "I want yogurt and granola.",
+    "exampleTranslation": "Eu quero iogurte com granola."
+  },
+  {
+    "id": "lesson_3_26",
+    "word": "I don’t want eggs.",
+    "translation": "Eu não quero ovos.",
+    "pronunciation": "/aɪ doʊnt wɑnt ɛɡz./",
+    "portuguesePhonetic": "ai dôunt uánt égs.",
+    "syllables": [
+      "I",
+      " don’t",
+      " want",
+      " eggs."
+    ],
+    "exampleSentence": "I don’t want eggs.",
+    "exampleTranslation": "Eu não quero ovos."
+  },
+  {
+    "id": "lesson_3_27",
+    "word": "I like to drink juice.",
+    "translation": "Eu gosto de beber suco.",
+    "pronunciation": "/aɪ laɪk tu drɪŋk dʒus./",
+    "portuguesePhonetic": "ai laic tchu drínc djus.",
+    "syllables": [
+      "I",
+      " like",
+      " to",
+      " drink",
+      " juice."
+    ],
+    "exampleSentence": "I like to drink juice.",
+    "exampleTranslation": "Eu gosto de beber suco."
+  },
+  {
+    "id": "lesson_3_28",
+    "word": "I want to drink milk.",
+    "translation": "Eu quero beber leite.",
+    "pronunciation": "/aɪ wɑnt tu drɪŋk mɪlk./",
+    "portuguesePhonetic": "ai uánt tchu drínc mílc.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " drink",
+      " milk."
+    ],
+    "exampleSentence": "I want to drink milk.",
+    "exampleTranslation": "Eu quero beber leite."
+  },
+  {
+    "id": "lesson_3_29",
+    "word": "I want to eat honey.",
+    "translation": "Eu quero comer mel.",
+    "pronunciation": "/aɪ wɑnt tu it ˈhʌni./",
+    "portuguesePhonetic": "ai uánt tchu ít râ-ni.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " eat",
+      " hon",
+      "ey."
+    ],
+    "exampleSentence": "I want to eat honey.",
+    "exampleTranslation": "Eu quero comer mel."
+  },
+  {
+    "id": "lesson_3_30",
+    "word": "I like oranges.",
+    "translation": "Eu gosto de laranjas.",
+    "pronunciation": "/aɪ laɪk ˈɔrəndʒəz./",
+    "portuguesePhonetic": "ai laic ó-rin-djez.",
+    "syllables": [
+      "I",
+      " like",
+      " or",
+      "an",
+      "ges."
+    ],
+    "exampleSentence": "I like oranges.",
+    "exampleTranslation": "Eu gosto de laranjas."
+  },
+  {
+    "id": "lesson_3_31",
+    "word": "I don’t like apple juice.",
+    "translation": "Eu não gosto de suco de maçã.",
+    "pronunciation": "/aɪ doʊnt laɪk ˈæpəl dʒus./",
+    "portuguesePhonetic": "ai dôunt laic é-pol djus.",
+    "syllables": [
+      "I",
+      " don’t",
+      " like",
+      " ap",
+      "ple",
+      " juice."
+    ],
+    "exampleSentence": "I don’t like apple juice.",
+    "exampleTranslation": "Eu não gosto de suco de maçã."
+  },
+  {
+    "id": "lesson_3_32",
+    "word": "I like chocolate pie.",
+    "translation": "Eu gosto de torta de chocolate.",
+    "pronunciation": "/aɪ laɪk ˈtʃɔklət paɪ./",
+    "portuguesePhonetic": "ai laic tchó-clet pai.",
+    "syllables": [
+      "I",
+      " like",
+      " choc",
+      "o",
+      "late",
+      " pie."
+    ],
+    "exampleSentence": "I like chocolate pie.",
+    "exampleTranslation": "Eu gosto de torta de chocolate."
+  },
+  {
+    "id": "lesson_3_33",
+    "word": "I want a piece of cheese.",
+    "translation": "Eu quero um pedaço de queijo.",
+    "pronunciation": "/aɪ wɑnt ə pis ʌv tʃiz./",
+    "portuguesePhonetic": "ai uánt a pís ov tchis.",
+    "syllables": [
+      "I",
+      " want",
+      " a",
+      " piece",
+      " of",
+      " cheese."
+    ],
+    "exampleSentence": "I want a piece of cheese.",
+    "exampleTranslation": "Eu quero um pedaço de queijo."
+  },
+  {
+    "id": "lesson_3_34",
+    "word": "I want to eat toast for breakfast.",
+    "translation": "Eu quero comer torradas no café da manhã.",
+    "pronunciation": "/aɪ wɑnt tu it toʊst fɔr ˈbrɛkfəst./",
+    "portuguesePhonetic": "ai uánt tchu ít tôust for bréc-fast.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " eat",
+      " toast",
+      " for",
+      " break",
+      "fast."
+    ],
+    "exampleSentence": "I want to eat toast for breakfast.",
+    "exampleTranslation": "Eu quero comer torradas no café da manhã."
+  },
+  {
+    "id": "lesson_3_35",
+    "word": "I like to eat...",
+    "translation": "Eu gosto de comer...",
+    "pronunciation": "/aɪ laɪk tu it.../",
+    "portuguesePhonetic": "ai laic tchu ít...",
+    "syllables": [
+      "I",
+      " like",
+      " to",
+      " eat..."
+    ],
+    "exampleSentence": "I like to eat...",
+    "exampleTranslation": "Eu gosto de comer..."
+  },
+  {
+    "id": "lesson_3_36",
+    "word": "I want to drink...",
+    "translation": "Eu quero beber...",
+    "pronunciation": "/aɪ wɑnt tu drɪŋk.../",
+    "portuguesePhonetic": "ai uánt tchu drínc...",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " drink..."
+    ],
+    "exampleSentence": "I want to drink...",
+    "exampleTranslation": "Eu quero beber..."
+  },
+  {
+    "id": "lesson_3_37",
+    "word": "I don’t like to eat...",
+    "translation": "Eu não gosto de comer...",
+    "pronunciation": "/aɪ doʊnt laɪk tu it.../",
+    "portuguesePhonetic": "ai dôunt laic tchu ít...",
+    "syllables": [
+      "I",
+      " don’t",
+      " like",
+      " to",
+      " eat..."
+    ],
+    "exampleSentence": "I don’t like to eat...",
+    "exampleTranslation": "Eu não gosto de comer..."
+  },
+  {
+    "id": "lesson_3_38",
+    "word": "I don’t want to drink...",
+    "translation": "Eu não quero beber...",
+    "pronunciation": "/aɪ doʊnt wɑnt tu drɪŋk.../",
+    "portuguesePhonetic": "ai dôunt uánt tchu drínc...",
+    "syllables": [
+      "I",
+      " don’t",
+      " want",
+      " to",
+      " drink..."
+    ],
+    "exampleSentence": "I don’t want to drink...",
+    "exampleTranslation": "Eu não quero beber..."
+  },
+  {
+    "id": "lesson_3_39",
+    "word": "chocolate cookie",
+    "translation": "biscoito de chocolate",
+    "pronunciation": "/ˈtʃɔklət ˈkʊki/",
+    "portuguesePhonetic": "tchó-clet cú-qui",
+    "syllables": [
+      "choc",
+      "o",
+      "late",
+      " cook",
+      "ie"
+    ],
+    "exampleSentence": "chocolate cookie",
+    "exampleTranslation": "biscoito de chocolate"
+  },
+  {
+    "id": "lesson_3_40",
+    "word": "apple pie",
+    "translation": "torta de maçã",
+    "pronunciation": "/ˈæpəl paɪ/",
+    "portuguesePhonetic": "é-pol pai",
+    "syllables": [
+      "ap",
+      "ple",
+      " pie"
+    ],
+    "exampleSentence": "apple pie",
+    "exampleTranslation": "torta de maçã"
+  },
+  {
+    "id": "lesson_3_41",
+    "word": "orange juice",
+    "translation": "suco de laranja",
+    "pronunciation": "/ˈɔrəndʒ dʒus/",
+    "portuguesePhonetic": "ó-rindj djus",
+    "syllables": [
+      "or",
+      "ange",
+      " juice"
+    ],
+    "exampleSentence": "orange juice",
+    "exampleTranslation": "suco de laranja"
+  },
+  {
+    "id": "lesson_3_42",
+    "word": "orange jam",
+    "translation": "geleia de laranja",
+    "pronunciation": "/ˈɔrəndʒ dʒæm/",
+    "portuguesePhonetic": "ó-rindj djém",
+    "syllables": [
+      "or",
+      "ange",
+      " jam"
+    ],
+    "exampleSentence": "orange jam",
+    "exampleTranslation": "geleia de laranja"
+  },
+  {
+    "id": "lesson_3_43",
+    "word": "apple tea",
+    "translation": "chá de maçã",
+    "pronunciation": "/ˈæpəl ti/",
+    "portuguesePhonetic": "é-pol tchi",
+    "syllables": [
+      "ap",
+      "ple",
+      " tea"
+    ],
+    "exampleSentence": "apple tea",
+    "exampleTranslation": "chá de maçã"
+  },
+  {
+    "id": "lesson_3_44",
+    "word": "Bye! See you.",
+    "translation": "Tchau! Até mais.",
+    "pronunciation": "/baɪ! si ju./",
+    "portuguesePhonetic": "bai! si iu.",
+    "syllables": [
+      "Bye!",
+      " See",
+      " you."
+    ],
+    "exampleSentence": "Bye! See you.",
+    "exampleTranslation": "Tchau! Até mais."
+  },
+  {
+    "id": "lesson_3_45",
+    "word": "See you later!",
+    "translation": "Até mais tarde!",
+    "pronunciation": "/si ju ˈleɪtər!/",
+    "portuguesePhonetic": "si iu lêi-ter!",
+    "syllables": [
+      "See",
+      " you",
+      " la",
+      "ter!"
+    ],
+    "exampleSentence": "See you later!",
+    "exampleTranslation": "Até mais tarde!"
+  },
+  {
+    "id": "lesson_3_46",
+    "word": "Good night!",
+    "translation": "Boa noite!",
+    "pronunciation": "/ɡʊd naɪt!/",
+    "portuguesePhonetic": "gud nait!",
+    "syllables": [
+      "Good",
+      " night!"
+    ],
+    "exampleSentence": "Good night!",
+    "exampleTranslation": "Boa noite!"
+  }
+]

@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "leccion_15_1",
+    "word": "leer",
+    "translation": "ler",
+    "pronunciation": "/leˈeɾ/",
+    "portuguesePhonetic": "le-ér",
+    "syllables": [
+      "le",
+      "er"
+    ],
+    "exampleSentence": "leer",
+    "exampleTranslation": "ler"
+  },
+  {
+    "id": "leccion_15_2",
+    "word": "enviar",
+    "translation": "enviar",
+    "pronunciation": "/emˈbjaɾ/",
+    "portuguesePhonetic": "ên-vi-ár",
+    "syllables": [
+      "en",
+      "viar"
+    ],
+    "exampleSentence": "enviar",
+    "exampleTranslation": "enviar"
+  },
+  {
+    "id": "leccion_15_3",
+    "word": "cafetería",
+    "translation": "café, cafeteria",
+    "pronunciation": "/kafetəˈɾia/",
+    "portuguesePhonetic": "ca-fe-te-ría",
+    "syllables": [
+      "ca",
+      "fe",
+      "te",
+      "rí",
+      "a"
+    ],
+    "exampleSentence": "cafetería",
+    "exampleTranslation": "café, cafeteria"
+  },
+  {
+    "id": "leccion_15_4",
+    "word": "restaurante",
+    "translation": "restaurante",
+    "pronunciation": "/restauˈɾante/",
+    "portuguesePhonetic": "rres-tau-rrán-te",
+    "syllables": [
+      "res",
+      "tau",
+      "ran",
+      "te"
+    ],
+    "exampleSentence": "restaurante",
+    "exampleTranslation": "restaurante"
+  },
+  {
+    "id": "leccion_15_5",
+    "word": "centro comercial",
+    "translation": "shopping",
+    "pronunciation": "/ˈθentɾo komeɾˈθjal/",
+    "portuguesePhonetic": "cên-tro co-mer-ciál",
+    "syllables": [
+      "cen",
+      "tro",
+      " co",
+      "mer",
+      "cial"
+    ],
+    "exampleSentence": "centro comercial",
+    "exampleTranslation": "shopping"
+  },
+  {
+    "id": "leccion_15_6",
+    "word": "el cine",
+    "translation": "cinema",
+    "pronunciation": "/el ˈθine/",
+    "portuguesePhonetic": "él cí-ne",
+    "syllables": [
+      "el",
+      " ci",
+      "ne"
+    ],
+    "exampleSentence": "el cine",
+    "exampleTranslation": "cinema"
+  },
+  {
+    "id": "leccion_15_7",
+    "word": "las noticias",
+    "translation": "notícias",
+    "pronunciation": "/las noˈtiθjas/",
+    "portuguesePhonetic": "las-no-tí-cias",
+    "syllables": [
+      "las",
+      " no",
+      "ti",
+      "cias"
+    ],
+    "exampleSentence": "las noticias",
+    "exampleTranslation": "notícias"
+  },
+  {
+    "id": "leccion_15_8",
+    "word": "revista",
+    "translation": "revista",
+    "pronunciation": "/reˈβista/",
+    "portuguesePhonetic": "rre-bís-ta",
+    "syllables": [
+      "re",
+      "vis",
+      "ta"
+    ],
+    "exampleSentence": "revista",
+    "exampleTranslation": "revista"
+  },
+  {
+    "id": "leccion_15_9",
+    "word": "libro",
+    "translation": "livro",
+    "pronunciation": "/ˈliβɾo/",
+    "portuguesePhonetic": "lí-bro",
+    "syllables": [
+      "li",
+      "bro"
+    ],
+    "exampleSentence": "libro",
+    "exampleTranslation": "livro"
+  },
+  {
+    "id": "leccion_15_10",
+    "word": "historia",
+    "translation": "história",
+    "pronunciation": "/isˈtoɾja/",
+    "portuguesePhonetic": "is-tó-ria",
+    "syllables": [
+      "his",
+      "to",
+      "ria"
+    ],
+    "exampleSentence": "historia",
+    "exampleTranslation": "história"
+  },
+  {
+    "id": "leccion_15_11",
+    "word": "correo electrónico",
+    "translation": "e-mail",
+    "pronunciation": "/koˈreo elekˈtɾoniko/",
+    "portuguesePhonetic": "cor-rêo e-lec-tró-ni-co",
+    "syllables": [
+      "cor",
+      "reo",
+      " e",
+      "lec",
+      "tró",
+      "ni",
+      "co"
+    ],
+    "exampleSentence": "correo electrónico",
+    "exampleTranslation": "e-mail"
+  },
+  {
+    "id": "leccion_15_12",
+    "word": "dirección",
+    "translation": "endereço",
+    "pronunciation": "/diɾekˈθjon/",
+    "portuguesePhonetic": "di-rec-ción",
+    "syllables": [
+      "di",
+      "rec",
+      "ción"
+    ],
+    "exampleSentence": "dirección",
+    "exampleTranslation": "endereço"
+  },
+  {
+    "id": "leccion_15_13",
+    "word": "contraseña",
+    "translation": "senha",
+    "pronunciation": "/kontɾaˈseɲa/",
+    "portuguesePhonetic": "con-tra-sé-nha",
+    "syllables": [
+      "con",
+      "tra",
+      "se",
+      "ña"
+    ],
+    "exampleSentence": "contraseña",
+    "exampleTranslation": "senha"
+  },
+  {
+    "id": "leccion_15_14",
+    "word": "mensaje",
+    "translation": "mensagem",
+    "pronunciation": "/menˈsaxe/",
+    "portuguesePhonetic": "men-sá-rhe",
+    "syllables": [
+      "men",
+      "sa",
+      "je"
+    ],
+    "exampleSentence": "mensaje",
+    "exampleTranslation": "mensagem"
+  },
+  {
+    "id": "leccion_15_15",
+    "word": "en línea",
+    "translation": "online",
+    "pronunciation": "/en ˈlinea/",
+    "portuguesePhonetic": "en lí-nea",
+    "syllables": [
+      "en",
+      " lí",
+      "ne",
+      "a"
+    ],
+    "exampleSentence": "en línea",
+    "exampleTranslation": "online"
+  },
+  {
+    "id": "leccion_15_16",
+    "word": "grande",
+    "translation": "grande",
+    "pronunciation": "/ˈ Snowden/",
+    "portuguesePhonetic": "grán-de",
+    "syllables": [
+      "gran",
+      "de"
+    ],
+    "exampleSentence": "grande",
+    "exampleTranslation": "grande"
+  },
+  {
+    "id": "leccion_15_17",
+    "word": "pequeño(a)",
+    "translation": "pequeno(a)",
+    "pronunciation": "/peˈkeɲo/",
+    "portuguesePhonetic": "pe-quê-nho",
+    "syllables": [
+      "pe",
+      "que",
+      "ño"
+    ],
+    "exampleSentence": "pequeño",
+    "exampleTranslation": "pequeno(a)"
+  },
+  {
+    "id": "leccion_15_18",
+    "word": "el, la, los, las",
+    "translation": "o, a, os, as",
+    "pronunciation": "/el, la, los, las/",
+    "portuguesePhonetic": "él, la, lôs, las",
+    "syllables": [
+      "el",
+      " la",
+      " los",
+      " las"
+    ],
+    "exampleSentence": "el, la, los, las",
+    "exampleTranslation": "o, a, os, as"
+  },
+  {
+    "id": "leccion_15_19",
+    "word": "Yo leo las noticias todos los días.",
+    "translation": "Eu leio notícias todos os dias.",
+    "pronunciation": "/ʝo ˈleo las noˈtiθjas ˈtoðos los ˈðias/",
+    "portuguesePhonetic": "iô lêo las no-tí-cias tô-dos lôs dí-as.",
+    "syllables": [
+      "Yo",
+      " leo",
+      " las",
+      " no",
+      "ti",
+      "cias",
+      " to",
+      "dos",
+      " los",
+      " dí",
+      "as."
+    ],
+    "exampleSentence": "Yo leo las noticias todos los días.",
+    "exampleTranslation": "Eu leio notícias todos os dias."
+  },
+  {
+    "id": "leccion_15_20",
+    "word": "Yo leo mis correos electrónicos en mi móvil.",
+    "translation": "Eu leio meus e-mails no meu celular.",
+    "pronunciation": "/ʝo ˈleo mis koˈreos elekˈtɾonikos en mi ˈmoβil/",
+    "portuguesePhonetic": "iô lêo mis cor-rêos e-lec-tró-ni-cos en mi mó-bil.",
+    "syllables": [
+      "Yo",
+      " leo",
+      " mis",
+      " cor",
+      "reos",
+      " e",
+      "lec",
+      "tró",
+      "ni",
+      "cos",
+      " en",
+      " mi",
+      " mó",
+      "vil."
+    ],
+    "exampleSentence": "Yo leo mis correos electrónicos en mi móvil.",
+    "exampleTranslation": "Eu leio meus e-mails no meu celular."
+  },
+  {
+    "id": "leccion_15_21",
+    "word": "¿Tú quieres ir al restaurante?",
+    "translation": "Você quer ir ao restaurante?",
+    "pronunciation": "/tu ˈkjeɾes iɾ al restauˈɾante/",
+    "portuguesePhonetic": "¿tú qui-ê-res ir al rres-tau-rrán-te?",
+    "syllables": [
+      "¿Tú",
+      " quie",
+      "res",
+      " ir",
+      " al",
+      " res",
+      "tau",
+      "ran",
+      "te?"
+    ],
+    "exampleSentence": "¿Tú quieres ir al restaurante?",
+    "exampleTranslation": "Você quer ir ao restaurante?"
+  },
+  {
+    "id": "leccion_15_22",
+    "word": "¿Tú quieres ir al cine conmigo?",
+    "translation": "Você quer ir ao cinema comigo?",
+    "pronunciation": "/tu ˈkjeɾes iɾ al ˈθine konˈmiɣo/",
+    "portuguesePhonetic": "¿tú qui-ê-res ir al cí-ne con-mí-go?",
+    "syllables": [
+      "¿Tú",
+      " quie",
+      "res",
+      " ir",
+      " al",
+      " ci",
+      "ne",
+      " con",
+      "mi",
+      "go?"
+    ],
+    "exampleSentence": "¿Tú quieres ir al cine conmigo?",
+    "exampleTranslation": "Você quer ir ao cinema comigo?"
+  },
+  {
+    "id": "leccion_15_23",
+    "word": "A ellos les gusta ir a la cafetería por la noche.",
+    "translation": "Eles gostam de ir ao café à noite.",
+    "pronunciation": "/a ˈeʝos les ˈɣusta iɾ a la cafetería poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "a ê-lyos les gús-ta ir a la ca-fe-te-ría por la nô-tche.",
+    "syllables": [
+      "A",
+      " el",
+      "los",
+      " les",
+      " gus",
+      "ta",
+      " ir",
+      " a",
+      " la",
+      " ca",
+      "fe",
+      "te",
+      "rí",
+      "a",
+      " por",
+      " la",
+      " no",
+      "che."
+    ],
+    "exampleSentence": "A ellos les gusta ir a la cafetería por la noche.",
+    "exampleTranslation": "Eles gostam de ir ao café à noite."
+  },
+  {
+    "id": "leccion_15_24",
+    "word": "Nosotros no queremos ir al centro comercial hoy.",
+    "translation": "Nós não queremos ir ao shopping hoje.",
+    "pronunciation": "/noˈsotɾos no keˈɾemos iɾ al ˈθentɾo komeɾˈθjal oi/",
+    "portuguesePhonetic": "no-só-tros nô que-rê-mos ir al cên-tro co-mer-ciál ói.",
+    "syllables": [
+      "No",
+      "so",
+      "tros",
+      " no",
+      " que",
+      "re",
+      "mos",
+      " ir",
+      " al",
+      " cen",
+      "tro",
+      " co",
+      "mer",
+      "cial",
+      " hoy."
+    ],
+    "exampleSentence": "Nosotros no queremos ir al centro comercial hoy.",
+    "exampleTranslation": "Nós não queremos ir ao shopping hoje."
+  },
+  {
+    "id": "leccion_15_25",
+    "word": "Yo envío correos electrónicos a mi jefe todos los días.",
+    "translation": "Eu envio e-mails para meu chefe todos os dias.",
+    "pronunciation": "/ʝo emˈbi.o koˈreos elekˈtɾonikos a mi ˈxefe ˈtoðos los ˈðias/",
+    "portuguesePhonetic": "iô en-bí-o cor-rêos e-lec-tró-ni-co a mi rrê-fe tô-dos lôs dí-as.",
+    "syllables": [
+      "Yo",
+      " en",
+      "ví",
+      "o",
+      " cor",
+      "reos",
+      " e",
+      "lec",
+      "tró",
+      "ni",
+      "cos",
+      " a",
+      " mi",
+      " je",
+      "fe",
+      " to",
+      "dos",
+      " los",
+      " di",
+      "as."
+    ],
+    "exampleSentence": "Yo envío correos electrónicos a mi jefe todos los días.",
+    "exampleTranslation": "Eu envio e-mails para meu chefe todos os dias."
+  },
+  {
+    "id": "leccion_15_26",
+    "word": "Necesito enviar este mensaje a mi amigo.",
+    "translation": "Eu preciso enviar esta mensagem para meu amigo.",
+    "pronunciation": "/neθeˈsito emˈbjaɾ ˈeste menˈsaxe a mi aˈmiɣo/",
+    "portuguesePhonetic": "ne-ce-sí-to en-bi-ár és-te men-sá-rhe a mi a-mí-go.",
+    "syllables": [
+      "Ne",
+      "ce",
+      "si",
+      "to",
+      " en",
+      "viar",
+      " es",
+      "te",
+      " men",
+      "sa",
+      "je",
+      " a",
+      " mi",
+      " a",
+      "mi",
+      "go."
+    ],
+    "exampleSentence": "Necesito enviar este mensaje a mi amigo.",
+    "exampleTranslation": "Eu preciso enviar esta mensagem para meu amigo."
+  },
+  {
+    "id": "leccion_15_27",
+    "word": "Yo leo libros todos los días.",
+    "translation": "Eu leio livros todos os dias.",
+    "pronunciation": "/ʝo ˈleo ˈliβɾos ˈtoðos los ˈðias/",
+    "portuguesePhonetic": "iô lêo lí-bros tô-dos lôs dí-as.",
+    "syllables": [
+      "Yo",
+      " leo",
+      " li",
+      "bros",
+      " to",
+      "dos",
+      " los",
+      " dí",
+      "as."
+    ],
+    "exampleSentence": "Yo leo libros todos los días.",
+    "exampleTranslation": "Eu leio livros todos os dias."
+  },
+  {
+    "id": "leccion_15_28",
+    "word": "¿Tú lees las noticias en línea?",
+    "translation": "Você lê notícias online?",
+    "pronunciation": "/tu ˈlees las noˈtiθjas en ˈlinea/",
+    "portuguesePhonetic": "¿tú lê-es las no-tí-cias en lí-nea?",
+    "syllables": [
+      "¿Tú",
+      " le",
+      "es",
+      " las",
+      " no",
+      "ti",
+      "cias",
+      " en",
+      " lí",
+      "ne",
+      "a?"
+    ],
+    "exampleSentence": "¿Tú lees las noticias en línea?",
+    "exampleTranslation": "Você lê notícias online?"
+  },
+  {
+    "id": "leccion_15_29",
+    "word": "¿Tú les lees a tus hijos todos los días?",
+    "translation": "Você lê para seus filhos todos os dias?",
+    "pronunciation": "/tu les ˈlees a tus ˈixos ˈtoðos los ˈðias/",
+    "portuguesePhonetic": "¿tú les lê-es a tus í-rhos tô-dos lôs dí-as?",
+    "syllables": [
+      "¿Tú",
+      " les",
+      " le",
+      "es",
+      " a",
+      " tus",
+      " hi",
+      "jos",
+      " to",
+      "dos",
+      " los",
+      " dí",
+      "as?"
+    ],
+    "exampleSentence": "¿Tú les lees a tus hijos todos los días?",
+    "exampleTranslation": "Você lê para seus filhos todos os dias?"
+  },
+  {
+    "id": "leccion_15_30",
+    "word": "¿Tú lees tus mensajes en tu móvil?",
+    "translation": "Você lê suas mensagens no seu telemóvel?",
+    "pronunciation": "/tu ˈlees tus menˈsaxes en tu ˈmoβil/",
+    "portuguesePhonetic": "¿tú lê-es tus men-sá-rhes en tu mó-bil?",
+    "syllables": [
+      "¿Tú",
+      " le",
+      "es",
+      " tus",
+      " men",
+      "sa",
+      "jes",
+      " en",
+      " tu",
+      " mó",
+      "vil?"
+    ],
+    "exampleSentence": "¿Tú lees tus mensajes en tu móvil?",
+    "exampleTranslation": "Você lê suas mensagens no seu telemóvel?"
+  },
+  {
+    "id": "leccion_15_31",
+    "word": "Nosotros tenemos un coche pequeño.",
+    "translation": "Nós temos um carro pequeno.",
+    "pronunciation": "/noˈsotɾos teˈnemos un ˈkotʃe peˈkeɲo/",
+    "portuguesePhonetic": "no-só-tros te-nê-mos un cô-tche pe-quê-nho.",
+    "syllables": [
+      "No",
+      "so",
+      "tros",
+      " te",
+      "ne",
+      "mos",
+      " un",
+      " co",
+      "che",
+      " pe",
+      "que",
+      "ño."
+    ],
+    "exampleSentence": "Nosotros tenemos un coche pequeño.",
+    "exampleTranslation": "Nós temos um carro pequeno."
+  },
+  {
+    "id": "leccion_15_32",
+    "word": "¿Tú tienes una dirección de correo electrónico nueva?",
+    "translation": "Você tem um novo endereço de e-mail?",
+    "pronunciation": "/tu ˈtjenes ˈuna ðiɾekˈθjon ðe koˈreo elekˈtɾoniko ˈnweβa/",
+    "portuguesePhonetic": "¿tú ti-ê-nes ú-na di-rec-ción de cor-rêo e-lec-tró-ni-co nu-ê-ba?",
+    "syllables": [
+      "¿Tú",
+      " tie",
+      "nes",
+      " u",
+      "na",
+      " di",
+      "rec",
+      "ción",
+      " de",
+      " cor",
+      "reo",
+      " e",
+      "lec",
+      "tró",
+      "ni",
+      "co",
+      " nue",
+      "va?"
+    ],
+    "exampleSentence": "¿Tú tienes una dirección de correo electrónico nueva?",
+    "exampleTranslation": "Você tem um novo endereço de e-mail?"
+  },
+  {
+    "id": "leccion_15_33",
+    "word": "A nosotros nos gusta ir al cine.",
+    "translation": "Nós gostamos de ir ao cinema.",
+    "pronunciation": "/a noˈsotɾos nos ˈɣusta iɾ al ˈθine/",
+    "portuguesePhonetic": "a no-só-tros nos gús-ta ir al cí-ne.",
+    "syllables": [
+      "A",
+      " no",
+      "so",
+      "tros",
+      " nos",
+      " gus",
+      "ta",
+      " ir",
+      " al",
+      " ci",
+      "ne."
+    ],
+    "exampleSentence": "A nosotros nos gusta ir al cine.",
+    "exampleTranslation": "Nós gostamos de ir ao cinema."
+  },
+  {
+    "id": "leccion_15_34",
+    "word": "¿Ellas prefieren ir al centro comercial por la tarde?",
+    "translation": "Elas preferem ir ao shopping à tarde?",
+    "pronunciation": "/ˈeʝas pɾeˈfjeɾen iɾ al ˈθentɾo komeɾˈθjal poɾ la ˈtaɾðe/",
+    "portuguesePhonetic": "¿ê-lyas pre-fi-ê-ren ir al cên-tro co-mer-ciál por la tár-de?",
+    "syllables": [
+      "¿El",
+      "las",
+      " pre",
+      "fie",
+      "ren",
+      " ir",
+      " al",
+      " cen",
+      "tre",
+      " co",
+      "mer",
+      "cial",
+      " por",
+      " la",
+      " tar",
+      "de?"
+    ],
+    "exampleSentence": "¿Ellas prefieren ir al centro comercial por la tarde?",
+    "exampleTranslation": "Elas preferem ir ao shopping à tarde?"
+  },
+  {
+    "id": "leccion_15_35",
+    "word": "¿Nosotros tenemos que enviar este mensaje hoy?",
+    "translation": "Nós temos que enviar essa mensagem hoje?",
+    "pronunciation": "/noˈsotɾos teˈnemos ke emˈbjaɾ ˈeste menˈsaxe oi/",
+    "portuguesePhonetic": "¿no-só-tros te-nê-mos que en-bi-ár és-te men-sá-rhe ói?",
+    "syllables": [
+      "¿No",
+      "so",
+      "tros",
+      " te",
+      "ne",
+      "mos",
+      " que",
+      " en",
+      "viar",
+      " es",
+      "te",
+      " men",
+      "sa",
+      "je",
+      " hoy?"
+    ],
+    "exampleSentence": "¿Nosotros tenemos que enviar este mensaje hoy?",
+    "exampleTranslation": "Nós temos que enviar essa mensagem hoje?"
+  },
+  {
+    "id": "leccion_15_36",
+    "word": "Tú tienes que enviar este libro a esta dirección.",
+    "translation": "Você tem que enviar este livro para este endereço.",
+    "pronunciation": "/tu ˈtjenes ke emˈbjaɾ ˈeste ˈliβɾo a ˈesta ðiɾekˈθjon/",
+    "portuguesePhonetic": "tú ti-ê-nes que en-bi-ár és-te lí-bro a és-ta di-rec-ción.",
+    "syllables": [
+      "Tú",
+      " tie",
+      "nes",
+      " que",
+      " en",
+      "viar",
+      " es",
+      "te",
+      " li",
+      "bro",
+      " a",
+      " es",
+      "ta",
+      " di",
+      "rec",
+      "ción."
+    ],
+    "exampleSentence": "Tú tienes que enviar este libro a esta dirección.",
+    "exampleTranslation": "Você tem que enviar este livro para este endereço."
+  },
+  {
+    "id": "leccion_15_37",
+    "word": "en mi ordenador",
+    "translation": "no meu computador",
+    "pronunciation": "/en mi oɾðenaˈðoɾ/",
+    "portuguesePhonetic": "en mi or-de-na-dór",
+    "syllables": [
+      "en",
+      " mi",
+      " or",
+      "de",
+      "na",
+      "dor"
+    ],
+    "exampleSentence": "en mi ordenador",
+    "exampleTranslation": "no meu computador"
+  },
+  {
+    "id": "leccion_15_38",
+    "word": "en tu tableta",
+    "translation": "no seu tablet",
+    "pronunciation": "/en tu taˈβleta/",
+    "portuguesePhonetic": "en tu ta-blê-ta",
+    "syllables": [
+      "en",
+      " tu",
+      " ta",
+      "ble",
+      "ta"
+    ],
+    "exampleSentence": "en tu tableta",
+    "exampleTranslation": "no seu tablet"
+  },
+  {
+    "id": "leccion_15_39",
+    "word": "¿Cuál es tu dirección de correo electrónico?",
+    "translation": "Qual é o seu endereço de e-mail?",
+    "pronunciation": "/kwal es tu ðiɾekˈθjon ðe koˈreo elekˈtɾoniko/",
+    "portuguesePhonetic": "¿cuál es tu di-rec-ción de cor-rêo e-lec-tró-ni-co?",
+    "syllables": [
+      "¿Cuál",
+      " es",
+      " tu",
+      " di",
+      "rec",
+      "ción",
+      " de",
+      " cor",
+      "reo",
+      " e",
+      "lec",
+      "tró",
+      "ni",
+      "co?"
+    ],
+    "exampleSentence": "¿Cuál es tu dirección de correo electrónico?",
+    "exampleTranslation": "Qual é o seu endereço de e-mail?"
+  },
+  {
+    "id": "leccion_15_40",
+    "word": "Es lanasanders@wizard.com.",
+    "translation": "É lanasanders@wizard.com.",
+    "pronunciation": "/es lanasanders arrob wizard punt com/",
+    "portuguesePhonetic": "es lanasanders arrôba uizard ponto cóm.",
+    "syllables": [
+      "Es",
+      " lan",
+      "a",
+      "san",
+      "ders",
+      "@wi",
+      "zard",
+      ".com."
+    ],
+    "exampleSentence": "Es lanasanders@wizard.com.",
+    "exampleTranslation": "É lanasanders@wizard.com."
+  },
+  {
+    "id": "leccion_15_41",
+    "word": "dirección → direcciones",
+    "translation": "endereço → endereços",
+    "pronunciation": "/diɾekˈθjon → diɾekˈθjones/",
+    "portuguesePhonetic": "di-rec-ción → di-rec-ció-nes",
+    "syllables": [
+      "di",
+      "rec",
+      "ción",
+      " →",
+      " di",
+      "rec",
+      "cio",
+      "nes"
+    ],
+    "exampleSentence": "dirección → direcciones",
+    "exampleTranslation": "endereço → endereços"
+  },
+  {
+    "id": "leccion_15_42",
+    "word": "historia → historias",
+    "translation": "história → histórias",
+    "pronunciation": "/isˈtoɾja → isˈtoɾjas/",
+    "portuguesePhonetic": "is-tó-ria → is-tó-rias",
+    "syllables": [
+      "his",
+      "to",
+      "ria",
+      " →",
+      " his",
+      "to",
+      "rias"
+    ],
+    "exampleSentence": "historia → historias",
+    "exampleTranslation": "história → histórias"
+  },
+  {
+    "id": "leccion_15_43",
+    "word": "punto ( . )",
+    "translation": "ponto",
+    "pronunciation": "/ˈpunto/",
+    "portuguesePhonetic": "pún-to",
+    "syllables": [
+      "pun",
+      "to"
+    ],
+    "exampleSentence": "punto ( . )",
+    "exampleTranslation": "ponto"
+  },
+  {
+    "id": "leccion_15_44",
+    "word": "arroba ( @ )",
+    "translation": "arroba",
+    "pronunciation": "/aˈɾoβa/",
+    "portuguesePhonetic": "a-rrô-ba",
+    "syllables": [
+      "ar",
+      "ro",
+      "ba"
+    ],
+    "exampleSentence": "arroba ( @ )",
+    "exampleTranslation": "arroba"
+  },
+  {
+    "id": "leccion_15_45",
+    "word": "guion bajo ( _ )",
+    "translation": "sublinhado / underline",
+    "pronunciation": "/ɡjon ˈbaxo/",
+    "portuguesePhonetic": "guiôn bá-rho",
+    "syllables": [
+      "guion",
+      " ba",
+      "jo"
+    ],
+    "exampleSentence": "guion bajo ( _ )",
+    "exampleTranslation": "sublinhado / underline"
+  },
+  {
+    "id": "leccion_15_46",
+    "word": "guion ( - )",
+    "translation": "hífen",
+    "pronunciation": "/ɡjon/",
+    "portuguesePhonetic": "guiôn",
+    "syllables": [
+      "guion"
+    ],
+    "exampleSentence": "guion ( - )",
+    "exampleTranslation": "hífen"
+  },
+  {
+    "id": "leccion_15_47",
+    "word": "leer las noticias",
+    "translation": "ler notícias",
+    "pronunciation": "/leˈeɾ las noˈtiθjas/",
+    "portuguesePhonetic": "le-ér las no-tí-cias",
+    "syllables": [
+      "leer",
+      " las",
+      " no",
+      "ti",
+      "cias"
+    ],
+    "exampleSentence": "leer las noticias",
+    "exampleTranslation": "ler notícias"
+  },
+  {
+    "id": "leccion_15_48",
+    "word": "leer un libro",
+    "translation": "ler um livro",
+    "pronunciation": "/leˈeɾ un ˈliβɾo/",
+    "portuguesePhonetic": "le-ér un lí-bro",
+    "syllables": [
+      "leer",
+      " un",
+      " li",
+      "bro"
+    ],
+    "exampleSentence": "leer un libro",
+    "exampleTranslation": "ler um livro"
+  },
+  {
+    "id": "leccion_15_49",
+    "word": "leer una revista",
+    "translation": "ler uma revista",
+    "pronunciation": "/leˈeɾ ˈuna reˈβista/",
+    "portuguesePhonetic": "le-ér ú-na rre-bís-ta",
+    "syllables": [
+      "leer",
+      " u",
+      "na",
+      " re",
+      "vis",
+      "ta"
+    ],
+    "exampleSentence": "leer una revista",
+    "exampleTranslation": "ler uma revista"
+  },
+  {
+    "id": "leccion_15_50",
+    "word": "enviar un mensaje",
+    "translation": "enviar uma mensagem",
+    "pronunciation": "/emˈbjaɾ un menˈsaxe/",
+    "portuguesePhonetic": "en-bi-ár un men-sá-rhe",
+    "syllables": [
+      "en",
+      "viar",
+      " un",
+      " men",
+      "sa",
+      "je"
+    ],
+    "exampleSentence": "enviar un mensaje",
+    "exampleTranslation": "enviar uma mensagem"
+  },
+  {
+    "id": "leccion_15_51",
+    "word": "enviar un correo electrónico",
+    "translation": "enviar um e-mail",
+    "pronunciation": "/emˈbjaɾ un koˈreo elekˈtɾoniko/",
+    "portuguesePhonetic": "en-bi-ár un cor-rêo e-lec-tró-ni-co",
+    "syllables": [
+      "en",
+      "viar",
+      " un",
+      " cor",
+      "reo",
+      " e",
+      "lec",
+      "tró",
+      "ni",
+      "co"
+    ],
+    "exampleSentence": "enviar un correo electrónico",
+    "exampleTranslation": "enviar um e-mail"
+  },
+  {
+    "id": "leccion_15_52",
+    "word": "dirección de correo electrónico",
+    "translation": "endereço de e-mail",
+    "pronunciation": "/diɾekˈθjon ðe koˈreo elekˈtɾoniko/",
+    "portuguesePhonetic": "di-rec-ción de cor-rêo e-lec-tró-ni-co",
+    "syllables": [
+      "di",
+      "rec",
+      "ción",
+      " de",
+      " cor",
+      "reo",
+      " e",
+      "lec",
+      "tró",
+      "ni",
+      "co"
+    ],
+    "exampleSentence": "dirección de correo electrónico",
+    "exampleTranslation": "endereço de e-mail"
+  },
+  {
+    "id": "leccion_15_53",
+    "word": "cafetería",
+    "translation": "cafeteria",
+    "pronunciation": "/kafetəˈɾia/",
+    "portuguesePhonetic": "ca-fe-te-ría",
+    "syllables": [
+      "ca",
+      "fe",
+      "te",
+      "rí",
+      "a"
+    ],
+    "exampleSentence": "cafetería",
+    "exampleTranslation": "cafeteria"
+  },
+  {
+    "id": "leccion_15_54",
+    "word": "ir al restaurante",
+    "translation": "ir ao restaurante",
+    "pronunciation": "/iɾ al restauˈɾante/",
+    "portuguesePhonetic": "ir al rres-tau-rrán-te",
+    "syllables": [
+      "ir",
+      " al",
+      " res",
+      "tau",
+      "ran",
+      "te"
+    ],
+    "exampleSentence": "ir al restaurante",
+    "exampleTranslation": "ir ao restaurante"
+  },
+  {
+    "id": "leccion_15_55",
+    "word": "ir al cine",
+    "translation": "ir ao cinema",
+    "pronunciation": "/iɾ al ˈθine/",
+    "portuguesePhonetic": "ir al cí-ne",
+    "syllables": [
+      "ir",
+      " al",
+      " ci",
+      "ne"
+    ],
+    "exampleSentence": "ir al cine",
+    "exampleTranslation": "ir ao cinema"
+  },
+  {
+    "id": "leccion_15_56",
+    "word": "ir al centro comercial",
+    "translation": "ir ao shopping",
+    "pronunciation": "/iɾ al ˈθentɾo komeɾˈθjal/",
+    "portuguesePhonetic": "ir al cên-tro co-mer-ciál",
+    "syllables": [
+      "ir",
+      " al",
+      " cen",
+      "tro",
+      " co",
+      "mer",
+      "cial"
+    ],
+    "exampleSentence": "ir al centro comercial",
+    "exampleTranslation": "ir ao shopping"
+  },
+  {
+    "id": "leccion_15_57",
+    "word": "noticias en línea",
+    "translation": "notícias online",
+    "pronunciation": "/noˈtiθjas en ˈlinea/",
+    "portuguesePhonetic": "no-tí-cias en lí-nea",
+    "syllables": [
+      "no",
+      "ti",
+      "cias",
+      " en",
+      " lí",
+      "ne",
+      "a"
+    ],
+    "exampleSentence": "noticias en línea",
+    "exampleTranslation": "notícias online"
+  },
+  {
+    "id": "leccion_15_58",
+    "word": "coche pequeño",
+    "translation": "carro pequeno",
+    "pronunciation": "/ˈkotʃe peˈkeɲo/",
+    "portuguesePhonetic": "cô-tche pe-quê-nho",
+    "syllables": [
+      "co",
+      "che",
+      " pe",
+      "que",
+      "ño"
+    ],
+    "exampleSentence": "coche pequeño",
+    "exampleTranslation": "carro pequeno"
+  },
+  {
+    "id": "leccion_15_59",
+    "word": "casa grande",
+    "translation": "casa grande",
+    "pronunciation": "/ˈkasa ˈɡɾande/",
+    "portuguesePhonetic": "cá-sa grán-de",
+    "syllables": [
+      "ca",
+      "sa",
+      " gran",
+      "de"
+    ],
+    "exampleSentence": "casa grande",
+    "exampleTranslation": "casa grande"
+  },
+  {
+    "id": "leccion_15_60",
+    "word": "contraseña",
+    "translation": "senha",
+    "pronunciation": "/kontɾaˈseɲa/",
+    "portuguesePhonetic": "con-tra-sé-nha",
+    "syllables": [
+      "con",
+      "tra",
+      "se",
+      "ña"
+    ],
+    "exampleSentence": "contraseña",
+    "exampleTranslation": "senha"
+  },
+  {
+    "id": "leccion_15_61",
+    "word": "en mi móvil",
+    "translation": "no meu celular, no meu telemóvel",
+    "pronunciation": "/en mi ˈmoβil/",
+    "portuguesePhonetic": "en mi mó-bil",
+    "syllables": [
+      "en",
+      " mi",
+      " mó",
+      "vil"
+    ],
+    "exampleSentence": "en mi móvil",
+    "exampleTranslation": "no meu celular, no meu telemóvel"
+  },
+  {
+    "id": "leccion_15_62",
+    "word": "en mi ordenador",
+    "translation": "no meu computador",
+    "pronunciation": "/en mi oɾðenaˈðoɾ/",
+    "portuguesePhonetic": "en mi or-de-na-dór",
+    "syllables": [
+      "en",
+      " mi",
+      " or",
+      "de",
+      "na",
+      "dor"
+    ],
+    "exampleSentence": "en mi ordenador",
+    "exampleTranslation": "no meu computador"
+  },
+  {
+    "id": "leccion_15_63",
+    "word": "en tu tableta",
+    "translation": "no seu tablet",
+    "pronunciation": "/en tu taˈβleta/",
+    "portuguesePhonetic": "en tu ta-blê-ta",
+    "syllables": [
+      "en",
+      " tu",
+      " ta",
+      "ble",
+      "ta"
+    ],
+    "exampleSentence": "en tu tableta",
+    "exampleTranslation": "no seu tablet"
+  }
+]

@@ -1,0 +1,810 @@
+[
+  {
+    "id": "lesson_7_1",
+    "word": "to speak",
+    "translation": "falar",
+    "pronunciation": "/tu spik/",
+    "portuguesePhonetic": "tchu spíc",
+    "syllables": [
+      "to",
+      " speak"
+    ],
+    "exampleSentence": "to speak",
+    "exampleTranslation": "falar"
+  },
+  {
+    "id": "lesson_7_2",
+    "word": "to study",
+    "translation": "estudar",
+    "pronunciation": "/tu ˈstʌdi/",
+    "portuguesePhonetic": "tchu stâ-di",
+    "syllables": [
+      "to",
+      " stud",
+      "y"
+    ],
+    "exampleSentence": "to study",
+    "exampleTranslation": "estudar"
+  },
+  {
+    "id": "lesson_7_3",
+    "word": "Portuguese",
+    "translation": "português",
+    "pronunciation": "/ˌpɔrtʃuˈɡiz/",
+    "portuguesePhonetic": "pôr-tchu-guis",
+    "syllables": [
+      "Por",
+      "tu",
+      "guese"
+    ],
+    "exampleSentence": "Portuguese",
+    "exampleTranslation": "português"
+  },
+  {
+    "id": "lesson_7_4",
+    "word": "English",
+    "translation": "inglês",
+    "pronunciation": "/ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "ín-glix",
+    "syllables": [
+      "Eng",
+      "lish"
+    ],
+    "exampleSentence": "English",
+    "exampleTranslation": "inglês"
+  },
+  {
+    "id": "lesson_7_5",
+    "word": "French",
+    "translation": "francês",
+    "pronunciation": "/frɛntʃ/",
+    "portuguesePhonetic": "frentch",
+    "syllables": [
+      "French"
+    ],
+    "exampleSentence": "French",
+    "exampleTranslation": "francês"
+  },
+  {
+    "id": "lesson_7_6",
+    "word": "Spanish",
+    "translation": "espanhol",
+    "pronunciation": "/ˈspænɪʃ/",
+    "portuguesePhonetic": "spé-nix",
+    "syllables": [
+      "Span",
+      "ish"
+    ],
+    "exampleSentence": "Spanish",
+    "exampleTranslation": "espanhol"
+  },
+  {
+    "id": "lesson_7_7",
+    "word": "Italian",
+    "translation": "italiano",
+    "pronunciation": "/ɪˈtæljən/",
+    "portuguesePhonetic": "i-té-li-an",
+    "syllables": [
+      "I",
+      "tal",
+      "ian"
+    ],
+    "exampleSentence": "Italian",
+    "exampleTranslation": "italiano"
+  },
+  {
+    "id": "lesson_7_8",
+    "word": "German",
+    "translation": "alemão",
+    "pronunciation": "/ˈdʒɜrmən/",
+    "portuguesePhonetic": "djãr-man",
+    "syllables": [
+      "Ger",
+      "man"
+    ],
+    "exampleSentence": "German",
+    "exampleTranslation": "alemão"
+  },
+  {
+    "id": "lesson_7_9",
+    "word": "friend",
+    "translation": "amigo(a)",
+    "pronunciation": "/frɛnd/",
+    "portuguesePhonetic": "frend",
+    "syllables": [
+      "friend"
+    ],
+    "exampleSentence": "friend",
+    "exampleTranslation": "amigo(a)"
+  },
+  {
+    "id": "lesson_7_10",
+    "word": "teacher",
+    "translation": "professor(a)",
+    "pronunciation": "/ˈtitʃər/",
+    "portuguesePhonetic": "tchí-tcher",
+    "syllables": [
+      "teach",
+      "er"
+    ],
+    "exampleSentence": "teacher",
+    "exampleTranslation": "professor(a)"
+  },
+  {
+    "id": "lesson_7_11",
+    "word": "my",
+    "translation": "meu(s), minha(s)",
+    "pronunciation": "/maɪ/",
+    "portuguesePhonetic": "mai",
+    "syllables": [
+      "my"
+    ],
+    "exampleSentence": "my",
+    "exampleTranslation": "meu(s), minha(s)"
+  },
+  {
+    "id": "lesson_7_12",
+    "word": "your",
+    "translation": "seu(s), sua(s)",
+    "pronunciation": "/jɔr/",
+    "portuguesePhonetic": "iór",
+    "syllables": [
+      "your"
+    ],
+    "exampleSentence": "your",
+    "exampleTranslation": "seu(s), sua(s)"
+  },
+  {
+    "id": "lesson_7_13",
+    "word": "we",
+    "translation": "nós",
+    "pronunciation": "/wi/",
+    "portuguesePhonetic": "ui",
+    "syllables": [
+      "we"
+    ],
+    "exampleSentence": "we",
+    "exampleTranslation": "nós"
+  },
+  {
+    "id": "lesson_7_14",
+    "word": "they",
+    "translation": "eles, elas",
+    "pronunciation": "/ðeɪ/",
+    "portuguesePhonetic": "dêi",
+    "syllables": [
+      "they"
+    ],
+    "exampleSentence": "they",
+    "exampleTranslation": "eles, elas"
+  },
+  {
+    "id": "lesson_7_15",
+    "word": "here",
+    "translation": "aqui",
+    "pronunciation": "/hɪr/",
+    "portuguesePhonetic": "rír",
+    "syllables": [
+      "here"
+    ],
+    "exampleSentence": "here",
+    "exampleTranslation": "aqui"
+  },
+  {
+    "id": "lesson_7_16",
+    "word": "there",
+    "translation": "lá",
+    "pronunciation": "/ðɛr/",
+    "portuguesePhonetic": "dér",
+    "syllables": [
+      "there"
+    ],
+    "exampleSentence": "there",
+    "exampleTranslation": "lá"
+  },
+  {
+    "id": "lesson_7_17",
+    "word": "too",
+    "translation": "também",
+    "pronunciation": "/tu/",
+    "portuguesePhonetic": "tchu",
+    "syllables": [
+      "too"
+    ],
+    "exampleSentence": "too",
+    "exampleTranslation": "também"
+  },
+  {
+    "id": "lesson_7_18",
+    "word": "with",
+    "translation": "com",
+    "pronunciation": "/wɪð/",
+    "portuguesePhonetic": "uid",
+    "syllables": [
+      "with"
+    ],
+    "exampleSentence": "with",
+    "exampleTranslation": "com"
+  },
+  {
+    "id": "lesson_7_19",
+    "word": "I drink coffee in the morning.",
+    "translation": "Eu bebo café de manhã.",
+    "pronunciation": "/aɪ drɪŋk ˈkɔfi ɪn ðə ˈmɔrnɪŋ./",
+    "portuguesePhonetic": "ai drínc có-fi in dâ môr-ning.",
+    "syllables": [
+      "I",
+      " drink",
+      " cof",
+      "fee",
+      " in",
+      " the",
+      " morn",
+      "ing."
+    ],
+    "exampleSentence": "I drink coffee in the morning.",
+    "exampleTranslation": "Eu bebo café de manhã."
+  },
+  {
+    "id": "lesson_7_20",
+    "word": "You study English in the afternoon.",
+    "translation": "Você estuda inglês à tarde.",
+    "pronunciation": "/ju ˈstʌdi ˈɪŋɡlɪʃ ɪn ði ˌæftərˈnun./",
+    "portuguesePhonetic": "iu stâ-di ín-glix in di éf-ter-nun.",
+    "syllables": [
+      "You",
+      " stud",
+      "y",
+      " Eng",
+      "lish",
+      " in",
+      " the",
+      " af",
+      "ter",
+      "noon."
+    ],
+    "exampleSentence": "You study English in the afternoon.",
+    "exampleTranslation": "Você estuda inglês à tarde."
+  },
+  {
+    "id": "lesson_7_21",
+    "word": "I study English at school.",
+    "translation": "Eu estudo inglês na escola.",
+    "pronunciation": "/aɪ ˈstʌdi ˈɪŋɡlɪʃ æt skul./",
+    "portuguesePhonetic": "ai stâ-di ín-glix ét scul.",
+    "syllables": [
+      "I",
+      " stud",
+      "y",
+      " Eng",
+      "lish",
+      " at",
+      " school."
+    ],
+    "exampleSentence": "I study English at school.",
+    "exampleTranslation": "Eu estudo inglês na escola."
+  },
+  {
+    "id": "lesson_7_22",
+    "word": "Do you want to study with me?",
+    "translation": "Você quer estudar comigo?",
+    "pronunciation": "/du ju wɑnt tu ˈstʌdi wɪð mi?/",
+    "portuguesePhonetic": "du iu uánt tchu stâ-di uid mi?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " stud",
+      "y",
+      " with",
+      " me?"
+    ],
+    "exampleSentence": "Do you want to study with me?",
+    "exampleTranslation": "Você quer estudar comigo?"
+  },
+  {
+    "id": "lesson_7_23",
+    "word": "We speak Italian at school.",
+    "translation": "Nós falamos italiano na escola.",
+    "pronunciation": "/wi spik ɪˈtæljən æt skul./",
+    "portuguesePhonetic": "ui spíc i-té-li-an ét scul.",
+    "syllables": [
+      "We",
+      " speak",
+      " I",
+      "tal",
+      "ian",
+      " at",
+      " school."
+    ],
+    "exampleSentence": "We speak Italian at school.",
+    "exampleTranslation": "Nós falamos italiano na escola."
+  },
+  {
+    "id": "lesson_7_24",
+    "word": "We study Spanish here, too.",
+    "translation": "Nós estudamos espanhol aqui também.",
+    "pronunciation": "/wi ˈstʌdi ˈspænɪʃ hɪr, tu./",
+    "portuguesePhonetic": "ui stâ-di spé-nix rír, tchu.",
+    "syllables": [
+      "We",
+      " stud",
+      "y",
+      " Span",
+      "ish",
+      " here,",
+      " too."
+    ],
+    "exampleSentence": "We study Spanish here, too.",
+    "exampleTranslation": "Nós estudamos espanhol aqui também."
+  },
+  {
+    "id": "lesson_7_25",
+    "word": "They study French there.",
+    "translation": "Eles estudam francês lá.",
+    "pronunciation": "/ðeɪ ˈstʌdi frɛntʃ ðɛr./",
+    "portuguesePhonetic": "dêi stâ-di frentch dér.",
+    "syllables": [
+      "They",
+      " stud",
+      "y",
+      " French",
+      " there."
+    ],
+    "exampleSentence": "They study French there.",
+    "exampleTranslation": "Eles estudam francês lá."
+  },
+  {
+    "id": "lesson_7_26",
+    "word": "They want to study here.",
+    "translation": "Eles querem estudar aqui.",
+    "pronunciation": "/ðeɪ wɑnt tu ˈstʌdi hɪr./",
+    "portuguesePhonetic": "dêi uánt tchu stâ-di rír.",
+    "syllables": [
+      "They",
+      " want",
+      " to",
+      " stud",
+      "y",
+      " here."
+    ],
+    "exampleSentence": "They want to study here.",
+    "exampleTranslation": "Eles querem estudar aqui."
+  },
+  {
+    "id": "lesson_7_27",
+    "word": "We want to speak English.",
+    "translation": "Nós queremos falar inglês.",
+    "pronunciation": "/wi wɑnt tu spik ˈɪŋɡlɪʃ./",
+    "portuguesePhonetic": "ui uánt tchu spíc ín-glix.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " speak",
+      " Eng",
+      "lish."
+    ],
+    "exampleSentence": "We want to speak English.",
+    "exampleTranslation": "Nós queremos falar inglês."
+  },
+  {
+    "id": "lesson_7_28",
+    "word": "They want to study German.",
+    "translation": "Eles querem estudar alemão.",
+    "pronunciation": "/ðeɪ wɑnt tu ˈstʌdi ˈdʒɜrmən./",
+    "portuguesePhonetic": "dêi uánt tchu stâ-di djãr-man.",
+    "syllables": [
+      "They",
+      " want",
+      " to",
+      " stud",
+      "y",
+      " Ger",
+      "man."
+    ],
+    "exampleSentence": "They want to study German.",
+    "exampleTranslation": "Eles querem estudar alemão."
+  },
+  {
+    "id": "lesson_7_29",
+    "word": "I like to speak English with my friends.",
+    "translation": "Eu gosto de falar inglês com meus amigos.",
+    "pronunciation": "/aɪ laɪk tu spik ˈɪŋɡlɪʃ wɪð maɪ frɛndz./",
+    "portuguesePhonetic": "ai laic tchu spíc ín-glix uid mai frends.",
+    "syllables": [
+      "I",
+      " like",
+      " to",
+      " speak",
+      " Eng",
+      "lish",
+      " with",
+      " my",
+      " friends."
+    ],
+    "exampleSentence": "I like to speak English with my friends.",
+    "exampleTranslation": "Eu gosto de falar inglês com meus amigos."
+  },
+  {
+    "id": "lesson_7_30",
+    "word": "They speak Spanish at school.",
+    "translation": "Eles falam espanhol na escola.",
+    "pronunciation": "/ðeɪ spik ˈspænɪʃ æt skul./",
+    "portuguesePhonetic": "dêi spíc spé-nix ét scul.",
+    "syllables": [
+      "They",
+      " speak",
+      " Span",
+      "ish",
+      " at",
+      " school."
+    ],
+    "exampleSentence": "They speak Spanish at school.",
+    "exampleTranslation": "Eles falam espanhol na escola."
+  },
+  {
+    "id": "lesson_7_31",
+    "word": "They like to study Portuguese.",
+    "translation": "Eles gostam de estudar português.",
+    "pronunciation": "/ðeɪ laɪk tu ˈstʌdi ˌpɔrtʃuˈɡiz./",
+    "portuguesePhonetic": "dêi laic tchu stâ-di pôr-tchu-guis.",
+    "syllables": [
+      "They",
+      " like",
+      " to",
+      " stud",
+      "y",
+      " Por",
+      "tu",
+      "guese."
+    ],
+    "exampleSentence": "They like to study Portuguese.",
+    "exampleTranslation": "Eles gostam de estudar português."
+  },
+  {
+    "id": "lesson_7_32",
+    "word": "We want to study Italian, too.",
+    "translation": "Nós queremos estudar italiano também.",
+    "pronunciation": "/wi wɑnt tu ˈstʌdi ɪˈtæljən, tu./",
+    "portuguesePhonetic": "ui uánt tchu stâ-di i-té-li-an, tchu.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " stud",
+      "y",
+      " I",
+      "tal",
+      "ian,",
+      " too."
+    ],
+    "exampleSentence": "We want to study Italian, too.",
+    "exampleTranslation": "Nós queremos estudar italiano também."
+  },
+  {
+    "id": "lesson_7_33",
+    "word": "Do you study here or there?",
+    "translation": "Você estuda aqui ou lá?",
+    "pronunciation": "/du ju ˈstʌdi hɪr ɔr ðɛr?/",
+    "portuguesePhonetic": "du iu stâ-di rír or dér?",
+    "syllables": [
+      "Do",
+      " you",
+      " stud",
+      "y",
+      " here",
+      " or",
+      " there?"
+    ],
+    "exampleSentence": "Do you study here or there?",
+    "exampleTranslation": "Você estuda aqui ou lá?"
+  },
+  {
+    "id": "lesson_7_34",
+    "word": "Do you want to study with me?",
+    "translation": "Você quer estudar comigo?",
+    "pronunciation": "/du ju wɑnt tu ˈstʌdi wɪð mi?/",
+    "portuguesePhonetic": "du iu uánt tchu stâ-di uid mi?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " stud",
+      "y",
+      " with",
+      " me?"
+    ],
+    "exampleSentence": "Do you want to study with me?",
+    "exampleTranslation": "Você quer estudar comigo?"
+  },
+  {
+    "id": "lesson_7_35",
+    "word": "Do you speak German with your teacher?",
+    "translation": "Você fala alemão com seu professor?",
+    "pronunciation": "/du ju spik ˈdʒɜrmən wɪð jɔr ˈtitʃər?/",
+    "portuguesePhonetic": "du iu spíc djãr-man uid iór tchí-tcher?",
+    "syllables": [
+      "Do",
+      " you",
+      " speak",
+      " Ger",
+      "man",
+      " with",
+      " your",
+      " teach",
+      "er?"
+    ],
+    "exampleSentence": "Do you speak German with your teacher?",
+    "exampleTranslation": "Você fala alemão com seu professor?"
+  },
+  {
+    "id": "lesson_7_36",
+    "word": "I speak Italian with my friend.",
+    "translation": "Eu falo italiano com meu amigo.",
+    "pronunciation": "/aɪ spik ɪˈtæljən wɪð maɪ frɛnd./",
+    "portuguesePhonetic": "ai spíc i-té-li-an uid mai frend.",
+    "syllables": [
+      "I",
+      " speak",
+      " I",
+      "tal",
+      "ian",
+      " with",
+      " my",
+      " friend."
+    ],
+    "exampleSentence": "I speak Italian with my friend.",
+    "exampleTranslation": "Eu falo italiano com meu amigo."
+  },
+  {
+    "id": "lesson_7_37",
+    "word": "We want to study in the morning.",
+    "translation": "Nós queremos estudar de manhã.",
+    "pronunciation": "/wi wɑnt tu ˈstʌdi ɪn ðə ˈmɔrnɪŋ./",
+    "portuguesePhonetic": "ui uánt tchu stâ-di in dâ môr-ning.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " stud",
+      "y",
+      " in",
+      " the",
+      " morn",
+      "ing."
+    ],
+    "exampleSentence": "We want to study in the morning.",
+    "exampleTranslation": "Nós queremos estudar de manhã."
+  },
+  {
+    "id": "lesson_7_38",
+    "word": "Do you want to study in the afternoon?",
+    "translation": "Você quer estudar à tarde?",
+    "pronunciation": "/du ju wɑnt tu ˈstʌdi ɪn ðə ˌæftərˈnun?/",
+    "portuguesePhonetic": "du iu uánt tchu stâ-di in dâ éf-ter-nun?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " to",
+      " stud",
+      "y",
+      " in",
+      " the",
+      " af",
+      "ter",
+      "noon?"
+    ],
+    "exampleSentence": "Do you want to study in the afternoon?",
+    "exampleTranslation": "Você quer estudar à tarde?"
+  },
+  {
+    "id": "lesson_7_39",
+    "word": "How do you spell your name?",
+    "translation": "Como se soletra o seu nome?",
+    "pronunciation": "/haʊ du ju spɛl jɔr neɪm?/",
+    "portuguesePhonetic": "ráu du iu spel iór neim?",
+    "syllables": [
+      "How",
+      " do",
+      " you",
+      " spell",
+      " your",
+      " name?"
+    ],
+    "exampleSentence": "How do you spell your name?",
+    "exampleTranslation": "Como se soletra o seu nome?"
+  },
+  {
+    "id": "lesson_7_40",
+    "word": "with me",
+    "translation": "comigo",
+    "pronunciation": "/wɪð mi/",
+    "portuguesePhonetic": "uid mi",
+    "syllables": [
+      "with",
+      " me"
+    ],
+    "exampleSentence": "with me",
+    "exampleTranslation": "comigo"
+  },
+  {
+    "id": "lesson_7_41",
+    "word": "with you",
+    "translation": "com você",
+    "pronunciation": "/wɪð ju/",
+    "portuguesePhonetic": "uid iu",
+    "syllables": [
+      "with",
+      " you"
+    ],
+    "exampleSentence": "with you",
+    "exampleTranslation": "com você"
+  },
+  {
+    "id": "lesson_7_42",
+    "word": "in the morning",
+    "translation": "de manhã",
+    "pronunciation": "/ɪn ðə ˈmɔrnɪŋ/",
+    "portuguesePhonetic": "in dâ môr-ning",
+    "syllables": [
+      "in",
+      " the",
+      " morn",
+      "ing"
+    ],
+    "exampleSentence": "in the morning",
+    "exampleTranslation": "de manhã"
+  },
+  {
+    "id": "lesson_7_43",
+    "word": "in the afternoon",
+    "translation": "à tarde",
+    "pronunciation": "/ɪn ðə ˌæftərˈnun/",
+    "portuguesePhonetic": "in dâ éf-ter-nun",
+    "syllables": [
+      "in",
+      " the",
+      " af",
+      "ter",
+      "noon"
+    ],
+    "exampleSentence": "in the afternoon",
+    "exampleTranslation": "à tarde"
+  },
+  {
+    "id": "lesson_7_44",
+    "word": "at school",
+    "translation": "na escola",
+    "pronunciation": "/æt skul/",
+    "portuguesePhonetic": "ét scul",
+    "syllables": [
+      "at",
+      " school"
+    ],
+    "exampleSentence": "at school",
+    "exampleTranslation": "na escola"
+  },
+  {
+    "id": "lesson_7_45",
+    "word": "with my friends",
+    "translation": "com meus amigos",
+    "pronunciation": "/wɪð maɪ frɛndz/",
+    "portuguesePhonetic": "uid mai frends",
+    "syllables": [
+      "with",
+      " my",
+      " friends"
+    ],
+    "exampleSentence": "with my friends",
+    "exampleTranslation": "com meus amigos"
+  },
+  {
+    "id": "lesson_7_46",
+    "word": "with your teacher",
+    "translation": "com seu professor",
+    "pronunciation": "/wɪð jɔr ˈtitʃər/",
+    "portuguesePhonetic": "uid iór tchí-tcher",
+    "syllables": [
+      "with",
+      " your",
+      " teach",
+      "er"
+    ],
+    "exampleSentence": "with your teacher",
+    "exampleTranslation": "com seu professor"
+  },
+  {
+    "id": "lesson_7_47",
+    "word": "speak English",
+    "translation": "falar inglês",
+    "pronunciation": "/spik ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "spíc ín-glix",
+    "syllables": [
+      "speak",
+      " Eng",
+      "lish"
+    ],
+    "exampleSentence": "speak English",
+    "exampleTranslation": "falar inglês"
+  },
+  {
+    "id": "lesson_7_48",
+    "word": "study Portuguese",
+    "translation": "estudar português",
+    "pronunciation": "/ˈstʌdi ˌpɔrtʃuˈɡiz/",
+    "portuguesePhonetic": "stâ-di pôr-tchu-guis",
+    "syllables": [
+      "stud",
+      "y",
+      " Por",
+      "tu",
+      "guese"
+    ],
+    "exampleSentence": "study Portuguese",
+    "exampleTranslation": "estudar português"
+  },
+  {
+    "id": "lesson_7_49",
+    "word": "study German",
+    "translation": "estudar alemão",
+    "pronunciation": "/ˈstʌdi ˈdʒɜrmən/",
+    "portuguesePhonetic": "stâ-di djãr-man",
+    "syllables": [
+      "stud",
+      "y",
+      " Ger",
+      "man"
+    ],
+    "exampleSentence": "study German",
+    "exampleTranslation": "estudar alemão"
+  },
+  {
+    "id": "lesson_7_50",
+    "word": "study Spanish",
+    "translation": "estudar espanhol",
+    "pronunciation": "/ˈstʌdi ˈspænɪʃ/",
+    "portuguesePhonetic": "stâ-di spé-nix",
+    "syllables": [
+      "stud",
+      "y",
+      " Span",
+      "ish"
+    ],
+    "exampleSentence": "study Spanish",
+    "exampleTranslation": "estudar espanhol"
+  },
+  {
+    "id": "lesson_7_51",
+    "word": "study French",
+    "translation": "estudar francês",
+    "pronunciation": "/ˈstʌdi frɛntʃ/",
+    "portuguesePhonetic": "stâ-di frentch",
+    "syllables": [
+      "stud",
+      "y",
+      " French"
+    ],
+    "exampleSentence": "study French",
+    "exampleTranslation": "estudar francês"
+  },
+  {
+    "id": "lesson_7_52",
+    "word": "study Italian",
+    "translation": "estudar italiano",
+    "pronunciation": "/ˈstʌdi ɪˈtæljən/",
+    "portuguesePhonetic": "stâ-di i-té-li-an",
+    "syllables": [
+      "stud",
+      "y",
+      " I",
+      "tal",
+      "ian"
+    ],
+    "exampleSentence": "study Italian",
+    "exampleTranslation": "estudar italiano"
+  }
+]

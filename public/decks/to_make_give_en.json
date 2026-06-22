@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "to_make_give_1",
+    "word": "to make",
+    "translation": "fazer",
+    "pronunciation": "/tə meɪk/",
+    "portuguesePhonetic": "tchu mêik",
+    "syllables": [
+      "to",
+      " make"
+    ],
+    "exampleSentence": "to make",
+    "exampleTranslation": "fazer"
+  },
+  {
+    "id": "to_make_give_2",
+    "word": "to give",
+    "translation": "dar",
+    "pronunciation": "/tə ɡɪv/",
+    "portuguesePhonetic": "tchu giv",
+    "syllables": [
+      "to",
+      " give"
+    ],
+    "exampleSentence": "to give",
+    "exampleTranslation": "dar"
+  },
+  {
+    "id": "to_make_give_3",
+    "word": "dish",
+    "translation": "prato",
+    "pronunciation": "/dɪʃ/",
+    "portuguesePhonetic": "díx",
+    "syllables": [
+      "dish"
+    ],
+    "exampleSentence": "dish",
+    "exampleTranslation": "prato"
+  },
+  {
+    "id": "to_make_give_4",
+    "word": "hamburger",
+    "translation": "hambúrguer",
+    "pronunciation": "/ˈhæmbɜrɡər/",
+    "portuguesePhonetic": "rém-bãr-guer",
+    "syllables": [
+      "ham",
+      "bur",
+      "ger"
+    ],
+    "exampleSentence": "hamburger",
+    "exampleTranslation": "hambúrguer"
+  },
+  {
+    "id": "to_make_give_5",
+    "word": "pizza",
+    "translation": "pizza",
+    "pronunciation": "/ˈpitsə/",
+    "portuguesePhonetic": "pít-tsa",
+    "syllables": [
+      "piz",
+      "za"
+    ],
+    "exampleSentence": "pizza",
+    "exampleTranslation": "pizza"
+  },
+  {
+    "id": "to_make_give_6",
+    "word": "popcorn",
+    "translation": "pipoca",
+    "pronunciation": "/ˈpɑpkɔrn/",
+    "portuguesePhonetic": "páp-corn",
+    "syllables": [
+      "pop",
+      "corn"
+    ],
+    "exampleSentence": "popcorn",
+    "exampleTranslation": "pipoca"
+  },
+  {
+    "id": "to_make_give_7",
+    "word": "cake",
+    "translation": "bolo",
+    "pronunciation": "/keɪk/",
+    "portuguesePhonetic": "cêic",
+    "syllables": [
+      "cake"
+    ],
+    "exampleSentence": "cake",
+    "exampleTranslation": "bolo"
+  },
+  {
+    "id": "to_make_give_8",
+    "word": "ice cream",
+    "translation": "sorvete",
+    "pronunciation": "/aɪs krim/",
+    "portuguesePhonetic": "ais crim",
+    "syllables": [
+      "ice",
+      " cream"
+    ],
+    "exampleSentence": "ice cream",
+    "exampleTranslation": "sorvete"
+  },
+  {
+    "id": "to_make_give_9",
+    "word": "fast food",
+    "translation": "comida rápida",
+    "pronunciation": "/fæst fud/",
+    "portuguesePhonetic": "fást fud",
+    "syllables": [
+      "fast",
+      " food"
+    ],
+    "exampleSentence": "fast food",
+    "exampleTranslation": "comida rápida"
+  },
+  {
+    "id": "to_make_give_10",
+    "word": "tip",
+    "translation": "gorjeta, dica",
+    "pronunciation": "/tɪp/",
+    "portuguesePhonetic": "tip",
+    "syllables": [
+      "tip"
+    ],
+    "exampleSentence": "tip",
+    "exampleTranslation": "gorjeta, dica"
+  },
+  {
+    "id": "to_make_give_11",
+    "word": "waiter",
+    "translation": "garçom",
+    "pronunciation": "/ˈweɪtər/",
+    "portuguesePhonetic": "uêi-tãr",
+    "syllables": [
+      "wai",
+      "ter"
+    ],
+    "exampleSentence": "waiter",
+    "exampleTranslation": "garçom"
+  },
+  {
+    "id": "to_make_give_12",
+    "word": "waitress",
+    "translation": "garçonete",
+    "pronunciation": "/ˈweɪtrəs/",
+    "portuguesePhonetic": "uêi-trés",
+    "syllables": [
+      "wai",
+      "tress"
+    ],
+    "exampleSentence": "waitress",
+    "exampleTranslation": "garçonete"
+  },
+  {
+    "id": "to_make_give_13",
+    "word": "favorite",
+    "translation": "favorito(a)",
+    "pronunciation": "/ˈfeɪvərɪt/",
+    "portuguesePhonetic": "fêi-vo-rit",
+    "syllables": [
+      "fa",
+      "vo",
+      "rite"
+    ],
+    "exampleSentence": "favorite",
+    "exampleTranslation": "favorito(a)"
+  },
+  {
+    "id": "to_make_give_14",
+    "word": "hot",
+    "translation": "quente, calor",
+    "pronunciation": "/hɑt/",
+    "portuguesePhonetic": "rát",
+    "syllables": [
+      "hot"
+    ],
+    "exampleSentence": "hot",
+    "exampleTranslation": "quente, calor"
+  },
+  {
+    "id": "to_make_give_15",
+    "word": "cold",
+    "translation": "frio(a)",
+    "pronunciation": "/koʊld/",
+    "portuguesePhonetic": "côuld",
+    "syllables": [
+      "cold"
+    ],
+    "exampleSentence": "cold",
+    "exampleTranslation": "frio(a)"
+  },
+  {
+    "id": "to_make_give_16",
+    "word": "our",
+    "translation": "nosso(s), nossa(s)",
+    "pronunciation": "/aʊər/",
+    "portuguesePhonetic": "áur",
+    "syllables": [
+      "our"
+    ],
+    "exampleSentence": "our",
+    "exampleTranslation": "nosso(s), nossa(s)"
+  },
+  {
+    "id": "to_make_give_17",
+    "word": "their",
+    "translation": "deles, delas",
+    "pronunciation": "/ðɛr/",
+    "portuguesePhonetic": "dér",
+    "syllables": [
+      "their"
+    ],
+    "exampleSentence": "their",
+    "exampleTranslation": "deles, delas"
+  },
+  {
+    "id": "to_make_give_18",
+    "word": "any",
+    "translation": "algum(ns), alguma(s), nenhum(a), qualquer",
+    "pronunciation": "/ˈɛni/",
+    "portuguesePhonetic": "é-ni",
+    "syllables": [
+      "a",
+      "ny"
+    ],
+    "exampleSentence": "any",
+    "exampleTranslation": "algum(ns), alguma(s), nenhum(a), qualquer"
+  },
+  {
+    "id": "to_make_give_19",
+    "word": "This is the best restaurant in the city.",
+    "translation": "Este é o melhor restaurante da cidade.",
+    "pronunciation": "/ðɪs ɪz ðə bɛst ˈrɛstərɑnt ɪn ðə ˈsɪti./",
+    "portuguesePhonetic": "díz iz dâ bést rés-tã-rãnt in dâ sí-ti.",
+    "syllables": [
+      "This",
+      " is",
+      " the",
+      " best",
+      " res",
+      "tau",
+      "rant",
+      " in",
+      " the",
+      " ci",
+      "ty."
+    ],
+    "exampleSentence": "This is the best restaurant in the city.",
+    "exampleTranslation": "Este é o melhor restaurante da cidade."
+  },
+  {
+    "id": "to_make_give_20",
+    "word": "I want a slice of pie for dessert.",
+    "translation": "Eu quero uma fatia de torta de sobremesa.",
+    "pronunciation": "/aɪ wɑnt ə slaɪs əv paɪ fɔr dɪˈzɜrt./",
+    "portuguesePhonetic": "ai uónt a slais óv pai for di-zãrt.",
+    "syllables": [
+      "I",
+      " want",
+      " a",
+      " slice",
+      " of",
+      " pie",
+      " for",
+      " des",
+      "sert."
+    ],
+    "exampleSentence": "I want a slice of pie for dessert.",
+    "exampleTranslation": "Eu quero uma fatia de torta de sobremesa."
+  },
+  {
+    "id": "to_make_give_21",
+    "word": "I have some friends in Germany.",
+    "translation": "Eu tenho alguns amigos na Alemanha.",
+    "pronunciation": "/aɪ hæv sʌm frɛndz ɪn ˈdʒɜrməni./",
+    "portuguesePhonetic": "ai rév sâm frends in djãr-ma-ni.",
+    "syllables": [
+      "I",
+      " have",
+      " some",
+      " friends",
+      " in",
+      " Ger",
+      "ma",
+      "ny."
+    ],
+    "exampleSentence": "I have some friends in Germany.",
+    "exampleTranslation": "Eu tenho alguns amigos na Alemanha."
+  },
+  {
+    "id": "to_make_give_22",
+    "word": "Some people don't like to eat fast food.",
+    "translation": "Algumas pessoas não gostam de comer comida rápida.",
+    "pronunciation": "/sʌm ˈpipəl doʊnt laɪk tə it fæst fud./",
+    "portuguesePhonetic": "sâm pí-pol dôunt laic tchu it fást fud.",
+    "syllables": [
+      "Some",
+      " peo",
+      "ple",
+      " don't",
+      " like",
+      " to",
+      " eat",
+      " fast",
+      " food."
+    ],
+    "exampleSentence": "Some people don't like to eat fast food.",
+    "exampleTranslation": "Algumas pessoas não gostam de comer comida rápida."
+  },
+  {
+    "id": "to_make_give_23",
+    "word": "I don't have any money here.",
+    "translation": "Eu não tenho nenhum dinheiro aqui.",
+    "pronunciation": "/aɪ doʊnt hæv ˈɛni ˈmʌni hɪr./",
+    "portuguesePhonetic": "ai dôunt rév é-ni mâ-ni rir.",
+    "syllables": [
+      "I",
+      " don't",
+      " have",
+      " a",
+      "ny",
+      " mo",
+      "ney",
+      " here."
+    ],
+    "exampleSentence": "I don't have any money here.",
+    "exampleTranslation": "Eu não tenho nenhum dinheiro aqui."
+  },
+  {
+    "id": "to_make_give_24",
+    "word": "He still doesn't have any children.",
+    "translation": "Ele ainda não tem nenhum filho.",
+    "pronunciation": "/hi stɪl ˈdʌzənt hæv ˈɛni ˈtʃɪldrən./",
+    "portuguesePhonetic": "ri stil dâ-zont rév é-ni tchil-dren.",
+    "syllables": [
+      "He",
+      " still",
+      " doe",
+      "sn't",
+      " have",
+      " a",
+      "ny",
+      " chil",
+      "dren."
+    ],
+    "exampleSentence": "He still doesn't have any children.",
+    "exampleTranslation": "Ele ainda não tem nenhum filho."
+  },
+  {
+    "id": "to_make_give_25",
+    "word": "Do you have any tips?",
+    "translation": "Você tem alguma dica?",
+    "pronunciation": "/du ju hæv ˈɛni tɪps?/",
+    "portuguesePhonetic": "du iu rév é-ni tips?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " a",
+      "ny",
+      " tips?"
+    ],
+    "exampleSentence": "Do you have any tips?",
+    "exampleTranslation": "Você tem alguma dica?"
+  },
+  {
+    "id": "to_make_give_26",
+    "word": "Do you know any good TV series?",
+    "translation": "Você conhece alguma série de TV boa?",
+    "pronunciation": "/du ju noʊ ˈɛni ɡʊd tiˈvi ˈsɪriz?/",
+    "portuguesePhonetic": "du iu nôu é-ni gud ti-vi si-ris?",
+    "syllables": [
+      "Do",
+      " you",
+      " know",
+      " a",
+      "ny",
+      " good",
+      " TV",
+      " se",
+      "ries?"
+    ],
+    "exampleSentence": "Do you know any good TV series?",
+    "exampleTranslation": "Você conhece alguma série de TV boa?"
+  },
+  {
+    "id": "to_make_give_27",
+    "word": "Do you want some popcorn?",
+    "translation": "Você quer um pouco de pipoca?",
+    "pronunciation": "/du ju wɑnt sʌm ˈpɑpkɔrn?/",
+    "portuguesePhonetic": "du iu uónt sâm páp-corn?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " some",
+      " pop",
+      "corn?"
+    ],
+    "exampleSentence": "Do you want some popcorn?",
+    "exampleTranslation": "Você quer um pouco de pipoca?"
+  },
+  {
+    "id": "to_make_give_28",
+    "word": "Do you know how to make chocolate popcorn?",
+    "translation": "Você sabe como fazer pipoca de chocolate?",
+    "pronunciation": "/du ju noʊ haʊ tə meɪk ˈtʃɔklət ˈpɑpkɔrn?/",
+    "portuguesePhonetic": "du iu nôu ráu tchu mêic tchók-lot páp-corn?",
+    "syllables": [
+      "Do",
+      " you",
+      " know",
+      " how",
+      " to",
+      " make",
+      " cho",
+      "co",
+      "late",
+      " pop",
+      "corn?"
+    ],
+    "exampleSentence": "Do you know how to make chocolate popcorn?",
+    "exampleTranslation": "Você sabe como fazer pipoca de chocolate?"
+  },
+  {
+    "id": "to_make_give_29",
+    "word": "I want to make your favorite dish tonight.",
+    "translation": "Eu quero fazer o seu prato favorito esta noite.",
+    "pronunciation": "/aɪ wɑnt tə meɪk jʊr ˈfeɪvərɪt dɪʃ təˈnaɪt./",
+    "portuguesePhonetic": "ai uónt tchu mêic iór fêi-vo-rit díx tchu-nait.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " make",
+      " your",
+      " fa",
+      "vo",
+      "rite",
+      " dish",
+      " to",
+      "night."
+    ],
+    "exampleSentence": "I want to make your favorite dish tonight.",
+    "exampleTranslation": "Eu quero fazer o seu prato favorito esta noite."
+  },
+  {
+    "id": "to_make_give_30",
+    "word": "I want to give you this book.",
+    "translation": "Eu quero te dar este livro.",
+    "pronunciation": "/aɪ wɑnt tə ɡɪv ju ðɪs bʊk./",
+    "portuguesePhonetic": "ai uónt tchu giv iu díz buc.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " give",
+      " you",
+      " this",
+      " book."
+    ],
+    "exampleSentence": "I want to give you this book.",
+    "exampleTranslation": "Eu quero te dar este livro."
+  },
+  {
+    "id": "to_make_give_31",
+    "word": "I want to give a gift to my mother.",
+    "translation": "Eu quero dar um presente para minha mãe.",
+    "pronunciation": "/aɪ wɑnt tə ɡɪv ə ɡɪft tə maɪ ˈmʌðər./",
+    "portuguesePhonetic": "ai uónt tchu giv a gift tchu mai mâ-der.",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " give",
+      " a",
+      " gift",
+      " to",
+      " my",
+      " mo",
+      "ther."
+    ],
+    "exampleSentence": "I want to give a gift to my mother.",
+    "exampleTranslation": "Eu quero dar um presente para minha mãe."
+  },
+  {
+    "id": "to_make_give_32",
+    "word": "Do you usually give tips to the waiters?",
+    "translation": "Você costuma dar gorjetas aos garçons?",
+    "pronunciation": "/du ju ˈjuʒuəli ɡɪv tɪps tə ðə ˈweɪtərz?/",
+    "portuguesePhonetic": "du iu iú-ju-a-li giv tips tchu dâ uêi-tãrs?",
+    "syllables": [
+      "Do",
+      " you",
+      " u",
+      "sual",
+      "ly",
+      " give",
+      " tips",
+      " to",
+      " the",
+      " wai",
+      "ters?"
+    ],
+    "exampleSentence": "Do you usually give tips to the waiters?",
+    "exampleTranslation": "Você costuma dar gorjetas aos garçons?"
+  },
+  {
+    "id": "to_make_give_33",
+    "word": "I want some tomato sauce please.",
+    "translation": "Eu quero um pouco de molho de tomate por favor.",
+    "pronunciation": "/aɪ wɑnt sʌm təˈmeɪtoʊ sɔs pliz./",
+    "portuguesePhonetic": "ai uónt sâm tchu-mêi-tôu sós plis.",
+    "syllables": [
+      "I",
+      " want",
+      " some",
+      " to",
+      "ma",
+      "to",
+      " sauce",
+      " please."
+    ],
+    "exampleSentence": "I want some tomato sauce please.",
+    "exampleTranslation": "Eu quero um pouco de molho de tomate por favor."
+  },
+  {
+    "id": "to_make_give_34",
+    "word": "We don't have any food. Let's go to the grocery store.",
+    "translation": "Nós não temos nenhuma comida. Vamos ao supermercado.",
+    "pronunciation": "/wi doʊnt hæv ˈɛni fud. lɛts ɡoʊ tə ðə ˈɡroʊsəri stɔr./",
+    "portuguesePhonetic": "uí dôunt rév é-ni fud. léts gôu tchu dâ grôu-sã-ri stór.",
+    "syllables": [
+      "We",
+      " don't",
+      " have",
+      " a",
+      "ny",
+      " food.",
+      " Let's",
+      " go",
+      " to",
+      " the",
+      " gro",
+      "ce",
+      "ry",
+      " store."
+    ],
+    "exampleSentence": "We don't have any food. Let's go to the grocery store.",
+    "exampleTranslation": "Nós não temos nenhuma comida. Vamos ao supermercado."
+  },
+  {
+    "id": "to_make_give_35",
+    "word": "Do you have any salad?",
+    "translation": "Você tem alguma salada?",
+    "pronunciation": "/du ju hæv ˈɛni ˈsæləd?/",
+    "portuguesePhonetic": "du iu rév é-ni sé-lad?",
+    "syllables": [
+      "Do",
+      " you",
+      " have",
+      " a",
+      "ny",
+      " sa",
+      "lad?"
+    ],
+    "exampleSentence": "Do you have any salad?",
+    "exampleTranslation": "Você tem alguma salada?"
+  },
+  {
+    "id": "to_make_give_36",
+    "word": "Do you want some coffee?",
+    "translation": "Você quer um pouco de café?",
+    "pronunciation": "/du ju wɑnt sʌm ˈkɔfi?/",
+    "portuguesePhonetic": "du iu uónt sâm có-fi?",
+    "syllables": [
+      "Do",
+      " you",
+      " want",
+      " some",
+      " cof",
+      "fee?"
+    ],
+    "exampleSentence": "Do you want some coffee?",
+    "exampleTranslation": "Você quer um pouco de café?"
+  },
+  {
+    "id": "to_make_give_37",
+    "word": "We clean our house every Friday.",
+    "translation": "Nós limpamos nossa casa toda sexta-feira.",
+    "pronunciation": "/wi klin aʊər haʊs ˈɛvri ˈfraɪdeɪ./",
+    "portuguesePhonetic": "uí clin áur ráus é-vri frai-dêi.",
+    "syllables": [
+      "We",
+      " clean",
+      " our",
+      " house",
+      " e",
+      "very",
+      " Fri",
+      "day."
+    ],
+    "exampleSentence": "We clean our house every Friday.",
+    "exampleTranslation": "Nós limpamos nossa casa toda sexta-feira."
+  },
+  {
+    "id": "to_make_give_38",
+    "word": "I love that place! Their food is very good.",
+    "translation": "Eu amo aquele lugar! A comida deles é muito boa.",
+    "pronunciation": "/aɪ lʌv ðæt pleɪs! ðɛr fud ɪz ˈvɛri ɡʊd./",
+    "portuguesePhonetic": "ai lâv dát plêis! dér fud iz vé-ri gud.",
+    "syllables": [
+      "I",
+      " love",
+      " that",
+      " place!",
+      " Their",
+      " food",
+      " is",
+      " ve",
+      "ry",
+      " good."
+    ],
+    "exampleSentence": "I love that place! Their food is very good.",
+    "exampleTranslation": "Eu amo aquele lugar! A comida deles é muito boa."
+  },
+  {
+    "id": "to_make_give_39",
+    "word": "to make a cake",
+    "translation": "fazer um bolo",
+    "pronunciation": "/tə meɪk ə keɪk/",
+    "portuguesePhonetic": "tchu mêic a cêic",
+    "syllables": [
+      "to",
+      " make",
+      " a",
+      " cake"
+    ],
+    "exampleSentence": "to make a cake",
+    "exampleTranslation": "fazer um bolo"
+  },
+  {
+    "id": "to_make_give_40",
+    "word": "to make popcorn",
+    "translation": "fazer pipoca",
+    "pronunciation": "/tə meɪk ˈpɑpkɔrn/",
+    "portuguesePhonetic": "tchu mêic páp-corn",
+    "syllables": [
+      "to",
+      " make",
+      " pop",
+      "corn"
+    ],
+    "exampleSentence": "to make popcorn",
+    "exampleTranslation": "fazer pipoca"
+  },
+  {
+    "id": "to_make_give_41",
+    "word": "to make a dessert",
+    "translation": "fazer uma sobremesa",
+    "pronunciation": "/tə meɪk ə dɪˈzɜrt/",
+    "portuguesePhonetic": "tchu mêic a di-zãrt",
+    "syllables": [
+      "to",
+      " make",
+      " a",
+      " des",
+      "sert"
+    ],
+    "exampleSentence": "to make a dessert",
+    "exampleTranslation": "fazer uma sobremesa"
+  },
+  {
+    "id": "to_make_give_42",
+    "word": "to make some coffee",
+    "translation": "fazer (um pouco de) café",
+    "pronunciation": "/tə meɪk sʌm ˈkɔfi/",
+    "portuguesePhonetic": "tchu mêic sâm có-fi",
+    "syllables": [
+      "to",
+      " make",
+      " some",
+      " cof",
+      "fee"
+    ],
+    "exampleSentence": "to make some coffee",
+    "exampleTranslation": "fazer (um pouco de) café"
+  },
+  {
+    "id": "to_make_give_43",
+    "word": "to make cookies",
+    "translation": "fazer biscoitos",
+    "pronunciation": "/tə meɪk ˈkʊkiz/",
+    "portuguesePhonetic": "tchu mêic cu-quis",
+    "syllables": [
+      "to",
+      " make",
+      " coo",
+      "kies"
+    ],
+    "exampleSentence": "to make cookies",
+    "exampleTranslation": "fazer biscoitos"
+  },
+  {
+    "id": "to_make_give_44",
+    "word": "to make soup",
+    "translation": "fazer sopa",
+    "pronunciation": "/tə meɪk sup/",
+    "portuguesePhonetic": "tchu mêic sup",
+    "syllables": [
+      "to",
+      " make",
+      " soup"
+    ],
+    "exampleSentence": "to make soup",
+    "exampleTranslation": "fazer sopa"
+  },
+  {
+    "id": "to_make_give_45",
+    "word": "to make friends",
+    "translation": "fazer amigos",
+    "pronunciation": "/tə meɪk frɛndz/",
+    "portuguesePhonetic": "tchu mêic frends",
+    "syllables": [
+      "to",
+      " make",
+      " friends"
+    ],
+    "exampleSentence": "to make friends",
+    "exampleTranslation": "fazer amigos"
+  },
+  {
+    "id": "to_make_give_46",
+    "word": "May I see the menu, please?",
+    "translation": "Posso ver o cardápio, por favor?",
+    "pronunciation": "/meɪ aɪ si ðə ˈmɛnju, pliz?/",
+    "portuguesePhonetic": "mêi ai si dâ mé-niu, plis?",
+    "syllables": [
+      "May",
+      " I",
+      " see",
+      " the",
+      " me",
+      "nu,",
+      " please?"
+    ],
+    "exampleSentence": "May I see the menu, please?",
+    "exampleTranslation": "Posso ver o cardápio, por favor?"
+  },
+  {
+    "id": "to_make_give_47",
+    "word": "Sure, here you are.",
+    "translation": "Claro, aqui está.",
+    "pronunciation": "/ʃʊr, hɪr ju ɑr./",
+    "portuguesePhonetic": "xûr, rir iu ar.",
+    "syllables": [
+      "Sure,",
+      " here",
+      " you",
+      " are."
+    ],
+    "exampleSentence": "Sure, here you are.",
+    "exampleTranslation": "Claro, aqui está."
+  },
+  {
+    "id": "to_make_give_48",
+    "word": "Let's go to a pizza place!",
+    "translation": "Vamos a uma pizzaria!",
+    "pronunciation": "/lɛts ɡoʊ tə ə ˈpitsə pleɪs!/",
+    "portuguesePhonetic": "léts gôu tchu a pít-tsa plêis!",
+    "syllables": [
+      "Let's",
+      " go",
+      " to",
+      " a",
+      " piz",
+      "za",
+      " place!"
+    ],
+    "exampleSentence": "Let's go to a pizza place!",
+    "exampleTranslation": "Vamos a uma pizzaria!"
+  },
+  {
+    "id": "to_make_give_49",
+    "word": "I usually give tips to waiters. What about you?",
+    "translation": "Eu geralmente dou gorjetas aos garçons. E você?",
+    "pronunciation": "/aɪ ˈjuʒuəli ɡɪv tɪps tu ˈweɪtərz. wʌt əˈbaʊt ju?/",
+    "portuguesePhonetic": "ai iú-ju-a-li giv tips tchu uêi-terz. uát a-báut iu?",
+    "syllables": [
+      "I",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " give",
+      " tips",
+      " to",
+      " wai",
+      "ters.",
+      " What",
+      " a",
+      "bout",
+      " you?"
+    ],
+    "exampleSentence": "I usually give tips to waiters. What about you?",
+    "exampleTranslation": "Eu geralmente dou gorjetas aos garçons. E você?"
+  },
+  {
+    "id": "to_make_give_50",
+    "word": "My mother wants to make my favorite dessert tonight.",
+    "translation": "Minha mãe quer fazer minha sobremesa favorita esta noite.",
+    "pronunciation": "/maɪ ˈmʌðər wɑnts tu meɪk maɪ ˈfeɪvərɪt dɪˈzɜrt təˈnaɪt./",
+    "portuguesePhonetic": "mai má-der uánts tchu mêic mai fêi-vo-rit di-zãrt tchu-náit.",
+    "syllables": [
+      "My",
+      " moth",
+      "er",
+      " wants",
+      " to",
+      " make",
+      " my",
+      " fa",
+      "vor",
+      "ite",
+      " des",
+      "sert",
+      " to",
+      "night."
+    ],
+    "exampleSentence": "My mother wants to make my favorite dessert tonight.",
+    "exampleTranslation": "Minha mãe quer fazer minha sobremesa favorita esta noite."
+  },
+  {
+    "id": "to_make_give_51",
+    "word": "He doesn't drink soda. He doesn't think it's healthy.",
+    "translation": "Ele não bebe refrigerante. Ele não acha que é saudável.",
+    "pronunciation": "/hi ˈdʌzənt drɪŋk ˈsoʊdə. hi ˈdʌzənt θɪŋk ɪts ˈhɛlθi./",
+    "portuguesePhonetic": "ri dâ-zent drínc sôu-da. ri dâ-zent thínc its rél-thi.",
+    "syllables": [
+      "He",
+      " doesn't",
+      " drink",
+      " so",
+      "da.",
+      " He",
+      " doesn't",
+      " think",
+      " it's",
+      " heal",
+      "thy."
+    ],
+    "exampleSentence": "He doesn't drink soda. He doesn't think it's healthy.",
+    "exampleTranslation": "Ele não bebe refrigerante. Ele não acha que é saudável."
+  },
+  {
+    "id": "to_make_give_52",
+    "word": "I don't have time to cook during the week. I usually eat fast food.",
+    "translation": "Eu não tenho tempo para cozinhar durante a semana. Eu geralmente como comida rápida.",
+    "pronunciation": "/aɪ doʊnt hæv taɪm tu kʊk ˈdʊrɪŋ ðə wik. aɪ ˈjuʒuəli it fæst fud./",
+    "portuguesePhonetic": "ai dôunt rév táim tchu cuc dú-ring dâ uíc. ai iú-ju-a-li it fest fud.",
+    "syllables": [
+      "I",
+      " don't",
+      " have",
+      " time",
+      " to",
+      " cook",
+      " dur",
+      "ing",
+      " the",
+      " week.",
+      " I",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " eat",
+      " fast",
+      " food."
+    ],
+    "exampleSentence": "I don't have time to cook during the week. I usually eat fast food.",
+    "exampleTranslation": "Eu não tenho tempo para cozinhar durante a semana. Eu geralmente como comida rápida."
+  },
+  {
+    "id": "to_make_give_53",
+    "word": "We want to eat pizza with our friends today. We want to go to a pizzeria.",
+    "translation": "Nós queremos comer pizza com nossos amigos hoje. Nós queremos ir a uma pizzaria.",
+    "pronunciation": "/wi wɑnt tu it ˈpitsə wɪð ˈaʊər frɛndz təˈdeɪ. wi wɑnt tu ɡoʊ tu ə ˌpitsəˈriə./",
+    "portuguesePhonetic": "ui uánt tchu it pít-tsa uid áu-er frends tchu-dêi. ui uánt tchu gôu tchu â pít-tsa-rí-a.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " eat",
+      " piz",
+      "za",
+      " with",
+      " our",
+      " friends",
+      " to",
+      "day.",
+      " We",
+      " want",
+      " to",
+      " go",
+      " to",
+      " a",
+      " piz",
+      "ze",
+      "ri",
+      "a."
+    ],
+    "exampleSentence": "We want to eat pizza with our friends today. We want to go to a pizzeria.",
+    "exampleTranslation": "Nós queremos comer pizza com nossos amigos hoje. Nós queremos ir a uma pizzaria."
+  },
+  {
+    "id": "to_make_give_54",
+    "word": "They don't want that dish; they prefer to eat hamburgers.",
+    "translation": "Elas não querem aquele prato; elas preferem comer hambúrgueres.",
+    "pronunciation": "/ðeɪ doʊnt wɑnt ðæt dɪʃ; ðeɪ prəˈfɜr tu it ˈhæmbɜrɡərz./",
+    "portuguesePhonetic": "dêi dôunt uánt dét díx; dêi pre-fãr tchu it rém-bãr-guerz.",
+    "syllables": [
+      "They",
+      " don't",
+      " want",
+      " that",
+      " dish;",
+      " they",
+      " pre",
+      "fer",
+      " to",
+      " eat",
+      " ham",
+      "bur",
+      "gers."
+    ],
+    "exampleSentence": "They don't want that dish; they prefer to eat hamburgers.",
+    "exampleTranslation": "Elas não querem aquele prato; elas preferem comer hambúrgueres."
+  },
+  {
+    "id": "to_make_give_55",
+    "word": "I want to make some coffee. Do you drink coffee?",
+    "translation": "Eu quero fazer um pouco de café. Você bebe café?",
+    "pronunciation": "/aɪ wɑnt tu meɪk sʌm ˈkɔfi. du ju drɪŋk ˈkɔfi?/",
+    "portuguesePhonetic": "ai uánt tchu mêic sâm có-fi. du iu drínc có-fi?",
+    "syllables": [
+      "I",
+      " want",
+      " to",
+      " make",
+      " some",
+      " cof",
+      "fee.",
+      " Do",
+      " you",
+      " drink",
+      " cof",
+      "fee?"
+    ],
+    "exampleSentence": "I want to make some coffee. Do you drink coffee?",
+    "exampleTranslation": "Eu quero fazer um pouco de café. Você bebe café?"
+  },
+  {
+    "id": "to_make_give_56",
+    "word": "What do you like to eat at the movies? – I love to eat popcorn!",
+    "translation": "O que você gosta de comer no cinema? – Eu adoro comer pipoca!",
+    "pronunciation": "/wʌt du ju laɪk tu it æt ðə ˈmuviz? – aɪ lʌv tu it ˈpɑpˌkɔrn!/",
+    "portuguesePhonetic": "uát du iu láic tchu it ét dâ mú-vis? – ai lâv tchu it páp-córn!",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " like",
+      " to",
+      " eat",
+      " at",
+      " the",
+      " mo",
+      "vies?",
+      " –",
+      " I",
+      " love",
+      " to",
+      " eat",
+      " pop",
+      "corn!"
+    ],
+    "exampleSentence": "What do you like to eat at the movies? – I love to eat popcorn!",
+    "exampleTranslation": "O que você gosta de comer no cinema? – Eu adoro comer pipoca!"
+  },
+  {
+    "id": "to_make_give_57",
+    "word": "What do you want for dessert? – I want ice cream for dessert.",
+    "translation": "O que você quer de sobremesa? – Eu quero sorvete de sobremesa.",
+    "pronunciation": "/wʌt du ju wɑnt fɔr dɪˈzɜrt? – aɪ wɑnt aɪs krim fɔr dɪˈzɜrt./",
+    "portuguesePhonetic": "uát du iu uánt fór di-zãrt? – ai uánt áis crim fór di-zãrt.",
+    "syllables": [
+      "What",
+      " do",
+      " you",
+      " want",
+      " for",
+      " des",
+      "sert?",
+      " –",
+      " I",
+      " want",
+      " ice",
+      " cream",
+      " for",
+      " des",
+      "sert."
+    ],
+    "exampleSentence": "What do you want for dessert? – I want ice cream for dessert.",
+    "exampleTranslation": "O que você quer de sobremesa? – Eu quero sorvete de sobremesa."
+  },
+  {
+    "id": "to_make_give_58",
+    "word": "He loves to give presents to his family. He loves to bake cakes too.",
+    "translation": "Ele adora dar presentes para a família dele. Ele adora fazer bolos também.",
+    "pronunciation": "/hi lʌvz tu ɡɪv ˈprɛzənts tu hɪz ˈfæməli. hi lʌvz tu beɪk keɪks tu./",
+    "portuguesePhonetic": "ri lâvz tchu giv pré-zents tchu ríz fé-mi-li. ri lâvz tchu bêic quêics tu.",
+    "syllables": [
+      "He",
+      " loves",
+      " to",
+      " give",
+      " pres",
+      "ents",
+      " to",
+      " his",
+      " fam",
+      "i",
+      "ly.",
+      " He",
+      " loves",
+      " to",
+      " bake",
+      " cakes",
+      " too."
+    ],
+    "exampleSentence": "He loves to give presents to his family. He loves to bake cakes too.",
+    "exampleTranslation": "Ele adora dar presentes para a família dele. Ele adora fazer bolos também."
+  },
+  {
+    "id": "to_make_give_59",
+    "word": "She wants to eat some of these desserts.",
+    "translation": "Ela quer comer algumas dessas sobremesas.",
+    "pronunciation": "/ʃi wɑnts tu it sʌm ʌv ðiz dɪˈzɜrts./",
+    "portuguesePhonetic": "chi uánts tchu it sâm áv díz di-zãrts.",
+    "syllables": [
+      "She",
+      " wants",
+      " to",
+      " eat",
+      " some",
+      " of",
+      " these",
+      " des",
+      "serts."
+    ],
+    "exampleSentence": "She wants to eat some of these desserts.",
+    "exampleTranslation": "Ela quer comer algumas dessas sobremesas."
+  },
+  {
+    "id": "to_make_give_60",
+    "word": "I am hungry. I want some pasta.",
+    "translation": "Eu estou com fome. Eu quero um pouco de macarrão.",
+    "pronunciation": "/aɪ æm ˈhʌŋɡri. aɪ wɑnt sʌm ˈpɑstə./",
+    "portuguesePhonetic": "ai ém rân-gri. ai uánt sâm pás-ta.",
+    "syllables": [
+      "I",
+      " am",
+      " hun",
+      "gry.",
+      " I",
+      " want",
+      " some",
+      " pas",
+      "ta."
+    ],
+    "exampleSentence": "I am hungry. I want some pasta.",
+    "exampleTranslation": "Eu estou com fome. Eu quero um pouco de macarrão."
+  },
+  {
+    "id": "to_make_give_61",
+    "word": "They are thirsty. They want some water.",
+    "translation": "Eles estão com sede. Eles querem um pouco de água.",
+    "pronunciation": "/ðeɪ ɑr ˈθɜrsti. ðeɪ wɑnt sʌm ˈwɔtər./",
+    "portuguesePhonetic": "dêi ar thãrs-ti. dêi uánt sâm uó-ter.",
+    "syllables": [
+      "They",
+      " are",
+      " thirs",
+      "ty.",
+      " They",
+      " want",
+      " some",
+      " wa",
+      "ter."
+    ],
+    "exampleSentence": "They are thirsty. They want some water.",
+    "exampleTranslation": "Eles estão com sede. Eles querem um pouco de água."
+  },
+  {
+    "id": "to_make_give_62",
+    "word": "He has some friends in the U.S.A.",
+    "translation": "Ele tem alguns amigos nos Estados Unidos.",
+    "pronunciation": "/hi hæz sʌm frɛndz ɪn ðə ˌjuˌɛsˈeɪ./",
+    "portuguesePhonetic": "ri réz sâm frends in dâ iu-es-êi.",
+    "syllables": [
+      "He",
+      " has",
+      " some",
+      " friends",
+      " in",
+      " the",
+      " U.",
+      "S.",
+      "A."
+    ],
+    "exampleSentence": "He has some friends in the U.S.A.",
+    "exampleTranslation": "Ele tem alguns amigos nos Estados Unidos."
+  },
+  {
+    "id": "to_make_give_63",
+    "word": "I need some milk to make the cake.",
+    "translation": "Eu preciso de um pouco de leite para fazer o bolo.",
+    "pronunciation": "/aɪ nid sʌm mɪlk tu meɪk ðə keɪk./",
+    "portuguesePhonetic": "ai nid sâm milc tchu mêic dâ quêic.",
+    "syllables": [
+      "I",
+      " need",
+      " some",
+      " milk",
+      " to",
+      " make",
+      " the",
+      " cake."
+    ],
+    "exampleSentence": "I need some milk to make the cake.",
+    "exampleTranslation": "Eu preciso de um pouco de leite para fazer o bolo."
+  },
+  {
+    "id": "to_make_give_64",
+    "word": "They have some money to go to the mall.",
+    "translation": "Eles têm algum dinheiro para ir ao shopping.",
+    "pronunciation": "/ðeɪ hæv sʌm ˈmʌni tu ɡoʊ tu ðə mɔl./",
+    "portuguesePhonetic": "dêi rév sâm má-ni tchu gôu tchu dâ mól.",
+    "syllables": [
+      "They",
+      " have",
+      " some",
+      " mon",
+      "ey",
+      " to",
+      " go",
+      " to",
+      " the",
+      " mall."
+    ],
+    "exampleSentence": "They have some money to go to the mall.",
+    "exampleTranslation": "Eles têm algum dinheiro para ir ao shopping."
+  },
+  {
+    "id": "to_make_give_65",
+    "word": "We make some food for our birthday.",
+    "translation": "Nós fazemos alguma comida para o nosso aniversário.",
+    "pronunciation": "/wi meɪk sʌm fud fɔr ˈaʊər ˈbɜrθˌdeɪ./",
+    "portuguesePhonetic": "ui mêic sâm fud fór áu-er bãrth-dêi.",
+    "syllables": [
+      "We",
+      " make",
+      " some",
+      " food",
+      " for",
+      " our",
+      " birth",
+      "day."
+    ],
+    "exampleSentence": "We make some food for our birthday.",
+    "exampleTranslation": "Nós fazemos alguma comida para o nosso aniversário."
+  },
+  {
+    "id": "to_make_give_66",
+    "word": "They want to visit their parents.",
+    "translation": "Eles querem visitar os pais deles.",
+    "pronunciation": "/ðeɪ wɑnt tu ˈvɪzɪt ðɛr ˈpɛrənts./",
+    "portuguesePhonetic": "dêi uánt tchu ví-zit dêiar pé-rents.",
+    "syllables": [
+      "They",
+      " want",
+      " to",
+      " vis",
+      "it",
+      " their",
+      " par",
+      "ents."
+    ],
+    "exampleSentence": "They want to visit their parents.",
+    "exampleTranslation": "Eles querem visitar os pais deles."
+  },
+  {
+    "id": "to_make_give_67",
+    "word": "We eat at our restaurant every day.",
+    "translation": "Nós comemos em nosso restaurante todos os dias.",
+    "pronunciation": "/wi it æt ˈaʊər ˈrɛstəˌrɑnt ˈɛvri deɪ./",
+    "portuguesePhonetic": "ui it ét áu-er rés-to-rant év-ri dêi.",
+    "syllables": [
+      "We",
+      " eat",
+      " at",
+      " our",
+      " res",
+      "tau",
+      "rant",
+      " ev",
+      "ery",
+      " day."
+    ],
+    "exampleSentence": "We eat at our restaurant every day.",
+    "exampleTranslation": "Nós comemos em nosso restaurante todos os dias."
+  },
+  {
+    "id": "to_make_give_68",
+    "word": "They usually make their favorite cake on weekends.",
+    "translation": "Eles geralmente fazem o bolo favorito deles nos fins de semana.",
+    "pronunciation": "/ðeɪ ˈjuʒuəli meɪk ðɛr ˈfeɪvərɪt keɪk ɑn ˈwiˌkɛndz./",
+    "portuguesePhonetic": "dêi iú-ju-a-li mêic dêiar fêi-vo-rit quêic an uíc-ends.",
+    "syllables": [
+      "They",
+      " u",
+      "su",
+      "al",
+      "ly",
+      " make",
+      " their",
+      " fa",
+      "vor",
+      "ite",
+      " cake",
+      " on",
+      " week",
+      "ends."
+    ],
+    "exampleSentence": "They usually make their favorite cake on weekends.",
+    "exampleTranslation": "Eles geralmente fazem o bolo favorito deles nos fins de semana."
+  },
+  {
+    "id": "to_make_give_69",
+    "word": "He thinks his tea is very hot.",
+    "translation": "Ele acha que o chá dele está muito quente.",
+    "pronunciation": "/hi θɪŋks hɪz ti ɪz ˈvɛri hɑt./",
+    "portuguesePhonetic": "ri thíncs ríz ti iz vé-ri rát.",
+    "syllables": [
+      "He",
+      " thinks",
+      " his",
+      " tea",
+      " is",
+      " ve",
+      "ry",
+      " hot."
+    ],
+    "exampleSentence": "He thinks his tea is very hot.",
+    "exampleTranslation": "Ele acha que o chá dele está muito quente."
+  },
+  {
+    "id": "to_make_give_70",
+    "word": "We want to study with our friend tonight.",
+    "translation": "Nós queremos estudar com nosso amigo esta noite.",
+    "pronunciation": "/wi wɑnt tu ˈstʌdi wɪð ˈaʊər frɛnd təˈnaɪt./",
+    "portuguesePhonetic": "ui uánt tchu stâ-di uid áu-er frend tchu-náit.",
+    "syllables": [
+      "We",
+      " want",
+      " to",
+      " stud",
+      "y",
+      " with",
+      " our",
+      " friend",
+      " to",
+      "night."
+    ],
+    "exampleSentence": "We want to study with our friend tonight.",
+    "exampleTranslation": "Nós queremos estudar com nosso amigo esta noite."
+  },
+  {
+    "id": "to_make_give_71",
+    "word": "She doesn't eat popcorn when she watches movies at her house.",
+    "translation": "Ela não come pipoca quando assiste a filmes na casa dela.",
+    "pronunciation": "/ʃi ˈdʌzənt it ˈpɑpˌkɔrn wɛn ʃi ˈwɑtʃəz ˈmuviz æt hər haʊs./",
+    "portuguesePhonetic": "chi dâ-zent it páp-córn uén chi uá-tchiz mú-vis ét rãr ráus.",
+    "syllables": [
+      "She",
+      " doesn't",
+      " eat",
+      " pop",
+      "corn",
+      " when",
+      " she",
+      " watch",
+      "es",
+      " mo",
+      "vies",
+      " at",
+      " her",
+      " house."
+    ],
+    "exampleSentence": "She doesn't eat popcorn when she watches movies at her house.",
+    "exampleTranslation": "Ela não come pipoca quando assiste a filmes na casa dela."
+  },
+  {
+    "id": "to_make_give_72",
+    "word": "They are at the mall with their parents.",
+    "translation": "Eles estão no shopping com os pais deles.",
+    "pronunciation": "/ðeɪ ɑr æt ðə mɔl wɪð ðɛr ˈpɛrənts./",
+    "portuguesePhonetic": "dêi ar ét dâ mól uid dêiar pé-rents.",
+    "syllables": [
+      "They",
+      " are",
+      " at",
+      " the",
+      " mall",
+      " with",
+      " their",
+      " par",
+      "ents."
+    ],
+    "exampleSentence": "They are at the mall with their parents.",
+    "exampleTranslation": "Eles estão no shopping com os pais deles."
+  },
+  {
+    "id": "to_make_give_73",
+    "word": "tip",
+    "translation": "gorjeta",
+    "pronunciation": "/tɪp/",
+    "portuguesePhonetic": "tip",
+    "syllables": [
+      "tip"
+    ],
+    "exampleSentence": "I usually give tips to waiters.",
+    "exampleTranslation": "Eu geralmente dou gorjetas aos garçons."
+  },
+  {
+    "id": "to_make_give_74",
+    "word": "waiter",
+    "translation": "garçom",
+    "pronunciation": "/ˈweɪtər/",
+    "portuguesePhonetic": "uêi-ter",
+    "syllables": [
+      "wai",
+      "ter"
+    ],
+    "exampleSentence": "The waiter is very nice.",
+    "exampleTranslation": "O garçom é muito legal."
+  },
+  {
+    "id": "to_make_give_75",
+    "word": "dessert",
+    "translation": "sobremesa",
+    "pronunciation": "/dɪˈzɜrt/",
+    "portuguesePhonetic": "di-zãrt",
+    "syllables": [
+      "des",
+      "sert"
+    ],
+    "exampleSentence": "What do you want for dessert?",
+    "exampleTranslation": "O que você quer de sobremesa?"
+  },
+  {
+    "id": "to_make_give_76",
+    "word": "soda",
+    "translation": "refrigerante",
+    "pronunciation": "/ˈsoʊdə/",
+    "portuguesePhonetic": "sôu-da",
+    "syllables": [
+      "so",
+      "da"
+    ],
+    "exampleSentence": "He doesn't drink soda.",
+    "exampleTranslation": "Ele não bebe refrigerante."
+  },
+  {
+    "id": "to_make_give_77",
+    "word": "healthy",
+    "translation": "saudável",
+    "pronunciation": "/ˈhɛlθi/",
+    "portuguesePhonetic": "rél-thi",
+    "syllables": [
+      "heal",
+      "thy"
+    ],
+    "exampleSentence": "He doesn't think it's healthy.",
+    "exampleTranslation": "Ele não acha que é saudável."
+  },
+  {
+    "id": "to_make_give_78",
+    "word": "fast food",
+    "translation": "comida rápida",
+    "pronunciation": "/fæst fud/",
+    "portuguesePhonetic": "fest fud",
+    "syllables": [
+      "fast",
+      " food"
+    ],
+    "exampleSentence": "I usually eat fast food.",
+    "exampleTranslation": "Eu geralmente como comida rápida."
+  },
+  {
+    "id": "to_make_give_79",
+    "word": "dish",
+    "translation": "prato",
+    "pronunciation": "/dɪʃ/",
+    "portuguesePhonetic": "díx",
+    "syllables": [
+      "dish"
+    ],
+    "exampleSentence": "They don't want that dish.",
+    "exampleTranslation": "Elas não querem aquele prato."
+  },
+  {
+    "id": "to_make_give_80",
+    "word": "hamburger",
+    "translation": "hambúrguer",
+    "pronunciation": "/ˈhæmbɜrɡər/",
+    "portuguesePhonetic": "rém-bãr-guer",
+    "syllables": [
+      "ham",
+      "bur",
+      "ger"
+    ],
+    "exampleSentence": "They prefer to eat hamburgers.",
+    "exampleTranslation": "Elas preferem comer hambúrgueres."
+  },
+  {
+    "id": "to_make_give_81",
+    "word": "coffee",
+    "translation": "café",
+    "pronunciation": "/ˈkɔfi/",
+    "portuguesePhonetic": "có-fi",
+    "syllables": [
+      "cof",
+      "fee"
+    ],
+    "exampleSentence": "I want to make some coffee.",
+    "exampleTranslation": "Eu quero fazer um pouco de café."
+  },
+  {
+    "id": "to_make_give_82",
+    "word": "popcorn",
+    "translation": "pipoca",
+    "pronunciation": "/ˈpɑpˌkɔrn/",
+    "portuguesePhonetic": "páp-córn",
+    "syllables": [
+      "pop",
+      "corn"
+    ],
+    "exampleSentence": "I love to eat popcorn!",
+    "exampleTranslation": "Eu adoro comer pipoca!"
+  },
+  {
+    "id": "to_make_give_83",
+    "word": "ice cream",
+    "translation": "sorvete",
+    "pronunciation": "/aɪs krim/",
+    "portuguesePhonetic": "áis crim",
+    "syllables": [
+      "ice",
+      " cream"
+    ],
+    "exampleSentence": "I want ice cream for dessert.",
+    "exampleTranslation": "Eu quero sorvete de sobremesa."
+  },
+  {
+    "id": "to_make_give_84",
+    "word": "pizzeria",
+    "translation": "pizzaria",
+    "pronunciation": "/ˌpitsəˈriə/",
+    "portuguesePhonetic": "pít-tsa-rí-a",
+    "syllables": [
+      "piz",
+      "ze",
+      "ri",
+      "a"
+    ],
+    "exampleSentence": "We want to go to a pizzeria.",
+    "exampleTranslation": "Nós queremos ir a uma pizzaria."
+  },
+  {
+    "id": "to_make_give_85",
+    "word": "present",
+    "translation": "presente",
+    "pronunciation": "/ˈprɛzənt/",
+    "portuguesePhonetic": "pré-zent",
+    "syllables": [
+      "pres",
+      "ent"
+    ],
+    "exampleSentence": "He loves to give presents to his family.",
+    "exampleTranslation": "Ele adora dar presentes para a família dele."
+  },
+  {
+    "id": "to_make_give_86",
+    "word": "bake",
+    "translation": "fazer/assar bolos",
+    "pronunciation": "/beɪk/",
+    "portuguesePhonetic": "bêic",
+    "syllables": [
+      "bake"
+    ],
+    "exampleSentence": "He loves to bake cakes too.",
+    "exampleTranslation": "Ele adora fazer bolos também."
+  },
+  {
+    "id": "to_make_give_87",
+    "word": "cake",
+    "translation": "bolo",
+    "pronunciation": "/keɪk/",
+    "portuguesePhonetic": "quêic",
+    "syllables": [
+      "cake"
+    ],
+    "exampleSentence": "They usually make their favorite cake on weekends.",
+    "exampleTranslation": "Eles geralmente fazem o bolo favorito deles nos fins de semana."
+  },
+  {
+    "id": "to_make_give_88",
+    "word": "thirsty",
+    "translation": "com sede",
+    "pronunciation": "/ˈθɜrsti/",
+    "portuguesePhonetic": "thãrs-ti",
+    "syllables": [
+      "thirs",
+      "ty"
+    ],
+    "exampleSentence": "They are thirsty. They want some water.",
+    "exampleTranslation": "Eles estão com sede. Eles querem um pouco de água."
+  },
+  {
+    "id": "to_make_give_89",
+    "word": "hungry",
+    "translation": "com fome",
+    "pronunciation": "/ˈhʌŋɡri/",
+    "portuguesePhonetic": "rân-gri",
+    "syllables": [
+      "hun",
+      "gry"
+    ],
+    "exampleSentence": "I am hungry. I want some pasta.",
+    "exampleTranslation": "Eu estou com fome. Eu quero um pouco de macarrão."
+  },
+  {
+    "id": "to_make_give_90",
+    "word": "some",
+    "translation": "algum(a), alguns(as)",
+    "pronunciation": "/sʌm/",
+    "portuguesePhonetic": "sâm",
+    "syllables": [
+      "some"
+    ],
+    "exampleSentence": "I need some milk to make the cake.",
+    "exampleTranslation": "Eu preciso de um pouco de leite para fazer o bolo."
+  },
+  {
+    "id": "to_make_give_91",
+    "word": "mall",
+    "translation": "shopping",
+    "pronunciation": "/mɔl/",
+    "portuguesePhonetic": "mól",
+    "syllables": [
+      "mall"
+    ],
+    "exampleSentence": "They are at the mall with their parents.",
+    "exampleTranslation": "Eles estão no shopping com os pais deles."
+  },
+  {
+    "id": "to_make_give_92",
+    "word": "movie theater / movies",
+    "translation": "cinema",
+    "pronunciation": "/ˈmuvi ˌθiətər / ˈmuviz/",
+    "portuguesePhonetic": "mú-vi thí-a-ter / mú-vis",
+    "syllables": [
+      "mo",
+      "vie",
+      " the",
+      "a",
+      "ter",
+      " /",
+      " mo",
+      "vies"
+    ],
+    "exampleSentence": "What do you like to eat at the movies?",
+    "exampleTranslation": "O que você gosta de comer no cinema?"
+  },
+  {
+    "id": "to_make_give_93",
+    "word": "favorite",
+    "translation": "favorito",
+    "pronunciation": "/ˈfeɪvərɪt/",
+    "portuguesePhonetic": "fêi-vo-rit",
+    "syllables": [
+      "fa",
+      "vor",
+      "ite"
+    ],
+    "exampleSentence": "My mother wants to make my favorite dessert tonight.",
+    "exampleTranslation": "Minha mãe quer fazer minha sobremesa favorita esta noite."
+  },
+  {
+    "id": "to_make_give_94",
+    "word": "during the week",
+    "translation": "durante a semana",
+    "pronunciation": "/ˈdʊrɪŋ ðə wik/",
+    "portuguesePhonetic": "dú-ring dâ uíc",
+    "syllables": [
+      "dur",
+      "ing",
+      " the",
+      " week"
+    ],
+    "exampleSentence": "I don't have time to cook during the week.",
+    "exampleTranslation": "Eu não tenho tempo para cozinhar durante a semana."
+  },
+  {
+    "id": "to_make_give_95",
+    "word": "on weekends",
+    "translation": "nos fins de semana",
+    "pronunciation": "/ɑn ˈwiˌkɛndz/",
+    "portuguesePhonetic": "an uíc-ends",
+    "syllables": [
+      "on",
+      " week",
+      "ends"
+    ],
+    "exampleSentence": "They usually make their favorite cake on weekends.",
+    "exampleTranslation": "Eles geralmente fazem o bolo favorito deles nos fins de semana."
+  }
+]
