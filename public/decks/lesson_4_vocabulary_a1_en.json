@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_1",
+    "word": "happy",
+    "translation": "feliz",
+    "pronunciation": "/ˈhæpi/",
+    "portuguesePhonetic": "[rrépi]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_2",
+    "word": "sad",
+    "translation": "triste",
+    "pronunciation": "/sæd/",
+    "portuguesePhonetic": "[séd]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_3",
+    "word": "tall",
+    "translation": "alto",
+    "pronunciation": "/tɔːl/",
+    "portuguesePhonetic": "[tól]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_4",
+    "word": "short",
+    "translation": "baixo",
+    "pronunciation": "/ʃɔːrt/",
+    "portuguesePhonetic": "[chórt]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_5",
+    "word": "young",
+    "translation": "jovem",
+    "pronunciation": "/jʌŋ/",
+    "portuguesePhonetic": "[iâN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_6",
+    "word": "old",
+    "translation": "velho / idoso",
+    "pronunciation": "/oʊld/",
+    "portuguesePhonetic": "[ôuld]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_7",
+    "word": "strong",
+    "translation": "forte",
+    "pronunciation": "/strɔːŋ/",
+    "portuguesePhonetic": "[stróN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_8",
+    "word": "weak",
+    "translation": "fraco",
+    "pronunciation": "/wiːk/",
+    "portuguesePhonetic": "[uík]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_9",
+    "word": "fat",
+    "translation": "gordo",
+    "pronunciation": "/fæt/",
+    "portuguesePhonetic": "[fét]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_10",
+    "word": "thin",
+    "translation": "magro",
+    "pronunciation": "/θɪn/",
+    "portuguesePhonetic": "[thín]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_11",
+    "word": "beautiful",
+    "translation": "lindo / bonito",
+    "pronunciation": "/ˈbjuːtɪfl̩/",
+    "portuguesePhonetic": "[biútifou]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_12",
+    "word": "ugly",
+    "translation": "feio",
+    "pronunciation": "/ˈʌɡli/",
+    "portuguesePhonetic": "[âgli]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_13",
+    "word": "kind",
+    "translation": "gentil / bondoso",
+    "pronunciation": "/kaɪnd/",
+    "portuguesePhonetic": "[káind]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_14",
+    "word": "friendly",
+    "translation": "simpático / amigável",
+    "pronunciation": "/ˈfrɛndli/",
+    "portuguesePhonetic": "[fréndli]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_15",
+    "word": "shy",
+    "translation": "tímido",
+    "pronunciation": "/ʃaɪ/",
+    "portuguesePhonetic": "[chái]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_16",
+    "word": "smart",
+    "translation": "inteligente / esperto",
+    "pronunciation": "/smɑːrt/",
+    "portuguesePhonetic": "[smárt]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_17",
+    "word": "funny",
+    "translation": "engraçado",
+    "pronunciation": "/ˈfʌni/",
+    "portuguesePhonetic": "[fâni]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_18",
+    "word": "tired",
+    "translation": "cansado",
+    "pronunciation": "/ˈtaɪərd/",
+    "portuguesePhonetic": "[táierd]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_19",
+    "word": "nice",
+    "translation": "legal / agradável",
+    "pronunciation": "/naɪs/",
+    "portuguesePhonetic": "[náis]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_20",
+    "word": "handsome",
+    "translation": "bonito (homem)",
+    "pronunciation": "/ˈhænsəm/",
+    "portuguesePhonetic": "[rrénsam]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_21",
+    "word": "pretty",
+    "translation": "bonita",
+    "pronunciation": "/ˈprɪti/",
+    "portuguesePhonetic": "[príti]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_22",
+    "word": "slim",
+    "translation": "esbelto / magro",
+    "pronunciation": "/slɪm/",
+    "portuguesePhonetic": "[slím]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_23",
+    "word": "big",
+    "translation": "grande",
+    "pronunciation": "/bɪɡ/",
+    "portuguesePhonetic": "[bíg]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_24",
+    "word": "small",
+    "translation": "pequeno",
+    "pronunciation": "/smɔːl/",
+    "portuguesePhonetic": "[smól]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_25",
+    "word": "healthy",
+    "translation": "saudável",
+    "pronunciation": "/ˈhɛlθi/",
+    "portuguesePhonetic": "[rrélthi]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_26",
+    "word": "My brother is tall.",
+    "translation": "Meu irmão é alto.",
+    "pronunciation": "/maɪ ˈbrʌðər ɪz tɔːl/",
+    "portuguesePhonetic": "[mái brâdher iz tól]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_27",
+    "word": "My sister is short.",
+    "translation": "Minha irmã é baixa.",
+    "pronunciation": "/maɪ ˈsɪstər ɪz ʃɔːrt/",
+    "portuguesePhonetic": "[mái síster iz chórt]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_28",
+    "word": "My grandfather is old.",
+    "translation": "Meu avô é idoso.",
+    "pronunciation": "/maɪ ˈɡrænfɑːðər ɪz oʊld/",
+    "portuguesePhonetic": "[mái grénfadher iz ôuld]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_29",
+    "word": "My cousin is young.",
+    "translation": "Meu primo é jovem.",
+    "pronunciation": "/maɪ ˈkʌzn̩ ɪz jʌŋ/",
+    "portuguesePhonetic": "[mái kâzan iz iâN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_30",
+    "word": "My mother is beautiful.",
+    "translation": "Minha mãe é linda.",
+    "pronunciation": "/maɪ ˈmʌðər ɪz ˈbjuːtɪfl̩/",
+    "portuguesePhonetic": "[mái mâdher iz biútifou]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_31",
+    "word": "He is very strong.",
+    "translation": "Ele é muito forte.",
+    "pronunciation": "/hiː ɪz ˈvɛri strɔːŋ/",
+    "portuguesePhonetic": "[rrí iz véri stróN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_32",
+    "word": "I feel weak today.",
+    "translation": "Eu me sinto fraco hoje.",
+    "pronunciation": "/aɪ fiːl wiːk təˈdeɪ/",
+    "portuguesePhonetic": "[ái fíou uík tudêi]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_33",
+    "word": "She is thin and healthy.",
+    "translation": "Ela é magra e saudável.",
+    "pronunciation": "/ʃiː ɪz θɪn ænd ˈhɛlθi/",
+    "portuguesePhonetic": "[chí iz thín énd rrélthi]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_34",
+    "word": "He wants to be strong.",
+    "translation": "Ele quer ser forte.",
+    "pronunciation": "/hiː wɑːnts tə biː strɔːŋ/",
+    "portuguesePhonetic": "[rrí uánts tu bí stróN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_35",
+    "word": "My friend is funny.",
+    "translation": "Meu amigo é engraçado.",
+    "pronunciation": "/maɪ frɛnd ɪz ˈfʌni/",
+    "portuguesePhonetic": "[mái frénd iz fâni]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_36",
+    "word": "She is very friendly.",
+    "translation": "Ela é muito simpática.",
+    "pronunciation": "/ʃiː ɪz ˈvɛri ˈfrɛndli/",
+    "portuguesePhonetic": "[chí iz véri fréndli]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_37",
+    "word": "He is shy at parties.",
+    "translation": "Ele é tímido em festas.",
+    "pronunciation": "/hiː ɪz ʃaɪ æt ˈpɑːrtiz/",
+    "portuguesePhonetic": "[rrí iz chái ét pártiz]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_38",
+    "word": "They are happy together.",
+    "translation": "Eles estão felizes juntos.",
+    "pronunciation": "/ðeɪ ɑːr ˈhæpi təˈɡɛðər/",
+    "portuguesePhonetic": "[dhêi ár rrépi tuguédher]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_39",
+    "word": "My boss is kind.",
+    "translation": "Meu chefe é gentil.",
+    "pronunciation": "/maɪ bɔːs ɪz kaɪnd/",
+    "portuguesePhonetic": "[mái bós iz káind]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_40",
+    "word": "The new guy is smart.",
+    "translation": "O cara novo é inteligente.",
+    "pronunciation": "/ðə nuː ɡaɪ ɪz smɑːrt/",
+    "portuguesePhonetic": "[dha niú gái iz smárt]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_41",
+    "word": "She is a nice person.",
+    "translation": "Ela é uma pessoa legal.",
+    "pronunciation": "/ʃiː ɪz ə naɪs ˈpɜːrsn̩/",
+    "portuguesePhonetic": "[chí iz a náis pârsan]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_42",
+    "word": "He is handsome.",
+    "translation": "Ele é bonito.",
+    "pronunciation": "/hiː ɪz ˈhænsəm/",
+    "portuguesePhonetic": "[rrí iz rrénsam]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_43",
+    "word": "She is pretty.",
+    "translation": "Ela é bonita.",
+    "pronunciation": "/ʃiː ɪz ˈprɪti/",
+    "portuguesePhonetic": "[chí iz príti]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_44",
+    "word": "The baby is small.",
+    "translation": "O bebê é pequeno.",
+    "pronunciation": "/ðə ˈbeɪbi ɪz smɔːl/",
+    "portuguesePhonetic": "[dha bêibi iz smól]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_45",
+    "word": "The man is big.",
+    "translation": "O homem é grande.",
+    "pronunciation": "/ðə mæn ɪz bɪɡ/",
+    "portuguesePhonetic": "[dha mén iz bíg]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_46",
+    "word": "I am tired tonight.",
+    "translation": "Eu estou cansado hoje à noite.",
+    "pronunciation": "/aɪ æm ˈtaɪərd təˈnaɪt/",
+    "portuguesePhonetic": "[ái ém táierd tunáit]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_47",
+    "word": "She looks sad.",
+    "translation": "Ela parece triste.",
+    "pronunciation": "/ʃiː lʊks sæd/",
+    "portuguesePhonetic": "[chí lúks séd]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_48",
+    "word": "He looks happy.",
+    "translation": "Ele parece feliz.",
+    "pronunciation": "/hiː lʊks ˈhæpi/",
+    "portuguesePhonetic": "[rrí lúks rrépi]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_49",
+    "word": "My dog is small but strong.",
+    "translation": "Meu cachorro é pequeno mas forte.",
+    "pronunciation": "/maɪ dɔːɡ ɪz smɔːl bʌt strɔːŋ/",
+    "portuguesePhonetic": "[mái dóg iz smól bât stróN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_50",
+    "word": "He is old but healthy.",
+    "translation": "Ele é idoso mas saudável.",
+    "pronunciation": "/hiː ɪz oʊld bʌt ˈhɛlθi/",
+    "portuguesePhonetic": "[rrí iz ôuld bât rrélthi]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_51",
+    "word": "She is happy.",
+    "translation": "Ela está feliz.",
+    "pronunciation": "/ʃiː ɪz ˈhæpi/",
+    "portuguesePhonetic": "[chí iz rrépi]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_52",
+    "word": "He is tall.",
+    "translation": "Ele é alto.",
+    "pronunciation": "/hiː ɪz tɔːl/",
+    "portuguesePhonetic": "[rrí iz tól]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_53",
+    "word": "They are young.",
+    "translation": "Eles são jovens.",
+    "pronunciation": "/ðeɪ ɑːr jʌŋ/",
+    "portuguesePhonetic": "[dhêi ár iâN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_54",
+    "word": "The man is strong.",
+    "translation": "O homem é forte.",
+    "pronunciation": "/ðə mæn ɪz strɔːŋ/",
+    "portuguesePhonetic": "[dha mén iz stróN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_55",
+    "word": "My brother is taller than me.",
+    "translation": "Meu irmão é mais alto que eu.",
+    "pronunciation": "/maɪ ˈbrʌðər ɪz ˈtɔːlər ðæn miː/",
+    "portuguesePhonetic": "[mái brâdher iz tóler dhén mí]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_56",
+    "word": "She is younger than her sister.",
+    "translation": "Ela é mais nova que a irmã.",
+    "pronunciation": "/ʃiː ɪz ˈjʌŋɡər ðæn hɜːr ˈsɪstər/",
+    "portuguesePhonetic": "[chí iz iâNguer dhén rrâr síster]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_57",
+    "word": "Is he stronger than you?",
+    "translation": "Ele é mais forte que você?",
+    "pronunciation": "/ɪz hiː ˈstrɔːŋɡər ðæn juː/",
+    "portuguesePhonetic": "[iz rrí stróNguer dhén iú]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_58",
+    "word": "I am not as tall as him.",
+    "translation": "Eu não sou tão alto quanto ele.",
+    "pronunciation": "/aɪ æm nɑːt æz tɔːl æz hɪm/",
+    "portuguesePhonetic": "[ái ém nót éz tól éz rrím]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_59",
+    "word": "Why is she sad?",
+    "translation": "Por que ela está triste?",
+    "pronunciation": "/waɪ ɪz ʃiː sæd/",
+    "portuguesePhonetic": "[uái iz chí séd]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_60",
+    "word": "Are you tired?",
+    "translation": "Você está cansado?",
+    "pronunciation": "/ɑːr juː ˈtaɪərd/",
+    "portuguesePhonetic": "[ár iú táierd]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_61",
+    "word": "He isn't weak; he's strong.",
+    "translation": "Ele não é fraco; é forte.",
+    "pronunciation": "/hiː ˈɪznt wiːk hiːz strɔːŋ/",
+    "portuguesePhonetic": "[rrí íznt uík rríz stróN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_62",
+    "word": "What does your friend look like?",
+    "translation": "Como é seu amigo? (aparência)",
+    "pronunciation": "/wʌt dʌz jɔːr frɛnd lʊk laɪk/",
+    "portuguesePhonetic": "[uât dâz iór frénd lúk láik]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_63",
+    "word": "She is beautiful and very kind.",
+    "translation": "Ela é linda e muito gentil.",
+    "pronunciation": "/ʃiː ɪz ˈbjuːtɪfl̩ ænd ˈvɛri kaɪnd/",
+    "portuguesePhonetic": "[chí iz biútifou énd véri káind]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_64",
+    "word": "He looks young, but he is fifty.",
+    "translation": "Ele parece jovem, mas tem cinquenta.",
+    "pronunciation": "/hiː lʊks jʌŋ bʌt hiː ɪz ˈfɪfti/",
+    "portuguesePhonetic": "[rrí lúks iâN bât rrí iz fífti]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_65",
+    "word": "I was sad yesterday, but I'm happy now.",
+    "translation": "Eu estava triste ontem, mas estou feliz agora.",
+    "pronunciation": "/aɪ wəz sæd ˈjɛstərdeɪ bʌt aɪm ˈhæpi naʊ/",
+    "portuguesePhonetic": "[ái uâz séd iéster dei bât áim rrépi náu]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_66",
+    "word": "My grandfather was strong when he was young.",
+    "translation": "Meu avô era forte quando era jovem.",
+    "pronunciation": "/maɪ ˈɡrænfɑːðər wəz strɔːŋ wɛn hiː wəz jʌŋ/",
+    "portuguesePhonetic": "[mái grénfadher uâz stróN uén rrí uâz iâN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_67",
+    "word": "She became famous because she is talented.",
+    "translation": "Ela ficou famosa porque é talentosa.",
+    "pronunciation": "/ʃiː bɪˈkeɪm ˈfeɪməs bɪˈkɔːz ʃiː ɪz ˈtæləntɪd/",
+    "portuguesePhonetic": "[chí bikêim fêimas bikóz chí iz télentid]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_68",
+    "word": "Although he is old, he is still very strong.",
+    "translation": "Embora ele seja idoso, ainda é muito forte.",
+    "pronunciation": "/ɔːlˈðoʊ hiː ɪz oʊld hiː ɪz stɪl ˈvɛri strɔːŋ/",
+    "portuguesePhonetic": "[oldhôu rrí iz ôuld rrí iz stíou véri stróN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_69",
+    "word": "She is the most beautiful person I know.",
+    "translation": "Ela é a pessoa mais linda que conheço.",
+    "pronunciation": "/ʃiː ɪz ðə moʊst ˈbjuːtɪfl̩ ˈpɜːrsn̩ aɪ noʊ/",
+    "portuguesePhonetic": "[chí iz dha môust biútifou pârsan ái nôu]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_70",
+    "word": "He used to be thin, but now he is heavier.",
+    "translation": "Ele costumava ser magro, mas agora está mais pesado.",
+    "pronunciation": "/hiː juːst tə biː θɪn bʌt naʊ hiː ɪz ˈhɛviər/",
+    "portuguesePhonetic": "[rrí iúst tu bí thín bât náu rrí iz rrévier]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_71",
+    "word": "People say I look like my mother when she was young.",
+    "translation": "As pessoas dizem que eu pareço minha mãe quando ela era jovem.",
+    "pronunciation": "/ˈpiːpl̩ seɪ aɪ lʊk laɪk maɪ ˈmʌðər wɛn ʃiː wəz jʌŋ/",
+    "portuguesePhonetic": "[pípou sêi ái lúk láik mái mâdher uén chí uâz iâN]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_72",
+    "word": "He isn't tall, but he is a great basketball player.",
+    "translation": "Ele não é alto, mas é um ótimo jogador de basquete.",
+    "pronunciation": "/hiː ˈɪznt tɔːl bʌt hiː ɪz ə ɡreɪt ˈbæskɪtbɔːl ˈpleɪər/",
+    "portuguesePhonetic": "[rrí íznt tól bât rrí iz a grêit béskitból plêier]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_73",
+    "word": "My sister is shy, so she doesn't like big parties.",
+    "translation": "Minha irmã é tímida, então não gosta de festas grandes.",
+    "pronunciation": "/maɪ ˈsɪstər ɪz ʃaɪ soʊ ʃiː ˈdʌznt laɪk bɪɡ ˈpɑːrtiz/",
+    "portuguesePhonetic": "[mái síster iz chái sôu chí dâznt láik bíg pártiz]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_74",
+    "word": "Have you noticed how happy she looks today?",
+    "translation": "Você reparou como ela parece feliz hoje?",
+    "pronunciation": "/hæv juː ˈnoʊtɪst haʊ ˈhæpi ʃiː lʊks təˈdeɪ/",
+    "portuguesePhonetic": "[rrév iú nôutist rráu rrépi chí lúks tudêi]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_75",
+    "word": "He is strong and healthy because he exercises every day.",
+    "translation": "Ele é forte e saudável porque se exercita todo dia.",
+    "pronunciation": "/hiː ɪz strɔːŋ ænd ˈhɛlθi bɪˈkɔːz hiː ˈɛksərsaɪzɪz ˈɛvri deɪ/",
+    "portuguesePhonetic": "[rrí iz stróN énd rrélthi bikóz rrí éksersaiziz évri dêi]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_76",
+    "word": "\"Is your brother tall?\" / \"Yes, very tall.\"",
+    "translation": "\"Seu irmão é alto?\" / \"Sim, muito alto.\"",
+    "pronunciation": "/ɪz jɔːr ˈbrʌðər tɔːl · jɛs ˈvɛri tɔːl/",
+    "portuguesePhonetic": "[iz iór brâdher tól · iés véri tól]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_77",
+    "word": "\"Why are you sad?\" / \"I lost my keys.\"",
+    "translation": "\"Por que você está triste?\" / \"Perdi minhas chaves.\"",
+    "pronunciation": "/waɪ ɑːr juː sæd · aɪ lɔːst maɪ kiːz/",
+    "portuguesePhonetic": "[uái ár iú séd · ái lóst mái kíz]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_78",
+    "word": "\"Is she young?\" / \"No, she's quite old.\"",
+    "translation": "\"Ela é jovem?\" / \"Não, é bem idosa.\"",
+    "pronunciation": "/ɪz ʃiː jʌŋ · noʊ ʃiːz kwaɪt oʊld/",
+    "portuguesePhonetic": "[iz chí iâN · nôu chíz kuáit ôuld]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_79",
+    "word": "\"Are you happy?\" / \"Yes, very happy.\"",
+    "translation": "\"Você está feliz?\" / \"Sim, muito feliz.\"",
+    "pronunciation": "/ɑːr juː ˈhæpi · jɛs ˈvɛri ˈhæpi/",
+    "portuguesePhonetic": "[ár iú rrépi · iés véri rrépi]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_80",
+    "word": "\"Is he strong?\" / \"Yes, he works out a lot.\"",
+    "translation": "\"Ele é forte?\" / \"Sim, ele treina muito.\"",
+    "pronunciation": "/ɪz hiː strɔːŋ · jɛs hiː wɜːrks aʊt ə lɑːt/",
+    "portuguesePhonetic": "[iz rrí stróN · iés rrí uârks áut a lót]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_81",
+    "word": "\"Do you feel weak?\" / \"A little, yes.\"",
+    "translation": "\"Você se sente fraco?\" / \"Um pouco, sim.\"",
+    "pronunciation": "/duː juː fiːl wiːk · ə ˈlɪtl̩ jɛs/",
+    "portuguesePhonetic": "[dú iú fíou uík · a lítou iés]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_82",
+    "word": "\"What does she look like?\" / \"She's tall and thin.\"",
+    "translation": "\"Como ela é?\" / \"Ela é alta e magra.\"",
+    "pronunciation": "/wʌt dʌz ʃiː lʊk laɪk · ʃiːz tɔːl ænd θɪn/",
+    "portuguesePhonetic": "[uât dâz chí lúk láik · chíz tól énd thín]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_83",
+    "word": "\"Is he handsome?\" / \"Yes, I think so.\"",
+    "translation": "\"Ele é bonito?\" / \"Sim, acho que sim.\"",
+    "pronunciation": "/ɪz hiː ˈhænsəm · jɛs aɪ θɪŋk soʊ/",
+    "portuguesePhonetic": "[iz rrí rrénsam · iés ái thínk sôu]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_84",
+    "word": "\"Are they friendly?\" / \"Yes, very.\"",
+    "translation": "\"Eles são simpáticos?\" / \"Sim, muito.\"",
+    "pronunciation": "/ɑːr ðeɪ ˈfrɛndli · jɛs ˈvɛri/",
+    "portuguesePhonetic": "[ár dhêi fréndli · iés véri]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_85",
+    "word": "\"Is your dog big?\" / \"No, it's small.\"",
+    "translation": "\"Seu cachorro é grande?\" / \"Não, é pequeno.\"",
+    "pronunciation": "/ɪz jɔːr dɔːɡ bɪɡ · noʊ ɪts smɔːl/",
+    "portuguesePhonetic": "[iz iór dóg bíg · nôu íts smól]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_86",
+    "word": "\"Is she beautiful?\" / \"Yes, absolutely.\"",
+    "translation": "\"Ela é linda?\" / \"Sim, com certeza.\"",
+    "pronunciation": "/ɪz ʃiː ˈbjuːtɪfl̩ · jɛs ˌæbsəˈluːtli/",
+    "portuguesePhonetic": "[iz chí biútifou · iés ébsalutli]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_87",
+    "word": "\"Are you tired?\" / \"Yes, I need to sleep.\"",
+    "translation": "\"Você está cansado?\" / \"Sim, preciso dormir.\"",
+    "pronunciation": "/ɑːr juː ˈtaɪərd · jɛs aɪ niːd tə sliːp/",
+    "portuguesePhonetic": "[ár iú táierd · iés ái níd tu slíp]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_88",
+    "word": "\"Is your teacher kind?\" / \"Yes, she is.\"",
+    "translation": "\"Sua professora é gentil?\" / \"Sim, é.\"",
+    "pronunciation": "/ɪz jɔːr ˈtiːtʃər kaɪnd · jɛs ʃiː ɪz/",
+    "portuguesePhonetic": "[iz iór títcher káind · iés chí iz]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_89",
+    "word": "\"Is he shy?\" / \"A little, around new people.\"",
+    "translation": "\"Ele é tímido?\" / \"Um pouco, perto de gente nova.\"",
+    "pronunciation": "/ɪz hiː ʃaɪ · ə ˈlɪtl̩ əˈraʊnd nuː ˈpiːpl̩/",
+    "portuguesePhonetic": "[iz rrí chái · a lítou aráund niú pípou]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_90",
+    "word": "\"Who is taller, you or your brother?\" / \"My brother is.\"",
+    "translation": "\"Quem é mais alto, você ou seu irmão?\" / \"Meu irmão.\"",
+    "pronunciation": "/huː ɪz ˈtɔːlər juː ɔːr jɔːr ˈbrʌðər · maɪ ˈbrʌðər ɪz/",
+    "portuguesePhonetic": "[rrú iz tóler iú ór iór brâdher · mái brâdher iz]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_91",
+    "word": "\"Is your grandmother old?\" / \"Yes, she's eighty.\"",
+    "translation": "\"Sua avó é idosa?\" / \"Sim, ela tem oitenta.\"",
+    "pronunciation": "/ɪz jɔːr ˈɡrænmʌðər oʊld · jɛs ʃiːz ˈeɪti/",
+    "portuguesePhonetic": "[iz iór grénmadher ôuld · iés chíz êiti]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_92",
+    "word": "\"Are you healthy?\" / \"Yes, I exercise daily.\"",
+    "translation": "\"Você é saudável?\" / \"Sim, me exercito todo dia.\"",
+    "pronunciation": "/ɑːr juː ˈhɛlθi · jɛs aɪ ˈɛksərsaɪz ˈdeɪli/",
+    "portuguesePhonetic": "[ár iú rrélthi · iés ái éksersaiz dêili]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_93",
+    "word": "\"Is he funny?\" / \"Yes, he makes me laugh.\"",
+    "translation": "\"Ele é engraçado?\" / \"Sim, ele me faz rir.\"",
+    "pronunciation": "/ɪz hiː ˈfʌni · jɛs hiː meɪks miː læf/",
+    "portuguesePhonetic": "[iz rrí fâni · iés rrí mêiks mí léf]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_94",
+    "word": "\"Is she smart?\" / \"Yes, very intelligent.\"",
+    "translation": "\"Ela é inteligente?\" / \"Sim, muito inteligente.\"",
+    "pronunciation": "/ɪz ʃiː smɑːrt · jɛs ˈvɛri ɪnˈtɛlɪdʒənt/",
+    "portuguesePhonetic": "[iz chí smárt · iés véri intélidjant]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_95",
+    "word": "\"Are you strong enough?\" / \"I think so.\"",
+    "translation": "\"Você é forte o suficiente?\" / \"Acho que sim.\"",
+    "pronunciation": "/ɑːr juː strɔːŋ ɪˈnʌf · aɪ θɪŋk soʊ/",
+    "portuguesePhonetic": "[ár iú stróN inâf · ái thínk sôu]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_96",
+    "word": "\"Does he look young?\" / \"Yes, younger than his age.\"",
+    "translation": "\"Ele parece jovem?\" / \"Sim, mais jovem do que a idade dele.\"",
+    "pronunciation": "/dʌz hiː lʊk jʌŋ · jɛs ˈjʌŋɡər ðæn hɪz eɪdʒ/",
+    "portuguesePhonetic": "[dâz rrí lúk iâN · iés iâNguer dhén rriz êidj]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_97",
+    "word": "\"Is the baby small?\" / \"Yes, just two months old.\"",
+    "translation": "\"O bebê é pequeno?\" / \"Sim, tem só dois meses.\"",
+    "pronunciation": "/ɪz ðə ˈbeɪbi smɔːl · jɛs dʒʌst tuː mʌnθs oʊld/",
+    "portuguesePhonetic": "[iz dha bêibi smól · iés djâst tú mânths ôuld]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_98",
+    "word": "\"Is your friend nice?\" / \"Yes, very nice.\"",
+    "translation": "\"Seu amigo é legal?\" / \"Sim, muito legal.\"",
+    "pronunciation": "/ɪz jɔːr frɛnd naɪs · jɛs ˈvɛri naɪs/",
+    "portuguesePhonetic": "[iz iór frénd náis · iés véri náis]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_99",
+    "word": "\"Are you thin or fat?\" / \"I'm pretty thin.\"",
+    "translation": "\"Você é magro ou gordo?\" / \"Eu sou bem magro.\"",
+    "pronunciation": "/ɑːr juː θɪn ɔːr fæt · aɪm ˈprɪti θɪn/",
+    "portuguesePhonetic": "[ár iú thín ór fét · áim príti thín]"
+  },
+  {
+    "id": "lesson_4_vocabulary_a1_en_card_100",
+    "word": "\"Is she prettier than her sister?\" / \"They're both pretty.\"",
+    "translation": "\"Ela é mais bonita que a irmã?\" / \"As duas são bonitas.\"",
+    "pronunciation": "/ɪz ʃiː ˈprɪtiər ðæn hɜːr ˈsɪstər · ðer boʊθ ˈprɪti/",
+    "portuguesePhonetic": "[iz chí prítier dhén rrâr síster · dhér bôuth príti]"
+  }
+]

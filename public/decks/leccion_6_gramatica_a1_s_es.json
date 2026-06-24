@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_1",
+    "word": "(Yo) trabajo",
+    "translation": "Eu trabalho",
+    "pronunciation": "/ˈʝo tɾaˈβaxo/",
+    "portuguesePhonetic": "[iô trabárro]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_2",
+    "word": "(Tú) trabajas",
+    "translation": "Você trabalha",
+    "pronunciation": "/tu tɾaˈβaxas/",
+    "portuguesePhonetic": "[tu trabárras]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_3",
+    "word": "(Él) trabaja",
+    "translation": "Ele trabalha",
+    "pronunciation": "/el tɾaˈβaxa/",
+    "portuguesePhonetic": "[él trabárra]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_4",
+    "word": "(Ella) trabaja",
+    "translation": "Ela trabalha",
+    "pronunciation": "/ˈeʎa tɾaˈβaxa/",
+    "portuguesePhonetic": "[élha trabárra]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_5",
+    "word": "Funciona",
+    "translation": "Funciona (coisa)",
+    "pronunciation": "/funˈθjona/",
+    "portuguesePhonetic": "[funthióna]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_6",
+    "word": "(Nosotros) trabajamos",
+    "translation": "Nós trabalhamos",
+    "pronunciation": "/noˈsotɾos tɾaβaˈxamos/",
+    "portuguesePhonetic": "[nosótros trabarrámos]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_7",
+    "word": "(Vosotros) trabajáis",
+    "translation": "Vocês trabalham (Espanha)",
+    "pronunciation": "/boˈsotɾos tɾaβaˈxais/",
+    "portuguesePhonetic": "[bosótros trabarráis]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_8",
+    "word": "(Ellos) trabajan",
+    "translation": "Eles trabalham",
+    "pronunciation": "/ˈeʎos tɾaˈβaxan/",
+    "portuguesePhonetic": "[élhos trabárran]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_9",
+    "word": "(Yo) no trabajo",
+    "translation": "Eu não trabalho",
+    "pronunciation": "/no tɾaˈβaxo/",
+    "portuguesePhonetic": "[no trabárro]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_10",
+    "word": "(Tú) no trabajas",
+    "translation": "Você não trabalha",
+    "pronunciation": "/no tɾaˈβaxas/",
+    "portuguesePhonetic": "[no trabárras]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_11",
+    "word": "(Él) no trabaja",
+    "translation": "Ele não trabalha",
+    "pronunciation": "/no tɾaˈβaxa/",
+    "portuguesePhonetic": "[no trabárra]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_12",
+    "word": "No funciona",
+    "translation": "Não funciona",
+    "pronunciation": "/no funˈθjona/",
+    "portuguesePhonetic": "[no funthióna]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_13",
+    "word": "(Nosotros) no trabajamos",
+    "translation": "Nós não trabalhamos",
+    "pronunciation": "/no tɾaβaˈxamos/",
+    "portuguesePhonetic": "[no trabarrámos]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_14",
+    "word": "(Ellos) no trabajan",
+    "translation": "Eles não trabalham",
+    "pronunciation": "/no tɾaˈβaxan/",
+    "portuguesePhonetic": "[no trabárran]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_15",
+    "word": "¿Trabajo?",
+    "translation": "Eu trabalho?",
+    "pronunciation": "/tɾaˈβaxo/",
+    "portuguesePhonetic": "[trabárro]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_16",
+    "word": "¿Trabajas?",
+    "translation": "Você trabalha?",
+    "pronunciation": "/tɾaˈβaxas/",
+    "portuguesePhonetic": "[trabárras]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_17",
+    "word": "¿Trabaja él?",
+    "translation": "Ele trabalha?",
+    "pronunciation": "/tɾaˈβaxa el/",
+    "portuguesePhonetic": "[trabárra él]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_18",
+    "word": "¿Trabaja ella?",
+    "translation": "Ela trabalha?",
+    "pronunciation": "/tɾaˈβaxa ˈeʎa/",
+    "portuguesePhonetic": "[trabárra élha]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_19",
+    "word": "¿Trabajamos?",
+    "translation": "Nós trabalhamos?",
+    "pronunciation": "/tɾaβaˈxamos/",
+    "portuguesePhonetic": "[trabarrámos]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_20",
+    "word": "¿Trabajan?",
+    "translation": "Eles trabalham?",
+    "pronunciation": "/tɾaˈβaxan/",
+    "portuguesePhonetic": "[trabárran]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_21",
+    "word": "Sí, trabajo.",
+    "translation": "Sim. (eu trabalho)",
+    "pronunciation": "/si tɾaˈβaxo/",
+    "portuguesePhonetic": "[sí trabárro]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_22",
+    "word": "Sí, trabaja.",
+    "translation": "Sim. (ele trabalha)",
+    "pronunciation": "/si tɾaˈβaxa/",
+    "portuguesePhonetic": "[sí trabárra]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_23",
+    "word": "No, no trabajo.",
+    "translation": "Não. (eu não trabalho)",
+    "pronunciation": "/no no tɾaˈβaxo/",
+    "portuguesePhonetic": "[no no trabárro]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_24",
+    "word": "No, no trabaja.",
+    "translation": "Não. (ele não trabalha)",
+    "pronunciation": "/no no tɾaˈβaxa/",
+    "portuguesePhonetic": "[no no trabárra]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_25",
+    "word": "En español no se usa \"do/does\".",
+    "translation": "Em espanhol não se usa \"do/does\".",
+    "pronunciation": "/en espaˈɲol no se ˈusa/",
+    "portuguesePhonetic": "[en espánhol no se úsa]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_26",
+    "word": "Trabajo en una oficina.",
+    "translation": "Eu trabajo num escritório.",
+    "pronunciation": "/tɾaˈβaxo en una ofiˈθina/",
+    "portuguesePhonetic": "[trabárro en úna ofithína]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_27",
+    "word": "Ella trabaja en un hospital.",
+    "translation": "Ela trabalha num hospital.",
+    "pronunciation": "/ˈeʎa tɾaˈβaxa en un ospiˈtal/",
+    "portuguesePhonetic": "[élha trabárra en un ospitál]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_28",
+    "word": "Él empieza a las nueve.",
+    "translation": "Ele começa às nove.",
+    "pronunciation": "/el emˈpjeθa a las ˈnweβe/",
+    "portuguesePhonetic": "[él empiétha a las nuébe]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_29",
+    "word": "Terminamos a las cinco.",
+    "translation": "Nós terminamos às cinco.",
+    "pronunciation": "/teɾmiˈnamos a las ˈθiŋko/",
+    "portuguesePhonetic": "[terminámos a las thínko]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_30",
+    "word": "Ellos trabajan desde casa.",
+    "translation": "Eles trabalham de casa.",
+    "pronunciation": "/ˈeʎos tɾaˈβaxan ˈdezðe ˈkasa/",
+    "portuguesePhonetic": "[élhos trabárran désde kása]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_31",
+    "word": "Me despierto temprano.",
+    "translation": "Eu acordo cedo.",
+    "pronunciation": "/me desˈpjeɾto temˈpɾano/",
+    "portuguesePhonetic": "[me despiérto tempráno]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_32",
+    "word": "Ella toma café cada mañana.",
+    "translation": "Ela toma café toda manhã.",
+    "pronunciation": "/ˈeʎa ˈtoma kaˈfe ˈkaða maˈɲana/",
+    "portuguesePhonetic": "[élha tóma kafé káda manhána]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_33",
+    "word": "Él coge el autobús al trabajo.",
+    "translation": "Ele pega o ônibus para o trabalho.",
+    "pronunciation": "/el ˈkoxe el awtoˈβus al tɾaˈβaxo/",
+    "portuguesePhonetic": "[él kórre el autobús al trabárro]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_34",
+    "word": "Desayunamos juntos.",
+    "translation": "Nós tomamos café da manhã juntos.",
+    "pronunciation": "/desaʝuˈnamos ˈxuntos/",
+    "portuguesePhonetic": "[desaiunámos rrúntos]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_35",
+    "word": "Juego al fútbol los fines de semana.",
+    "translation": "Eu jogo futebol nos fins de semana.",
+    "pronunciation": "/ˈxweɣo al ˈfutβol los ˈfines de seˈmana/",
+    "portuguesePhonetic": "[rruégo al fútbol los fínes de semána]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_36",
+    "word": "Ella lee antes de dormir.",
+    "translation": "Ela lê antes de dormir.",
+    "pronunciation": "/ˈeʎa ˈlee ˈantes de doɾˈmiɾ/",
+    "portuguesePhonetic": "[élha lée ántes de dormír]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_37",
+    "word": "Él ve la tele por la noche.",
+    "translation": "Ele assiste TV à noite.",
+    "pronunciation": "/el be la ˈtele poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "[él be la téle por la nótche]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_38",
+    "word": "Van al gimnasio.",
+    "translation": "Eles vão à academia.",
+    "pronunciation": "/ban al ximˈnasjo/",
+    "portuguesePhonetic": "[ban al rrimnásio]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_39",
+    "word": "¿Vives cerca de aquí?",
+    "translation": "Você mora perto daqui?",
+    "pronunciation": "/ˈbiβes ˈθeɾka de aˈki/",
+    "portuguesePhonetic": "[bíbes thérka de akí]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_40",
+    "word": "¿Habla inglés?",
+    "translation": "Ela fala inglês?",
+    "pronunciation": "/ˈaβla iŋˈɡles/",
+    "portuguesePhonetic": "[ábla inglés]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_41",
+    "word": "¿A qué hora empiezas a trabajar?",
+    "translation": "A que horas você começa a trabajar?",
+    "pronunciation": "/a ke ˈoɾa emˈpjeθas a tɾaβaˈxaɾ/",
+    "portuguesePhonetic": "[a ké óra empiéthas a trabarrár]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_42",
+    "word": "¿Dónde vive?",
+    "translation": "Onde ele mora?",
+    "pronunciation": "/ˈdonde ˈbiβe/",
+    "portuguesePhonetic": "[dônde bíbe]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_43",
+    "word": "No tomo café.",
+    "translation": "Eu não tomo café.",
+    "pronunciation": "/no ˈtomo kaˈfe/",
+    "portuguesePhonetic": "[no tómo kafé]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_44",
+    "word": "Él no come carne.",
+    "translation": "Ele não come carne.",
+    "pronunciation": "/el no ˈkome ˈkaɾne/",
+    "portuguesePhonetic": "[él no kóme kárne]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_45",
+    "word": "No trabajamos los domingos.",
+    "translation": "Nós não trabalhamos aos domingos.",
+    "pronunciation": "/no tɾaβaˈxamos los doˈmiŋɡos/",
+    "portuguesePhonetic": "[no trabarrámos los domíngos]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_46",
+    "word": "Este móvil no funciona.",
+    "translation": "Este celular não funciona.",
+    "pronunciation": "/ˈeste ˈmoβil no funˈθjona/",
+    "portuguesePhonetic": "[éste móbil no funthióna]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_47",
+    "word": "El ascensor funciona ahora.",
+    "translation": "O elevador funciona agora.",
+    "pronunciation": "/el asˈθensoɾ funˈθjona aˈoɾa/",
+    "portuguesePhonetic": "[el asthensór funthióna aóra]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_48",
+    "word": "La tienda abre a las ocho.",
+    "translation": "A loja abre às oito.",
+    "pronunciation": "/la ˈtjenda ˈaβɾe a las ˈotʃo/",
+    "portuguesePhonetic": "[la tiénda ábre a las ótcho]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_49",
+    "word": "Cierra a las diez.",
+    "translation": "Fecha às dez.",
+    "pronunciation": "/ˈθjera a las djeθ/",
+    "portuguesePhonetic": "[thiérra a las diéth]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_50",
+    "word": "El tren sale puntual.",
+    "translation": "O trem sai na hora.",
+    "pronunciation": "/el tɾen ˈsale punˈtwal/",
+    "portuguesePhonetic": "[el trén sále puntuál]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_51",
+    "word": "Trabajo cada día.",
+    "translation": "Eu trabalho todo dia.",
+    "pronunciation": "/tɾaˈβaxo ˈkaða ˈdia/",
+    "portuguesePhonetic": "[trabárro káda día]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_52",
+    "word": "A ella le gusta el café.",
+    "translation": "Ela gosta de café.",
+    "pronunciation": "/a ˈeʎa le ˈɡusta el kaˈfe/",
+    "portuguesePhonetic": "[a élha le gústa el kafé]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_53",
+    "word": "Él toca la guitarra.",
+    "translation": "Ele toca violão.",
+    "pronunciation": "/el ˈtoka la ɡiˈtara/",
+    "portuguesePhonetic": "[él tóka la guitárra]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_54",
+    "word": "Estudiamos inglés.",
+    "translation": "Nós estudamos inglês.",
+    "pronunciation": "/estuˈðjamos iŋˈɡles/",
+    "portuguesePhonetic": "[estudiámos inglés]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_55",
+    "word": "Siempre me despierto temprano.",
+    "translation": "Eu sempre acordo cedo.",
+    "pronunciation": "/ˈsjempɾe me desˈpjeɾto temˈpɾano/",
+    "portuguesePhonetic": "[siémpre me despiérto tempráno]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_56",
+    "word": "Ella suele trabajar hasta tarde.",
+    "translation": "Ela geralmente trabalha até tarde.",
+    "pronunciation": "/ˈeʎa ˈswele tɾaβaˈxaɾ ˈasta ˈtaɾðe/",
+    "portuguesePhonetic": "[élha suéle trabarrár ásta tárde]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_57",
+    "word": "Él nunca desayuna.",
+    "translation": "Ele nunca toma café da manhã.",
+    "pronunciation": "/el ˈnuŋka desaˈʝuna/",
+    "portuguesePhonetic": "[él núnka desaiúna]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_58",
+    "word": "Nos visitan a menudo.",
+    "translation": "Eles nos visitam com frequência.",
+    "pronunciation": "/nos biˈsitan a meˈnuðo/",
+    "portuguesePhonetic": "[nos bisítan a menúdo]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_59",
+    "word": "¿Trabajas los sábados?",
+    "translation": "Você trabalha aos sábados?",
+    "pronunciation": "/tɾaˈβaxas los ˈsaβaðos/",
+    "portuguesePhonetic": "[trabárras los sábados]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_60",
+    "word": "¿Entiende español?",
+    "translation": "Ele entende espanhol?",
+    "pronunciation": "/enˈtjende espaˈɲol/",
+    "portuguesePhonetic": "[entiénde espánhol]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_61",
+    "word": "A ella no le gusta la ciudad.",
+    "translation": "Ela não gosta da cidade.",
+    "pronunciation": "/a ˈeʎa no le ˈɡusta la θjuˈðað/",
+    "portuguesePhonetic": "[a élha no le gústa la thiudád]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_62",
+    "word": "¿Por qué trabaja tanto?",
+    "translation": "Por que ele trabalha tanto?",
+    "pronunciation": "/poɾ ke tɾaˈβaxa ˈtanto/",
+    "portuguesePhonetic": "[por ké trabárra tánto]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_63",
+    "word": "Trabajo porque necesito dinero.",
+    "translation": "Eu trabalho porque preciso de dinheiro.",
+    "pronunciation": "/tɾaˈβaxo ˈpoɾke neθeˈsito diˈneɾo/",
+    "portuguesePhonetic": "[trabárro pórke nethesíto dinéro]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_64",
+    "word": "Ella estudia cuando tiene tiempo.",
+    "translation": "Ela estuda quando tem tempo.",
+    "pronunciation": "/ˈeʎa esˈtuðja ˈkwando ˈtjene ˈtjempo/",
+    "portuguesePhonetic": "[élha estúdia kuándo tiéne tiémpo]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_65",
+    "word": "Él trabaja mucho, pero gana poco.",
+    "translation": "Ele trabalha duro, mas ganha pouco.",
+    "pronunciation": "/el tɾaˈβaxa ˈmutʃo ˈpeɾo ˈɡana ˈpoko/",
+    "portuguesePhonetic": "[él trabárra mútcho péro gána póko]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_66",
+    "word": "No trabajamos en festivos, así que descansamos.",
+    "translation": "Não trabalhamos nos feriados, então relaxamos.",
+    "pronunciation": "/no tɾaβaˈxamos en fesˈtiβos aˈsi ke deskanˈsamos/",
+    "portuguesePhonetic": "[no trabarrámos en festíbos así ke deskansámos]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_67",
+    "word": "Cuando la tienda abre, la gente entra.",
+    "translation": "Quando a loja abre, as pessoas entram.",
+    "pronunciation": "/ˈkwando la ˈtjenda ˈaβɾe la ˈxente ˈentɾa/",
+    "portuguesePhonetic": "[kuándo la tiénda ábre la rrénte éntra]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_68",
+    "word": "Ella trabaja en un banco, pero quiere cambiar de trabajo.",
+    "translation": "Ela trabalha num banco, mas quer mudar de emprego.",
+    "pronunciation": "/ˈeʎa tɾaˈβaxa en un ˈbaŋko ˈpeɾo ˈkjeɾe kamˈbjaɾ de tɾaˈβaxo/",
+    "portuguesePhonetic": "[élha trabárra en un bánko péro kiére kambiár de trabárro]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_69",
+    "word": "Él no come carne porque es vegetariano.",
+    "translation": "Ele não come carne porque é vegetariano.",
+    "pronunciation": "/el no ˈkome ˈkaɾne ˈpoɾke es bexetaˈɾjano/",
+    "portuguesePhonetic": "[él no kóme kárne pórke és berretariáno]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_70",
+    "word": "Si no funciona, llamaremos a un técnico.",
+    "translation": "Se não funcionar, vamos chamar um técnico.",
+    "pronunciation": "/si no funˈθjona ʎamaˈɾemos a un ˈtekniko/",
+    "portuguesePhonetic": "[si no funthióna lhamarémos a un tékniko]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_71",
+    "word": "¿Sabes a qué hora abre el museo?",
+    "translation": "Você sabe a que horas o museu abre?",
+    "pronunciation": "/ˈsaβes a ke ˈoɾa ˈaβɾe el muˈseo/",
+    "portuguesePhonetic": "[sábes a ké óra ábre el muséo]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_72",
+    "word": "Él nunca se queja, ni siquiera cuando está cansado.",
+    "translation": "Ele nunca reclama, mesmo quando está cansado.",
+    "pronunciation": "/el ˈnuŋka se ˈkexa ni siˈkjeɾa ˈkwando esˈta kanˈsaðo/",
+    "portuguesePhonetic": "[él núnka se kérra ni sikiéra kuándo está kansádo]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_73",
+    "word": "Mi ordenador no funciona, así que uso el móvil.",
+    "translation": "Meu computador não funciona, então uso meu celular.",
+    "pronunciation": "/mi oɾðenaˈðoɾ no funˈθjona aˈsi ke ˈuso el ˈmoβil/",
+    "portuguesePhonetic": "[mi ordenadór no funthióna así ke úso el móbil]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_74",
+    "word": "¿De verdad habla cuatro idiomas con fluidez?",
+    "translation": "Ela realmente fala quatro idiomas fluentemente?",
+    "pronunciation": "/de beɾˈðað ˈaβla ˈkwatɾo iˈðjomas kon flwiˈðeθ/",
+    "portuguesePhonetic": "[de berdád ábla kuátro idiómas kon fluidéth]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_75",
+    "word": "Trabajan juntos, pero viven en ciudades diferentes.",
+    "translation": "Eles trabalham juntos, mas moram em cidades diferentes.",
+    "pronunciation": "/tɾaˈβaxan ˈxuntos ˈpeɾo ˈbiβen en θjuˈðaðes difeˈɾentes/",
+    "portuguesePhonetic": "[trabárran rrúntos péro bíben en thiudádes diferéntes]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_76",
+    "word": "«¿Trabajas aquí?» / «Sí, trabajo aquí.»",
+    "translation": "\"Você trabalha aqui?\" / \"Sim, trabalho aqui.\"",
+    "pronunciation": "/tɾaˈβaxas aˈki · si tɾaˈβaxo aˈki/",
+    "portuguesePhonetic": "[trabárras akí · sí trabárro akí]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_77",
+    "word": "«¿Trabaja los fines de semana?» / «No, no trabaja.»",
+    "translation": "\"Ela trabalha nos fins de semana?\" / \"Não, não trabalha.\"",
+    "pronunciation": "/tɾaˈβaxa los ˈfines de seˈmana · no no tɾaˈβaxa/",
+    "portuguesePhonetic": "[trabárra los fínes de semána · no no trabárra]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_78",
+    "word": "«¿Dónde trabajas?» / «En un hospital.»",
+    "translation": "\"Onde você trabalha?\" / \"Num hospital.\"",
+    "pronunciation": "/ˈdonde tɾaˈβaxas · en un ospiˈtal/",
+    "portuguesePhonetic": "[dônde trabárras · en un ospitál]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_79",
+    "word": "«¿Habla inglés?» / «Sí, un poco.»",
+    "translation": "\"Ela fala inglês?\" / \"Sim, um pouco.\"",
+    "pronunciation": "/ˈaβla iŋˈɡles · si un ˈpoko/",
+    "portuguesePhonetic": "[ábla inglés · sí un póko]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_80",
+    "word": "«¿Viven cerca?» / «No, no viven cerca.»",
+    "translation": "\"Eles moram perto?\" / \"Não, não moram perto.\"",
+    "pronunciation": "/ˈbiβen ˈθeɾka · no no ˈbiβen ˈθeɾka/",
+    "portuguesePhonetic": "[bíben thérka · no no bíben thérka]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_81",
+    "word": "«¿A qué hora empiezas?» / «A las nueve.»",
+    "translation": "\"A que horas você começa?\" / \"Às nove.\"",
+    "pronunciation": "/a ke ˈoɾa emˈpjeθas · a las ˈnweβe/",
+    "portuguesePhonetic": "[a ké óra empiéthas · a las nuébe]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_82",
+    "word": "«¿Esto funciona?» / «No, no funciona.»",
+    "translation": "\"Isto funciona?\" / \"Não, não funciona.\"",
+    "pronunciation": "/ˈesto funˈθjona · no no funˈθjona/",
+    "portuguesePhonetic": "[ésto funthióna · no no funthióna]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_83",
+    "word": "«¿Te gusta tu trabajo?» / «Sí, me encanta.»",
+    "translation": "\"Você gosta do seu trabalho?\" / \"Sim, eu adoro.\"",
+    "pronunciation": "/te ˈɡusta tu tɾaˈβaxo · si me eŋˈkanta/",
+    "portuguesePhonetic": "[te gústa tu trabárro · sí me enkánta]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_84",
+    "word": "«¿Va en coche al trabajo?» / «No, coge el autobús.»",
+    "translation": "\"Ela vai de carro pro trabalho?\" / \"Não, pega o ônibus.\"",
+    "pronunciation": "/ba en ˈkotʃe al tɾaˈβaxo · no ˈkoxe el awtoˈβus/",
+    "portuguesePhonetic": "[ba en kótche al trabárro · no kórre el autobús]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_85",
+    "word": "«¿Tenemos clase hoy?» / «Sí, tenemos.»",
+    "translation": "\"Temos aula hoje?\" / \"Sim, temos.\"",
+    "pronunciation": "/teˈnemos ˈklase oi · si teˈnemos/",
+    "portuguesePhonetic": "[tenémos kláse ôi · sí tenémos]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_86",
+    "word": "«¿A qué se dedica?» / «Es profesor.»",
+    "translation": "\"O que ele faz?\" / \"Ele é professor.\"",
+    "pronunciation": "/a ke se deˈðika · es pɾofeˈsoɾ/",
+    "portuguesePhonetic": "[a ké se dedíka · és profesór]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_87",
+    "word": "«¿Funciona ahora?» / «Sí, funciona.»",
+    "translation": "\"Funciona agora?\" / \"Sim, funciona.\"",
+    "pronunciation": "/funˈθjona aˈoɾa · si funˈθjona/",
+    "portuguesePhonetic": "[funthióna aóra · sí funthióna]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_88",
+    "word": "«¿Tomas café?» / «No, no tomo.»",
+    "translation": "\"Você toma café?\" / \"Não, não tomo.\"",
+    "pronunciation": "/ˈtomas kaˈfe · no no ˈtomo/",
+    "portuguesePhonetic": "[tómas kafé · no no tómo]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_89",
+    "word": "«¿La tienda abre temprano?» / «Sí, a las ocho.»",
+    "translation": "\"A loja abre cedo?\" / \"Sim, às oito.\"",
+    "pronunciation": "/la ˈtjenda ˈaβɾe temˈpɾano · si a las ˈotʃo/",
+    "portuguesePhonetic": "[la tiénda ábre tempráno · sí a las ótcho]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_90",
+    "word": "«¿Estudian cada día?» / «Sí, estudian.»",
+    "translation": "\"Eles estudam todo dia?\" / \"Sim, estudam.\"",
+    "pronunciation": "/esˈtuðjan ˈkaða ˈdia · si esˈtuðjan/",
+    "portuguesePhonetic": "[estúdian káda día · sí estúdian]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_91",
+    "word": "«¿Trabaja tu hermano?» / «No, es estudiante.»",
+    "translation": "\"Seu irmão trabalha?\" / \"Não, é estudante.\"",
+    "pronunciation": "/tɾaˈβaxa tu eɾˈmano · no es estuˈðjante/",
+    "portuguesePhonetic": "[trabárra tu ermáno · no és estudiánte]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_92",
+    "word": "«¿A qué hora cierra?» / «A las diez.»",
+    "translation": "\"A que horas fecha?\" / \"Às dez.\"",
+    "pronunciation": "/a ke ˈoɾa ˈθjera · a las djeθ/",
+    "portuguesePhonetic": "[a ké óra thiérra · a las diéth]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_93",
+    "word": "«¿Entiendes?» / «Sí, entiendo.»",
+    "translation": "\"Você entende?\" / \"Sim, entendo.\"",
+    "pronunciation": "/enˈtjendes · si enˈtjendo/",
+    "portuguesePhonetic": "[entiéndes · sí entiéndo]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_94",
+    "word": "«¿Le gusta la ciudad?» / «No, no le gusta.»",
+    "translation": "\"Ela gosta da cidade?\" / \"Não, não gosta.\"",
+    "pronunciation": "/le ˈɡusta la θjuˈðað · no no le ˈɡusta/",
+    "portuguesePhonetic": "[le gústa la thiudád · no no le gústa]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_95",
+    "word": "«¿Trabajan desde casa?» / «Sí, trabajan desde casa.»",
+    "translation": "\"Eles trabalham de casa?\" / \"Sim, trabalham de casa.\"",
+    "pronunciation": "/tɾaˈβaxan ˈdezðe ˈkasa · si tɾaˈβaxan ˈdezðe ˈkasa/",
+    "portuguesePhonetic": "[trabárran désde kása · sí trabárran désde kása]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_96",
+    "word": "«¿Come carne?» / «No, no come.»",
+    "translation": "\"Ele come carne?\" / \"Não, não come.\"",
+    "pronunciation": "/ˈkome ˈkaɾne · no no ˈkome/",
+    "portuguesePhonetic": "[kóme kárne · no no kóme]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_97",
+    "word": "«¿Practicas algún deporte?» / «Sí, juego al tenis.»",
+    "translation": "\"Você pratica algum esporte?\" / \"Sim, jogo tênis.\"",
+    "pronunciation": "/pɾakˈtikas alˈɣun deˈpoɾte · si ˈxweɣo al ˈtenis/",
+    "portuguesePhonetic": "[praktíkas algún depórte · sí rruégo al ténis]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_98",
+    "word": "«¿El autobús para aquí?» / «Sí, para aquí.»",
+    "translation": "\"O ônibus para aqui?\" / \"Sim, para aqui.\"",
+    "pronunciation": "/el awtoˈβus ˈpaɾa aˈki · si ˈpaɾa aˈki/",
+    "portuguesePhonetic": "[el autobús pára akí · sí pára akí]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_99",
+    "word": "«¿Trabajas solo?» / «No, con un equipo.»",
+    "translation": "\"Você trabalha sozinho?\" / \"Não, com uma equipe.\"",
+    "pronunciation": "/tɾaˈβaxas ˈsolo · no kon un eˈkipo/",
+    "portuguesePhonetic": "[trabárras sólo · no kon un ekípo]"
+  },
+  {
+    "id": "leccion_6_gramatica_a1_s_es_card_100",
+    "word": "«¿Sabe la respuesta?» / «Sí, la sabe.»",
+    "translation": "\"Ela sabe a resposta?\" / \"Sim, sabe.\"",
+    "pronunciation": "/ˈsaβe la resˈpwesta · si la ˈsaβe/",
+    "portuguesePhonetic": "[sábe la respuésta · sí la sábe]"
+  }
+]

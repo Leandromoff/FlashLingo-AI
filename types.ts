@@ -99,6 +99,30 @@ export const PREDEFINED_TOPICS = [
     group: "Vocabulary A1",
   },
   {
+    id: "lesson_3_vocabulary_a1",
+    label: "Lesson 3",
+    isStatic: true,
+    group: "Vocabulary A1",
+  },
+  {
+    id: "lesson_4_vocabulary_a1",
+    label: "Lesson 4",
+    isStatic: true,
+    group: "Vocabulary A1",
+  },
+  {
+    id: "lesson_5_vocabulary_a1",
+    label: "Lesson 5",
+    isStatic: true,
+    group: "Vocabulary A1",
+  },
+  {
+    id: "lesson_6_vocabulary_a1",
+    label: "Lesson 6",
+    isStatic: true,
+    group: "Vocabulary A1",
+  },
+  {
     id: "lesson_1_grammar_a1",
     label: "Lesson 1",
     isStatic: true,
@@ -107,6 +131,30 @@ export const PREDEFINED_TOPICS = [
   {
     id: "lesson_2_grammar_a1",
     label: "Lesson 2",
+    isStatic: true,
+    group: "Grammar A1",
+  },
+  {
+    id: "lesson_3_grammar_a1",
+    label: "Lesson 3",
+    isStatic: true,
+    group: "Grammar A1",
+  },
+  {
+    id: "lesson_4_grammar_a1",
+    label: "Lesson 4",
+    isStatic: true,
+    group: "Grammar A1",
+  },
+  {
+    id: "lesson_5_grammar_a1",
+    label: "Lesson 5",
+    isStatic: true,
+    group: "Grammar A1",
+  },
+  {
+    id: "lesson_6_grammar_a1",
+    label: "Lesson 6",
     isStatic: true,
     group: "Grammar A1",
   },
@@ -148,6 +196,30 @@ export const PREDEFINED_TOPICS = [
     group: "Vocabulario A1-S",
   },
   {
+    id: "leccion_3_vocabulario_a1_s",
+    label: "Lección 3",
+    isStatic: true,
+    group: "Vocabulario A1-S",
+  },
+  {
+    id: "leccion_4_vocabulario_a1_s",
+    label: "Lección 4",
+    isStatic: true,
+    group: "Vocabulario A1-S",
+  },
+  {
+    id: "leccion_5_vocabulario_a1_s",
+    label: "Lección 5",
+    isStatic: true,
+    group: "Vocabulario A1-S",
+  },
+  {
+    id: "leccion_6_vocabulario_a1_s",
+    label: "Lección 6",
+    isStatic: true,
+    group: "Vocabulario A1-S",
+  },
+  {
     id: "leccion_1_gramatica_a1_s",
     label: "Lección 1",
     isStatic: true,
@@ -156,6 +228,30 @@ export const PREDEFINED_TOPICS = [
   {
     id: "leccion_2_gramatica_a1_s",
     label: "Lección 2",
+    isStatic: true,
+    group: "Gramática A1-S",
+  },
+  {
+    id: "leccion_3_gramatica_a1_s",
+    label: "Lección 3",
+    isStatic: true,
+    group: "Gramática A1-S",
+  },
+  {
+    id: "leccion_4_gramatica_a1_s",
+    label: "Lección 4",
+    isStatic: true,
+    group: "Gramática A1-S",
+  },
+  {
+    id: "leccion_5_gramatica_a1_s",
+    label: "Lección 5",
+    isStatic: true,
+    group: "Gramática A1-S",
+  },
+  {
+    id: "leccion_6_gramatica_a1_s",
+    label: "Lección 6",
     isStatic: true,
     group: "Gramática A1-S",
   },

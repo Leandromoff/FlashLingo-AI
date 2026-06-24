@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_1",
+    "word": "yo",
+    "translation": "eu",
+    "pronunciation": "/ʝo/",
+    "portuguesePhonetic": "[iô]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_2",
+    "word": "tú",
+    "translation": "você (informal)",
+    "pronunciation": "/tu/",
+    "portuguesePhonetic": "[tu]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_3",
+    "word": "él",
+    "translation": "ele",
+    "pronunciation": "/el/",
+    "portuguesePhonetic": "[él]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_4",
+    "word": "ella",
+    "translation": "ela",
+    "pronunciation": "/ˈeʎa/",
+    "portuguesePhonetic": "[élha]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_5",
+    "word": "(it)",
+    "translation": "não existe pronome; usa-se o verbo direto",
+    "pronunciation": "/—/",
+    "portuguesePhonetic": "[—]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_6",
+    "word": "nosotros / nosotras",
+    "translation": "nós",
+    "pronunciation": "/noˈsotɾos · noˈsotɾas/",
+    "portuguesePhonetic": "[nosótros · nosótras]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_7",
+    "word": "vosotros / vosotras",
+    "translation": "vocês (informal, Espanha)",
+    "pronunciation": "/boˈsotɾos · boˈsotɾas/",
+    "portuguesePhonetic": "[bosótros · bosótras]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_8",
+    "word": "ellos / ellas",
+    "translation": "eles / elas",
+    "pronunciation": "/ˈeʎos · ˈeʎas/",
+    "portuguesePhonetic": "[élhos · élhas]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_9",
+    "word": "mi",
+    "translation": "meu / minha",
+    "pronunciation": "/mi/",
+    "portuguesePhonetic": "[mi]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_10",
+    "word": "tu",
+    "translation": "teu / seu (de ti)",
+    "pronunciation": "/tu/",
+    "portuguesePhonetic": "[tu]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_11",
+    "word": "su",
+    "translation": "dele",
+    "pronunciation": "/su/",
+    "portuguesePhonetic": "[su]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_12",
+    "word": "su",
+    "translation": "dela",
+    "pronunciation": "/su/",
+    "portuguesePhonetic": "[su]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_13",
+    "word": "su",
+    "translation": "dele / dela (de coisa ou animal)",
+    "pronunciation": "/su/",
+    "portuguesePhonetic": "[su]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_14",
+    "word": "nuestro / nuestra",
+    "translation": "nosso / nossa",
+    "pronunciation": "/ˈnwestɾo · ˈnwestɾa/",
+    "portuguesePhonetic": "[nuéstro · nuéstra]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_15",
+    "word": "su / sus",
+    "translation": "deles / delas",
+    "pronunciation": "/su · sus/",
+    "portuguesePhonetic": "[su · sus]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_16",
+    "word": "(Yo) juego al fútbol.",
+    "translation": "Eu jogo futebol.",
+    "pronunciation": "/ˈʝo ˈxweɣo al ˈfutβol/",
+    "portuguesePhonetic": "[iô rruégo al fútbol]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_17",
+    "word": "Tú eres australiano.",
+    "translation": "Você é australiano.",
+    "pronunciation": "/tu ˈeɾes awstɾaˈljano/",
+    "portuguesePhonetic": "[tu éres australiáno]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_18",
+    "word": "Él es muy alto.",
+    "translation": "Ele é muito alto.",
+    "pronunciation": "/el es mui ˈalto/",
+    "portuguesePhonetic": "[él és múi álto]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_19",
+    "word": "Ella es profesora.",
+    "translation": "Ela é professora.",
+    "pronunciation": "/ˈeʎa es pɾofeˈsoɾa/",
+    "portuguesePhonetic": "[élha és profesóra]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_20",
+    "word": "Es un perro.",
+    "translation": "É um cachorro.",
+    "pronunciation": "/es un ˈpero/",
+    "portuguesePhonetic": "[és un pérro]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_21",
+    "word": "Nosotros amamos el inglés.",
+    "translation": "Nós amamos inglês.",
+    "pronunciation": "/noˈsotɾos aˈmamos el iŋˈɡles/",
+    "portuguesePhonetic": "[nosótros amámos el inglés]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_22",
+    "word": "Ellos tienen una casa bonita.",
+    "translation": "Eles têm uma casa bonita.",
+    "pronunciation": "/ˈeʎos ˈtjenen una ˈkasa boˈnita/",
+    "portuguesePhonetic": "[élhos tiénen úna kása boníta]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_23",
+    "word": "Este es mi hermano.",
+    "translation": "Este é meu irmão.",
+    "pronunciation": "/ˈeste es mi eɾˈmano/",
+    "portuguesePhonetic": "[éste és mi ermáno]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_24",
+    "word": "Dame tu libro.",
+    "translation": "Me dá seu livro.",
+    "pronunciation": "/ˈdame tu ˈliβɾo/",
+    "portuguesePhonetic": "[dáme tu líbro]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_25",
+    "word": "Esa es su casa.",
+    "translation": "Aquela é a casa dele.",
+    "pronunciation": "/ˈesa es su ˈkasa/",
+    "portuguesePhonetic": "[ésa és su kása]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_26",
+    "word": "Esta es mi familia.",
+    "translation": "Esta é minha família.",
+    "pronunciation": "/ˈesta es mi faˈmilja/",
+    "portuguesePhonetic": "[ésta és mi famílha]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_27",
+    "word": "Él es mi padre.",
+    "translation": "Ele é meu pai.",
+    "pronunciation": "/el es mi ˈpaðɾe/",
+    "portuguesePhonetic": "[él és mi pádre]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_28",
+    "word": "Ella es mi madre.",
+    "translation": "Ela é minha mãe.",
+    "pronunciation": "/ˈeʎa es mi ˈmaðɾe/",
+    "portuguesePhonetic": "[élha és mi mádre]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_29",
+    "word": "Conozco a su hermana.",
+    "translation": "Eu conheço a irmã dela.",
+    "pronunciation": "/koˈnoθko a su eɾˈmana/",
+    "portuguesePhonetic": "[konóthko a su ermána]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_30",
+    "word": "Amamos a nuestros padres.",
+    "translation": "Nós amamos nossos pais.",
+    "pronunciation": "/aˈmamos a ˈnwestɾos ˈpaðɾes/",
+    "portuguesePhonetic": "[amámos a nuéstros pádres]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_31",
+    "word": "Ella es profesora.",
+    "translation": "Ela é professora.",
+    "pronunciation": "/ˈeʎa es pɾofeˈsoɾa/",
+    "portuguesePhonetic": "[élha és profesóra]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_32",
+    "word": "Este es su profesor.",
+    "translation": "Este é o professor deles.",
+    "pronunciation": "/ˈeste es su pɾofeˈsoɾ/",
+    "portuguesePhonetic": "[éste és su profesór]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_33",
+    "word": "Él es mi jefe.",
+    "translation": "Ele é meu chefe.",
+    "pronunciation": "/el es mi ˈxefe/",
+    "portuguesePhonetic": "[él és mi rréfe]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_34",
+    "word": "Ellos son mis compañeros de trabajo.",
+    "translation": "Eles são meus colegas de trabalho.",
+    "pronunciation": "/ˈeʎos son mis kompaˈɲeɾos de tɾaˈβaxo/",
+    "portuguesePhonetic": "[élhos son mis kompanhéros de trabárro]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_35",
+    "word": "Me gusta mi trabajo.",
+    "translation": "Eu gosto do meu trabalho.",
+    "pronunciation": "/me ˈɡusta mi tɾaˈβaxo/",
+    "portuguesePhonetic": "[me gústa mi trabárro]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_36",
+    "word": "Esa es su casa.",
+    "translation": "Aquela é a casa dele.",
+    "pronunciation": "/ˈesa es su ˈkasa/",
+    "portuguesePhonetic": "[ésa és su kása]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_37",
+    "word": "Ellos tienen una casa bonita.",
+    "translation": "Eles têm uma casa bonita.",
+    "pronunciation": "/ˈeʎos ˈtjenen una ˈkasa boˈnita/",
+    "portuguesePhonetic": "[élhos tiénen úna kása boníta]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_38",
+    "word": "Nuestra casa es pequeña.",
+    "translation": "Nossa casa é pequena.",
+    "pronunciation": "/ˈnwestɾa ˈkasa es peˈkeɲa/",
+    "portuguesePhonetic": "[nuéstra kása és pekénha]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_39",
+    "word": "Dame tu libro.",
+    "translation": "Me dá seu livro.",
+    "pronunciation": "/ˈdame tu ˈliβɾo/",
+    "portuguesePhonetic": "[dáme tu líbro]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_40",
+    "word": "Esta es mi habitación.",
+    "translation": "Este é meu quarto.",
+    "pronunciation": "/ˈesta es mi aβitaˈθjon/",
+    "portuguesePhonetic": "[ésta és mi abitathión]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_41",
+    "word": "Es un perro.",
+    "translation": "É um cachorro.",
+    "pronunciation": "/es un ˈpero/",
+    "portuguesePhonetic": "[és un pérro]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_42",
+    "word": "Su nombre es Max.",
+    "translation": "O nome dele é Max.",
+    "pronunciation": "/su ˈnombɾe es maks/",
+    "portuguesePhonetic": "[su nómbre és máks]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_43",
+    "word": "El perro tiene sus juguetes.",
+    "translation": "O cachorro tem os brinquedos dele.",
+    "pronunciation": "/el ˈpero ˈtjene sus xuˈɣetes/",
+    "portuguesePhonetic": "[el pérro tiéne sus rruguétes]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_44",
+    "word": "(Yo) juego al fútbol.",
+    "translation": "Eu jogo futebol.",
+    "pronunciation": "/ˈxweɣo al ˈfutβol/",
+    "portuguesePhonetic": "[rruégo al fútbol]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_45",
+    "word": "Amamos el inglés.",
+    "translation": "Nós amamos inglês.",
+    "pronunciation": "/aˈmamos el iŋˈɡles/",
+    "portuguesePhonetic": "[amámos el inglés]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_46",
+    "word": "Ellos son estudiantes.",
+    "translation": "Eles são estudantes.",
+    "pronunciation": "/ˈeʎos son estuˈðjantes/",
+    "portuguesePhonetic": "[élhos son estudiántes]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_47",
+    "word": "Tú eres mi mejor amigo.",
+    "translation": "Você é meu melhor amigo.",
+    "pronunciation": "/tu ˈeɾes mi meˈxoɾ aˈmiɣo/",
+    "portuguesePhonetic": "[tu éres mi merrór amígo]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_48",
+    "word": "Tú eres australiano.",
+    "translation": "Você é australiano.",
+    "pronunciation": "/tu ˈeɾes awstɾaˈljano/",
+    "portuguesePhonetic": "[tu éres australiáno]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_49",
+    "word": "Él es muy alto.",
+    "translation": "Ele é muito alto.",
+    "pronunciation": "/el es mui ˈalto/",
+    "portuguesePhonetic": "[él és múi álto]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_50",
+    "word": "Me gustan tus coches.",
+    "translation": "Eu gosto dos seus carros.",
+    "pronunciation": "/me ˈɡustan tus ˈkotʃes/",
+    "portuguesePhonetic": "[me gústan tus kótches]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_51",
+    "word": "Tengo un hermano.",
+    "translation": "Eu tenho um irmão.",
+    "pronunciation": "/ˈteŋɡo un eɾˈmano/",
+    "portuguesePhonetic": "[téngo un ermáno]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_52",
+    "word": "Ella es mi amiga.",
+    "translation": "Ela é minha amiga.",
+    "pronunciation": "/ˈeʎa es mi aˈmiɣa/",
+    "portuguesePhonetic": "[élha és mi amíga]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_53",
+    "word": "A él le gusta su trabajo.",
+    "translation": "Ele gosta do trabalho dele.",
+    "pronunciation": "/a el le ˈɡusta su tɾaˈβaxo/",
+    "portuguesePhonetic": "[a él le gústa su trabárro]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_54",
+    "word": "Necesitamos nuestros libros.",
+    "translation": "Nós precisamos dos nossos livros.",
+    "pronunciation": "/neθesiˈtamos ˈnwestɾos ˈliβɾos/",
+    "portuguesePhonetic": "[nethesitámos nuéstros líbros]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_55",
+    "word": "Su casa es grande.",
+    "translation": "A casa deles é grande.",
+    "pronunciation": "/su ˈkasa es ˈɡɾande/",
+    "portuguesePhonetic": "[su kása és gránde]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_56",
+    "word": "Su coche es nuevo.",
+    "translation": "O carro dela é novo.",
+    "pronunciation": "/su ˈkotʃe es ˈnweβo/",
+    "portuguesePhonetic": "[su kótche és nuébo]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_57",
+    "word": "¿Es este tu móvil?",
+    "translation": "Este é o seu celular?",
+    "pronunciation": "/es ˈeste tu ˈmoβil/",
+    "portuguesePhonetic": "[és éste tu móbil]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_58",
+    "word": "No sé su nombre.",
+    "translation": "Eu não sei o nome dele.",
+    "pronunciation": "/no se su ˈnombɾe/",
+    "portuguesePhonetic": "[no sé su nómbre]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_59",
+    "word": "¿Dónde está mi bolígrafo?",
+    "translation": "Onde está minha caneta?",
+    "pronunciation": "/ˈdonde esˈta mi boˈliɣɾafo/",
+    "portuguesePhonetic": "[dônde está mi bolígrafo]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_60",
+    "word": "¿Te gusta su música?",
+    "translation": "Você gosta da música deles?",
+    "pronunciation": "/te ˈɡusta su ˈmusika/",
+    "portuguesePhonetic": "[te gústa su músika]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_61",
+    "word": "Ella no es mi profesora.",
+    "translation": "Ela não é minha professora.",
+    "pronunciation": "/ˈeʎa no es mi pɾofeˈsoɾa/",
+    "portuguesePhonetic": "[élha no és mi profesóra]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_62",
+    "word": "¿Por qué está enfadado?",
+    "translation": "Por que ele está bravo?",
+    "pronunciation": "/poɾ ke esˈta emfaˈðaðo/",
+    "portuguesePhonetic": "[por ké está emfadádo]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_63",
+    "word": "Amo a mi familia porque me ayudan.",
+    "translation": "Eu amo minha família porque eles me ajudam.",
+    "pronunciation": "/ˈamo a mi faˈmilja ˈpoɾke me aˈʝuðan/",
+    "portuguesePhonetic": "[ámo a mi famílha pórke me aiúdan]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_64",
+    "word": "Está leyendo su libro ahora.",
+    "translation": "Ele está lendo o livro dele agora.",
+    "pronunciation": "/esˈta leˈʝendo su ˈliβɾo aˈoɾa/",
+    "portuguesePhonetic": "[está leiéndo su líbro aóra]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_65",
+    "word": "Visitamos su casa ayer.",
+    "translation": "Nós visitamos a casa deles ontem.",
+    "pronunciation": "/bisiˈtamos su ˈkasa aˈʝeɾ/",
+    "portuguesePhonetic": "[bisitámos su kása aiér]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_66",
+    "word": "Hablaba con su hermana cuando llamé.",
+    "translation": "Ela estava falando com a irmã dela quando liguei.",
+    "pronunciation": "/aˈβlaβa kon su eɾˈmana ˈkwando ʎaˈme/",
+    "portuguesePhonetic": "[ablába kon su ermána kuándo lhamé]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_67",
+    "word": "Perdieron sus llaves en el parque.",
+    "translation": "Eles perderam as chaves deles no parque.",
+    "pronunciation": "/peɾˈðjeɾon sus ˈʎaβes en el ˈpaɾke/",
+    "portuguesePhonetic": "[perdiéron sus lhábes en el párke]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_68",
+    "word": "Mi hermano es alto, pero su mujer es baja.",
+    "translation": "Meu irmão é alto, mas a esposa dele é baixa.",
+    "pronunciation": "/mi eɾˈmano es ˈalto ˈpeɾo su muˈxeɾ es ˈbaxa/",
+    "portuguesePhonetic": "[mi ermáno és álto péro su murrér és bárra]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_69",
+    "word": "Traeré mi coche porque el tuyo está roto.",
+    "translation": "Vou trazer meu carro porque o seu está quebrado.",
+    "pronunciation": "/tɾaeˈɾe mi ˈkotʃe ˈpoɾke el ˈtuʝo esˈta ˈroto/",
+    "portuguesePhonetic": "[traeré mi kótche pórke el túio está róto]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_70",
+    "word": "Le encanta su trabajo y su jefe la respeta.",
+    "translation": "Ela ama o trabalho dela, e o chefe dela a respeita.",
+    "pronunciation": "/le eŋˈkanta su tɾaˈβaxo i su ˈxefe la resˈpeta/",
+    "portuguesePhonetic": "[le enkánta su trabárro i su rréfe la respéta]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_71",
+    "word": "No sabemos sus nombres, pero ellos saben los nuestros.",
+    "translation": "Não sabemos os nomes deles, mas eles sabem os nossos.",
+    "pronunciation": "/no saˈβemos sus ˈnombɾes ˈpeɾo ˈeʎos ˈsaβen los ˈnwestɾos/",
+    "portuguesePhonetic": "[no sabémos sus nómbres péro élhos sában los nuéstros]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_72",
+    "word": "No trajo su pasaporte, así que perdió su vuelo.",
+    "translation": "Ele não trouxe o passaporte dele, então perdeu o voo dele.",
+    "pronunciation": "/no ˈtɾaxo su pasaˈpoɾte aˈsi ke peɾˈðjo su ˈbwelo/",
+    "portuguesePhonetic": "[no trárro su pasapórte así ke perdió su buélo]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_73",
+    "word": "Aunque es solo un perro, tiene su propia personalidad.",
+    "translation": "Embora seja só um cachorro, ele tem a própria personalidade.",
+    "pronunciation": "/ˈawŋke es ˈsolo un ˈpero ˈtjene su ˈpɾopja peɾsonaliˈðað/",
+    "portuguesePhonetic": "[áunke és sólo un pérro tiéne su própia personalidád]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_74",
+    "word": "¿Has conocido a su nuevo profesor y a su ayudante?",
+    "translation": "Você conheceu o novo professor deles e a assistente dela?",
+    "pronunciation": "/as konoˈθiðo a su ˈnweβo pɾofeˈsoɾ i a su aʝuˈðante/",
+    "portuguesePhonetic": "[as konothído a su nuébo profesór i a su aiudánte]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_75",
+    "word": "Me gusta tu idea, pero creo que nuestro plan es mejor.",
+    "translation": "Eu gosto da sua ideia, mas acho que nosso plano é melhor.",
+    "pronunciation": "/me ˈɡusta tu iˈðea ˈpeɾo ˈkɾeo ke ˈnwestɾo plan es meˈxoɾ/",
+    "portuguesePhonetic": "[me gústa tu idéa péro kréo ke nuéstro plán és merrór]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_76",
+    "word": "«¿Quién es él?» / «Es mi hermano.»",
+    "translation": "\"Quem é ele?\" / \"Ele é meu irmão.\"",
+    "pronunciation": "/kjen es el · es mi eɾˈmano/",
+    "portuguesePhonetic": "[kién és él · és mi ermáno]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_77",
+    "word": "«¿Es tuyo este libro?» / «Sí, es mío.»",
+    "translation": "\"Este livro é seu?\" / \"Sim, é meu.\"",
+    "pronunciation": "/es ˈtuʝo ˈeste ˈliβɾo · si es ˈmio/",
+    "portuguesePhonetic": "[és túio éste líbro · sí és mío]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_78",
+    "word": "«¿Dónde viven?» / «En su casa nueva.»",
+    "translation": "\"Onde eles moram?\" / \"Na casa nova deles.\"",
+    "pronunciation": "/ˈdonde ˈbiβen · en su ˈkasa ˈnweβa/",
+    "portuguesePhonetic": "[dônde bíben · en su kása nuéba]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_79",
+    "word": "«¿Cómo se llama ella?» / «Se llama Ana.»",
+    "translation": "\"Qual é o nome dela?\" / \"Ela se chama Ana.\"",
+    "pronunciation": "/ˈkomo se ˈʎama ˈeʎa · se ˈʎama ˈana/",
+    "portuguesePhonetic": "[kómo se lháma élha · se lháma ána]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_80",
+    "word": "«¿Sois estudiantes?» / «Sí, lo somos.»",
+    "translation": "\"Vocês são estudantes?\" / \"Sim, somos.\"",
+    "pronunciation": "/sois estuˈðjantes · si lo ˈsomos/",
+    "portuguesePhonetic": "[sóis estudiántes · sí lo sómos]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_81",
+    "word": "«¿Es tu profesor?» / «No, es mi jefe.»",
+    "translation": "\"Ele é seu professor?\" / \"Não, é meu chefe.\"",
+    "pronunciation": "/es tu pɾofeˈsoɾ · no es mi ˈxefe/",
+    "portuguesePhonetic": "[és tu profesór · no és mi rréfe]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_82",
+    "word": "«¿De quién es este coche?» / «Es su coche.»",
+    "translation": "\"De quem é este carro?\" / \"É o carro deles.\"",
+    "pronunciation": "/de kjen es ˈeste ˈkotʃe · es su ˈkotʃe/",
+    "portuguesePhonetic": "[de kién és éste kótche · és su kótche]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_83",
+    "word": "«¿Amáis el inglés?» / «Sí, lo amamos.»",
+    "translation": "\"Vocês amam inglês?\" / \"Sim, amamos.\"",
+    "pronunciation": "/aˈmais el iŋˈɡles · si lo aˈmamos/",
+    "portuguesePhonetic": "[amáis el inglés · sí lo amámos]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_84",
+    "word": "«¿Es australiana?» / «No, es americana.»",
+    "translation": "\"Ela é australiana?\" / \"Não, é americana.\"",
+    "pronunciation": "/es awstɾaˈljana · no es ameɾiˈkana/",
+    "portuguesePhonetic": "[és australiána · no és amerikána]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_85",
+    "word": "«¿Puedo usar tu bolígrafo?» / «Claro, aquí tienes.»",
+    "translation": "\"Posso usar sua caneta?\" / \"Claro, aqui está.\"",
+    "pronunciation": "/ˈpweðo uˈsaɾ tu boˈliɣɾafo · ˈklaɾo aˈki ˈtjenes/",
+    "portuguesePhonetic": "[puédo usár tu bolígrafo · kláro akí tiénes]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_86",
+    "word": "«¿Es tu perro?» / «Sí, se llama Max.»",
+    "translation": "\"É o seu cachorro?\" / \"Sim, ele se chama Max.\"",
+    "pronunciation": "/es tu ˈpero · si se ˈʎama maks/",
+    "portuguesePhonetic": "[és tu pérro · sí se lháma máks]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_87",
+    "word": "«¿Son tus padres?» / «Sí, lo son.»",
+    "translation": "\"Eles são seus pais?\" / \"Sim, são.\"",
+    "pronunciation": "/son tus ˈpaðɾes · si lo son/",
+    "portuguesePhonetic": "[son tus pádres · sí lo son]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_88",
+    "word": "«¿Te gusta mi casa?» / «Sí, es preciosa.»",
+    "translation": "\"Você gosta da minha casa?\" / \"Sim, é linda.\"",
+    "pronunciation": "/te ˈɡusta mi ˈkasa · si es pɾeˈθjosa/",
+    "portuguesePhonetic": "[te gústa mi kása · sí és prethiósa]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_89",
+    "word": "«¿Es este su profesor?» / «Sí, lo es.»",
+    "translation": "\"Este é o professor deles?\" / \"Sim, é.\"",
+    "pronunciation": "/es ˈeste su pɾofeˈsoɾ · si lo es/",
+    "portuguesePhonetic": "[és éste su profesór · sí lo és]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_90",
+    "word": "«¿Dónde está su hermana?» / «Está en el colegio.»",
+    "translation": "\"Onde está a irmã dele?\" / \"Está na escola.\"",
+    "pronunciation": "/ˈdonde esˈta su eɾˈmana · esˈta en el koˈlexjo/",
+    "portuguesePhonetic": "[dônde está su ermána · está en el kolérrio]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_91",
+    "word": "«¿La conoces?» / «No, no la conozco.»",
+    "translation": "\"Você a conhece?\" / \"Não, não conheço.\"",
+    "pronunciation": "/la koˈnoθes · no no la koˈnoθko/",
+    "portuguesePhonetic": "[la konóthes · no no la konóthko]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_92",
+    "word": "«¿Son tuyos estos coches?» / «No, son suyos.»",
+    "translation": "\"Estes carros são seus?\" / \"Não, são dele.\"",
+    "pronunciation": "/son ˈtuʝos ˈestos ˈkotʃes · no son ˈsuʝos/",
+    "portuguesePhonetic": "[son túios éstos kótches · no son súios]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_93",
+    "word": "«¿Es alto?» / «Sí, muy alto.»",
+    "translation": "\"Ele é alto?\" / \"Sim, muito alto.\"",
+    "pronunciation": "/es ˈalto · si mui ˈalto/",
+    "portuguesePhonetic": "[és álto · sí múi álto]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_94",
+    "word": "«¿Qué tienen?» / «Tienen una casa bonita.»",
+    "translation": "\"O que eles têm?\" / \"Têm uma casa bonita.\"",
+    "pronunciation": "/ke ˈtjenen · ˈtjenen una ˈkasa boˈnita/",
+    "portuguesePhonetic": "[ke tiénen · tiénen úna kása boníta]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_95",
+    "word": "«¿Ese móvil es tuyo o mío?» / «Es tuyo.»",
+    "translation": "\"Aquele celular é seu ou meu?\" / \"É seu.\"",
+    "pronunciation": "/ˈese ˈmoβil es ˈtuʝo o ˈmio · es ˈtuʝo/",
+    "portuguesePhonetic": "[ése móbil és túio o mío · és túio]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_96",
+    "word": "«¿Tenemos nuestras entradas?» / «Sí, las tengo yo.»",
+    "translation": "\"Temos nossos ingressos?\" / \"Sim, estão comigo.\"",
+    "pronunciation": "/teˈnemos ˈnwestɾas enˈtɾaðas · si las ˈteŋɡo ʝo/",
+    "portuguesePhonetic": "[tenémos nuéstras entrádas · sí las téngo iô]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_97",
+    "word": "«¿De quién fue la idea?» / «Fue su idea.»",
+    "translation": "\"De quem foi a ideia?\" / \"Foi ideia dela.\"",
+    "pronunciation": "/de kjen fwe la iˈðea · fwe su iˈðea/",
+    "portuguesePhonetic": "[de kién fué la idéa · fué su idéa]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_98",
+    "word": "«¿Tu hermana es profesora?» / «Sí, lo es.»",
+    "translation": "\"Sua irmã é professora?\" / \"Sim, é.\"",
+    "pronunciation": "/tu eɾˈmana es pɾofeˈsoɾa · si lo es/",
+    "portuguesePhonetic": "[tu ermána és profesóra · sí lo és]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_99",
+    "word": "«¿Necesitan nuestra ayuda?» / «Sí, la necesitan.»",
+    "translation": "\"Eles precisam da nossa ajuda?\" / \"Sim, precisam.\"",
+    "pronunciation": "/neθeˈsitan ˈnwestɾa aˈʝuða · si la neθeˈsitan/",
+    "portuguesePhonetic": "[nethesítan nuéstra aiúda · sí la nethesítan]"
+  },
+  {
+    "id": "leccion_3_gramatica_a1_s_es_card_100",
+    "word": "«¿Es este mi asiento?» / «No, es el suyo.»",
+    "translation": "\"Este é meu assento?\" / \"Não, é o dele.\"",
+    "pronunciation": "/es ˈeste mi aˈsjento · no es el ˈsuʝo/",
+    "portuguesePhonetic": "[és éste mi asiénto · no és el súio]"
+  }
+]

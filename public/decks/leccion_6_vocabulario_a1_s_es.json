@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_1",
+    "word": "lunes",
+    "translation": "segunda-feira",
+    "pronunciation": "/ˈlunes/",
+    "portuguesePhonetic": "[lúnes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_2",
+    "word": "martes",
+    "translation": "terça-feira",
+    "pronunciation": "/ˈmaɾtes/",
+    "portuguesePhonetic": "[mártes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_3",
+    "word": "miércoles",
+    "translation": "quarta-feira",
+    "pronunciation": "/ˈmjeɾkoles/",
+    "portuguesePhonetic": "[miérkoles]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_4",
+    "word": "jueves",
+    "translation": "quinta-feira",
+    "pronunciation": "/ˈxweβes/",
+    "portuguesePhonetic": "[rruébes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_5",
+    "word": "viernes",
+    "translation": "sexta-feira",
+    "pronunciation": "/ˈbjeɾnes/",
+    "portuguesePhonetic": "[biérnes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_6",
+    "word": "sábado",
+    "translation": "sábado",
+    "pronunciation": "/ˈsaβaðo/",
+    "portuguesePhonetic": "[sábado]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_7",
+    "word": "domingo",
+    "translation": "domingo",
+    "pronunciation": "/doˈmiŋɡo/",
+    "portuguesePhonetic": "[domíngo]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_8",
+    "word": "enero",
+    "translation": "janeiro",
+    "pronunciation": "/eˈneɾo/",
+    "portuguesePhonetic": "[enéro]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_9",
+    "word": "febrero",
+    "translation": "fevereiro",
+    "pronunciation": "/feˈβɾeɾo/",
+    "portuguesePhonetic": "[febréro]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_10",
+    "word": "marzo",
+    "translation": "março",
+    "pronunciation": "/ˈmaɾθo/",
+    "portuguesePhonetic": "[márzo]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_11",
+    "word": "abril",
+    "translation": "abril",
+    "pronunciation": "/aˈβɾil/",
+    "portuguesePhonetic": "[abríl]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_12",
+    "word": "mayo",
+    "translation": "maio",
+    "pronunciation": "/ˈmaʝo/",
+    "portuguesePhonetic": "[máio]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_13",
+    "word": "junio",
+    "translation": "junio",
+    "pronunciation": "/ˈxunjo/",
+    "portuguesePhonetic": "[rrúnio]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_14",
+    "word": "julio",
+    "translation": "julho",
+    "pronunciation": "/ˈxuljo/",
+    "portuguesePhonetic": "[rrúlio]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_15",
+    "word": "agosto",
+    "translation": "agosto",
+    "pronunciation": "/aˈɣosto/",
+    "portuguesePhonetic": "[agósto]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_16",
+    "word": "septiembre",
+    "translation": "setembro",
+    "pronunciation": "/sepˈtjembɾe/",
+    "portuguesePhonetic": "[septiémbre]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_17",
+    "word": "octubre",
+    "translation": "outubro",
+    "pronunciation": "/okˈtuβɾe/",
+    "portuguesePhonetic": "[oktúbre]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_18",
+    "word": "noviembre",
+    "translation": "novembro",
+    "pronunciation": "/noˈβjembɾe/",
+    "portuguesePhonetic": "[nobiémbre]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_19",
+    "word": "diciembre",
+    "translation": "dezembro",
+    "pronunciation": "/diˈθjembɾe/",
+    "portuguesePhonetic": "[dithiémbre]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_20",
+    "word": "el invierno",
+    "translation": "o inverno",
+    "pronunciation": "/el imˈbjeɾno/",
+    "portuguesePhonetic": "[el imbiérno]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_21",
+    "word": "la primavera",
+    "translation": "a primavera",
+    "pronunciation": "/la pɾimaˈβeɾa/",
+    "portuguesePhonetic": "[la primabéra]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_22",
+    "word": "el verano",
+    "translation": "o verão",
+    "pronunciation": "/el beˈɾano/",
+    "portuguesePhonetic": "[el beráno]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_23",
+    "word": "el otoño",
+    "translation": "o outono",
+    "pronunciation": "/el oˈtoɲo/",
+    "portuguesePhonetic": "[el otónho]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_24",
+    "word": "el fin de semana",
+    "translation": "o fim de semana",
+    "pronunciation": "/el fin de seˈmana/",
+    "portuguesePhonetic": "[el fín de semána]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_25",
+    "word": "hoy",
+    "translation": "hoje",
+    "pronunciation": "/oi/",
+    "portuguesePhonetic": "[ôi]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_26",
+    "word": "Trabajo el lunes.",
+    "translation": "Eu trabalho na segunda.",
+    "pronunciation": "/tɾaˈβaxo el ˈlunes/",
+    "portuguesePhonetic": "[trabárro el lúnes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_27",
+    "word": "Tengo una reunión el martes.",
+    "translation": "Eu tengo uma reunião na terça.",
+    "pronunciation": "/ˈteŋɡo una reuˈnjon el ˈmaɾtes/",
+    "portuguesePhonetic": "[téngo úna reunión el mártes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_28",
+    "word": "Descansamos el domingo.",
+    "translation": "Nós descansamos no domingo.",
+    "pronunciation": "/deskanˈsamos el doˈmiŋɡo/",
+    "portuguesePhonetic": "[deskansámos el domíngo]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_29",
+    "word": "La fiesta es el sábado.",
+    "translation": "A festa é no sábado.",
+    "pronunciation": "/la ˈfjesta es el ˈsaβaðo/",
+    "portuguesePhonetic": "[la fiésta és el sábado]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_30",
+    "word": "Nos vemos el viernes.",
+    "translation": "Te vejo na sexta.",
+    "pronunciation": "/nos ˈbemos el ˈbjeɾnes/",
+    "portuguesePhonetic": "[nos bémos el biérnes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_31",
+    "word": "Mi cumpleaños es en mayo.",
+    "translation": "Meu aniversário é em maio.",
+    "pronunciation": "/mi kumpleˈaɲos es en ˈmaʝo/",
+    "portuguesePhonetic": "[mi kumpleánhos és en máio]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_32",
+    "word": "El curso empieza en septiembre.",
+    "translation": "O curso começa em setembro.",
+    "pronunciation": "/el ˈkuɾso emˈpjeθa en sepˈtjembɾe/",
+    "portuguesePhonetic": "[el kúrso empiétha en septiémbre]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_33",
+    "word": "Viajamos en julio.",
+    "translation": "Nós viajamos em julho.",
+    "pronunciation": "/bjaˈxamos en ˈxuljo/",
+    "portuguesePhonetic": "[biarrámos en rrúlio]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_34",
+    "word": "La cita es el 5 de marzo.",
+    "translation": "A consulta é no dia 5 de março.",
+    "pronunciation": "/la ˈθita es el ˈθiŋko de ˈmaɾθo/",
+    "portuguesePhonetic": "[la thíta és el thínko de márzo]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_35",
+    "word": "Hace frío en invierno.",
+    "translation": "Faz frio no inverno.",
+    "pronunciation": "/ˈaθe ˈfɾio en imˈbjeɾno/",
+    "portuguesePhonetic": "[áthe frío en imbiérno]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_36",
+    "word": "Las flores florecen en primavera.",
+    "translation": "As flores florescem na primavera.",
+    "pronunciation": "/las ˈfloɾes floˈɾeθen en pɾimaˈβeɾa/",
+    "portuguesePhonetic": "[las flóres floréthen en primabéra]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_37",
+    "word": "Vamos a la playa en verano.",
+    "translation": "Nós vamos à praia no verão.",
+    "pronunciation": "/ˈbamos a la ˈplaʝa en beˈɾano/",
+    "portuguesePhonetic": "[bámos a la pláia en beráno]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_38",
+    "word": "Las hojas caen en otoño.",
+    "translation": "As folhas caem no outono.",
+    "pronunciation": "/las ˈoxas ˈkaen en oˈtoɲo/",
+    "portuguesePhonetic": "[las órras káen en otónho]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_39",
+    "word": "¿Qué haces este fin de semana?",
+    "translation": "O que você vai fazer neste fim de semana?",
+    "pronunciation": "/ke ˈaθes ˈeste fin de seˈmana/",
+    "portuguesePhonetic": "[ke áthes éste fín de semána]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_40",
+    "word": "Quedamos la semana que viene.",
+    "translation": "Vamos nos encontrar na semana que vem.",
+    "pronunciation": "/keˈðamos la seˈmana ke ˈbjene/",
+    "portuguesePhonetic": "[kedámos la semána ke biéne]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_41",
+    "word": "Estoy libre el jueves.",
+    "translation": "Eu estou livre na quinta.",
+    "pronunciation": "/esˈtoi ˈliβɾe el ˈxweβes/",
+    "portuguesePhonetic": "[estôi líbre el rruébes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_42",
+    "word": "La Navidad es en diciembre.",
+    "translation": "O Natal é em dezembro.",
+    "pronunciation": "/la naβiˈðað es en diˈθjembɾe/",
+    "portuguesePhonetic": "[la nabidád és en dithiémbre]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_43",
+    "word": "El año nuevo empieza en enero.",
+    "translation": "O ano novo começa em janeiro.",
+    "pronunciation": "/el ˈaɲo ˈnweβo emˈpjeθa en eˈneɾo/",
+    "portuguesePhonetic": "[el ánho nuébo empiétha en enéro]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_44",
+    "word": "El colegio termina en junio.",
+    "translation": "A escola termina em junho.",
+    "pronunciation": "/el koˈlexjo teɾˈmina en ˈxunjo/",
+    "portuguesePhonetic": "[el kolérrio termína en rrúnio]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_45",
+    "word": "Hoy es miércoles.",
+    "translation": "Hoje é quarta-feira.",
+    "pronunciation": "/oi es ˈmjeɾkoles/",
+    "portuguesePhonetic": "[ôi és miérkoles]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_46",
+    "word": "Mañana es viernes.",
+    "translation": "Amanhã é sexta.",
+    "pronunciation": "/maˈɲana es ˈbjeɾnes/",
+    "portuguesePhonetic": "[manhána és biérnes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_47",
+    "word": "Ayer fue lunes.",
+    "translation": "Ontem foi segunda.",
+    "pronunciation": "/aˈʝeɾ fwe ˈlunes/",
+    "portuguesePhonetic": "[aiér fué lúnes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_48",
+    "word": "Tengo clases los martes y jueves.",
+    "translation": "Eu tenho aulas na terça e na quinta.",
+    "pronunciation": "/ˈteŋɡo ˈklases los ˈmaɾtes i ˈxweβes/",
+    "portuguesePhonetic": "[téngo kláses los mártes i rruébes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_49",
+    "word": "La tienda cierra los domingos.",
+    "translation": "A loja fecha aos domingos.",
+    "pronunciation": "/la ˈtjenda ˈθjera los doˈmiŋɡos/",
+    "portuguesePhonetic": "[la tiénda thiérra los domíngos]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_50",
+    "word": "El verano es mi estación favorita.",
+    "translation": "O verão é minha estação favorita.",
+    "pronunciation": "/el beˈɾano es mi estaˈθjon faβoˈɾita/",
+    "portuguesePhonetic": "[el beráno és mi estathión faboríta]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_51",
+    "word": "Hoy es lunes.",
+    "translation": "Hoje é segunda.",
+    "pronunciation": "/oi es ˈlunes/",
+    "portuguesePhonetic": "[ôi és lúnes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_52",
+    "word": "Me gusta el verano.",
+    "translation": "Eu gosto do verão.",
+    "pronunciation": "/me ˈɡusta el beˈɾano/",
+    "portuguesePhonetic": "[me gústa el beráno]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_53",
+    "word": "Mi cumpleaños es en abril.",
+    "translation": "Meu aniversário é em abril.",
+    "pronunciation": "/mi kumpleˈaɲos es en aˈβɾil/",
+    "portuguesePhonetic": "[mi kumpleánhos és en abríl]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_54",
+    "word": "Descansamos los fines de semana.",
+    "translation": "Nós descansamos nos fins de semana.",
+    "pronunciation": "/deskanˈsamos los ˈfines de seˈmana/",
+    "portuguesePhonetic": "[deskansámos los fínes de semána]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_55",
+    "word": "El fin de semana empieza el sábado.",
+    "translation": "O fim de semana começa no sábado.",
+    "pronunciation": "/el fin de seˈmana emˈpjeθa el ˈsaβaðo/",
+    "portuguesePhonetic": "[el fín de semána empiétha el sábado]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_56",
+    "word": "El invierno es más frío que el otoño.",
+    "translation": "O inverno é mais frio que o outono.",
+    "pronunciation": "/el imˈbjeɾno es mas ˈfɾio ke el oˈtoɲo/",
+    "portuguesePhonetic": "[el imbiérno és mas frío ke el otónho]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_57",
+    "word": "¿Qué día es hoy?",
+    "translation": "Que dia é hoje?",
+    "pronunciation": "/ke ˈdia es oi/",
+    "portuguesePhonetic": "[ke día és ôi]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_58",
+    "word": "No trabajo los viernes.",
+    "translation": "Eu não trabalho às sextas.",
+    "pronunciation": "/no tɾaˈβaxo los ˈbjeɾnes/",
+    "portuguesePhonetic": "[no trabárro los biérnes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_59",
+    "word": "¿Cuándo es tu cumpleaños?",
+    "translation": "Quando é seu aniversário?",
+    "pronunciation": "/ˈkwando es tu kumpleˈaɲos/",
+    "portuguesePhonetic": "[kuándo és tu kumpleánhos]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_60",
+    "word": "¿El curso empieza en septiembre?",
+    "translation": "O curso começa em setembro?",
+    "pronunciation": "/el ˈkuɾso emˈpjeθa en sepˈtjembɾe/",
+    "portuguesePhonetic": "[el kúrso empiétha en septiémbre]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_61",
+    "word": "Todavía no es verano.",
+    "translation": "Ainda não é verão.",
+    "pronunciation": "/toðaˈβia no es beˈɾano/",
+    "portuguesePhonetic": "[todabía no és beráno]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_62",
+    "word": "¿Por qué te gusta la primavera?",
+    "translation": "Por que você gosta da primavera?",
+    "pronunciation": "/poɾ ke te ˈɡusta la pɾimaˈβeɾa/",
+    "portuguesePhonetic": "[por ké te gústa la primabéra]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_63",
+    "word": "Me encanta el verano porque hace calor.",
+    "translation": "Eu amo o verão porque é quente.",
+    "pronunciation": "/me eŋˈkanta el beˈɾano ˈpoɾke ˈaθe kaˈloɾ/",
+    "portuguesePhonetic": "[me enkánta el beráno pórke áthe kalór]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_64",
+    "word": "Vamos a viajar en agosto.",
+    "translation": "Nós vamos viajar em agosto.",
+    "pronunciation": "/ˈbamos a bjaˈxaɾ en aˈɣosto/",
+    "portuguesePhonetic": "[bámos a biarrár en agósto]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_65",
+    "word": "Nevó el invierno pasado.",
+    "translation": "Nevou no inverno passado.",
+    "pronunciation": "/neˈβo el imˈbjeɾno paˈsaðo/",
+    "portuguesePhonetic": "[nebó el imbiérno pasádo]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_66",
+    "word": "Nací en octubre.",
+    "translation": "Eu nasci em outubro.",
+    "pronunciation": "/naˈθi en okˈtuβɾe/",
+    "portuguesePhonetic": "[nathí en oktúbre]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_67",
+    "word": "Cuando llega la primavera, los días se hacen más largos.",
+    "translation": "Quando a primavera chega, os dias ficam mais longos.",
+    "pronunciation": "/ˈkwando ˈʎeɣa la pɾimaˈβeɾa los ˈdias se ˈaθen mas ˈlaɾɣos/",
+    "portuguesePhonetic": "[kuándo lhéga la primabéra los días se áthen mas lárgos]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_68",
+    "word": "Mi mes favorito es diciembre por la Navidad.",
+    "translation": "Meu mês favorito é dezembro por causa do Natal.",
+    "pronunciation": "/mi mes faβoˈɾito es diˈθjembɾe poɾ la naβiˈðað/",
+    "portuguesePhonetic": "[mi més faboríto és dithiémbre por la nabidád]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_69",
+    "word": "Normalmente vamos de vacaciones en julio, pero este año iremos en agosto.",
+    "translation": "Geralmente viajamos em julho, mas este ano vamos em agosto.",
+    "pronunciation": "/noɾˈmalmente ˈbamos de bakaˈθjones en ˈxuljo ˈpeɾo ˈeste ˈaɲo iˈɾemos en aˈɣosto/",
+    "portuguesePhonetic": "[normalménte bámos de bakathiónes en rrúlio péro éste ánho irémos en agósto]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_70",
+    "word": "Aunque es primavera, todavía hace frío.",
+    "translation": "Embora seja primavera, o tempo ainda está frio.",
+    "pronunciation": "/ˈawŋke es pɾimaˈβeɾa toðaˈβia ˈaθe ˈfɾio/",
+    "portuguesePhonetic": "[áunke és primabéra todabía áthe frío]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_71",
+    "word": "La reunión era el lunes, pero ahora es el miércoles.",
+    "translation": "A reunião era na segunda, mas agora é na quarta.",
+    "pronunciation": "/la reuˈnjon ˈeɾa el ˈlunes ˈpeɾo aˈoɾa es el ˈmjeɾkoles/",
+    "portuguesePhonetic": "[la reunión éra el lúnes péro aóra és el miérkoles]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_72",
+    "word": "No me gusta el invierno porque los días son cortos y oscuros.",
+    "translation": "Eu não gosto do inverno porque os dias são curtos e escuros.",
+    "pronunciation": "/no me ˈɡusta el imˈbjeɾno ˈpoɾke los ˈdias son ˈkoɾtos i osˈkuɾos/",
+    "portuguesePhonetic": "[no me gústa el imbiérno pórke los días son kórtos i oskúros]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_73",
+    "word": "¿Sabes qué meses tienen treinta y un días?",
+    "translation": "Você sabe quais meses têm trinta e um dias?",
+    "pronunciation": "/ˈsaβes ke ˈmeses ˈtjenen ˈtɾeinta i un ˈdias/",
+    "portuguesePhonetic": "[sábes ke méses tiénen tréinta i un días]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_74",
+    "word": "Nos conocimos en el verano de 2019 y nos casamos en primavera.",
+    "translation": "Nós nos conhecemos no verão de 2019 e nos casamos na primavera.",
+    "pronunciation": "/nos konoˈθimos en el beˈɾano de ... i nos kaˈsamos en pɾimaˈβeɾa/",
+    "portuguesePhonetic": "[nos konothímos en el beráno de ... i nos kasámos en primabéra]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_75",
+    "word": "El colegio empieza en septiembre y termina en junio.",
+    "translation": "A escola começa em setembro e termina en junio.",
+    "pronunciation": "/el koˈlexjo emˈpjeθa en sepˈtjembɾe i teɾˈmina en ˈxunjo/",
+    "portuguesePhonetic": "[el kolérrio empiétha en septiémbre i termína en rrúnio]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_76",
+    "word": "«¿Qué día es hoy?» / «Es martes.»",
+    "translation": "\"Que dia é hoje?\" / \"É terça.\"",
+    "pronunciation": "/ke ˈdia es oi · es ˈmaɾtes/",
+    "portuguesePhonetic": "[ke día és ôi · és mártes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_77",
+    "word": "«¿Cuándo es tu cumpleaños?» / «En mayo.»",
+    "translation": "\"Quando é seu aniversário?\" / \"Em maio.\"",
+    "pronunciation": "/ˈkwando es tu kumpleˈaɲos · en ˈmaʝo/",
+    "portuguesePhonetic": "[kuándo és tu kumpleánhos · en máio]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_78",
+    "word": "«¿Cuál es tu estación favorita?» / «El verano.»",
+    "translation": "\"Qual é sua estação favorita?\" / \"O verão.\"",
+    "pronunciation": "/kwal es tu estaˈθjon faβoˈɾita · el beˈɾano/",
+    "portuguesePhonetic": "[kuál és tu estathión faboríta · el beráno]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_79",
+    "word": "«¿Trabajas los sábados?» / «No, no trabajo.»",
+    "translation": "\"Você trabalha aos sábados?\" / \"Não, não trabalho.\"",
+    "pronunciation": "/tɾaˈβaxas los ˈsaβaðos · no no tɾaˈβaxo/",
+    "portuguesePhonetic": "[trabárras los sábados · no no trabárro]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_80",
+    "word": "«¿Cuándo empieza el curso?» / «En septiembre.»",
+    "translation": "\"Quando o curso começa?\" / \"Em setembro.\"",
+    "pronunciation": "/ˈkwando emˈpjeθa el ˈkuɾso · en sepˈtjembɾe/",
+    "portuguesePhonetic": "[kuándo empiétha el kúrso · en septiémbre]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_81",
+    "word": "«¿La fiesta es el viernes?» / «No, el sábado.»",
+    "translation": "\"A festa é na sexta?\" / \"Não, no sábado.\"",
+    "pronunciation": "/la ˈfjesta es el ˈbjeɾnes · no el ˈsaβaðo/",
+    "portuguesePhonetic": "[la fiésta és el biérnes · no el sábado]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_82",
+    "word": "«¿En qué mes estamos?» / «Estamos en marzo.»",
+    "translation": "\"Em que mês estamos?\" / \"Estamos em março.\"",
+    "pronunciation": "/en ke mes esˈtamos · esˈtamos en ˈmaɾθo/",
+    "portuguesePhonetic": "[en ke més estámos · estámos en márzo]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_83",
+    "word": "«¿Te gusta el invierno?» / «No, hace mucho frío.»",
+    "translation": "\"Você gosta do inverno?\" / \"Não, faz muito frio.\"",
+    "pronunciation": "/te ˈɡusta el imˈbjeɾno · no ˈaθe ˈmutʃo ˈfɾio/",
+    "portuguesePhonetic": "[te gústa el imbiérno · no áthe mútcho frío]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_84",
+    "word": "«¿Cuándo viajamos?» / «En julio.»",
+    "translation": "\"Quando viajamos?\" / \"Em julho.\"",
+    "pronunciation": "/ˈkwando bjaˈxamos · en ˈxuljo/",
+    "portuguesePhonetic": "[kuándo biarrámos · en rrúlio]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_85",
+    "word": "«¿Hoy es miércoles?» / «No, es jueves.»",
+    "translation": "\"Hoje é quarta?\" / \"Não, é quinta.\"",
+    "pronunciation": "/oi es ˈmjeɾkoles · no es ˈxweβes/",
+    "portuguesePhonetic": "[ôi és miérkoles · no és rruébes]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_86",
+    "word": "«¿Qué planes tienes para el fin de semana?» / «Voy a descansar.»",
+    "translation": "\"Quais são seus planos pro fim de semana?\" / \"Vou descansar.\"",
+    "pronunciation": "/ke ˈplanes ˈtjenes ˈpaɾa el fin de seˈmana · boi a deskanˈsaɾ/",
+    "portuguesePhonetic": "[ke plánes tiénes pára el fín de semána · bôi a deskansár]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_87",
+    "word": "«¿Cuándo es la Navidad?» / «En diciembre.»",
+    "translation": "\"Quando é o Natal?\" / \"Em dezembro.\"",
+    "pronunciation": "/ˈkwando es la naβiˈðað · en diˈθjembɾe/",
+    "portuguesePhonetic": "[kuándo és la nabidád · en dithiémbre]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_88",
+    "word": "«¿Estás libre el lunes?» / «Sí, lo estoy.»",
+    "translation": "\"Você está livre na segunda?\" / \"Sim, estou.\"",
+    "pronunciation": "/esˈtas ˈliβɾe el ˈlunes · si lo esˈtoi/",
+    "portuguesePhonetic": "[estás líbre el lúnes · sí lo estôi]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_89",
+    "word": "«¿Qué estación prefieres?» / «La primavera.»",
+    "translation": "\"Que estação você prefere?\" / \"A primavera.\"",
+    "pronunciation": "/ke estaˈθjon pɾeˈfjeɾes · la pɾimaˈβeɾa/",
+    "portuguesePhonetic": "[ke estathión prefiéres · la primabéra]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_90",
+    "word": "«¿Ahora es verano en Brasil?» / «Sí, lo es.»",
+    "translation": "\"É verão no Brasil agora?\" / \"Sim, é.\"",
+    "pronunciation": "/aˈoɾa es beˈɾano en bɾaˈsil · si lo es/",
+    "portuguesePhonetic": "[aóra és beráno en brasíl · sí lo és]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_91",
+    "word": "«¿A qué hora es la reunión del martes?» / «A las diez.»",
+    "translation": "\"A que horas é a reunião de terça?\" / \"Às dez.\"",
+    "pronunciation": "/a ke ˈoɾa es la reuˈnjon del ˈmaɾtes · a las djeθ/",
+    "portuguesePhonetic": "[a ké óra és la reunión del mártes · a las diéth]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_92",
+    "word": "«¿Cuándo naciste?» / «En octubre.»",
+    "translation": "\"Quando você nasceu?\" / \"Em outubro.\"",
+    "pronunciation": "/ˈkwando naˈθiste · en okˈtuβɾe/",
+    "portuguesePhonetic": "[kuándo nathíste · en oktúbre]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_93",
+    "word": "«¿Las flores florecen en primavera?» / «Sí, florecen.»",
+    "translation": "\"As flores florescem na primavera?\" / \"Sim, florescem.\"",
+    "pronunciation": "/las ˈfloɾes floˈɾeθen en pɾimaˈβeɾa · si floˈɾeθen/",
+    "portuguesePhonetic": "[las flóres floréthen en primabéra · sí floréthen]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_94",
+    "word": "«¿La tienda abre los domingos?» / «No, está cerrada.»",
+    "translation": "\"A loja abre aos domingos?\" / \"Não, fica fechada.\"",
+    "pronunciation": "/la ˈtjenda ˈaβɾe los doˈmiŋɡos · no esˈta θeˈraða/",
+    "portuguesePhonetic": "[la tiénda ábre los domíngos · no está therráda]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_95",
+    "word": "«¿Cuándo termina el colegio?» / «En junio.»",
+    "translation": "\"Quando a escola termina?\" / \"Em junio.\"",
+    "pronunciation": "/ˈkwando teɾˈmina el koˈlexjo · en ˈxunjo/",
+    "portuguesePhonetic": "[kuándo termína el kolérrio · en rrúnio]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_96",
+    "word": "«¿Cuál es el primer mes del año?» / «Enero.»",
+    "translation": "\"Qual é o primeiro mês do ano?\" / \"Janeiro.\"",
+    "pronunciation": "/kwal es el pɾiˈmeɾ mes del ˈaɲo · eˈneɾo/",
+    "portuguesePhonetic": "[kuál és el primér més del ánho · enéro]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_97",
+    "word": "«¿Prefieres el verano o el invierno?» / «El verano.»",
+    "translation": "\"Você prefere verão ou inverno?\" / \"Verão.\"",
+    "pronunciation": "/pɾeˈfjeɾes el beˈɾano o el imˈbjeɾno · el beˈɾano/",
+    "portuguesePhonetic": "[prefiéres el beráno o el imbiérno · el beráno]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_98",
+    "word": "«¿Hace frío en otoño aquí?» / «Un poco.»",
+    "translation": "\"O outono é frio aqui?\" / \"Um pouco.\"",
+    "pronunciation": "/ˈaθe ˈfɾio en oˈtoɲo aˈki · un ˈpoko/",
+    "portuguesePhonetic": "[áthe frío en otónho akí · un póko]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_99",
+    "word": "«¿Cuándo es el año nuevo?» / «El 1 de enero.»",
+    "translation": "\"Quando é o ano novo?\" / \"No dia 1º de janeiro.\"",
+    "pronunciation": "/ˈkwando es el ˈaɲo ˈnweβo · el ˈuno de eˈneɾo/",
+    "portuguesePhonetic": "[kuándo és el ánho nuébo · el úno de enéro]"
+  },
+  {
+    "id": "leccion_6_vocabulario_a1_s_es_card_100",
+    "word": "«¿Nos vemos la semana que viene?» / «Sí, el lunes.»",
+    "translation": "\"Te vejo na semana que vem?\" / \"Sim, na segunda.\"",
+    "pronunciation": "/nos ˈbemos la seˈmana ke ˈbjene · si el ˈlunes/",
+    "portuguesePhonetic": "[nos bémos la semána ke biéne · sí el lúnes]"
+  }
+]

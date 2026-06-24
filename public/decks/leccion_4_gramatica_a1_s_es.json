@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_1",
+    "word": "un estudiante → estudiantes",
+    "translation": "um estudante → estudantes",
+    "pronunciation": "/un estuˈðjante → estuˈðjantes/",
+    "portuguesePhonetic": "[un estudiánte → estudiántes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_2",
+    "word": "una manzana → manzanas",
+    "translation": "uma maçã → maçãs",
+    "pronunciation": "/una manˈθana → manˈθanas/",
+    "portuguesePhonetic": "[úna manthána → manthánas]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_3",
+    "word": "un autobús → autobuses",
+    "translation": "um ônibus → ônibus (pl.)",
+    "pronunciation": "/un awtoˈβus → awtoˈβuses/",
+    "portuguesePhonetic": "[un autobús → autobúses]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_4",
+    "word": "una caja → cajas",
+    "translation": "uma caixa → caixas",
+    "pronunciation": "/una ˈkaxa → ˈkaxas/",
+    "portuguesePhonetic": "[úna kárra → kárras]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_5",
+    "word": "un bebé → bebés",
+    "translation": "um bebê → bebês",
+    "pronunciation": "/un beˈβe → beˈβes/",
+    "portuguesePhonetic": "[un bebé → bebés]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_6",
+    "word": "un país → países",
+    "translation": "um país → países",
+    "pronunciation": "/un paˈis → paˈises/",
+    "portuguesePhonetic": "[un país → países]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_7",
+    "word": "un día → días",
+    "translation": "um dia → dias",
+    "pronunciation": "/un ˈdia → ˈdias/",
+    "portuguesePhonetic": "[un día → días]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_8",
+    "word": "un juguete → juguetes",
+    "translation": "um brinquedo → brinquedos",
+    "pronunciation": "/un xuˈɣete → xuˈɣetes/",
+    "portuguesePhonetic": "[un rruguéte → rruguétes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_9",
+    "word": "una estantería → estanterías",
+    "translation": "uma prateleira → prateleiras",
+    "pronunciation": "/una estanteˈɾia → estanteˈɾias/",
+    "portuguesePhonetic": "[úna estantería → estanterías]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_10",
+    "word": "una mujer → mujeres",
+    "translation": "uma mulher → mulheres",
+    "pronunciation": "/una muˈxeɾ → muˈxeɾes/",
+    "portuguesePhonetic": "[úna murrér → murréres]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_11",
+    "word": "una mesa",
+    "translation": "uma mesa (feminino → una)",
+    "pronunciation": "/una ˈmesa/",
+    "portuguesePhonetic": "[úna mésa]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_12",
+    "word": "una naranja",
+    "translation": "uma laranja (feminino → una)",
+    "pronunciation": "/una naˈɾaŋxa/",
+    "portuguesePhonetic": "[úna naránrra]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_13",
+    "word": "un huevo",
+    "translation": "um ovo (masculino → un)",
+    "pronunciation": "/un ˈweβo/",
+    "portuguesePhonetic": "[un uébo]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_14",
+    "word": "un hombre → hombres",
+    "translation": "um homem → homens",
+    "pronunciation": "/un ˈombɾe → ˈombɾes/",
+    "portuguesePhonetic": "[un ómbre → ómbres]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_15",
+    "word": "un niño → niños",
+    "translation": "um menino → meninos",
+    "pronunciation": "/un ˈniɲo → ˈniɲos/",
+    "portuguesePhonetic": "[un nínho → nínhos]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_16",
+    "word": "un lápiz → lápices",
+    "translation": "um lápis → lápis (pl.)",
+    "pronunciation": "/un ˈlapiθ → ˈlapiθes/",
+    "portuguesePhonetic": "[un lápith → lápithes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_17",
+    "word": "un pez → peces",
+    "translation": "um peixe → peixes",
+    "pronunciation": "/un peθ → ˈpeθes/",
+    "portuguesePhonetic": "[un péth → péthes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_18",
+    "word": "un pie → pies",
+    "translation": "um pé → pés",
+    "pronunciation": "/un pje → pjes/",
+    "portuguesePhonetic": "[un pié → piés]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_19",
+    "word": "un diente → dientes",
+    "translation": "um dente → dentes",
+    "pronunciation": "/un ˈdjente → ˈdjentes/",
+    "portuguesePhonetic": "[un diénte → diéntes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_20",
+    "word": "un ratón → ratones",
+    "translation": "um rato → ratos",
+    "pronunciation": "/un raˈton → raˈtones/",
+    "portuguesePhonetic": "[un ratón → ratónes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_21",
+    "word": "una oveja → ovejas",
+    "translation": "uma ovelha → ovelhas",
+    "pronunciation": "/una oˈβexa → oˈβexas/",
+    "portuguesePhonetic": "[úna obérra → obérras]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_22",
+    "word": "una hora",
+    "translation": "uma hora",
+    "pronunciation": "/una ˈoɾa/",
+    "portuguesePhonetic": "[úna óra]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_23",
+    "word": "un sombrero",
+    "translation": "um chapéu",
+    "pronunciation": "/un somˈbɾeɾo/",
+    "portuguesePhonetic": "[un sombréro]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_24",
+    "word": "el paraguas → los paraguas",
+    "translation": "o guarda-chuva → os guarda-chuvas",
+    "pronunciation": "/el paˈɾaɣwas → los paˈɾaɣwas/",
+    "portuguesePhonetic": "[el parágwas → los parágwas]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_25",
+    "word": "una universidad → universidades",
+    "translation": "uma universidade → universidades",
+    "pronunciation": "/una uniβeɾsiˈðað → uniβeɾsiˈðaðes/",
+    "portuguesePhonetic": "[úna unibersidád → unibersidádes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_26",
+    "word": "Compro una manzana.",
+    "translation": "Eu compro uma maçã.",
+    "pronunciation": "/ˈkompɾo una manˈθana/",
+    "portuguesePhonetic": "[kómpro úna manthána]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_27",
+    "word": "Necesito tres manzanas.",
+    "translation": "Eu preciso de três maçãs.",
+    "pronunciation": "/neθeˈsito tɾes manˈθanas/",
+    "portuguesePhonetic": "[nethesíto trés manthánas]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_28",
+    "word": "Ella compra una naranja.",
+    "translation": "Ela compra uma laranja.",
+    "pronunciation": "/ˈeʎa ˈkompɾa una naˈɾaŋxa/",
+    "portuguesePhonetic": "[élha kómpra úna naránrra]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_29",
+    "word": "Necesitamos una caja de huevos.",
+    "translation": "Precisamos de uma caixa de ovos.",
+    "pronunciation": "/neθesiˈtamos una ˈkaxa de ˈweβos/",
+    "portuguesePhonetic": "[nethesitámos úna kárra de uébos]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_30",
+    "word": "Los huevos están frescos.",
+    "translation": "Os ovos estão frescos.",
+    "pronunciation": "/los ˈweβos esˈtan ˈfɾeskos/",
+    "portuguesePhonetic": "[los uébos están fréskos]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_31",
+    "word": "Cojo un autobús.",
+    "translation": "Eu pego um ônibus.",
+    "pronunciation": "/ˈkoxo un awtoˈβus/",
+    "portuguesePhonetic": "[kórro un autobús]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_32",
+    "word": "Los autobuses llegan tarde.",
+    "translation": "Os ônibus chegam atrasados.",
+    "pronunciation": "/los awtoˈβuses ˈʎeɣan ˈtaɾðe/",
+    "portuguesePhonetic": "[los autobúses lhégan tárde]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_33",
+    "word": "Llevo un sombrero.",
+    "translation": "Eu uso um chapéu.",
+    "pronunciation": "/ˈʎeβo un somˈbɾeɾo/",
+    "portuguesePhonetic": "[lhébo un sombréro]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_34",
+    "word": "Llevo un paraguas.",
+    "translation": "Eu levo um guarda-chuva.",
+    "pronunciation": "/ˈʎeβo un paˈɾaɣwas/",
+    "portuguesePhonetic": "[lhébo un parágwas]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_35",
+    "word": "Pongo los libros en una estantería.",
+    "translation": "Eu coloco os livros numa prateleira.",
+    "pronunciation": "/ˈpoŋɡo los ˈliβɾos en una estanteˈɾia/",
+    "portuguesePhonetic": "[póngo los líbros en úna estantería]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_36",
+    "word": "Las estanterías están llenas.",
+    "translation": "As prateleiras estão cheias.",
+    "pronunciation": "/las estanteˈɾias esˈtan ˈʎenas/",
+    "portuguesePhonetic": "[las estanterías están lhénas]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_37",
+    "word": "Hay un ratón en la cocina.",
+    "translation": "Tem um rato na cozinha.",
+    "pronunciation": "/ai un raˈton en la koˈθina/",
+    "portuguesePhonetic": "[ái un ratón en la kothína]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_38",
+    "word": "Tenemos dos niños.",
+    "translation": "Nós temos dois filhos.",
+    "pronunciation": "/teˈnemos dos ˈniɲos/",
+    "portuguesePhonetic": "[tenémos dos nínhos]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_39",
+    "word": "El bebé está durmiendo.",
+    "translation": "O bebê está dormindo.",
+    "pronunciation": "/el beˈβe esˈta duɾˈmjendo/",
+    "portuguesePhonetic": "[el bebé está durmiéndo]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_40",
+    "word": "Él es estudiante.",
+    "translation": "Ele é estudiante.",
+    "pronunciation": "/el es estuˈðjante/",
+    "portuguesePhonetic": "[él és estudiánte]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_41",
+    "word": "Los estudiantes estudian mucho.",
+    "translation": "Os estudantes estudam muito.",
+    "pronunciation": "/los estuˈðjantes esˈtuðjan ˈmutʃo/",
+    "portuguesePhonetic": "[los estudiántes estúdian mútcho]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_42",
+    "word": "Ella va a una universidad.",
+    "translation": "Ela vai para uma universidade.",
+    "pronunciation": "/ˈeʎa ba a una uniβeɾsiˈðað/",
+    "portuguesePhonetic": "[élha ba a úna unibersidád]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_43",
+    "word": "Tengo clase en una hora.",
+    "translation": "Eu tenho aula em uma hora.",
+    "pronunciation": "/ˈteŋɡo ˈklase en una ˈoɾa/",
+    "portuguesePhonetic": "[téngo kláse en úna óra]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_44",
+    "word": "Me duele un diente.",
+    "translation": "Meu dente dói.",
+    "pronunciation": "/me ˈdwele un ˈdjente/",
+    "portuguesePhonetic": "[me duéle un diénte]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_45",
+    "word": "El dentista revisa mis dientes.",
+    "translation": "O dentista examina meus dentes.",
+    "pronunciation": "/el denˈtista reˈβisa mis ˈdjentes/",
+    "portuguesePhonetic": "[el dentísta rebísa mis diéntes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_46",
+    "word": "Me duele el pie.",
+    "translation": "Meu pé está dolorido.",
+    "pronunciation": "/me ˈdwele el pje/",
+    "portuguesePhonetic": "[me duéle el pié]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_47",
+    "word": "Hay una oveja en el campo.",
+    "translation": "Tem uma ovelha no campo.",
+    "pronunciation": "/ai una oˈβexa en el ˈkampo/",
+    "portuguesePhonetic": "[ái úna obérra en el kámpo]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_48",
+    "word": "Las ovejas comen hierba.",
+    "translation": "As ovelhas comem grama.",
+    "pronunciation": "/las oˈβexas ˈkomen ˈʝeɾβa/",
+    "portuguesePhonetic": "[las obérras kómen iérba]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_49",
+    "word": "Pesqué un pez.",
+    "translation": "Eu peguei um peixe.",
+    "pronunciation": "/pesˈke un peθ/",
+    "portuguesePhonetic": "[peské un péth]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_50",
+    "word": "Pescamos cinco peces.",
+    "translation": "Pegamos cinco peixes.",
+    "pronunciation": "/pesˈkamos ˈθiŋko ˈpeθes/",
+    "portuguesePhonetic": "[peskámos thínko péthes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_51",
+    "word": "Tengo una caja.",
+    "translation": "Eu tenho uma caixa.",
+    "pronunciation": "/ˈteŋɡo una ˈkaxa/",
+    "portuguesePhonetic": "[téngo úna kárra]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_52",
+    "word": "Ella come una manzana.",
+    "translation": "Ela come uma maçã.",
+    "pronunciation": "/ˈeʎa ˈkome una manˈθana/",
+    "portuguesePhonetic": "[élha kóme úna manthána]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_53",
+    "word": "Él es un hombre.",
+    "translation": "Ele é um homem.",
+    "pronunciation": "/el es un ˈombɾe/",
+    "portuguesePhonetic": "[él és un ómbre]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_54",
+    "word": "Ellos son estudiantes.",
+    "translation": "Eles são estudantes.",
+    "pronunciation": "/ˈeʎos son estuˈðjantes/",
+    "portuguesePhonetic": "[élhos son estudiántes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_55",
+    "word": "Los bebés están llorando.",
+    "translation": "Os bebês estão chorando.",
+    "pronunciation": "/los beˈβes esˈtan ʎoˈɾando/",
+    "portuguesePhonetic": "[los bebés están lhorándo]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_56",
+    "word": "Dos mujeres están hablando.",
+    "translation": "Duas mulheres estão conversando.",
+    "pronunciation": "/dos muˈxeɾes esˈtan aˈβlando/",
+    "portuguesePhonetic": "[dos murréres están ablándo]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_57",
+    "word": "¿Es esto un pez o un juguete?",
+    "translation": "Isto é um peixe ou um brinquedo?",
+    "pronunciation": "/es ˈesto un peθ o un xuˈɣete/",
+    "portuguesePhonetic": "[és ésto un péth o un rruguéte]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_58",
+    "word": "No tengo paraguas.",
+    "translation": "Eu não tenho guarda-chuva.",
+    "pronunciation": "/no ˈteŋɡo paˈɾaɣwas/",
+    "portuguesePhonetic": "[no téngo parágwas]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_59",
+    "word": "¿Cuántas cajas tienes?",
+    "translation": "Quantas caixas você tem?",
+    "pronunciation": "/ˈkwantas ˈkaxas ˈtjenes/",
+    "portuguesePhonetic": "[kuántas kárras tiénes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_60",
+    "word": "¿Hay manzanas?",
+    "translation": "Tem maçãs?",
+    "pronunciation": "/ai manˈθanas/",
+    "portuguesePhonetic": "[ái manthánas]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_61",
+    "word": "Estos no son juguetes.",
+    "translation": "Estes não são brinquedos.",
+    "pronunciation": "/ˈestos no son xuˈɣetes/",
+    "portuguesePhonetic": "[éstos no son rruguétes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_62",
+    "word": "¿Por qué están vacías las estanterías?",
+    "translation": "Por que as prateleiras estão vazias?",
+    "pronunciation": "/poɾ ke esˈtan baˈθias las estanteˈɾias/",
+    "portuguesePhonetic": "[por ké están bathías las estanterías]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_63",
+    "word": "Compré una manzana porque tenía hambre.",
+    "translation": "Eu comprei uma maçã porque estava com fome.",
+    "pronunciation": "/komˈpɾe una manˈθana ˈpoɾke teˈnia ˈambɾe/",
+    "portuguesePhonetic": "[kompré úna manthána pórke tenía âmbre]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_64",
+    "word": "Los niños están jugando con sus juguetes.",
+    "translation": "As crianças estão brincando com os brinquedos delas.",
+    "pronunciation": "/los ˈniɲos esˈtan xuˈɣando kon sus xuˈɣetes/",
+    "portuguesePhonetic": "[los nínhos están rrugándo kon sus rruguétes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_65",
+    "word": "Visitamos tres países el año pasado.",
+    "translation": "Nós visitamos três países no ano passado.",
+    "pronunciation": "/bisiˈtamos tɾes paˈises el ˈaɲo paˈsaðo/",
+    "portuguesePhonetic": "[bisitámos trés países el ánho pasádo]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_66",
+    "word": "Estaba leyendo cuando llegó el autobús.",
+    "translation": "Ela estava lendo quando o ônibus chegou.",
+    "pronunciation": "/esˈtaβa leˈʝendo ˈkwando ʎeˈɣo el awtoˈβus/",
+    "portuguesePhonetic": "[estába leiéndo kuándo lhegó el autobús]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_67",
+    "word": "Los ratones corrieron debajo de la mesa.",
+    "translation": "Os ratos correram para baixo da mesa.",
+    "pronunciation": "/los raˈtones koˈrjeɾon deˈβaxo de la ˈmesa/",
+    "portuguesePhonetic": "[los ratónes korriéron debárro de la mésa]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_68",
+    "word": "Compraré una docena de huevos cuando vaya a la tienda.",
+    "translation": "Vou comprar uma dúzia de ovos quando for ao mercado.",
+    "pronunciation": "/kompɾaˈɾe una doˈθena de ˈweβos ˈkwando ˈbaʝa a la ˈtjenda/",
+    "portuguesePhonetic": "[kompraré úna dothéna de uébos kuándo báia a la tiénda]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_69",
+    "word": "Tiene dos pies, pero le falta un zapato.",
+    "translation": "Ele tem dois pés, mas falta um sapato.",
+    "pronunciation": "/ˈtjene dos pjes ˈpeɾo le ˈfalta un θaˈpato/",
+    "portuguesePhonetic": "[tiéne dos piés péro le fálta un thapáto]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_70",
+    "word": "Aunque es solo una hora, la clase se hace larga.",
+    "translation": "Embora seja só uma hora, a aula parece longa.",
+    "pronunciation": "/ˈawŋke es ˈsolo una ˈoɾa la ˈklase se ˈaθe ˈlaɾɣa/",
+    "portuguesePhonetic": "[áunke és sólo úna óra la kláse se áthe lárga]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_71",
+    "word": "Los hombres y las mujeres trabajan en la misma universidad.",
+    "translation": "Os homens e as mulheres trabalham na mesma universidade.",
+    "pronunciation": "/los ˈombɾes i las muˈxeɾes tɾaˈβaxan en la ˈmisma uniβeɾsiˈðað/",
+    "portuguesePhonetic": "[los ómbres i las murréres trabárran en la mísma unibersidád]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_72",
+    "word": "No llevé paraguas, así que me mojé.",
+    "translation": "Eu não trouxe guarda-chuva, então me molhei.",
+    "pronunciation": "/no ʎeˈβe paˈɾaɣwas aˈsi ke me moˈxe/",
+    "portuguesePhonetic": "[no lhebé parágwas así ke me morré]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_73",
+    "word": "Me duelen los dientes porque comí demasiados dulces.",
+    "translation": "Meus dentes doem porque comi muito doce.",
+    "pronunciation": "/me ˈdwelen los ˈdjentes ˈpoɾke koˈmi demaˈsjaðos ˈdulθes/",
+    "portuguesePhonetic": "[me duélen los diéntes pórke komí demasiádos dúlthes]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_74",
+    "word": "¿Has visto alguna vez un ratón tan grande como este?",
+    "translation": "Você já viu um rato tão grande quanto este?",
+    "pronunciation": "/as ˈbisto alˈɣuna beθ un raˈton tan ˈɡɾande ˈkomo ˈeste/",
+    "portuguesePhonetic": "[as bísto algúna béth un ratón tan gránde kómo éste]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_75",
+    "word": "Necesitamos más estanterías porque tenemos demasiados libros.",
+    "translation": "Precisamos de mais prateleiras porque temos livros demais.",
+    "pronunciation": "/neθesiˈtamos mas estanteˈɾias ˈpoɾke teˈnemos demaˈsjaðos ˈliβɾos/",
+    "portuguesePhonetic": "[nethesitámos mas estanterías pórke tenémos demasiádos líbros]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_76",
+    "word": "«¿Quieres una manzana?» / «Sí, por favor.»",
+    "translation": "\"Você quer uma maçã?\" / \"Sim, por favor.\"",
+    "pronunciation": "/ˈkjeɾes una manˈθana · si poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[kiéres úna manthána · sí por fabór]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_77",
+    "word": "«¿Es esto un autobús o un tren?» / «Es un autobús.»",
+    "translation": "\"Isto é um ônibus ou um trem?\" / \"É um ônibus.\"",
+    "pronunciation": "/es ˈesto un awtoˈβus o un tɾen · es un awtoˈβus/",
+    "portuguesePhonetic": "[és ésto un autobús o un trén · és un autobús]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_78",
+    "word": "«¿Cuántos niños tienes?» / «Dos.»",
+    "translation": "\"Quantos filhos você tem?\" / \"Dois.\"",
+    "pronunciation": "/ˈkwantos ˈniɲos ˈtjenes · dos/",
+    "portuguesePhonetic": "[kuántos nínhos tiénes · dos]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_79",
+    "word": "«¿Son tuyos estos juguetes?» / «Sí, lo son.»",
+    "translation": "\"Estes brinquedos são seus?\" / \"Sim, são.\"",
+    "pronunciation": "/son ˈtuʝos ˈestos xuˈɣetes · si lo son/",
+    "portuguesePhonetic": "[son túios éstos rruguétes · sí lo son]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_80",
+    "word": "«¿Dónde está la caja?» / «En la estantería.»",
+    "translation": "\"Onde está a caixa?\" / \"Na prateleira.\"",
+    "pronunciation": "/ˈdonde esˈta la ˈkaxa · en la estanteˈɾia/",
+    "portuguesePhonetic": "[dônde está la kárra · en la estantería]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_81",
+    "word": "«¿Tienes paraguas?» / «No, no tengo.»",
+    "translation": "\"Você tem guarda-chuva?\" / \"Não, não tenho.\"",
+    "pronunciation": "/ˈtjenes paˈɾaɣwas · no no ˈteŋɡo/",
+    "portuguesePhonetic": "[tiénes parágwas · no no téngo]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_82",
+    "word": "«¿Eso es un pez?» / «Sí, lo es.»",
+    "translation": "\"Aquilo é um peixe?\" / \"Sim, é.\"",
+    "pronunciation": "/ˈeso es un peθ · si lo es/",
+    "portuguesePhonetic": "[éso és un péth · sí lo és]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_83",
+    "word": "«¿Cuántos huevos necesitamos?» / «Seis.»",
+    "translation": "\"Quantos ovos precisamos?\" / \"Seis.\"",
+    "pronunciation": "/ˈkwantos ˈweβos neθesiˈtamos · seis/",
+    "portuguesePhonetic": "[kuántos uébos nethesitámos · séis]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_84",
+    "word": "«¿Es estudiante?» / «Sí, en la universidad.»",
+    "translation": "\"Ele é estudante?\" / \"Sim, na universidade.\"",
+    "pronunciation": "/es estuˈðjante · si en la uniβeɾsiˈðað/",
+    "portuguesePhonetic": "[és estudiánte · sí en la unibersidád]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_85",
+    "word": "«¿Qué hora es?» / «Nos queda una hora.»",
+    "translation": "\"Que horas são?\" / \"Falta uma hora.\"",
+    "pronunciation": "/ke ˈoɾa es · nos ˈkeða una ˈoɾa/",
+    "portuguesePhonetic": "[ke óra és · nos kéda úna óra]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_86",
+    "word": "«¿Hay ratones en casa?» / «Sí, por desgracia.»",
+    "translation": "\"Tem ratos em casa?\" / \"Sim, infelizmente.\"",
+    "pronunciation": "/ai raˈtones en ˈkasa · si poɾ desˈɣɾaθja/",
+    "portuguesePhonetic": "[ái ratónes en kása · sí por desgráthia]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_87",
+    "word": "«¿Viven ovejas aquí?» / «Sí, en la granja.»",
+    "translation": "\"Tem ovelhas aqui?\" / \"Sim, na fazenda.\"",
+    "pronunciation": "/ˈbiβen oˈβexas aˈki · si en la ˈɡɾanxa/",
+    "portuguesePhonetic": "[bíben obérras akí · sí en la gránrra]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_88",
+    "word": "«¿Esto es una naranja?» / «No, es un limón.»",
+    "translation": "\"Isto é uma laranja?\" / \"Não, é um limão.\"",
+    "pronunciation": "/ˈesto es una naˈɾaŋxa · no es un liˈmon/",
+    "portuguesePhonetic": "[ésto és úna naránrra · no és un limón]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_89",
+    "word": "«¿Estos hombres son tus hermanos?» / «No, son mis primos.»",
+    "translation": "\"Estes homens são seus irmãos?\" / \"Não, são meus primos.\"",
+    "pronunciation": "/ˈestos ˈombɾes son tus eɾˈmanos · no son mis ˈpɾimos/",
+    "portuguesePhonetic": "[éstos ómbres son tus ermános · no son mis prímos]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_90",
+    "word": "«¿Todavía te duele el diente?» / «No, ya está mejor.»",
+    "translation": "\"Seu dente ainda dói?\" / \"Não, já está melhor.\"",
+    "pronunciation": "/toðaˈβia te ˈdwele el ˈdjente · no ʝa esˈta meˈxoɾ/",
+    "portuguesePhonetic": "[todabía te duéle el diénte · no ia está merrór]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_91",
+    "word": "«¿Cuántos países has visitado?» / «Tres.»",
+    "translation": "\"Quantos países você visitou?\" / \"Três.\"",
+    "pronunciation": "/ˈkwantos paˈises as bisiˈtaðo · tɾes/",
+    "portuguesePhonetic": "[kuántos países as bisitádo · trés]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_92",
+    "word": "«¿Eso es un sombrero?» / «Sí, es mío.»",
+    "translation": "\"Aquilo é um chapéu?\" / \"Sim, é meu.\"",
+    "pronunciation": "/ˈeso es un somˈbɾeɾo · si es ˈmio/",
+    "portuguesePhonetic": "[éso és un sombréro · sí és mío]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_93",
+    "word": "«¿Son profesoras las mujeres?» / «Sí, lo son.»",
+    "translation": "\"As mulheres são professoras?\" / \"Sim, são.\"",
+    "pronunciation": "/son pɾofeˈsoɾas las muˈxeɾes · si lo son/",
+    "portuguesePhonetic": "[son profesóras las murréres · sí lo son]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_94",
+    "word": "«¿Necesitas una caja?» / «Sí, una grande.»",
+    "translation": "\"Você precisa de uma caixa?\" / \"Sim, uma grande.\"",
+    "pronunciation": "/neθeˈsitas una ˈkaxa · si una ˈɡɾande/",
+    "portuguesePhonetic": "[nethesítas úna kárra · sí úna gránde]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_95",
+    "word": "«¿Es una hora o dos?» / «Solo una hora.»",
+    "translation": "\"É uma hora ou duas?\" / \"Só uma hora.\"",
+    "pronunciation": "/es una ˈoɾa o dos · ˈsolo una ˈoɾa/",
+    "portuguesePhonetic": "[és úna óra o dos · sólo úna óra]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_96",
+    "word": "«¿Son tuyas estas estanterías?» / «No, son suyas.»",
+    "translation": "\"Estas prateleiras são suas?\" / \"Não, são dela.\"",
+    "pronunciation": "/son ˈtuʝas ˈestas estanteˈɾias · no son ˈsuʝas/",
+    "portuguesePhonetic": "[son túias éstas estanterías · no son súias]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_97",
+    "word": "«¿Me das un huevo?» / «Claro, coge dos.»",
+    "translation": "\"Me dá um ovo?\" / \"Claro, pega dois.\"",
+    "pronunciation": "/me das un ˈweβo · ˈklaɾo ˈkoxe dos/",
+    "portuguesePhonetic": "[me das un uébo · kláro kórre dos]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_98",
+    "word": "«¿Está bien tu pie?» / «No, me duele.»",
+    "translation": "\"Seu pé está bem?\" / \"Não, está doendo.\"",
+    "pronunciation": "/esˈta bjen tu pje · no me ˈdwele/",
+    "portuguesePhonetic": "[está bién tu pié · no me duéle]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_99",
+    "word": "«¿Esos bebés son gemelos?» / «Sí, lo son.»",
+    "translation": "\"Aqueles bebês são gêmeos?\" / \"Sim, são.\"",
+    "pronunciation": "/ˈesos beˈβes son xeˈmelos · si lo son/",
+    "portuguesePhonetic": "[ésos bebés son rremélos · sí lo son]"
+  },
+  {
+    "id": "leccion_4_gramatica_a1_s_es_card_100",
+    "word": "«¿Esto es una universidad?» / «Sí, una grande.»",
+    "translation": "\"Isto é uma universidade?\" / \"Sim, uma grande.\"",
+    "pronunciation": "/ˈesto es una uniβeɾsiˈðað · si una ˈɡɾande/",
+    "portuguesePhonetic": "[ésto és úna unibersidád · sí úna gránde]"
+  }
+]

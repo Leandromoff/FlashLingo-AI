@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_1",
+    "word": "feliz",
+    "translation": "feliz (invariável no gênero)",
+    "pronunciation": "/feˈliθ/",
+    "portuguesePhonetic": "[felíth]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_2",
+    "word": "triste",
+    "translation": "triste (invariável)",
+    "pronunciation": "/ˈtɾiste/",
+    "portuguesePhonetic": "[tríste]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_3",
+    "word": "alto / alta",
+    "translation": "alto / alta",
+    "pronunciation": "/ˈalto · ˈalta/",
+    "portuguesePhonetic": "[álto · álta]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_4",
+    "word": "bajo / baja",
+    "translation": "baixo / baixa",
+    "pronunciation": "/ˈbaxo · ˈbaxa/",
+    "portuguesePhonetic": "[bárro · bárra]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_5",
+    "word": "joven",
+    "translation": "jovem (invariável)",
+    "pronunciation": "/ˈxoβen/",
+    "portuguesePhonetic": "[rróben]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_6",
+    "word": "viejo / vieja",
+    "translation": "velho / velha (pessoas: mejor \"mayor\")",
+    "pronunciation": "/ˈbjexo · ˈbjexa/",
+    "portuguesePhonetic": "[biérro · biérra]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_7",
+    "word": "fuerte",
+    "translation": "forte (invariável)",
+    "pronunciation": "/ˈfweɾte/",
+    "portuguesePhonetic": "[fuérte]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_8",
+    "word": "débil",
+    "translation": "fraco (invariável)",
+    "pronunciation": "/ˈdeβil/",
+    "portuguesePhonetic": "[débil]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_9",
+    "word": "gordo / gorda",
+    "translation": "gordo / gorda",
+    "pronunciation": "/ˈɡoɾðo · ˈɡoɾða/",
+    "portuguesePhonetic": "[górdo · górda]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_10",
+    "word": "delgado / delgada",
+    "translation": "magro / magra",
+    "pronunciation": "/delˈɣaðo · delˈɣaða/",
+    "portuguesePhonetic": "[delgádo · delgáda]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_11",
+    "word": "guapo / guapa",
+    "translation": "bonito / bonita (Espanha)",
+    "pronunciation": "/ˈɡwapo · ˈɡwapa/",
+    "portuguesePhonetic": "[guápo · guápa]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_12",
+    "word": "feo / fea",
+    "translation": "feio / feia",
+    "pronunciation": "/ˈfeo · ˈfea/",
+    "portuguesePhonetic": "[féo · féa]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_13",
+    "word": "amable",
+    "translation": "gentil / bondoso (invariável)",
+    "pronunciation": "/aˈmaβle/",
+    "portuguesePhonetic": "[amáble]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_14",
+    "word": "simpático / simpática",
+    "translation": "simpático",
+    "pronunciation": "/simˈpatiko · simˈpatika/",
+    "portuguesePhonetic": "[simpátiko · simpátika]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_15",
+    "word": "tímido / tímida",
+    "translation": "tímido",
+    "pronunciation": "/ˈtimiðo · ˈtimiða/",
+    "portuguesePhonetic": "[tímido · tímida]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_16",
+    "word": "inteligente",
+    "translation": "inteligente (invariável)",
+    "pronunciation": "/inteliˈxente/",
+    "portuguesePhonetic": "[intelirrénte]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_17",
+    "word": "gracioso / graciosa",
+    "translation": "engraçado",
+    "pronunciation": "/ɡɾaˈθjoso · ɡɾaˈθjosa/",
+    "portuguesePhonetic": "[grathióso · grathiósa]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_18",
+    "word": "cansado / cansada",
+    "translation": "cansado",
+    "pronunciation": "/kanˈsaðo · kanˈsaða/",
+    "portuguesePhonetic": "[kansádo · kansáda]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_19",
+    "word": "majo / maja",
+    "translation": "legal / bacana (Espanha)",
+    "pronunciation": "/ˈmaxo · ˈmaxa/",
+    "portuguesePhonetic": "[márro · márra]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_20",
+    "word": "atractivo / atractiva",
+    "translation": "atraente",
+    "pronunciation": "/atɾakˈtiβo · atɾakˈtiβa/",
+    "portuguesePhonetic": "[atraktíbo · atraktíba]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_21",
+    "word": "bonito / bonita",
+    "translation": "bonito / bonita",
+    "pronunciation": "/boˈnito · boˈnita/",
+    "portuguesePhonetic": "[boníto · boníta]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_22",
+    "word": "esbelto / esbelta",
+    "translation": "esbelto",
+    "pronunciation": "/ezˈβelto · ezˈβelta/",
+    "portuguesePhonetic": "[esbélto · esbélta]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_23",
+    "word": "grande",
+    "translation": "grande (invariável)",
+    "pronunciation": "/ˈɡɾande/",
+    "portuguesePhonetic": "[gránde]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_24",
+    "word": "pequeño / pequeña",
+    "translation": "pequeno",
+    "pronunciation": "/peˈkeɲo · peˈkeɲa/",
+    "portuguesePhonetic": "[pekénho · pekénha]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_25",
+    "word": "sano / sana",
+    "translation": "saudável",
+    "pronunciation": "/ˈsano · ˈsana/",
+    "portuguesePhonetic": "[sáno · sána]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_26",
+    "word": "Mi hermano es alto.",
+    "translation": "Meu irmão é alto.",
+    "pronunciation": "/mi eɾˈmano es ˈalto/",
+    "portuguesePhonetic": "[mi ermáno és álto]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_27",
+    "word": "Mi hermana es baja.",
+    "translation": "Minha irmã é baixa.",
+    "pronunciation": "/mi eɾˈmana es ˈbaxa/",
+    "portuguesePhonetic": "[mi ermána és bárra]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_28",
+    "word": "Mi abuelo es mayor.",
+    "translation": "Meu avô é idoso.",
+    "pronunciation": "/mi aˈβwelo es maˈʝoɾ/",
+    "portuguesePhonetic": "[mi abuélo és maiór]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_29",
+    "word": "Mi primo es joven.",
+    "translation": "Meu primo é joven.",
+    "pronunciation": "/mi ˈpɾimo es ˈxoβen/",
+    "portuguesePhonetic": "[mi prímo és rróben]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_30",
+    "word": "Mi madre es guapa.",
+    "translation": "Minha mãe é linda.",
+    "pronunciation": "/mi ˈmaðɾe es ˈɡwapa/",
+    "portuguesePhonetic": "[mi mádre és guápa]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_31",
+    "word": "Él es muy fuerte.",
+    "translation": "Ele é muito forte.",
+    "pronunciation": "/el es mui ˈfweɾte/",
+    "portuguesePhonetic": "[él és múi fuérte]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_32",
+    "word": "Hoy me siento débil.",
+    "translation": "Hoje me sinto fraco.",
+    "pronunciation": "/oi me ˈsjento ˈdeβil/",
+    "portuguesePhonetic": "[ôi me siénto débil]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_33",
+    "word": "Ella es delgada y sana.",
+    "translation": "Ela é magra e saudável.",
+    "pronunciation": "/ˈeʎa es delˈɣaða i ˈsana/",
+    "portuguesePhonetic": "[élha és delgáda i sána]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_34",
+    "word": "Él quiere ser fuerte.",
+    "translation": "Ele quer ser forte.",
+    "pronunciation": "/el ˈkjeɾe seɾ ˈfweɾte/",
+    "portuguesePhonetic": "[él kiére sér fuérte]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_35",
+    "word": "Mi amigo es gracioso.",
+    "translation": "Meu amigo é engraçado.",
+    "pronunciation": "/mi aˈmiɣo es ɡɾaˈθjoso/",
+    "portuguesePhonetic": "[mi amígo és grathióso]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_36",
+    "word": "Ella es muy simpática.",
+    "translation": "Ela é muito simpática.",
+    "pronunciation": "/ˈeʎa es mui simˈpatika/",
+    "portuguesePhonetic": "[élha és múi simpátika]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_37",
+    "word": "Él es tímido en las fiestas.",
+    "translation": "Ele é tímido nas festas.",
+    "pronunciation": "/el es ˈtimiðo en las ˈfjestas/",
+    "portuguesePhonetic": "[él és tímido en las fiéstas]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_38",
+    "word": "Están felices juntos.",
+    "translation": "Eles estão felizes juntos.",
+    "pronunciation": "/esˈtan feˈliθes ˈxuntos/",
+    "portuguesePhonetic": "[están felíthes rrúntos]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_39",
+    "word": "Mi jefe es amable.",
+    "translation": "Meu chefe é gentil.",
+    "pronunciation": "/mi ˈxefe es aˈmaβle/",
+    "portuguesePhonetic": "[mi rréfe és amáble]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_40",
+    "word": "El chico nuevo es inteligente.",
+    "translation": "O cara novo é inteligente.",
+    "pronunciation": "/el ˈtʃiko ˈnweβo es inteliˈxente/",
+    "portuguesePhonetic": "[el tchíko nuébo és intelirrénte]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_41",
+    "word": "Ella es una persona maja.",
+    "translation": "Ela é uma pessoa legal.",
+    "pronunciation": "/ˈeʎa es una peɾˈsona ˈmaxa/",
+    "portuguesePhonetic": "[élha és úna persóna márra]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_42",
+    "word": "Él es guapo.",
+    "translation": "Ele é bonito.",
+    "pronunciation": "/el es ˈɡwapo/",
+    "portuguesePhonetic": "[él és guápo]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_43",
+    "word": "Ella es guapa.",
+    "translation": "Ela é bonita.",
+    "pronunciation": "/ˈeʎa es ˈɡwapa/",
+    "portuguesePhonetic": "[élha és guápa]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_44",
+    "word": "El bebé es pequeño.",
+    "translation": "O bebê é pequeno.",
+    "pronunciation": "/el beˈβe es peˈkeɲo/",
+    "portuguesePhonetic": "[el bebé és pekénho]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_45",
+    "word": "El hombre es grande.",
+    "translation": "O homem é grande.",
+    "pronunciation": "/el ˈombɾe es ˈɡɾande/",
+    "portuguesePhonetic": "[el ómbre és gránde]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_46",
+    "word": "Esta noche estoy cansado.",
+    "translation": "Esta noite estou cansado.",
+    "pronunciation": "/ˈesta ˈnotʃe esˈtoi kanˈsaðo/",
+    "portuguesePhonetic": "[ésta nótche estôi kansádo]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_47",
+    "word": "Ella parece triste.",
+    "translation": "Ela parece triste.",
+    "pronunciation": "/ˈeʎa paˈɾeθe ˈtɾiste/",
+    "portuguesePhonetic": "[élha paréthe tríste]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_48",
+    "word": "Él parece feliz.",
+    "translation": "Ele parece feliz.",
+    "pronunciation": "/el paˈɾeθe feˈliθ/",
+    "portuguesePhonetic": "[él paréthe felíth]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_49",
+    "word": "Mi perro es pequeño pero fuerte.",
+    "translation": "Meu cachorro é pequeno mas forte.",
+    "pronunciation": "/mi ˈpero es peˈkeɲo ˈpeɾo ˈfweɾte/",
+    "portuguesePhonetic": "[mi pérro és pekénho péro fuérte]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_50",
+    "word": "Él es mayor pero está sano.",
+    "translation": "Ele é idoso mas saudável.",
+    "pronunciation": "/el es maˈʝoɾ ˈpeɾo esˈta ˈsano/",
+    "portuguesePhonetic": "[él és maiór péro está sáno]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_51",
+    "word": "Ella está contenta.",
+    "translation": "Ela está feliz.",
+    "pronunciation": "/ˈeʎa esˈta konˈtenta/",
+    "portuguesePhonetic": "[élha está konténta]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_52",
+    "word": "Él es alto.",
+    "translation": "Ele é alto.",
+    "pronunciation": "/el es ˈalto/",
+    "portuguesePhonetic": "[él és álto]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_53",
+    "word": "Ellos son jóvenes.",
+    "translation": "Eles são jovens.",
+    "pronunciation": "/ˈeʎos son ˈxoβenes/",
+    "portuguesePhonetic": "[élhos son rróbenes]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_54",
+    "word": "El hombre es fuerte.",
+    "translation": "O homem é forte.",
+    "pronunciation": "/el ˈombɾe es ˈfweɾte/",
+    "portuguesePhonetic": "[el ómbre és fuérte]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_55",
+    "word": "Mi hermano es más alto que yo.",
+    "translation": "Meu irmão é mais alto que eu.",
+    "pronunciation": "/mi eɾˈmano es mas ˈalto ke ʝo/",
+    "portuguesePhonetic": "[mi ermáno és mas álto ke iô]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_56",
+    "word": "Ella es más joven que su hermana.",
+    "translation": "Ela é mais nova que a irmã.",
+    "pronunciation": "/ˈeʎa es mas ˈxoβen ke su eɾˈmana/",
+    "portuguesePhonetic": "[élha és mas rróben ke su ermána]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_57",
+    "word": "¿Es más fuerte que tú?",
+    "translation": "Ele é mais forte que você?",
+    "pronunciation": "/es mas ˈfweɾte ke tu/",
+    "portuguesePhonetic": "[és mas fuérte ke tu]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_58",
+    "word": "No soy tan alto como él.",
+    "translation": "Eu não sou tão alto quanto ele.",
+    "pronunciation": "/no soi tan ˈalto ˈkomo el/",
+    "portuguesePhonetic": "[no sôi tan álto kómo él]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_59",
+    "word": "¿Por qué está triste?",
+    "translation": "Por que ela está triste?",
+    "pronunciation": "/poɾ ke esˈta ˈtɾiste/",
+    "portuguesePhonetic": "[por ké está tríste]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_60",
+    "word": "¿Estás cansado?",
+    "translation": "Você está cansado?",
+    "pronunciation": "/esˈtas kanˈsaðo/",
+    "portuguesePhonetic": "[estás kansádo]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_61",
+    "word": "Él no es débil; es fuerte.",
+    "translation": "Ele não é fraco; é forte.",
+    "pronunciation": "/el no es ˈdeβil es ˈfweɾte/",
+    "portuguesePhonetic": "[él no és débil és fuérte]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_62",
+    "word": "¿Cómo es tu amigo?",
+    "translation": "Como é seu amigo?",
+    "pronunciation": "/ˈkomo es tu aˈmiɣo/",
+    "portuguesePhonetic": "[kómo és tu amígo]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_63",
+    "word": "Ella es guapa y muy amable.",
+    "translation": "Ela é linda e muito gentil.",
+    "pronunciation": "/ˈeʎa es ˈɡwapa i mui aˈmaβle/",
+    "portuguesePhonetic": "[élha és guápa i múi amáble]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_64",
+    "word": "Parece joven, pero tiene cincuenta.",
+    "translation": "Ele parece jovem, mas tem cinquenta.",
+    "pronunciation": "/paˈɾeθe ˈxoβen ˈpeɾo ˈtjene θiŋˈkwenta/",
+    "portuguesePhonetic": "[paréthe rróben péro tiéne thinkuénta]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_65",
+    "word": "Ayer estaba triste, pero ahora estoy feliz.",
+    "translation": "Ontem estava triste, mas agora estou feliz.",
+    "pronunciation": "/aˈʝeɾ esˈtaβa ˈtɾiste ˈpeɾo aˈoɾa esˈtoi feˈliθ/",
+    "portuguesePhonetic": "[aiér estába tríste péro aóra estôi felíth]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_66",
+    "word": "Mi abuelo era fuerte cuando era joven.",
+    "translation": "Meu avô era forte cuando era joven.",
+    "pronunciation": "/mi aˈβwelo ˈeɾa ˈfweɾte ˈkwando ˈeɾa ˈxoβen/",
+    "portuguesePhonetic": "[mi abuélo éra fuérte kuándo éra rróben]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_67",
+    "word": "Se hizo famosa porque tiene talento.",
+    "translation": "Ela ficou famosa porque tem talento.",
+    "pronunciation": "/se ˈiθo faˈmosa ˈpoɾke ˈtjene taˈlento/",
+    "portuguesePhonetic": "[se ítho famósa pórke tiéne talénto]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_68",
+    "word": "Aunque es mayor, todavía es muy fuerte.",
+    "translation": "Embora seja idoso, ainda é muito forte.",
+    "pronunciation": "/ˈawŋke es maˈʝoɾ toðaˈβia es mui ˈfweɾte/",
+    "portuguesePhonetic": "[áunke és maiór todabía és múi fuérte]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_69",
+    "word": "Es la persona más guapa que conozco.",
+    "translation": "Ela é a pessoa mais linda que conheço.",
+    "pronunciation": "/es la peɾˈsona mas ˈɡwapa ke koˈnoθko/",
+    "portuguesePhonetic": "[és la persóna mas guápa ke konóthko]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_70",
+    "word": "Antes era delgado, pero ahora está más gordo.",
+    "translation": "Ele costumava ser magro, mas agora está mais gordo.",
+    "pronunciation": "/ˈantes ˈeɾa delˈɣaðo ˈpeɾo aˈoɾa esˈta mas ˈɡoɾðo/",
+    "portuguesePhonetic": "[ántes éra delgádo péro aóra está mas górdo]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_71",
+    "word": "Dicen que me parezco a mi madre cuando era joven.",
+    "translation": "Dizem que eu pareço minha mãe quando ela era jovem.",
+    "pronunciation": "/ˈdiθen ke me paˈɾeθko a mi ˈmaðɾe ˈkwando ˈeɾa ˈxoβen/",
+    "portuguesePhonetic": "[díthen ke me paréthko a mi mádre kuándo éra rróben]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_72",
+    "word": "No es alto, pero es un gran jugador de baloncesto.",
+    "translation": "Ele não é alto, mas é um ótimo jogador de basquete.",
+    "pronunciation": "/no es ˈalto ˈpeɾo es un ɡɾan xuɣaˈðoɾ de balonˈθesto/",
+    "portuguesePhonetic": "[no és álto péro és un gran rrugadór de balonthésto]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_73",
+    "word": "Mi hermana es tímida, así que no le gustan las fiestas grandes.",
+    "translation": "Minha irmã é tímida, então não gosta de festas grandes.",
+    "pronunciation": "/mi eɾˈmana es ˈtimiða aˈsi ke no le ˈɡustan las ˈfjestas ˈɡɾandes/",
+    "portuguesePhonetic": "[mi ermána és tímida así ke no le gústan las fiéstas grándes]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_74",
+    "word": "¿Te has fijado en lo feliz que parece hoy?",
+    "translation": "Você reparou como ela parece feliz hoje?",
+    "pronunciation": "/te as fiˈxaðo en lo feˈliθ ke paˈɾeθe oi/",
+    "portuguesePhonetic": "[te as firrádo en lo felíth ke paréthe ôi]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_75",
+    "word": "Está fuerte y sano porque hace ejercicio cada día.",
+    "translation": "Ele é forte e saudável porque se exercita todo dia.",
+    "pronunciation": "/esˈta ˈfweɾte i ˈsano ˈpoɾke ˈaθe exeɾˈθiθjo ˈkaða ˈdia/",
+    "portuguesePhonetic": "[está fuérte i sáno pórke áthe errerthíthio káda día]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_76",
+    "word": "«¿Es alto tu hermano?» / «Sí, muy alto.»",
+    "translation": "\"Seu irmão é alto?\" / \"Sim, muito alto.\"",
+    "pronunciation": "/es ˈalto tu eɾˈmano · si mui ˈalto/",
+    "portuguesePhonetic": "[és álto tu ermáno · sí múi álto]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_77",
+    "word": "«¿Por qué estás triste?» / «He perdido las llaves.»",
+    "translation": "\"Por que você está triste?\" / \"Perdi as chaves.\"",
+    "pronunciation": "/poɾ ke esˈtas ˈtɾiste · e peɾˈðiðo las ˈʎaβes/",
+    "portuguesePhonetic": "[por ké estás tríste · e perdído las lhábes]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_78",
+    "word": "«¿Es joven?» / «No, es bastante mayor.»",
+    "translation": "\"Ela é jovem?\" / \"Não, é bem idosa.\"",
+    "pronunciation": "/es ˈxoβen · no es basˈtante maˈʝoɾ/",
+    "portuguesePhonetic": "[és rróben · no és bastánte maiór]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_79",
+    "word": "«¿Estás contento?» / «Sí, muy contento.»",
+    "translation": "\"Você está feliz?\" / \"Sim, muito feliz.\"",
+    "pronunciation": "/esˈtas konˈtento · si mui konˈtento/",
+    "portuguesePhonetic": "[estás konténto · sí múi konténto]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_80",
+    "word": "«¿Es fuerte?» / «Sí, entrena mucho.»",
+    "translation": "\"Ele é forte?\" / \"Sim, treina muito.\"",
+    "pronunciation": "/es ˈfweɾte · si enˈtɾena ˈmutʃo/",
+    "portuguesePhonetic": "[és fuérte · sí entréna mútcho]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_81",
+    "word": "«¿Te sientes débil?» / «Un poco, sí.»",
+    "translation": "\"Você se sente fraco?\" / \"Um pouco, sim.\"",
+    "pronunciation": "/te ˈsjentes ˈdeβil · un ˈpoko si/",
+    "portuguesePhonetic": "[te siéntes débil · un póko sí]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_82",
+    "word": "«¿Cómo es ella?» / «Es alta y delgada.»",
+    "translation": "\"Como ela é?\" / \"Ela é alta e magra.\"",
+    "pronunciation": "/ˈkomo es ˈeʎa · es ˈalta i delˈɣaða/",
+    "portuguesePhonetic": "[kómo és élha · és álta i delgáda]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_83",
+    "word": "«¿Es guapo?» / «Sí, eso creo.»",
+    "translation": "\"Ele é bonito?\" / \"Sim, acho que sim.\"",
+    "pronunciation": "/es ˈɡwapo · si ˈeso ˈkɾeo/",
+    "portuguesePhonetic": "[és guápo · sí éso kréo]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_84",
+    "word": "«¿Son simpáticos?» / «Sí, mucho.»",
+    "translation": "\"Eles são simpáticos?\" / \"Sim, muito.\"",
+    "pronunciation": "/son simˈpatikos · si ˈmutʃo/",
+    "portuguesePhonetic": "[son simpátikos · sí mútcho]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_85",
+    "word": "«¿Es grande tu perro?» / «No, es pequeño.»",
+    "translation": "\"Seu cachorro é grande?\" / \"Não, é pequeno.\"",
+    "pronunciation": "/es ˈɡɾande tu ˈpero · no es peˈkeɲo/",
+    "portuguesePhonetic": "[és gránde tu pérro · no és pekénho]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_86",
+    "word": "«¿Es guapa?» / «Sí, muchísimo.»",
+    "translation": "\"Ela é linda?\" / \"Sim, muitíssimo.\"",
+    "pronunciation": "/es ˈɡwapa · si muˈtʃisimo/",
+    "portuguesePhonetic": "[és guápa · sí mutchísimo]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_87",
+    "word": "«¿Estás cansado?» / «Sí, necesito dormir.»",
+    "translation": "\"Você está cansado?\" / \"Sim, preciso dormir.\"",
+    "pronunciation": "/esˈtas kanˈsaðo · si neθeˈsito doɾˈmiɾ/",
+    "portuguesePhonetic": "[estás kansádo · sí nethesíto dormír]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_88",
+    "word": "«¿Tu profesora es amable?» / «Sí, lo es.»",
+    "translation": "\"Sua professora é gentil?\" / \"Sim, é.\"",
+    "pronunciation": "/tu pɾofeˈsoɾa es aˈmaβle · si lo es/",
+    "portuguesePhonetic": "[tu profesóra és amáble · sí lo és]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_89",
+    "word": "«¿Es tímido?» / «Un poco, con gente nueva.»",
+    "translation": "\"Ele é tímido?\" / \"Um pouco, com gente nova.\"",
+    "pronunciation": "/es ˈtimiðo · un ˈpoko kon ˈxente ˈnweβa/",
+    "portuguesePhonetic": "[és tímido · un póko kon rrénte nuéba]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_90",
+    "word": "«¿Quién es más alto, tú o tu hermano?» / «Mi hermano.»",
+    "translation": "\"Quem é mais alto, você ou seu irmão?\" / \"Meu irmão.\"",
+    "pronunciation": "/kjen es mas ˈalto tu o tu eɾˈmano · mi eɾˈmano/",
+    "portuguesePhonetic": "[kién és mas álto tu o tu ermáno · mi ermáno]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_91",
+    "word": "«¿Tu abuela es mayor?» / «Sí, tiene ochenta.»",
+    "translation": "\"Sua avó é idosa?\" / \"Sim, tem oitenta.\"",
+    "pronunciation": "/tu aˈβwela es maˈʝoɾ · si ˈtjene oˈtʃenta/",
+    "portuguesePhonetic": "[tu abuéla és maiór · sí tiéne otchénta]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_92",
+    "word": "«¿Estás sano?» / «Sí, hago ejercicio a diario.»",
+    "translation": "\"Você é saudável?\" / \"Sim, me exercito todo dia.\"",
+    "pronunciation": "/esˈtas ˈsano · si ˈaɣo exeɾˈθiθjo a ˈðjaɾjo/",
+    "portuguesePhonetic": "[estás sáno · sí águo errerthíthio a diário]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_93",
+    "word": "«¿Es gracioso?» / «Sí, me hace reír.»",
+    "translation": "\"Ele é engraçado?\" / \"Sim, ele me faz rir.\"",
+    "pronunciation": "/es ɡɾaˈθjoso · si me ˈaθe reˈiɾ/",
+    "portuguesePhonetic": "[és grathióso · sí me áthe reír]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_94",
+    "word": "«¿Es inteligente?» / «Sí, muy inteligente.»",
+    "translation": "\"Ela é inteligente?\" / \"Sim, muito inteligente.\"",
+    "pronunciation": "/es inteliˈxente · si mui inteliˈxente/",
+    "portuguesePhonetic": "[és intelirrénte · sí múi intelirrénte]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_95",
+    "word": "«¿Eres lo bastante fuerte?» / «Creo que sí.»",
+    "translation": "\"Você é forte o suficiente?\" / \"Acho que sim.\"",
+    "pronunciation": "/ˈeɾes lo basˈtante ˈfweɾte · ˈkɾeo ke si/",
+    "portuguesePhonetic": "[éres lo bastánte fuérte · kréo ke sí]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_96",
+    "word": "«¿Parece joven?» / «Sí, más joven de lo que es.»",
+    "translation": "\"Ele parece jovem?\" / \"Sim, mais jovem do que é.\"",
+    "pronunciation": "/paˈɾeθe ˈxoβen · si mas ˈxoβen de lo ke es/",
+    "portuguesePhonetic": "[paréthe rróben · sí mas rróben de lo ke és]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_97",
+    "word": "«¿Es pequeño el bebé?» / «Sí, tiene dos meses.»",
+    "translation": "\"O bebê é pequeno?\" / \"Sim, tem dois meses.\"",
+    "pronunciation": "/es peˈkeɲo el beˈβe · si ˈtjene dos ˈmeses/",
+    "portuguesePhonetic": "[és pekénho el bebé · sí tiéne dos méses]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_98",
+    "word": "«¿Tu amigo es majo?» / «Sí, muy majo.»",
+    "translation": "\"Seu amigo é legal?\" / \"Sim, muito legal.\"",
+    "pronunciation": "/tu aˈmiɣo es ˈmaxo · si mui ˈmaxo/",
+    "portuguesePhonetic": "[tu amígo és márro · sí múi márro]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_99",
+    "word": "«¿Estás delgado o gordo?» / «Estoy bastante delgado.»",
+    "translation": "\"Você é magro ou gordo?\" / \"Sou bem magro.\"",
+    "pronunciation": "/esˈtas delˈɣaðo o ˈɡoɾðo · esˈtoi basˈtante delˈɣaðo/",
+    "portuguesePhonetic": "[estás delgádo o górdo · estôi bastánte delgádo]"
+  },
+  {
+    "id": "leccion_4_vocabulario_a1_s_es_card_100",
+    "word": "«¿Es más guapa que su hermana?» / «Las dos son guapas.»",
+    "translation": "\"Ela é mais bonita que a irmã?\" / \"As duas são bonitas.\"",
+    "pronunciation": "/es mas ˈɡwapa ke su eɾˈmana · las dos son ˈɡwapas/",
+    "portuguesePhonetic": "[és mas guápa ke su ermána · las dos son guápas]"
+  }
+]

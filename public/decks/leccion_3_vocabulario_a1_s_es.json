@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_1",
+    "word": "la familia",
+    "translation": "a família",
+    "pronunciation": "/la faˈmilja/",
+    "portuguesePhonetic": "[la famílha]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_2",
+    "word": "el abuelo",
+    "translation": "o avô",
+    "pronunciation": "/el aˈβwelo/",
+    "portuguesePhonetic": "[el abuélo]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_3",
+    "word": "la abuela",
+    "translation": "a avó",
+    "pronunciation": "/la aˈβwela/",
+    "portuguesePhonetic": "[la abuéla]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_4",
+    "word": "el tío",
+    "translation": "o tio",
+    "pronunciation": "/el ˈtio/",
+    "portuguesePhonetic": "[el tío]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_5",
+    "word": "la tía",
+    "translation": "a tia",
+    "pronunciation": "/la ˈtia/",
+    "portuguesePhonetic": "[la tía]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_6",
+    "word": "el padre",
+    "translation": "o pai",
+    "pronunciation": "/el ˈpaðɾe/",
+    "portuguesePhonetic": "[el pádre]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_7",
+    "word": "la madre",
+    "translation": "a mãe",
+    "pronunciation": "/la ˈmaðɾe/",
+    "portuguesePhonetic": "[la mádre]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_8",
+    "word": "el primo / la prima",
+    "translation": "o primo / a prima",
+    "pronunciation": "/el ˈpɾimo · la ˈpɾima/",
+    "portuguesePhonetic": "[el prímo · la príma]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_9",
+    "word": "el hermano",
+    "translation": "o irmão",
+    "pronunciation": "/el eɾˈmano/",
+    "portuguesePhonetic": "[el ermáno]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_10",
+    "word": "la hermana",
+    "translation": "a irmã",
+    "pronunciation": "/la eɾˈmana/",
+    "portuguesePhonetic": "[la ermána]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_11",
+    "word": "el cuñado",
+    "translation": "o cunhado",
+    "pronunciation": "/el kuˈɲaðo/",
+    "portuguesePhonetic": "[el kunhádo]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_12",
+    "word": "el marido",
+    "translation": "o marido",
+    "pronunciation": "/el maˈɾiðo/",
+    "portuguesePhonetic": "[el marído]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_13",
+    "word": "la mujer",
+    "translation": "a esposa (lit. \"a mulher\")",
+    "pronunciation": "/la muˈxeɾ/",
+    "portuguesePhonetic": "[la murrér]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_14",
+    "word": "el sobrino",
+    "translation": "o sobrinho",
+    "pronunciation": "/el soˈβɾino/",
+    "portuguesePhonetic": "[el sobríno]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_15",
+    "word": "la sobrina",
+    "translation": "a sobrinha",
+    "pronunciation": "/la soˈβɾina/",
+    "portuguesePhonetic": "[la sobrína]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_16",
+    "word": "el hijo",
+    "translation": "o filho",
+    "pronunciation": "/el ˈixo/",
+    "portuguesePhonetic": "[el írro]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_17",
+    "word": "la hija",
+    "translation": "a filha",
+    "pronunciation": "/la ˈixa/",
+    "portuguesePhonetic": "[la írra]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_18",
+    "word": "los padres",
+    "translation": "os pais",
+    "pronunciation": "/los ˈpaðɾes/",
+    "portuguesePhonetic": "[los pádres]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_19",
+    "word": "los abuelos",
+    "translation": "os avós",
+    "pronunciation": "/los aˈβwelos/",
+    "portuguesePhonetic": "[los abuélos]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_20",
+    "word": "los hijos",
+    "translation": "os filhos",
+    "pronunciation": "/los ˈixos/",
+    "portuguesePhonetic": "[los írros]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_21",
+    "word": "el nieto",
+    "translation": "o neto",
+    "pronunciation": "/el ˈnjeto/",
+    "portuguesePhonetic": "[el niéto]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_22",
+    "word": "la nieta",
+    "translation": "a neta",
+    "pronunciation": "/la ˈnjeta/",
+    "portuguesePhonetic": "[la niéta]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_23",
+    "word": "la cuñada",
+    "translation": "a cunhada",
+    "pronunciation": "/la kuˈɲaða/",
+    "portuguesePhonetic": "[la kunháda]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_24",
+    "word": "el bebé",
+    "translation": "o bebê",
+    "pronunciation": "/el beˈβe/",
+    "portuguesePhonetic": "[el bebé]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_25",
+    "word": "los parientes",
+    "translation": "os parentes",
+    "pronunciation": "/los paˈɾjentes/",
+    "portuguesePhonetic": "[los pariéntes]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_26",
+    "word": "Esta es mi familia.",
+    "translation": "Esta é minha família.",
+    "pronunciation": "/ˈesta es mi faˈmilja/",
+    "portuguesePhonetic": "[ésta és mi famílha]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_27",
+    "word": "Mi padre es médico.",
+    "translation": "Meu pai é médico.",
+    "pronunciation": "/mi ˈpaðɾe es ˈmeðiko/",
+    "portuguesePhonetic": "[mi pádre és médiko]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_28",
+    "word": "Mi madre es profesora.",
+    "translation": "Minha mãe é professora.",
+    "pronunciation": "/mi ˈmaðɾe es pɾofeˈsoɾa/",
+    "portuguesePhonetic": "[mi mádre és profesóra]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_29",
+    "word": "Tengo un hermano.",
+    "translation": "Eu tenho um irmão.",
+    "pronunciation": "/ˈteŋɡo un eɾˈmano/",
+    "portuguesePhonetic": "[téngo un ermáno]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_30",
+    "word": "Mi hermana es menor que yo.",
+    "translation": "Minha irmã é mais nova que eu.",
+    "pronunciation": "/mi eɾˈmana es meˈnoɾ ke ʝo/",
+    "portuguesePhonetic": "[mi ermána és menór ke iô]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_31",
+    "word": "Mis abuelos viven cerca.",
+    "translation": "Meus avós moram perto.",
+    "pronunciation": "/mis aˈβwelos ˈbiβen ˈθeɾka/",
+    "portuguesePhonetic": "[mis abuélos bíben thérka]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_32",
+    "word": "Mi abuelo es muy amable.",
+    "translation": "Meu avô é muito gentil.",
+    "pronunciation": "/mi aˈβwelo es mui aˈmaβle/",
+    "portuguesePhonetic": "[mi abuélo és múi amáble]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_33",
+    "word": "Mi abuela cocina muy bien.",
+    "translation": "Minha avó cozinha muito bem.",
+    "pronunciation": "/mi aˈβwela koˈθina mui bjen/",
+    "portuguesePhonetic": "[mi abuéla kothína múi bién]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_34",
+    "word": "Los visitamos los fines de semana.",
+    "translation": "Nós os visitamos nos fins de semana.",
+    "pronunciation": "/los bisiˈtamos los ˈfines de seˈmana/",
+    "portuguesePhonetic": "[los bisitámos los fínes de semána]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_35",
+    "word": "Mi tío tiene dos hijos.",
+    "translation": "Meu tio tem dois hijos.",
+    "pronunciation": "/mi ˈtio ˈtjene dos ˈixos/",
+    "portuguesePhonetic": "[mi tío tiéne dos írros]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_36",
+    "word": "Mi tía vive en Madrid.",
+    "translation": "Minha tia mora em Madri.",
+    "pronunciation": "/mi ˈtia ˈbiβe en maˈðɾið/",
+    "portuguesePhonetic": "[mi tía bíbe en madríd]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_37",
+    "word": "Mis primos son mis mejores amigos.",
+    "translation": "Meus primos são meus melhores amigos.",
+    "pronunciation": "/mis ˈpɾimos son mis meˈxoɾes aˈmiɣos/",
+    "portuguesePhonetic": "[mis prímos son mis merróres amígos]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_38",
+    "word": "Esta es mi mujer, Sarah.",
+    "translation": "Esta é minha esposa, Sarah.",
+    "pronunciation": "/ˈesta es mi muˈxeɾ ˈsaɾa/",
+    "portuguesePhonetic": "[ésta és mi murrér sára]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_39",
+    "word": "Mi marido trabaja mucho.",
+    "translation": "Meu marido trabalha muito.",
+    "pronunciation": "/mi maˈɾiðo tɾaˈβaxa ˈmutʃo/",
+    "portuguesePhonetic": "[mi marído trabárra mútcho]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_40",
+    "word": "Tenemos dos hijos.",
+    "translation": "Nós temos dois filhos.",
+    "pronunciation": "/teˈnemos dos ˈixos/",
+    "portuguesePhonetic": "[tenémos dos írros]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_41",
+    "word": "Mi hijo tiene seis años.",
+    "translation": "Meu filho tem seis anos.",
+    "pronunciation": "/mi ˈixo ˈtjene seis ˈaɲos/",
+    "portuguesePhonetic": "[mi írro tiéne séis ánhos]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_42",
+    "word": "A mi hija le encanta dibujar.",
+    "translation": "Minha filha adora desenhar.",
+    "pronunciation": "/a mi ˈixa le eŋˈkanta diβuˈxaɾ/",
+    "portuguesePhonetic": "[a mi írra le enkánta diburrár]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_43",
+    "word": "El bebé está durmiendo.",
+    "translation": "O bebê está dormindo.",
+    "pronunciation": "/el beˈβe esˈta duɾˈmjendo/",
+    "portuguesePhonetic": "[el bebé está durmiéndo]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_44",
+    "word": "El marido de mi hermana es mi cuñado.",
+    "translation": "O marido da minha irmã é meu cunhado.",
+    "pronunciation": "/el maˈɾiðo de mi eɾˈmana es mi kuˈɲaðo/",
+    "portuguesePhonetic": "[el marído de mi ermána és mi kunhádo]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_45",
+    "word": "Mi sobrino es muy gracioso.",
+    "translation": "Meu sobrinho é muito engraçado.",
+    "pronunciation": "/mi soˈβɾino es mui ɡɾaˈθjoso/",
+    "portuguesePhonetic": "[mi sobríno és múi grathióso]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_46",
+    "word": "Mi sobrina está aprendiendo a andar.",
+    "translation": "Minha sobrinha está aprendendo a andar.",
+    "pronunciation": "/mi soˈβɾina esˈta apɾenˈdjendo a anˈdaɾ/",
+    "portuguesePhonetic": "[mi sobrína está aprendiéndo a andár]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_47",
+    "word": "Aquí hay una foto de mis padres.",
+    "translation": "Aqui está uma foto dos meus pais.",
+    "pronunciation": "/aˈki ai una ˈfoto de mis ˈpaðɾes/",
+    "portuguesePhonetic": "[akí ái úna fóto de mis pádres]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_48",
+    "word": "Somos una familia grande.",
+    "translation": "Nós somos uma família grande.",
+    "pronunciation": "/ˈsomos una faˈmilja ˈɡɾande/",
+    "portuguesePhonetic": "[sómos úna famílha gránde]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_49",
+    "word": "Quiero a mis parientes.",
+    "translation": "Eu amo meus parentes.",
+    "pronunciation": "/ˈkjeɾo a mis paˈɾjentes/",
+    "portuguesePhonetic": "[kiéro a mis pariéntes]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_50",
+    "word": "La familia es importante para mí.",
+    "translation": "A família é importante para mim.",
+    "pronunciation": "/la faˈmilja es impoɾˈtante ˈpaɾa mi/",
+    "portuguesePhonetic": "[la famílha és importánte pára mi]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_51",
+    "word": "Tengo una hermana.",
+    "translation": "Eu tenho uma irmã.",
+    "pronunciation": "/ˈteŋɡo una eɾˈmana/",
+    "portuguesePhonetic": "[téngo úna ermána]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_52",
+    "word": "Mi padre es alto.",
+    "translation": "Meu pai é alto.",
+    "pronunciation": "/mi ˈpaðɾe es ˈalto/",
+    "portuguesePhonetic": "[mi pádre és álto]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_53",
+    "word": "Ella es mi prima.",
+    "translation": "Ela é minha prima.",
+    "pronunciation": "/ˈeʎa es mi ˈpɾima/",
+    "portuguesePhonetic": "[élha és mi príma]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_54",
+    "word": "Queremos a nuestros abuelos.",
+    "translation": "Nós amamos nossos avós.",
+    "pronunciation": "/keˈɾemos a ˈnwestɾos aˈβwelos/",
+    "portuguesePhonetic": "[kerémos a nuéstros abuélos]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_55",
+    "word": "Mi hermano tiene un perro.",
+    "translation": "Meu irmão tem um cachorro.",
+    "pronunciation": "/mi eɾˈmano ˈtjene un ˈpero/",
+    "portuguesePhonetic": "[mi ermáno tiéne un pérro]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_56",
+    "word": "Su hija es enfermera.",
+    "translation": "A filha dela é enfermeira.",
+    "pronunciation": "/su ˈixa es emfeɾˈmeɾa/",
+    "portuguesePhonetic": "[su írra és emferméra]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_57",
+    "word": "¿Es tu tío?",
+    "translation": "Ele é seu tio?",
+    "pronunciation": "/es tu ˈtio/",
+    "portuguesePhonetic": "[és tu tío]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_58",
+    "word": "No tengo primos.",
+    "translation": "Eu não tenho primos.",
+    "pronunciation": "/no ˈteŋɡo ˈpɾimos/",
+    "portuguesePhonetic": "[no téngo prímos]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_59",
+    "word": "¿Cuántos hermanos tienes?",
+    "translation": "Quantos irmãos você tem?",
+    "pronunciation": "/ˈkwantos eɾˈmanos ˈtjenes/",
+    "portuguesePhonetic": "[kuántos ermános tiénes]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_60",
+    "word": "¿Dónde viven tus padres?",
+    "translation": "Onde seus pais moram?",
+    "pronunciation": "/ˈdonde ˈbiβen tus ˈpaðɾes/",
+    "portuguesePhonetic": "[dônde bíben tus pádres]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_61",
+    "word": "Mi abuelo no está aquí hoy.",
+    "translation": "Meu avô não está aqui hoje.",
+    "pronunciation": "/mi aˈβwelo no esˈta aˈki oi/",
+    "portuguesePhonetic": "[mi abuélo no está akí ôi]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_62",
+    "word": "¿Por qué está triste tu hermana?",
+    "translation": "Por que sua irmã está triste?",
+    "pronunciation": "/poɾ ke esˈta ˈtɾiste tu eɾˈmana/",
+    "portuguesePhonetic": "[por ké está tríste tu ermána]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_63",
+    "word": "Llamo a mi madre porque la echo de menos.",
+    "translation": "Eu ligo para minha mãe porque sinto falta dela.",
+    "pronunciation": "/ˈʎamo a mi ˈmaðɾe ˈpoɾke la ˈetʃo de ˈmenos/",
+    "portuguesePhonetic": "[lhámo a mi mádre pórke la étcho de ménos]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_64",
+    "word": "Mi tía nos visita esta semana.",
+    "translation": "Minha tia está nos visitando esta semana.",
+    "pronunciation": "/mi ˈtia nos biˈsita ˈesta seˈmana/",
+    "portuguesePhonetic": "[mi tía nos bisíta ésta semána]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_65",
+    "word": "Ayer celebramos el cumpleaños de mi abuela.",
+    "translation": "Nós comemoramos o aniversário da minha avó ontem.",
+    "pronunciation": "/aˈʝeɾ θeleˈβɾamos el kumpleˈaɲos de mi aˈβwela/",
+    "portuguesePhonetic": "[aiér thelebrámos el kumpleánhos de mi abuéla]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_66",
+    "word": "Mi hermano estaba estudiando cuando llegué.",
+    "translation": "Meu irmão estava estudando quando eu cheguei.",
+    "pronunciation": "/mi eɾˈmano esˈtaβa estuˈðjando ˈkwando ʎeˈɣe/",
+    "portuguesePhonetic": "[mi ermáno estába estudiándo kuándo lhegué]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_67",
+    "word": "Mis padres se conocieron cuando eran jóvenes.",
+    "translation": "Meus pais se conheceram quando eram jovens.",
+    "pronunciation": "/mis ˈpaðɾes se konoˈθjeɾon ˈkwando ˈeɾan ˈxoβenes/",
+    "portuguesePhonetic": "[mis pádres se konothiéron kuándo éran rróbenes]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_68",
+    "word": "Mi hermana está casada, pero mi hermano está soltero.",
+    "translation": "Minha irmã é casada, mas meu irmão é solteiro.",
+    "pronunciation": "/mi eɾˈmana esˈta kaˈsaða ˈpeɾo mi eɾˈmano esˈta solˈteɾo/",
+    "portuguesePhonetic": "[mi ermána está kasáda péro mi ermáno está soltéro]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_69",
+    "word": "Te presentaré a mi familia cuando vengas.",
+    "translation": "Vou te apresentar à minha família quando você vier.",
+    "pronunciation": "/te pɾesentaˈɾe a mi faˈmilja ˈkwando ˈbeŋɡas/",
+    "portuguesePhonetic": "[te presentaré a mi famílha kuándo béngas]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_70",
+    "word": "Mis abuelos llevan cincuenta años casados.",
+    "translation": "Meus avós são casados há cinquenta anos.",
+    "pronunciation": "/mis aˈβwelos ˈʎeβan θiŋˈkwenta ˈaɲos kaˈsaðos/",
+    "portuguesePhonetic": "[mis abuélos lhéban thinkuénta ánhos kasádos]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_71",
+    "word": "Aunque mi primo vive lejos, hablamos cada día.",
+    "translation": "Embora meu primo more longe, conversamos todo dia.",
+    "pronunciation": "/ˈawŋke mi ˈpɾimo ˈbiβe ˈlexos aˈβlamos ˈkaða ˈdia/",
+    "portuguesePhonetic": "[áunke mi prímo bíbe lérros ablámos káda día]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_72",
+    "word": "Mi tío no vino porque estaba enfermo.",
+    "translation": "Meu tio não veio porque estava doente.",
+    "pronunciation": "/mi ˈtio no ˈbino ˈpoɾke esˈtaβa emˈfeɾmo/",
+    "portuguesePhonetic": "[mi tío no bíno pórke estába emférmo]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_73",
+    "word": "Mi hija se parece a su madre, pero actúa como yo.",
+    "translation": "Minha filha se parece com a mãe, mas age como eu.",
+    "pronunciation": "/mi ˈixa se paˈɾeθe a su ˈmaðɾe ˈpeɾo akˈtua ˈkomo ʝo/",
+    "portuguesePhonetic": "[mi írra se paréthe a su mádre péro aktúa kómo iô]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_74",
+    "word": "¿Has conocido a mi cuñado y a su mujer?",
+    "translation": "Você já conheceu meu cunhado e a esposa dele?",
+    "pronunciation": "/as konoˈθiðo a mi kuˈɲaðo i a su muˈxeɾ/",
+    "portuguesePhonetic": "[as konothído a mi kunhádo i a su murrér]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_75",
+    "word": "Mi sobrino y mi sobrina vienen, así que la casa estará llena.",
+    "translation": "Meu sobrinho e minha sobrinha estão vindo, então a casa vai ficar cheia.",
+    "pronunciation": "/mi soˈβɾino i mi soˈβɾina ˈbjenen aˈsi ke la ˈkasa estaˈɾa ˈʎena/",
+    "portuguesePhonetic": "[mi sobríno i mi sobrína biénen así ke la kása estará lhéna]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_76",
+    "word": "«¿Es esta tu familia?» / «Sí, lo es.»",
+    "translation": "\"Esta é sua família?\" / \"Sim, é.\"",
+    "pronunciation": "/es ˈesta tu faˈmilja · si lo es/",
+    "portuguesePhonetic": "[és ésta tu famílha · sí lo és]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_77",
+    "word": "«¿Quién es él?» / «Es mi padre.»",
+    "translation": "\"Quem é ele?\" / \"É meu pai.\"",
+    "pronunciation": "/kjen es el · es mi ˈpaðɾe/",
+    "portuguesePhonetic": "[kién és él · és mi pádre]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_78",
+    "word": "«¿Tienes hermanos?» / «Sí, un hermano.»",
+    "translation": "\"Você tem irmãos?\" / \"Sim, um irmão.\"",
+    "pronunciation": "/ˈtjenes eɾˈmanos · si un eɾˈmano/",
+    "portuguesePhonetic": "[tiénes ermános · sí un ermáno]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_79",
+    "word": "«¿Es tu hermana?» / «No, es mi prima.»",
+    "translation": "\"Ela é sua irmã?\" / \"Não, é minha prima.\"",
+    "pronunciation": "/es tu eɾˈmana · no es mi ˈpɾima/",
+    "portuguesePhonetic": "[és tu ermána · no és mi príma]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_80",
+    "word": "«¿Cuántos años tiene tu hijo?» / «Tiene seis.»",
+    "translation": "\"Quantos anos tem seu filho?\" / \"Tem seis.\"",
+    "pronunciation": "/ˈkwantos ˈaɲos ˈtjene tu ˈixo · ˈtjene seis/",
+    "portuguesePhonetic": "[kuántos ánhos tiéne tu írro · tiéne séis]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_81",
+    "word": "«¿Dónde viven tus abuelos?» / «En España.»",
+    "translation": "\"Onde seus avós moram?\" / \"Na Espanha.\"",
+    "pronunciation": "/ˈdonde ˈbiβen tus aˈβwelos · en esˈpaɲa/",
+    "portuguesePhonetic": "[dônde bíben tus abuélos · en espánha]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_82",
+    "word": "«¿Estás casado?» / «Sí, esta es mi mujer.»",
+    "translation": "\"Você é casado?\" / \"Sim, esta é minha esposa.\"",
+    "pronunciation": "/esˈtas kaˈsaðo · si ˈesta es mi muˈxeɾ/",
+    "portuguesePhonetic": "[estás kasádo · sí ésta és mi murrér]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_83",
+    "word": "«¿Quién es el bebé?» / «Es mi sobrina.»",
+    "translation": "\"Quem é o bebê?\" / \"É minha sobrinha.\"",
+    "pronunciation": "/kjen es el beˈβe · es mi soˈβɾina/",
+    "portuguesePhonetic": "[kién és el bebé · és mi sobrína]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_84",
+    "word": "«¿Es ese tu tío?» / «Sí, se llama Michael.»",
+    "translation": "\"Aquele é seu tio?\" / \"Sim, ele se chama Michael.\"",
+    "pronunciation": "/es ˈese tu ˈtio · si se ˈʎama ˈmaikel/",
+    "portuguesePhonetic": "[és ése tu tío · sí se lháma máikel]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_85",
+    "word": "«¿Tienes hijos?» / «Sí, un hijo y una hija.»",
+    "translation": "\"Você tem filhos?\" / \"Sim, um filho e uma filha.\"",
+    "pronunciation": "/ˈtjenes ˈixos · si un ˈixo i una ˈixa/",
+    "portuguesePhonetic": "[tiénes írros · sí un írro i úna írra]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_86",
+    "word": "«¿Cómo se llama tu madre?» / «Se llama Linda.»",
+    "translation": "\"Qual é o nome da sua mãe?\" / \"Ela se chama Linda.\"",
+    "pronunciation": "/ˈkomo se ˈʎama tu ˈmaðɾe · se ˈʎama ˈlinda/",
+    "portuguesePhonetic": "[kómo se lháma tu mádre · se lháma línda]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_87",
+    "word": "«¿Tu hermana es mayor que tú?» / «No, es menor.»",
+    "translation": "\"Sua irmã é mais velha que você?\" / \"Não, é mais nova.\"",
+    "pronunciation": "/tu eɾˈmana es maˈʝoɾ ke tu · no es meˈnoɾ/",
+    "portuguesePhonetic": "[tu ermána és maiór ke tu · no és menór]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_88",
+    "word": "«¿Quién cocina en tu familia?» / «Mi abuela.»",
+    "translation": "\"Quem cozinha na sua família?\" / \"Minha avó.\"",
+    "pronunciation": "/kjen koˈθina en tu faˈmilja · mi aˈβwela/",
+    "portuguesePhonetic": "[kién kothína en tu famílha · mi abuéla]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_89",
+    "word": "«¿Son estos tus primos?» / «Sí, lo son.»",
+    "translation": "\"Estes são seus primos?\" / \"Sim, são.\"",
+    "pronunciation": "/son ˈestos tus ˈpɾimos · si lo son/",
+    "portuguesePhonetic": "[son éstos tus prímos · sí lo son]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_90",
+    "word": "«¿Está casado tu hermano?» / «No, está soltero.»",
+    "translation": "\"Seu irmão é casado?\" / \"Não, é solteiro.\"",
+    "pronunciation": "/esˈta kaˈsaðo tu eɾˈmano · no esˈta solˈteɾo/",
+    "portuguesePhonetic": "[está kasádo tu ermáno · no está soltéro]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_91",
+    "word": "«¿Quién es John?» / «Es mi cuñado.»",
+    "translation": "\"Quem é o John?\" / \"É meu cunhado.\"",
+    "pronunciation": "/kjen es ʝon · es mi kuˈɲaðo/",
+    "portuguesePhonetic": "[kién és ión · és mi kunhádo]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_92",
+    "word": "«¿Cuántos primos tienes?» / «Cuatro.»",
+    "translation": "\"Quantos primos você tem?\" / \"Quatro.\"",
+    "pronunciation": "/ˈkwantos ˈpɾimos ˈtjenes · ˈkwatɾo/",
+    "portuguesePhonetic": "[kuántos prímos tiénes · kuátro]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_93",
+    "word": "«¿Tu padre está jubilado?» / «Sí, lo está.»",
+    "translation": "\"Seu pai é aposentado?\" / \"Sim, é.\"",
+    "pronunciation": "/tu ˈpaðɾe esˈta xuβiˈlaðo · si lo esˈta/",
+    "portuguesePhonetic": "[tu pádre está rrubiládo · sí lo está]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_94",
+    "word": "«¿Quién es tu pariente favorito?» / «Mi abuelo.»",
+    "translation": "\"Quem é seu parente favorito?\" / \"Meu avô.\"",
+    "pronunciation": "/kjen es tu paˈɾjente faβoˈɾito · mi aˈβwelo/",
+    "portuguesePhonetic": "[kién és tu pariénte faboríto · mi abuélo]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_95",
+    "word": "«¿Tu tía vive cerca de ti?» / «No, vive lejos.»",
+    "translation": "\"Sua tia mora perto de você?\" / \"Não, mora longe.\"",
+    "pronunciation": "/tu ˈtia ˈbiβe ˈθeɾka de ti · no ˈbiβe ˈlexos/",
+    "portuguesePhonetic": "[tu tía bíbe thérka de ti · no bíbe lérros]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_96",
+    "word": "«¿Tu mujer es de aquí?» / «No, es de Italia.»",
+    "translation": "\"Sua esposa é daqui?\" / \"Não, é da Itália.\"",
+    "pronunciation": "/tu muˈxeɾ es de aˈki · no es de iˈtalja/",
+    "portuguesePhonetic": "[tu murrér és de akí · no és de itálha]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_97",
+    "word": "«¿Quién es mayor, tu madre o tu padre?» / «Mi padre.»",
+    "translation": "\"Quem é mais velho, sua mãe ou seu pai?\" / \"Meu pai.\"",
+    "pronunciation": "/kjen es maˈʝoɾ tu ˈmaðɾe o tu ˈpaðɾe · mi ˈpaðɾe/",
+    "portuguesePhonetic": "[kién és maiór tu mádre o tu pádre · mi pádre]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_98",
+    "word": "«¿Vienen tus padres?» / «Sí, vienen.»",
+    "translation": "\"Seus pais estão vindo?\" / \"Sim, estão.\"",
+    "pronunciation": "/ˈbjenen tus ˈpaðɾes · si ˈbjenen/",
+    "portuguesePhonetic": "[biénen tus pádres · sí biénen]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_99",
+    "word": "«¿La niña pequeña es tu hija?» / «Sí, se llama Olivia.»",
+    "translation": "\"A menininha é sua filha?\" / \"Sim, ela se chama Olivia.\"",
+    "pronunciation": "/la ˈniɲa peˈkeɲa es tu ˈixa · si se ˈʎama oˈliβja/",
+    "portuguesePhonetic": "[la nínha pekénha és tu írra · sí se lháma olíbia]"
+  },
+  {
+    "id": "leccion_3_vocabulario_a1_s_es_card_100",
+    "word": "«¿Ves a tu familia a menudo?» / «Sí, cada fin de semana.»",
+    "translation": "\"Você vê sua família com frequência?\" / \"Sim, todo fim de semana.\"",
+    "pronunciation": "/bes a tu faˈmilja a meˈnuðo · si ˈkaða fin de seˈmana/",
+    "portuguesePhonetic": "[bés a tu famílha a menúdo · sí káda fín de semána]"
+  }
+]

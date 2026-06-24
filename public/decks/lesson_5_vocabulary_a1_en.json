@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_1",
+    "word": "wake up",
+    "translation": "acordar",
+    "pronunciation": "/weɪk ʌp/",
+    "portuguesePhonetic": "[uêik âp]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_2",
+    "word": "get up",
+    "translation": "levantar (da cama)",
+    "pronunciation": "/ɡɛt ʌp/",
+    "portuguesePhonetic": "[guét âp]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_3",
+    "word": "brush my teeth",
+    "translation": "escovar os dentes",
+    "pronunciation": "/brʌʃ maɪ tiːθ/",
+    "portuguesePhonetic": "[brâch mái títh]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_4",
+    "word": "eat breakfast",
+    "translation": "tomar café da manhã",
+    "pronunciation": "/iːt ˈbrɛkfəst/",
+    "portuguesePhonetic": "[ít brékfest]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_5",
+    "word": "take a shower",
+    "translation": "tomar banho",
+    "pronunciation": "/teɪk ə ˈʃaʊər/",
+    "portuguesePhonetic": "[têik a cháuer]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_6",
+    "word": "get dressed",
+    "translation": "vestir-se / se arrumar",
+    "pronunciation": "/ɡɛt drɛst/",
+    "portuguesePhonetic": "[guét drést]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_7",
+    "word": "go to work",
+    "translation": "ir para o trabalho",
+    "pronunciation": "/ɡoʊ tə wɜːrk/",
+    "portuguesePhonetic": "[gôu tu uârk]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_8",
+    "word": "start work",
+    "translation": "começar a trabalhar",
+    "pronunciation": "/stɑːrt wɜːrk/",
+    "portuguesePhonetic": "[stárt uârk]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_9",
+    "word": "check my emails",
+    "translation": "verificar meus e-mails",
+    "pronunciation": "/tʃɛk maɪ ˈiːmeɪlz/",
+    "portuguesePhonetic": "[tchék mái ímeiouz]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_10",
+    "word": "eat lunch",
+    "translation": "almoçar",
+    "pronunciation": "/iːt lʌntʃ/",
+    "portuguesePhonetic": "[ít lântch]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_11",
+    "word": "finish work",
+    "translation": "terminar o trabalho",
+    "pronunciation": "/ˈfɪnɪʃ wɜːrk/",
+    "portuguesePhonetic": "[fínich uârk]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_12",
+    "word": "go home",
+    "translation": "ir para casa",
+    "pronunciation": "/ɡoʊ hoʊm/",
+    "portuguesePhonetic": "[gôu rrôum]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_13",
+    "word": "do my homework",
+    "translation": "fazer minha lição de casa",
+    "pronunciation": "/duː maɪ ˈhoʊmwɜːrk/",
+    "portuguesePhonetic": "[dú mái rrôumuerk]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_14",
+    "word": "go for a run",
+    "translation": "ir correr",
+    "pronunciation": "/ɡoʊ fɔːr ə rʌn/",
+    "portuguesePhonetic": "[gôu fór a rân]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_15",
+    "word": "go to the gym",
+    "translation": "ir à academia",
+    "pronunciation": "/ɡoʊ tə ðə dʒɪm/",
+    "portuguesePhonetic": "[gôu tu dha djím]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_16",
+    "word": "go shopping",
+    "translation": "fazer compras",
+    "pronunciation": "/ɡoʊ ˈʃɑːpɪŋ/",
+    "portuguesePhonetic": "[gôu chápin]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_17",
+    "word": "cook dinner",
+    "translation": "cozinhar o jantar",
+    "pronunciation": "/kʊk ˈdɪnər/",
+    "portuguesePhonetic": "[kúk díner]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_18",
+    "word": "eat dinner",
+    "translation": "jantar",
+    "pronunciation": "/iːt ˈdɪnər/",
+    "portuguesePhonetic": "[ít díner]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_19",
+    "word": "watch TV",
+    "translation": "assistir TV",
+    "pronunciation": "/wɑːtʃ ˌtiːˈviː/",
+    "portuguesePhonetic": "[uátch ti-ví]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_20",
+    "word": "go to bed",
+    "translation": "ir dormir",
+    "pronunciation": "/ɡoʊ tə bɛd/",
+    "portuguesePhonetic": "[gôu tu béd]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_21",
+    "word": "get ready",
+    "translation": "se aprontar",
+    "pronunciation": "/ɡɛt ˈrɛdi/",
+    "portuguesePhonetic": "[guét rrédi]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_22",
+    "word": "make the bed",
+    "translation": "arrumar a cama",
+    "pronunciation": "/meɪk ðə bɛd/",
+    "portuguesePhonetic": "[mêik dha béd]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_23",
+    "word": "comb my hair",
+    "translation": "pentear o cabelo",
+    "pronunciation": "/koʊm maɪ hɛr/",
+    "portuguesePhonetic": "[kôum mái rrér]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_24",
+    "word": "take a nap",
+    "translation": "tirar uma soneca",
+    "pronunciation": "/teɪk ə næp/",
+    "portuguesePhonetic": "[têik a nép]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_25",
+    "word": "relax",
+    "translation": "relaxar",
+    "pronunciation": "/rɪˈlæks/",
+    "portuguesePhonetic": "[riléks]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_26",
+    "word": "I wake up at seven.",
+    "translation": "Eu acordo às sete.",
+    "pronunciation": "/aɪ weɪk ʌp æt ˈsɛvn̩/",
+    "portuguesePhonetic": "[ái uêik âp ét sévan]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_27",
+    "word": "I get up and stretch.",
+    "translation": "Eu levanto e me espreguiço.",
+    "pronunciation": "/aɪ ɡɛt ʌp ænd strɛtʃ/",
+    "portuguesePhonetic": "[ái guét âp énd strétch]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_28",
+    "word": "I make the bed.",
+    "translation": "Eu arrumo a cama.",
+    "pronunciation": "/aɪ meɪk ðə bɛd/",
+    "portuguesePhonetic": "[ái mêik dha béd]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_29",
+    "word": "I brush my teeth.",
+    "translation": "Eu escovo os dentes.",
+    "pronunciation": "/aɪ brʌʃ maɪ tiːθ/",
+    "portuguesePhonetic": "[ái brâch mái títh]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_30",
+    "word": "I take a quick shower.",
+    "translation": "Eu tomo um banho rápido.",
+    "pronunciation": "/aɪ teɪk ə kwɪk ˈʃaʊər/",
+    "portuguesePhonetic": "[ái têik a kuík cháuer]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_31",
+    "word": "I get dressed.",
+    "translation": "Eu me visto.",
+    "pronunciation": "/aɪ ɡɛt drɛst/",
+    "portuguesePhonetic": "[ái guét drést]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_32",
+    "word": "I eat breakfast.",
+    "translation": "Eu tomo café da manhã.",
+    "pronunciation": "/aɪ iːt ˈbrɛkfəst/",
+    "portuguesePhonetic": "[ái ít brékfest]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_33",
+    "word": "I drink a cup of coffee.",
+    "translation": "Eu tomo uma xícara de café.",
+    "pronunciation": "/aɪ drɪŋk ə kʌp əv ˈkɔːfi/",
+    "portuguesePhonetic": "[ái drínk a kâp ov kófi]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_34",
+    "word": "I check my phone.",
+    "translation": "Eu olho meu celular.",
+    "pronunciation": "/aɪ tʃɛk maɪ foʊn/",
+    "portuguesePhonetic": "[ái tchék mái fôun]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_35",
+    "word": "I leave the house.",
+    "translation": "Eu saio de casa.",
+    "pronunciation": "/aɪ liːv ðə haʊs/",
+    "portuguesePhonetic": "[ái lív dha ráus]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_36",
+    "word": "I go to work by bus.",
+    "translation": "Eu vou para o trabalho de ônibus.",
+    "pronunciation": "/aɪ ɡoʊ tə wɜːrk baɪ bʌs/",
+    "portuguesePhonetic": "[ái gôu tu uârk bái bâs]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_37",
+    "word": "I start work at nine.",
+    "translation": "Eu começo a trabalhar às nove.",
+    "pronunciation": "/aɪ stɑːrt wɜːrk æt naɪn/",
+    "portuguesePhonetic": "[ái stárt uârk ét náin]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_38",
+    "word": "I check my emails.",
+    "translation": "Eu verifico meus e-mails.",
+    "pronunciation": "/aɪ tʃɛk maɪ ˈiːmeɪlz/",
+    "portuguesePhonetic": "[ái tchék mái ímeiouz]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_39",
+    "word": "I eat lunch at noon.",
+    "translation": "Eu almoço ao meio-dia.",
+    "pronunciation": "/aɪ iːt lʌntʃ æt nuːn/",
+    "portuguesePhonetic": "[ái ít lântch ét nún]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_40",
+    "word": "I finish work at five.",
+    "translation": "Eu termino o trabalho às cinco.",
+    "pronunciation": "/aɪ ˈfɪnɪʃ wɜːrk æt faɪv/",
+    "portuguesePhonetic": "[ái fínich uârk ét fáiv]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_41",
+    "word": "I go home.",
+    "translation": "Eu vou para casa.",
+    "pronunciation": "/aɪ ɡoʊ hoʊm/",
+    "portuguesePhonetic": "[ái gôu rrôum]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_42",
+    "word": "I do my homework.",
+    "translation": "Eu faço minha lição de casa.",
+    "pronunciation": "/aɪ duː maɪ ˈhoʊmwɜːrk/",
+    "portuguesePhonetic": "[ái dú mái rrôumuerk]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_43",
+    "word": "I go for a run.",
+    "translation": "Eu vou correr.",
+    "pronunciation": "/aɪ ɡoʊ fɔːr ə rʌn/",
+    "portuguesePhonetic": "[ái gôu fór a rân]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_44",
+    "word": "I go to the gym.",
+    "translation": "Eu vou à academia.",
+    "pronunciation": "/aɪ ɡoʊ tə ðə dʒɪm/",
+    "portuguesePhonetic": "[ái gôu tu dha djím]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_45",
+    "word": "I go shopping.",
+    "translation": "Eu faço compras.",
+    "pronunciation": "/aɪ ɡoʊ ˈʃɑːpɪŋ/",
+    "portuguesePhonetic": "[ái gôu chápin]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_46",
+    "word": "I cook dinner.",
+    "translation": "Eu cozinho o jantar.",
+    "pronunciation": "/aɪ kʊk ˈdɪnər/",
+    "portuguesePhonetic": "[ái kúk díner]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_47",
+    "word": "I eat dinner with my family.",
+    "translation": "Eu janto com minha família.",
+    "pronunciation": "/aɪ iːt ˈdɪnər wɪð maɪ ˈfæməli/",
+    "portuguesePhonetic": "[ái ít díner uídh mái fémili]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_48",
+    "word": "I watch TV.",
+    "translation": "Eu assisto TV.",
+    "pronunciation": "/aɪ wɑːtʃ ˌtiːˈviː/",
+    "portuguesePhonetic": "[ái uátch ti-ví]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_49",
+    "word": "I relax on the sofa.",
+    "translation": "Eu relaxo no sofá.",
+    "pronunciation": "/aɪ rɪˈlæks ɑːn ðə ˈsoʊfə/",
+    "portuguesePhonetic": "[ái riléks ón dha sôufa]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_50",
+    "word": "I go to bed at eleven.",
+    "translation": "Eu vou dormir às onze.",
+    "pronunciation": "/aɪ ɡoʊ tə bɛd æt ɪˈlɛvn̩/",
+    "portuguesePhonetic": "[ái gôu tu béd ét ilévan]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_51",
+    "word": "I wake up early.",
+    "translation": "Eu acordo cedo.",
+    "pronunciation": "/aɪ weɪk ʌp ˈɜːrli/",
+    "portuguesePhonetic": "[ái uêik âp ârli]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_52",
+    "word": "She eats breakfast.",
+    "translation": "Ela toma café da manhã.",
+    "pronunciation": "/ʃiː iːts ˈbrɛkfəst/",
+    "portuguesePhonetic": "[chí íts brékfest]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_53",
+    "word": "He goes to work.",
+    "translation": "Ele vai para o trabalho.",
+    "pronunciation": "/hiː ɡoʊz tə wɜːrk/",
+    "portuguesePhonetic": "[rrí gôuz tu uârk]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_54",
+    "word": "We watch TV.",
+    "translation": "Nós assistimos TV.",
+    "pronunciation": "/wiː wɑːtʃ ˌtiːˈviː/",
+    "portuguesePhonetic": "[uí uátch ti-ví]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_55",
+    "word": "I always brush my teeth.",
+    "translation": "Eu sempre escovo os dentes.",
+    "pronunciation": "/aɪ ˈɔːlweɪz brʌʃ maɪ tiːθ/",
+    "portuguesePhonetic": "[ái ólueiz brâch mái títh]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_56",
+    "word": "She usually gets up at six.",
+    "translation": "Ela geralmente levanta às seis.",
+    "pronunciation": "/ʃiː ˈjuːʒuəli ɡɛts ʌp æt sɪks/",
+    "portuguesePhonetic": "[chí iújuali guéts âp ét síks]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_57",
+    "word": "He never eats breakfast.",
+    "translation": "Ele nunca toma café da manhã.",
+    "pronunciation": "/hiː ˈnɛvər iːts ˈbrɛkfəst/",
+    "portuguesePhonetic": "[rrí néver íts brékfest]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_58",
+    "word": "They often go to the gym.",
+    "translation": "Eles vão à academia com frequência.",
+    "pronunciation": "/ðeɪ ˈɔːfn̩ ɡoʊ tə ðə dʒɪm/",
+    "portuguesePhonetic": "[dhêi ófen gôu tu dha djím]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_59",
+    "word": "What time do you wake up?",
+    "translation": "A que horas você acorda?",
+    "pronunciation": "/wʌt taɪm duː juː weɪk ʌp/",
+    "portuguesePhonetic": "[uât táim dú iú uêik âp]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_60",
+    "word": "Does she cook dinner every day?",
+    "translation": "Ela cozinha o jantar todo dia?",
+    "pronunciation": "/dʌz ʃiː kʊk ˈdɪnər ˈɛvri deɪ/",
+    "portuguesePhonetic": "[dâz chí kúk díner évri dêi]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_61",
+    "word": "I don't watch TV at night.",
+    "translation": "Eu não assisto TV à noite.",
+    "pronunciation": "/aɪ doʊnt wɑːtʃ ˌtiːˈviː æt naɪt/",
+    "portuguesePhonetic": "[ái dôunt uátch ti-ví ét náit]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_62",
+    "word": "Why do you go to bed so late?",
+    "translation": "Por que você vai dormir tão tarde?",
+    "pronunciation": "/waɪ duː juː ɡoʊ tə bɛd soʊ leɪt/",
+    "portuguesePhonetic": "[uái dú iú gôu tu béd sôu lêit]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_63",
+    "word": "I check my emails when I start work.",
+    "translation": "Eu verifico meus e-mails quando começo a trabalhar.",
+    "pronunciation": "/aɪ tʃɛk maɪ ˈiːmeɪlz wɛn aɪ stɑːrt wɜːrk/",
+    "portuguesePhonetic": "[ái tchék mái ímeiouz uén ái stárt uârk]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_64",
+    "word": "She is cooking dinner now.",
+    "translation": "Ela está cozinhando o jantar agora.",
+    "pronunciation": "/ʃiː ɪz ˈkʊkɪŋ ˈdɪnər naʊ/",
+    "portuguesePhonetic": "[chí iz kúkin díner náu]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_65",
+    "word": "I went for a run yesterday morning.",
+    "translation": "Eu fui correr ontem de manhã.",
+    "pronunciation": "/aɪ wɛnt fɔːr ə rʌn ˈjɛstərdeɪ ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[ái uént fór a rân iéster dei mórnin]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_66",
+    "word": "He was sleeping when I called.",
+    "translation": "Ele estava dormindo quando eu liguei.",
+    "pronunciation": "/hiː wəz ˈsliːpɪŋ wɛn aɪ kɔːld/",
+    "portuguesePhonetic": "[rrí uâz slípin uén ái kóld]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_67",
+    "word": "We watched TV after we ate dinner.",
+    "translation": "Nós assistimos TV depois que jantamos.",
+    "pronunciation": "/wiː wɑːtʃt ˌtiːˈviː ˈæftər wiː eɪt ˈdɪnər/",
+    "portuguesePhonetic": "[uí uátcht ti-ví éfter uí êit díner]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_68",
+    "word": "I take a shower before I go to work.",
+    "translation": "Eu tomo banho antes de ir para o trabalho.",
+    "pronunciation": "/aɪ teɪk ə ˈʃaʊər bɪˈfɔːr aɪ ɡoʊ tə wɜːrk/",
+    "portuguesePhonetic": "[ái têik a cháuer bifór ái gôu tu uârk]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_69",
+    "word": "She goes to the gym because she wants to be healthy.",
+    "translation": "Ela vai à academia porque quer ser saudável.",
+    "pronunciation": "/ʃiː ɡoʊz tə ðə dʒɪm bɪˈkɔːz ʃiː wɑːnts tə biː ˈhɛlθi/",
+    "portuguesePhonetic": "[chí gôuz tu dha djím bikóz chí uánts tu bí rrélthi]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_70",
+    "word": "I usually cook dinner, but tonight we'll order pizza.",
+    "translation": "Eu geralmente cozinho o jantar, mas hoje vamos pedir pizza.",
+    "pronunciation": "/aɪ ˈjuːʒuəli kʊk ˈdɪnər bʌt təˈnaɪt wiːl ˈɔːrdər ˈpiːtsə/",
+    "portuguesePhonetic": "[ái iújuali kúk díner bât tunáit uíou órder pítsa]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_71",
+    "word": "After he finishes work, he goes home and relaxes.",
+    "translation": "Depois que ele termina o trabalho, ele vai para casa e relaxa.",
+    "pronunciation": "/ˈæftər hiː ˈfɪnɪʃɪz wɜːrk hiː ɡoʊz hoʊm ænd rɪˈlæksɪz/",
+    "portuguesePhonetic": "[éfter rrí fínichiz uârk rrí gôuz rrôum énd riléksiz]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_72",
+    "word": "I didn't do my homework because I was too tired.",
+    "translation": "Eu não fiz minha lição porque estava cansado demais.",
+    "pronunciation": "/aɪ ˈdɪdnt duː maɪ ˈhoʊmwɜːrk bɪˈkɔːz aɪ wəz tuː ˈtaɪərd/",
+    "portuguesePhonetic": "[ái dídent dú mái rrôumuerk bikóz ái uâz tú táierd]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_73",
+    "word": "She wakes up early, so she always has breakfast.",
+    "translation": "Ela acorda cedo, então sempre toma café da manhã.",
+    "pronunciation": "/ʃiː weɪks ʌp ˈɜːrli soʊ ʃiː ˈɔːlweɪz hæz ˈbrɛkfəst/",
+    "portuguesePhonetic": "[chí uêiks âp ârli sôu chí ólueiz rréz brékfest]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_74",
+    "word": "Do you go shopping on weekends or after work?",
+    "translation": "Você faz compras nos fins de semana ou depois do trabalho?",
+    "pronunciation": "/duː juː ɡoʊ ˈʃɑːpɪŋ ɑːn ˈwiːkɛndz ɔːr ˈæftər wɜːrk/",
+    "portuguesePhonetic": "[dú iú gôu chápin ón uíkendz ór éfter uârk]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_75",
+    "word": "When I get home, I take off my shoes and rest.",
+    "translation": "Quando chego em casa, tiro os sapatos e descanso.",
+    "pronunciation": "/wɛn aɪ ɡɛt hoʊm aɪ teɪk ɔːf maɪ ʃuːz ænd rɛst/",
+    "portuguesePhonetic": "[uén ái guét rrôum ái têik óf mái chúz énd rést]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_76",
+    "word": "\"What time do you wake up?\" / \"At seven.\"",
+    "translation": "\"A que horas você acorda?\" / \"Às sete.\"",
+    "pronunciation": "/wʌt taɪm duː juː weɪk ʌp · æt ˈsɛvn̩/",
+    "portuguesePhonetic": "[uât táim dú iú uêik âp · ét sévan]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_77",
+    "word": "\"Do you eat breakfast?\" / \"Yes, every day.\"",
+    "translation": "\"Você toma café da manhã?\" / \"Sim, todo dia.\"",
+    "pronunciation": "/duː juː iːt ˈbrɛkfəst · jɛs ˈɛvri deɪ/",
+    "portuguesePhonetic": "[dú iú ít brékfest · iés évri dêi]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_78",
+    "word": "\"When do you start work?\" / \"At nine.\"",
+    "translation": "\"Quando você começa a trabalhar?\" / \"Às nove.\"",
+    "pronunciation": "/wɛn duː juː stɑːrt wɜːrk · æt naɪn/",
+    "portuguesePhonetic": "[uén dú iú stárt uârk · ét náin]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_79",
+    "word": "\"Do you go to the gym?\" / \"Yes, three times a week.\"",
+    "translation": "\"Você vai à academia?\" / \"Sim, três vezes por semana.\"",
+    "pronunciation": "/duː juː ɡoʊ tə ðə dʒɪm · jɛs θriː taɪmz ə wiːk/",
+    "portuguesePhonetic": "[dú iú gôu tu dha djím · iés thrí táimz a uík]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_80",
+    "word": "\"What do you do after work?\" / \"I cook dinner.\"",
+    "translation": "\"O que você faz depois do trabalho?\" / \"Eu cozinho o jantar.\"",
+    "pronunciation": "/wʌt duː juː duː ˈæftər wɜːrk · aɪ kʊk ˈdɪnər/",
+    "portuguesePhonetic": "[uât dú iú dú éfter uârk · ái kúk díner]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_81",
+    "word": "\"Do you watch TV at night?\" / \"Sometimes.\"",
+    "translation": "\"Você assiste TV à noite?\" / \"Às vezes.\"",
+    "pronunciation": "/duː juː wɑːtʃ ˌtiːˈviː æt naɪt · ˈsʌmtaɪmz/",
+    "portuguesePhonetic": "[dú iú uátch ti-ví ét náit · sâmtaimz]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_82",
+    "word": "\"When do you do your homework?\" / \"After dinner.\"",
+    "translation": "\"Quando você faz a lição?\" / \"Depois do jantar.\"",
+    "pronunciation": "/wɛn duː juː duː jɔːr ˈhoʊmwɜːrk · ˈæftər ˈdɪnər/",
+    "portuguesePhonetic": "[uén dú iú dú iór rrôumuerk · éfter díner]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_83",
+    "word": "\"Do you take a shower in the morning?\" / \"Yes, always.\"",
+    "translation": "\"Você toma banho de manhã?\" / \"Sim, sempre.\"",
+    "pronunciation": "/duː juː teɪk ə ˈʃaʊər ɪn ðə ˈmɔːrnɪŋ · jɛs ˈɔːlweɪz/",
+    "portuguesePhonetic": "[dú iú têik a cháuer in dha mórnin · iés ólueiz]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_84",
+    "word": "\"What time do you go to bed?\" / \"Around eleven.\"",
+    "translation": "\"A que horas você vai dormir?\" / \"Por volta das onze.\"",
+    "pronunciation": "/wʌt taɪm duː juː ɡoʊ tə bɛd · əˈraʊnd ɪˈlɛvn̩/",
+    "portuguesePhonetic": "[uât táim dú iú gôu tu béd · aráund ilévan]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_85",
+    "word": "\"Do you go running?\" / \"Yes, every morning.\"",
+    "translation": "\"Você vai correr?\" / \"Sim, toda manhã.\"",
+    "pronunciation": "/duː juː ɡoʊ ˈrʌnɪŋ · jɛs ˈɛvri ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[dú iú gôu rânin · iés évri mórnin]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_86",
+    "word": "\"When do you check your emails?\" / \"First thing at work.\"",
+    "translation": "\"Quando você verifica os e-mails?\" / \"Logo que chego ao trabalho.\"",
+    "pronunciation": "/wɛn duː juː tʃɛk jɔːr ˈiːmeɪlz · fɜːrst θɪŋ æt wɜːrk/",
+    "portuguesePhonetic": "[uén dú iú tchék iór ímeiouz · fârst thíN ét uârk]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_87",
+    "word": "\"Do you cook every day?\" / \"No, sometimes I order food.\"",
+    "translation": "\"Você cozinha todo dia?\" / \"Não, às vezes peço comida.\"",
+    "pronunciation": "/duː juː kʊk ˈɛvri deɪ · noʊ ˈsʌmtaɪmz aɪ ˈɔːrdər fuːd/",
+    "portuguesePhonetic": "[dú iú kúk évri dêi · nôu sâmtaimz ái órder fúd]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_88",
+    "word": "\"What time do you finish work?\" / \"At five.\"",
+    "translation": "\"A que horas você termina o trabalho?\" / \"Às cinco.\"",
+    "pronunciation": "/wʌt taɪm duː juː ˈfɪnɪʃ wɜːrk · æt faɪv/",
+    "portuguesePhonetic": "[uât táim dú iú fínich uârk · ét fáiv]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_89",
+    "word": "\"Do you go shopping often?\" / \"Once a week.\"",
+    "translation": "\"Você faz compras com frequência?\" / \"Uma vez por semana.\"",
+    "pronunciation": "/duː juː ɡoʊ ˈʃɑːpɪŋ ˈɔːfn̩ · wʌns ə wiːk/",
+    "portuguesePhonetic": "[dú iú gôu chápin ófen · uâns a uík]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_90",
+    "word": "\"Do you eat lunch at work?\" / \"Yes, I do.\"",
+    "translation": "\"Você almoça no trabalho?\" / \"Sim, almoço.\"",
+    "pronunciation": "/duː juː iːt lʌntʃ æt wɜːrk · jɛs aɪ duː/",
+    "portuguesePhonetic": "[dú iú ít lântch ét uârk · iés ái dú]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_91",
+    "word": "\"When do you get up?\" / \"Right after I wake up.\"",
+    "translation": "\"Quando você levanta?\" / \"Logo depois de acordar.\"",
+    "pronunciation": "/wɛn duː juː ɡɛt ʌp · raɪt ˈæftər aɪ weɪk ʌp/",
+    "portuguesePhonetic": "[uén dú iú guét âp · ráit éfter ái uêik âp]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_92",
+    "word": "\"Do you brush your teeth after breakfast?\" / \"Yes, I do.\"",
+    "translation": "\"Você escova os dentes depois do café?\" / \"Sim, escovo.\"",
+    "pronunciation": "/duː juː brʌʃ jɔːr tiːθ ˈæftər ˈbrɛkfəst · jɛs aɪ duː/",
+    "portuguesePhonetic": "[dú iú brâch iór títh éfter brékfest · iés ái dú]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_93",
+    "word": "\"How do you go to work?\" / \"By bus.\"",
+    "translation": "\"Como você vai para o trabalho?\" / \"De ônibus.\"",
+    "pronunciation": "/haʊ duː juː ɡoʊ tə wɜːrk · baɪ bʌs/",
+    "portuguesePhonetic": "[rráu dú iú gôu tu uârk · bái bâs]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_94",
+    "word": "\"Do you relax in the evening?\" / \"Yes, I watch TV.\"",
+    "translation": "\"Você relaxa à noite?\" / \"Sim, assisto TV.\"",
+    "pronunciation": "/duː juː rɪˈlæks ɪn ðə ˈiːvnɪŋ · jɛs aɪ wɑːtʃ ˌtiːˈviː/",
+    "portuguesePhonetic": "[dú iú riléks in dhi ívnin · iés ái uátch ti-ví]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_95",
+    "word": "\"What's your morning routine?\" / \"I shower and eat.\"",
+    "translation": "\"Qual é sua rotina de manhã?\" / \"Tomo banho e como.\"",
+    "pronunciation": "/wʌts jɔːr ˈmɔːrnɪŋ ruːˈtiːn · aɪ ˈʃaʊər ænd iːt/",
+    "portuguesePhonetic": "[uâts iór mórnin rutín · ái cháuer énd ít]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_96",
+    "word": "\"Do you go to bed early?\" / \"No, quite late.\"",
+    "translation": "\"Você dorme cedo?\" / \"Não, bem tarde.\"",
+    "pronunciation": "/duː juː ɡoʊ tə bɛd ˈɜːrli · noʊ kwaɪt leɪt/",
+    "portuguesePhonetic": "[dú iú gôu tu béd ârli · nôu kuáit lêit]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_97",
+    "word": "\"When do you eat dinner?\" / \"Around seven.\"",
+    "translation": "\"Quando você janta?\" / \"Por volta das sete.\"",
+    "pronunciation": "/wɛn duː juː iːt ˈdɪnər · əˈraʊnd ˈsɛvn̩/",
+    "portuguesePhonetic": "[uén dú iú ít díner · aráund sévan]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_98",
+    "word": "\"Do you make your bed?\" / \"Yes, every morning.\"",
+    "translation": "\"Você arruma a cama?\" / \"Sim, toda manhã.\"",
+    "pronunciation": "/duː juː meɪk jɔːr bɛd · jɛs ˈɛvri ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[dú iú mêik iór béd · iés évri mórnin]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_99",
+    "word": "\"What do you do on weekends?\" / \"I sleep late.\"",
+    "translation": "\"O que você faz nos fins de semana?\" / \"Durmo até tarde.\"",
+    "pronunciation": "/wʌt duː juː duː ɑːn ˈwiːkɛndz · aɪ sliːp leɪt/",
+    "portuguesePhonetic": "[uât dú iú dú ón uíkendz · ái slíp lêit]"
+  },
+  {
+    "id": "lesson_5_vocabulary_a1_en_card_100",
+    "word": "\"Do you have a busy routine?\" / \"Yes, very busy.\"",
+    "translation": "\"Você tem uma rotina corrida?\" / \"Sim, bem corrida.\"",
+    "pronunciation": "/duː juː hæv ə ˈbɪzi ruːˈtiːn · jɛs ˈvɛri ˈbɪzi/",
+    "portuguesePhonetic": "[dú iú rrév a bízi rutín · iés véri bízi]"
+  }
+]

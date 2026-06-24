@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_3_grammar_a1_en_card_1",
+    "word": "I",
+    "translation": "eu",
+    "pronunciation": "/aɪ/",
+    "portuguesePhonetic": "[ái]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_2",
+    "word": "you",
+    "translation": "você",
+    "pronunciation": "/juː/",
+    "portuguesePhonetic": "[iú]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_3",
+    "word": "he",
+    "translation": "ele",
+    "pronunciation": "/hiː/",
+    "portuguesePhonetic": "[rrí]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_4",
+    "word": "she",
+    "translation": "ela",
+    "pronunciation": "/ʃiː/",
+    "portuguesePhonetic": "[chí]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_5",
+    "word": "it",
+    "translation": "ele/ela/isto (coisas e animais)",
+    "pronunciation": "/ɪt/",
+    "portuguesePhonetic": "[ít]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_6",
+    "word": "we",
+    "translation": "nós",
+    "pronunciation": "/wiː/",
+    "portuguesePhonetic": "[uí]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_7",
+    "word": "you",
+    "translation": "vocês (plural)",
+    "pronunciation": "/juː/",
+    "portuguesePhonetic": "[iú]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_8",
+    "word": "they",
+    "translation": "eles / elas",
+    "pronunciation": "/ðeɪ/",
+    "portuguesePhonetic": "[dhêi]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_9",
+    "word": "my",
+    "translation": "meu / minha",
+    "pronunciation": "/maɪ/",
+    "portuguesePhonetic": "[mái]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_10",
+    "word": "your",
+    "translation": "seu / sua (de você)",
+    "pronunciation": "/jɔːr/",
+    "portuguesePhonetic": "[iór]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_11",
+    "word": "his",
+    "translation": "dele",
+    "pronunciation": "/hɪz/",
+    "portuguesePhonetic": "[rriz]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_12",
+    "word": "her",
+    "translation": "dela",
+    "pronunciation": "/hɜːr/",
+    "portuguesePhonetic": "[rrâr]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_13",
+    "word": "its",
+    "translation": "dele / dela (de coisa ou animal)",
+    "pronunciation": "/ɪts/",
+    "portuguesePhonetic": "[íts]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_14",
+    "word": "our",
+    "translation": "nosso / nossa",
+    "pronunciation": "/aʊər/",
+    "portuguesePhonetic": "[áuer]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_15",
+    "word": "their",
+    "translation": "deles / delas",
+    "pronunciation": "/ðɛr/",
+    "portuguesePhonetic": "[dhér]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_16",
+    "word": "I play football.",
+    "translation": "Eu jogo futebol.",
+    "pronunciation": "/aɪ pleɪ ˈfʊtbɔːl/",
+    "portuguesePhonetic": "[ái plêi fútból]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_17",
+    "word": "You are Australian.",
+    "translation": "Você é australiano.",
+    "pronunciation": "/juː ɑːr ɔːˈstreɪljən/",
+    "portuguesePhonetic": "[iú ár ostrêilian]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_18",
+    "word": "He is very tall.",
+    "translation": "Ele é muito alto.",
+    "pronunciation": "/hiː ɪz ˈvɛri tɔːl/",
+    "portuguesePhonetic": "[rrí iz véri tól]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_19",
+    "word": "She is a teacher.",
+    "translation": "Ela é professora.",
+    "pronunciation": "/ʃiː ɪz ə ˈtiːtʃər/",
+    "portuguesePhonetic": "[chí iz a títcher]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_20",
+    "word": "It is a dog.",
+    "translation": "É um cachorro.",
+    "pronunciation": "/ɪt ɪz ə dɔːɡ/",
+    "portuguesePhonetic": "[ít iz a dóg]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_21",
+    "word": "We love English.",
+    "translation": "Nós amamos inglês.",
+    "pronunciation": "/wiː lʌv ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "[uí lâv ínglich]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_22",
+    "word": "They have a nice house.",
+    "translation": "Eles têm uma casa bonita.",
+    "pronunciation": "/ðeɪ hæv ə naɪs haʊs/",
+    "portuguesePhonetic": "[dhêi rrév a náis ráus]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_23",
+    "word": "This is my brother.",
+    "translation": "Este é meu irmão.",
+    "pronunciation": "/ðɪs ɪz maɪ ˈbrʌðər/",
+    "portuguesePhonetic": "[dhís iz mái brâdher]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_24",
+    "word": "Give me your book.",
+    "translation": "Me dá seu livro.",
+    "pronunciation": "/ɡɪv miː jɔːr bʊk/",
+    "portuguesePhonetic": "[guív mí iór búk]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_25",
+    "word": "That's his house.",
+    "translation": "Aquela é a casa dele.",
+    "pronunciation": "/ðæts hɪz haʊs/",
+    "portuguesePhonetic": "[dhéts rriz ráus]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_26",
+    "word": "This is my family.",
+    "translation": "Esta é minha família.",
+    "pronunciation": "/ðɪs ɪz maɪ ˈfæməli/",
+    "portuguesePhonetic": "[dhís iz mái fémili]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_27",
+    "word": "He is my father.",
+    "translation": "Ele é meu pai.",
+    "pronunciation": "/hiː ɪz maɪ ˈfɑːðər/",
+    "portuguesePhonetic": "[rrí iz mái fádher]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_28",
+    "word": "She is my mother.",
+    "translation": "Ela é minha mãe.",
+    "pronunciation": "/ʃiː ɪz maɪ ˈmʌðər/",
+    "portuguesePhonetic": "[chí iz mái mâdher]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_29",
+    "word": "I know her sister.",
+    "translation": "Eu conheço a irmã dela.",
+    "pronunciation": "/aɪ noʊ hɜːr ˈsɪstər/",
+    "portuguesePhonetic": "[ái nôu rrâr síster]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_30",
+    "word": "We love our parents.",
+    "translation": "Nós amamos nossos pais.",
+    "pronunciation": "/wiː lʌv aʊər ˈpɛrənts/",
+    "portuguesePhonetic": "[uí lâv áuer pérents]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_31",
+    "word": "She is a teacher.",
+    "translation": "Ela é professora.",
+    "pronunciation": "/ʃiː ɪz ə ˈtiːtʃər/",
+    "portuguesePhonetic": "[chí iz a títcher]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_32",
+    "word": "This is their teacher.",
+    "translation": "Este é o professor deles.",
+    "pronunciation": "/ðɪs ɪz ðɛr ˈtiːtʃər/",
+    "portuguesePhonetic": "[dhís iz dhér títcher]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_33",
+    "word": "He is my boss.",
+    "translation": "Ele é meu chefe.",
+    "pronunciation": "/hiː ɪz maɪ bɔːs/",
+    "portuguesePhonetic": "[rrí iz mái bós]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_34",
+    "word": "They are my coworkers.",
+    "translation": "Eles são meus colegas de trabalho.",
+    "pronunciation": "/ðeɪ ɑːr maɪ ˈkoʊwɜːrkərz/",
+    "portuguesePhonetic": "[dhêi ár mái kôuuerkerz]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_35",
+    "word": "I like my job.",
+    "translation": "Eu gosto do meu trabalho.",
+    "pronunciation": "/aɪ laɪk maɪ dʒɑːb/",
+    "portuguesePhonetic": "[ái láik mái djób]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_36",
+    "word": "That's his house.",
+    "translation": "Aquela é a casa dele.",
+    "pronunciation": "/ðæts hɪz haʊs/",
+    "portuguesePhonetic": "[dhéts rriz ráus]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_37",
+    "word": "They have a nice house.",
+    "translation": "Eles têm uma casa bonita.",
+    "pronunciation": "/ðeɪ hæv ə naɪs haʊs/",
+    "portuguesePhonetic": "[dhêi rrév a náis ráus]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_38",
+    "word": "Our house is small.",
+    "translation": "Nossa casa é pequena.",
+    "pronunciation": "/aʊər haʊs ɪz smɔːl/",
+    "portuguesePhonetic": "[áuer ráus iz smól]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_39",
+    "word": "Give me your book.",
+    "translation": "Me dá seu livro.",
+    "pronunciation": "/ɡɪv miː jɔːr bʊk/",
+    "portuguesePhonetic": "[guív mí iór búk]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_40",
+    "word": "This is my room.",
+    "translation": "Este é meu quarto.",
+    "pronunciation": "/ðɪs ɪz maɪ ruːm/",
+    "portuguesePhonetic": "[dhís iz mái rúm]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_41",
+    "word": "It is a dog.",
+    "translation": "É um cachorro.",
+    "pronunciation": "/ɪt ɪz ə dɔːɡ/",
+    "portuguesePhonetic": "[ít iz a dóg]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_42",
+    "word": "Its name is Max.",
+    "translation": "O nome dele é Max.",
+    "pronunciation": "/ɪts neɪm ɪz mæks/",
+    "portuguesePhonetic": "[íts nêim iz méks]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_43",
+    "word": "The dog has its toys.",
+    "translation": "O cachorro tem os brinquedos dele.",
+    "pronunciation": "/ðə dɔːɡ hæz ɪts tɔɪz/",
+    "portuguesePhonetic": "[dha dóg rréz íts tóiz]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_44",
+    "word": "I play football.",
+    "translation": "Eu jogo futebol.",
+    "pronunciation": "/aɪ pleɪ ˈfʊtbɔːl/",
+    "portuguesePhonetic": "[ái plêi fútból]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_45",
+    "word": "We love English.",
+    "translation": "Nós amamos inglês.",
+    "pronunciation": "/wiː lʌv ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "[uí lâv ínglich]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_46",
+    "word": "They are students.",
+    "translation": "Eles são estudantes.",
+    "pronunciation": "/ðeɪ ɑːr ˈstuːdənts/",
+    "portuguesePhonetic": "[dhêi ár stúdents]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_47",
+    "word": "You are my best friend.",
+    "translation": "Você é meu melhor amigo.",
+    "pronunciation": "/juː ɑːr maɪ bɛst frɛnd/",
+    "portuguesePhonetic": "[iú ár mái bést frénd]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_48",
+    "word": "You are Australian.",
+    "translation": "Você é australiano.",
+    "pronunciation": "/juː ɑːr ɔːˈstreɪljən/",
+    "portuguesePhonetic": "[iú ár ostrêilian]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_49",
+    "word": "He is very tall.",
+    "translation": "Ele é muyto alto.",
+    "pronunciation": "/hiː ɪz ˈvɛri tɔːl/",
+    "portuguesePhonetic": "[rrí iz véri tól]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_50",
+    "word": "I like your cars.",
+    "translation": "Eu gosto dos seus carros.",
+    "pronunciation": "/aɪ laɪk jɔːr kɑːrz/",
+    "portuguesePhonetic": "[ái láik iór kárz]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_51",
+    "word": "I have a brother.",
+    "translation": "Eu tenho um irmão.",
+    "pronunciation": "/aɪ hæv ə ˈbrʌðər/",
+    "portuguesePhonetic": "[ái rrév a brâdher]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_52",
+    "word": "She is my friend.",
+    "translation": "Ela é minha amiga.",
+    "pronunciation": "/ʃiː ɪz maɪ frɛnd/",
+    "portuguesePhonetic": "[chí iz mái frénd]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_53",
+    "word": "He likes his job.",
+    "translation": "Ele gosta do trabalho dele.",
+    "pronunciation": "/hiː laɪks hɪz dʒɑːb/",
+    "portuguesePhonetic": "[rrí láiks rriz djób]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_54",
+    "word": "We need our books.",
+    "translation": "Nós precisamos dos nossos livros.",
+    "pronunciation": "/wiː niːd aʊər bʊks/",
+    "portuguesePhonetic": "[uí níd áuer búks]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_55",
+    "word": "Their house is big.",
+    "translation": "A casa deles é grande.",
+    "pronunciation": "/ðɛr haʊs ɪz bɪɡ/",
+    "portuguesePhonetic": "[dhér ráus iz bíg]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_56",
+    "word": "Her car is new.",
+    "translation": "O carro dela é novo.",
+    "pronunciation": "/hɜːr kɑːr ɪz nuː/",
+    "portuguesePhonetic": "[rrâr kár iz niú]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_57",
+    "word": "Is this your phone?",
+    "translation": "Este é o seu celular?",
+    "pronunciation": "/ɪz ðɪs jɔːr foʊn/",
+    "portuguesePhonetic": "[iz dhís iór fôun]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_58",
+    "word": "I don't know his name.",
+    "translation": "Eu não sei o nome dele.",
+    "pronunciation": "/aɪ doʊnt noʊ hɪz neɪm/",
+    "portuguesePhonetic": "[ái dôunt nôu rriz nêim]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_59",
+    "word": "Where is my pen?",
+    "translation": "Onde está minha caneta?",
+    "pronunciation": "/wɛr ɪz maɪ pɛn/",
+    "portuguesePhonetic": "[uér iz mái pén]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_60",
+    "word": "Do you like their music?",
+    "translation": "Você gosta da música deles?",
+    "pronunciation": "/duː juː laɪk ðɛr ˈmjuːzɪk/",
+    "portuguesePhonetic": "[dú iú láik dhér miúzik]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_61",
+    "word": "She isn't my teacher.",
+    "translation": "Ela não é minha professora.",
+    "pronunciation": "/ʃiː ˈɪznt maɪ ˈtiːtʃər/",
+    "portuguesePhonetic": "[chí íznt mái títcher]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_62",
+    "word": "Why is he angry?",
+    "translation": "Por que ele está bravo?",
+    "pronunciation": "/waɪ ɪz hiː ˈæŋɡri/",
+    "portuguesePhonetic": "[uái iz rrí éNgri]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_63",
+    "word": "I love my family because they help me.",
+    "translation": "Eu amo minha família porque eles me ajudam.",
+    "pronunciation": "/aɪ lʌv maɪ ˈfæməli bɪˈkɔːz ðeɪ hɛlp miː/",
+    "portuguesePhonetic": "[ái lâv mái fémili bikóz dhêi rrélp mí]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_64",
+    "word": "He is reading his book now.",
+    "translation": "Ele está lendo o livro dele agora.",
+    "pronunciation": "/hiː ɪz ˈriːdɪŋ hɪz bʊk naʊ/",
+    "portuguesePhonetic": "[rrí iz rídin rriz búk náu]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_65",
+    "word": "We visited their house yesterday.",
+    "translation": "Nós visitamos a casa deles ontem.",
+    "pronunciation": "/wiː ˈvɪzɪtɪd ðɛr haʊs ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[uí vízited dhér ráus iéster dei]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_66",
+    "word": "She was talking to her sister when I called.",
+    "translation": "Ela estava falando com a irmã dela quando eu liguei.",
+    "pronunciation": "/ʃiː wəz ˈtɔːkɪŋ tə hɜːr ˈsɪstər wɛn aɪ kɔːld/",
+    "portuguesePhonetic": "[chí uâz tókin tu rrâr síster uén ái kóld]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_67",
+    "word": "They lost their keys at the park.",
+    "translation": "Eles perderam as chaves deles no parque.",
+    "pronunciation": "/ðeɪ lɔːst ðɛr kiːz æt ðə pɑːrk/",
+    "portuguesePhonetic": "[dhêi lóst dhér kíz ét dha párk]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_68",
+    "word": "My brother is tall, but his wife is short.",
+    "translation": "Meu irmão é alto, mas a esposa dele é baixa.",
+    "pronunciation": "/maɪ ˈbrʌðər ɪz tɔːl bʌt hɪz waɪf ɪz ʃɔːrt/",
+    "portuguesePhonetic": "[mái brâdher iz tól bât rriz uáif iz chórt]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_69",
+    "word": "I'll bring my car because yours is broken.",
+    "translation": "Vou trazer meu carro porque o seu está quebrado.",
+    "pronunciation": "/aɪl brɪŋ maɪ kɑːr bɪˈkɔːz jɔːrz ɪz ˈbroʊkən/",
+    "portuguesePhonetic": "[áiou brín mái kár bikóz iórz iz brôukan]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_70",
+    "word": "She loves her job, and her boss respects her.",
+    "translation": "Ela ama o trabalho dela, e o chefe dela a respeita.",
+    "pronunciation": "/ʃiː lʌvz hɜːr dʒɑːb ænd hɜːr bɔːs rɪˈspɛkts hɜːr/",
+    "portuguesePhonetic": "[chí lâvz rrâr djób énd rrâr bós rispékts rrâr]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_71",
+    "word": "We don't know their names, but they know ours.",
+    "translation": "Não sabemos os nomes deles, mas eles sabem os nossos.",
+    "pronunciation": "/wiː doʊnt noʊ ðɛr neɪmz bʌt ðeɪ noʊ ˈaʊərz/",
+    "portuguesePhonetic": "[uí dôunt nôu dhér nêimz bât dhêi nôu áuerz]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_72",
+    "word": "He didn't bring his passport, so he missed his flight.",
+    "translation": "Ele não trouxe o passaporte dele, então perdeu o voo dele.",
+    "pronunciation": "/hiː ˈdɪdnt brɪŋ hɪz ˈpæspɔːrt soʊ hiː mɪst hɪz flaɪt/",
+    "portuguesePhonetic": "[rrí dídent brín rriz pésport sôu rrí míst rriz fláit]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_73",
+    "word": "Although it is just a dog, it has its own personality.",
+    "translation": "Embora seja só um cachorro, ele tem a própria personalidade.",
+    "pronunciation": "/ɔːlˈðoʊ ɪt ɪz dʒʌst ə dɔːɡ ɪt hæz ɪts oʊn ˌpɜːrsəˈnæləti/",
+    "portuguesePhonetic": "[oldhôu ít iz djâst a dóg ít rréz íts ôun perssanéliti]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_74",
+    "word": "Have you met their new teacher and her assistant?",
+    "translation": "Você conheceu o novo professor deles e a assistente dela?",
+    "pronunciation": "/hæv juː mɛt ðɛr nuː ˈtiːtʃər ænd hɜːr əˈsɪstənt/",
+    "portuguesePhonetic": "[rrév iú mét dhér niú títcher énd rrâr assístant]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_75",
+    "word": "I like your idea, but I think our plan is better.",
+    "translation": "Eu gosto da sua ideia, mas acho que nosso plano é melhor.",
+    "pronunciation": "/aɪ laɪk jɔːr aɪˈdiːə bʌt aɪ θɪŋk aʊər plæn ɪz ˈbɛtər/",
+    "portuguesePhonetic": "[ái láik iór aidía bât ái thínk áuer plén iz béter]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_76",
+    "word": "\"Who is he?\" / \"He is my brother.\"",
+    "translation": "\"Quem é ele?\" / \"Ele é meu irmão.\"",
+    "pronunciation": "/huː ɪz hiː · hiː ɪz maɪ ˈbrʌðər/",
+    "portuguesePhonetic": "[rrú iz rrí · rrí iz mái brâdher]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_77",
+    "word": "\"Is this your book?\" / \"Yes, it's mine.\"",
+    "translation": "\"Este livro é seu?\" / \"Sim, é meu.\"",
+    "pronunciation": "/ɪz ðɪs jɔːr bʊk · jɛs ɪts maɪn/",
+    "portuguesePhonetic": "[iz dhís iór búk · iés íts máin]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_78",
+    "word": "\"Where do they live?\" / \"In their new house.\"",
+    "translation": "\"Onde eles moram?\" / \"Na casa nova deles.\"",
+    "pronunciation": "/wɛr duː ðeɪ lɪv · ɪn ðɛr nuː haʊs/",
+    "portuguesePhonetic": "[uér dú dhêi lív · in dhér niú ráus]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_79",
+    "word": "\"What's her name?\" / \"Her name is Anna.\"",
+    "translation": "\"Qual é o nome dela?\" / \"O nome dela é Anna.\"",
+    "pronunciation": "/wʌts hɜːr neɪm · hɜːr neɪm ɪz ˈænə/",
+    "portuguesePhonetic": "[uâts rrâr nêim · rrâr nêim iz éna]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_80",
+    "word": "\"Are you students?\" / \"Yes, we are.\"",
+    "translation": "\"Vocês são estudantes?\" / \"Sim, somos.\"",
+    "pronunciation": "/ɑːr juː ˈstuːdənts · jɛs wiː ɑːr/",
+    "portuguesePhonetic": "[ár iú stúdents · iés uí ár]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_81",
+    "word": "\"Is he your teacher?\" / \"No, he's my boss.\"",
+    "translation": "\"Ele é seu professor?\" / \"Não, é meu chefe.\"",
+    "pronunciation": "/ɪz hiː jɔːr ˈtiːtʃər · noʊ hiːz maɪ bɔːs/",
+    "portuguesePhonetic": "[iz rrí iór títcher · nôu rríz mái bós]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_82",
+    "word": "\"Whose car is this?\" / \"It's their car.\"",
+    "translation": "\"De quem é este carro?\" / \"É o carro deles.\"",
+    "pronunciation": "/huːz kɑːr ɪz ðɪs · ɪts ðɛr kɑːr/",
+    "portuguesePhonetic": "[rrúz kár iz dhís · íts dhér kár]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_83",
+    "word": "\"Do you love English?\" / \"Yes, we do.\"",
+    "translation": "\"Vocês amam inglês?\" / \"Sim, amamos.\"",
+    "pronunciation": "/duː juː lʌv ˈɪŋɡlɪʃ · jɛs wiː duː/",
+    "portuguesePhonetic": "[dú iú lâv ínglich · iés uí dú]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_84",
+    "word": "\"Is she Australian?\" / \"No, she's American.\"",
+    "translation": "\"Ela é australiana?\" / \"Não, é americana.\"",
+    "pronunciation": "/ɪz ʃiː ɔːˈstreɪljən · noʊ ʃiːz əˈmɛrɪkən/",
+    "portuguesePhonetic": "[iz chí ostrêilian · nôu chíz amérikan]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_85",
+    "word": "\"Can I use your pen?\" / \"Sure, here it is.\"",
+    "translation": "\"Posso usar sua caneta?\" / \"Claro, aqui está.\"",
+    "pronunciation": "/kæn aɪ juːz jɔːr pɛn · ʃʊr hɪr ɪt ɪz/",
+    "portuguesePhonetic": "[kén ái iúz iór pén · chúr rrír ít iz]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_86",
+    "word": "\"Is it your dog?\" / \"Yes, its name is Max.\"",
+    "translation": "\"É o seu cachorro?\" / \"Sim, o nome dele é Max.\"",
+    "pronunciation": "/ɪz ɪt jɔːr dɔːɡ · jɛs ɪts neɪm ɪz mæks/",
+    "portuguesePhonetic": "[iz ít iór dóg · iés íts nêim iz méks]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_87",
+    "word": "\"Are they your parents?\" / \"Yes, they are.\"",
+    "translation": "\"Eles são seus pais?\" / \"Sim, são.\"",
+    "pronunciation": "/ɑːr ðeɪ jɔːr ˈpɛrənts · jɛs ðeɪ ɑːr/",
+    "portuguesePhonetic": "[ár dhêi iór pérents · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_88",
+    "word": "\"Do you love my house?\" / \"Yes, it's beautiful.\"",
+    "translation": "\"Você gosta da minha casa?\" / \"Sim, é linda.\"",
+    "pronunciation": "/duː juː laɪk maɪ haʊs · jɛs ɪts ˈbjuːtɪfl̩/",
+    "portuguesePhonetic": "[dú iú láik mái ráus · iés íts biútifou]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_89",
+    "word": "\"Is this their teacher?\" / \"Yes, it is.\"",
+    "translation": "\"Este é o professor deles?\" / \"Sim, é.\"",
+    "pronunciation": "/ɪz ðɪs ðɛr ˈtiːtʃər · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz dhís dhér títcher · iés ít iz]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_90",
+    "word": "\"Where is his sister?\" / \"She's at school.\"",
+    "translation": "\"Onde está a irmã dele?\" / \"Ela está na escola.\"",
+    "pronunciation": "/wɛr ɪz hɪz ˈsɪstər · ʃiːz æt skuːl/",
+    "portuguesePhonetic": "[uér iz rriz síster · chíz ét skúl]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_91",
+    "word": "\"Do you know her?\" / \"No, I don't.\"",
+    "translation": "\"Você a conhece?\" / \"Não, não conheço.\"",
+    "pronunciation": "/duː juː noʊ hɜːr · noʊ aɪ doʊnt/",
+    "portuguesePhonetic": "[dú iú nôu rrâr · nôu ái dôunt]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_92",
+    "word": "\"Are these your cars?\" / \"No, they're his.\"",
+    "translation": "\"Estes carros são seus?\" / \"Não, são dele.\"",
+    "pronunciation": "/ɑːr ðiːz jɔːr kɑːrz · noʊ ðer hɪz/",
+    "portuguesePhonetic": "[ár dhíz iór kárz · nôu dhér rriz]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_93",
+    "word": "\"Is he tall?\" / \"Yes, very tall.\"",
+    "translation": "\"Ele é alto?\" / \"Sim, muito alto.\"",
+    "pronunciation": "/ɪz hiː tɔːl · jɛs ˈvɛri tɔːl/",
+    "portuguesePhonetic": "[iz rrí tól · iés véri tól]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_94",
+    "word": "\"What do they have?\" / \"They have a nice house.\"",
+    "translation": "\"O que eles têm?\" / \"Têm uma casa bonita.\"",
+    "pronunciation": "/wʌt duː ðeɪ hæv · ðeɪ hæv ə naɪs haʊs/",
+    "portuguesePhonetic": "[uât dú dhêi rrév · dhêi rrév a náis ráus]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_95",
+    "word": "\"Is that your phone or mine?\" / \"It's yours.\"",
+    "translation": "\"Aquele celular é seu ou meu?\" / \"É seu.\"",
+    "pronunciation": "/ɪz ðæt jɔːr foʊn ɔːr maɪn · ɪts jɔːrz/",
+    "portuguesePhonetic": "[iz dhét iór fôun ór máin · íts iórz]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_96",
+    "word": "\"Do we have our tickets?\" / \"Yes, I have them.\"",
+    "translation": "\"Temos nossos ingressos?\" / \"Sim, estão comigo.\"",
+    "pronunciation": "/duː wiː hæv aʊər ˈtɪkɪts · jɛs aɪ hæv ðɛm/",
+    "portuguesePhonetic": "[dú uí rrév áuer tíkets · iés ái rrév dhém]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_97",
+    "word": "\"Whose idea was it?\" / \"It was her idea.\"",
+    "translation": "\"De quem foi a ideia?\" / \"Foi ideia dela.\"",
+    "pronunciation": "/huːz aɪˈdiːə wəz ɪt · ɪt wəz hɜːr aɪˈdiːə/",
+    "portuguesePhonetic": "[rrúz aidía uâz ít · ít uâz rrâr aidía]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_98",
+    "word": "\"Is your sister a teacher?\" / \"Yes, she is.\"",
+    "translation": "\"Sua irmã é professora?\" / \"Sim, é.\"",
+    "pronunciation": "/ɪz jɔːr ˈsɪstər ə ˈtiːtʃər · jɛs ʃiː ɪz/",
+    "portuguesePhonetic": "[iz iór síster a títcher · iés chí iz]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_99",
+    "word": "\"Do they need our help?\" / \"Yes, they do.\"",
+    "translation": "\"Eles precisam da nossa ajuda?\" / \"Sim, precisam.\"",
+    "pronunciation": "/duː ðeɪ niːd aʊər hɛlp · jɛs ðeɪ duː/",
+    "portuguesePhonetic": "[dú dhêi níd áuer rrélp · iés dhêi dú]"
+  },
+  {
+    "id": "lesson_3_grammar_a1_en_card_100",
+    "word": "\"Is this my seat?\" / \"No, it's his.\"",
+    "translation": "\"Este é meu assento?\" / \"Não, é dele.\"",
+    "pronunciation": "/ɪz ðɪs maɪ siːt · noʊ ɪts hɪz/",
+    "portuguesePhonetic": "[iz dhís mái sít · nôu íts rriz]"
+  }
+]

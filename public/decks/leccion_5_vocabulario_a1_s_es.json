@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_1",
+    "word": "despertarse",
+    "translation": "acordar",
+    "pronunciation": "/despeɾˈtaɾse/",
+    "portuguesePhonetic": "[despertárse]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_2",
+    "word": "levantarse",
+    "translation": "levantar (da cama)",
+    "pronunciation": "/leβanˈtaɾse/",
+    "portuguesePhonetic": "[lebantárse]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_3",
+    "word": "lavarse los dientes",
+    "translation": "escovar os dentes",
+    "pronunciation": "/laˈβaɾse los ˈdjentes/",
+    "portuguesePhonetic": "[labárse los diéntes]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_4",
+    "word": "desayunar",
+    "translation": "tomar café da manhã",
+    "pronunciation": "/desaʝuˈnaɾ/",
+    "portuguesePhonetic": "[desaiunár]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_5",
+    "word": "ducharse",
+    "translation": "tomar banho",
+    "pronunciation": "/duˈtʃaɾse/",
+    "portuguesePhonetic": "[dutchárse]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_6",
+    "word": "vestirse",
+    "translation": "vestir-se",
+    "pronunciation": "/besˈtiɾse/",
+    "portuguesePhonetic": "[bestírse]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_7",
+    "word": "ir al trabajo",
+    "translation": "ir para o trabalho",
+    "pronunciation": "/iɾ al tɾaˈβaxo/",
+    "portuguesePhonetic": "[ir al trabárro]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_8",
+    "word": "empezar a trabajar",
+    "translation": "começar a trabalhar",
+    "pronunciation": "/empeˈθaɾ a tɾaβaˈxaɾ/",
+    "portuguesePhonetic": "[empethár a trabarrár]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_9",
+    "word": "revisar el correo",
+    "translation": "verificar os e-mails",
+    "pronunciation": "/reβiˈsaɾ el koˈreo/",
+    "portuguesePhonetic": "[rebisár el korréo]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_10",
+    "word": "comer",
+    "translation": "almoçar (refeição do meio-dia na Espanha)",
+    "pronunciation": "/koˈmeɾ/",
+    "portuguesePhonetic": "[komér]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_11",
+    "word": "terminar de trabajar",
+    "translation": "terminar o trabalho",
+    "pronunciation": "/teɾmiˈnaɾ de tɾaβaˈxaɾ/",
+    "portuguesePhonetic": "[terminár de trabarrár]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_12",
+    "word": "volver a casa",
+    "translation": "voltar para casa",
+    "pronunciation": "/bolˈβeɾ a ˈkasa/",
+    "portuguesePhonetic": "[bolbér a kása]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_13",
+    "word": "hacer los deberes",
+    "translation": "fazer a lição de casa",
+    "pronunciation": "/aˈθeɾ los deˈβeɾes/",
+    "portuguesePhonetic": "[athér los debéres]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_14",
+    "word": "salir a correr",
+    "translation": "ir correr",
+    "pronunciation": "/saˈliɾ a koˈreɾ/",
+    "portuguesePhonetic": "[salír a korrér]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_15",
+    "word": "ir al gimnasio",
+    "translation": "ir à academia",
+    "pronunciation": "/iɾ al ximˈnasjo/",
+    "portuguesePhonetic": "[ir al rrimnásio]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_16",
+    "word": "ir de compras",
+    "translation": "fazer compras",
+    "pronunciation": "/iɾ de ˈkompɾas/",
+    "portuguesePhonetic": "[ir de kómpras]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_17",
+    "word": "cocinar la cena",
+    "translation": "cozinhar o jantar",
+    "pronunciation": "/koθiˈnaɾ la ˈθena/",
+    "portuguesePhonetic": "[kothinár la théna]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_18",
+    "word": "cenar",
+    "translation": "jantar",
+    "pronunciation": "/θeˈnaɾ/",
+    "portuguesePhonetic": "[thenár]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_19",
+    "word": "ver la tele",
+    "translation": "assistir TV",
+    "pronunciation": "/beɾ la ˈtele/",
+    "portuguesePhonetic": "[bér la téle]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_20",
+    "word": "acostarse",
+    "translation": "ir dormir / deitar-se",
+    "pronunciation": "/akosˈtaɾse/",
+    "portuguesePhonetic": "[akostárse]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_21",
+    "word": "arreglarse",
+    "translation": "se aprontar",
+    "pronunciation": "/areˈɣlaɾse/",
+    "portuguesePhonetic": "[arreglárse]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_22",
+    "word": "hacer la cama",
+    "translation": "arrumar a cama",
+    "pronunciation": "/aˈθeɾ la ˈkama/",
+    "portuguesePhonetic": "[athér la káma]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_23",
+    "word": "peinarse",
+    "translation": "pentear o cabelo",
+    "pronunciation": "/peiˈnaɾse/",
+    "portuguesePhonetic": "[peinárse]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_24",
+    "word": "echarse una siesta",
+    "translation": "tirar uma soneca",
+    "pronunciation": "/eˈtʃaɾse una ˈsjesta/",
+    "portuguesePhonetic": "[etchárse úna siésta]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_25",
+    "word": "relajarse",
+    "translation": "relaxar",
+    "pronunciation": "/relaˈxaɾse/",
+    "portuguesePhonetic": "[relarrárse]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_26",
+    "word": "Me despierto a las siete.",
+    "translation": "Eu acordo às sete.",
+    "pronunciation": "/me desˈpjeɾto a las ˈsjete/",
+    "portuguesePhonetic": "[me despiérto a las siéte]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_27",
+    "word": "Me levanto y me estiro.",
+    "translation": "Eu levanto e me espreguiço.",
+    "pronunciation": "/me leˈβanto i me esˈtiɾo/",
+    "portuguesePhonetic": "[me lebánto i me estíro]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_28",
+    "word": "Hago la cama.",
+    "translation": "Eu arrumo a cama.",
+    "pronunciation": "/ˈaɣo la ˈkama/",
+    "portuguesePhonetic": "[águo la káma]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_29",
+    "word": "Me lavo los dientes.",
+    "translation": "Eu escovo os dentes.",
+    "pronunciation": "/me ˈlaβo los ˈdjentes/",
+    "portuguesePhonetic": "[me lábo los diéntes]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_30",
+    "word": "Me ducho rápido.",
+    "translation": "Eu tomo um banho rápido.",
+    "pronunciation": "/me ˈdutʃo ˈrapiðo/",
+    "portuguesePhonetic": "[me dútcho rrápido]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_31",
+    "word": "Me visto.",
+    "translation": "Eu me visto.",
+    "pronunciation": "/me ˈbisto/",
+    "portuguesePhonetic": "[me bísto]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_32",
+    "word": "Desayuno.",
+    "translation": "Eu tomo café da manhã.",
+    "pronunciation": "/desaˈʝuno/",
+    "portuguesePhonetic": "[desaiúno]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_33",
+    "word": "Tomo una taza de café.",
+    "translation": "Eu tomo uma xícara de café.",
+    "pronunciation": "/ˈtomo una ˈtaθa de kaˈfe/",
+    "portuguesePhonetic": "[tómo úna tátha de kafé]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_34",
+    "word": "Miro el móvil.",
+    "translation": "Eu olho o celular.",
+    "pronunciation": "/ˈmiɾo el ˈmoβil/",
+    "portuguesePhonetic": "[míro el móbil]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_35",
+    "word": "Salgo de casa.",
+    "translation": "Eu saio de casa.",
+    "pronunciation": "/ˈsalɣo de ˈkasa/",
+    "portuguesePhonetic": "[sálgo de kása]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_36",
+    "word": "Voy al trabajo en autobús.",
+    "translation": "Eu vou para o trabalho de ônibus.",
+    "pronunciation": "/boi al tɾaˈβaxo en awtoˈβus/",
+    "portuguesePhonetic": "[bôi al trabárro en autobús]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_37",
+    "word": "Empiezo a trabajar a las nueve.",
+    "translation": "Eu começo a trabalhar às nove.",
+    "pronunciation": "/emˈpjeθo a tɾaβaˈxaɾ a las ˈnweβe/",
+    "portuguesePhonetic": "[empiétho a trabarrár a las nuébe]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_38",
+    "word": "Reviso el correo.",
+    "translation": "Eu verifico os e-mails.",
+    "pronunciation": "/reˈβiso el koˈreo/",
+    "portuguesePhonetic": "[rebíso el korréo]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_39",
+    "word": "Como al mediodía.",
+    "translation": "Eu almoço ao meio-dia.",
+    "pronunciation": "/ˈkomo al meðjoˈðia/",
+    "portuguesePhonetic": "[kómo al mediodía]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_40",
+    "word": "Termino de trabajar a las cinco.",
+    "translation": "Eu termino o trabalho às cinco.",
+    "pronunciation": "/teɾˈmino de tɾaβaˈxaɾ a las ˈθiŋko/",
+    "portuguesePhonetic": "[termíno de trabarrár a las thínko]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_41",
+    "word": "Vuelvo a casa.",
+    "translation": "Eu volto para casa.",
+    "pronunciation": "/ˈbwelβo a ˈkasa/",
+    "portuguesePhonetic": "[buélbo a kása]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_42",
+    "word": "Hago los deberes.",
+    "translation": "Eu faço a lição de casa.",
+    "pronunciation": "/ˈaɣo los deˈβeɾes/",
+    "portuguesePhonetic": "[águo los debéres]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_43",
+    "word": "Salgo a correr.",
+    "translation": "Eu vou correr.",
+    "pronunciation": "/ˈsalɣo a koˈreɾ/",
+    "portuguesePhonetic": "[sálgo a korrér]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_44",
+    "word": "Voy al gimnasio.",
+    "translation": "Eu vou à academia.",
+    "pronunciation": "/boi al ximˈnasjo/",
+    "portuguesePhonetic": "[bôi al rrimnásio]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_45",
+    "word": "Voy de compras.",
+    "translation": "Eu faço compras.",
+    "pronunciation": "/boi de ˈkompɾas/",
+    "portuguesePhonetic": "[bôi de kómpras]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_46",
+    "word": "Cocino la cena.",
+    "translation": "Eu cozinho o jantar.",
+    "pronunciation": "/koˈθino la ˈθena/",
+    "portuguesePhonetic": "[kothíno la théna]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_47",
+    "word": "Ceno con mi familia.",
+    "translation": "Eu janto com minha família.",
+    "pronunciation": "/ˈθeno kon mi faˈmilja/",
+    "portuguesePhonetic": "[théno kon mi famílha]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_48",
+    "word": "Veo la tele.",
+    "translation": "Eu assisto TV.",
+    "pronunciation": "/ˈbeo la ˈtele/",
+    "portuguesePhonetic": "[béo la téle]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_49",
+    "word": "Me relajo en el sofá.",
+    "translation": "Eu relaxo no sofá.",
+    "pronunciation": "/me reˈlaxo en el soˈfa/",
+    "portuguesePhonetic": "[me relárro en el sofá]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_50",
+    "word": "Me acuesto a las once.",
+    "translation": "Eu vou dormir às onze.",
+    "pronunciation": "/me aˈkwesto a las ˈonθe/",
+    "portuguesePhonetic": "[me akuésto a las ónthe]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_51",
+    "word": "Me despierto temprano.",
+    "translation": "Eu acordo cedo.",
+    "pronunciation": "/me desˈpjeɾto temˈpɾano/",
+    "portuguesePhonetic": "[me despiérto tempráno]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_52",
+    "word": "Ella desayuna.",
+    "translation": "Ela toma café da manhã.",
+    "pronunciation": "/ˈeʎa desaˈʝuna/",
+    "portuguesePhonetic": "[élha desaiúna]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_53",
+    "word": "Él va al trabajo.",
+    "translation": "Ele vai para o trabalho.",
+    "pronunciation": "/el ba al tɾaˈβaxo/",
+    "portuguesePhonetic": "[él ba al trabárro]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_54",
+    "word": "Vemos la tele.",
+    "translation": "Nós assistimos TV.",
+    "pronunciation": "/ˈbemos la ˈtele/",
+    "portuguesePhonetic": "[bémos la téle]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_55",
+    "word": "Siempre me lavo los dientes.",
+    "translation": "Eu sempre escovo os dentes.",
+    "pronunciation": "/ˈsjempɾe me ˈlaβo los ˈdjentes/",
+    "portuguesePhonetic": "[siémpre me lábo los diéntes]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_56",
+    "word": "Ella suele levantarse a las seis.",
+    "translation": "Ela geralmente levanta às seis.",
+    "pronunciation": "/ˈeʎa ˈswele leβanˈtaɾse a las seis/",
+    "portuguesePhonetic": "[élha suéle lebantárse a las séis]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_57",
+    "word": "Él nunca desayuna.",
+    "translation": "Ele nunca toma café da manhã.",
+    "pronunciation": "/el ˈnuŋka desaˈʝuna/",
+    "portuguesePhonetic": "[él núnka desaiúna]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_58",
+    "word": "Van al gimnasio a menudo.",
+    "translation": "Eles vão à academia com frequência.",
+    "pronunciation": "/ban al ximˈnasjo a meˈnuðo/",
+    "portuguesePhonetic": "[ban al rrimnásio a menúdo]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_59",
+    "word": "¿A qué hora te despiertas?",
+    "translation": "A que horas você acorda?",
+    "pronunciation": "/a ke ˈoɾa te desˈpjeɾtas/",
+    "portuguesePhonetic": "[a ké óra te despiértas]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_60",
+    "word": "¿Cocina la cena cada día?",
+    "translation": "Ela cozinha o jantar todo dia?",
+    "pronunciation": "/koˈθina la ˈθena ˈkaða ˈdia/",
+    "portuguesePhonetic": "[kothína la théna káda día]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_61",
+    "word": "No veo la tele por la noche.",
+    "translation": "Eu não assisto TV à noite.",
+    "pronunciation": "/no ˈbeo la ˈtele poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "[no béo la téle por la nótche]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_62",
+    "word": "¿Por qué te acuestas tan tarde?",
+    "translation": "Por que você vai dormir tão tarde?",
+    "pronunciation": "/poɾ ke te aˈkwestas tan ˈtaɾðe/",
+    "portuguesePhonetic": "[por ké te akuéstas tan tárde]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_63",
+    "word": "Reviso el correo cuando empiezo a trabajar.",
+    "translation": "Eu verifico os e-mails quando começo a trabalhar.",
+    "pronunciation": "/reˈβiso el koˈreo ˈkwando emˈpjeθo a tɾaβaˈxaɾ/",
+    "portuguesePhonetic": "[rebíso el korréo kuándo empiétho a trabarrár]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_64",
+    "word": "Está cocinando la cena ahora.",
+    "translation": "Ela está cozinhando o jantar agora.",
+    "pronunciation": "/esˈta koθiˈnando la ˈθena aˈoɾa/",
+    "portuguesePhonetic": "[está kothinándo la théna aóra]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_65",
+    "word": "Ayer salí a correr por la mañana.",
+    "translation": "Eu fui correr ontem de manhã.",
+    "pronunciation": "/aˈʝeɾ saˈli a koˈreɾ poɾ la maˈɲana/",
+    "portuguesePhonetic": "[aiér salí a korrér por la manhána]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_66",
+    "word": "Estaba durmiendo cuando llamé.",
+    "translation": "Ele estava dormindo quando liguei.",
+    "pronunciation": "/esˈtaβa duɾˈmjendo ˈkwando ʎaˈme/",
+    "portuguesePhonetic": "[estába durmiéndo kuándo lhamé]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_67",
+    "word": "Vimos la tele después de cenar.",
+    "translation": "Nós assistimos TV depois de jantar.",
+    "pronunciation": "/ˈbimos la ˈtele desˈpwes de θeˈnaɾ/",
+    "portuguesePhonetic": "[bímos la téle después de thenár]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_68",
+    "word": "Me ducho antes de ir al trabajo.",
+    "translation": "Eu tomo banho antes de ir para o trabalho.",
+    "pronunciation": "/me ˈdutʃo ˈantes de iɾ al tɾaˈβaxo/",
+    "portuguesePhonetic": "[me dútcho ántes de ir al trabárro]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_69",
+    "word": "Va al gimnasio porque quiere estar sana.",
+    "translation": "Ela vai à academia porque quer ser saudável.",
+    "pronunciation": "/ba al ximˈnasjo ˈpoɾke ˈkjeɾe esˈtaɾ ˈsana/",
+    "portuguesePhonetic": "[ba al rrimnásio pórke kiére estár sána]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_70",
+    "word": "Normalmente cocino la cena, pero esta noche pediremos pizza.",
+    "translation": "Eu geralmente cozinho o jantar, mas hoje vamos pedir pizza.",
+    "pronunciation": "/noɾˈmalmente koˈθino la ˈθena ˈpeɾo ˈesta ˈnotʃe peðiˈɾemos ˈpitsa/",
+    "portuguesePhonetic": "[normalménte kothíno la théna péro ésta nótche pedirémos pítsa]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_71",
+    "word": "Después de terminar de trabajar, vuelve a casa y se relaja.",
+    "translation": "Depois que ele termina o trabalho, ele volta para casa e relaxa.",
+    "pronunciation": "/desˈpwes de teɾmiˈnaɾ de tɾaβaˈxaɾ ˈbwelβe a ˈkasa i se reˈlaxa/",
+    "portuguesePhonetic": "[después de terminár de trabarrár buélbe a kása i se relárra]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_72",
+    "word": "No hice los deberes porque estaba muy cansado.",
+    "translation": "Eu não fiz a lição porque estaba muito cansado.",
+    "pronunciation": "/no ˈiθe los deˈβeɾes ˈpoɾke esˈtaβa mui kanˈsaðo/",
+    "portuguesePhonetic": "[no íthe los debéres pórke estába múi kansádo]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_73",
+    "word": "Se despierta temprano, así que siempre desayuna.",
+    "translation": "Ela acorda cedo, então sempre toma café da manhã.",
+    "pronunciation": "/se desˈpjeɾta temˈpɾano aˈsi ke ˈsjempɾe desaˈʝuna/",
+    "portuguesePhonetic": "[se despiérta tempráno así ke siémpre desaiúna]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_74",
+    "word": "¿Vas de compras los fines de semana o después del trabajo?",
+    "translation": "Você faz compras nos fins de semana ou depois do trabalho?",
+    "pronunciation": "/bas de ˈkompɾas los ˈfines de seˈmana o desˈpwes del tɾaˈβaxo/",
+    "portuguesePhonetic": "[bas de kómpras los fínes de semána o después del trabárro]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_75",
+    "word": "Cuando llego a casa, me quito los zapatos y descanso.",
+    "translation": "Quando chego em casa, tiro os sapatos e descanso.",
+    "pronunciation": "/ˈkwando ˈʎeɣo a ˈkasa me ˈkito los θaˈpatos i desˈkanso/",
+    "portuguesePhonetic": "[kuándo lhégo a kása me kíto los thapátos i deskánso]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_76",
+    "word": "«¿A qué hora te despiertas?» / «A las siete.»",
+    "translation": "\"A que horas você acorda?\" / \"Às sete.\"",
+    "pronunciation": "/a ke ˈoɾa te desˈpjeɾtas · a las ˈsjete/",
+    "portuguesePhonetic": "[a ké óra te despiértas · a las siéte]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_77",
+    "word": "«¿Desayunas?» / «Sí, cada día.»",
+    "translation": "\"Você toma café da manhã?\" / \"Sim, todo dia.\"",
+    "pronunciation": "/desaˈʝunas · si ˈkaða ˈdia/",
+    "portuguesePhonetic": "[desaiúnas · sí káda día]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_78",
+    "word": "«¿A qué hora empiezas a trabajar?» / «A las nueve.»",
+    "translation": "\"A que horas você começa a trabalhar?\" / \"Às nove.\"",
+    "pronunciation": "/a ke ˈoɾa emˈpjeθas a tɾaβaˈxaɾ · a las ˈnweβe/",
+    "portuguesePhonetic": "[a ké óra empiéthas a trabarrár · a las nuébe]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_79",
+    "word": "«¿Vas al gimnasio?» / «Sí, tres veces por semana.»",
+    "translation": "\"Você vai à academia?\" / \"Sim, três vezes por semana.\"",
+    "pronunciation": "/bas al ximˈnasjo · si tɾes ˈbeθes poɾ seˈmana/",
+    "portuguesePhonetic": "[bas al rrimnásio · sí trés béthes por semána]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_80",
+    "word": "«¿Qué haces después del trabajo?» / «Cocino la cena.»",
+    "translation": "\"O que você faz depois do trabalho?\" / \"Eu cozinho o jantar.\"",
+    "pronunciation": "/ke ˈaθes desˈpwes del tɾaˈβaxo · koˈθino la ˈθena/",
+    "portuguesePhonetic": "[ke áthes después del trabárro · kothíno la théna]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_81",
+    "word": "«¿Ves la tele por la noche?» / «A veces.»",
+    "translation": "\"Você assiste TV à noite?\" / \"Às vezes.\"",
+    "pronunciation": "/bes la ˈtele poɾ la ˈnotʃe · a ˈbeθes/",
+    "portuguesePhonetic": "[bes la téle por la nótche · a béthes]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_82",
+    "word": "«¿Cuándo haces los deberes?» / «Después de cenar.»",
+    "translation": "\"Quando você faz a lição?\" / \"Depois de jantar.\"",
+    "pronunciation": "/ˈkwando ˈaθes los deˈβeɾes · desˈpwes de θeˈnaɾ/",
+    "portuguesePhonetic": "[kuándo áthes los debéres · después de thenár]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_83",
+    "word": "«¿Te duchas por la mañana?» / «Sí, siempre.»",
+    "translation": "\"Você toma banho de manhã?\" / \"Sim, sempre.\"",
+    "pronunciation": "/te ˈdutʃas poɾ la maˈɲana · si ˈsjempɾe/",
+    "portuguesePhonetic": "[te dútchas por la manhána · sí siémpre]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_84",
+    "word": "«¿A qué hora te acuestas?» / «Sobre las once.»",
+    "translation": "\"A que horas você vai dormir?\" / \"Por volta das onze.\"",
+    "pronunciation": "/a ke ˈoɾa te aˈkwestas · ˈsoβɾe las ˈonθe/",
+    "portuguesePhonetic": "[a ké óra te akuéstas · sóbre las ónthe]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_85",
+    "word": "«¿Sales a correr?» / «Sí, cada mañana.»",
+    "translation": "\"Você vai correr?\" / \"Sim, toda manhã.\"",
+    "pronunciation": "/ˈsales a koˈreɾ · si ˈkaða maˈɲana/",
+    "portuguesePhonetic": "[sáles a korrér · sí káda manhána]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_86",
+    "word": "«¿Cuándo revisas el correo?» / «Nada más llegar al trabajo.»",
+    "translation": "\"Quando você verifica os e-mails?\" / \"Assim que chego ao trabalho.\"",
+    "pronunciation": "/ˈkwando reˈβisas el koˈreo · ˈnaða mas ʎeˈɣaɾ al tɾaˈβaxo/",
+    "portuguesePhonetic": "[kuándo rebísas el korréo · náda mas lhegár al trabárro]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_87",
+    "word": "«¿Cocinas cada día?» / «No, a veces pido comida.»",
+    "translation": "\"Você cozinha todo dia?\" / \"Não, às vezes peço comida.\"",
+    "pronunciation": "/koˈθinas ˈkaða ˈdia · no a ˈbeθes ˈpiðo koˈmiða/",
+    "portuguesePhonetic": "[kothínas káda día · no a béthes pído komída]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_88",
+    "word": "«¿A qué hora terminas de trabajar?» / «A las cinco.»",
+    "translation": "\"A que horas você termina o trabalho?\" / \"Às cinco.\"",
+    "pronunciation": "/a ke ˈoɾa teɾˈminas de tɾaβaˈxaɾ · a las ˈθiŋko/",
+    "portuguesePhonetic": "[a ké óra termínas de trabarrár · a las thínko]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_89",
+    "word": "«¿Vas de compras a menudo?» / «Una vez por semana.»",
+    "translation": "\"Você faz compras com frequência?\" / \"Uma vez por semana.\"",
+    "pronunciation": "/bas de ˈkompɾas a meˈnuðo · una beθ poɾ seˈmana/",
+    "portuguesePhonetic": "[bas de kómpras a menúdo · úna béth por semána]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_90",
+    "word": "«¿Comes en el trabajo?» / «Sí, como allí.»",
+    "translation": "\"Você almoça no trabalho?\" / \"Sim, almoço lá.\"",
+    "pronunciation": "/ˈkomes en el tɾaˈβaxo · si ˈkomo aˈʎi/",
+    "portuguesePhonetic": "[kómes en el trabárro · sí kómo alhí]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_91",
+    "word": "«¿Cuándo te levantas?» / «Justo después de despertarme.»",
+    "translation": "\"Quando você levanta?\" / \"Logo depois de acordar.\"",
+    "pronunciation": "/ˈkwando te leˈβantas · ˈxusto desˈpwes de despeɾˈtaɾme/",
+    "portuguesePhonetic": "[kuándo te lebántas · rrústo después de despertárme]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_92",
+    "word": "«¿Te lavas los dientes después de desayunar?» / «Sí, claro.»",
+    "translation": "\"Você escova os dentes depois do café?\" / \"Sim, claro.\"",
+    "pronunciation": "/te ˈlaβas los ˈdjentes desˈpwes de desaʝuˈnaɾ · si ˈklaɾo/",
+    "portuguesePhonetic": "[te lábas los diéntes después de desaiunár · sí kláro]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_93",
+    "word": "«¿Cómo vas al trabajo?» / «En autobús.»",
+    "translation": "\"Como você vai para o trabalho?\" / \"De ônibus.\"",
+    "pronunciation": "/ˈkomo bas al tɾaˈβaxo · en awtoˈβus/",
+    "portuguesePhonetic": "[kómo bas al trabárro · en autobús]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_94",
+    "word": "«¿Te relajas por la noche?» / «Sí, veo la tele.»",
+    "translation": "\"Você relaxa à noite?\" / \"Sim, assisto TV.\"",
+    "pronunciation": "/te reˈlaxas poɾ la ˈnotʃe · si ˈbeo la ˈtele/",
+    "portuguesePhonetic": "[te relárras por la nótche · sí béo la téle]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_95",
+    "word": "«¿Cuál es tu rutina de mañana?» / «Me ducho y desayuno.»",
+    "translation": "\"Qual é sua rotina de manhã?\" / \"Tomo banho e tomo café.\"",
+    "pronunciation": "/kwal es tu ruˈtina de maˈɲana · me ˈdutʃo i desaˈʝuno/",
+    "portuguesePhonetic": "[kuál és tu rutína de manhána · me dútcho i desaiúno]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_96",
+    "word": "«¿Te acuestas pronto?» / «No, bastante tarde.»",
+    "translation": "\"Você dorme cedo?\" / \"Não, bem tarde.\"",
+    "pronunciation": "/te aˈkwestas ˈpɾonto · no basˈtante ˈtaɾðe/",
+    "portuguesePhonetic": "[te akuéstas prónto · no bastánte tárde]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_97",
+    "word": "«¿Cuándo cenas?» / «Sobre las nueve.»",
+    "translation": "\"Quando você janta?\" / \"Por volta das nove.\"",
+    "pronunciation": "/ˈkwando ˈθenas · ˈsoβɾe las ˈnweβe/",
+    "portuguesePhonetic": "[kuándo thénas · sóbre las nuébe]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_98",
+    "word": "«¿Haces la cama?» / «Sí, cada mañana.»",
+    "translation": "\"Você arruma a cama?\" / \"Sim, toda manhã.\"",
+    "pronunciation": "/ˈaθes la ˈkama · si ˈkaða maˈɲana/",
+    "portuguesePhonetic": "[áthes la káma · sí káda manhána]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_99",
+    "word": "«¿Qué haces los fines de semana?» / «Duermo hasta tarde.»",
+    "translation": "\"O que você faz nos fins de semana?\" / \"Durmo até tarde.\"",
+    "pronunciation": "/ke ˈaθes los ˈfines de seˈmana · ˈdweɾmo ˈasta ˈtaɾðe/",
+    "portuguesePhonetic": "[ke áthes los fínes de semána · duérmo ásta tárde]"
+  },
+  {
+    "id": "leccion_5_vocabulario_a1_s_es_card_100",
+    "word": "«¿Tienes una rutina ajetreada?» / «Sí, muy ajetreada.»",
+    "translation": "\"Você tem uma rotina corrida?\" / \"Sim, bem corrida.\"",
+    "pronunciation": "/ˈtjenes una ruˈtina axeˈtɾeaða · si mui axeˈtɾeaða/",
+    "portuguesePhonetic": "[tiénes úna rutína arretreáda · sí múi arretreáda]"
+  }
+]

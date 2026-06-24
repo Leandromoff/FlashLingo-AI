@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_1",
+    "word": "family",
+    "translation": "família",
+    "pronunciation": "/ˈfæməli/",
+    "portuguesePhonetic": "[fémili]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_2",
+    "word": "grandfather",
+    "translation": "avô",
+    "pronunciation": "/ˈɡrænfɑːðər/",
+    "portuguesePhonetic": "[grénfadher]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_3",
+    "word": "grandmother",
+    "translation": "avó",
+    "pronunciation": "/ˈɡrænmʌðər/",
+    "portuguesePhonetic": "[grénmadher]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_4",
+    "word": "uncle",
+    "translation": "tio",
+    "pronunciation": "/ˈʌŋkl̩/",
+    "portuguesePhonetic": "[ânkou]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_5",
+    "word": "aunt",
+    "translation": "tia",
+    "pronunciation": "/ænt/",
+    "portuguesePhonetic": "[ént]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_6",
+    "word": "father",
+    "translation": "pai",
+    "pronunciation": "/ˈfɑːðər/",
+    "portuguesePhonetic": "[fádher]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_7",
+    "word": "mother",
+    "translation": "mãe",
+    "pronunciation": "/ˈmʌðər/",
+    "portuguesePhonetic": "[mâdher]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_8",
+    "word": "cousin",
+    "translation": "primo / prima",
+    "pronunciation": "/ˈkʌzn̩/",
+    "portuguesePhonetic": "[kâzan]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_9",
+    "word": "brother",
+    "translation": "irmão",
+    "pronunciation": "/ˈbrʌðər/",
+    "portuguesePhonetic": "[brâdher]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_10",
+    "word": "sister",
+    "translation": "irmã",
+    "pronunciation": "/ˈsɪstər/",
+    "portuguesePhonetic": "[síster]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_11",
+    "word": "brother-in-law",
+    "translation": "cunhado",
+    "pronunciation": "/ˈbrʌðər ɪn lɔː/",
+    "portuguesePhonetic": "[brâdher in ló]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_12",
+    "word": "husband",
+    "translation": "marido",
+    "pronunciation": "/ˈhʌzbənd/",
+    "portuguesePhonetic": "[râzband]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_13",
+    "word": "wife",
+    "translation": "esposa",
+    "pronunciation": "/waɪf/",
+    "portuguesePhonetic": "[uáif]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_14",
+    "word": "nephew",
+    "translation": "sobrinho",
+    "pronunciation": "/ˈnɛfjuː/",
+    "portuguesePhonetic": "[néfiu]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_15",
+    "word": "niece",
+    "translation": "sobrinha",
+    "pronunciation": "/niːs/",
+    "portuguesePhonetic": "[nís]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_16",
+    "word": "son",
+    "translation": "filho",
+    "pronunciation": "/sʌn/",
+    "portuguesePhonetic": "[sân]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_17",
+    "word": "daughter",
+    "translation": "filha",
+    "pronunciation": "/ˈdɔːtər/",
+    "portuguesePhonetic": "[dóter]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_18",
+    "word": "parents",
+    "translation": "pais",
+    "pronunciation": "/ˈpɛrənts/",
+    "portuguesePhonetic": "[pérents]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_19",
+    "word": "grandparents",
+    "translation": "avós",
+    "pronunciation": "/ˈɡrænpɛrənts/",
+    "portuguesePhonetic": "[grénperents]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_20",
+    "word": "children",
+    "translation": "filhos / crianças",
+    "pronunciation": "/ˈtʃɪldrən/",
+    "portuguesePhonetic": "[tchíldren]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_21",
+    "word": "grandson",
+    "translation": "neto",
+    "pronunciation": "/ˈɡrænsʌn/",
+    "portuguesePhonetic": "[grénsan]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_22",
+    "word": "granddaughter",
+    "translation": "neta",
+    "pronunciation": "/ˈɡrændɔːtər/",
+    "portuguesePhonetic": "[gréndoter]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_23",
+    "word": "sister-in-law",
+    "translation": "cunhada",
+    "pronunciation": "/ˈsɪstər ɪn lɔː/",
+    "portuguesePhonetic": "[síster in ló]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_24",
+    "word": "baby",
+    "translation": "bebê",
+    "pronunciation": "/ˈbeɪbi/",
+    "portuguesePhonetic": "[bêibi]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_25",
+    "word": "relatives",
+    "translation": "parentes",
+    "pronunciation": "/ˈrɛlətɪvz/",
+    "portuguesePhonetic": "[rélativz]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_26",
+    "word": "This is my family.",
+    "translation": "Esta é minha família.",
+    "pronunciation": "/ðɪs ɪz maɪ ˈfæməli/",
+    "portuguesePhonetic": "[dhís iz mái fémili]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_27",
+    "word": "My father is a doctor.",
+    "translation": "Meu pai é médico.",
+    "pronunciation": "/maɪ ˈfɑːðər ɪz ə ˈdɑːktər/",
+    "portuguesePhonetic": "[mái fádher iz a dáktor]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_28",
+    "word": "My mother is a teacher.",
+    "translation": "Minha mãe é professora.",
+    "pronunciation": "/maɪ ˈmʌðər ɪz ə ˈtiːtʃər/",
+    "portuguesePhonetic": "[mái mâdher iz a títcher]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_29",
+    "word": "I have one brother.",
+    "translation": "Eu tenho um irmão.",
+    "pronunciation": "/aɪ hæv wʌn ˈbrʌðər/",
+    "portuguesePhonetic": "[ái rrév uân brâdher]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_30",
+    "word": "My sister is younger than me.",
+    "translation": "Minha irmã é mais nova que eu.",
+    "pronunciation": "/maɪ ˈsɪstər ɪz ˈjʌŋɡər ðæn miː/",
+    "portuguesePhonetic": "[mái síster iz iâNguer dhén mí]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_31",
+    "word": "My grandparents live nearby.",
+    "translation": "Meus avós moram perto.",
+    "pronunciation": "/maɪ ˈɡrænpɛrənts lɪv ˈnɪrbaɪ/",
+    "portuguesePhonetic": "[mái grénperents lív nírbai]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_32",
+    "word": "My grandfather is very kind.",
+    "translation": "Meu avô é muito gentil.",
+    "pronunciation": "/maɪ ˈɡrænfɑːðər ɪz ˈvɛri kaɪnd/",
+    "portuguesePhonetic": "[mái grénfadher iz véri káind]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_33",
+    "word": "My grandmother cooks well.",
+    "translation": "Minha avó cozinha bem.",
+    "pronunciation": "/maɪ ˈɡrænmʌðər kʊks wɛl/",
+    "portuguesePhonetic": "[mái grénmadher kúks uél]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_34",
+    "word": "We visit them on weekends.",
+    "translation": "Nós os visitamos nos fins de semana.",
+    "pronunciation": "/wiː ˈvɪzɪt ðɛm ɑːn ˈwiːkɛndz/",
+    "portuguesePhonetic": "[uí vízit dhém ón uíkendz]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_35",
+    "word": "My uncle has two children.",
+    "translation": "Meu tio tem dois filhos.",
+    "pronunciation": "/maɪ ˈʌŋkl̩ hæz tuː ˈtʃɪldrən/",
+    "portuguesePhonetic": "[mái ânkou rréz tú tchíldren]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_36",
+    "word": "My aunt lives in Madrid.",
+    "translation": "Minha tia mora em Madri.",
+    "pronunciation": "/maɪ ænt lɪvz ɪn məˈdrɪd/",
+    "portuguesePhonetic": "[mái ént lívz in madríd]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_37",
+    "word": "My cousins are my best friends.",
+    "translation": "Meus primos são meus melhores amigos.",
+    "pronunciation": "/maɪ ˈkʌzn̩z ɑːr maɪ bɛst frɛndz/",
+    "portuguesePhonetic": "[mái kâzanz ár mái bést fréndz]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_38",
+    "word": "This is my wife, Sarah.",
+    "translation": "Esta é minha esposa, Sarah.",
+    "pronunciation": "/ðɪs ɪz maɪ waɪf ˈsɛrə/",
+    "portuguesePhonetic": "[dhís iz mái uáif séra]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_39",
+    "word": "My husband works a lot.",
+    "translation": "Meu marido trabalha muito.",
+    "pronunciation": "/maɪ ˈhʌzbənd wɜːrks ə lɑːt/",
+    "portuguesePhonetic": "[mái râzband uârks a lót]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_40",
+    "word": "We have two kids.",
+    "translation": "Nós temos dois filhos.",
+    "pronunciation": "/wiː hæv tuː kɪdz/",
+    "portuguesePhonetic": "[uí rrév tú kídz]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_41",
+    "word": "My son is six years old.",
+    "translation": "Meu filho tem seis anos.",
+    "pronunciation": "/maɪ sʌn ɪz sɪks jɪrz oʊld/",
+    "portuguesePhonetic": "[mái sân iz síks íirz ôuld]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_42",
+    "word": "My daughter loves to draw.",
+    "translation": "Minha filha adora desenhar.",
+    "pronunciation": "/maɪ ˈdɔːtər lʌvz tə drɔː/",
+    "portuguesePhonetic": "[mái dóter lâvz tu dró]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_43",
+    "word": "The baby is sleeping.",
+    "translation": "O bebê está dormindo.",
+    "pronunciation": "/ðə ˈbeɪbi ɪz ˈsliːpɪŋ/",
+    "portuguesePhonetic": "[dha bêibi iz slípin]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_44",
+    "word": "My sister's husband is my brother-in-law.",
+    "translation": "O marido da minha irmã é meu cunhado.",
+    "pronunciation": "/maɪ ˈsɪstərz ˈhʌzbənd ɪz maɪ ˈbrʌðər ɪn lɔː/",
+    "portuguesePhonetic": "[mái sísterz râzband iz mái brâdher in ló]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_45",
+    "word": "My nephew is very funny.",
+    "translation": "Meu sobrinho é muito engraçado.",
+    "pronunciation": "/maɪ ˈnɛfjuː ɪz ˈvɛri ˈfʌni/",
+    "portuguesePhonetic": "[mái néfiu iz véri fâni]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_46",
+    "word": "My niece is learning to walk.",
+    "translation": "Minha sobrinha está aprendendo a andar.",
+    "pronunciation": "/maɪ niːs ɪz ˈlɜːrnɪŋ tə wɔːk/",
+    "portuguesePhonetic": "[mái nís iz lârnin tu uók]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_47",
+    "word": "Here is a photo of my parents.",
+    "translation": "Aqui está uma foto dos meus pais.",
+    "pronunciation": "/hɪr ɪz ə ˈfoʊtoʊ əv maɪ ˈpɛrənts/",
+    "portuguesePhonetic": "[rrír iz a fôutou ov mái pérents]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_48",
+    "word": "We are a big family.",
+    "translation": "Nós somos uma família grande.",
+    "pronunciation": "/wiː ɑːr ə bɪɡ ˈfæməli/",
+    "portuguesePhonetic": "[uí ár a bíg fémili]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_49",
+    "word": "I love my relatives.",
+    "translation": "Eu amo meus parentes.",
+    "pronunciation": "/aɪ lʌv maɪ ˈrɛlətɪvz/",
+    "portuguesePhonetic": "[ái lâv mái rélativz]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_50",
+    "word": "Family is important to me.",
+    "translation": "A família é importante para mim.",
+    "pronunciation": "/ˈfæməli ɪz ɪmˈpɔːrtənt tə miː/",
+    "portuguesePhonetic": "[fémili iz impórtant tu mí]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_51",
+    "word": "I have a sister.",
+    "translation": "Eu tenho uma irmã.",
+    "pronunciation": "/aɪ hæv ə ˈsɪstər/",
+    "portuguesePhonetic": "[ái rrév a síster]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_52",
+    "word": "My father is tall.",
+    "translation": "Meu pai é alto.",
+    "pronunciation": "/maɪ ˈfɑːðər ɪz tɔːl/",
+    "portuguesePhonetic": "[mái fádher iz tól]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_53",
+    "word": "She is my cousin.",
+    "translation": "Ela é minha prima.",
+    "pronunciation": "/ʃiː ɪz maɪ ˈkʌzn̩/",
+    "portuguesePhonetic": "[chí iz mái kâzan]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_54",
+    "word": "We love our grandparents.",
+    "translation": "Nós amamos nossos avós.",
+    "pronunciation": "/wiː lʌv aʊər ˈɡrænpɛrənts/",
+    "portuguesePhonetic": "[uí lâv áuer grénperents]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_55",
+    "word": "My brother has a dog.",
+    "translation": "Meu irmão tem um cachorro.",
+    "pronunciation": "/maɪ ˈbrʌðər hæz ə dɔːɡ/",
+    "portuguesePhonetic": "[mái brâdher rréz a dóg]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_56",
+    "word": "Her daughter is a nurse.",
+    "translation": "A filha dela é enfermeira.",
+    "pronunciation": "/hɜːr ˈdɔːtər ɪz ə nɜːrs/",
+    "portuguesePhonetic": "[rrâr dóter iz a nârs]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_57",
+    "word": "Is he your uncle?",
+    "translation": "Ele é seu tio?",
+    "pronunciation": "/ɪz hiː jɔːr ˈʌŋkl̩/",
+    "portuguesePhonetic": "[iz rrí iór ânkou]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_58",
+    "word": "I don't have any cousins.",
+    "translation": "Eu não tenho primos.",
+    "pronunciation": "/aɪ doʊnt hæv ˈɛni ˈkʌzn̩z/",
+    "portuguesePhonetic": "[ái dôunt rrév éni kâzanz]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_59",
+    "word": "How many brothers do you have?",
+    "translation": "Quantos irmãos você tem?",
+    "pronunciation": "/haʊ ˈmɛni ˈbrʌðərz duː juː hæv/",
+    "portuguesePhonetic": "[rráu méni brâdherz dú iú rrév]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_60",
+    "word": "Where do your parents live?",
+    "translation": "Onde seus pais moram?",
+    "pronunciation": "/wɛr duː jɔːr ˈpɛrənts lɪv/",
+    "portuguesePhonetic": "[uér dú iór pérents lív]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_61",
+    "word": "My grandfather isn't here today.",
+    "translation": "Meu avô não está aqui hoje.",
+    "pronunciation": "/maɪ ˈɡrænfɑːðər ˈɪznt hɪr təˈdeɪ/",
+    "portuguesePhonetic": "[mái grénfadher íznt rrír tudêi]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_62",
+    "word": "Why is your sister sad?",
+    "translation": "Por que sua irmã está triste?",
+    "pronunciation": "/waɪ ɪz jɔːr ˈsɪstər sæd/",
+    "portuguesePhonetic": "[uái iz iór síster séd]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_63",
+    "word": "I call my mother because I miss her.",
+    "translation": "Eu ligo para minha mãe porque sinto falta dela.",
+    "pronunciation": "/aɪ kɔːl maɪ ˈmʌðər bɪˈkɔːz aɪ mɪs hɜːr/",
+    "portuguesePhonetic": "[ái kól mái mâdher bikóz ái mís rrâr]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_64",
+    "word": "My aunt is visiting us this week.",
+    "translation": "Minha tia está nos visitando esta semana.",
+    "pronunciation": "/maɪ ænt ɪz ˈvɪzɪtɪŋ ʌs ðɪs wiːk/",
+    "portuguesePhonetic": "[mái ént iz vízitin âs dhís uík]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_65",
+    "word": "We celebrated my grandmother's birthday yesterday.",
+    "translation": "Nós comemoramos o aniversário da minha avó ontem.",
+    "pronunciation": "/wiː ˈsɛləbreɪtɪd maɪ ˈɡrænmʌðərz ˈbɜːrθdeɪ ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[uí sélebreited mái grénmadherz bârthdei iéster dei]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_66",
+    "word": "My brother was studying when I arrived.",
+    "translation": "Meu irmão estava estudando quando eu cheguei.",
+    "pronunciation": "/maɪ ˈbrʌðər wəz ˈstʌdiɪŋ wɛn aɪ əˈraɪvd/",
+    "portuguesePhonetic": "[mái brâdher uâz stâdiin uén ái aráivd]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_67",
+    "word": "My parents met when they were young.",
+    "translation": "Meus pais se conheceram quando eram jovens.",
+    "pronunciation": "/maɪ ˈpɛrənts mɛt wɛn ðeɪ wɜːr jʌŋ/",
+    "portuguesePhonetic": "[mái pérents mét uén dhêi uâr iâN]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_68",
+    "word": "My sister is married, but my brother is single.",
+    "translation": "Minha irmã é casada, mas meu irmão é solteiro.",
+    "pronunciation": "/maɪ ˈsɪstər ɪz ˈmɛrid bʌt maɪ ˈbrʌðər ɪz ˈsɪŋɡl̩/",
+    "portuguesePhonetic": "[mái síster iz mérid bât mái brâdher iz síNgou]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_69",
+    "word": "I'll introduce you to my family when you come.",
+    "translation": "Vou te apresentar à minha família quando você vier.",
+    "pronunciation": "/aɪl ˌɪntrəˈduːs juː tə maɪ ˈfæməli wɛn juː kʌm/",
+    "portuguesePhonetic": "[áiou introdús iú tu mái fémili uén iú kâm]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_70",
+    "word": "My grandparents have been married for fifty years.",
+    "translation": "Meus avós são casados há cinquenta anos.",
+    "pronunciation": "/maɪ ˈɡrænpɛrənts hæv bɪn ˈmɛrid fɔːr ˈfɪfti jɪrz/",
+    "portuguesePhonetic": "[mái grénperents rrév bín mérid fór fífti íirz]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_71",
+    "word": "Although my cousin lives far away, we talk every day.",
+    "translation": "Embora meu primo more longe, conversamos todo dia.",
+    "pronunciation": "/ɔːlˈðoʊ maɪ ˈkʌzn̩ lɪvz fɑːr əˈweɪ wiː tɔːk ˈɛvri deɪ/",
+    "portuguesePhonetic": "[oldhôu mái kâzan lívz fár auêi uí tók évri dêi]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_72",
+    "word": "My uncle didn't come because he was sick.",
+    "translation": "Meu tio não veio porque estava doente.",
+    "pronunciation": "/maɪ ˈʌŋkl̩ ˈdɪdnt kʌm bɪˈkɔːz hiː wəz sɪk/",
+    "portuguesePhonetic": "[mái ânkou dídent kâm bikóz rrí uâz sík]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_73",
+    "word": "My daughter looks like her mother, but she acts like me.",
+    "translation": "Minha filha se parece com a mãe, mas age como eu.",
+    "pronunciation": "/maɪ ˈdɔːtər lʊks laɪk hɜːr ˈmʌðər bʌt ʃiː ækts laɪk miː/",
+    "portuguesePhonetic": "[mái dóter lúks láik rrâr mâdher bât chí ékts láik mí]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_74",
+    "word": "Have you ever met my brother-in-law and his wife?",
+    "translation": "Você já conheceu meu cunhado e a esposa dele?",
+    "pronunciation": "/hæv juː ˈɛvər mɛt maɪ ˈbrʌðər ɪn lɔː ænd hɪz waɪf/",
+    "portuguesePhonetic": "[rrév iú éver mét mái brâdher in ló énd rriz uáif]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_75",
+    "word": "My nephew and niece are coming, so the house will be full.",
+    "translation": "Meu sobrinho e minha sobrinha estão vindo, então a casa vai ficar cheia.",
+    "pronunciation": "/maɪ ˈnɛfjuː ænd niːs ɑːr ˈkʌmɪŋ soʊ ðə haʊs wɪl biː fʊl/",
+    "portuguesePhonetic": "[mái néfiu énd nís ár kâmin sôu dha ráus uíou bí fúl]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_76",
+    "word": "\"Is this your family?\" / \"Yes, it is.\"",
+    "translation": "\"Esta é sua família?\" / \"Sim, é.\"",
+    "pronunciation": "/ɪz ðɪs jɔːr ˈfæməli · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz dhís iór fémili · iés ít iz]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_77",
+    "word": "\"Who is he?\" / \"He's my father.\"",
+    "translation": "\"Quem é ele?\" / \"É meu pai.\"",
+    "pronunciation": "/huː ɪz hiː · hiːz maɪ ˈfɑːðər/",
+    "portuguesePhonetic": "[rrú iz rrí · rríz mái fádher]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_78",
+    "word": "\"Do you have any siblings?\" / \"Yes, one brother.\"",
+    "translation": "\"Você tem irmãos?\" / \"Sim, um irmão.\"",
+    "pronunciation": "/duː juː hæv ˈɛni ˈsɪblɪŋz · jɛs wʌn ˈbrʌðər/",
+    "portuguesePhonetic": "[dú iú rrév éni síblinz · iés uân brâdher]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_79",
+    "word": "\"Is she your sister?\" / \"No, she's my cousin.\"",
+    "translation": "\"Ela é sua irmã?\" / \"Não, é minha prima.\"",
+    "pronunciation": "/ɪz ʃiː jɔːr ˈsɪstər · noʊ ʃiːz maɪ ˈkʌzn̩/",
+    "portuguesePhonetic": "[iz chí iór síster · nôu chíz mái kâzan]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_80",
+    "word": "\"How old is your son?\" / \"He's six.\"",
+    "translation": "\"Quantos anos tem seu filho?\" / \"Ele tem seis.\"",
+    "pronunciation": "/haʊ oʊld ɪz jɔːr sʌn · hiːz sɪks/",
+    "portuguesePhonetic": "[rráu ôuld iz iór sân · rríz síks]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_81",
+    "word": "\"Where do your grandparents live?\" / \"In Spain.\"",
+    "translation": "\"Onde seus avós moram?\" / \"Na Espanha.\"",
+    "pronunciation": "/wɛr duː jɔːr ˈɡrænpɛrənts lɪv · ɪn speɪn/",
+    "portuguesePhonetic": "[uér dú iór grénperents lív · in spêin]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_82",
+    "word": "\"Are you married?\" / \"Yes, this is my wife.\"",
+    "translation": "\"Você é casado?\" / \"Sim, esta é minha esposa.\"",
+    "pronunciation": "/ɑːr juː ˈmɛrid · jɛs ðɪs ɪz maɪ waɪf/",
+    "portuguesePhonetic": "[ár iú mérid · iés dhís iz mái uáif]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_83",
+    "word": "\"Who is the baby?\" / \"She's my niece.\"",
+    "translation": "\"Quem é o bebê?\" / \"É minha sobrinha.\"",
+    "pronunciation": "/huː ɪz ðə ˈbeɪbi · ʃiːz maɪ niːs/",
+    "portuguesePhonetic": "[rrú iz dha bêibi · chíz mái nís]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_84",
+    "word": "\"Is that your uncle?\" / \"Yes, his name is Michael.\"",
+    "translation": "\"Aquele é seu tio?\" / \"Sim, o nome dele é Michael.\"",
+    "pronunciation": "/ɪz ðæt jɔːr ˈʌŋkl̩ · jɛs hɪz neɪm ɪz ˈmaɪkl̩/",
+    "portuguesePhonetic": "[iz dhét iór ânkou · iés rriz nêim iz máikou]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_85",
+    "word": "\"Do you have children?\" / \"Yes, a son and a daughter.\"",
+    "translation": "\"Você tem filhos?\" / \"Sim, um filho e uma filha.\"",
+    "pronunciation": "/duː juː hæv ˈtʃɪldrən · jɛs ə sʌn ænd ə ˈdɔːtər/",
+    "portuguesePhonetic": "[dú iú rrév tchíldren · iés a sân énd a dóter]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_86",
+    "word": "\"What's your mother's name?\" / \"Her name is Linda.\"",
+    "translation": "\"Qual é o nome da sua mãe?\" / \"O nome dela é Linda.\"",
+    "pronunciation": "/wʌts jɔːr ˈmʌðərz neɪm · hɜːr neɪm ɪz ˈlɪndə/",
+    "portuguesePhonetic": "[uâts iór mâdherz nêim · rrâr nêim iz línda]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_87",
+    "word": "\"Is your sister older than you?\" / \"No, she's younger.\"",
+    "translation": "\"Sua irmã é mais velha que você?\" / \"Não, é mais nova.\"",
+    "pronunciation": "/ɪz jɔːr ˈsɪstər ˈoʊldər ðæn juː · noʊ ʃiːz ˈjʌŋɡər/",
+    "portuguesePhonetic": "[iz iór síster ôulder dhén iú · nôu chíz iâNguer]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_88",
+    "word": "\"Who cooks in your family?\" / \"My grandmother does.\"",
+    "translation": "\"Quem cozinha na sua família?\" / \"Minha avó.\"",
+    "pronunciation": "/huː kʊks ɪn jɔːr ˈfæməli · maɪ ˈɡrænmʌðər dʌz/",
+    "portuguesePhonetic": "[rrú kúks in iór fémili · mái grénmadher dâz]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_89",
+    "word": "\"Are these your cousins?\" / \"Yes, they are.\"",
+    "translation": "\"Estes são seus primos?\" / \"Sim, são.\"",
+    "pronunciation": "/ɑːr ðiːz jɔːr ˈkʌzn̩z · jɛs ðeɪ ɑːr/",
+    "portuguesePhonetic": "[ár dhíz iór kâzanz · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_90",
+    "word": "\"Is your brother married?\" / \"No, he's single.\"",
+    "translation": "\"Seu irmão é casado?\" / \"Não, é solteiro.\"",
+    "pronunciation": "/ɪz jɔːr ˈbrʌðər ˈmɛrid · noʊ hiːz ˈsɪŋɡl̩/",
+    "portuguesePhonetic": "[iz iór brâdher mérid · nôu rríz síNgou]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_91",
+    "word": "\"Who is John?\" / \"He's my brother-in-law.\"",
+    "translation": "\"Quem é o John?\" / \"É meu cunhado.\"",
+    "pronunciation": "/huː ɪz dʒɑːn · hiːz maɪ ˈbrʌðər ɪn lɔː/",
+    "portuguesePhonetic": "[rrú iz djón · rríz mái brâdher in ló]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_92",
+    "word": "\"How many cousins do you have?\" / \"Four.\"",
+    "translation": "\"Quantos primos você tem?\" / \"Quatro.\"",
+    "pronunciation": "/haʊ ˈmɛni ˈkʌzn̩z duː juː hæv · fɔːr/",
+    "portuguesePhonetic": "[rráu méni kâzanz dú iú rrév · fór]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_93",
+    "word": "\"Is your father retired?\" / \"Yes, he is.\"",
+    "translation": "\"Seu pai é aposentado?\" / \"Sim, é.\"",
+    "pronunciation": "/ɪz jɔːr ˈfɑːðər rɪˈtaɪərd · jɛs hiː ɪz/",
+    "portuguesePhonetic": "[iz iór fádher ritáierd · iés rrí iz]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_94",
+    "word": "\"Who is your favorite relative?\" / \"My grandfather.\"",
+    "translation": "\"Quem é seu parente favorito?\" / \"Meu avô.\"",
+    "pronunciation": "/huː ɪz jɔːr ˈfeɪvərɪt ˈrɛlətɪv · maɪ ˈɡrænfɑːðər/",
+    "portuguesePhonetic": "[rrú iz iór fêivorit rélativ · mái grénfadher]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_95",
+    "word": "\"Does your aunt live near you?\" / \"No, she lives far away.\"",
+    "translation": "\"Sua tia mora perto de você?\" / \"Não, mora longe.\"",
+    "pronunciation": "/dʌz jɔːr ænt lɪv nɪr juː · noʊ ʃiː lɪvz fɑːr əˈweɪ/",
+    "portuguesePhonetic": "[dâz iór ént lív nír iú · nôu chí lívz fár auêi]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_96",
+    "word": "\"Is your wife from here?\" / \"No, she's from Italy.\"",
+    "translation": "\"Sua esposa é daqui?\" / \"Não, é da Itália.\"",
+    "pronunciation": "/ɪz jɔːr waɪf frəm hɪr · noʊ ʃiːz frəm ˈɪtəli/",
+    "portuguesePhonetic": "[iz iór uáif from rrír · nôu chíz from ítali]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_97",
+    "word": "\"Who is older, your mom or your dad?\" / \"My dad is.\"",
+    "translation": "\"Quem é mais velho, sua mãe ou seu pai?\" / \"Meu pai.\"",
+    "pronunciation": "/huː ɪz ˈoʊldər jɔːr mɑːm ɔːr jɔːr dæd · maɪ dæd ɪz/",
+    "portuguesePhonetic": "[rrú iz ôulder iór móm ór iór déd · mái déd iz]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_98",
+    "word": "\"Are your parents coming?\" / \"Yes, they are.\"",
+    "translation": "\"Seus pais estão vindo?\" / \"Sim, estão.\"",
+    "pronunciation": "/ɑːr jɔːr ˈpɛrənts ˈkʌmɪŋ · jɛs ðeɪ ɑːr/",
+    "portuguesePhonetic": "[ár iór pérents kâmin · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_99",
+    "word": "\"Is the little girl your daughter?\" / \"Yes, her name is Olivia.\"",
+    "translation": "\"A menininha é sua filha?\" / \"Sim, o nome dela é Olivia.\"",
+    "pronunciation": "/ɪz ðə ˈlɪtl̩ ɡɜːrl jɔːr ˈdɔːtər · jɛs hɜːr neɪm ɪz əˈlɪviə/",
+    "portuguesePhonetic": "[iz dha lítou gârl iór dóter · iés rrâr nêim iz olívia]"
+  },
+  {
+    "id": "lesson_3_vocabulary_a1_en_card_100",
+    "word": "\"Do you see your family often?\" / \"Yes, every weekend.\"",
+    "translation": "\"Você vê sua família com frequência?\" / \"Sim, todo fim de semana.\"",
+    "pronunciation": "/duː juː siː jɔːr ˈfæməli ˈɔːfn̩ · jɛs ˈɛvri ˈwiːkɛnd/",
+    "portuguesePhonetic": "[dú iú sí iór fémili ófen · iés évri uíkend]"
+  }
+]

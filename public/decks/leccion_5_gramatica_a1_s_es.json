@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_1",
+    "word": "un libro interesante",
+    "translation": "um livro interessante",
+    "pronunciation": "/un ˈliβɾo inteɾeˈsante/",
+    "portuguesePhonetic": "[un líbro interesánte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_2",
+    "word": "una profesora increíble",
+    "translation": "uma professora incrível",
+    "pronunciation": "/una pɾofeˈsoɾa inkɾeˈiβle/",
+    "portuguesePhonetic": "[úna profesóra inkreíble]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_3",
+    "word": "ojos oscuros",
+    "translation": "olhos escuros",
+    "pronunciation": "/ˈoxos osˈkuɾos/",
+    "portuguesePhonetic": "[órros oskúros]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_4",
+    "word": "vídeos antiguos",
+    "translation": "vídeos antiguos",
+    "pronunciation": "/ˈbiðeos anˈtiɣwos/",
+    "portuguesePhonetic": "[bídeos antíguos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_5",
+    "word": "comida china",
+    "translation": "comida chinesa",
+    "pronunciation": "/koˈmiða ˈtʃina/",
+    "portuguesePhonetic": "[komída tchína]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_6",
+    "word": "Es un libro interesante.",
+    "translation": "É um livro interessante.",
+    "pronunciation": "/es un ˈliβɾo inteɾeˈsante/",
+    "portuguesePhonetic": "[és un líbro interesánte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_7",
+    "word": "Es una profesora increíble.",
+    "translation": "Ela é uma professora incrível.",
+    "pronunciation": "/es una pɾofeˈsoɾa inkɾeˈiβle/",
+    "portuguesePhonetic": "[és úna profesóra inkreíble]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_8",
+    "word": "Tiene los ojos oscuros.",
+    "translation": "Ela tem os olhos escuros.",
+    "pronunciation": "/ˈtjene los ˈoxos osˈkuɾos/",
+    "portuguesePhonetic": "[tiéne los órros oskúros]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_9",
+    "word": "Tengo vídeos antiguos.",
+    "translation": "Eu tenho vídeos antigos.",
+    "pronunciation": "/ˈteŋɡo ˈbiðeos anˈtiɣwos/",
+    "portuguesePhonetic": "[téngo bídeos antíguos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_10",
+    "word": "¿Te gusta la comida china?",
+    "translation": "Você gosta de comida chinesa?",
+    "pronunciation": "/te ˈɡusta la koˈmiða ˈtʃina/",
+    "portuguesePhonetic": "[te gústa la komída tchína]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_11",
+    "word": "Este libro es interesante.",
+    "translation": "Este livro é interessante.",
+    "pronunciation": "/ˈeste ˈliβɾo es inteɾeˈsante/",
+    "portuguesePhonetic": "[éste líbro és interesánte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_12",
+    "word": "Esta profesora es increíble.",
+    "translation": "Esta professora é incrível.",
+    "pronunciation": "/ˈesta pɾofeˈsoɾa es inkɾeˈiβle/",
+    "portuguesePhonetic": "[ésta profesóra és inkreíble]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_13",
+    "word": "Sus ojos son oscuros.",
+    "translation": "Os olhos dela são escuros.",
+    "pronunciation": "/sus ˈoxos son osˈkuɾos/",
+    "portuguesePhonetic": "[sus órros son oskúros]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_14",
+    "word": "Estos vídeos son antiguos.",
+    "translation": "Estes vídeos são antigos.",
+    "pronunciation": "/ˈestos ˈbiðeos son anˈtiɣwos/",
+    "portuguesePhonetic": "[éstos bídeos son antíguos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_15",
+    "word": "¿Es china esta comida?",
+    "translation": "Esta comida é chinesa?",
+    "pronunciation": "/es ˈtʃina ˈesta koˈmiða/",
+    "portuguesePhonetic": "[és tchína ésta komída]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_16",
+    "word": "Son libros interesantes.",
+    "translation": "São livros interessantes.",
+    "pronunciation": "/son ˈliβɾos inteɾeˈsantes/",
+    "portuguesePhonetic": "[son líbros interesántes]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_17",
+    "word": "Estos libros son interesantes.",
+    "translation": "Estes livros são interesantes.",
+    "pronunciation": "/ˈestos ˈliβɾos son inteɾeˈsantes/",
+    "portuguesePhonetic": "[éstos líbros son interesántes]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_18",
+    "word": "Tu idea suena interesante.",
+    "translation": "Sua ideia parece interessante.",
+    "pronunciation": "/tu iˈðea ˈswena inteɾeˈsante/",
+    "portuguesePhonetic": "[tu idéa suéna interesánte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_19",
+    "word": "Esta sopa sabe horrible.",
+    "translation": "Esta sopa tem gosto horrível.",
+    "pronunciation": "/ˈesta ˈsopa ˈsaβe oˈrible/",
+    "portuguesePhonetic": "[ésta sópa sábe orríble]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_20",
+    "word": "Pareces cansado.",
+    "translation": "Você parece cansado.",
+    "pronunciation": "/paˈɾeθes kanˈsaðo/",
+    "portuguesePhonetic": "[paréthes kansádo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_21",
+    "word": "Estas galletas huelen genial.",
+    "translation": "Estes biscoitos cheiram incrível.",
+    "pronunciation": "/ˈestas ɡaˈʎetas ˈwelen xeˈnjal/",
+    "portuguesePhonetic": "[éstas galhétas uélen rrenniál]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_22",
+    "word": "Me siento mal.",
+    "translation": "Eu me sinto mal.",
+    "pronunciation": "/me ˈsjento mal/",
+    "portuguesePhonetic": "[me siénto mal]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_23",
+    "word": "Estos son mis zapatos favoritos.",
+    "translation": "Estes são meus sapatos favoritos.",
+    "pronunciation": "/ˈestos son mis θaˈpatos faβoˈɾitos/",
+    "portuguesePhonetic": "[éstos son mis thapátos faborítos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_24",
+    "word": "Tiene los ojos azules.",
+    "translation": "Ela tem olhos azuis.",
+    "pronunciation": "/ˈtjene los ˈoxos aˈθules/",
+    "portuguesePhonetic": "[tiéne los órros athúles]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_25",
+    "word": "Los adjetivos concuerdan en género y número.",
+    "translation": "Os adjetivos concordam em gênero e número.",
+    "pronunciation": "/los aðxeˈtiβos koŋˈkweɾðan en ˈxeneɾo i ˈnumeɾo/",
+    "portuguesePhonetic": "[los adrretíbos konkuérdan en rrénero i número]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_26",
+    "word": "Esta sopa sabe deliciosa.",
+    "translation": "Esta sopa tem gosto delicioso.",
+    "pronunciation": "/ˈesta ˈsopa ˈsaβe deliˈθjosa/",
+    "portuguesePhonetic": "[ésta sópa sábe delithiósa]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_27",
+    "word": "La comida huele genial.",
+    "translation": "A comida cheira incrível.",
+    "pronunciation": "/la koˈmiða ˈwele xeˈnjal/",
+    "portuguesePhonetic": "[la komída uéle rrenniál]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_28",
+    "word": "El camarero es simpático.",
+    "translation": "O garçom é simpático.",
+    "pronunciation": "/el kamaˈɾeɾo es simˈpatiko/",
+    "portuguesePhonetic": "[el kamaréro és simpátiko]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_29",
+    "word": "Estas galletas son dulces.",
+    "translation": "Estes biscoitos são doces.",
+    "pronunciation": "/ˈestas ɡaˈʎetas son ˈdulθes/",
+    "portuguesePhonetic": "[éstas galhétas son dúlthes]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_30",
+    "word": "Me siento lleno.",
+    "translation": "Eu me sinto cheio.",
+    "pronunciation": "/me ˈsjento ˈʎeno/",
+    "portuguesePhonetic": "[me siénto lhéno]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_31",
+    "word": "Esta película es aburrida.",
+    "translation": "Este filme é chato.",
+    "pronunciation": "/ˈesta peˈlikula es aβuˈriða/",
+    "portuguesePhonetic": "[ésta pelíkula és aburrída]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_32",
+    "word": "Tengo vídeos antiguos.",
+    "translation": "Eu tenho vídeos antiguos.",
+    "pronunciation": "/ˈteŋɡo ˈbiðeos anˈtiɣwos/",
+    "portuguesePhonetic": "[téngo bídeos antíguos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_33",
+    "word": "El sofá es cómodo.",
+    "translation": "O sofá é confortável.",
+    "pronunciation": "/el soˈfa es ˈkomoðo/",
+    "portuguesePhonetic": "[el sofá és kómodo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_34",
+    "word": "Esta noche pareces cansado.",
+    "translation": "Esta noite você parece cansado.",
+    "pronunciation": "/ˈesta ˈnotʃe paˈɾeθes kanˈsaðo/",
+    "portuguesePhonetic": "[ésta nótche paréthes kansádo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_35",
+    "word": "La habitación está caliente.",
+    "translation": "O quarto está quente.",
+    "pronunciation": "/la aβitaˈθjon esˈta kaˈljente/",
+    "portuguesePhonetic": "[la abitathión está kaliénte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_36",
+    "word": "Es una profesora increíble.",
+    "translation": "Ela é uma profesora incrível.",
+    "pronunciation": "/es una pɾofeˈsoɾa inkɾeˈiβle/",
+    "portuguesePhonetic": "[és úna profesóra inkreíble]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_37",
+    "word": "Este libro es interesante.",
+    "translation": "Este livro é interessante.",
+    "pronunciation": "/ˈeste ˈliβɾo es inteɾeˈsante/",
+    "portuguesePhonetic": "[éste líbro és interesánte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_38",
+    "word": "La lección parece difícil.",
+    "translation": "A aula parece difícil.",
+    "pronunciation": "/la lekˈθjon paˈɾeθe diˈfiθil/",
+    "portuguesePhonetic": "[la lekthión paréthe difíthil]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_39",
+    "word": "Mi idea es buena.",
+    "translation": "Minha ideia é boa.",
+    "pronunciation": "/mi iˈðea es ˈbwena/",
+    "portuguesePhonetic": "[mi idéa és buéna]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_40",
+    "word": "Estos son mis zapatos favoritos.",
+    "translation": "Estes são meus sapatos favoritos.",
+    "pronunciation": "/ˈestos son mis θaˈpatos faβoˈɾitos/",
+    "portuguesePhonetic": "[éstos son mis thapátos faborítos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_41",
+    "word": "Esta camisa es demasiado grande.",
+    "translation": "Esta camisa é grande demais.",
+    "pronunciation": "/ˈesta kaˈmisa es demaˈsjaðo ˈɡɾande/",
+    "portuguesePhonetic": "[ésta kamísa és demasiádo gránde]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_42",
+    "word": "El vestido se ve precioso.",
+    "translation": "O vestido parece lindo.",
+    "pronunciation": "/el besˈtiðo se be pɾeˈθjoso/",
+    "portuguesePhonetic": "[el bestído se be prethióso]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_43",
+    "word": "Estos vaqueros están apretados.",
+    "translation": "Estas calças jeans estão apertadas.",
+    "pronunciation": "/ˈestos baˈkeɾos esˈtan apɾeˈtaðos/",
+    "portuguesePhonetic": "[éstos bakéros están apretádos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_44",
+    "word": "Tiene los ojos azules.",
+    "translation": "Ela tem olhos azuis.",
+    "pronunciation": "/ˈtjene los ˈoxos aˈθules/",
+    "portuguesePhonetic": "[tiéne los órros athúles]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_45",
+    "word": "Tiene el pelo oscuro.",
+    "translation": "Ele tem cabelo escuro.",
+    "pronunciation": "/ˈtjene el ˈpelo osˈkuɾo/",
+    "portuguesePhonetic": "[tiéne el pélo oskúro]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_46",
+    "word": "Hoy pareces feliz.",
+    "translation": "Hoje você parece feliz.",
+    "pronunciation": "/oi paˈɾeθes feˈliθ/",
+    "portuguesePhonetic": "[ôi paréthes felíth]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_47",
+    "word": "¿Te gusta la comida china?",
+    "translation": "Você gosta de comida chinesa?",
+    "pronunciation": "/te ˈɡusta la koˈmiða ˈtʃina/",
+    "portuguesePhonetic": "[te gústa la komída tchína]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_48",
+    "word": "La comida italiana es deliciosa.",
+    "translation": "Comida italiana é deliciosa.",
+    "pronunciation": "/la koˈmiða itaˈljana es deliˈθjosa/",
+    "portuguesePhonetic": "[la komída italiána és delithiósa]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_49",
+    "word": "Este restaurante es caro.",
+    "translation": "Este restaurante é caro.",
+    "pronunciation": "/ˈeste restawˈɾante es ˈkaɾo/",
+    "portuguesePhonetic": "[éste restauránte és káro]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_50",
+    "word": "El café huele bien.",
+    "translation": "O café cheira bem.",
+    "pronunciation": "/el kaˈfe ˈwele bjen/",
+    "portuguesePhonetic": "[el kafé uéle bién]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_51",
+    "word": "El libro es interesante.",
+    "translation": "O livro é interessante.",
+    "pronunciation": "/el ˈliβɾo es inteɾeˈsante/",
+    "portuguesePhonetic": "[el líbro és interesánte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_52",
+    "word": "Es una buena profesora.",
+    "translation": "Ela é uma boa professora.",
+    "pronunciation": "/es una ˈbwena pɾofeˈsoɾa/",
+    "portuguesePhonetic": "[és úna buéna profesóra]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_53",
+    "word": "Los ojos son oscuros.",
+    "translation": "Os olhos são escuros.",
+    "pronunciation": "/los ˈoxos son osˈkuɾos/",
+    "portuguesePhonetic": "[los órros son oskúros]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_54",
+    "word": "Me siento cansado.",
+    "translation": "Eu me sinto cansado.",
+    "pronunciation": "/me ˈsjento kanˈsaðo/",
+    "portuguesePhonetic": "[me siénto kansádo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_55",
+    "word": "Estas galletas huelen deliciosas.",
+    "translation": "Estes biscoitos cheiram delicioso.",
+    "pronunciation": "/ˈestas ɡaˈʎetas ˈwelen deliˈθjosas/",
+    "portuguesePhonetic": "[éstas galhétas uélen delithiósas]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_56",
+    "word": "Tu coche nuevo parece caro.",
+    "translation": "Seu carro novo parece caro.",
+    "pronunciation": "/tu ˈkotʃe ˈnweβo paˈɾeθe ˈkaɾo/",
+    "portuguesePhonetic": "[tu kótche nuébo paréthe káro]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_57",
+    "word": "¿Es china esta comida?",
+    "translation": "Esta comida é chinesa?",
+    "pronunciation": "/es ˈtʃina ˈesta koˈmiða/",
+    "portuguesePhonetic": "[és tchína ésta komída]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_58",
+    "word": "La sopa no sabe bien.",
+    "translation": "A sopa não tem gosto bom.",
+    "pronunciation": "/la ˈsopa no ˈsaβe bjen/",
+    "portuguesePhonetic": "[la sópa no sábe bién]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_59",
+    "word": "¿Por qué pareces tan triste?",
+    "translation": "Por que você parece tão triste?",
+    "pronunciation": "/poɾ ke paˈɾeθes tan ˈtɾiste/",
+    "portuguesePhonetic": "[por ké paréthes tan tríste]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_60",
+    "word": "¿Esto suena interesante?",
+    "translation": "Isto parece interessante?",
+    "pronunciation": "/ˈesto ˈswena inteɾeˈsante/",
+    "portuguesePhonetic": "[ésto suéna interesánte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_61",
+    "word": "Estos zapatos no son cómodos.",
+    "translation": "Estes sapatos não são confortáveis.",
+    "pronunciation": "/ˈestos θaˈpatos no son ˈkomoðos/",
+    "portuguesePhonetic": "[éstos thapátos no son kómodos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_62",
+    "word": "¿A qué sabe el pastel?",
+    "translation": "Como o bolo está de gosto?",
+    "pronunciation": "/a ke ˈsaβe el pasˈtel/",
+    "portuguesePhonetic": "[a ké sábe el pastél]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_63",
+    "word": "La película fue aburrida, pero el libro es interesante.",
+    "translation": "O filme foi chato, mas o livro é interessante.",
+    "pronunciation": "/la peˈlikula fwe aβuˈriða ˈpeɾo el ˈliβɾo es inteɾeˈsante/",
+    "portuguesePhonetic": "[la pelíkula fué aburrída péro el líbro és interesánte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_64",
+    "word": "Parece cansada porque ha trabajado todo el día.",
+    "translation": "Ela parece cansada porque trabalhou o dia todo.",
+    "pronunciation": "/paˈɾeθe kanˈsaða ˈpoɾke a tɾaβaˈxaðo ˈtoðo el ˈdia/",
+    "portuguesePhonetic": "[paréthe kansáda pórke a trabarrádo tódo el día]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_65",
+    "word": "La comida olía genial cuando llegamos.",
+    "translation": "A comida cheirava incrível quando chegamos.",
+    "pronunciation": "/la koˈmiða oˈlia xeˈnjal ˈkwando ʎeˈɣamos/",
+    "portuguesePhonetic": "[la komída olía rrenniál kuándo lhegámos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_66",
+    "word": "Me sentí mal después de comer esa sopa.",
+    "translation": "Eu me senti mal depois que comi aquela sopa.",
+    "pronunciation": "/me senˈti mal desˈpwes de koˈmeɾ ˈesa ˈsopa/",
+    "portuguesePhonetic": "[me sentí mal después de komér ésa sópa]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_67",
+    "word": "Estos vídeos eran populares cuando yo era joven.",
+    "translation": "Estes vídeos eram populares cuando yo era joven.",
+    "pronunciation": "/ˈestos ˈbiðeos ˈeɾan popuˈlaɾes ˈkwando ʝo ˈeɾa ˈxoβen/",
+    "portuguesePhonetic": "[éstos bídeos éran populáres kuándo iô éra rróben]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_68",
+    "word": "Este restaurante es famoso porque la comida sabe increíble.",
+    "translation": "Este restaurante é famoso porque a comida tem gosto incrível.",
+    "pronunciation": "/ˈeste restawˈɾante es faˈmoso ˈpoɾke la koˈmiða ˈsaβe inkɾeˈiβle/",
+    "portuguesePhonetic": "[éste restauránte és famóso pórke la komída sábe inkreíble]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_69",
+    "word": "Aunque el vestido parece caro, en realidad fue barato.",
+    "translation": "Embora o vestido pareça caro, na verdade foi barato.",
+    "pronunciation": "/ˈawŋke el besˈtiðo paˈɾeθe ˈkaɾo en realiˈðað fwe baˈɾato/",
+    "portuguesePhonetic": "[áunke el bestído paréthe káro en realidád fué baráto]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_70",
+    "word": "Sus ojos son oscuros, pero su pelo es claro.",
+    "translation": "Os olhos dela são escuros, mas o cabelo é claro.",
+    "pronunciation": "/sus ˈoxos son osˈkuɾos ˈpeɾo su ˈpelo es ˈklaɾo/",
+    "portuguesePhonetic": "[sus órros son oskúros péro su pélo és kláro]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_71",
+    "word": "No estoy seguro de si esta idea suena bien o mal.",
+    "translation": "Não tenho certeza se esta ideia parece boa ou ruim.",
+    "pronunciation": "/no esˈtoi seˈɣuɾo de si ˈesta iˈðea ˈswena bjen o mal/",
+    "portuguesePhonetic": "[no estôi segúro de si ésta idéa suéna bién o mal]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_72",
+    "word": "Las galletas olían deliciosas, así que me las comí todas.",
+    "translation": "Os biscoitos cheiravam delicioso, então comi todos.",
+    "pronunciation": "/las ɡaˈʎetas oˈlian deliˈθjosas aˈsi ke me las koˈmi ˈtoðas/",
+    "portuguesePhonetic": "[las galhétas olían delithiósas así ke me las komí tódas]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_73",
+    "word": "Estos son mis zapatos favoritos porque son cómodos.",
+    "translation": "Estes são meus sapatos favoritos porque son confortáveis.",
+    "pronunciation": "/ˈestos son mis θaˈpatos faβoˈɾitos ˈpoɾke son ˈkomoðos/",
+    "portuguesePhonetic": "[éstos son mis thapátos faborítos pórke son kómodos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_74",
+    "word": "¿La comida china sabe diferente de la japonesa?",
+    "translation": "A comida chinesa tem gosto diferente da japonesa?",
+    "pronunciation": "/la koˈmiða ˈtʃina ˈsaβe difeˈɾente de la xapoˈnesa/",
+    "portuguesePhonetic": "[la komída tchína sábe diferénte de la rraponésa]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_75",
+    "word": "Hoy pareces feliz, pero ayer parecías cansado.",
+    "translation": "Hoje você parece feliz, mas ontem parecia cansado.",
+    "pronunciation": "/oi paˈɾeθes feˈliθ ˈpeɾo aˈʝeɾ paɾeˈθias kanˈsaðo/",
+    "portuguesePhonetic": "[ôi paréthes felíth péro aiér parethías kansádo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_76",
+    "word": "«¿Es interesante este libro?» / «Sí, mucho.»",
+    "translation": "\"Este livro é interessante?\" / \"Sim, muito.\"",
+    "pronunciation": "/es inteɾeˈsante ˈeste ˈliβɾo · si ˈmutʃo/",
+    "portuguesePhonetic": "[és interesánte éste líbro · sí mútcho]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_77",
+    "word": "«¿Cómo me veo?» / «Te ves genial.»",
+    "translation": "\"Como eu estou?\" / \"Você está ótimo.\"",
+    "pronunciation": "/ˈkomo me ˈbeo · te bes xeˈnjal/",
+    "portuguesePhonetic": "[kómo me béo · te bes rrenniál]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_78",
+    "word": "«¿Sabe bien la sopa?» / «No, sabe fatal.»",
+    "translation": "\"A sopa está boa de gosto?\" / \"Não, está péssima.\"",
+    "pronunciation": "/ˈsaβe bjen la ˈsopa · no ˈsaβe faˈtal/",
+    "portuguesePhonetic": "[sábe bién la sópa · no sábe fatál]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_79",
+    "word": "«¿Te gusta la comida china?» / «Sí, me encanta.»",
+    "translation": "\"Você gosta de comida chinesa?\" / \"Sim, eu adoro.\"",
+    "pronunciation": "/te ˈɡusta la koˈmiða ˈtʃina · si me eŋˈkanta/",
+    "portuguesePhonetic": "[te gústa la komída tchína · sí me enkánta]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_80",
+    "word": "«¿Son nuevos estos zapatos?» / «No, son viejos.»",
+    "translation": "\"Estes sapatos são novos?\" / \"Não, são velhos.\"",
+    "pronunciation": "/son ˈnweβos ˈestos θaˈpatos · no son ˈbjexos/",
+    "portuguesePhonetic": "[son nuébos éstos thapátos · no son biérros]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_81",
+    "word": "«¿De qué color son sus ojos?» / «Son oscuros.»",
+    "translation": "\"De que cor são os olhos dela?\" / \"São escuros.\"",
+    "pronunciation": "/de ke koˈloɾ son sus ˈoxos · son osˈkuɾos/",
+    "portuguesePhonetic": "[de ké kolór son sus órros · son oskúros]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_82",
+    "word": "«¿Esto suena interesante?» / «Sí, lo es.»",
+    "translation": "\"Isto parece interessante?\" / \"Sim, parece.\"",
+    "pronunciation": "/ˈesto ˈswena inteɾeˈsante · si lo es/",
+    "portuguesePhonetic": "[ésto suéna interesánte · sí lo és]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_83",
+    "word": "«¿Huelen bien las galletas?» / «Sí, deliciosas.»",
+    "translation": "\"Os biscoitos cheiram bem?\" / \"Sim, deliciosos.\"",
+    "pronunciation": "/ˈwelen bjen las ɡaˈʎetas · si deliˈθjosas/",
+    "portuguesePhonetic": "[uélen bién las galhétas · sí delithiósas]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_84",
+    "word": "«¿Por qué pareces cansado?» / «No dormí bien.»",
+    "translation": "\"Por que você parece cansado?\" / \"Não dormi bem.\"",
+    "pronunciation": "/poɾ ke paˈɾeθes kanˈsaðo · no doɾˈmi bjen/",
+    "portuguesePhonetic": "[por ké paréthes kansádo · no dormí bién]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_85",
+    "word": "«¿Tu profesora es maja?» / «Sí, es increíble.»",
+    "translation": "\"Sua professora é legal?\" / \"Sim, é incrível.\"",
+    "pronunciation": "/tu pɾofeˈsoɾa es ˈmaxa · si es inkɾeˈiβle/",
+    "portuguesePhonetic": "[tu profesóra és márra · sí és inkreíble]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_86",
+    "word": "«¿A qué sabe el pastel?» / «Sabe dulce.»",
+    "translation": "\"Como o bolo está de gosto?\" / \"Tem gosto doce.\"",
+    "pronunciation": "/a ke ˈsaβe el pasˈtel · ˈsaβe ˈdulθe/",
+    "portuguesePhonetic": "[a ké sábe el pastél · sábe dúlthe]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_87",
+    "word": "«¿Son estos tus zapatos favoritos?» / «Sí, lo son.»",
+    "translation": "\"Estes são seus sapatos favoritos?\" / \"Sim, são.\"",
+    "pronunciation": "/son ˈestos tus θaˈpatos faβoˈɾitos · si lo son/",
+    "portuguesePhonetic": "[son éstos tus thapátos faborítos · sí lo son]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_88",
+    "word": "«¿Es aburrida la película?» / «Un poco, sí.»",
+    "translation": "\"O filme é chato?\" / \"Um pouco, sim.\"",
+    "pronunciation": "/es aβuˈriða la peˈlikula · un ˈpoko si/",
+    "portuguesePhonetic": "[és aburrída la pelíkula · un póko sí]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_89",
+    "word": "«¿Huele fresco el café?» / «Sí, muy fresco.»",
+    "translation": "\"O café cheira fresco?\" / \"Sim, bem fresco.\"",
+    "pronunciation": "/ˈwele ˈfɾesko el kaˈfe · si mui ˈfɾesko/",
+    "portuguesePhonetic": "[uéle frésko el kafé · sí múi frésko]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_90",
+    "word": "«¿Sus ojos son azules?» / «No, son verdes.»",
+    "translation": "\"Os olhos dela são azuis?\" / \"Não, são verdes.\"",
+    "pronunciation": "/sus ˈoxos son aˈθules · no son ˈbeɾðes/",
+    "portuguesePhonetic": "[sus órros son athúles · no son bérdes]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_91",
+    "word": "«¿Suena bien esta idea?» / «Sí, me gusta.»",
+    "translation": "\"Esta ideia parece boa?\" / \"Sim, eu gosto.\"",
+    "pronunciation": "/ˈswena bjen ˈesta iˈðea · si me ˈɡusta/",
+    "portuguesePhonetic": "[suéna bién ésta idéa · sí me gústa]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_92",
+    "word": "«¿Cómo te sientes?» / «Me siento mucho mejor.»",
+    "translation": "\"Como você se sente?\" / \"Me sinto bem melhor.\"",
+    "pronunciation": "/ˈkomo te ˈsjentes · me ˈsjento ˈmutʃo meˈxoɾ/",
+    "portuguesePhonetic": "[kómo te siéntes · me siénto mútcho merrór]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_93",
+    "word": "«¿La comida es picante?» / «Sí, un poco.»",
+    "translation": "\"A comida é apimentada?\" / \"Sim, um pouco.\"",
+    "pronunciation": "/la koˈmiða es piˈkante · si un ˈpoko/",
+    "portuguesePhonetic": "[la komída és pikánte · sí un póko]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_94",
+    "word": "«¿Son antiguos estos vídeos?» / «Sí, muy antiguos.»",
+    "translation": "\"Estes vídeos são antigos?\" / \"Sim, bem antigos.\"",
+    "pronunciation": "/son anˈtiɣwos ˈestos ˈbiðeos · si mui anˈtiɣwos/",
+    "portuguesePhonetic": "[son antíguos éstos bídeos · sí múi antíguos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_95",
+    "word": "«¿Huele bien el perfume?» / «Sí, precioso.»",
+    "translation": "\"O perfume cheira bem?\" / \"Sim, maravilhoso.\"",
+    "pronunciation": "/ˈwele bjen el peɾˈfume · si pɾeˈθjoso/",
+    "portuguesePhonetic": "[uéle bién el perfúme · sí prethióso]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_96",
+    "word": "«¿Es caro el restaurante?» / «No, es barato.»",
+    "translation": "\"O restaurante é caro?\" / \"Não, é barato.\"",
+    "pronunciation": "/es ˈkaɾo el restawˈɾante · no es baˈɾato/",
+    "portuguesePhonetic": "[és káro el restauránte · no és baráto]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_97",
+    "word": "«¿Estoy bien así?» / «Sí, te ves bien.»",
+    "translation": "\"Estou bem assim?\" / \"Sim, você está bem.\"",
+    "pronunciation": "/esˈtoi bjen aˈsi · si te bes bjen/",
+    "portuguesePhonetic": "[estôi bién así · sí te bes bién]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_98",
+    "word": "«¿Sabe salado?» / «Sí, demasiado salado.»",
+    "translation": "\"Está salgado?\" / \"Sim, salgado demais.\"",
+    "pronunciation": "/ˈsaβe saˈlaðo · si demaˈsjaðo saˈlaðo/",
+    "portuguesePhonetic": "[sábe saládo · sí demasiádo saládo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_99",
+    "word": "«¿Es bonito este vestido?» / «Sí, lo es.»",
+    "translation": "\"Este vestido é bonito?\" / \"Sim, é.\"",
+    "pronunciation": "/es boˈnito ˈeste besˈtiðo · si lo es/",
+    "portuguesePhonetic": "[és boníto éste bestído · sí lo és]"
+  },
+  {
+    "id": "leccion_5_gramatica_a1_s_es_card_100",
+    "word": "«¿Por qué parece triste?» / «No lo sé.»",
+    "translation": "\"Por que ela parece triste?\" / \"Não sei.\"",
+    "pronunciation": "/poɾ ke paˈɾeθe ˈtɾiste · no lo se/",
+    "portuguesePhonetic": "[por ké paréthe tríste · no lo sé]"
+  }
+]

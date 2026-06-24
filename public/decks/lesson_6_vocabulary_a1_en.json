@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_1",
+    "word": "Monday",
+    "translation": "segunda-feira",
+    "pronunciation": "/ˈmʌndeɪ/",
+    "portuguesePhonetic": "[mândei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_2",
+    "word": "Tuesday",
+    "translation": "terça-feira",
+    "pronunciation": "/ˈtuːzdeɪ/",
+    "portuguesePhonetic": "[túzdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_3",
+    "word": "Wednesday",
+    "translation": "quarta-feira",
+    "pronunciation": "/ˈwɛnzdeɪ/",
+    "portuguesePhonetic": "[uénzdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_4",
+    "word": "Thursday",
+    "translation": "quinta-feira",
+    "pronunciation": "/ˈθɜːrzdeɪ/",
+    "portuguesePhonetic": "[thârzdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_5",
+    "word": "Friday",
+    "translation": "sexta-feira",
+    "pronunciation": "/ˈfraɪdeɪ/",
+    "portuguesePhonetic": "[fráidei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_6",
+    "word": "Saturday",
+    "translation": "sábado",
+    "pronunciation": "/ˈsætərdeɪ/",
+    "portuguesePhonetic": "[séterdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_7",
+    "word": "Sunday",
+    "translation": "domingo",
+    "pronunciation": "/ˈsʌndeɪ/",
+    "portuguesePhonetic": "[sândei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_8",
+    "word": "January",
+    "translation": "janeiro",
+    "pronunciation": "/ˈdʒænjueri/",
+    "portuguesePhonetic": "[djéniueri]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_9",
+    "word": "February",
+    "translation": "fevereiro",
+    "pronunciation": "/ˈfɛbrueri/",
+    "portuguesePhonetic": "[fébrueri]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_10",
+    "word": "March",
+    "translation": "março",
+    "pronunciation": "/mɑːrtʃ/",
+    "portuguesePhonetic": "[mártch]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_11",
+    "word": "April",
+    "translation": "abril",
+    "pronunciation": "/ˈeɪprəl/",
+    "portuguesePhonetic": "[êiprou]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_12",
+    "word": "May",
+    "translation": "maio",
+    "pronunciation": "/meɪ/",
+    "portuguesePhonetic": "[mêi]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_13",
+    "word": "June",
+    "translation": "junho",
+    "pronunciation": "/dʒuːn/",
+    "portuguesePhonetic": "[djún]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_14",
+    "word": "July",
+    "translation": "julho",
+    "pronunciation": "/dʒuˈlaɪ/",
+    "portuguesePhonetic": "[djulái]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_15",
+    "word": "August",
+    "translation": "agosto",
+    "pronunciation": "/ˈɔːɡəst/",
+    "portuguesePhonetic": "[ógast]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_16",
+    "word": "September",
+    "translation": "setembro",
+    "pronunciation": "/sɛpˈtɛmbər/",
+    "portuguesePhonetic": "[septémber]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_17",
+    "word": "October",
+    "translation": "outubro",
+    "pronunciation": "/ɑːkˈtoʊbər/",
+    "portuguesePhonetic": "[aktôuber]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_18",
+    "word": "November",
+    "translation": "novembro",
+    "pronunciation": "/noʊˈvɛmbər/",
+    "portuguesePhonetic": "[novémber]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_19",
+    "word": "December",
+    "translation": "dezembro",
+    "pronunciation": "/dɪˈsɛmbər/",
+    "portuguesePhonetic": "[dissémber]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_20",
+    "word": "Winter",
+    "translation": "inverno",
+    "pronunciation": "/ˈwɪntər/",
+    "portuguesePhonetic": "[uínter]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_21",
+    "word": "Spring",
+    "translation": "primavera",
+    "pronunciation": "/sprɪŋ/",
+    "portuguesePhonetic": "[sprín]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_22",
+    "word": "Summer",
+    "translation": "verão",
+    "pronunciation": "/ˈsʌmər/",
+    "portuguesePhonetic": "[sâmer]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_23",
+    "word": "Fall / Autumn",
+    "translation": "outono (US / UK)",
+    "pronunciation": "/fɔːl · ˈɔːtəm/",
+    "portuguesePhonetic": "[fól · ótam]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_24",
+    "word": "the weekend",
+    "translation": "o fim de semana",
+    "pronunciation": "/ðə ˈwiːkɛnd/",
+    "portuguesePhonetic": "[dha uíkend]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_25",
+    "word": "today",
+    "translation": "hoje",
+    "pronunciation": "/təˈdeɪ/",
+    "portuguesePhonetic": "[tudêi]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_26",
+    "word": "I work on Monday.",
+    "translation": "Eu trabalho na segunda.",
+    "pronunciation": "/aɪ wɜːrk ɑːn ˈmʌndeɪ/",
+    "portuguesePhonetic": "[ái uârk ón mândei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_27",
+    "word": "I have a meeting on Tuesday.",
+    "translation": "Eu tenho uma reunião na terça.",
+    "pronunciation": "/aɪ hæv ə ˈmiːtɪŋ ɑːn ˈtuːzdeɪ/",
+    "portuguesePhonetic": "[ái rrév a mítin ón túzdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_28",
+    "word": "We rest on Sunday.",
+    "translation": "Nós descansamos no domingo.",
+    "pronunciation": "/wiː rɛst ɑːn ˈsʌndeɪ/",
+    "portuguesePhonetic": "[uí rést ón sândei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_29",
+    "word": "The party is on Saturday.",
+    "translation": "A festa é no sábado.",
+    "pronunciation": "/ðə ˈpɑːrti ɪz ɑːn ˈsætərdeɪ/",
+    "portuguesePhonetic": "[dha párti iz ón séterdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_30",
+    "word": "See you on Friday.",
+    "translation": "Te vejo na sexta.",
+    "pronunciation": "/siː juː ɑːn ˈfraɪdeɪ/",
+    "portuguesePhonetic": "[sí iú ón fráidei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_31",
+    "word": "My birthday is in May.",
+    "translation": "Meu aniversário é em maio.",
+    "pronunciation": "/maɪ ˈbɜːrθdeɪ ɪz ɪn meɪ/",
+    "portuguesePhonetic": "[mái bârthdei iz in mêi]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_32",
+    "word": "The course starts in September.",
+    "translation": "O curso começa em setembro.",
+    "pronunciation": "/ðə kɔːrs stɑːrts ɪn sɛpˈtɛmbər/",
+    "portuguesePhonetic": "[dha kórs stárts in septémber]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_33",
+    "word": "We travel in July.",
+    "translation": "Nós viajamos em julho.",
+    "pronunciation": "/wiː ˈtrævl̩ ɪn dʒuˈlaɪ/",
+    "portuguesePhonetic": "[uí trévou in djulái]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_34",
+    "word": "The appointment is on March 5th.",
+    "translation": "A consulta é no dia 5 de março.",
+    "pronunciation": "/ðə əˈpɔɪntmənt ɪz ɑːn mɑːrtʃ fɪfθ/",
+    "portuguesePhonetic": "[dhi apóintment iz ón mártch fífth]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_35",
+    "word": "It's cold in winter.",
+    "translation": "Faz frio no inverno.",
+    "pronunciation": "/ɪts koʊld ɪn ˈwɪntər/",
+    "portuguesePhonetic": "[íts kôuld in uínter]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_36",
+    "word": "Flowers bloom in spring.",
+    "translation": "As flores florescem na primavera.",
+    "pronunciation": "/ˈflaʊərz bluːm ɪn sprɪŋ/",
+    "portuguesePhonetic": "[fláuerz blúm in sprín]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_37",
+    "word": "We go to the beach in summer.",
+    "translation": "Nós vamos à praia no verão.",
+    "pronunciation": "/wiː ɡoʊ tə ðə biːtʃ ɪn ˈsʌmər/",
+    "portuguesePhonetic": "[uí gôu tu dha bítch in sâmer]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_38",
+    "word": "Leaves fall in autumn.",
+    "translation": "As folhas caem no outono.",
+    "pronunciation": "/liːvz fɔːl ɪn ˈɔːtəm/",
+    "portuguesePhonetic": "[lívz fól in ótam]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_39",
+    "word": "What are you doing this weekend?",
+    "translation": "O que você vai fazer neste fim de semana?",
+    "pronunciation": "/wʌt ɑːr juː ˈduːɪŋ ðɪs ˈwiːkɛnd/",
+    "portuguesePhonetic": "[uât ár iú dúin dhís uíkend]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_40",
+    "word": "Let's meet next week.",
+    "translation": "Vamos nos encontrar na semana que vem.",
+    "pronunciation": "/lɛts miːt nɛkst wiːk/",
+    "portuguesePhonetic": "[léts mít nékst uík]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_41",
+    "word": "I'm free on Thursday.",
+    "translation": "Eu estou livre na quinta.",
+    "pronunciation": "/aɪm friː ɑːn ˈθɜːrzdeɪ/",
+    "portuguesePhonetic": "[áim frí ón thârzdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_42",
+    "word": "Christmas is in December.",
+    "translation": "O Natal é em dezembro.",
+    "pronunciation": "/ˈkrɪsməs ɪz ɪn dɪˈsɛmbər/",
+    "portuguesePhonetic": "[krísmas iz in dissémber]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_43",
+    "word": "The new year starts in January.",
+    "translation": "O ano novo começa em janeiro.",
+    "pronunciation": "/ðə nuː jɪr stɑːrts ɪn ˈdʒænjueri/",
+    "portuguesePhonetic": "[dha niú íir stárts in djéniueri]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_44",
+    "word": "School ends in June.",
+    "translation": "A escola termina em junho.",
+    "pronunciation": "/skuːl ɛndz ɪn dʒuːn/",
+    "portuguesePhonetic": "[skúl éndz in djún]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_45",
+    "word": "Today is Wednesday.",
+    "translation": "Hoje é quarta-feira.",
+    "pronunciation": "/təˈdeɪ ɪz ˈwɛnzdeɪ/",
+    "portuguesePhonetic": "[tudêi iz uénzdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_46",
+    "word": "Tomorrow is Friday.",
+    "translation": "Amanhã é sexta.",
+    "pronunciation": "/təˈmɑːroʊ ɪz ˈfraɪdeɪ/",
+    "portuguesePhonetic": "[tumárou iz fráidei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_47",
+    "word": "Yesterday was Monday.",
+    "translation": "Ontem foi segunda.",
+    "pronunciation": "/ˈjɛstərdeɪ wəz ˈmʌndeɪ/",
+    "portuguesePhonetic": "[iéster dei uâz mândei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_48",
+    "word": "I have classes on Tuesday and Thursday.",
+    "translation": "Eu tenho aulas na terça e na quinta.",
+    "pronunciation": "/aɪ hæv ˈklæsɪz ɑːn ˈtuːzdeɪ ænd ˈθɜːrzdeɪ/",
+    "portuguesePhonetic": "[ái rrév klésiz ón túzdei énd thârzdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_49",
+    "word": "The store is closed on Sundays.",
+    "translation": "A loja fecha aos domingos.",
+    "pronunciation": "/ðə stɔːr ɪz kloʊzd ɑːn ˈsʌndeɪz/",
+    "portuguesePhonetic": "[dha stór iz klôuzd ón sândeiz]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_50",
+    "word": "Summer is my favorite season.",
+    "translation": "O verão é minha estação favorita.",
+    "pronunciation": "/ˈsʌmər ɪz maɪ ˈfeɪvərɪt ˈsiːzn̩/",
+    "portuguesePhonetic": "[sâmer iz mái fêivorit sízan]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_51",
+    "word": "Today is Monday.",
+    "translation": "Hoje é segunda.",
+    "pronunciation": "/təˈdeɪ ɪz ˈmʌndeɪ/",
+    "portuguesePhonetic": "[tudêi iz mândei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_52",
+    "word": "I like summer.",
+    "translation": "Eu gosto do verão.",
+    "pronunciation": "/aɪ laɪk ˈsʌmər/",
+    "portuguesePhonetic": "[ái láik sâmer]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_53",
+    "word": "My birthday is in April.",
+    "translation": "Meu aniversário é em abril.",
+    "pronunciation": "/maɪ ˈbɜːrθdeɪ ɪz ɪn ˈeɪprəl/",
+    "portuguesePhonetic": "[mái bârthdei iz in êiprou]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_54",
+    "word": "We rest on weekends.",
+    "translation": "Nós descansamos nos fins de semana.",
+    "pronunciation": "/wiː rɛst ɑːn ˈwiːkɛndz/",
+    "portuguesePhonetic": "[uí rést ón uíkendz]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_55",
+    "word": "The weekend starts on Saturday.",
+    "translation": "O fim de semana começa no sábado.",
+    "pronunciation": "/ðə ˈwiːkɛnd stɑːrts ɑːn ˈsætərdeɪ/",
+    "portuguesePhonetic": "[dha uíkend stárts ón séterdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_56",
+    "word": "Winter is colder than autumn.",
+    "translation": "O inverno é mais frio que o outono.",
+    "pronunciation": "/ˈwɪntər ɪz ˈkoʊldər ðæn ˈɔːtəm/",
+    "portuguesePhonetic": "[uínter iz kôulder dhén ótam]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_57",
+    "word": "What day is it today?",
+    "translation": "Que dia é hoje?",
+    "pronunciation": "/wʌt deɪ ɪz ɪt təˈdeɪ/",
+    "portuguesePhonetic": "[uât dêi iz ít tudêi]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_58",
+    "word": "I don't work on Fridays.",
+    "translation": "Eu não trabalho às sextas.",
+    "pronunciation": "/aɪ doʊnt wɜːrk ɑːn ˈfraɪdeɪz/",
+    "portuguesePhonetic": "[ái dôunt uârk ón fráideiz]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_59",
+    "word": "When is your birthday?",
+    "translation": "Quando é seu aniversário?",
+    "pronunciation": "/wɛn ɪz jɔːr ˈbɜːrθdeɪ/",
+    "portuguesePhonetic": "[uén iz iór bârthdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_60",
+    "word": "Does the course start in September?",
+    "translation": "O curso começa em setembro?",
+    "pronunciation": "/dʌz ðə kɔːrs stɑːrt ɪn sɛpˈtɛmbər/",
+    "portuguesePhonetic": "[dâz dha kórs stárt in septémber]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_61",
+    "word": "It isn't summer yet.",
+    "translation": "Ainda não é verão.",
+    "pronunciation": "/ɪt ˈɪznt ˈsʌmər jɛt/",
+    "portuguesePhonetic": "[ít íznt sâmer iét]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_62",
+    "word": "Why do you like spring?",
+    "translation": "Por que você gosta da primavera?",
+    "pronunciation": "/waɪ duː juː laɪk sprɪŋ/",
+    "portuguesePhonetic": "[uái dú iú láik sprín]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_63",
+    "word": "I love summer because it's warm.",
+    "translation": "Eu amo o verão porque é quente.",
+    "pronunciation": "/aɪ lʌv ˈsʌmər bɪˈkɔːz ɪts wɔːrm/",
+    "portuguesePhonetic": "[ái lâv sâmer bikóz íts uórm]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_64",
+    "word": "We are traveling in August.",
+    "translation": "Nós vamos viajar em agosto.",
+    "pronunciation": "/wiː ɑːr ˈtrævl̩ɪŋ ɪn ˈɔːɡəst/",
+    "portuguesePhonetic": "[uí ár trévolin in ógast]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_65",
+    "word": "It snowed last winter.",
+    "translation": "Nevou no inverno passado.",
+    "pronunciation": "/ɪt snoʊd læst ˈwɪntər/",
+    "portuguesePhonetic": "[ít snôud lést uínter]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_66",
+    "word": "I was born in October.",
+    "translation": "Eu nasci em outubro.",
+    "pronunciation": "/aɪ wəz bɔːrn ɪn ɑːkˈtoʊbər/",
+    "portuguesePhonetic": "[ái uâz bórn in aktôuber]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_67",
+    "word": "When spring comes, the days get longer.",
+    "translation": "Quando a primavera llega, os dias ficam mais longos.",
+    "pronunciation": "/wɛn sprɪŋ kʌmz ðə deɪz ɡɛt ˈlɔːŋɡər/",
+    "portuguesePhonetic": "[uén sprín kâmz dha dêiz guét lóNguer]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_68",
+    "word": "My favorite month is December because of Christmas.",
+    "translation": "Meu mês favorito é dezembro por causa do Natal.",
+    "pronunciation": "/maɪ ˈfeɪvərɪt mʌnθ ɪz dɪˈsɛmbər bɪˈkɔːz əv ˈkrɪsməs/",
+    "portuguesePhonetic": "[mái fêivorit mânth iz dissémber bikóz ov krísmas]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_69",
+    "word": "We usually go on vacation in July, but this year we'll go in August.",
+    "translation": "Geralmente viajamos em julho, mas este ano vamos em agosto.",
+    "pronunciation": "/wiː ˈjuːʒuəli ɡoʊ ɑːn veɪˈkeɪʃn̩ ɪn dʒuˈlaɪ bʌt ðɪs jɪr wiːl ɡoʊ ɪn ˈɔːɡəst/",
+    "portuguesePhonetic": "[uí iújuali gôu ón veikêichan in djulái bât dhís íir uíou gôu in ógast]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_70",
+    "word": "Although it's spring, the weather is still cold.",
+    "translation": "Embora seja primavera, o tempo ainda está frio.",
+    "pronunciation": "/ɔːlˈðoʊ ɪts sprɪŋ ðə ˈwɛðər ɪz stɪl koʊld/",
+    "portuguesePhonetic": "[oldhôu íts sprín dha uédher iz stíou kôuld]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_71",
+    "word": "The meeting was on Monday, but it's now on Wednesday.",
+    "translation": "A reunião era na segunda, mas agora é na quarta.",
+    "pronunciation": "/ðə ˈmiːtɪŋ wəz ɑːn ˈmʌndeɪ bʌt ɪts naʊ ɑːn ˈwɛnzdeɪ/",
+    "portuguesePhonetic": "[dha mítin uâz ón mândei bât íts náu ón uénzdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_72",
+    "word": "I don't like winter because the days are short and dark.",
+    "translation": "Eu não gosto do inverno porque os dias são curtos e escuros.",
+    "pronunciation": "/aɪ doʊnt laɪk ˈwɪntər bɪˈkɔːz ðə deɪz ɑːr ʃɔːrt ænd dɑːrk/",
+    "portuguesePhonetic": "[ái dôunt láik uínter bikóz dha dêiz ár chórt énd dárk]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_73",
+    "word": "Do you know which months have thirty-one days?",
+    "translation": "Você sabe quais meses têm trinta e um dias?",
+    "pronunciation": "/duː juː noʊ wɪtʃ mʌnθs hæv ˈθɜːrti wʌn deɪz/",
+    "portuguesePhonetic": "[dú iú nôu uítch mânths rrév thârti uân dêiz]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_74",
+    "word": "We met in the summer of 2019, and we married in spring.",
+    "translation": "Nós nos conhecemos no verão de 2019 e nos casamos na primavera.",
+    "pronunciation": "/wiː mɛt ɪn ðə ˈsʌmər əv ... ænd wiː ˈmɛrid ɪn sprɪŋ/",
+    "portuguesePhonetic": "[uí mét in dha sâmer ov ... énd uí mérid in sprín]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_75",
+    "word": "School starts in September and finishes in June.",
+    "translation": "A escola começa em setembro e termina em junho.",
+    "pronunciation": "/skuːl stɑːrts ɪn sɛpˈtɛmbər ænd ˈfɪnɪʃɪz ɪn dʒuːn/",
+    "portuguesePhonetic": "[skúl stárts in septémber énd fínichiz in djún]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_76",
+    "word": "\"What day is it today?\" / \"It's Tuesday.\"",
+    "translation": "\"Que dia é hoje?\" / \"É terça.\"",
+    "pronunciation": "/wʌt deɪ ɪz ɪt təˈdeɪ · ɪts ˈtuːzdeɪ/",
+    "portuguesePhonetic": "[uât dêi iz ít tudêi · íts túzdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_77",
+    "word": "\"When is your birthday?\" / \"In May.\"",
+    "translation": "\"Quando é seu aniversário?\" / \"Em maio.\"",
+    "pronunciation": "/wɛn ɪz jɔːr ˈbɜːrθdeɪ · ɪn meɪ/",
+    "portuguesePhonetic": "[uén iz iór bârthdei · in mêi]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_78",
+    "word": "\"What's your favorite season?\" / \"Summer.\"",
+    "translation": "\"Qual é sua estação favorita?\" / \"O verão.\"",
+    "pronunciation": "/wʌts jɔːr ˈfeɪvərɪt ˈsiːzn̩ · ˈsʌmər/",
+    "portuguesePhonetic": "[uâts iór fêivorit sízan · sâmer]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_79",
+    "word": "\"Do you work on Saturdays?\" / \"No, I don't.\"",
+    "translation": "\"Você trabalha aos sábados?\" / \"Não, não trabalho.\"",
+    "pronunciation": "/duː juː wɜːrk ɑːn ˈsætərdeɪz · noʊ aɪ doʊnt/",
+    "portuguesePhonetic": "[dú iú uârk ón séterdeiz · nôu ái dôunt]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_80",
+    "word": "\"When does the course start?\" / \"In September.\"",
+    "translation": "\"Quando o curso começa?\" / \"Em setembro.\"",
+    "pronunciation": "/wɛn dʌz ðə kɔːrs stɑːrt · ɪn sɛpˈtɛmbər/",
+    "portuguesePhonetic": "[uén dâz dha kórs stárt · in septémber]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_81",
+    "word": "\"Is the party on Friday?\" / \"No, on Saturday.\"",
+    "translation": "\"A festa é na sexta?\" / \"Não, no sábado.\"",
+    "pronunciation": "/ɪz ðə ˈpɑːrti ɑːn ˈfraɪdeɪ · noʊ ɑːn ˈsætərdeɪ/",
+    "portuguesePhonetic": "[iz dha párti ón fráidei · nôu ón séterdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_82",
+    "word": "\"What month is it?\" / \"It's March.\"",
+    "translation": "\"Que mês é?\" / \"É março.\"",
+    "pronunciation": "/wʌt mʌnθ ɪz ɪt · ɪts mɑːrtʃ/",
+    "portuguesePhonetic": "[uât mânth iz ít · íts mártch]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_83",
+    "word": "\"Do you like winter?\" / \"No, it's too cold.\"",
+    "translation": "\"Você gosta do inverno?\" / \"Não, é frio demais.\"",
+    "pronunciation": "/duː juː laɪk ˈwɪntər · noʊ ɪts tuː koʊld/",
+    "portuguesePhonetic": "[dú iú láik uínter · nôu íts tú kôuld]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_84",
+    "word": "\"When do we travel?\" / \"In July.\"",
+    "translation": "\"Quando viajamos?\" / \"Em julho.\"",
+    "pronunciation": "/wɛn duː wiː ˈtrævl̩ · ɪn dʒuˈlaɪ/",
+    "portuguesePhonetic": "[uén dú uí trévou · in djulái]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_85",
+    "word": "\"Is today Wednesday?\" / \"No, it's Thursday.\"",
+    "translation": "\"Hoje é quarta?\" / \"Não, é quinta.\"",
+    "pronunciation": "/ɪz təˈdeɪ ˈwɛnzdeɪ · noʊ ɪts ˈθɜːrzdeɪ/",
+    "portuguesePhonetic": "[iz tudêi uénzdei · nôu íts thârzdei]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_86",
+    "word": "\"What are your plans for the weekend?\" / \"I'm relaxing.\"",
+    "translation": "\"Quais são seus planos pro fim de semana?\" / \"Vou relaxar.\"",
+    "pronunciation": "/wʌt ɑːr jɔːr plænz fɔːr ðə ˈwiːkɛnd · aɪm rɪˈlæksɪŋ/",
+    "portuguesePhonetic": "[uât ár iór plénz fór dha uíkend · áim riléksin]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_87",
+    "word": "\"When is Christmas?\" / \"In December.\"",
+    "translation": "\"Quando é o Natal?\" / \"Em dezembro.\"",
+    "pronunciation": "/wɛn ɪz ˈkrɪsməs · ɪn dɪˈsɛmbər/",
+    "portuguesePhonetic": "[uén iz krísmas · in dissémber]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_88",
+    "word": "\"Are you free on Monday?\" / \"Yes, I am.\"",
+    "translation": "\"Você está livre na segunda?\" / \"Sim, estou.\"",
+    "pronunciation": "/ɑːr juː friː ɑːn ˈmʌndeɪ · jɛs aɪ æm/",
+    "portuguesePhonetic": "[ár iú frí ón mândei · iés ái ém]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_89",
+    "word": "\"Which season do you prefer?\" / \"Spring.\"",
+    "translation": "\"Que estação você prefere?\" / \"A primavera.\"",
+    "pronunciation": "/wɪtʃ ˈsiːzn̩ duː juː prɪˈfɜːr · sprɪŋ/",
+    "portuguesePhonetic": "[uítch sízan dú iú priférr · sprín]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_90",
+    "word": "\"Is it summer in Brazil now?\" / \"Yes, it is.\"",
+    "translation": "\"É verão no Brasil agora?\" / \"Sim, é.\"",
+    "pronunciation": "/ɪz ɪt ˈsʌmər ɪn brəˈzɪl naʊ · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz ít sâmer in brazíou náu · iés ít iz]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_91",
+    "word": "\"What time is the meeting on Tuesday?\" / \"At ten.\"",
+    "translation": "\"A que horas é a reunião de terça?\" / \"Às dez.\"",
+    "pronunciation": "/wʌt taɪm ɪz ðə ˈmiːtɪŋ ɑːn ˈtuːzdeɪ · æt tɛn/",
+    "portuguesePhonetic": "[uât táim iz dha mítin ón túzdei · ét tén]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_92",
+    "word": "\"When were you born?\" / \"In October.\"",
+    "translation": "\"Quando você nasceu?\" / \"Em outubro.\"",
+    "pronunciation": "/wɛn wɜːr juː bɔːrn · ɪn ɑːkˈtoʊbər/",
+    "portuguesePhonetic": "[uén uâr iú bórn · in aktôuber]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_93",
+    "word": "\"Do flowers bloom in spring?\" / \"Yes, they do.\"",
+    "translation": "\"As flores florescem na primavera?\" / \"Sim, florescem.\"",
+    "pronunciation": "/duː ˈflaʊərz bluːm ɪn sprɪŋ · jɛs ðeɪ duː/",
+    "portuguesePhonetic": "[dú fláuerz blúm in sprín · iés dhêi dú]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_94",
+    "word": "\"Is the store open on Sundays?\" / \"No, it's closed.\"",
+    "translation": "\"A loja abre aos domingos?\" / \"Não, fica fechada.\"",
+    "pronunciation": "/ɪz ðə stɔːr ˈoʊpən ɑːn ˈsʌndeɪz · noʊ ɪts kloʊzd/",
+    "portuguesePhonetic": "[iz dha stór ôupan ón sândeiz · nôu íts klôuzd]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_95",
+    "word": "\"When does school end?\" / \"In June.\"",
+    "translation": "\"Quando a escola termina?\" / \"Em junho.\"",
+    "pronunciation": "/wɛn dʌz skuːl ɛnd · ɪn dʒuːn/",
+    "portuguesePhonetic": "[uén dâz skúl énd · in djún]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_96",
+    "word": "\"What's the first month of the year?\" / \"January.\"",
+    "translation": "\"Qual é o primeiro mês do ano?\" / \"Janeiro.\"",
+    "pronunciation": "/wʌts ðə fɜːrst mʌnθ əv ðə jɪr · ˈdʒænjueri/",
+    "portuguesePhonetic": "[uâts dha fârst mânth ov dha íir · djéniueri]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_97",
+    "word": "\"Do you prefer summer or winter?\" / \"Summer.\"",
+    "translation": "\"Você prefere verão ou inverno?\" / \"Verão.\"",
+    "pronunciation": "/duː juː prɪˈfɜːr ˈsʌmər ɔːr ˈwɪntər · ˈsʌmər/",
+    "portuguesePhonetic": "[dú iú priférr sâmer ór uínter · sâmer]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_98",
+    "word": "\"Is autumn cold here?\" / \"A little.\"",
+    "translation": "\"O outono é frio aqui?\" / \"Um pouco.\"",
+    "pronunciation": "/ɪz ˈɔːtəm koʊld hɪr · ə ˈlɪtl̩/",
+    "portuguesePhonetic": "[iz ótam kôuld rrír · a lítou]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_99",
+    "word": "\"When is the new year?\" / \"On January 1st.\"",
+    "translation": "\"Quando é o ano novo?\" / \"No dia 1º de janeiro.\"",
+    "pronunciation": "/wɛn ɪz ðə nuː jɪr · ɑːn ˈdʒænjueri fɜːrst/",
+    "portuguesePhonetic": "[uén iz dha niú íir · ón djéniueri fârst]"
+  },
+  {
+    "id": "lesson_6_vocabulary_a1_en_card_100",
+    "word": "\"See you next week?\" / \"Yes, on Monday.\"",
+    "translation": "\"Te vejo na semana que vem?\" / \"Sim, na segunda.\"",
+    "pronunciation": "/siː juː nɛkst wiːk · jɛs ɑːn ˈmʌndeɪ/",
+    "portuguesePhonetic": "[sí iú nékst uík · iés ón mândei]"
+  }
+]

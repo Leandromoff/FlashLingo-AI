@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_4_grammar_a1_en_card_1",
+    "word": "a student → students",
+    "translation": "um estudante → estudantes",
+    "pronunciation": "/ə ˈstuːdənt → ˈstuːdənts/",
+    "portuguesePhonetic": "[a stúdent → stúdents]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_2",
+    "word": "an apple → apples",
+    "translation": "uma maçã → maçãs",
+    "pronunciation": "/ən ˈæpl̩ → ˈæpl̩z/",
+    "portuguesePhonetic": "[an épou → épouz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_3",
+    "word": "a bus → buses",
+    "translation": "um ônibus → ônibus (pl.)",
+    "pronunciation": "/ə bʌs → ˈbʌsɪz/",
+    "portuguesePhonetic": "[a bâs → bâsiz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_4",
+    "word": "a box → boxes",
+    "translation": "uma caixa → caixas",
+    "pronunciation": "/ə bɑːks → ˈbɑːksɪz/",
+    "portuguesePhonetic": "[a báks → báksiz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_5",
+    "word": "a baby → babies",
+    "translation": "um bebê → bebês",
+    "pronunciation": "/ə ˈbeɪbi → ˈbeɪbiz/",
+    "portuguesePhonetic": "[a bêibi → bêibiz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_6",
+    "word": "a country → countries",
+    "translation": "um país → países",
+    "pronunciation": "/ə ˈkʌntri → ˈkʌntriz/",
+    "portuguesePhonetic": "[a kântri → kântriz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_7",
+    "word": "a day → days",
+    "translation": "um dia → dias",
+    "pronunciation": "/ə deɪ → deɪz/",
+    "portuguesePhonetic": "[a dêi → dêiz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_8",
+    "word": "a toy → toys",
+    "translation": "um brinquedo → brinquedos",
+    "pronunciation": "/ə tɔɪ → tɔɪz/",
+    "portuguesePhonetic": "[a tói → tóiz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_9",
+    "word": "a shelf → shelves",
+    "translation": "uma prateleira → prateleiras",
+    "pronunciation": "/ə ʃɛlf → ʃɛlvz/",
+    "portuguesePhonetic": "[a chélf → chélvz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_10",
+    "word": "a wife → wives",
+    "translation": "uma esposa → esposas",
+    "pronunciation": "/ə waɪf → waɪvz/",
+    "portuguesePhonetic": "[a uáif → uáivz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_11",
+    "word": "a table",
+    "translation": "uma mesa (a + consoante)",
+    "pronunciation": "/ə ˈteɪbl̩/",
+    "portuguesePhonetic": "[a têibou]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_12",
+    "word": "an orange",
+    "translation": "uma laranja (an + vogal)",
+    "pronunciation": "/ən ˈɔːrɪndʒ/",
+    "portuguesePhonetic": "[an órindj]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_13",
+    "word": "an egg",
+    "translation": "um ovo (an + vogal)",
+    "pronunciation": "/ən ɛɡ/",
+    "portuguesePhonetic": "[an ég]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_14",
+    "word": "a man → men",
+    "translation": "um homem → homens",
+    "pronunciation": "/ə mæn → mɛn/",
+    "portuguesePhonetic": "[a mén → mén]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_15",
+    "word": "a woman → women",
+    "translation": "uma mulher → mulheres",
+    "pronunciation": "/ə ˈwʊmən → ˈwɪmɪn/",
+    "portuguesePhonetic": "[a uúman → uímen]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_16",
+    "word": "a child → children",
+    "translation": "uma criança → crianças",
+    "pronunciation": "/ə tʃaɪld → ˈtʃɪldrən/",
+    "portuguesePhonetic": "[a tcháild → tchíldren]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_17",
+    "word": "a foot → feet",
+    "translation": "um pé → pés",
+    "pronunciation": "/ə fʊt → fiːt/",
+    "portuguesePhonetic": "[a fút → fít]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_18",
+    "word": "a tooth → teeth",
+    "translation": "um dente → dentes",
+    "pronunciation": "/ə tuːθ → tiːθ/",
+    "portuguesePhonetic": "[a túth → títh]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_19",
+    "word": "a fish → fish",
+    "translation": "um peixe → peixes (não muda)",
+    "pronunciation": "/ə fɪʃ → fɪʃ/",
+    "portuguesePhonetic": "[a fích → fích]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_20",
+    "word": "a mouse → mice",
+    "translation": "um rato → ratos",
+    "pronunciation": "/ə maʊs → maɪs/",
+    "portuguesePhonetic": "[a máus → máis]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_21",
+    "word": "a sheep → sheep",
+    "translation": "uma ovelha → ovelhas (não muda)",
+    "pronunciation": "/ə ʃiːp → ʃiːp/",
+    "portuguesePhonetic": "[a chíp → chíp]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_22",
+    "word": "an hour",
+    "translation": "uma hora (h mudo)",
+    "pronunciation": "/ən ˈaʊər/",
+    "portuguesePhonetic": "[an áuer]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_23",
+    "word": "a hat",
+    "translation": "um chapéu (h pronunciado)",
+    "pronunciation": "/ə hæt/",
+    "portuguesePhonetic": "[a rrét]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_24",
+    "word": "an umbrella",
+    "translation": "um guarda-chuva (som de \"â\")",
+    "pronunciation": "/ən ʌmˈbrɛlə/",
+    "portuguesePhonetic": "[an âmbréla]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_25",
+    "word": "a university",
+    "translation": "uma universidade (som de \"iú\")",
+    "pronunciation": "/ə ˌjuːnɪˈvɜːrsəti/",
+    "portuguesePhonetic": "[a iunivârsiti]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_26",
+    "word": "I buy an apple.",
+    "translation": "Eu compro uma maçã.",
+    "pronunciation": "/aɪ baɪ ən ˈæpl̩/",
+    "portuguesePhonetic": "[ái bái an épou]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_27",
+    "word": "I need three apples.",
+    "translation": "Eu preciso de três maçãs.",
+    "pronunciation": "/aɪ niːd θriː ˈæpl̩z/",
+    "portuguesePhonetic": "[ái níd thrí épouz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_28",
+    "word": "She buys an orange.",
+    "translation": "Ela compra uma laranja.",
+    "pronunciation": "/ʃiː baɪz ən ˈɔːrɪndʒ/",
+    "portuguesePhonetic": "[chí báiz an órindj]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_29",
+    "word": "We need a box of eggs.",
+    "translation": "Precisamos de uma caixa de ovos.",
+    "pronunciation": "/wiː niːd ə bɑːks əv ɛɡz/",
+    "portuguesePhonetic": "[uí níd a báks ov égz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_30",
+    "word": "The eggs are fresh.",
+    "translation": "Os ovos estão frescos.",
+    "pronunciation": "/ðə ɛɡz ɑːr frɛʃ/",
+    "portuguesePhonetic": "[dhi égz ár fréch]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_31",
+    "word": "I take a bus.",
+    "translation": "Eu pego um ônibus.",
+    "pronunciation": "/aɪ teɪk ə bʌs/",
+    "portuguesePhonetic": "[ái têik a bâs]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_32",
+    "word": "The buses are late.",
+    "translation": "Os ônibus estão atrasados.",
+    "pronunciation": "/ðə ˈbʌsɪz ɑːr leɪt/",
+    "portuguesePhonetic": "[dha bâsiz ár lêit]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_33",
+    "word": "I wear a hat.",
+    "translation": "Eu uso um chapéu.",
+    "pronunciation": "/aɪ wɛr ə hæt/",
+    "portuguesePhonetic": "[ái uér a rrét]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_34",
+    "word": "I bring an umbrella.",
+    "translation": "Eu levo um guarda-chuva.",
+    "pronunciation": "/aɪ brɪŋ ən ʌmˈbrɛlə/",
+    "portuguesePhonetic": "[ái brín an âmbréla]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_35",
+    "word": "I put the books on a shelf.",
+    "translation": "Eu coloco os livros numa prateleira.",
+    "pronunciation": "/aɪ pʊt ðə bʊks ɑːn ə ʃɛlf/",
+    "portuguesePhonetic": "[ái pút dha búks ón a chélf]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_36",
+    "word": "The shelves are full.",
+    "translation": "As prateleiras estão cheias.",
+    "pronunciation": "/ðə ʃɛlvz ɑːr fʊl/",
+    "portuguesePhonetic": "[dha chélvz ár fúl]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_37",
+    "word": "There is a mouse in the kitchen.",
+    "translation": "Tem um rato na cozinha.",
+    "pronunciation": "/ðɛr ɪz ə maʊs ɪn ðə ˈkɪtʃən/",
+    "portuguesePhonetic": "[dhér iz a máus in dha kítchen]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_38",
+    "word": "We have two children.",
+    "translation": "Nós temos dois filhos.",
+    "pronunciation": "/wiː hæv tuː ˈtʃɪldrən/",
+    "portuguesePhonetic": "[uí rrév tú tchíldren]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_39",
+    "word": "The baby is sleeping.",
+    "translation": "O bebê está dormindo.",
+    "pronunciation": "/ðə ˈbeɪbi ɪz ˈsliːpɪŋ/",
+    "portuguesePhonetic": "[dha bêibi iz slípin]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_40",
+    "word": "He is a student.",
+    "translation": "Ele é estudante.",
+    "pronunciation": "/hiː ɪz ə ˈstuːdənt/",
+    "portuguesePhonetic": "[rrí iz a stúdent]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_41",
+    "word": "The students study hard.",
+    "translation": "Os estudantes estudam muito.",
+    "pronunciation": "/ðə ˈstuːdənts ˈstʌdi hɑːrd/",
+    "portuguesePhonetic": "[dha stúdents stâdi rrárd]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_42",
+    "word": "She goes to a university.",
+    "translation": "Ela vai para uma universidade.",
+    "pronunciation": "/ʃiː ɡoʊz tə ə ˌjuːnɪˈvɜːrsəti/",
+    "portuguesePhonetic": "[chí gôuz tu a iunivârsiti]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_43",
+    "word": "I have a class in an hour.",
+    "translation": "Eu tenho aula em uma hora.",
+    "pronunciation": "/aɪ hæv ə klæs ɪn ən ˈaʊər/",
+    "portuguesePhonetic": "[ái rrév a klés in an áuer]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_44",
+    "word": "My tooth hurts.",
+    "translation": "Meu dente dói.",
+    "pronunciation": "/maɪ tuːθ hɜːrts/",
+    "portuguesePhonetic": "[mái túth rârts]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_45",
+    "word": "The dentist checks my teeth.",
+    "translation": "O dentista examina meus dentes.",
+    "pronunciation": "/ðə ˈdɛntɪst tʃɛks maɪ tiːθ/",
+    "portuguesePhonetic": "[dha déntist tchéks mái títh]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_46",
+    "word": "My foot is sore.",
+    "translation": "Meu pé está dolorido.",
+    "pronunciation": "/maɪ fʊt ɪz sɔːr/",
+    "portuguesePhonetic": "[mái fút iz sór]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_47",
+    "word": "There is a sheep in the field.",
+    "translation": "Tem uma ovelha no campo.",
+    "pronunciation": "/ðɛr ɪz ə ʃiːp ɪn ðə fiːld/",
+    "portuguesePhonetic": "[dhér iz a chíp in dha fíld]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_48",
+    "word": "The sheep are eating grass.",
+    "translation": "As ovelhas estão comendo grama.",
+    "pronunciation": "/ðə ʃiːp ɑːr ˈiːtɪŋ ɡræs/",
+    "portuguesePhonetic": "[dha chíp ár ítin grés]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_49",
+    "word": "I caught a fish.",
+    "translation": "Eu peguei um peixe.",
+    "pronunciation": "/aɪ kɔːt ə fɪʃ/",
+    "portuguesePhonetic": "[ái kót a fích]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_50",
+    "word": "We caught five fish.",
+    "translation": "Pegamos cinco peixes.",
+    "pronunciation": "/wiː kɔːt faɪv fɪʃ/",
+    "portuguesePhonetic": "[uí kót fáiv fích]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_51",
+    "word": "I have a box.",
+    "translation": "Eu tenho uma caixa.",
+    "pronunciation": "/aɪ hæv ə bɑːks/",
+    "portuguesePhonetic": "[ái rrév a báks]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_52",
+    "word": "She eats an apple.",
+    "translation": "Ela come uma maçã.",
+    "pronunciation": "/ʃiː iːts ən ˈæpl̩/",
+    "portuguesePhonetic": "[chí íts an épou]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_53",
+    "word": "He is a man.",
+    "translation": "Ele é um homem.",
+    "pronunciation": "/hiː ɪz ə mæn/",
+    "portuguesePhonetic": "[rrí iz a mén]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_54",
+    "word": "They are students.",
+    "translation": "Eles são estudantes.",
+    "pronunciation": "/ðeɪ ɑːr ˈstuːdənts/",
+    "portuguesePhonetic": "[dhêi ár stúdents]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_55",
+    "word": "The babies are crying.",
+    "translation": "Os bebês estão chorando.",
+    "pronunciation": "/ðə ˈbeɪbiz ɑːr ˈkraɪɪŋ/",
+    "portuguesePhonetic": "[dha bêibiz ár kráin]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_56",
+    "word": "Two women are talking.",
+    "translation": "Duas mulheres estão conversando.",
+    "pronunciation": "/tuː ˈwɪmɪn ɑːr ˈtɔːkɪŋ/",
+    "portuguesePhonetic": "[tú uímen ár tókin]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_57",
+    "word": "Is this a fish or a toy?",
+    "translation": "Isto é um peixe ou um brinquedo?",
+    "pronunciation": "/ɪz ðɪs ə fɪʃ ɔːr ə tɔɪ/",
+    "portuguesePhonetic": "[iz dhís a fích ór a tói]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_58",
+    "word": "I don't have an umbrella.",
+    "translation": "Eu não tenho guarda-chuva.",
+    "pronunciation": "/aɪ doʊnt hæv ən ʌmˈbrɛlə/",
+    "portuguesePhonetic": "[ái dôunt rrév an âmbréla]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_59",
+    "word": "How many boxes do you have?",
+    "translation": "Quantas caixas você tem?",
+    "pronunciation": "/haʊ ˈmɛni ˈbɑːksɪz duː juː hæv/",
+    "portuguesePhonetic": "[rráu méni báksiz dú iú rrév]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_60",
+    "word": "Are there any apples?",
+    "translation": "Tem alguma maçã?",
+    "pronunciation": "/ɑːr ðɛr ˈɛni ˈæpl̩z/",
+    "portuguesePhonetic": "[ár dhér éni épouz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_61",
+    "word": "These aren't toys.",
+    "translation": "Estes não são brinquedos.",
+    "pronunciation": "/ðiːz ˈɑːrnt tɔɪz/",
+    "portuguesePhonetic": "[dhíz árent tóiz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_62",
+    "word": "Why are the shelves empty?",
+    "translation": "Por que as prateleiras estão vazias?",
+    "pronunciation": "/waɪ ɑːr ðə ʃɛlvz ˈɛmpti/",
+    "portuguesePhonetic": "[uái ár dha chélvz émpti]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_63",
+    "word": "I bought an apple because I was hungry.",
+    "translation": "Eu comprei uma maçã porque estava com fome.",
+    "pronunciation": "/aɪ bɔːt ən ˈæpl̩ bɪˈkɔːz aɪ wəz ˈhʌŋɡri/",
+    "portuguesePhonetic": "[ái bót an épou bikóz ái uâz râNgri]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_64",
+    "word": "The children are playing with their toys.",
+    "translation": "As crianças estão brincando com os brinquedos delas.",
+    "pronunciation": "/ðə ˈtʃɪldrən ɑːr ˈpleɪɪŋ wɪð ðɛr tɔɪz/",
+    "portuguesePhonetic": "[dha tchíldren ár plêin uídh dhér tóiz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_65",
+    "word": "We visited three countries last year.",
+    "translation": "Nós visitamos três países no ano passado.",
+    "pronunciation": "/wiː ˈvɪzɪtɪd θriː ˈkʌntriz læst jɪr/",
+    "portuguesePhonetic": "[uí vízited thrí kântriz lést íir]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_66",
+    "word": "She was reading when the bus arrived.",
+    "translation": "Ela estava lendo quando o ônibus chegou.",
+    "pronunciation": "/ʃiː wəz ˈriːdɪŋ wɛn ðə bʌs əˈraɪvd/",
+    "portuguesePhonetic": "[chí uâz rídin uén dha bâs aráivd]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_67",
+    "word": "The mice ran under the table.",
+    "translation": "Os ratos correram para baixo da mesa.",
+    "pronunciation": "/ðə maɪs ræn ˈʌndər ðə ˈteɪbl̩/",
+    "portuguesePhonetic": "[dha máis rén ânder dha têibou]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_68",
+    "word": "I'll buy a dozen eggs when I go to the store.",
+    "translation": "Vou comprar uma dúzia de ovos quando for ao mercado.",
+    "pronunciation": "/aɪl baɪ ə ˈdʌzn̩ ɛɡz wɛn aɪ ɡoʊ tə ðə stɔːr/",
+    "portuguesePhonetic": "[áiou bái a dâzan égz uén ái gôu tu dha stór]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_69",
+    "word": "He has two feet, but one shoe is missing.",
+    "translation": "Ele tem dois pés, mas falta um sapato.",
+    "pronunciation": "/hiː hæz tuː fiːt bʌt wʌn ʃuː ɪz ˈmɪsɪŋ/",
+    "portuguesePhonetic": "[rrí rréz tú fít bât uân chú iz mísin]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_70",
+    "word": "Although it's only an hour, the class feels long.",
+    "translation": "Embora seja só uma hora, a aula parece longa.",
+    "pronunciation": "/ɔːlˈðoʊ ɪts ˈoʊnli ən ˈaʊər ðə klæs fiːlz lɔːŋ/",
+    "portuguesePhonetic": "[oldhôu íts ôunli an áuer dha klés fílz lóN]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_71",
+    "word": "The men and women work at the same university.",
+    "translation": "Os homens e as mulheres trabalham na mesma universidade.",
+    "pronunciation": "/ðə mɛn ænd ˈwɪmɪn wɜːrk æt ðə seɪm ˌjuːnɪˈvɜːrsəti/",
+    "portuguesePhonetic": "[dha mén énd uímen uârk ét dha sêim iunivârsiti]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_72",
+    "word": "I didn't bring an umbrella, so I got wet.",
+    "translation": "Eu não trouxe guarda-chuva, então me molhei.",
+    "pronunciation": "/aɪ ˈdɪdnt brɪŋ ən ʌmˈbrɛlə soʊ aɪ ɡɑːt wɛt/",
+    "portuguesePhonetic": "[ái dídent brín an âmbréla sôu ái gót uét]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_73",
+    "word": "My teeth hurt because I ate too much candy.",
+    "translation": "Meus dentes doem porque comi muito doce.",
+    "pronunciation": "/maɪ tiːθ hɜːrt bɪˈkɔːz aɪ eɪt tuː mʌtʃ ˈkændi/",
+    "portuguesePhonetic": "[mái títh rârt bikóz ái êit tú mâtch kéndi]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_74",
+    "word": "Have you ever seen a mouse as big as this one?",
+    "translation": "Você já viu um rato tão grande quanto este?",
+    "pronunciation": "/hæv juː ˈɛvər siːn ə maʊs æz bɪɡ æz ðɪs wʌn/",
+    "portuguesePhonetic": "[rrév iú éver sín a máus éz bíg éz dhís uân]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_75",
+    "word": "We need more shelves because we have too many books.",
+    "translation": "Precisamos de mais prateleiras porque temos livros demais.",
+    "pronunciation": "/wiː niːd mɔːr ʃɛlvz bɪˈkɔːz wiː hæv tuː ˈmɛni bʊks/",
+    "portuguesePhonetic": "[uí níd mór chélvz bikóz uí rrév tú méni búks]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_76",
+    "word": "\"Do you want an apple?\" / \"Yes, please.\"",
+    "translation": "\"Você quer uma maçã?\" / \"Sim, por favor.\"",
+    "pronunciation": "/duː juː wɑːnt ən ˈæpl̩ · jɛs pliːz/",
+    "portuguesePhonetic": "[dú iú uánt an épou · iés plíz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_77",
+    "word": "\"Is this a bus or a train?\" / \"It's a bus.\"",
+    "translation": "\"Isto é um ônibus ou um trem?\" / \"É um ônibus.\"",
+    "pronunciation": "/ɪz ðɪs ə bʌs ɔːr ə treɪn · ɪts ə bʌs/",
+    "portuguesePhonetic": "[iz dhís a bâs ór a trêin · íts a bâs]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_78",
+    "word": "\"How many children do you have?\" / \"Two.\"",
+    "translation": "\"Quantos filhos você tem?\" / \"Dois.\"",
+    "pronunciation": "/haʊ ˈmɛni ˈtʃɪldrən duː juː hæv · tuː/",
+    "portuguesePhonetic": "[rráu méni tchíldren dú iú rrév · tú]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_79",
+    "word": "\"Are these toys yours?\" / \"Yes, they are.\"",
+    "translation": "\"Estes brinquedos são seus?\" / \"Sim, são.\"",
+    "pronunciation": "/ɑːr ðiːz tɔɪz jɔːrz · jɛs ðeɪ ɑːr/",
+    "portuguesePhonetic": "[ár dhíz tóiz iórz · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_80",
+    "word": "\"Where is the box?\" / \"On the shelf.\"",
+    "translation": "\"Onde está a caixa?\" / \"Na prateleira.\"",
+    "pronunciation": "/wɛr ɪz ðə bɑːks · ɑːn ðə ʃɛlf/",
+    "portuguesePhonetic": "[uér iz dha báks · ón dha chélf]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_81",
+    "word": "\"Do you have an umbrella?\" / \"No, I don't.\"",
+    "translation": "\"Você tem guarda-chuva?\" / \"Não, não tenho.\"",
+    "pronunciation": "/duː juː hæv ən ʌmˈbrɛlə · noʊ aɪ doʊnt/",
+    "portuguesePhonetic": "[dú iú rrév an âmbréla · nôu ái dôunt]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_82",
+    "word": "\"Is that a fish?\" / \"Yes, it is.\"",
+    "translation": "\"Aquilo é um peixe?\" / \"Sim, é.\"",
+    "pronunciation": "/ɪz ðæt ə fɪʃ · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz dhét a fích · iés ít iz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_83",
+    "word": "\"How many eggs do we need?\" / \"Six.\"",
+    "translation": "\"Quantos ovos precisamos?\" / \"Seis.\"",
+    "pronunciation": "/haʊ ˈmɛni ɛɡz duː wiː niːd · sɪks/",
+    "portuguesePhonetic": "[rráu méni égz dú uí níd · síks]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_84",
+    "word": "\"Is he a student?\" / \"Yes, at the university.\"",
+    "translation": "\"Ele é estudante?\" / \"Sim, na universidade.\"",
+    "pronunciation": "/ɪz hiː ə ˈstuːdənt · jɛs æt ðə ˌjuːnɪˈvɜːrsəti/",
+    "portuguesePhonetic": "[iz rrí a stúdent · iés ét dha iunivârsiti]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_85",
+    "word": "\"What time is it?\" / \"We have an hour left.\"",
+    "translation": "\"Que horas são?\" / \"Temos uma hora ainda.\"",
+    "pronunciation": "/wʌt taɪm ɪz ɪt · wiː hæv ən ˈaʊər lɛft/",
+    "portuguesePhonetic": "[uât táim iz ít · uí rrév an áuer léft]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_86",
+    "word": "\"Are there mice in the house?\" / \"Yes, unfortunately.\"",
+    "translation": "\"Tem ratos na casa?\" / \"Sim, infelizmente.\"",
+    "pronunciation": "/ɑːr ðɛr maɪs ɪn ðə haʊs · jɛs ʌnˈfɔːrtʃənətli/",
+    "portuguesePhonetic": "[ár dhér máis in dha ráus · iés anfórtchanetli]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_87",
+    "word": "\"Do sheep live here?\" / \"Yes, on the farm.\"",
+    "translation": "\"Tem ovelhas aqui?\" / \"Sim, na fazenda.\"",
+    "pronunciation": "/duː ʃiːp lɪv hɪr · jɛs ɑːn ðə fɑːrm/",
+    "portuguesePhonetic": "[dú chíp lív rrír · iés ón dha fárm]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_88",
+    "word": "\"Is this an orange?\" / \"No, it's a lemon.\"",
+    "translation": "\"Isto é uma laranja?\" / \"Não, é um limão.\"",
+    "pronunciation": "/ɪz ðɪs ən ˈɔːrɪndʒ · noʊ ɪts ə ˈlɛmən/",
+    "portuguesePhonetic": "[iz dhís an órindj · nôu íts a léman]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_89",
+    "word": "\"Are these men your brothers?\" / \"No, they're my cousins.\"",
+    "translation": "\"Estes homens são seus irmãos?\" / \"Não, são meus primos.\"",
+    "pronunciation": "/ɑːr ðiːz mɛn jɔːr ˈbrʌðərz · noʊ ðer maɪ ˈkʌzn̩z/",
+    "portuguesePhonetic": "[ár dhíz mén iór brâdherz · nôu dhér mái kâzanz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_90",
+    "word": "\"Does your tooth still hurt?\" / \"No, it's better now.\"",
+    "translation": "\"Seu dente ainda dói?\" / \"Não, está melhor agora.\"",
+    "pronunciation": "/dʌz jɔːr tuːθ stɪl hɜːrt · noʊ ɪts ˈbɛtər naʊ/",
+    "portuguesePhonetic": "[dâz iór túth stíou rârt · nôu íts béter náu]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_91",
+    "word": "\"How many countries have you visited?\" / \"Three.\"",
+    "translation": "\"Quantos países você visitou?\" / \"Três.\"",
+    "pronunciation": "/haʊ ˈmɛni ˈkʌntriz hæv juː ˈvɪzɪtɪd · θriː/",
+    "portuguesePhonetic": "[rráu méni kântriz rrév iú vízited · thrí]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_92",
+    "word": "\"Is that a hat?\" / \"Yes, it's mine.\"",
+    "translation": "\"Aquilo é um chapéu?\" / \"Sim, é meu.\"",
+    "pronunciation": "/ɪz ðæt ə hæt · jɛs ɪts maɪn/",
+    "portuguesePhonetic": "[iz dhét a rrét · iés íts máin]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_93",
+    "word": "\"Are the women teachers?\" / \"Yes, they are.\"",
+    "translation": "\"As mulheres são professoras?\" / \"Sim, são.\"",
+    "pronunciation": "/ɑːr ðə ˈwɪmɪn ˈtiːtʃərz · jɛs ðeɪ ɑːr/",
+    "portuguesePhonetic": "[ár dha uímen títcherz · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_94",
+    "word": "\"Do you need a box?\" / \"Yes, a big one.\"",
+    "translation": "\"Você precisa de uma caixa?\" / \"Sim, uma grande.\"",
+    "pronunciation": "/duː juː niːd ə bɑːks · jɛs ə bɪɡ wʌn/",
+    "portuguesePhonetic": "[dú iú níd a báks · iés a bíg uân]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_95",
+    "word": "\"Is it an hour or two?\" / \"Just an hour.\"",
+    "translation": "\"É uma hora ou duas?\" / \"Só uma hora.\"",
+    "pronunciation": "/ɪz ɪt ən ˈaʊər ɔːr tuː · dʒʌst ən ˈaʊər/",
+    "portuguesePhonetic": "[iz ít an áuer ór tú · djâst an áuer]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_96",
+    "word": "\"Are these your shelves?\" / \"No, they're hers.\"",
+    "translation": "\"Estas prateleiras são suas?\" / \"Não, são dela.\"",
+    "pronunciation": "/ɑːr ðiːz jɔːr ʃɛlvz · noʊ ðer hɜːrz/",
+    "portuguesePhonetic": "[ár dhíz iór chélvz · nôu dhér rrârz]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_97",
+    "word": "\"Can I have an egg?\" / \"Sure, take two.\"",
+    "translation": "\"Posso pegar um ovo?\" / \"Claro, pega dois.\"",
+    "pronunciation": "/kæn aɪ hæv ən ɛɡ · ʃʊr teɪk tuː/",
+    "portuguesePhonetic": "[kén ái rrév an ég · chúr têik tú]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_98",
+    "word": "\"Is your foot okay?\" / \"No, it hurts.\"",
+    "translation": "\"Seu pé está bem?\" / \"Não, está doendo.\"",
+    "pronunciation": "/ɪz jɔːr fʊt oʊˈkeɪ · noʊ ɪt hɜːrts/",
+    "portuguesePhonetic": "[iz iór fút ôukêi · nôu ít rârts]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_99",
+    "word": "\"Are those babies twins?\" / \"Yes, they are.\"",
+    "translation": "\"Aqueles bebês são gêmeos?\" / \"Sim, são.\"",
+    "pronunciation": "/ɑːr ðoʊz ˈbeɪbiz twɪnz · jɛs ðeɪ ɑːr/",
+    "portuguesePhonetic": "[ár dhôuz bêibiz tuínz · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_4_grammar_a1_en_card_100",
+    "word": "\"Is this a university?\" / \"Yes, a big one.\"",
+    "translation": "\"Isto é uma universidade?\" / \"Sim, uma grande.\"",
+    "pronunciation": "/ɪz ðɪs ə ˌjuːnɪˈvɜːrsəti · jɛs ə bɪɡ wʌn/",
+    "portuguesePhonetic": "[iz dhís a iunivârsiti · iés a bíg uân]"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_5_grammar_a1_en_card_1",
+    "word": "an interesting book",
+    "translation": "um livro interessante",
+    "pronunciation": "/ən ˈɪntrəstɪŋ bʊk/",
+    "portuguesePhonetic": "[an íntrestin búk]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_2",
+    "word": "an amazing teacher",
+    "translation": "uma professora incrível",
+    "pronunciation": "/ən əˈmeɪzɪŋ ˈtiːtʃər/",
+    "portuguesePhonetic": "[an amêizin títcher]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_3",
+    "word": "dark eyes",
+    "translation": "olhos escuros",
+    "pronunciation": "/dɑːrk aɪz/",
+    "portuguesePhonetic": "[dárk áiz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_4",
+    "word": "old videos",
+    "translation": "vídeos antigos",
+    "pronunciation": "/oʊld ˈvɪdioʊz/",
+    "portuguesePhonetic": "[ôuld vídiouz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_5",
+    "word": "Chinese food",
+    "translation": "comida chinesa",
+    "pronunciation": "/tʃaɪˈniːz fuːd/",
+    "portuguesePhonetic": "[tchainíz fúd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_6",
+    "word": "It's an interesting book.",
+    "translation": "É um livro interessante.",
+    "pronunciation": "/ɪts ən ˈɪntrəstɪŋ bʊk/",
+    "portuguesePhonetic": "[íts an íntrestin búk]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_7",
+    "word": "She's an amazing teacher.",
+    "translation": "Ela é uma professora incrível.",
+    "pronunciation": "/ʃiːz ən əˈmeɪzɪŋ ˈtiːtʃər/",
+    "portuguesePhonetic": "[chíz an amêizin títcher]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_8",
+    "word": "She has dark eyes.",
+    "translation": "Ela tem olhos escuros.",
+    "pronunciation": "/ʃiː hæz dɑːrk aɪz/",
+    "portuguesePhonetic": "[chí rréz dárk áiz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_9",
+    "word": "I have old videos.",
+    "translation": "Eu tenho vídeos antigos.",
+    "pronunciation": "/aɪ hæv oʊld ˈvɪdioʊz/",
+    "portuguesePhonetic": "[ái rrév ôuld vídiouz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_10",
+    "word": "Do you like Chinese food?",
+    "translation": "Você gosta de comida chinesa?",
+    "pronunciation": "/duː juː laɪk tʃaɪˈniːz fuːd/",
+    "portuguesePhonetic": "[dú iú láik tchainíz fúd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_11",
+    "word": "This book is interesting.",
+    "translation": "Este livro é interessante.",
+    "pronunciation": "/ðɪs bʊk ɪz ˈɪntrəstɪŋ/",
+    "portuguesePhonetic": "[dhís búk iz íntrestin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_12",
+    "word": "This teacher is amazing.",
+    "translation": "Esta professora é incrível.",
+    "pronunciation": "/ðɪs ˈtiːtʃər ɪz əˈmeɪzɪŋ/",
+    "portuguesePhonetic": "[dhís títcher iz amêizin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_13",
+    "word": "Her eyes are dark.",
+    "translation": "Os olhos dela são escuros.",
+    "pronunciation": "/hɜːr aɪz ɑːr dɑːrk/",
+    "portuguesePhonetic": "[rrâr áiz ár dárk]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_14",
+    "word": "These videos are old.",
+    "translation": "Estes vídeos são antigos.",
+    "pronunciation": "/ðiːz ˈvɪdioʊz ɑːr oʊld/",
+    "portuguesePhonetic": "[dhíz vídiouz ár ôuld]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_15",
+    "word": "Is this food Chinese?",
+    "translation": "Esta comida é chinesa?",
+    "pronunciation": "/ɪz ðɪs fuːd tʃaɪˈniːz/",
+    "portuguesePhonetic": "[iz dhís fúd tchainíz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_16",
+    "word": "They are interesting books.",
+    "translation": "Eles são livros interessantes.",
+    "pronunciation": "/ðeɪ ɑːr ˈɪntrəstɪŋ bʊks/",
+    "portuguesePhonetic": "[dhêi ár íntrestin búks]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_17",
+    "word": "These books are interesting.",
+    "translation": "Estes livros são interessantes.",
+    "pronunciation": "/ðiːz bʊks ɑːr ˈɪntrəstɪŋ/",
+    "portuguesePhonetic": "[dhíz búks ár íntrestin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_18",
+    "word": "Your idea sounds interesting.",
+    "translation": "Sua ideia parece interessante.",
+    "pronunciation": "/jɔːr aɪˈdiːə saʊndz ˈɪntrəstɪŋ/",
+    "portuguesePhonetic": "[iór aidía sáundz íntrestin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_19",
+    "word": "This soup tastes horrible.",
+    "translation": "Esta sopa tem gosto horrível.",
+    "pronunciation": "/ðɪs suːp teɪsts ˈhɔːrəbl̩/",
+    "portuguesePhonetic": "[dhís súp têists rrórabou]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_20",
+    "word": "You look tired.",
+    "translation": "Você parece cansado.",
+    "pronunciation": "/juː lʊk ˈtaɪərd/",
+    "portuguesePhonetic": "[iú lúk táierd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_21",
+    "word": "These cookies smell delicious.",
+    "translation": "Estes biscoitos cheiram delicioso.",
+    "pronunciation": "/ðiːz ˈkʊkiz smɛl dɪˈlɪʃəs/",
+    "portuguesePhonetic": "[dhíz kúkiz smél delíchas]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_22",
+    "word": "I feel bad.",
+    "translation": "Eu me sinto mal.",
+    "pronunciation": "/aɪ fiːl bæd/",
+    "portuguesePhonetic": "[ái fíou béd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_23",
+    "word": "These are my favorite shoes.",
+    "translation": "Estes são meus sapatos favoritos. (não \"favorites\")",
+    "pronunciation": "/ðiːz ɑːr maɪ ˈfeɪvərɪt ʃuːz/",
+    "portuguesePhonetic": "[dhíz ár mái fêivorit chúz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_24",
+    "word": "She has blue eyes.",
+    "translation": "Ela tem olhos azuis. (não \"blues\")",
+    "pronunciation": "/ʃiː hæz bluː aɪz/",
+    "portuguesePhonetic": "[chí rréz blú áiz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_25",
+    "word": "Adjectives have no plural form.",
+    "translation": "Adjetivos não têm plural.",
+    "pronunciation": "/ˈædʒɪktɪvz hæv noʊ ˈplʊrəl fɔːrm/",
+    "portuguesePhonetic": "[édjektivz rrév nôu plúrau fórm]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_26",
+    "word": "This soup tastes delicious.",
+    "translation": "Esta sopa tem gosto delicioso.",
+    "pronunciation": "/ðɪs suːp teɪsts dɪˈlɪʃəs/",
+    "portuguesePhonetic": "[dhís súp têists delíchas]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_27",
+    "word": "The food smells amazing.",
+    "translation": "A comida cheira incrível.",
+    "pronunciation": "/ðə fuːd smɛlz əˈmeɪzɪŋ/",
+    "portuguesePhonetic": "[dha fúd smélz amêizin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_28",
+    "word": "The waiter is friendly.",
+    "translation": "O garçom é simpático.",
+    "pronunciation": "/ðə ˈweɪtər ɪz ˈfrɛndli/",
+    "portuguesePhonetic": "[dha uêiter iz fréndli]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_29",
+    "word": "These cookies are sweet.",
+    "translation": "Estes biscoitos são doces.",
+    "pronunciation": "/ðiːz ˈkʊkiz ɑːr swiːt/",
+    "portuguesePhonetic": "[dhíz kúkiz ár suít]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_30",
+    "word": "I feel full.",
+    "translation": "Eu me sinto cheio.",
+    "pronunciation": "/aɪ fiːl fʊl/",
+    "portuguesePhonetic": "[ái fíou fúl]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_31",
+    "word": "This movie is boring.",
+    "translation": "Este filme é chato.",
+    "pronunciation": "/ðɪs ˈmuːvi ɪz ˈbɔːrɪŋ/",
+    "portuguesePhonetic": "[dhís múvi iz bórin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_32",
+    "word": "I have old videos.",
+    "translation": "Eu tenho vídeos antigos.",
+    "pronunciation": "/aɪ hæv oʊld ˈvɪdioʊz/",
+    "portuguesePhonetic": "[ái rrév ôuld vídiouz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_33",
+    "word": "The sofa is comfortable.",
+    "translation": "O sofá é confortável.",
+    "pronunciation": "/ðə ˈsoʊfə ɪz ˈkʌmftərbl̩/",
+    "portuguesePhonetic": "[dha sôufa iz kâmftorbou]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_34",
+    "word": "You look tired tonight.",
+    "translation": "Você parece cansado hoje à noite.",
+    "pronunciation": "/juː lʊk ˈtaɪərd təˈnaɪt/",
+    "portuguesePhonetic": "[iú lúk táierd tunáit]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_35",
+    "word": "The room is warm.",
+    "translation": "O quarto está quente.",
+    "pronunciation": "/ðə ruːm ɪz wɔːrm/",
+    "portuguesePhonetic": "[dha rúm iz uórm]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_36",
+    "word": "She is an amazing teacher.",
+    "translation": "Ela é uma professora incrível.",
+    "pronunciation": "/ʃiː ɪz ən əˈmeɪzɪŋ ˈtiːtʃər/",
+    "portuguesePhonetic": "[chí iz an amêizin títcher]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_37",
+    "word": "This book is interesting.",
+    "translation": "Este livro é interessante.",
+    "pronunciation": "/ðɪs bʊk ɪz ˈɪntrəstɪŋ/",
+    "portuguesePhonetic": "[dhís búk iz íntrestin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_38",
+    "word": "The lesson sounds difficult.",
+    "translation": "A aula parece difícil.",
+    "pronunciation": "/ðə ˈlɛsn̩ saʊndz ˈdɪfɪkəlt/",
+    "portuguesePhonetic": "[dha lésan sáundz dífikolt]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_39",
+    "word": "My idea is good.",
+    "translation": "Minha ideia é boa.",
+    "pronunciation": "/maɪ aɪˈdiːə ɪz ɡʊd/",
+    "portuguesePhonetic": "[mái aidía iz gúd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_40",
+    "word": "These are my favorite shoes.",
+    "translation": "Estes são meus sapatos favoritos.",
+    "pronunciation": "/ðiːz ɑːr maɪ ˈfeɪvərɪt ʃuːz/",
+    "portuguesePhonetic": "[dhíz ár mái fêivorit chúz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_41",
+    "word": "This shirt is too big.",
+    "translation": "Esta camisa é grande demais.",
+    "pronunciation": "/ðɪs ʃɜːrt ɪz tuː bɪɡ/",
+    "portuguesePhonetic": "[dhís chârt iz tú bíg]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_42",
+    "word": "The dress looks beautiful.",
+    "translation": "O vestido parece lindo.",
+    "pronunciation": "/ðə drɛs lʊks ˈbjuːtɪfl̩/",
+    "portuguesePhonetic": "[dha drés lúks biútifou]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_43",
+    "word": "These jeans are tight.",
+    "translation": "Estas calças jeans estão apertadas.",
+    "pronunciation": "/ðiːz dʒiːnz ɑːr taɪt/",
+    "portuguesePhonetic": "[dhíz djínz ár táit]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_44",
+    "word": "She has blue eyes.",
+    "translation": "Ela tem olhos azuis.",
+    "pronunciation": "/ʃiː hæz bluː aɪz/",
+    "portuguesePhonetic": "[chí rréz blú áiz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_45",
+    "word": "He has dark hair.",
+    "translation": "Ele tem cabelo escuro.",
+    "pronunciation": "/hiː hæz dɑːrk hɛr/",
+    "portuguesePhonetic": "[rrí rréz dárk rrér]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_46",
+    "word": "You look happy today.",
+    "translation": "Você parece feliz hoje.",
+    "pronunciation": "/juː lʊk ˈhæpi təˈdeɪ/",
+    "portuguesePhonetic": "[iú lúk rrépi tudêi]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_47",
+    "word": "Do you like Chinese food?",
+    "translation": "Você gosta de comida chinesa?",
+    "pronunciation": "/duː juː laɪk tʃaɪˈniːz fuːd/",
+    "portuguesePhonetic": "[dú iú láik tchainíz fúd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_48",
+    "word": "Italian food is delicious.",
+    "translation": "Comida italiana é deliciosa.",
+    "pronunciation": "/ɪˈtæljən fuːd ɪz dɪˈlɪʃəs/",
+    "portuguesePhonetic": "[itélian fúd iz delíchas]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_49",
+    "word": "This restaurant is expensive.",
+    "translation": "Este restaurante é caro.",
+    "pronunciation": "/ðɪs ˈrɛstərɑːnt ɪz ɪkˈspɛnsɪv/",
+    "portuguesePhonetic": "[dhís réstorant iz ikspénsiv]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_50",
+    "word": "The coffee smells good.",
+    "translation": "O café cheira bem.",
+    "pronunciation": "/ðə ˈkɔːfi smɛlz ɡʊd/",
+    "portuguesePhonetic": "[dha kófi smélz gúd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_51",
+    "word": "The book is interesting.",
+    "translation": "O livro é interessante.",
+    "pronunciation": "/ðə bʊk ɪz ˈɪntrəstɪŋ/",
+    "portuguesePhonetic": "[dha búk iz íntrestin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_52",
+    "word": "She is a good teacher.",
+    "translation": "Ela é uma boa professora.",
+    "pronunciation": "/ʃiː ɪz ə ɡʊd ˈtiːtʃər/",
+    "portuguesePhonetic": "[chí iz a gúd títcher]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_53",
+    "word": "The eyes are dark.",
+    "translation": "Os olhos são escuros.",
+    "pronunciation": "/ðə aɪz ɑːr dɑːrk/",
+    "portuguesePhonetic": "[dhi áiz ár dárk]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_54",
+    "word": "I feel tired.",
+    "translation": "Eu me sinto cansado.",
+    "pronunciation": "/aɪ fiːl ˈtaɪərd/",
+    "portuguesePhonetic": "[ái fíou táierd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_55",
+    "word": "These cookies smell delicious.",
+    "translation": "Estes biscoitos cheiram delicioso.",
+    "pronunciation": "/ðiːz ˈkʊkiz smɛl dɪˈlɪʃəs/",
+    "portuguesePhonetic": "[dhíz kúkiz smél delíchas]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_56",
+    "word": "Your new car looks expensive.",
+    "translation": "Seu carro novo parece caro.",
+    "pronunciation": "/jɔːr nuː kɑːr lʊks ɪkˈspɛnsɪv/",
+    "portuguesePhonetic": "[iór niú kár lúks ikspénsiv]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_57",
+    "word": "Is this food Chinese?",
+    "translation": "Esta comida é chinesa?",
+    "pronunciation": "/ɪz ðɪs fuːd tʃaɪˈniːz/",
+    "portuguesePhonetic": "[iz dhís fúd tchainíz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_58",
+    "word": "The soup doesn't taste good.",
+    "translation": "A sopa não tem gosto bom.",
+    "pronunciation": "/ðə suːp ˈdʌznt teɪst ɡʊd/",
+    "portuguesePhonetic": "[dha súp dâznt têist gúd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_59",
+    "word": "Why do you look so sad?",
+    "translation": "Por que você parece tão triste?",
+    "pronunciation": "/waɪ duː juː lʊk soʊ sæd/",
+    "portuguesePhonetic": "[uái dú iú lúk sôu séd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_60",
+    "word": "Does this sound interesting?",
+    "translation": "Isto parece interessante?",
+    "pronunciation": "/dʌz ðɪs saʊnd ˈɪntrəstɪŋ/",
+    "portuguesePhonetic": "[dâz dhís sáund íntrestin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_61",
+    "word": "These shoes aren't comfortable.",
+    "translation": "Estes sapatos não são confortáveis.",
+    "pronunciation": "/ðiːz ʃuːz ˈɑːrnt ˈkʌmftərbl̩/",
+    "portuguesePhonetic": "[dhíz chúz árent kâmftorbou]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_62",
+    "word": "How does the cake taste?",
+    "translation": "Como o bolo está de gosto?",
+    "pronunciation": "/haʊ dʌz ðə keɪk teɪst/",
+    "portuguesePhonetic": "[rráu dâz dha kêik têist]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_63",
+    "word": "The movie was boring, but the book is interesting.",
+    "translation": "O filme foi chato, mas o livro é interessante.",
+    "pronunciation": "/ðə ˈmuːvi wəz ˈbɔːrɪŋ bʌt ðə bʊk ɪz ˈɪntrəstɪŋ/",
+    "portuguesePhonetic": "[dha múvi uâz bórin bât dha búk iz íntrestin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_64",
+    "word": "She looks tired because she worked all day.",
+    "translation": "Ela parece cansada porque trabalhou o dia todo.",
+    "pronunciation": "/ʃiː lʊks ˈtaɪərd bɪˈkɔːz ʃiː wɜːrkt ɔːl deɪ/",
+    "portuguesePhonetic": "[chí lúks táierd bikóz chí uârkt ól dêi]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_65",
+    "word": "The food smelled amazing when we arrived.",
+    "translation": "A comida cheirava incrível quando chegamos.",
+    "pronunciation": "/ðə fuːd smɛld əˈmeɪzɪŋ wɛn wiː əˈraɪvd/",
+    "portuguesePhonetic": "[dha fúd sméld amêizin uén uí aráivd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_66",
+    "word": "I felt sick after I ate that soup.",
+    "translation": "Eu me senti mal depois que comi aquela sopa.",
+    "pronunciation": "/aɪ fɛlt sɪk ˈæftər aɪ eɪt ðæt suːp/",
+    "portuguesePhonetic": "[ái félt sík éfter ái êit dhét súp]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_67",
+    "word": "These videos were popular when I was young.",
+    "translation": "Estes vídeos eram populares quando eu era jovem.",
+    "pronunciation": "/ðiːz ˈvɪdioʊz wɜːr ˈpɑːpjələr wɛn aɪ wəz jʌŋ/",
+    "portuguesePhonetic": "[dhíz vídiouz uâr pápiular uén ái uâz iâN]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_68",
+    "word": "This restaurant is famous because the food tastes amazing.",
+    "translation": "Este restaurante é famoso porque a comida tem gosto incrível.",
+    "pronunciation": "/ðɪs ˈrɛstərɑːnt ɪz ˈfeɪməs bɪˈkɔːz ðə fuːd teɪsts əˈmeɪzɪŋ/",
+    "portuguesePhonetic": "[dhís réstorant iz fêimas bikóz dha fúd têists amêizin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_69",
+    "word": "Although the dress looks expensive, it was actually cheap.",
+    "translation": "Embora o vestido pareça caro, na verdade foi barato.",
+    "pronunciation": "/ɔːlˈðoʊ ðə drɛs lʊks ɪkˈspɛnsɪv ɪt wəz ˈæktʃuəli tʃiːp/",
+    "portuguesePhonetic": "[oldhôu dha drés lúks ikspénsiv ít uâz éktchuali tchíp]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_70",
+    "word": "Her eyes are dark, but her hair is light.",
+    "translation": "Os olhos dela são escuros, mas o cabelo é claro.",
+    "pronunciation": "/hɜːr aɪz ɑːr dɑːrk bʌt hɜːr hɛr ɪz laɪt/",
+    "portuguesePhonetic": "[rrâr áiz ár dárk bât rrâr rrér iz láit]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_71",
+    "word": "I'm not sure if this idea sounds good or bad.",
+    "translation": "Não tenho certeza se esta ideia parece boa ou ruim.",
+    "pronunciation": "/aɪm nɑːt ʃʊr ɪf ðɪs aɪˈdiːə saʊndz ɡʊd ɔːr bæd/",
+    "portuguesePhonetic": "[áim nót chúr if dhís aidía sáundz gúd ór béd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_72",
+    "word": "The cookies smelled delicious, so I ate them all.",
+    "translation": "Os biscoitos cheiravam delicioso, então comi todos.",
+    "pronunciation": "/ðə ˈkʊkiz smɛld dɪˈlɪʃəs soʊ aɪ eɪt ðɛm ɔːl/",
+    "portuguesePhonetic": "[dha kúkiz sméld delíchas sôu ái êit dhém ól]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_73",
+    "word": "These are my favorite shoes because they are comfortable.",
+    "translation": "Estes são meus sapatos favoritos porque são confortáveis.",
+    "pronunciation": "/ðiːz ɑːr maɪ ˈfeɪvərɪt ʃuːz bɪˈkɔːz ðeɪ ɑːr ˈkʌmftərbl̩/",
+    "portuguesePhonetic": "[dhíz ár mái fêivorit chúz bikóz dhêi ár kâmftorbou]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_74",
+    "word": "Does Chinese food taste different from Japanese food?",
+    "translation": "A comida chinesa tem gosto diferente da japonesa?",
+    "pronunciation": "/dʌz tʃaɪˈniːz fuːd teɪst ˈdɪfrənt frəm ˌdʒæpəˈniːz fuːd/",
+    "portuguesePhonetic": "[dâz tchainíz fúd têist dífrent from djapaníz fúd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_75",
+    "word": "You look happy today, but yesterday you seemed tired.",
+    "translation": "Você parece feliz hoje, mas ontem parecia cansado.",
+    "pronunciation": "/juː lʊk ˈhæpi təˈdeɪ bʌt ˈjɛstərdeɪ juː siːmd ˈtaɪərd/",
+    "portuguesePhonetic": "[iú lúk rrépi tudêi bât iéster dei iú símd táierd]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_76",
+    "word": "\"Is this book interesting?\" / \"Yes, very.\"",
+    "translation": "\"Este livro é interessante?\" / \"Sim, muito.\"",
+    "pronunciation": "/ɪz ðɪs bʊk ˈɪntrəstɪŋ · jɛs ˈvɛri/",
+    "portuguesePhonetic": "[iz dhís búk íntrestin · iés véri]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_77",
+    "word": "\"How do I look?\" / \"You look great.\"",
+    "translation": "\"Como eu estou?\" / \"Você está ótimo.\"",
+    "pronunciation": "/haʊ duː aɪ lʊk · juː lʊk ɡreɪt/",
+    "portuguesePhonetic": "[rráu dú ái lúk · iú lúk grêit]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_78",
+    "word": "\"Does the soup taste good?\" / \"No, it's horrible.\"",
+    "translation": "\"A sopa está boa de gosto?\" / \"Não, está horrível.\"",
+    "pronunciation": "/dʌz ðə suːp teɪst ɡʊd · noʊ ɪts ˈhɔːrəbl̩/",
+    "portuguesePhonetic": "[dâz dha súp têist gúd · nôu íts rrórabou]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_79",
+    "word": "\"Do you like Chinese food?\" / \"Yes, I love it.\"",
+    "translation": "\"Você gosta de comida chinesa?\" / \"Sim, eu adoro.\"",
+    "pronunciation": "/duː juː laɪk tʃaɪˈniːz fuːd · jɛs aɪ lʌv ɪt/",
+    "portuguesePhonetic": "[dú iú láik tchainíz fúd · iés ái lâv ít]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_80",
+    "word": "\"Are these shoes new?\" / \"No, they're old.\"",
+    "translation": "\"Estes sapatos são novos?\" / \"Não, são velhos.\"",
+    "pronunciation": "/ɑːr ðiːz ʃuːz nuː · noʊ ðer oʊld/",
+    "portuguesePhonetic": "[ár dhíz chúz niú · nôu dhér ôuld]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_81",
+    "word": "\"What color are her eyes?\" / \"They're dark.\"",
+    "translation": "\"De que cor são os olhos dela?\" / \"São escuros.\"",
+    "pronunciation": "/wʌt ˈkʌlər ɑːr hɜːr aɪz · ðer dɑːrk/",
+    "portuguesePhonetic": "[uât kâler ár rrâr áiz · dhér dárk]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_82",
+    "word": "\"Does this sound interesting?\" / \"Yes, it does.\"",
+    "translation": "\"Isto parece interessante?\" / \"Sim, parece.\"",
+    "pronunciation": "/dʌz ðɪs saʊnd ˈɪntrəstɪŋ · jɛs ɪt dʌz/",
+    "portuguesePhonetic": "[dâz dhís sáund íntrestin · iés ít dâz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_83",
+    "word": "\"Do the cookies smell good?\" / \"Yes, delicious.\"",
+    "translation": "\"Os biscoitos cheiram bem?\" / \"Sim, delicioso.\"",
+    "pronunciation": "/duː ðə ˈkʊkiz smɛl ɡʊd · jɛs dɪˈlɪʃəs/",
+    "portuguesePhonetic": "[dú dha kúkiz smél gúd · iés delíchas]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_84",
+    "word": "\"Why do you look tired?\" / \"I didn't sleep well.\"",
+    "translation": "\"Por que você parece cansado?\" / \"Não dormi bem.\"",
+    "pronunciation": "/waɪ duː juː lʊk ˈtaɪərd · aɪ ˈdɪdnt sliːp wɛl/",
+    "portuguesePhonetic": "[uái dú iú lúk táierd · ái dídent slíp uél]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_85",
+    "word": "\"Is your teacher nice?\" / \"Yes, she's amazing.\"",
+    "translation": "\"Sua professora é legal?\" / \"Sim, ela é incrível.\"",
+    "pronunciation": "/ɪz jɔːr ˈtiːtʃər naɪs · jɛs ʃiːz əˈmeɪzɪŋ/",
+    "portuguesePhonetic": "[iz iór títcher náis · iés chíz amêizin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_86",
+    "word": "\"How does the cake taste?\" / \"It tastes sweet.\"",
+    "translation": "\"Como o bolo está de gosto?\" / \"Tem gosto doce.\"",
+    "pronunciation": "/haʊ dʌz ðə keɪk teɪst · ɪt teɪsts swiːt/",
+    "portuguesePhonetic": "[rráu dâz dha kêik têist · ít têists suít]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_87",
+    "word": "\"Are these your favorite shoes?\" / \"Yes, they are.\"",
+    "translation": "\"Estes são seus sapatos favoritos?\" / \"Sim, são.\"",
+    "pronunciation": "/ɑːr ðiːz jɔːr ˈfeɪvərɪt ʃuːz · jɛs ðeɪ ɑːr/",
+    "portuguesePhonetic": "[ár dhíz iór fêivorit chúz · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_88",
+    "word": "\"Is the movie boring?\" / \"A little, yes.\"",
+    "translation": "\"O filme é chato?\" / \"Um pouco, sim.\"",
+    "pronunciation": "/ɪz ðə ˈmuːvi ˈbɔːrɪŋ · ə ˈlɪtl̩ jɛs/",
+    "portuguesePhonetic": "[iz dha múvi bórin · a lítou iés]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_89",
+    "word": "\"Does the coffee smell fresh?\" / \"Yes, very fresh.\"",
+    "translation": "\"O café cheira fresco?\" / \"Sim, bem fresco.\"",
+    "pronunciation": "/dʌz ðə ˈkɔːfi smɛl frɛʃ · jɛs ˈvɛri frɛʃ/",
+    "portuguesePhonetic": "[dâz dha kófi smél fréch · iés véri fréch]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_90",
+    "word": "\"Are her eyes blue?\" / \"No, they're green.\"",
+    "translation": "\"Os olhos dela são azuis?\" / \"Não, são verdes.\"",
+    "pronunciation": "/ɑːr hɜːr aɪz bluː · noʊ ðer ɡriːn/",
+    "portuguesePhonetic": "[ár rrâr áiz blú · nôu dhér grín]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_91",
+    "word": "\"Does this idea sound good?\" / \"Yes, I like it.\"",
+    "translation": "\"Esta ideia parece boa?\" / \"Sim, eu gosto.\"",
+    "pronunciation": "/dʌz ðɪs aɪˈdiːə saʊnd ɡʊd · jɛs aɪ laɪk ɪt/",
+    "portuguesePhonetic": "[dâz dhís aidía sáund gúd · iés ái láik ít]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_92",
+    "word": "\"How do you feel?\" / \"I feel much better.\"",
+    "translation": "\"Como você se sente?\" / \"Me sinto bem melhor.\"",
+    "pronunciation": "/haʊ duː juː fiːl · aɪ fiːl mʌtʃ ˈbɛtər/",
+    "portuguesePhonetic": "[rráu dú iú fíou · ái fíou mâtch béter]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_93",
+    "word": "\"Is the food spicy?\" / \"Yes, a bit.\"",
+    "translation": "\"A comida é apimentada?\" / \"Sim, um pouco.\"",
+    "pronunciation": "/ɪz ðə fuːd ˈspaɪsi · jɛs ə bɪt/",
+    "portuguesePhonetic": "[iz dha fúd spáisi · iés a bít]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_94",
+    "word": "\"Are these videos old?\" / \"Yes, very old.\"",
+    "translation": "\"Estes vídeos são antigos?\" / \"Sim, bem antigos.\"",
+    "pronunciation": "/ɑːr ðiːz ˈvɪdioʊz oʊld · jɛs ˈvɛri oʊld/",
+    "portuguesePhonetic": "[ár dhíz vídiouz ôuld · iés véri ôuld]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_95",
+    "word": "\"Does the perfume smell nice?\" / \"Yes, lovely.\"",
+    "translation": "\"O perfume cheira bem?\" / \"Sim, adorável.\"",
+    "pronunciation": "/dʌz ðə ˈpɜːrfjuːm smɛl naɪs · jɛs ˈlʌvli/",
+    "portuguesePhonetic": "[dâz dha pârfium smél náis · iés lâvli]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_96",
+    "word": "\"Is the restaurant expensive?\" / \"No, it's cheap.\"",
+    "translation": "\"O restaurante é caro?\" / \"Não, é barato.\"",
+    "pronunciation": "/ɪz ðə ˈrɛstərɑːnt ɪkˈspɛnsɪv · noʊ ɪts tʃiːp/",
+    "portuguesePhonetic": "[iz dha réstorant ikspénsiv · nôu íts tchíp]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_97",
+    "word": "\"Do I look okay?\" / \"Yes, you look fine.\"",
+    "translation": "\"Eu estou bem?\" / \"Sim, você está bem.\"",
+    "pronunciation": "/duː aɪ lʊk oʊˈkeɪ · jɛs juː lʊk faɪn/",
+    "portuguesePhonetic": "[dú ái lúk ôukêi · iés iú lúk fáin]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_98",
+    "word": "\"Does it taste salty?\" / \"Yes, too salty.\"",
+    "translation": "\"Está salgado?\" / \"Sim, salgado demais.\"",
+    "pronunciation": "/dʌz ɪt teɪst ˈsɔːlti · jɛs tuː ˈsɔːlti/",
+    "portuguesePhonetic": "[dâz ít têist sólti · iés tú sólti]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_99",
+    "word": "\"Is this dress beautiful?\" / \"Yes, it is.\"",
+    "translation": "\"Este vestido é lindo?\" / \"Sim, é.\"",
+    "pronunciation": "/ɪz ðɪs drɛs ˈbjuːtɪfl̩ · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz dhís drés biútifou · iés ít iz]"
+  },
+  {
+    "id": "lesson_5_grammar_a1_en_card_100",
+    "word": "\"Why does she look sad?\" / \"I don't know.\"",
+    "translation": "\"Por que ela parece triste?\" / \"Não sei.\"",
+    "pronunciation": "/waɪ dʌz ʃiː lʊk sæd · aɪ doʊnt noʊ/",
+    "portuguesePhonetic": "[uái dâz chí lúk séd · ái dôunt nôu]"
+  }
+]

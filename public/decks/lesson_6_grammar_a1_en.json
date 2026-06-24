@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_6_grammar_a1_en_card_1",
+    "word": "I work",
+    "translation": "Eu trabalho",
+    "pronunciation": "/aɪ wɜːrk/",
+    "portuguesePhonetic": "[ái uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_2",
+    "word": "You work",
+    "translation": "Você trabalha",
+    "pronunciation": "/juː wɜːrk/",
+    "portuguesePhonetic": "[iú uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_3",
+    "word": "He works",
+    "translation": "Ele trabalha",
+    "pronunciation": "/hiː wɜːrks/",
+    "portuguesePhonetic": "[rrí uârks]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_4",
+    "word": "She works",
+    "translation": "Ela trabalha",
+    "pronunciation": "/ʃiː wɜːrks/",
+    "portuguesePhonetic": "[chí uârks]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_5",
+    "word": "It works",
+    "translation": "Funciona (coisa)",
+    "pronunciation": "/ɪt wɜːrks/",
+    "portuguesePhonetic": "[ít uârks]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_6",
+    "word": "We work",
+    "translation": "Nós trabalhamos",
+    "pronunciation": "/wiː wɜːrk/",
+    "portuguesePhonetic": "[uí uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_7",
+    "word": "They work",
+    "translation": "Eles trabalham",
+    "pronunciation": "/ðeɪ wɜːrk/",
+    "portuguesePhonetic": "[dhêi uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_8",
+    "word": "I don't work",
+    "translation": "Eu não trabalho",
+    "pronunciation": "/aɪ doʊnt wɜːrk/",
+    "portuguesePhonetic": "[ái dôunt uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_9",
+    "word": "You don't work",
+    "translation": "Você não trabalha",
+    "pronunciation": "/juː doʊnt wɜːrk/",
+    "portuguesePhonetic": "[iú dôunt uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_10",
+    "word": "He doesn't work",
+    "translation": "Ele não trabalha",
+    "pronunciation": "/hiː ˈdʌznt wɜːrk/",
+    "portuguesePhonetic": "[rrí dâznt uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_11",
+    "word": "She doesn't work",
+    "translation": "Ela não trabalha",
+    "pronunciation": "/ʃiː ˈdʌznt wɜːrk/",
+    "portuguesePhonetic": "[chí dâznt uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_12",
+    "word": "It doesn't work",
+    "translation": "Não funciona",
+    "pronunciation": "/ɪt ˈdʌznt wɜːrk/",
+    "portuguesePhonetic": "[ít dâznt uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_13",
+    "word": "We don't work",
+    "translation": "Nós não trabalhamos",
+    "pronunciation": "/wiː doʊnt wɜːrk/",
+    "portuguesePhonetic": "[uí dôunt uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_14",
+    "word": "They don't work",
+    "translation": "Eles não trabalham",
+    "pronunciation": "/ðeɪ doʊnt wɜːrk/",
+    "portuguesePhonetic": "[dhêi dôunt uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_15",
+    "word": "Do I work?",
+    "translation": "Eu trabalho?",
+    "pronunciation": "/duː aɪ wɜːrk/",
+    "portuguesePhonetic": "[dú ái uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_16",
+    "word": "Do you work?",
+    "translation": "Você trabalha?",
+    "pronunciation": "/duː juː wɜːrk/",
+    "portuguesePhonetic": "[dú iú uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_17",
+    "word": "Does he work?",
+    "translation": "Ele trabalha?",
+    "pronunciation": "/dʌz hiː wɜːrk/",
+    "portuguesePhonetic": "[dâz rrí uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_18",
+    "word": "Does she work?",
+    "translation": "Ela trabalha?",
+    "pronunciation": "/dʌz ʃiː wɜːrk/",
+    "portuguesePhonetic": "[dâz chí uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_19",
+    "word": "Do we work?",
+    "translation": "Nós trabalhamos?",
+    "pronunciation": "/duː wiː wɜːrk/",
+    "portuguesePhonetic": "[dú uí uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_20",
+    "word": "Do they work?",
+    "translation": "Eles trabalham?",
+    "pronunciation": "/duː ðeɪ wɜːrk/",
+    "portuguesePhonetic": "[dú dhêi uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_21",
+    "word": "Yes, I do.",
+    "translation": "Sim. (eu trabalho)",
+    "pronunciation": "/jɛs aɪ duː/",
+    "portuguesePhonetic": "[iés ái dú]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_22",
+    "word": "Yes, he does.",
+    "translation": "Sim. (ele trabalha)",
+    "pronunciation": "/jɛs hiː dʌz/",
+    "portuguesePhonetic": "[iés rrí dâz]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_23",
+    "word": "No, I don't.",
+    "translation": "Não. (eu não trabalho)",
+    "pronunciation": "/noʊ aɪ doʊnt/",
+    "portuguesePhonetic": "[nôu ái dôunt]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_24",
+    "word": "No, he doesn't.",
+    "translation": "Não. (ele não trabalha)",
+    "pronunciation": "/noʊ hiː ˈdʌznt/",
+    "portuguesePhonetic": "[nôu rrí dâznt]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_25",
+    "word": "He doesn't work.",
+    "translation": "Ele não trabalha. (regra: depois de doesn't o verbo perde o -s)",
+    "pronunciation": "/hiː ˈdʌznt wɜːrk/",
+    "portuguesePhonetic": "[rrí dâznt uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_26",
+    "word": "I work in an office.",
+    "translation": "Eu trabalho num escritório.",
+    "pronunciation": "/aɪ wɜːrk ɪn ən ˈɔːfɪs/",
+    "portuguesePhonetic": "[ái uârk in an ófis]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_27",
+    "word": "She works in a hospital.",
+    "translation": "Ela trabalha num hospital.",
+    "pronunciation": "/ʃiː wɜːrks ɪn ə ˈhɑːspɪtl̩/",
+    "portuguesePhonetic": "[chí uârks in a rráspitou]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_28",
+    "word": "He starts at nine.",
+    "translation": "Ele começa às nove.",
+    "pronunciation": "/hiː stɑːrts æt naɪn/",
+    "portuguesePhonetic": "[rrí stárts ét náin]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_29",
+    "word": "We finish at five.",
+    "translation": "Nós terminamos às cinco.",
+    "pronunciation": "/wiː ˈfɪnɪʃ æt faɪv/",
+    "portuguesePhonetic": "[uí fínich ét fáiv]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_30",
+    "word": "They work from home.",
+    "translation": "Eles trabalham de casa.",
+    "pronunciation": "/ðeɪ wɜːrk frəm hoʊm/",
+    "portuguesePhonetic": "[dhêi uârk from rrôum]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_31",
+    "word": "I wake up early.",
+    "translation": "Eu acordo cedo.",
+    "pronunciation": "/aɪ weɪk ʌp ˈɜːrli/",
+    "portuguesePhonetic": "[ái uêik âp ârli]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_32",
+    "word": "She drinks coffee every morning.",
+    "translation": "Ela toma café toda manhã.",
+    "pronunciation": "/ʃiː drɪŋks ˈkɔːfi ˈɛvri ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[chí drínks kófi évri mórnin]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_33",
+    "word": "He takes the bus to work.",
+    "translation": "Ele pega o ônibus para o trabalho.",
+    "pronunciation": "/hiː teɪks ðə bʌs tə wɜːrk/",
+    "portuguesePhonetic": "[rrí têiks dha bâs tu uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_34",
+    "word": "We have breakfast together.",
+    "translation": "Nós tomamos café da manhã juntos.",
+    "pronunciation": "/wiː hæv ˈbrɛkfəst təˈɡɛðər/",
+    "portuguesePhonetic": "[uí rrév brékfest tuguédher]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_35",
+    "word": "I play soccer on weekends.",
+    "translation": "Eu jogo futebol nos fins de semana.",
+    "pronunciation": "/aɪ pleɪ ˈsɑːkər ɑːn ˈwiːkɛndz/",
+    "portuguesePhonetic": "[ái plêi sáker ón uíkendz]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_36",
+    "word": "She reads before bed.",
+    "translation": "Ela lê antes de dormir.",
+    "pronunciation": "/ʃiː riːdz bɪˈfɔːr bɛd/",
+    "portuguesePhonetic": "[chí rídz bifór béd]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_37",
+    "word": "He watches TV at night.",
+    "translation": "Ele assiste TV à noite.",
+    "pronunciation": "/hiː ˈwɑːtʃɪz ˌtiːˈviː æt naɪt/",
+    "portuguesePhonetic": "[rrí uátchiz ti-ví ét náit]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_38",
+    "word": "They go to the gym.",
+    "translation": "Eles vão à academia.",
+    "pronunciation": "/ðeɪ ɡoʊ tə ðə dʒɪm/",
+    "portuguesePhonetic": "[dhêi gôu tu dha djím]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_39",
+    "word": "Do you live near here?",
+    "translation": "Você mora perto daqui?",
+    "pronunciation": "/duː juː lɪv nɪr hɪr/",
+    "portuguesePhonetic": "[dú iú lív nír rrír]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_40",
+    "word": "Does she speak English?",
+    "translation": "Ela fala inglês?",
+    "pronunciation": "/dʌz ʃiː spiːk ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "[dâz chí spík ínglich]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_41",
+    "word": "What time do you start work?",
+    "translation": "A que horas você começa a trabalhar?",
+    "pronunciation": "/wʌt taɪm duː juː stɑːrt wɜːrk/",
+    "portuguesePhonetic": "[uât táim dú iú stárt uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_42",
+    "word": "Where does he live?",
+    "translation": "Onde ele mora?",
+    "pronunciation": "/wɛr dʌz hiː lɪv/",
+    "portuguesePhonetic": "[uér dâz rrí lív]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_43",
+    "word": "I don't drink coffee.",
+    "translation": "Eu não tomo café.",
+    "pronunciation": "/aɪ doʊnt drɪŋk ˈkɔːfi/",
+    "portuguesePhonetic": "[ái dôunt drínk kófi]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_44",
+    "word": "He doesn't eat meat.",
+    "translation": "Ele não come carne.",
+    "pronunciation": "/hiː ˈdʌznt iːt miːt/",
+    "portuguesePhonetic": "[rrí dâznt ít mít]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_45",
+    "word": "We don't work on Sundays.",
+    "translation": "Nós não trabalhamos aos domingos.",
+    "pronunciation": "/wiː doʊnt wɜːrk ɑːn ˈsʌndeɪz/",
+    "portuguesePhonetic": "[uí dôunt uârk ón sândeiz]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_46",
+    "word": "This phone doesn't work.",
+    "translation": "Este celular não funciona.",
+    "pronunciation": "/ðɪs foʊn ˈdʌznt wɜːrk/",
+    "portuguesePhonetic": "[dhís fôun dâznt uârk]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_47",
+    "word": "The elevator works now.",
+    "translation": "O elevador funciona agora.",
+    "pronunciation": "/ðə ˈɛləveɪtər wɜːrks naʊ/",
+    "portuguesePhonetic": "[dhi élaveiter uârks náu]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_48",
+    "word": "The store opens at eight.",
+    "translation": "A loja abre às oito.",
+    "pronunciation": "/ðə stɔːr ˈoʊpənz æt eɪt/",
+    "portuguesePhonetic": "[dha stór ôupanz ét êit]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_49",
+    "word": "It closes at ten.",
+    "translation": "Fecha às dez.",
+    "pronunciation": "/ɪt ˈkloʊzɪz æt tɛn/",
+    "portuguesePhonetic": "[ít klôuziz ét tén]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_50",
+    "word": "The train leaves on time.",
+    "translation": "O trem sai na hora.",
+    "pronunciation": "/ðə treɪn liːvz ɑːn taɪm/",
+    "portuguesePhonetic": "[dha trêin lívz ón táim]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_51",
+    "word": "I work every day.",
+    "translation": "Eu trabalho todo dia.",
+    "pronunciation": "/aɪ wɜːrk ˈɛvri deɪ/",
+    "portuguesePhonetic": "[ái uârk évri dêi]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_52",
+    "word": "She likes coffee.",
+    "translation": "Ela gosta de café.",
+    "pronunciation": "/ʃiː laɪks ˈkɔːfi/",
+    "portuguesePhonetic": "[chí láiks kófi]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_53",
+    "word": "He plays the guitar.",
+    "translation": "Ele toca violão.",
+    "pronunciation": "/hiː pleɪz ðə ɡɪˈtɑːr/",
+    "portuguesePhonetic": "[rrí plêiz dha guitár]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_54",
+    "word": "We study English.",
+    "translation": "Nós estudamos inglês.",
+    "pronunciation": "/wiː ˈstʌdi ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "[uí stâdi ínglich]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_55",
+    "word": "I always wake up early.",
+    "translation": "Eu sempre acordo cedo.",
+    "pronunciation": "/aɪ ˈɔːlweɪz weɪk ʌp ˈɜːrli/",
+    "portuguesePhonetic": "[ái ólueiz uêik âp ârli]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_56",
+    "word": "She usually works late.",
+    "translation": "Ela geralmente trabalha até tarde.",
+    "pronunciation": "/ʃiː ˈjuːʒuəli wɜːrks leɪt/",
+    "portuguesePhonetic": "[chí iújuali uârks lêit]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_57",
+    "word": "He never eats breakfast.",
+    "translation": "Ele nunca toma café da manhã.",
+    "pronunciation": "/hiː ˈnɛvər iːts ˈbrɛkfəst/",
+    "portuguesePhonetic": "[rrí néver íts brékfest]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_58",
+    "word": "They often visit us.",
+    "translation": "Eles nos visitam com frequência.",
+    "pronunciation": "/ðeɪ ˈɔːfn̩ ˈvɪzɪt ʌs/",
+    "portuguesePhonetic": "[dhêi ófen vízit âs]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_59",
+    "word": "Do you work on Saturdays?",
+    "translation": "Você trabalha aos sábados?",
+    "pronunciation": "/duː juː wɜːrk ɑːn ˈsætərdeɪz/",
+    "portuguesePhonetic": "[dú iú uârk ón séterdeiz]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_60",
+    "word": "Does he understand Spanish?",
+    "translation": "Ele entende espanhol?",
+    "pronunciation": "/dʌz hiː ˌʌndərˈstænd ˈspænɪʃ/",
+    "portuguesePhonetic": "[dâz rrí andersténd spénich]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_61",
+    "word": "She doesn't like the city.",
+    "translation": "Ela não gosta da cidade.",
+    "pronunciation": "/ʃiː ˈdʌznt laɪk ðə ˈsɪti/",
+    "portuguesePhonetic": "[chí dâznt láik dha síti]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_62",
+    "word": "Why does he work so much?",
+    "translation": "Por que ele trabalha tanto?",
+    "pronunciation": "/waɪ dʌz hiː wɜːrk soʊ mʌtʃ/",
+    "portuguesePhonetic": "[uái dâz rrí uârk sôu mâtch]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_63",
+    "word": "I work because I need money.",
+    "translation": "Eu trabalho porque preciso de dinheiro.",
+    "pronunciation": "/aɪ wɜːrk bɪˈkɔːz aɪ niːd ˈmʌni/",
+    "portuguesePhonetic": "[ái uârk bikóz ái níd mâni]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_64",
+    "word": "She studies when she has time.",
+    "translation": "Ela estuda quando tem tempo.",
+    "pronunciation": "/ʃiː ˈstʌdiz wɛn ʃiː hæz taɪm/",
+    "portuguesePhonetic": "[chí stâdiz uén chí rréz táim]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_65",
+    "word": "He works hard, but he earns little.",
+    "translation": "Ele trabalha duro, mas ganha pouco.",
+    "pronunciation": "/hiː wɜːrks hɑːrd bʌt hiː ɜːrnz ˈlɪtl̩/",
+    "portuguesePhonetic": "[rrí uârks rrárd bât rrí ârnz lítou]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_66",
+    "word": "We don't work on holidays, so we relax.",
+    "translation": "Não trabalhamos nos feriados, então relaxamos.",
+    "pronunciation": "/wiː doʊnt wɜːrk ɑːn ˈhɑːlədeɪz soʊ wiː rɪˈlæks/",
+    "portuguesePhonetic": "[uí dôunt uârk ón rráladeiz sôu uí riléks]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_67",
+    "word": "When the store opens, people go in.",
+    "translation": "Quando a loja abre, as pessoas entram.",
+    "pronunciation": "/wɛn ðə stɔːr ˈoʊpənz ˈpiːpl̩ ɡoʊ ɪn/",
+    "portuguesePhonetic": "[uén dha stór ôupanz pípou gôu ín]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_68",
+    "word": "She works in a bank, but she wants to change jobs.",
+    "translation": "Ela trabalha num banco, mas quer mudar de emprego.",
+    "pronunciation": "/ʃiː wɜːrks ɪn ə bæŋk bʌt ʃiː wɑːnts tə tʃeɪndʒ dʒɑːbz/",
+    "portuguesePhonetic": "[chí uârks in a bénk bât chí uánts tu tchêindj djóbz]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_69",
+    "word": "He doesn't eat meat because he is vegetarian.",
+    "translation": "Ele não come carne porque é vegetariano.",
+    "pronunciation": "/hiː ˈdʌznt iːt miːt bɪˈkɔːz hiː ɪz ˌvɛdʒəˈtɛriən/",
+    "portuguesePhonetic": "[rrí dâznt ít mít bikóz rrí iz vedjetérian]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_70",
+    "word": "If it doesn't work, we'll call a technician.",
+    "translation": "Se não funcionar, vamos chamar um técnico.",
+    "pronunciation": "/ɪf ɪt ˈdʌznt wɜːrk wiːl kɔːl ə tɛkˈnɪʃn̩/",
+    "portuguesePhonetic": "[if ít dâznt uârk uíou kól a tekníchan]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_71",
+    "word": "Do you know what time the museum opens?",
+    "translation": "Você sabe a que horas o museu abre?",
+    "pronunciation": "/duː juː noʊ wʌt taɪm ðə mjuˈziːəm ˈoʊpənz/",
+    "portuguesePhonetic": "[dú iú nôu uât táim dha miuzíam ôupanz]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_72",
+    "word": "He never complains, even when he is tired.",
+    "translation": "Ele nunca reclama, mesmo quando está cansado.",
+    "pronunciation": "/hiː ˈnɛvər kəmˈpleɪnz ˈiːvn̩ wɛn hiː ɪz ˈtaɪərd/",
+    "portuguesePhonetic": "[rrí néver kompleinz ívan uén rrí iz táierd]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_73",
+    "word": "My computer doesn't work, so I use my phone.",
+    "translation": "Meu computador não funciona, então uso meu celular.",
+    "pronunciation": "/maɪ kəmˈpjuːtər ˈdʌznt wɜːrk soʊ aɪ juːz maɪ foʊn/",
+    "portuguesePhonetic": "[mái kompiúter dâznt uârk sôu ái iúz mái fôun]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_74",
+    "word": "Does she really speak four languages fluently?",
+    "translation": "Ela realmente fala quatro idiomas fluentemente?",
+    "pronunciation": "/dʌz ʃiː ˈrɪli spiːk fɔːr ˈlæŋɡwɪdʒɪz ˈfluːəntli/",
+    "portuguesePhonetic": "[dâz chí ríli spík fór léNguidjiz flúentli]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_75",
+    "word": "They work together, but they live in different cities.",
+    "translation": "Eles trabalham juntos, mas moram em cidades diferentes.",
+    "pronunciation": "/ðeɪ wɜːrk təˈɡɛðər bʌt ðeɪ lɪv ɪn ˈdɪfrənt ˈsɪtiz/",
+    "portuguesePhonetic": "[dhêi uârk tuguédher bât dhêi lív in dífrent sítiz]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_76",
+    "word": "\"Do you work here?\" / \"Yes, I do.\"",
+    "translation": "\"Você trabalha aqui?\" / \"Sim, trabalho.\"",
+    "pronunciation": "/duː juː wɜːrk hɪr · jɛs aɪ duː/",
+    "portuguesePhonetic": "[dú iú uârk rrír · iés ái dú]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_77",
+    "word": "\"Does she work on weekends?\" / \"No, she doesn't.\"",
+    "translation": "\"Ela trabalha nos fins de semana?\" / \"Não, não trabalha.\"",
+    "pronunciation": "/dʌz ʃiː wɜːrk ɑːn ˈwiːkɛndz · noʊ ʃiː ˈdʌznt/",
+    "portuguesePhonetic": "[dâz chí uârk ón uíkendz · nôu chí dâznt]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_78",
+    "word": "\"Where do you work?\" / \"In a hospital.\"",
+    "translation": "\"Onde você trabalha?\" / \"Num hospital.\"",
+    "pronunciation": "/wɛr duː juː wɜːrk · ɪn ə ˈhɑːspɪtl̩/",
+    "portuguesePhonetic": "[uér dú iú uârk · in a rráspitou]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_79",
+    "word": "\"Does he speak English?\" / \"Yes, a little.\"",
+    "translation": "\"Ele fala inglês?\" / \"Sim, um pouco.\"",
+    "pronunciation": "/dʌz hiː spiːk ˈɪŋɡlɪʃ · jɛs ə ˈlɪtl̩/",
+    "portuguesePhonetic": "[dâz rrí spík ínglich · iés a lítou]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_80",
+    "word": "\"Do they live nearby?\" / \"No, they don't.\"",
+    "translation": "\"Eles moram por perto?\" / \"Não, não moram.\"",
+    "pronunciation": "/duː ðeɪ lɪv ˈnɪrbaɪ · noʊ ðeɪ doʊnt/",
+    "portuguesePhonetic": "[dú dhêi lív nírbai · nôu dhêi dôunt]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_81",
+    "word": "\"What time do you start?\" / \"At nine.\"",
+    "translation": "\"A que horas você começa?\" / \"Às nove.\"",
+    "pronunciation": "/wʌt taɪm duː juː stɑːrt · æt naɪn/",
+    "portuguesePhonetic": "[uât táim dú iú stárt · ét náin]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_82",
+    "word": "\"Does this work?\" / \"No, it doesn't.\"",
+    "translation": "\"Isto funciona?\" / \"Não, não funciona.\"",
+    "pronunciation": "/dʌz ðɪs wɜːrk · noʊ ɪt ˈdʌznt/",
+    "portuguesePhonetic": "[dâz dhís uârk · nôu ít dâznt]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_83",
+    "word": "\"Do you like your job?\" / \"Yes, I love it.\"",
+    "translation": "\"Você gosta do seu trabalho?\" / \"Sim, eu adoro.\"",
+    "pronunciation": "/duː juː laɪk jɔːr dʒɑːb · jɛs aɪ lʌv ɪt/",
+    "portuguesePhonetic": "[dú iú láik iór djób · iés ái lâv ít]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_84",
+    "word": "\"Does she drive to work?\" / \"No, she takes the bus.\"",
+    "translation": "\"Ela vai de carro pro trabalho?\" / \"Não, pega o ônibus.\"",
+    "pronunciation": "/dʌz ʃiː draɪv tə wɜːrk · noʊ ʃiː teɪks ðə bʌs/",
+    "portuguesePhonetic": "[dâz chí dráiv tu uârk · nôu chí têiks dha bâs]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_85",
+    "word": "\"Do we have class today?\" / \"Yes, we do.\"",
+    "translation": "\"Temos aula hoje?\" / \"Sim, temos.\"",
+    "pronunciation": "/duː wiː hæv klæs təˈdeɪ · jɛs wiː duː/",
+    "portuguesePhonetic": "[dú uí rrév klés tudêi · iés uí dú]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_86",
+    "word": "\"What does he do?\" / \"He's a teacher.\"",
+    "translation": "\"O que ele faz?\" / \"Ele é professor.\"",
+    "pronunciation": "/wʌt dʌz hiː duː · hiːz ə ˈtiːtʃər/",
+    "portuguesePhonetic": "[uât dâz rrí dú · rríz a títcher]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_87",
+    "word": "\"Does it work now?\" / \"Yes, it does.\"",
+    "translation": "\"Funciona agora?\" / \"Sim, funciona.\"",
+    "pronunciation": "/dʌz ɪt wɜːrk naʊ · jɛs ɪt dʌz/",
+    "portuguesePhonetic": "[dâz ít uârk náu · iés ít dâz]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_88",
+    "word": "\"Do you drink coffee?\" / \"No, I don't.\"",
+    "translation": "\"Você toma café?\" / \"Não, não tomo.\"",
+    "pronunciation": "/duː juː drɪŋk ˈkɔːfi · noʊ aɪ doʊnt/",
+    "portuguesePhonetic": "[dú iú drínk kófi · nôu ái dôunt]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_89",
+    "word": "\"Does the store open early?\" / \"Yes, at eight.\"",
+    "translation": "\"A loja abre cedo?\" / \"Sim, às oito.\"",
+    "pronunciation": "/dʌz ðə stɔːr ˈoʊpən ˈɜːrli · jɛs æt eɪt/",
+    "portuguesePhonetic": "[dâz dha stór ôupan ârli · iés ét êit]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_90",
+    "word": "\"Do they study every day?\" / \"Yes, they do.\"",
+    "translation": "\"Eles estudam todo dia?\" / \"Sim, estudam.\"",
+    "pronunciation": "/duː ðeɪ ˈstʌdi ˈɛvri deɪ · jɛs ðeɪ duː/",
+    "portuguesePhonetic": "[dú dhêi stâdi évri dêi · iés dhêi dú]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_91",
+    "word": "\"Does your brother work?\" / \"No, he's a student.\"",
+    "translation": "\"Seu irmão trabalha?\" / \"Não, é estudante.\"",
+    "pronunciation": "/dʌz jɔːr ˈbrʌðər wɜːrk · noʊ hiːz ə ˈstuːdənt/",
+    "portuguesePhonetic": "[dâz iór brâdher uârk · nôu rríz a stúdent]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_92",
+    "word": "\"What time does it close?\" / \"At ten.\"",
+    "translation": "\"A que horas fecha?\" / \"Às dez.\"",
+    "pronunciation": "/wʌt taɪm dʌz ɪt kloʊz · æt tɛn/",
+    "portuguesePhonetic": "[uât táim dâz ít klôuz · ét tén]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_93",
+    "word": "\"Do you understand?\" / \"Yes, I do.\"",
+    "translation": "\"Você entende?\" / \"Sim, entendo.\"",
+    "pronunciation": "/duː juː ˌʌndərˈstænd · jɛs aɪ duː/",
+    "portuguesePhonetic": "[dú iú andersténd · iés ái dú]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_94",
+    "word": "\"Does she like the city?\" / \"No, she doesn't.\"",
+    "translation": "\"Ela gosta da cidade?\" / \"Não, não gosta.\"",
+    "pronunciation": "/dʌz ʃiː laɪk ðə ˈsɪti · noʊ ʃiː ˈdʌznt/",
+    "portuguesePhonetic": "[dâz chí láik dha síti · nôu chí dâznt]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_95",
+    "word": "\"Do they work from home?\" / \"Yes, they do.\"",
+    "translation": "\"Eles trabalham de casa?\" / \"Sim, trabalham.\"",
+    "pronunciation": "/duː ðeɪ wɜːrk frəm hoʊm · jɛs ðeɪ duː/",
+    "portuguesePhonetic": "[dú dhêi uârk from rrôum · iés dhêi dú]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_96",
+    "word": "\"Does he eat meat?\" / \"No, he doesn't.\"",
+    "translation": "\"Ele come carne?\" / \"Não, não come.\"",
+    "pronunciation": "/dʌz hiː iːt miːt · noʊ hiː ˈdʌznt/",
+    "portuguesePhonetic": "[dâz rrí ít mít · nôu rrí dâznt]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_97",
+    "word": "\"Do you play any sport?\" / \"Yes, I play tennis.\"",
+    "translation": "\"Você pratica algum esporte?\" / \"Sim, jogo tênis.\"",
+    "pronunciation": "/duː juː pleɪ ˈɛni spɔːrt · jɛs aɪ pleɪ ˈtɛnɪs/",
+    "portuguesePhonetic": "[dú iú plêi éni spórt · iés ái plêi ténis]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_98",
+    "word": "\"Does the bus stop here?\" / \"Yes, it does.\"",
+    "translation": "\"O ônibus para aqui?\" / \"Sim, para.\"",
+    "pronunciation": "/dʌz ðə bʌs stɑːp hɪr · jɛs ɪt dʌz/",
+    "portuguesePhonetic": "[dâz dha bâs stáp rrír · iés ít dâz]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_99",
+    "word": "\"Do you work alone?\" / \"No, with a team.\"",
+    "translation": "\"Você trabalha sozinho?\" / \"Não, com uma equipe.\"",
+    "pronunciation": "/duː juː wɜːrk əˈloʊn · noʊ wɪð ə tiːm/",
+    "portuguesePhonetic": "[dú iú uârk alôun · nôu uídh a tím]"
+  },
+  {
+    "id": "lesson_6_grammar_a1_en_card_100",
+    "word": "\"Does she know the answer?\" / \"Yes, she does.\"",
+    "translation": "\"Ela sabe a resposta?\" / \"Sim, sabe.\"",
+    "pronunciation": "/dʌz ʃiː noʊ ðə ˈænsər · jɛs ʃiː dʌz/",
+    "portuguesePhonetic": "[dâz chí nôu dhi énser · iés chí dâz]"
+  }
+]
