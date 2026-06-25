@@ -578,8 +578,8 @@ const App: React.FC = () => {
                                         style={{ width: `${progressPercent}%` }}
                                       />
                                     </div>
-                                    <div className="flex items-center w-full">
-                                      <div className="w-full">
+                                    <div className="flex items-center w-full min-w-0">
+                                      <div className="w-full min-w-0">
                                         <div className="flex items-center mb-1">
                                           <span className="font-bold text-slate-800 dark:text-white text-lg mr-2 group-hover:text-indigo-700 dark:group-hover:text-indigo-400">
                                             {topic.label}
@@ -590,7 +590,9 @@ const App: React.FC = () => {
                                               : `${displayLearnedCount} / ${totalCards}`}
                                           </span>
                                         </div>
-                                        <div className="flex gap-3 text-sm min-h-[1.25rem]"></div>
+                                        <div className="flex gap-3 text-sm min-h-[1.25rem] text-slate-500 dark:text-slate-400">
+                                          {topic.description && <span className="truncate">{topic.description}</span>}
+                                        </div>
                                       </div>
                                     </div>
                                   </div>
