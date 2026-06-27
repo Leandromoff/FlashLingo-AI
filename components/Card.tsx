@@ -381,7 +381,7 @@ const Card: React.FC<CardProps> = ({
 
   return (
     <div 
-      className="group w-full h-[600px] cursor-pointer perspective-1000"
+      className="group w-full h-[450px] sm:h-[500px] md:h-[600px] cursor-pointer perspective-1000"
       onClick={onFlip}
     >
       <div className={`relative w-full h-full transition-all duration-500 transform-style-3d shadow-xl dark:shadow-2xl dark:shadow-indigo-900/20 rounded-3xl ${isFlipped ? 'rotate-y-180' : ''}`}>
@@ -437,10 +437,10 @@ const Card: React.FC<CardProps> = ({
           </div>
           
           {/* Content Container */}
-          <div className="flex flex-col items-center text-center w-full flex-grow justify-center mt-6">
+          <div className="flex flex-col items-center text-center w-full flex-grow justify-center mt-2 md:mt-6">
             
             {/* Word Section */}
-            <div className="flex flex-col items-center gap-2 w-full mt-8">
+            <div className="flex flex-col items-center gap-2 w-full mt-4 md:mt-8">
               {renderWord()}
               
               {/* Combined Pill based on selections */}
@@ -508,7 +508,7 @@ const Card: React.FC<CardProps> = ({
             </div>
             
             {/* Controls Container */}
-            <div className="flex flex-col items-center mb-2 mt-8">
+            <div className="flex flex-col items-center mb-2 mt-4 md:mt-8">
               <div className="flex items-center gap-6 md:gap-8 justify-center">
                 
                 {/* Local Audio (Áudio Rápido) Column */}
@@ -696,7 +696,7 @@ const Card: React.FC<CardProps> = ({
             </button>
           </div>
 
-          <div className="flex flex-col items-center text-center space-y-4 w-full h-full justify-center">
+          <div className="flex flex-col items-center text-center space-y-2 md:space-y-4 w-full h-full justify-center">
             
             <div className="shrink-0 w-full px-4">
                <p className="text-slate-400 dark:text-slate-500 text-xs uppercase font-bold mb-2">Palavra</p>

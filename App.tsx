@@ -722,8 +722,8 @@ const App: React.FC = () => {
     if (!session || !session.cards[session.currentIndex]) return null;
     const currentCard = session.cards[session.currentIndex];
     return (
-      <div className="max-w-xl mx-auto px-6 py-8 flex flex-col items-center min-h-screen justify-center">
-        <div className="w-full flex justify-between items-center mb-8">
+      <div className="max-w-xl mx-auto px-4 py-4 md:px-6 md:py-8 flex flex-col items-center min-h-[100dvh] justify-center">
+        <div className="w-full flex justify-between items-center mb-4 md:mb-8">
           <button
             onClick={resetApp}
             className="text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 p-2"
@@ -741,7 +741,7 @@ const App: React.FC = () => {
           current={session.currentIndex}
           total={session.cards.length}
         />
-        <div className="w-full mb-10">
+        <div className="w-full mb-4 md:mb-10">
           <Card
             key={currentCard.id}
             data={currentCard}
