@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_1",
+    "word": "burst out laughing",
+    "translation": "cair na gargalhada",
+    "pronunciation": "/bɜːrst aʊt ˈlæfɪŋ/",
+    "portuguesePhonetic": "[bârst áut léfin]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_2",
+    "word": "crack (someone) up",
+    "translation": "fazer (alguém) morrer de rir",
+    "pronunciation": "/kræk ˈsʌmwʌn ʌp/",
+    "portuguesePhonetic": "[krék sâmuan âp]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_3",
+    "word": "laugh your head off",
+    "translation": "rir muito, sem parar",
+    "pronunciation": "/læf jɔːr hɛd ɔːf/",
+    "portuguesePhonetic": "[léf iór rréd óf]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_4",
+    "word": "be over the moon",
+    "translation": "estar nas nuvens (muito feliz)",
+    "pronunciation": "/biː ˈoʊvər ðə muːn/",
+    "portuguesePhonetic": "[bí ôuver dha mún]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_5",
+    "word": "be thrilled to bits",
+    "translation": "estar contentíssimo e animado",
+    "pronunciation": "/biː θrɪld tə bɪts/",
+    "portuguesePhonetic": "[bí thríld tu bíts]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_6",
+    "word": "be chuffed (UK)",
+    "translation": "estar orgulhoso/contente (US: be pleased)",
+    "pronunciation": "/biː tʃʌft/",
+    "portuguesePhonetic": "[bí tchâft]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_7",
+    "word": "cringe (at something)",
+    "translation": "sentir vergonha alheia / constrangimento",
+    "pronunciation": "/krɪndʒ/",
+    "portuguesePhonetic": "[kríndj]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_8",
+    "word": "make a fool of yourself",
+    "translation": "fazer papel de bobo",
+    "pronunciation": "/meɪk ə fuːl əv jɔːrˈsɛlf/",
+    "portuguesePhonetic": "[mêik a fúl ov iorsélf]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_9",
+    "word": "be mortified",
+    "translation": "ficar extremamente envergonhado",
+    "pronunciation": "/biː ˈmɔːrtɪfaɪd/",
+    "portuguesePhonetic": "[bí mórtifaid]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_10",
+    "word": "go red",
+    "translation": "ficar vermelho (de vergonha)",
+    "pronunciation": "/ɡoʊ rɛd/",
+    "portuguesePhonetic": "[gôu réd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_11",
+    "word": "clam up",
+    "translation": "travar / emudecer (de nervoso ou timidez)",
+    "pronunciation": "/klæm ʌp/",
+    "portuguesePhonetic": "[klém âp]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_12",
+    "word": "lose your temper",
+    "translation": "perder a cabeça / a paciência",
+    "pronunciation": "/luːz jɔːr ˈtɛmpər/",
+    "portuguesePhonetic": "[lúz iór témper]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_13",
+    "word": "freak out",
+    "translation": "surtar / pirar",
+    "pronunciation": "/friːk aʊt/",
+    "portuguesePhonetic": "[frík áut]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_14",
+    "word": "be gutted (UK)",
+    "translation": "ficar arrasado/decepcionado (US: be devastated)",
+    "pronunciation": "/biː ˈɡʌtɪd/",
+    "portuguesePhonetic": "[bí gâted]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_15",
+    "word": "burst into tears",
+    "translation": "cair no choro / debulhar em lágrimas",
+    "pronunciation": "/bɜːrst ˈɪntə tɪrz/",
+    "portuguesePhonetic": "[bârst íntu tírz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_16",
+    "word": "be moved",
+    "translation": "ficar emocionado / comovido",
+    "pronunciation": "/biː muːvd/",
+    "portuguesePhonetic": "[bí múvd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_17",
+    "word": "be flustered",
+    "translation": "ficar nervoso e confuso",
+    "pronunciation": "/biː ˈflʌstərd/",
+    "portuguesePhonetic": "[bí flâsterd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_18",
+    "word": "be on edge",
+    "translation": "estar tenso / ansioso",
+    "pronunciation": "/biː ɑːn ɛdʒ/",
+    "portuguesePhonetic": "[bí ón édj]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_19",
+    "word": "be taken aback",
+    "translation": "ficar surpreso / pego de surpresa",
+    "pronunciation": "/biː ˈteɪkən əˈbæk/",
+    "portuguesePhonetic": "[bí têikan abék]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_20",
+    "word": "be overwhelmed",
+    "translation": "ficar sobrecarregado / sem conseguir lidar",
+    "pronunciation": "/biː ˌoʊvərˈwɛlmd/",
+    "portuguesePhonetic": "[bí ouveruélmd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_21",
+    "word": "be stressed out",
+    "translation": "estar muito estressado",
+    "pronunciation": "/biː strɛst aʊt/",
+    "portuguesePhonetic": "[bí strést áut]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_22",
+    "word": "cheer up",
+    "translation": "animar-se",
+    "pronunciation": "/tʃɪr ʌp/",
+    "portuguesePhonetic": "[tchír âp]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_23",
+    "word": "calm down",
+    "translation": "acalmar-se",
+    "pronunciation": "/kɑːm daʊn/",
+    "portuguesePhonetic": "[kám dáun]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_24",
+    "word": "be scared stiff",
+    "translation": "estar morto de medo",
+    "pronunciation": "/biː skɛrd stɪf/",
+    "portuguesePhonetic": "[bí skérd stíf]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_25",
+    "word": "be in a good mood",
+    "translation": "estar de bom humor",
+    "pronunciation": "/biː ɪn ə ɡʊd muːd/",
+    "portuguesePhonetic": "[bí in a gúd múd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_26",
+    "word": "We burst out laughing at his joke.",
+    "translation": "Nós caímos na gargalhada com a piada dele.",
+    "pronunciation": "/wiː bɜːrst aʊt ˈlæfɪŋ æt hɪz dʒoʊk/",
+    "portuguesePhonetic": "[uí bârst áut léfin ét rríz djôuk]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_27",
+    "word": "He always cracks me up.",
+    "translation": "Ele sempre me faz morrer de rir.",
+    "pronunciation": "/hiː ˈɔːlweɪz kræks miː ʌp/",
+    "portuguesePhonetic": "[rrí ólueiz kréks mí âp]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_28",
+    "word": "I laughed my head off at the movie.",
+    "translation": "Eu ri muito no filme.",
+    "pronunciation": "/aɪ læft maɪ hɛd ɔːf æt ðə ˈmuːvi/",
+    "portuguesePhonetic": "[ái léft mái rréd óf ét dha múvi]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_29",
+    "word": "She was over the moon about the news.",
+    "translation": "Ela ficou nas nuvens com a notícia.",
+    "pronunciation": "/ʃiː wəz ˈoʊvər ðə muːn əˈbaʊt ðə nuːz/",
+    "portuguesePhonetic": "[chí uâz ôuver dha mún abáut dha niúz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_30",
+    "word": "I'm thrilled to bits to see you.",
+    "translation": "Estou contentíssimo em te ver.",
+    "pronunciation": "/aɪm θrɪld tə bɪts tə siː juː/",
+    "portuguesePhonetic": "[áim thríld tu bíts tu sí iú]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_31",
+    "word": "I cringed at my old photos.",
+    "translation": "Senti vergonha das minhas fotos antigas.",
+    "pronunciation": "/aɪ krɪndʒd æt maɪ oʊld ˈfoʊtoʊz/",
+    "portuguesePhonetic": "[ái kríndjd ét mái ôuld fôutouz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_32",
+    "word": "I made a fool of myself at the party.",
+    "translation": "Eu fiz papel de bobo na festa.",
+    "pronunciation": "/aɪ meɪd ə fuːl əv maɪˈsɛlf æt ðə ˈpɑːrti/",
+    "portuguesePhonetic": "[ái mêid a fúl ov maisélf ét dha párti]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_33",
+    "word": "I was mortified when I forgot his name.",
+    "translation": "Fiquei envergonhadíssimo quando esqueci o nome dele.",
+    "pronunciation": "/aɪ wəz ˈmɔːrtɪfaɪd wɛn aɪ fərˈɡɑːt hɪz neɪm/",
+    "portuguesePhonetic": "[ái uâz mórtifaid uén ái forgát rríz nêim]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_34",
+    "word": "I went red when she looked at me.",
+    "translation": "Fiquei vermelho quando ela me olhou.",
+    "pronunciation": "/aɪ wɛnt rɛd wɛn ʃiː lʊkt æt miː/",
+    "portuguesePhonetic": "[ái uént réd uén chí lúkt ét mí]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_35",
+    "word": "He clams up when he's nervous.",
+    "translation": "Ele trava quando está nervoso.",
+    "pronunciation": "/hiː klæmz ʌp wɛn hiːz ˈnɜːrvəs/",
+    "portuguesePhonetic": "[rrí klémz âp uén rríz nârvas]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_36",
+    "word": "My boss lost his temper today.",
+    "translation": "Meu chefe perdeu a cabeça hoje.",
+    "pronunciation": "/maɪ bɔːs lɔːst hɪz ˈtɛmpər təˈdeɪ/",
+    "portuguesePhonetic": "[mái bós lóst rríz témper tudêi]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_37",
+    "word": "Don't freak out, we'll fix it.",
+    "translation": "Não surte, a gente resolve.",
+    "pronunciation": "/doʊnt friːk aʊt wiːl fɪks ɪt/",
+    "portuguesePhonetic": "[dôunt frík áut uíou fíks ít]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_38",
+    "word": "I'm so stressed out about work.",
+    "translation": "Estou muito estressado com o trabalho.",
+    "pronunciation": "/aɪm soʊ strɛst aʊt əˈbaʊt wɜːrk/",
+    "portuguesePhonetic": "[áim sôu strést áut abáut uârk]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_39",
+    "word": "She's on edge before the meeting.",
+    "translation": "Ela está tensa antes da reunião.",
+    "pronunciation": "/ʃiːz ɑːn ɛdʒ bɪˈfɔːr ðə ˈmiːtɪŋ/",
+    "portuguesePhonetic": "[chíz ón édj bifór dha mítin]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_40",
+    "word": "I get flustered when I'm in a hurry.",
+    "translation": "Eu fico nervoso e confuso quando estou com pressa.",
+    "pronunciation": "/aɪ ɡɛt ˈflʌstərd wɛn aɪm ɪn ə ˈhɜːri/",
+    "portuguesePhonetic": "[ái guét flâsterd uén áim in a rrâri]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_41",
+    "word": "He was gutted when his team lost.",
+    "translation": "Ele ficou arrasado quando o time perdeu.",
+    "pronunciation": "/hiː wəz ˈɡʌtɪd wɛn hɪz tiːm lɔːst/",
+    "portuguesePhonetic": "[rrí uâz gâted uén rríz tím lóst]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_42",
+    "word": "She burst into tears at the end.",
+    "translation": "Ela caiu no choro no final.",
+    "pronunciation": "/ʃiː bɜːrst ˈɪntə tɪrz æt ðə ɛnd/",
+    "portuguesePhonetic": "[chí bârst íntu tírz ét dhi énd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_43",
+    "word": "I was really moved by the speech.",
+    "translation": "Fiquei muito emocionado com o discurso.",
+    "pronunciation": "/aɪ wəz ˈrɪli muːvd baɪ ðə spiːtʃ/",
+    "portuguesePhonetic": "[ái uâz ríli múvd bái dha spítch]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_44",
+    "word": "I was taken aback by his reply.",
+    "translation": "Fiquei surpreso com a resposta dele.",
+    "pronunciation": "/aɪ wəz ˈteɪkən əˈbæk baɪ hɪz rɪˈplaɪ/",
+    "portuguesePhonetic": "[ái uâz têikan abék bái rríz riplái]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_45",
+    "word": "I'm overwhelmed by all the work.",
+    "translation": "Estou sobrecarregado com todo o trabalho.",
+    "pronunciation": "/aɪm ˌoʊvərˈwɛlmd baɪ ɔːl ðə wɜːrk/",
+    "portuguesePhonetic": "[áim ouveruélmd bái ól dha uârk]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_46",
+    "word": "Calm down and breathe.",
+    "translation": "Se acalme e respire.",
+    "pronunciation": "/kɑːm daʊn ænd briːð/",
+    "portuguesePhonetic": "[kám dáun énd brídh]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_47",
+    "word": "Cheer up, things will get better.",
+    "translation": "Anime-se, as coisas vão melhorar.",
+    "pronunciation": "/tʃɪr ʌp θɪŋz wɪl ɡɛt ˈbɛtər/",
+    "portuguesePhonetic": "[tchír âp thíNz uíou guét béter]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_48",
+    "word": "I was scared stiff during the storm.",
+    "translation": "Fiquei morto de medo durante a tempestade.",
+    "pronunciation": "/aɪ wəz skɛrd stɪf ˈdʊrɪŋ ðə stɔːrm/",
+    "portuguesePhonetic": "[ái uâz skérd stíf dúrin dha stórm]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_49",
+    "word": "She's in a good mood today.",
+    "translation": "Ela está de bom humor hoje.",
+    "pronunciation": "/ʃiːz ɪn ə ɡʊd muːd təˈdeɪ/",
+    "portuguesePhonetic": "[chíz in a gúd múd tudêi]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_50",
+    "word": "Try not to take it personally.",
+    "translation": "Tente não levar para o lado pessoal.",
+    "pronunciation": "/traɪ nɑːt tə teɪk ɪt ˈpɜːrsənəli/",
+    "portuguesePhonetic": "[trái nót tu têik ít pârsanali]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_51",
+    "word": "I freaked out.",
+    "translation": "Eu surtei.",
+    "pronunciation": "/aɪ friːkt aʊt/",
+    "portuguesePhonetic": "[ái fríkt áut]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_52",
+    "word": "She went red.",
+    "translation": "Ela ficou vermelha.",
+    "pronunciation": "/ʃiː wɛnt rɛd/",
+    "portuguesePhonetic": "[chí uént réd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_53",
+    "word": "He lost his temper.",
+    "translation": "Ele perdeu a cabeça.",
+    "pronunciation": "/hiː lɔːst hɪz ˈtɛmpər/",
+    "portuguesePhonetic": "[rrí lóst rríz témper]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_54",
+    "word": "We burst out laughing.",
+    "translation": "Nós caímos na gargalhada.",
+    "pronunciation": "/wiː bɜːrst aʊt ˈlæfɪŋ/",
+    "portuguesePhonetic": "[uí bârst áut léfin]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_55",
+    "word": "I was over the moon about the job.",
+    "translation": "Fiquei nas nuvens com o emprego.",
+    "pronunciation": "/aɪ wəz ˈoʊvər ðə muːn əˈbaʊt ðə dʒɑːb/",
+    "portuguesePhonetic": "[ái uâz ôuver dha mún abáut dha djób]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_56",
+    "word": "She always clams up in class.",
+    "translation": "Ela sempre trava na aula.",
+    "pronunciation": "/ʃiː ˈɔːlweɪz klæmz ʌp ɪn klæs/",
+    "portuguesePhonetic": "[chí ólueiz klémz âp in klés]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_57",
+    "word": "Don't freak out about the test.",
+    "translation": "Não surte com a prova.",
+    "pronunciation": "/doʊnt friːk aʊt əˈbaʊt ðə tɛst/",
+    "portuguesePhonetic": "[dôunt frík áut abáut dha tést]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_58",
+    "word": "I'm a bit on edge today.",
+    "translation": "Estou um pouco tenso hoje.",
+    "pronunciation": "/aɪm ə bɪt ɑːn ɛdʒ təˈdeɪ/",
+    "portuguesePhonetic": "[áim a bít ón édj tudêi]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_59",
+    "word": "Why did you freak out?",
+    "translation": "Por que você surtou?",
+    "pronunciation": "/waɪ dɪd juː friːk aʊt/",
+    "portuguesePhonetic": "[uái díd iú frík áut]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_60",
+    "word": "Did she burst into tears?",
+    "translation": "Ela caiu no choro?",
+    "pronunciation": "/dɪd ʃiː bɜːrst ˈɪntə tɪrz/",
+    "portuguesePhonetic": "[díd chí bârst íntu tírz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_61",
+    "word": "I didn't mean to make a fool of myself.",
+    "translation": "Eu não quis fazer papel de bobo.",
+    "pronunciation": "/aɪ ˈdɪdnt miːn tə meɪk ə fuːl əv maɪˈsɛlf/",
+    "portuguesePhonetic": "[ái dídent mín tu mêik a fúl ov maisélf]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_62",
+    "word": "Are you over the moon or just relieved?",
+    "translation": "Você está nas nuvens ou só aliviado?",
+    "pronunciation": "/ɑːr juː ˈoʊvər ðə muːn ɔːr dʒʌst rɪˈliːvd/",
+    "portuguesePhonetic": "[ár iú ôuver dha mún ór djâst rilívd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_63",
+    "word": "I went red because everyone was staring.",
+    "translation": "Fiquei vermelho porque todos estavam olhando.",
+    "pronunciation": "/aɪ wɛnt rɛd bɪˈkɔːz ˈɛvriwʌn wəz ˈstɛrɪŋ/",
+    "portuguesePhonetic": "[ái uént réd bikóz évriuan uâz stérin]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_64",
+    "word": "He lost his temper when the train was late.",
+    "translation": "Ele perdeu a cabeça quando o trem atrasou.",
+    "pronunciation": "/hiː lɔːst hɪz ˈtɛmpər wɛn ðə treɪn wəz leɪt/",
+    "portuguesePhonetic": "[rrí lóst rríz témper uén dha trêin uâz lêit]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_65",
+    "word": "She was gutted, but she didn't show it.",
+    "translation": "Ela ficou arrasada, mas não demonstrou.",
+    "pronunciation": "/ʃiː wəz ˈɡʌtɪd bʌt ʃiː ˈdɪdnt ʃoʊ ɪt/",
+    "portuguesePhonetic": "[chí uâz gâted bât chí dídent chôu ít]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_66",
+    "word": "I was moved to tears when I heard the song.",
+    "translation": "Fiquei emocionado às lágrimas quando ouvi a música.",
+    "pronunciation": "/aɪ wəz muːvd tə tɪrz wɛn aɪ hɜːrd ðə sɔːŋ/",
+    "portuguesePhonetic": "[ái uâz múvd tu tírz uén ái rrârd dha sóN]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_67",
+    "word": "We cracked up while he was telling the story.",
+    "translation": "Nós morremos de rir enquanto ele contava a história.",
+    "pronunciation": "/wiː krækt ʌp waɪl hiː wəz ˈtɛlɪŋ ðə ˈstɔːri/",
+    "portuguesePhonetic": "[uí krékt âp uáil rrí uâz télin dha stóri]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_68",
+    "word": "I get flustered when I have to speak in public, so I always practice first.",
+    "translation": "Eu fico nervoso quando tenho que falar em público, então sempre pratico antes.",
+    "pronunciation": "/aɪ ɡɛt ˈflʌstərd wɛn aɪ hæv tə spiːk ɪn ˈpʌblɪk soʊ aɪ ˈɔːlweɪz ˈpræktɪs fɜːrst/",
+    "portuguesePhonetic": "[ái guét flâsterd uén ái rrév tu spík in pâblik sôu ái ólueiz préktis fârst]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_69",
+    "word": "She was over the moon when she passed, but mortified that she cried.",
+    "translation": "Ela ficou nas nuvens ao passar, mas envergonhada por ter chorado.",
+    "pronunciation": "/ʃiː wəz ˈoʊvər ðə muːn wɛn ʃiː pæst bʌt ˈmɔːrtɪfaɪd ðæt ʃiː kraɪd/",
+    "portuguesePhonetic": "[chí uâz ôuver dha mún uén chí pést bât mórtifaid dhét chí kráid]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_70",
+    "word": "Whenever my brother cracks a joke, the whole family laughs their heads off.",
+    "translation": "Sempre que meu irmão conta uma piada, a família toda morre de rir.",
+    "pronunciation": "/wɛnˈɛvər maɪ ˈbrʌðər kræks ə dʒoʊk ðə hoʊl ˈfæməli læfs ðɛr hɛdz ɔːf/",
+    "portuguesePhonetic": "[uenéver mái brâdher kréks a djôuk dha rrôul fémili léfs dhér rrédz óf]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_71",
+    "word": "He clammed up during the interview because he was overwhelmed.",
+    "translation": "Ele travou na entrevista porque ficou sobrecarregado.",
+    "pronunciation": "/hiː klæmd ʌp ˈdʊrɪŋ ðə ˈɪntərvjuː bɪˈkɔːz hiː wəz ˌoʊvərˈwɛlmd/",
+    "portuguesePhonetic": "[rrí klémd âp dúrin dhi ínterviu bikóz rrí uâz ouveruélmd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_72",
+    "word": "I was taken aback when she suddenly burst into tears.",
+    "translation": "Fiquei surpreso quando ela de repente caiu no choro.",
+    "pronunciation": "/aɪ wəz ˈteɪkən əˈbæk wɛn ʃiː ˈsʌdənli bɜːrst ˈɪntə tɪrz/",
+    "portuguesePhonetic": "[ái uâz têikan abék uén chí sâdanli bârst íntu tírz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_73",
+    "word": "Try not to lose your temper, even when you're stressed out and on edge.",
+    "translation": "Tente não perder a cabeça, mesmo quando estiver estressado e tenso.",
+    "pronunciation": "/traɪ nɑːt tə luːz jɔːr ˈtɛmpər ˈiːvn̩ wɛn jʊr strɛst aʊt ænd ɑːn ɛdʒ/",
+    "portuguesePhonetic": "[trái nót tu lúz iór témper ívan uén iór strést áut énd ón édj]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_74",
+    "word": "I was so chuffed about the award that I couldn't stop smiling.",
+    "translation": "Fiquei tão contente com o prêmio que não parei de sorrir.",
+    "pronunciation": "/aɪ wəz soʊ tʃʌft əˈbaʊt ðə əˈwɔːrd ðæt aɪ ˈkʊdnt stɑːp ˈsmaɪlɪŋ/",
+    "portuguesePhonetic": "[ái uâz sôu tchâft abáut dhi auórd dhét ái kúdent stáp smáilin]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_75",
+    "word": "He freaked out at first, but he calmed down once we explained everything.",
+    "translation": "Ele surtou no começo, mas se acalmou quando explicamos tudo.",
+    "pronunciation": "/hiː friːkt aʊt æt fɜːrst bʌt hiː kɑːmd daʊn wʌns wiː ɪkˈspleɪnd ˈɛvriθɪŋ/",
+    "portuguesePhonetic": "[rrí fríkt áut ét fârst bât rrí kámd dáun uâns uí ikspleind évrithin]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_76",
+    "word": "\"Why are you so happy?\" / \"I'm over the moon!\"",
+    "translation": "\"Por que você está tão feliz?\" / \"Estou nas nuvens!\"",
+    "pronunciation": "/waɪ ɑːr juː soʊ ˈhæpi · aɪm ˈoʊvər ðə muːn/",
+    "portuguesePhonetic": "[uái ár iú sôu rrépi · áim ôuver dha mún]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_77",
+    "word": "\"Did you like the show?\" / \"Yes, I cracked up!\"",
+    "translation": "\"Você gostou do show?\" / \"Sim, morri de rir!\"",
+    "pronunciation": "/dɪd juː laɪk ðə ʃoʊ · jɛs aɪ krækt ʌp/",
+    "portuguesePhonetic": "[díd iú láik dha chôu · iés ái krékt âp]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_78",
+    "word": "\"What's wrong?\" / \"I'm a bit on edge.\"",
+    "translation": "\"O que houve?\" / \"Estou um pouco tenso.\"",
+    "pronunciation": "/wʌts rɔːŋ · aɪm ə bɪt ɑːn ɛdʒ/",
+    "portuguesePhonetic": "[uâts róN · áim a bít ón édj]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_79",
+    "word": "\"Are you okay?\" / \"I freaked out, sorry.\"",
+    "translation": "\"Você está bem?\" / \"Eu surtei, desculpa.\"",
+    "pronunciation": "/ɑːr juː oʊˈkeɪ · aɪ friːkt aʊt ˈsɑːri/",
+    "portuguesePhonetic": "[ár iú ôukêi · ái fríkt áut sári]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_80",
+    "word": "\"Why is she crying?\" / \"She burst into tears.\"",
+    "translation": "\"Por que ela está chorando?\" / \"Ela caiu no choro.\"",
+    "pronunciation": "/waɪ ɪz ʃiː ˈkraɪɪŋ · ʃiː bɜːrst ˈɪntə tɪrz/",
+    "portuguesePhonetic": "[uái iz chí kráiin · chí bârst íntu tírz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_81",
+    "word": "\"How was the news?\" / \"I was thrilled to bits!\"",
+    "translation": "\"Como foi a notícia?\" / \"Fiquei contentíssimo!\"",
+    "pronunciation": "/haʊ wəz ðə nuːz · aɪ wəz θrɪld tə bɪts/",
+    "portuguesePhonetic": "[rráu uâz dha niúz · ái uâz thríld tu bíts]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_82",
+    "word": "\"You look upset.\" / \"I'm gutted, honestly.\"",
+    "translation": "\"Você parece chateado.\" / \"Estou arrasado, sério.\"",
+    "pronunciation": "/juː lʊk ʌpˈsɛt · aɪm ˈɡʌtɪd ˈɑːnɪstli/",
+    "portuguesePhonetic": "[iú lúk âpsét · áim gâted ánestli]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_83",
+    "word": "\"Why did you go red?\" / \"I was embarrassed.\"",
+    "translation": "\"Por que você ficou vermelho?\" / \"Fiquei sem graça.\"",
+    "pronunciation": "/waɪ dɪd juː ɡoʊ rɛd · aɪ wəz ɪmˈbɛrəst/",
+    "portuguesePhonetic": "[uái díd iú gôu réd · ái uâz imbérast]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_84",
+    "word": "\"What happened at work?\" / \"My boss lost his temper.\"",
+    "translation": "\"O que houve no trabalho?\" / \"Meu chefe perdeu a cabeça.\"",
+    "pronunciation": "/wʌt ˈhæpənd æt wɜːrk · maɪ bɔːs lɔːst hɪz ˈtɛmpər/",
+    "portuguesePhonetic": "[uât rrépand ét uârk · mái bós lóst rríz témper]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_85",
+    "word": "\"Are you nervous?\" / \"Yes, I'm flustered.\"",
+    "translation": "\"Você está nervoso?\" / \"Sim, estou atrapalhado.\"",
+    "pronunciation": "/ɑːr juː ˈnɜːrvəs · jɛs aɪm ˈflʌstərd/",
+    "portuguesePhonetic": "[ár iú nârvas · iés áim flâsterd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_86",
+    "word": "\"Did the movie touch you?\" / \"Yes, I was moved.\"",
+    "translation": "\"O filme te tocou?\" / \"Sim, fiquei emocionado.\"",
+    "pronunciation": "/dɪd ðə ˈmuːvi tʌtʃ juː · jɛs aɪ wəz muːvd/",
+    "portuguesePhonetic": "[díd dha múvi tâtch iú · iés ái uâz múvd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_87",
+    "word": "\"Why are you quiet?\" / \"I always clam up.\"",
+    "translation": "\"Por que você está quieto?\" / \"Eu sempre travo.\"",
+    "pronunciation": "/waɪ ɑːr juː ˈkwaɪət · aɪ ˈɔːlweɪz klæm ʌp/",
+    "portuguesePhonetic": "[uái ár iú kuáiet · ái ólueiz klém âp]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_88",
+    "word": "\"You seem stressed.\" / \"I'm overwhelmed.\"",
+    "translation": "\"Você parece estressado.\" / \"Estou sobrecarregado.\"",
+    "pronunciation": "/juː siːm strɛst · aɪm ˌoʊvərˈwɛlmd/",
+    "portuguesePhonetic": "[iú sím strést · áim ouveruélmd]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_89",
+    "word": "\"Was the joke funny?\" / \"I laughed my head off!\"",
+    "translation": "\"A piada foi engraçada?\" / \"Eu ri muito!\"",
+    "pronunciation": "/wəz ðə dʒoʊk ˈfʌni · aɪ læft maɪ hɛd ɔːf/",
+    "portuguesePhonetic": "[uâz dha djôuk fâni · ái léft mái rréd óf]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_90",
+    "word": "\"Did the result shock you?\" / \"Yes, I was taken aback.\"",
+    "translation": "\"O resultado te chocou?\" / \"Sim, fiquei surpreso.\"",
+    "pronunciation": "/dɪd ðə rɪˈzʌlt ʃɑːk juː · jɛs aɪ wəz ˈteɪkən əˈbæk/",
+    "portuguesePhonetic": "[díd dha rizâlt chák iú · iés ái uâz têikan abék]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_91",
+    "word": "\"Are you embarrassed?\" / \"I'm mortified!\"",
+    "translation": "\"Você está envergonhado?\" / \"Estou morrendo de vergonha!\"",
+    "pronunciation": "/ɑːr juː ɪmˈbɛrəst · aɪm ˈmɔːrtɪfaɪd/",
+    "portuguesePhonetic": "[ár iú imbérast · áim mórtifaid]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_92",
+    "word": "\"Did you panic?\" / \"A little, I freaked out.\"",
+    "translation": "\"Você entrou em pânico?\" / \"Um pouco, eu surtei.\"",
+    "pronunciation": "/dɪd juː ˈpænɪk · ə ˈlɪtl̩ aɪ friːkt aʊt/",
+    "portuguesePhonetic": "[díd iú pénik · a lítou ái fríkt áut]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_93",
+    "word": "\"How do you feel?\" / \"I'm thrilled to bits!\"",
+    "translation": "\"Como você se sente?\" / \"Estou contentíssimo!\"",
+    "pronunciation": "/haʊ duː juː fiːl · aɪm θrɪld tə bɪts/",
+    "portuguesePhonetic": "[rráu dú iú fíou · áim thríld tu bíts]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_94",
+    "word": "\"Why so tense?\" / \"I'm on edge about the exam.\"",
+    "translation": "\"Por que tão tenso?\" / \"Estou ansioso por causa da prova.\"",
+    "pronunciation": "/waɪ soʊ tɛns · aɪm ɑːn ɛdʒ əˈbaʊt ðə ɪɡˈzæm/",
+    "portuguesePhonetic": "[uái sôu téns · áim ón édj abáut dhi igzém]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_95",
+    "word": "\"Did you cry?\" / \"Yes, I burst into tears.\"",
+    "translation": "\"Você chorou?\" / \"Sim, caí no choro.\"",
+    "pronunciation": "/dɪd juː kraɪ · jɛs aɪ bɜːrst ˈɪntə tɪrz/",
+    "portuguesePhonetic": "[díd iú krái · iés ái bârst íntu tírz]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_96",
+    "word": "\"Are you proud?\" / \"I'm really chuffed!\"",
+    "translation": "\"Você está orgulhoso?\" / \"Estou muito contente!\"",
+    "pronunciation": "/ɑːr juː praʊd · aɪm ˈrɪli tʃʌft/",
+    "portuguesePhonetic": "[ár iú práud · áim ríli tchâft]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_97",
+    "word": "\"You okay now?\" / \"Yes, I calmed down.\"",
+    "translation": "\"Você está bem agora?\" / \"Sim, me acalmei.\"",
+    "pronunciation": "/juː oʊˈkeɪ naʊ · jɛs aɪ kɑːmd daʊn/",
+    "portuguesePhonetic": "[iú ôukêi náu · iés ái kámd dáun]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_98",
+    "word": "\"Why the long face?\" / \"I'm gutted about the loss.\"",
+    "translation": "\"Por que essa cara triste?\" / \"Estou arrasado com a derrota.\"",
+    "pronunciation": "/waɪ ðə lɔːŋ feɪs · aɪm ˈɡʌtɪd əˈbaʊt ðə lɔːs/",
+    "portuguesePhonetic": "[uái dha lóN fêis · áim gâted abáut dha lós]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_99",
+    "word": "\"Were you scared?\" / \"I was scared stiff!\"",
+    "translation": "\"Você estava com medo?\" / \"Estava morto de medo!\"",
+    "pronunciation": "/wɜːr juː skɛrd · aɪ wəz skɛrd stɪf/",
+    "portuguesePhonetic": "[uâr iú skérd · ái uâz skérd stíf]"
+  },
+  {
+    "id": "lesson_1_vocabulary_c1_en_card_100",
+    "word": "\"Feeling better?\" / \"Yes, much better.\"",
+    "translation": "\"Se sentindo melhor?\" / \"Sim, bem melhor.\"",
+    "pronunciation": "/ˈfiːlɪŋ ˈbɛtər · jɛs mʌtʃ ˈbɛtər/",
+    "portuguesePhonetic": "[fílin béter · iés mâtch béter]"
+  }
+]

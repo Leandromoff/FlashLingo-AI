@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_1",
+    "word": "Me levanto temprano todos los días.",
+    "translation": "Eu me levanto cedo todo dia. (rotina)",
+    "pronunciation": "/me leˈβanto temˈpɾano ˈtoðos los ˈdias/",
+    "portuguesePhonetic": "[me lebánto tempráno tódos los días]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_2",
+    "word": "El agua hierve a 100°C.",
+    "translation": "A água ferve a 100°C. (fato)",
+    "pronunciation": "/el ˈaɣwa ˈʝeɾβe a θjen ˈɡɾaðos/",
+    "portuguesePhonetic": "[el água iérbe a thién grádos]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_3",
+    "word": "Sé lo que quieres decir.",
+    "translation": "Eu sei o que você quer dizer. (verbo de estado)",
+    "pronunciation": "/se lo ke ˈkjeɾes deˈθiɾ/",
+    "portuguesePhonetic": "[se lo ke kiéres dethír]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_4",
+    "word": "El tren sale a las 8:30.",
+    "translation": "O trem sai às 8:30. (futuro programado)",
+    "pronunciation": "/el tɾen ˈsale a las ˈotʃo i ˈmeðja/",
+    "portuguesePhonetic": "[el trén sále a las ótcho i médIa]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_5",
+    "word": "Giras a la izquierda en la esquina.",
+    "translation": "Você vira à esquerda na esquina. (instrução)",
+    "pronunciation": "/ˈxiɾas a la iθˈkjeɾða en la esˈkina/",
+    "portuguesePhonetic": "[rríras a la ithkiérda en la eskína]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_6",
+    "word": "Entonces, entro en la sala y todos me miran.",
+    "translation": "Aí, eu entro na sala e todos olham pra mim. (história)",
+    "pronunciation": "/enˈtonθes ˈentɾo en la ˈsala i ˈtoðos me ˈmiɾan/",
+    "portuguesePhonetic": "[entónthes éntro en la sála i tódos me míran]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_7",
+    "word": "Pasa el balón y marca.",
+    "translation": "Ele passa a bola e marca. (narração ao vivo)",
+    "pronunciation": "/ˈpasa el baˈlon i ˈmaɾka/",
+    "portuguesePhonetic": "[pása el balón i márka]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_8",
+    "word": "Te prometo que te ayudo.",
+    "translation": "Eu prometo que te ajudo. (verbo performativo)",
+    "pronunciation": "/te pɾoˈmeto ke te aˈʝuðo/",
+    "portuguesePhonetic": "[te prométo ke te aiúdo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_9",
+    "word": "El gobierno baja los impuestos.",
+    "translation": "O governo baixa os impostos. (manchete)",
+    "pronunciation": "/el ɡoˈβjeɾno ˈbaxa los imˈpwestos/",
+    "portuguesePhonetic": "[el gobiérno bárra los impuéstos]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_10",
+    "word": "Me dicen que empiezas un trabajo nuevo.",
+    "translation": "Me dizem que você vai começar um emprego novo. (verbo de comunicação)",
+    "pronunciation": "/me ˈðiθen ke emˈpjeθas un tɾaˈβaxo ˈnweβo/",
+    "portuguesePhonetic": "[me díthen ke empiéthas un trabárro nuébo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_11",
+    "word": "Estoy hablando contigo.",
+    "translation": "Eu estou falando com você. (ação agora)",
+    "pronunciation": "/esˈtoi aˈβlando konˈtiɣo/",
+    "portuguesePhonetic": "[estôi ablándo kontígo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_12",
+    "word": "Esta semana me quedo con amigos.",
+    "translation": "Esta semana fico com amigos. (temporário",
+    "pronunciation": "/ˈesta seˈmana me ˈkeðo kon aˈmiɣos/",
+    "portuguesePhonetic": "[ésta semána me kédo kon amígos]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_13",
+    "word": "La población está creciendo rápido.",
+    "translation": "A população está crescendo rápido. (mudança)",
+    "pronunciation": "/la poβlaˈθjon esˈta kɾeˈθjendo ˈrapiðo/",
+    "portuguesePhonetic": "[la poblathión está krethiéndo rrápido]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_14",
+    "word": "Quedo con Jane a las seis.",
+    "translation": "Vou encontrar a Jane às seis. (futuro = presente simples!)",
+    "pronunciation": "/ˈkeðo kon ʝein a las seis/",
+    "portuguesePhonetic": "[kédo kon djéin a las séis]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_15",
+    "word": "¡Siempre pierdes las llaves!",
+    "translation": "Você está sempre perdendo as chaves! (reclamação)",
+    "pronunciation": "/ˈsjempɾe ˈpjeɾðes las ˈʎaβes/",
+    "portuguesePhonetic": "[siémpre piérdes las lhábes]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_16",
+    "word": "Estoy esperando cuando un tipo empieza a cantar.",
+    "translation": "Estou esperando quando um cara começa a cantar. (história)",
+    "pronunciation": "/esˈtoi espeˈɾando ˈkwando un ˈtipo emˈpjeθa a kanˈtaɾ/",
+    "portuguesePhonetic": "[estôi esperándo kuándo un típo empiétha a kantár]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_17",
+    "word": "Me encanta trabajar desde casa.",
+    "translation": "Eu amo trabalhar de casa. (permanente)",
+    "pronunciation": "/me eŋˈkanta tɾaβaˈxaɾ ˈdezðe ˈkasa/",
+    "portuguesePhonetic": "[me enkánta trabarrár désde kása]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_18",
+    "word": "Últimamente me encanta trabajar desde casa.",
+    "translation": "Ultimamente estou amando trabalhar de casa. (temporário)",
+    "pronunciation": "/ˈultimamente me eŋˈkanta tɾaβaˈxaɾ ˈdezðe ˈkasa/",
+    "portuguesePhonetic": "[últimaménte me enkánta trabarrár désde kása]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_19",
+    "word": "Esta sopa sabe genial.",
+    "translation": "Esta sopa tem um gosto ótimo. (tem sabor)",
+    "pronunciation": "/ˈesta ˈsopa ˈsaβe xeˈnjal/",
+    "portuguesePhonetic": "[ésta sópa sábe rrenIál]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_20",
+    "word": "El chef está probando la salsa.",
+    "translation": "O chef está provando o molho. (experimentando)",
+    "pronunciation": "/el tʃef esˈta pɾoˈβando la ˈsalsa/",
+    "portuguesePhonetic": "[el tchéf está probándo la sálsa]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_21",
+    "word": "Creo que es buena idea.",
+    "translation": "Eu acho que é uma boa ideia. (opinião)",
+    "pronunciation": "/ˈkɾeo ke es ˈbwena iˈðea/",
+    "portuguesePhonetic": "[kréo ke és buéna idéa]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_22",
+    "word": "Estoy pensándolo.",
+    "translation": "Estou pensando nisso. (processo)",
+    "pronunciation": "/esˈtoi penˈsandolo/",
+    "portuguesePhonetic": "[estôi pensándolo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_23",
+    "word": "Tengo un coche.",
+    "translation": "Eu tenho um carro. (posse)",
+    "pronunciation": "/ˈteŋɡo un ˈkotʃe/",
+    "portuguesePhonetic": "[téngo un kótche]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_24",
+    "word": "Estoy comiendo.",
+    "translation": "Estou comendo. (ação)",
+    "pronunciation": "/esˈtoi koˈmjendo/",
+    "portuguesePhonetic": "[estôi komiéndo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_25",
+    "word": "El español usa el presente simple para el futuro; el inglés usa el continuo.",
+    "translation": "O espanhol usa o presente simples para o futuro; o inglês usa o contínuo.",
+    "pronunciation": "/el espaˈɲol ˈusa el pɾeˈsente ˈsimple ˈpaɾa el fuˈtuɾo/",
+    "portuguesePhonetic": "[el espánhol úsa el preEsénte símple pára el futúro]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_26",
+    "word": "Normalmente me despierto a las siete.",
+    "translation": "Eu geralmente acordo às sete.",
+    "pronunciation": "/noɾˈmalmente me desˈpjeɾto a las ˈsjete/",
+    "portuguesePhonetic": "[normalménte me despiérto a las siéte]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_27",
+    "word": "Pero hoy me estoy despertando tarde.",
+    "translation": "Mas hoje estou acordando tarde.",
+    "pronunciation": "/ˈpeɾo oi me esˈtoi despeɾˈtando ˈtaɾðe/",
+    "portuguesePhonetic": "[péro ôi me estôi despertándo tárde]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_28",
+    "word": "Tomo café cada mañana.",
+    "translation": "Eu tomo café toda manhã.",
+    "pronunciation": "/ˈtomo kaˈfe ˈkaða maˈɲana/",
+    "portuguesePhonetic": "[tómo kafé káda manhána]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_29",
+    "word": "Ahora mismo estoy tomando té.",
+    "translation": "Agora estou tomando chá.",
+    "pronunciation": "/aˈoɾa ˈmizmo esˈtoi toˈmando te/",
+    "portuguesePhonetic": "[aóra mízmo estôi tomándo té]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_30",
+    "word": "Trabajo en una oficina.",
+    "translation": "Eu trabalho num escritório.",
+    "pronunciation": "/tɾaˈβaxo en una ofiˈθina/",
+    "portuguesePhonetic": "[trabárro en úna ofithína]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_31",
+    "word": "Esta semana trabajo desde casa.",
+    "translation": "Esta semana trabalho de casa.",
+    "pronunciation": "/ˈesta seˈmana tɾaˈβaxo ˈdezðe ˈkasa/",
+    "portuguesePhonetic": "[ésta semána trabárro désde kása]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_32",
+    "word": "Me estoy quedando con mis padres.",
+    "translation": "Estou ficando na casa dos meus pais.",
+    "pronunciation": "/me esˈtoi keˈðando kon mis ˈpaðɾes/",
+    "portuguesePhonetic": "[me estôi kedándo kon mis pádres]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_33",
+    "word": "Mi hermana nos está visitando.",
+    "translation": "Minha irmã está nos visitando.",
+    "pronunciation": "/mi eɾˈmana nos esˈta bisiˈtando/",
+    "portuguesePhonetic": "[mi ermána nos está bisitándo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_34",
+    "word": "Quedo con un amigo a las seis.",
+    "translation": "Vou encontrar um amigo às seis.",
+    "pronunciation": "/ˈkeðo kon un aˈmiɣo a las seis/",
+    "portuguesePhonetic": "[kédo kon un amígo a las séis]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_35",
+    "word": "Viajamos el finde que viene.",
+    "translation": "Vamos viajar no próximo fim de semana.",
+    "pronunciation": "/bjaˈxamos el ˈfinde ke ˈbjene/",
+    "portuguesePhonetic": "[biarrámos el fínde ke biéne]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_36",
+    "word": "El tren sale a las ocho.",
+    "translation": "O trem sai às oito.",
+    "pronunciation": "/el tɾen ˈsale a las ˈotʃo/",
+    "portuguesePhonetic": "[el trén sále a las ótcho]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_37",
+    "word": "El sol sale por el este.",
+    "translation": "O sol nasce no leste.",
+    "pronunciation": "/el sol ˈsale poɾ el ˈeste/",
+    "portuguesePhonetic": "[el sol sále por el éste]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_38",
+    "word": "Los precios están subiendo rápido.",
+    "translation": "Os preços estão subindo rápido.",
+    "pronunciation": "/los ˈpɾeθjos esˈtan suˈβjendo ˈrapiðo/",
+    "portuguesePhonetic": "[los préthios estão subiéndo rrápido]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_39",
+    "word": "El agua hierve a 100 grados.",
+    "translation": "A água ferve a 100 graus.",
+    "pronunciation": "/el ˈaɣwa ˈʝeɾβe a θjen ˈɡɾaðos/",
+    "portuguesePhonetic": "[el água iérbe a thién grádos]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_40",
+    "word": "Sé la respuesta.",
+    "translation": "Eu sei a resposta.",
+    "pronunciation": "/se la resˈpwesta/",
+    "portuguesePhonetic": "[se la respuésta]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_41",
+    "word": "No entiendo esto.",
+    "translation": "Eu não entendo isso.",
+    "pronunciation": "/no enˈtjendo ˈesto/",
+    "portuguesePhonetic": "[no entiéndo ésto]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_42",
+    "word": "Ella quiere un café.",
+    "translation": "Ela quer um café.",
+    "pronunciation": "/ˈeʎa ˈkjeɾe un kaˈfe/",
+    "portuguesePhonetic": "[élha kiére un kafé]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_43",
+    "word": "Los niños están jugando fuera.",
+    "translation": "As crianças estão brincando lá fora.",
+    "pronunciation": "/los ˈniɲos esˈtan xuˈɣando ˈfweɾa/",
+    "portuguesePhonetic": "[los nínhos estão rrugándo fuéra]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_44",
+    "word": "Él está cocinando la cena ahora.",
+    "translation": "Ele está fazendo o jantar agora.",
+    "pronunciation": "/el esˈta koθiˈnando la ˈθena aˈoɾa/",
+    "portuguesePhonetic": "[él está kothinándo la théna aóra]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_45",
+    "word": "Estamos viendo una película.",
+    "translation": "Estamos assistindo a um filme.",
+    "pronunciation": "/esˈtamos ˈbjendo una peˈlikula/",
+    "portuguesePhonetic": "[estámos biéndo úna pelíkula]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_46",
+    "word": "¡Siempre me estás interrumpiendo!",
+    "translation": "Você está sempre me interrompendo!",
+    "pronunciation": "/ˈsjempɾe me esˈtas interumˈpjendo/",
+    "portuguesePhonetic": "[siémpre me estás interrumpiéndo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_47",
+    "word": "Está todo el rato mirando el móvil.",
+    "translation": "Ele está sempre olhando o celular.",
+    "pronunciation": "/esˈta ˈtoðo el ˈrato miˈɾando el ˈmoβil/",
+    "portuguesePhonetic": "[está tódo el rráto mirándo el móbil]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_48",
+    "word": "Este café sabe genial.",
+    "translation": "Este café tem um gosto ótimo.",
+    "pronunciation": "/ˈeste kaˈfe ˈsaβe xeˈnjal/",
+    "portuguesePhonetic": "[éste kafé sábe rrenIál]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_49",
+    "word": "Solo lo estoy probando para comprobar.",
+    "translation": "Só estou provando para conferir.",
+    "pronunciation": "/ˈsolo lo esˈtoi pɾoˈβando ˈpaɾa kompɾoˈβaɾ/",
+    "portuguesePhonetic": "[sólo lo estôi probándo pára komprobár]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_50",
+    "word": "El pastel huele delicioso.",
+    "translation": "O bolo cheira delicioso.",
+    "pronunciation": "/el pasˈtel ˈwele deliˈθjoso/",
+    "portuguesePhonetic": "[el pastél uéle delithióso]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_51",
+    "word": "Trabajo cada día.",
+    "translation": "Eu trabalho todo dia.",
+    "pronunciation": "/tɾaˈβaxo ˈkaða ˈdia/",
+    "portuguesePhonetic": "[trabárro káda día]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_52",
+    "word": "Estoy trabajando ahora.",
+    "translation": "Estou trabalhando agora.",
+    "pronunciation": "/esˈtoi tɾaβaˈxando aˈoɾa/",
+    "portuguesePhonetic": "[estôi trabarrándo aóra]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_53",
+    "word": "Vive en Madrid.",
+    "translation": "Ela mora em Madri.",
+    "pronunciation": "/ˈbiβe en maˈðɾið/",
+    "portuguesePhonetic": "[bíbe en madríd]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_54",
+    "word": "Este año vive en el extranjero.",
+    "translation": "Ela está morando no exterior este ano.",
+    "pronunciation": "/ˈeste ˈaɲo ˈbiβe en el ekstɾaŋˈxeɾo/",
+    "portuguesePhonetic": "[éste ánho bíbe en el ekstranrréro]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_55",
+    "word": "La tienda abre a las nueve.",
+    "translation": "A loja abre às nove.",
+    "pronunciation": "/la ˈtjenda ˈaβɾe a las ˈnweβe/",
+    "portuguesePhonetic": "[la tiénda ábre a las nuébe]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_56",
+    "word": "Mira, la tienda está abriendo ahora.",
+    "translation": "Olha, a loja está abrindo agora.",
+    "pronunciation": "/ˈmiɾa la ˈtjenda esˈta aˈβɾjendo aˈoɾa/",
+    "portuguesePhonetic": "[míra la tiénda está abriéndo aóra]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_57",
+    "word": "Creo que tienes razón.",
+    "translation": "Eu acho que você está certo.",
+    "pronunciation": "/ˈkɾeo ke ˈtjenes raˈθon/",
+    "portuguesePhonetic": "[kréo ke tiénes rathón]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_58",
+    "word": "Estoy pensando en cambiar de trabajo.",
+    "translation": "Estou pensando em mudar de emprego.",
+    "pronunciation": "/esˈtoi penˈsando en kamˈbjaɾ de tɾaˈβaxo/",
+    "portuguesePhonetic": "[estôi pensándo en kambiár de trabárro]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_59",
+    "word": "¿A qué te dedicas?",
+    "translation": "O que você faz? (profissão)",
+    "pronunciation": "/a ke te deˈðikas/",
+    "portuguesePhonetic": "[a ke te dedíkas]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_60",
+    "word": "¿Qué estás haciendo?",
+    "translation": "O que você está fazendo? (agora)",
+    "pronunciation": "/ke esˈtas aˈθjendo/",
+    "portuguesePhonetic": "[ke estás athiéndo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_61",
+    "word": "Normalmente no tomo café.",
+    "translation": "Eu geralmente não tomo café.",
+    "pronunciation": "/noɾˈmalmente no ˈtomo kaˈfe/",
+    "portuguesePhonetic": "[normalménte no tómo kafé]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_62",
+    "word": "Hoy no trabajo.",
+    "translation": "Hoje não trabalho.",
+    "pronunciation": "/oi no tɾaˈβaxo/",
+    "portuguesePhonetic": "[ôi no trabárro]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_63",
+    "word": "Me quedo en casa porque estoy enfermo.",
+    "translation": "Estou ficando em casa porque estou doente.",
+    "pronunciation": "/me ˈkeðo en ˈkasa ˈpoɾke esˈtoi emˈfeɾmo/",
+    "portuguesePhonetic": "[me kédo en kása pórke estôi emférmo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_64",
+    "word": "Siempre se queja cuando está cansada.",
+    "translation": "Ela sempre reclama quando está cansada.",
+    "pronunciation": "/ˈsjempɾe se ˈkexa ˈkwando esˈta kanˈsaða/",
+    "portuguesePhonetic": "[siémpre se kérra kuándo está kansáda]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_65",
+    "word": "El tiempo está enfriando, pero me gusta.",
+    "translation": "O tempo está esfriando, mas eu gosto.",
+    "pronunciation": "/el ˈtjempo esˈta emfɾiˈando ˈpeɾo me ˈɡusta/",
+    "portuguesePhonetic": "[el tiémpo está emfriándo péro me gústa]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_66",
+    "word": "Normalmente voy andando, pero hoy cojo el bus.",
+    "translation": "Eu geralmente vou a pé, mas hoje pego o ônibus.",
+    "pronunciation": "/noɾˈmalmente boi anˈdando ˈpeɾo oi ˈkoxo el bus/",
+    "portuguesePhonetic": "[normalménte bôi andándo péro ôi kórro el bus]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_67",
+    "word": "Siempre pierde cosas porque es despistado.",
+    "translation": "Ele está sempre perdendo coisas porque é distraído.",
+    "pronunciation": "/ˈsjempɾe ˈpjeɾðe ˈkosas ˈpoɾke es despisˈtaðo/",
+    "portuguesePhonetic": "[siémpre piérde kósas pórke és despistádo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_68",
+    "word": "Te prometo que te llamo cuando llegue.",
+    "translation": "Eu prometo que te ligo quando chegar.",
+    "pronunciation": "/te pɾoˈmeto ke te ˈʎamo ˈkwando ˈʎeɣe/",
+    "portuguesePhonetic": "[te prométo ke te lhámo kuándo lhégue]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_69",
+    "word": "Mañana quedamos con los clientes, así que prepara el informe.",
+    "translation": "Amanhã encontramos os clientes, então prepare o relatório.",
+    "pronunciation": "/maˈɲana keˈðamos kon los ˈkljentes aˈsi ke pɾeˈpaɾa el imˈfoɾme/",
+    "portuguesePhonetic": "[manhána kedámos kon los kliéntes así ke prepára el imfórme]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_70",
+    "word": "La economía está cambiando y mucha gente pierde su trabajo.",
+    "translation": "A economia está mudando e muita gente perde o emprego.",
+    "pronunciation": "/la ekonoˈmia esˈta kamˈbjando i ˈmutʃa ˈxente ˈpjeɾðe su tɾaˈβaxo/",
+    "portuguesePhonetic": "[la ekonomía está kambiándo i mútcha rrénte piérde su trabárro]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_71",
+    "word": "Me pregunto si podrías ayudarme con esto.",
+    "translation": "Estou me perguntando se você poderia me ajudar com isso.",
+    "pronunciation": "/me pɾeˈɣunto si poˈðɾias aʝuˈðaɾme kon ˈesto/",
+    "portuguesePhonetic": "[me pregúnto si podrías aiudárme kon ésto]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_72",
+    "word": "Normalmente cocina ella, pero esta noche cocina su marido.",
+    "translation": "Ela normalmente cozinha, mas hoje à noite o marido cozinha.",
+    "pronunciation": "/noɾˈmalmente koˈθina ˈeʎa ˈpeɾo ˈesta ˈnotʃe koˈθina su maˈɾiðo/",
+    "portuguesePhonetic": "[normalménte kothína élha péro ésta nótche kothína su marído]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_73",
+    "word": "Me dicen que te mudas a otra ciudad; ¿cuándo te vas?",
+    "translation": "Me dizem que você está se mudando para outra cidade; quando você vai?",
+    "pronunciation": "/me ˈðiθen ke te ˈmuðas a ˈotɾa θjuˈðað ˈkwando te bas/",
+    "portuguesePhonetic": "[me díthen ke te múdas a ótra thiudád kuándo te bas]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_74",
+    "word": "El agua se congela a cero, pero el lago aún no se congela.",
+    "translation": "A água congela a zero, mas o lago ainda não congela.",
+    "pronunciation": "/el ˈaɣwa se konˈxela a ˈθeɾo ˈpeɾo el ˈlaɣo awn no se konˈxela/",
+    "portuguesePhonetic": "[el água se konrréla a théro péro el lágo áun no se konrréla]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_75",
+    "word": "Me encanta este libro, aunque normalmente prefiero las películas.",
+    "translation": "Estou amando este livro, embora eu geralmente prefira filmes.",
+    "pronunciation": "/me eŋˈkanta ˈeste ˈliβɾo ˈawŋke noɾˈmalmente pɾeˈfjeɾo las peˈlikulas/",
+    "portuguesePhonetic": "[me enkánta éste líbro áunke normalménte prefiéro las pelíkulas]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_76",
+    "word": "«¿A qué te dedicas?» / «Soy profesor.»",
+    "translation": "\"O que você faz?\" / \"Sou professor.\"",
+    "pronunciation": "/a ke te deˈðikas · soi pɾofeˈsoɾ/",
+    "portuguesePhonetic": "[a ke te dedíkas · sôi profesór]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_77",
+    "word": "«¿Qué estás haciendo?» / «Estoy cocinando.»",
+    "translation": "\"O que você está fazendo?\" / \"Estou cozinhando.\"",
+    "pronunciation": "/ke esˈtas aˈθjendo · esˈtoi koθiˈnando/",
+    "portuguesePhonetic": "[ke estás athiéndo · estôi kothinándo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_78",
+    "word": "«¿Vives aquí?» / «Sí.»",
+    "translation": "\"Você mora aqui?\" / \"Sim.\"",
+    "pronunciation": "/ˈbiβes aˈki · si/",
+    "portuguesePhonetic": "[bíbes akí · sí]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_79",
+    "word": "«¿Te quedas mucho tiempo?» / «Solo esta semana.»",
+    "translation": "\"Você vai ficar muito tempo?\" / \"Só esta semana.\"",
+    "pronunciation": "/te ˈkeðas ˈmutʃo ˈtjempo · ˈsolo ˈesta seˈmana/",
+    "portuguesePhonetic": "[te kédas mútcho tiémpo · sólo ésta semána]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_80",
+    "word": "«¿A qué hora empieza?» / «A las ocho.»",
+    "translation": "\"A que horas começa?\" / \"Às oito.\"",
+    "pronunciation": "/a ke ˈoɾa emˈpjeθa · a las ˈotʃo/",
+    "portuguesePhonetic": "[a ke óra empiétha · a las ótcho]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_81",
+    "word": "«¿Vienes esta noche?» / «Sí, quedo contigo allí.»",
+    "translation": "\"Você vem hoje à noite?\" / \"Sim, te encontro lá.\"",
+    "pronunciation": "/ˈbjenes ˈesta ˈnotʃe · si ˈkeðo konˈtiɣo aˈʎi/",
+    "portuguesePhonetic": "[biénes ésta nótche · sí kédo kontígo alhí]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_82",
+    "word": "«¿Por qué coges el bus?» / «Mi coche está averiado.»",
+    "translation": "\"Por que você está pegando o ônibus?\" / \"Meu carro quebrou.\"",
+    "pronunciation": "/poɾ ke ˈkoxes el bus · mi ˈkotʃe esˈta aβeˈɾjaðo/",
+    "portuguesePhonetic": "[por ké kórres el bus · mi kótche está aberiádo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_83",
+    "word": "«¿Entiendes?» / «Sí.»",
+    "translation": "\"Você entende?\" / \"Sim.\"",
+    "pronunciation": "/enˈtjendes · si/",
+    "portuguesePhonetic": "[entiéndes · sí]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_84",
+    "word": "«¿Estás escuchando?» / «Sí.»",
+    "translation": "\"Você está ouvindo?\" / \"Sim.\"",
+    "pronunciation": "/esˈtas eskuˈtʃando · si/",
+    "portuguesePhonetic": "[estás eskutchándo · sí]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_85",
+    "word": "«¿Trabaja aquí?» / «No.»",
+    "translation": "\"Ela trabalha aqui?\" / \"Não.\"",
+    "pronunciation": "/tɾaˈβaxa aˈki · no/",
+    "portuguesePhonetic": "[trabárra akí · no]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_86",
+    "word": "«¿Está lloviendo?» / «Sí.»",
+    "translation": "\"Está chovendo?\" / \"Sim.\"",
+    "pronunciation": "/esˈta ʎoˈβjendo · si/",
+    "portuguesePhonetic": "[está lhobiéndo · sí]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_87",
+    "word": "«¿Quieres café?» / «No, estoy tomando té.»",
+    "translation": "\"Você quer café?\" / \"Não, estou tomando chá.\"",
+    "pronunciation": "/ˈkjeɾes kaˈfe · no esˈtoi toˈmando te/",
+    "portuguesePhonetic": "[kiéres kafé · no estôi tomándo té]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_88",
+    "word": "«¿Qué pasa?» / «Los precios están subiendo.»",
+    "translation": "\"O que está acontecendo?\" / \"Os preços estão subindo.\"",
+    "pronunciation": "/ke ˈpasa · los ˈpɾeθjos esˈtan suˈβjendo/",
+    "portuguesePhonetic": "[ke pása · los préthios estão subiéndo]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_89",
+    "word": "«¿Por qué está tan cansado?» / «Está trabajando mucho.»",
+    "translation": "\"Por que ele está tão cansado?\" / \"Está trabalhando muito.\"",
+    "pronunciation": "/poɾ ke esˈta tan kanˈsaðo · esˈta tɾaβaˈxando ˈmutʃo/",
+    "portuguesePhonetic": "[por ké está tan kansádo · está trabarrándo mútcho]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_90",
+    "word": "«¿La conoces?» / «Sí, muy bien.»",
+    "translation": "\"Você a conhece?\" / \"Sim, muito bem.\"",
+    "pronunciation": "/la koˈnoθes · si mui bjen/",
+    "portuguesePhonetic": "[la konóthes · sí múi bién]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_91",
+    "word": "«¿Lo estás pensando?» / «Sí.»",
+    "translation": "\"Você está pensando nisso?\" / \"Sim.\"",
+    "pronunciation": "/lo esˈtas penˈsando · si/",
+    "portuguesePhonetic": "[lo estás pensándo · sí]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_92",
+    "word": "«¿Sale pronto el tren?» / «A las nueve en punto.»",
+    "translation": "\"O trem sai logo?\" / \"Às nove em ponto.\"",
+    "pronunciation": "/ˈsale ˈpɾonto el tɾen · a las ˈnweβe en ˈpunto/",
+    "portuguesePhonetic": "[sále prónto el trén · a las nuébe en púnto]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_93",
+    "word": "«¿Por qué sonríes?» / «¡Me encanta esta canción!»",
+    "translation": "\"Por que você está sorrindo?\" / \"Estou amando essa música!\"",
+    "pronunciation": "/poɾ ke sonˈries · me eŋˈkanta ˈesta kanˈθjon/",
+    "portuguesePhonetic": "[por ké sonríes · me enkánta ésta kanthión]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_94",
+    "word": "«¿Siempre llega tarde?» / «¡Sí, siempre!»",
+    "translation": "\"Ela está sempre atrasada?\" / \"Sim, sempre!\"",
+    "pronunciation": "/ˈsjempɾe ˈʎeɣa ˈtaɾðe · si ˈsjempɾe/",
+    "portuguesePhonetic": "[siémpre lhéga tárde · sí siémpre]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_95",
+    "word": "«¿Qué estás leyendo?» / «Una novela genial.»",
+    "translation": "\"O que você está lendo?\" / \"Um ótimo romance.\"",
+    "pronunciation": "/ke esˈtas leˈʝendo · una noˈβela xeˈnjal/",
+    "portuguesePhonetic": "[ke estás leiéndo · úna nobéla rrenIál]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_96",
+    "word": "«¿Le crees?» / «No mucho.»",
+    "translation": "\"Você acredita nele?\" / \"Nem tanto.\"",
+    "pronunciation": "/le ˈkɾees · no ˈmutʃo/",
+    "portuguesePhonetic": "[le krées · no mútcho]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_97",
+    "word": "«¿Te encuentras mejor?» / «Sí, mucho mejor.»",
+    "translation": "\"Você está se sentindo melhor?\" / \"Sim, bem melhor.\"",
+    "pronunciation": "/te eŋˈkwentɾas meˈxoɾ · si ˈmutʃo meˈxoɾ/",
+    "portuguesePhonetic": "[te enkuéntras merrór · sí mútcho merrór]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_98",
+    "word": "«¿Qué haces los domingos?» / «Descanso.»",
+    "translation": "\"O que você faz aos domingos?\" / \"Descanso.\"",
+    "pronunciation": "/ke ˈaθes los doˈmiŋɡos · desˈkanso/",
+    "portuguesePhonetic": "[ke áthes los domíngos · deskánso]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_99",
+    "word": "«¿Se mudan?» / «Sí, el mes que viene.»",
+    "translation": "\"Eles estão se mudando?\" / \"Sim, no mês que vem.\"",
+    "pronunciation": "/se ˈmuðan · si el mes ke ˈbjene/",
+    "portuguesePhonetic": "[se múdan · sí el més ke biéne]"
+  },
+  {
+    "id": "leccion_1_gramatica_c1_s_es_card_100",
+    "word": "«¿Está lista la sopa?» / «La estoy probando.»",
+    "translation": "\"A sopa está pronta?\" / \"Estou provando.\"",
+    "pronunciation": "/esˈta ˈlista la ˈsopa · la esˈtoi pɾoˈβando/",
+    "portuguesePhonetic": "[está lísta la sópa · la estôi probándo]"
+  }
+]

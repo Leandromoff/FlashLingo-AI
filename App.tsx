@@ -392,12 +392,12 @@ const App: React.FC = () => {
         <>
           {(targetLanguage === "es"
             ? [
-                { title: "Gramática", groups: ["Gramática A1-S"] },
-                { title: "Vocabulario", groups: ["Vocabulario A1-S"] },
+                { title: "Gramática", groups: ["Gramática A1", "Gramática A2", "Gramática B1", "Gramática B1+", "Gramática B2", "Gramática C1"] },
+                { title: "Vocabulario", groups: ["Vocabulario A1", "Vocabulario A2", "Vocabulario B1", "Vocabulario B1+", "Vocabulario B2", "Vocabulario C1"] },
               ]
             : [
-                { title: "Grammar", groups: ["Grammar A1"] },
-                { title: "Vocabulary", groups: ["Vocabulary A1"] },
+                { title: "Grammar", groups: ["Grammar A1", "Grammar A2", "Grammar B1", "Grammar B1+", "Grammar B2", "Grammar C1"] },
+                { title: "Vocabulary", groups: ["Vocabulary A1", "Vocabulary A2", "Vocabulary B1", "Vocabulary B1+", "Vocabulary B2", "Vocabulary C1"] },
                 { title: "W", groups: ["W2", "W4"] },
               ]
           ).map((superCategory, index) => {
@@ -473,7 +473,6 @@ const App: React.FC = () => {
                     const groupTopics = PREDEFINED_TOPICS.filter(
                       (t: any) => t.group === groupName,
                     );
-                    if (groupTopics.length === 0) return null;
                     const isExpanded = expandedGroups[groupName] === true; // default false
 
                     const sortedGroupTopics = [...groupTopics].sort((a, b) => {
@@ -533,7 +532,12 @@ const App: React.FC = () => {
                           className={`overflow-hidden transition-all duration-500 ease-in-out ${isExpanded ? "max-h-[5000px] opacity-100" : "max-h-0 opacity-0"}`}
                         >
                           <div className="w-full grid grid-cols-1 gap-4">
-                            {sortedGroupTopics.map((topic) => {
+                            {sortedGroupTopics.length === 0 ? (
+                              <div className="text-center text-slate-500 dark:text-slate-400 italic py-6">
+                                Ainda sem lessons disponíveis para esta categoria.
+                              </div>
+                            ) : (
+                              sortedGroupTopics.map((topic) => {
                               const key = getTopicKey(topic.id);
                               const learnedCount = (topicWords[key] || [])
                                 .length;
@@ -658,7 +662,7 @@ const App: React.FC = () => {
                                   </div>
                                 </div>
                               );
-                            })}
+                            }))}
                           </div>
                         </div>
                       </div>

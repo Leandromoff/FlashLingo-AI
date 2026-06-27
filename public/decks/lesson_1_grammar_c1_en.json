@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_1_grammar_c1_en_card_1",
+    "word": "I get up early every day.",
+    "translation": "Eu acordo cedo todo dia. (rotina)",
+    "pronunciation": "/aɪ ɡɛt ʌp ˈɜːrli ˈɛvri deɪ/",
+    "portuguesePhonetic": "[ái guét âp ârli évri dêi]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_2",
+    "word": "Water boils at 100°C.",
+    "translation": "A água ferve a 100°C. (fato)",
+    "pronunciation": "/ˈwɔːtər bɔɪlz æt wʌn ˈhʌndrəd dɪˈɡriːz/",
+    "portuguesePhonetic": "[uóter bóilz ét uân rrândred digríz]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_3",
+    "word": "I know what you mean.",
+    "translation": "Eu sei o que você quer dizer. (verbo de estado)",
+    "pronunciation": "/aɪ noʊ wʌt juː miːn/",
+    "portuguesePhonetic": "[ái nôu uât iú mín]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_4",
+    "word": "The train leaves at 8:30.",
+    "translation": "O trem sai às 8:30. (futuro programado)",
+    "pronunciation": "/ðə treɪn liːvz æt eɪt ˈθɜːrti/",
+    "portuguesePhonetic": "[dha trêin lívz ét êit thârti]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_5",
+    "word": "You turn left at the corner.",
+    "translation": "Você vira à esquerda na esquina. (instrução)",
+    "pronunciation": "/juː tɜːrn lɛft æt ðə ˈkɔːrnər/",
+    "portuguesePhonetic": "[iú târn léft ét dha kórner]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_6",
+    "word": "So, I walk into the room and everyone looks at me!",
+    "translation": "Aí, eu entro na sala e todos olham pra mim! (piada/história)",
+    "pronunciation": "/soʊ aɪ wɔːk ˈɪntə ðə ruːm ænd ˈɛvriwʌn lʊks æt miː/",
+    "portuguesePhonetic": "[sôu ái uók íntu dha rúm énd évriuan lúks ét mí]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_7",
+    "word": "He passes the ball and scores.",
+    "translation": "Ele passa a bola e marca. (narração ao vivo)",
+    "pronunciation": "/hiː ˈpæsɪz ðə bɔːl ænd skɔːrz/",
+    "portuguesePhonetic": "[rrí pésiz dha ból énd skórz]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_8",
+    "word": "I promise I'll help you.",
+    "translation": "Eu prometo que vou te ajudar. (verbo performativo)",
+    "pronunciation": "/aɪ ˈprɑːmɪs aɪl hɛlp juː/",
+    "portuguesePhonetic": "[ái prámis áiou rrélp iú]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_9",
+    "word": "Government cuts taxes again.",
+    "translation": "Governo corta impostos de novo. (manchete)",
+    "pronunciation": "/ˈɡʌvərnmənt kʌts ˈtæksɪz əˈɡɛn/",
+    "portuguesePhonetic": "[gâvernment kâts téksiz aguén]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_10",
+    "word": "I hear you're starting a new job.",
+    "translation": "Soube que você vai começar um emprego novo. (verbo de relato)",
+    "pronunciation": "/aɪ hɪr jʊr ˈstɑːrtɪŋ ə nuː dʒɑːb/",
+    "portuguesePhonetic": "[ái rrír iór stártin a niú djób]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_11",
+    "word": "I'm talking to you.",
+    "translation": "Eu estou falando com você. (ação agora)",
+    "pronunciation": "/aɪm ˈtɔːkɪŋ tə juː/",
+    "portuguesePhonetic": "[áim tókin tu iú]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_12",
+    "word": "I'm staying with friends this week.",
+    "translation": "Estou ficando com amigos esta semana. (temporário)",
+    "pronunciation": "/aɪm ˈsteɪɪŋ wɪð frɛndz ðɪs wiːk/",
+    "portuguesePhonetic": "[áim stêin uídh fréndz dhís uík]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_13",
+    "word": "The population is growing fast.",
+    "translation": "A população está crescendo rápido. (mudança)",
+    "pronunciation": "/ðə ˌpɑːpjəˈleɪʃn̩ ɪz ˈɡroʊɪŋ fæst/",
+    "portuguesePhonetic": "[dha papiulêichan iz grôuin fést]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_14",
+    "word": "I'm meeting Jane at six.",
+    "translation": "Vou encontrar a Jane às seis. (plano futuro)",
+    "pronunciation": "/aɪm ˈmiːtɪŋ dʒeɪn æt sɪks/",
+    "portuguesePhonetic": "[áim mítin djêin ét síks]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_15",
+    "word": "You're always losing your keys!",
+    "translation": "Você está sempre perdendo suas chaves! (hábito irritante)",
+    "pronunciation": "/jʊr ˈɔːlweɪz ˈluːzɪŋ jɔːr kiːz/",
+    "portuguesePhonetic": "[iór ólueiz lúzin iór kíz]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_16",
+    "word": "I'm waiting when a guy starts singing.",
+    "translation": "Estou esperando quando um cara começa a cantar. (história)",
+    "pronunciation": "/aɪm ˈweɪtɪŋ wɛn ə ɡaɪ stɑːrts ˈsɪŋɪŋ/",
+    "portuguesePhonetic": "[áim uêitin uén a gái stárts sínin]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_17",
+    "word": "I love working from home.",
+    "translation": "Eu amo trabalhar de casa. (permanente)",
+    "pronunciation": "/aɪ lʌv ˈwɜːrkɪŋ frəm hoʊm/",
+    "portuguesePhonetic": "[ái lâv uârkin from rrôum]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_18",
+    "word": "I'm loving working from home these days.",
+    "translation": "Estou amando trabalhar de casa ultimamente. (temporário)",
+    "pronunciation": "/aɪm ˈlʌvɪŋ ˈwɜːrkɪŋ frəm hoʊm ðiːz deɪz/",
+    "portuguesePhonetic": "[áim lâvin uârkin from rrôum dhíz dêiz]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_19",
+    "word": "This soup tastes wonderful.",
+    "translation": "Esta sopa tem um gosto maravilhoso. (tem sabor)",
+    "pronunciation": "/ðɪs suːp teɪsts ˈwʌndərfəl/",
+    "portuguesePhonetic": "[dhís súp têists uânderfou]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_20",
+    "word": "The chef is tasting the sauce.",
+    "translation": "O chef está provando o molho. (experimentando)",
+    "pronunciation": "/ðə ʃɛf ɪz ˈteɪstɪŋ ðə sɔːs/",
+    "portuguesePhonetic": "[dha chéf iz têistin dha sós]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_21",
+    "word": "I think it's a good idea.",
+    "translation": "Eu acho que é uma boa ideia. (opinião)",
+    "pronunciation": "/aɪ θɪŋk ɪts ə ɡʊd aɪˈdiːə/",
+    "portuguesePhonetic": "[ái thínk íts a gúd aidía]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_22",
+    "word": "I'm thinking about it.",
+    "translation": "Estou pensando nisso. (processo)",
+    "pronunciation": "/aɪm ˈθɪŋkɪŋ əˈbaʊt ɪt/",
+    "portuguesePhonetic": "[áim thínkin abáut ít]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_23",
+    "word": "I have a car.",
+    "translation": "Eu tenho um carro. (posse)",
+    "pronunciation": "/aɪ hæv ə kɑːr/",
+    "portuguesePhonetic": "[ái rrév a kár]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_24",
+    "word": "I'm having lunch.",
+    "translation": "Estou almoçando. (ação)",
+    "pronunciation": "/aɪm ˈhævɪŋ lʌntʃ/",
+    "portuguesePhonetic": "[áim rrévin lântch]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_25",
+    "word": "Simple = permanent/facts; Continuous = now/temporary.",
+    "translation": "Simples = permanente/fatos; Contínuo = agora/temporário.",
+    "pronunciation": "/ˈsɪmpl̩ ˈpɜːrmənənt kənˈtɪnjuəs naʊ/",
+    "portuguesePhonetic": "[símpou pârmanent kantíniuas náu]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_26",
+    "word": "I usually wake up at seven.",
+    "translation": "Eu geralmente acordo às sete.",
+    "pronunciation": "/aɪ ˈjuːʒuəli weɪk ʌp æt ˈsɛvn̩/",
+    "portuguesePhonetic": "[ái iújuali uêik âp ét sévan]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_27",
+    "word": "But today I'm waking up late.",
+    "translation": "Mas hoje estou acordando tarde.",
+    "pronunciation": "/bʌt təˈdeɪ aɪm ˈweɪkɪŋ ʌp leɪt/",
+    "portuguesePhonetic": "[bât tudêi áim uêikin âp lêit]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_28",
+    "word": "I drink coffee every morning.",
+    "translation": "Eu tomo café toda manhã.",
+    "pronunciation": "/aɪ drɪŋk ˈkɔːfi ˈɛvri ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[ái drínk kófi évri mórnin]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_29",
+    "word": "Right now I'm drinking tea.",
+    "translation": "Agora estou tomando chá.",
+    "pronunciation": "/raɪt naʊ aɪm ˈdrɪŋkɪŋ tiː/",
+    "portuguesePhonetic": "[ráit náu áim drínkin tí]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_30",
+    "word": "I work in an office.",
+    "translation": "Eu trabalho num escritório.",
+    "pronunciation": "/aɪ wɜːrk ɪn ən ˈɔːfɪs/",
+    "portuguesePhonetic": "[ái uârk in an ófis]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_31",
+    "word": "This week I'm working from home.",
+    "translation": "Esta semana estou trabalhando de casa.",
+    "pronunciation": "/ðɪs wiːk aɪm ˈwɜːrkɪŋ frəm hoʊm/",
+    "portuguesePhonetic": "[dhís uík áim uârkin from rrôum]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_32",
+    "word": "I'm staying with my parents.",
+    "translation": "Estou ficando na casa dos meus pais.",
+    "pronunciation": "/aɪm ˈsteɪɪŋ wɪð maɪ ˈpɛrənts/",
+    "portuguesePhonetic": "[áim stêin uídh mái pérents]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_33",
+    "word": "My sister is visiting us.",
+    "translation": "Minha irmã está nos visitando.",
+    "pronunciation": "/maɪ ˈsɪstər ɪz ˈvɪzɪtɪŋ ʌs/",
+    "portuguesePhonetic": "[mái síster iz vízitin âs]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_34",
+    "word": "I'm meeting a friend at six.",
+    "translation": "Vou encontrar um amigo às seis.",
+    "pronunciation": "/aɪm ˈmiːtɪŋ ə frɛnd æt sɪks/",
+    "portuguesePhonetic": "[áim mítin a frénd ét síks]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_35",
+    "word": "We're traveling next weekend.",
+    "translation": "Vamos viajar no próximo fim de semana.",
+    "pronunciation": "/wɪr ˈtrævl̩ɪŋ nɛkst ˈwiːkɛnd/",
+    "portuguesePhonetic": "[uír trévolin nékst uíkend]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_36",
+    "word": "The train leaves at eight.",
+    "translation": "O trem sai às oito.",
+    "pronunciation": "/ðə treɪn liːvz æt eɪt/",
+    "portuguesePhonetic": "[dha trêin lívz ét êit]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_37",
+    "word": "The sun rises in the east.",
+    "translation": "O sol nasce no leste.",
+    "pronunciation": "/ðə sʌn ˈraɪzɪz ɪn ðə iːst/",
+    "portuguesePhonetic": "[dha sân ráiziz in dhi íst]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_38",
+    "word": "Prices are rising fast.",
+    "translation": "Os preços estão subindo rápido.",
+    "pronunciation": "/ˈpraɪsɪz ɑːr ˈraɪzɪŋ fæst/",
+    "portuguesePhonetic": "[práisiz ár ráizin fést]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_39",
+    "word": "Water boils at 100 degrees.",
+    "translation": "A água ferve a 100 graus.",
+    "pronunciation": "/ˈwɔːtər bɔɪlz æt wʌn ˈhʌndrəd dɪˈɡriːz/",
+    "portuguesePhonetic": "[uóter bóilz ét uân rrândred digríz]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_40",
+    "word": "I know the answer.",
+    "translation": "Eu sei a resposta.",
+    "pronunciation": "/aɪ noʊ ðə ˈænsər/",
+    "portuguesePhonetic": "[ái nôu dhi énser]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_41",
+    "word": "I don't understand this.",
+    "translation": "Eu não entendo isso.",
+    "pronunciation": "/aɪ doʊnt ˌʌndərˈstænd ðɪs/",
+    "portuguesePhonetic": "[ái dôunt andersténd dhís]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_42",
+    "word": "She wants a coffee.",
+    "translation": "Ela quer um café.",
+    "pronunciation": "/ʃiː wɑːnts ə ˈkɔːfi/",
+    "portuguesePhonetic": "[chí uánts a kófi]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_43",
+    "word": "The kids are playing outside.",
+    "translation": "As crianças estão brincando lá fora.",
+    "pronunciation": "/ðə kɪdz ɑːr ˈpleɪɪŋ ˌaʊtˈsaɪd/",
+    "portuguesePhonetic": "[dha kídz ár plêin autsáid]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_44",
+    "word": "He is cooking dinner now.",
+    "translation": "Ele está fazendo o jantar agora.",
+    "pronunciation": "/hiː ɪz ˈkʊkɪŋ ˈdɪnər naʊ/",
+    "portuguesePhonetic": "[rrí iz kúkin díner náu]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_45",
+    "word": "We are watching a movie.",
+    "translation": "Estamos assistindo a um filme.",
+    "pronunciation": "/wiː ɑːr ˈwɑːtʃɪŋ ə ˈmuːvi/",
+    "portuguesePhonetic": "[uí ár uátchin a múvi]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_46",
+    "word": "You're always interrupting me!",
+    "translation": "Você está sempre me interrompendo!",
+    "pronunciation": "/jʊr ˈɔːlweɪz ˌɪntəˈrʌptɪŋ miː/",
+    "portuguesePhonetic": "[iór ólueiz interâptin mí]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_47",
+    "word": "He's constantly checking his phone.",
+    "translation": "Ele está sempre olhando o celular.",
+    "pronunciation": "/hiːz ˈkɑːnstəntli ˈtʃɛkɪŋ hɪz foʊn/",
+    "portuguesePhonetic": "[rríz kánstantli tchékin rríz fôun]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_48",
+    "word": "This coffee tastes great.",
+    "translation": "Este café tem um gosto ótimo.",
+    "pronunciation": "/ðɪs ˈkɔːfi teɪsts ɡreɪt/",
+    "portuguesePhonetic": "[dhís kófi têists grêit]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_49",
+    "word": "I'm just tasting it to check.",
+    "translation": "Só estou provando para conferir.",
+    "pronunciation": "/aɪm dʒʌst ˈteɪstɪŋ ɪt tə tʃɛk/",
+    "portuguesePhonetic": "[áim djâst têistin ít tu tchék]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_50",
+    "word": "The cake smells delicious.",
+    "translation": "O bolo cheira delicioso.",
+    "pronunciation": "/ðə keɪk smɛlz dɪˈlɪʃəs/",
+    "portuguesePhonetic": "[dha kêik smélz delíchas]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_51",
+    "word": "I work every day.",
+    "translation": "Eu trabalho todo dia.",
+    "pronunciation": "/aɪ wɜːrk ˈɛvri deɪ/",
+    "portuguesePhonetic": "[ái uârk évri dêi]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_52",
+    "word": "I'm working now.",
+    "translation": "Estou trabalhando agora.",
+    "pronunciation": "/aɪm ˈwɜːrkɪŋ naʊ/",
+    "portuguesePhonetic": "[áim uârkin náu]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_53",
+    "word": "She lives in Madrid.",
+    "translation": "Ela mora em Madri.",
+    "pronunciation": "/ʃiː lɪvz ɪn məˈdrɪd/",
+    "portuguesePhonetic": "[chí lívz in madríd]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_54",
+    "word": "She's living abroad this year.",
+    "translation": "Ela está morando no exterior este ano.",
+    "pronunciation": "/ʃiːz ˈlɪvɪŋ əˈbrɔːd ðɪs jɪr/",
+    "portuguesePhonetic": "[chíz lívin abród dhís íir]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_55",
+    "word": "The store opens at nine.",
+    "translation": "A loja abre às nove.",
+    "pronunciation": "/ðə stɔːr ˈoʊpənz æt naɪn/",
+    "portuguesePhonetic": "[dha stór ôupanz ét náin]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_56",
+    "word": "Look, the store is opening now.",
+    "translation": "Olha, a loja está opening agora.",
+    "pronunciation": "/lʊk ðə stɔːr ɪz ˈoʊpənɪŋ naʊ/",
+    "portuguesePhonetic": "[lúk dha stór iz ôupanin náu]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_57",
+    "word": "I think you're right.",
+    "translation": "Eu acho que você está certo.",
+    "pronunciation": "/aɪ θɪŋk jʊr raɪt/",
+    "portuguesePhonetic": "[ái thínk iór ráit]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_58",
+    "word": "I'm thinking of changing jobs.",
+    "translation": "Estou pensando em mudar de emprego.",
+    "pronunciation": "/aɪm ˈθɪŋkɪŋ əv ˈtʃeɪndʒɪŋ dʒɑːbz/",
+    "portuguesePhonetic": "[áim thínkin ov tchêindjin djóbz]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_59",
+    "word": "What do you do?",
+    "translation": "O que você faz? (profissão)",
+    "pronunciation": "/wʌt duː juː duː/",
+    "portuguesePhonetic": "[uât dú iú dú]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_60",
+    "word": "What are you doing?",
+    "translation": "O que você está fazendo? (agora)",
+    "pronunciation": "/wʌt ɑːr juː ˈduːɪŋ/",
+    "portuguesePhonetic": "[uât ár iú dúin]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_61",
+    "word": "I don't usually drink coffee.",
+    "translation": "Eu geralmente não tomo café.",
+    "pronunciation": "/aɪ doʊnt ˈjuːʒuəli drɪŋk ˈkɔːfi/",
+    "portuguesePhonetic": "[ái dôunt iújuali drínk kófi]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_62",
+    "word": "I'm not working today.",
+    "translation": "Eu não estou trabalhando hoje.",
+    "pronunciation": "/aɪm nɑːt ˈwɜːrkɪŋ təˈdeɪ/",
+    "portuguesePhonetic": "[áim nót uârkin tudêi]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_63",
+    "word": "I'm staying home because I'm sick.",
+    "translation": "Estou ficando em casa porque estou doente.",
+    "pronunciation": "/aɪm ˈsteɪɪŋ hoʊm bɪˈkɔːz aɪm sɪk/",
+    "portuguesePhonetic": "[áim stêin rrôum bikóz áim sík]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_64",
+    "word": "She always complains when she's tired.",
+    "translation": "Ela sempre reclama quando está cansada.",
+    "pronunciation": "/ʃiː ˈɔːlweɪz kəmˈpleɪnz wɛn ʃiːz ˈtaɪərd/",
+    "portuguesePhonetic": "[chí ólueiz kompleinz uén chíz táierd]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_65",
+    "word": "The weather is getting colder, but I like it.",
+    "translation": "O tempo está ficando mais frio, mas eu gosto.",
+    "pronunciation": "/ðə ˈwɛðər ɪz ˈɡɛtɪŋ ˈkoʊldər bʌt aɪ laɪk ɪt/",
+    "portuguesePhonetic": "[dha uédher iz guétin kôulder bât ái láik ít]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_66",
+    "word": "I usually walk, but today I'm taking the bus.",
+    "translation": "Eu geralmente vou a pé, mas hoje estou pegando o ônibus.",
+    "pronunciation": "/aɪ ˈjuːʒuəli wɔːk bʌt təˈdeɪ aɪm ˈteɪkɪŋ ðə bʌs/",
+    "portuguesePhonetic": "[ái iújuali uók bât tudêi áim têikin dha bâs]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_67",
+    "word": "He's always losing things because he's careless.",
+    "translation": "Ele está sempre perdendo coisas porque é descuidado.",
+    "pronunciation": "/hiːz ˈɔːlweɪz ˈluːzɪŋ θɪŋz bɪˈkɔːz hiːz ˈkɛrləs/",
+    "portuguesePhonetic": "[rríz ólueiz lúzin thíNz bikóz rríz kérlas]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_68",
+    "word": "I promise I'll call you when I arrive.",
+    "translation": "Eu prometo que te ligo quando chegar.",
+    "pronunciation": "/aɪ ˈprɑːmɪs aɪl kɔːl juː wɛn aɪ əˈraɪv/",
+    "portuguesePhonetic": "[ái prámis áiou kól iú uén ái aráiv]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_69",
+    "word": "We're meeting the clients tomorrow, so prepare the report.",
+    "translation": "Vamos encontrar os clientes amanhã, então prepare o relatório.",
+    "pronunciation": "/wɪr ˈmiːtɪŋ ðə ˈklaɪənts təˈmɑːroʊ soʊ prɪˈpɛr ðə rɪˈpɔːrt/",
+    "portuguesePhonetic": "[uír mítin dha kláients tumárou sôu pripér dha ripórt]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_70",
+    "word": "The economy is changing, and many people are losing their jobs.",
+    "translation": "A economia está mudando, e muitas pessoas estão perdendo o emprego.",
+    "pronunciation": "/ðə ɪˈkɑːnəmi ɪz ˈtʃeɪndʒɪŋ ænd ˈmɛni ˈpiːpl̩ ɑːr ˈluːzɪŋ ðɛr dʒɑːbz/",
+    "portuguesePhonetic": "[dhi ikánami iz tchêindjin énd méni pípou ár lúzin dhér djóbz]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_71",
+    "word": "I'm wondering if you could help me with this.",
+    "translation": "Estou me perguntando se você poderia me ajudar com isso.",
+    "pronunciation": "/aɪm ˈwʌndərɪŋ ɪf juː kʊd hɛlp miː wɪð ðɪs/",
+    "portuguesePhonetic": "[áim uânderin if iú kúd rrélp mí uídh dhís]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_72",
+    "word": "She normally cooks, but tonight her husband is making dinner.",
+    "translation": "Ela normalmente cozinha, mas hoje à noite o marido está fazendo o jantar.",
+    "pronunciation": "/ʃiː ˈnɔːrməli kʊks bʌt təˈnaɪt hɜːr ˈhʌzbənd ɪz ˈmeɪkɪŋ ˈdɪnər/",
+    "portuguesePhonetic": "[chí nórmali kúks bât tunáit rrâr rrâzband iz mêikin díner]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_73",
+    "word": "I hear you're moving; when are you leaving?",
+    "translation": "Soube que você está se mudando; quando você vai?",
+    "pronunciation": "/aɪ hɪr jʊr ˈmuːvɪŋ wɛn ɑːr juː ˈliːvɪŋ/",
+    "portuguesePhonetic": "[ái rrír iór múvin uén ár iú lívin]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_74",
+    "word": "Water freezes at zero, but the lake isn't freezing yet.",
+    "translation": "A água congela a zero, mas o lago ainda não está congelando.",
+    "pronunciation": "/ˈwɔːtər ˈfriːzɪz æt ˈzɪroʊ bʌt ðə leɪk ˈɪznt ˈfriːzɪŋ jɛt/",
+    "portuguesePhonetic": "[uóter fríziz ét zírou bât dha lêik íznt frízin iét]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_75",
+    "word": "I'm loving this book, although I usually prefer movies.",
+    "translation": "Estou amando este livro, embora eu geralmente prefira filmes.",
+    "pronunciation": "/aɪm ˈlʌvɪŋ ðɪs bʊk ɔːlˈðoʊ aɪ ˈjuːʒuəli prɪˈfɜːr ˈmuːviz/",
+    "portuguesePhonetic": "[áim lâvin dhís búk oldhôu ái iújuali priférr múviz]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_76",
+    "word": "\"What do you do?\" / \"I'm a teacher.\"",
+    "translation": "\"O que você faz?\" / \"Sou professor.\"",
+    "pronunciation": "/wʌt duː juː duː · aɪm ə ˈtiːtʃər/",
+    "portuguesePhonetic": "[uât dú iú dú · áim a títcher]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_77",
+    "word": "\"What are you doing?\" / \"I'm cooking.\"",
+    "translation": "\"O que você está fazendo?\" / \"Estou cozinhando.\"",
+    "pronunciation": "/wʌt ɑːr juː ˈduːɪŋ · aɪm ˈkʊkɪŋ/",
+    "portuguesePhonetic": "[uât ár iú dúin · áim kúkin]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_78",
+    "word": "\"Do you live here?\" / \"Yes, I do.\"",
+    "translation": "\"Você mora aqui?\" / \"Sim, moro.\"",
+    "pronunciation": "/duː juː lɪv hɪr · jɛs aɪ duː/",
+    "portuguesePhonetic": "[dú iú lív rrír · iés ái dú]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_79",
+    "word": "\"Are you staying long?\" / \"Just this week.\"",
+    "translation": "\"Você vai ficar muito tempo?\" / \"Só esta semana.\"",
+    "pronunciation": "/ɑːr juː ˈsteɪɪŋ lɔːŋ · dʒʌst ðɪs wiːk/",
+    "portuguesePhonetic": "[ár iú stêin lóN · djâst dhís uík]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_80",
+    "word": "\"What time does it start?\" / \"At eight.\"",
+    "translation": "\"A que horas começa?\" / \"Às oito.\"",
+    "pronunciation": "/wʌt taɪm dʌz ɪt stɑːrt · æt eɪt/",
+    "portuguesePhonetic": "[uât táim dâz ít stárt · ét êit]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_81",
+    "word": "\"Are you coming tonight?\" / \"Yes, I'm meeting you there.\"",
+    "translation": "\"Você vem hoje à noite?\" / \"Sim, te encontro lá.\"",
+    "pronunciation": "/ɑːr juː ˈkʌmɪŋ təˈnaɪt · jɛs aɪm ˈmiːtɪŋ juː ðɛr/",
+    "portuguesePhonetic": "[ár iú kâmin tunáit · iés áim mítin iú dhér]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_82",
+    "word": "\"Why are you taking the bus?\" / \"My car is broken.\"",
+    "translation": "\"Por que você está pegando o ônibus?\" / \"Meu carro quebrou.\"",
+    "pronunciation": "/waɪ ɑːr juː ˈteɪkɪŋ ðə bʌs · maɪ kɑːr ɪz ˈbroʊkən/",
+    "portuguesePhonetic": "[uái ár iú têikin dha bâs · mái kár iz brôukan]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_83",
+    "word": "\"Do you understand?\" / \"Yes, I do.\"",
+    "translation": "\"Você entende?\" / \"Sim, entendo.\"",
+    "pronunciation": "/duː juː ˌʌndərˈstænd · jɛs aɪ duː/",
+    "portuguesePhonetic": "[dú iú andersténd · iés ái dú]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_84",
+    "word": "\"Are you listening?\" / \"Yes, I am.\"",
+    "translation": "\"Você está ouvindo?\" / \"Sim, estou.\"",
+    "pronunciation": "/ɑːr juː ˈlɪsn̩ɪŋ · jɛs aɪ æm/",
+    "portuguesePhonetic": "[ár iú lísanin · iés ái ém]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_85",
+    "word": "\"Does she work here?\" / \"No, she doesn't.\"",
+    "translation": "\"Ela trabalha aqui?\" / \"Não, não trabalha.\"",
+    "pronunciation": "/dʌz ʃiː wɜːrk hɪr · noʊ ʃiː ˈdʌznt/",
+    "portuguesePhonetic": "[dâz chí uârk rrír · nôu chí dâznt]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_86",
+    "word": "\"Is it raining?\" / \"Yes, it is.\"",
+    "translation": "\"Está chovendo?\" / \"Sim, está.\"",
+    "pronunciation": "/ɪz ɪt ˈreɪnɪŋ · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz ít rêinin · iés ít iz]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_87",
+    "word": "\"Do you want coffee?\" / \"No, I'm having tea.\"",
+    "translation": "\"Você quer café?\" / \"Não, estou tomando chá.\"",
+    "pronunciation": "/duː juː wɑːnt ˈkɔːfi · noʊ aɪm ˈhævɪŋ tiː/",
+    "portuguesePhonetic": "[dú iú uánt kófi · nôu áim rrévin tí]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_88",
+    "word": "\"What's happening?\" / \"The prices are rising.\"",
+    "translation": "\"O que está acontecendo?\" / \"Os preços estão subindo.\"",
+    "pronunciation": "/wʌts ˈhæpənɪŋ · ðə ˈpraɪsɪz ɑːr ˈraɪzɪŋ/",
+    "portuguesePhonetic": "[uâts rrépanin · dha práisiz ár ráizin]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_89",
+    "word": "\"Why is he so tired?\" / \"He's working a lot.\"",
+    "translation": "\"Por que ele está tão cansado?\" / \"Está trabalhando muito.\"",
+    "pronunciation": "/waɪ ɪz hiː soʊ ˈtaɪərd · hiːz ˈwɜːrkɪŋ ə lɑːt/",
+    "portuguesePhonetic": "[uái iz rrí sôu táierd · rríz uârkin a lót]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_90",
+    "word": "\"Do you know her?\" / \"Yes, very well.\"",
+    "translation": "\"Você a conhece?\" / \"Sim, muito bem.\"",
+    "pronunciation": "/duː juː noʊ hɜːr · jɛs ˈvɛri wɛl/",
+    "portuguesePhonetic": "[dú iú nôu rrâr · iés véri uél]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_91",
+    "word": "\"Are you thinking about it?\" / \"Yes, I am.\"",
+    "translation": "\"Você está pensando nisso?\" / \"Sim, estou.\"",
+    "pronunciation": "/ɑːr juː ˈθɪŋkɪŋ əˈbaʊt ɪt · jɛs aɪ æm/",
+    "portuguesePhonetic": "[ár iú thínkin abáut ít · iés ái ém]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_92",
+    "word": "\"Does the train leave soon?\" / \"At nine sharp.\"",
+    "translation": "\"O trem sai logo?\" / \"Às nove em ponto.\"",
+    "pronunciation": "/dʌz ðə treɪn liːv suːn · æt naɪn ʃɑːrp/",
+    "portuguesePhonetic": "[dâz dha trêin lív sún · ét náin chárp]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_93",
+    "word": "\"Why are you smiling?\" / \"I'm loving this song!\"",
+    "translation": "\"Por que você está sorrindo?\" / \"Estou amando essa música!\"",
+    "pronunciation": "/waɪ ɑːr juː ˈsmaɪlɪŋ · aɪm ˈlʌvɪŋ ðɪs sɔːŋ/",
+    "portuguesePhonetic": "[uái ár iú smáilin · áim lâvin dhís sóN]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_94",
+    "word": "\"Is she always late?\" / \"Yes, always!\"",
+    "translation": "\"Ela está sempre atrasada?\" / \"Sim, sempre!\"",
+    "pronunciation": "/ɪz ʃiː ˈɔːlweɪz leɪt · jɛs ˈɔːlweɪz/",
+    "portuguesePhonetic": "[iz chí ólueiz lêit · iés ólueiz]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_95",
+    "word": "\"What are you reading?\" / \"A great novel.\"",
+    "translation": "\"O que você está lendo?\" / \"Um ótimo romance.\"",
+    "pronunciation": "/wʌt ɑːr juː ˈriːdɪŋ · ə ɡreɪt ˈnɑːvl̩/",
+    "portuguesePhonetic": "[uât ár iú rídin · a grêit návou]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_96",
+    "word": "\"Do you believe him?\" / \"Not really.\"",
+    "translation": "\"Você acredita nele?\" / \"Nem tanto.\"",
+    "pronunciation": "/duː juː bɪˈliːv hɪm · nɑːt ˈrɪli/",
+    "portuguesePhonetic": "[dú iú bilív rrím · nót ríli]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_97",
+    "word": "\"Are you feeling better?\" / \"Yes, much better.\"",
+    "translation": "\"Você está se sentindo melhor?\" / \"Sim, bem melhor.\"",
+    "pronunciation": "/ɑːr juː ˈfiːlɪŋ ˈbɛtər · jɛs mʌtʃ ˈbɛtər/",
+    "portuguesePhonetic": "[ár iú fílin béter · iés mâtch béter]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_98",
+    "word": "\"What do you usually do on Sundays?\" / \"I relax.\"",
+    "translation": "\"O que você costuma fazer aos domingos?\" / \"Eu relaxo.\"",
+    "pronunciation": "/wʌt duː juː ˈjuːʒuəli duː ɑːn ˈsʌndeɪz · aɪ rɪˈlæks/",
+    "portuguesePhonetic": "[uât dú iú iújuali dú ón sândeiz · ái riléks]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_99",
+    "word": "\"Are they moving?\" / \"Yes, next month.\"",
+    "translation": "\"Eles estão se mudando?\" / \"Sim, no mês que vem.\"",
+    "pronunciation": "/ɑːr ðeɪ ˈmuːvɪŋ · jɛs nɛkst mʌnθ/",
+    "portuguesePhonetic": "[ár dhêi múvin · iés nékst mânth]"
+  },
+  {
+    "id": "lesson_1_grammar_c1_en_card_100",
+    "word": "\"Is the soup ready?\" / \"I'm tasting it now.\"",
+    "translation": "\"A sopa está pronta?\" / \"Estou provando agora.\"",
+    "pronunciation": "/ɪz ðə suːp ˈrɛdi · aɪm ˈteɪstɪŋ ɪt naʊ/",
+    "portuguesePhonetic": "[iz dha súp rédi · áim têistin ít náu]"
+  }
+]
