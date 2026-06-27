@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_7_grammar_a1_en_card_1",
+    "word": "what",
+    "translation": "o que / qual",
+    "pronunciation": "/wʌt/",
+    "portuguesePhonetic": "[uât]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_2",
+    "word": "where",
+    "translation": "onde",
+    "pronunciation": "/wɛr/",
+    "portuguesePhonetic": "[uér]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_3",
+    "word": "when",
+    "translation": "quando",
+    "pronunciation": "/wɛn/",
+    "portuguesePhonetic": "[uén]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_4",
+    "word": "how",
+    "translation": "como",
+    "pronunciation": "/haʊ/",
+    "portuguesePhonetic": "[rráu]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_5",
+    "word": "how old",
+    "translation": "quantos anos",
+    "pronunciation": "/haʊ oʊld/",
+    "portuguesePhonetic": "[rráu ôuld]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_6",
+    "word": "what time",
+    "translation": "a que horas",
+    "pronunciation": "/wʌt taɪm/",
+    "portuguesePhonetic": "[uât táim]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_7",
+    "word": "how often",
+    "translation": "com que frequência",
+    "pronunciation": "/haʊ ˈɔːfn̩/",
+    "portuguesePhonetic": "[rráu ófen]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_8",
+    "word": "why",
+    "translation": "por que",
+    "pronunciation": "/waɪ/",
+    "portuguesePhonetic": "[uái]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_9",
+    "word": "who",
+    "translation": "quem",
+    "pronunciation": "/huː/",
+    "portuguesePhonetic": "[rrú]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_10",
+    "word": "Is Sharon from the US?",
+    "translation": "A Sharon é dos EUA?",
+    "pronunciation": "/ɪz ˈʃɛrən frəm ðə juː ɛs/",
+    "portuguesePhonetic": "[iz chéran from dha iú és]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_11",
+    "word": "How old are you?",
+    "translation": "Quantos anos você tem?",
+    "pronunciation": "/haʊ oʊld ɑːr juː/",
+    "portuguesePhonetic": "[rráu ôuld ár iú]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_12",
+    "word": "What is this?",
+    "translation": "O que é isto?",
+    "pronunciation": "/wʌt ɪz ðɪs/",
+    "portuguesePhonetic": "[uât iz dhís]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_13",
+    "word": "Where are you from?",
+    "translation": "De onde você é?",
+    "pronunciation": "/wɛr ɑːr juː frəm/",
+    "portuguesePhonetic": "[uér ár iú from]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_14",
+    "word": "Do you like pizza?",
+    "translation": "Você gosta de pizza?",
+    "pronunciation": "/duː juː laɪk ˈpiːtsə/",
+    "portuguesePhonetic": "[dú iú láik pítsa]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_15",
+    "word": "Where do you work?",
+    "translation": "Onde você trabalha?",
+    "pronunciation": "/wɛr duː juː wɜːrk/",
+    "portuguesePhonetic": "[uér dú iú uârk]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_16",
+    "word": "What time does he get up?",
+    "translation": "A que horas ele levanta?",
+    "pronunciation": "/wʌt taɪm dʌz hiː ɡɛt ʌp/",
+    "portuguesePhonetic": "[uât táim dâz rrí guét âp]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_17",
+    "word": "How often do they go out?",
+    "translation": "Com que frequência eles saem?",
+    "pronunciation": "/haʊ ˈɔːfn̩ duː ðeɪ ɡoʊ aʊt/",
+    "portuguesePhonetic": "[rráu ófen dú dhêi gôu áut]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_18",
+    "word": "What do you do?",
+    "translation": "O que você faz (da vida)?",
+    "pronunciation": "/wʌt duː juː duː/",
+    "portuguesePhonetic": "[uât dú iú dú]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_19",
+    "word": "Are you...?",
+    "translation": "Você é / está...?",
+    "pronunciation": "/ɑːr juː/",
+    "portuguesePhonetic": "[ár iú]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_20",
+    "word": "Is he...?",
+    "translation": "Ele é / está...?",
+    "pronunciation": "/ɪz hiː/",
+    "portuguesePhonetic": "[iz rrí]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_21",
+    "word": "Do you...?",
+    "translation": "Você...? (verbo de ação)",
+    "pronunciation": "/duː juː/",
+    "portuguesePhonetic": "[dú iú]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_22",
+    "word": "Does he...?",
+    "translation": "Ele...?",
+    "pronunciation": "/dʌz hiː/",
+    "portuguesePhonetic": "[dâz rrí]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_23",
+    "word": "What do you...?",
+    "translation": "O que você...?",
+    "pronunciation": "/wʌt duː juː/",
+    "portuguesePhonetic": "[uât dú iú]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_24",
+    "word": "Where does she...?",
+    "translation": "Onde ela...?",
+    "pronunciation": "/wɛr dʌz ʃiː/",
+    "portuguesePhonetic": "[uér dâz chí]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_25",
+    "word": "Why don't you...?",
+    "translation": "Por que você não...?",
+    "pronunciation": "/waɪ doʊnt juː/",
+    "portuguesePhonetic": "[uái dôunt iú]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_26",
+    "word": "What's your name?",
+    "translation": "Qual é o seu nome?",
+    "pronunciation": "/wʌts jɔːr neɪm/",
+    "portuguesePhonetic": "[uâts iór nêim]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_27",
+    "word": "Where are you from?",
+    "translation": "De onde você é?",
+    "pronunciation": "/wɛr ɑːr juː frəm/",
+    "portuguesePhonetic": "[uér ár iú from]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_28",
+    "word": "How old are you?",
+    "translation": "Quantos anos você tem?",
+    "pronunciation": "/haʊ oʊld ɑːr juː/",
+    "portuguesePhonetic": "[rráu ôuld ár iú]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_29",
+    "word": "What do you do?",
+    "translation": "O que você faz (da vida)?",
+    "pronunciation": "/wʌt duː juː duː/",
+    "portuguesePhonetic": "[uât dú iú dú]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_30",
+    "word": "Do you live here?",
+    "translation": "Você mora aqui?",
+    "pronunciation": "/duː juː lɪv hɪr/",
+    "portuguesePhonetic": "[dú iú lív rrír]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_31",
+    "word": "Where do you work?",
+    "translation": "Onde você trabalha?",
+    "pronunciation": "/wɛr duː juː wɜːrk/",
+    "portuguesePhonetic": "[uér dú iú uârk]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_32",
+    "word": "What time do you start?",
+    "translation": "A que horas você começa?",
+    "pronunciation": "/wʌt taɪm duː juː stɑːrt/",
+    "portuguesePhonetic": "[uât táim dú iú stárt]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_33",
+    "word": "Do you like your job?",
+    "translation": "Você gosta do seu trabalho?",
+    "pronunciation": "/duː juː laɪk jɔːr dʒɑːb/",
+    "portuguesePhonetic": "[dú iú láik iór djób]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_34",
+    "word": "How do you go to work?",
+    "translation": "Como você vai para o trabalho?",
+    "pronunciation": "/haʊ duː juː ɡoʊ tə wɜːrk/",
+    "portuguesePhonetic": "[rráu dú iú gôu tu uârk]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_35",
+    "word": "Do you want to go out?",
+    "translation": "Você quer sair?",
+    "pronunciation": "/duː juː wɑːnt tə ɡoʊ aʊt/",
+    "portuguesePhonetic": "[dú iú uánt tu gôu áut]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_36",
+    "word": "What time does the movie start?",
+    "translation": "A que horas o filme começa?",
+    "pronunciation": "/wʌt taɪm dʌz ðə ˈmuːvi stɑːrt/",
+    "portuguesePhonetic": "[uât táim dâz dha múvi stárt]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_37",
+    "word": "Where do you want to eat?",
+    "translation": "Onde você quer comer?",
+    "pronunciation": "/wɛr duː juː wɑːnt tə iːt/",
+    "portuguesePhonetic": "[uér dú iú uánt tu ít]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_38",
+    "word": "Do you like Italian food?",
+    "translation": "Você gosta de comida italiana?",
+    "pronunciation": "/duː juː laɪk ɪˈtæljən fuːd/",
+    "portuguesePhonetic": "[dú iú láik itélian fúd]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_39",
+    "word": "What do you do on weekends?",
+    "translation": "O que você faz nos fins de semana?",
+    "pronunciation": "/wʌt duː juː duː ɑːn ˈwiːkɛndz/",
+    "portuguesePhonetic": "[uât dú iú dú ón uíkendz]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_40",
+    "word": "How often do you exercise?",
+    "translation": "Com que frequência você se exercita?",
+    "pronunciation": "/haʊ ˈɔːfn̩ duː juː ˈɛksərsaɪz/",
+    "portuguesePhonetic": "[rráu ófen dú iú éksersaiz]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_41",
+    "word": "Do you play any sports?",
+    "translation": "Você pratica algum esporte?",
+    "pronunciation": "/duː juː pleɪ ˈɛni spɔːrts/",
+    "portuguesePhonetic": "[dú iú plêi éni spórts]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_42",
+    "word": "What music do you like?",
+    "translation": "De que música você gosta?",
+    "pronunciation": "/wʌt ˈmjuːzɪk duː juː laɪk/",
+    "portuguesePhonetic": "[uât miúzik dú iú láik]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_43",
+    "word": "Are you free tomorrow?",
+    "translation": "Você está livre amanhã?",
+    "pronunciation": "/ɑːr juː friː təˈmɑːroʊ/",
+    "portuguesePhonetic": "[ár iú frí tumárou]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_44",
+    "word": "What time is the meeting?",
+    "translation": "A que horas é a reunião?",
+    "pronunciation": "/wʌt taɪm ɪz ðə ˈmiːtɪŋ/",
+    "portuguesePhonetic": "[uât táim iz dha mítin]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_45",
+    "word": "Where is the restaurant?",
+    "translation": "Onde fica o restaurante?",
+    "pronunciation": "/wɛr ɪz ðə ˈrɛstərɑːnt/",
+    "portuguesePhonetic": "[uér iz dha réstorant]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_46",
+    "word": "Where is the station?",
+    "translation": "Onde fica a estação?",
+    "pronunciation": "/wɛr ɪz ðə ˈsteɪʃn̩/",
+    "portuguesePhonetic": "[uér iz dha stêichan]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_47",
+    "word": "How much is the ticket?",
+    "translation": "Quanto custa a passagem?",
+    "pronunciation": "/haʊ mʌtʃ ɪz ðə ˈtɪkɪt/",
+    "portuguesePhonetic": "[rráu mâtch iz dha tíket]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_48",
+    "word": "What time does the train leave?",
+    "translation": "A que horas o trem sai?",
+    "pronunciation": "/wʌt taɪm dʌz ðə treɪn liːv/",
+    "portuguesePhonetic": "[uât táim dâz dha trêin lív]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_49",
+    "word": "Is it far from here?",
+    "translation": "É longe daqui?",
+    "pronunciation": "/ɪz ɪt fɑːr frəm hɪr/",
+    "portuguesePhonetic": "[iz ít fár from rrír]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_50",
+    "word": "Do you speak English?",
+    "translation": "Você fala inglês?",
+    "pronunciation": "/duː juː spiːk ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "[dú iú spík ínglich]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_51",
+    "word": "What is your name?",
+    "translation": "Qual é o seu nome?",
+    "pronunciation": "/wʌt ɪz jɔːr neɪm/",
+    "portuguesePhonetic": "[uât iz iór nêim]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_52",
+    "word": "Where do you live?",
+    "translation": "Onde você mora?",
+    "pronunciation": "/wɛr duː juː lɪv/",
+    "portuguesePhonetic": "[uér dú iú lív]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_53",
+    "word": "Do you have a car?",
+    "translation": "Você tem carro?",
+    "pronunciation": "/duː juː hæv ə kɑːr/",
+    "portuguesePhonetic": "[dú iú rrév a kár]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_54",
+    "word": "Is she your sister?",
+    "translation": "Ela é sua irmã?",
+    "pronunciation": "/ɪz ʃiː jɔːr ˈsɪstər/",
+    "portuguesePhonetic": "[iz chí iór síster]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_55",
+    "word": "How old is your brother?",
+    "translation": "Quantos anos tem seu irmão?",
+    "pronunciation": "/haʊ oʊld ɪz jɔːr ˈbrʌðər/",
+    "portuguesePhonetic": "[rráu ôuld iz iór brâdher]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_56",
+    "word": "What time does the store open?",
+    "translation": "A que horas a loja abre?",
+    "pronunciation": "/wʌt taɪm dʌz ðə stɔːr ˈoʊpən/",
+    "portuguesePhonetic": "[uât táim dâz dha stór ôupan]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_57",
+    "word": "Why are you late?",
+    "translation": "Por que você está atrasado?",
+    "pronunciation": "/waɪ ɑːr juː leɪt/",
+    "portuguesePhonetic": "[uái ár iú lêit]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_58",
+    "word": "Who is that man?",
+    "translation": "Quem é aquele homem?",
+    "pronunciation": "/huː ɪz ðæt mæn/",
+    "portuguesePhonetic": "[rrú iz dhét mén]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_59",
+    "word": "How often do you visit your family?",
+    "translation": "Com que frequência você visita sua família?",
+    "pronunciation": "/haʊ ˈɔːfn̩ duː juː ˈvɪzɪt jɔːr ˈfæməli/",
+    "portuguesePhonetic": "[rráu ófen dú iú vízit iór fémili]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_60",
+    "word": "What do you usually do after work?",
+    "translation": "O que você costuma fazer depois do trabalho?",
+    "pronunciation": "/wʌt duː juː ˈjuːʒuəli duː ˈæftər wɜːrk/",
+    "portuguesePhonetic": "[uât dú iú iújuali dú éfter uârk]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_61",
+    "word": "Does she work or study?",
+    "translation": "Ela trabalha ou estuda?",
+    "pronunciation": "/dʌz ʃiː wɜːrk ɔːr ˈstʌdi/",
+    "portuguesePhonetic": "[dâz chí uârk ór stâdi]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_62",
+    "word": "Don't you like coffee?",
+    "translation": "Você não gosta de café?",
+    "pronunciation": "/doʊnt juː laɪk ˈkɔːfi/",
+    "portuguesePhonetic": "[dôunt iú láik kófi]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_63",
+    "word": "Where do you go when you have free time?",
+    "translation": "Onde você vai quando tem tempo livre?",
+    "pronunciation": "/wɛr duː juː ɡoʊ wɛn juː hæv friː taɪm/",
+    "portuguesePhonetic": "[uér dú iú gôu uén iú rrév frí táim]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_64",
+    "word": "What are you doing right now?",
+    "translation": "O que você está fazendo agora?",
+    "pronunciation": "/wʌt ɑːr juː ˈduːɪŋ raɪt naʊ/",
+    "portuguesePhonetic": "[uât ár iú dúin ráit náu]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_65",
+    "word": "Did you call him yesterday?",
+    "translation": "Você ligou para ele ontem?",
+    "pronunciation": "/dɪd juː kɔːl hɪm ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[díd iú kól rrím iéster dei]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_66",
+    "word": "Why didn't you come to the party?",
+    "translation": "Por que você não veio à festa?",
+    "pronunciation": "/waɪ ˈdɪdnt juː kʌm tə ðə ˈpɑːrti/",
+    "portuguesePhonetic": "[uái dídent iú kâm tu dha párti]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_67",
+    "word": "What time will the meeting start?",
+    "translation": "A que horas a reunião vai começar?",
+    "pronunciation": "/wʌt taɪm wɪl ðə ˈmiːtɪŋ stɑːrt/",
+    "portuguesePhonetic": "[uât táim uíou dha mítin stárt]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_68",
+    "word": "Do you know where the nearest bank is?",
+    "translation": "Você sabe onde fica o banco mais próximo?",
+    "pronunciation": "/duː juː noʊ wɛr ðə ˈnɪrəst bæŋk ɪz/",
+    "portuguesePhonetic": "[dú iú nôu uér dha nírast bénk iz]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_69",
+    "word": "How long does it take to get there?",
+    "translation": "Quanto tempo leva para chegar lá?",
+    "pronunciation": "/haʊ lɔːŋ dʌz ɪt teɪk tə ɡɛt ðɛr/",
+    "portuguesePhonetic": "[rráu lóN dâz ít têik tu guét dhér]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_70",
+    "word": "What would you do if you won the lottery?",
+    "translation": "O que você faria se ganhasse na loteria?",
+    "pronunciation": "/wʌt wʊd juː duː ɪf juː wʌn ðə ˈlɑːtəri/",
+    "portuguesePhonetic": "[uât uúd iú dú if iú uân dha látari]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_71",
+    "word": "Can you tell me why she is so happy?",
+    "translation": "Você pode me dizer por que ela está tão feliz?",
+    "pronunciation": "/kæn juː tɛl miː waɪ ʃiː ɪz soʊ ˈhæpi/",
+    "portuguesePhonetic": "[kén iú tél mí uái chí iz sôu rrépi]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_72",
+    "word": "Do you prefer tea or coffee in the morning?",
+    "translation": "Você prefere chá ou café de manhã?",
+    "pronunciation": "/duː juː prɪˈfɜːr tiː ɔːr ˈkɔːfi ɪn ðə ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[dú iú priférr tí ór kófi in dha mórnin]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_73",
+    "word": "Why does he always arrive late, even when he wakes up early?",
+    "translation": "Por que ele sempre chega atrasado, mesmo acordando cedo?",
+    "pronunciation": "/waɪ dʌz hiː ˈɔːlweɪz əˈraɪv leɪt ˈiːvn̩ wɛn hiː weɪks ʌp ˈɜːrli/",
+    "portuguesePhonetic": "[uái dâz rrí ólueiz aráiv lêit ívan uén rrí uêiks âp ârli]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_74",
+    "word": "How often do you eat out, and where do you usually go?",
+    "translation": "Com que frequência você come fora, e onde costuma ir?",
+    "pronunciation": "/haʊ ˈɔːfn̩ duː juː iːt aʊt ænd wɛr duː juː ˈjuːʒuəli ɡoʊ/",
+    "portuguesePhonetic": "[rráu ófen dú iú ít áut énd uér dú iú iújuali gôu]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_75",
+    "word": "What do you think about working from home?",
+    "translation": "O que você acha de trabalhar de casa?",
+    "pronunciation": "/wʌt duː juː θɪŋk əˈbaʊt ˈwɜːrkɪŋ frəm hoʊm/",
+    "portuguesePhonetic": "[uât dú iú thínk abáut uârkin from rrôum]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_76",
+    "word": "\"Where are you from?\" / \"I'm from Brazil.\"",
+    "translation": "\"De onde você é?\" / \"Eu sou do Brasil.\"",
+    "pronunciation": "/wɛr ɑːr juː frəm · aɪm frəm brəˈzɪl/",
+    "portuguesePhonetic": "[uér ár iú from · áim from brazíou]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_77",
+    "word": "\"How old are you?\" / \"I'm twenty-five.\"",
+    "translation": "\"Quantos anos você tem?\" / \"Tenho vinte e cinco.\"",
+    "pronunciation": "/haʊ oʊld ɑːr juː · aɪm ˈtwɛnti faɪv/",
+    "portuguesePhonetic": "[rráu ôuld ár iú · áim tuénti fáiv]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_78",
+    "word": "\"What do you do?\" / \"I'm a teacher.\"",
+    "translation": "\"O que você faz?\" / \"Sou professor.\"",
+    "pronunciation": "/wʌt duː juː duː · aɪm ə ˈtiːtʃər/",
+    "portuguesePhonetic": "[uât dú iú dú · áim a títcher]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_79",
+    "word": "\"Do you like pizza?\" / \"Yes, I love it.\"",
+    "translation": "\"Você gosta de pizza?\" / \"Sim, eu adoro.\"",
+    "pronunciation": "/duː juː laɪk ˈpiːtsə · jɛs aɪ lʌv ɪt/",
+    "portuguesePhonetic": "[dú iú láik pítsa · iés ái lâv ít]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_80",
+    "word": "\"Where do you work?\" / \"In a hospital.\"",
+    "translation": "\"Onde você trabalha?\" / \"Num hospital.\"",
+    "pronunciation": "/wɛr duː juː wɜːrk · ɪn ə ˈhɑːspɪtl̩/",
+    "portuguesePhonetic": "[uér dú iú uârk · in a rráspitou]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_81",
+    "word": "\"What time do you get up?\" / \"At seven.\"",
+    "translation": "\"A que horas você levanta?\" / \"Às sete.\"",
+    "pronunciation": "/wʌt taɪm duː juː ɡɛt ʌp · æt ˈsɛvn̩/",
+    "portuguesePhonetic": "[uât táim dú iú guét âp · ét sévan]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_82",
+    "word": "\"How often do you exercise?\" / \"Three times a week.\"",
+    "translation": "\"Com que frequência você se exercita?\" / \"Três vezes por semana.\"",
+    "pronunciation": "/haʊ ˈɔːfn̩ duː juː ˈɛksərsaɪz · θriː taɪmz ə wiːk/",
+    "portuguesePhonetic": "[rráu ófen dú iú éksersaiz · thrí táimz a uík]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_83",
+    "word": "\"Is this your car?\" / \"No, it isn't.\"",
+    "translation": "\"Este é o seu carro?\" / \"Não, não é.\"",
+    "pronunciation": "/ɪz ðɪs jɔːr kɑːr · noʊ ɪt ˈɪznt/",
+    "portuguesePhonetic": "[iz dhís iór kár · nôu ít íznt]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_84",
+    "word": "\"What's your name?\" / \"My name is Anna.\"",
+    "translation": "\"Qual é o seu nome?\" / \"Meu nome é Anna.\"",
+    "pronunciation": "/wʌts jɔːr neɪm · maɪ neɪm ɪz ˈænə/",
+    "portuguesePhonetic": "[uâts iór nêim · mái nêim iz éna]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_85",
+    "word": "\"Do you speak English?\" / \"Yes, a little.\"",
+    "translation": "\"Você fala inglês?\" / \"Sim, um pouco.\"",
+    "pronunciation": "/duː juː spiːk ˈɪŋɡlɪʃ · jɛs ə ˈlɪtl̩/",
+    "portuguesePhonetic": "[dú iú spík ínglich · iés a lítou]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_86",
+    "word": "\"Where do you live?\" / \"Near the park.\"",
+    "translation": "\"Onde você mora?\" / \"Perto do parque.\"",
+    "pronunciation": "/wɛr duː juː lɪv · nɪr ðə pɑːrk/",
+    "portuguesePhonetic": "[uér dú iú lív · nír dha párk]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_87",
+    "word": "\"What time does the train leave?\" / \"At noon.\"",
+    "translation": "\"A que horas o trem sai?\" / \"Ao meio-dia.\"",
+    "pronunciation": "/wʌt taɪm dʌz ðə treɪn liːv · æt nuːn/",
+    "portuguesePhonetic": "[uât táim dâz dha trêin lív · ét nún]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_88",
+    "word": "\"Are you free tonight?\" / \"No, I'm busy.\"",
+    "translation": "\"Você está livre hoje à noite?\" / \"Não, estou ocupado.\"",
+    "pronunciation": "/ɑːr juː friː təˈnaɪt · noʊ aɪm ˈbɪzi/",
+    "portuguesePhonetic": "[ár iú frí tunáit · nôu áim bízi]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_89",
+    "word": "\"Who is that?\" / \"That's my brother.\"",
+    "translation": "\"Quem é aquele?\" / \"É meu irmão.\"",
+    "pronunciation": "/huː ɪz ðæt · ðæts maɪ ˈbrʌðər/",
+    "portuguesePhonetic": "[rrú iz dhét · dhéts mái brâdher]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_90",
+    "word": "\"Do you have any pets?\" / \"Yes, a dog.\"",
+    "translation": "\"Você tem algum bicho de estimação?\" / \"Sim, um cachorro.\"",
+    "pronunciation": "/duː juː hæv ˈɛni pɛts · jɛs ə dɔːɡ/",
+    "portuguesePhonetic": "[dú iú rrév éni péts · iés a dóg]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_91",
+    "word": "\"What music do you like?\" / \"I like rock.\"",
+    "translation": "\"De que música você gosta?\" / \"Eu gosto de rock.\"",
+    "pronunciation": "/wʌt ˈmjuːzɪk duː juː laɪk · aɪ laɪk rɑːk/",
+    "portuguesePhonetic": "[uât miúzik dú iú láik · ái láik rók]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_92",
+    "word": "\"Where is the bathroom?\" / \"Down the hall.\"",
+    "translation": "\"Onde fica o banheiro?\" / \"No fim do corredor.\"",
+    "pronunciation": "/wɛr ɪz ðə ˈbæθruːm · daʊn ðə hɔːl/",
+    "portuguesePhonetic": "[uér iz dha béthrum · dáun dha ról]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_93",
+    "word": "\"How much is this?\" / \"Ten dollars.\"",
+    "translation": "\"Quanto custa isto?\" / \"Dez dólares.\"",
+    "pronunciation": "/haʊ mʌtʃ ɪz ðɪs · tɛn ˈdɑːlərz/",
+    "portuguesePhonetic": "[rráu mâtch iz dhís · tén dálars]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_94",
+    "word": "\"When is your birthday?\" / \"In June.\"",
+    "translation": "\"Quando é seu aniversário?\" / \"Em junho.\"",
+    "pronunciation": "/wɛn ɪz jɔːr ˈbɜːrθdeɪ · ɪn dʒuːn/",
+    "portuguesePhonetic": "[uén iz iór bârthdei · in djún]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_95",
+    "word": "\"Do you want some coffee?\" / \"Yes, please.\"",
+    "translation": "\"Você quer um café?\" / \"Sim, por favor.\"",
+    "pronunciation": "/duː juː wɑːnt sʌm ˈkɔːfi · jɛs pliːz/",
+    "portuguesePhonetic": "[dú iú uánt sâm kófi · iés plíz]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_96",
+    "word": "\"Why are you sad?\" / \"I had a bad day.\"",
+    "translation": "\"Por que você está triste?\" / \"Tive um dia ruim.\"",
+    "pronunciation": "/waɪ ɑːr juː sæd · aɪ hæd ə bæd deɪ/",
+    "portuguesePhonetic": "[uái ár iú séd · ái rréd a béd dêi]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_97",
+    "word": "\"What time is it?\" / \"It's three o'clock.\"",
+    "translation": "\"Que horas são?\" / \"São três horas.\"",
+    "pronunciation": "/wʌt taɪm ɪz ɪt · ɪts θriː əˈklɑːk/",
+    "portuguesePhonetic": "[uât táim iz ít · íts thrí aklák]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_98",
+    "word": "\"Does he speak Spanish?\" / \"Yes, fluently.\"",
+    "translation": "\"Ele fala espanhol?\" / \"Sim, fluentemente.\"",
+    "pronunciation": "/dʌz hiː spiːk ˈspænɪʃ · jɛs ˈfluːəntli/",
+    "portuguesePhonetic": "[dâz rrí spík spénich · iés flúentli]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_99",
+    "word": "\"How do you go to work?\" / \"By bike.\"",
+    "translation": "\"Como você vai para o trabalho?\" / \"De bicicleta.\"",
+    "pronunciation": "/haʊ duː juː ɡoʊ tə wɜːrk · baɪ baɪk/",
+    "portuguesePhonetic": "[rráu dú iú gôu tu uârk · bái báik]"
+  },
+  {
+    "id": "lesson_7_grammar_a1_en_card_100",
+    "word": "\"What do you do on weekends?\" / \"I relax at home.\"",
+    "translation": "\"O que você faz nos fins de semana?\" / \"Eu relaxo em casa.\"",
+    "pronunciation": "/wʌt duː juː duː ɑːn ˈwiːkɛndz · aɪ rɪˈlæks æt hoʊm/",
+    "portuguesePhonetic": "[uât dú iú dú ón uíkendz · ái riléks ét rrôum]"
+  }
+]

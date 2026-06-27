@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_11_grammar_a1_en_card_1",
+    "word": "at 4 o'clock",
+    "translation": "às 4 horas",
+    "pronunciation": "/æt fɔːr əˈklɑːk/",
+    "portuguesePhonetic": "[ét fór aklák]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_2",
+    "word": "at 10:30",
+    "translation": "às 10:30",
+    "pronunciation": "/æt tɛn ˈθɜːrti/",
+    "portuguesePhonetic": "[ét tén thârti]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_3",
+    "word": "at noon",
+    "translation": "ao meio-dia",
+    "pronunciation": "/æt nuːn/",
+    "portuguesePhonetic": "[ét nún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_4",
+    "word": "at midnight",
+    "translation": "à meia-noite",
+    "pronunciation": "/æt ˈmɪdnaɪt/",
+    "portuguesePhonetic": "[ét mídnait]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_5",
+    "word": "at lunchtime",
+    "translation": "na hora do almoço",
+    "pronunciation": "/æt ˈlʌntʃtaɪm/",
+    "portuguesePhonetic": "[ét lântchtaim]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_6",
+    "word": "at Christmas",
+    "translation": "no Natal",
+    "pronunciation": "/æt ˈkrɪsməs/",
+    "portuguesePhonetic": "[ét krísmas]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_7",
+    "word": "at night",
+    "translation": "à noite",
+    "pronunciation": "/æt naɪt/",
+    "portuguesePhonetic": "[ét náit]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_8",
+    "word": "at the moment",
+    "translation": "no momento",
+    "pronunciation": "/æt ðə ˈmoʊmənt/",
+    "portuguesePhonetic": "[ét dha môument]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_10",
+    "word": "in April",
+    "translation": "em abril",
+    "pronunciation": "/ɪn ˈeɪprəl/",
+    "portuguesePhonetic": "[in êiprou]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_11",
+    "word": "in the summer",
+    "translation": "no verão",
+    "pronunciation": "/ɪn ðə ˈsʌmər/",
+    "portuguesePhonetic": "[in dha sâmer]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_12",
+    "word": "in 1990",
+    "translation": "em 1990",
+    "pronunciation": "/ɪn ˌnaɪnˈtiːn ˈnaɪnti/",
+    "portuguesePhonetic": "[in naintín náinti]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_13",
+    "word": "in the 80s",
+    "translation": "nos anos 80",
+    "pronunciation": "/ɪn ðə ˈeɪtiz/",
+    "portuguesePhonetic": "[in dha êitiz]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_14",
+    "word": "in the 20th century",
+    "translation": "no século 20",
+    "pronunciation": "/ɪn ðə ˈtwɛntiəθ ˈsɛntʃəri/",
+    "portuguesePhonetic": "[in dha tuéntieth séntchuri]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_15",
+    "word": "in the morning",
+    "translation": "de manhã",
+    "pronunciation": "/ɪn ðə ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[in dha mórnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_16",
+    "word": "in the afternoon",
+    "translation": "à tarde",
+    "pronunciation": "/ɪn ðə ˌæftərˈnuːn/",
+    "portuguesePhonetic": "[in dhi éfternún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_17",
+    "word": "in the evening",
+    "translation": "à noite (início)",
+    "pronunciation": "/ɪn ðə ˈiːvnɪŋ/",
+    "portuguesePhonetic": "[in dhi ívnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_19",
+    "word": "on Tuesday",
+    "translation": "na terça-feira",
+    "pronunciation": "/ɑːn ˈtuːzdeɪ/",
+    "portuguesePhonetic": "[ón túzdei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_20",
+    "word": "on my birthday",
+    "translation": "no meu aniversário",
+    "pronunciation": "/ɑːn maɪ ˈbɜːrθdeɪ/",
+    "portuguesePhonetic": "[ón mái bârthdei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_21",
+    "word": "on Christmas day",
+    "translation": "no dia de Natal",
+    "pronunciation": "/ɑːn ˈkrɪsməs deɪ/",
+    "portuguesePhonetic": "[ón krísmas dêi]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_22",
+    "word": "on 15th June",
+    "translation": "no dia 15 de junho",
+    "pronunciation": "/ɑːn fɪfˈtiːnθ dʒuːn/",
+    "portuguesePhonetic": "[ón fiftínth djún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_23",
+    "word": "on Monday morning",
+    "translation": "na segunda de manhã",
+    "pronunciation": "/ɑːn ˈmʌndeɪ ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[ón mândei mórnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_24",
+    "word": "on Saturday night",
+    "translation": "no sábado à noite",
+    "pronunciation": "/ɑːn ˈsætərdeɪ naɪt/",
+    "portuguesePhonetic": "[ón séterdei náit]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_25",
+    "word": "AT for clock times, IN for months, ON for days.",
+    "translation": "AT para horas, IN para meses, ON para dias.",
+    "pronunciation": "/æt fɔːr klɑːk taɪmz ɪn fɔːr mʌnθs ɑːn fɔːr deɪz/",
+    "portuguesePhonetic": "[ét fór klák táimz in fór mânths ón fór dêiz]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_26",
+    "word": "at night, but in the morning.",
+    "translation": "at night\", mas \"in the morning\".",
+    "pronunciation": "/æt naɪt bʌt ɪn ðə ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[ét náit bât in dha mórnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_27",
+    "word": "With last/next, no preposition: next weekend.",
+    "translation": "Com last/next, sem preposição: next weekend.",
+    "pronunciation": "/wɪð læst nɛkst noʊ ˌprɛpəˈzɪʃn̩ nɛkst ˈwiːkɛnd/",
+    "portuguesePhonetic": "[uídh lést nékst nôu prepazíchan nékst uíkend]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_28",
+    "word": "The meeting is at 9.",
+    "translation": "A reunião é às 9.",
+    "pronunciation": "/ðə ˈmiːtɪŋ ɪz æt naɪn/",
+    "portuguesePhonetic": "[dha mítin iz ét náin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_29",
+    "word": "I wake up at 7 in the morning.",
+    "translation": "Eu acordo às 7 da manhã.",
+    "pronunciation": "/aɪ weɪk ʌp æt ˈsɛvn̩ ɪn ðə ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[ái uêik âp ét sévan in dha mórnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_30",
+    "word": "We have lunch at noon.",
+    "translation": "Nós almoçamos ao meio-dia.",
+    "pronunciation": "/wiː hæv lʌntʃ æt nuːn/",
+    "portuguesePhonetic": "[uí rrév lântch ét nún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_31",
+    "word": "The movie starts at 8 in the evening.",
+    "translation": "O filme começa às 8 da noite.",
+    "pronunciation": "/ðə ˈmuːvi stɑːrts æt eɪt ɪn ðə ˈiːvnɪŋ/",
+    "portuguesePhonetic": "[dha múvi stárts ét êit in dhi ívnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_32",
+    "word": "I go to bed at midnight.",
+    "translation": "Eu vou dormir à meia-noite.",
+    "pronunciation": "/aɪ ɡoʊ tə bɛd æt ˈmɪdnaɪt/",
+    "portuguesePhonetic": "[ái gôu tu béd ét mídnait]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_33",
+    "word": "I work on Monday.",
+    "translation": "Eu trabalho na segunda.",
+    "pronunciation": "/aɪ wɜːrk ɑːn ˈmʌndeɪ/",
+    "portuguesePhonetic": "[ái uârk ón mândei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_34",
+    "word": "We meet on Friday.",
+    "translation": "Nós nos encontramos na sexta.",
+    "pronunciation": "/wiː miːt ɑːn ˈfraɪdeɪ/",
+    "portuguesePhonetic": "[uí mít ón fráidei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_35",
+    "word": "The party is on Saturday night.",
+    "translation": "A festa é no sábado à noite.",
+    "pronunciation": "/ðə ˈpɑːrti ɪz ɑːn ˈsætərdeɪ naɪt/",
+    "portuguesePhonetic": "[dha párti iz ón séterdei náit]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_36",
+    "word": "I relax on Sunday afternoon.",
+    "translation": "Eu relaxo no domingo à tarde.",
+    "pronunciation": "/aɪ rɪˈlæks ɑːn ˈsʌndeɪ ˌæftərˈnuːn/",
+    "portuguesePhonetic": "[ái riléks ón sândei éfternún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_37",
+    "word": "My birthday is in May.",
+    "translation": "Meu aniversário é em maio.",
+    "pronunciation": "/maɪ ˈbɜːrθdeɪ ɪz ɪn meɪ/",
+    "portuguesePhonetic": "[mái bârthdei iz in mêi]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_38",
+    "word": "The exam is on 15th June.",
+    "translation": "A prova é no dia 15 de junho.",
+    "pronunciation": "/ðə ɪɡˈzæm ɪz ɑːn fɪfˈtiːnθ dʒuːn/",
+    "portuguesePhonetic": "[dhi igzém iz ón fiftínth djún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_39",
+    "word": "We travel in the summer.",
+    "translation": "Nós viajamos no verão.",
+    "pronunciation": "/wiː ˈtrævl̩ ɪn ðə ˈsʌmər/",
+    "portuguesePhonetic": "[uí trévou in dha sâmer]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_40",
+    "word": "School starts in September.",
+    "translation": "A escola começa em setembro.",
+    "pronunciation": "/skuːl stɑːrts ɪn sɛpˈtɛmbər/",
+    "portuguesePhonetic": "[skúl stárts in septémber]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_41",
+    "word": "We visit family at Christmas.",
+    "translation": "Nós visitamos a família no Natal.",
+    "pronunciation": "/wiː ˈvɪzɪt ˈfæməli æt ˈkrɪsməs/",
+    "portuguesePhonetic": "[uí vízit fémili ét krísmas]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_42",
+    "word": "I have a holiday at Easter.",
+    "translation": "Eu tenho férias na Páscoa.",
+    "pronunciation": "/aɪ hæv ə ˈhɑːlədeɪ æt ˈiːstər/",
+    "portuguesePhonetic": "[ái rrév a rráladei ét íster]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_43",
+    "word": "We celebrate on our anniversary.",
+    "translation": "Nós comemoramos no nosso aniversário.",
+    "pronunciation": "/wiː ˈsɛləbreɪt ɑːn ˈaʊər ˌænɪˈvɜːrsəri/",
+    "portuguesePhonetic": "[uí sélebreit ón áuer aenivârsari]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_44",
+    "word": "I drink coffee in the morning.",
+    "translation": "Eu tomo café de manhã.",
+    "pronunciation": "/aɪ drɪŋk ˈkɔːfi ɪn ðə ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[ái drínk kófi in dha mórnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_45",
+    "word": "I study in the afternoon.",
+    "translation": "Eu estudo à tarde.",
+    "pronunciation": "/aɪ ˈstʌdi ɪn ðə ˌæftərˈnuːn/",
+    "portuguesePhonetic": "[ái stâdi in dhi éfternún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_46",
+    "word": "I watch TV at night.",
+    "translation": "Eu assisto TV à noite.",
+    "pronunciation": "/aɪ wɑːtʃ ˌtiːˈviː æt naɪt/",
+    "portuguesePhonetic": "[ái uátch ti-ví ét náit]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_47",
+    "word": "My parents met in the 80s.",
+    "translation": "Meus pais se conheceram nos anos 80.",
+    "pronunciation": "/maɪ ˈpɛrənts mɛt ɪn ðə ˈeɪtiz/",
+    "portuguesePhonetic": "[mái pérents mét in dha êitiz]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_48",
+    "word": "He was born in 1990.",
+    "translation": "Ele nasceu em 1990.",
+    "pronunciation": "/hiː wəz bɔːrn ɪn ˌnaɪnˈtiːn ˈnaɪnti/",
+    "portuguesePhonetic": "[rrí uâz bórn in naintín náinti]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_49",
+    "word": "That happened in the past.",
+    "translation": "Isso aconteceu no passado.",
+    "pronunciation": "/ðæt ˈhæpənd ɪn ðə pæst/",
+    "portuguesePhonetic": "[dhét rrépand in dha pést]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_50",
+    "word": "I'll call you next week.",
+    "translation": "Eu te ligo na semana que vem.",
+    "pronunciation": "/aɪl kɔːl juː nɛkst wiːk/",
+    "portuguesePhonetic": "[áiou kól iú nékst uík]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_51",
+    "word": "I saw her last Friday.",
+    "translation": "Eu a vi na sexta passada.",
+    "pronunciation": "/aɪ sɔː hɜːr læst ˈfraɪdeɪ/",
+    "portuguesePhonetic": "[ái só rrâr lést fráidei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_52",
+    "word": "We're traveling next month.",
+    "translation": "Nós vamos viajar no mês que vem.",
+    "pronunciation": "/wɪr ˈtrævl̩ɪŋ nɛkst mʌnθ/",
+    "portuguesePhonetic": "[uír trévolin nékst mânth]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_53",
+    "word": "The class is at 10.",
+    "translation": "A aula é às 10.",
+    "pronunciation": "/ðə klæs ɪz æt tɛn/",
+    "portuguesePhonetic": "[dha klés iz ét tén]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_54",
+    "word": "I work on Monday.",
+    "translation": "Eu trabalho na segunda.",
+    "pronunciation": "/aɪ wɜːrk ɑːn ˈmʌndeɪ/",
+    "portuguesePhonetic": "[ái uârk ón mândei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_55",
+    "word": "We travel in July.",
+    "translation": "Nós viajamos em julho.",
+    "pronunciation": "/wiː ˈtrævl̩ ɪn dʒuˈlaɪ/",
+    "portuguesePhonetic": "[uí trévou in djulái]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_56",
+    "word": "She sleeps at night.",
+    "translation": "Ela dorme à noite.",
+    "pronunciation": "/ʃiː sliːps æt naɪt/",
+    "portuguesePhonetic": "[chí slíps ét náit]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_57",
+    "word": "The store opens at 9 in the morning.",
+    "translation": "A loja abre às 9 da manhã.",
+    "pronunciation": "/ðə stɔːr ˈoʊpənz æt naɪn ɪn ðə ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[dha stór ôupanz ét náin in dha mórnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_58",
+    "word": "My birthday is on 20th May.",
+    "translation": "Meu aniversário é no dia 20 de maio.",
+    "pronunciation": "/maɪ ˈbɜːrθdeɪ ɪz ɑːn ˈtwɛntiəθ meɪ/",
+    "portuguesePhonetic": "[mái bârthdei iz ón tuéntieth mêi]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_59",
+    "word": "Do you work on weekends?",
+    "translation": "Você trabalha nos fins de semana?",
+    "pronunciation": "/duː juː wɜːrk ɑːn ˈwiːkɛndz/",
+    "portuguesePhonetic": "[dú iú uârk ón uíkendz]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_60",
+    "word": "I don't study at night.",
+    "translation": "Eu não estudo à noite.",
+    "pronunciation": "/aɪ doʊnt ˈstʌdi æt naɪt/",
+    "portuguesePhonetic": "[ái dôunt stâdi ét náit]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_61",
+    "word": "What time does it start?",
+    "translation": "A que horas começa?",
+    "pronunciation": "/wʌt taɪm dʌz ɪt stɑːrt/",
+    "portuguesePhonetic": "[uât táim dâz ít stárt]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_62",
+    "word": "When is your birthday?",
+    "translation": "Quando é seu aniversário?",
+    "pronunciation": "/wɛn ɪz jɔːr ˈbɜːrθdeɪ/",
+    "portuguesePhonetic": "[uén iz iór bârthdei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_63",
+    "word": "We aren't free on Sunday.",
+    "translation": "Nós não estamos livres no domingo.",
+    "pronunciation": "/wiː ˈɑːrnt friː ɑːn ˈsʌndeɪ/",
+    "portuguesePhonetic": "[uí árent frí ón sândei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_64",
+    "word": "Is the meeting at 2 or at 3?",
+    "translation": "A reunião é às 2 ou às 3?",
+    "pronunciation": "/ɪz ðə ˈmiːtɪŋ æt tuː ɔːr æt θriː/",
+    "portuguesePhonetic": "[iz dha mítin ét tú ór ét thrí]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_65",
+    "word": "I'll see you at lunchtime, not in the morning.",
+    "translation": "Eu te vejo na hora do almoço, não de manhã.",
+    "pronunciation": "/aɪl siː juː æt ˈlʌntʃtaɪm nɑːt ɪn ðə ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[áiou sí iú ét lântchtaim nót in dha mórnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_66",
+    "word": "We met in 2010, and we married in 2015.",
+    "translation": "Nós nos conhecemos em 2010 e nos casamos em 2015.",
+    "pronunciation": "/wiː mɛt ɪn ˈtwɛnti ˈtɛn ænd wiː ˈmɛrid ɪn ˈtwɛnti fɪfˈtiːn/",
+    "portuguesePhonetic": "[uí mét in tuénti tén énd uí mérid in tuénti fiftín]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_67",
+    "word": "She was born in the spring, on a Sunday.",
+    "translation": "Ela nasceu na primavera, num domingo.",
+    "pronunciation": "/ʃiː wəz bɔːrn ɪn ðə sprɪŋ ɑːn ə ˈsʌndeɪ/",
+    "portuguesePhonetic": "[chí uâz bórn in dha sprín ón a sândei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_68",
+    "word": "I was sleeping at midnight when you called.",
+    "translation": "Eu estava dormindo à meia-noite quando você ligou.",
+    "pronunciation": "/aɪ wəz ˈsliːpɪŋ æt ˈmɪdnaɪt wɛn juː kɔːld/",
+    "portuguesePhonetic": "[ái uâz slípin ét mídnait uén iú kóld]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_69",
+    "word": "We usually travel in the summer, but this year we'll go in winter.",
+    "translation": "Geralmente viajamos no verão, mas este ano vamos no inverno.",
+    "pronunciation": "/wiː ˈjuːʒuəli ˈtrævl̩ ɪn ðə ˈsʌmər bʌt ðɪs jɪr wiːl ɡoʊ ɪn ˈwɪntər/",
+    "portuguesePhonetic": "[uí iújuali trévou in dha sâmer bât dhís íir uíou gôu in uínter]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_70",
+    "word": "The shop closes at 8 on weekdays, but earlier on Sundays.",
+    "translation": "A loja fecha às 8 nos dias de semana, mas mais cedo aos domingos.",
+    "pronunciation": "/ðə ʃɑːp ˈkloʊzɪz æt eɪt ɑːn ˈwiːkdeɪz bʌt ˈɜːrliər ɑːn ˈsʌndeɪz/",
+    "portuguesePhonetic": "[dha cháp klôuziz ét êit ón uíkdeiz bât ârlier ón sândeiz]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_71",
+    "word": "I'll meet you next Friday, not this one.",
+    "translation": "Eu te encontro na próxima sexta, não nesta.",
+    "pronunciation": "/aɪl miːt juː nɛkst ˈfraɪdeɪ nɑːt ðɪs wʌn/",
+    "portuguesePhonetic": "[áiou mít iú nékst fráidei nót dhís uân]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_72",
+    "word": "In the 20th century, people traveled less than today.",
+    "translation": "No século 20, as pessoas viajavam menos do que hoje.",
+    "pronunciation": "/ɪn ðə ˈtwɛntiəθ ˈsɛntʃəri ˈpiːpl̩ ˈtrævl̩d lɛs ðæn təˈdeɪ/",
+    "portuguesePhonetic": "[in dha tuéntieth séntchuri pípou trévold lés dhén tudêi]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_73",
+    "word": "He always calls me at night, even though I sleep early.",
+    "translation": "Ele sempre me liga à noite, mesmo eu dormindo cedo.",
+    "pronunciation": "/hiː ˈɔːlweɪz kɔːlz miː æt naɪt ˈiːvn̩ ðoʊ aɪ sliːp ˈɜːrli/",
+    "portuguesePhonetic": "[rrí ólueiz kólz mí ét náit ívan dhôu ái slíp ârli]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_74",
+    "word": "Do you prefer to exercise in the morning or in the evening?",
+    "translation": "Você prefere se exercitar de manhã ou à noite?",
+    "pronunciation": "/duː juː prɪˈfɜːr tə ˈɛksərsaɪz ɪn ðə ˈmɔːrnɪŋ ɔːr ɪn ðə ˈiːvnɪŋ/",
+    "portuguesePhonetic": "[dú iú priférr tu éksersaiz in dha mórnin ór in dhi ívnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_75",
+    "word": "We're having dinner at 8 on Saturday to celebrate her birthday.",
+    "translation": "Nós vamos jantar às 8 no sábado para comemorar o aniversário dela.",
+    "pronunciation": "/wɪr ˈhævɪŋ ˈdɪnər æt eɪt ɑːn ˈsætərdeɪ tə ˈsɛləbreɪt hɜːr ˈbɜːrθdeɪ/",
+    "portuguesePhonetic": "[uír rrévin díner ét êit ón séterdei tu sélebreit rrâr bârthdei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_76",
+    "word": "At Christmas, we always meet at my grandmother's in the afternoon.",
+    "translation": "No Natal, sempre nos reunimos na casa da minha avó à tarde.",
+    "pronunciation": "/æt ˈkrɪsməs wiː ˈɔːlweɪz miːt æt maɪ ˈɡrænmʌðərz ɪn ðə ˌæftərˈnuːn/",
+    "portuguesePhonetic": "[ét krísmas uí ólueiz mít ét mái grénmadherz in dhi éfternún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_77",
+    "word": "I started this job in March, and by next year I'll be a manager.",
+    "translation": "Eu comecei este emprego em março, e até o ano que vem serei gerente.",
+    "pronunciation": "/aɪ ˈstɑːrtɪd ðɪs dʒɑːb ɪn mɑːrtʃ ænd baɪ nɛkst jɪr aɪl biː ə ˈmænɪdʒər/",
+    "portuguesePhonetic": "[ái stárted dhís djób in mártch énd bái nékst íir áiou bí a ménidjer]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_78",
+    "word": "What time is the meeting?\" / \"At 10.",
+    "translation": "A que horas é a reunião?\" / \"Às 10.",
+    "pronunciation": "/wʌt taɪm ɪz ðə ˈmiːtɪŋ · æt tɛn/",
+    "portuguesePhonetic": "[uât táim iz dha mítin · ét tén]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_79",
+    "word": "When do you work?\" / \"On Mondays.",
+    "translation": "Quando você trabalha?\" / \"Às segundas.",
+    "pronunciation": "/wɛn duː juː wɜːrk · ɑːn ˈmʌndeɪz/",
+    "portuguesePhonetic": "[uén dú iú uârk · ón mândeiz]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_80",
+    "word": "When is your birthday?\" / \"In May.",
+    "translation": "Quando é seu aniversário?\" / \"Em maio.",
+    "pronunciation": "/wɛn ɪz jɔːr ˈbɜːrθdeɪ · ɪn meɪ/",
+    "portuguesePhonetic": "[uén iz iór bârthdei · in mêi]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_81",
+    "word": "What day is the party?\" / \"On Saturday.",
+    "translation": "Que dia é a festa?\" / \"No sábado.",
+    "pronunciation": "/wʌt deɪ ɪz ðə ˈpɑːrti · ɑːn ˈsætərdeɪ/",
+    "portuguesePhonetic": "[uât dêi iz dha párti · ón séterdei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_82",
+    "word": "When did you arrive?\" / \"At noon.",
+    "translation": "Quando você chegou?\" / \"Ao meio-dia.",
+    "pronunciation": "/wɛn dɪd juː əˈraɪv · æt nuːn/",
+    "portuguesePhonetic": "[uén díd iú aráiv · ét nún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_83",
+    "word": "When do you travel?\" / \"In the summer.",
+    "translation": "Quando você viaja?\" / \"No verão.",
+    "pronunciation": "/wɛn duː juː ˈtrævl̩ · ɪn ðə ˈsʌmər/",
+    "portuguesePhonetic": "[uén dú iú trévou · in dha sâmer]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_84",
+    "word": "When did he call?\" / \"At night.",
+    "translation": "Quando ele ligou?\" / \"À noite.",
+    "pronunciation": "/wɛn dɪd hiː kɔːl · æt naɪt/",
+    "portuguesePhonetic": "[uén díd rrí kól · ét náit]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_85",
+    "word": "What time do you wake up?\" / \"At seven.",
+    "translation": "A que horas você acorda?\" / \"Às sete.",
+    "pronunciation": "/wʌt taɪm duː juː weɪk ʌp · æt ˈsɛvn̩/",
+    "portuguesePhonetic": "[uât táim dú iú uêik âp · ét sévan]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_86",
+    "word": "When is the exam?\" / \"On 15th June.",
+    "translation": "Quando é a prova?\" / \"No dia 15 de junho.",
+    "pronunciation": "/wɛn ɪz ðə ɪɡˈzæm · ɑːn fɪfˈtiːnθ dʒuːn/",
+    "portuguesePhonetic": "[uén iz dhi igzém · ón fiftínth djún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_87",
+    "word": "When do you study?\" / \"In the afternoon.",
+    "translation": "Quando você estuda?\" / \"À tarde.",
+    "pronunciation": "/wɛn duː juː ˈstʌdi · ɪn ðə ˌæftərˈnuːn/",
+    "portuguesePhonetic": "[uén dú iú stâdi · in dhi éfternún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_88",
+    "word": "When's the wedding?\" / \"In September.",
+    "translation": "Quando é o casamento?\" / \"Em setembro.",
+    "pronunciation": "/wɛnz ðə ˈwɛdɪŋ · ɪn sɛpˈtɛmbər/",
+    "portuguesePhonetic": "[uénz dha uédin · in septémber]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_89",
+    "word": "When did you meet?\" / \"In 2010.",
+    "translation": "Quando vocês se conheceram?\" / \"Em 2010.",
+    "pronunciation": "/wɛn dɪd juː miːt · ɪn ˈtwɛnti ˈtɛn/",
+    "portuguesePhonetic": "[uén díd iú mít · in tuénti tén]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_90",
+    "word": "What time is dinner?\" / \"At eight.",
+    "translation": "A que horas é o jantar?\" / \"Às oito.",
+    "pronunciation": "/wʌt taɪm ɪz ˈdɪnər · æt eɪt/",
+    "portuguesePhonetic": "[uât táim iz díner · ét êit]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_91",
+    "word": "When are you free?\" / \"On Sunday.",
+    "translation": "Quando você está livre?\" / \"No domingo.",
+    "pronunciation": "/wɛn ɑːr juː friː · ɑːn ˈsʌndeɪ/",
+    "portuguesePhonetic": "[uén ár iú frí · ón sândei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_92",
+    "word": "When does the show start?\" / \"At 9 in the evening.",
+    "translation": "Quando o show começa?\" / \"Às 9 da noite.",
+    "pronunciation": "/wɛn dʌz ðə ʃoʊ stɑːrt · æt naɪn ɪn ðə ˈiːvnɪŋ/",
+    "portuguesePhonetic": "[uén dâz dha chôu stárt · ét náin in dhi ívnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_93",
+    "word": "When did it happen?\" / \"In the past.",
+    "translation": "Quando isso aconteceu?\" / \"No passado.",
+    "pronunciation": "/wɛn dɪd ɪt ˈhæpən · ɪn ðə pæst/",
+    "portuguesePhonetic": "[uén díd ít rrépan · in dha pést]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_94",
+    "word": "When can we meet?\" / \"Next week.",
+    "translation": "Quando podemos nos encontrar?\" / \"Semana que vem.",
+    "pronunciation": "/wɛn kæn wiː miːt · nɛkst wiːk/",
+    "portuguesePhonetic": "[uén kén uí mít · nékst uík]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_95",
+    "word": "When did you see her?\" / \"Last Friday.",
+    "translation": "Quando você a viu?\" / \"Sexta passada.",
+    "pronunciation": "/wɛn dɪd juː siː hɜːr · læst ˈfraɪdeɪ/",
+    "portuguesePhonetic": "[uén díd iú sí rrâr · lést fráidei]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_96",
+    "word": "When's the holiday?\" / \"At Easter.",
+    "translation": "Quando são as férias?\" / \"Na Páscoa.",
+    "pronunciation": "/wɛnz ðə ˈhɑːlədeɪ · æt ˈiːstər/",
+    "portuguesePhonetic": "[uénz dha rráladei · ét íster]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_97",
+    "word": "What time is it now?\" / \"It's midnight.",
+    "translation": "Que horas são agora?\" / \"É meia-noite.",
+    "pronunciation": "/wʌt taɪm ɪz ɪt naʊ · ɪts ˈmɪdnaɪt/",
+    "portuguesePhonetic": "[uât táim iz ít náu · íts mídnait]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_98",
+    "word": "When does it open?\" / \"At 9 in the morning.",
+    "translation": "Quando abre?\" / \"Às 9 da manhã.",
+    "pronunciation": "/wɛn dʌz ɪt ˈoʊpən · æt naɪn ɪn ðə ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[uén dâz ít ôupan · ét náin in dha mórnin]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_99",
+    "word": "When's the anniversary?\" / \"On 20th May.",
+    "translation": "Quando é o aniversário?\" / \"No dia 20 de maio.",
+    "pronunciation": "/wɛnz ðə ˌænɪˈvɜːrsəri · ɑːn ˈtwɛntiəθ meɪ/",
+    "portuguesePhonetic": "[uénz dhi aenivârsari · ón tuéntieth mêi]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_100",
+    "word": "When do you relax?\" / \"On Sunday afternoon.",
+    "translation": "Quando você relaxa?\" / \"No domingo à tarde.",
+    "pronunciation": "/wɛn duː juː rɪˈlæks · ɑːn ˈsʌndeɪ ˌæftərˈnuːn/",
+    "portuguesePhonetic": "[uén dú iú riléks · ón sândei éfternún]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_101",
+    "word": "When were you born?\" / \"In 1995.",
+    "translation": "Quando você nasceu?\" / \"Em 1995.",
+    "pronunciation": "/wɛn wɜːr juː bɔːrn · ɪn ˌnaɪnˈtiːn ˌnaɪntiˈfaɪv/",
+    "portuguesePhonetic": "[uén uâr iú bórn · in naintín náinti fáiv]"
+  },
+  {
+    "id": "lesson_11_grammar_a1_en_card_102",
+    "word": "When do you go to the gym?\" / \"In the morning.",
+    "translation": "Quando você vai à academia?\" / \"De manhã.",
+    "pronunciation": "/wɛn duː juː ɡoʊ tə ðə dʒɪm · ɪn ðə ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[uén dú iú gôu tu dha djím · in dha mórnin]"
+  }
+]

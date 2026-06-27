@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_1",
+    "word": "siempre (100%)",
+    "translation": "sempre",
+    "pronunciation": "/ˈsjempɾe/",
+    "portuguesePhonetic": "[siémpre]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_2",
+    "word": "normalmente (90%)",
+    "translation": "geralmente",
+    "pronunciation": "/noɾˈmalmente/",
+    "portuguesePhonetic": "[normalménte]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_3",
+    "word": "a menudo (70%)",
+    "translation": "frequentemente",
+    "pronunciation": "/a meˈnuðo/",
+    "portuguesePhonetic": "[a menúdo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_4",
+    "word": "a veces (50%)",
+    "translation": "às vezes",
+    "pronunciation": "/a ˈbeθes/",
+    "portuguesePhonetic": "[a béthes]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_5",
+    "word": "casi nunca / rara vez (10%)",
+    "translation": "quase nunca / raramente",
+    "pronunciation": "/ˈkasi ˈnuŋka · ˈraɾa beθ/",
+    "portuguesePhonetic": "[kási núnka · rrára béth]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_6",
+    "word": "nunca (0%)",
+    "translation": "nunca",
+    "pronunciation": "/ˈnuŋka/",
+    "portuguesePhonetic": "[núnka]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_7",
+    "word": "Siempre llegas tarde.",
+    "translation": "Você está sempre atrasado.",
+    "pronunciation": "/ˈsjempɾe ˈʎeɣas ˈtaɾðe/",
+    "portuguesePhonetic": "[siémpre lhégas tárde]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_8",
+    "word": "Normalmente vamos al cine el domingo.",
+    "translation": "Nós geralmente vamos ao cinema no domingo.",
+    "pronunciation": "/noɾˈmalmente ˈbamos al ˈθine el doˈmiŋɡo/",
+    "portuguesePhonetic": "[normalménte bámos al thíne el domíngo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_9",
+    "word": "Él cocina pasta a menudo.",
+    "translation": "Ele frequentemente cozinha macarrão.",
+    "pronunciation": "/el koˈθina ˈpasta a meˈnuðo/",
+    "portuguesePhonetic": "[él kothína pásta a menúdo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_10",
+    "word": "A veces pedimos pizza para cenar.",
+    "translation": "Nós às vezes pedimos pizza no jantar.",
+    "pronunciation": "/a ˈbeθes peˈðimos ˈpitsa ˈpaɾa θeˈnaɾ/",
+    "portuguesePhonetic": "[a béthes pedímos pítsa pára thenár]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_11",
+    "word": "Ella casi nunca sonríe.",
+    "translation": "Ela quase nunca sorri.",
+    "pronunciation": "/ˈeʎa ˈkasi ˈnuŋka sonˈrie/",
+    "portuguesePhonetic": "[élha kási núnka sonríe]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_12",
+    "word": "Nunca están en casa cuando llamamos.",
+    "translation": "Eles nunca estão em casa quando ligamos.",
+    "pronunciation": "/ˈnuŋka esˈtan en ˈkasa ˈkwando ʎaˈmamos/",
+    "portuguesePhonetic": "[núnka están en kása kuándo lhamámos]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_13",
+    "word": "Él a menudo cocina pasta.",
+    "translation": "Ele frequentemente cozinha. (posição flexível)",
+    "pronunciation": "/el a meˈnuðo koˈθina ˈpasta/",
+    "portuguesePhonetic": "[él a menúdo kothína pásta]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_14",
+    "word": "Siempre estás cansado.",
+    "translation": "Você está sempre cansado.",
+    "pronunciation": "/ˈsjempɾe esˈtas kanˈsaðo/",
+    "portuguesePhonetic": "[siémpre estás kansádo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_15",
+    "word": "¿Siempre llegas tarde?",
+    "translation": "Você sempre chega atrasado?",
+    "pronunciation": "/ˈsjempɾe ˈʎeɣas ˈtaɾðe/",
+    "portuguesePhonetic": "[siémpre lhégas tárde]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_16",
+    "word": "¿Cocina él a menudo?",
+    "translation": "Ele frequentemente cozinha?",
+    "pronunciation": "/koˈθina el a meˈnuðo/",
+    "portuguesePhonetic": "[kothína él a menúdo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_17",
+    "word": "Siempre me despierto temprano.",
+    "translation": "Eu sempre acordo cedo.",
+    "pronunciation": "/ˈsjempɾe me desˈpjeɾto temˈpɾano/",
+    "portuguesePhonetic": "[siémpre me despiérto tempráno]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_18",
+    "word": "Normalmente está ocupada.",
+    "translation": "Ela geralmente está ocupada.",
+    "pronunciation": "/noɾˈmalmente esˈta okuˈpaða/",
+    "portuguesePhonetic": "[normalménte está okupáda]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_19",
+    "word": "Salimos a menudo.",
+    "translation": "Nós saímos com frequência.",
+    "pronunciation": "/saˈlimos a meˈnuðo/",
+    "portuguesePhonetic": "[salímos a menúdo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_20",
+    "word": "A veces nos visitan.",
+    "translation": "Eles às vezes nos visitam.",
+    "pronunciation": "/a ˈbeθes nos biˈsitan/",
+    "portuguesePhonetic": "[a béthes nos bisítan]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_21",
+    "word": "Rara vez se queja.",
+    "translation": "Ele raramente reclama.",
+    "pronunciation": "/ˈraɾa beθ se ˈkexa/",
+    "portuguesePhonetic": "[rrára béth se kérra]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_22",
+    "word": "Nunca fumo.",
+    "translation": "Eu nunca fumo.",
+    "pronunciation": "/ˈnuŋka ˈfumo/",
+    "portuguesePhonetic": "[núnka fúmo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_23",
+    "word": "No viene nunca.",
+    "translation": "Ele nunca vem. (dupla negação",
+    "pronunciation": "/no ˈbjene ˈnuŋka/",
+    "portuguesePhonetic": "[no biéne núnka]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_24",
+    "word": "No como nunca carne.",
+    "translation": "Eu nunca como carne.",
+    "pronunciation": "/no ˈkomo ˈnuŋka ˈkaɾne/",
+    "portuguesePhonetic": "[no kómo núnka kárne]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_25",
+    "word": "En español SÍ se usa doble negación: \"No viene nunca\".",
+    "translation": "Em espanhol SIM se usa dupla negação.",
+    "pronunciation": "/en espaˈɲol si se ˈusa ˈdoβle neɣaˈθjon/",
+    "portuguesePhonetic": "[en espánhol sí se úsa dóble negathión]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_26",
+    "word": "Siempre me despierto a las siete.",
+    "translation": "Eu sempre acordo às sete.",
+    "pronunciation": "/ˈsjempɾe me desˈpjeɾto a las ˈsjete/",
+    "portuguesePhonetic": "[siémpre me despiérto a las siéte]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_27",
+    "word": "Normalmente tomo café.",
+    "translation": "Eu geralmente tomo café.",
+    "pronunciation": "/noɾˈmalmente ˈtomo kaˈfe/",
+    "portuguesePhonetic": "[normalménte tómo kafé]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_28",
+    "word": "A veces me salto el desayuno.",
+    "translation": "Eu às vezes pulo o café da manhã.",
+    "pronunciation": "/a ˈbeθes me ˈsalto el desaˈʝuno/",
+    "portuguesePhonetic": "[a béthes me sálto el desaiúno]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_29",
+    "word": "Nunca como huevos por la mañana.",
+    "translation": "Eu nunca como ovos de manhã.",
+    "pronunciation": "/ˈnuŋka ˈkomo ˈweβos poɾ la maˈɲana/",
+    "portuguesePhonetic": "[núnka kómo uébos por la manhána]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_30",
+    "word": "Ella siempre es puntual.",
+    "translation": "Ela está sempre na hora.",
+    "pronunciation": "/ˈeʎa ˈsjempɾe es punˈtwal/",
+    "portuguesePhonetic": "[élha siémpre és puntuál]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_31",
+    "word": "Él trabaja hasta tarde a menudo.",
+    "translation": "Ele frequentemente trabalha até tarde.",
+    "pronunciation": "/el tɾaˈβaxa ˈasta ˈtaɾðe a meˈnuðo/",
+    "portuguesePhonetic": "[él trabárra ásta tárde a menúdo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_32",
+    "word": "Rara vez tenemos reuniones el viernes.",
+    "translation": "Nós raramente temos reuniões na sexta.",
+    "pronunciation": "/ˈraɾa beθ teˈnemos reuˈnjones el ˈbjeɾnes/",
+    "portuguesePhonetic": "[rrára béth tenémos reuniónes el biérnes]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_33",
+    "word": "Casi nunca hago una pausa.",
+    "translation": "Eu quase nunca faço uma pausa.",
+    "pronunciation": "/ˈkasi ˈnuŋka ˈaɣo una ˈpawsa/",
+    "portuguesePhonetic": "[kási núnka águo úna páusa]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_34",
+    "word": "Normalmente vamos al cine el domingo.",
+    "translation": "Nós geralmente vamos ao cinema no domingo.",
+    "pronunciation": "/noɾˈmalmente ˈbamos al ˈθine el doˈmiŋɡo/",
+    "portuguesePhonetic": "[normalménte bámos al thíne el domíngo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_35",
+    "word": "A menudo salen a pasear.",
+    "translation": "Eles frequentemente vão passear.",
+    "pronunciation": "/a meˈnuðo ˈsalen a paseˈaɾ/",
+    "portuguesePhonetic": "[a menúdo sálen a paseár]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_36",
+    "word": "A veces leo en el parque.",
+    "translation": "Eu às vezes leio no parque.",
+    "pronunciation": "/a ˈbeθes ˈleo en el ˈpaɾke/",
+    "portuguesePhonetic": "[a béthes léo en el párke]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_37",
+    "word": "Ella nunca se queda en casa los fines de semana.",
+    "translation": "Ela nunca fica em casa nos fins de semana.",
+    "pronunciation": "/ˈeʎa ˈnuŋka se ˈkeða en ˈkasa los ˈfines de seˈmana/",
+    "portuguesePhonetic": "[élha núnka se kéda en kása los fínes de semána]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_38",
+    "word": "A veces pedimos pizza para cenar.",
+    "translation": "Nós às vezes pedimos pizza no jantar.",
+    "pronunciation": "/a ˈbeθes peˈðimos ˈpitsa ˈpaɾa θeˈnaɾ/",
+    "portuguesePhonetic": "[a béthes pedímos pítsa pára thenár]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_39",
+    "word": "Él cocina pasta a menudo.",
+    "translation": "Ele frequentemente cozinha macarrão.",
+    "pronunciation": "/el koˈθina ˈpasta a meˈnuðo/",
+    "portuguesePhonetic": "[él kothína pásta a menúdo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_40",
+    "word": "Siempre como ensalada a mediodía.",
+    "translation": "Eu sempre como salada no almoço.",
+    "pronunciation": "/ˈsjempɾe ˈkomo ensaˈlaða a meðjoˈðia/",
+    "portuguesePhonetic": "[siémpre kómo ensaláda a mediodía]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_41",
+    "word": "Rara vez comen fuera.",
+    "translation": "Eles raramente comem fora.",
+    "pronunciation": "/ˈraɾa beθ ˈkomen ˈfweɾa/",
+    "portuguesePhonetic": "[rrára béth kómen fuéra]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_42",
+    "word": "Normalmente hago ejercicio por la mañana.",
+    "translation": "Eu geralmente me exercito de manhã.",
+    "pronunciation": "/noɾˈmalmente ˈaɣo exeɾˈθiθjo poɾ la maˈɲana/",
+    "portuguesePhonetic": "[normalménte águo errerthíthio por la manhána]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_43",
+    "word": "Ella siempre va al gimnasio.",
+    "translation": "Ela siempre vai à academia.",
+    "pronunciation": "/ˈeʎa ˈsjempɾe ba al ximˈnasjo/",
+    "portuguesePhonetic": "[élha siémpre ba al rrimnásio]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_44",
+    "word": "Él casi nunca corre.",
+    "translation": "Ele quase nunca corre.",
+    "pronunciation": "/el ˈkasi ˈnuŋka ˈkore/",
+    "portuguesePhonetic": "[él kási núnka kórre]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_45",
+    "word": "A menudo quedamos para tomar café.",
+    "translation": "Nós frequentemente nos encontramos para um café.",
+    "pronunciation": "/a meˈnuðo keˈðamos ˈpaɾa toˈmaɾ kaˈfe/",
+    "portuguesePhonetic": "[a menúdo kedámos pára tomár kafé]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_46",
+    "word": "A veces me llaman.",
+    "translation": "Eles às vezes me ligam.",
+    "pronunciation": "/a ˈbeθes me ˈʎaman/",
+    "portuguesePhonetic": "[a béthes me lhámaņ]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_47",
+    "word": "Normalmente es simpática.",
+    "translation": "Ela geralmente é simpática.",
+    "pronunciation": "/noɾˈmalmente es simˈpatika/",
+    "portuguesePhonetic": "[normalménte és simpátika]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_48",
+    "word": "Nunca olvido un cumpleaños.",
+    "translation": "Eu nunca esqueço um aniversário.",
+    "pronunciation": "/ˈnuŋka olˈβiðo un kumpleˈaɲos/",
+    "portuguesePhonetic": "[núnka olbído un kumpleánhos]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_49",
+    "word": "Él siempre está cansado por la mañana.",
+    "translation": "Ele está siempre cansado de manhã.",
+    "pronunciation": "/el ˈsjempɾe esˈta kanˈsaðo poɾ la maˈɲana/",
+    "portuguesePhonetic": "[él siémpre está kansádo por la manhána]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_50",
+    "word": "Rara vez veo la tele.",
+    "translation": "Eu raramente assisto TV.",
+    "pronunciation": "/ˈraɾa beθ ˈbeo la ˈtele/",
+    "portuguesePhonetic": "[rrára béth béo la téle]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_51",
+    "word": "Siempre trabajo.",
+    "translation": "Eu siempre trabalho.",
+    "pronunciation": "/ˈsjempɾe tɾaˈβaxo/",
+    "portuguesePhonetic": "[siémpre trabárro]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_52",
+    "word": "Ella nunca miente.",
+    "translation": "Ela nunca mente.",
+    "pronunciation": "/ˈeʎa ˈnuŋka ˈmjente/",
+    "portuguesePhonetic": "[élha núnka miénte]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_53",
+    "word": "A menudo viajamos.",
+    "translation": "Nós viajamos com frequência.",
+    "pronunciation": "/a meˈnuðo bjaˈxamos/",
+    "portuguesePhonetic": "[a menúdo biarrámos]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_54",
+    "word": "Él a veces cocina.",
+    "translation": "Ele às vezes cozinha.",
+    "pronunciation": "/el a ˈbeθes koˈθina/",
+    "portuguesePhonetic": "[él a béthes kothína]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_55",
+    "word": "Normalmente están contentos.",
+    "translation": "Eles geralmente estão felizes.",
+    "pronunciation": "/noɾˈmalmente esˈtan konˈtentos/",
+    "portuguesePhonetic": "[normalménte están konténtos]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_56",
+    "word": "Nunca llego tarde.",
+    "translation": "Eu nunca me atraso.",
+    "pronunciation": "/ˈnuŋka ˈʎeɣo ˈtaɾðe/",
+    "portuguesePhonetic": "[núnka lhégo tárde]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_57",
+    "word": "Ella casi nunca llama.",
+    "translation": "Ela quase nunca liga.",
+    "pronunciation": "/ˈeʎa ˈkasi ˈnuŋka ˈʎama/",
+    "portuguesePhonetic": "[élha kási núnka lháma]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_58",
+    "word": "Rara vez discutimos.",
+    "translation": "Nós raramente discutimos.",
+    "pronunciation": "/ˈraɾa beθ diskuˈtimos/",
+    "portuguesePhonetic": "[rrára béth diskutímos]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_59",
+    "word": "¿Sales a menudo?",
+    "translation": "Você sai com frequência?",
+    "pronunciation": "/ˈsales a meˈnuðo/",
+    "portuguesePhonetic": "[sáles a menúdo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_60",
+    "word": "¿Siempre es tan callada?",
+    "translation": "Ela é siempre tão quieta?",
+    "pronunciation": "/ˈsjempɾe es tan kaˈʎaða/",
+    "portuguesePhonetic": "[siémpre és tan kalháda]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_61",
+    "word": "¿Con qué frecuencia haces ejercicio?",
+    "translation": "Com que frequência você se exercita?",
+    "pronunciation": "/kon ke fɾeˈkwenθja ˈaθes exeɾˈθiθjo/",
+    "portuguesePhonetic": "[kon ke frekuénthia áthes errerthíthio]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_62",
+    "word": "¿Normalmente trabaja los fines de semana?",
+    "translation": "Ele geralmente trabalha nos fins de semana?",
+    "pronunciation": "/noɾˈmalmente tɾaˈβaxa los ˈfines de seˈmana/",
+    "portuguesePhonetic": "[normalménte trabárra los fínes de semána]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_63",
+    "word": "Normalmente no come carne.",
+    "translation": "Ele geralmente não come carne.",
+    "pronunciation": "/noɾˈmalmente no ˈkome ˈkaɾne/",
+    "portuguesePhonetic": "[normalménte no kóme kárne]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_64",
+    "word": "No la veo a menudo.",
+    "translation": "Eu não a vejo com frequência.",
+    "pronunciation": "/no la ˈbeo a meˈnuðo/",
+    "portuguesePhonetic": "[no la béo a menúdo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_65",
+    "word": "Nunca son maleducados.",
+    "translation": "Eles nunca são rudes.",
+    "pronunciation": "/ˈnuŋka son maleðuˈkaðos/",
+    "portuguesePhonetic": "[núnka son maledukádos]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_66",
+    "word": "Ella casi nunca comete errores.",
+    "translation": "Ela quase nunca comete erros.",
+    "pronunciation": "/ˈeʎa ˈkasi ˈnuŋka koˈmete eˈrores/",
+    "portuguesePhonetic": "[élha kási núnka kométe erróres]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_67",
+    "word": "Normalmente voy andando al trabajo, pero hoy cogí el autobús.",
+    "translation": "Eu geralmente vou a pé para o trabalho, mas hoje peguei o ônibus.",
+    "pronunciation": "/noɾˈmalmente boi anˈdando al tɾaˈβaxo ˈpeɾo oi koˈxi el awtoˈβus/",
+    "portuguesePhonetic": "[normalménte bôi andándo al trabárro péro ôi korrí el autobús]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_68",
+    "word": "Él cocina a menudo porque le encanta la comida.",
+    "translation": "Ele frequentemente cozinha porque adora comida.",
+    "pronunciation": "/el koˈθina a meˈnuðo ˈpoɾke le eŋˈkanta la koˈmiða/",
+    "portuguesePhonetic": "[él kothína a menúdo pórke le enkánta la komída]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_69",
+    "word": "A veces vamos a la playa cuando hace sol.",
+    "translation": "Nós às vezes vamos à praia quando está ensolarado.",
+    "pronunciation": "/a ˈbeθes ˈbamos a la ˈplaʝa ˈkwando ˈaθe sol/",
+    "portuguesePhonetic": "[a béthes bámos a la pláia kuándo áthe sol]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_70",
+    "word": "Ella siempre está ocupada, así que rara vez se relaja.",
+    "translation": "Ela está siempre ocupada, então raramente relaxa.",
+    "pronunciation": "/ˈeʎa ˈsjempɾe esˈta okuˈpaða aˈsi ke ˈraɾa beθ se reˈlaxa/",
+    "portuguesePhonetic": "[élha siémpre está okupáda así ke rrára béth se relárra]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_71",
+    "word": "Nunca tomo café por la noche porque no puedo dormir.",
+    "translation": "Eu nunca tomo café à noite porque não consigo dormir.",
+    "pronunciation": "/ˈnuŋka ˈtomo kaˈfe poɾ la ˈnotʃe ˈpoɾke no ˈpweðo doɾˈmiɾ/",
+    "portuguesePhonetic": "[núnka tómo kafé por la nótche pórke no puédo dormír]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_72",
+    "word": "Normalmente llegan pronto, pero ayer llegaron tarde.",
+    "translation": "Eles geralmente chegam cedo, mas se atrasaram ontem.",
+    "pronunciation": "/noɾˈmalmente ˈʎeɣan ˈpɾonto ˈpeɾo aˈʝeɾ ʎeˈɣaɾon ˈtaɾðe/",
+    "portuguesePhonetic": "[normalménte lhégan prónto péro aiér lhegáron tárde]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_73",
+    "word": "¿Con qué frecuencia visita a sus padres últimamente?",
+    "translation": "Com que frequência ela visita os pais ultimamente?",
+    "pronunciation": "/kon ke fɾeˈkwenθja biˈsita a sus ˈpaðɾes ˈultimamente/",
+    "portuguesePhonetic": "[kon ke frekuénthia bisíta a sus pádres últimaménte]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_74",
+    "word": "Él casi nunca se queja, ni siquiera cuando está cansado.",
+    "translation": "Ele quase nunca reclama, mesmo quando está cansado.",
+    "pronunciation": "/el ˈkasi ˈnuŋka se ˈkexa ni siˈkjeɾa ˈkwando esˈta kanˈsaðo/",
+    "portuguesePhonetic": "[él kási núnka se kérra ni sikiéra kuándo está kansádo]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_75",
+    "word": "No siempre estamos de acuerdo, pero siempre nos respetamos.",
+    "translation": "Nós nem sempre concordamos, mas sempre nos respeitamos.",
+    "pronunciation": "/no ˈsjempɾe esˈtamos de aˈkweɾðo ˈpeɾo ˈsjempɾe nos respeˈtamos/",
+    "portuguesePhonetic": "[no siémpre estámos de akuérdo péro siémpre nos respetámos]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_76",
+    "word": "¿Cocinas a menudo?» / «Sí, casi todos los días.»",
+    "translation": "Você cozinha com frequência?\" / \"Sim, quase todo dia.",
+    "pronunciation": "/koˈθinas a meˈnuðo · si ˈkasi ˈtoðos los ˈdias/",
+    "portuguesePhonetic": "[kothínas a menúdo · sí kási tódos los días]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_77",
+    "word": "¿Siempre estás tan ocupado?» / «No, no siempre.»",
+    "translation": "Você está sempre tão ocupado?\" / \"Não, nem sempre.",
+    "pronunciation": "/ˈsjempɾe esˈtas tan okuˈpaðo · no no ˈsjempɾe/",
+    "portuguesePhonetic": "[siémpre estás tan okupádo · no no siémpre]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_78",
+    "word": "¿Con qué frecuencia viajas?» / «A veces, dos veces al año.»",
+    "translation": "Com que frequência você viaja?\" / \"Às vezes, duas vezes por ano.",
+    "pronunciation": "/kon ke fɾeˈkwenθja ˈbjaxas · a ˈbeθes dos ˈbeθes al ˈaɲo/",
+    "portuguesePhonetic": "[kon ke frekuénthia biárras · a béthes dos béthes al ánho]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_79",
+    "word": "¿Sonríe alguna vez?» / «Casi nunca.»",
+    "translation": "Ela sorri alguma vez?\" / \"Quase nunca.",
+    "pronunciation": "/sonˈrie alˈɣuna beθ · ˈkasi ˈnuŋka/",
+    "portuguesePhonetic": "[sonríe algúna béth · kási núnka]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_80",
+    "word": "¿Suelen estar en casa?» / «No, nunca están.»",
+    "translation": "Eles costumam estar em casa?\" / \"Não, nunca estão.",
+    "pronunciation": "/ˈswelen esˈtaɾ en ˈkasa · no ˈnuŋka esˈtan/",
+    "portuguesePhonetic": "[suélen estár en kása · no núnka están]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_81",
+    "word": "¿Siempre te despiertas temprano?» / «Sí, siempre.»",
+    "translation": "Você sempre acorda cedo?\" / \"Sim, siempre.",
+    "pronunciation": "/ˈsjempɾe te desˈpjeɾtas temˈpɾano · si ˈsjempɾe/",
+    "portuguesePhonetic": "[siémpre te despiértas tempráno · sí siémpre]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_82",
+    "word": "¿Con qué frecuencia comes fuera?» / «Rara vez.»",
+    "translation": "Com que frequência você come fora?\" / \"Raramente.",
+    "pronunciation": "/kon ke fɾeˈkwenθja ˈkomes ˈfweɾa · ˈraɾa beθ/",
+    "portuguesePhonetic": "[kon ke frekuénthia kómes fuéra · rrára béth]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_83",
+    "word": "¿Llega tarde a menudo?» / «Sí, normalmente.»",
+    "translation": "Ele se atrasa com frequência?\" / \"Sim, geralmente.",
+    "pronunciation": "/ˈʎeɣa ˈtaɾðe a meˈnuðo · si noɾˈmalmente/",
+    "portuguesePhonetic": "[lhéga tárde a menúdo · sí normalménte]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_84",
+    "word": "¿Haces deporte alguna vez?» / «A veces.»",
+    "translation": "Você pratica esporte às vezes?\" / \"Às vezes.",
+    "pronunciation": "/ˈaθes deˈpoɾte alˈɣuna beθ · a ˈbeθes/",
+    "portuguesePhonetic": "[áthes depórte algúna béth · a béthes]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_85",
+    "word": "¿Normalmente trabaja los fines de semana?» / «No, nunca.»",
+    "translation": "Ela geralmente trabalha nos fins de semana?\" / \"Não, nunca.",
+    "pronunciation": "/noɾˈmalmente tɾaˈβaxa los ˈfines de seˈmana · no ˈnuŋka/",
+    "portuguesePhonetic": "[normalménte trabárra los fínes de semána · no núnka]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_86",
+    "word": "¿Estás cansado a menudo?» / «Sí, normalmente.»",
+    "translation": "Você fica cansado com frequência?\" / \"Sim, geralmente.",
+    "pronunciation": "/esˈtas kanˈsaðo a meˈnuðo · si noɾˈmalmente/",
+    "portuguesePhonetic": "[estás kansádo a menúdo · sí normalménte]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_87",
+    "word": "¿Os visitan a menudo?» / «Rara vez, la verdad.»",
+    "translation": "Eles visitam vocês com frequência?\" / \"Raramente, na verdade.",
+    "pronunciation": "/os biˈsitan a meˈnuðo · ˈraɾa beθ la beɾˈðað/",
+    "portuguesePhonetic": "[os bisítan a menúdo · rrára béth la berdád]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_88",
+    "word": "¿Con qué frecuencia haces ejercicio?» / «Siempre, cada día.»",
+    "translation": "Com que frequência você se exercita?\" / \"Sempre, todo dia.",
+    "pronunciation": "/kon ke fɾeˈkwenθja ˈaθes exeɾˈθiθjo · ˈsjempɾe ˈkaða ˈdia/",
+    "portuguesePhonetic": "[kon ke frekuénthia áthes errerthíthio · siémpre káda día]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_89",
+    "word": "¿La tienda está siempre abierta?» / «No, los domingos no.»",
+    "translation": "A loja está siempre aberta?\" / \"Não, aos domingos não.",
+    "pronunciation": "/la ˈtjenda esˈta ˈsjempɾe aˈβjeɾta · no los doˈmiŋɡos no/",
+    "portuguesePhonetic": "[la tiénda está siémpre abiérta · no los domíngos no]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_90",
+    "word": "¿Normalmente tomas café?» / «Sí, cada mañana.»",
+    "translation": "Você geralmente toma café?\" / \"Sim, toda manhã.",
+    "pronunciation": "/noɾˈmalmente ˈtomas kaˈfe · si ˈkaða maˈɲana/",
+    "portuguesePhonetic": "[normalménte tómas kafé · sí káda manhána]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_91",
+    "word": "¿Cocina alguna vez?» / «Casi nunca.»",
+    "translation": "Ele cozinha alguma vez?\" / \"Quase nunca.",
+    "pronunciation": "/koˈθina alˈɣuna beθ · ˈkasi ˈnuŋka/",
+    "portuguesePhonetic": "[kothína algúna béth · kási núnka]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_92",
+    "word": "¿Siempre eres puntual?» / «Lo intento.»",
+    "translation": "Você está siempre na hora?\" / \"Eu tento.",
+    "pronunciation": "/ˈsjempɾe ˈeɾes punˈtwal · lo inˈtento/",
+    "portuguesePhonetic": "[siémpre éres puntuál · lo inténto]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_93",
+    "word": "¿Con qué frecuencia llueve aquí?» / «A menudo, en invierno.»",
+    "translation": "Com que frequência chove aqui?\" / \"Frequentemente, no inverno.",
+    "pronunciation": "/kon ke fɾeˈkwenθja ˈʎweβe aˈki · a meˈnuðo en imˈbjeɾno/",
+    "portuguesePhonetic": "[kon ke frekuénthia lhuébe akí · a menúdo en imbiérno]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_94",
+    "word": "¿A veces te sientes cansado?» / «Sí, a veces.»",
+    "translation": "Você às vezes se sente cansado?\" / \"Sim, às vezes.",
+    "pronunciation": "/a ˈbeθes te ˈsjentes kanˈsaðo · si a ˈbeθes/",
+    "portuguesePhonetic": "[a béthes te siéntes kansádo · sí a béthes]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_95",
+    "word": "¿Normalmente es simpática?» / «Sí, siempre.»",
+    "translation": "Ela geralmente é simpática?\" / \"Sim, siempre.",
+    "pronunciation": "/noɾˈmalmente es simˈpatika · si ˈsjempɾe/",
+    "portuguesePhonetic": "[normalménte és simpátika · sí siémpre]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_96",
+    "word": "¿Te saltas el desayuno alguna vez?» / «Rara vez.»",
+    "translation": "Você pula o café da manhã alguma vez?\" / \"Raramente.",
+    "pronunciation": "/te ˈsaltas el desaˈʝuno alˈɣuna beθ · ˈraɾa beθ/",
+    "portuguesePhonetic": "[te sáltas el desaiúno algúna béth · rrára béth]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_97",
+    "word": "¿Están ocupados a menudo?» / «Sí, normalmente.»",
+    "translation": "Eles ficam ocupados com frequência?\" / \"Sim, geralmente.",
+    "pronunciation": "/esˈtan okuˈpaðos a meˈnuðo · si noɾˈmalmente/",
+    "portuguesePhonetic": "[están okupádos a menúdo · sí normalménte]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_98",
+    "word": "¿Siempre estudias por la noche?» / «Normalmente, sí.»",
+    "translation": "Você siempre estuda à noite?\" / \"Geralmente, sim.",
+    "pronunciation": "/ˈsjempɾe esˈtuðjas poɾ la ˈnotʃe · noɾˈmalmente si/",
+    "portuguesePhonetic": "[siémpre estúdias por la nótche · normalménte sí]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_99",
+    "word": "¿Te llama alguna vez?» / «Nunca.»",
+    "translation": "Ele te liga alguma vez?\" / \"Nunca.",
+    "pronunciation": "/te ˈʎama alˈɣuna beθ · ˈnuŋka/",
+    "portuguesePhonetic": "[te lháma algúna béth · núnka]"
+  },
+  {
+    "id": "lesson_8_grammar_a1_s_es_card_100",
+    "word": "¿Con qué frecuencia lees?» / «Cada día.»",
+    "translation": "Com que frequência você lê?\" / \"Todo dia.",
+    "pronunciation": "/kon ke fɾeˈkwenθja ˈlees · ˈkaða ˈdia/",
+    "portuguesePhonetic": "[kon ke frekuénthia lées · káda día]"
+  }
+]

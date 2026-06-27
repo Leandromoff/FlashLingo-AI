@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_9_grammar_a1_en_card_1",
+    "word": "I",
+    "translation": "eu",
+    "pronunciation": "/aɪ/",
+    "portuguesePhonetic": "[ái]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_2",
+    "word": "you",
+    "translation": "você",
+    "pronunciation": "/juː/",
+    "portuguesePhonetic": "[iú]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_3",
+    "word": "he",
+    "translation": "ele",
+    "pronunciation": "/hiː/",
+    "portuguesePhonetic": "[rrí]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_4",
+    "word": "she",
+    "translation": "ela",
+    "pronunciation": "/ʃiː/",
+    "portuguesePhonetic": "[chí]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_5",
+    "word": "it",
+    "translation": "ele/ela (coisa, animal)",
+    "pronunciation": "/ɪt/",
+    "portuguesePhonetic": "[ít]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_6",
+    "word": "we",
+    "translation": "nós",
+    "pronunciation": "/wiː/",
+    "portuguesePhonetic": "[uí]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_7",
+    "word": "you",
+    "translation": "vocês (plural)",
+    "pronunciation": "/juː/",
+    "portuguesePhonetic": "[iú]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_8",
+    "word": "they",
+    "translation": "eles / elas",
+    "pronunciation": "/ðeɪ/",
+    "portuguesePhonetic": "[dhêi]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_9",
+    "word": "me",
+    "translation": "me / mim",
+    "pronunciation": "/miː/",
+    "portuguesePhonetic": "[mí]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_10",
+    "word": "you",
+    "translation": "você / te",
+    "pronunciation": "/juː/",
+    "portuguesePhonetic": "[iú]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_11",
+    "word": "him",
+    "translation": "ele / o / lhe",
+    "pronunciation": "/hɪm/",
+    "portuguesePhonetic": "[rrím]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_12",
+    "word": "her",
+    "translation": "ela / a / lhe",
+    "pronunciation": "/hɜːr/",
+    "portuguesePhonetic": "[rrâr]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_13",
+    "word": "it",
+    "translation": "ele/ela (coisa)",
+    "pronunciation": "/ɪt/",
+    "portuguesePhonetic": "[ít]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_14",
+    "word": "us",
+    "translation": "nós / nos",
+    "pronunciation": "/ʌs/",
+    "portuguesePhonetic": "[âs]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_15",
+    "word": "you",
+    "translation": "vocês / vos",
+    "pronunciation": "/juː/",
+    "portuguesePhonetic": "[iú]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_16",
+    "word": "them",
+    "translation": "eles / os / lhes",
+    "pronunciation": "/ðɛm/",
+    "portuguesePhonetic": "[dhém]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_17",
+    "word": "I work in an office.",
+    "translation": "Eu trabalho num escritório.",
+    "pronunciation": "/aɪ wɜːrk ɪn ən ˈɔːfɪs/",
+    "portuguesePhonetic": "[ái uârk in an ófis]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_18",
+    "word": "You are funny.",
+    "translation": "Você é engraçado.",
+    "pronunciation": "/juː ɑːr ˈfʌni/",
+    "portuguesePhonetic": "[iú ár fâni]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_19",
+    "word": "He lives in a house.",
+    "translation": "Ele mora numa casa.",
+    "pronunciation": "/hiː lɪvz ɪn ə haʊs/",
+    "portuguesePhonetic": "[rrí lívz in a ráus]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_20",
+    "word": "She has two daughters.",
+    "translation": "Ela tem duas filhas.",
+    "pronunciation": "/ʃiː hæz tuː ˈdɔːtərz/",
+    "portuguesePhonetic": "[chí rréz tú dóterz]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_21",
+    "word": "He calls me every day.",
+    "translation": "Ele me liga todo dia.",
+    "pronunciation": "/hiː kɔːlz miː ˈɛvri deɪ/",
+    "portuguesePhonetic": "[rrí kólz mí évri dêi]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_22",
+    "word": "I like you a lot.",
+    "translation": "Eu gosto muito de você.",
+    "pronunciation": "/aɪ laɪk juː ə lɑːt/",
+    "portuguesePhonetic": "[ái láik iú a lót]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_23",
+    "word": "Give it to him after class.",
+    "translation": "Dê isso a ele depois da aula.",
+    "pronunciation": "/ɡɪv ɪt tə hɪm ˈæftər klæs/",
+    "portuguesePhonetic": "[guív ít tu rrím éfter klés]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_24",
+    "word": "I see her every day.",
+    "translation": "Eu a vejo todo dia.",
+    "pronunciation": "/aɪ siː hɜːr ˈɛvri deɪ/",
+    "portuguesePhonetic": "[ái sí rrâr évri dêi]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_25",
+    "word": "Speak to them. They're nice.",
+    "translation": "Fale com eles. Eles são legais.",
+    "pronunciation": "/spiːk tə ðɛm · ðer naɪs/",
+    "portuguesePhonetic": "[spík tu dhém · dhér náis]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_26",
+    "word": "I call her every morning.",
+    "translation": "Eu ligo para ela toda manhã.",
+    "pronunciation": "/aɪ kɔːl hɜːr ˈɛvri ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[ái kól rrâr évri mórnin]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_27",
+    "word": "She answers me quickly.",
+    "translation": "Ela me responde rápido.",
+    "pronunciation": "/ʃiː ˈænsərz miː ˈkwɪkli/",
+    "portuguesePhonetic": "[chí énserz mí kuíkli]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_28",
+    "word": "We meet them at the café.",
+    "translation": "Nós os encontramos no café.",
+    "pronunciation": "/wiː miːt ðɛm æt ðə kæˈfeɪ/",
+    "portuguesePhonetic": "[uí mít dhém ét dha kafêi]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_29",
+    "word": "They invite us often.",
+    "translation": "Eles nos convidam com frequência.",
+    "pronunciation": "/ðeɪ ɪnˈvaɪt ʌs ˈɔːfn̩/",
+    "portuguesePhonetic": "[dhêi inváit âs ófen]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_30",
+    "word": "He helps me with work.",
+    "translation": "Ele me ajuda com o trabalho.",
+    "pronunciation": "/hiː hɛlps miː wɪð wɜːrk/",
+    "portuguesePhonetic": "[rrí rrélps mí uídh uârk]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_31",
+    "word": "She has two daughters.",
+    "translation": "Ela tem duas filhas.",
+    "pronunciation": "/ʃiː hæz tuː ˈdɔːtərz/",
+    "portuguesePhonetic": "[chí rréz tú dóterz]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_32",
+    "word": "I love them very much.",
+    "translation": "Eu as amo muito.",
+    "pronunciation": "/aɪ lʌv ðɛm ˈvɛri mʌtʃ/",
+    "portuguesePhonetic": "[ái lâv dhém véri mâtch]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_33",
+    "word": "They visit us on Sundays.",
+    "translation": "Eles nos visitam aos domingos.",
+    "pronunciation": "/ðeɪ ˈvɪzɪt ʌs ɑːn ˈsʌndeɪz/",
+    "portuguesePhonetic": "[dhêi vízit âs ón sândeiz]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_34",
+    "word": "We take them to school.",
+    "translation": "Nós as levamos à escola.",
+    "pronunciation": "/wiː teɪk ðɛm tə skuːl/",
+    "portuguesePhonetic": "[uí têik dhém tu skúl]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_35",
+    "word": "Can you help me?",
+    "translation": "Você pode me ajudar?",
+    "pronunciation": "/kæn juː hɛlp miː/",
+    "portuguesePhonetic": "[kén iú rrélp mí]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_36",
+    "word": "I'll send it to you.",
+    "translation": "Eu vou enviar isso para você.",
+    "pronunciation": "/aɪl sɛnd ɪt tə juː/",
+    "portuguesePhonetic": "[áiou sénd ít tu iú]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_37",
+    "word": "Give it to him after class.",
+    "translation": "Dê isso a ele depois da aula.",
+    "pronunciation": "/ɡɪv ɪt tə hɪm ˈæftər klæs/",
+    "portuguesePhonetic": "[guív ít tu rrím éfter klés]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_38",
+    "word": "Tell her the news.",
+    "translation": "Conte a notícia para ela.",
+    "pronunciation": "/tɛl hɜːr ðə nuːz/",
+    "portuguesePhonetic": "[tél rrâr dha niúz]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_39",
+    "word": "Can you take us with you?",
+    "translation": "Você pode nos levar com você?",
+    "pronunciation": "/kæn juː teɪk ʌs wɪð juː/",
+    "portuguesePhonetic": "[kén iú têik âs uídh iú]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_40",
+    "word": "Can I visit you this summer?",
+    "translation": "Posso te visitar neste verão?",
+    "pronunciation": "/kæn aɪ ˈvɪzɪt juː ðɪs ˈsʌmər/",
+    "portuguesePhonetic": "[kén ái vízit iú dhís sâmer]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_41",
+    "word": "We want to see them again.",
+    "translation": "Nós queremos vê-los de novo.",
+    "pronunciation": "/wiː wɑːnt tə siː ðɛm əˈɡɛn/",
+    "portuguesePhonetic": "[uí uánt tu sí dhém aguén]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_42",
+    "word": "Speak to them. They're nice.",
+    "translation": "Fale com eles. Eles são legais.",
+    "pronunciation": "/spiːk tə ðɛm · ðer naɪs/",
+    "portuguesePhonetic": "[spík tu dhém · dhér náis]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_43",
+    "word": "It is a nice car.",
+    "translation": "É um carro bonito.",
+    "pronunciation": "/ɪt ɪz ə naɪs kɑːr/",
+    "portuguesePhonetic": "[ít iz a náis kár]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_44",
+    "word": "Do you like it or not?",
+    "translation": "Você gosta dele ou não?",
+    "pronunciation": "/duː juː laɪk ɪt ɔːr nɑːt/",
+    "portuguesePhonetic": "[dú iú láik ít ór nót]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_45",
+    "word": "I bought it yesterday.",
+    "translation": "Eu comprei ele ontem.",
+    "pronunciation": "/aɪ bɔːt ɪt ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[ái bót ít iéster dei]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_46",
+    "word": "I like you a lot.",
+    "translation": "Eu gosto muito de você.",
+    "pronunciation": "/aɪ laɪk juː ə lɑːt/",
+    "portuguesePhonetic": "[ái láik iú a lót]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_47",
+    "word": "They don't watch TV.",
+    "translation": "Eles não assistem TV.",
+    "pronunciation": "/ðeɪ doʊnt wɑːtʃ ˌtiːˈviː/",
+    "portuguesePhonetic": "[dhêi dôunt uátch ti-ví]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_48",
+    "word": "We speak English.",
+    "translation": "Nós falamos inglês.",
+    "pronunciation": "/wiː spiːk ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "[uí spík ínglich]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_49",
+    "word": "He calls me every day.",
+    "translation": "Ele me liga todo dia.",
+    "pronunciation": "/hiː kɔːlz miː ˈɛvri deɪ/",
+    "portuguesePhonetic": "[rrí kólz mí évri dêi]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_50",
+    "word": "I see her every day.",
+    "translation": "Eu a vejo todo dia.",
+    "pronunciation": "/aɪ siː hɜːr ˈɛvri deɪ/",
+    "portuguesePhonetic": "[ái sí rrâr évri dêi]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_51",
+    "word": "I see them.",
+    "translation": "Eu os vejo.",
+    "pronunciation": "/aɪ siː ðɛm/",
+    "portuguesePhonetic": "[ái sí dhém]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_52",
+    "word": "She likes him.",
+    "translation": "Ela gosta dele.",
+    "pronunciation": "/ʃiː laɪks hɪm/",
+    "portuguesePhonetic": "[chí láiks rrím]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_53",
+    "word": "We need it.",
+    "translation": "Nós precisamos disso.",
+    "pronunciation": "/wiː niːd ɪt/",
+    "portuguesePhonetic": "[uí níd ít]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_54",
+    "word": "They know us.",
+    "translation": "Eles nos conhecem.",
+    "pronunciation": "/ðeɪ noʊ ʌs/",
+    "portuguesePhonetic": "[dhêi nôu âs]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_55",
+    "word": "He gives me a book.",
+    "translation": "Ele me dá um livro.",
+    "pronunciation": "/hiː ɡɪvz miː ə bʊk/",
+    "portuguesePhonetic": "[rrí guívz mí a búk]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_56",
+    "word": "I send you a message.",
+    "translation": "Eu te envio uma mensagem.",
+    "pronunciation": "/aɪ sɛnd juː ə ˈmɛsɪdʒ/",
+    "portuguesePhonetic": "[ái sénd iú a mésidj]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_57",
+    "word": "Does she call you?",
+    "translation": "Ela te liga?",
+    "pronunciation": "/dʌz ʃiː kɔːl juː/",
+    "portuguesePhonetic": "[dâz chí kól iú]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_58",
+    "word": "They don't understand me.",
+    "translation": "Eles não me entendem.",
+    "pronunciation": "/ðeɪ doʊnt ˌʌndərˈstænd miː/",
+    "portuguesePhonetic": "[dhêi dôunt andersténd mí]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_59",
+    "word": "Why does he ignore us?",
+    "translation": "Por que ele nos ignora?",
+    "pronunciation": "/waɪ dʌz hiː ɪɡˈnɔːr ʌs/",
+    "portuguesePhonetic": "[uái dâz rrí ignór âs]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_60",
+    "word": "Can you tell them the truth?",
+    "translation": "Você pode contar a verdade a eles?",
+    "pronunciation": "/kæn juː tɛl ðɛm ðə truːθ/",
+    "portuguesePhonetic": "[kén iú tél dhém dha trúth]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_61",
+    "word": "I don't trust him.",
+    "translation": "Eu não confio nele.",
+    "pronunciation": "/aɪ doʊnt trʌst hɪm/",
+    "portuguesePhonetic": "[ái dôunt trâst rrím]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_62",
+    "word": "Do they remember her?",
+    "translation": "Eles se lembram dela?",
+    "pronunciation": "/duː ðeɪ rɪˈmɛmbər hɜːr/",
+    "portuguesePhonetic": "[dú dhêi rimémber rrâr]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_63",
+    "word": "She called me because she needed help.",
+    "translation": "Ela me ligou porque precisava de ajuda.",
+    "pronunciation": "/ʃiː kɔːld miː bɪˈkɔːz ʃiː ˈniːdɪd hɛlp/",
+    "portuguesePhonetic": "[chí kóld mí bikóz chí níded rrélp]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_64",
+    "word": "I gave it to him when he arrived.",
+    "translation": "Eu dei isso a ele quando ele chegou.",
+    "pronunciation": "/aɪ ɡeɪv ɪt tə hɪm wɛn hiː əˈraɪvd/",
+    "portuguesePhonetic": "[ái guêiv ít tu rrím uén rrí aráivd]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_65",
+    "word": "We visited them last weekend.",
+    "translation": "Nós os visitamos no fim de semana passado.",
+    "pronunciation": "/wiː ˈvɪzɪtɪd ðɛm læst ˈwiːkɛnd/",
+    "portuguesePhonetic": "[uí vízited dhém lést uíkend]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_66",
+    "word": "He was helping us when you came.",
+    "translation": "Ele estava nos ajudando quando você chegou.",
+    "pronunciation": "/hiː wəz ˈhɛlpɪŋ ʌs wɛn juː keɪm/",
+    "portuguesePhonetic": "[rrí uâz rrélpin âs uén iú kêim]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_67",
+    "word": "They invited us, but we couldn't go.",
+    "translation": "Eles nos convidaram, mas não pudemos ir.",
+    "pronunciation": "/ðeɪ ɪnˈvaɪtɪd ʌs bʌt wiː ˈkʊdnt ɡoʊ/",
+    "portuguesePhonetic": "[dhêi inváited âs bât uí kúdent gôu]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_68",
+    "word": "I'll show you the photos when I see you.",
+    "translation": "Eu vou te mostrar as fotos quando te ver.",
+    "pronunciation": "/aɪl ʃoʊ juː ðə ˈfoʊtoʊz wɛn aɪ siː juː/",
+    "portuguesePhonetic": "[áiou chôu iú dha fôutouz uén ái sí iú]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_69",
+    "word": "She doesn't talk to him anymore because they argued.",
+    "translation": "Ela não fala mais com ele porque eles brigaram.",
+    "pronunciation": "/ʃiː ˈdʌznt tɔːk tə hɪm ˌɛniˈmɔːr bɪˈkɔːz ðeɪ ˈɑːrɡjuːd/",
+    "portuguesePhonetic": "[chí dâznt tók tu rrím enimór bikóz dhêi árguiud]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_70",
+    "word": "Can you give them my number and tell them to call me?",
+    "translation": "Você pode dar meu número a eles e pedir que me liguem?",
+    "pronunciation": "/kæn juː ɡɪv ðɛm maɪ ˈnʌmbər ænd tɛl ðɛm tə kɔːl miː/",
+    "portuguesePhonetic": "[kén iú guív dhém mái nâmber énd tél dhém tu kól mí]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_71",
+    "word": "We met them at a party, and we really liked them.",
+    "translation": "Nós os conhecemos numa festa e gostamos muito deles.",
+    "pronunciation": "/wiː mɛt ðɛm æt ə ˈpɑːrti ænd wiː ˈrɪli laɪkt ðɛm/",
+    "portuguesePhonetic": "[uí mét dhém ét a párti énd uí ríli láikt dhém]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_72",
+    "word": "If you see her, please give her this letter.",
+    "translation": "Se você a vir, por favor entregue esta carta a ela.",
+    "pronunciation": "/ɪf juː siː hɜːr pliːz ɡɪv hɜːr ðɪs ˈlɛtər/",
+    "portuguesePhonetic": "[if iú sí rrâr plíz guív rrâr dhís léter]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_73",
+    "word": "He never listens to me, even when I am right.",
+    "translation": "Ele nunca me escuta, mesmo quando eu estou certo.",
+    "pronunciation": "/hiː ˈnɛvər ˈlɪsn̩z tə miː ˈiːvn̩ wɛn aɪ æm raɪt/",
+    "portuguesePhonetic": "[rrí néver lísanz tu mí ívan uén ái ém ráit]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_74",
+    "word": "They want to meet us, so let's invite them over.",
+    "translation": "Eles querem nos conhecer, então vamos convidá-los.",
+    "pronunciation": "/ðeɪ wɑːnt tə miːt ʌs soʊ lɛts ɪnˈvaɪt ðɛm ˈoʊvər/",
+    "portuguesePhonetic": "[dhêi uánt tu mít âs sôu léts inváit dhém ôuver]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_75",
+    "word": "I told you about it, but you don't remember.",
+    "translation": "Eu te falei sobre isso, mas você não se lembra.",
+    "pronunciation": "/aɪ toʊld juː əˈbaʊt ɪt bʌt juː doʊnt rɪˈmɛmbər/",
+    "portuguesePhonetic": "[ái tôuld iú abáut ít bât iú dôunt rimémber]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_76",
+    "word": "Do you know him?\" / \"Yes, I do.",
+    "translation": "Você o conhece?\" / \"Sim, conheço.",
+    "pronunciation": "/duː juː noʊ hɪm · jɛs aɪ duː/",
+    "portuguesePhonetic": "[dú iú nôu rrím · iés ái dú]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_77",
+    "word": "Can you help me?\" / \"Of course.",
+    "translation": "Você pode me ajudar?\" / \"Claro.",
+    "pronunciation": "/kæn juː hɛlp miː · ʌv kɔːrs/",
+    "portuguesePhonetic": "[kén iú rrélp mí · ov kórs]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_78",
+    "word": "Does she like you?\" / \"I think so.",
+    "translation": "Ela gosta de você?\" / \"Acho que sim.",
+    "pronunciation": "/dʌz ʃiː laɪk juː · aɪ θɪŋk soʊ/",
+    "portuguesePhonetic": "[dâz chí láik iú · ái thínk sôu]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_79",
+    "word": "Where are they?\" / \"I don't see them.",
+    "translation": "Onde eles estão?\" / \"Eu não os vejo.",
+    "pronunciation": "/wɛr ɑːr ðeɪ · aɪ doʊnt siː ðɛm/",
+    "portuguesePhonetic": "[uér ár dhêi · ái dôunt sí dhém]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_80",
+    "word": "Did he call you?\" / \"Yes, this morning.",
+    "translation": "Ele te ligou?\" / \"Sim, hoje de manhã.",
+    "pronunciation": "/dɪd hiː kɔːl juː · jɛs ðɪs ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[díd rrí kól iú · iés dhís mórnin]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_81",
+    "word": "Can I visit you?\" / \"Yes, anytime.",
+    "translation": "Posso te visitar?\" / \"Sim, quando quiser.",
+    "pronunciation": "/kæn aɪ ˈvɪzɪt juː · jɛs ˈɛnitaɪm/",
+    "portuguesePhonetic": "[kén ái vízit iú · iés énitaim]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_82",
+    "word": "Do they know us?\" / \"No, they don't.",
+    "translation": "Eles nos conhecem?\" / \"Não, não conhecem.",
+    "pronunciation": "/duː ðeɪ noʊ ʌs · noʊ ðeɪ doʊnt/",
+    "portuguesePhonetic": "[dú dhêi nôu âs · nôu dhêi dôunt]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_83",
+    "word": "Who gave it to her?\" / \"I did.",
+    "translation": "Quem deu isso a ela?\" / \"Fui eu.",
+    "pronunciation": "/huː ɡeɪv ɪt tə hɜːr · aɪ dɪd/",
+    "portuguesePhonetic": "[rrú guêiv ít tu rrâr · ái díd]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_84",
+    "word": "Will you tell them?\" / \"Yes, I will.",
+    "translation": "Você vai contar a eles?\" / \"Sim, vou.",
+    "pronunciation": "/wɪl juː tɛl ðɛm · jɛs aɪ wɪl/",
+    "portuguesePhonetic": "[uíou iú tél dhém · iés ái uíou]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_85",
+    "word": "Does it work?\" / \"Yes, it does.",
+    "translation": "Isso funciona?\" / \"Sim, funciona.",
+    "pronunciation": "/dʌz ɪt wɜːrk · jɛs ɪt dʌz/",
+    "portuguesePhonetic": "[dâz ít uârk · iés ít dâz]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_86",
+    "word": "Can you take us home?\" / \"Sure, get in.",
+    "translation": "Você pode nos levar para casa?\" / \"Claro, entrem.",
+    "pronunciation": "/kæn juː teɪk ʌs hoʊm · ʃʊr ɡɛt ɪn/",
+    "portuguesePhonetic": "[kén iú têik âs rrôum · chúr guét ín]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_87",
+    "word": "Do you like it?\" / \"Yes, I love it.",
+    "translation": "Você gosta disso?\" / \"Sim, eu adoro.",
+    "pronunciation": "/duː juː laɪk ɪt · jɛs aɪ lʌv ɪt/",
+    "portuguesePhonetic": "[dú iú láik ít · iés ái lâv ít]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_88",
+    "word": "Did they invite you?\" / \"No, they didn't.",
+    "translation": "Eles te convidaram?\" / \"Não, não convidaram.",
+    "pronunciation": "/dɪd ðeɪ ɪnˈvaɪt juː · noʊ ðeɪ ˈdɪdnt/",
+    "portuguesePhonetic": "[díd dhêi inváit iú · nôu dhêi dídent]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_89",
+    "word": "Can you see her?\" / \"No, she left.",
+    "translation": "Você consegue ver ela?\" / \"Não, ela foi embora.",
+    "pronunciation": "/kæn juː siː hɜːr · noʊ ʃiː lɛft/",
+    "portuguesePhonetic": "[kén iú sí rrâr · nôu chí léft]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_90",
+    "word": "Do you trust him?\" / \"Not really.",
+    "translation": "Você confia nele?\" / \"Nem tanto.",
+    "pronunciation": "/duː juː trʌst hɪm · nɑːt ˈrɪli/",
+    "portuguesePhonetic": "[dú iú trâst rrím · nót ríli]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_91",
+    "word": "Should I call them?\" / \"Yes, please.",
+    "translation": "Devo ligar para eles?\" / \"Sim, por favor.",
+    "pronunciation": "/ʃʊd aɪ kɔːl ðɛm · jɛs pliːz/",
+    "portuguesePhonetic": "[chúd ái kól dhém · iés plíz]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_92",
+    "word": "Do you remember me?\" / \"Of course I do.",
+    "translation": "Você se lembra de mim?\" / \"Claro que sim.",
+    "pronunciation": "/duː juː rɪˈmɛmbər miː · ʌv kɔːrs aɪ duː/",
+    "portuguesePhonetic": "[dú iú rimémber mí · ov kórs ái dú]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_93",
+    "word": "Can he help us?\" / \"Maybe, ask him.",
+    "translation": "Ele pode nos ajudar?\" / \"Talvez, pergunte a ele.",
+    "pronunciation": "/kæn hiː hɛlp ʌs · ˈmeɪbiː æsk hɪm/",
+    "portuguesePhonetic": "[kén rrí rrélp âs · mêibi ésk rrím]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_94",
+    "word": "Did she answer you?\" / \"Not yet.",
+    "translation": "Ela te respondeu?\" / \"Ainda não.",
+    "pronunciation": "/dɪd ʃiː ˈænsər juː · nɑːt jɛt/",
+    "portuguesePhonetic": "[díd chí énser iú · nót iét]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_95",
+    "word": "Do you need it?\" / \"Yes, I do.",
+    "translation": "Você precisa disso?\" / \"Sim, preciso.",
+    "pronunciation": "/duː juː niːd ɪt · jɛs aɪ duː/",
+    "portuguesePhonetic": "[dú iú níd ít · iés ái dú]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_96",
+    "word": "Will they meet us?\" / \"Yes, at six.",
+    "translation": "Eles vão nos encontrar?\" / \"Sim, às seis.",
+    "pronunciation": "/wɪl ðeɪ miːt ʌs · jɛs æt sɪks/",
+    "portuguesePhonetic": "[uíou dhêi mít âs · iés ét síks]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_97",
+    "word": "Can I ask you something?\" / \"Sure, go ahead.",
+    "translation": "Posso te perguntar uma coisa?\" / \"Claro, pode falar.",
+    "pronunciation": "/kæn aɪ æsk juː ˈsʌmθɪŋ · ʃʊr ɡoʊ əˈhɛd/",
+    "portuguesePhonetic": "[kén ái ésk iú sâmthin · chúr gôu arréd]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_98",
+    "word": "Does he understand them?\" / \"Yes, perfectly.",
+    "translation": "Ele os entende?\" / \"Sim, perfeitamente.",
+    "pronunciation": "/dʌz hiː ˌʌndərˈstænd ðɛm · jɛs ˈpɜːrfɪktli/",
+    "portuguesePhonetic": "[dâz rrí andersténd dhém · iés pârfiktli]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_99",
+    "word": "Did you give it to him?\" / \"Yes, I did.",
+    "translation": "Você deu isso a ele?\" / \"Sim, dei.",
+    "pronunciation": "/dɪd juː ɡɪv ɪt tə hɪm · jɛs aɪ dɪd/",
+    "portuguesePhonetic": "[díd iú guív ít tu rrím · iés ái díd]"
+  },
+  {
+    "id": "lesson_9_grammar_a1_en_card_100",
+    "word": "Do you miss them?\" / \"Yes, a lot.",
+    "translation": "Você sente falta deles?\" / \"Sim, muito.",
+    "pronunciation": "/duː juː mɪs ðɛm · jɛs ə lɑːt/",
+    "portuguesePhonetic": "[dú iú mís dhém · iés a lót]"
+  }
+]

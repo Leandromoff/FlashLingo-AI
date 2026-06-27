@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_1",
+    "word": "a las cuatro",
+    "translation": "às 4 horas",
+    "pronunciation": "/a las ˈkwatɾo/",
+    "portuguesePhonetic": "[a las kuátro]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_2",
+    "word": "a las diez y media",
+    "translation": "às 10:30",
+    "pronunciation": "/a las djeθ i ˈmeðja/",
+    "portuguesePhonetic": "[a las diéth i médIa]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_3",
+    "word": "al mediodía",
+    "translation": "ao meio-dia",
+    "pronunciation": "/al meðjoˈðia/",
+    "portuguesePhonetic": "[al mediodía]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_4",
+    "word": "a medianoche",
+    "translation": "à meia-noite",
+    "pronunciation": "/a meðjaˈnotʃe/",
+    "portuguesePhonetic": "[a mediánótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_5",
+    "word": "a la hora de comer",
+    "translation": "na hora do almoço",
+    "pronunciation": "/a la ˈoɾa de koˈmeɾ/",
+    "portuguesePhonetic": "[a la óra de komér]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_6",
+    "word": "en Navidad",
+    "translation": "no Natal",
+    "pronunciation": "/en naβiˈðað/",
+    "portuguesePhonetic": "[en nabidád]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_7",
+    "word": "por la noche",
+    "translation": "à noite",
+    "pronunciation": "/poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "[por la nótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_8",
+    "word": "en este momento",
+    "translation": "no momento",
+    "pronunciation": "/en ˈeste moˈmento/",
+    "portuguesePhonetic": "[en éste moménto]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_10",
+    "word": "en abril",
+    "translation": "em abril",
+    "pronunciation": "/en aˈβɾil/",
+    "portuguesePhonetic": "[en abríl]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_11",
+    "word": "en verano",
+    "translation": "no verão",
+    "pronunciation": "/en beˈɾano/",
+    "portuguesePhonetic": "[en beráno]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_12",
+    "word": "en 1990",
+    "translation": "em 1990",
+    "pronunciation": "/en mil noβeˈθjentos noˈβenta/",
+    "portuguesePhonetic": "[en mil nobethiéntos nobénta]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_13",
+    "word": "en los años 80",
+    "translation": "nos anos 80",
+    "pronunciation": "/en los ˈaɲos oˈtʃenta/",
+    "portuguesePhonetic": "[en los ánhos otchénta]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_14",
+    "word": "en el siglo XX",
+    "translation": "no século 20",
+    "pronunciation": "/en el ˈsiɣlo ˈβejnte/",
+    "portuguesePhonetic": "[en el síglo béinte]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_15",
+    "word": "por la mañana",
+    "translation": "de manhã",
+    "pronunciation": "/poɾ la maˈɲana/",
+    "portuguesePhonetic": "[por la manhána]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_16",
+    "word": "por la tarde",
+    "translation": "à tarde",
+    "pronunciation": "/poɾ la ˈtaɾðe/",
+    "portuguesePhonetic": "[por la tárde]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_17",
+    "word": "por la noche",
+    "translation": "à noite (início)",
+    "pronunciation": "/poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "[por la nótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_19",
+    "word": "el martes",
+    "translation": "na terça-feira",
+    "pronunciation": "/el ˈmaɾtes/",
+    "portuguesePhonetic": "[el mártes]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_20",
+    "word": "el día de mi cumpleaños",
+    "translation": "no dia do meu aniversário",
+    "pronunciation": "/el ˈdia de mi kumpleˈaɲos/",
+    "portuguesePhonetic": "[el día de mi kumpleánhos]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_21",
+    "word": "el día de Navidad",
+    "translation": "no dia de Natal",
+    "pronunciation": "/el ˈdia de naβiˈðað/",
+    "portuguesePhonetic": "[el día de nabidád]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_22",
+    "word": "el 15 de junio",
+    "translation": "no dia 15 de junio",
+    "pronunciation": "/el ˈkinθe de ˈxunjo/",
+    "portuguesePhonetic": "[el kínthe de rrúnio]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_23",
+    "word": "el lunes por la mañana",
+    "translation": "na segunda de manhã",
+    "pronunciation": "/el ˈlunes poɾ la maˈɲana/",
+    "portuguesePhonetic": "[el lúnes por la manhána]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_24",
+    "word": "el sábado por la noche",
+    "translation": "no sábado à noite",
+    "pronunciation": "/el ˈsaβaðo poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "[el sábado por la nótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_25",
+    "word": "A las\" para horas, \"en\" para meses, \"el\" para días.",
+    "translation": "A las\" para horas, \"en\" para meses, \"el\" para dias.",
+    "pronunciation": "/a las ˈpaɾa ˈoɾas en ˈpaɾa ˈmeses el ˈpaɾa ˈdias/",
+    "portuguesePhonetic": "[a las pára óras en pára méses el pára días]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_26",
+    "word": "Los días NO llevan preposición: \"el martes\".",
+    "translation": "Os dias NÃO levam preposição: \"el martes\".",
+    "pronunciation": "/los ˈdias no ˈʎeβan pɾeposiˈθjon/",
+    "portuguesePhonetic": "[los días no lhéban preposithión]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_27",
+    "word": "Las partes del día: \"por la mañana / tarde / noche\".",
+    "translation": "As partes do dia: \"por la mañana / tarde / noche\".",
+    "pronunciation": "/las ˈpaɾtes del ˈdia poɾ la maˈɲana/",
+    "portuguesePhonetic": "[las pártes del día por la manhána]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_28",
+    "word": "La reunión es a las nueve.",
+    "translation": "A reunión é às 9.",
+    "pronunciation": "/la reuˈnjon es a las ˈnweβe/",
+    "portuguesePhonetic": "[la reunión és a las nuébe]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_29",
+    "word": "Me despierto a las siete de la mañana.",
+    "translation": "Eu acordo às 7 da manhã.",
+    "pronunciation": "/me desˈpjeɾto a las ˈsjete de la maˈɲana/",
+    "portuguesePhonetic": "[me despiérto a las siéte de la manhána]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_30",
+    "word": "Comemos al mediodía.",
+    "translation": "Nós almoçamos ao meio-dia.",
+    "pronunciation": "/koˈmemos al meðjoˈðia/",
+    "portuguesePhonetic": "[komémos al mediodía]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_31",
+    "word": "La película empieza a las ocho de la tarde.",
+    "translation": "O filme começa às 8 da noite.",
+    "pronunciation": "/la peˈlikula emˈpjeθa a las ˈotʃo de la ˈtaɾðe/",
+    "portuguesePhonetic": "[la pelíkula empiétha a las ótcho de la tárde]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_32",
+    "word": "Me acuesto a medianoche.",
+    "translation": "Eu vou dormir à meia-noite.",
+    "pronunciation": "/me aˈkwesto a meðjaˈnotʃe/",
+    "portuguesePhonetic": "[me akuésto a mediánótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_33",
+    "word": "Trabajo el lunes.",
+    "translation": "Eu trabalho na segunda.",
+    "pronunciation": "/tɾaˈβaxo el ˈlunes/",
+    "portuguesePhonetic": "[trabárro el lúnes]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_34",
+    "word": "Quedamos el viernes.",
+    "translation": "Nós nos encontramos na sexta.",
+    "pronunciation": "/keˈðamos el ˈbjeɾnes/",
+    "portuguesePhonetic": "[kedámos el biérnes]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_35",
+    "word": "La fiesta es el sábado por la noche.",
+    "translation": "A festa é no sábado à noite.",
+    "pronunciation": "/la ˈfjesta es el ˈsaβaðo poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "[la fiésta és el sábado por la nótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_36",
+    "word": "Descanso el domingo por la tarde.",
+    "translation": "Eu relaxo no domingo à tarde.",
+    "pronunciation": "/desˈkanso el doˈmiŋɡo poɾ la ˈtaɾðe/",
+    "portuguesePhonetic": "[deskánso el domíngo por la tárde]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_37",
+    "word": "Mi cumpleaños es en mayo.",
+    "translation": "Meu aniversário é em maio.",
+    "pronunciation": "/mi kumpleˈaɲos es en ˈmaʝo/",
+    "portuguesePhonetic": "[mi kumpleánhos és en máio]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_38",
+    "word": "El examen es el 15 de junio.",
+    "translation": "A prova é no dia 15 de junho.",
+    "pronunciation": "/el eɣˈsamen es el ˈkinθe de ˈxunjo/",
+    "portuguesePhonetic": "[el eksámen és el kínthe de rrúnio]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_39",
+    "word": "Viajamos en verano.",
+    "translation": "Nós viajamos no verão.",
+    "pronunciation": "/bjaˈxamos en beˈɾano/",
+    "portuguesePhonetic": "[biarrámos en beráno]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_40",
+    "word": "El colegio empieza en septiembre.",
+    "translation": "A escola começa em setembro.",
+    "pronunciation": "/el koˈlexjo emˈpjeθa en sepˈtjembɾe/",
+    "portuguesePhonetic": "[el kolérrio empiétha en septiémbre]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_41",
+    "word": "Visitamos a la familia en Navidad.",
+    "translation": "Nós visitamos a família no Natal.",
+    "pronunciation": "/bisiˈtamos a la faˈmilja en naβiˈðað/",
+    "portuguesePhonetic": "[bisitámos a la famílha en nabidád]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_42",
+    "word": "Tengo vacaciones en Semana Santa.",
+    "translation": "Eu tenho férias na Páscoa.",
+    "pronunciation": "/ˈteŋɡo bakaˈθjones en seˈmana ˈsanta/",
+    "portuguesePhonetic": "[téngo bakathiónes en semána sánta]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_43",
+    "word": "Lo celebramos en nuestro aniversario.",
+    "translation": "Nós comemoramos no nosso aniversário.",
+    "pronunciation": "/lo θeleˈβɾamos en ˈnwestɾo aniβeɾˈsaɾjo/",
+    "portuguesePhonetic": "[lo thelebrámos en nuéstro anibersário]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_44",
+    "word": "Tomo café por la mañana.",
+    "translation": "Eu tomo café de manhã.",
+    "pronunciation": "/ˈtomo kaˈfe poɾ la maˈɲana/",
+    "portuguesePhonetic": "[tómo kafé por la manhána]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_45",
+    "word": "Estudio por la tarde.",
+    "translation": "Eu estudo à tarde.",
+    "pronunciation": "/esˈtuðjo poɾ la ˈtaɾðe/",
+    "portuguesePhonetic": "[estúdio por la tárde]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_46",
+    "word": "Veo la tele por la noche.",
+    "translation": "Eu assisto TV à noite.",
+    "pronunciation": "/ˈbeo la ˈtele poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "[béo la téle por la nótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_47",
+    "word": "Mis padres se conocieron en los años 80.",
+    "translation": "Meus pais se conheceram nos anos 80.",
+    "pronunciation": "/mis ˈpaðɾes se konoˈθjeɾon en los ˈaɲos oˈtʃenta/",
+    "portuguesePhonetic": "[mis pádres se konothiéron en los ánhos otchénta]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_48",
+    "word": "Nació en 1990.",
+    "translation": "Ele nasceu em 1990.",
+    "pronunciation": "/naˈθjo en mil noβeˈθjentos noˈβenta/",
+    "portuguesePhonetic": "[nathió en mil nobethiéntos nobénta]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_49",
+    "word": "Eso pasó en el pasado.",
+    "translation": "Isso aconteceu no passado.",
+    "pronunciation": "/ˈeso paˈso en el paˈsaðo/",
+    "portuguesePhonetic": "[éso pasó en el pasádo]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_50",
+    "word": "Te llamo la semana que viene.",
+    "translation": "Eu te ligo na semana que vem.",
+    "pronunciation": "/te ˈʎamo la seˈmana ke ˈbjene/",
+    "portuguesePhonetic": "[te lhámo la semána ke biéne]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_51",
+    "word": "La vi el viernes pasado.",
+    "translation": "Eu a vi na sexta passada.",
+    "pronunciation": "/la bi el ˈbjeɾnes paˈsaðo/",
+    "portuguesePhonetic": "[la bi el biérnes pasádo]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_52",
+    "word": "Viajamos el mes que viene.",
+    "translation": "Nós vamos viajar no mês que vem.",
+    "pronunciation": "/bjaˈxamos el mes ke ˈbjene/",
+    "portuguesePhonetic": "[biarrámos el més ke biéne]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_53",
+    "word": "La clase es a las diez.",
+    "translation": "A aula é às 10.",
+    "pronunciation": "/la ˈklase es a las djeθ/",
+    "portuguesePhonetic": "[la kláse és a las diéth]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_54",
+    "word": "Trabajo el lunes.",
+    "translation": "Eu trabalho na segunda.",
+    "pronunciation": "/tɾaˈβaxo el ˈlunes/",
+    "portuguesePhonetic": "[trabárro el lúnes]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_55",
+    "word": "Viajamos en julio.",
+    "translation": "Nós viajamos em julho.",
+    "pronunciation": "/bjaˈxamos en ˈxuljo/",
+    "portuguesePhonetic": "[biarrámos en rrúlio]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_56",
+    "word": "Ella duerme por la noche.",
+    "translation": "Ela dorme à noite.",
+    "pronunciation": "/ˈeʎa ˈdweɾme poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "[élha duérme por la nótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_57",
+    "word": "La tienda abre a las nueve de la mañana.",
+    "translation": "A loja abre às 9 da manhã.",
+    "pronunciation": "/la ˈtjenda ˈaβɾe a las ˈnweβe de la maˈɲana/",
+    "portuguesePhonetic": "[la tiénda ábre a las nuébe de la manhána]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_58",
+    "word": "Mi cumpleaños es el 20 de mayo.",
+    "translation": "Meu aniversário é no dia 20 de maio.",
+    "pronunciation": "/mi kumpleˈaɲos es el ˈbejnte de ˈmaʝo/",
+    "portuguesePhonetic": "[mi kumpleánhos és el béinte de máio]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_59",
+    "word": "¿Trabajas los fines de semana?",
+    "translation": "Você trabalha nos fins de semana?",
+    "pronunciation": "/tɾaˈβaxas los ˈfines de seˈmana/",
+    "portuguesePhonetic": "[trabárras los fínes de semána]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_60",
+    "word": "No estudio por la noche.",
+    "translation": "Eu não estudo à noite.",
+    "pronunciation": "/no esˈtuðjo poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "[no estúdio por la nótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_61",
+    "word": "¿A qué hora empieza?",
+    "translation": "A que horas começa?",
+    "pronunciation": "/a ke ˈoɾa emˈpjeθa/",
+    "portuguesePhonetic": "[a ke óra empiétha]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_62",
+    "word": "¿Cuándo es tu cumpleaños?",
+    "translation": "Quando é seu aniversário?",
+    "pronunciation": "/ˈkwando es tu kumpleˈaɲos/",
+    "portuguesePhonetic": "[kuándo és tu kumpleánhos]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_63",
+    "word": "No estamos libres el domingo.",
+    "translation": "Nós não estamos libres no domingo.",
+    "pronunciation": "/no esˈtamos ˈliβɾes el doˈmiŋɡo/",
+    "portuguesePhonetic": "[no estámos líbres el domíngo]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_64",
+    "word": "¿La reunión es a las dos o a las tres?",
+    "translation": "A reunión é às 2 ou às 3?",
+    "pronunciation": "/la reuˈnjon es a las dos o a las tɾes/",
+    "portuguesePhonetic": "[la reunión és a las dos o a las trés]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_65",
+    "word": "Te veo a la hora de comer, no por la mañana.",
+    "translation": "Eu te vejo na hora do almoço, não de manhã.",
+    "pronunciation": "/te ˈbeo a la ˈoɾa de koˈmeɾ no poɾ la maˈɲana/",
+    "portuguesePhonetic": "[te béo a la óra de komér no por la manhána]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_66",
+    "word": "Nos conocimos en 2010 y nos casamos en 2015.",
+    "translation": "Nós nos conhecemos em 2010 e nos casamos em 2015.",
+    "pronunciation": "/nos konoˈθimos en dos mil djeθ i nos kaˈsamos en dos mil ˈkinθe/",
+    "portuguesePhonetic": "[nos konothímos en dos mil diéth i nos kasámos en dos mil kínthe]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_67",
+    "word": "Nació en primavera, un domingo.",
+    "translation": "Ela nasceu na primavera, num domingo.",
+    "pronunciation": "/naˈθjo en pɾimaˈβeɾa un doˈmiŋɡo/",
+    "portuguesePhonetic": "[nathió en primabéra un domíngo]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_68",
+    "word": "Estaba durmiendo a medianoche cuando llamaste.",
+    "translation": "Eu estava dormindo à meia-noite quando você ligou.",
+    "pronunciation": "/esˈtaβa duɾˈmjendo a meðjaˈnotʃe ˈkwando ʎaˈmaste/",
+    "portuguesePhonetic": "[estába durmiéndo a mediánótche kuándo lhamáste]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_69",
+    "word": "Normalmente viajamos en verano, pero este año iremos en invierno.",
+    "translation": "Geralmente viajamos no verão, mas este ano vamos no inverno.",
+    "pronunciation": "/noɾˈmalmente bjaˈxamos en beˈɾano ˈpeɾo ˈeste ˈaɲo iˈɾemos en imˈbjeɾno/",
+    "portuguesePhonetic": "[normalménte biarrámos en beráno péro éste ánho irémos en imbiérno]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_70",
+    "word": "La tienda cierra a las ocho entre semana, pero antes los domingos.",
+    "translation": "A loja fecha às 8 nos dias de semana, mas mais cedo aos domingos.",
+    "pronunciation": "/la ˈtjenda ˈθjera a las ˈotʃo ˈentɾe seˈmana ˈpeɾo ˈantes los doˈmiŋɡos/",
+    "portuguesePhonetic": "[la tiénda thiérra a las ótcho éntre semána péro ántes los domíngos]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_71",
+    "word": "Te veré el viernes que viene, no este.",
+    "translation": "Eu te encontro na próxima sexta, não nesta.",
+    "pronunciation": "/te beˈɾe el ˈbjeɾnes ke ˈbjene no ˈeste/",
+    "portuguesePhonetic": "[te beré el biérnes ke biéne no éste]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_72",
+    "word": "En el siglo XX, la gente viajaba menos que hoy.",
+    "translation": "No século 20, as pessoas viajavam menos do que hoje.",
+    "pronunciation": "/en el ˈsiɣlo ˈβejnte la ˈxente bjaˈxaβa ˈmenos ke oi/",
+    "portuguesePhonetic": "[en el síglo béinte la rrénte biarrába ménos ke ôi]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_73",
+    "word": "Siempre me llama por la noche, aunque me acuesto pronto.",
+    "translation": "Ele sempre me liga à noite, mesmo eu dormindo cedo.",
+    "pronunciation": "/ˈsjempɾe me ˈʎama poɾ la ˈnotʃe ˈawŋke me aˈkwesto ˈpɾonto/",
+    "portuguesePhonetic": "[siémpre me lháma por la nótche áunke me akuésto prónto]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_74",
+    "word": "¿Prefieres hacer ejercicio por la mañana o por la noche?",
+    "translation": "Você prefere se exercitar de manhã ou à noite?",
+    "pronunciation": "/pɾeˈfjeɾes aˈθeɾ exeɾˈθiθjo poɾ la maˈɲana o poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "[prefiéres athér errerthíthio por la manhána o por la nótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_75",
+    "word": "Cenamos a las ocho el sábado para celebrar su cumpleaños.",
+    "translation": "Nós vamos jantar às 8 no sábado para comemorar o aniversário dela.",
+    "pronunciation": "/θeˈnamos a las ˈotʃo el ˈsaβaðo ˈpaɾa θeleˈβɾaɾ su kumpleˈaɲos/",
+    "portuguesePhonetic": "[thenámos a las ótcho el sábado pára thelebrár su kumpleánhos]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_76",
+    "word": "En Navidad siempre quedamos en casa de mi abuela por la tarde.",
+    "translation": "No Natal, sempre nos reunimos na casa da minha avó à tarde.",
+    "pronunciation": "/en naβiˈðað ˈsjempɾe keˈðamos en ˈkasa de mi aˈβwela poɾ la ˈtaɾðe/",
+    "portuguesePhonetic": "[en nabidád siémpre kedámos en kása de mi abuéla por la tárde]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_77",
+    "word": "Empecé este trabajo en marzo, y para el año que viene seré jefe.",
+    "translation": "Eu comecei este emprego em março, e até o ano que vem serei gerente.",
+    "pronunciation": "/empeˈθe ˈeste tɾaˈβaxo en ˈmaɾθo i ˈpaɾa el ˈaɲo ke ˈbjene seˈɾe ˈxefe/",
+    "portuguesePhonetic": "[empethé éste trabárro en márzo i pára el ánho ke biéne seré rréfe]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_78",
+    "word": "¿A qué hora es la reunión?» / «A las diez.»",
+    "translation": "A que horas é a reunião?\" / \"Às 10.",
+    "pronunciation": "/a ke ˈoɾa es la reuˈnjon · a las djeθ/",
+    "portuguesePhonetic": "[a ke óra és la reunión · a las diéth]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_79",
+    "word": "¿Cuándo trabajas?» / «Los lunes.»",
+    "translation": "Quando você trabalha?\" / \"Às segundas.",
+    "pronunciation": "/ˈkwando tɾaˈβaxas · los ˈlunes/",
+    "portuguesePhonetic": "[kuándo trabárras · los lúnes]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_80",
+    "word": "¿Cuándo es tu cumpleaños?» / «En mayo.»",
+    "translation": "Quando é seu aniversário?\" / \"Em maio.",
+    "pronunciation": "/ˈkwando es tu kumpleˈaɲos · en ˈmaʝo/",
+    "portuguesePhonetic": "[kuándo és tu kumpleánhos · en máio]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_81",
+    "word": "¿Qué día es la fiesta?» / «El sábado.»",
+    "translation": "Que dia é a festa?\" / \"No sábado.",
+    "pronunciation": "/ke ˈdia es la ˈfjesta · el ˈsaβaðo/",
+    "portuguesePhonetic": "[ke día és la fiésta · el sábado]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_82",
+    "word": "¿Cuándo llegaste?» / «Al mediodía.»",
+    "translation": "Quando você chegou?\" / \"Ao meio-dia.",
+    "pronunciation": "/ˈkwando ʎeˈɣaste · al meðjoˈðia/",
+    "portuguesePhonetic": "[kuándo lhegáste · al mediodía]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_83",
+    "word": "¿Cuándo viajas?» / «En verano.»",
+    "translation": "Quando você viaja?\" / \"No verão.",
+    "pronunciation": "/ˈkwando ˈbjaxas · en beˈɾano/",
+    "portuguesePhonetic": "[kuándo biárras · en beráno]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_84",
+    "word": "¿Cuándo llamó?» / «Por la noche.»",
+    "translation": "Quando ele ligou?\" / \"À noite.",
+    "pronunciation": "/ˈkwando ʎaˈmo · poɾ la ˈnotʃe/",
+    "portuguesePhonetic": "[kuándo lhamó · por la nótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_85",
+    "word": "¿A qué hora te despiertas?» / «A las siete.»",
+    "translation": "A que horas você acorda?\" / \"Às sete.",
+    "pronunciation": "/a ke ˈoɾa te desˈpjeɾtas · a las ˈsjete/",
+    "portuguesePhonetic": "[a ke óra te despiértas · a las siéte]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_86",
+    "word": "¿Cuándo es el examen?» / «El 15 de junio.»",
+    "translation": "Quando é a prova?\" / \"No dia 15 de junio.",
+    "pronunciation": "/ˈkwando es el eɣˈsamen · el ˈkinθe de ˈxunjo/",
+    "portuguesePhonetic": "[kuándo és el eksámen · el kínthe de rrúnio]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_87",
+    "word": "¿Cuándo estudias?» / «Por la tarde.»",
+    "translation": "Quando você estuda?\" / \"À tarde.",
+    "pronunciation": "/ˈkwando esˈtuðjas · poɾ la ˈtaɾðe/",
+    "portuguesePhonetic": "[kuándo estúdias · por la tárde]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_88",
+    "word": "¿Cuándo es la boda?» / «En septiembre.»",
+    "translation": "Quando é o casamento?\" / \"Em septiembre.",
+    "pronunciation": "/ˈkwando es la ˈboða · en sepˈtjembɾe/",
+    "portuguesePhonetic": "[kuándo és la bóda · en septiémbre]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_89",
+    "word": "¿Cuándo os conocisteis?» / «En 2010.»",
+    "translation": "Quando vocês se conheceram?\" / \"Em 2010.",
+    "pronunciation": "/ˈkwando os konoˈθisteis · en dos mil djeθ/",
+    "portuguesePhonetic": "[kuándo os konothísteis · en dos mil diéth]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_90",
+    "word": "¿A qué hora es la cena?» / «A las ocho.»",
+    "translation": "A que horas é o jantar?\" / \"Às oito.",
+    "pronunciation": "/a ke ˈoɾa es la ˈθena · a las ˈotʃo/",
+    "portuguesePhonetic": "[a ke óra és la théna · a las ótcho]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_91",
+    "word": "¿Cuándo estás libre?» / «El domingo.»",
+    "translation": "Quando você está livre?\" / \"No domingo.",
+    "pronunciation": "/ˈkwando esˈtas ˈliβɾe · el doˈmiŋɡo/",
+    "portuguesePhonetic": "[kuándo estás líbre · el domíngo]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_92",
+    "word": "¿Cuándo empieza el espectáculo?» / «A las nueve de la noche.»",
+    "translation": "Quando o show começa?\" / \"Às 9 da noite.",
+    "pronunciation": "/ˈkwando emˈpjeθa el espekˈtakulo · a las ˈnweβe de la ˈnotʃe/",
+    "portuguesePhonetic": "[kuándo empiétha el espektákulo · a las nuébe de la nótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_93",
+    "word": "¿Cuándo pasó?» / «En el pasado.»",
+    "translation": "Quando isso aconteceu?\" / \"No passado.",
+    "pronunciation": "/ˈkwando paˈso · en el paˈsaðo/",
+    "portuguesePhonetic": "[kuándo pasó · en el pasádo]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_94",
+    "word": "¿Cuándo podemos quedar?» / «La semana que viene.»",
+    "translation": "Quando podemos nos encontrar?\" / \"Semana que vem.",
+    "pronunciation": "/ˈkwando poˈðemos keˈðaɾ · la seˈmana ke ˈbjene/",
+    "portuguesePhonetic": "[kuándo podémos kedár · la semána ke biéne]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_95",
+    "word": "¿Cuándo la viste?» / «El viernes pasado.»",
+    "translation": "Quando você a viu?\" / \"Sexta passada.",
+    "pronunciation": "/ˈkwando la ˈbiste · el ˈbjeɾnes paˈsaðo/",
+    "portuguesePhonetic": "[kuándo la bíste · el biérnes pasádo]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_96",
+    "word": "¿Cuándo son las vacaciones?» / «En Semana Santa.»",
+    "translation": "Quando são as férias?\" / \"Na Páscoa.",
+    "pronunciation": "/ˈkwando son las bakaˈθjones · en seˈmana ˈsanta/",
+    "portuguesePhonetic": "[kuándo son las bakathiónes · en semána sánta]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_97",
+    "word": "¿Qué hora es ahora?» / «Es medianoche.»",
+    "translation": "Que horas são agora?\" / \"É meia-noite.",
+    "pronunciation": "/ke ˈoɾa es aˈoɾa · es meðjaˈnotʃe/",
+    "portuguesePhonetic": "[ke óra és aóra · és mediánótche]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_98",
+    "word": "¿Cuándo abre?» / «A las nueve de la mañana.»",
+    "translation": "Quando abre?\" / \"Às 9 da manhã.",
+    "pronunciation": "/ˈkwando ˈaβɾe · a las ˈnweβe de la maˈɲana/",
+    "portuguesePhonetic": "[kuándo ábre · a las nuébe de la manhána]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_99",
+    "word": "¿Cuándo es el aniversario?» / «El 20 de mayo.»",
+    "translation": "Quando é o aniversário?\" / \"No dia 20 de maio.",
+    "pronunciation": "/ˈkwando es el aniβeɾˈsaɾjo · el ˈbejnte de ˈmaʝo/",
+    "portuguesePhonetic": "[kuándo és el anibersário · el béinte de máio]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_100",
+    "word": "¿Cuándo descansas?» / «El domingo por la tarde.»",
+    "translation": "Quando você relaxa?\" / \"No domingo à tarde.",
+    "pronunciation": "/ˈkwando desˈkansas · el doˈmiŋɡo poɾ la ˈtaɾðe/",
+    "portuguesePhonetic": "[kuándo deskánsas · el domíngo por la tárde]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_101",
+    "word": "¿Cuándo naciste?» / «En 1995.»",
+    "translation": "Quando você nasceu?\" / \"Em 1995.",
+    "pronunciation": "/ˈkwando naˈθiste · en mil noβeˈθjentos noˈβenta i ˈθiŋko/",
+    "portuguesePhonetic": "[kuándo nathíste · en mil nobethiéntos nobénta i thínko]"
+  },
+  {
+    "id": "leccion_11_gramatica_a1_s_es_card_102",
+    "word": "¿Cuándo vas al gimnasio?» / «Por la mañana.»",
+    "translation": "Quando você vai à academia?\" / \"De manhã.",
+    "pronunciation": "/ˈkwando bas al ximˈnasjo · poɾ la maˈɲana/",
+    "portuguesePhonetic": "[kuándo bas al rrimnásio · por la manhána]"
+  }
+]

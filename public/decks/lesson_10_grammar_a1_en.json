@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_10_grammar_a1_en_card_1",
+    "word": "my father's car",
+    "translation": "o carro do meu pai",
+    "pronunciation": "/maɪ ˈfɑːðərz kɑːr/",
+    "portuguesePhonetic": "[mái fádherz kár]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_2",
+    "word": "the dog's toys",
+    "translation": "os brinquedos do cachorro",
+    "pronunciation": "/ðə dɔːɡz tɔɪz/",
+    "portuguesePhonetic": "[dha dógz tóiz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_3",
+    "word": "Mary's computer",
+    "translation": "o computador da Mary",
+    "pronunciation": "/ˈmɛriz kəmˈpjuːtər/",
+    "portuguesePhonetic": "[mériz kompiúter]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_4",
+    "word": "John's friends",
+    "translation": "os amigos do John",
+    "pronunciation": "/dʒɑːnz frɛndz/",
+    "portuguesePhonetic": "[djónz fréndz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_5",
+    "word": "Sara's mother",
+    "translation": "a mãe da Sara",
+    "pronunciation": "/ˈsɛrəz ˈmʌðər/",
+    "portuguesePhonetic": "[séraz mâdher]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_6",
+    "word": "Peter's brother",
+    "translation": "o irmão do Peter",
+    "pronunciation": "/ˈpiːtərz ˈbrʌðər/",
+    "portuguesePhonetic": "[píterz brâdher]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_7",
+    "word": "I'm at John's.",
+    "translation": "Estou na casa do John.",
+    "pronunciation": "/aɪm æt dʒɑːnz/",
+    "portuguesePhonetic": "[áim ét djónz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_8",
+    "word": "I'm going to the baker's.",
+    "translation": "Vou à padaria.",
+    "pronunciation": "/aɪm ˈɡoʊɪŋ tə ðə ˈbeɪkərz/",
+    "portuguesePhonetic": "[áim gôuin tu dha bêikerz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_9",
+    "word": "the end of the street",
+    "translation": "o fim da rua",
+    "pronunciation": "/ðə ɛnd əv ðə striːt/",
+    "portuguesePhonetic": "[dhi énd ov dha strít]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_10",
+    "word": "a picture of the sea",
+    "translation": "uma foto do mar",
+    "pronunciation": "/ə ˈpɪktʃər əv ðə siː/",
+    "portuguesePhonetic": "[a píktcher ov dha sí]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_11",
+    "word": "the secret of life",
+    "translation": "o segredo da vida",
+    "pronunciation": "/ðə ˈsiːkrət əv laɪf/",
+    "portuguesePhonetic": "[dha síkret ov láif]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_12",
+    "word": "the city center",
+    "translation": "o centro da cidade",
+    "pronunciation": "/ðə ˈsɪti ˈsɛntər/",
+    "portuguesePhonetic": "[dha síti sénter]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_13",
+    "word": "the car keys",
+    "translation": "as chaves do carro",
+    "pronunciation": "/ðə kɑːr kiːz/",
+    "portuguesePhonetic": "[dha kár kíz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_14",
+    "word": "the cat's collar",
+    "translation": "a coleira do gato",
+    "pronunciation": "/ðə kæts ˈkɑːlər/",
+    "portuguesePhonetic": "[dha kéts kálar]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_15",
+    "word": "the teacher's notebook",
+    "translation": "o caderno do professor",
+    "pronunciation": "/ðə ˈtiːtʃərz ˈnoʊtbʊk/",
+    "portuguesePhonetic": "[dha títcherz nôutbuk]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_16",
+    "word": "a children's story",
+    "translation": "uma história infantil",
+    "pronunciation": "/ə ˈtʃɪldrənz ˈstɔːri/",
+    "portuguesePhonetic": "[a tchíldrenz stóri]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_17",
+    "word": "the men's room",
+    "translation": "o banheiro masculino",
+    "pronunciation": "/ðə mɛnz ruːm/",
+    "portuguesePhonetic": "[dha ménz rúm]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_18",
+    "word": "people's problems",
+    "translation": "os problemas das pessoas",
+    "pronunciation": "/ˈpiːpl̩z ˈprɑːbləmz/",
+    "portuguesePhonetic": "[pípouz práblamz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_19",
+    "word": "the boys' restroom",
+    "translation": "o banheiro dos meninos",
+    "pronunciation": "/ðə bɔɪz ˈrɛstruːm/",
+    "portuguesePhonetic": "[dha bóiz réstrum]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_20",
+    "word": "the teachers' lounge",
+    "translation": "a sala dos professores",
+    "pronunciation": "/ðə ˈtiːtʃərz laʊndʒ/",
+    "portuguesePhonetic": "[dha títcherz láundj]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_21",
+    "word": "Chris's computer",
+    "translation": "o computador do Chris",
+    "pronunciation": "/ˈkrɪsɪz kəmˈpjuːtər/",
+    "portuguesePhonetic": "[krísiz kompiúter]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_22",
+    "word": "Douglas's house",
+    "translation": "a casa do Douglas",
+    "pronunciation": "/ˈdʌɡləsɪz haʊs/",
+    "portuguesePhonetic": "[dâglasiz ráus]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_23",
+    "word": "Anna and Tom's car",
+    "translation": "o carro da Anna e do Tom (um carro só)",
+    "pronunciation": "/ˈænə ænd tɑːmz kɑːr/",
+    "portuguesePhonetic": "[éna énd tómz kár]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_24",
+    "word": "Anna's and Tom's cars",
+    "translation": "os carros da Anna e do Tom (um cada)",
+    "pronunciation": "/ˈænəz ænd tɑːmz kɑːrz/",
+    "portuguesePhonetic": "[énaz énd tómz kárz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_25",
+    "word": "Use 's for people, \"of\" for things.",
+    "translation": "Use 's para pessoas, \"of\" para coisas.",
+    "pronunciation": "/juːz ɛs fɔːr ˈpiːpl̩ əv fɔːr θɪŋz/",
+    "portuguesePhonetic": "[iúz és fór pípou ov fór thíNz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_26",
+    "word": "This is my sister's room.",
+    "translation": "Este é o quarto da minha irmã.",
+    "pronunciation": "/ðɪs ɪz maɪ ˈsɪstərz ruːm/",
+    "portuguesePhonetic": "[dhís iz mái sísterz rúm]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_27",
+    "word": "That's my brother's bike.",
+    "translation": "Aquela é a bicicleta do meu irmão.",
+    "pronunciation": "/ðæts maɪ ˈbrʌðərz baɪk/",
+    "portuguesePhonetic": "[dhéts mái brâdherz báik]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_28",
+    "word": "Where are the children's toys?",
+    "translation": "Onde estão os brinquedos das crianças?",
+    "pronunciation": "/wɛr ɑːr ðə ˈtʃɪldrənz tɔɪz/",
+    "portuguesePhonetic": "[uér ár dha tchíldrenz tóiz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_29",
+    "word": "The dog's bed is in the kitchen.",
+    "translation": "A cama do cachorro fica na cozinha.",
+    "pronunciation": "/ðə dɔːɡz bɛd ɪz ɪn ðə ˈkɪtʃən/",
+    "portuguesePhonetic": "[dha dógz béd iz in dha kítchen]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_30",
+    "word": "My parents' house is big.",
+    "translation": "A casa dos meus pais é grande.",
+    "pronunciation": "/maɪ ˈpɛrənts haʊs ɪz bɪɡ/",
+    "portuguesePhonetic": "[mái pérents ráus iz bíg]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_31",
+    "word": "I'm going to the baker's.",
+    "translation": "Vou à padaria.",
+    "pronunciation": "/aɪm ˈɡoʊɪŋ tə ðə ˈbeɪkərz/",
+    "portuguesePhonetic": "[áim gôuin tu dha bêikerz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_32",
+    "word": "The store's open today.",
+    "translation": "A loja está aberta hoje.",
+    "pronunciation": "/ðə stɔːrz ˈoʊpən təˈdeɪ/",
+    "portuguesePhonetic": "[dha stórz ôupan tudêi]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_33",
+    "word": "Let's meet at Anna's.",
+    "translation": "Vamos nos encontrar na casa da Anna.",
+    "pronunciation": "/lɛts miːt æt ˈænəz/",
+    "portuguesePhonetic": "[léts mít ét énaz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_34",
+    "word": "The men's section is upstairs.",
+    "translation": "A seção masculina é lá em cima.",
+    "pronunciation": "/ðə mɛnz ˈsɛkʃn̩ ɪz ˌʌpˈstɛrz/",
+    "portuguesePhonetic": "[dha ménz sékchan iz âpstérz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_35",
+    "word": "This is the teacher's desk.",
+    "translation": "Esta é a mesa do professor.",
+    "pronunciation": "/ðɪs ɪz ðə ˈtiːtʃərz dɛsk/",
+    "portuguesePhonetic": "[dhís iz dha títcherz désk]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_36",
+    "word": "The boss's office is closed.",
+    "translation": "O escritório do chefe está fechado.",
+    "pronunciation": "/ðə ˈbɔːsɪz ˈɔːfɪs ɪz kloʊzd/",
+    "portuguesePhonetic": "[dha bósiz ófis iz klôuzd]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_37",
+    "word": "I found the students' papers.",
+    "translation": "Eu achei os trabalhos dos alunos.",
+    "pronunciation": "/aɪ faʊnd ðə ˈstuːdənts ˈpeɪpərz/",
+    "portuguesePhonetic": "[ái fáund dha stúdents pêiperz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_38",
+    "word": "The teachers' lounge is quiet.",
+    "translation": "A sala dos professores está silenciosa.",
+    "pronunciation": "/ðə ˈtiːtʃərz laʊndʒ ɪz ˈkwaɪət/",
+    "portuguesePhonetic": "[dha títcherz láundj iz kuáiet]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_39",
+    "word": "The end of the movie was sad.",
+    "translation": "O fim do filme foi triste.",
+    "pronunciation": "/ðə ɛnd əv ðə ˈmuːvi wəz sæd/",
+    "portuguesePhonetic": "[dhi énd ov dha múvi uâz séd]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_40",
+    "word": "I love the color of the sky.",
+    "translation": "Eu amo a cor do céu.",
+    "pronunciation": "/aɪ lʌv ðə ˈkʌlər əv ðə skaɪ/",
+    "portuguesePhonetic": "[ái lâv dha kâler ov dha skái]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_41",
+    "word": "What's the name of the street?",
+    "translation": "Qual é o nome da rua?",
+    "pronunciation": "/wʌts ðə neɪm əv ðə striːt/",
+    "portuguesePhonetic": "[uâts dha nêim ov dha strít]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_42",
+    "word": "Sara's mother is a doctor.",
+    "translation": "A mãe da Sara é médica.",
+    "pronunciation": "/ˈsɛrəz ˈmʌðər ɪz ə ˈdɑːktər/",
+    "portuguesePhonetic": "[séraz mâdher iz a dáktor]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_43",
+    "word": "John's friends are funny.",
+    "translation": "Os amigos do John são engraçados.",
+    "pronunciation": "/dʒɑːnz frɛndz ɑːr ˈfʌni/",
+    "portuguesePhonetic": "[djónz fréndz ár fâni]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_44",
+    "word": "That's Peter's brother.",
+    "translation": "Aquele é o irmão do Peter.",
+    "pronunciation": "/ðæts ˈpiːtərz ˈbrʌðər/",
+    "portuguesePhonetic": "[dhéts píterz brâdher]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_45",
+    "word": "Have you seen Mary's computer?",
+    "translation": "Você viu o computador da Mary?",
+    "pronunciation": "/hæv juː siːn ˈmɛriz kəmˈpjuːtər/",
+    "portuguesePhonetic": "[rrév iú sín mériz kompiúter]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_46",
+    "word": "The cat's collar is red.",
+    "translation": "A coleira do gato é vermelha.",
+    "pronunciation": "/ðə kæts ˈkɑːlər ɪz rɛd/",
+    "portuguesePhonetic": "[dha kéts kálar iz réd]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_47",
+    "word": "I borrowed my friend's pen.",
+    "translation": "Eu peguei a caneta do meu amigo emprestada.",
+    "pronunciation": "/aɪ ˈbɑːroʊd maɪ frɛndz pɛn/",
+    "portuguesePhonetic": "[ái bárroud mái fréndz pén]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_48",
+    "word": "The car keys are on the table.",
+    "translation": "As chaves do carro estão na mesa.",
+    "pronunciation": "/ðə kɑːr kiːz ɑːr ɑːn ðə ˈteɪbl̩/",
+    "portuguesePhonetic": "[dha kár kíz ár ón dha têibou]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_49",
+    "word": "Anna and Tom's car is new.",
+    "translation": "O carro da Anna e do Tom é novo.",
+    "pronunciation": "/ˈænə ænd tɑːmz kɑːr ɪz nuː/",
+    "portuguesePhonetic": "[éna énd tómz kár iz niú]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_50",
+    "word": "The city center is crowded.",
+    "translation": "O centro da cidade está lotado.",
+    "pronunciation": "/ðə ˈsɪti ˈsɛntər ɪz ˈkraʊdɪd/",
+    "portuguesePhonetic": "[dha síti sénter iz kráuded]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_51",
+    "word": "This is Mary's book.",
+    "translation": "Este é o livro da Mary.",
+    "pronunciation": "/ðɪs ɪz ˈmɛriz bʊk/",
+    "portuguesePhonetic": "[dhís iz mériz búk]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_52",
+    "word": "That's the dog's toy.",
+    "translation": "Aquele é o brinquedo do cachorro.",
+    "pronunciation": "/ðæts ðə dɔːɡz tɔɪ/",
+    "portuguesePhonetic": "[dhéts dha dógz tói]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_53",
+    "word": "I like John's car.",
+    "translation": "Eu gosto do carro do John.",
+    "pronunciation": "/aɪ laɪk dʒɑːnz kɑːr/",
+    "portuguesePhonetic": "[ái láik djónz kár]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_54",
+    "word": "Sara's house is nice.",
+    "translation": "A casa da Sara é bonita.",
+    "pronunciation": "/ˈsɛrəz haʊs ɪz naɪs/",
+    "portuguesePhonetic": "[séraz ráus iz náis]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_55",
+    "word": "The children's school is near.",
+    "translation": "A escola das crianças é perto.",
+    "pronunciation": "/ðə ˈtʃɪldrənz skuːl ɪz nɪr/",
+    "portuguesePhonetic": "[dha tchíldrenz skúl iz nír]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_56",
+    "word": "My parents' car is old.",
+    "translation": "O carro dos meus pais é velho.",
+    "pronunciation": "/maɪ ˈpɛrənts kɑːr ɪz oʊld/",
+    "portuguesePhonetic": "[mái pérents kár iz ôuld]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_57",
+    "word": "Is this your sister's phone?",
+    "translation": "Este é o telefone da sua irmã?",
+    "pronunciation": "/ɪz ðɪs jɔːr ˈsɪstərz foʊn/",
+    "portuguesePhonetic": "[iz dhís iór sísterz fôun]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_58",
+    "word": "The teacher's car isn't here.",
+    "translation": "O carro do professor não está aqui.",
+    "pronunciation": "/ðə ˈtiːtʃərz kɑːr ˈɪznt hɪr/",
+    "portuguesePhonetic": "[dha títcherz kár íznt rrír]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_59",
+    "word": "Whose phone is this?",
+    "translation": "De quem é este telefone?",
+    "pronunciation": "/huːz foʊn ɪz ðɪs/",
+    "portuguesePhonetic": "[rrúz fôun iz dhís]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_60",
+    "word": "Is that Peter's bike or John's?",
+    "translation": "Aquela é a bicicleta do Peter ou do John?",
+    "pronunciation": "/ɪz ðæt ˈpiːtərz baɪk ɔːr dʒɑːnz/",
+    "portuguesePhonetic": "[iz dhét píterz báik ór djónz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_61",
+    "word": "That's not Mary's bag.",
+    "translation": "Aquela não é a bolsa da Mary.",
+    "pronunciation": "/ðæts nɑːt ˈmɛriz bæɡ/",
+    "portuguesePhonetic": "[dhéts nót mériz bég]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_62",
+    "word": "Where is the men's room?",
+    "translation": "Onde fica o banheiro masculino?",
+    "pronunciation": "/wɛr ɪz ðə mɛnz ruːm/",
+    "portuguesePhonetic": "[uér iz dha ménz rúm]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_63",
+    "word": "I borrowed Tom's car because mine broke down.",
+    "translation": "Eu peguei o carro do Tom porque o meu quebrou.",
+    "pronunciation": "/aɪ ˈbɑːroʊd tɑːmz kɑːr bɪˈkɔːz maɪn broʊk daʊn/",
+    "portuguesePhonetic": "[ái bárroud tómz kár bikóz máin brôuk dáun]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_64",
+    "word": "We are staying at my aunt's this week.",
+    "translation": "Nós estamos ficando na casa da minha tia esta semana.",
+    "pronunciation": "/wiː ɑːr ˈsteɪɪŋ æt maɪ ænts ðɪs wiːk/",
+    "portuguesePhonetic": "[uí ár stêin ét mái énts dhís uík]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_65",
+    "word": "I went to the doctor's yesterday.",
+    "translation": "Eu fui ao médico ontem.",
+    "pronunciation": "/aɪ wɛnt tə ðə ˈdɑːktərz ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[ái uént tu dha dáktorz iéster dei]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_66",
+    "word": "She was using her sister's laptop when it crashed.",
+    "translation": "Ela estava usando o laptop da irmã quando ele travou.",
+    "pronunciation": "/ʃiː wəz ˈjuːzɪŋ hɜːr ˈsɪstərz ˈlæptɑːp wɛn ɪt kræʃt/",
+    "portuguesePhonetic": "[chí uâz iúzin rrâr sísterz léptap uén ít krécht]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_67",
+    "word": "The boys' team won, but the girls' team lost.",
+    "translation": "O time dos meninos ganhou, mas o das meninas perdeu.",
+    "pronunciation": "/ðə bɔɪz tiːm wʌn bʌt ðə ɡɜːrlz tiːm lɔːst/",
+    "portuguesePhonetic": "[dha bóiz tím uân bât dha gârlz tím lóst]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_68",
+    "word": "The end of the street is where Sara's house is.",
+    "translation": "O fim da rua é onde fica a casa da Sara.",
+    "pronunciation": "/ðə ɛnd əv ðə striːt ɪz wɛr ˈsɛrəz haʊs ɪz/",
+    "portuguesePhonetic": "[dhi énd ov dha strít iz uér séraz ráus iz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_69",
+    "word": "I always confuse John's number with Peter's.",
+    "translation": "Eu sempre confundo o número do John com o do Peter.",
+    "pronunciation": "/aɪ ˈɔːlweɪz kənˈfjuːz dʒɑːnz ˈnʌmbər wɪð ˈpiːtərz/",
+    "portuguesePhonetic": "[ái ólueiz konfiúz djónz nâmber uídh píterz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_70",
+    "word": "We can use Anna and Tom's car since they share one.",
+    "translation": "Podemos usar o carro da Anna e do Tom já que eles dividem um.",
+    "pronunciation": "/wiː kæn juːz ˈænə ænd tɑːmz kɑːr sɪns ðeɪ ʃɛr wʌn/",
+    "portuguesePhonetic": "[uí kén iúz éna énd tómz kár síns dhêi chér uân]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_71",
+    "word": "The teacher said the children's stories were excellent.",
+    "translation": "A professora disse que as histórias das crianças estavam excelentes.",
+    "pronunciation": "/ðə ˈtiːtʃər sɛd ðə ˈtʃɪldrənz ˈstɔːriz wɜːr ˈɛksələnt/",
+    "portuguesePhonetic": "[dha títcher séd dha tchíldrenz stóriz uâr éksalent]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_72",
+    "word": "Is this the women's section or the men's?",
+    "translation": "Esta é a seção feminina ou a masculina?",
+    "pronunciation": "/ɪz ðɪs ðə ˈwɪmɪnz ˈsɛkʃn̩ ɔːr ðə mɛnz/",
+    "portuguesePhonetic": "[iz dhís dha uímenz sékchan ór dha ménz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_73",
+    "word": "I don't remember the name of the street, but it's near the baker's.",
+    "translation": "Eu não lembro o nome da rua, mas é perto da padaria.",
+    "pronunciation": "/aɪ doʊnt rɪˈmɛmbər ðə neɪm əv ðə striːt bʌt ɪts nɪr ðə ˈbeɪkərz/",
+    "portuguesePhonetic": "[ái dôunt rimémber dha nêim ov dha strít bât íts nír dha bêikerz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_74",
+    "word": "My friend's parents' house is by the sea.",
+    "translation": "A casa dos pais do meu amigo fica à beira-mar.",
+    "pronunciation": "/maɪ frɛndz ˈpɛrənts haʊs ɪz baɪ ðə siː/",
+    "portuguesePhonetic": "[mái fréndz pérents ráus iz bái dha sí]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_75",
+    "word": "The secret of success isn't luck; it's hard work.",
+    "translation": "O segredo do sucesso não é sorte; é trabalho duro.",
+    "pronunciation": "/ðə ˈsiːkrət əv səkˈsɛs ˈɪznt lʌk ɪts hɑːrd wɜːrk/",
+    "portuguesePhonetic": "[dha síkret ov saksés íznt lâk íts rrárd uârk]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_76",
+    "word": "Whose car is this?\" / \"It's Mary's.",
+    "translation": "De quem é este carro?\" / \"É da Mary.",
+    "pronunciation": "/huːz kɑːr ɪz ðɪs · ɪts ˈmɛriz/",
+    "portuguesePhonetic": "[rrúz kár iz dhís · íts mériz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_77",
+    "word": "Is this your brother's?\" / \"No, it's mine.",
+    "translation": "Isto é do seu irmão?\" / \"Não, é meu.",
+    "pronunciation": "/ɪz ðɪs jɔːr ˈbrʌðərz · noʊ ɪts maɪn/",
+    "portuguesePhonetic": "[iz dhís iór brâdherz · nôu íts máin]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_78",
+    "word": "Where are you?\" / \"At John's.",
+    "translation": "Onde você está?\" / \"Na casa do John.",
+    "pronunciation": "/wɛr ɑːr juː · æt dʒɑːnz/",
+    "portuguesePhonetic": "[uér ár iú · ét djónz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_79",
+    "word": "Whose keys are these?\" / \"They're Tom's.",
+    "translation": "De quem são estas chaves?\" / \"São do Tom.",
+    "pronunciation": "/huːz kiːz ɑːr ðiːz · ðer tɑːmz/",
+    "portuguesePhonetic": "[rrúz kíz ár dhíz · dhér tómz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_80",
+    "word": "Is that the teacher's desk?\" / \"Yes, it is.",
+    "translation": "Aquela é a mesa do professor?\" / \"Sim, é.",
+    "pronunciation": "/ɪz ðæt ðə ˈtiːtʃərz dɛsk · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz dhét dha títcherz désk · iés ít iz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_81",
+    "word": "Where's the men's room?\" / \"Down the hall.",
+    "translation": "Onde fica o banheiro masculino?\" / \"No fim do corredor.",
+    "pronunciation": "/wɛrz ðə mɛnz ruːm · daʊn ðə hɔːl/",
+    "portuguesePhonetic": "[uérz dha ménz rúm · dáun dha ról]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_82",
+    "word": "Whose bag is this?\" / \"It's Sara's.",
+    "translation": "De quem é esta bolsa?\" / \"É da Sara.",
+    "pronunciation": "/huːz bæɡ ɪz ðɪs · ɪts ˈsɛrəz/",
+    "portuguesePhonetic": "[rrúz bég iz dhís · íts séraz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_83",
+    "word": "Is this Anna and Tom's car?\" / \"Yes, they share it.",
+    "translation": "Este é o carro da Anna e do Tom?\" / \"Sim, eles dividem.",
+    "pronunciation": "/ɪz ðɪs ˈænə ænd tɑːmz kɑːr · jɛs ðeɪ ʃɛr ɪt/",
+    "portuguesePhonetic": "[iz dhís éna énd tómz kár · iés dhêi chér ít]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_84",
+    "word": "Where are the kids' toys?\" / \"In their room.",
+    "translation": "Onde estão os brinquedos das crianças?\" / \"No quarto delas.",
+    "pronunciation": "/wɛr ɑːr ðə kɪdz tɔɪz · ɪn ðɛr ruːm/",
+    "portuguesePhonetic": "[uér ár dha kídz tóiz · in dhér rúm]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_85",
+    "word": "Whose phone is ringing?\" / \"It's Peter's.",
+    "translation": "De quem é o telefone que está tocando?\" / \"É do Peter.",
+    "pronunciation": "/huːz foʊn ɪz ˈrɪŋɪŋ · ɪts ˈpiːtərz/",
+    "portuguesePhonetic": "[rrúz fôun iz rínin · íts píterz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_86",
+    "word": "Is this your dog's toy?\" / \"Yes, it is.",
+    "translation": "Este é o brinquedo do seu cachorro?\" / \"Sim, é.",
+    "pronunciation": "/ɪz ðɪs jɔːr dɔːɡz tɔɪ · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz dhís iór dógz tói · iés ít iz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_87",
+    "word": "Where's the bakery?\" / \"It's the baker's on Main Street.",
+    "translation": "Onde fica a padaria?\" / \"É a padaria na rua Main.",
+    "pronunciation": "/wɛrz ðə ˈbeɪkəri · ɪts ðə ˈbeɪkərz ɑːn meɪn striːt/",
+    "portuguesePhonetic": "[uérz dha bêikeri · íts dha bêikerz ón mêin strít]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_88",
+    "word": "Whose house is that?\" / \"It's my parents'.",
+    "translation": "De quem é aquela casa?\" / \"É dos meus pais.",
+    "pronunciation": "/huːz haʊs ɪz ðæt · ɪts maɪ ˈpɛrənts/",
+    "portuguesePhonetic": "[rrúz ráus iz dhét · íts mái pérents]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_89",
+    "word": "Is this Chris's computer?\" / \"Yes, it's his.",
+    "translation": "Este é o computador do Chris?\" / \"Sim, é dele.",
+    "pronunciation": "/ɪz ðɪs ˈkrɪsɪz kəmˈpjuːtər · jɛs ɪts hɪz/",
+    "portuguesePhonetic": "[iz dhís krísiz kompiúter · iés íts rríz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_90",
+    "word": "Whose books are these?\" / \"They're the students'.",
+    "translation": "De quem são estes livros?\" / \"São dos alunos.",
+    "pronunciation": "/huːz bʊks ɑːr ðiːz · ðer ðə ˈstuːdənts/",
+    "portuguesePhonetic": "[rrúz búks ár dhíz · dhér dha stúdents]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_91",
+    "word": "Is that your sister's bike?\" / \"No, it's mine.",
+    "translation": "Aquela é a bicicleta da sua irmã?\" / \"Não, é minha.",
+    "pronunciation": "/ɪz ðæt jɔːr ˈsɪstərz baɪk · noʊ ɪts maɪn/",
+    "portuguesePhonetic": "[iz dhét iór sísterz báik · nôu íts máin]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_92",
+    "word": "Where did you stay?\" / \"At my aunt's.",
+    "translation": "Onde você ficou?\" / \"Na casa da minha tia.",
+    "pronunciation": "/wɛr dɪd juː steɪ · æt maɪ ænts/",
+    "portuguesePhonetic": "[uér díd iú stêi · ét mái énts]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_93",
+    "word": "Whose idea was this?\" / \"It was John's.",
+    "translation": "De quem foi esta ideia?\" / \"Foi do John.",
+    "pronunciation": "/huːz aɪˈdiːə wəz ðɪs · ɪt wəz dʒɑːnz/",
+    "portuguesePhonetic": "[rrúz aidía uâz dhís · ít uâz djónz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_94",
+    "word": "Is this the women's section?\" / \"No, the men's.",
+    "translation": "Esta é a seção feminina?\" / \"Não, a masculina.",
+    "pronunciation": "/ɪz ðɪs ðə ˈwɪmɪnz ˈsɛkʃn̩ · noʊ ðə mɛnz/",
+    "portuguesePhonetic": "[iz dhís dha uímenz sékchan · nôu dha ménz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_95",
+    "word": "Whose turn is it?\" / \"It's Mary's.",
+    "translation": "De quem é a vez?\" / \"É da Mary.",
+    "pronunciation": "/huːz tɜːrn ɪz ɪt · ɪts ˈmɛriz/",
+    "portuguesePhonetic": "[rrúz târn iz ít · íts mériz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_96",
+    "word": "Are these the children's books?\" / \"Yes, they are.",
+    "translation": "Estes são os livros das crianças?\" / \"Sim, são.",
+    "pronunciation": "/ɑːr ðiːz ðə ˈtʃɪldrənz bʊks · jɛs ðeɪ ɑːr/",
+    "portuguesePhonetic": "[ár dhíz dha tchíldrenz búks · iés dhêi ár]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_97",
+    "word": "Whose fault is it?\" / \"Nobody's.",
+    "translation": "De quem é a culpa?\" / \"De ninguém.",
+    "pronunciation": "/huːz fɔːlt ɪz ɪt · ˈnoʊbɑːdiz/",
+    "portuguesePhonetic": "[rrúz fólt iz ít · nôubadiz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_98",
+    "word": "Is that Douglas's house?\" / \"Yes, the big one.",
+    "translation": "Aquela é a casa do Douglas?\" / \"Sim, a grande.",
+    "pronunciation": "/ɪz ðæt ˈdʌɡləsɪz haʊs · jɛs ðə bɪɡ wʌn/",
+    "portuguesePhonetic": "[iz dhét dâglasiz ráus · iés dha bíg uân]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_99",
+    "word": "Whose coat is this?\" / \"It's Sara's.",
+    "translation": "De quem é este casaco?\" / \"É da Sara.",
+    "pronunciation": "/huːz koʊt ɪz ðɪs · ɪts ˈsɛrəz/",
+    "portuguesePhonetic": "[rrúz kôut iz dhís · íts séraz]"
+  },
+  {
+    "id": "lesson_10_grammar_a1_en_card_100",
+    "word": "Where's the party?\" / \"At Tom's.",
+    "translation": "Onde é a festa?\" / \"Na casa do Tom.",
+    "pronunciation": "/wɛrz ðə ˈpɑːrti · æt tɑːmz/",
+    "portuguesePhonetic": "[uérz dha párti · ét tómz]"
+  }
+]

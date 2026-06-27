@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_1",
+    "word": "qué",
+    "translation": "o que / qual",
+    "pronunciation": "/ke/",
+    "portuguesePhonetic": "[ke]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_2",
+    "word": "dónde",
+    "translation": "onde",
+    "pronunciation": "/ˈdonde/",
+    "portuguesePhonetic": "[dônde]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_3",
+    "word": "cuándo",
+    "translation": "quando",
+    "pronunciation": "/ˈkwando/",
+    "portuguesePhonetic": "[kuándo]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_4",
+    "word": "cómo",
+    "translation": "como",
+    "pronunciation": "/ˈkomo/",
+    "portuguesePhonetic": "[kómo]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_5",
+    "word": "cuántos años",
+    "translation": "quantos anos",
+    "pronunciation": "/ˈkwantos ˈaɲos/",
+    "portuguesePhonetic": "[kuántos ánhos]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_6",
+    "word": "a qué hora",
+    "translation": "a que horas",
+    "pronunciation": "/a ke ˈoɾa/",
+    "portuguesePhonetic": "[a ke óra]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_7",
+    "word": "con qué frecuencia",
+    "translation": "com que frequência",
+    "pronunciation": "/kon ke fɾeˈkwenθja/",
+    "portuguesePhonetic": "[kon ke frekuénthia]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_8",
+    "word": "por qué",
+    "translation": "por que",
+    "pronunciation": "/poɾ ke/",
+    "portuguesePhonetic": "[por ke]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_9",
+    "word": "quién",
+    "translation": "quem",
+    "pronunciation": "/kjen/",
+    "portuguesePhonetic": "[kién]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_10",
+    "word": "¿Es Sharon de Estados Unidos?",
+    "translation": "A Sharon é dos EUA?",
+    "pronunciation": "/es ˈʃaɾon de esˈtaðos uˈniðos/",
+    "portuguesePhonetic": "[és cháron de estádos unídos]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_11",
+    "word": "¿Cuántos años tienes?",
+    "translation": "Quantos anos você tem?",
+    "pronunciation": "/ˈkwantos ˈaɲos ˈtjenes/",
+    "portuguesePhonetic": "[kuántos ánhos tiénes]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_12",
+    "word": "¿Qué es esto?",
+    "translation": "O que é isto?",
+    "pronunciation": "/ke es ˈesto/",
+    "portuguesePhonetic": "[ke és ésto]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_13",
+    "word": "¿De dónde eres?",
+    "translation": "De onde você é?",
+    "pronunciation": "/de ˈdonde ˈeɾes/",
+    "portuguesePhonetic": "[de dônde éres]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_14",
+    "word": "¿Te gusta la pizza?",
+    "translation": "Você gosta de pizza?",
+    "pronunciation": "/te ˈɡusta la ˈpitsa/",
+    "portuguesePhonetic": "[te gústa la pítsa]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_15",
+    "word": "¿Dónde trabajas?",
+    "translation": "Onde você trabalha?",
+    "pronunciation": "/ˈdonde tɾaˈβaxas/",
+    "portuguesePhonetic": "[dônde trabárras]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_16",
+    "word": "¿A qué hora se levanta?",
+    "translation": "A que horas ele levanta?",
+    "pronunciation": "/a ke ˈoɾa se leˈβanta/",
+    "portuguesePhonetic": "[a ke óra se lebánta]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_17",
+    "word": "¿Con qué frecuencia salen?",
+    "translation": "Com que frequência eles saem?",
+    "pronunciation": "/kon ke fɾeˈkwenθja ˈsalen/",
+    "portuguesePhonetic": "[kon ke frekuénthia sálen]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_18",
+    "word": "¿A qué te dedicas?",
+    "translation": "O que você faz (da vida)?",
+    "pronunciation": "/a ke te deˈðikas/",
+    "portuguesePhonetic": "[a ke te dedíkas]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_19",
+    "word": "¿Trabajas?",
+    "translation": "Você trabalha?",
+    "pronunciation": "/tɾaˈβaxas/",
+    "portuguesePhonetic": "[trabárras]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_20",
+    "word": "¿Vives aquí?",
+    "translation": "Você mora aqui?",
+    "pronunciation": "/ˈbiβes aˈki/",
+    "portuguesePhonetic": "[bíbes akí]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_21",
+    "word": "¿Hablas inglés?",
+    "translation": "Você fala inglês?",
+    "pronunciation": "/ˈaβlas iŋˈɡles/",
+    "portuguesePhonetic": "[áblas inglés]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_22",
+    "word": "¿Le gusta...?",
+    "translation": "Ele/ela gosta...?",
+    "pronunciation": "/le ˈɡusta/",
+    "portuguesePhonetic": "[le gústa]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_23",
+    "word": "¿Quién es...?",
+    "translation": "Quem é...?",
+    "pronunciation": "/kjen es/",
+    "portuguesePhonetic": "[kién és]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_24",
+    "word": "¿Dónde está...?",
+    "translation": "Onde está...?",
+    "pronunciation": "/ˈdonde esˈta/",
+    "portuguesePhonetic": "[dônde está]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_25",
+    "word": "En español no hay \"do/does\".",
+    "translation": "Em espanhol não existe \"do/does\".",
+    "pronunciation": "/en espaˈɲol no ai/",
+    "portuguesePhonetic": "[en espánhol no ái]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_26",
+    "word": "¿Cómo te llamas?",
+    "translation": "Qual é o seu nome?",
+    "pronunciation": "/ˈkomo te ˈʎamas/",
+    "portuguesePhonetic": "[kómo te lhámas]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_27",
+    "word": "¿De dónde eres?",
+    "translation": "De onde você é?",
+    "pronunciation": "/de ˈdonde ˈeɾes/",
+    "portuguesePhonetic": "[de dônde éres]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_28",
+    "word": "¿Cuántos años tienes?",
+    "translation": "Quantos anos você tem?",
+    "pronunciation": "/ˈkwantos ˈaɲos ˈtjenes/",
+    "portuguesePhonetic": "[kuántos ánhos tiénes]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_29",
+    "word": "¿A qué te dedicas?",
+    "translation": "O que você faz (da vida)?",
+    "pronunciation": "/a ke te deˈðikas/",
+    "portuguesePhonetic": "[a ke te dedíkas]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_30",
+    "word": "¿Vives aquí?",
+    "translation": "Você mora aqui?",
+    "pronunciation": "/ˈbiβes aˈki/",
+    "portuguesePhonetic": "[bíbes akí]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_31",
+    "word": "¿Dónde trabajas?",
+    "translation": "Onde você trabalha?",
+    "pronunciation": "/ˈdonde tɾaˈβaxas/",
+    "portuguesePhonetic": "[dônde trabárras]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_32",
+    "word": "¿A qué hora empiezas?",
+    "translation": "A que horas você começa?",
+    "pronunciation": "/a ke ˈoɾa emˈpjeθas/",
+    "portuguesePhonetic": "[a ke óra empiéthas]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_33",
+    "word": "¿Te gusta tu trabajo?",
+    "translation": "Você gosta do seu trabalho?",
+    "pronunciation": "/te ˈɡusta tu tɾaˈβaxo/",
+    "portuguesePhonetic": "[te gústa tu trabárro]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_34",
+    "word": "¿Cómo vas al trabajo?",
+    "translation": "Como você vai para o trabalho?",
+    "pronunciation": "/ˈkomo bas al tɾaˈβaxo/",
+    "portuguesePhonetic": "[kómo bas al trabárro]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_35",
+    "word": "¿Quieres salir?",
+    "translation": "Você quer salir?",
+    "pronunciation": "/ˈkjeɾes saˈliɾ/",
+    "portuguesePhonetic": "[kiéres salír]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_36",
+    "word": "¿A qué hora empieza la película?",
+    "translation": "A que horas o filme começa?",
+    "pronunciation": "/a ke ˈoɾa emˈpjeθa la peˈlikula/",
+    "portuguesePhonetic": "[a ke óra empiétha la pelíkula]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_37",
+    "word": "¿Dónde quieres comer?",
+    "translation": "Onde você quer comer?",
+    "pronunciation": "/ˈdonde ˈkjeɾes koˈmeɾ/",
+    "portuguesePhonetic": "[dônde kiéres komér]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_38",
+    "word": "¿Te gusta la comida italiana?",
+    "translation": "Você gosta de comida italiana?",
+    "pronunciation": "/te ˈɡusta la koˈmiða itaˈljana/",
+    "portuguesePhonetic": "[te gústa la komída italiána]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_39",
+    "word": "¿Qué haces los fines de semana?",
+    "translation": "O que você faz nos fins de semana?",
+    "pronunciation": "/ke ˈaθes los ˈfines de seˈmana/",
+    "portuguesePhonetic": "[ke áthes los fínes de semána]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_40",
+    "word": "¿Con qué frecuencia haces ejercicio?",
+    "translation": "Com que frequência você se exercita?",
+    "pronunciation": "/kon ke fɾeˈkwenθja ˈaθes exeɾˈθiθjo/",
+    "portuguesePhonetic": "[kon ke frekuénthia áthes errerthíthio]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_41",
+    "word": "¿Practicas algún deporte?",
+    "translation": "Você pratica algum esporte?",
+    "pronunciation": "/pɾakˈtikas alˈɣun deˈpoɾte/",
+    "portuguesePhonetic": "[praktíkas algún depórte]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_42",
+    "word": "¿Qué música te gusta?",
+    "translation": "De que música você gosta?",
+    "pronunciation": "/ke ˈmusika te ˈɡusta/",
+    "portuguesePhonetic": "[ke músika te gústa]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_43",
+    "word": "¿Estás libre mañana?",
+    "translation": "Você está livre amanhã?",
+    "pronunciation": "/esˈtas ˈliβɾe maˈɲana/",
+    "portuguesePhonetic": "[estás líbre manhána]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_44",
+    "word": "¿A qué hora es la reunión?",
+    "translation": "A que horas é a reunião?",
+    "pronunciation": "/a ke ˈoɾa es la reuˈnjon/",
+    "portuguesePhonetic": "[a ke óra és la reunión]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_45",
+    "word": "¿Dónde está el restaurante?",
+    "translation": "Onde fica o restaurante?",
+    "pronunciation": "/ˈdonde esˈta el restawˈɾante/",
+    "portuguesePhonetic": "[dônde está el restauránte]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_46",
+    "word": "¿Dónde está la estación?",
+    "translation": "Onde fica a estación?",
+    "pronunciation": "/ˈdonde esˈta la estaˈθjon/",
+    "portuguesePhonetic": "[dônde está la estathión]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_47",
+    "word": "¿Cuánto cuesta el billete?",
+    "translation": "Quanto custa a passagem?",
+    "pronunciation": "/ˈkwanto ˈkwesta el biˈʎete/",
+    "portuguesePhonetic": "[kuánto kuésta el bilhéte]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_48",
+    "word": "¿A qué hora sale el tren?",
+    "translation": "A que horas o trem sai?",
+    "pronunciation": "/a ke ˈoɾa ˈsale el tɾen/",
+    "portuguesePhonetic": "[a ke óra sále el trén]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_49",
+    "word": "¿Está lejos de aquí?",
+    "translation": "É longe daqui?",
+    "pronunciation": "/esˈta ˈlexos de aˈki/",
+    "portuguesePhonetic": "[está lérros de akí]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_50",
+    "word": "¿Hablas inglés?",
+    "translation": "Você fala inglês?",
+    "pronunciation": "/ˈaβlas iŋˈɡles/",
+    "portuguesePhonetic": "[áblas inglés]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_51",
+    "word": "¿Cómo te llamas?",
+    "translation": "Qual é o seu nome?",
+    "pronunciation": "/ˈkomo te ˈʎamas/",
+    "portuguesePhonetic": "[kómo te lhámas]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_52",
+    "word": "¿Dónde vives?",
+    "translation": "Onde você mora?",
+    "pronunciation": "/ˈdonde ˈbiβes/",
+    "portuguesePhonetic": "[dônde bíbes]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_53",
+    "word": "¿Tienes coche?",
+    "translation": "Você tem carro?",
+    "pronunciation": "/ˈtjenes ˈkotʃe/",
+    "portuguesePhonetic": "[tiénes kótche]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_54",
+    "word": "¿Es tu hermana?",
+    "translation": "Ela é sua irmã?",
+    "pronunciation": "/es tu eɾˈmana/",
+    "portuguesePhonetic": "[és tu ermána]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_55",
+    "word": "¿Cuántos años tiene tu hermano?",
+    "translation": "Quantos anos tem seu irmão?",
+    "pronunciation": "/ˈkwantos ˈaɲos ˈtjene tu eɾˈmano/",
+    "portuguesePhonetic": "[kuántos ánhos tiéne tu ermáno]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_56",
+    "word": "¿A qué hora abre la tienda?",
+    "translation": "A que horas a loja abre?",
+    "pronunciation": "/a ke ˈoɾa ˈaβɾe la ˈtjenda/",
+    "portuguesePhonetic": "[a ke óra ábre la tiénda]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_57",
+    "word": "¿Por qué llegas tarde?",
+    "translation": "Por que você está atrasado?",
+    "pronunciation": "/poɾ ke ˈʎeɣas ˈtaɾðe/",
+    "portuguesePhonetic": "[por ké lhégas tárde]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_58",
+    "word": "¿Quién es ese hombre?",
+    "translation": "Quem é aquele homem?",
+    "pronunciation": "/kjen es ˈese ˈombɾe/",
+    "portuguesePhonetic": "[kién és ése ómbre]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_59",
+    "word": "¿Con qué frecuencia visitas a tu familia?",
+    "translation": "Com que frequência você visita sua família?",
+    "pronunciation": "/kon ke fɾeˈkwenθja biˈsitas a tu faˈmilja/",
+    "portuguesePhonetic": "[kon ke frekuénthia bisítas a tu famílha]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_60",
+    "word": "¿Qué sueles hacer después del trabajo?",
+    "translation": "O que você costuma fazer depois do trabalho?",
+    "pronunciation": "/ke ˈsweles aˈθeɾ desˈpwes del tɾaˈβaxo/",
+    "portuguesePhonetic": "[ke suéles athér después del trabárro]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_61",
+    "word": "¿Trabaja o estudia?",
+    "translation": "Ela trabalha ou estuda?",
+    "pronunciation": "/tɾaˈβaxa o esˈtuðja/",
+    "portuguesePhonetic": "[trabárra o estúdia]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_62",
+    "word": "¿No te gusta el café?",
+    "translation": "Você não gosta de café?",
+    "pronunciation": "/no te ˈɡusta el kaˈfe/",
+    "portuguesePhonetic": "[no te gústa el kafé]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_63",
+    "word": "¿Adónde vas cuando tienes tiempo libre?",
+    "translation": "Onde você vai quando tem tempo livre?",
+    "pronunciation": "/aˈðonde bas ˈkwando ˈtjenes ˈtjempo ˈliβɾe/",
+    "portuguesePhonetic": "[adônde bas kuándo tiénes tiémpo líbre]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_64",
+    "word": "¿Qué estás haciendo ahora mismo?",
+    "translation": "O que você está fazendo agora?",
+    "pronunciation": "/ke esˈtas aˈθjendo aˈoɾa ˈmizmo/",
+    "portuguesePhonetic": "[ke estás athiéndo aóra mízmo]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_65",
+    "word": "¿Lo llamaste ayer?",
+    "translation": "Você ligou para ele ontem?",
+    "pronunciation": "/lo ʎaˈmaste aˈʝeɾ/",
+    "portuguesePhonetic": "[lo lhamáste aiér]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_66",
+    "word": "¿Por qué no viniste a la fiesta?",
+    "translation": "Por que você não veio à festa?",
+    "pronunciation": "/poɾ ke no biˈniste a la ˈfjesta/",
+    "portuguesePhonetic": "[por ké no biníste a la fiésta]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_67",
+    "word": "¿A qué hora empezará la reunión?",
+    "translation": "A que horas a reunião vai começar?",
+    "pronunciation": "/a ke ˈoɾa empeθaˈɾa la reuˈnjon/",
+    "portuguesePhonetic": "[a ke óra empetharrá la reunión]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_68",
+    "word": "¿Sabes dónde está el banco más cercano?",
+    "translation": "Você sabe onde fica o banco mais próximo?",
+    "pronunciation": "/ˈsaβes ˈdonde esˈta el ˈbaŋko mas θeɾˈkano/",
+    "portuguesePhonetic": "[sábes dônde está el bánko mas therkáno]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_69",
+    "word": "¿Cuánto se tarda en llegar?",
+    "translation": "Quanto tempo leva para chegar?",
+    "pronunciation": "/ˈkwanto se ˈtaɾða en ʎeˈɣaɾ/",
+    "portuguesePhonetic": "[kuánto se tárda en lhegár]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_70",
+    "word": "¿Qué harías si te tocara la lotería?",
+    "translation": "O que você faria se ganhasse na loteria?",
+    "pronunciation": "/ke aˈɾias si te toˈkaɾa la loteˈɾia/",
+    "portuguesePhonetic": "[ke arías si te tokára la lotería]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_71",
+    "word": "¿Puedes decirme por qué está tan contenta?",
+    "translation": "Você pode me dizer por que ela está tão feliz?",
+    "pronunciation": "/ˈpweðes deˈθiɾme poɾ ke esˈta tan konˈtenta/",
+    "portuguesePhonetic": "[puédes dethírme por ké está tan konténta]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_72",
+    "word": "¿Prefieres té o café por la mañana?",
+    "translation": "Você prefere chá ou café de manhã?",
+    "pronunciation": "/pɾeˈfjeɾes te o kaˈfe poɾ la maˈɲana/",
+    "portuguesePhonetic": "[prefiéres té o kafé por la manhána]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_73",
+    "word": "¿Por qué siempre llega tarde, aunque se levante temprano?",
+    "translation": "Por que ele sempre chega atrasado, mesmo acordando cedo?",
+    "pronunciation": "/poɾ ke ˈsjempɾe ˈʎeɣa ˈtaɾðe ˈawŋke se leˈβante temˈpɾano/",
+    "portuguesePhonetic": "[por ké siémpre lhéga tárde áunke se lebánte tempráno]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_74",
+    "word": "¿Con qué frecuencia comes fuera, y adónde sueles ir?",
+    "translation": "Com que frequência você come fora, e onde costuma ir?",
+    "pronunciation": "/kon ke fɾeˈkwenθja ˈkomes ˈfweɾa i aˈðonde ˈsweles iɾ/",
+    "portuguesePhonetic": "[kon ke frekuénthia kómes fuéra i adônde suéles ir]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_75",
+    "word": "¿Qué opinas sobre trabajar desde casa?",
+    "translation": "O que você acha de trabajar de casa?",
+    "pronunciation": "/ke oˈpinas ˈsoβɾe tɾaβaˈxaɾ ˈdezðe ˈkasa/",
+    "portuguesePhonetic": "[ke opínas sóbre trabarrár désde kása]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_76",
+    "word": "«¿De dónde eres?» / «Soy de Brasil.»",
+    "translation": "\"De onde você é?\" / \"Eu sou do Brasil.\"",
+    "pronunciation": "/de ˈdonde ˈeɾes · soi de bɾaˈsil/",
+    "portuguesePhonetic": "[de dônde éres · sôi de brasíl]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_77",
+    "word": "«¿Cuántos años tienes?» / «Tengo veinticinco.»",
+    "translation": "\"Quantos anos você tem?\" / \"Tenho vinte e cinco.\"",
+    "pronunciation": "/ˈkwantos ˈaɲos ˈtjenes · ˈteŋɡo beintiˈθiŋko/",
+    "portuguesePhonetic": "[kuántos ánhos tiénes · téngo beintithínko]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_78",
+    "word": "«¿A qué te dedicas?» / «Soy profesor.»",
+    "translation": "\"O que você faz?\" / \"Sou professor.\"",
+    "pronunciation": "/a ke te deˈðikas · soi pɾofeˈsoɾ/",
+    "portuguesePhonetic": "[a ke te dedíkas · sôi profesór]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_79",
+    "word": "«¿Te gusta la pizza?» / «Sí, me encanta.»",
+    "translation": "\"Você gosta de pizza?\" / \"Sim, eu adoro.\"",
+    "pronunciation": "/te ˈɡusta la ˈpitsa · si me eŋˈkanta/",
+    "portuguesePhonetic": "[te gústa la pítsa · sí me enkánta]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_80",
+    "word": "«¿Dónde trabajas?» / «En un hospital.»",
+    "translation": "\"Onde você trabalha?\" / \"Num hospital.\"",
+    "pronunciation": "/ˈdonde tɾaˈβaxas · en un ospiˈtal/",
+    "portuguesePhonetic": "[dônde trabárras · en un ospitál]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_81",
+    "word": "«¿A qué hora te levantas?» / «A las siete.»",
+    "translation": "\"A que horas você levanta?\" / \"Às sete.\"",
+    "pronunciation": "/a ke ˈoɾa te leˈβantas · a las ˈsjete/",
+    "portuguesePhonetic": "[a ke óra te lebántas · a las siéte]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_82",
+    "word": "«¿Con qué frecuencia haces ejercicio?» / «Tres veces por semana.»",
+    "translation": "\"Com que frequência você se exercita?\" / \"Três vezes por semana.\"",
+    "pronunciation": "/kon ke fɾeˈkwenθja ˈaθes exeɾˈθiθjo · tɾes ˈbeθes poɾ seˈmana/",
+    "portuguesePhonetic": "[kon ke frekuénthia áthes errerthíthio · trés béthes por semána]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_83",
+    "word": "«¿Es tuyo este coche?» / «No, no lo es.»",
+    "translation": "\"Este carro é seu?\" / \"Não, não é.\"",
+    "pronunciation": "/es ˈtuʝo ˈeste ˈkotʃe · no no lo es/",
+    "portuguesePhonetic": "[és túio éste kótche · no no lo és]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_84",
+    "word": "«¿Cómo te llamas?» / «Me llamo Ana.»",
+    "translation": "\"Qual é o seu nome?\" / \"Me chamo Ana.\"",
+    "pronunciation": "/ˈkomo te ˈʎamas · me ˈʎamo ˈana/",
+    "portuguesePhonetic": "[kómo te lhámas · me lhámo ána]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_85",
+    "word": "«¿Hablas inglés?» / «Sí, un poco.»",
+    "translation": "\"Você fala inglês?\" / \"Sim, um pouco.\"",
+    "pronunciation": "/ˈaβlas iŋˈɡles · si un ˈpoko/",
+    "portuguesePhonetic": "[áblas inglés · sí un póko]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_86",
+    "word": "«¿Dónde vives?» / «Cerca del parque.»",
+    "translation": "\"Onde você mora?\" / \"Perto do parque.\"",
+    "pronunciation": "/ˈdonde ˈbiβes · ˈθeɾka del ˈpaɾke/",
+    "portuguesePhonetic": "[dônde bíbes · thérka del párke]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_87",
+    "word": "«¿A qué hora sale el tren?» / «A mediodía.»",
+    "translation": "\"A que horas o trem sai?\" / \"Ao meio-dia.\"",
+    "pronunciation": "/a ke ˈoɾa ˈsale el tɾen · a meðjoˈðia/",
+    "portuguesePhonetic": "[a ke óra sále el trén · a mediodía]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_88",
+    "word": "«¿Estás libre esta noche?» / «No, estoy ocupado.»",
+    "translation": "\"Você está livre hoje à noite?\" / \"Não, estou ocupado.\"",
+    "pronunciation": "/esˈtas ˈliβɾe ˈesta ˈnotʃe · no esˈtoi okuˈpaðo/",
+    "portuguesePhonetic": "[estás líbre ésta nótche · no estôi okupádo]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_89",
+    "word": "«¿Quién es ese?» / «Es mi hermano.»",
+    "translation": "\"Quem é aquele?\" / \"É meu irmão.\"",
+    "pronunciation": "/kjen es ˈese · es mi eɾˈmano/",
+    "portuguesePhonetic": "[kién és ése · és mi ermáno]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_90",
+    "word": "«¿Tienes mascotas?» / «Sí, un perro.»",
+    "translation": "\"Você tem bicho de estimação?\" / \"Sim, um cachorro.\"",
+    "pronunciation": "/ˈtjenes masˈkotas · si un ˈpero/",
+    "portuguesePhonetic": "[tiénes maskótas · sí un pérro]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_91",
+    "word": "«¿Qué música te gusta?» / «Me gusta el rock.»",
+    "translation": "\"De que música você gosta?\" / \"Eu gosto de rock.\"",
+    "pronunciation": "/ke ˈmusika te ˈɡusta · me ˈɡusta el rok/",
+    "portuguesePhonetic": "[ke músika te gústa · me gústa el rók]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_92",
+    "word": "«¿Dónde está el baño?» / «Al final del pasillo.»",
+    "translation": "\"Onde fica o banheiro?\" / \"No fim do corredor.\"",
+    "pronunciation": "/ˈdonde esˈta el ˈbaɲo · al fiˈnal del paˈsiʎo/",
+    "portuguesePhonetic": "[dônde está el bánho · al finál del pasílho]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_93",
+    "word": "«¿Cuánto cuesta esto?» / «Diez euros.»",
+    "translation": "\"Quanto custa isto?\" / \"Dez euros.\"",
+    "pronunciation": "/ˈkwanto ˈkwesta ˈesto · djeθ ˈewɾos/",
+    "portuguesePhonetic": "[kuánto kuésta ésto · diéth éuros]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_94",
+    "word": "«¿Cuándo es tu cumpleaños?» / «En junio.»",
+    "translation": "\"Quando é seu aniversário?\" / \"Em junio.\"",
+    "pronunciation": "/ˈkwando es tu kumpleˈaɲos · en ˈxunjo/",
+    "portuguesePhonetic": "[kuándo és tu kumpleánhos · en rrúnio]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_95",
+    "word": "«¿Quieres un café?» / «Sí, por favor.»",
+    "translation": "\"Você quer um café?\" / \"Sim, por favor.\"",
+    "pronunciation": "/ˈkjeɾes un kaˈfe · si poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[kiéres un kafé · sí por fabór]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_96",
+    "word": "«¿Por qué estás triste?» / «Tuve un mal día.»",
+    "translation": "\"Por que você está triste?\" / \"Tive um dia ruim.\"",
+    "pronunciation": "/poɾ ke esˈtas ˈtɾiste · ˈtuβe un mal ˈdia/",
+    "portuguesePhonetic": "[por ké estás tríste · túbe un mal día]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_97",
+    "word": "«¿Qué hora es?» / «Son las tres.»",
+    "translation": "\"Que horas são?\" / \"São três horas.\"",
+    "pronunciation": "/ke ˈoɾa es · son las tɾes/",
+    "portuguesePhonetic": "[ke óra és · son las trés]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_98",
+    "word": "«¿Habla español?» / «Sí, con fluidez.»",
+    "translation": "\"Ele fala espanhol?\" / \"Sim, fluentemente.\"",
+    "pronunciation": "/ˈaβla espaˈɲol · si kon flwiˈðeθ/",
+    "portuguesePhonetic": "[ábla espánhol · sí kon fluidéth]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_99",
+    "word": "«¿Cómo vas al trabajo?» / «En bici.»",
+    "translation": "\"Como você vai para o trabalho?\" / \"De bicicleta.\"",
+    "pronunciation": "/ˈkomo bas al tɾaˈβaxo · en ˈbiθi/",
+    "portuguesePhonetic": "[kómo bas al trabárro · en bíthi]"
+  },
+  {
+    "id": "leccion_7_gramatica_a1_s_es_card_100",
+    "word": "«¿Qué haces los fines de semana?» / «Descanso en casa.»",
+    "translation": "\"O que você faz nos fins de semana?\" / \"Descanso em casa.\"",
+    "pronunciation": "/ke ˈaθes los ˈfines de seˈmana · desˈkanso en ˈkasa/",
+    "portuguesePhonetic": "[ke áthes los fínes de semána · deskánso en kása]"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_1",
+    "word": "yo",
+    "translation": "eu",
+    "pronunciation": "/ʝo/",
+    "portuguesePhonetic": "[io]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_2",
+    "word": "tú",
+    "translation": "você (informal)",
+    "pronunciation": "/tu/",
+    "portuguesePhonetic": "[tu]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_3",
+    "word": "él",
+    "translation": "ele",
+    "pronunciation": "/el/",
+    "portuguesePhonetic": "[él]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_4",
+    "word": "ella",
+    "translation": "ela",
+    "pronunciation": "/ˈeʎa/",
+    "portuguesePhonetic": "[élha]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_5",
+    "word": "(não há \"it\")",
+    "translation": "coisas não têm pronome sujeito",
+    "pronunciation": "/—/",
+    "portuguesePhonetic": "[—]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_6",
+    "word": "nosotros / nosotras",
+    "translation": "nós",
+    "pronunciation": "/noˈsotɾos/",
+    "portuguesePhonetic": "[nosótros]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_7",
+    "word": "vosotros / vosotras",
+    "translation": "vocês (Espanha)",
+    "pronunciation": "/boˈsotɾos/",
+    "portuguesePhonetic": "[bosótros]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_8",
+    "word": "ellos / ellas",
+    "translation": "eles / elas",
+    "pronunciation": "/ˈeʎos/",
+    "portuguesePhonetic": "[élhos]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_9",
+    "word": "me",
+    "translation": "me / mim",
+    "pronunciation": "/me/",
+    "portuguesePhonetic": "[me]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_10",
+    "word": "te",
+    "translation": "te / você (objeto)",
+    "pronunciation": "/te/",
+    "portuguesePhonetic": "[te]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_11",
+    "word": "lo / la",
+    "translation": "o / a (objeto direto: ele/ela, isso)",
+    "pronunciation": "/lo · la/",
+    "portuguesePhonetic": "[lo · la]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_12",
+    "word": "le",
+    "translation": "lhe (objeto indireto: a ele/ela)",
+    "pronunciation": "/le/",
+    "portuguesePhonetic": "[le]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_13",
+    "word": "nos",
+    "translation": "nos",
+    "pronunciation": "/nos/",
+    "portuguesePhonetic": "[nos]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_14",
+    "word": "os",
+    "translation": "vos (Espanha)",
+    "pronunciation": "/os/",
+    "portuguesePhonetic": "[os]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_15",
+    "word": "los / las",
+    "translation": "os / as",
+    "pronunciation": "/los · las/",
+    "portuguesePhonetic": "[los · las]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_16",
+    "word": "les",
+    "translation": "lhes (a eles/elas)",
+    "pronunciation": "/les/",
+    "portuguesePhonetic": "[les]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_17",
+    "word": "(Yo) trabajo en una oficina.",
+    "translation": "Eu trabalho num escritório.",
+    "pronunciation": "/tɾaˈβaxo en una ofiˈθina/",
+    "portuguesePhonetic": "[trabárro en úna ofithína]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_18",
+    "word": "(Tú) eres gracioso.",
+    "translation": "Você é engraçado.",
+    "pronunciation": "/ˈeɾes ɡɾaˈθjoso/",
+    "portuguesePhonetic": "[éres grathióso]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_19",
+    "word": "(Él) vive en una casa.",
+    "translation": "Ele mora numa casa.",
+    "pronunciation": "/ˈbiβe en una ˈkasa/",
+    "portuguesePhonetic": "[bíbe en úna kása]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_20",
+    "word": "(Ella) tiene dos hijas.",
+    "translation": "Ela tem duas filhas.",
+    "pronunciation": "/ˈtjene dos ˈixas/",
+    "portuguesePhonetic": "[tiéne dos írras]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_21",
+    "word": "Me llama todos los días.",
+    "translation": "Ele me liga todo dia.",
+    "pronunciation": "/me ˈʎama ˈtoðos los ˈdias/",
+    "portuguesePhonetic": "[me lháma tódos los días]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_22",
+    "word": "Te quiero mucho.",
+    "translation": "Eu gosto muito de você.",
+    "pronunciation": "/te ˈkjeɾo ˈmutʃo/",
+    "portuguesePhonetic": "[te kiéro mútcho]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_23",
+    "word": "Dáselo después de clase.",
+    "translation": "Dê isso a ele depois da aula.",
+    "pronunciation": "/ˈdaselo desˈpwes de ˈklase/",
+    "portuguesePhonetic": "[dáselo después de kláse]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_24",
+    "word": "La veo todos los días.",
+    "translation": "Eu a vejo todo dia.",
+    "pronunciation": "/la ˈbeo ˈtoðos los ˈdias/",
+    "portuguesePhonetic": "[la béo tódos los días]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_25",
+    "word": "Habla con ellos. Son simpáticos.",
+    "translation": "Fale com eles. Eles são legais.",
+    "pronunciation": "/ˈaβla kon ˈeʎos · son simˈpatikos/",
+    "portuguesePhonetic": "[ábla kon élhos · son simpátikos]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_26",
+    "word": "La llamo cada mañana.",
+    "translation": "Eu ligo para ela toda manhã.",
+    "pronunciation": "/la ˈʎamo ˈkaða maˈɲana/",
+    "portuguesePhonetic": "[la lhámo káda manhána]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_27",
+    "word": "Me responde rápido.",
+    "translation": "Ela me responde rápido.",
+    "pronunciation": "/me resˈponde ˈrapiðo/",
+    "portuguesePhonetic": "[me respónde rrápido]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_28",
+    "word": "Los vemos en la cafetería.",
+    "translation": "Nós os encontramos no café.",
+    "pronunciation": "/los ˈbemos en la kafeteˈɾia/",
+    "portuguesePhonetic": "[los bémos en la kafetería]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_29",
+    "word": "Nos invitan a menudo.",
+    "translation": "Eles nos convidam com frequência.",
+    "pronunciation": "/nos imˈbitan a meˈnuðo/",
+    "portuguesePhonetic": "[nos imbítan a menúdo]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_30",
+    "word": "Me ayuda con el trabajo.",
+    "translation": "Ele me ayuda com o trabalho.",
+    "pronunciation": "/me aˈʝuða kon el tɾaˈβaxo/",
+    "portuguesePhonetic": "[me aiúda kon el trabárro]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_31",
+    "word": "Ella tiene dos hijas.",
+    "translation": "Ela tem duas filhas.",
+    "pronunciation": "/ˈeʎa ˈtjene dos ˈixas/",
+    "portuguesePhonetic": "[élha tiéne dos írras]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_32",
+    "word": "Las quiero muchísimo.",
+    "translation": "Eu as amo muito.",
+    "pronunciation": "/las ˈkjeɾo muˈtʃisimo/",
+    "portuguesePhonetic": "[las kiéro mutchísimo]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_33",
+    "word": "Nos visitan los domingos.",
+    "translation": "Eles nos visitam aos domingos.",
+    "pronunciation": "/nos biˈsitan los doˈmiŋɡos/",
+    "portuguesePhonetic": "[nos bisítan los domíngos]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_34",
+    "word": "Las llevamos al colegio.",
+    "translation": "Nós as levamos à escola.",
+    "pronunciation": "/las ʎeˈβamos al koˈlexjo/",
+    "portuguesePhonetic": "[las lhebámos al kolérrio]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_35",
+    "word": "¿Puedes ayudarme?",
+    "translation": "Você pode me ajudar?",
+    "pronunciation": "/ˈpweðes aʝuˈðaɾme/",
+    "portuguesePhonetic": "[puédes aiudárme]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_36",
+    "word": "Te lo envío.",
+    "translation": "Eu te envio isso.",
+    "pronunciation": "/te lo emˈbio/",
+    "portuguesePhonetic": "[te lo embío]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_37",
+    "word": "Dáselo después de clase.",
+    "translation": "Dê isso a ele depois da aula.",
+    "pronunciation": "/ˈdaselo desˈpwes de ˈklase/",
+    "portuguesePhonetic": "[dáselo después de kláse]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_38",
+    "word": "Cuéntale las noticias.",
+    "translation": "Conte a notícia para ela.",
+    "pronunciation": "/ˈkwentale las noˈtiθjas/",
+    "portuguesePhonetic": "[kuéntale las notíthias]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_39",
+    "word": "¿Puedes llevarnos contigo?",
+    "translation": "Você pode nos levar com você?",
+    "pronunciation": "/ˈpweðes ʎeˈβaɾnos konˈtiɣo/",
+    "portuguesePhonetic": "[puédes lhebárnos kontígo]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_40",
+    "word": "¿Puedo visitarte este verano?",
+    "translation": "Posso te visitar neste verão?",
+    "pronunciation": "/ˈpweðo bisiˈtaɾte ˈeste beˈɾano/",
+    "portuguesePhonetic": "[puédo bisitárte éste beráno]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_41",
+    "word": "Queremos verlos otra vez.",
+    "translation": "Nós queremos vê-los de novo.",
+    "pronunciation": "/keˈɾemos ˈbeɾlos ˈotɾa beθ/",
+    "portuguesePhonetic": "[kerémos bérlos ótra béth]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_42",
+    "word": "Habla con ellos. Son simpáticos.",
+    "translation": "Fale com eles. Eles são legais.",
+    "pronunciation": "/ˈaβla kon ˈeʎos · son simˈpatikos/",
+    "portuguesePhonetic": "[ábla kon élhos · son simpátikos]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_43",
+    "word": "Es un coche bonito.",
+    "translation": "É um carro bonito.",
+    "pronunciation": "/es un ˈkotʃe boˈnito/",
+    "portuguesePhonetic": "[és un kótche boníto]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_44",
+    "word": "¿Te gusta o no?",
+    "translation": "Você gosta dele ou não?",
+    "pronunciation": "/te ˈɡusta o no/",
+    "portuguesePhonetic": "[te gústa o no]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_45",
+    "word": "Lo compré ayer.",
+    "translation": "Eu comprei ele ontem.",
+    "pronunciation": "/lo komˈpɾe aˈʝeɾ/",
+    "portuguesePhonetic": "[lo kompré aiér]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_46",
+    "word": "Me caes muy bien.",
+    "translation": "Eu gosto muito de você.",
+    "pronunciation": "/me ˈkaes mui bjen/",
+    "portuguesePhonetic": "[me káes múi bién]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_47",
+    "word": "No ven la tele.",
+    "translation": "Eles não assistem TV.",
+    "pronunciation": "/no ben la ˈtele/",
+    "portuguesePhonetic": "[no ben la téle]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_48",
+    "word": "Hablamos inglés.",
+    "translation": "Nós falamos inglês.",
+    "pronunciation": "/aˈβlamos iŋˈɡles/",
+    "portuguesePhonetic": "[ablámos inglés]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_49",
+    "word": "Me llama todos los días.",
+    "translation": "Ele me liga todo dia.",
+    "pronunciation": "/me ˈʎama ˈtoðos los ˈdias/",
+    "portuguesePhonetic": "[me lháma tódos los días]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_50",
+    "word": "La veo todos los días.",
+    "translation": "Eu a vejo todo dia.",
+    "pronunciation": "/la ˈbeo ˈtoðos los ˈdias/",
+    "portuguesePhonetic": "[la béo tódos los días]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_51",
+    "word": "Los veo.",
+    "translation": "Eu os vejo.",
+    "pronunciation": "/los ˈbeo/",
+    "portuguesePhonetic": "[los béo]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_52",
+    "word": "Ella lo quiere.",
+    "translation": "Ela gosta dele.",
+    "pronunciation": "/ˈeʎa lo ˈkjeɾe/",
+    "portuguesePhonetic": "[élha lo kiére]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_53",
+    "word": "Lo necesitamos.",
+    "translation": "Nós precisamos disso.",
+    "pronunciation": "/lo neθesiˈtamos/",
+    "portuguesePhonetic": "[lo nethesitámos]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_54",
+    "word": "Nos conocen.",
+    "translation": "Eles nos conhecem.",
+    "pronunciation": "/nos koˈnoθen/",
+    "portuguesePhonetic": "[nos konóthen]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_55",
+    "word": "Me da un libro.",
+    "translation": "Ele me dá um livro.",
+    "pronunciation": "/me da un ˈliβɾo/",
+    "portuguesePhonetic": "[me da un líbro]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_56",
+    "word": "Te envío un mensaje.",
+    "translation": "Eu te envio uma mensagem.",
+    "pronunciation": "/te emˈbio un menˈsaxe/",
+    "portuguesePhonetic": "[te embío un mensárre]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_57",
+    "word": "¿Te llama?",
+    "translation": "Ela te liga?",
+    "pronunciation": "/te ˈʎama/",
+    "portuguesePhonetic": "[te lháma]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_58",
+    "word": "No me entienden.",
+    "translation": "Eles não me entendem.",
+    "pronunciation": "/no me enˈtjenden/",
+    "portuguesePhonetic": "[no me entiénden]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_59",
+    "word": "¿Por qué nos ignora?",
+    "translation": "Por que ele nos ignora?",
+    "pronunciation": "/poɾ ke nos iɣˈnoɾa/",
+    "portuguesePhonetic": "[por ké nos ignóra]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_60",
+    "word": "¿Puedes decirles la verdad?",
+    "translation": "Você pode contar a verdade a eles?",
+    "pronunciation": "/ˈpweðes deˈθiɾles la beɾˈðað/",
+    "portuguesePhonetic": "[puédes dethírles la berdád]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_61",
+    "word": "No me fío de él.",
+    "translation": "Eu não confio nele.",
+    "pronunciation": "/no me ˈfio de el/",
+    "portuguesePhonetic": "[no me fío de él]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_62",
+    "word": "¿Se acuerdan de ella?",
+    "translation": "Eles se lembram dela?",
+    "pronunciation": "/se aˈkweɾðan de ˈeʎa/",
+    "portuguesePhonetic": "[se akuérdan de élha]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_63",
+    "word": "Me llamó porque necesitaba ayuda.",
+    "translation": "Ela me ligou porque precisava de ajuda.",
+    "pronunciation": "/me ʎaˈmo ˈpoɾke neθesiˈtaβa aˈʝuða/",
+    "portuguesePhonetic": "[me lhamó pórke nethesitába aiúda]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_64",
+    "word": "Se lo di cuando llegó.",
+    "translation": "Eu dei isso a ele quando ele chegou.",
+    "pronunciation": "/se lo di ˈkwando ʎeˈɣo/",
+    "portuguesePhonetic": "[se lo di kuándo lhegó]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_65",
+    "word": "Los visitamos el fin de semana pasado.",
+    "translation": "Nós os visitamos no fim de semana passado.",
+    "pronunciation": "/los bisiˈtamos el fin de seˈmana paˈsaðo/",
+    "portuguesePhonetic": "[los bisitámos el fín de semána pasádo]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_66",
+    "word": "Nos estaba ayudando cuando llegaste.",
+    "translation": "Ele estava nos ajudando quando você chegou.",
+    "pronunciation": "/nos esˈtaβa aʝuˈðando ˈkwando ʎeˈɣaste/",
+    "portuguesePhonetic": "[nos estába aiudándo kuándo lhegáste]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_67",
+    "word": "Nos invitaron, pero no pudimos ir.",
+    "translation": "Eles nos convidaram, mas não pudemos ir.",
+    "pronunciation": "/nos imbiˈtaɾon ˈpeɾo no puˈðimos iɾ/",
+    "portuguesePhonetic": "[nos imbitáron péro no pudímos ir]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_68",
+    "word": "Te enseñaré las fotos cuando te vea.",
+    "translation": "Eu vou te mostrar as fotos quando te ver.",
+    "pronunciation": "/te enseɲaˈɾe las ˈfotos ˈkwando te ˈbea/",
+    "portuguesePhonetic": "[te ensenharé las fótos kuándo te béa]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_69",
+    "word": "Ya no le habla porque discutieron.",
+    "translation": "Ela não fala mais com ele porque eles brigaram.",
+    "pronunciation": "/ʝa no le ˈaβla ˈpoɾke diskuˈtjeɾon/",
+    "portuguesePhonetic": "[ia no le ábla pórke diskutiéron]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_70",
+    "word": "¿Puedes darles mi número y decirles que me llamen?",
+    "translation": "Você pode dar meu número a eles e pedir que me liguem?",
+    "pronunciation": "/ˈpweðes ˈdaɾles mi ˈnumeɾo i deˈθiɾles ke me ˈʎamen/",
+    "portuguesePhonetic": "[puédes dárles mi número i dethírles ke me lhámen]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_71",
+    "word": "Los conocimos en una fiesta y nos cayeron muy bien.",
+    "translation": "Nós os conhecemos numa festa e gostamos muito deles.",
+    "pronunciation": "/los konoˈθimos en una ˈfjesta i nos kaˈʝeɾon mui bjen/",
+    "portuguesePhonetic": "[los konothímos en úna fiésta i nos kaiéron múi bién]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_72",
+    "word": "Si la ves, dale esta carta, por favor.",
+    "translation": "Se você a vir, por favor entregue esta carta a ela.",
+    "pronunciation": "/si la bes ˈdale ˈesta ˈkaɾta poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[si la bes dále ésta kárta por fabór]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_73",
+    "word": "Nunca me escucha, ni siquiera cuando tengo razón.",
+    "translation": "Ele nunca me escuta, mesmo quando eu estou certo.",
+    "pronunciation": "/ˈnuŋka me esˈkutʃa ni siˈkjeɾa ˈkwando ˈteŋɡo raˈθon/",
+    "portuguesePhonetic": "[núnka me eskútcha ni sikiéra kuándo téngo rathón]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_74",
+    "word": "Quieren conocernos, así que vamos a invitarlos.",
+    "translation": "Eles querem nos conhecer, então vamos convidá-los.",
+    "pronunciation": "/ˈkjeɾen konoˈθeɾnos aˈsi ke ˈbamos a imbiˈtaɾlos/",
+    "portuguesePhonetic": "[kiéren konothérnos así ke bámos a imbitárlos]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_75",
+    "word": "Te lo dije, pero no te acuerdas.",
+    "translation": "Eu te falei sobre isso, mas você não se lembra.",
+    "pronunciation": "/te lo ˈdixe ˈpeɾo no te aˈkweɾðas/",
+    "portuguesePhonetic": "[te lo dírre péro no te akuérdas]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_76",
+    "word": "¿Lo conoces?» / «Sí, lo conozco.»",
+    "translation": "Você o conhece?\" / \"Sim, conheço.",
+    "pronunciation": "/lo koˈnoθes · si lo koˈnoθko/",
+    "portuguesePhonetic": "[lo konóthes · sí lo konóthko]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_77",
+    "word": "¿Puedes ayudarme?» / «Por supuesto.»",
+    "translation": "Você pode me ajudar?\" / \"Claro.",
+    "pronunciation": "/ˈpweðes aʝuˈðaɾme · poɾ suˈpwesto/",
+    "portuguesePhonetic": "[puédes aiudárme · por supuésto]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_78",
+    "word": "¿Le gustas?» / «Creo que sí.»",
+    "translation": "Ela gosta de você?\" / \"Acho que sim.",
+    "pronunciation": "/le ˈɡustas · ˈkɾeo ke si/",
+    "portuguesePhonetic": "[le gústas · kréo ke sí]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_79",
+    "word": "¿Dónde están?» / «No los veo.»",
+    "translation": "Onde eles estão?\" / \"Eu não os vejo.",
+    "pronunciation": "/ˈdonde esˈtan · no los ˈbeo/",
+    "portuguesePhonetic": "[dônde están · no los béo]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_80",
+    "word": "¿Te llamó?» / «Sí, esta mañana.»",
+    "translation": "Ele te ligou?\" / \"Sim, hoje de manhã.",
+    "pronunciation": "/te ʎaˈmo · si ˈesta maˈɲana/",
+    "portuguesePhonetic": "[te lhamó · sí ésta manhána]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_81",
+    "word": "¿Puedo visitarte?» / «Sí, cuando quieras.»",
+    "translation": "Posso te visitar?\" / \"Sim, quando quiser.",
+    "pronunciation": "/ˈpweðo bisiˈtaɾte · si ˈkwando ˈkjeɾas/",
+    "portuguesePhonetic": "[puédo bisitárte · sí kuándo kiéras]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_82",
+    "word": "¿Nos conocen?» / «No, no nos conocen.»",
+    "translation": "Eles nos conhecem?\" / \"Não, não conhecem.",
+    "pronunciation": "/nos koˈnoθen · no no nos koˈnoθen/",
+    "portuguesePhonetic": "[nos konóthen · no no nos konóthen]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_83",
+    "word": "¿Quién se lo dio?» / «Yo.»",
+    "translation": "Quem deu isso a ele?\" / \"Eu.",
+    "pronunciation": "/kjen se lo ˈdjo · ʝo/",
+    "portuguesePhonetic": "[kién se lo dió · io]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_84",
+    "word": "¿Se lo dirás?» / «Sí, se lo diré.»",
+    "translation": "Você vai contar a ele?\" / \"Sim, vou contar.",
+    "pronunciation": "/se lo diˈɾas · si se lo diˈɾe/",
+    "portuguesePhonetic": "[se lo dirás · sí se lo diré]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_85",
+    "word": "¿Funciona?» / «Sí, funciona.»",
+    "translation": "Funciona?\" / \"Sim, funciona.",
+    "pronunciation": "/funˈθjona · si funˈθjona/",
+    "portuguesePhonetic": "[funthióna · sí funthióna]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_86",
+    "word": "¿Puedes llevarnos a casa?» / «Claro, subid.»",
+    "translation": "Você pode nos levar para casa?\" / \"Claro, entrem.",
+    "pronunciation": "/ˈpweðes ʎeˈβaɾnos a ˈkasa · ˈklaɾo suˈβið/",
+    "portuguesePhonetic": "[puédes lhebárnos a kása · kláro subíd]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_87",
+    "word": "¿Te gusta?» / «Sí, me encanta.»",
+    "translation": "Você gosta?\" / \"Sim, eu adoro.",
+    "pronunciation": "/te ˈɡusta · si me eŋˈkanta/",
+    "portuguesePhonetic": "[te gústa · sí me enkánta]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_88",
+    "word": "¿Te invitaron?» / «No, no me invitaron.»",
+    "translation": "Eles te convidaram?\" / \"Não, não me convidaram.",
+    "pronunciation": "/te imbiˈtaɾon · no no me imbiˈtaɾon/",
+    "portuguesePhonetic": "[te imbitáron · no no me imbitáron]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_89",
+    "word": "¿La ves?» / «No, se fue.»",
+    "translation": "Você a vê?\" / \"Não, ela foi embora.",
+    "pronunciation": "/la bes · no se fwe/",
+    "portuguesePhonetic": "[la bes · no se fué]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_90",
+    "word": "¿Te fías de él?» / «No mucho.»",
+    "translation": "Você confia nele?\" / \"Nem tanto.",
+    "pronunciation": "/te ˈfias de el · no ˈmutʃo/",
+    "portuguesePhonetic": "[te fías de él · no mútcho]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_91",
+    "word": "¿Los llamo?» / «Sí, por favor.»",
+    "translation": "Ligo para eles?\" / \"Sim, por favor.",
+    "pronunciation": "/los ˈʎamo · si poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[los lhámo · sí por fabór]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_92",
+    "word": "¿Te acuerdas de mí?» / «Claro que sí.»",
+    "translation": "Você se lembra de mim?\" / \"Claro que sim.",
+    "pronunciation": "/te aˈkweɾðas de mi · ˈklaɾo ke si/",
+    "portuguesePhonetic": "[te akuérdas de mí · kláro ke sí]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_93",
+    "word": "¿Puede ayudarnos?» / «Quizás, pregúntale.»",
+    "translation": "Ele pode nos ajudar?\" / \"Talvez, pergunte a ele.",
+    "pronunciation": "/ˈpweðe aʝuˈðaɾnos · kiˈθas pɾeˈɣuntale/",
+    "portuguesePhonetic": "[puéde aiudárnos · kithás pregúntale]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_94",
+    "word": "¿Te respondió?» / «Todavía no.»",
+    "translation": "Ela te respondeu?\" / \"Ainda não.",
+    "pronunciation": "/te responˈdjo · toðaˈβia no/",
+    "portuguesePhonetic": "[te respondió · todabía no]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_95",
+    "word": "¿Lo necesitas?» / «Sí, lo necesito.»",
+    "translation": "Você precisa disso?\" / \"Sim, preciso.",
+    "pronunciation": "/lo neθeˈsitas · si lo neθeˈsito/",
+    "portuguesePhonetic": "[lo nethesítas · sí lo nethesíto]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_96",
+    "word": "¿Se reunirán con nosotros?» / «Sí, a las seis.»",
+    "translation": "Eles vão se encontrar conosco?\" / \"Sim, às seis.",
+    "pronunciation": "/se reuniˈɾan kon noˈsotɾos · si a las seis/",
+    "portuguesePhonetic": "[se reunirán kon nosótros · sí a las séis]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_97",
+    "word": "¿Puedo preguntarte algo?» / «Claro, dime.»",
+    "translation": "Posso te perguntar uma coisa?\" / \"Claro, pode falar.",
+    "pronunciation": "/ˈpweðo pɾeɣunˈtaɾte ˈalɣo · ˈklaɾo ˈdime/",
+    "portuguesePhonetic": "[puédo preguntárte álgo · kláro díme]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_98",
+    "word": "¿Los entiende?» / «Sí, perfectamente.»",
+    "translation": "Ele os entende?\" / \"Sim, perfeitamente.",
+    "pronunciation": "/los enˈtjende · si peɾfektaˈmente/",
+    "portuguesePhonetic": "[los entiénde · sí perfektaménte]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_99",
+    "word": "¿Se lo diste?» / «Sí, se lo di.»",
+    "translation": "Você deu isso a ele?\" / \"Sim, dei.",
+    "pronunciation": "/se lo ˈdiste · si se lo di/",
+    "portuguesePhonetic": "[se lo díste · sí se lo di]"
+  },
+  {
+    "id": "leccion_9_gramatica_a1_s_es_card_100",
+    "word": "¿Los echas de menos?» / «Sí, muchísimo.»",
+    "translation": "Você sente falta deles?\" / \"Sim, muitíssimo.",
+    "pronunciation": "/los ˈetʃas de ˈmenos · si muˈtʃisimo/",
+    "portuguesePhonetic": "[los étchas de ménos · sí mutchísimo]"
+  }
+]

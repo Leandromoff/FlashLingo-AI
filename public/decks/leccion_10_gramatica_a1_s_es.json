@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_1",
+    "word": "el coche de mi padre",
+    "translation": "o carro do meu pai",
+    "pronunciation": "/el ˈkotʃe de mi ˈpaðɾe/",
+    "portuguesePhonetic": "[el kótche de mi pádre]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_2",
+    "word": "los juguetes del perro",
+    "translation": "os brinquedos do cachorro",
+    "pronunciation": "/los xuˈɣetes del ˈpero/",
+    "portuguesePhonetic": "[los rruguétes del pérro]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_3",
+    "word": "el ordenador de Mary",
+    "translation": "o computador da Mary",
+    "pronunciation": "/el oɾðenaˈðoɾ de ˈmaɾi/",
+    "portuguesePhonetic": "[el ordenadór de mári]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_4",
+    "word": "los amigos de John",
+    "translation": "os amigos do John",
+    "pronunciation": "/los aˈmiɣos de John/",
+    "portuguesePhonetic": "[los amígos de djón]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_5",
+    "word": "la madre de Sara",
+    "translation": "a mãe da Sara",
+    "pronunciation": "/la ˈmaðɾe de ˈsaɾa/",
+    "portuguesePhonetic": "[la mádre de sára]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_6",
+    "word": "el hermano de Peter",
+    "translation": "o irmão do Peter",
+    "pronunciation": "/el eɾˈmano de ˈpiteɾ/",
+    "portuguesePhonetic": "[el ermáno de píter]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_7",
+    "word": "Estoy en casa de John.",
+    "translation": "Estou na casa do John.",
+    "pronunciation": "/esˈtoi en ˈkasa de John/",
+    "portuguesePhonetic": "[estôi en kása de djón]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_8",
+    "word": "Voy a la panadería.",
+    "translation": "Vou à padaria.",
+    "pronunciation": "/boi a la panaðeˈɾia/",
+    "portuguesePhonetic": "[bôi a la panadería]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_9",
+    "word": "el final de la calle",
+    "translation": "o fim da rua",
+    "pronunciation": "/el fiˈnal de la ˈkaʎe/",
+    "portuguesePhonetic": "[el finál de la kálhe]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_10",
+    "word": "una foto del mar",
+    "translation": "uma foto do mar",
+    "pronunciation": "/una ˈfoto del maɾ/",
+    "portuguesePhonetic": "[úna fóto del mar]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_11",
+    "word": "el secreto de la vida",
+    "translation": "o segredo da vida",
+    "pronunciation": "/el seˈkɾeto de la ˈβiða/",
+    "portuguesePhonetic": "[el sekréto de la bída]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_12",
+    "word": "el centro de la ciudad",
+    "translation": "o centro da cidade",
+    "pronunciation": "/el ˈθentɾo de la θjuˈðað/",
+    "portuguesePhonetic": "[el théntro de la thiudád]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_13",
+    "word": "las llaves del coche",
+    "translation": "as chaves do carro",
+    "pronunciation": "/las ˈʎaβes del ˈkotʃe/",
+    "portuguesePhonetic": "[las lhábes del kótche]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_14",
+    "word": "el collar del gato",
+    "translation": "a coleira do gato",
+    "pronunciation": "/el koˈʎaɾ del ˈɡato/",
+    "portuguesePhonetic": "[el kolhár del gáto]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_15",
+    "word": "el cuaderno del profesor",
+    "translation": "o caderno do professor",
+    "pronunciation": "/el kwaˈðeɾno del pɾofeˈsoɾ/",
+    "portuguesePhonetic": "[el kuadérno del profesór]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_16",
+    "word": "un cuento para niños",
+    "translation": "uma história infantil",
+    "pronunciation": "/un ˈkwento ˈpaɾa ˈniɲos/",
+    "portuguesePhonetic": "[un kuénto pára nínhos]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_17",
+    "word": "el baño de hombres",
+    "translation": "o banheiro masculino",
+    "pronunciation": "/el ˈbaɲo de ˈombɾes/",
+    "portuguesePhonetic": "[el bánho de ómbres]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_18",
+    "word": "los problemas de la gente",
+    "translation": "os problemas das pessoas",
+    "pronunciation": "/los pɾoˈβlemas de la ˈxente/",
+    "portuguesePhonetic": "[los problémas de la rrénte]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_19",
+    "word": "el baño de los chicos",
+    "translation": "o banheiro dos meninos",
+    "pronunciation": "/el ˈbaɲo de los ˈtʃikos/",
+    "portuguesePhonetic": "[el bánho de los tchíkos]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_20",
+    "word": "la sala de profesores",
+    "translation": "a sala dos professores",
+    "pronunciation": "/la ˈsala de pɾofeˈsoɾes/",
+    "portuguesePhonetic": "[la sála de profesóres]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_21",
+    "word": "el ordenador de Chris",
+    "translation": "o computador do Chris",
+    "pronunciation": "/el oɾðenaˈðoɾ de kɾis/",
+    "portuguesePhonetic": "[el ordenadór de kris]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_22",
+    "word": "la casa de Douglas",
+    "translation": "a casa do Douglas",
+    "pronunciation": "/la ˈkasa de ˈduɣlas/",
+    "portuguesePhonetic": "[la kása de dúglas]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_23",
+    "word": "el coche de Anna y Tom",
+    "translation": "o carro da Anna e do Tom (um carro só)",
+    "pronunciation": "/el ˈkotʃe de ˈana i tom/",
+    "portuguesePhonetic": "[el kótche de ána i tom]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_24",
+    "word": "los coches de Anna y de Tom",
+    "translation": "os carros da Anna e do Tom (um cada)",
+    "pronunciation": "/los ˈkotʃes de ˈana i de tom/",
+    "portuguesePhonetic": "[los kótches de ána i de tom]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_25",
+    "word": "En español no existe el 's: se usa \"de\" y se invierte el orden.",
+    "translation": "Em espanhol não existe o 's: usa-se \"de\" e inverte-se a ordem.",
+    "pronunciation": "/en espaˈɲol no eɣˈsiste el es/",
+    "portuguesePhonetic": "[en espánhol no eksíste el és]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_26",
+    "word": "Esta es la habitación de mi hermana.",
+    "translation": "Este é o quarto da minha irmã.",
+    "pronunciation": "/ˈesta es la aβitaˈθjon de mi eɾˈmana/",
+    "portuguesePhonetic": "[ésta és la abitathión de mi ermána]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_27",
+    "word": "Esa es la bici de mi hermano.",
+    "translation": "Aquela é a bicicleta do meu irmão.",
+    "pronunciation": "/ˈesa es la ˈbiθi de mi eɾˈmano/",
+    "portuguesePhonetic": "[ésa és la bíthi de mi ermáno]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_28",
+    "word": "¿Dónde están los juguetes de los niños?",
+    "translation": "Onde estão os brinquedos das crianças?",
+    "pronunciation": "/ˈdonde esˈtan los xuˈɣetes de los ˈniɲos/",
+    "portuguesePhonetic": "[dônde están los rruguétes de los nínhos]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_29",
+    "word": "La cama del perro está en la cocina.",
+    "translation": "A cama do cachorro fica na cozinha.",
+    "pronunciation": "/la ˈkama del ˈpero esˈta en la koˈθina/",
+    "portuguesePhonetic": "[la káma del pérro está en la kothína]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_30",
+    "word": "La casa de mis padres es grande.",
+    "translation": "A casa dos meus pais é grande.",
+    "pronunciation": "/la ˈkasa de mis ˈpaðɾes es ˈɡɾande/",
+    "portuguesePhonetic": "[la kása de mis pádres és gránde]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_31",
+    "word": "Voy a la panadería.",
+    "translation": "Vou à padaria.",
+    "pronunciation": "/boi a la panaðeˈɾia/",
+    "portuguesePhonetic": "[bôi a la panadería]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_32",
+    "word": "La tienda está abierta hoy.",
+    "translation": "A loja está aberta hoje.",
+    "pronunciation": "/la ˈtjenda esˈta aˈβjeɾta oi/",
+    "portuguesePhonetic": "[la tiénda está abiérta ôi]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_33",
+    "word": "Quedamos en casa de Anna.",
+    "translation": "Vamos nos encontrar na casa da Anna.",
+    "pronunciation": "/keˈðamos en ˈkasa de ˈana/",
+    "portuguesePhonetic": "[kedámos en kása de ána]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_34",
+    "word": "La sección de hombres está arriba.",
+    "translation": "A seção masculina é lá em cima.",
+    "pronunciation": "/la sekˈθjon de ˈombɾes esˈta aˈriβa/",
+    "portuguesePhonetic": "[la sekthión de ómbres está arríba]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_35",
+    "word": "Esta es la mesa del profesor.",
+    "translation": "Esta é a mesa do professor.",
+    "pronunciation": "/ˈesta es la ˈmesa del pɾofeˈsoɾ/",
+    "portuguesePhonetic": "[ésta és la mésa del profesór]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_36",
+    "word": "El despacho del jefe está cerrado.",
+    "translation": "O escritório do chefe está fechado.",
+    "pronunciation": "/el desˈpatʃo del ˈxefe esˈta θeˈraðo/",
+    "portuguesePhonetic": "[el despátcho del rréfe está therrádo]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_37",
+    "word": "Encontré los trabajos de los alumnos.",
+    "translation": "Eu achei os trabalhos dos alunos.",
+    "pronunciation": "/eŋkonˈtɾe los tɾaˈβaxos de los aˈlumnos/",
+    "portuguesePhonetic": "[enkontré los trabárros de los alúmnos]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_38",
+    "word": "La sala de profesores está tranquila.",
+    "translation": "A sala dos professores está silenciosa.",
+    "pronunciation": "/la ˈsala de pɾofeˈsoɾes esˈta tɾaŋˈkila/",
+    "portuguesePhonetic": "[la sála de profesóres está trankíla]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_39",
+    "word": "El final de la película fue triste.",
+    "translation": "O fim do filme foi triste.",
+    "pronunciation": "/el fiˈnal de la peˈlikula fwe ˈtɾiste/",
+    "portuguesePhonetic": "[el finál de la pelíkula fué tríste]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_40",
+    "word": "Me encanta el color del cielo.",
+    "translation": "Eu amo a cor do céu.",
+    "pronunciation": "/me eŋˈkanta el koˈloɾ del ˈθjelo/",
+    "portuguesePhonetic": "[me enkánta el kolór del thiélo]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_41",
+    "word": "¿Cuál es el nombre de la calle?",
+    "translation": "Qual é o nome da rua?",
+    "pronunciation": "/kwal es el ˈnombɾe de la ˈkaʎe/",
+    "portuguesePhonetic": "[kuál és el nómbre de la kálhe]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_42",
+    "word": "La madre de Sara es médica.",
+    "translation": "A mãe da Sara é médica.",
+    "pronunciation": "/la ˈmaðɾe de ˈsaɾa es ˈmeðika/",
+    "portuguesePhonetic": "[la mádre de sára és médika]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_43",
+    "word": "Los amigos de John son graciosos.",
+    "translation": "Os amigos do John são engraçados.",
+    "pronunciation": "/los aˈmiɣos de John son ɡɾaˈθjosos/",
+    "portuguesePhonetic": "[los amígos de djón son grathiósos]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_44",
+    "word": "Ese es el hermano de Peter.",
+    "translation": "Aquele é o irmão do Peter.",
+    "pronunciation": "/ˈese es el eɾˈmano de ˈpiteɾ/",
+    "portuguesePhonetic": "[ése és el ermáno de píter]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_45",
+    "word": "¿Has visto el ordenador de Mary?",
+    "translation": "Você viu o computador da Mary?",
+    "pronunciation": "/as ˈbisto el oɾðenaˈðoɾ de ˈmaɾi/",
+    "portuguesePhonetic": "[as bísto el ordenadór de mári]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_46",
+    "word": "El collar del gato es rojo.",
+    "translation": "A coleira do gato é vermelha.",
+    "pronunciation": "/el koˈʎaɾ del ˈɡato es ˈroxo/",
+    "portuguesePhonetic": "[el kolhár del gáto és rrórro]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_47",
+    "word": "Cogí el boli de mi amigo.",
+    "translation": "Eu peguei a caneta do meu amigo emprestada.",
+    "pronunciation": "/koˈxi el ˈboli de mi aˈmiɣo/",
+    "portuguesePhonetic": "[korrí el bóli de mi amígo]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_48",
+    "word": "Las llaves del coche están en la mesa.",
+    "translation": "As chaves do carro estão na mesa.",
+    "pronunciation": "/las ˈʎaβes del ˈkotʃe esˈtan en la ˈmesa/",
+    "portuguesePhonetic": "[las lhábes del kótche están en la mésa]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_49",
+    "word": "El coche de Anna y Tom es nuevo.",
+    "translation": "O carro da Anna e do Tom é novo.",
+    "pronunciation": "/el ˈkotʃe de ˈana i tom es ˈnweβo/",
+    "portuguesePhonetic": "[el kótche de ána i tom és nuébo]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_50",
+    "word": "El centro de la ciudad está abarrotado.",
+    "translation": "O centro da cidade está lotado.",
+    "pronunciation": "/el ˈθentɾo de la θjuˈðað esˈta aβaroˈtaðo/",
+    "portuguesePhonetic": "[el théntro de la thiudád está abarrotádo]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_51",
+    "word": "Este es el libro de Mary.",
+    "translation": "Este é o livro da Mary.",
+    "pronunciation": "/ˈeste es el ˈliβɾo de ˈmaɾi/",
+    "portuguesePhonetic": "[éste és el líbro de mári]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_52",
+    "word": "Ese es el juguete del perro.",
+    "translation": "Aquele é o brinquedo do cachorro.",
+    "pronunciation": "/ˈese es el xuˈɣete del ˈpero/",
+    "portuguesePhonetic": "[ése és el rruguéte del pérro]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_53",
+    "word": "Me gusta el coche de John.",
+    "translation": "Eu gosto do carro do John.",
+    "pronunciation": "/me ˈɡusta el ˈkotʃe de John/",
+    "portuguesePhonetic": "[me gústa el kótche de djón]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_54",
+    "word": "La casa de Sara es bonita.",
+    "translation": "A casa da Sara é bonita.",
+    "pronunciation": "/la ˈkasa de ˈsaɾa es boˈnita/",
+    "portuguesePhonetic": "[la kása de sára és boníta]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_55",
+    "word": "El colegio de los niños está cerca.",
+    "translation": "A escola das crianças é perto.",
+    "pronunciation": "/el koˈlexjo de los ˈniɲos esˈta ˈθeɾka/",
+    "portuguesePhonetic": "[el kolérrio de los nínhos está thérka]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_56",
+    "word": "El coche de mis padres es viejo.",
+    "translation": "O carro dos meus pais é velho.",
+    "pronunciation": "/el ˈkotʃe de mis ˈpaðɾes es ˈbjexo/",
+    "portuguesePhonetic": "[el kótche de mis pádres és biérro]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_57",
+    "word": "¿Es este el móvil de tu hermana?",
+    "translation": "Este é o telefone da sua irmã?",
+    "pronunciation": "/es ˈeste el ˈmoβil de tu eɾˈmana/",
+    "portuguesePhonetic": "[és éste el móbil de tu ermána]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_58",
+    "word": "El coche del profesor no está aquí.",
+    "translation": "O carro do professor não está aqui.",
+    "pronunciation": "/el ˈkotʃe del pɾofeˈsoɾ no esˈta aˈki/",
+    "portuguesePhonetic": "[el kótche del profesór no está akí]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_59",
+    "word": "¿De quién es este móvil?",
+    "translation": "De quem é este telefone?",
+    "pronunciation": "/de kjen es ˈeste ˈmoβil/",
+    "portuguesePhonetic": "[de kién és éste móbil]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_60",
+    "word": "¿Esa es la bici de Peter o la de John?",
+    "translation": "Aquela é a bicicleta do Peter ou do John?",
+    "pronunciation": "/ˈesa es la ˈbiθi de ˈpiteɾ o la de John/",
+    "portuguesePhonetic": "[ésa és la bíthi de píter o la de djón]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_61",
+    "word": "Esa no es la bolsa de Mary.",
+    "translation": "Aquela não é a bolsa da Mary.",
+    "pronunciation": "/ˈesa no es la ˈbolsa de ˈmaɾi/",
+    "portuguesePhonetic": "[ésa no és la bólsa de mári]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_62",
+    "word": "¿Dónde está el baño de hombres?",
+    "translation": "Onde fica o banheiro masculino?",
+    "pronunciation": "/ˈdonde esˈta el ˈbaɲo de ˈombɾes/",
+    "portuguesePhonetic": "[dônde está el bánho de ómbres]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_63",
+    "word": "Cogí el coche de Tom porque el mío se averió.",
+    "translation": "Eu peguei o carro do Tom porque o meu quebrou.",
+    "pronunciation": "/koˈxi el ˈkotʃe de tom ˈpoɾke el ˈmio se aβeˈɾjo/",
+    "portuguesePhonetic": "[korrí el kótche de tom pórke el mío se aberió]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_64",
+    "word": "Esta semana nos quedamos en casa de mi tía.",
+    "translation": "Nós estamos ficando na casa da minha tia esta semana.",
+    "pronunciation": "/ˈesta seˈmana nos keˈðamos en ˈkasa de mi ˈtia/",
+    "portuguesePhonetic": "[ésta semána nos kedámos en kása de mi tía]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_65",
+    "word": "Ayer fui al médico.",
+    "translation": "Eu fui ao médico ontem.",
+    "pronunciation": "/aˈʝeɾ fwi al ˈmeðiko/",
+    "portuguesePhonetic": "[aiér fui al médiko]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_66",
+    "word": "Estaba usando el portátil de su hermana cuando se colgó.",
+    "translation": "Ela estava usando o laptop da irmã quando ele travou.",
+    "pronunciation": "/esˈtaβa uˈsando el poɾˈtatil de su eɾˈmana ˈkwando se kolˈɣo/",
+    "portuguesePhonetic": "[estába usándo el portátil de su ermána kuándo se kolgó]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_67",
+    "word": "El equipo de los chicos ganó, pero el de las chicas perdió.",
+    "translation": "O time dos meninos ganhou, mas o das meninas perdeu.",
+    "pronunciation": "/el eˈkipo de los ˈtʃikos ɡaˈno ˈpeɾo el de las ˈtʃikas peɾˈðjo/",
+    "portuguesePhonetic": "[el ekípo de los tchíkos ganó péro el de las tchíkas perdió]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_68",
+    "word": "El final de la calle es donde está la casa de Sara.",
+    "translation": "O fim da rua é onde fica a casa da Sara.",
+    "pronunciation": "/el fiˈnal de la ˈkaʎe es ˈdonde esˈta la ˈkasa de ˈsaɾa/",
+    "portuguesePhonetic": "[el finál de la kálhe és dônde está la kása de sára]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_69",
+    "word": "Siempre confundo el número de John con el de Peter.",
+    "translation": "Eu sempre confundo o número do John com o do Peter.",
+    "pronunciation": "/ˈsjempɾe konˈfundo el ˈnumeɾo de John kon el de ˈpiteɾ/",
+    "portuguesePhonetic": "[siémpre konfúndo el número de djón kon el de píter]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_70",
+    "word": "Podemos usar el coche de Anna y Tom, ya que comparten uno.",
+    "translation": "Podemos usar o carro da Anna e do Tom já que eles dividem um.",
+    "pronunciation": "/poˈðemos uˈsaɾ el ˈkotʃe de ˈana i tom ʝa ke komˈpaɾten ˈuno/",
+    "portuguesePhonetic": "[podémos usár el kótche de ána i tom ia ke kompárten úno]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_71",
+    "word": "La profesora dijo que los cuentos de los niños eran excelentes.",
+    "translation": "A professora disse que as histórias das crianças estavam excelentes.",
+    "pronunciation": "/la pɾofeˈsoɾa ˈdixo ke los ˈkwentos de los ˈniɲos ˈeɾan eɣθeˈlentes/",
+    "portuguesePhonetic": "[la profesóra dírro ke los kuéntos de los nínhos éran ektheléntes]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_72",
+    "word": "¿Esta es la sección de mujeres o la de hombres?",
+    "translation": "Esta é a seção feminina ou a masculina?",
+    "pronunciation": "/ˈesta es la sekˈθjon de muˈxeɾes o la de ˈombɾes/",
+    "portuguesePhonetic": "[ésta és la sekthión de murréres o la de ómbres]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_73",
+    "word": "No recuerdo el nombre de la calle, pero está cerca de la panadería.",
+    "translation": "Eu não lembro o nome da rua, mas é perto da padaria.",
+    "pronunciation": "/no reˈkweɾðo el ˈnombɾe de la ˈkaʎe ˈpeɾo esˈta ˈθeɾka de la panaðeˈɾia/",
+    "portuguesePhonetic": "[no rekuérdo el nómbre de la kálhe péro está thérka de la panadería]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_74",
+    "word": "La casa de los padres de mi amigo está junto al mar.",
+    "translation": "A casa dos pais do meu amigo fica à beira-mar.",
+    "pronunciation": "/la ˈkasa de los ˈpaðɾes de mi aˈmiɣo esˈta ˈxunto al maɾ/",
+    "portuguesePhonetic": "[la kása de los pádres de mi amígo está rrúnto al mar]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_75",
+    "word": "El secreto del éxito no es la suerte; es el trabajo duro.",
+    "translation": "O segredo do sucesso não é sorte; é trabalho duro.",
+    "pronunciation": "/el seˈkɾeto del ˈeɣsito no es la ˈsweɾte es el tɾaˈβaxo ˈduɾo/",
+    "portuguesePhonetic": "[el sekréto del éksito no és la suérte és el trabárro dúro]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_76",
+    "word": "¿De quién es este coche?» / «Es de Mary.»",
+    "translation": "De quem é este carro?\" / \"É da Mary.",
+    "pronunciation": "/de kjen es ˈeste ˈkotʃe · es de ˈmaɾi/",
+    "portuguesePhonetic": "[de kién és éste kótche · és de mári]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_77",
+    "word": "¿Es de tu hermano?» / «No, es mío.»",
+    "translation": "É do seu irmão?\" / \"Não, é meu.",
+    "pronunciation": "/es de tu eɾˈmano · no es ˈmio/",
+    "portuguesePhonetic": "[és de tu ermáno · no és mío]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_78",
+    "word": "¿Dónde estás?» / «En casa de John.»",
+    "translation": "Onde você está?\" / \"Na casa do John.",
+    "pronunciation": "/ˈdonde esˈtas · en ˈkasa de John/",
+    "portuguesePhonetic": "[dônde estás · en kása de djón]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_79",
+    "word": "¿De quién son estas llaves?» / «Son de Tom.»",
+    "translation": "De quem são estas chaves?\" / \"São do Tom.",
+    "pronunciation": "/de kjen son ˈestas ˈʎaβes · son de tom/",
+    "portuguesePhonetic": "[de kién son éstas lhábes · son de tom]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_80",
+    "word": "¿Esa es la mesa del profesor?» / «Sí, lo es.»",
+    "translation": "Aquela é a mesa do professor?\" / \"Sim, é.",
+    "pronunciation": "/ˈesa es la ˈmesa del pɾofeˈsoɾ · si lo es/",
+    "portuguesePhonetic": "[ésa és la mésa del profesór · sí lo és]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_81",
+    "word": "¿Dónde está el baño de hombres?» / «Al final del pasillo.»",
+    "translation": "Onde fica o banheiro masculino?\" / \"No fim do corredor.",
+    "pronunciation": "/ˈdonde esˈta el ˈbaɲo de ˈombɾes · al fiˈnal del paˈsiʎo/",
+    "portuguesePhonetic": "[dônde está el bánho de ómbres · al finál del pasílho]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_82",
+    "word": "¿De quién es esta bolsa?» / «Es de Sara.»",
+    "translation": "De quem é esta bolsa?\" / \"É da Sara.",
+    "pronunciation": "/de kjen es ˈesta ˈbolsa · es de ˈsaɾa/",
+    "portuguesePhonetic": "[de kién és ésta bólsa · és de sára]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_83",
+    "word": "¿Es el coche de Anna y Tom?» / «Sí, lo comparten.»",
+    "translation": "É o carro da Anna e do Tom?\" / \"Sim, eles dividem.",
+    "pronunciation": "/es el ˈkotʃe de ˈana i tom · si lo komˈpaɾten/",
+    "portuguesePhonetic": "[és el kótche de ána i tom · sí lo kompárten]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_84",
+    "word": "¿Dónde están los juguetes de los niños?» / «En su habitación.»",
+    "translation": "Onde estão os brinquedos das crianças?\" / \"No quarto delas.",
+    "pronunciation": "/ˈdonde esˈtan los xuˈɣetes de los ˈniɲos · en su aβitaˈθjon/",
+    "portuguesePhonetic": "[dônde están los rruguétes de los nínhos · en su abitathión]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_85",
+    "word": "¿De quién es el móvil que suena?» / «Es de Peter.»",
+    "translation": "De quem é o celular que está tocando?\" / \"É do Peter.",
+    "pronunciation": "/de kjen es el ˈmoβil ke ˈswena · es de ˈpiteɾ/",
+    "portuguesePhonetic": "[de kién és el móbil ke suéna · és de píter]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_86",
+    "word": "¿Es el juguete de tu perro?» / «Sí, lo es.»",
+    "translation": "É o brinquedo do seu cachorro?\" / \"Sim, é.",
+    "pronunciation": "/es el xuˈɣete de tu ˈpero · si lo es/",
+    "portuguesePhonetic": "[és el rruguéte de tu pérro · sí lo és]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_87",
+    "word": "¿Dónde está la panadería?» / «En la calle Mayor.»",
+    "translation": "Onde fica a padaria?\" / \"Na rua Mayor.",
+    "pronunciation": "/ˈdonde esˈta la panaðeˈɾia · en la ˈkaʎe maˈʝoɾ/",
+    "portuguesePhonetic": "[dônde está la panadería · en la kálhe maiór]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_88",
+    "word": "¿De quién es esa casa?» / «Es de mis padres.»",
+    "translation": "De quem é aquela casa?\" / \"É dos meus pais.",
+    "pronunciation": "/de kjen es ˈesa ˈkasa · es de mis ˈpaðɾes/",
+    "portuguesePhonetic": "[de kién és ésa kása · és de mis pádres]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_89",
+    "word": "¿Es el ordenador de Chris?» / «Sí, es suyo.»",
+    "translation": "É o computador do Chris?\" / \"Sim, é dele.",
+    "pronunciation": "/es el oɾðenaˈðoɾ de kɾis · si es ˈsuʝo/",
+    "portuguesePhonetic": "[és el ordenadór de kris · sí és súio]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_90",
+    "word": "¿De quién son estos libros?» / «Son de los alumnos.»",
+    "translation": "De quem são estes livros?\" / \"São dos alunos.",
+    "pronunciation": "/de kjen son ˈestos ˈliβɾos · son de los aˈlumnos/",
+    "portuguesePhonetic": "[de kién son éstos líbros · son de los alúmnos]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_91",
+    "word": "¿Es la bici de tu hermana?» / «No, es mía.»",
+    "translation": "É a bicicleta da sua irmã?\" / \"Não, é minha.",
+    "pronunciation": "/es la ˈbiθi de tu eɾˈmana · no es ˈmia/",
+    "portuguesePhonetic": "[és la bíthi de tu ermána · no és mía]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_92",
+    "word": "¿Dónde te quedaste?» / «En casa de mi tía.»",
+    "translation": "Onde você ficou?\" / \"Na casa da minha tia.",
+    "pronunciation": "/ˈdonde te keˈðaste · en ˈkasa de mi ˈtia/",
+    "portuguesePhonetic": "[dônde te kedáste · en kása de mi tía]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_93",
+    "word": "¿De quién fue la idea?» / «De John.»",
+    "translation": "De quem foi a ideia?\" / \"Do John.",
+    "pronunciation": "/de kjen fwe la iˈðea · de John/",
+    "portuguesePhonetic": "[de kién fué la idéa · de djón]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_94",
+    "word": "¿Esta es la sección de mujeres?» / «No, la de hombres.»",
+    "translation": "Esta é a seção feminina?\" / \"Não, a masculina.",
+    "pronunciation": "/ˈesta es la sekˈθjon de muˈxeɾes · no la de ˈombɾes/",
+    "portuguesePhonetic": "[ésta és la sekthión de murréres · no la de ómbres]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_95",
+    "word": "¿De quién es el turno?» / «De Mary.»",
+    "translation": "De quem é a vez?\" / \"Da Mary.",
+    "pronunciation": "/de kjen es el ˈtuɾno · de ˈmaɾi/",
+    "portuguesePhonetic": "[de kién és el túrno · de mári]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_96",
+    "word": "¿Son los libros de los niños?» / «Sí, lo son.»",
+    "translation": "São os livros das crianças?\" / \"Sim, são.",
+    "pronunciation": "/son los ˈliβɾos de los ˈniɲos · si lo son/",
+    "portuguesePhonetic": "[son los líbros de los nínhos · sí lo son]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_97",
+    "word": "¿De quién es la culpa?» / «De nadie.»",
+    "translation": "De quem é a culpa?\" / \"De ninguém.",
+    "pronunciation": "/de kjen es la ˈkulpa · de ˈnaðje/",
+    "portuguesePhonetic": "[de kién és la kúlpa · de nádie]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_98",
+    "word": "¿Esa es la casa de Douglas?» / «Sí, la grande.»",
+    "translation": "Aquela é a casa do Douglas?\" / \"Sim, a grande.",
+    "pronunciation": "/ˈesa es la ˈkasa de ˈduɣlas · si la ˈɡɾande/",
+    "portuguesePhonetic": "[ésa és la kása de dúglas · sí la gránde]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_99",
+    "word": "¿De quién es este abrigo?» / «Es de Sara.»",
+    "translation": "De quem é este casaco?\" / \"É da Sara.",
+    "pronunciation": "/de kjen es ˈeste aˈβɾiɣo · es de ˈsaɾa/",
+    "portuguesePhonetic": "[de kién és éste abrígo · és de sára]"
+  },
+  {
+    "id": "leccion_10_gramatica_a1_s_es_card_100",
+    "word": "¿Dónde es la fiesta?» / «En casa de Tom.»",
+    "translation": "Onde é a festa?\" / \"Na casa do Tom.",
+    "pronunciation": "/ˈdonde es la ˈfjesta · en ˈkasa de tom/",
+    "portuguesePhonetic": "[dônde és la fiésta · en kása de tom]"
+  }
+]

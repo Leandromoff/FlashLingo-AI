@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_1",
+    "word": "las comidas",
+    "translation": "refeições",
+    "pronunciation": "/las koˈmiðas/",
+    "portuguesePhonetic": "[las komídas]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_2",
+    "word": "el desayuno",
+    "translation": "café da manhã",
+    "pronunciation": "/el desaˈʝuno/",
+    "portuguesePhonetic": "[el desaiúno]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_3",
+    "word": "la comida / el almuerzo",
+    "translation": "almoço",
+    "pronunciation": "/la koˈmiða · el alˈmweɾθo/",
+    "portuguesePhonetic": "[la komída · el almuérzo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_4",
+    "word": "la cena",
+    "translation": "jantar",
+    "pronunciation": "/la ˈθena/",
+    "portuguesePhonetic": "[la théna]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_5",
+    "word": "la merienda",
+    "translation": "lanche (da tarde)",
+    "pronunciation": "/la meˈɾjenda/",
+    "portuguesePhonetic": "[la meriénda]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_6",
+    "word": "los cereales",
+    "translation": "cereal",
+    "pronunciation": "/los θeɾeˈales/",
+    "portuguesePhonetic": "[los thereáles]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_7",
+    "word": "el pan",
+    "translation": "pão",
+    "pronunciation": "/el pan/",
+    "portuguesePhonetic": "[el pan]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_8",
+    "word": "el queso",
+    "translation": "queijo",
+    "pronunciation": "/el ˈkeso/",
+    "portuguesePhonetic": "[el késo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_9",
+    "word": "el jamón",
+    "translation": "presunto",
+    "pronunciation": "/el xaˈmon/",
+    "portuguesePhonetic": "[el rramón]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_10",
+    "word": "los huevos",
+    "translation": "ovos",
+    "pronunciation": "/los ˈweβos/",
+    "portuguesePhonetic": "[los uébos]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_11",
+    "word": "la tostada",
+    "translation": "torrada",
+    "pronunciation": "/la tosˈtaða/",
+    "portuguesePhonetic": "[la tostáda]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_12",
+    "word": "la mantequilla",
+    "translation": "manteiga",
+    "pronunciation": "/la manteˈkiʎa/",
+    "portuguesePhonetic": "[la mantekílha]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_13",
+    "word": "la mermelada",
+    "translation": "geleia",
+    "pronunciation": "/la meɾmeˈlaða/",
+    "portuguesePhonetic": "[la mermeláda]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_14",
+    "word": "el yogur",
+    "translation": "iogurte",
+    "pronunciation": "/el ʝoˈɣuɾ/",
+    "portuguesePhonetic": "[el iogúr]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_15",
+    "word": "la fruta",
+    "translation": "fruta",
+    "pronunciation": "/la ˈfɾuta/",
+    "portuguesePhonetic": "[la frúta]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_16",
+    "word": "las patatas fritas",
+    "translation": "batata frita (de pacote) (Espanha)",
+    "pronunciation": "/las paˈtatas ˈfɾitas/",
+    "portuguesePhonetic": "[las patátas frítas]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_17",
+    "word": "las galletas",
+    "translation": "biscoitos",
+    "pronunciation": "/las ɡaˈʎetas/",
+    "portuguesePhonetic": "[las galhétas]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_18",
+    "word": "el bocadillo",
+    "translation": "sanduíche (Espanha: no pão tipo baguete)",
+    "pronunciation": "/el bokaˈðiʎo/",
+    "portuguesePhonetic": "[el bokadílho]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_19",
+    "word": "la tarta",
+    "translation": "bolo",
+    "pronunciation": "/la ˈtaɾta/",
+    "portuguesePhonetic": "[la tárta]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_20",
+    "word": "la chocolatina",
+    "translation": "barra de chocolate",
+    "pronunciation": "/la tʃokolaˈtina/",
+    "portuguesePhonetic": "[la tchokolatína]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_21",
+    "word": "el café",
+    "translation": "café",
+    "pronunciation": "/el kaˈfe/",
+    "portuguesePhonetic": "[el kafé]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_22",
+    "word": "la leche",
+    "translation": "leite",
+    "pronunciation": "/la ˈletʃe/",
+    "portuguesePhonetic": "[la létche]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_23",
+    "word": "el zumo",
+    "translation": "suco (Espanha; não \"jugo\")",
+    "pronunciation": "/el ˈθumo/",
+    "portuguesePhonetic": "[el thúmo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_24",
+    "word": "el té",
+    "translation": "chá",
+    "pronunciation": "/el te/",
+    "portuguesePhonetic": "[el té]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_25",
+    "word": "la miel",
+    "translation": "mel",
+    "pronunciation": "/la mjel/",
+    "portuguesePhonetic": "[la miél]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_26",
+    "word": "Desayuno cereales.",
+    "translation": "Eu como cereal no café da manhã.",
+    "pronunciation": "/desaˈʝuno θeɾeˈales/",
+    "portuguesePhonetic": "[desaiúno thereáles]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_27",
+    "word": "Tomo café con leche.",
+    "translation": "Eu tomo café com leite.",
+    "pronunciation": "/ˈtomo kaˈfe kon ˈletʃe/",
+    "portuguesePhonetic": "[tómo kafé kon létche]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_28",
+    "word": "Como tostadas con mantequilla.",
+    "translation": "Eu como torrada com manteiga.",
+    "pronunciation": "/ˈkomo tosˈtaðas kon manteˈkiʎa/",
+    "portuguesePhonetic": "[kómo tostádas kon mantekílha]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_29",
+    "word": "Pongo mermelada en el pan.",
+    "translation": "Eu passo geleia no pão.",
+    "pronunciation": "/ˈpoŋɡo meɾmeˈlaða en el pan/",
+    "portuguesePhonetic": "[póngo mermeláda en el pan]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_30",
+    "word": "También como un yogur.",
+    "translation": "Eu como um iogurte também.",
+    "pronunciation": "/tamˈbjen ˈkomo un ʝoˈɣuɾ/",
+    "portuguesePhonetic": "[también kómo un iogúr]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_31",
+    "word": "Como un bocadillo a mediodía.",
+    "translation": "Eu como um sanduíche no almoço.",
+    "pronunciation": "/ˈkomo un bokaˈðiʎo a meðjoˈðia/",
+    "portuguesePhonetic": "[kómo un bokadílho a mediodía]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_32",
+    "word": "El bocadillo es de jamón y queso.",
+    "translation": "O sanduíche é de presunto e queijo.",
+    "pronunciation": "/el bokaˈðiʎo es de xaˈmon i ˈkeso/",
+    "portuguesePhonetic": "[el bokadílho és de rramón i késo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_33",
+    "word": "Como un poco de fruta.",
+    "translation": "Eu como uma fruta.",
+    "pronunciation": "/ˈkomo un ˈpoko de ˈfɾuta/",
+    "portuguesePhonetic": "[kómo un póko de frúta]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_34",
+    "word": "Bebo zumo.",
+    "translation": "Eu tomo suco.",
+    "pronunciation": "/ˈbeβo ˈθumo/",
+    "portuguesePhonetic": "[bébo thúmo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_35",
+    "word": "Quiero merendar algo.",
+    "translation": "Eu quiero lanchar algo.",
+    "pronunciation": "/ˈkjeɾo meɾenˈdaɾ ˈalɣo/",
+    "portuguesePhonetic": "[kiéro merendár álgo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_36",
+    "word": "Como unas galletas.",
+    "translation": "Eu como uns biscoitos.",
+    "pronunciation": "/ˈkomo ˈunas ɡaˈʎetas/",
+    "portuguesePhonetic": "[kómo únas galhétas]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_37",
+    "word": "Abro una bolsa de patatas fritas.",
+    "translation": "Eu abro um pacote de batata frita.",
+    "pronunciation": "/ˈaβɾo una ˈbolsa de paˈtatas ˈfɾitas/",
+    "portuguesePhonetic": "[ábro úna bólsa de patátas frítas]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_38",
+    "word": "Como una chocolatina.",
+    "translation": "Eu como uma barra de chocolate.",
+    "pronunciation": "/ˈkomo una tʃokolaˈtina/",
+    "portuguesePhonetic": "[kómo úna tchokolatína]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_39",
+    "word": "Cenamos a las ocho.",
+    "translation": "Nós jantamos às oito.",
+    "pronunciation": "/θeˈnamos a las ˈotʃo/",
+    "portuguesePhonetic": "[thenámos a las ótcho]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_40",
+    "word": "Hago huevos para cenar.",
+    "translation": "Eu faço ovos no jantar.",
+    "pronunciation": "/ˈaɣo ˈweβos ˈpaɾa θeˈnaɾ/",
+    "portuguesePhonetic": "[águo uébos pára thenár]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_41",
+    "word": "Comemos pan con queso.",
+    "translation": "Nós comemos pão com queijo.",
+    "pronunciation": "/koˈmemos pan kon ˈkeso/",
+    "portuguesePhonetic": "[komémos pan kon késo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_42",
+    "word": "Hay tarta de postre.",
+    "translation": "Tem bolo de sobremesa.",
+    "pronunciation": "/ai ˈtaɾta de ˈpostɾe/",
+    "portuguesePhonetic": "[ái tárta de póstre]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_43",
+    "word": "Compro pan y leche.",
+    "translation": "Eu compro pão e leite.",
+    "pronunciation": "/ˈkompɾo pan i ˈletʃe/",
+    "portuguesePhonetic": "[kómpro pan i létche]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_44",
+    "word": "Necesitamos huevos y mantequilla.",
+    "translation": "Precisamos de ovos e manteiga.",
+    "pronunciation": "/neθesiˈtamos ˈweβos i manteˈkiʎa/",
+    "portuguesePhonetic": "[nethesitámos uébos i mantekílha]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_45",
+    "word": "El queso está fresco.",
+    "translation": "O queijo está fresco.",
+    "pronunciation": "/el ˈkeso esˈta ˈfɾesko/",
+    "portuguesePhonetic": "[el késo está frésko]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_46",
+    "word": "¿Quieres té?",
+    "translation": "Você quer um chá?",
+    "pronunciation": "/ˈkjeɾes te/",
+    "portuguesePhonetic": "[kiéres té]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_47",
+    "word": "Yo tomaré un café, por favor.",
+    "translation": "Vou querer um café, por favor.",
+    "pronunciation": "/ʝo tomaˈɾe un kaˈfe poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[io tomaré un kafé por fabór]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_48",
+    "word": "Esta tarta está deliciosa.",
+    "translation": "Este bolo está delicioso.",
+    "pronunciation": "/ˈesta ˈtaɾta esˈta deliˈθjosa/",
+    "portuguesePhonetic": "[ésta tárta está delithiósa]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_49",
+    "word": "Toma una galleta.",
+    "translation": "Pega um biscoito.",
+    "pronunciation": "/ˈtoma una ɡaˈʎeta/",
+    "portuguesePhonetic": "[tóma úna galhéta]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_50",
+    "word": "La fruta está muy dulce.",
+    "translation": "A fruta está bem doce.",
+    "pronunciation": "/la ˈfɾuta esˈta mui ˈdulθe/",
+    "portuguesePhonetic": "[la frúta está múi dúlthe]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_51",
+    "word": "Me gusta el queso.",
+    "translation": "Eu gosto de queijo.",
+    "pronunciation": "/me ˈɡusta el ˈkeso/",
+    "portuguesePhonetic": "[me gústa el késo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_52",
+    "word": "Ella come fruta.",
+    "translation": "Ela come fruta.",
+    "pronunciation": "/ˈeʎa ˈkome ˈfɾuta/",
+    "portuguesePhonetic": "[élha kóme frúta]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_53",
+    "word": "Bebemos café.",
+    "translation": "Nós tomamos café.",
+    "pronunciation": "/beˈβemos kaˈfe/",
+    "portuguesePhonetic": "[bebémos kafé]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_54",
+    "word": "Él quiere un bocadillo.",
+    "translation": "Ele quer um sanduíche.",
+    "pronunciation": "/el ˈkjeɾe un bokaˈðiʎo/",
+    "portuguesePhonetic": "[él kiére un bokadílho]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_55",
+    "word": "Normalmente desayuno huevos.",
+    "translation": "Eu geralmente como ovos no café da manhã.",
+    "pronunciation": "/noɾˈmalmente desaˈʝuno ˈweβos/",
+    "portuguesePhonetic": "[normalménte desaiúno uébos]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_56",
+    "word": "Ella no come pan.",
+    "translation": "Ela não come pão.",
+    "pronunciation": "/ˈeʎa no ˈkome pan/",
+    "portuguesePhonetic": "[élha no kóme pan]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_57",
+    "word": "¿Te gusta el yogur?",
+    "translation": "Você gosta de iogurte?",
+    "pronunciation": "/te ˈɡusta el ʝoˈɣuɾ/",
+    "portuguesePhonetic": "[te gústa el iogúr]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_58",
+    "word": "No hay mantequilla.",
+    "translation": "Não tem manteiga.",
+    "pronunciation": "/no ai manteˈkiʎa/",
+    "portuguesePhonetic": "[no ái mantekílha]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_59",
+    "word": "¿Qué comes a mediodía?",
+    "translation": "O que você come no almoço?",
+    "pronunciation": "/ke ˈkomes a meðjoˈðia/",
+    "portuguesePhonetic": "[ke kómes a mediodía]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_60",
+    "word": "¿Cuántos huevos quieres?",
+    "translation": "Quantos ovos você quer?",
+    "pronunciation": "/ˈkwantos ˈweβos ˈkjeɾes/",
+    "portuguesePhonetic": "[kuántos uébos kiéres]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_61",
+    "word": "No me gusta mucho el jamón.",
+    "translation": "Eu não gosto muito de presunto.",
+    "pronunciation": "/no me ˈɡusta ˈmutʃo el xaˈmon/",
+    "portuguesePhonetic": "[no me gústa mútcho el rramón]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_62",
+    "word": "¿Queda algo de tarta?",
+    "translation": "Sobrou bolo?",
+    "pronunciation": "/ˈkeða ˈalɣo de ˈtaɾta/",
+    "portuguesePhonetic": "[kéda álgo de tárta]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_63",
+    "word": "Como tostadas porque me encanta la mantequilla.",
+    "translation": "Eu como torrada porque adoro manteiga.",
+    "pronunciation": "/ˈkomo tosˈtaðas ˈpoɾke me eŋˈkanta la manteˈkiʎa/",
+    "portuguesePhonetic": "[kómo tostádas pórke me enkánta la mantekílha]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_64",
+    "word": "Está haciendo un bocadillo ahora.",
+    "translation": "Ela está fazendo um sanduíche agora.",
+    "pronunciation": "/esˈta aˈθjendo un bokaˈðiʎo aˈoɾa/",
+    "portuguesePhonetic": "[está athiéndo un bokadílho aóra]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_65",
+    "word": "Ayer comimos tarta en la fiesta.",
+    "translation": "Nós comemos bolo na festa ontem.",
+    "pronunciation": "/aˈʝeɾ koˈmimos ˈtaɾta en la ˈfjesta/",
+    "portuguesePhonetic": "[aiér komímos tárta en la fiésta]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_66",
+    "word": "Estaba comiendo cereales cuando llamaste.",
+    "translation": "Eu estava comendo cereal quando você ligou.",
+    "pronunciation": "/esˈtaβa koˈmjendo θeɾeˈales ˈkwando ʎaˈmaste/",
+    "portuguesePhonetic": "[estába komiéndo thereáles kuándo lhamáste]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_67",
+    "word": "Compró pan, queso y jamón.",
+    "translation": "Ele comprou pão, queijo e presunto.",
+    "pronunciation": "/komˈpɾo pan ˈkeso i xaˈmon/",
+    "portuguesePhonetic": "[kompró pan késo i rramón]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_68",
+    "word": "Siempre desayuno mucho, pero ceno poco.",
+    "translation": "Eu sempre tomo um café da manhã reforçado, mas janto pouco.",
+    "pronunciation": "/ˈsjempɾe desaˈʝuno ˈmutʃo ˈpeɾo ˈθeno ˈpoko/",
+    "portuguesePhonetic": "[siémpre desaiúno mútcho péro théno póko]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_69",
+    "word": "No come chocolatinas porque son demasiado dulces.",
+    "translation": "Ela não come barras de chocolate porque são muito doces.",
+    "pronunciation": "/no ˈkome tʃokolaˈtinas ˈpoɾke son demaˈsjaðo ˈdulθes/",
+    "portuguesePhonetic": "[no kóme tchokolatínas pórke son demasiádo dúlthes]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_70",
+    "word": "Si tienes hambre, come fruta o un yogur.",
+    "translation": "Se você está com fome, coma uma fruta ou um iogurte.",
+    "pronunciation": "/si ˈtjenes ˈambɾe ˈkome ˈfɾuta o un ʝoˈɣuɾ/",
+    "portuguesePhonetic": "[si tiénes âmbre kóme frúta o un iogúr]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_71",
+    "word": "¿Quieres café o té con la tarta?",
+    "translation": "Você quer café ou chá com o bolo?",
+    "pronunciation": "/ˈkjeɾes kaˈfe o te kon la ˈtaɾta/",
+    "portuguesePhonetic": "[kiéres kafé o té kon la tárta]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_72",
+    "word": "Normalmente comemos huevos y tostadas, pero hoy comimos cereales.",
+    "translation": "Geralmente comemos ovos e torrada, mas hoje comemos cereal.",
+    "pronunciation": "/noɾˈmalmente koˈmemos ˈweβos i tosˈtaðas ˈpeɾo oi koˈmimos θeɾeˈales/",
+    "portuguesePhonetic": "[normalménte komémos uébos i tostádas péro ôi komímos thereáles]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_73",
+    "word": "Después de comer, me gusta tomar algo dulce, como una galleta.",
+    "translation": "Depois do almoço, gosto de comer algo doce, como um biscoito.",
+    "pronunciation": "/desˈpwes de koˈmeɾ me ˈɡusta toˈmaɾ ˈalɣo ˈdulθe ˈkomo una ɡaˈʎeta/",
+    "portuguesePhonetic": "[después de komér me gústa tomár álgo dúlthe kómo úna galhéta]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_74",
+    "word": "¿Prefieres un bocadillo de jamón o de queso?",
+    "translation": "Você prefere um sanduíche de presunto ou de queijo?",
+    "pronunciation": "/pɾeˈfjeɾes un bokaˈðiʎo de xaˈmon o de ˈkeso/",
+    "portuguesePhonetic": "[prefiéres un bokadílho de rramón o de késo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_75",
+    "word": "No había leche, así que comí los cereales con yogur.",
+    "translation": "Não tinha leite, então comi o cereal com iogurte.",
+    "pronunciation": "/no aˈβia ˈletʃe aˈsi ke koˈmi los θeɾeˈales kon ʝoˈɣuɾ/",
+    "portuguesePhonetic": "[no abía létche así ke komí los thereáles kon iogúr]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_76",
+    "word": "¿Qué quieres para desayunar?» / «Cereales, por favor.»",
+    "translation": "\"O que você quer no café?\" / \"Cereal, por favor.\"",
+    "pronunciation": "/ke ˈkjeɾes ˈpaɾa desaʝuˈnaɾ · θeɾeˈales poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[ke kiéres pára desaiunár · thereáles por fabór]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_77",
+    "word": "¿Te gusta el queso?» / «Sí, me encanta.»",
+    "translation": "\"Você gosta de queijo?\" / \"Sim, eu adoro.\"",
+    "pronunciation": "/te ˈɡusta el ˈkeso · si me eŋˈkanta/",
+    "portuguesePhonetic": "[te gústa el késo · sí me enkánta]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_78",
+    "word": "¿Hay pan?» / «Sí, en la mesa.»",
+    "translation": "\"Tem pão?\" / \"Sim, na mesa.\"",
+    "pronunciation": "/ai pan · si en la ˈmesa/",
+    "portuguesePhonetic": "[ái pan · sí en la mésa]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_79",
+    "word": "¿Qué lleva el bocadillo?» / «Jamón y queso.»",
+    "translation": "\"O que tem no sanduíche?\" / \"Presunto e queijo.\"",
+    "pronunciation": "/ke ˈʎeβa el bokaˈðiʎo · xaˈmon i ˈkeso/",
+    "portuguesePhonetic": "[ke lhéba el bokadílho · rramón i késo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_80",
+    "word": "¿Quieres merendar algo?» / «Sí, un poco de fruta.»",
+    "translation": "\"Você quer lanchar algo?\" / \"Sim, uma fruta.\"",
+    "pronunciation": "/ˈkjeɾes meɾenˈdaɾ ˈalɣo · si un ˈpoko de ˈfɾuta/",
+    "portuguesePhonetic": "[kiéres merendár álgo · sí un póko de frúta]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_81",
+    "word": "¿Café o té?» / «Café, por favor.»",
+    "translation": "\"Café ou chá?\" / \"Café, por favor.\"",
+    "pronunciation": "/kaˈfe o te · kaˈfe poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[kafé o té · kafé por fabór]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_82",
+    "word": "¿Cuántos huevos?» / «Dos, por favor.»",
+    "translation": "\"Quantos ovos?\" / \"Dois, por favor.\"",
+    "pronunciation": "/ˈkwantos ˈweβos · dos poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[kuántos uébos · dos por fabór]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_83",
+    "word": "¿Cenáis tarde?» / «Sí, sobre las nueve.»",
+    "translation": "\"Vocês jantam tarde?\" / \"Sim, por volta das nove.\"",
+    "pronunciation": "/θeˈnais ˈtaɾðe · si ˈsoβɾe las ˈnweβe/",
+    "portuguesePhonetic": "[thenáis tárde · sí sóbre las nuébe]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_84",
+    "word": "¿Está buena la tarta?» / «Sí, deliciosa.»",
+    "translation": "\"O bolo está bom?\" / \"Sim, delicioso.\"",
+    "pronunciation": "/esˈta ˈbwena la ˈtaɾta · si deliˈθjosa/",
+    "portuguesePhonetic": "[está buéna la tárta · sí delithiósa]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_85",
+    "word": "¿Quieres mantequilla en la tostada?» / «Sí, por favor.»",
+    "translation": "\"Você quer manteiga na torrada?\" / \"Sim, por favor.\"",
+    "pronunciation": "/ˈkjeɾes manteˈkiʎa en la tosˈtaða · si poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[kiéres mantekílha en la tostáda · sí por fabór]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_86",
+    "word": "¿Qué hay para comer?» / «Un bocadillo.»",
+    "translation": "\"O que tem pro almoço?\" / \"Um sanduíche.\"",
+    "pronunciation": "/ke ai ˈpaɾa koˈmeɾ · un bokaˈðiʎo/",
+    "portuguesePhonetic": "[ke ái pára komér · un bokadílho]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_87",
+    "word": "¿Te gusta el yogur?» / «No mucho.»",
+    "translation": "\"Você gosta de iogurte?\" / \"Nem tanto.\"",
+    "pronunciation": "/te ˈɡusta el ʝoˈɣuɾ · no ˈmutʃo/",
+    "portuguesePhonetic": "[te gústa el iogúr · no mútcho]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_88",
+    "word": "¿Puedo coger una galleta?» / «Claro, coge una.»",
+    "translation": "\"Posso pegar um biscoito?\" / \"Claro, pega um.\"",
+    "pronunciation": "/ˈpweðo koˈxeɾ una ɡaˈʎeta · ˈklaɾo ˈkoxe una/",
+    "portuguesePhonetic": "[puédo korrér úna galhéta · kláro kórre úna]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_89",
+    "word": "¿Hay mermelada?» / «Sí, de fresa.»",
+    "translation": "\"Tem geleia?\" / \"Sim, de morango.\"",
+    "pronunciation": "/ai meɾmeˈlaða · si de ˈfɾesa/",
+    "portuguesePhonetic": "[ái mermeláda · sí de frésa]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_90",
+    "word": "¿Qué bebes por la mañana?» / «Zumo.»",
+    "translation": "\"O que você bebe de manhã?\" / \"Suco.\"",
+    "pronunciation": "/ke ˈbeβes poɾ la maˈɲana · ˈθumo/",
+    "portuguesePhonetic": "[ke bébes por la manhána · thúmo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_91",
+    "word": "¿Quieres patatas fritas?» / «Sí, tengo hambre.»",
+    "translation": "\"Você quer batata frita?\" / \"Sim, estou com fome.\"",
+    "pronunciation": "/ˈkjeɾes paˈtatas ˈfɾitas · si ˈteŋɡo ˈambɾe/",
+    "portuguesePhonetic": "[kiéres patátas frítas · sí téngo âmbre]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_92",
+    "word": "¿Dónde está el queso?» / «En la nevera.»",
+    "translation": "\"Onde está o queijo?\" / \"Na geladeira.\"",
+    "pronunciation": "/ˈdonde esˈta el ˈkeso · en la neˈβeɾa/",
+    "portuguesePhonetic": "[dônde está el késo · en la nebéra]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_93",
+    "word": "¿Desayunas cada día?» / «Sí, siempre.»",
+    "translation": "\"Você toma café todo dia?\" / \"Sim, sempre.\"",
+    "pronunciation": "/desaˈʝunas ˈkaða ˈdia · si ˈsjempɾe/",
+    "portuguesePhonetic": "[desaiúnas káda día · sí siémpre]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_94",
+    "word": "¿Cuál es tu merienda favorita?» / «Una chocolatina.»",
+    "translation": "\"Qual é seu lanche favorito?\" / \"Uma barra de chocolate.\"",
+    "pronunciation": "/kwal es tu meˈɾjenda faβoˈɾita · una tʃokolaˈtina/",
+    "portuguesePhonetic": "[kuál és tu meriénda faboríta · úna tchokolatína]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_95",
+    "word": "¿Está fresca la fruta?» / «Sí, muy fresca.»",
+    "translation": "\"A fruta está fresca?\" / \"Sim, bem fresca.\"",
+    "pronunciation": "/esˈta ˈfɾeska la ˈfɾuta · si mui ˈfɾeska/",
+    "portuguesePhonetic": "[está fréska la frúta · sí múi fréska]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_96",
+    "word": "¿Quieres leche en el café?» / «No, solo, por favor.»",
+    "translation": "\"Você quer leite no café?\" / \"Não, puro, por favor.\"",
+    "pronunciation": "/ˈkjeɾes ˈletʃe en el kaˈfe · no ˈsolo poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[kiéres létche en el kafé · no sólo por fabór]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_97",
+    "word": "¿A qué hora es la cena?» / «A las ocho.»",
+    "translation": "\"A que horas é o jantar?\" / \"Às oito.\"",
+    "pronunciation": "/a ke ˈoɾa es la ˈθena · a las ˈotʃo/",
+    "portuguesePhonetic": "[a ke óra és la théna · a las ótcho]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_98",
+    "word": "¿Prefieres algo dulce o salado?» / «Dulce.»",
+    "translation": "\"Você prefere algo doce ou salgado?\" / \"Doce.\"",
+    "pronunciation": "/pɾeˈfjeɾes ˈalɣo ˈdulθe o saˈlaðo · ˈdulθe/",
+    "portuguesePhonetic": "[prefiéres álgo dúlthe o saládo · dúlthe]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_99",
+    "word": "¿Hay jamón en la nevera?» / «No, se ha acabado.»",
+    "translation": "\"Tem presunto na geladeira?\" / \"Não, acabou.\"",
+    "pronunciation": "/ai xaˈmon en la neˈβeɾa · no se a akaˈβaðo/",
+    "portuguesePhonetic": "[ái rramón en la nebéra · no se a akabádo]"
+  },
+  {
+    "id": "leccion_7_vocabulario_a1_s_es_card_100",
+    "word": "¿Quieres un poco de tarta?» / «Sí, un trozo pequeño.»",
+    "translation": "\"Você quer um pouco de bolo?\" / \"Sim, um pedaço pequeno.\"",
+    "pronunciation": "/ˈkjeɾes un ˈpoko de ˈtaɾta · si un ˈtɾoθo peˈkeɲo/",
+    "portuguesePhonetic": "[kiéres un póko de tárta · sí un trótho pekénho]"
+  }
+]

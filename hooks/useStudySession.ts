@@ -101,49 +101,49 @@ export const useStudySession = () => {
     
     // Safety timeout to allow flip animation
     setTimeout(() => {
-      setSession(prev => {
-        if (!prev) return null;
+      const prev = sessionRef.current;
+      if (!prev) return;
         
-        const currentCard = prev.cards[prev.currentIndex];
-        const isLastCard = prev.currentIndex >= prev.cards.length - 1;
-        const key = `${prev.topicId}_${prev.language}`;
-        const staticTopic = PREDEFINED_TOPICS.find(t => t.id === prev.topicId);
-        const isStatic = staticTopic?.isStatic === true;
-        const trackValue = isStatic ? currentCard.id : currentCard.word;
+      const currentCard = prev.cards[prev.currentIndex];
+      const isLastCard = prev.currentIndex >= prev.cards.length - 1;
+      const key = `${prev.topicId}_${prev.language}`;
+      const staticTopic = PREDEFINED_TOPICS.find(t => t.id === prev.topicId);
+      const isStatic = staticTopic?.isStatic === true;
+      const trackValue = isStatic ? currentCard.id : currentCard.word;
 
-        if (known) {
-          setTopicWords(words => {
-            const currentHistory = words[key] || [];
-            if (!currentHistory.includes(trackValue)) {
-              return { ...words, [key]: [...currentHistory, trackValue] };
-            }
-            return words;
-          });
-        }
+      if (known) {
+        setTopicWords(words => {
+          const currentHistory = words[key] || [];
+          if (!currentHistory.includes(trackValue)) {
+            return { ...words, [key]: [...currentHistory, trackValue] };
+          }
+          return words;
+        });
+      }
 
-        const nextSessionState = {
-          ...prev,
-          currentIndex: prev.currentIndex + 1
-        };
+      const nextSessionState = {
+        ...prev,
+        currentIndex: prev.currentIndex + 1
+      };
 
-        if (isLastCard) {
-          setActiveSessions(sessions => {
-            const newSessions = { ...sessions };
-            delete newSessions[key];
-            return newSessions;
-          });
+      if (isLastCard) {
+        setActiveSessions(sessions => {
+          const newSessions = { ...sessions };
+          delete newSessions[key];
+          return newSessions;
+        });
 
-          setAppState(AppState.SUMMARY);
-          return nextSessionState;
-        }
+        setSession(nextSessionState);
+        setAppState(AppState.SUMMARY);
+        return;
+      }
 
-        setActiveSessions(sessions => ({
-          ...sessions,
-          [key]: nextSessionState
-        }));
+      setActiveSessions(sessions => ({
+        ...sessions,
+        [key]: nextSessionState
+      }));
 
-        return nextSessionState;
-      });
+      setSession(nextSessionState);
     }, 150);
   }, [setTopicWords, setActiveSessions]);
 
@@ -153,37 +153,36 @@ export const useStudySession = () => {
     setIsCardFlipped(false);
     
     setTimeout(() => {
-      setSession(prev => {
-        if (!prev || prev.currentIndex === 0) return prev;
+      const prev = sessionRef.current;
+      if (!prev || prev.currentIndex === 0) return;
         
-        const nextIndex = prev.currentIndex - 1;
-        const prevCard = prev.cards[nextIndex];
-        const key = `${prev.topicId}_${prev.language}`;
-        
-        const staticTopic = PREDEFINED_TOPICS.find(t => t.id === prev.topicId);
-        const isStatic = staticTopic?.isStatic === true;
-        const trackValue = isStatic ? prevCard.id : prevCard.word;
+      const nextIndex = prev.currentIndex - 1;
+      const prevCard = prev.cards[nextIndex];
+      const key = `${prev.topicId}_${prev.language}`;
+      
+      const staticTopic = PREDEFINED_TOPICS.find(t => t.id === prev.topicId);
+      const isStatic = staticTopic?.isStatic === true;
+      const trackValue = isStatic ? prevCard.id : prevCard.word;
 
-        setTopicWords(words => {
-          const existing = words[key] || [];
-          return {
-            ...words,
-            [key]: existing.filter(w => w !== trackValue)
-          };
-        });
-        
-        const nextSessionState = {
-          ...prev,
-          currentIndex: nextIndex
+      setTopicWords(words => {
+        const existing = words[key] || [];
+        return {
+          ...words,
+          [key]: existing.filter(w => w !== trackValue)
         };
-
-        setActiveSessions(sessions => ({
-          ...sessions,
-          [key]: nextSessionState
-        }));
-
-        return nextSessionState;
       });
+      
+      const nextSessionState = {
+        ...prev,
+        currentIndex: nextIndex
+      };
+
+      setActiveSessions(sessions => ({
+        ...sessions,
+        [key]: nextSessionState
+      }));
+
+      setSession(nextSessionState);
     }, 150);
   }, [setTopicWords, setActiveSessions]);
 

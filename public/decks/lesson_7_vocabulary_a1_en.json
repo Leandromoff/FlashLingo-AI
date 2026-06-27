@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_1",
+    "word": "meals",
+    "translation": "refeições",
+    "pronunciation": "/miːlz/",
+    "portuguesePhonetic": "[míouz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_2",
+    "word": "breakfast",
+    "translation": "café da manhã",
+    "pronunciation": "/ˈbrɛkfəst/",
+    "portuguesePhonetic": "[brékfest]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_3",
+    "word": "lunch",
+    "translation": "almoço",
+    "pronunciation": "/lʌntʃ/",
+    "portuguesePhonetic": "[lântch]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_4",
+    "word": "dinner",
+    "translation": "jantar",
+    "pronunciation": "/ˈdɪnər/",
+    "portuguesePhonetic": "[díner]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_5",
+    "word": "snack",
+    "translation": "lanche",
+    "pronunciation": "/snæk/",
+    "portuguesePhonetic": "[snék]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_6",
+    "word": "cereal",
+    "translation": "cereal",
+    "pronunciation": "/ˈsɪriəl/",
+    "portuguesePhonetic": "[sírial]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_7",
+    "word": "bread",
+    "translation": "pão",
+    "pronunciation": "/brɛd/",
+    "portuguesePhonetic": "[bréd]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_8",
+    "word": "cheese",
+    "translation": "queijo",
+    "pronunciation": "/tʃiːz/",
+    "portuguesePhonetic": "[tchíz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_9",
+    "word": "ham",
+    "translation": "presunto",
+    "pronunciation": "/hæm/",
+    "portuguesePhonetic": "[rrém]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_10",
+    "word": "eggs",
+    "translation": "ovos",
+    "pronunciation": "/ɛɡz/",
+    "portuguesePhonetic": "[égz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_11",
+    "word": "toast",
+    "translation": "torrada",
+    "pronunciation": "/toʊst/",
+    "portuguesePhonetic": "[tôust]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_12",
+    "word": "butter",
+    "translation": "manteiga",
+    "pronunciation": "/ˈbʌtər/",
+    "portuguesePhonetic": "[bâter]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_13",
+    "word": "jam",
+    "translation": "geleia",
+    "pronunciation": "/dʒæm/",
+    "portuguesePhonetic": "[djém]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_14",
+    "word": "yogurt",
+    "translation": "iogurte",
+    "pronunciation": "/ˈjoʊɡərt/",
+    "portuguesePhonetic": "[iôugurt]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_15",
+    "word": "fruit",
+    "translation": "fruta",
+    "pronunciation": "/fruːt/",
+    "portuguesePhonetic": "[frút]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_16",
+    "word": "chips",
+    "translation": "batata frita (de pacote) (US; UK: crisps)",
+    "pronunciation": "/tʃɪps/",
+    "portuguesePhonetic": "[tchíps]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_17",
+    "word": "cookies",
+    "translation": "biscoitos (US; UK: biscuits)",
+    "pronunciation": "/ˈkʊkiz/",
+    "portuguesePhonetic": "[kúkiz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_18",
+    "word": "sandwich",
+    "translation": "sanduíche",
+    "pronunciation": "/ˈsænwɪtʃ/",
+    "portuguesePhonetic": "[sénuitch]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_19",
+    "word": "cake",
+    "translation": "bolo",
+    "pronunciation": "/keɪk/",
+    "portuguesePhonetic": "[kêik]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_20",
+    "word": "candy bar",
+    "translation": "barra de chocolate",
+    "pronunciation": "/ˈkændi bɑːr/",
+    "portuguesePhonetic": "[kéndi bár]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_21",
+    "word": "coffee",
+    "translation": "café",
+    "pronunciation": "/ˈkɔːfi/",
+    "portuguesePhonetic": "[kófi]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_22",
+    "word": "milk",
+    "translation": "leite",
+    "pronunciation": "/mɪlk/",
+    "portuguesePhonetic": "[míouk]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_23",
+    "word": "juice",
+    "translation": "suco",
+    "pronunciation": "/dʒuːs/",
+    "portuguesePhonetic": "[djús]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_24",
+    "word": "tea",
+    "translation": "chá",
+    "pronunciation": "/tiː/",
+    "portuguesePhonetic": "[tí]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_25",
+    "word": "honey",
+    "translation": "mel",
+    "pronunciation": "/ˈhʌni/",
+    "portuguesePhonetic": "[rrâni]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_26",
+    "word": "I have cereal for breakfast.",
+    "translation": "Eu como cereal no café da manhã.",
+    "pronunciation": "/aɪ hæv ˈsɪriəl fɔːr ˈbrɛkfəst/",
+    "portuguesePhonetic": "[ái rrév sírial fór brékfest]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_27",
+    "word": "I drink coffee with milk.",
+    "translation": "Eu tomo café com leite.",
+    "pronunciation": "/aɪ drɪŋk ˈkɔːfi wɪð mɪlk/",
+    "portuguesePhonetic": "[ái drínk kófi uídh míouk]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_28",
+    "word": "I eat toast with butter.",
+    "translation": "Eu como torrada com manteiga.",
+    "pronunciation": "/aɪ iːt toʊst wɪð ˈbʌtər/",
+    "portuguesePhonetic": "[ái ít tôust uídh bâter]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_29",
+    "word": "I put jam on my bread.",
+    "translation": "Eu passo geleia no pão.",
+    "pronunciation": "/aɪ pʊt dʒæm ɑːn maɪ brɛd/",
+    "portuguesePhonetic": "[ái pút djém ón mái bréd]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_30",
+    "word": "I have a yogurt too.",
+    "translation": "Eu como um iogurte também.",
+    "pronunciation": "/aɪ hæv ə ˈjoʊɡərt tuː/",
+    "portuguesePhonetic": "[ái rrév a iôugurt tú]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_31",
+    "word": "I have a sandwich for lunch.",
+    "translation": "Eu como um sanduíche no almoço.",
+    "pronunciation": "/aɪ hæv ə ˈsænwɪtʃ fɔːr lʌntʃ/",
+    "portuguesePhonetic": "[ái rrév a sénuitch fór lântch]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_32",
+    "word": "The sandwich has ham and cheese.",
+    "translation": "O sanduíche tem presunto e queijo.",
+    "pronunciation": "/ðə ˈsænwɪtʃ hæz hæm ænd tʃiːz/",
+    "portuguesePhonetic": "[dha sénuitch rréz rrém énd tchíz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_33",
+    "word": "I eat some fruit.",
+    "translation": "Eu como uma fruta.",
+    "pronunciation": "/aɪ iːt sʌm fruːt/",
+    "portuguesePhonetic": "[ái ít sâm frút]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_34",
+    "word": "I drink juice.",
+    "translation": "Eu tomo suco.",
+    "pronunciation": "/aɪ drɪŋk dʒuːs/",
+    "portuguesePhonetic": "[ái drínk djús]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_35",
+    "word": "I want a snack.",
+    "translation": "Eu quero um lanche.",
+    "pronunciation": "/aɪ wɑːnt ə snæk/",
+    "portuguesePhonetic": "[ái uánt a snék]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_36",
+    "word": "I eat some cookies.",
+    "translation": "Eu como uns biscoitos.",
+    "pronunciation": "/aɪ iːt sʌm ˈkʊkiz/",
+    "portuguesePhonetic": "[ái ít sâm kúkiz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_37",
+    "word": "I open a bag of chips.",
+    "translation": "Eu abro um pacote de batata frita.",
+    "pronunciation": "/aɪ ˈoʊpən ə bæɡ əv tʃɪps/",
+    "portuguesePhonetic": "[ái ôupan a bég ov tchíps]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_38",
+    "word": "I have a candy bar.",
+    "translation": "Eu como uma barra de chocolate.",
+    "pronunciation": "/aɪ hæv ə ˈkændi bɑːr/",
+    "portuguesePhonetic": "[ái rrév a kéndi bár]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_39",
+    "word": "We have dinner at eight.",
+    "translation": "Nós jantamos às oito.",
+    "pronunciation": "/wiː hæv ˈdɪnər æt eɪt/",
+    "portuguesePhonetic": "[uí rrév díner ét êit]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_40",
+    "word": "I cook eggs for dinner.",
+    "translation": "Eu faço ovos no jantar.",
+    "pronunciation": "/aɪ kʊk ɛɡz fɔːr ˈdɪnər/",
+    "portuguesePhonetic": "[ái kúk égz fór díner]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_41",
+    "word": "We eat bread with cheese.",
+    "translation": "Nós comemos pão com queijo.",
+    "pronunciation": "/wiː iːt brɛd wɪð tʃiːz/",
+    "portuguesePhonetic": "[uí ít bréd uídh tchíz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_42",
+    "word": "There is cake for dessert.",
+    "translation": "Tem bolo de sobremesa.",
+    "pronunciation": "/ðɛr ɪz keɪk fɔːr dɪˈzɜːrt/",
+    "portuguesePhonetic": "[dhér iz kêik fór dizârt]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_43",
+    "word": "I buy bread and milk.",
+    "translation": "Eu compro pão e leite.",
+    "pronunciation": "/aɪ baɪ brɛd ænd mɪlk/",
+    "portuguesePhonetic": "[ái bái bréd énd míouk]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_44",
+    "word": "We need eggs and butter.",
+    "translation": "Precisamos de ovos e manteiga.",
+    "pronunciation": "/wiː niːd ɛɡz ænd ˈbʌtər/",
+    "portuguesePhonetic": "[uí níd égz énd bâter]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_45",
+    "word": "The cheese is fresh.",
+    "translation": "O queijo está fresco.",
+    "pronunciation": "/ðə tʃiːz ɪz frɛʃ/",
+    "portuguesePhonetic": "[dha tchíz iz fréch]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_46",
+    "word": "Do you want some tea?",
+    "translation": "Você quer um chá?",
+    "pronunciation": "/duː juː wɑːnt sʌm tiː/",
+    "portuguesePhonetic": "[dú iú uánt sâm tí]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_47",
+    "word": "I'll have a coffee, please.",
+    "translation": "Vou querer um café, por favor.",
+    "pronunciation": "/aɪl hæv ə ˈkɔːfi pliːz/",
+    "portuguesePhonetic": "[áiou rrév a kófi plíz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_48",
+    "word": "This cake is delicious.",
+    "translation": "Este bolo está delicioso.",
+    "pronunciation": "/ðɪs keɪk ɪz dɪˈlɪʃəs/",
+    "portuguesePhonetic": "[dhís kêik iz delíchas]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_49",
+    "word": "Have a cookie.",
+    "translation": "Pega um biscoito.",
+    "pronunciation": "/hæv ə ˈkʊki/",
+    "portuguesePhonetic": "[rrév a kúki]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_50",
+    "word": "The fruit is very sweet.",
+    "translation": "A fruta está bem doce.",
+    "pronunciation": "/ðə fruːt ɪz ˈvɛri swiːt/",
+    "portuguesePhonetic": "[dha frút iz véri suít]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_51",
+    "word": "I like cheese.",
+    "translation": "Eu gosto de queijo.",
+    "pronunciation": "/aɪ laɪk tʃiːz/",
+    "portuguesePhonetic": "[ái láik tchíz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_52",
+    "word": "She eats fruit.",
+    "translation": "Ela come fruta.",
+    "pronunciation": "/ʃiː iːts fruːt/",
+    "portuguesePhonetic": "[chí íts frút]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_53",
+    "word": "We drink coffee.",
+    "translation": "Nós tomamos café.",
+    "pronunciation": "/wiː drɪŋk ˈkɔːfi/",
+    "portuguesePhonetic": "[uí drínk kófi]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_54",
+    "word": "He wants a sandwich.",
+    "translation": "Ele quer um sanduíche.",
+    "pronunciation": "/hiː wɑːnts ə ˈsænwɪtʃ/",
+    "portuguesePhonetic": "[rrí uánts a sénuitch]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_55",
+    "word": "I usually have eggs for breakfast.",
+    "translation": "Eu geralmente como ovos no café da manhã.",
+    "pronunciation": "/aɪ ˈjuːʒuəli hæv ɛɡz fɔːr ˈbrɛkfəst/",
+    "portuguesePhonetic": "[ái iújuali rrév égz fór brékfest]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_56",
+    "word": "She doesn't eat bread.",
+    "translation": "Ela não come pão.",
+    "pronunciation": "/ʃiː ˈdʌznt iːt brɛd/",
+    "portuguesePhonetic": "[chí dâznt ít bréd]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_57",
+    "word": "Do you like yogurt?",
+    "translation": "Você gosta de iogurte?",
+    "pronunciation": "/duː juː laɪk ˈjoʊɡərt/",
+    "portuguesePhonetic": "[dú iú láik iôugurt]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_58",
+    "word": "There isn't any butter.",
+    "translation": "Não tem manteiga.",
+    "pronunciation": "/ðɛr ˈɪznt ˈɛni ˈbʌtər/",
+    "portuguesePhonetic": "[dhér íznt éni bâter]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_59",
+    "word": "What do you have for lunch?",
+    "translation": "O que você come no almoço?",
+    "pronunciation": "/wʌt duː juː hæv fɔːr lʌntʃ/",
+    "portuguesePhonetic": "[uât dú iú rrév fór lântch]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_60",
+    "word": "How many eggs do you want?",
+    "translation": "Quantos ovos você quer?",
+    "pronunciation": "/haʊ ˈmɛni ɛɡz duː juː wɑːnt/",
+    "portuguesePhonetic": "[rráu méni égz dú iú uánt]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_61",
+    "word": "I don't like ham very much.",
+    "translation": "Eu não gosto muito de presunto.",
+    "pronunciation": "/aɪ doʊnt laɪk hæm ˈvɛri mʌtʃ/",
+    "portuguesePhonetic": "[ái dôunt láik rrém véri mâtch]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_62",
+    "word": "Is there any cake left?",
+    "translation": "Sobrou bolo?",
+    "pronunciation": "/ɪz ðɛr ˈɛni keɪk lɛft/",
+    "portuguesePhonetic": "[iz dhér éni kêik léft]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_63",
+    "word": "I eat toast because I love butter.",
+    "translation": "Eu como torrada porque adoro manteiga.",
+    "pronunciation": "/aɪ iːt toʊst bɪˈkɔːz aɪ lʌv ˈbʌtər/",
+    "portuguesePhonetic": "[ái ít tôust bikóz ái lâv bâter]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_64",
+    "word": "She is making a sandwich now.",
+    "translation": "Ela está fazendo um sanduíche agora.",
+    "pronunciation": "/ʃiː ɪz ˈmeɪkɪŋ ə ˈsænwɪtʃ naʊ/",
+    "portuguesePhonetic": "[chí iz mêikin a sénuitch náu]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_65",
+    "word": "We had cake at the party yesterday.",
+    "translation": "Nós comemos bolo na festa ontem.",
+    "pronunciation": "/wiː hæd keɪk æt ðə ˈpɑːrti ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[uí rréd kêik ét dha párti iéster dei]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_66",
+    "word": "I was eating cereal when you called.",
+    "translation": "Eu estava comendo cereal quando você ligou.",
+    "pronunciation": "/aɪ wəz ˈiːtɪŋ ˈsɪriəl wɛn juː kɔːld/",
+    "portuguesePhonetic": "[ái uâz ítin sírial uén iú kóld]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_67",
+    "word": "He bought bread, cheese, and ham.",
+    "translation": "Ele comprou pão, queijo e presunto.",
+    "pronunciation": "/hiː bɔːt brɛd tʃiːz ænd hæm/",
+    "portuguesePhonetic": "[rrí bót bréd tchíz énd rrém]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_68",
+    "word": "I always have a big breakfast, but a light dinner.",
+    "translation": "Eu sempre tomo um café da manhã reforçado, mas um jantar leve.",
+    "pronunciation": "/aɪ ˈɔːlweɪz hæv ə bɪɡ ˈbrɛkfəst bʌt ə laɪt ˈdɪnər/",
+    "portuguesePhonetic": "[ái ólueiz rrév a bíg brékfest bât a láit díner]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_69",
+    "word": "She doesn't eat candy bars because they are too sweet.",
+    "translation": "Ela não come barras de chocolate porque são muito doces.",
+    "pronunciation": "/ʃiː ˈdʌznt iːt ˈkændi bɑːrz bɪˈkɔːz ðeɪ ɑːr tuː swiːt/",
+    "portuguesePhonetic": "[chí dâznt ít kéndi bárz bikóz dhêi ár tú suít]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_70",
+    "word": "If you're hungry, have some fruit or a yogurt.",
+    "translation": "Se você está com fome, coma uma fruta ou um iogurte.",
+    "pronunciation": "/ɪf jʊr ˈhʌŋɡri hæv sʌm fruːt ɔːr ə ˈjoʊɡərt/",
+    "portuguesePhonetic": "[if iór râNgri rrév sâm frút ór a iôugurt]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_71",
+    "word": "Would you like coffee or tea with your cake?",
+    "translation": "Você quer café ou chá com o seu bolo?",
+    "pronunciation": "/wʊd juː laɪk ˈkɔːfi ɔːr tiː wɪð jɔːr keɪk/",
+    "portuguesePhonetic": "[uúd iú láik kófi ór tí uídh iór kêik]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_72",
+    "word": "We usually eat eggs and toast, but today we had cereal.",
+    "translation": "Geralmente comemos ovos e torrada, mas hoje comemos cereal.",
+    "pronunciation": "/wiː ˈjuːʒuəli iːt ɛɡz ænd toʊst bʌt təˈdeɪ wiː hæd ˈsɪriəl/",
+    "portuguesePhonetic": "[uí iújuali ít égz énd tôust bât tudêi uí rréd sírial]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_73",
+    "word": "After lunch, I like to have something sweet, like a cookie.",
+    "translation": "Depois do almoço, eu gosto de comer algo doce, como um biscoito.",
+    "pronunciation": "/ˈæftər lʌntʃ aɪ laɪk tə hæv ˈsʌmθɪŋ swiːt laɪk ə ˈkʊki/",
+    "portuguesePhonetic": "[éfter lântch ái láik tu rrév sâmthin suít láik a kúki]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_74",
+    "word": "Do you prefer a ham sandwich or a cheese sandwich?",
+    "translation": "Você prefere um sanduíche de presunto ou de queijo?",
+    "pronunciation": "/duː juː prɪˈfɜːr ə hæm ˈsænwɪtʃ ɔːr ə tʃiːz ˈsænwɪtʃ/",
+    "portuguesePhonetic": "[dú iú priférr a rrém sénuitch ór a tchíz sénuitch]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_75",
+    "word": "There was no milk, so I ate my cereal with yogurt.",
+    "translation": "Não tinha leite, então comi meu cereal com iogurte.",
+    "pronunciation": "/ðɛr wəz noʊ mɪlk soʊ aɪ eɪt maɪ ˈsɪriəl wɪð ˈjoʊɡərt/",
+    "portuguesePhonetic": "[dhér uâz nôu míouk sôu ái êit mái sírial uídh iôugurt]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_76",
+    "word": "\"What do you want for breakfast?\" / \"Cereal, please.\"",
+    "translation": "\"O que você quer no café?\" / \"Cereal, por favor.\"",
+    "pronunciation": "/wʌt duː juː wɑːnt fɔːr ˈbrɛkfəst · ˈsɪriəl pliːz/",
+    "portuguesePhonetic": "[uât dú iú uánt fór brékfest · sírial plíz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_77",
+    "word": "\"Do you like cheese?\" / \"Yes, I love it.\"",
+    "translation": "\"Você gosta de queijo?\" / \"Sim, eu adoro.\"",
+    "pronunciation": "/duː juː laɪk tʃiːz · jɛs aɪ lʌv ɪt/",
+    "portuguesePhonetic": "[dú iú láik tchíz · iés ái lâv ít]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_78",
+    "word": "\"Is there any bread?\" / \"Yes, on the table.\"",
+    "translation": "\"Tem pão?\" / \"Sim, na mesa.\"",
+    "pronunciation": "/ɪz ðɛr ˈɛni brɛd · jɛs ɑːn ðə ˈteɪbl̩/",
+    "portuguesePhonetic": "[iz dhér éni bréd · iés ón dha têibou]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_79",
+    "word": "\"What's in the sandwich?\" / \"Ham and cheese.\"",
+    "translation": "\"O que tem no sanduíche?\" / \"Presunto e queijo.\"",
+    "pronunciation": "/wʌts ɪn ðə ˈsænwɪtʃ · hæm ænd tʃiːz/",
+    "portuguesePhonetic": "[uâts in dha sénuitch · rrém énd tchíz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_80",
+    "word": "\"Do you want a snack?\" / \"Yes, some fruit.\"",
+    "translation": "\"Você quer um lanche?\" / \"Sim, uma fruta.\"",
+    "pronunciation": "/duː juː wɑːnt ə snæk · jɛs sʌm fruːt/",
+    "portuguesePhonetic": "[dú iú uánt a snék · iés sâm frút]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_81",
+    "word": "\"Coffee or tea?\" / \"Coffee, please.\"",
+    "translation": "\"Café ou chá?\" / \"Café, por favor.\"",
+    "pronunciation": "/ˈkɔːfi ɔːr tiː · ˈkɔːfi pliːz/",
+    "portuguesePhonetic": "[kófi ór tí · kófi plíz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_82",
+    "word": "\"How many eggs?\" / \"Two, please.\"",
+    "translation": "\"Quantos ovos?\" / \"Dois, por favor.\"",
+    "pronunciation": "/haʊ ˈmɛni ɛɡz · tuː pliːz/",
+    "portuguesePhonetic": "[rráu méni égz · tú plíz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_83",
+    "word": "\"Do you eat dinner late?\" / \"Yes, around nine.\"",
+    "translation": "\"Você janta tarde?\" / \"Sim, por volta das nove.\"",
+    "pronunciation": "/duː juː iːt ˈdɪnər leɪt · jɛs əˈraʊnd naɪn/",
+    "portuguesePhonetic": "[dú iú ít díner lêit · iés aráund náin]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_84",
+    "word": "\"Is the cake good?\" / \"Yes, delicious.\"",
+    "translation": "\"O bolo está bom?\" / \"Sim, delicioso.\"",
+    "pronunciation": "/ɪz ðə keɪk ɡʊd · jɛs dɪˈlɪʃəs/",
+    "portuguesePhonetic": "[iz dha kêik gúd · iés delíchas]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_85",
+    "word": "\"Do you want butter on your toast?\" / \"Yes, please.\"",
+    "translation": "\"Você quer manteiga na torrada?\" / \"Sim, por favor.\"",
+    "pronunciation": "/duː juː wɑːnt ˈbʌtər ɑːn jɔːr toʊst · jɛs pliːz/",
+    "portuguesePhonetic": "[dú iú uánt bâter ón iór tôust · iés plíz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_86",
+    "word": "\"What's for lunch?\" / \"A sandwich.\"",
+    "translation": "\"O que tem pro almoço?\" / \"Um sanduíche.\"",
+    "pronunciation": "/wʌts fɔːr lʌntʃ · ə ˈsænwɪtʃ/",
+    "portuguesePhonetic": "[uâts fór lântch · a sénuitch]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_87",
+    "word": "\"Do you like yogurt?\" / \"Not really.\"",
+    "translation": "\"Você gosta de iogurte?\" / \"Nem tanto.\"",
+    "pronunciation": "/duː juː laɪk ˈjoʊɡərt · nɑːt ˈrɪli/",
+    "portuguesePhonetic": "[dú iú láik iôugurt · nót ríli]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_88",
+    "word": "\"Can I have a cookie?\" / \"Sure, take one.\"",
+    "translation": "\"Posso pegar um biscoito?\" / \"Claro, pega um.\"",
+    "pronunciation": "/kæn aɪ hæv ə ˈkʊki · ʃʊr teɪk wʌn/",
+    "portuguesePhonetic": "[kén ái rrév a kúki · chúr têik uân]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_89",
+    "word": "\"Is there any jam?\" / \"Yes, strawberry jam.\"",
+    "translation": "\"Tem geleia?\" / \"Sim, geleia de morango.\"",
+    "pronunciation": "/ɪz ðɛr ˈɛni dʒæm · jɛs ˈstrɔːbɛri dʒæm/",
+    "portuguesePhonetic": "[iz dhér éni djém · iés stróberi djém]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_90",
+    "word": "\"What do you drink in the morning?\" / \"Juice.\"",
+    "translation": "\"O que você bebe de manhã?\" / \"Suco.\"",
+    "pronunciation": "/wʌt duː juː drɪŋk ɪn ðə ˈmɔːrnɪŋ · dʒuːs/",
+    "portuguesePhonetic": "[uât dú iú drínk in dha mórnin · djús]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_91",
+    "word": "\"Do you want chips?\" / \"Yes, I'm hungry.\"",
+    "translation": "\"Você quer batata frita?\" / \"Sim, estou com fome.\"",
+    "pronunciation": "/duː juː wɑːnt tʃɪps · jɛs aɪm ˈhʌŋɡri/",
+    "portuguesePhonetic": "[dú iú uánt tchíps · iés áim râNgri]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_92",
+    "word": "\"Where's the cheese?\" / \"In the fridge.\"",
+    "translation": "\"Onde está o queijo?\" / \"Na geladeira.\"",
+    "pronunciation": "/wɛrz ðə tʃiːz · ɪn ðə frɪdʒ/",
+    "portuguesePhonetic": "[uérz dha tchíz · in dha frídj]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_93",
+    "word": "\"Do you eat breakfast every day?\" / \"Yes, always.\"",
+    "translation": "\"Você toma café todo dia?\" / \"Sim, sempre.\"",
+    "pronunciation": "/duː juː iːt ˈbrɛkfəst ˈɛvri deɪ · jɛs ˈɔːlweɪz/",
+    "portuguesePhonetic": "[dú iú ít brékfest évri dêi · iés ólueiz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_94",
+    "word": "\"What's your favorite snack?\" / \"A candy bar.\"",
+    "translation": "\"Qual é seu lanche favorito?\" / \"Uma barra de chocolate.\"",
+    "pronunciation": "/wʌts jɔːr ˈfeɪvərɪt snæk · ə ˈkændi bɑːr/",
+    "portuguesePhonetic": "[uâts iór fêivorit snék · a kéndi bár]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_95",
+    "word": "\"Is the fruit fresh?\" / \"Yes, very fresh.\"",
+    "translation": "\"A fruta está fresca?\" / \"Sim, bem fresca.\"",
+    "pronunciation": "/ɪz ðə fruːt frɛʃ · jɛs ˈvɛri frɛʃ/",
+    "portuguesePhonetic": "[iz dha frút fréch · iés véri fréch]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_96",
+    "word": "\"Do you want milk in your coffee?\" / \"No, black, please.\"",
+    "translation": "\"Você quer leite no café?\" / \"Não, puro, por favor.\"",
+    "pronunciation": "/duː juː wɑːnt mɪlk ɪn jɔːr ˈkɔːfi · noʊ blæk pliːz/",
+    "portuguesePhonetic": "[dú iú uánt míouk in iór kófi · nôu blék plíz]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_97",
+    "word": "\"What time is dinner?\" / \"At eight.\"",
+    "translation": "\"A que horas é o jantar?\" / \"Às oito.\"",
+    "pronunciation": "/wʌt taɪm ɪz ˈdɪnər · æt eɪt/",
+    "portuguesePhonetic": "[uât táim iz díner · ét êit]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_98",
+    "word": "\"Do you like sweet or salty snacks?\" / \"Sweet.\"",
+    "translation": "\"Você gosta de lanches doces ou salgados?\" / \"Doces.\"",
+    "pronunciation": "/duː juː laɪk swiːt ɔːr ˈsɔːlti snæks · swiːt/",
+    "portuguesePhonetic": "[dú iú láik suít ór sólti snéks · suít]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_99",
+    "word": "\"Is there ham in the fridge?\" / \"No, we ran out.\"",
+    "translation": "\"Tem presunto na geladeira?\" / \"Não, acabou.\"",
+    "pronunciation": "/ɪz ðɛr hæm ɪn ðə frɪdʒ · noʊ wiː ræn aʊt/",
+    "portuguesePhonetic": "[iz dhér rrém in dha frídj · nôu uí rén áut]"
+  },
+  {
+    "id": "lesson_7_vocabulary_a1_en_card_100",
+    "word": "\"Would you like some cake?\" / \"Yes, a small piece.\"",
+    "translation": "\"Você quer um pouco de bolo?\" / \"Sim, um pedaço pequeno.\"",
+    "pronunciation": "/wʊd juː laɪk sʌm keɪk · jɛs ə smɔːl piːs/",
+    "portuguesePhonetic": "[uúd iú láik sâm kêik · iés a smól pís]"
+  }
+]
