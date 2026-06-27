@@ -381,13 +381,13 @@ const Card: React.FC<CardProps> = ({
 
   return (
     <div 
-      className="group w-full h-[450px] sm:h-[500px] md:h-[600px] cursor-pointer perspective-1000"
+      className="group w-full h-full cursor-pointer perspective-1000"
       onClick={onFlip}
     >
       <div className={`relative w-full h-full transition-all duration-500 transform-style-3d shadow-xl dark:shadow-2xl dark:shadow-indigo-900/20 rounded-3xl ${isFlipped ? 'rotate-y-180' : ''}`}>
         
         {/* FRONT OF CARD */}
-        <div className="absolute inset-0 w-full h-full bg-white dark:bg-slate-800 rounded-3xl backface-hidden flex flex-col items-center justify-between p-6 border-2 border-slate-100 dark:border-slate-700 overflow-hidden">
+        <div className="absolute inset-0 w-full h-full bg-white dark:bg-slate-800 rounded-3xl backface-hidden flex flex-col items-center justify-between p-4 md:p-6 border-2 border-slate-100 dark:border-slate-700 overflow-y-auto overflow-x-hidden">
           <span className="absolute top-6 left-6 text-xs font-bold text-indigo-500 dark:text-indigo-400 uppercase tracking-widest z-10">
             {getLanguageLabel()}
           </span>
