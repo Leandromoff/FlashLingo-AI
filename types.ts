@@ -37,11 +37,123 @@ export const PREDEFINED_TOPICS = [
     description: 'Presente Simple vs Continuo'
   },
   {
+    id: 'leccion_1_gramatica_a2_s',
+    label: 'Lección 1',
+    isStatic: true,
+    group: 'Gramática A2',
+    description: 'Preguntas (Wh- words, auxiliares)'
+  },
+  {
+    id: 'leccion_2_gramatica_a2_s',
+    label: 'Lección 2',
+    isStatic: true,
+    group: 'Gramática A2',
+    description: 'Preguntas con Sujeto y Objeto'
+  },
+  {
+    id: 'leccion_3_gramatica_a2_s',
+    label: 'Lección 3',
+    isStatic: true,
+    group: 'Gramática A2',
+    description: 'Presente Simple y Presente Continuo'
+  },
+  {
+    id: 'lesson_1_grammar_a2',
+    label: 'Lesson 1',
+    isStatic: true,
+    group: 'Grammar A2',
+    description: 'Questions (Wh- words, auxiliaries)'
+  },
+  {
+    id: 'lesson_2_grammar_a2',
+    label: 'Lesson 2',
+    isStatic: true,
+    group: 'Grammar A2',
+    description: 'Subject and Object Questions'
+  },
+  {
+    id: 'lesson_3_grammar_a2',
+    label: 'Lesson 3',
+    isStatic: true,
+    group: 'Grammar A2',
+    description: 'Present Simple vs Present Continuous'
+  },
+  {
+    id: 'lesson_1_vocabulary_a2',
+    label: 'Lesson 1',
+    isStatic: true,
+    group: 'Vocabulary A2',
+    description: 'Prepositions with Adjectives and Verbs'
+  },
+  {
+    id: 'lesson_2_vocabulary_a2',
+    label: 'Lesson 2',
+    isStatic: true,
+    group: 'Vocabulary A2',
+    description: 'Physical Appearance'
+  },
+  {
+    id: 'lesson_3_vocabulary_a2',
+    label: 'Lesson 3',
+    isStatic: true,
+    group: 'Vocabulary A2',
+    description: 'Personality'
+  },
+  {
+    id: 'leccion_1_vocabulario_a2_s',
+    label: 'Lección 1',
+    isStatic: true,
+    group: 'Vocabulario A2',
+    description: 'Preposiciones con Adjetivos y Verbos'
+  },
+  {
+    id: 'leccion_2_vocabulario_a2_s',
+    label: 'Lección 2',
+    isStatic: true,
+    group: 'Vocabulario A2',
+    description: 'Apariencia Física'
+  },
+  {
+    id: 'leccion_3_vocabulario_a2_s',
+    label: 'Lección 3',
+    isStatic: true,
+    group: 'Vocabulario A2',
+    description: 'Personalidad'
+  },
+  {
+    id: 'leccion_3_gramatica_c1_s',
+    label: 'Lección 3',
+    isStatic: true,
+    group: 'Gramática C1',
+    description: 'Hábitos y Suposiciones (Will, Would, Should)'
+  },
+  {
+    id: 'leccion_2_gramatica_c1_s',
+    label: 'Lección 2',
+    isStatic: true,
+    group: 'Gramática C1',
+    description: 'Pasado Continuo, Perfecto y Pluscuamperfecto'
+  },
+  {
     id: 'lesson_1_grammar_c1',
     label: 'Lesson 1',
     isStatic: true,
     group: 'Grammar C1',
     description: 'Present Simple vs Present Continuous'
+  },
+  {
+    id: 'lesson_2_grammar_c1',
+    label: 'Lesson 2',
+    isStatic: true,
+    group: 'Grammar C1',
+    description: 'Past Continuous, Perfect & Perfect Continuous'
+  },
+  {
+    id: 'lesson_3_grammar_c1',
+    label: 'Lesson 3',
+    isStatic: true,
+    group: 'Grammar C1',
+    description: 'Will, Would, Should (Habits & Modals)'
   },
   {
     id: 'leccion_1_vocabulario_c1_s',

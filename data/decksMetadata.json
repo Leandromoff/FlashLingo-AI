@@ -349,5 +349,53 @@
   },
   "leccion_1_gramatica_c1_s": {
     "es": 100
+  },
+  "leccion_2_gramatica_c1_s": {
+    "es": 100
+  },
+  "lesson_2_grammar_c1": {
+    "en": 100
+  },
+  "lesson_3_grammar_c1": {
+    "en": 100
+  },
+  "leccion_3_gramatica_c1_s": {
+    "es": 100
+  },
+  "lesson_1_grammar_a2": {
+    "en": 100
+  },
+  "leccion_1_gramatica_a2_s": {
+    "es": 100
+  },
+  "lesson_2_grammar_a2": {
+    "en": 100
+  },
+  "leccion_2_gramatica_a2_s": {
+    "es": 100
+  },
+  "lesson_3_grammar_a2": {
+    "en": 100
+  },
+  "leccion_3_gramatica_a2_s": {
+    "es": 100
+  },
+  "lesson_1_vocabulary_a2": {
+    "en": 100
+  },
+  "leccion_1_vocabulario_a2_s": {
+    "es": 100
+  },
+  "lesson_2_vocabulary_a2": {
+    "en": 100
+  },
+  "leccion_2_vocabulario_a2_s": {
+    "es": 100
+  },
+  "lesson_3_vocabulary_a2": {
+    "en": 100
+  },
+  "leccion_3_vocabulario_a2_s": {
+    "es": 100
   }
 }

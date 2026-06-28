@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_1",
+    "word": "Tom es bueno en el fútbol.",
+    "translation": "Tom é bom no futebol.",
+    "pronunciation": "/tom es ˈbweno en el ˈfuðβol/",
+    "portuguesePhonetic": "tóm es buêno en el fútbol."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_2",
+    "word": "Me quedé sorprendido por la noticia.",
+    "translation": "Fiquei surpreso com a notícia.",
+    "pronunciation": "/me keˈðe soɾpɾenˈdiðo poɾ la noˈtiθja/",
+    "portuguesePhonetic": "mê quedê sorprendido por la notíthia."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_3",
+    "word": "Estamos ilusionados con nuestras vacaciones.",
+    "translation": "Estamos animados com nossas férias.",
+    "pronunciation": "/esˈtamos ilusjoˈnaðos kon ˈnwestɾas bakaˈθjones/",
+    "portuguesePhonetic": "estámos ilussionádos con nuêstras bacathiônes."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_4",
+    "word": "Alicia está interesada en el arte.",
+    "translation": "Alicia se interessa por arte.",
+    "pronunciation": "/aˈliθja esˈta inteɾeˈsaða en el ˈaɾte/",
+    "portuguesePhonetic": "alíthia está interessáda en el árte."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_5",
+    "word": "Quedé decepcionado con la comida.",
+    "translation": "Fiquei decepcionado com a comida.",
+    "pronunciation": "/keˈðe deθepθjoˈnaðo kon la koˈmiða/",
+    "portuguesePhonetic": "quedê dethepthionádo con la comída."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_6",
+    "word": "Sue está preocupada por el examen.",
+    "translation": "Sue está preocupada com a prova.",
+    "pronunciation": "/su esˈta pɾeokuˈpaða poɾ el eɡˈsamen/",
+    "portuguesePhonetic": "sú está preocupáda por el egsámen."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_7",
+    "word": "Mary tiene miedo de las serpientes.",
+    "translation": "Mary tem medo de cobras.",
+    "pronunciation": "/ˈmeɾi ˈtjene ˈmjeðo ðe las seɾˈpjentes/",
+    "portuguesePhonetic": "méri tiêne miêdo de las serpiêntes."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_8",
+    "word": "Estoy cansado de estudiar.",
+    "translation": "Estou cansado de estudar.",
+    "pronunciation": "/esˈtoj kanˈsaðo ðe estuˈðjaɾ/",
+    "portuguesePhonetic": "estói cansádo de estudiár."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_9",
+    "word": "Tara es responsable de sus hijos.",
+    "translation": "Tara é responsável pelos filhos dela.",
+    "pronunciation": "/ˈtaɾa es responsaβle ðe sus ˈixos/",
+    "portuguesePhonetic": "tára es responsáble de sus írros."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_10",
+    "word": "Las mandarinas son similares a las naranjas.",
+    "translation": "As tangerinas são semelhantes às laranjas.",
+    "pronunciation": "/las mandaˈɾinas son simiˈlaɾes a las naˈɾaŋxas/",
+    "portuguesePhonetic": "las mandarínas son similáres a las naránrras."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_11",
+    "word": "Llegamos a Roma ayer.",
+    "translation": "Chegamos a Roma ontem.",
+    "pronunciation": "/ʝeˈɣamos a ˈroma aˈʝeɾ/",
+    "portuguesePhonetic": "iegámos a rôma aiér."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_12",
+    "word": "Llegué a la estación al mediodía.",
+    "translation": "Cheguei à estação ao meio-dia.",
+    "pronunciation": "/ʝeˈɣe a la estaˈθjon al meðjoˈðia/",
+    "portuguesePhonetic": "ieguê a la estathiôn al mediodía."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_13",
+    "word": "¿Por qué me estás mirando?",
+    "translation": "Por que você está olhando para mim?",
+    "pronunciation": "/poɾ ˈke me esˈtas miˈɾando/",
+    "portuguesePhonetic": "por kê mê estás mirándo?"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_14",
+    "word": "Le pedí indicaciones al hombre.",
+    "translation": "Pedi informações ao homem.",
+    "pronunciation": "/le peˈði indikaˈθjones al ˈombɾe/",
+    "portuguesePhonetic": "lê pedí indicathiônes al ômbre."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_15",
+    "word": "Estoy esperando a Tom.",
+    "translation": "Estou esperando o Tom.",
+    "pronunciation": "/esˈtoj espeˈɾando a tom/",
+    "portuguesePhonetic": "estói esperándo a tóm."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_16",
+    "word": "No nos invitó a la fiesta.",
+    "translation": "Ela não nos convidou para a festa.",
+    "pronunciation": "/no nos imbiˈto a la ˈfjesta/",
+    "portuguesePhonetic": "no nos imbitô a la fiêsta."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_17",
+    "word": "Estoy hablando contigo.",
+    "translation": "Estou hablando com você.",
+    "pronunciation": "/esˈtoj aˈβlando konˈtiɣo/",
+    "portuguesePhonetic": "estói ablándo contígo."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_18",
+    "word": "Me encanta escuchar música.",
+    "translation": "Adoro ouvir música.",
+    "pronunciation": "/me eŋˈkanta eskutʃaɾ ˈmusika/",
+    "portuguesePhonetic": "mê encánta escutchár música."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_19",
+    "word": "Gastamos todo el dinero en un viaje.",
+    "translation": "Gastamos todo o dinheiro em uma viagem.",
+    "pronunciation": "/ɡasˈtamos ˈtoðo el ðiˈneɾo en un ˈbjaxe/",
+    "portuguesePhonetic": "gastámos tôdo el dinêro en un biárre."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_20",
+    "word": "Estoy pensando en el examen.",
+    "translation": "Estou pensando na prova.",
+    "pronunciation": "/esˈtoj penˈsando en el eɡˈsamen/",
+    "portuguesePhonetic": "estói pensándo en el egsámen."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_21",
+    "word": "Ser bueno o malo en algo.",
+    "translation": "Ser bom ou ruim em alguma coisa.",
+    "pronunciation": "/seɾ ˈbweno o ˈmalo en ˈalɣo/",
+    "portuguesePhonetic": "ser buêno o málo en álgo."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_22",
+    "word": "Estar interesado en un tema.",
+    "translation": "Ter interesse por um assunto.",
+    "pronunciation": "/esˈtaɾ inteɾeˈsaðo en un ˈtema/",
+    "portuguesePhonetic": "estár interessádo en un têma."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_23",
+    "word": "Tener miedo de algo o estar cansado de algo.",
+    "translation": "Ter medo de algo ou estar cansado de algo.",
+    "pronunciation": "/teˈneɾ ˈmjeðo ðe ˈalɣo o esˈtaɾ kanˈsaðo ðe ˈalɣo/",
+    "portuguesePhonetic": "tenér miêdo de álgo o estár cansádo de álgo."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_24",
+    "word": "En español usamos llegar a con ciudades y lugares.",
+    "translation": "Em espanhol, usamos “llegar a” com cidades e lugares.",
+    "pronunciation": "/en espaˈɲol uˈsamos ʝeˈɣaɾ a kon θjuˈðaðes i luˈɣaɾes/",
+    "portuguesePhonetic": "en espanhol usámos iegár a con thiudádes i lugáres."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_25",
+    "word": "Pedir algo, esperar a alguien, hablar con alguien y pensar en algo.",
+    "translation": "Pedir algo, esperar alguém, falar com alguém e pensar em algo.",
+    "pronunciation": "/peˈðiɾ ˈalɣo, espeˈɾaɾ a ˈalɣjen, aˈβlaɾ kon ˈalɣjen i penˈsaɾ en ˈalɣo/",
+    "portuguesePhonetic": "pedír álgo, esperár a álguien, ablár con álguien i pensár en álgo."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_26",
+    "word": "Estamos ilusionados con nuestro viaje a Madrid.",
+    "translation": "Estamos animados com nossa viagem a Madri.",
+    "pronunciation": "/esˈtamos ilusjoˈnaðos kon ˈnwestɾo ˈbjaxe a maˈðɾið/",
+    "portuguesePhonetic": "estámos ilussionádos con nuêstro biárre a madríd."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_27",
+    "word": "Lucía está preocupada por perder el tren.",
+    "translation": "Lucía está preocupada em perder o trem.",
+    "pronunciation": "/luˈθia esˈta pɾeokuˈpaða poɾ peɾˈðeɾ el tɾen/",
+    "portuguesePhonetic": "luthía está preocupáda por perdér el tren."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_28",
+    "word": "Soy responsable de los billetes.",
+    "translation": "Sou responsável pelas passagens.",
+    "pronunciation": "/soj responsaβle ðe los biˈʝetes/",
+    "portuguesePhonetic": "sói responsáble de los biiêtes."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_29",
+    "word": "Llegamos a la estación a las ocho.",
+    "translation": "Chegamos à estação às oito.",
+    "pronunciation": "/ʝeˈɣamos a la estaˈθjon a las ˈotʃo/",
+    "portuguesePhonetic": "iegámos a la estathiôn a las ôtcho."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_30",
+    "word": "Pedimos indicaciones a una empleada.",
+    "translation": "Pedimos informações a uma funcionária.",
+    "pronunciation": "/peˈðimos indikaˈθjones a una empleˈaða/",
+    "portuguesePhonetic": "pedímos indicathiônes a una empleáda."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_31",
+    "word": "Esperamos a que abra el control de acceso.",
+    "translation": "Esperamos que o controle de acesso abra.",
+    "pronunciation": "/espeˈɾamos a ke ˈaβɾa el konˈtɾol ðe akˈθeso/",
+    "portuguesePhonetic": "esperámos a kê ábra el contról de acthésso."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_32",
+    "word": "Lucía mira el panel de salidas.",
+    "translation": "Lucía olha para o painel de partidas.",
+    "pronunciation": "/luˈθia ˈmiɾa el paˈnel ðe saˈliðas/",
+    "portuguesePhonetic": "luthía míra el panél de salídas."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_33",
+    "word": "Se queda sorprendida por el cambio de vía.",
+    "translation": "Ela fica surpresa com a mudança de plataforma.",
+    "pronunciation": "/se ˈkeða soɾpɾenˈðiða poɾ el ˈkambjo ðe ˈbia/",
+    "portuguesePhonetic": "sê quêda sorprendída por el cámbio de bía."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_34",
+    "word": "Escuchamos el anuncio de la estación.",
+    "translation": "Ouvimos o anúncio da estação.",
+    "pronunciation": "/eskutʃamos el aˈnunθjo ðe la estaˈθjon/",
+    "portuguesePhonetic": "escutchámos el anúnthio de la estathiôn."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_35",
+    "word": "Hablo con un empleado de Renfe.",
+    "translation": "Falo com un funcionário da Renfe.",
+    "pronunciation": "/ˈaβlo kon un empleˈaðo ðe ˈremfe/",
+    "portuguesePhonetic": "áblo con un empleádo de rênfe."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_36",
+    "word": "El empleado nos invita a esperar en la sala.",
+    "translation": "O funcionário nos convida a esperar na sala.",
+    "pronunciation": "/el empleˈaðo nos imˈbita a espeˈɾaɾ en la ˈsala/",
+    "portuguesePhonetic": "el empleádo nos imbíta a esperár en la sála."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_37",
+    "word": "Estamos interesados en el mapa de Madrid.",
+    "translation": "Temos interesse no mapa de Madri.",
+    "pronunciation": "/esˈtamos inteɾeˈsaðos en el ˈmapa ðe maˈðɾið/",
+    "portuguesePhonetic": "estámos interessádos en el mápa de madríd."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_38",
+    "word": "Gastamos algo de dinero en el desayuno.",
+    "translation": "Gastamos um pouco de dinheiro no café da manhã.",
+    "pronunciation": "/ɡasˈtamos ˈalɣo ðe ðiˈneɾo en el desaˈʝuno/",
+    "portuguesePhonetic": "gastámos álgo de dinêro en el dessaiúno."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_39",
+    "word": "Lucía queda decepcionada con el café.",
+    "translation": "Lucía fica decepcionada com o café.",
+    "pronunciation": "/luˈθia ˈkeða deθepθjoˈnaða kon el kaˈfe/",
+    "portuguesePhonetic": "luthía quêda dethepthionáda con el café."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_40",
+    "word": "La bebida es similar a un té muy suave.",
+    "translation": "A bebida é parecida com um chá muito fraco.",
+    "pronunciation": "/la βeˈβiða es simiˈlaɾ a un te muj ˈswaβe/",
+    "portuguesePhonetic": "la bebída es similár a un tê múi suábe."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_41",
+    "word": "Llegamos a Madrid por la tarde.",
+    "translation": "Chegamos a Madri à tarde.",
+    "pronunciation": "/ʝeˈɣamos a maˈðɾið poɾ la ˈtaɾðe/",
+    "portuguesePhonetic": "iegámos a madríd por la tárde."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_42",
+    "word": "Llegamos al hotel sobre las cuatro.",
+    "translation": "Chegamos ao hotel por volta das quatro.",
+    "pronunciation": "/ʝeˈɣamos al oˈtel ˈsoβɾe las ˈkwatɾo/",
+    "portuguesePhonetic": "iegámos al otél sóbre las cuátro."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_43",
+    "word": "La recepcionista es buena con los idiomas.",
+    "translation": "A recepcionista é boa com idiomas.",
+    "pronunciation": "/la reθepθjoˈnista es ˈbwena kon los iˈðjomas/",
+    "portuguesePhonetic": "la rethepthionísta es buêna con los idiómas."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_44",
+    "word": "Pido la llave de nuestra habitación.",
+    "translation": "Peço a chave do nosso quarto.",
+    "pronunciation": "/ˈpiðo la ˈʝaβe ðe ˈnwestɾa aβitaˈθjon/",
+    "portuguesePhonetic": "pído la iábe de nuêstra abitathiôn."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_45",
+    "word": "Esperamos el ascensor.",
+    "translation": "Esperamos o elevador.",
+    "pronunciation": "/espeˈɾamos el asθenˈsoɾ/",
+    "portuguesePhonetic": "esperámos el athensór."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_46",
+    "word": "Miramos el mapa de la ciudad.",
+    "translation": "Olhamos para o mapa da cidade.",
+    "pronunciation": "/miˈɾamos el ˈmapa ðe la θjuˈðað/",
+    "portuguesePhonetic": "mirámos el mápa de la thiudád."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_47",
+    "word": "Hablamos con una guía local.",
+    "translation": "Conversamos com uma guia local.",
+    "pronunciation": "/aˈβlamos kon una ˈɣia loˈkal/",
+    "portuguesePhonetic": "ablámos con una guía locál."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_48",
+    "word": "Escuchamos sus recomendaciones.",
+    "translation": "Ouvimos as recomendações dela.",
+    "pronunciation": "/eskutʃamos sus rekomendaˈθjones/",
+    "portuguesePhonetic": "escutchámos sus recomendathiônes."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_49",
+    "word": "Pensamos en dónde cenar.",
+    "translation": "Pensamos em onde jantar.",
+    "pronunciation": "/penˈsamos en ˈdonde θeˈnaɾ/",
+    "portuguesePhonetic": "pensámos en dónde thenár."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_50",
+    "word": "Estamos contentos con nuestro primer día en Madrid.",
+    "translation": "Estamos felizes com nosso primeiro dia em Madri.",
+    "pronunciation": "/esˈtamos konˈtentos kon ˈnwestɾo pɾiˈmeɾ ˈdia en maˈðɾið/",
+    "portuguesePhonetic": "estámos contêntos con nuêstro primér día en madríd."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_51",
+    "word": "Liam es bueno en el ajedrez.",
+    "translation": "Liam é bom no xadrez.",
+    "pronunciation": "/ˈliam es ˈbweno en el axeˈðɾeθ/",
+    "portuguesePhonetic": "líam es buêno en el arrêdrez."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_52",
+    "word": "Estoy interesado en la fotografía.",
+    "translation": "Tenho interesse por fotografia.",
+    "pronunciation": "/esˈtoj inteɾeˈsaðo en la fotoɣɾaˈfia/",
+    "portuguesePhonetic": "estói interessádo en la fotografía."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_53",
+    "word": "Ella tiene miedo de los perros.",
+    "translation": "Ela tem medo de cachorros.",
+    "pronunciation": "/ˈeʝa ˈtjene ˈmjeðo ðe los ˈperos/",
+    "portuguesePhonetic": "êia tiêne miêdo de los pêrros."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_54",
+    "word": "Estamos esperando el autobús.",
+    "translation": "Estamos esperando o ônibus.",
+    "pronunciation": "/esˈtamos espeˈɾando el autoˈβus/",
+    "portuguesePhonetic": "estámos esperándo el autobús."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_55",
+    "word": "Está mirando el menú.",
+    "translation": "Ele está olhando o cardápio.",
+    "pronunciation": "/esˈta miˈɾando el meˈnu/",
+    "portuguesePhonetic": "está mirándo el menû."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_56",
+    "word": "¿Estás preocupado por el examen?",
+    "translation": "Você está preocupado com a prova?",
+    "pronunciation": "/esˈtas pɾeokuˈpaðo poɾ el eɡˈsamen/",
+    "portuguesePhonetic": "estás preocupádo por el egsámen?"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_57",
+    "word": "No está contenta con el resultado.",
+    "translation": "Ela não está feliz com o resultado.",
+    "pronunciation": "/no esˈta konˈtenta kon el resulˈtaðo/",
+    "portuguesePhonetic": "no está contênta con el resultádo."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_58",
+    "word": "¿Pediste el recibo?",
+    "translation": "Você pediu o recibo?",
+    "pronunciation": "/peˈðiste el reˈθiβo/",
+    "portuguesePhonetic": "pedíste el rethíbo?"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_59",
+    "word": "No lo invitaron a cenar.",
+    "translation": "Eles não o convidaram para jantar.",
+    "pronunciation": "/no lo imbiˈtaɾon a θeˈnaɾ/",
+    "portuguesePhonetic": "no lo imbitáron a thenár."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_60",
+    "word": "¿Escuchas pódcasts?",
+    "translation": "Você ouve podcasts?",
+    "pronunciation": "/esˈkutʃas ˈpoðkasts/",
+    "portuguesePhonetic": "escútchas pódkasts?"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_61",
+    "word": "Estaba pensando en tu idea.",
+    "translation": "Eu estava pensando na sua ideia.",
+    "pronunciation": "/esˈtaβa penˈsando en tu iˈðea/",
+    "portuguesePhonetic": "estába pensándo en tu idéa."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_62",
+    "word": "Gastamos más dinero en reparaciones de lo previsto.",
+    "translation": "Gastamos mais dinero en reparos do que o previsto.",
+    "pronunciation": "/ɡasˈtamos mas ðiˈneɾo en reparaˈθjones ðe lo pɾeˈβisto/",
+    "portuguesePhonetic": "gastámos más dinêro en reparathiônes de lo prebísto."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_63",
+    "word": "Llegó a la oficina mientras yo hablaba con un cliente.",
+    "translation": "Ela chegou ao escritório enquanto eu falava com um cliente.",
+    "pronunciation": "/ʝeˈɣo a la ofiˈθina ˈmjentɾas ʝo aˈβlaβa kon un kliˈente/",
+    "portuguesePhonetic": "iegô a la ofithína miêntras iô ablába con un cliênte."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_64",
+    "word": "Quedó decepcionado con el hotel porque la habitación no era similar a las fotos.",
+    "translation": "Ele ficou decepcionado com o hotel porque o quarto não era parecido com as fotos.",
+    "pronunciation": "/keˈðo deθepθjoˈnaðo kon el oˈtel poɾˈke la aβitaˈθjon no ˈeɾa simiˈlaɾ a las ˈfotos/",
+    "portuguesePhonetic": "quedô dethepthionádo con el otél porkê la abitathiôn no êra similár a las fôtos."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_65",
+    "word": "Estoy cansado de esperar, pero la recepcionista sigue hablando con el encargado.",
+    "translation": "Estou cansado de esperar, mas a recepcionista continua falando com o responsável.",
+    "pronunciation": "/esˈtoj kanˈsaðo ðe espeˈɾaɾ, ˈpeɾo la reθepθjoˈnista ˈsiɣe aˈβlando kon el eŋkaɾˈɣaðo/",
+    "portuguesePhonetic": "estói cansádo de esperár, pêro la rethepthionísta sígue ablándo con el encarregádo."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_66",
+    "word": "Cuando llegamos al pueblo, pedimos indicaciones a un policía.",
+    "translation": "Quando chegamos à cidade, pedimos informações a um policial.",
+    "pronunciation": "/ˈkwando ʝeˈɣamos al ˈpweβlo, peˈðimos indikaˈθjones a un poliˈθia/",
+    "portuguesePhonetic": "cuándo iegámos al puêblo, pedímos indicathiônes a un polithía."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_67",
+    "word": "Aunque Noah cocina bien, tiene miedo de usar el horno nuevo.",
+    "translation": "Embora Noah cozinhe bem, ele tem medo de usar o forno novo.",
+    "pronunciation": "/ˈaunke ˈnoa koˈθina bjen, ˈtjene ˈmjeðo ðe uˈsaɾ el ˈoɾno ˈnweβo/",
+    "portuguesePhonetic": "aunquê nôa cothína biên, tiêne miêdo de usár el órno nuêbo."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_68",
+    "word": "¿Por qué me estás mirando si estás hablando con ella?",
+    "translation": "Por que você está olhando para mim se está falando com ela?",
+    "pronunciation": "/poɾ ˈke me esˈtas miˈɾando si esˈtas aˈβlando kon ˈeʝa/",
+    "portuguesePhonetic": "por kê mê estás mirándo si estás ablándo con êia?"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_69",
+    "word": "Estoy preocupado por el tren porque todavía no ha llegado a la estación.",
+    "translation": "Estou preocupado com o trem porque ele ainda não chegou à estação.",
+    "pronunciation": "/esˈtoj pɾeokuˈpaðo poɾ el tɾen poɾˈke todaˈβia no a ʝeˈɣaðo a la estaˈθjon/",
+    "portuguesePhonetic": "estói preocupádo por el tren porkê todabía no a iegádo a la estathiôn."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_70",
+    "word": "Estaba ilusionada con la entrevista, pero quedó decepcionada con la oferta.",
+    "translation": "Ela estava animada com a entrevista, mas ficou decepcionada com a proposta.",
+    "pronunciation": "/esˈtaβa ilusjoˈnaða kon la entɾeˈβista, ˈpeɾo keˈðo deθepθjoˈnaða kon la oˈfeɾta/",
+    "portuguesePhonetic": "estába ilussionáda con la entrebísta, pêro quedô dethepthionáda con la oférta."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_71",
+    "word": "Los alumnos interesados en la ciencia fueron invitados al laboratorio.",
+    "translation": "Os alunos interessados em ciência foram convidados para o laboratório.",
+    "pronunciation": "/los aˈlumnos inteɾeˈsaðos en la ˈθjenθja ˈfweɾon imbiˈtaðos al laβoɾaˈtoɾjo/",
+    "portuguesePhonetic": "los alúmnos interessádos en la thiênthia fuêron imbitádos al laboratôrio."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_72",
+    "word": "Como soy responsable del presupuesto, tengo que pensar bien en qué gastamos el dinero.",
+    "translation": "Como sou responsável pelo orçamento, preciso pensar bem no que gastamos o dinheiro.",
+    "pronunciation": "/ˈkomo soj responsaβle ðel pɾesuˈpwesto, ˈteŋɡo ke penˈsaɾ bjen en ke ɡasˈtamos el ðiˈneɾo/",
+    "portuguesePhonetic": "cómo sói responsáble del pressupuésto, tên-go kê pensár biên en kê gastámos el dinêro."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_73",
+    "word": "Cuando llegamos al recinto, todos estaban esperándonos.",
+    "translation": "Quando chegamos ao local, todos estavam esperando por nós.",
+    "pronunciation": "/ˈkwando ʝeˈɣamos al reˈθinto, ˈtoðos esˈtaβan espeˈɾandonos/",
+    "portuguesePhonetic": "cuándo iegámos al rethínto, tódos estában esperándonos."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_74",
+    "word": "Habría pedido ayuda si hubiera comprendido lo malo que soy orientándome.",
+    "translation": "Eu teria pedido ajuda se tivesse percebido como sou ruim em me orientar.",
+    "pronunciation": "/aˈβɾia peˈðiðo aˈʝuða si uˈβjeɾa kompɾenˈðiðo lo ˈmalo ke soj oɾjenˈtandome/",
+    "portuguesePhonetic": "abría pedído aiúda si ubiêra comprendído lo málo kê sói orientándome."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_75",
+    "word": "Aunque había estado preocupada por el examen, quedó sorprendida por lo fácil que fue.",
+    "translation": "Embora tivesse ficado preocupada com a prova, ela ficou surpresa com a facilidade.",
+    "pronunciation": "/ˈaunke aˈβia esˈtaðo pɾeokuˈpaða poɾ el eɡˈsamen, keˈðo soɾpɾenˈðiða poɾ lo ˈfaθil ke fwe/",
+    "portuguesePhonetic": "aunquê abía estádo preocupáda por el egsámen, quedô sorprendída por lo fáthil kê fuê."
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_76",
+    "word": "¿En qué eres bueno? / Soy bueno dibujando.",
+    "translation": "Em que você é bom? / Sou bom em desenhar.",
+    "pronunciation": "/en ke ˈeɾes ˈbweno",
+    "portuguesePhonetic": "soj ˈbweno ðiβuˈxando/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_77",
+    "word": "¿Te interesa la historia? / Sí, sobre todo la historia antigua.",
+    "translation": "Você se interessa por história? / Sim, principalmente história antiga.",
+    "pronunciation": "/te inteˈɾesa la isˈtoɾja",
+    "portuguesePhonetic": "si, ˈsoβɾe ˈtoðo la isˈtoɾja anˈtiɣwa/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_78",
+    "word": "¿Qué te preocupa? / El examen de mañana.",
+    "translation": "O que preocupa você? / A prova de amanhã.",
+    "pronunciation": "/ke te pɾeˈokupa",
+    "portuguesePhonetic": "el eɡˈsamen ðe maˈɲana/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_79",
+    "word": "¿Tienes miedo de las alturas? / Un poco.",
+    "translation": "Você tem medo de altura? / Um pouco.",
+    "pronunciation": "/ˈtjenes ˈmjeðo ðe las alˈtuɾas",
+    "portuguesePhonetic": "un ˈpoko/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_80",
+    "word": "¿Por qué estás cansado de este trabajo? / Es demasiado repetitivo.",
+    "translation": "Por que você está cansado deste trabalho? / É repetitivo demais.",
+    "pronunciation": "/poɾ ˈke esˈtas kanˈsaðo ðe ˈeste tɾaˈβaxo",
+    "portuguesePhonetic": "es demaˈsjaðo repetiˈtiβo/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_81",
+    "word": "¿Quién es responsable del informe? / Daniel.",
+    "translation": "Quem é responsável pelo relatório? / Daniel.",
+    "pronunciation": "/ˈkjen es responsaβle ðel imˈfoɾme",
+    "portuguesePhonetic": "daˈnjel/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_82",
+    "word": "¿Este móvil es similar al tuyo? / Sí, pero el mío es más pequeño.",
+    "translation": "Este celular é parecido com o seu? / Sim, mas o meu é menor.",
+    "pronunciation": "/ˈeste ˈmoβil es simiˈlaɾ al ˈtuʝo",
+    "portuguesePhonetic": "si, ˈpeɾo el ˈmio es mas peˈkeɲo/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_83",
+    "word": "¿Cuándo llegaste a Barcelona? / Anoche.",
+    "translation": "Quando você chegou a Barcelona? / Ontem à noite.",
+    "pronunciation": "/ˈkwando ʝeˈɣaste a baɾθeˈlona",
+    "portuguesePhonetic": "aˈnotʃe/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_84",
+    "word": "¿Cuándo llegaste al hotel? / Sobre la medianoche.",
+    "translation": "Quando você chegou ao hotel? / Por volta da meia-noite.",
+    "pronunciation": "/ˈkwando ʝeˈɣaste al oˈtel",
+    "portuguesePhonetic": "ˈsoβɾe la meðjaˈnotʃe/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_85",
+    "word": "¿Por qué estás mirando el cielo? / Se acerca una tormenta.",
+    "translation": "Por que você está olhando para o céu? / Uma tempestade está se aproximando.",
+    "pronunciation": "/poɾ ˈke esˈtas miˈɾando el ˈθjelo",
+    "portuguesePhonetic": "se aˈθeɾka una toɾˈmenta/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_86",
+    "word": "¿Qué pediste? / Un vaso de agua.",
+    "translation": "O que você pediu? / Um copo de água.",
+    "pronunciation": "/ke peˈðiste",
+    "portuguesePhonetic": "un ˈbaso ðe ˈaɣwa/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_87",
+    "word": "¿A quién estás esperando? / A mi hermana.",
+    "translation": "Quem você está esperando? / Minha irmã.",
+    "pronunciation": "/a ˈkjen esˈtas espeˈɾando",
+    "portuguesePhonetic": "a mi eɾˈmana/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_88",
+    "word": "¿Os invitaron a la boda? / Sí, nos invitaron.",
+    "translation": "Vocês foram convidados para o casamento? / Sim, fomos.",
+    "pronunciation": "/os imbiˈtaɾon a la ˈβoða",
+    "portuguesePhonetic": "si, nos imbiˈtaɾon/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_89",
+    "word": "¿Con quién estabas hablando? / Con el director del hotel.",
+    "translation": "Com quem você estava falando? / Com o gerente do hotel.",
+    "pronunciation": "/kon ˈkjen esˈtaβas aˈβlando",
+    "portuguesePhonetic": "kon el ðiɾekˈtoɾ ðel oˈtel/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_90",
+    "word": "¿Qué estás escuchando? / Un pódcast de noticias.",
+    "translation": "O que você está ouvindo? / Um podcast de notícias.",
+    "pronunciation": "/ke esˈtas eskutʃando",
+    "portuguesePhonetic": "un ˈpoðkast ðe noˈtiθjas/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_91",
+    "word": "¿En qué gastaste el dinero? / En un portátil nuevo.",
+    "translation": "Em que você gastou o dinero? / Em um notebook novo.",
+    "pronunciation": "/en ke ɡasˈtaste el ðiˈneɾo",
+    "portuguesePhonetic": "en un poɾˈtatil ˈnweβo/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_92",
+    "word": "¿En qué estás pensando? / En mis próximas vacaciones.",
+    "translation": "No que você está pensando? / Nas minhas próximas férias.",
+    "pronunciation": "/en ke esˈtas penˈsando",
+    "portuguesePhonetic": "en mis ˈpɾoksimas bakaˈθjones/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_93",
+    "word": "¿Te sorprendió el precio? / Sí, era muy alto.",
+    "translation": "O preço surpreendeu você? / Sim, era muito alto.",
+    "pronunciation": "/te soɾpɾenˈdjo el ˈpɾeθjo",
+    "portuguesePhonetic": "si, ˈeɾa muj ˈalto/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_94",
+    "word": "¿Estás contento con la decisión? / Sí, creo que es justa.",
+    "translation": "Você está feliz com a decisão? / Sim, acho que é justa.",
+    "pronunciation": "/esˈtas konˈtento kon la ðeθiˈsjon",
+    "portuguesePhonetic": "si, ˈkɾeo ke es ˈxusta/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_95",
+    "word": "¿Por qué quedaste decepcionado con la comida? / Estaba fría.",
+    "translation": "Por que você ficou decepcionado com a comida? / Ela estava fria.",
+    "pronunciation": "/poɾ ˈke keˈðaste deθepθjoˈnaðo kon la koˈmiða",
+    "portuguesePhonetic": "esˈtaβa ˈfɾia/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_96",
+    "word": "¿Tu trabajo es similar al mío? / No mucho.",
+    "translation": "Seu trabalho é parecido com o meu? / Não muito.",
+    "pronunciation": "/tu tɾaˈβaxo es simiˈlaɾ al ˈmio",
+    "portuguesePhonetic": "no ˈmutʃo/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_97",
+    "word": "¿Con qué están ilusionados los niños? / Con la excursión del colegio.",
+    "translation": "Com o que as crianças estão animadas? / Com a excursão da escola.",
+    "pronunciation": "/kon ke esˈtan ilusjoˈnaðos los ˈniɲos",
+    "portuguesePhonetic": "kon la ekskuɾˈsjon ðel koˈlexjo/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_98",
+    "word": "¿Por qué no pediste ayuda a la recepcionista? / Estaba ocupada.",
+    "translation": "Por que você não pediu ajuda à recepcionista? / Ela estava ocupada.",
+    "pronunciation": "/poɾ ˈke no peˈðiste aˈʝuða a la reθepθjoˈnista",
+    "portuguesePhonetic": "esˈtaβa okuˈpaða/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_99",
+    "word": "¿Cuánto tiempo llevas esperando al médico? / Casi una hora.",
+    "translation": "Há quanto tempo você está esperando o médico? / Quase uma hora.",
+    "pronunciation": "/ˈkwanto ˈtjempo ˈʝeβas espeˈɾando al ˈmeðiko",
+    "portuguesePhonetic": "ˈkasi una ˈoɾa/"
+  },
+  {
+    "id": "leccion_1_vocabulario_a2_s_card_100",
+    "word": "¿Por qué estás pensando en cambiar de trabajo? / Porque estoy cansado de viajar cada semana.",
+    "translation": "Por que você está pensando em mudar de emprego? / Porque estou cansado de viajar toda semana.",
+    "pronunciation": "/poɾ ˈke esˈtas penˈsando en kamˈbjaɾ ðe tɾaˈβaxo",
+    "portuguesePhonetic": "poɾˈke esˈtoj kanˈsaðo ðe βjaˈxaɾ ˈkaða seˈmana/"
+  }
+]

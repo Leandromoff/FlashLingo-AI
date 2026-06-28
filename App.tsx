@@ -264,22 +264,25 @@ const App: React.FC = () => {
   const toggleGroup = (groupKey: string) => {
     setExpandedGroups((prev) => {
       if (groupKey.startsWith("super_")) {
-        const hasExplicitToggle = Object.keys(prev).some(k => k.startsWith("super_"));
+        const hasExplicitToggle = Object.keys(prev).some((k) =>
+          k.startsWith("super_"),
+        );
         let wasOpen = false;
 
         // Determine if it was currently open
         if (!hasExplicitToggle) {
           // If no state exists, the first one is implicitly open
-          const isFirstItem = groupKey === "super_Grammar" || groupKey === "super_Gramática";
+          const isFirstItem =
+            groupKey === "super_Grammar" || groupKey === "super_Gramática";
           wasOpen = isFirstItem;
         } else {
           wasOpen = prev[groupKey] === true;
         }
 
         const nextState = { ...prev };
-        
+
         // Close all super_ keys
-        Object.keys(nextState).forEach(k => {
+        Object.keys(nextState).forEach((k) => {
           if (k.startsWith("super_")) {
             nextState[k] = false;
           }
@@ -290,13 +293,28 @@ const App: React.FC = () => {
           nextState[groupKey] = true;
         } else {
           // To ensure we remember the user explicitly closed everything, add a dummy key
-          nextState["super_dummy"] = true; 
+          nextState["super_dummy"] = true;
         }
 
         return nextState;
       }
 
-      return { ...prev, [groupKey]: !prev[groupKey] };
+      const isCurrentlyOpen = prev[groupKey] === true;
+      const nextState = { ...prev };
+
+      // Close all non-super groups
+      Object.keys(nextState).forEach((k) => {
+        if (!k.startsWith("super_")) {
+          nextState[k] = false;
+        }
+      });
+
+      // Toggle the targeted group
+      if (!isCurrentlyOpen) {
+        nextState[groupKey] = true;
+      }
+
+      return nextState;
     });
   };
 

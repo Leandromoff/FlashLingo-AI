@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_1",
+    "word": "Simpático / simpática",
+    "translation": "Simpático(a); amigável.",
+    "pronunciation": "/simˈpatiko",
+    "portuguesePhonetic": "simˈpatika/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_2",
+    "word": "Amable",
+    "translation": "Gentil; amável.",
+    "pronunciation": "/aˈmaβle/",
+    "portuguesePhonetic": "amáble."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_3",
+    "word": "Generoso / generosa",
+    "translation": "Generoso(a).",
+    "pronunciation": "/xeneˈɾoso",
+    "portuguesePhonetic": "xeneˈɾosa/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_4",
+    "word": "Optimista",
+    "translation": "Otimista.",
+    "pronunciation": "/optiˈmista/",
+    "portuguesePhonetic": "optimísta."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_5",
+    "word": "Fiable",
+    "translation": "Confiável.",
+    "pronunciation": "/ˈfjaβle/",
+    "portuguesePhonetic": "fiáble."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_6",
+    "word": "Responsable",
+    "translation": "Responsável.",
+    "pronunciation": "/responsaβle/",
+    "portuguesePhonetic": "responsáble."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_7",
+    "word": "Alegre",
+    "translation": "Alegre; bem-humorado(a).",
+    "pronunciation": "/aˈleɣɾe/",
+    "portuguesePhonetic": "alégre."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_8",
+    "word": "Extrovertido / extrovertida",
+    "translation": "Extrovertido(a).",
+    "pronunciation": "/ekstɾoβeɾˈtiðo",
+    "portuguesePhonetic": "ekstɾoβeɾˈtiða/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_9",
+    "word": "Tranquilo / tranquila",
+    "translation": "Tranquilo(a); de trato fácil.",
+    "pronunciation": "/tɾaŋˈkilo",
+    "portuguesePhonetic": "tɾaŋˈkila/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_10",
+    "word": "Trabajador / trabajadora",
+    "translation": "Trabalhador(a); esforçado(a).",
+    "pronunciation": "/tɾaβaxaˈðoɾ",
+    "portuguesePhonetic": "tɾaβaxaˈðoɾa/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_11",
+    "word": "Pesimista",
+    "translation": "Pessimista.",
+    "pronunciation": "/pesiˈmista/",
+    "portuguesePhonetic": "pessímista."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_12",
+    "word": "Antipático / antipática",
+    "translation": "Antipático(a); pouco amigável.",
+    "pronunciation": "/antiˈpatiko",
+    "portuguesePhonetic": "antiˈpatika/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_13",
+    "word": "Maleducado / maleducada",
+    "translation": "Grosseiro(a); mal-educado(a).",
+    "pronunciation": "/maleðuˈkaðo",
+    "portuguesePhonetic": "maleðuˈkaða/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_14",
+    "word": "Cruel",
+    "translation": "Malvado(a); cruel.",
+    "pronunciation": "/kɾuˈel/",
+    "portuguesePhonetic": "cruél."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_15",
+    "word": "Tacaño / tacaña",
+    "translation": "Mesquinho(a); avarento(a).",
+    "pronunciation": "/taˈkaɲo",
+    "portuguesePhonetic": "taˈkaɲa/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_16",
+    "word": "Poco fiable",
+    "translation": "Pouco confiável; não confiável.",
+    "pronunciation": "/ˈpoko ˈfjaβle/",
+    "portuguesePhonetic": "pôco fiáble."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_17",
+    "word": "Irresponsable",
+    "translation": "Irresponsável.",
+    "pronunciation": "/iresponsaβle/",
+    "portuguesePhonetic": "irresponsáble."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_18",
+    "word": "Amargado / amargada",
+    "translation": "Infeliz; amargurado(a).",
+    "pronunciation": "/amaɾˈɣaðo",
+    "portuguesePhonetic": "amaɾˈɣaða/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_19",
+    "word": "Tímido / tímida",
+    "translation": "Tímido(a).",
+    "pronunciation": "/ˈtimiðo",
+    "portuguesePhonetic": "ˈtimiða/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_20",
+    "word": "Perezoso / perezosa",
+    "translation": "Preguiçoso(a).",
+    "pronunciation": "/peɾeˈθoso",
+    "portuguesePhonetic": "peɾeˈθosa/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_21",
+    "word": "Ella es simpática y amable.",
+    "translation": "Ela é simpática e gentil.",
+    "pronunciation": "/ˈeʝa es simˈpatika i aˈmaβle/",
+    "portuguesePhonetic": "êia es simpática i amáble."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_22",
+    "word": "Él es generoso y optimista.",
+    "translation": "Ele é generoso e otimista.",
+    "pronunciation": "/el es xeneˈɾoso i optiˈmista/",
+    "portuguesePhonetic": "él es rrenerôsso i optimísta."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_23",
+    "word": "Mi compañero es fiable y responsable.",
+    "translation": "Meu colega é confiável e responsável.",
+    "pronunciation": "/mi kompaˈɲeɾo es ˈfjaβle i responsaβle/",
+    "portuguesePhonetic": "mi companhêro es fiáble i responsáble."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_24",
+    "word": "Nuestra profesora es alegre y extrovertida.",
+    "translation": "Nossa professora é alegre e extrovertida.",
+    "pronunciation": "/ˈnwestɾa pɾofeˈsoɾa es aˈleɣɾe i ekstɾoβeɾˈtiða/",
+    "portuguesePhonetic": "nuêstra professôra es alégre i extrobertída."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_25",
+    "word": "No es perezoso; es muy trabajador.",
+    "translation": "Ele não é preguiçoso; é muito trabalhador.",
+    "pronunciation": "/no es peɾeˈθoso",
+    "portuguesePhonetic": "es muj tɾaβaxaˈðoɾ/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_26",
+    "word": "Hoy nuestro equipo organiza un evento solidario.",
+    "translation": "Hoje nossa equipe organiza um evento beneficente.",
+    "pronunciation": "/oj ˈnwestɾo eˈkipo oɾɣaˈniθa un eˈβento soliˈðaɾjo/",
+    "portuguesePhonetic": "ôi nuêstro equípo organítha un ebênto solidário."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_27",
+    "word": "Nuestro encargado es simpático y recibe a todo el mundo.",
+    "translation": "Nosso responsável é simpático e recebe todos bem.",
+    "pronunciation": "/ˈnwestɾo eŋkaɾˈɣaðo es simˈpatiko i reˈθiβe a ˈtoðo el ˈmundo/",
+    "portuguesePhonetic": "nuêstro encarregádo es simpático i rethíbe a tôdo el múndo."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_28",
+    "word": "Paula es amable y ayuda a los nuevos voluntarios.",
+    "translation": "Paula é gentil e ayuda os novos voluntários.",
+    "pronunciation": "/ˈpawla es aˈmaβle i aˈʝuða a los ˈnweβos βoluntaˈɾjos/",
+    "portuguesePhonetic": "páula es amáble i aiúda a los nuêbos boluntários."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_29",
+    "word": "Diego es generoso y dona cincuenta euros.",
+    "translation": "Diego é generoso e doa cinquenta euros.",
+    "pronunciation": "/ˈdjeɣo es xeneˈɾoso i ˈdona θiŋˈkwenta ˈewɾos/",
+    "portuguesePhonetic": "diêgo es rrenerôsso i dôna thinquênta êuros."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_30",
+    "word": "Maya es optimista respecto al evento.",
+    "translation": "Maya está otimista em relação ao evento.",
+    "pronunciation": "/ˈmaʝa es optiˈmista resˈpekto al eˈβento/",
+    "portuguesePhonetic": "máia es optimísta respécto al ebênto."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_31",
+    "word": "Carlos es fiable y llega puntual.",
+    "translation": "Carlos é confiável e chega no horário.",
+    "pronunciation": "/ˈkaɾlos es ˈfjaβle i ˈʝeɣa punˈtwal/",
+    "portuguesePhonetic": "cárlos es fiáble i iêga puntuál."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_32",
+    "word": "Emma es responsable de la mesa de donaciones.",
+    "translation": "Emma é responsável pela mesa de doações.",
+    "pronunciation": "/ˈema es responsaβle ðe la ˈmesa ðe donaˈθjones/",
+    "portuguesePhonetic": "êma es responsáble de la mêsa de donathiônes."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_33",
+    "word": "La recepcionista está alegre y sonríe a los invitados.",
+    "translation": "A recepcionista está alegre e sorri para os convidados.",
+    "pronunciation": "/la reθepθjoˈnista esˈta aˈleɣɾe i sonˈrie a los imbiˈtaðos/",
+    "portuguesePhonetic": "la rethepthionísta está alégre i sonríe a los imbitádos."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_34",
+    "word": "Nuestro compañero extrovertido habla con todo el mundo.",
+    "translation": "Nosso colega extrovertido conversa com todos.",
+    "pronunciation": "/ˈnwestɾo kompaˈɲeɾo ekstɾoβeɾˈtiðo ˈaβla kon ˈtoðo el ˈmundo/",
+    "portuguesePhonetic": "nuêstro companhêro extrobertído ábla con tôdo el múndo."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_35",
+    "word": "Ben permanece tranquilo cuando cambia el horario.",
+    "translation": "Ben permanece tranquilo quando o horário muda.",
+    "pronunciation": "/ben peɾmaˈneθe tɾaŋˈkilo ˈkwando ˈkambja el oˈɾaɾjo/",
+    "portuguesePhonetic": "bén permanêthe tranquílo cuándo cámbia el orário."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_36",
+    "word": "Los voluntarios trabajadores decoran toda la sala.",
+    "translation": "Os voluntários esforçados decoram toda a sala.",
+    "pronunciation": "/los βoluntaˈɾjos tɾaβaxaˈðoɾes deˈkoɾan ˈtoða la ˈsala/",
+    "portuguesePhonetic": "los boluntários trabarradóres decôran tôda la sála."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_37",
+    "word": "Un empleado pesimista cree que no vendrá nadie.",
+    "translation": "Um funcionário pessimista acha que ninguém virá.",
+    "pronunciation": "/un empleˈaðo pesiˈmista ˈkɾee ke no βenˈdɾa ˈnaðje/",
+    "portuguesePhonetic": "un empleádo pessímista crêe kê no bendrá nádie."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_38",
+    "word": "Un empleado antipático se niega a saludar a los visitantes.",
+    "translation": "Um funcionário antipático se recusa a cumprimentar os visitantes.",
+    "pronunciation": "/un empleˈaðo antiˈpatiko se ˈnjeɣa a saluˈðaɾ a los βisitanˈtes/",
+    "portuguesePhonetic": "un empleádo antipático sê niêga a saludár a los bissitántes."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_39",
+    "word": "Un invitado maleducado interrumpe al encargado.",
+    "translation": "Um convidado grosseiro interrompe o responsável.",
+    "pronunciation": "/un imbiˈtaðo maleðuˈkaðo inteˈrumpe al eŋkaɾˈɣaðo/",
+    "portuguesePhonetic": "un imbitádo maleducádo interrúmpe al encarregádo."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_40",
+    "word": "Otro invitado es cruel con una voluntaria joven.",
+    "translation": "Outro convidado é cruel com uma jovem voluntária.",
+    "pronunciation": "/ˈotɾo imbiˈtaðo es kɾuˈel kon una βoluntaˈɾja ˈxoβen/",
+    "portuguesePhonetic": "ôtro imbitádo es cruél con una boluntária rrôben."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_41",
+    "word": "Un visitante rico es tacaño y no dona nada.",
+    "translation": "Um visitante rico é avarento e não doa nada.",
+    "pronunciation": "/un βisiˈtante ˈriko es taˈkaɲo i no ˈdona ˈnaða/",
+    "portuguesePhonetic": "un bissitánte ríco es tacánho i no dôna náda."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_42",
+    "word": "El proveedor poco fiable entrega la comida tarde.",
+    "translation": "O fornecedor não confiável entrega a comida atrasada.",
+    "pronunciation": "/el pɾoβeeˈðoɾ ˈpoko ˈfjaβle enˈtɾeɣa la koˈmiða ˈtaɾðe/",
+    "portuguesePhonetic": "el probeedór pôco fiáble entrêga la comída tárde."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_43",
+    "word": "Un voluntario irresponsable olvida las cajas de recaudación.",
+    "translation": "Um voluntário irresponsável esquece as caixas de arrecadação.",
+    "pronunciation": "/un βoluntaˈɾjo iresponsaβle olˈβiða las ˈkaxas ðe rekawðaˈθjon/",
+    "portuguesePhonetic": "un boluntário irresponsáble olbída las cárras de recaodathiôn."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_44",
+    "word": "Un hombre amargado se sienta solo en un rincón.",
+    "translation": "Um homem amargurado fica sentado sozinho em um canto.",
+    "pronunciation": "/un ˈombɾe amaɾˈɣaðo se ˈsjenta ˈsolo en un riŋˈkon/",
+    "portuguesePhonetic": "un ômbre amargádo sê siênta sólo en un rincón."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_45",
+    "word": "El becario tímido no habla con los invitados.",
+    "translation": "O estagiário tímido não conversa com os convidados.",
+    "pronunciation": "/el beˈkaɾjo ˈtimiðo no ˈaβla kon los imbiˈtaðos/",
+    "portuguesePhonetic": "el becário tímido no ábla con los imbitádos."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_46",
+    "word": "Un compañero perezoso mira mientras los demás trabajan.",
+    "translation": "Um colega preguiçoso observa enquanto os outros trabalham.",
+    "pronunciation": "/un kompaˈɲeɾo peɾeˈθoso ˈmiɾa ˈmjentɾas los ðeˈmas tɾaˈβaxan/",
+    "portuguesePhonetic": "un companhêro perethôsso míra miêntras los demáis trabárran."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_47",
+    "word": "El equipo simpático invita al hombre amargado a unirse a ellos.",
+    "translation": "A equipe simpática convida o homem amargurado para se juntar a eles.",
+    "pronunciation": "/el eˈkipo simˈpatiko imˈbita al ˈombɾe amaɾˈɣaðo a uˈniɾse a ˈeʝos/",
+    "portuguesePhonetic": "el equípo simpático imbíta al ômbre amargádo a unírse a êios."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_48",
+    "word": "El becario tímido se vuelve más alegre durante el evento.",
+    "translation": "O estagiário tímido fica mais alegre durante o evento.",
+    "pronunciation": "/el beˈkaɾjo ˈtimiðo se ˈβwelβe mas aˈleɣɾe duˈɾante el eˈβento/",
+    "portuguesePhonetic": "el becário tímido sê buêlbe más alégre duránte el ebênto."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_49",
+    "word": "Gracias al equipo trabajador, el evento es un éxito.",
+    "translation": "Graças à equipe esforçada, o evento é um sucesso.",
+    "pronunciation": "/ˈɡɾaθjas al eˈkipo tɾaβaxaˈðoɾ",
+    "portuguesePhonetic": "el eˈβento es un ˈeksito/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_50",
+    "word": "Todos aprenden que la amabilidad y la responsabilidad marcan la diferencia.",
+    "translation": "Todos aprendem que a gentileza e a responsabilidade fazem a diferença.",
+    "pronunciation": "/ˈtoðos aˈpɾenden ke la amaβiliˈðað i la responsaβiliˈðað ˈmaɾkan la ðifeˈɾenθja/",
+    "portuguesePhonetic": "tódos aprêndem kê la amabilidád i la responsabílidád márcan la diferênthia."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_51",
+    "word": "Nora es simpática.",
+    "translation": "Nora é simpática.",
+    "pronunciation": "/ˈnoɾa es simˈpatika/",
+    "portuguesePhonetic": "nóra es simpática."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_52",
+    "word": "Sam es amable.",
+    "translation": "Sam é gentil.",
+    "pronunciation": "/sam es aˈmaβle/",
+    "portuguesePhonetic": "sám es amáble."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_53",
+    "word": "Leo es generoso.",
+    "translation": "Leo es generoso.",
+    "pronunciation": "/ˈleo es xeneˈɾoso/",
+    "portuguesePhonetic": "lêo es rrenerôsso."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_54",
+    "word": "Mía sigue siendo optimista.",
+    "translation": "Mía continua otimista.",
+    "pronunciation": "/ˈmia ˈsiɣe ˈsjendo optiˈmista/",
+    "portuguesePhonetic": "mía sígue siêndo optimísta."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_55",
+    "word": "Mi ayudante es fiable.",
+    "translation": "Meu assistente é confiável.",
+    "pronunciation": "/mi aʝuˈðante es ˈfjaβle/",
+    "portuguesePhonetic": "mi aiudánte es fiáble."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_56",
+    "word": "La cuidadora es responsable.",
+    "translation": "A cuidadora é responsável.",
+    "pronunciation": "/la kwiðaˈðoɾa es responsaβle/",
+    "portuguesePhonetic": "la cuidadôra es responsáble."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_57",
+    "word": "Nuestro vecino es alegre.",
+    "translation": "Nosso vizinho é alegre.",
+    "pronunciation": "/ˈnwestɾo βeˈθino es aˈleɣɾe/",
+    "portuguesePhonetic": "nuêstro bethíno es alégre."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_58",
+    "word": "Su hermano es extrovertido.",
+    "translation": "O irmão dela é extrovertido.",
+    "pronunciation": "/su eɾˈmano es ekstɾoβeɾˈtiðo/",
+    "portuguesePhonetic": "su ermáno es extrobertído."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_59",
+    "word": "El nuevo entrenador es tranquilo.",
+    "translation": "O novo treinador é tranquilo.",
+    "pronunciation": "/el ˈnweβo entɾenaˈðoɾ es tɾaŋˈkilo/",
+    "portuguesePhonetic": "el nuêbo entrenadór es tranquílo."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_60",
+    "word": "Esos alumnos son muy trabajadores.",
+    "translation": "Aqueles alunos são muito esforçados.",
+    "pronunciation": "/ˈesos aˈlumnos son muj tɾaβaxaˈðoɾes/",
+    "portuguesePhonetic": "êssos alúmnos son múi trabarradóres."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_61",
+    "word": "¿Tu nuevo encargado es fiable?",
+    "translation": "Seu novo responsável é confiável?",
+    "pronunciation": "/tu ˈnweβo eŋkaɾˈɣaðo es ˈfjaβle/",
+    "portuguesePhonetic": "tu nuêbo encarregádo es fiáble?"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_62",
+    "word": "No es extrovertido, pero es muy simpático.",
+    "translation": "Ele não é extrovertido, mas é muito simpático.",
+    "pronunciation": "/no es ekstɾoβeɾˈtiðo",
+    "portuguesePhonetic": "ˈpeɾo es muj simˈpatiko/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_63",
+    "word": "¿Por qué está siendo tan maleducado ese cliente?",
+    "translation": "Por que aquele cliente está sendo tão grosseiro?",
+    "pronunciation": "/poɾ ˈke esˈta ˈsjendo tan maleðuˈkaðo ˈese kliˈente/",
+    "portuguesePhonetic": "por kê está siêndo tan maleducádo êse cliênte?"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_64",
+    "word": "Mi prima parece tímida cuando conoce a gente nueva.",
+    "translation": "Minha prima parece tímida quando conhece pessoas novas.",
+    "pronunciation": "/mi ˈpɾima paˈɾeθe ˈtimiða ˈkwando koˈnoθe a ˈxente ˈnweβa/",
+    "portuguesePhonetic": "mi príma parêthe tímida cuándo conôthe a rrênte nuêba."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_65",
+    "word": "El conductor poco fiable no llegó puntual.",
+    "translation": "O motorista não confiável não chegou no horário.",
+    "pronunciation": "/el kondukˈtoɾ ˈpoko ˈfjaβle no ʝeˈɣo punˈtwal/",
+    "portuguesePhonetic": "el conductór pôco fiáble no iegô puntuál."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_66",
+    "word": "Aunque Julia es pesimista, su marido siempre es optimista.",
+    "translation": "Embora Julia seja pessimista, o marido dela é sempre otimista.",
+    "pronunciation": "/ˈaunke ˈxulja es pesiˈmista",
+    "portuguesePhonetic": "su maˈɾiðo ˈsjempre es optiˈmista/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_67",
+    "word": "El empleado perezoso se queja siempre que alguien le da trabajo.",
+    "translation": "O funcionário preguiçoso reclama sempre que alguém lhe dá trabalho.",
+    "pronunciation": "/el empleˈaðo peɾeˈθoso se ˈkexa ˈsjempre ke ˈalɣjen le ða tɾaˈβaxo/",
+    "portuguesePhonetic": "el empleádo perethôsso sê quêrra siêmpre kê álguien lê dá trabárro."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_68",
+    "word": "Al principio parecía antipática, pero después se mostró más relajada.",
+    "translation": "No início, ela parecia antipática, mas depois se mostrou mais tranquila.",
+    "pronunciation": "/al pɾinˈθipjo paɾeˈθia antiˈpatika",
+    "portuguesePhonetic": "ˈpeɾo desˈpwes se mosˈtɾo mas relaˈxaða/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_69",
+    "word": "Confío en Marcos porque siempre ha sido fiable y responsable.",
+    "translation": "Confio em Marcos porque ele sempre foi confiável e responsável.",
+    "pronunciation": "/komˈfio en ˈmaɾkos poɾˈke ˈsjempre a ˈsiðo ˈfjaβle i responsaβle/",
+    "portuguesePhonetic": "confío en márcos porkê siêmpre a sído fiáble i responsáble."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_70",
+    "word": "La enfermera alegre hizo que el niño asustado se sintiera cómodo.",
+    "translation": "A enfermeira alegre fez a criança assustada se sentir confortável.",
+    "pronunciation": "/la emfeɾˈmeɾa aˈleɣɾe ˈiθo ke el ˈniɲo asusˈtaðo se sinˈtjeɾa ˈkomoðo/",
+    "portuguesePhonetic": "la enfermêra alégre ítho kê el nínho assustádo sê sintiêra cômodo."
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_71",
+    "word": "Aunque era tímida, se presentó a todo el mundo en la fiesta.",
+    "translation": "Embora fosse tímida, ela se apresentou a todos na festa.",
+    "pronunciation": "/ˈaunke ˈeɾa ˈtimiða",
+    "portuguesePhonetic": "se pɾesenˈto a ˈtoðo el ˈmundo en la ˈfjesta/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_72",
+    "word": "Si el proveedor sigue siendo poco fiable, tendremos que buscar otra empresa.",
+    "translation": "Se o fornecedor continuar não sendo confiável, teremos que procurar outra empresa.",
+    "pronunciation": "/si el pɾoβeeˈðoɾ ˈsiɣe ˈsjendo ˈpoko ˈfjaβle",
+    "portuguesePhonetic": "tenˈdɾemos ke busˈkaɾ ˈotɾa emˈpɾesa/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_73",
+    "word": "A veces se confunde a las personas tranquilas con las perezosas, pero son rasgos muy distintos.",
+    "translation": "Às vezes, as pessoas tranquilas são confundidas com as preguiçosas, mas são características muito diferentes.",
+    "pronunciation": "/a ˈβeθes se komˈfunde a las peɾˈsonas tɾaŋˈkilas kon las peɾeˈθosas",
+    "portuguesePhonetic": "ˈpeɾo son ˈrasɣos muj disˈtintos/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_74",
+    "word": "Aunque parecía cruel y antipático, nos sorprendió haciendo una donación generosa.",
+    "translation": "Embora parecesse cruel e antipático, ele nos surpreendeu fazendo uma doação generosa.",
+    "pronunciation": "/ˈaunke paɾeˈθia kɾuˈel i antiˈpatiko",
+    "portuguesePhonetic": "nos soɾpɾenˈdjo aˈθjendo una donaˈθjon xeneˈɾosa/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_75",
+    "word": "Si el equipo hubiera sido menos trabajador y responsable, el proyecto no habría terminado a tiempo.",
+    "translation": "Se a equipe tivesse sido menos esforçada e responsável, o projeto não teria terminado no prazo.",
+    "pronunciation": "/si el eˈkipo uˈβjeɾa ˈsiðo ˈmenos tɾaβaxaˈðoɾ i responsaβle",
+    "portuguesePhonetic": "el pɾoˈʝekto no aˈβɾia teɾmiˈnaðo a ˈtjempo/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_76",
+    "word": "¿Tu nueva vecina es simpática? / Sí, siempre saluda.",
+    "translation": "Sua nova vizinha é simpática? / Sim, ela sempre cumprimenta.",
+    "pronunciation": "/tu ˈnweβa βeˈθina es simˈpatika",
+    "portuguesePhonetic": "si, ˈsjempre saˈluða/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_77",
+    "word": "¿Por qué crees que Ana es amable? / Porque ayuda a todo el mundo.",
+    "translation": "Por que você acha que Ana é gentil? / Porque ela ajuda todos.",
+    "pronunciation": "/poɾ ˈke ˈkɾees ke ˈana es aˈmaβle",
+    "portuguesePhonetic": "poɾˈke aˈʝuða a ˈtoðo el ˈmundo/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_78",
+    "word": "¿Pedro es generoso? / Sí, dona dinero todos los meses.",
+    "translation": "Pedro é generoso? / Sim, doa dinero todos os meses.",
+    "pronunciation": "/ˈpeðɾo es xeneˈɾoso",
+    "portuguesePhonetic": "si, ˈdona ðiˈneɾo ˈtoðos los ˈmeses/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_79",
+    "word": "¿Eres optimista respecto al futuro? / Sí, creo que todo mejorará.",
+    "translation": "Você é otimista em relação ao futuro? / Sim, acho que tudo melhorará.",
+    "pronunciation": "/ˈeɾes optiˈmista resˈpekto al fuˈtuɾo",
+    "portuguesePhonetic": "si, ˈkɾeo ke ˈtoðo mexoɾaˈɾa/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_80",
+    "word": "¿Podemos confiar en este mecánico? / Sí, es muy fiable.",
+    "translation": "Podemos confiar neste mecânico? / Sim, ele é muito confiável.",
+    "pronunciation": "/poˈðemos komˈfjaɾ en ˈeste meˈkaniko",
+    "portuguesePhonetic": "si, es muj ˈfjaβle/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_81",
+    "word": "¿Quién es responsable de las llaves? / Yo.",
+    "translation": "Quem é responsável pelas chaves? / Eu.",
+    "pronunciation": "/ˈkjen es responsaβle ðe las ˈʝaβes",
+    "portuguesePhonetic": "ʝo/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_82",
+    "word": "¿Por qué está Maya tan alegre hoy? / Ha conseguido un trabajo nuevo.",
+    "translation": "Por que Maya está tão alegre hoje? / Ela conseguiu um emprego novo.",
+    "pronunciation": "/poɾ ˈke esˈta ˈmaʝa tan aˈleɣɾe oj",
+    "portuguesePhonetic": "a konseˈɣiðo un tɾaˈβaxo ˈnweβo/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_83",
+    "word": "¿Tu hermano es extrovertido? / Sí, le encanta conocer gente.",
+    "translation": "Seu irmão é extrovertido? / Sim, ele adora conhecer pessoas.",
+    "pronunciation": "/tu eɾˈmano es ekstɾoβeɾˈtiðo",
+    "portuguesePhonetic": "si, le eŋˈkanta konoˈθeɾ ˈxente/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_84",
+    "word": "¿Tu jefa se enfada fácilmente? / No, es muy tranquila.",
+    "translation": "Sua chefe se irrita facilmente? / Não, ela é muito tranquila.",
+    "pronunciation": "/tu ˈxefa se emˈfaða faθilˈmente",
+    "portuguesePhonetic": "no, es muj tɾaŋˈkila/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_85",
+    "word": "¿Quién es la persona más trabajadora de aquí? / Probablemente Nina.",
+    "translation": "Quem é a pessoa mais esforçada daqui? / Provavelmente Nina.",
+    "pronunciation": "/ˈkjen es la peɾˈsona mas tɾaβaxaˈðoɾa ðe aˈki",
+    "portuguesePhonetic": "pɾoβaβleˈmente ˈnina/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_86",
+    "word": "¿Por qué es tan pesimista? / Siempre espera que haya problemas.",
+    "translation": "Por que ele é tão pessimista? / Ele sempre espera que haja problemas.",
+    "pronunciation": "/poɾ ˈke es tan pesiˈmista",
+    "portuguesePhonetic": "ˈsjempre esˈpeɾa ke ˈaʝa pɾoˈβlemas/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_87",
+    "word": "¿El empleado fue simpático? / No, fue bastante antipático.",
+    "translation": "O funcionário foi simpático? / Não, foi bastante antipático.",
+    "pronunciation": "/el empleˈaðo fwe simˈpatiko",
+    "portuguesePhonetic": "no, fwe basˈtante antiˈpatiko/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_88",
+    "word": "¿Por qué fue maleducado el cliente? / Estaba enfadado por el retraso.",
+    "translation": "Por que o cliente foi grosseiro? / Ele estava irritado com o atraso.",
+    "pronunciation": "/poɾ ˈke fwe maleðuˈkaðo el kliˈente",
+    "portuguesePhonetic": "esˈtaβa emfaˈðaðo poɾ el reˈtɾaso/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_89",
+    "word": "¿Tom es cruel con sus compañeros? / A veces.",
+    "translation": "Tom é cruel com os colegas? / Às vezes.",
+    "pronunciation": "/tom es kɾuˈel kon sus kompaˈɲeɾos",
+    "portuguesePhonetic": "a ˈβeθes/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_90",
+    "word": "¿Por qué no quiere pagar la cena? / Porque es tacaño.",
+    "translation": "Por que ele não quer pagar o jantar? / Porque é avarento.",
+    "pronunciation": "/poɾ ˈke no ˈkjeɾe paˈɣaɾ la ˈθena",
+    "portuguesePhonetic": "poɾˈke es taˈkaɲo/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_91",
+    "word": "¿Puedo depender de esta empresa? / No, es poco fiable.",
+    "translation": "Posso depender desta empresa? / Não, ela não é confiável.",
+    "pronunciation": "/ˈpweðo depenˈdeɾ ðe ˈesta emˈpɾesa",
+    "portuguesePhonetic": "no, es ˈpoko ˈfjaβle/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_92",
+    "word": "¿Quién dejó la puerta abierta? / El becario irresponsable.",
+    "translation": "Quem deixou a porta aberta? / O estagiário irresponsável.",
+    "pronunciation": "/ˈkjen deˈxo la ˈpweɾta aˈβjeɾta",
+    "portuguesePhonetic": "el beˈkaɾjo iresponsaβle/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_93",
+    "word": "¿Por qué parece tan amargado Pablo? / Ha tenido un día horrible.",
+    "translation": "Por que Pablo parece tão amargurado? / Ele teve um dia horrível.",
+    "pronunciation": "/poɾ ˈke paˈɾeθe tan amaɾˈɣaðo ˈpaβlo",
+    "portuguesePhonetic": "a teˈniðo un ˈdia oˈriβle/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_94",
+    "word": "¿Tu hija es tímida? / Sí, sobre todo con desconocidos.",
+    "translation": "Sua filha é tímida? / Sim, principalmente com desconhecidos.",
+    "pronunciation": "/tu ˈixa es ˈtimiða",
+    "portuguesePhonetic": "si, ˈsoβɾe ˈtoðo kon deskonoˈθiðos/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_95",
+    "word": "¿Por qué Jack no ha terminado la tarea? / Está siendo perezoso.",
+    "translation": "Por que Jack ainda não terminou a tarefa? / Ele está sendo preguiçoso.",
+    "pronunciation": "/poɾ ˈke dʒak no a teɾmiˈnaðo la taˈɾea",
+    "portuguesePhonetic": "esˈta ˈsjendo peɾeˈθoso/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_96",
+    "word": "¿Cómo es tu nueva profesora? / Es amable, alegre y paciente.",
+    "translation": "Como é sua nova professora? / Ela é gentil, alegre e paciente.",
+    "pronunciation": "/ˈkomo es tu ˈnweβa pɾofeˈsoɾa",
+    "portuguesePhonetic": "es aˈmaβle, aˈleɣɾe i paˈθjente/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_97",
+    "word": "¿Por qué te gusta trabajar con Emma? / Es fiable y tranquila.",
+    "translation": "Por que você gosta de trabalhar com Emma? / Ela é confiável e tranquila.",
+    "pronunciation": "/poɾ ˈke te ˈɣusta tɾaβaˈxaɾ kon ˈema",
+    "portuguesePhonetic": "es ˈfjaβle i tɾaŋˈkila/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_98",
+    "word": "¿Ben se disculpó por ser maleducado? / Sí.",
+    "translation": "Ben pediu desculpas por ter sido grosseiro? / Sim.",
+    "pronunciation": "/ben se ðiskulˈpo poɾ seɾ maleðuˈkaðo",
+    "portuguesePhonetic": "si/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_99",
+    "word": "¿Contratarías a una persona poco fiable? / No, no la contrataría.",
+    "translation": "Você contrataria uma pessoa não confiável? / Não, não a contrataria.",
+    "pronunciation": "/kontɾataˈɾias a una peɾˈsona ˈpoko ˈfjaβle",
+    "portuguesePhonetic": "no, no la kontɾataˈɾia/"
+  },
+  {
+    "id": "leccion_3_vocabulario_a2_s_card_100",
+    "word": "¿Qué características tiene un buen compañero de equipo? / Es responsable, trabajador y amable.",
+    "translation": "Quais características tem um bom integrante de equipe? / É responsável, esforçado e gentil.",
+    "pronunciation": "/ke kaɾakteˈɾistikas ˈtjene un bwen kompaˈɲeɾo ðe eˈkipo",
+    "portuguesePhonetic": "es responsaβle, tɾaβaxaˈðoɾ i aˈmaβle/"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_2_grammar_a2_en_card_1",
+    "word": "I called Peter.",
+    "translation": "Eu liguei para o Peter.",
+    "pronunciation": "/aɪ kɔld ˈpitər/",
+    "portuguesePhonetic": "ái cóld píter."
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_2",
+    "word": "Who did you call?",
+    "translation": "Para quem você ligou?",
+    "pronunciation": "/hu dɪd ju kɔl/",
+    "portuguesePhonetic": "rú did iú cól?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_3",
+    "word": "Peter called me.",
+    "translation": "O Peter ligou para mim.",
+    "pronunciation": "/ˈpitər kɔld mi/",
+    "portuguesePhonetic": "píter cóld mí."
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_4",
+    "word": "Who called you?",
+    "translation": "Quem ligou para você?",
+    "pronunciation": "/hu kɔld ju/",
+    "portuguesePhonetic": "rú cóld iú?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_5",
+    "word": "When the question word is the subject, there is no auxiliary verb.",
+    "translation": "Quando a palavra interrogativa é o sujeito, não há verbo auxiliar.",
+    "pronunciation": "/wɛn ðə ˈkwɛstʃən wɝd ɪz ðə ˈsʌbdʒɪkt, ðɛr ɪz noʊ ɔɡˈzɪljəri vɝb/",
+    "portuguesePhonetic": "uén dâ qüéstchan uârd iz dâ sâbdjikt, dér iz nôu og-zíliéri vârb."
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_6",
+    "word": "Who invited Emma?",
+    "translation": "Quem convidou a Emma?",
+    "pronunciation": "/hu ɪnˈvaɪtɪd ˈɛmə/",
+    "portuguesePhonetic": "rú inváirid éma?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_7",
+    "word": "Who did Emma invite?",
+    "translation": "Quem a Emma convidou?",
+    "pronunciation": "/hu dɪd ˈɛmə ɪnˈvaɪt/",
+    "portuguesePhonetic": "rú did éma inváit?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_8",
+    "word": "What happened?",
+    "translation": "O que aconteceu?",
+    "pronunciation": "/wʌt ˈhæpənd/",
+    "portuguesePhonetic": "uât répand?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_9",
+    "word": "What did you buy?",
+    "translation": "O que você comprou?",
+    "pronunciation": "/wʌt dɪd ju baɪ/",
+    "portuguesePhonetic": "uât did iú bái?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_10",
+    "word": "Who lives here?",
+    "translation": "Quem mora aqui?",
+    "pronunciation": "/hu lɪvz hɪr/",
+    "portuguesePhonetic": "rú livz rír?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_11",
+    "word": "Who do you live with?",
+    "translation": "Com quem você mora?",
+    "pronunciation": "/hu du ju lɪv wɪð/",
+    "portuguesePhonetic": "rú dú iú liv uíth?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_12",
+    "word": "Which bus goes downtown?",
+    "translation": "Qual ônibus vai para o centro?",
+    "pronunciation": "/wɪtʃ bʌs ɡoʊz ˈdaʊnˌtaʊn/",
+    "portuguesePhonetic": "uítch bâs gôuz dáun-táun?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_13",
+    "word": "Which bus did you take?",
+    "translation": "Qual ônibus você pegou?",
+    "pronunciation": "/wɪtʃ bʌs dɪd ju teɪk/",
+    "portuguesePhonetic": "uítch bâs did iú têik?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_14",
+    "word": "What caused the problem?",
+    "translation": "O que causou o problema?",
+    "pronunciation": "/wʌt kɔzd ðə ˈprɑbləm/",
+    "portuguesePhonetic": "uât cózd dâ práblem?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_15",
+    "word": "What did the problem affect?",
+    "translation": "O que o problema afetou?",
+    "pronunciation": "/wʌt dɪd ðə ˈprɑbləm əˈfɛkt/",
+    "portuguesePhonetic": "uât did dâ práblem afékt?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_16",
+    "word": "Who knows the answer?",
+    "translation": "Quem sabe a resposta?",
+    "pronunciation": "/hu noʊz ði ˈænsər/",
+    "portuguesePhonetic": "rú nôuz dhi énser?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_17",
+    "word": "Who do you know here?",
+    "translation": "Quem você conhece aqui?",
+    "pronunciation": "/hu du ju noʊ hɪr/",
+    "portuguesePhonetic": "rú dú iú nôu rír?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_18",
+    "word": "How many people came?",
+    "translation": "Quantas pessoas vieram?",
+    "pronunciation": "/haʊ ˈmɛni ˈpipəl keɪm/",
+    "portuguesePhonetic": "ráu méni pípol kêim?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_19",
+    "word": "How many people did you invite?",
+    "translation": "Quantas pessoas você convidou?",
+    "pronunciation": "/haʊ ˈmɛni ˈpipəl dɪd ju ɪnˈvaɪt/",
+    "portuguesePhonetic": "ráu méni pípol did iú inváit?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_20",
+    "word": "Which employee sent the email?",
+    "translation": "Qual funcionário enviou o e-mail?",
+    "pronunciation": "/wɪtʃ ɛmˈplɔɪi sɛnt ði ˈimeɪl/",
+    "portuguesePhonetic": "uítch emplói sênt dhi ímeil?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_21",
+    "word": "Which employee did you email?",
+    "translation": "Para qual funcionário você enviou um e-mail?",
+    "pronunciation": "/wɪtʃ ɛmˈplɔɪi dɪd ju ˈimeɪl/",
+    "portuguesePhonetic": "uítch emplói did iú ímeil?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_22",
+    "word": "What makes you happy?",
+    "translation": "O que deixa você feliz?",
+    "pronunciation": "/wʌt meɪks ju ˈhæpi/",
+    "portuguesePhonetic": "uât mêiks iú répi?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_23",
+    "word": "What do you make at work?",
+    "translation": "O que você produz no trabalho?",
+    "pronunciation": "/wʌt du ju meɪk æt wɝk/",
+    "portuguesePhonetic": "uât dú iú mêik ét uârk?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_24",
+    "word": "Who needs help?",
+    "translation": "Quem precisa de ajuda?",
+    "pronunciation": "/hu nidz hɛlp/",
+    "portuguesePhonetic": "rú nídz rélp?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_25",
+    "word": "Who do you need to help?",
+    "translation": "Quem você precisa ajudar?",
+    "pronunciation": "/hu du ju nid tə hɛlp/",
+    "portuguesePhonetic": "rú dú iú níd tâ rélp?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_26",
+    "word": "Who arrived first this morning?",
+    "translation": "Quem chegou primeiro hoje de manhã?",
+    "pronunciation": "/hu əˈraɪvd fɝst ðɪs ˈmɔrnɪŋ/",
+    "portuguesePhonetic": "rú arráivd fârst dhis mórnin?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_27",
+    "word": "Who opened the office?",
+    "translation": "Quem abriu o escritório?",
+    "pronunciation": "/hu ˈoʊpənd ði ˈɔfɪs/",
+    "portuguesePhonetic": "rú ôupand dhi ófis?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_28",
+    "word": "Who did Sarah meet at the entrance?",
+    "translation": "Quem a Sarah encontrou na entrada?",
+    "pronunciation": "/hu dɪd ˈsɛrə mit æt ði ˈɛntrəns/",
+    "portuguesePhonetic": "rú did séra mít ét dhi éntrans?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_29",
+    "word": "What was making that noise?",
+    "translation": "O que estava fazendo aquele barulho?",
+    "pronunciation": "/wʌt wəz ˈmeɪkɪŋ ðæt nɔɪz/",
+    "portuguesePhonetic": "uât uâz mêikin dhét nóiz?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_30",
+    "word": "What did the receptionist hear?",
+    "translation": "O que a recepcionista ouviu?",
+    "pronunciation": "/wʌt dɪd ðə rɪˈsɛpʃənɪst hɪr/",
+    "portuguesePhonetic": "uât did dâ rissépchanist rír?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_31",
+    "word": "Which computer stopped working?",
+    "translation": "Qual computador parou de funcionar?",
+    "pronunciation": "/wɪtʃ kəmˈpjutər stɑpt ˈwɝkɪŋ/",
+    "portuguesePhonetic": "uítch compiúter stápt uârkin?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_32",
+    "word": "Who reported the problem?",
+    "translation": "Quem relatou o problema?",
+    "pronunciation": "/hu rɪˈpɔrtɪd ðə ˈprɑbləm/",
+    "portuguesePhonetic": "rú ripórtid dâ práblem?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_33",
+    "word": "Who did the manager call?",
+    "translation": "Para quem o gerente ligou?",
+    "pronunciation": "/hu dɪd ðə ˈmænɪdʒər kɔl/",
+    "portuguesePhonetic": "rú did dâ ménidjer cól?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_34",
+    "word": "Who answered the phone?",
+    "translation": "Quem atendeu o telefone?",
+    "pronunciation": "/hu ˈænsərd ðə foʊn/",
+    "portuguesePhonetic": "rú énserd dâ fôun?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_35",
+    "word": "What caused the network outage?",
+    "translation": "O que causou a indisponibilidade da rede?",
+    "pronunciation": "/wʌt kɔzd ðə ˈnɛtˌwɝk ˈaʊtɪdʒ/",
+    "portuguesePhonetic": "uât cózd dâ nét-uârk áutidj?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_36",
+    "word": "What did the outage interrupt?",
+    "translation": "O que a indisponibilidade interrompeu?",
+    "pronunciation": "/wʌt dɪd ði ˈaʊtɪdʒ ˌɪntəˈrʌpt/",
+    "portuguesePhonetic": "uât did dhi áutidj interâpt?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_37",
+    "word": "Which technician checked the switches?",
+    "translation": "Qual técnico verificou os switches?",
+    "pronunciation": "/wɪtʃ tɛkˈnɪʃən tʃɛkt ðə ˈswɪtʃɪz/",
+    "portuguesePhonetic": "uítch tekníshan tchékt dâ suí-tchiz?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_38",
+    "word": "Which switches did the technician check?",
+    "translation": "Quais switches o técnico verificou?",
+    "pronunciation": "/wɪtʃ ˈswɪtʃɪz dɪd ðə tɛkˈnɪʃən tʃɛk/",
+    "portuguesePhonetic": "uítch suí-tchiz did dâ tekníshan tchék?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_39",
+    "word": "Who found the disconnected cable?",
+    "translation": "Quem encontrou o cabo desconectado?",
+    "pronunciation": "/hu faʊnd ðə ˌdɪskəˈnɛktɪd ˈkeɪbəl/",
+    "portuguesePhonetic": "rú fáund dâ discanéktid kêibol?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_40",
+    "word": "Who did the technician ask for assistance?",
+    "translation": "A quem o técnico pediu ajuda?",
+    "pronunciation": "/hu dɪd ðə tɛkˈnɪʃən æsk fər əˈsɪstəns/",
+    "portuguesePhonetic": "rú did dâ tekníshan ésk for assístans?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_41",
+    "word": "What fixed the connection?",
+    "translation": "O que corrigiu a conexão?",
+    "pronunciation": "/wʌt fɪkst ðə kəˈnɛkʃən/",
+    "portuguesePhonetic": "uât fikst dâ canékshan?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_42",
+    "word": "What did they reconnect?",
+    "translation": "O que eles reconectaram?",
+    "pronunciation": "/wʌt dɪd ðeɪ ˌrikəˈnɛkt/",
+    "portuguesePhonetic": "uât did dhêi rícanékt?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_43",
+    "word": "Which applications started working again?",
+    "translation": "Quais aplicativos voltaram a funcionar?",
+    "pronunciation": "/wɪtʃ ˌæpləˈkeɪʃənz ˈstɑrtɪd ˈwɝkɪŋ əˈɡɛn/",
+    "portuguesePhonetic": "uítch aplikeishans stártid uârkin aguén?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_44",
+    "word": "Who tested the internet connection?",
+    "translation": "Quem testou a conexão com a internet?",
+    "pronunciation": "/hu ˈtɛstɪd ði ˈɪntərˌnɛt kəˈnɛkʃən/",
+    "portuguesePhonetic": "rú téstid dhi ínternet canékshan?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_45",
+    "word": "Who did the manager inform?",
+    "translation": "Quem o gerente informou?",
+    "pronunciation": "/hu dɪd ðə ˈmænɪdʒər ɪnˈfɔrm/",
+    "portuguesePhonetic": "rú did dâ ménidjer infórm?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_46",
+    "word": "What delayed the morning meeting?",
+    "translation": "O que atrasou a reunião da manhã?",
+    "pronunciation": "/wʌt dɪˈleɪd ðə ˈmɔrnɪŋ ˈmitɪŋ/",
+    "portuguesePhonetic": "uât dilêid dâ mórnin mírin?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_47",
+    "word": "What did the team discuss during the meeting?",
+    "translation": "O que a equipe discutiu durante a reunião?",
+    "pronunciation": "/wʌt dɪd ðə tim dɪˈskʌs ˈdʊrɪŋ ðə ˈmitɪŋ/",
+    "portuguesePhonetic": "uât did dâ tím discâs dúrin dâ mírin?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_48",
+    "word": "Who prepared the incident report?",
+    "translation": "Quem preparou o relatório do incidente?",
+    "pronunciation": "/hu prɪˈpɛrd ði ˈɪnsɪdənt rɪˈpɔrt/",
+    "portuguesePhonetic": "rú pripérd dhi íncidant ripórt?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_49",
+    "word": "Who did the director thank?",
+    "translation": "A quem o diretor agradeceu?",
+    "pronunciation": "/hu dɪd ðə dəˈrɛktər θæŋk/",
+    "portuguesePhonetic": "rú did dâ diréktor thénk?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_50",
+    "word": "What prevented the problem from happening again?",
+    "translation": "O que impediu que o problema acontecesse novamente?",
+    "pronunciation": "/wʌt prɪˈvɛntɪd ðə ˈprɑbləm frəm ˈhæpənɪŋ əˈɡɛn/",
+    "portuguesePhonetic": "uât privéntid dâ práblem frâm répannin aguén?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_51",
+    "word": "Who cooks dinner?",
+    "translation": "Quem prepara o jantar?",
+    "pronunciation": "/hu kʊks ˈdɪnər/",
+    "portuguesePhonetic": "rú kúks díner?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_52",
+    "word": "What fell down?",
+    "translation": "O que caiu?",
+    "pronunciation": "/wʌt fɛl daʊn/",
+    "portuguesePhonetic": "uât fél dáun?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_53",
+    "word": "Who broke the glass?",
+    "translation": "Quem quebrou o copo?",
+    "pronunciation": "/hu broʊk ðə ɡlæs/",
+    "portuguesePhonetic": "rú brôuk dâ glés?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_54",
+    "word": "What woke you up?",
+    "translation": "O que acordou você?",
+    "pronunciation": "/wʌt woʊk ju ʌp/",
+    "portuguesePhonetic": "uât uôuk iú âp?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_55",
+    "word": "Who wants some coffee?",
+    "translation": "Quem quer café?",
+    "pronunciation": "/hu wɑnts səm ˈkɔfi/",
+    "portuguesePhonetic": "rú uánts sâm cófi?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_56",
+    "word": "Who does the cooking at home?",
+    "translation": "Quem cozinha em casa?",
+    "pronunciation": "/hu dʌz ðə ˈkʊkɪŋ æt hoʊm/",
+    "portuguesePhonetic": "rú dâz dâ kúkin ét rôum?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_57",
+    "word": "Who did you see outside?",
+    "translation": "Quem você viu lá fora?",
+    "pronunciation": "/hu dɪd ju si ˌaʊtˈsaɪd/",
+    "portuguesePhonetic": "rú did iú sí áut-sáid?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_58",
+    "word": "What frightened the dog?",
+    "translation": "O que assustou o cachorro?",
+    "pronunciation": "/wʌt ˈfraɪtənd ðə dɔɡ/",
+    "portuguesePhonetic": "uât fráitand dâ dóg?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_59",
+    "word": "Which student finished first?",
+    "translation": "Qual aluno terminou primeiro?",
+    "pronunciation": "/wɪtʃ ˈstudənt ˈfɪnɪʃt fɝst/",
+    "portuguesePhonetic": "uítch stiúdant fínisht fârst?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_60",
+    "word": "Which exercise did the student finish?",
+    "translation": "Qual exercício o aluno terminou?",
+    "pronunciation": "/wɪtʃ ˈɛksərˌsaɪz dɪd ðə ˈstudənt ˈfɪnɪʃ/",
+    "portuguesePhonetic": "uítch éksersáiz did dâ stiúdant fínish?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_61",
+    "word": "Who has taken my chair?",
+    "translation": "Quem pegou minha cadeira?",
+    "pronunciation": "/hu hæz ˈteɪkən maɪ tʃɛr/",
+    "portuguesePhonetic": "rú réz têikan mái tchér?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_62",
+    "word": "Who have you asked about the chair?",
+    "translation": "A quem você perguntou sobre a cadeira?",
+    "pronunciation": "/hu hæv ju æskt əˈbaʊt ðə tʃɛr/",
+    "portuguesePhonetic": "rú rév iú éskt abáut dâ tchér?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_63",
+    "word": "What has changed since yesterday?",
+    "translation": "O que mudou desde ontem?",
+    "pronunciation": "/wʌt hæz tʃeɪndʒd sɪns ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "uât réz tchêindjd sins iésterdêi?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_64",
+    "word": "What have they changed in the system?",
+    "translation": "O que eles mudaram no sistema?",
+    "pronunciation": "/wʌt hæv ðeɪ tʃeɪndʒd ɪn ðə ˈsɪstəm/",
+    "portuguesePhonetic": "uât rév dhêi tchêindjd in dâ sístem?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_65",
+    "word": "Who was waiting when you arrived?",
+    "translation": "Quem estava esperando quando você chegou?",
+    "pronunciation": "/hu wəz ˈweɪtɪŋ wɛn ju əˈraɪvd/",
+    "portuguesePhonetic": "rú uâz uêirin uén iú arráivd?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_66",
+    "word": "Who were you waiting for when I called?",
+    "translation": "Por quem você estava esperando quando eu liguei?",
+    "pronunciation": "/hu wɝ ju ˈweɪtɪŋ fɔr wɛn aɪ kɔld/",
+    "portuguesePhonetic": "rú uâr iú uêirin fór uén ái cóld?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_67",
+    "word": "What was causing the alarm to ring?",
+    "translation": "O que estava fazendo o alarme tocar?",
+    "pronunciation": "/wʌt wəz ˈkɔzɪŋ ði əˈlɑrm tə rɪŋ/",
+    "portuguesePhonetic": "uât uâz cózin dhi alárm tâ ring?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_68",
+    "word": "What were the technicians checking when the alarm rang?",
+    "translation": "O que os técnicos estavam verificando quando o alarme tocou?",
+    "pronunciation": "/wʌt wɝ ðə tɛkˈnɪʃənz ˈtʃɛkɪŋ wɛn ði əˈlɑrm ræŋ/",
+    "portuguesePhonetic": "uât uâr dâ tekníshans tchékin uén dhi alárm réng?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_69",
+    "word": "Who will lead the project if Maria is unavailable?",
+    "translation": "Quem liderará o projeto se a Maria estiver indisponível?",
+    "pronunciation": "/hu wɪl lid ðə ˈprɑdʒɛkt ɪf məˈriə ɪz ˌʌnəˈveɪləbəl/",
+    "portuguesePhonetic": "rú uil líd dâ pródjékt if maría iz anavêilabol?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_70",
+    "word": "Who will the director choose if Maria is unavailable?",
+    "translation": "Quem o diretor escolherá se a Maria estiver indisponível?",
+    "pronunciation": "/hu wɪl ðə dəˈrɛktər tʃuz ɪf məˈriə ɪz ˌʌnəˈveɪləbəl/",
+    "portuguesePhonetic": "rú uil dâ diréktor tchúz if maría iz anavêilabol?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_71",
+    "word": "What might have caused the failure even though the equipment was new?",
+    "translation": "O que pode ter causado a falha, embora o equipamento fosse novo?",
+    "pronunciation": "/wʌt maɪt hæv kɔzd ðə ˈfeɪljər ˈivən ðoʊ ði ɪˈkwɪpmənt wəz nu/",
+    "portuguesePhonetic": "uât máit rév cózd dâ fêiliâr ívan dhôu dhi iqüípment uâz nú?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_72",
+    "word": "What might the failure have damaged before the system shut down?",
+    "translation": "O que a falha pode ter danificado antes de o sistema desligar?",
+    "pronunciation": "/wʌt maɪt ðə ˈfeɪljər hæv ˈdæmɪdʒd bɪˈfɔr ðə ˈsɪstəm ʃʌt daʊn/",
+    "portuguesePhonetic": "uât máit dâ fêiliâr rév démidjd bifór dâ sístem shât dáun?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_73",
+    "word": "Who had already left when the manager announced the change?",
+    "translation": "Quem já havia saído quando o gerente anunciou a mudança?",
+    "pronunciation": "/hu hæd ɔlˈrɛdi lɛft wɛn ðə ˈmænɪdʒər əˈnaʊnst ðə tʃeɪndʒ/",
+    "portuguesePhonetic": "rú réd ólréri léft uén dâ ménidjer anáunst dâ tchêindj?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_74",
+    "word": "Who had the manager informed before he announced the change?",
+    "translation": "Quem o gerente havia informado antes de anunciar a mudança?",
+    "pronunciation": "/hu hæd ðə ˈmænɪdʒər ɪnˈfɔrmd bɪˈfɔr hi əˈnaʊnst ðə tʃeɪndʒ/",
+    "portuguesePhonetic": "rú réd dâ ménidjer infórmd bifór rí anáunst dâ tchêindj?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_75",
+    "word": "What could have prevented the accident if the warning had been noticed earlier?",
+    "translation": "O que poderia ter evitado o acidente se o aviso tivesse sido percebido antes?",
+    "pronunciation": "/wʌt kʊd hæv prɪˈvɛntɪd ði ˈæksɪdənt ɪf ðə ˈwɔrnɪŋ hæd bɪn ˈnoʊtɪst ˈɝliər/",
+    "portuguesePhonetic": "uât cud rév privéntid dhi éksidant if dâ uórnin réd bin nôutist ârliâr?"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_76",
+    "word": "Who made breakfast? / My father did.",
+    "translation": "Quem preparou o café da manhã? / Meu pai.",
+    "pronunciation": "/hu meɪd ˈbrɛkfəst",
+    "portuguesePhonetic": "maɪ ˈfɑðər dɪd/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_77",
+    "word": "Who did you make breakfast for? / My children.",
+    "translation": "Para quem você preparou o café da manhã? / Para meus filhos.",
+    "pronunciation": "/hu dɪd ju meɪk ˈbrɛkfəst fɔr",
+    "portuguesePhonetic": "maɪ ˈtʃɪldrən/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_78",
+    "word": "What woke you up? / The alarm.",
+    "translation": "O que acordou você? / O alarme.",
+    "pronunciation": "/wʌt woʊk ju ʌp",
+    "portuguesePhonetic": "ði əˈlɑrm/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_79",
+    "word": "What did you turn off? / The alarm.",
+    "translation": "O que você desligou? / O alarme.",
+    "pronunciation": "/wʌt dɪd ju tɝn ɔf",
+    "portuguesePhonetic": "ði əˈlɑrm/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_80",
+    "word": "Who is using the bathroom? / Daniel is.",
+    "translation": "Quem está usando o banheiro? / O Daniel.",
+    "pronunciation": "/hu ɪz ˈjuzɪŋ ðə ˈbæθˌrum",
+    "portuguesePhonetic": "ˈdænjəl ɪz/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_81",
+    "word": "Who are you waiting for? / My sister.",
+    "translation": "Por quem você está esperando? / Pela minha irmã.",
+    "pronunciation": "/hu ɑr ju ˈweɪtɪŋ fɔr",
+    "portuguesePhonetic": "maɪ ˈsɪstər/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_82",
+    "word": "Which bus stops here? / Bus number twelve.",
+    "translation": "Qual ônibus para aqui? / O ônibus número doze.",
+    "pronunciation": "/wɪtʃ bʌs stɑps hɪr",
+    "portuguesePhonetic": "bʌs ˈnʌmbər twɛlv/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_83",
+    "word": "Which bus did you miss? / Bus number twelve.",
+    "translation": "Qual ônibus você perdeu? / O ônibus número doze.",
+    "pronunciation": "/wɪtʃ bʌs dɪd ju mɪs",
+    "portuguesePhonetic": "bʌs ˈnʌmbər twɛlv/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_84",
+    "word": "Who ordered this coffee? / I did.",
+    "translation": "Quem pediu este café? / Eu.",
+    "pronunciation": "/hu ˈɔrdərd ðɪs ˈkɔfi",
+    "portuguesePhonetic": "aɪ dɪd/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_85",
+    "word": "What did you order? / A large coffee.",
+    "translation": "O que você pediu? / Um café grande.",
+    "pronunciation": "/wʌt dɪd ju ˈɔrdər",
+    "portuguesePhonetic": "ə lɑrdʒ ˈkɔfi/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_86",
+    "word": "Who needs the meeting room? / The sales team.",
+    "translation": "Quem precisa da sala de reunião? / A equipe de vendas.",
+    "pronunciation": "/hu nidz ðə ˈmitɪŋ rum",
+    "portuguesePhonetic": "ðə seɪlz tim/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_87",
+    "word": "Who did the sales team invite? / A new client.",
+    "translation": "Quem a equipe de vendas convidou? / Um novo cliente.",
+    "pronunciation": "/hu dɪd ðə seɪlz tim ɪnˈvaɪt",
+    "portuguesePhonetic": "ə nu ˈklaɪənt/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_88",
+    "word": "What caused the delay? / Heavy traffic.",
+    "translation": "O que causou o atraso? / Trânsito intenso.",
+    "pronunciation": "/wʌt kɔzd ðə dɪˈleɪ",
+    "portuguesePhonetic": "ˈhɛvi ˈtræfɪk/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_89",
+    "word": "What did the delay affect? / The morning schedule.",
+    "translation": "O que o atraso afetou? / A programação da manhã.",
+    "pronunciation": "/wʌt dɪd ðə dɪˈleɪ əˈfɛkt",
+    "portuguesePhonetic": "ðə ˈmɔrnɪŋ ˈskɛdʒul/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_90",
+    "word": "Who sent this document? / The finance department.",
+    "translation": "Quem enviou este documento? / O departamento financeiro.",
+    "pronunciation": "/hu sɛnt ðɪs ˈdɑkjəmənt",
+    "portuguesePhonetic": "ðə fəˈnæns dɪˈpɑrtmənt/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_91",
+    "word": "Who did you send the document to? / The director.",
+    "translation": "Para quem você enviou o documento? / Para o diretor.",
+    "pronunciation": "/hu dɪd ju sɛnd ðə ˈdɑkjəmənt tu",
+    "portuguesePhonetic": "ðə dəˈrɛktər/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_92",
+    "word": "What is blocking the entrance? / A delivery truck.",
+    "translation": "O que está bloqueando a entrada? / Um caminhão de entrega.",
+    "pronunciation": "/wʌt ɪz ˈblɑkɪŋ ði ˈɛntrəns",
+    "portuguesePhonetic": "ə dɪˈlɪvəri trʌk/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_93",
+    "word": "What are the workers unloading? / New furniture.",
+    "translation": "O que os trabalhadores estão descarregando? / Móveis novos.",
+    "pronunciation": "/wʌt ɑr ðə ˈwɝkərz ʌnˈloʊdɪŋ",
+    "portuguesePhonetic": "nu ˈfɝnɪtʃər/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_94",
+    "word": "Who has finished the report? / Amanda has.",
+    "translation": "Quem terminou o relatório? / A Amanda.",
+    "pronunciation": "/hu hæz ˈfɪnɪʃt ðə rɪˈpɔrt",
+    "portuguesePhonetic": "əˈmændə hæz/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_95",
+    "word": "Who have you shown the report to? / My supervisor.",
+    "translation": "Para quem você mostrou o relatório? / Para meu supervisor.",
+    "pronunciation": "/hu hæv ju ʃoʊn ðə rɪˈpɔrt tu",
+    "portuguesePhonetic": "maɪ ˈsupərˌvaɪzər/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_96",
+    "word": "Who was talking when the lights went out? / The instructor.",
+    "translation": "Quem estava falando quando as luzes se apagaram? / O instrutor.",
+    "pronunciation": "/hu wəz ˈtɔkɪŋ wɛn ðə laɪts wɛnt aʊt",
+    "portuguesePhonetic": "ði ɪnˈstrʌktər/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_97",
+    "word": "What were you discussing when the lights went out? / The safety plan.",
+    "translation": "O que vocês estavam discutindo quando as luzes se apagaram? / O plano de segurança.",
+    "pronunciation": "/wʌt wɝ ju dɪˈskʌsɪŋ wɛn ðə laɪts wɛnt aʊt",
+    "portuguesePhonetic": "ðə ˈseɪfti plæn/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_98",
+    "word": "Who will replace the damaged equipment? / The maintenance team.",
+    "translation": "Quem substituirá o equipamento danificado? / A equipe de manutenção.",
+    "pronunciation": "/hu wɪl rɪˈpleɪs ðə ˈdæmɪdʒd ɪˈkwɪpmənt",
+    "portuguesePhonetic": "ðə ˈmeɪntənəns tim/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_99",
+    "word": "Who will the maintenance team contact first? / The supplier.",
+    "translation": "Quem a equipe de manutenção contatará primeiro? / O fornecedor.",
+    "pronunciation": "/hu wɪl ðə ˈmeɪntənəns tim ˈkɑnˌtækt fɝst",
+    "portuguesePhonetic": "ðə səˈplaɪər/"
+  },
+  {
+    "id": "lesson_2_grammar_a2_en_card_100",
+    "word": "What prevented a more serious failure? / The automatic shutdown system.",
+    "translation": "O que evitou uma falha mais grave? / O sistema de desligamento automático.",
+    "pronunciation": "/wʌt prɪˈvɛntɪd ə mɔr ˈsɪriəs ˈfeɪljər",
+    "portuguesePhonetic": "ði ˌɔtəˈmætɪk ˈʃʌtˌdaʊn ˈsɪstəm/"
+  }
+]

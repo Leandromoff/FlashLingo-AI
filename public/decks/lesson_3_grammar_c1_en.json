@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_3_grammar_c1_en_card_1",
+    "word": "Every day, my grandad will tell the same stories.",
+    "translation": "Todo dia, meu avô conta as mesmas histórias. (hábito característico)",
+    "pronunciation": "/ˈɛvri deɪ maɪ ˈɡrændæd wɪl tɛl ðə seɪm ˈstɔːriz/",
+    "portuguesePhonetic": "[évri dêi mái grénded uíou tél dha sêim stóriz]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_2",
+    "word": "Oil will float on water.",
+    "translation": "O óleo flutua na água. (verdade sempre)",
+    "pronunciation": "/ɔɪl wɪl floʊt ɑːn ˈwɔːtər/",
+    "portuguesePhonetic": "[óiou uíou flôut ón uóter]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_3",
+    "word": "The car won't start.",
+    "translation": "O carro não quer pegar. (recusa)",
+    "pronunciation": "/ðə kɑːr woʊnt stɑːrt/",
+    "portuguesePhonetic": "[dha kár uôunt stárt]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_4",
+    "word": "She won't listen to anything you say.",
+    "translation": "Ela não quer ouvir nada que você diz. (crítica)",
+    "pronunciation": "/ʃiː woʊnt ˈlɪsn̩ tə ˈɛniθɪŋ juː seɪ/",
+    "portuguesePhonetic": "[chí uôunt lísan tu énithin iú sêi]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_5",
+    "word": "That'll be Mary.",
+    "translation": "Deve ser a Mary. (suposição sobre o presente)",
+    "pronunciation": "/ðætl̩ biː ˈmɛri/",
+    "portuguesePhonetic": "[dhétou bí méri]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_6",
+    "word": "She'll have left by now.",
+    "translation": "Ela já deve ter ido a essa altura. (dedução)",
+    "pronunciation": "/ʃiːl hæv lɛft baɪ naʊ/",
+    "portuguesePhonetic": "[chíou rrév léft bái náu]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_7",
+    "word": "When we were students, we would stay up late.",
+    "translation": "Quando éramos estudantes, ficávamos acordados até tarde. (hábito passado)",
+    "pronunciation": "/wɛn wiː wɜːr ˈstuːdənts wiː wʊd steɪ ʌp leɪt/",
+    "portuguesePhonetic": "[uén uí uâr stúdents uí uúd stêi âp lêit]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_8",
+    "word": "The river would freeze in winter.",
+    "translation": "O rio congelava no inverno. (verdade passada)",
+    "pronunciation": "/ðə ˈrɪvər wʊd friːz ɪn ˈwɪntər/",
+    "portuguesePhonetic": "[dha ríver uúd fríz in uínter]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_9",
+    "word": "The car wouldn't start yesterday.",
+    "translation": "O carro não quis pegar ontem. (recusa passada)",
+    "pronunciation": "/ðə kɑːr ˈwʊdnt stɑːrt ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[dha kár uúdent stárt iéster dei]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_10",
+    "word": "She wouldn't listen to anything you said.",
+    "translation": "Ela não queria ouvir nada que você dizia. (crítica passada)",
+    "pronunciation": "/ʃiː ˈwʊdnt ˈlɪsn̩ tə ˈɛniθɪŋ juː sɛd/",
+    "portuguesePhonetic": "[chí uúdent lísan tu énithin iú séd]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_11",
+    "word": "I would've helped, but he said no.",
+    "translation": "Eu teria ajudado, mas ele disse não. (situação imaginária)",
+    "pronunciation": "/aɪ ˈwʊdəv hɛlpt bʌt hiː sɛd noʊ/",
+    "portuguesePhonetic": "[ái uúdav rrélpt bât rrí séd nôu]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_12",
+    "word": "I'd have to agree with you on that.",
+    "translation": "Eu teria que concordar com você nisso. (polidez/cautela)",
+    "pronunciation": "/aɪd hæv tə əˈɡriː wɪð juː ɑːn ðæt/",
+    "portuguesePhonetic": "[áid rrév tu agrí uídh iú ón dhét]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_13",
+    "word": "People should treat others with respect.",
+    "translation": "As pessoas deveriam tratar os outros com respeito. (recomendação)",
+    "pronunciation": "/ˈpiːpl̩ ʃʊd triːt ˈʌðərz wɪð rɪˈspɛkt/",
+    "portuguesePhonetic": "[pípou chúd trít âdherz uídh rispékt]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_14",
+    "word": "That should be enough to fix the problem.",
+    "translation": "Isso deveria ser suficiente para resolver o problema. (conclusão lógica)",
+    "pronunciation": "/ðæt ʃʊd biː ɪˈnʌf tə fɪks ðə ˈprɑːbləm/",
+    "portuguesePhonetic": "[dhét chúd bí inâf tu fíks dha práblam]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_15",
+    "word": "He should be home by now.",
+    "translation": "Ele já deveria estar em casa. (expectativa)",
+    "pronunciation": "/hiː ʃʊd biː hoʊm baɪ naʊ/",
+    "portuguesePhonetic": "[rrí chúd bí rrôum bái náu]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_16",
+    "word": "The results should be ready tomorrow.",
+    "translation": "Os resultados deveriam estar prontos amanhã.",
+    "pronunciation": "/ðə rɪˈzʌlts ʃʊd biː ˈrɛdi təˈmɑːroʊ/",
+    "portuguesePhonetic": "[dha rizâlts chúd bí rédi tumárou]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_17",
+    "word": "They shouldn't have spoken to her like that.",
+    "translation": "Eles não deveriam ter falado com ela daquele jeito. (arrependimento)",
+    "pronunciation": "/ðeɪ ˈʃʊdnt hæv ˈspoʊkən tə hɜːr laɪk ðæt/",
+    "portuguesePhonetic": "[dhêi chúdent rrév spôukan tu rrâr láik dhét]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_18",
+    "word": "I suggest that he should apologize.",
+    "translation": "Eu sugiro que ele se desculpe. (formal, that-clause)",
+    "pronunciation": "/aɪ səˈdʒɛst ðæt hiː ʃʊd əˈpɑːlədʒaɪz/",
+    "portuguesePhonetic": "[ái sadjést dhét rrí chúd apáladjaiz]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_19",
+    "word": "It's essential that we should act quickly.",
+    "translation": "É essencial que ajamos rápido. (formal)",
+    "pronunciation": "/ɪts ɪˈsɛnʃl̩ ðæt wiː ʃʊd ækt ˈkwɪkli/",
+    "portuguesePhonetic": "[íts isénchou dhét uí chúd ékt kuíkli]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_20",
+    "word": "If you should need any help, just let me know.",
+    "translation": "Se você precisar de ajuda, é só avisar. (condicional formal)",
+    "pronunciation": "/ɪf juː ʃʊd niːd ˈɛni hɛlp dʒʌst lɛt miː noʊ/",
+    "portuguesePhonetic": "[if iú chúd níd éni rrélp djâst lét mí nôu]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_21",
+    "word": "Take my number in case you should need anything.",
+    "translation": "Pegue meu número caso precise de algo. (formal)",
+    "pronunciation": "/teɪk maɪ ˈnʌmbər ɪn keɪs juː ʃʊd niːd ˈɛniθɪŋ/",
+    "portuguesePhonetic": "[têik mái nâmber in kêis iú chúd níd énithin]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_22",
+    "word": "will have + past participle = deduction.",
+    "translation": "will have + particípio = dedução.",
+    "pronunciation": "/wɪl hæv pæst ˈpɑːrtɪsɪpl̩ dɪˈdʌkʃn̩/",
+    "portuguesePhonetic": "[uíou rrév pést pártisipou didâkchan]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_23",
+    "word": "would have + past participle = imaginary past.",
+    "translation": "would have + particípio = passado imaginário.",
+    "pronunciation": "/wʊd hæv pæst ˈpɑːrtɪsɪpl̩ ɪˈmædʒɪnɛri pæst/",
+    "portuguesePhonetic": "[uúd rrév pést pártisipou imédjineri pést]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_24",
+    "word": "should have + past participle = regret.",
+    "translation": "should have + particípio = arrependimento.",
+    "pronunciation": "/ʃʊd hæv pæst ˈpɑːrtɪsɪpl̩ rɪˈɡrɛt/",
+    "portuguesePhonetic": "[chúd rrév pést pártisipou rigrét]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_25",
+    "word": "will = present assumption; would = past habit; should = expectation.",
+    "translation": "will = suposição presente; would = hábito passado; should = expectativa.",
+    "pronunciation": "/wɪl ˈprɛznt əˈsʌmpʃn̩ wʊd pæst ˈhæbɪt ʃʊd ˌɛkspɛkˈteɪʃn̩/",
+    "portuguesePhonetic": "[uíou préznt asâmpchan uúd pést rrébit chúd ekspektêichan]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_26",
+    "word": "My dad will always fall asleep on the sofa.",
+    "translation": "Meu pai sempre dorme no sofá.",
+    "pronunciation": "/maɪ dæd wɪl ˈɔːlweɪz fɔːl əˈsliːp ɑːn ðə ˈsoʊfə/",
+    "portuguesePhonetic": "[mái déd uíou ólueiz fól aslíp ón dha sôufa]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_27",
+    "word": "Every morning, she'll check her phone first.",
+    "translation": "Toda manhã, ela olha o celular primeiro.",
+    "pronunciation": "/ˈɛvri ˈmɔːrnɪŋ ʃiːl tʃɛk hɜːr foʊn fɜːrst/",
+    "portuguesePhonetic": "[évri mórnin chíou tchék rrâr fôun fârst]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_28",
+    "word": "The kids will leave their toys everywhere.",
+    "translation": "As crianças deixam os brinquedos por toda parte.",
+    "pronunciation": "/ðə kɪdz wɪl liːv ðɛr tɔɪz ˈɛvriwɛr/",
+    "portuguesePhonetic": "[dha kídz uíou lív dhér tóiz évriuér]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_29",
+    "word": "The door won't open.",
+    "translation": "A porta não quer abrir.",
+    "pronunciation": "/ðə dɔːr woʊnt ˈoʊpən/",
+    "portuguesePhonetic": "[dha dór uôunt ôupan]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_30",
+    "word": "My computer won't turn on.",
+    "translation": "Meu computador não quer ligar.",
+    "pronunciation": "/maɪ kəmˈpjuːtər woʊnt tɜːrn ɑːn/",
+    "portuguesePhonetic": "[mái kompiúter uôunt târn ón]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_31",
+    "word": "This won't work.",
+    "translation": "Isso não vai funcionar.",
+    "pronunciation": "/ðɪs woʊnt wɜːrk/",
+    "portuguesePhonetic": "[dhís uôunt uârk]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_32",
+    "word": "That'll be the delivery.",
+    "translation": "Deve ser a entrega.",
+    "pronunciation": "/ðætl̩ biː ðə dɪˈlɪvəri/",
+    "portuguesePhonetic": "[dhétou bí dha dilíveri]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_33",
+    "word": "He'll be at work right now.",
+    "translation": "Ele deve estar no trabalho agora.",
+    "pronunciation": "/hiːl biː æt wɜːrk raɪt naʊ/",
+    "portuguesePhonetic": "[rríou bí ét uârk ráit náu]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_34",
+    "word": "They'll have arrived by now.",
+    "translation": "Eles já devem ter chegado.",
+    "pronunciation": "/ðeɪl hæv əˈraɪvd baɪ naʊ/",
+    "portuguesePhonetic": "[dhêiou rrév aráivd bái náu]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_35",
+    "word": "We would play outside all day.",
+    "translation": "A gente brincava lá fora o dia todo.",
+    "pronunciation": "/wiː wʊd pleɪ ˌaʊtˈsaɪd ɔːl deɪ/",
+    "portuguesePhonetic": "[uí uúd plêi autsáid ól dêi]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_36",
+    "word": "Grandma would bake every Sunday.",
+    "translation": "A vovó fazia bolo todo domingo.",
+    "pronunciation": "/ˈɡrænmɑː wʊd beɪk ˈɛvri ˈsʌndeɪ/",
+    "portuguesePhonetic": "[grénmá uúd bêik évri sândei]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_37",
+    "word": "We wouldn't go to bed before midnight.",
+    "translation": "A gente não ia dormir antes da meia-noite.",
+    "pronunciation": "/wiː ˈwʊdnt ɡoʊ tə bɛd bɪˈfɔːr ˈmɪdnaɪt/",
+    "portuguesePhonetic": "[uí uúdent gôu tu béd bifór mídnait]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_38",
+    "word": "I would've called, but I lost your number.",
+    "translation": "Eu teria ligado, mas perdi seu número.",
+    "pronunciation": "/aɪ ˈwʊdəv kɔːld bʌt aɪ lɔːst jɔːr ˈnʌmbər/",
+    "portuguesePhonetic": "[ái uúdav kóld bât ái lóst iór nâmber]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_39",
+    "word": "She would've come if she'd known.",
+    "translation": "Ela teria vindo se soubesse.",
+    "pronunciation": "/ʃiː ˈwʊdəv kʌm ɪf ʃiːd noʊn/",
+    "portuguesePhonetic": "[chí uúdav kâm if chíd nôun]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_40",
+    "word": "You should rest more.",
+    "translation": "Você deveria descansar mais.",
+    "pronunciation": "/juː ʃʊd rɛst mɔːr/",
+    "portuguesePhonetic": "[iú chúd rést mór]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_41",
+    "word": "We should leave early to avoid traffic.",
+    "translation": "A gente deveria sair cedo para evitar o trânsito.",
+    "pronunciation": "/wiː ʃʊd liːv ˈɜːrli tə əˈvɔɪd ˈtræfɪk/",
+    "portuguesePhonetic": "[uí chúd lív ârli tu avóid tréfik]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_42",
+    "word": "You shouldn't worry so much.",
+    "translation": "Você não deveria se preocupar tanto.",
+    "pronunciation": "/juː ˈʃʊdnt ˈwɜːri soʊ mʌtʃ/",
+    "portuguesePhonetic": "[iú chúdent uâri sôu mâtch]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_43",
+    "word": "The package should arrive today.",
+    "translation": "O pacote deveria chegar hoje.",
+    "pronunciation": "/ðə ˈpækɪdʒ ʃʊd əˈraɪv təˈdeɪ/",
+    "portuguesePhonetic": "[dha pékidj chúd aráiv tudêi]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_44",
+    "word": "The meeting should finish by five.",
+    "translation": "A reunião deveria terminar até as cinco.",
+    "pronunciation": "/ðə ˈmiːtɪŋ ʃʊd ˈfɪnɪʃ baɪ faɪv/",
+    "portuguesePhonetic": "[dha mítin chúd fínich bái fáiv]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_45",
+    "word": "This should be enough food for everyone.",
+    "translation": "Isso deveria ser comida suficiente para todos.",
+    "pronunciation": "/ðɪs ʃʊd biː ɪˈnʌf fuːd fɔːr ˈɛvriwʌn/",
+    "portuguesePhonetic": "[dhís chúd bí inâf fúd fór évriuan]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_46",
+    "word": "I should have studied more.",
+    "translation": "Eu deveria ter estudado mais.",
+    "pronunciation": "/aɪ ʃʊd hæv ˈstʌdid mɔːr/",
+    "portuguesePhonetic": "[ái chúd rrév stâdid mór]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_47",
+    "word": "We shouldn't have left so late.",
+    "translation": "A gente não deveria ter saído tão tarde.",
+    "pronunciation": "/wiː ˈʃʊdnt hæv lɛft soʊ leɪt/",
+    "portuguesePhonetic": "[uí chúdent rrév léft sôu lêit]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_48",
+    "word": "I'd have to think about it.",
+    "translation": "Eu teria que pensar a respeito.",
+    "pronunciation": "/aɪd hæv tə θɪŋk əˈbaʊt ɪt/",
+    "portuguesePhonetic": "[áid rrév tu thínk abáut ít]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_49",
+    "word": "I would've thought he'd say yes.",
+    "translation": "Eu teria pensado que ele diria sim.",
+    "pronunciation": "/aɪ ˈwʊdəv θɔːt hiːd seɪ jɛs/",
+    "portuguesePhonetic": "[ái uúdav thót rríd sêi iés]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_50",
+    "word": "If you should change your mind, call me.",
+    "translation": "Se você mudar de ideia, me ligue.",
+    "pronunciation": "/ɪf juː ʃʊd tʃeɪndʒ jɔːr maɪnd kɔːl miː/",
+    "portuguesePhonetic": "[if iú chúd tchêindj iór máind kól mí]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_51",
+    "word": "You should rest.",
+    "translation": "Você deveria descansar.",
+    "pronunciation": "/juː ʃʊd rɛst/",
+    "portuguesePhonetic": "[iú chúd rést]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_52",
+    "word": "The car won't start.",
+    "translation": "O carro não quer pegar.",
+    "pronunciation": "/ðə kɑːr woʊnt stɑːrt/",
+    "portuguesePhonetic": "[dha kár uôunt stárt]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_53",
+    "word": "We would play outside.",
+    "translation": "A gente brincava lá fora.",
+    "pronunciation": "/wiː wʊd pleɪ ˌaʊtˈsaɪd/",
+    "portuguesePhonetic": "[uí uúd plêi autsáid]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_54",
+    "word": "That'll be him.",
+    "translation": "Deve ser ele.",
+    "pronunciation": "/ðætl̩ biː hɪm/",
+    "portuguesePhonetic": "[dhétou bí rrím]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_55",
+    "word": "He should be here soon.",
+    "translation": "Ele deveria chegar logo.",
+    "pronunciation": "/hiː ʃʊd biː hɪr suːn/",
+    "portuguesePhonetic": "[rrí chúd bí rrír sún]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_56",
+    "word": "She won't answer my calls.",
+    "translation": "Ela não quer atender minhas ligações.",
+    "pronunciation": "/ʃiː woʊnt ˈænsər maɪ kɔːlz/",
+    "portuguesePhonetic": "[chí uôunt énser mái kólz]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_57",
+    "word": "We would visit them every summer.",
+    "translation": "A gente os visitava todo verão.",
+    "pronunciation": "/wiː wʊd ˈvɪzɪt ðɛm ˈɛvri ˈsʌmər/",
+    "portuguesePhonetic": "[uí uúd vízit dhém évri sâmer]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_58",
+    "word": "They'll have finished by now.",
+    "translation": "Eles já devem ter terminado.",
+    "pronunciation": "/ðeɪl hæv ˈfɪnɪʃt baɪ naʊ/",
+    "portuguesePhonetic": "[dhêiou rrév fínicht bái náu]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_59",
+    "word": "Should I call him now?",
+    "translation": "Devo ligar para ele agora?",
+    "pronunciation": "/ʃʊd aɪ kɔːl hɪm naʊ/",
+    "portuguesePhonetic": "[chúd ái kól rrím náu]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_60",
+    "word": "Wouldn't that be better?",
+    "translation": "Isso não seria melhor?",
+    "pronunciation": "/ˈwʊdnt ðæt biː ˈbɛtər/",
+    "portuguesePhonetic": "[uúdent dhét bí béter]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_61",
+    "word": "He shouldn't be late.",
+    "translation": "Ele não deveria se atrasar.",
+    "pronunciation": "/hiː ˈʃʊdnt biː leɪt/",
+    "portuguesePhonetic": "[rrí chúdent bí lêit]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_62",
+    "word": "Will that be enough?",
+    "translation": "Isso será suficiente?",
+    "pronunciation": "/wɪl ðæt biː ɪˈnʌf/",
+    "portuguesePhonetic": "[uíou dhét bí inâf]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_63",
+    "word": "You should apologize because you were rude.",
+    "translation": "Você deveria se desculpar porque foi mal-educado.",
+    "pronunciation": "/juː ʃʊd əˈpɑːlədʒaɪz bɪˈkɔːz juː wɜːr ruːd/",
+    "portuguesePhonetic": "[iú chúd apáladjaiz bikóz iú uâr rúd]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_64",
+    "word": "When I was young, I would read every night.",
+    "translation": "Quando eu era jovem, eu lia toda noite.",
+    "pronunciation": "/wɛn aɪ wəz jʌŋ aɪ wʊd riːd ˈɛvri naɪt/",
+    "portuguesePhonetic": "[uén ái uâz iâN ái uúd ríd évri náit]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_65",
+    "word": "I would've helped, but I was busy.",
+    "translation": "Eu teria ajudado, mas estava ocupado.",
+    "pronunciation": "/aɪ ˈwʊdəv hɛlpt bʌt aɪ wəz ˈbɪzi/",
+    "portuguesePhonetic": "[ái uúdav rrélpt bât ái uâz bízi]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_66",
+    "word": "He should have called when he arrived.",
+    "translation": "Ele deveria ter ligado quando chegou.",
+    "pronunciation": "/hiː ʃʊd hæv kɔːld wɛn hiː əˈraɪvd/",
+    "portuguesePhonetic": "[rrí chúd rrév kóld uén rrí aráivd]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_67",
+    "word": "That'll be the mailman; he always comes at noon.",
+    "translation": "Deve ser o carteiro; ele sempre vem ao meio-dia.",
+    "pronunciation": "/ðætl̩ biː ðə ˈmeɪlmæn hiː ˈɔːlweɪz kʌmz æt nuːn/",
+    "portuguesePhonetic": "[dhétou bí dha mêilmen rrí ólueiz kâmz ét nún]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_68",
+    "word": "You shouldn't have said that, even if it was true.",
+    "translation": "Você não deveria ter dito aquilo, mesmo que fosse verdade.",
+    "pronunciation": "/juː ˈʃʊdnt hæv sɛd ðæt ˈiːvn̩ ɪf ɪt wəz truː/",
+    "portuguesePhonetic": "[iú chúdent rrév séd dhét ívan if ít uâz trú]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_69",
+    "word": "I would have agreed, but the terms had already changed.",
+    "translation": "Eu teria concordado, mas os termos já tinham mudado.",
+    "pronunciation": "/aɪ wʊd hæv əˈɡriːd bʌt ðə tɜːrmz hæd ɔːlˈrɛdi tʃeɪndʒd/",
+    "portuguesePhonetic": "[ái uúd rrév agríd bât dha târmz rréd olrédi tchêindjd]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_70",
+    "word": "If you should see her, please give her my regards.",
+    "translation": "Se por acaso você a vir, mande lembranças.",
+    "pronunciation": "/ɪf juː ʃʊd siː hɜːr pliːz ɡɪv hɜːr maɪ rɪˈɡɑːrdz/",
+    "portuguesePhonetic": "[if iú chúd sí rrâr plíz guív rrâr mái rigárdz]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_71",
+    "word": "It's essential that everyone should be informed before the deadline.",
+    "translation": "É essencial que todos sejam informados antes do prazo.",
+    "pronunciation": "/ɪts ɪˈsɛnʃl̩ ðæt ˈɛvriwʌn ʃʊd biː ɪnˈfɔːrmd bɪˈfɔːr ðə ˈdɛdlaɪn/",
+    "portuguesePhonetic": "[íts isénchou dhét évriuan chúd bí infórmd bifór dha dédlain]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_72",
+    "word": "He'll have realized his mistake by now, I suppose.",
+    "translation": "Ele já deve ter percebido o erro a essa altura, eu suponho.",
+    "pronunciation": "/hiːl hæv ˈriːəlaɪzd hɪz mɪˈsteɪk baɪ naʊ aɪ səˈpoʊz/",
+    "portuguesePhonetic": "[rríou rrév ríalaizd rríz mistêik bái náu ái sapôuz]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_73",
+    "word": "We should leave now, or we'll miss the train.",
+    "translation": "A gente deveria sair agora, ou vamos perder o trem.",
+    "pronunciation": "/wiː ʃʊd liːv naʊ ɔːr wiːl mɪs ðə treɪn/",
+    "portuguesePhonetic": "[uí chúd lív náu ór uíou mís dha trêin]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_74",
+    "word": "I suggest that the report should be reviewed before we send it.",
+    "translation": "Eu sugiro que o relatório seja revisado antes de enviarmos.",
+    "pronunciation": "/aɪ səˈdʒɛst ðæt ðə rɪˈpɔːrt ʃʊd biː rɪˈvjuːd bɪˈfɔːr wiː sɛnd ɪt/",
+    "portuguesePhonetic": "[ái sadjést dhét dha ripórt chúd bí riviúd bifór uí sénd ít]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_75",
+    "word": "Take an umbrella in case it should rain later.",
+    "translation": "Leve um guarda-chuva caso chova mais tarde.",
+    "pronunciation": "/teɪk ən ʌmˈbrɛlə ɪn keɪs ɪt ʃʊd reɪn ˈleɪtər/",
+    "portuguesePhonetic": "[têik an ambréla in kêis ít chúd rêin lêiter]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_76",
+    "word": "\"Who's at the door?\" / \"That'll be Mary.\"",
+    "translation": "\"Quem está na porta?\" / \"Deve ser a Mary.\"",
+    "pronunciation": "/huːz æt ðə dɔːr · ðætl̩ biː ˈmɛri/",
+    "portuguesePhonetic": "[rrúz ét dha dór · dhétou bí méri]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_77",
+    "word": "\"Should I help?\" / \"Yes, please.\"",
+    "translation": "\"Devo ajudar?\" / \"Sim, por favor.\"",
+    "pronunciation": "/ʃʊd aɪ hɛlp · jɛs pliːz/",
+    "portuguesePhonetic": "[chúd ái rrélp · iés plíz]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_78",
+    "word": "\"Why won't it start?\" / \"The battery's dead.\"",
+    "translation": "\"Por que não pega?\" / \"A bateria está descarregada.\"",
+    "pronunciation": "/waɪ woʊnt ɪt stɑːrt · ðə ˈbætəriz dɛd/",
+    "portuguesePhonetic": "[uái uôunt ít stárt · dha bétariz déd]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_79",
+    "word": "\"Did your grandad tell stories?\" / \"Yes, every day.\"",
+    "translation": "\"Seu avô contava histórias?\" / \"Sim, todo dia.\"",
+    "pronunciation": "/dɪd jɔːr ˈɡrændæd tɛl ˈstɔːriz · jɛs ˈɛvri deɪ/",
+    "portuguesePhonetic": "[díd iór grénded tél stóriz · iés évri dêi]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_80",
+    "word": "\"Has she left?\" / \"She'll have left by now.\"",
+    "translation": "\"Ela já foi?\" / \"A essa altura já deve ter ido.\"",
+    "pronunciation": "/hæz ʃiː lɛft · ʃiːl hæv lɛft baɪ naʊ/",
+    "portuguesePhonetic": "[rréz chí léft · chíou rrév léft bái náu]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_81",
+    "word": "\"Should we leave early?\" / \"Yes, to avoid traffic.\"",
+    "translation": "\"A gente deveria sair cedo?\" / \"Sim, pra evitar trânsito.\"",
+    "pronunciation": "/ʃʊd wiː liːv ˈɜːrli · jɛs tə əˈvɔɪd ˈtræfɪk/",
+    "portuguesePhonetic": "[chúd uí lív ârli · iés tu avóid tréfik]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_82",
+    "word": "\"Would you have helped?\" / \"Of course I would.\"",
+    "translation": "\"Você teria ajudado?\" / \"Claro que sim.\"",
+    "pronunciation": "/wʊd juː hæv hɛlpt · ʌv kɔːrs aɪ wʊd/",
+    "portuguesePhonetic": "[uúd iú rrév rrélpt · ov kórs ái uúd]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_83",
+    "word": "\"Is he home yet?\" / \"He should be.\"",
+    "translation": "\"Ele já está em casa?\" / \"Deveria estar.\"",
+    "pronunciation": "/ɪz hiː hoʊm jɛt · hiː ʃʊd biː/",
+    "portuguesePhonetic": "[iz rrí rrôum iét · rrí chúd bí]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_84",
+    "word": "\"When will it be ready?\" / \"It should be ready tomorrow.\"",
+    "translation": "\"Quando vai estar pronto?\" / \"Deveria estar pronto amanhã.\"",
+    "pronunciation": "/wɛn wɪl ɪt biː ˈrɛdi · ɪt ʃʊd biː ˈrɛdi təˈmɑːroʊ/",
+    "portuguesePhonetic": "[uén uíou ít bí rédi · ít chúd bí rédi tumárou]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_85",
+    "word": "\"Did you used to stay up late?\" / \"Yes, we would.\"",
+    "translation": "\"Vocês ficavam acordados até tarde?\" / \"Sim, ficávamos.\"",
+    "pronunciation": "/dɪd juː juːst tə steɪ ʌp leɪt · jɛs wiː wʊd/",
+    "portuguesePhonetic": "[díd iú iúst tu stêi âp lêit · iés uí uúd]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_86",
+    "word": "\"Should I apologize?\" / \"Yes, you should.\"",
+    "translation": "\"Devo me desculpar?\" / \"Sim, deveria.\"",
+    "pronunciation": "/ʃʊd aɪ əˈpɑːlədʒaɪz · jɛs juː ʃʊd/",
+    "portuguesePhonetic": "[chúd ái apáladjaiz · iés iú chúd]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_87",
+    "word": "\"Why won't she listen?\" / \"She never does.\"",
+    "translation": "\"Por que ela não quer ouvir?\" / \"Ela nunca ouve.\"",
+    "pronunciation": "/waɪ woʊnt ʃiː ˈlɪsn̩ · ʃiː ˈnɛvər dʌz/",
+    "portuguesePhonetic": "[uái uôunt chí lísan · chí néver dâz]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_88",
+    "word": "\"Will that be enough?\" / \"It should be.\"",
+    "translation": "\"Isso será suficiente?\" / \"Deveria ser.\"",
+    "pronunciation": "/wɪl ðæt biː ɪˈnʌf · ɪt ʃʊd biː/",
+    "portuguesePhonetic": "[uíou dhét bí inâf · ít chúd bí]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_89",
+    "word": "\"Did they say sorry?\" / \"No, they should have.\"",
+    "translation": "\"Eles pediram desculpa?\" / \"Não, deveriam ter pedido.\"",
+    "pronunciation": "/dɪd ðeɪ seɪ ˈsɑːri · noʊ ðeɪ ʃʊd hæv/",
+    "portuguesePhonetic": "[díd dhêi sêi sári · nôu dhêi chúd rrév]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_90",
+    "word": "\"Would the river freeze?\" / \"Yes, every winter.\"",
+    "translation": "\"O rio congelava?\" / \"Sim, todo inverno.\"",
+    "pronunciation": "/wʊd ðə ˈrɪvər friːz · jɛs ˈɛvri ˈwɪntər/",
+    "portuguesePhonetic": "[uúd dha ríver fríz · iés évri uínter]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_91",
+    "word": "\"Should I bring anything?\" / \"No, it's fine.\"",
+    "translation": "\"Devo levar alguma coisa?\" / \"Não, tá tudo certo.\"",
+    "pronunciation": "/ʃʊd aɪ brɪŋ ˈɛniθɪŋ · noʊ ɪts faɪn/",
+    "portuguesePhonetic": "[chúd ái brín énithin · nôu íts fáin]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_92",
+    "word": "\"Is the package here?\" / \"It should arrive today.\"",
+    "translation": "\"O pacote chegou?\" / \"Deveria chegar hoje.\"",
+    "pronunciation": "/ɪz ðə ˈpækɪdʒ hɪr · ɪt ʃʊd əˈraɪv təˈdeɪ/",
+    "portuguesePhonetic": "[iz dha pékidj rrír · ít chúd aráiv tudêi]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_93",
+    "word": "\"Would you agree?\" / \"I'd have to, yes.\"",
+    "translation": "\"Você concordaria?\" / \"Teria que concordar, sim.\"",
+    "pronunciation": "/wʊd juː əˈɡriː · aɪd hæv tuː jɛs/",
+    "portuguesePhonetic": "[uúd iú agrí · áid rrév tú iés]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_94",
+    "word": "\"What if I need help?\" / \"Call me if you should.\"",
+    "translation": "\"E se eu precisar de ajuda?\" / \"Me ligue se precisar.\"",
+    "pronunciation": "/wʌt ɪf aɪ niːd hɛlp · kɔːl miː ɪf juː ʃʊd/",
+    "portuguesePhonetic": "[uât if ái níd rrélp · kól mí if iú chúd]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_95",
+    "word": "\"Did he apologize?\" / \"I would've thought so.\"",
+    "translation": "\"Ele se desculpou?\" / \"Eu teria pensado que sim.\"",
+    "pronunciation": "/dɪd hiː əˈpɑːlədʒaɪz · aɪ ˈwʊdəv θɔːt soʊ/",
+    "portuguesePhonetic": "[díd rrí apáladjaiz · ái uúdav thót sôu]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_96",
+    "word": "\"Should we wait?\" / \"Yes, just in case.\"",
+    "translation": "\"A gente deveria esperar?\" / \"Sim, só por precaução.\"",
+    "pronunciation": "/ʃʊd wiː weɪt · jɛs dʒʌst ɪn keɪs/",
+    "portuguesePhonetic": "[chúd uí uêit · iés djâst in kêis]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_97",
+    "word": "\"Why won't the door open?\" / \"It's stuck.\"",
+    "translation": "\"Por que a porta não abre?\" / \"Está emperrada.\"",
+    "pronunciation": "/waɪ woʊnt ðə dɔːr ˈoʊpən · ɪts stʌk/",
+    "portuguesePhonetic": "[uái uôunt dha dór ôupan · íts stâk]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_98",
+    "word": "\"Would you have come?\" / \"If I'd known, yes.\"",
+    "translation": "\"Você teria vindo?\" / \"Se eu soubesse, sim.\"",
+    "pronunciation": "/wʊd juː hæv kʌm · ɪf aɪd noʊn jɛs/",
+    "portuguesePhonetic": "[uúd iú rrév kâm · if áid nôun iés]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_99",
+    "word": "\"Is it essential?\" / \"Yes, we should act now.\"",
+    "translation": "\"É essencial?\" / \"Sim, devemos agir agora.\"",
+    "pronunciation": "/ɪz ɪt ɪˈsɛnʃl̩ · jɛs wiː ʃʊd ækt naʊ/",
+    "portuguesePhonetic": "[iz ít isénchou · iés uí chúd ékt náu]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_en_card_100",
+    "word": "\"Should I worry?\" / \"No, you shouldn't.\"",
+    "translation": "\"Devo me preocupar?\" / \"Não, não deveria.\"",
+    "pronunciation": "/ʃʊd aɪ ˈwɜːri · noʊ juː ˈʃʊdnt/",
+    "portuguesePhonetic": "[chúd ái uâri · nôu iú chúdent]"
+  }
+]

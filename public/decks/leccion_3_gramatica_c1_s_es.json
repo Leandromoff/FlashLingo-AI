@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_3_grammar_c1_es_card_1",
+    "word": "Todos los días, mi abuelo cuenta las mismas historias.",
+    "translation": "Todo dia, meu avô conta as mesmas histórias. (hábito → presente)",
+    "pronunciation": "/ˈtoðos los ˈdias mi aˈβwelo ˈkwenta las ˈmizmas isˈtoɾjas/",
+    "portuguesePhonetic": "[tódos los días mi abuélo kuénta las mízmas istórias]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_2",
+    "word": "El aceite flota en el agua.",
+    "translation": "O óleo flutua na água. (verdade siempre)",
+    "pronunciation": "/el aˈθejte ˈflota en el ˈaɣwa/",
+    "portuguesePhonetic": "[el athéite flóta en el água]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_3",
+    "word": "El coche no quiere arrancar.",
+    "translation": "O carro não quer pegar. (recusa)",
+    "pronunciation": "/el ˈkotʃe no ˈkjeɾe araŋˈkaɾ/",
+    "portuguesePhonetic": "[el kótche no kiére arrankár]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_4",
+    "word": "No quiere escuchar nada de lo que le dices.",
+    "translation": "Ela não quer ouvir nada que você diz. (crítica)",
+    "pronunciation": "/no ˈkjeɾe eskuˈtʃaɾ ˈnaða de lo ke le ˈðiθes/",
+    "portuguesePhonetic": "[no kiére eskutchár náda de lo ke le díthes]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_5",
+    "word": "Será María.",
+    "translation": "Deve ser a Mary. (suposição → futuro de probabilidade)",
+    "pronunciation": "/seˈɾa maˈɾia/",
+    "portuguesePhonetic": "[será maría]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_6",
+    "word": "Ya se habrá ido.",
+    "translation": "Ela já deve ter ido. (dedução → futuro perfeito)",
+    "pronunciation": "/ʝa se aˈβɾa ˈiðo/",
+    "portuguesePhonetic": "[ia se abrá ído]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_7",
+    "word": "Cuando éramos estudiantes, nos quedábamos despiertos hasta tarde.",
+    "translation": "Quando éramos estudantes, ficávamos acordados até tarde. (imperfeito)",
+    "pronunciation": "/ˈkwando ˈeɾamos estuˈðjantes nos keˈðaβamos desˈpjeɾtos ˈasta ˈtaɾðe/",
+    "portuguesePhonetic": "[kuándo éramos estudiántes nos kedábamos despiértos ásta tárde]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_8",
+    "word": "El río se congelaba en invierno.",
+    "translation": "O rio congelava no inverno. (imperfeito)",
+    "pronunciation": "/el ˈrio se konxeˈlaβa en imˈbjeɾno/",
+    "portuguesePhonetic": "[el río se konrrelába en imbiérno]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_9",
+    "word": "El coche no quiso arrancar ayer.",
+    "translation": "O carro não quis pegar ontem. (recusa passada)",
+    "pronunciation": "/el ˈkotʃe no ˈkiso araŋˈkaɾ aˈʝeɾ/",
+    "portuguesePhonetic": "[el kótche no kíso arrankár aiér]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_10",
+    "word": "No quería escuchar nada de lo que le decías.",
+    "translation": "Ela não queria ouvir nada que você dizia. (crítica passada)",
+    "pronunciation": "/no keˈɾia eskuˈtʃaɾ ˈnaða de lo ke le deˈθias/",
+    "portuguesePhonetic": "[no kería eskutchár náda de lo ke le dethías]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_11",
+    "word": "Habría ayudado, pero dijo que no.",
+    "translation": "Eu teria ajudado, mas ele disse não. (condicional composto)",
+    "pronunciation": "/aˈβɾia aʝuˈðaðo ˈpeɾo ˈdixo ke no/",
+    "portuguesePhonetic": "[abría aiudádo péro dírro ke no]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_12",
+    "word": "Tendría que estar de acuerdo contigo en eso.",
+    "translation": "Eu teria que concordar com você nisso. (polidez)",
+    "pronunciation": "/tenˈdɾia ke esˈtaɾ de aˈkweɾðo konˈtiɣo en ˈeso/",
+    "portuguesePhonetic": "[tendría ke estár de akuérdo kontígo en éso]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_13",
+    "word": "La gente debería tratar a los demás con respeto.",
+    "translation": "As pessoas deveriam tratar os outros com respeito. (recomendação)",
+    "pronunciation": "/la ˈxente deβeˈɾia tɾaˈtaɾ a los deˈmas kon resˈpeto/",
+    "portuguesePhonetic": "[la rrénte debería tratár a los demás kon respéto]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_14",
+    "word": "Eso debería bastar para arreglar el problema.",
+    "translation": "Isso deveria ser suficiente para resolver o problema. (conclusão)",
+    "pronunciation": "/ˈeso deβeˈɾia basˈtaɾ ˈpaɾa areˈɣlaɾ el pɾoˈβlema/",
+    "portuguesePhonetic": "[éso debería bastár pára arreglár el probléma]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_15",
+    "word": "Ya debería estar en casa.",
+    "translation": "Ele já deveria estar em casa. (expectativa)",
+    "pronunciation": "/ʝa deβeˈɾia esˈtaɾ en ˈkasa/",
+    "portuguesePhonetic": "[ia debería estár en kása]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_16",
+    "word": "Los resultados deberían estar listos mañana.",
+    "translation": "Os resultados deveriam estar prontos amanhã.",
+    "pronunciation": "/los resulˈtaðos deβeˈɾian esˈtaɾ ˈlistos maˈɲana/",
+    "portuguesePhonetic": "[los resultádos debérian estár lístos manhána]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_17",
+    "word": "No deberían haberle hablado así.",
+    "translation": "Eles não deveriam ter falado com ela daquele jeito. (arrependimento)",
+    "pronunciation": "/no deβeˈɾian aˈβeɾle aˈβlaðo aˈsi/",
+    "portuguesePhonetic": "[no debérian abérle abládo así]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_18",
+    "word": "Sugiero que se disculpe.",
+    "translation": "Eu sugiro que ele se desculpe. (subjuntivo!)",
+    "pronunciation": "/suˈxjeɾo ke se disˈkulpe/",
+    "portuguesePhonetic": "[surriéro ke se diskúlpe]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_19",
+    "word": "Es esencial que actuemos rápido.",
+    "translation": "É essencial que ajamos rápido. (subjuntivo!)",
+    "pronunciation": "/es esenˈθjal ke akˈtwemos ˈrapiðo/",
+    "portuguesePhonetic": "[és esenthIál ke aktuémos rrápido]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_20",
+    "word": "Si necesitaras ayuda, avísame.",
+    "translation": "Se você precisar de ajuda, me avise. (subjuntivo)",
+    "pronunciation": "/si neθesiˈtaɾas aˈʝuða aˈβisame/",
+    "portuguesePhonetic": "[si nethesitáras aiúda abísame]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_21",
+    "word": "Toma mi número por si necesitas algo.",
+    "translation": "Pegue meu número caso precise de algo.",
+    "pronunciation": "/ˈtoma mi ˈnumeɾo poɾ si neθeˈsitas ˈalɣo/",
+    "portuguesePhonetic": "[tóma mi número por si nethesítas álgo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_22",
+    "word": "Futuro de probabilidad: \"Será María\" = \"Deve ser a Mary\".",
+    "translation": "Futuro de probabilidade.",
+    "pronunciation": "/fuˈtuɾo de pɾoβaβiliˈðað/",
+    "portuguesePhonetic": "[futúro de probabilidád]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_23",
+    "word": "Condicional compuesto: \"Habría ayudado\" = \"would have helped\".",
+    "translation": "Condicional composto.",
+    "pronunciation": "/kondiθjoˈnal komˈpwesto/",
+    "portuguesePhonetic": "[kondithIonál kompuésto]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_24",
+    "word": "\"Debería haber\" = \"should have\" (arrependimento).",
+    "translation": "\"Debería haber\".",
+    "pronunciation": "/deβeˈɾia aˈβeɾ/",
+    "portuguesePhonetic": "[debería abér]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_25",
+    "word": "En español, \"will\" para suposiciones es el FUTURO; \"should\" es DEBERÍA.",
+    "translation": "Em espanhol, \"will\" para suposições é o FUTURO; \"should\" é DEBERÍA.",
+    "pronunciation": "/en espaˈɲol el fuˈtuɾo i deβeˈɾia/",
+    "portuguesePhonetic": "[en espánhol el futúro i debería]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_26",
+    "word": "Mi padre siempre se queda dormido en el sofá.",
+    "translation": "Meu pai sempre dorme no sofá.",
+    "pronunciation": "/mi ˈpaðɾe ˈsjempɾe se ˈkeða doɾˈmiðo en el soˈfa/",
+    "portuguesePhonetic": "[mi pádre siémpre se kéda dormído en el sofá]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_27",
+    "word": "Cada mañana, mira el móvil primero.",
+    "translation": "Toda manhã, ela olha o celular primeiro.",
+    "pronunciation": "/ˈkaða maˈɲana ˈmiɾa el ˈmoβil pɾiˈmeɾo/",
+    "portuguesePhonetic": "[káda manhána míra el móbil priméro]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_28",
+    "word": "Los niños dejan los juguetes por todas partes.",
+    "translation": "As crianças deixam os brinquedos por toda parte.",
+    "pronunciation": "/los ˈniɲos ˈdexan los xuˈɣetes poɾ ˈtoðas ˈpaɾtes/",
+    "portuguesePhonetic": "[los nínhos dérran los rruguétes por tódas pártes]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_29",
+    "word": "La puerta no quiere abrirse.",
+    "translation": "A porta não quer abrir.",
+    "pronunciation": "/la ˈpweɾta no ˈkjeɾe aˈβɾiɾse/",
+    "portuguesePhonetic": "[la puérta no kiére abrírse]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_30",
+    "word": "Mi ordenador no quiere encenderse.",
+    "translation": "Meu computador não quer ligar.",
+    "pronunciation": "/mi oɾðenaˈðoɾ no ˈkjeɾe enθenˈdeɾse/",
+    "portuguesePhonetic": "[mi ordenadór no kiére enthendérse]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_31",
+    "word": "Esto no va a funcionar.",
+    "translation": "Isso não vai funcionar.",
+    "pronunciation": "/ˈesto no ba a funθjoˈnaɾ/",
+    "portuguesePhonetic": "[ésto no ba a funthIonár]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_32",
+    "word": "Será el repartidor.",
+    "translation": "Deve ser o entregador.",
+    "pronunciation": "/seˈɾa el repaɾtiˈðoɾ/",
+    "portuguesePhonetic": "[será el repartidór]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_33",
+    "word": "Estará en el trabajo ahora mismo.",
+    "translation": "Ele debe estar no trabalho agora.",
+    "pronunciation": "/estaˈɾa en el tɾaˈβaxo aˈoɾa ˈmizmo/",
+    "portuguesePhonetic": "[estará en el trabárro aóra mízmo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_34",
+    "word": "Ya habrán llegado.",
+    "translation": "Eles já devem ter chegado.",
+    "pronunciation": "/ʝa aˈβɾan ʎeˈɣaðo/",
+    "portuguesePhonetic": "[ia abrán lhegádo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_35",
+    "word": "Jugábamos fuera todo el día.",
+    "translation": "A gente brincava lá fora o dia todo.",
+    "pronunciation": "/xuˈɣaβamos ˈfweɾa ˈtoðo el ˈdia/",
+    "portuguesePhonetic": "[rrugábamos fuéra tódo el día]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_36",
+    "word": "La abuela hacía bizcocho cada domingo.",
+    "translation": "A vovó fazia bolo todo domingo.",
+    "pronunciation": "/la aˈβwela aˈθia biθˈkotʃo ˈkaða doˈmiŋɡo/",
+    "portuguesePhonetic": "[la abuéla athía bithkótcho káda domíngo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_37",
+    "word": "No nos íbamos a la cama antes de medianoche.",
+    "translation": "A gente não ia dormir antes da meia-noite.",
+    "pronunciation": "/no nos ˈiβamos a la ˈkama ˈantes de meðjaˈnotʃe/",
+    "portuguesePhonetic": "[no nos íbamos a la káma ántes de mediánótche]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_38",
+    "word": "Habría llamado, pero perdí tu número.",
+    "translation": "Eu teria ligado, mas perdi seu número.",
+    "pronunciation": "/aˈβɾia ʎaˈmaðo ˈpeɾo peɾˈði tu ˈnumeɾo/",
+    "portuguesePhonetic": "[abría lhamádo péro perdí tu número]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_39",
+    "word": "Habría venido si lo hubiera sabido.",
+    "translation": "Ela teria vindo se soubesse.",
+    "pronunciation": "/aˈβɾia beˈniðo si lo uˈβjeɾa saˈβiðo/",
+    "portuguesePhonetic": "[abría benído si lo ubiéra sabído]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_40",
+    "word": "Deberías descansar más.",
+    "translation": "Você deveria descansar mais.",
+    "pronunciation": "/deβeˈɾias deskanˈsaɾ mas/",
+    "portuguesePhonetic": "[deberías deskansár mas]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_41",
+    "word": "Deberíamos salir pronto para evitar el tráfico.",
+    "translation": "A gente deveria sair cedo para evitar o trânsito.",
+    "pronunciation": "/deβeˈɾiamos saˈliɾ ˈpɾonto ˈpaɾa eβiˈtaɾ el ˈtɾafiko/",
+    "portuguesePhonetic": "[deberíamos salír prónto pára ebitár el tráfiko]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_42",
+    "word": "No deberías preocuparte tanto.",
+    "translation": "Você não deveria se preocupar tanto.",
+    "pronunciation": "/no deβeˈɾias pɾeokuˈpaɾte ˈtanto/",
+    "portuguesePhonetic": "[no deberías preokupárte tánto]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_43",
+    "word": "El paquete debería llegar hoy.",
+    "translation": "O pacote deveria chegar hoje.",
+    "pronunciation": "/el paˈkete deβeˈɾia ʎeˈɣaɾ oi/",
+    "portuguesePhonetic": "[el pakéte debería lhegár ôi]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_44",
+    "word": "La reunión debería terminar a las cinco.",
+    "translation": "A reunião deveria terminar até as cinco.",
+    "pronunciation": "/la reuˈnjon deβeˈɾia teɾmiˈnaɾ a las ˈθiŋko/",
+    "portuguesePhonetic": "[la reunión debería terminár a las thínko]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_45",
+    "word": "Esto debería ser comida suficiente para todos.",
+    "translation": "Isso deveria ser comida suficiente para todos.",
+    "pronunciation": "/ˈesto deβeˈɾia seɾ koˈmiða sufiˈθjente ˈpaɾa ˈtoðos/",
+    "portuguesePhonetic": "[ésto debería ser komída sufithIénte pára tódos]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_46",
+    "word": "Debería haber estudiado más.",
+    "translation": "Eu deveria ter estudiado mais.",
+    "pronunciation": "/deβeˈɾia aˈβeɾ estuˈðjaðo mas/",
+    "portuguesePhonetic": "[debería abér estudiádo mas]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_47",
+    "word": "No deberíamos haber salido tan tarde.",
+    "translation": "A gente não deveria ter saído tão tarde.",
+    "pronunciation": "/no deβeˈɾiamos aˈβeɾ saˈliðo tan ˈtaɾðe/",
+    "portuguesePhonetic": "[no deberíamos abér salído tan tárde]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_48",
+    "word": "Tendría que pensarlo.",
+    "translation": "Eu teria que pensar a respeito.",
+    "pronunciation": "/tenˈdɾia ke penˈsaɾlo/",
+    "portuguesePhonetic": "[tendría ke pensárlo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_49",
+    "word": "Habría pensado que diría que sí.",
+    "translation": "Eu teria pensado que ele diria sim.",
+    "pronunciation": "/aˈβɾia penˈsaðo ke diˈɾia ke si/",
+    "portuguesePhonetic": "[abría pensádo ke diría ke sí]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_50",
+    "word": "Si cambiaras de idea, llámame.",
+    "translation": "Se você mudar de ideia, me ligue.",
+    "pronunciation": "/si kamˈbjaɾas de iˈðea ˈʎamame/",
+    "portuguesePhonetic": "[si kambiáras de idéa lhámame]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_51",
+    "word": "Deberías descansar.",
+    "translation": "Você deveria descansar.",
+    "pronunciation": "/deβeˈɾias deskanˈsaɾ/",
+    "portuguesePhonetic": "[deberías deskansár]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_52",
+    "word": "El coche no quiere arrancar.",
+    "translation": "O carro não quer pegar.",
+    "pronunciation": "/el ˈkotʃe no ˈkjeɾe araŋˈkaɾ/",
+    "portuguesePhonetic": "[el kótche no kiére arrankár]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_53",
+    "word": "Jugábamos fuera.",
+    "translation": "A gente brincava lá fora.",
+    "pronunciation": "/xuˈɣaβamos ˈfweɾa/",
+    "portuguesePhonetic": "[rrugábamos fuéra]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_54",
+    "word": "Será él.",
+    "translation": "Deve ser ele.",
+    "pronunciation": "/seˈɾa el/",
+    "portuguesePhonetic": "[será él]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_55",
+    "word": "Debería llegar pronto.",
+    "translation": "Ele deveria chegar logo.",
+    "pronunciation": "/deβeˈɾia ʎeˈɣaɾ ˈpɾonto/",
+    "portuguesePhonetic": "[debería lhegár prónto]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_56",
+    "word": "No quiere contestar mis llamadas.",
+    "translation": "Ela não quer atender minhas ligações.",
+    "pronunciation": "/no ˈkjeɾe kontesˈtaɾ mis ʎaˈmaðas/",
+    "portuguesePhonetic": "[no kiére kontestár mis lhamádas]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_57",
+    "word": "Los visitábamos cada verano.",
+    "translation": "A gente os visitava todo verão.",
+    "pronunciation": "/los bisiˈtaβamos ˈkaða beˈɾano/",
+    "portuguesePhonetic": "[los bisitábamos káda beráno]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_58",
+    "word": "Ya habrán terminado.",
+    "translation": "Eles já devem ter terminado.",
+    "pronunciation": "/ʝa aˈβɾan teɾmiˈnaðo/",
+    "portuguesePhonetic": "[ia abrán terminádo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_59",
+    "word": "¿Debería llamarlo ahora?",
+    "translation": "Devo ligar para ele agora?",
+    "pronunciation": "/deβeˈɾia ʎaˈmaɾlo aˈoɾa/",
+    "portuguesePhonetic": "[debería lhamárlo aóra]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_60",
+    "word": "¿No sería mejor?",
+    "translation": "Isso não seria melhor?",
+    "pronunciation": "/no seˈɾia meˈxoɾ/",
+    "portuguesePhonetic": "[no sería merrór]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_61",
+    "word": "No debería llegar tarde.",
+    "translation": "Ele não deveria se atrasar.",
+    "pronunciation": "/no deβeˈɾia ʎeˈɣaɾ ˈtaɾðe/",
+    "portuguesePhonetic": "[no debería lhegár tárde]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_62",
+    "word": "¿Será suficiente?",
+    "translation": "Isso será suficiente?",
+    "pronunciation": "/seˈɾa sufiˈθjente/",
+    "portuguesePhonetic": "[será sufithIénte]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_63",
+    "word": "Deberías disculparte porque fuiste grosero.",
+    "translation": "Você deveria se desculpar porque foi mal-educado.",
+    "pronunciation": "/deβeˈɾias diskulˈpaɾte ˈpoɾke ˈfwiste ɡɾoˈseɾo/",
+    "portuguesePhonetic": "[deberías diskulpárte pórke fuíste groséro]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_64",
+    "word": "Cuando era joven, leía cada noche.",
+    "translation": "Quando eu era jovem, eu lia toda noite.",
+    "pronunciation": "/ˈkwando ˈeɾa ˈxoβen leˈia ˈkaða ˈnotʃe/",
+    "portuguesePhonetic": "[kuándo éra rróben leía káda nótche]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_65",
+    "word": "Habría ayudado, pero estaba ocupado.",
+    "translation": "Eu teria ajudado, mas estava ocupado.",
+    "pronunciation": "/aˈβɾia aʝuˈðaðo ˈpeɾo esˈtaβa okuˈpaðo/",
+    "portuguesePhonetic": "[abría aiudádo péro estába okupádo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_66",
+    "word": "Debería haber llamado cuando llegó.",
+    "translation": "Ele deveria ter ligado quando chegou.",
+    "pronunciation": "/deβeˈɾia aˈβeɾ ʎaˈmaðo ˈkwando ʎeˈɣo/",
+    "portuguesePhonetic": "[debería abér lhamádo kuándo lhegó]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_67",
+    "word": "Será el cartero; siempre viene a mediodía.",
+    "translation": "Deve ser o carteiro; ele sempre vem ao meio-dia.",
+    "pronunciation": "/seˈɾa el kaɾˈteɾo ˈsjempɾe ˈbjene a meðjoˈðia/",
+    "portuguesePhonetic": "[será el kartéro siémpre biéne a mediodía]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_68",
+    "word": "No deberías haber dicho eso, aunque fuera verdad.",
+    "translation": "Você não deveria ter dito aquilo, mesmo que fosse verdade.",
+    "pronunciation": "/no deβeˈɾias aˈβeɾ ˈditʃo ˈeso ˈawŋke ˈfweɾa beɾˈðað/",
+    "portuguesePhonetic": "[no deberías abér dítcho éso áunke fuéra berdád]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_69",
+    "word": "Habría estado de acuerdo, pero las condiciones ya habían cambiado.",
+    "translation": "Eu teria concordado, mas os termos já tinham mudado.",
+    "pronunciation": "/aˈβɾia esˈtaðo de aˈkweɾðo ˈpeɾo las kondiˈθjones ʝa aˈβian kamˈbjaðo/",
+    "portuguesePhonetic": "[abría estádo de akuérdo péro las kondithIónes ia abían kambiádo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_70",
+    "word": "Si por casualidad la ves, dale recuerdos de mi parte.",
+    "translation": "Se por acaso você a vir, mande lembranças.",
+    "pronunciation": "/si poɾ kaswaliˈðað la bes ˈdale reˈkweɾðos de mi ˈpaɾte/",
+    "portuguesePhonetic": "[si por kasualidád la bes dále rekuérdos de mi párte]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_71",
+    "word": "Es esencial que todos estén informados antes del plazo.",
+    "translation": "É essencial que todos sejam informados antes do prazo. (subjuntivo)",
+    "pronunciation": "/es esenˈθjal ke ˈtoðos esˈten imfoɾˈmaðos ˈantes del ˈplaθo/",
+    "portuguesePhonetic": "[és esenthIál ke tódos estén imformádos ántes del plátho]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_72",
+    "word": "Ya se habrá dado cuenta de su error, supongo.",
+    "translation": "Ele já deve ter percebido o erro, eu suponho.",
+    "pronunciation": "/ʝa se aˈβɾa ˈdaðo ˈkwenta de su eˈror suˈpoŋɡo/",
+    "portuguesePhonetic": "[ia se abrá dádo kuénta de su error supóngo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_73",
+    "word": "Deberíamos irnos ya, o perderemos el tren.",
+    "translation": "A gente deveria sair agora, ou vamos perder o trem.",
+    "pronunciation": "/deβeˈɾiamos ˈiɾnos ʝa o peɾðeˈɾemos el tɾen/",
+    "portuguesePhonetic": "[deberíamos írnos ia o perderémos el trén]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_74",
+    "word": "Sugiero que se revise el informe antes de enviarlo.",
+    "translation": "Eu sugiro que o relatório seja revisado antes de enviarmos. (subjuntivo)",
+    "pronunciation": "/suˈxjeɾo ke se reˈβise el imˈfoɾme ˈantes de embiˈaɾlo/",
+    "portuguesePhonetic": "[surriéro ke se rebíse el imfórme ántes de embiárlo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_75",
+    "word": "Llévate un paraguas por si llueve luego.",
+    "translation": "Leve um guarda-chuva caso chova mais tarde.",
+    "pronunciation": "/ˈʎeβate un paˈɾaɣwas poɾ si ˈʎweβe ˈlweɣo/",
+    "portuguesePhonetic": "[lhébate un parágwas por si lhuébe luégo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_76",
+    "word": "«¿Quién está en la puerta?» / «Será María.»",
+    "translation": "\"Quem está na porta?\" / \"Deve ser a Mary.\"",
+    "pronunciation": "/kjen esˈta en la ˈpweɾta · seˈɾa maˈɾia/",
+    "portuguesePhonetic": "[kién está en la puérta · será maría]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_77",
+    "word": "«¿Ayudo?» / «Sí, por favor.»",
+    "translation": "\"Devo ajudar?\" / \"Sim, por favor.\"",
+    "pronunciation": "/aˈʝuðo · si poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[aiúdo · sí por fabór]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_78",
+    "word": "«¿Por qué no arranca?» / «La batería está muerta.»",
+    "translation": "\"Por que não pega?\" / \"A bateria está descarregada.\"",
+    "pronunciation": "/poɾ ke no aˈraŋka · la bateˈɾia esˈta ˈmweɾta/",
+    "portuguesePhonetic": "[por ké no arránka · la batería está muérta]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_79",
+    "word": "«¿Tu abuelo contaba historias?» / «Sí, cada día.»",
+    "translation": "\"Seu avô contava histórias?\" / \"Sim, todo dia.\"",
+    "pronunciation": "/tu aˈβwelo konˈtaβa isˈtoɾjas · si ˈkaða ˈdia/",
+    "portuguesePhonetic": "[tu abuélo kontába istórias · sí káda día]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_80",
+    "word": "«¿Se ha ido?» / «Ya se habrá ido.»",
+    "translation": "\"Ela já foi?\" / \"Já deve ter ido.\"",
+    "pronunciation": "/se a ˈiðo · ʝa se aˈβɾa ˈiðo/",
+    "portuguesePhonetic": "[se a ído · ia se abrá ído]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_81",
+    "word": "«¿Salimos pronto?» / «Sí, para evitar el tráfico.»",
+    "translation": "\"Saímos cedo?\" / \"Sim, pra evitar trânsito.\"",
+    "pronunciation": "/saˈlimos ˈpɾonto · si ˈpaɾa eβiˈtaɾ el ˈtɾafiko/",
+    "portuguesePhonetic": "[salímos prónto · sí pára ebitár el tráfiko]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_82",
+    "word": "«¿Habrías ayudado?» / «Por supuesto.»",
+    "translation": "\"Você teria ajudado?\" / \"Claro.\"",
+    "pronunciation": "/aˈβɾias aʝuˈðaðo · poɾ suˈpwesto/",
+    "portuguesePhonetic": "[abrías aiudádo · por supuésto]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_83",
+    "word": "«¿Ya está en casa?» / «Debería estar.»",
+    "translation": "\"Ele já está em casa?\" / \"Deveria estar.\"",
+    "pronunciation": "/ʝa esˈta en ˈkasa · deβeˈɾia esˈtaɾ/",
+    "portuguesePhonetic": "[ia está en kása · debería estár]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_84",
+    "word": "«¿Cuándo estará listo?» / «Debería estar listo mañana.»",
+    "translation": "\"Quando vai estar pronto?\" / \"Deveria estar pronto amanhã.\"",
+    "pronunciation": "/ˈkwando estaˈɾa ˈlisto · deβeˈɾia esˈtaɾ ˈlisto maˈɲana/",
+    "portuguesePhonetic": "[kuándo estará lísto · debería estár lísto manhána]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_85",
+    "word": "«¿Os quedabais despiertos hasta tarde?» / «Sí, siempre.»",
+    "translation": "\"Vocês ficavam acordados até tarde?\" / \"Sim, sempre.\"",
+    "pronunciation": "/os keˈðaβais desˈpjeɾtos ˈasta ˈtaɾðe · si ˈsjempɾe/",
+    "portuguesePhonetic": "[os kedábais despiértos ásta tárde · sí siémpre]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_86",
+    "word": "«¿Me disculpo?» / «Sí, deberías.»",
+    "translation": "\"Devo me desculpar?\" / \"Sim, deveria.\"",
+    "pronunciation": "/me disˈkulpo · si deβeˈɾias/",
+    "portuguesePhonetic": "[me diskúlpo · sí deberías]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_87",
+    "word": "«¿Por qué no escucha?» / «Nunca lo hace.»",
+    "translation": "\"Por que ela não ouve?\" / \"Ela nunca ouve.\"",
+    "pronunciation": "/poɾ ke no esˈkutʃa · ˈnuŋka lo ˈaθe/",
+    "portuguesePhonetic": "[por ké no eskútcha · núnka lo áthe]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_88",
+    "word": "«¿Será suficiente?» / «Debería serlo.»",
+    "translation": "\"Será suficiente?\" / \"Deveria ser.\"",
+    "pronunciation": "/seˈɾa sufiˈθjente · deβeˈɾia ˈseɾlo/",
+    "portuguesePhonetic": "[será sufithIénte · debería sérlo]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_89",
+    "word": "«¿Pidieron perdón?» / «No, deberían haberlo hecho.»",
+    "translation": "\"Eles pediram desculpa?\" / \"Não, deveriam ter pedido.\"",
+    "pronunciation": "/piˈðjeɾon peɾˈðon · no deβeˈɾian aˈβeɾlo ˈetʃo/",
+    "portuguesePhonetic": "[pidiéron perdón · no debérian abérlo étcho]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_90",
+    "word": "«¿Se congelaba el río?» / «Sí, cada invierno.»",
+    "translation": "\"O rio congelava?\" / \"Sim, todo inverno.\"",
+    "pronunciation": "/se konxeˈlaβa el ˈrio · si ˈkaða imˈbjeɾno/",
+    "portuguesePhonetic": "[se konrrelába el río · sí káda imbiérno]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_91",
+    "word": "«¿Llevo algo?» / «No, está bien.»",
+    "translation": "\"Levo alguma coisa?\" / \"Não, tá tudo bem.\"",
+    "pronunciation": "/ˈʎeβo ˈalɣo · no esˈta bjen/",
+    "portuguesePhonetic": "[lhébo álgo · no está bién]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_92",
+    "word": "«¿Está aquí el paquete?» / «Debería llegar hoy.»",
+    "translation": "\"O pacote chegou?\" / \"Deveria chegar hoje.\"",
+    "pronunciation": "/esˈta aˈki el paˈkete · deβeˈɾia ʎeˈɣaɾ oi/",
+    "portuguesePhonetic": "[está akí el pakéte · debería lhegár ôi]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_93",
+    "word": "«¿Estarías de acuerdo?» / «Tendría que estarlo, sí.»",
+    "translation": "\"Você concordaria?\" / \"Teria que concordar, sim.\"",
+    "pronunciation": "/estaˈɾias de aˈkweɾðo · tenˈdɾia ke esˈtaɾlo si/",
+    "portuguesePhonetic": "[estarías de akuérdo · tendría ke estárlo sí]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_94",
+    "word": "«¿Y si necesito ayuda?» / «Llámame si la necesitas.»",
+    "translation": "\"E se eu precisar de ayuda?\" / \"Me ligue se precisar.\"",
+    "pronunciation": "/i si neθeˈsito aˈʝuða · ˈʎamame si la neθeˈsitas/",
+    "portuguesePhonetic": "[i si nethesíto aiúda · lhámame si la nethesítas]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_95",
+    "word": "«¿Se disculpó?» / «Habría pensado que sí.»",
+    "translation": "\"Ele se desculpou?\" / \"Eu teria pensado que sim.\"",
+    "pronunciation": "/se diskulˈpo · aˈβɾia penˈsaðo ke si/",
+    "portuguesePhonetic": "[se diskulpó · abría pensádo ke sí]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_96",
+    "word": "«¿Esperamos?» / «Sí, por si acaso.»",
+    "translation": "\"Esperamos?\" / \"Sim, por precaução.\"",
+    "pronunciation": "/espeˈɾamos · si poɾ si aˈkaso/",
+    "portuguesePhonetic": "[esperámos · sí por si akáso]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_97",
+    "word": "«¿Por qué no abre la puerta?» / «Está atascada.»",
+    "translation": "\"Por que a porta não abre?\" / \"Está emperrada.\"",
+    "pronunciation": "/poɾ ke no ˈaβɾe la ˈpweɾta · esˈta atasˈkaða/",
+    "portuguesePhonetic": "[por ké no ábre la puérta · está ataskáda]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_98",
+    "word": "«¿Habrías venido?» / «Si lo hubiera sabido, sí.»",
+    "translation": "\"Você teria vindo?\" / \"Se eu soubesse, sim.\"",
+    "pronunciation": "/aˈβɾias beˈniðo · si lo uˈβjeɾa saˈβiðo si/",
+    "portuguesePhonetic": "[abrías benído · si lo ubiéra sabído sí]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_99",
+    "word": "«¿Es esencial?» / «Sí, debemos actuar ya.»",
+    "translation": "\"É essencial?\" / \"Sim, devemos agir já.\"",
+    "pronunciation": "/es esenˈθjal · si deˈβemos akˈtwaɾ ʝa/",
+    "portuguesePhonetic": "[és esenthIál · sí debémos aktuár ia]"
+  },
+  {
+    "id": "lesson_3_grammar_c1_es_card_100",
+    "word": "«¿Me preocupo?» / «No, no deberías.»",
+    "translation": "\"Devo me preocupar?\" / \"Não, não deveria.\"",
+    "pronunciation": "/me pɾeoˈkupo · no no deβeˈɾias/",
+    "portuguesePhonetic": "[me preokúpo · no no deberías]"
+  }
+]

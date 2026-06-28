@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_1",
+    "word": "Alto / alta",
+    "translation": "Alto / alta.",
+    "pronunciation": "/ˈalto",
+    "portuguesePhonetic": "ˈalta/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_2",
+    "word": "Bajo / baja",
+    "translation": "Baixo / baixa.",
+    "pronunciation": "/ˈbaxo",
+    "portuguesePhonetic": "ˈbaxa/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_3",
+    "word": "De estatura media",
+    "translation": "De altura mediana.",
+    "pronunciation": "/de estaˈtuɾa ˈmeðja/",
+    "portuguesePhonetic": "dê estatúra mêdia."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_4",
+    "word": "Esbelto / esbelta",
+    "translation": "Esbelto / esbelta.",
+    "pronunciation": "/esˈbelto",
+    "portuguesePhonetic": "esˈbelta/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_5",
+    "word": "Delgado / delgada",
+    "translation": "Magro / magra.",
+    "pronunciation": "/delˈɡado",
+    "portuguesePhonetic": "delˈɡada/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_6",
+    "word": "Muy delgado / delgada",
+    "translation": "Muito magro / magra.",
+    "pronunciation": "/muj delˈɡado",
+    "portuguesePhonetic": "delˈɡada/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_7",
+    "word": "Con sobrepeso",
+    "translation": "Acima do peso.",
+    "pronunciation": "/kon soβɾeˈpeso/",
+    "portuguesePhonetic": "con sobrepêso."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_8",
+    "word": "En forma",
+    "translation": "Em forma.",
+    "pronunciation": "/en ˈfoɾma/",
+    "portuguesePhonetic": "en fórma."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_9",
+    "word": "Con curvas",
+    "translation": "Com curvas.",
+    "pronunciation": "/kon ˈkuɾβas/",
+    "portuguesePhonetic": "con cúrbas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_10",
+    "word": "Menuda",
+    "translation": "Baixa e de estrutura delicada.",
+    "pronunciation": "/meˈnuda/",
+    "portuguesePhonetic": "menúda."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_11",
+    "word": "Pelo largo y liso",
+    "translation": "Cabelo longo e liso.",
+    "pronunciation": "/ˈpelo ˈlaɾɡo i ˈliso/",
+    "portuguesePhonetic": "pêlo lárgo i lísso."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_12",
+    "word": "Pelo corto y ondulado",
+    "translation": "Cabelo curto e ondulado.",
+    "pronunciation": "/ˈpelo ˈkoɾto i onduˈlado/",
+    "portuguesePhonetic": "pêlo córto i onduládo."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_13",
+    "word": "Media melena rizada",
+    "translation": "Cabelo cacheado de comprimento médio.",
+    "pronunciation": "/ˈmeðja meˈlena riˈθada/",
+    "portuguesePhonetic": "mêdia melêna ritháda."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_14",
+    "word": "Pelo rubio",
+    "translation": "Cabelo loiro.",
+    "pronunciation": "/ˈpelo ˈruβjo/",
+    "portuguesePhonetic": "pêlo rúbio."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_15",
+    "word": "Una morena",
+    "translation": "Uma mulher morena.",
+    "pronunciation": "/una moˈɾena/",
+    "portuguesePhonetic": "una morêna."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_16",
+    "word": "Llevar gafas",
+    "translation": "Usar óculos.",
+    "pronunciation": "/ʝeˈβaɾ ˈɡafas/",
+    "portuguesePhonetic": "iebár gáfas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_17",
+    "word": "Tener barba",
+    "translation": "Ter barba.",
+    "pronunciation": "/teˈneɾ ˈbaɾβa/",
+    "portuguesePhonetic": "tenér bárba."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_18",
+    "word": "Tener bigote",
+    "translation": "Ter bigode.",
+    "pronunciation": "/teˈneɾ biˈɡote/",
+    "portuguesePhonetic": "tenér bigôte."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_19",
+    "word": "Tener arrugas",
+    "translation": "Ter rugas.",
+    "pronunciation": "/teˈneɾ aˈruɣas/",
+    "portuguesePhonetic": "tenér arrúgas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_20",
+    "word": "Tener pecas",
+    "translation": "Ter sardas.",
+    "pronunciation": "/teˈneɾ ˈpekas/",
+    "portuguesePhonetic": "tenér pécas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_21",
+    "word": "Él es alto.",
+    "translation": "Ele é alto.",
+    "pronunciation": "/el es ˈalto/",
+    "portuguesePhonetic": "él es álto."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_22",
+    "word": "Ella es esbelta.",
+    "translation": "Ela é esbelta.",
+    "pronunciation": "/ˈeʝa es esˈbelta/",
+    "portuguesePhonetic": "êia es esbélta."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_23",
+    "word": "Ella tiene el pelo largo y liso.",
+    "translation": "Ela tem cabelo longo e liso.",
+    "pronunciation": "/ˈeʝa ˈtjene el ˈpelo ˈlaɾɡo i ˈliso/",
+    "portuguesePhonetic": "êia tiêne el pêlo lárgo i lísso."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_24",
+    "word": "Él lleva gafas.",
+    "translation": "Ele usa óculos.",
+    "pronunciation": "/el ˈʝeβa ˈɡafas/",
+    "portuguesePhonetic": "él iêba gáfas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_25",
+    "word": "Tienen pecas.",
+    "translation": "Eles têm sardas.",
+    "pronunciation": "/ˈtjenen ˈpekas/",
+    "portuguesePhonetic": "tiênen pécas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_26",
+    "word": "Hoy vamos a conocer al nuevo equipo.",
+    "translation": "Hoje vamos conhecer a nova equipe.",
+    "pronunciation": "/oj ˈbamos a konoˈθeɾ al ˈnweβo eˈkipo/",
+    "portuguesePhonetic": "ôi bámos a conothêr al nuêbo equípo."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_27",
+    "word": "La recepcionista es baja y menuda.",
+    "translation": "A recepcionista é baixa e delicada.",
+    "pronunciation": "/la reθepθjoˈnista es ˈbaxa i meˈnuda/",
+    "portuguesePhonetic": "la rethepthionísta es bárra i menúda."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_28",
+    "word": "Tiene el pelo corto y ondulado.",
+    "translation": "Ela tem cabelo curto e ondulado.",
+    "pronunciation": "/ˈtjene el ˈpelo ˈkoɾto i onduˈlado/",
+    "portuguesePhonetic": "tiêne el pêlo córto i onduládo."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_29",
+    "word": "Lleva unas gafas redondas.",
+    "translation": "Ela usa óculos redondos.",
+    "pronunciation": "/ˈʝeβa unas ˈɡafas reˈdondas/",
+    "portuguesePhonetic": "iêba unas gáfas redôndas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_30",
+    "word": "El encargado es alto y esbelto.",
+    "translation": "O responsável é alto e esbelto.",
+    "pronunciation": "/el eŋkaɾˈɡado es ˈalto i esˈbelto/",
+    "portuguesePhonetic": "el encarregádo es álto i esbélto."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_31",
+    "word": "Tiene una barba corta.",
+    "translation": "Ele tem uma barba curta.",
+    "pronunciation": "/ˈtjene una ˈbaɾβa ˈkoɾta/",
+    "portuguesePhonetic": "tiêne una bárba córta."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_32",
+    "word": "Su asistente es de estatura media.",
+    "translation": "A assistente dele é de altura mediana.",
+    "pronunciation": "/su asisˈtente es de estaˈtuɾa ˈmeðja/",
+    "portuguesePhonetic": "su assistênte es dê estatúra mêdia."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_33",
+    "word": "Tiene el pelo largo y liso.",
+    "translation": "Ela tem cabelo longo e liso.",
+    "pronunciation": "/ˈtjene el ˈpelo ˈlaɾɡo i ˈliso/",
+    "portuguesePhonetic": "tiêne el pêlo lárgo i lísso."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_34",
+    "word": "Es morena.",
+    "translation": "Ela é morena.",
+    "pronunciation": "/es moˈɾena/",
+    "portuguesePhonetic": "es morêna."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_35",
+    "word": "El diseñador es delgado, pero está en forma.",
+    "translation": "O designer é magro, mas está en forma.",
+    "pronunciation": "/el diseɲaˈdoɾ es delˈɡado, ˈpeɾo esˈta en ˈfoɾma/",
+    "portuguesePhonetic": "el dissenhadór es delgádo, pêro está en fórma."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_36",
+    "word": "Tiene pecas en la nariz.",
+    "translation": "Ele tem sardas no nariz.",
+    "pronunciation": "/ˈtjene ˈpekas en la naˈɾiθ/",
+    "portuguesePhonetic": "tiêne pécas en la naríth."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_37",
+    "word": "La contable tiene curvas y parece segura de sí misma.",
+    "translation": "A contadora tem curvas e parece confiante.",
+    "pronunciation": "/la konˈtaβle ˈtjene ˈkuɾβas i paˈɾeθe seˈɣuɾa de si ˈmisma/",
+    "portuguesePhonetic": "la contáble tiêne cúrbas i parêthe segúra dê sí mísma."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_38",
+    "word": "Tiene una media melena rizada.",
+    "translation": "Ela tem cabelo cacheado de comprimento médio.",
+    "pronunciation": "/ˈtjene una ˈmeðja meˈlena riˈθada/",
+    "portuguesePhonetic": "tiêne una mêdia melêna ritháda."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_39",
+    "word": "El vigilante es alto y tiene sobrepeso.",
+    "translation": "O segurança é alto e está acima do peso.",
+    "pronunciation": "/el biɣiˈlante es ˈalto i ˈtjene soβɾeˈpeso/",
+    "portuguesePhonetic": "el birrilánte es álto i tiêne sobrepêso."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_40",
+    "word": "Tiene un bigote grueso.",
+    "translation": "Ele tem um bigode grosso.",
+    "pronunciation": "/ˈtjene un biˈɡote ˈɡɾweso/",
+    "portuguesePhonetic": "tiêne un bigôte gruêsso."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_41",
+    "word": "Un cliente mayor tiene arrugas alrededor de los ojos.",
+    "translation": "Um cliente mais velho tem rugas ao redor dos olhos.",
+    "pronunciation": "/un kliˈente maˈʝoɾ ˈtjene aˈruɣas alredeˈdoɾ de los ˈoxos/",
+    "portuguesePhonetic": "un cliênte maiór tiêne arrúgas alrededór dê los ôrros."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_42",
+    "word": "Su mujer tiene el pelo rubio.",
+    "translation": "A esposa dele tem cabelo loiro.",
+    "pronunciation": "/su muˈxeɾ ˈtjene el ˈpelo ˈruβjo/",
+    "portuguesePhonetic": "su murrér tiêne el pêlo rúbio."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_43",
+    "word": "Miramos la foto del personal.",
+    "translation": "Olhamos para a foto da equipe.",
+    "pronunciation": "/miˈɾamos la ˈfoto del peɾsoˈnal/",
+    "portuguesePhonetic": "mirámos la fôto del personál."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_44",
+    "word": "Pregunto quién es el nuevo ingeniero.",
+    "translation": "Pergunto quem é o novo engenheiro.",
+    "pronunciation": "/pɾeˈɡunto ˈkjen es el ˈnweβo inxeˈnjeɾo/",
+    "portuguesePhonetic": "pregúnto quién es el nuêbo inrreniêro."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_45",
+    "word": "Es el hombre bajo que está cerca de la ventana.",
+    "translation": "É o homem baixo que está perto da janela.",
+    "pronunciation": "/es el ˈombɾe ˈbaxo ke esˈta ˈθeɾka de la bentaˈna/",
+    "portuguesePhonetic": "es el ômbre bárro kê está thérca dê la bentána."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_46",
+    "word": "La mujer alta que está junto a la puerta es la directora.",
+    "translation": "A mulher alta perto da porta é a diretora.",
+    "pronunciation": "/la muˈxeɾ ˈalta ke esˈta ˈxunto a la ˈpweɾta es la diɾekˈtoɾa/",
+    "portuguesePhonetic": "la murrér álta kê está rrúnto a la puérta es la directôra."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_47",
+    "word": "El hombre que está en forma es nuestro nuevo entrenador.",
+    "translation": "O homem em forma é nosso novo treinador.",
+    "pronunciation": "/el ˈombɾe ke esˈta en ˈfoɾma es ˈnwestɾo ˈnweβo entɾenaˈdoɾ/",
+    "portuguesePhonetic": "el ômbre kê está en fórma es nuêstro nuêbo entrenadór."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_48",
+    "word": "La mujer menuda es de Madrid.",
+    "translation": "A mulher baixa e delicada é de Madri.",
+    "pronunciation": "/la muˈxeɾ meˈnuda es de maˈdɾid/",
+    "portuguesePhonetic": "la murrér menúda es dê madríd."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_49",
+    "word": "Todos se presentan.",
+    "translation": "Todos se apresentam.",
+    "pronunciation": "/ˈtodos se pɾeˈsentan/",
+    "portuguesePhonetic": "tódos sê presêntan."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_50",
+    "word": "Ahora puedo reconocer a todo el equipo.",
+    "translation": "Agora consigo reconhecer toda a equipe.",
+    "pronunciation": "/aˈoɾa ˈpwedo rekonoˈθeɾ a ˈtodo el eˈkipo/",
+    "portuguesePhonetic": "aóra puêdo reconothêr a tôdo el equípo."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_51",
+    "word": "Álex es alto.",
+    "translation": "Álex é alto.",
+    "pronunciation": "/ˈaleks es ˈalto/",
+    "portuguesePhonetic": "álex es álto."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_52",
+    "word": "Mía es baja.",
+    "translation": "Mía é baixa.",
+    "pronunciation": "/ˈmia es ˈbaxa/",
+    "portuguesePhonetic": "mía es bárra."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_53",
+    "word": "Noah está en forma.",
+    "translation": "Noah está en forma.",
+    "pronunciation": "/ˈnoa esˈta en ˈfoɾma/",
+    "portuguesePhonetic": "nôa está en fórma."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_54",
+    "word": "Emma es esbelta.",
+    "translation": "Emma é esbelta.",
+    "pronunciation": "/ˈema es esˈbelta/",
+    "portuguesePhonetic": "êma es esbélta."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_55",
+    "word": "Leo tiene pecas.",
+    "translation": "Leo tem sardas.",
+    "pronunciation": "/ˈleo ˈtjene ˈpekas/",
+    "portuguesePhonetic": "lêo tiêne pécas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_56",
+    "word": "Ava lleva gafas.",
+    "translation": "Ava usa óculos.",
+    "pronunciation": "/ˈaβa ˈʝeβa ˈɡafas/",
+    "portuguesePhonetic": "ába iêba gáfas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_57",
+    "word": "Daniel tiene barba.",
+    "translation": "Daniel tem barba.",
+    "pronunciation": "/daˈnjel ˈtjene ˈbaɾβa/",
+    "portuguesePhonetic": "daniél tiêne bárba."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_58",
+    "word": "Sofía tiene el pelo rizado.",
+    "translation": "Sofía tem cabelo cacheado.",
+    "pronunciation": "/soˈfia ˈtjene el ˈpelo riˈθado/",
+    "portuguesePhonetic": "sofía tiêne el pêlo rithádo."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_59",
+    "word": "El médico nuevo es de estatura media.",
+    "translation": "O novo médico é de altura mediana.",
+    "pronunciation": "/el ˈmediko ˈnweβo es de estaˈtuɾa ˈmeðja/",
+    "portuguesePhonetic": "el médico nuêbo es dê estatúra mêdia."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_60",
+    "word": "Mi prima es morena.",
+    "translation": "Minha prima é morena.",
+    "pronunciation": "/mi ˈpɾima es moˈɾena/",
+    "portuguesePhonetic": "mi príma es morêna."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_61",
+    "word": "La mujer de pelo rubio es nuestra profesora.",
+    "translation": "A mulher de cabelo loiro é nossa professora.",
+    "pronunciation": "/la muˈxeɾ de ˈpelo ˈruβjo es ˈnwestɾa pɾofeˈsoɾa/",
+    "portuguesePhonetic": "la murrér dê pêlo rúbio es nuêstra professôra."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_62",
+    "word": "El hombre delgado que está cerca de la puerta nos está esperando.",
+    "translation": "O homem magro perto da porta está nos esperando.",
+    "pronunciation": "/el ˈombɾe delˈɡado ke esˈta ˈθeɾka de la ˈpweɾta nos esˈta espeˈɾando/",
+    "portuguesePhonetic": "el ômbre delgádo kê está thérca dê la puérta nos está esperándo."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_63",
+    "word": "¿El chico alto lleva gafas?",
+    "translation": "O garoto alto usa óculos?",
+    "pronunciation": "/el ˈtʃiko ˈalto ˈʝeβa ˈɡafas/",
+    "portuguesePhonetic": "el tchíco álto iêba gáfas?"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_64",
+    "word": "No está demasiado delgada; es esbelta por naturaleza.",
+    "translation": "Ela não é excessivamente magra; é naturalmente esbelta.",
+    "pronunciation": "/no esˈta demaˈsjado delˈɡada",
+    "portuguesePhonetic": "es esˈbelta poɾ natuɾaˈleθa/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_65",
+    "word": "Parece estar en forma porque hace ejercicio todas las mañanas.",
+    "translation": "Ele parece estar em forma porque se exercita todas as manhãs.",
+    "pronunciation": "/paˈɾeθe esˈtaɾ en ˈfoɾma poɾˈke ˈaθe exeɾˈθiθjo ˈtodas las maˈɲanas/",
+    "portuguesePhonetic": "parêthe estár en fórma porkê áthe errerthíthio tódas las manhánas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_66",
+    "word": "La actriz tiene una media melena rizada, pero su hermana tiene el pelo largo y liso.",
+    "translation": "A atriz tem cabelo cacheado médio, mas sua irmã tem cabelo longo e liso.",
+    "pronunciation": "/la akˈtɾiθ ˈtjene una ˈmeðja meˈlena riˈθada, ˈpeɾo su eɾˈmana ˈtjene el ˈpelo ˈlaɾɡo i ˈliso/",
+    "portuguesePhonetic": "la actríth tiêne una mêdia melêna ritháda, pêro su ermána tiêne el pêlo lárgo i lísso."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_67",
+    "word": "¿Quién es el hombre bajo que tiene bigote?",
+    "translation": "Quem é o homem baixo de bigode?",
+    "pronunciation": "/ˈkjen es el ˈombɾe ˈbaxo ke ˈtjene biˈɡote/",
+    "portuguesePhonetic": "quién es el ômbre bárro kê tiêne bigôte?"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_68",
+    "word": "No reconocí a Paula porque llevaba gafas.",
+    "translation": "Não reconheci Paula porque ela estava usando óculos.",
+    "pronunciation": "/no rekonoˈθi a ˈpawla poɾˈke ʝeˈβaβa ˈɡafas/",
+    "portuguesePhonetic": "no reconothí a páula porkê iebába gáfas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_69",
+    "word": "Aunque Martín tiene sobrepeso, es activo y muy fuerte.",
+    "translation": "Embora Martín esteja acima do peso, ele é ativo e muito forte.",
+    "pronunciation": "/ˈaunke maɾˈtin ˈtjene soβɾeˈpeso, es akˈtiβo i muj ˈfweɾte/",
+    "portuguesePhonetic": "aunquê martín tiêne sobrepêso, es actíbo i múi fuérte."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_70",
+    "word": "La mujer que tiene pecas está hablando con el recepcionista alto.",
+    "translation": "A mulher que tem sardas está hablando com o recepcionista alto.",
+    "pronunciation": "/la muˈxeɾ ke ˈtjene ˈpekas esˈta aˈβlando kon el reθepθjoˈnista ˈalto/",
+    "portuguesePhonetic": "la murrér kê tiêne pécas está ablándo con el rethepthionísta álto."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_71",
+    "word": "Cuando conocí a Elena, tenía el pelo corto y ondulado, pero ahora lo tiene largo y liso.",
+    "translation": "Quando conheci Elena, ela tinha cabelo curto e ondulado, mas agora o tem longo e liso.",
+    "pronunciation": "/ˈkwando konoˈθi a eˈlena, teˈnia el ˈpelo ˈkoɾto i onduˈlado, ˈpeɾo aˈoɾa lo ˈtjene ˈlaɾɡo i ˈliso/",
+    "portuguesePhonetic": "cuándo conothí a eléna, tenía el pêlo córto i onduládo, pêro aóra lo tiêne lárgo i lísso."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_72",
+    "word": "La nueva empleada es menuda, tiene el pelo oscuro y rizado y lleva gafas cuadradas.",
+    "translation": "A nova funcionária é baixa, tem cabelo escuro e cacheado e usa óculos quadrados.",
+    "pronunciation": "/la ˈnweβa empleˈada es meˈnuda, ˈtjene el ˈpelo osˈkuɾo i riˈθado i ˈʝeβa ˈɡafas kwaˈdɾadas/",
+    "portuguesePhonetic": "la nuêba empleáda es menúda, tiêne el pêlo oscúro i rithádo i iêba gáfas cuadrádas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_73",
+    "word": "¿Puedes describir al hombre que estaba junto a la morena?",
+    "translation": "Você pode descrever o homem que estava ao lado da morena?",
+    "pronunciation": "/ˈpwedes deskɾiˈβiɾ al ˈombɾe ke esˈtaβa ˈxunto a la moˈɾena/",
+    "portuguesePhonetic": "puêdes describír al ômbre kê estába rrúnto a la morêna?"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_74",
+    "word": "Pensé que la persona de la foto era mayor porque la iluminación hacía que las arrugas parecieran más profundas.",
+    "translation": "Achei que a pessoa da foto fosse mais velha porque a iluminação fazia as rugas parecerem mais profundas.",
+    "pronunciation": "/penˈse ke la peɾˈsona de la ˈfoto eɾa maˈʝoɾ poɾˈke la iluminaˈθjon aˈθia ke las aˈruɣas paɾeˈθjeɾan mas pɾoˈfundas/",
+    "portuguesePhonetic": "pensê kê la persôna dê la fôto êra maiór porkê la iluminathiôn athía kê las arrúgas parethiêran más profúndas."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_75",
+    "word": "Aunque los gemelos tienen una estatura parecida, uno es esbelto y no tiene barba, mientras que el otro tiene barba y bigote.",
+    "translation": "Embora os gêmeos tenham altura semelhante, um é esbelto e não tem barba, enquanto o outro tem barba e bigode.",
+    "pronunciation": "/ˈaunke los xeˈmelos ˈtjenen una estaˈtuɾa paɾeˈθida, ˈuno es esˈbelto i no ˈtjene ˈbaɾβa, ˈmjentɾas ke el ˈotɾo ˈtjene ˈbaɾβa i biˈɡote/",
+    "portuguesePhonetic": "aunquê los rremêlos tiênen una estatúra parethída, úno es esbélto i no tiêne bárba, miêntras kê el ôtro tiêne bárba i bigôte."
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_76",
+    "word": "¿Ben es alto? / Sí, es muy alto.",
+    "translation": "Ben é alto? / Sim, ele é muito alto.",
+    "pronunciation": "/ben es ˈalto",
+    "portuguesePhonetic": "si, es muj ˈalto/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_77",
+    "word": "¿Quién es la mujer baja? / Es mi tía.",
+    "translation": "Quem é a mulher baixa? / É minha tia.",
+    "pronunciation": "/ˈkjen es la muˈxeɾ ˈbaxa",
+    "portuguesePhonetic": "es mi ˈtia/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_78",
+    "word": "¿Maya es de estatura media? / Sí.",
+    "translation": "Maya é de altura mediana? / Sim.",
+    "pronunciation": "/ˈmaʝa es de estaˈtuɾa ˈmeðja",
+    "portuguesePhonetic": "si/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_79",
+    "word": "¿Es esbelto o delgado? / Es esbelto.",
+    "translation": "Ele é esbelto ou apenas magro? / É esbelto.",
+    "pronunciation": "/es esˈbelto o delˈɡado",
+    "portuguesePhonetic": "es esˈbelto/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_80",
+    "word": "¿Por qué parece tan delgado? / Ha estado enfermo.",
+    "translation": "Por que ele parece tão magro? / Ele esteve doente.",
+    "pronunciation": "/poɾ ˈke paˈɾeθe tan delˈɡado",
+    "portuguesePhonetic": "a esˈtado emˈfeɾmo/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_81",
+    "word": "¿Tu hermano tiene sobrepeso? / Un poco, pero está sano.",
+    "translation": "Seu irmão está acima do peso? / Um pouco, mas é saudável.",
+    "pronunciation": "/tu eɾˈmano ˈtjene soβɾeˈpeso",
+    "portuguesePhonetic": "un ˈpoko, ˈpeɾo esˈta ˈsano/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_82",
+    "word": "¿Quién es el hombre que está en forma? / Es nuestro nuevo entrenador.",
+    "translation": "Quem é o homem em forma? / É nosso novo treinador.",
+    "pronunciation": "/ˈkjen es el ˈombɾe ke esˈta en ˈfoɾma",
+    "portuguesePhonetic": "es ˈnwestɾo ˈnweβo entɾenaˈdoɾ/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_83",
+    "word": "¿Esa mujer tiene curvas? / Sí, y parece elegante.",
+    "translation": "Aquela mulher tem curvas? / Sim, e parece elegante.",
+    "pronunciation": "/ˈesa muˈxeɾ ˈtjene ˈkuɾβas",
+    "portuguesePhonetic": "si, i paˈɾeθe eleˈɣante/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_84",
+    "word": "¿Tu hermana es menuda? / Sí, es bastante baja.",
+    "translation": "Sua irmã é baixa e delicada? / Sim, é bastante baixa.",
+    "pronunciation": "/tu eɾˈmana es meˈnuda",
+    "portuguesePhonetic": "si, es basˈtante ˈbaxa/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_85",
+    "word": "¿Quién tiene el pelo largo y liso? / Olivia.",
+    "translation": "Quem tem cabelo longo e liso? / Olivia.",
+    "pronunciation": "/ˈkjen ˈtjene el ˈpelo ˈlaɾɡo i ˈliso",
+    "portuguesePhonetic": "oˈliβja/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_86",
+    "word": "¿Nina tiene el pelo corto y ondulado? / Sí.",
+    "translation": "Nina tem cabelo curto e ondulado? / Sim.",
+    "pronunciation": "/ˈnina ˈtjene el ˈpelo ˈkoɾto i onduˈlado",
+    "portuguesePhonetic": "si/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_87",
+    "word": "¿Cómo tiene el pelo? / Tiene una media melena rizada.",
+    "translation": "Como é o cabelo dela? / Ela tem cabelo cacheado de comprimento médio.",
+    "pronunciation": "/ˈkomo ˈtjene el ˈpelo",
+    "portuguesePhonetic": "ˈtjene una ˈmeðja meˈlena riˈθada/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_88",
+    "word": "¿Carla es rubia? / Sí, tiene el pelo rubio.",
+    "translation": "Carla é loira? / Sim, tem cabelo loiro.",
+    "pronunciation": "/ˈkaɾla es ˈruβja",
+    "portuguesePhonetic": "si, ˈtjene el ˈpelo ˈruβjo/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_89",
+    "word": "¿Quién es la morena que está junto a la puerta? / Mi compañera Ana.",
+    "translation": "Quem é a morena perto da porta? / Minha colega Ana.",
+    "pronunciation": "/ˈkjen es la moˈɾena ke esˈta ˈxunto a la ˈpweɾta",
+    "portuguesePhonetic": "mi kompaˈɲeɾa ˈana/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_90",
+    "word": "¿Lleva gafas? / Solo cuando lee.",
+    "translation": "Ele usa óculos? / Somente quando lê.",
+    "pronunciation": "/ˈʝeβa ˈɡafas",
+    "portuguesePhonetic": "ˈsolo ˈkwando ˈlee/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_91",
+    "word": "¿Quién tiene barba? / El hombre de azul.",
+    "translation": "Quem tem barba? / O homem de azul.",
+    "pronunciation": "/ˈkjen ˈtjene ˈbaɾβa",
+    "portuguesePhonetic": "el ˈombɾe de aˈθul/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_92",
+    "word": "¿Tu padre tiene bigote? / Sí, uno pequeño.",
+    "translation": "Seu pai tem bigode? / Sim, um pequeno.",
+    "pronunciation": "/tu ˈpadɾe ˈtjene biˈɡote",
+    "portuguesePhonetic": "si, ˈuno peˈkeɲo/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_93",
+    "word": "¿Por qué tiene arrugas alrededor de los ojos? / Está sonriendo.",
+    "translation": "Por que ela tem rugas ao redor dos olhos? / Está sorrindo.",
+    "pronunciation": "/poɾ ˈke ˈtjene aˈruɣas alredeˈdoɾ de los ˈoxos",
+    "portuguesePhonetic": "esˈta sonˈrjendo/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_94",
+    "word": "¿Tiene pecas? / Sí, en la nariz.",
+    "translation": "Ele tem sardas? / Sim, no nariz.",
+    "pronunciation": "/ˈtjene ˈpekas",
+    "portuguesePhonetic": "si, en la naˈɾiθ/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_95",
+    "word": "¿Puedes describir a la recepcionista? / Es alta y esbelta.",
+    "translation": "Você pode descrever a recepcionista? / Ela é alta e esbelta.",
+    "pronunciation": "/ˈpwedes deskɾiˈβiɾ a la reθepθjoˈnista",
+    "portuguesePhonetic": "es ˈalta i esˈbelta/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_96",
+    "word": "¿Cuál de los hombres es el médico? / El bajo que lleva gafas.",
+    "translation": "Qual dos homens é o médico? / O baixo que usa óculos.",
+    "pronunciation": "/kwal de los ˈombɾes es el ˈmediko",
+    "portuguesePhonetic": "el ˈbaxo ke ˈʝeβa ˈɡafas/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_97",
+    "word": "¿Reconociste a Julia? / Sí, por su pelo rizado.",
+    "translation": "Você reconheceu Julia? / Sim, pelo cabelo cacheado.",
+    "pronunciation": "/rekonoˈθiste a ˈxulja",
+    "portuguesePhonetic": "si, poɾ su ˈpelo riˈθado/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_98",
+    "word": "¿Sam ha cambiado de aspecto? / Sí, se ha dejado barba.",
+    "translation": "Sam mudou a aparência? / Sim, deixou a barba crescer.",
+    "pronunciation": "/sam a kamˈbjado de asˈpekto",
+    "portuguesePhonetic": "si, se a deˈxado ˈbaɾβa/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_99",
+    "word": "¿A quién estás buscando? / A una mujer menuda de pelo rubio.",
+    "translation": "Quem você está procurando? / Uma mulher baixa de cabelo loiro.",
+    "pronunciation": "/a ˈkjen esˈtas busˈkando",
+    "portuguesePhonetic": "a una muˈxeɾ meˈnuda de ˈpelo ˈruβjo/"
+  },
+  {
+    "id": "leccion_2_vocabulario_a2_s_card_100",
+    "word": "¿Cómo puedo reconocer al guía? / Está en forma, tiene pecas y lleva gafas.",
+    "translation": "Como posso reconocer o guia? / Ele está em forma, tem sardas e usa óculos.",
+    "pronunciation": "/ˈkomo ˈpwedo rekonoˈθeɾ al ˈɡia",
+    "portuguesePhonetic": "esˈta en ˈfoɾma, ˈtjene ˈpekas i ˈʝeβa ˈɡafas/"
+  }
+]

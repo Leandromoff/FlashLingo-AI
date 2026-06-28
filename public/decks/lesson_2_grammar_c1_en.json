@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_2_grammar_c1_en_card_1",
+    "word": "I thought we agreed to meet on Tuesday?",
+    "translation": "Eu achei que tínhamos combinado terça? (polidez)",
+    "pronunciation": "/aɪ θɔːt wiː əˈɡriːd tə miːt ɑːn ˈtuːzdeɪ/",
+    "portuguesePhonetic": "[ái thót uí agríd tu mít ón túzdei]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_2",
+    "word": "It's time we left.",
+    "translation": "Está na hora de irmos. (irreal)",
+    "pronunciation": "/ɪts taɪm wiː lɛft/",
+    "portuguesePhonetic": "[íts táim uí léft]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_3",
+    "word": "I'd rather you were studying now.",
+    "translation": "Eu preferia que você estivesse estudando agora.",
+    "pronunciation": "/aɪd ˈræðər juː wɜːr ˈstʌdiɪŋ naʊ/",
+    "portuguesePhonetic": "[áid rédher iú uâr stâdiin náu]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_4",
+    "word": "I wish I had known the answer.",
+    "translation": "Eu queria ter sabido a resposta.",
+    "pronunciation": "/aɪ wɪʃ aɪ hæd noʊn ðə ˈænsər/",
+    "portuguesePhonetic": "[ái uích ái rréd nôun dhi énser]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_5",
+    "word": "I wish I knew the answer.",
+    "translation": "Eu queria saber a resposta.",
+    "pronunciation": "/aɪ wɪʃ aɪ nuː ðə ˈænsər/",
+    "portuguesePhonetic": "[ái uích ái niú dhi énser]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_6",
+    "word": "He was always interrupting me during meetings.",
+    "translation": "Ele estava sempre me interrompendo nas reuniões.",
+    "pronunciation": "/hiː wəz ˈɔːlweɪz ˌɪntəˈrʌptɪŋ miː ˈdʊrɪŋ ˈmiːtɪŋz/",
+    "portuguesePhonetic": "[rrí uâz ólueiz interâptin mí dúrin mítinz]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_7",
+    "word": "When she was in the hospital, we were visiting her every day.",
+    "translation": "Quando ela estava no hospital, nós a visitávamos todo dia.",
+    "pronunciation": "/wɛn ʃiː wəz ɪn ðə ˈhɑːspɪtl̩ wiː wɜːr ˈvɪzɪtɪŋ hɜːr ˈɛvri deɪ/",
+    "portuguesePhonetic": "[uén chí uâz in dha rráspitou uí uâr vízitin rrâr évri dêi]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_8",
+    "word": "We were hoping you might explain the new plan.",
+    "translation": "Nós esperávamos que você pudesse explicar o novo plano. (polidez)",
+    "pronunciation": "/wiː wɜːr ˈhoʊpɪŋ juː maɪt ɪkˈspleɪn ðə nuː plæn/",
+    "portuguesePhonetic": "[uí uâr rrôupin iú máit ikspleín dha niú plén]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_9",
+    "word": "He had finished the report, and then he went home.",
+    "translation": "Ele tinha terminado o relatório e então foi para casa.",
+    "pronunciation": "/hiː hæd ˈfɪnɪʃt ðə rɪˈpɔːrt ænd ðɛn hiː wɛnt hoʊm/",
+    "portuguesePhonetic": "[rrí rréd fínicht dha ripórt énd dhén rrí uént rrôum]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_10",
+    "word": "After he finished the report, he went home.",
+    "translation": "Depois que terminou o relatório, ele foi para casa.",
+    "pronunciation": "/ˈæftər hiː ˈfɪnɪʃt ðə rɪˈpɔːrt hiː wɛnt hoʊm/",
+    "portuguesePhonetic": "[éfter rrí fínicht dha ripórt rrí uént rrôum]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_11",
+    "word": "She had expected better results.",
+    "translation": "Ela esperava resultados melhores.",
+    "pronunciation": "/ʃiː hæd ɪkˈspɛktɪd ˈbɛtər rɪˈzʌlts/",
+    "portuguesePhonetic": "[chí rréd ikspékted béter rizâlts]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_12",
+    "word": "I had hoped you would let me know.",
+    "translation": "Eu tinha esperado que você me avisasse.",
+    "pronunciation": "/aɪ hæd hoʊpt juː wʊd lɛt miː noʊ/",
+    "portuguesePhonetic": "[ái rréd rrôupt iú uúd lét mí nôu]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_13",
+    "word": "She had been crying",
+    "translation": "her eyes were red.",
+    "pronunciation": "/ʃiː hæd biːn ˈkraɪɪŋ hɜːr aɪz wɜːr rɛd/",
+    "portuguesePhonetic": "[chí rréd bín kráiin rrâr áiz uâr réd]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_14",
+    "word": "They had been arguing.",
+    "translation": "Eles tinham discutido.",
+    "pronunciation": "/ðeɪ hæd biːn ˈɑːrɡjuːɪŋ/",
+    "portuguesePhonetic": "[dhêi rréd bín árguiuin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_15",
+    "word": "She was exhausted; she had been working all day.",
+    "translation": "Ela estava exausta; tinha trabalhado o dia todo.",
+    "pronunciation": "/ʃiː wəz ɪɡˈzɔːstɪd ʃiː hæd biːn ˈwɜːrkɪŋ ɔːl deɪ/",
+    "portuguesePhonetic": "[chí uâz igzósted chí rréd bín uârkin ól dêi]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_16",
+    "word": "They were wet because they had been walking in the rain.",
+    "translation": "Eles estavam molhados porque tinham caminhado na chuva.",
+    "pronunciation": "/ðeɪ wɜːr wɛt bɪˈkɔːz ðeɪ hæd biːn ˈwɔːkɪŋ ɪn ðə reɪn/",
+    "portuguesePhonetic": "[dhêi uâr uét bikóz dhêi rréd bín uókin in dha rêin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_17",
+    "word": "I worked.",
+    "translation": "Eu trabalhei. (past simple)",
+    "pronunciation": "/aɪ wɜːrkt/",
+    "portuguesePhonetic": "[ái uârkt]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_18",
+    "word": "I was working.",
+    "translation": "Eu estava trabalhando. (past continuous)",
+    "pronunciation": "/aɪ wəz ˈwɜːrkɪŋ/",
+    "portuguesePhonetic": "[ái uâz uârkin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_19",
+    "word": "I had worked.",
+    "translation": "Eu tinha trabalhado. (past perfect)",
+    "pronunciation": "/aɪ hæd wɜːrkt/",
+    "portuguesePhonetic": "[ái rréd uârkt]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_20",
+    "word": "I had been working.",
+    "translation": "Eu tinha estado trabalhando. (past perfect continuous)",
+    "pronunciation": "/aɪ hæd biːn ˈwɜːrkɪŋ/",
+    "portuguesePhonetic": "[ái rréd bín uârkin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_21",
+    "word": "I wish I had more time.",
+    "translation": "Eu queria ter mais tempo.",
+    "pronunciation": "/aɪ wɪʃ aɪ hæd mɔːr taɪm/",
+    "portuguesePhonetic": "[ái uích ái rréd mór táim]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_22",
+    "word": "It's time you went to bed.",
+    "translation": "Está na hora de você ir dormir.",
+    "pronunciation": "/ɪts taɪm juː wɛnt tə bɛd/",
+    "portuguesePhonetic": "[íts táim iú uént tu béd]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_23",
+    "word": "I'd rather you didn't smoke.",
+    "translation": "Eu preferia que você não fumasse.",
+    "pronunciation": "/aɪd ˈræðər juː ˈdɪdnt smoʊk/",
+    "portuguesePhonetic": "[áid rédher iú dídent smôuk]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_24",
+    "word": "By the time I arrived, they had left.",
+    "translation": "Quando eu cheguei, eles já tinham ido.",
+    "pronunciation": "/baɪ ðə taɪm aɪ əˈraɪvd ðeɪ hæd lɛft/",
+    "portuguesePhonetic": "[bái dha táim ái aráivd dhêi rréd léft]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_25",
+    "word": "Past Perfect = an action before another past action.",
+    "translation": "Past Perfect = uma ação antes de outra ação no passado.",
+    "pronunciation": "/pæst ˈpɜːrfɪkt ən ˈækʃn̩ bɪˈfɔːr əˈnʌðər pæst ˈækʃn̩/",
+    "portuguesePhonetic": "[pést pârfikt an ékchan bifór anâdher pést ékchan]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_26",
+    "word": "When I arrived, the meeting had started.",
+    "translation": "Quando cheguei, a reunião já tinha começado.",
+    "pronunciation": "/wɛn aɪ əˈraɪvd ðə ˈmiːtɪŋ hæd ˈstɑːrtɪd/",
+    "portuguesePhonetic": "[uén ái aráivd dha mítin rréd stárted]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_27",
+    "word": "Everyone had already left.",
+    "translation": "Todos já tinham ido embora.",
+    "pronunciation": "/ˈɛvriwʌn hæd ɔːlˈrɛdi lɛft/",
+    "portuguesePhonetic": "[évriuan rréd olrédi léft]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_28",
+    "word": "I was hoping to catch you before.",
+    "translation": "Eu esperava te pegar antes.",
+    "pronunciation": "/aɪ wəz ˈhoʊpɪŋ tə kætʃ juː bɪˈfɔːr/",
+    "portuguesePhonetic": "[ái uâz rrôupin tu kétch iú bifór]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_29",
+    "word": "I thought the meeting was at three.",
+    "translation": "Eu achei que a reunião era às três.",
+    "pronunciation": "/aɪ θɔːt ðə ˈmiːtɪŋ wəz æt θriː/",
+    "portuguesePhonetic": "[ái thót dha mítin uâz ét thrí]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_30",
+    "word": "I wish I had checked the time.",
+    "translation": "Eu queria ter conferido a hora.",
+    "pronunciation": "/aɪ wɪʃ aɪ hæd tʃɛkt ðə taɪm/",
+    "portuguesePhonetic": "[ái uích ái rréd tchékt dha táim]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_31",
+    "word": "My old boss was always criticizing me.",
+    "translation": "Meu antigo chefe estava sempre me criticando.",
+    "pronunciation": "/maɪ oʊld bɔːs wəz ˈɔːlweɪz ˈkrɪtɪsaɪzɪŋ miː/",
+    "portuguesePhonetic": "[mái ôuld bós uâz ólueiz krítisaizin mí]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_32",
+    "word": "He had expected me to work weekends.",
+    "translation": "Ele esperava que eu trabalhasse nos fins de semana.",
+    "pronunciation": "/hiː hæd ɪkˈspɛktɪd miː tə wɜːrk ˈwiːkɛndz/",
+    "portuguesePhonetic": "[rrí rréd ikspékted mí tu uârk uíkendz]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_33",
+    "word": "I had hoped for a promotion.",
+    "translation": "Eu tinha esperado uma promoção.",
+    "pronunciation": "/aɪ hæd hoʊpt fɔːr ə prəˈmoʊʃn̩/",
+    "portuguesePhonetic": "[ái rréd rrôupt fór a promôuchan]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_34",
+    "word": "It's time I looked for a new job.",
+    "translation": "Está na hora de eu procurar um novo emprego.",
+    "pronunciation": "/ɪts taɪm aɪ lʊkt fɔːr ə nuː dʒɑːb/",
+    "portuguesePhonetic": "[íts táim ái lúkt fór a niú djób]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_35",
+    "word": "When she was sick, we were calling her daily.",
+    "translation": "Quando ela estava doente, nós a ligávamos todo dia.",
+    "pronunciation": "/wɛn ʃiː wəz sɪk wiː wɜːr ˈkɔːlɪŋ hɜːr ˈdeɪli/",
+    "portuguesePhonetic": "[uén chí uâz sík uí uâr kólin rrâr dêili]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_36",
+    "word": "She had been feeling unwell for weeks.",
+    "translation": "Ela tinha estado se sentindo mal por semanas.",
+    "pronunciation": "/ʃiː hæd biːn ˈfiːlɪŋ ʌnˈwɛl fɔːr wiːks/",
+    "portuguesePhonetic": "[chí rréd bín fílin anuél fór uíks]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_37",
+    "word": "By the time we saw her, she had recovered.",
+    "translation": "Quando a vimos, ela já tinha se recuperado.",
+    "pronunciation": "/baɪ ðə taɪm wiː sɔː hɜːr ʃiː hæd rɪˈkʌvərd/",
+    "portuguesePhonetic": "[bái dha táim uí só rrâr chí rréd rikâverd]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_38",
+    "word": "The floor was wet; someone had been cleaning.",
+    "translation": "O chão estava molhado; alguém tinha estado limpando.",
+    "pronunciation": "/ðə flɔːr wəz wɛt ˈsʌmwʌn hæd biːn ˈkliːnɪŋ/",
+    "portuguesePhonetic": "[dha flór uâz uét sâmuan rréd bín klínin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_39",
+    "word": "The kids were quiet; they had been sleeping.",
+    "translation": "As crianças estavam quietas; tinham estado dormindo.",
+    "pronunciation": "/ðə kɪdz wɜːr ˈkwaɪət ðeɪ hæd biːn ˈsliːpɪŋ/",
+    "portuguesePhonetic": "[dha kídz uâr kuáiet dhêi rréd bín slípin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_40",
+    "word": "He looked tired; he had been studying all night.",
+    "translation": "Ele parecia cansado; tinha estado estudando a noite toda.",
+    "pronunciation": "/hiː lʊkt ˈtaɪərd hiː hæd biːn ˈstʌdiɪŋ ɔːl naɪt/",
+    "portuguesePhonetic": "[rrí lúkt táierd rrí rréd bín stâdiin ól náit]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_41",
+    "word": "We were wondering if you could help.",
+    "translation": "Nós estávamos nos perguntando se você poderia ajudar.",
+    "pronunciation": "/wiː wɜːr ˈwʌndərɪŋ ɪf juː kʊd hɛlp/",
+    "portuguesePhonetic": "[uí uâr uânderin if iú kúd rrélp]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_42",
+    "word": "I was hoping you might join us.",
+    "translation": "Eu esperava que você pudesse se juntar a nós.",
+    "pronunciation": "/aɪ wəz ˈhoʊpɪŋ juː maɪt dʒɔɪn ʌs/",
+    "portuguesePhonetic": "[ái uâz rrôupin iú máit djóin âs]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_43",
+    "word": "I'd rather we talked in private.",
+    "translation": "Eu preferia que conversássemos em particular.",
+    "pronunciation": "/aɪd ˈræðər wiː tɔːkt ɪn ˈpraɪvət/",
+    "portuguesePhonetic": "[áid rédher uí tókt in práivat]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_44",
+    "word": "I wish I had said something.",
+    "translation": "Eu queria ter dito algo.",
+    "pronunciation": "/aɪ wɪʃ aɪ hæd sɛd ˈsʌmθɪŋ/",
+    "portuguesePhonetic": "[ái uích ái rréd séd sâmthin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_45",
+    "word": "I wish I hadn't shouted.",
+    "translation": "Eu queria não ter gritado.",
+    "pronunciation": "/aɪ wɪʃ aɪ ˈhædnt ˈʃaʊtɪd/",
+    "portuguesePhonetic": "[ái uích ái rrédent cháuted]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_46",
+    "word": "She wished she had stayed.",
+    "translation": "Ela queria ter ficado.",
+    "pronunciation": "/ʃiː wɪʃt ʃiː hæd steɪd/",
+    "portuguesePhonetic": "[chí uícht chí rréd stêid]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_47",
+    "word": "By the time the movie started, we had eaten.",
+    "translation": "Quando o filme começou, já tínhamos comido.",
+    "pronunciation": "/baɪ ðə taɪm ðə ˈmuːvi ˈstɑːrtɪd wiː hæd ˈiːtn̩/",
+    "portuguesePhonetic": "[bái dha táim dha múvi stárted uí rréd ítan]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_48",
+    "word": "They had been waiting for an hour.",
+    "translation": "Eles tinham estado esperando por uma hora.",
+    "pronunciation": "/ðeɪ hæd biːn ˈweɪtɪŋ fɔːr ən ˈaʊər/",
+    "portuguesePhonetic": "[dhêi rréd bín uêitin fór an áuer]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_49",
+    "word": "We were exhausted; we had been driving all day.",
+    "translation": "Estávamos exaustos; tínhamos dirigido o dia todo.",
+    "pronunciation": "/wiː wɜːr ɪɡˈzɔːstɪd wiː hæd biːn ˈdraɪvɪŋ ɔːl deɪ/",
+    "portuguesePhonetic": "[uí uâr igzósted uí rréd bín dráivin ól dêi]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_50",
+    "word": "It's time we went home.",
+    "translation": "Está na hora de irmos pra casa.",
+    "pronunciation": "/ɪts taɪm wiː wɛnt hoʊm/",
+    "portuguesePhonetic": "[íts táim uí uént rrôum]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_51",
+    "word": "I had finished.",
+    "translation": "Eu tinha terminado.",
+    "pronunciation": "/aɪ hæd ˈfɪnɪʃt/",
+    "portuguesePhonetic": "[ái rréd fínicht]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_52",
+    "word": "She had left.",
+    "translation": "Ela tinha ido.",
+    "pronunciation": "/ʃiː hæd lɛft/",
+    "portuguesePhonetic": "[chí rréd léft]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_53",
+    "word": "We were waiting.",
+    "translation": "Nós estávamos esperando.",
+    "pronunciation": "/wiː wɜːr ˈweɪtɪŋ/",
+    "portuguesePhonetic": "[uí uâr uêitin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_54",
+    "word": "I wish I knew.",
+    "translation": "Eu queria saber.",
+    "pronunciation": "/aɪ wɪʃ aɪ nuː/",
+    "portuguesePhonetic": "[ái uích ái niú]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_55",
+    "word": "He had already eaten.",
+    "translation": "Ele já tinha comido.",
+    "pronunciation": "/hiː hæd ɔːlˈrɛdi ˈiːtn̩/",
+    "portuguesePhonetic": "[rrí rréd olrédi ítan]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_56",
+    "word": "They had been talking for hours.",
+    "translation": "Eles tinham estado conversando por horas.",
+    "pronunciation": "/ðeɪ hæd biːn ˈtɔːkɪŋ fɔːr ˈaʊərz/",
+    "portuguesePhonetic": "[dhêi rréd bín tókin fór áuerz]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_57",
+    "word": "It's time we left.",
+    "translation": "Está na hora de irmos.",
+    "pronunciation": "/ɪts taɪm wiː lɛft/",
+    "portuguesePhonetic": "[íts táim uí léft]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_58",
+    "word": "I was hoping to see you.",
+    "translation": "Eu esperava te ver.",
+    "pronunciation": "/aɪ wəz ˈhoʊpɪŋ tə siː juː/",
+    "portuguesePhonetic": "[ái uâz rrôupin tu sí iú]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_59",
+    "word": "Had you finished before he came?",
+    "translation": "Você tinha terminado antes dele vir?",
+    "pronunciation": "/hæd juː ˈfɪnɪʃt bɪˈfɔːr hiː keɪm/",
+    "portuguesePhonetic": "[rréd iú fínicht bifór rrí kêim]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_60",
+    "word": "What had you been doing?",
+    "translation": "O que você tinha estado fazendo?",
+    "pronunciation": "/wʌt hæd juː biːn ˈduːɪŋ/",
+    "portuguesePhonetic": "[uât rréd iú bín dúin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_61",
+    "word": "I hadn't expected that.",
+    "translation": "Eu não esperava aquilo.",
+    "pronunciation": "/aɪ ˈhædnt ɪkˈspɛktɪd ðæt/",
+    "portuguesePhonetic": "[ái rrédent ikspékted dhét]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_62",
+    "word": "Wouldn't you rather we waited?",
+    "translation": "Você não preferiria que esperássemos?",
+    "pronunciation": "/ˈwʊdnt juː ˈræðər wiː ˈweɪtɪd/",
+    "portuguesePhonetic": "[uúdent iú rédher uí uêited]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_63",
+    "word": "By the time I called, she had already gone.",
+    "translation": "Quando liguei, ela já tinha ido.",
+    "pronunciation": "/baɪ ðə taɪm aɪ kɔːld ʃiː hæd ɔːlˈrɛdi ɡɔːn/",
+    "portuguesePhonetic": "[bái dha táim ái kóld chí rréd olrédi gón]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_64",
+    "word": "He was tired because he had been working late.",
+    "translation": "Ele estava cansado porque tinha estado trabalhando até tarde.",
+    "pronunciation": "/hiː wəz ˈtaɪərd bɪˈkɔːz hiː hæd biːn ˈwɜːrkɪŋ leɪt/",
+    "portuguesePhonetic": "[rrí uâz táierd bikóz rrí rréd bín uârkin lêit]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_65",
+    "word": "I wish I had known you were coming.",
+    "translation": "Eu queria ter sabido que você vinha.",
+    "pronunciation": "/aɪ wɪʃ aɪ hæd noʊn juː wɜːr ˈkʌmɪŋ/",
+    "portuguesePhonetic": "[ái uích ái rréd nôun iú uâr kâmin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_66",
+    "word": "She was always complaining when things went wrong.",
+    "translation": "Ela estava sempre reclamando quando as coisas davam errado.",
+    "pronunciation": "/ʃiː wəz ˈɔːlweɪz kəmˈpleɪnɪŋ wɛn θɪŋz wɛnt rɔːŋ/",
+    "portuguesePhonetic": "[chí uâz ólueiz kompleinin uén thíNz uént róN]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_67",
+    "word": "We had been hoping for good news, but it never came.",
+    "translation": "Nós tínhamos esperado boas notícias, mas elas nunca vieram.",
+    "pronunciation": "/wiː hæd biːn ˈhoʊpɪŋ fɔːr ɡʊd nuːz bʌt ɪt ˈnɛvər keɪm/",
+    "portuguesePhonetic": "[uí rréd bín rrôupin fór gúd niúz bât ít néver kêim]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_68",
+    "word": "It's high time you told her the truth, even if it's hard.",
+    "translation": "Já está mais que na hora de você contar a verdade a ela, mesmo que seja difícil.",
+    "pronunciation": "/ɪts haɪ taɪm juː toʊld hɜːr ðə truːθ ˈiːvn̩ ɪf ɪts hɑːrd/",
+    "portuguesePhonetic": "[íts rrái táim iú tôuld rrâr dha trúth ívan if íts rrárd]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_69",
+    "word": "I'd rather you hadn't mentioned it, because now everyone knows.",
+    "translation": "Eu preferia que você não tivesse mencionado, porque agora todos sabem.",
+    "pronunciation": "/aɪd ˈræðər juː ˈhædnt ˈmɛnʃn̩d ɪt bɪˈkɔːz naʊ ˈɛvriwʌn noʊz/",
+    "portuguesePhonetic": "[áid rédher iú rrédent ménchand ít bikóz náu évriuan nôuz]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_70",
+    "word": "By the time the police arrived, the thieves had already escaped.",
+    "translation": "Quando a polícia chegou, os ladrões já tinham fugido.",
+    "pronunciation": "/baɪ ðə taɪm ðə pəˈliːs əˈraɪvd ðə θiːvz hæd ɔːlˈrɛdi ɪˈskeɪpt/",
+    "portuguesePhonetic": "[bái dha táim dha palís aráivd dha thívz rréd olrédi iskêipt]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_71",
+    "word": "She looked upset; I think she had been crying before the meeting.",
+    "translation": "Ela parecia abalada; acho que tinha estado chorando antes da reunião.",
+    "pronunciation": "/ʃiː lʊkt ʌpˈsɛt aɪ θɪŋk ʃiː hæd biːn ˈkraɪɪŋ bɪˈfɔːr ðə ˈmiːtɪŋ/",
+    "portuguesePhonetic": "[chí lúkt âpsét ái thínk chí rréd bín kráiin bifór dha mítin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_72",
+    "word": "We were hoping you might reconsider, since the situation has changed.",
+    "translation": "Nós esperávamos que você reconsiderasse, já que a situação mudou.",
+    "pronunciation": "/wiː wɜːr ˈhoʊpɪŋ juː maɪt ˌriːkənˈsɪdər sɪns ðə ˌsɪtʃuˈeɪʃn̩ hæz tʃeɪndʒd/",
+    "portuguesePhonetic": "[uí uâr rrôupin iú máit rikansíder síns dha sitchuêichan rréz tchêindjd]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_73",
+    "word": "If only I had listened to your advice, none of this would have happened.",
+    "translation": "Se ao menos eu tivesse ouvido seu conselho, nada disso teria acontecido.",
+    "pronunciation": "/ɪf ˈoʊnli aɪ hæd ˈlɪsn̩d tə jɔːr ədˈvaɪs nʌn əv ðɪs wʊd hæv ˈhæpənd/",
+    "portuguesePhonetic": "[if ôunli ái rréd lísand tu iór adváis nân ov dhís uúd rrév rrépand]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_74",
+    "word": "He had been promising to fix it for weeks, but he never did.",
+    "translation": "Ele tinha estado prometendo consertar por semanas, mas nunca consertou.",
+    "pronunciation": "/hiː hæd biːn ˈprɑːmɪsɪŋ tə fɪks ɪt fɔːr wiːks bʌt hiː ˈnɛvər dɪd/",
+    "portuguesePhonetic": "[rrí rréd bín prámisin tu fíks ít fór uíks bât rrí néver díd]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_75",
+    "word": "By the end of the trip, we had been traveling for over a month.",
+    "translation": "No fim da viagem, já estávamos viajando havia mais de um mês.",
+    "pronunciation": "/baɪ ðə ɛnd əv ðə trɪp wiː hæd biːn ˈtrævl̩ɪŋ fɔːr ˈoʊvər ə mʌnθ/",
+    "portuguesePhonetic": "[bái dhi énd ov dha tríp uí rréd bín trévolin fór ôuver a mânth]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_76",
+    "word": "\"Why were you late?\" / \"The bus had already left.\"",
+    "translation": "\"Por que você se atrasou?\" / \"O ônibus já tinha ido.\"",
+    "pronunciation": "/waɪ wɜːr juː leɪt · ðə bʌs hæd ɔːlˈrɛdi lɛft/",
+    "portuguesePhonetic": "[uái uâr iú lêit · dha bâs rréd olrédi léft]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_77",
+    "word": "\"Had you met before?\" / \"No, never.\"",
+    "translation": "\"Vocês já tinham se conhecido antes?\" / \"Não, nunca.\"",
+    "pronunciation": "/hæd juː mɛt bɪˈfɔːr · noʊ ˈnɛvər/",
+    "portuguesePhonetic": "[rréd iú mét bifór · nôu néver]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_78",
+    "word": "\"Why was she crying?\" / \"She had failed the exam.\"",
+    "translation": "\"Por que ela estava chorando?\" / \"Ela tinha sido reprovada na prova.\"",
+    "pronunciation": "/waɪ wəz ʃiː ˈkraɪɪŋ · ʃiː hæd feɪld ðə ɪɡˈzæm/",
+    "portuguesePhonetic": "[uái uâz chí kráiin · chí rréd fêild dhi igzém]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_79",
+    "word": "\"What had you been doing?\" / \"Just resting.\"",
+    "translation": "\"O que você tinha estado fazendo?\" / \"Só descansando.\"",
+    "pronunciation": "/wʌt hæd juː biːn ˈduːɪŋ · dʒʌst ˈrɛstɪŋ/",
+    "portuguesePhonetic": "[uât rréd iú bín dúin · djâst réstin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_80",
+    "word": "\"Did they finish?\" / \"Yes, before I arrived.\"",
+    "translation": "\"Eles terminaram?\" / \"Sim, antes de eu chegar.\"",
+    "pronunciation": "/dɪd ðeɪ ˈfɪnɪʃ · jɛs bɪˈfɔːr aɪ əˈraɪvd/",
+    "portuguesePhonetic": "[díd dhêi fínich · iés bifór ái aráivd]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_81",
+    "word": "\"Why were you tired?\" / \"I had been working all night.\"",
+    "translation": "\"Por que você estava cansado?\" / \"Eu tinha trabalhado a noite toda.\"",
+    "pronunciation": "/waɪ wɜːr juː ˈtaɪərd · aɪ hæd biːn ˈwɜːrkɪŋ ɔːl naɪt/",
+    "portuguesePhonetic": "[uái uâr iú táierd · ái rréd bín uârkin ól náit]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_82",
+    "word": "\"I wish I had come.\" / \"Me too, it was fun.\"",
+    "translation": "\"Eu queria ter vindo.\" / \"Eu também, foi divertido.\"",
+    "pronunciation": "/aɪ wɪʃ aɪ hæd kʌm · miː tuː ɪt wəz fʌn/",
+    "portuguesePhonetic": "[ái uích ái rréd kâm · mí tú ít uâz fân]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_83",
+    "word": "\"Isn't it time we left?\" / \"Yes, let's go.\"",
+    "translation": "\"Não está na hora de irmos?\" / \"Sim, vamos.\"",
+    "pronunciation": "/ˈɪznt ɪt taɪm wiː lɛft · jɛs lɛts ɡoʊ/",
+    "portuguesePhonetic": "[íznt ít táim uí léft · iés léts gôu]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_84",
+    "word": "\"Why was the floor wet?\" / \"Someone had been mopping.\"",
+    "translation": "\"Por que o chão estava molhado?\" / \"Alguém tinha estado passando pano.\"",
+    "pronunciation": "/waɪ wəz ðə flɔːr wɛt · ˈsʌmwʌn hæd biːn ˈmɑːpɪŋ/",
+    "portuguesePhonetic": "[uái uâz dha flór uét · sâmuan rréd bín mápin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_85",
+    "word": "\"Had he eaten?\" / \"Yes, already.\"",
+    "translation": "\"Ele tinha comido?\" / \"Sim, já.\"",
+    "pronunciation": "/hæd hiː ˈiːtn̩ · jɛs ɔːlˈrɛdi/",
+    "portuguesePhonetic": "[rréd rrí ítan · iés olrédi]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_86",
+    "word": "\"Why didn't you call?\" / \"I had lost your number.\"",
+    "translation": "\"Por que você não ligou?\" / \"Eu tinha perdido seu número.\"",
+    "pronunciation": "/waɪ ˈdɪdnt juː kɔːl · aɪ hæd lɔːst jɔːr ˈnʌmbər/",
+    "portuguesePhonetic": "[uái dídent iú kól · ái rréd lóst iór nâmber]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_87",
+    "word": "\"Were you hoping to see me?\" / \"Yes, I was.\"",
+    "translation": "\"Você esperava me ver?\" / \"Sim, esperava.\"",
+    "pronunciation": "/wɜːr juː ˈhoʊpɪŋ tə siː miː · jɛs aɪ wəz/",
+    "portuguesePhonetic": "[uâr iú rrôupin tu sí mí · iés ái uâz]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_88",
+    "word": "\"Why was she upset?\" / \"She had expected more.\"",
+    "translation": "\"Por que ela estava chateada?\" / \"Ela esperava mais.\"",
+    "pronunciation": "/waɪ wəz ʃiː ʌpˈsɛt · ʃiː hæd ɪkˈspɛktɪd mɔːr/",
+    "portuguesePhonetic": "[uái uâz chí âpsét · chí rréd ikspékted mór]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_89",
+    "word": "\"Had they been waiting long?\" / \"About an hour.\"",
+    "translation": "\"Eles estavam esperando havia muito tempo?\" / \"Cerca de uma hora.\"",
+    "pronunciation": "/hæd ðeɪ biːn ˈweɪtɪŋ lɔːŋ · əˈbaʊt ən ˈaʊər/",
+    "portuguesePhonetic": "[rréd dhêi bín uêitin lóN · abáut an áuer]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_90",
+    "word": "\"I'd rather you stayed.\" / \"Okay, I will.\"",
+    "translation": "\"Eu preferia que você ficasse.\" / \"Tá, eu fico.\"",
+    "pronunciation": "/aɪd ˈræðər juː steɪd · oʊˈkeɪ aɪ wɪl/",
+    "portuguesePhonetic": "[áid rédher iú stêid · ôukêi ái uíou]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_91",
+    "word": "\"Why were they wet?\" / \"They'd been walking in the rain.\"",
+    "translation": "\"Por que eles estavam molhados?\" / \"Tinham caminhado na chuva.\"",
+    "pronunciation": "/waɪ wɜːr ðeɪ wɛt · ðeɪd biːn ˈwɔːkɪŋ ɪn ðə reɪn/",
+    "portuguesePhonetic": "[uái uâr dhêi uét · dhêid bín uókin in dha rêin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_92",
+    "word": "\"Had the movie started?\" / \"Yes, ten minutes before.\"",
+    "translation": "\"O filme tinha começado?\" / \"Sim, dez minutos antes.\"",
+    "pronunciation": "/hæd ðə ˈmuːvi ˈstɑːrtɪd · jɛs tɛn ˈmɪnɪts bɪˈfɔːr/",
+    "portuguesePhonetic": "[rréd dha múvi stárted · iés tén mínits bifór]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_93",
+    "word": "\"Why was he so quiet?\" / \"He'd been arguing with her.\"",
+    "translation": "\"Por que ele estava tão quieto?\" / \"Ele tinha discutido com ela.\"",
+    "pronunciation": "/waɪ wəz hiː soʊ ˈkwaɪət · hiːd biːn ˈɑːrɡjuːɪŋ wɪð hɜːr/",
+    "portuguesePhonetic": "[uái uâz rrí sôu kuáiet · rríd bín árguiuin uídh rrâr]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_94",
+    "word": "\"Did you wish you'd stayed?\" / \"Yes, a little.\"",
+    "translation": "\"Você queria ter ficado?\" / \"Sim, um pouco.\"",
+    "pronunciation": "/dɪd juː wɪʃ juːd steɪd · jɛs ə ˈlɪtl̩/",
+    "portuguesePhonetic": "[díd iú uích iúd stêid · iés a lítou]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_95",
+    "word": "\"Had you finished by then?\" / \"Almost.\"",
+    "translation": "\"Você tinha terminado até então?\" / \"Quase.\"",
+    "pronunciation": "/hæd juː ˈfɪnɪʃt baɪ ðɛn · ˈɔːlmoʊst/",
+    "portuguesePhonetic": "[rréd iú fínicht bái dhén · ólmoust]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_96",
+    "word": "\"Why was he always late?\" / \"He kept oversleeping.\"",
+    "translation": "\"Por que ele estava sempre atrasado?\" / \"Ele vivia dormindo demais.\"",
+    "pronunciation": "/waɪ wəz hiː ˈɔːlweɪz leɪt · hiː kɛpt ˈoʊvərsliːpɪŋ/",
+    "portuguesePhonetic": "[uái uâz rrí ólueiz lêit · rrí képt ôuverslípin]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_97",
+    "word": "\"Were you hoping for a raise?\" / \"Yes, I was.\"",
+    "translation": "\"Você esperava um aumento?\" / \"Sim, esperava.\"",
+    "pronunciation": "/wɜːr juː ˈhoʊpɪŋ fɔːr ə reɪz · jɛs aɪ wəz/",
+    "portuguesePhonetic": "[uâr iú rrôupin fór a rêiz · iés ái uâz]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_98",
+    "word": "\"Had it stopped raining?\" / \"Not yet.\"",
+    "translation": "\"Tinha parado de chover?\" / \"Ainda não.\"",
+    "pronunciation": "/hæd ɪt stɑːpt ˈreɪnɪŋ · nɑːt jɛt/",
+    "portuguesePhonetic": "[rréd ít stápt rêinin · nót iét]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_99",
+    "word": "\"Why were you nervous?\" / \"I hadn't prepared.\"",
+    "translation": "\"Por que você estava nervoso?\" / \"Eu não tinha me preparado.\"",
+    "pronunciation": "/waɪ wɜːr juː ˈnɜːrvəs · aɪ ˈhædnt prɪˈpɛrd/",
+    "portuguesePhonetic": "[uái uâr iú nârvas · ái rrédent pripérd]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_en_card_100",
+    "word": "\"Isn't it time you rested?\" / \"Soon, I promise.\"",
+    "translation": "\"Não está na hora de você descansar?\" / \"Logo, eu prometo.\"",
+    "pronunciation": "/ˈɪznt ɪt taɪm juː ˈrɛstɪd · suːn aɪ ˈprɑːmɪs/",
+    "portuguesePhonetic": "[íznt ít táim iú résted · sún ái prámis]"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_2_grammar_c1_es_card_1",
+    "word": "¿Pensaba que habíamos quedado el martes?",
+    "translation": "Eu achei que tínhamos combinado terça? (polidez)",
+    "pronunciation": "/penˈsaβa ke aˈβiamos keˈðaðo el ˈmaɾtes/",
+    "portuguesePhonetic": "[pensába ke abíamos kedádo el mártes]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_2",
+    "word": "Ya es hora de que nos vayamos.",
+    "translation": "Está na hora de irmos. (subjuntivo)",
+    "pronunciation": "/ʝa es ˈoɾa de ke nos baˈʝamos/",
+    "portuguesePhonetic": "[ia és óra de ke nos baiámos]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_3",
+    "word": "Preferiría que estuvieras estudiando ahora.",
+    "translation": "Eu preferia que você estivesse estudando agora.",
+    "pronunciation": "/pɾefeɾiˈɾia ke estuˈβjeɾas estuˈðjando aˈoɾa/",
+    "portuguesePhonetic": "[preferiría ke estubiéras estudiándo aóra]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_4",
+    "word": "Ojalá hubiera sabido la respuesta.",
+    "translation": "Eu queria ter sabido a resposta.",
+    "pronunciation": "/oxaˈla uˈβjeɾa saˈβiðo la resˈpwesta/",
+    "portuguesePhonetic": "[orralá ubiéra sabído la respuésta]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_5",
+    "word": "Ojalá supiera la respuesta.",
+    "translation": "Eu queria saber a resposta.",
+    "pronunciation": "/oxaˈla suˈpjeɾa la resˈpwesta/",
+    "portuguesePhonetic": "[orralá supiéra la respuésta]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_6",
+    "word": "Siempre me interrumpía en las reuniones.",
+    "translation": "Ele estava sempre me interrompendo nas reuniões.",
+    "pronunciation": "/ˈsjempɾe me interumˈpia en las reuˈnjones/",
+    "portuguesePhonetic": "[siémpre me interrumpía en las reuniónes]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_7",
+    "word": "Cuando estaba en el hospital, la visitábamos cada día.",
+    "translation": "Quando ela estava no hospital, nós a visitávamos todo dia.",
+    "pronunciation": "/ˈkwando esˈtaβa en el ospiˈtal la bisiˈtaβamos ˈkaða ˈdia/",
+    "portuguesePhonetic": "[kuándo estába en el ospitál la bisitábamos káda día]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_8",
+    "word": "Esperábamos que nos explicaras el nuevo plan.",
+    "translation": "Nós esperávamos que você nos explicasse o novo plano. (polidez)",
+    "pronunciation": "/espeˈɾaβamos ke nos ekspliˈkaɾas el ˈnweβo plan/",
+    "portuguesePhonetic": "[esperábamos ke nos eksplikáras el nuébo plan]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_9",
+    "word": "Había terminado el informe y luego se fue a casa.",
+    "translation": "Ele tinha terminado o relatório e então foi para casa.",
+    "pronunciation": "/aˈβia teɾmiˈnaðo el imˈfoɾme i ˈlweɣo se fwe a ˈkasa/",
+    "portuguesePhonetic": "[abía terminádo el imfórme i luégo se fué a kása]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_10",
+    "word": "Después de terminar el informe, se fue a casa.",
+    "translation": "Depois que terminou o relatório, ele foi para casa.",
+    "pronunciation": "/desˈpwes de teɾmiˈnaɾ el imˈfoɾme se fwe a ˈkasa/",
+    "portuguesePhonetic": "[después de terminár el imfórme se fué a kása]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_11",
+    "word": "Esperaba mejores resultados.",
+    "translation": "Ela esperava resultados melhores.",
+    "pronunciation": "/espeˈɾaβa meˈxoɾes resulˈtaðos/",
+    "portuguesePhonetic": "[esperába merróres resultádos]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_12",
+    "word": "Esperaba que me avisaras.",
+    "translation": "Eu tinha esperado que você me avisasse.",
+    "pronunciation": "/espeˈɾaβa ke me aβiˈsaɾas/",
+    "portuguesePhonetic": "[esperába ke me abisáras]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_13",
+    "word": "Había estado llorando",
+    "translation": "tenía los ojos rojos.",
+    "pronunciation": "/aˈβia esˈtaðo ʎoˈɾando teˈnia los ˈoxos ˈroxos/",
+    "portuguesePhonetic": "[abía estádo lhorándo tenía los órros rrórros]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_14",
+    "word": "Habían estado discutiendo.",
+    "translation": "Eles tinham discutido.",
+    "pronunciation": "/aˈβian esˈtaðo diskuˈtjendo/",
+    "portuguesePhonetic": "[abían estádo diskutiéndo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_15",
+    "word": "Estaba agotada; había estado trabajando todo el día.",
+    "translation": "Ela estava exausta; tinha trabalhado o dia todo.",
+    "pronunciation": "/esˈtaβa aɣoˈtaða aˈβia esˈtaðo tɾaβaˈxando ˈtoðo el ˈdia/",
+    "portuguesePhonetic": "[estába agotáda abía estádo trabarrándo tódo el día]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_16",
+    "word": "Estaban mojados porque habían estado caminando bajo la lluvia.",
+    "translation": "Eles estavam molhados porque tinham caminhado na chuva.",
+    "pronunciation": "/esˈtaβan moˈxaðos ˈpoɾke aˈβian esˈtaðo kamiˈnando ˈbaxo la ˈʎuβja/",
+    "portuguesePhonetic": "[estában morrádos pórke abían estádo kaminándo bárro la lhúbia]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_17",
+    "word": "Trabajé.",
+    "translation": "Eu trabalhei. (indefinido)",
+    "pronunciation": "/tɾaβaˈxe/",
+    "portuguesePhonetic": "[trabarré]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_18",
+    "word": "Estaba trabajando.",
+    "translation": "Eu estava trabajando. (imperfeito)",
+    "pronunciation": "/esˈtaβa tɾaβaˈxando/",
+    "portuguesePhonetic": "[estába trabarrándo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_19",
+    "word": "Había trabajado.",
+    "translation": "Eu tinha trabalhado. (mais-que-perfeito)",
+    "pronunciation": "/aˈβia tɾaβaˈxaðo/",
+    "portuguesePhonetic": "[abía trabarrádo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_20",
+    "word": "Había estado trabajando.",
+    "translation": "Eu tinha estado trabajando. (contínuo)",
+    "pronunciation": "/aˈβia esˈtaðo tɾaβaˈxando/",
+    "portuguesePhonetic": "[abía estádo trabarrándo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_21",
+    "word": "Ojalá tuviera más tiempo.",
+    "translation": "Eu queria ter mais tempo.",
+    "pronunciation": "/oxaˈla tuˈβjeɾa mas ˈtjempo/",
+    "portuguesePhonetic": "[orralá tubiéra mas tiémpo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_22",
+    "word": "Ya es hora de que te vayas a la cama.",
+    "translation": "Está na hora de você ir dormir.",
+    "pronunciation": "/ʝa es ˈoɾa de ke te ˈbaʝas a la ˈkama/",
+    "portuguesePhonetic": "[ia és óra de ke te báias a la káma]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_23",
+    "word": "Preferiría que no fumaras.",
+    "translation": "Eu preferia que você não fumasse.",
+    "pronunciation": "/pɾefeɾiˈɾia ke no fuˈmaɾas/",
+    "portuguesePhonetic": "[preferiría ke no fumáras]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_24",
+    "word": "Cuando llegué, ya se habían ido.",
+    "translation": "Quando eu cheguei, eles já tinham ido.",
+    "pronunciation": "/ˈkwando ʎeˈɣe ʝa se aˈβian ˈiðo/",
+    "portuguesePhonetic": "[kuándo lhegué ia se abían ído]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_25",
+    "word": "Importante: para deseos e hipótesis, el español usa el SUBJUNTIVO.",
+    "translation": "Importante: para desejos e hipóteses, o espanhol usa o SUBJUNTIVO.",
+    "pronunciation": "/impoɾˈtante ˈpaɾa deˈseos e iˈpotesis el espaˈɲol ˈusa el suβxunˈtiβo/",
+    "portuguesePhonetic": "[importánte pára deséos e ipótesis el espánhol úsa el subrruntíbo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_26",
+    "word": "Cuando llegué, la reunión ya había empezado.",
+    "translation": "Quando cheguei, a reunião já tinha começado.",
+    "pronunciation": "/ˈkwando ʎeˈɣe la reuˈnjon ʝa aˈβia empeˈθaðo/",
+    "portuguesePhonetic": "[kuándo lhegué la reunión ia abía empethádo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_27",
+    "word": "Todos ya se habían ido.",
+    "translation": "Todos já tinham ido embora.",
+    "pronunciation": "/ˈtoðos ʝa se aˈβian ˈiðo/",
+    "portuguesePhonetic": "[tódos ia se abían ído]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_28",
+    "word": "Esperaba pillarte antes.",
+    "translation": "Eu esperava te pegar antes.",
+    "pronunciation": "/espeˈɾaβa piˈʎaɾte ˈantes/",
+    "portuguesePhonetic": "[esperába pilhárte ántes]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_29",
+    "word": "Pensaba que la reunión era a las tres.",
+    "translation": "Eu achei que a reunião era às três.",
+    "pronunciation": "/penˈsaβa ke la reuˈnjon ˈeɾa a las tɾes/",
+    "portuguesePhonetic": "[pensába ke la reunión éra a las trés]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_30",
+    "word": "Ojalá hubiera mirado la hora.",
+    "translation": "Eu queria ter conferido a hora.",
+    "pronunciation": "/oxaˈla uˈβjeɾa miˈɾaðo la ˈoɾa/",
+    "portuguesePhonetic": "[orralá ubiéra mirádo la óra]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_31",
+    "word": "Mi antiguo jefe siempre me criticaba.",
+    "translation": "Meu antiguo jefe estaba sempre me criticando.",
+    "pronunciation": "/mi anˈtiɣwo ˈxefe ˈsjempɾe me kɾitiˈkaβa/",
+    "portuguesePhonetic": "[mi antíguo rréfe siémpre me kritikába]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_32",
+    "word": "Esperaba que trabajara los fines de semana.",
+    "translation": "Ele esperava que eu trabalhasse nos fins de semana.",
+    "pronunciation": "/espeˈɾaβa ke tɾaβaˈxaɾa los ˈfines de seˈmana/",
+    "portuguesePhonetic": "[esperába ke trabarrára los fínes de semána]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_33",
+    "word": "Esperaba un ascenso.",
+    "translation": "Eu tinha esperado uma promoção.",
+    "pronunciation": "/espeˈɾaβa un asˈθenso/",
+    "portuguesePhonetic": "[esperába un asthénso]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_34",
+    "word": "Ya es hora de que busque un nuevo trabajo.",
+    "translation": "Está na hora de eu procurar um nuevo emprego.",
+    "pronunciation": "/ʝa es ˈoɾa de ke ˈbuske un ˈnweβo tɾaˈβaxo/",
+    "portuguesePhonetic": "[ia és óra de ke búske un nuébo trabárro]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_35",
+    "word": "Cuando estaba enferma, la llamábamos cada día.",
+    "translation": "Quando ela estava doente, nós a ligávamos todo dia.",
+    "pronunciation": "/ˈkwando esˈtaβa emˈfeɾma la ʎaˈmaβamos ˈkaða ˈdia/",
+    "portuguesePhonetic": "[kuándo estába emférma la lhamábamos káda día]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_36",
+    "word": "Llevaba semanas encontrándose mal.",
+    "translation": "Ela tinha estado se sentindo mal por semanas.",
+    "pronunciation": "/ʎeˈβaβa seˈmanas eŋkonˈtɾandose mal/",
+    "portuguesePhonetic": "[lhebába semánas enkontrándose mal]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_37",
+    "word": "Cuando la vimos, ya se había recuperado.",
+    "translation": "Quando a vimos, ela já tinha se recuperado.",
+    "pronunciation": "/ˈkwando la ˈbimos ʝa se aˈβia rekupeˈɾaðo/",
+    "portuguesePhonetic": "[kuándo la bímos ia se abía rekuperádo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_38",
+    "word": "El suelo estaba mojado; alguien había estado limpiando.",
+    "translation": "O chão estava molhado; alguien tinha estado limpando.",
+    "pronunciation": "/el ˈswelo esˈtaβa moˈxaðo ˈalɣjen aˈβia esˈtaðo limˈpjando/",
+    "portuguesePhonetic": "[el suélo estába morrádo álguien abía estádo limpiándo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_39",
+    "word": "Los niños estaban callados; habían estado durmiendo.",
+    "translation": "As crianças estavam quietas; tinham estado dormindo.",
+    "pronunciation": "/los ˈniɲos esˈtaβan kaˈʎaðos aˈβian esˈtaðo duɾˈmjendo/",
+    "portuguesePhonetic": "[los nínhos estában kalhádos abían estádo durmiéndo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_40",
+    "word": "Parecía cansado; había estado estudiando toda la noche.",
+    "translation": "Ele parecia cansado; tinha estado estudando a noite toda.",
+    "pronunciation": "/paɾeˈθia kanˈsaðo aˈβia esˈtaðo estuˈðjando ˈtoða la ˈnotʃe/",
+    "portuguesePhonetic": "[parethía kansádo abía estádo estudiándo tóda la nótche]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_41",
+    "word": "Nos preguntábamos si podrías ayudar.",
+    "translation": "Nós estávamos nos perguntando se você poderia ajudar.",
+    "pronunciation": "/nos pɾeɣunˈtaβamos si poˈðɾias aʝuˈðaɾ/",
+    "portuguesePhonetic": "[nos preguntábamos si podrías aiudár]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_42",
+    "word": "Esperaba que te unieras a nosotros.",
+    "translation": "Eu esperava que você se juntasse a nós.",
+    "pronunciation": "/espeˈɾaβa ke te uˈnjeɾas a noˈsotɾos/",
+    "portuguesePhonetic": "[esperába ke te uniéras a nosótros]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_43",
+    "word": "Preferiría que habláramos en privado.",
+    "translation": "Eu preferia que conversássemos em particular.",
+    "pronunciation": "/pɾefeɾiˈɾia ke aˈβlaɾamos en pɾiˈβaðo/",
+    "portuguesePhonetic": "[preferiría ke abláramos en pribádo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_44",
+    "word": "Ojalá hubiera dicho algo.",
+    "translation": "Eu queria ter dito algo.",
+    "pronunciation": "/oxaˈla uˈβjeɾa ˈditʃo ˈalɣo/",
+    "portuguesePhonetic": "[orralá ubiéra dítcho álgo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_45",
+    "word": "Ojalá no hubiera gritado.",
+    "translation": "Eu queria não ter gritado.",
+    "pronunciation": "/oxaˈla no uˈβjeɾa ɡɾiˈtaðo/",
+    "portuguesePhonetic": "[orralá no ubiéra gritádo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_46",
+    "word": "Deseaba haberse quedado.",
+    "translation": "Ela queria ter ficado.",
+    "pronunciation": "/deseˈaβa aˈβeɾse keˈðaðo/",
+    "portuguesePhonetic": "[deseába abérse kedádo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_47",
+    "word": "Cuando empezó la película, ya habíamos comido.",
+    "translation": "Quando o filme começou, já tínhamos comido.",
+    "pronunciation": "/ˈkwando empeˈθo la peˈlikula ʝa aˈβiamos koˈmiðo/",
+    "portuguesePhonetic": "[kuándo empethó la pelíkula ia abíamos komído]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_48",
+    "word": "Llevaban una hora esperando.",
+    "translation": "Eles tinham estado esperando por uma hora.",
+    "pronunciation": "/ʎeˈβaβan una ˈoɾa espeˈɾando/",
+    "portuguesePhonetic": "[lhebában úna óra esperándo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_49",
+    "word": "Estábamos agotados; habíamos estado conduciendo todo el día.",
+    "translation": "Estávamos exaustos; tínhamos dirigido o dia todo.",
+    "pronunciation": "/esˈtaβamos aɣoˈtaðos aˈβiamos esˈtaðo konduˈθjendo ˈtoðo el ˈdia/",
+    "portuguesePhonetic": "[estábamos agotádos abíamos estádo kondutiéndo tódo el día]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_50",
+    "word": "Ya es hora de que nos vayamos a casa.",
+    "translation": "Está na hora de irmos pra casa.",
+    "pronunciation": "/ʝa es ˈoɾa de ke nos baˈʝamos a ˈkasa/",
+    "portuguesePhonetic": "[ia és óra de ke nos baiámos a kása]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_51",
+    "word": "Había terminado.",
+    "translation": "Eu tinha terminado.",
+    "pronunciation": "/aˈβia teɾmiˈnaðo/",
+    "portuguesePhonetic": "[abía terminádo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_52",
+    "word": "Se había ido.",
+    "translation": "Ela tinha ido.",
+    "pronunciation": "/se aˈβia ˈiðo/",
+    "portuguesePhonetic": "[se abía ído]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_53",
+    "word": "Estábamos esperando.",
+    "translation": "Nós estávamos esperando.",
+    "pronunciation": "/esˈtaβamos espeˈɾando/",
+    "portuguesePhonetic": "[estábamos esperándo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_54",
+    "word": "Ojalá lo supiera.",
+    "translation": "Eu queria saber.",
+    "pronunciation": "/oxaˈla lo suˈpjeɾa/",
+    "portuguesePhonetic": "[orralá lo supiéra]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_55",
+    "word": "Ya había comido.",
+    "translation": "Ele já tinha comido.",
+    "pronunciation": "/ʝa aˈβia koˈmiðo/",
+    "portuguesePhonetic": "[ia abía komído]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_56",
+    "word": "Llevaban horas hablando.",
+    "translation": "Eles tinham estado conversando por horas.",
+    "pronunciation": "/ʎeˈβaβan ˈoɾas aˈβlando/",
+    "portuguesePhonetic": "[lhebában óras ablándo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_57",
+    "word": "Ya es hora de que nos vayamos.",
+    "translation": "Está na hora de irmos.",
+    "pronunciation": "/ʝa es ˈoɾa de ke nos baˈʝamos/",
+    "portuguesePhonetic": "[ia és óra de ke nos baiámos]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_58",
+    "word": "Esperaba verte.",
+    "translation": "Eu esperava te ver.",
+    "pronunciation": "/espeˈɾaβa ˈbeɾte/",
+    "portuguesePhonetic": "[esperába bérte]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_59",
+    "word": "¿Habías terminado antes de que él viniera?",
+    "translation": "Você tinha terminado antes dele vir?",
+    "pronunciation": "/aˈβias teɾmiˈnaðo ˈantes de ke el biˈnjeɾa/",
+    "portuguesePhonetic": "[abías terminádo ántes de ke él biniéra]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_60",
+    "word": "¿Qué habías estado haciendo?",
+    "translation": "O que você tinha estado fazendo?",
+    "pronunciation": "/ke aˈβias esˈtaðo aˈθjendo/",
+    "portuguesePhonetic": "[ke abías estádo athiéndo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_61",
+    "word": "No me esperaba eso.",
+    "translation": "Eu não esperava aquilo.",
+    "pronunciation": "/no me espeˈɾaβa ˈeso/",
+    "portuguesePhonetic": "[no me esperába éso]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_62",
+    "word": "¿No preferirías que esperáramos?",
+    "translation": "Você não preferiria que esperássemos?",
+    "pronunciation": "/no pɾefeɾiˈɾias ke espeˈɾaɾamos/",
+    "portuguesePhonetic": "[no preferirías ke esperáramos]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_63",
+    "word": "Cuando llamé, ella ya se había ido.",
+    "translation": "Quando liguei, ela já tinha ido.",
+    "pronunciation": "/ˈkwando ʎaˈme ˈeʎa ʝa se aˈβia ˈiðo/",
+    "portuguesePhonetic": "[kuándo lhamé élha ia se abía ído]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_64",
+    "word": "Estaba cansado porque había estado trabajando hasta tarde.",
+    "translation": "Ele estava cansado porque tinha estado trabalhando até tarde.",
+    "pronunciation": "/esˈtaβa kanˈsaðo ˈpoɾke aˈβia esˈtaðo tɾaβaˈxando ˈasta ˈtaɾðe/",
+    "portuguesePhonetic": "[estába kansádo pórke abía estádo trabarrándo ásta tárde]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_65",
+    "word": "Ojalá hubiera sabido que venías.",
+    "translation": "Eu queria ter sabido que você vinha.",
+    "pronunciation": "/oxaˈla uˈβjeɾa saˈβiðo ke beˈnias/",
+    "portuguesePhonetic": "[orralá ubiéra sabído ke benías]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_66",
+    "word": "Siempre se quejaba cuando las cosas salían mal.",
+    "translation": "Ela estava sempre reclamando quando as cosas davam errado.",
+    "pronunciation": "/ˈsjempɾe se keˈxaβa ˈkwando las ˈkosas saˈlian mal/",
+    "portuguesePhonetic": "[siémpre se kerrába kuándo las kósas salían mal]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_67",
+    "word": "Esperábamos buenas noticias, pero nunca llegaron.",
+    "translation": "Nós tínhamos esperado boas notícias, mas elas nunca vieram.",
+    "pronunciation": "/espeˈɾaβamos ˈbwenas noˈtiθjas ˈpeɾo ˈnuŋka ʎeˈɣaɾon/",
+    "portuguesePhonetic": "[esperábamos buénas notíthias péro núnka lhegáron]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_68",
+    "word": "Ya va siendo hora de que le digas la verdad, aunque sea difícil.",
+    "translation": "Já está mais que na hora de você contar a verdade a ela, mesmo que seja difícil.",
+    "pronunciation": "/ʝa ba ˈsjendo ˈoɾa de ke le ˈdiɣas la beɾˈðað ˈawŋke ˈsea diˈfiθil/",
+    "portuguesePhonetic": "[ia ba siéndo óra de ke le dígas la berdád áunke séa difíthil]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_69",
+    "word": "Preferiría que no lo hubieras mencionado, porque ahora todos lo saben.",
+    "translation": "Eu preferia que você não tivesse mencionado, porque agora todos sabem.",
+    "pronunciation": "/pɾefeɾiˈɾia ke no lo uˈβjeɾas menθjoˈnaðo ˈpoɾke aˈoɾa ˈtoðos lo ˈsaβen/",
+    "portuguesePhonetic": "[preferiría ke no lo ubiéras menthionádo pórke aóra tódos lo sáben]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_70",
+    "word": "Cuando llegó la policía, los ladrones ya habían escapado.",
+    "translation": "Quando a polícia chegou, os ladrões já tinham fugido.",
+    "pronunciation": "/ˈkwando ʎeˈɣo la poliˈθia los laˈðɾones ʝa aˈβian eskaˈpaðo/",
+    "portuguesePhonetic": "[kuándo lhegó la polithía los ladrónes ia abían eskapádo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_71",
+    "word": "Parecía disgustada; creo que había estado llorando antes de la reunión.",
+    "translation": "Ela parecia abalada; acho que tinha estado chorando antes da reunión.",
+    "pronunciation": "/paɾeˈθia disɣusˈtaða ˈkɾeo ke aˈβia esˈtaðo ʎoˈɾando ˈantes de la reuˈnjon/",
+    "portuguesePhonetic": "[parethía disgustáda kréo ke abía estádo lhorándo ántes de la reunión]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_72",
+    "word": "Esperábamos que lo reconsideraras, ya que la situación ha cambiado.",
+    "translation": "Nós esperávamos que você reconsiderasse, já que a situação mudou.",
+    "pronunciation": "/espeˈɾaβamos ke lo rekonsiðeˈɾaɾas ʝa ke la sitwaˈθjon a kamˈbjaðo/",
+    "portuguesePhonetic": "[esperábamos ke lo rekonsideráras ia ke la situathión a kambiádo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_73",
+    "word": "Ojalá hubiera seguido tu consejo; nada de esto habría pasado.",
+    "translation": "Se ao menos eu tivesse seguido seu conselho, nada disso teria acontecido.",
+    "pronunciation": "/oxaˈla uˈβjeɾa seˈɣiðo tu konˈsexo ˈnaða de ˈesto aˈβɾia paˈsaðo/",
+    "portuguesePhonetic": "[orralá ubiéra seguído tu konsérro náda de ésto abría pasádo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_74",
+    "word": "Llevaba semanas prometiendo arreglarlo, pero nunca lo hizo.",
+    "translation": "Ele tinha estado prometendo consertar por semanas, mas nunca consertou.",
+    "pronunciation": "/ʎeˈβaβa seˈmanas pɾomeˈtjendo areˈɣlaɾlo ˈpeɾo ˈnuŋka lo ˈiθo/",
+    "portuguesePhonetic": "[lhebába semánas prometiéndo arreglárlo péro núnka lo ítho]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_75",
+    "word": "Al final del viaje, llevábamos más de un mes viajando.",
+    "translation": "No fim da viagem, já estávamos viajando havia mais de um mês.",
+    "pronunciation": "/al fiˈnal del ˈbjaxe ʎeˈβaβamos mas de un mes bjaˈxando/",
+    "portuguesePhonetic": "[al finál del biárre lhebábamos mas de un més biarrándo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_76",
+    "word": "«¿Por qué llegaste tarde?» / «El autobús ya se había ido.»",
+    "translation": "\"Por que você se atrasou?\" / \"O ônibus já tinha ido.\"",
+    "pronunciation": "/poɾ ke ʎeˈɣaste ˈtaɾðe · el awtoˈβus ʝa se aˈβia ˈiðo/",
+    "portuguesePhonetic": "[por ké lhegáste tárde · el autobús ia se abía ído]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_77",
+    "word": "«¿Os habíais conocido antes?» / «No, nunca.»",
+    "translation": "\"Vocês já tinham se conhecido antes?\" / \"Não, nunca.\"",
+    "pronunciation": "/os aˈβiais konoˈθiðo ˈantes · no ˈnuŋka/",
+    "portuguesePhonetic": "[os abíais konothído ántes · no núnka]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_78",
+    "word": "«¿Por qué lloraba?» / «Había suspendido el examen.»",
+    "translation": "\"Por que ela chorava?\" / \"Tinha sido reprovada na prova.\"",
+    "pronunciation": "/poɾ ke ʎoˈɾaβa · aˈβia suspenˈdiðo el eɣˈsamen/",
+    "portuguesePhonetic": "[por ké lhorába · abía suspendído el eksámen]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_79",
+    "word": "«¿Qué habías estado haciendo?» / «Solo descansando.»",
+    "translation": "\"O que você tinha estado fazendo?\" / \"Só descansando.\"",
+    "pronunciation": "/ke aˈβias esˈtaðo aˈθjendo · ˈsolo deskanˈsando/",
+    "portuguesePhonetic": "[ke abías estádo athiéndo · sólo deskansándo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_80",
+    "word": "«¿Terminaron?» / «Sí, antes de que llegara.»",
+    "translation": "\"Eles terminaram?\" / \"Sim, antes de eu chegar.\"",
+    "pronunciation": "/teɾmiˈnaɾon · si ˈantes de ke ʎeˈɣaɾa/",
+    "portuguesePhonetic": "[termináron · sí ántes de ke lhegára]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_81",
+    "word": "«¿Por qué estabas cansado?» / «Había estado trabajando toda la noche.»",
+    "translation": "\"Por que você estava cansado?\" / \"Tinha trabalhado a noite toda.\"",
+    "pronunciation": "/poɾ ke esˈtaβas kanˈsaðo · aˈβia esˈtaðo tɾaβaˈxando ˈtoða la ˈnotʃe/",
+    "portuguesePhonetic": "[por ké estábas kansádo · abía estádo trabarrándo tóda la nótche]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_82",
+    "word": "«Ojalá hubiera ido.» / «Yo también, fue divertido.»",
+    "translation": "\"Eu queria ter ido.\" / \"Eu também, foi divertido.\"",
+    "pronunciation": "/oxaˈla uˈβjeɾa ˈiðo · ʝo tamˈbjen fwe diβeɾˈtiðo/",
+    "portuguesePhonetic": "[orralá ubiéra ído · io también fué dibertído]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_83",
+    "word": "«¿No es hora de que nos vayamos?» / «Sí, vámonos.»",
+    "translation": "\"Não está na hora de irmos?\" / \"Sim, vamos.\"",
+    "pronunciation": "/no es ˈoɾa de ke nos baˈʝamos · si ˈbamonos/",
+    "portuguesePhonetic": "[no és óra de ke nos baiámos · sí bámonos]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_84",
+    "word": "«¿Por qué estaba mojado el suelo?» / «Alguien había estado fregando.»",
+    "translation": "\"Por que o chão estava molhado?\" / \"Alguém tinha estado esfregando.\"",
+    "pronunciation": "/poɾ ke esˈtaβa moˈxaðo el ˈswelo · ˈalɣjen aˈβia esˈtaðo fɾeˈɣando/",
+    "portuguesePhonetic": "[por ké estába morrádo el suélo · álguien abía estádo fregándo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_85",
+    "word": "«¿Había comido?» / «Sí, ya.»",
+    "translation": "\"Ele tinha comido?\" / \"Sim, já.\"",
+    "pronunciation": "/aˈβia koˈmiðo · si ʝa/",
+    "portuguesePhonetic": "[abía komído · sí ia]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_86",
+    "word": "«¿Por qué no llamaste?» / «Había perdido tu número.»",
+    "translation": "\"Por que você não ligou?\" / \"Tinha perdido seu número.\"",
+    "pronunciation": "/poɾ ke no ʎaˈmaste · aˈβia peɾˈðiðo tu ˈnumeɾo/",
+    "portuguesePhonetic": "[por ké no lhamáste · abía perdído tu número]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_87",
+    "word": "«¿Esperabas verme?» / «Sí.»",
+    "translation": "\"Você esperava me ver?\" / \"Sim.\"",
+    "pronunciation": "/espeˈɾaβas ˈbeɾme · si/",
+    "portuguesePhonetic": "[esperábas bérme · sí]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_88",
+    "word": "«¿Por qué estaba disgustada?» / «Esperaba más.»",
+    "translation": "\"Por que ela estava chateada?\" / \"Esperava mais.\"",
+    "pronunciation": "/poɾ ke esˈtaβa disɣusˈtaða · espeˈɾaβa mas/",
+    "portuguesePhonetic": "[por ké estába disgustáda · esperába mas]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_89",
+    "word": "«¿Llevaban mucho esperando?» / «Una hora más o menos.»",
+    "translation": "\"Estavam esperando havia muito tempo?\" / \"Mais ou menos uma hora.\"",
+    "pronunciation": "/ʎeˈβaβan ˈmutʃo espeˈɾando · una ˈoɾa mas o ˈmenos/",
+    "portuguesePhonetic": "[lhebában mútcho esperándo · úna óra mas o ménos]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_90",
+    "word": "«Preferiría que te quedaras.» / «Vale, me quedo.»",
+    "translation": "\"Eu preferia que você ficasse.\" / \"Tá, eu fico.\"",
+    "pronunciation": "/pɾefeɾiˈɾia ke te keˈðaɾas · ˈbale me ˈkeðo/",
+    "portuguesePhonetic": "[preferiría ke te kedáras · bále me kédo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_91",
+    "word": "«¿Por qué estaban mojados?» / «Habían estado caminando bajo la lluvia.»",
+    "translation": "\"Por que eles estaban molhados?\" / \"Tinham caminhado na chuva.\"",
+    "pronunciation": "/poɾ ke esˈtaβan moˈxaðos · aˈβian esˈtaðo kamiˈnando ˈbaxo la ˈʎuβja/",
+    "portuguesePhonetic": "[por ké estában morrádos · abían estádo kaminándo bárro la lhúbia]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_92",
+    "word": "«¿Había empezado la película?» / «Sí, diez minutos antes.»",
+    "translation": "\"O filme tinha começado?\" / \"Sim, dez minutos antes.\"",
+    "pronunciation": "/aˈβia empeˈθaðo la peˈlikula · si djeθ miˈnutos ˈantes/",
+    "portuguesePhonetic": "[abía empethádo la pelíkula · sí diéth minútos ántes]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_93",
+    "word": "«¿Por qué estaba tan callado?» / «Había estado discutiendo con ella.»",
+    "translation": "\"Por que ele estava tão quieto?\" / \"Tinha discutido com ela.\"",
+    "pronunciation": "/poɾ ke esˈtaβa tan kaˈʎaðo · aˈβia esˈtaðo diskuˈtjendo kon ˈeʎa/",
+    "portuguesePhonetic": "[por ké estába tan kalhádo · abía estádo diskutiéndo kon élha]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_94",
+    "word": "«¿Ojalá te hubieras quedado?» / «Sí, un poco.»",
+    "translation": "\"Você queria ter ficado?\" / \"Sim, um pouco.\"",
+    "pronunciation": "/oxaˈla te uˈβjeɾas keˈðaðo · si un ˈpoko/",
+    "portuguesePhonetic": "[orralá te ubiéras kedádo · sí un póko]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_95",
+    "word": "«¿Habías terminado para entonces?» / «Casi.»",
+    "translation": "\"Você tinha terminado até então?\" / \"Quase.\"",
+    "pronunciation": "/aˈβias teɾmiˈnaðo ˈpaɾa enˈtonθes · ˈkasi/",
+    "portuguesePhonetic": "[abías terminádo pára entónthes · kási]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_96",
+    "word": "«¿Por qué llegaba siempre tarde?» / «Se quedaba dormido.»",
+    "translation": "\"Por que ele estava sempre atrasado?\" / \"Ele acabava dormindo demais.\"",
+    "pronunciation": "/poɾ ke ʎeˈɣaβa ˈsjempɾe ˈtaɾðe · se keˈðaβa doɾˈmiðo/",
+    "portuguesePhonetic": "[por ké lhegába siémpre tárde · se kedába dormído]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_97",
+    "word": "«¿Esperabas un aumento?» / «Sí.»",
+    "translation": "\"Você esperava um aumento?\" / \"Sim.\"",
+    "pronunciation": "/espeˈɾaβas un awˈmento · si/",
+    "portuguesePhonetic": "[esperábas un auménto · sí]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_98",
+    "word": "«¿Había dejado de llover?» / «Todavía no.»",
+    "translation": "\"Tinha parado de chover?\" / \"Ainda não.\"",
+    "pronunciation": "/aˈβia deˈxaðo de ʎoˈβeɾ · toðaˈβia no/",
+    "portuguesePhonetic": "[abía derrádo de lhobér · todabía no]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_99",
+    "word": "«¿Por qué estabas nervioso?» / «No me había preparado.»",
+    "translation": "\"Por que você estava nervoso?\" / \"Não tinha me preparado.\"",
+    "pronunciation": "/poɾ ke esˈtaβas neɾˈβjoso · no me aˈβia pɾepaˈɾaðo/",
+    "portuguesePhonetic": "[por ké estábas nerbióso · no me abía preparádo]"
+  },
+  {
+    "id": "lesson_2_grammar_c1_es_card_100",
+    "word": "«¿No es hora de que descanses?» / «Pronto, lo prometo.»",
+    "translation": "\"Não está na hora de você descansar?\" / \"Logo, eu prometo.\"",
+    "pronunciation": "/no es ˈoɾa de ke desˈkanses · ˈpɾonto lo pɾoˈmeto/",
+    "portuguesePhonetic": "[no és óra de ke deskánses · prónto lo prométo]"
+  }
+]

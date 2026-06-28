@@ -1,0 +1,150 @@
+const fs = require('fs');
+
+const rawText = `I called Peter. — Eu liguei para o Peter. | IPA: /aɪ kɔld ˈpitər/ | PT: ái cóld píter.
+Who did you call? — Para quem você ligou? | IPA: /hu dɪd ju kɔl/ | PT: rú did iú cól?
+Peter called me. — O Peter ligou para mim. | IPA: /ˈpitər kɔld mi/ | PT: píter cóld mí.
+Who called you? — Quem ligou para você? | IPA: /hu kɔld ju/ | PT: rú cóld iú?
+When the question word is the subject, there is no auxiliary verb. — Quando a palavra interrogativa é o sujeito, não há verbo auxiliar. | IPA: /wɛn ðə ˈkwɛstʃən wɝd ɪz ðə ˈsʌbdʒɪkt, ðɛr ɪz noʊ ɔɡˈzɪljəri vɝb/ | PT: uén dâ qüéstchan uârd iz dâ sâbdjikt, dér iz nôu og-zíliéri vârb.
+Who invited Emma? — Quem convidou a Emma? | IPA: /hu ɪnˈvaɪtɪd ˈɛmə/ | PT: rú inváirid éma?
+Who did Emma invite? — Quem a Emma convidou? | IPA: /hu dɪd ˈɛmə ɪnˈvaɪt/ | PT: rú did éma inváit?
+What happened? — O que aconteceu? | IPA: /wʌt ˈhæpənd/ | PT: uât répand?
+What did you buy? — O que você comprou? | IPA: /wʌt dɪd ju baɪ/ | PT: uât did iú bái?
+Who lives here? — Quem mora aqui? | IPA: /hu lɪvz hɪr/ | PT: rú livz rír?
+Who do you live with? — Com quem você mora? | IPA: /hu du ju lɪv wɪð/ | PT: rú dú iú liv uíth?
+Which bus goes downtown? — Qual ônibus vai para o centro? | IPA: /wɪtʃ bʌs ɡoʊz ˈdaʊnˌtaʊn/ | PT: uítch bâs gôuz dáun-táun?
+Which bus did you take? — Qual ônibus você pegou? | IPA: /wɪtʃ bʌs dɪd ju teɪk/ | PT: uítch bâs did iú têik?
+What caused the problem? — O que causou o problema? | IPA: /wʌt kɔzd ðə ˈprɑbləm/ | PT: uât cózd dâ práblem?
+What did the problem affect? — O que o problema afetou? | IPA: /wʌt dɪd ðə ˈprɑbləm əˈfɛkt/ | PT: uât did dâ práblem afékt?
+Who knows the answer? — Quem sabe a resposta? | IPA: /hu noʊz ði ˈænsər/ | PT: rú nôuz dhi énser?
+Who do you know here? — Quem você conhece aqui? | IPA: /hu du ju noʊ hɪr/ | PT: rú dú iú nôu rír?
+How many people came? — Quantas pessoas vieram? | IPA: /haʊ ˈmɛni ˈpipəl keɪm/ | PT: ráu méni pípol kêim?
+How many people did you invite? — Quantas pessoas você convidou? | IPA: /haʊ ˈmɛni ˈpipəl dɪd ju ɪnˈvaɪt/ | PT: ráu méni pípol did iú inváit?
+Which employee sent the email? — Qual funcionário enviou o e-mail? | IPA: /wɪtʃ ɛmˈplɔɪi sɛnt ði ˈimeɪl/ | PT: uítch emplói sênt dhi ímeil?
+Which employee did you email? — Para qual funcionário você enviou um e-mail? | IPA: /wɪtʃ ɛmˈplɔɪi dɪd ju ˈimeɪl/ | PT: uítch emplói did iú ímeil?
+What makes you happy? — O que deixa você feliz? | IPA: /wʌt meɪks ju ˈhæpi/ | PT: uât mêiks iú répi?
+What do you make at work? — O que você produz no trabalho? | IPA: /wʌt du ju meɪk æt wɝk/ | PT: uât dú iú mêik ét uârk?
+Who needs help? — Quem precisa de ajuda? | IPA: /hu nidz hɛlp/ | PT: rú nídz rélp?
+Who do you need to help? — Quem você precisa ajudar? | IPA: /hu du ju nid tə hɛlp/ | PT: rú dú iú níd tâ rélp?
+
+Who arrived first this morning? — Quem chegou primeiro hoje de manhã? | IPA: /hu əˈraɪvd fɝst ðɪs ˈmɔrnɪŋ/ | PT: rú arráivd fârst dhis mórnin?
+Who opened the office? — Quem abriu o escritório? | IPA: /hu ˈoʊpənd ði ˈɔfɪs/ | PT: rú ôupand dhi ófis?
+Who did Sarah meet at the entrance? — Quem a Sarah encontrou na entrada? | IPA: /hu dɪd ˈsɛrə mit æt ði ˈɛntrəns/ | PT: rú did séra mít ét dhi éntrans?
+What was making that noise? — O que estava fazendo aquele barulho? | IPA: /wʌt wəz ˈmeɪkɪŋ ðæt nɔɪz/ | PT: uât uâz mêikin dhét nóiz?
+What did the receptionist hear? — O que a recepcionista ouviu? | IPA: /wʌt dɪd ðə rɪˈsɛpʃənɪst hɪr/ | PT: uât did dâ rissépchanist rír?
+Which computer stopped working? — Qual computador parou de funcionar? | IPA: /wɪtʃ kəmˈpjutər stɑpt ˈwɝkɪŋ/ | PT: uítch compiúter stápt uârkin?
+Who reported the problem? — Quem relatou o problema? | IPA: /hu rɪˈpɔrtɪd ðə ˈprɑbləm/ | PT: rú ripórtid dâ práblem?
+Who did the manager call? — Para quem o gerente ligou? | IPA: /hu dɪd ðə ˈmænɪdʒər kɔl/ | PT: rú did dâ ménidjer cól?
+Who answered the phone? — Quem atendeu o telefone? | IPA: /hu ˈænsərd ðə foʊn/ | PT: rú énserd dâ fôun?
+What caused the network outage? — O que causou a indisponibilidade da rede? | IPA: /wʌt kɔzd ðə ˈnɛtˌwɝk ˈaʊtɪdʒ/ | PT: uât cózd dâ nét-uârk áutidj?
+What did the outage interrupt? — O que a indisponibilidade interrompeu? | IPA: /wʌt dɪd ði ˈaʊtɪdʒ ˌɪntəˈrʌpt/ | PT: uât did dhi áutidj interâpt?
+Which technician checked the switches? — Qual técnico verificou os switches? | IPA: /wɪtʃ tɛkˈnɪʃən tʃɛkt ðə ˈswɪtʃɪz/ | PT: uítch tekníshan tchékt dâ suí-tchiz?
+Which switches did the technician check? — Quais switches o técnico verificou? | IPA: /wɪtʃ ˈswɪtʃɪz dɪd ðə tɛkˈnɪʃən tʃɛk/ | PT: uítch suí-tchiz did dâ tekníshan tchék?
+Who found the disconnected cable? — Quem encontrou o cabo desconectado? | IPA: /hu faʊnd ðə ˌdɪskəˈnɛktɪd ˈkeɪbəl/ | PT: rú fáund dâ discanéktid kêibol?
+Who did the technician ask for assistance? — A quem o técnico pediu ajuda? | IPA: /hu dɪd ðə tɛkˈnɪʃən æsk fər əˈsɪstəns/ | PT: rú did dâ tekníshan ésk for assístans?
+What fixed the connection? — O que corrigiu a conexão? | IPA: /wʌt fɪkst ðə kəˈnɛkʃən/ | PT: uât fikst dâ canékshan?
+What did they reconnect? — O que eles reconectaram? | IPA: /wʌt dɪd ðeɪ ˌrikəˈnɛkt/ | PT: uât did dhêi rícanékt?
+Which applications started working again? — Quais aplicativos voltaram a funcionar? | IPA: /wɪtʃ ˌæpləˈkeɪʃənz ˈstɑrtɪd ˈwɝkɪŋ əˈɡɛn/ | PT: uítch aplikeishans stártid uârkin aguén?
+Who tested the internet connection? — Quem testou a conexão com a internet? | IPA: /hu ˈtɛstɪd ði ˈɪntərˌnɛt kəˈnɛkʃən/ | PT: rú téstid dhi ínternet canékshan?
+Who did the manager inform? — Quem o gerente informou? | IPA: /hu dɪd ðə ˈmænɪdʒər ɪnˈfɔrm/ | PT: rú did dâ ménidjer infórm?
+What delayed the morning meeting? — O que atrasou a reunião da manhã? | IPA: /wʌt dɪˈleɪd ðə ˈmɔrnɪŋ ˈmitɪŋ/ | PT: uât dilêid dâ mórnin mírin?
+What did the team discuss during the meeting? — O que a equipe discutiu durante a reunião? | IPA: /wʌt dɪd ðə tim dɪˈskʌs ˈdʊrɪŋ ðə ˈmitɪŋ/ | PT: uât did dâ tím discâs dúrin dâ mírin?
+Who prepared the incident report? — Quem preparou o relatório do incidente? | IPA: /hu prɪˈpɛrd ði ˈɪnsɪdənt rɪˈpɔrt/ | PT: rú pripérd dhi íncidant ripórt?
+Who did the director thank? — A quem o diretor agradeceu? | IPA: /hu dɪd ðə dəˈrɛktər θæŋk/ | PT: rú did dâ diréktor thénk?
+What prevented the problem from happening again? — O que impediu que o problema acontecesse novamente? | IPA: /wʌt prɪˈvɛntɪd ðə ˈprɑbləm frəm ˈhæpənɪŋ əˈɡɛn/ | PT: uât privéntid dâ práblem frâm répannin aguén?
+
+Who cooks dinner? — Quem prepara o jantar? | IPA: /hu kʊks ˈdɪnər/ | PT: rú kúks díner?
+What fell down? — O que caiu? | IPA: /wʌt fɛl daʊn/ | PT: uât fél dáun?
+Who broke the glass? — Quem quebrou o copo? | IPA: /hu broʊk ðə ɡlæs/ | PT: rú brôuk dâ glés?
+What woke you up? — O que acordou você? | IPA: /wʌt woʊk ju ʌp/ | PT: uât uôuk iú âp?
+Who wants some coffee? — Quem quer café? | IPA: /hu wɑnts səm ˈkɔfi/ | PT: rú uánts sâm cófi?
+Who does the cooking at home? — Quem cozinha em casa? | IPA: /hu dʌz ðə ˈkʊkɪŋ æt hoʊm/ | PT: rú dâz dâ kúkin ét rôum?
+Who did you see outside? — Quem você viu lá fora? | IPA: /hu dɪd ju si ˌaʊtˈsaɪd/ | PT: rú did iú sí áut-sáid?
+What frightened the dog? — O que assustou o cachorro? | IPA: /wʌt ˈfraɪtənd ðə dɔɡ/ | PT: uât fráitand dâ dóg?
+Which student finished first? — Qual aluno terminou primeiro? | IPA: /wɪtʃ ˈstudənt ˈfɪnɪʃt fɝst/ | PT: uítch stiúdant fínisht fârst?
+Which exercise did the student finish? — Qual exercício o aluno terminou? | IPA: /wɪtʃ ˈɛksərˌsaɪz dɪd ðə ˈstudənt ˈfɪnɪʃ/ | PT: uítch éksersáiz did dâ stiúdant fínish?
+Who has taken my chair? — Quem pegou minha cadeira? | IPA: /hu hæz ˈteɪkən maɪ tʃɛr/ | PT: rú réz têikan mái tchér?
+Who have you asked about the chair? — A quem você perguntou sobre a cadeira? | IPA: /hu hæv ju æskt əˈbaʊt ðə tʃɛr/ | PT: rú rév iú éskt abáut dâ tchér?
+What has changed since yesterday? — O que mudou desde ontem? | IPA: /wʌt hæz tʃeɪndʒd sɪns ˈjɛstərdeɪ/ | PT: uât réz tchêindjd sins iésterdêi?
+What have they changed in the system? — O que eles mudaram no sistema? | IPA: /wʌt hæv ðeɪ tʃeɪndʒd ɪn ðə ˈsɪstəm/ | PT: uât rév dhêi tchêindjd in dâ sístem?
+Who was waiting when you arrived? — Quem estava esperando quando você chegou? | IPA: /hu wəz ˈweɪtɪŋ wɛn ju əˈraɪvd/ | PT: rú uâz uêirin uén iú arráivd?
+Who were you waiting for when I called? — Por quem você estava esperando quando eu liguei? | IPA: /hu wɝ ju ˈweɪtɪŋ fɔr wɛn aɪ kɔld/ | PT: rú uâr iú uêirin fór uén ái cóld?
+What was causing the alarm to ring? — O que estava fazendo o alarme tocar? | IPA: /wʌt wəz ˈkɔzɪŋ ði əˈlɑrm tə rɪŋ/ | PT: uât uâz cózin dhi alárm tâ ring?
+What were the technicians checking when the alarm rang? — O que os técnicos estavam verificando quando o alarme tocou? | IPA: /wʌt wɝ ðə tɛkˈnɪʃənz ˈtʃɛkɪŋ wɛn ði əˈlɑrm ræŋ/ | PT: uât uâr dâ tekníshans tchékin uén dhi alárm réng?
+Who will lead the project if Maria is unavailable? — Quem liderará o projeto se a Maria estiver indisponível? | IPA: /hu wɪl lid ðə ˈprɑdʒɛkt ɪf məˈriə ɪz ˌʌnəˈveɪləbəl/ | PT: rú uil líd dâ pródjékt if maría iz anavêilabol?
+Who will the director choose if Maria is unavailable? — Quem o diretor escolherá se a Maria estiver indisponível? | IPA: /hu wɪl ðə dəˈrɛktər tʃuz ɪf məˈriə ɪz ˌʌnəˈveɪləbəl/ | PT: rú uil dâ diréktor tchúz if maría iz anavêilabol?
+What might have caused the failure even though the equipment was new? — O que pode ter causado a falha, embora o equipamento fosse novo? | IPA: /wʌt maɪt hæv kɔzd ðə ˈfeɪljər ˈivən ðoʊ ði ɪˈkwɪpmənt wəz nu/ | PT: uât máit rév cózd dâ fêiliâr ívan dhôu dhi iqüípment uâz nú?
+What might the failure have damaged before the system shut down? — O que a falha pode ter danificado antes de o sistema desligar? | IPA: /wʌt maɪt ðə ˈfeɪljər hæv ˈdæmɪdʒd bɪˈfɔr ðə ˈsɪstəm ʃʌt daʊn/ | PT: uât máit dâ fêiliâr rév démidjd bifór dâ sístem shât dáun?
+Who had already left when the manager announced the change? — Quem já havia saído quando o gerente anunciou a mudança? | IPA: /hu hæd ɔlˈrɛdi lɛft wɛn ðə ˈmænɪdʒər əˈnaʊnst ðə tʃeɪndʒ/ | PT: rú réd ólréri léft uén dâ ménidjer anáunst dâ tchêindj?
+Who had the manager informed before he announced the change? — Quem o gerente havia informado antes de anunciar a mudança? | IPA: /hu hæd ðə ˈmænɪdʒər ɪnˈfɔrmd bɪˈfɔr hi əˈnaʊnst ðə tʃeɪndʒ/ | PT: rú réd dâ ménidjer infórmd bifór rí anáunst dâ tchêindj?
+What could have prevented the accident if the warning had been noticed earlier? — O que poderia ter evitado o acidente se o aviso tivesse sido percebido antes? | IPA: /wʌt kʊd hæv prɪˈvɛntɪd ði ˈæksɪdənt ɪf ðə ˈwɔrnɪŋ hæd bɪn ˈnoʊtɪst ˈɝliər/ | PT: uât cud rév privéntid dhi éksidant if dâ uórnin réd bin nôutist ârliâr?
+
+Who made breakfast? / My father did. — Quem preparou o café da manhã? / Meu pai. | IPA: /hu meɪd ˈbrɛkfəst | maɪ ˈfɑðər dɪd/ | PT: rú mêid brékfast? / mái fádher did.
+Who did you make breakfast for? / My children. — Para quem você preparou o café da manhã? / Para meus filhos. | IPA: /hu dɪd ju meɪk ˈbrɛkfəst fɔr | maɪ ˈtʃɪldrən/ | PT: rú did iú mêik brékfast fór? / mái tchíldran.
+What woke you up? / The alarm. — O que acordou você? / O alarme. | IPA: /wʌt woʊk ju ʌp | ði əˈlɑrm/ | PT: uât uôuk iú âp? / dhi alárm.
+What did you turn off? / The alarm. — O que você desligou? / O alarme. | IPA: /wʌt dɪd ju tɝn ɔf | ði əˈlɑrm/ | PT: uât did iú târn óf? / dhi alárm.
+Who is using the bathroom? / Daniel is. — Quem está usando o banheiro? / O Daniel. | IPA: /hu ɪz ˈjuzɪŋ ðə ˈbæθˌrum | ˈdænjəl ɪz/ | PT: rú iz iúzin dâ béth-rúm? / déniol iz.
+Who are you waiting for? / My sister. — Por quem você está esperando? / Pela minha irmã. | IPA: /hu ɑr ju ˈweɪtɪŋ fɔr | maɪ ˈsɪstər/ | PT: rú ar iú uêirin fór? / mái síster.
+Which bus stops here? / Bus number twelve. — Qual ônibus para aqui? / O ônibus número doze. | IPA: /wɪtʃ bʌs stɑps hɪr | bʌs ˈnʌmbər twɛlv/ | PT: uítch bâs stáps rír? / bâs nâmber tuélv.
+Which bus did you miss? / Bus number twelve. — Qual ônibus você perdeu? / O ônibus número doze. | IPA: /wɪtʃ bʌs dɪd ju mɪs | bʌs ˈnʌmbər twɛlv/ | PT: uítch bâs did iú mis? / bâs nâmber tuélv.
+Who ordered this coffee? / I did. — Quem pediu este café? / Eu. | IPA: /hu ˈɔrdərd ðɪs ˈkɔfi | aɪ dɪd/ | PT: rú órderd dhis cófi? / ái did.
+What did you order? / A large coffee. — O que você pediu? / Um café grande. | IPA: /wʌt dɪd ju ˈɔrdər | ə lɑrdʒ ˈkɔfi/ | PT: uât did iú órder? / â lárdj cófi.
+Who needs the meeting room? / The sales team. — Quem precisa da sala de reunião? / A equipe de vendas. | IPA: /hu nidz ðə ˈmitɪŋ rum | ðə seɪlz tim/ | PT: rú nídz dâ mírin rúm? / dâ sêilz tím.
+Who did the sales team invite? / A new client. — Quem a equipe de vendas convidou? / Um novo cliente. | IPA: /hu dɪd ðə seɪlz tim ɪnˈvaɪt | ə nu ˈklaɪənt/ | PT: rú did dâ sêilz tím inváit? / â nú cláiant.
+What caused the delay? / Heavy traffic. — O que causou o atraso? / Trânsito intenso. | IPA: /wʌt kɔzd ðə dɪˈleɪ | ˈhɛvi ˈtræfɪk/ | PT: uât cózd dâ dilêi? / révi tréfik.
+What did the delay affect? / The morning schedule. — O que o atraso afetou? / A programação da manhã. | IPA: /wʌt dɪd ðə dɪˈleɪ əˈfɛkt | ðə ˈmɔrnɪŋ ˈskɛdʒul/ | PT: uât did dâ dilêi afékt? / dâ mórnin skédjul.
+Who sent this document? / The finance department. — Quem enviou este documento? / O departamento financeiro. | IPA: /hu sɛnt ðɪs ˈdɑkjəmənt | ðə fəˈnæns dɪˈpɑrtmənt/ | PT: rú sênt dhis dókiumant? / dâ finéns dipártment.
+Who did you send the document to? / The director. — Para quem você enviou o documento? / Para o diretor. | IPA: /hu dɪd ju sɛnd ðə ˈdɑkjəmənt tu | ðə dəˈrɛktər/ | PT: rú did iú sênd dâ dókiumant tú? / dâ diréktor.
+What is blocking the entrance? / A delivery truck. — O que está bloqueando a entrada? / Um caminhão de entrega. | IPA: /wʌt ɪz ˈblɑkɪŋ ði ˈɛntrəns | ə dɪˈlɪvəri trʌk/ | PT: uât iz blókin dhi éntrans? / â dilíveri trâk.
+What are the workers unloading? / New furniture. — O que os trabalhadores estão descarregando? / Móveis novos. | IPA: /wʌt ɑr ðə ˈwɝkərz ʌnˈloʊdɪŋ | nu ˈfɝnɪtʃər/ | PT: uât ar dâ uârkers anlôudin? / nú fârnit-cher.
+Who has finished the report? / Amanda has. — Quem terminou o relatório? / A Amanda. | IPA: /hu hæz ˈfɪnɪʃt ðə rɪˈpɔrt | əˈmændə hæz/ | PT: rú réz fínisht dâ ripórt? / aménda réz.
+Who have you shown the report to? / My supervisor. — Para quem você mostrou o relatório? / Para meu supervisor. | IPA: /hu hæv ju ʃoʊn ðə rɪˈpɔrt tu | maɪ ˈsupərˌvaɪzər/ | PT: rú rév iú shôun dâ ripórt tú? / mái súperváiser.
+Who was talking when the lights went out? / The instructor. — Quem estava falando quando as luzes se apagaram? / O instrutor. | IPA: /hu wəz ˈtɔkɪŋ wɛn ðə laɪts wɛnt aʊt | ði ɪnˈstrʌktər/ | PT: rú uâz tókin uén dâ láits uént áut? / dhi instrâktor.
+What were you discussing when the lights went out? / The safety plan. — O que vocês estavam discutindo quando as luzes se apagaram? / O plano de segurança. | IPA: /wʌt wɝ ju dɪˈskʌsɪŋ wɛn ðə laɪts wɛnt aʊt | ðə ˈseɪfti plæn/ | PT: uât uâr iú discâssin uén dâ láits uént áut? / dâ sêifti plén.
+Who will replace the damaged equipment? / The maintenance team. — Quem substituirá o equipamento danificado? / A equipe de manutenção. | IPA: /hu wɪl rɪˈpleɪs ðə ˈdæmɪdʒd ɪˈkwɪpmənt | ðə ˈmeɪntənəns tim/ | PT: rú uil riplêis dâ démidjd iqüípment? / dâ mêintanans tím.
+Who will the maintenance team contact first? / The supplier. — Quem a equipe de manutenção contatará primeiro? / O fornecedor. | IPA: /hu wɪl ðə ˈmeɪntənəns tim ˈkɑnˌtækt fɝst | ðə səˈplaɪər/ | PT: rú uil dâ mêintanans tím cóntékt fârst? / dâ sapláiâr.
+What prevented a more serious failure? / The automatic shutdown system. — O que evitou uma falha mais grave? / O sistema de desligamento automático. | IPA: /wʌt prɪˈvɛntɪd ə mɔr ˈsɪriəs ˈfeɪljər | ði ˌɔtəˈmætɪk ˈʃʌtˌdaʊn ˈsɪstəm/ | PT: uât privéntid â mór síriâs fêiliâr? / dhi óromérik shât-dáun sístem.
+\`;
+
+const lines = rawText.split('\\n').map(l => l.trim()).filter(l => l);
+const items = [];
+let cardCounter = 1;
+
+for (let line of lines) {
+    if (!line.includes('—')) continue;
+    
+    const parts = line.split('|');
+    if (parts.length >= 3) {
+         const wordTrans = parts[0].trim();
+         const ipaPart = parts[1].trim();
+         const ptPart = parts[2].trim();
+
+         const wtParts = wordTrans.split('—');
+         if (wtParts.length >= 2) {
+              const word = wtParts[0].trim();
+              const trans = wtParts.slice(1).join('—').trim();
+              let ipa = ipaPart.replace(/^IPA:\\s*/, '').trim();
+              let pt = ptPart.replace(/^PT:\\s*/, '').trim();
+              
+              items.push({
+                  id: 'lesson_2_grammar_a2_en_card_' + (cardCounter++),
+                  word: word,
+                  translation: trans,
+                  pronunciation: ipa,
+                  portuguesePhonetic: pt
+              });
+         }
+    }
+}
+
+fs.writeFileSync('public/decks/lesson_2_grammar_a2_en.json', JSON.stringify(items, null, 2));
+console.log('Created lesson_2_grammar_a2_en.json with ' + items.length + ' cards');
+
+let meta = JSON.parse(fs.readFileSync('data/decksMetadata.json', 'utf8'));
+
+if (!meta['lesson_2_grammar_a2']) {
+  meta['lesson_2_grammar_a2'] = {};
+}
+meta['lesson_2_grammar_a2'].en = items.length;
+
+fs.writeFileSync('data/decksMetadata.json', JSON.stringify(meta, null, 2));
+console.log('Updated metadata');

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "lesson_3_vocabulary_a2_card_1",
+    "word": "Friendly",
+    "translation": "Amigável; simpático(a).",
+    "pronunciation": "/ˈfrɛndli/",
+    "portuguesePhonetic": "fréndli."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_2",
+    "word": "Kind",
+    "translation": "Gentil; bondoso(a).",
+    "pronunciation": "/kaɪnd/",
+    "portuguesePhonetic": "káind."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_3",
+    "word": "Generous",
+    "translation": "Generoso(a).",
+    "pronunciation": "/ˈdʒɛnərəs/",
+    "portuguesePhonetic": "djénârâs."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_4",
+    "word": "Optimistic",
+    "translation": "Otimista.",
+    "pronunciation": "/ˌɑptəˈmɪstɪk/",
+    "portuguesePhonetic": "ópta-místik."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_5",
+    "word": "Reliable",
+    "translation": "Confiável.",
+    "pronunciation": "/rɪˈlaɪəbəl/",
+    "portuguesePhonetic": "riláiâbol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_6",
+    "word": "Responsible",
+    "translation": "Responsável.",
+    "pronunciation": "/rɪˈspɑnsəbəl/",
+    "portuguesePhonetic": "rispónsâbol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_7",
+    "word": "Cheerful",
+    "translation": "Alegre; bem-humorado(a).",
+    "pronunciation": "/ˈtʃɪrfəl/",
+    "portuguesePhonetic": "tchírfâl."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_8",
+    "word": "Outgoing",
+    "translation": "Extrovertido(a); sociável.",
+    "pronunciation": "/ˈaʊtˌɡoʊɪŋ/",
+    "portuguesePhonetic": "áut-gôuin."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_9",
+    "word": "Easygoing",
+    "translation": "Tranquilo(a); de trato fácil.",
+    "pronunciation": "/ˌiziˈɡoʊɪŋ/",
+    "portuguesePhonetic": "ízi-gôuin."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_10",
+    "word": "Hardworking",
+    "translation": "Trabalhador(a); esforçado(a).",
+    "pronunciation": "/ˌhɑrdˈwɝkɪŋ/",
+    "portuguesePhonetic": "rárd-uârkin."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_11",
+    "word": "Pessimistic",
+    "translation": "Pessimista.",
+    "pronunciation": "/ˌpɛsəˈmɪstɪk/",
+    "portuguesePhonetic": "péssa-místik."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_12",
+    "word": "Unfriendly",
+    "translation": "Antipático(a); pouco amigável.",
+    "pronunciation": "/ʌnˈfrɛndli/",
+    "portuguesePhonetic": "an-fréndli."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_13",
+    "word": "Rude",
+    "translation": "Grosseiro(a); mal-educado(a).",
+    "pronunciation": "/rud/",
+    "portuguesePhonetic": "rúd."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_14",
+    "word": "Mean",
+    "translation": "Malvado(a); cruel; desagradável.",
+    "pronunciation": "/min/",
+    "portuguesePhonetic": "mín."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_15",
+    "word": "Mean with money",
+    "translation": "Mesquinho(a); avarento(a).",
+    "pronunciation": "/min wɪð ˈmʌni/",
+    "portuguesePhonetic": "mín uíth mâni."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_16",
+    "word": "Unreliable",
+    "translation": "Não confiável.",
+    "pronunciation": "/ˌʌnrɪˈlaɪəbəl/",
+    "portuguesePhonetic": "an-riláiâbol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_17",
+    "word": "Irresponsible",
+    "translation": "Irresponsável.",
+    "pronunciation": "/ˌɪrɪˈspɑnsəbəl/",
+    "portuguesePhonetic": "ir-rispónsâbol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_18",
+    "word": "Miserable",
+    "translation": "Infeliz; amargurado(a).",
+    "pronunciation": "/ˈmɪzərəbəl/",
+    "portuguesePhonetic": "mízârâbol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_19",
+    "word": "Shy",
+    "translation": "Tímido(a).",
+    "pronunciation": "/ʃaɪ/",
+    "portuguesePhonetic": "shái."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_20",
+    "word": "Lazy",
+    "translation": "Preguiçoso(a).",
+    "pronunciation": "/ˈleɪzi/",
+    "portuguesePhonetic": "lêizi."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_21",
+    "word": "She is friendly and kind.",
+    "translation": "Ela é simpática e gentil.",
+    "pronunciation": "/ʃi ɪz ˈfrɛndli ænd kaɪnd/",
+    "portuguesePhonetic": "shi iz fréndli end káind."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_22",
+    "word": "He is generous and optimistic.",
+    "translation": "Ele é generoso e otimista.",
+    "pronunciation": "/hi ɪz ˈdʒɛnərəs ænd ˌɑptəˈmɪstɪk/",
+    "portuguesePhonetic": "rí iz djénârâs end ópta-místik."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_23",
+    "word": "My coworker is reliable and responsible.",
+    "translation": "Meu colega de trabalho é confiável e responsável.",
+    "pronunciation": "/maɪ ˈkoʊˌwɝkər ɪz rɪˈlaɪəbəl ænd rɪˈspɑnsəbəl/",
+    "portuguesePhonetic": "mái côu-uârker iz riláiâbol end rispónsâbol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_24",
+    "word": "Our teacher is cheerful and outgoing.",
+    "translation": "Nosso professor é alegre e extrovertido.",
+    "pronunciation": "/aʊər ˈtitʃər ɪz ˈtʃɪrfəl ænd ˈaʊtˌɡoʊɪŋ/",
+    "portuguesePhonetic": "áuer títcher iz tchírfâl end áut-gôuin."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_25",
+    "word": "He isn’t lazy; he’s very hardworking.",
+    "translation": "Ele não é preguiçoso; é muito trabalhador.",
+    "pronunciation": "/hi ˈɪzənt ˈleɪzi",
+    "portuguesePhonetic": "hiz ˈvɛri ˌhɑrdˈwɝkɪŋ/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_26",
+    "word": "Our team is organizing a charity event today.",
+    "translation": "Nossa equipe está organizando um evento beneficente hoje.",
+    "pronunciation": "/aʊər tim ɪz ˈɔrɡəˌnaɪzɪŋ ə ˈtʃɛrəti ɪˈvɛnt təˈdeɪ/",
+    "portuguesePhonetic": "áuer tím iz órgânáizin â tchérâri ivént tudêi."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_27",
+    "word": "Our manager is friendly and welcomes everyone.",
+    "translation": "Nosso gerente é simpático e recebe todos bem.",
+    "pronunciation": "/aʊər ˈmænɪdʒər ɪz ˈfrɛndli ænd ˈwɛlkəmz ˈɛvriˌwʌn/",
+    "portuguesePhonetic": "áuer ménidjer iz fréndli end uélcâmz évriuân."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_28",
+    "word": "Paula is kind and helps the new volunteers.",
+    "translation": "Paula é gentil e ajuda os novos voluntários.",
+    "pronunciation": "/ˈpɔlə ɪz kaɪnd ænd hɛlps ðə nu ˌvɑlənˈtɪrz/",
+    "portuguesePhonetic": "póla iz káind end rélps dâ nú volântírz."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_29",
+    "word": "Diego is generous and donates fifty dollars.",
+    "translation": "Diego é generoso e doa cinquenta dólares.",
+    "pronunciation": "/diˈeɪɡoʊ ɪz ˈdʒɛnərəs ænd ˈdoʊˌneɪts ˈfɪfti ˈdɑlərz/",
+    "portuguesePhonetic": "diêigou iz djénârâs end dôunêits fífti dálars."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_30",
+    "word": "Maya is optimistic about the event.",
+    "translation": "Maya está otimista em relação ao evento.",
+    "pronunciation": "/ˈmaɪə ɪz ˌɑptəˈmɪstɪk əˈbaʊt ði ɪˈvɛnt/",
+    "portuguesePhonetic": "máia iz ópta-místik abáut dhi ivént."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_31",
+    "word": "Carlos is reliable and arrives on time.",
+    "translation": "Carlos é confiável e chega no horário.",
+    "pronunciation": "/ˈkɑrloʊs ɪz rɪˈlaɪəbəl ænd əˈraɪvz ɑn taɪm/",
+    "portuguesePhonetic": "cárlous iz riláiâbol end arráivz ón táim."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_32",
+    "word": "Emma is responsible for the donation table.",
+    "translation": "Emma é responsável pela mesa de doações.",
+    "pronunciation": "/ˈɛmə ɪz rɪˈspɑnsəbəl fɔr ðə doʊˈneɪʃən ˈteɪbəl/",
+    "portuguesePhonetic": "éma iz rispónsâbol fór dâ dounêishan têibol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_33",
+    "word": "The receptionist is cheerful and smiles at the guests.",
+    "translation": "A recepcionista é alegre e sorri para os convidados.",
+    "pronunciation": "/ðə rɪˈsɛpʃənɪst ɪz ˈtʃɪrfəl ænd smaɪlz æt ðə ɡɛsts/",
+    "portuguesePhonetic": "dâ rissépshanist iz tchírfâl end smáilz ét dâ guésts."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_34",
+    "word": "Our outgoing coworker talks to everyone.",
+    "translation": "Nosso colega extrovertido conversa com todos.",
+    "pronunciation": "/aʊər ˈaʊtˌɡoʊɪŋ ˈkoʊˌwɝkər tɔks tə ˈɛvriˌwʌn/",
+    "portuguesePhonetic": "áuer áut-gôuin côu-uârker tóks tâ évriuân."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_35",
+    "word": "Ben is easygoing when the schedule changes.",
+    "translation": "Ben permanece tranquilo quando o horário muda.",
+    "pronunciation": "/bɛn ɪz ˌiziˈɡoʊɪŋ wɛn ðə ˈskɛdʒul ˈtʃeɪndʒɪz/",
+    "portuguesePhonetic": "bén iz ízi-gôuin uén dâ skédjul tchêindjiz."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_36",
+    "word": "The hardworking volunteers decorate the entire room.",
+    "translation": "Os voluntários esforçados decoram toda a sala.",
+    "pronunciation": "/ðə ˌhɑrdˈwɝkɪŋ ˌvɑlənˈtɪrz ˈdɛkəˌreɪt ði ɪnˈtaɪər rum/",
+    "portuguesePhonetic": "dâ rárd-uârkin volântírz décarêit dhi intáier rúm."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_37",
+    "word": "One pessimistic employee thinks nobody will come.",
+    "translation": "Um funcionário pessimista acha que ninguém comparecerá.",
+    "pronunciation": "/wʌn ˌpɛsəˈmɪstɪk ɛmˈplɔɪi θɪŋks ˈnoʊˌbɑdi wɪl kʌm/",
+    "portuguesePhonetic": "uân péssa-místik emplói thínks nôubádi uil câm."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_38",
+    "word": "An unfriendly clerk refuses to greet the visitors.",
+    "translation": "Um atendente antipático se recusa a cumprimentar os visitantes.",
+    "pronunciation": "/ən ʌnˈfrɛndli klɝk rɪˈfjuzɪz tə ɡrit ðə ˈvɪzətərz/",
+    "portuguesePhonetic": "an an-fréndli clârk rifiúziz tâ grít dâ vízâtârz."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_39",
+    "word": "A rude guest interrupts the manager.",
+    "translation": "Um convidado grosseiro interrompe o gerente.",
+    "pronunciation": "/ə rud ɡɛst ˌɪntəˈrʌpts ðə ˈmænɪdʒər/",
+    "portuguesePhonetic": "â rúd guést interâpts dâ ménidjer."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_40",
+    "word": "Another guest is mean to a young volunteer.",
+    "translation": "Outro convidado é maldoso com um jovem voluntário.",
+    "pronunciation": "/əˈnʌðər ɡɛst ɪz min tə ə jʌŋ ˌvɑlənˈtɪr/",
+    "portuguesePhonetic": "anâdher guést iz mín tâ â iâng volântír."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_41",
+    "word": "A wealthy visitor is mean with money and donates nothing.",
+    "translation": "Um visitante rico é avarento e não doa nada.",
+    "pronunciation": "/ə ˈwɛlθi ˈvɪzətər ɪz min wɪð ˈmʌni ænd ˈdoʊˌneɪts ˈnʌθɪŋ/",
+    "portuguesePhonetic": "â uélthi vízâter iz mín uíth mâni end dôunêits nâthin."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_42",
+    "word": "The unreliable supplier delivers the food late.",
+    "translation": "O fornecedor não confiável entrega a comida atrasada.",
+    "pronunciation": "/ði ˌʌnrɪˈlaɪəbəl səˈplaɪər dɪˈlɪvərz ðə fud leɪt/",
+    "portuguesePhonetic": "dhi an-riláiâbol sapláiâr dilívers dâ fúd lêit."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_43",
+    "word": "An irresponsible volunteer forgets the collection boxes.",
+    "translation": "Um voluntário irresponsável esquece as caixas de arrecadação.",
+    "pronunciation": "/ən ˌɪrɪˈspɑnsəbəl ˌvɑlənˈtɪr fərˈɡɛts ðə kəˈlɛkʃən ˈbɑksɪz/",
+    "portuguesePhonetic": "an ir-rispónsâbol volântír forguéts dâ colékshan bóksiz."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_44",
+    "word": "A miserable man sits alone in the corner.",
+    "translation": "Um homem infeliz fica sentado sozinho no canto.",
+    "pronunciation": "/ə ˈmɪzərəbəl mæn sɪts əˈloʊn ɪn ðə ˈkɔrnər/",
+    "portuguesePhonetic": "â mízârâbol mén sits alôun in dâ córner."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_45",
+    "word": "The shy intern doesn’t speak to the guests.",
+    "translation": "O estagiário tímido não conversa com os convidados.",
+    "pronunciation": "/ðə ʃaɪ ˈɪnˌtɝn ˈdʌzənt spik tə ðə ɡɛsts/",
+    "portuguesePhonetic": "dâ shái íntârn dâzant spík tâ dâ guésts."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_46",
+    "word": "A lazy coworker watches while everyone else works.",
+    "translation": "Um colega preguiçoso observa enquanto todos os outros trabalham.",
+    "pronunciation": "/ə ˈleɪzi ˈkoʊˌwɝkər ˈwɑtʃɪz waɪl ˈɛvriˌwʌn ɛls wɝks/",
+    "portuguesePhonetic": "â lêizi côu-uârker uótchiz uáil évriuân éls uârks."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_47",
+    "word": "The friendly team invites the miserable man to join them.",
+    "translation": "A equipe simpática convida o homem infeliz para se juntar a eles.",
+    "pronunciation": "/ðə ˈfrɛndli tim ɪnˈvaɪts ðə ˈmɪzərəbəl mæn tə dʒɔɪn ðɛm/",
+    "portuguesePhonetic": "dâ fréndli tím inváits dâ mízârâbol mén tâ djóin dhém."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_48",
+    "word": "The shy intern becomes more cheerful during the event.",
+    "translation": "O estagiário tímido fica mais alegre durante o evento.",
+    "pronunciation": "/ðə ʃaɪ ˈɪnˌtɝn bɪˈkʌmz mɔr ˈtʃɪrfəl ˈdʊrɪŋ ði ɪˈvɛnt/",
+    "portuguesePhonetic": "dâ shái íntârn bicâms mór tchírfâl dúrin dhi ivént."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_49",
+    "word": "Thanks to the hardworking team, the event is successful.",
+    "translation": "Graças à equipe esforçada, o evento é um sucesso.",
+    "pronunciation": "/θæŋks tə ðə ˌhɑrdˈwɝkɪŋ tim",
+    "portuguesePhonetic": "ði ɪˈvɛnt ɪz səkˈsɛsfəl/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_50",
+    "word": "Everyone learns that kindness and responsibility make a difference.",
+    "translation": "Todos aprendem que a gentileza e a responsabilidade fazem a diferença.",
+    "pronunciation": "/ˈɛvriˌwʌn lɝnz ðæt ˈkaɪndnəs ænd rɪˌspɑnsəˈbɪləti meɪk ə ˈdɪfərəns/",
+    "portuguesePhonetic": "évriuân lârnz dhét káindnâs end risponsabílâri mêik â dífrâns."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_51",
+    "word": "Nora is friendly.",
+    "translation": "Nora é simpática.",
+    "pronunciation": "/ˈnɔrə ɪz ˈfrɛndli/",
+    "portuguesePhonetic": "nóra iz fréndli."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_52",
+    "word": "Sam is kind.",
+    "translation": "Sam é gentil.",
+    "pronunciation": "/sæm ɪz kaɪnd/",
+    "portuguesePhonetic": "sém iz káind."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_53",
+    "word": "Leo is generous.",
+    "translation": "Leo é generoso.",
+    "pronunciation": "/ˈlioʊ ɪz ˈdʒɛnərəs/",
+    "portuguesePhonetic": "líou iz djénârâs."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_54",
+    "word": "Mia stays optimistic.",
+    "translation": "Mia permanece otimista.",
+    "pronunciation": "/ˈmiə steɪz ˌɑptəˈmɪstɪk/",
+    "portuguesePhonetic": "mía stêiz ópta-místik."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_55",
+    "word": "My assistant is reliable.",
+    "translation": "Minha assistente é confiável.",
+    "pronunciation": "/maɪ əˈsɪstənt ɪz rɪˈlaɪəbəl/",
+    "portuguesePhonetic": "mái assístant iz riláiâbol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_56",
+    "word": "The babysitter is responsible.",
+    "translation": "A babá é responsável.",
+    "pronunciation": "/ðə ˈbeɪbiˌsɪtər ɪz rɪˈspɑnsəbəl/",
+    "portuguesePhonetic": "dâ bêibi-sírer iz rispónsâbol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_57",
+    "word": "Our neighbor is cheerful.",
+    "translation": "Nosso vizinho é alegre.",
+    "pronunciation": "/aʊər ˈneɪbər ɪz ˈtʃɪrfəl/",
+    "portuguesePhonetic": "áuer nêibâr iz tchírfâl."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_58",
+    "word": "Her brother is outgoing.",
+    "translation": "O irmão dela é extrovertido.",
+    "pronunciation": "/hər ˈbrʌðər ɪz ˈaʊtˌɡoʊɪŋ/",
+    "portuguesePhonetic": "râr brâdher iz áut-gôuin."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_59",
+    "word": "The new coach is easygoing.",
+    "translation": "O novo treinador é tranquilo.",
+    "pronunciation": "/ðə nu koʊtʃ ɪz ˌiziˈɡoʊɪŋ/",
+    "portuguesePhonetic": "dâ nú côutch iz ízi-gôuin."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_60",
+    "word": "Those students are hardworking.",
+    "translation": "Aqueles alunos são esforçados.",
+    "pronunciation": "/ðoʊz ˈstudənts ɑr ˌhɑrdˈwɝkɪŋ/",
+    "portuguesePhonetic": "dhôuz stiúdants ar rárd-uârkin."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_61",
+    "word": "Is your new manager reliable?",
+    "translation": "Seu novo gerente é confiável?",
+    "pronunciation": "/ɪz jʊr nu ˈmænɪdʒər rɪˈlaɪəbəl/",
+    "portuguesePhonetic": "iz iór nú ménidjer riláiâbol?"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_62",
+    "word": "He isn’t outgoing, but he is very friendly.",
+    "translation": "Ele não é extrovertido, mas é muito simpático.",
+    "pronunciation": "/hi ˈɪzənt ˈaʊtˌɡoʊɪŋ",
+    "portuguesePhonetic": "bət hi ɪz ˈvɛri ˈfrɛndli/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_63",
+    "word": "Why is that customer being so rude?",
+    "translation": "Por que aquele cliente está sendo tão grosseiro?",
+    "pronunciation": "/waɪ ɪz ðæt ˈkʌstəmər ˈbiɪŋ soʊ rud/",
+    "portuguesePhonetic": "uái iz dhét câstâmer bíin sôu rúd?"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_64",
+    "word": "My cousin seems shy when she meets new people.",
+    "translation": "Minha prima parece tímida quando conhece pessoas novas.",
+    "pronunciation": "/maɪ ˈkʌzən simz ʃaɪ wɛn ʃi mits nu ˈpipəl/",
+    "portuguesePhonetic": "mái câzan síms shái uén shi míts nú pípol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_65",
+    "word": "The unreliable driver didn’t arrive on time.",
+    "translation": "O motorista não confiável não chegou no horário.",
+    "pronunciation": "/ði ˌʌnrɪˈlaɪəbəl ˈdraɪvər ˈdɪdənt əˈraɪv ɑn taɪm/",
+    "portuguesePhonetic": "dhi an-riláiâbol dráiver dídant arráiv ón táim."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_66",
+    "word": "Although Julia is pessimistic, her husband is always optimistic.",
+    "translation": "Embora Julia seja pessimista, o marido dela é sempre otimista.",
+    "pronunciation": "/ɔlˈðoʊ ˈdʒuliə ɪz ˌpɛsəˈmɪstɪk",
+    "portuguesePhonetic": "hər ˈhʌzbənd ɪz ˈɔlweɪz ˌɑptəˈmɪstɪk/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_67",
+    "word": "The lazy employee complains whenever someone gives him work.",
+    "translation": "O funcionário preguiçoso reclama sempre que alguém lhe dá trabalho.",
+    "pronunciation": "/ðə ˈleɪzi ɛmˈplɔɪi kəmˈpleɪnz wɛnˈɛvər ˈsʌmˌwʌn ɡɪvz hɪm wɝk/",
+    "portuguesePhonetic": "dâ lêizi emplói complêinz uenéver sâmuân guívz rim uârk."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_68",
+    "word": "She appeared unfriendly at first, but she became more relaxed later.",
+    "translation": "Ela pareceu antipática no início, mas ficou mais à vontade depois.",
+    "pronunciation": "/ʃi əˈpɪrd ʌnˈfrɛndli æt fɝst",
+    "portuguesePhonetic": "bət ʃi bɪˈkeɪm mɔr rɪˈlækst ˈleɪtər/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_69",
+    "word": "I trust Mark because he has always been reliable and responsible.",
+    "translation": "Confio em Mark porque ele sempre foi confiável e responsável.",
+    "pronunciation": "/aɪ trʌst mɑrk bɪˈkʌz hi hæz ˈɔlweɪz bɪn rɪˈlaɪəbəl ænd rɪˈspɑnsəbəl/",
+    "portuguesePhonetic": "ái trâst márk bicâz rí réz ól-uêiz bin riláiâbol end rispónsâbol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_70",
+    "word": "The cheerful nurse made the frightened child feel comfortable.",
+    "translation": "A enfermeira alegre fez a criança assustada se sentir confortável.",
+    "pronunciation": "/ðə ˈtʃɪrfəl nɝs meɪd ðə ˈfraɪtənd tʃaɪld fil ˈkʌmftərbəl/",
+    "portuguesePhonetic": "dâ tchírfâl nârs mêid dâ fráitand tcháild fíl câmfârâbol."
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_71",
+    "word": "Even though she was shy, she introduced herself to everyone at the party.",
+    "translation": "Embora fosse tímida, ela se apresentou a todos na festa.",
+    "pronunciation": "/ˈivən ðoʊ ʃi wəz ʃaɪ",
+    "portuguesePhonetic": "ʃi ˌɪntrəˈdust hərˈsɛlf tə ˈɛvriˌwʌn æt ðə ˈpɑrti/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_72",
+    "word": "If the supplier remains unreliable, we will have to find another company.",
+    "translation": "Se o fornecedor continuar não sendo confiável, teremos que encontrar outra empresa.",
+    "pronunciation": "/ɪf ðə səˈplaɪər rɪˈmeɪnz ˌʌnrɪˈlaɪəbəl",
+    "portuguesePhonetic": "wi wɪl hæv tə faɪnd əˈnʌðər ˈkʌmpəni/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_73",
+    "word": "People sometimes mistake easygoing employees for lazy ones, but the two traits are very different.",
+    "translation": "Às vezes, as pessoas confundem funcionários tranquilos com preguiçosos, mas as duas características são muito diferentes.",
+    "pronunciation": "/ˈpipəl ˈsʌmˌtaɪmz mɪˈsteɪk ˌiziˈɡoʊɪŋ ɛmˈplɔɪiz fɔr ˈleɪzi wʌnz",
+    "portuguesePhonetic": "bət ðə tu treɪts ɑr ˈvɛri ˈdɪfərənt/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_74",
+    "word": "Although he had seemed mean and unfriendly, he surprised us by making a generous donation.",
+    "translation": "Embora tivesse parecido maldoso e antipático, ele nos surpreendeu ao fazer uma doação generosa.",
+    "pronunciation": "/ɔlˈðoʊ hi hæd simd min ænd ʌnˈfrɛndli",
+    "portuguesePhonetic": "hi sərˈpraɪzd ʌs baɪ ˈmeɪkɪŋ ə ˈdʒɛnərəs doʊˈneɪʃən/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_75",
+    "word": "If the team had been less hardworking and responsible, the project wouldn’t have been completed on time.",
+    "translation": "Se a equipe tivesse sido menos esforçada e responsável, o projeto não teria sido concluído no prazo.",
+    "pronunciation": "/ɪf ðə tim hæd bɪn lɛs ˌhɑrdˈwɝkɪŋ ænd rɪˈspɑnsəbəl",
+    "portuguesePhonetic": "ðə ˈprɑdʒɛkt ˈwʊdənt hæv bɪn kəmˈplitɪd ɑn taɪm/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_76",
+    "word": "Is your new neighbor friendly? / Yes, she always says hello.",
+    "translation": "Sua nova vizinha é simpática? / Sim, ela sempre cumprimenta.",
+    "pronunciation": "/ɪz jʊr nu ˈneɪbər ˈfrɛndli",
+    "portuguesePhonetic": "jɛs, ʃi ˈɔlweɪz sɛz həˈloʊ/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_77",
+    "word": "Why do you think Anna is kind? / She helps everyone.",
+    "translation": "Por que você acha que Anna é gentil? / Ela ajuda todos.",
+    "pronunciation": "/waɪ du ju θɪŋk ˈænə ɪz kaɪnd",
+    "portuguesePhonetic": "ʃi hɛlps ˈɛvriˌwʌn/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_78",
+    "word": "Is Peter generous? / Yes, he donates money every month.",
+    "translation": "Peter é generoso? / Sim, ele doa dinheiro todos os meses.",
+    "pronunciation": "/ɪz ˈpitər ˈdʒɛnərəs",
+    "portuguesePhonetic": "jɛs, hi ˈdoʊˌneɪts ˈmʌni ˈɛvri mʌnθ/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_79",
+    "word": "Are you optimistic about the future? / Yes, I think things will improve.",
+    "translation": "Você está otimista com o futuro? / Sim, acho que as coisas melhorarão.",
+    "pronunciation": "/ɑr ju ˌɑptəˈmɪstɪk əˈbaʊt ðə ˈfjutʃər",
+    "portuguesePhonetic": "jɛs, aɪ θɪŋk θɪŋz wɪl ɪmˈpruv/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_80",
+    "word": "Can we trust this mechanic? / Yes, he’s very reliable.",
+    "translation": "Podemos confiar neste mecânico? / Sim, ele é muito confiável.",
+    "pronunciation": "/kæn wi trʌst ðɪs məˈkænɪk",
+    "portuguesePhonetic": "jɛs, hiz ˈvɛri rɪˈlaɪəbəl/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_81",
+    "word": "Who is responsible for the keys? / I am.",
+    "translation": "Quem é responsável pelas chaves? / Eu.",
+    "pronunciation": "/hu ɪz rɪˈspɑnsəbəl fɔr ðə kiz",
+    "portuguesePhonetic": "aɪ æm/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_82",
+    "word": "Why is Maya so cheerful today? / She got a new job.",
+    "translation": "Por que Maya está tão alegre hoje? / Ela conseguiu um emprego novo.",
+    "pronunciation": "/waɪ ɪz ˈmaɪə soʊ ˈtʃɪrfəl təˈdeɪ",
+    "portuguesePhonetic": "ʃi ɡɑt ə nu dʒɑb/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_83",
+    "word": "Is your brother outgoing? / Yes, he loves meeting people.",
+    "translation": "Seu irmão é extrovertido? / Sim, ele adora conhecer pessoas.",
+    "pronunciation": "/ɪz jʊr ˈbrʌðər ˈaʊtˌɡoʊɪŋ",
+    "portuguesePhonetic": "jɛs, hi lʌvz ˈmitɪŋ ˈpipəl/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_84",
+    "word": "Does your boss get angry easily? / No, she’s very easygoing.",
+    "translation": "Sua chefe se irrita facilmente? / Não, ela é muito tranquila.",
+    "pronunciation": "/dʌz jʊr bɔs ɡɛt ˈæŋɡri ˈizəli",
+    "portuguesePhonetic": "noʊ, ʃiz ˈvɛri ˌiziˈɡoʊɪŋ/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_85",
+    "word": "Who is the most hardworking person here? / Probably Nina.",
+    "translation": "Quem é a pessoa mais esforçada daqui? / Provavelmente Nina.",
+    "pronunciation": "/hu ɪz ðə moʊst ˌhɑrdˈwɝkɪŋ ˈpɝsən hɪr",
+    "portuguesePhonetic": "ˈprɑbəbli ˈninə/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_86",
+    "word": "Why is he so pessimistic? / He always expects problems.",
+    "translation": "Por que ele é tão pessimista? / Ele sempre espera problemas.",
+    "pronunciation": "/waɪ ɪz hi soʊ ˌpɛsəˈmɪstɪk",
+    "portuguesePhonetic": "hi ˈɔlweɪz ɪkˈspɛkts ˈprɑbləmz/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_87",
+    "word": "Was the clerk friendly? / No, he was quite unfriendly.",
+    "translation": "O atendente foi simpático? / Não, ele foi bastante antipático.",
+    "pronunciation": "/wəz ðə klɝk ˈfrɛndli",
+    "portuguesePhonetic": "noʊ, hi wəz kwaɪt ʌnˈfrɛndli/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_88",
+    "word": "Why was the customer rude? / He was angry about the delay.",
+    "translation": "Por que o cliente foi grosseiro? / Ele estava irritado com o atraso.",
+    "pronunciation": "/waɪ wəz ðə ˈkʌstəmər rud",
+    "portuguesePhonetic": "hi wəz ˈæŋɡri əˈbaʊt ðə dɪˈleɪ/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_89",
+    "word": "Is Tom mean to his coworkers? / Sometimes he is.",
+    "translation": "Tom é maldoso com os colegas? / Às vezes, é.",
+    "pronunciation": "/ɪz tɑm min tə hɪz ˈkoʊˌwɝkərz",
+    "portuguesePhonetic": "ˈsʌmˌtaɪmz hi ɪz/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_90",
+    "word": "Why won’t he pay for dinner? / He’s mean with money.",
+    "translation": "Por que ele não quer pagar o jantar? / Ele é avarento.",
+    "pronunciation": "/waɪ woʊnt hi peɪ fɔr ˈdɪnər",
+    "portuguesePhonetic": "hiz min wɪð ˈmʌni/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_91",
+    "word": "Can I depend on this company? / No, it’s unreliable.",
+    "translation": "Posso depender desta empresa? / Não, ela não é confiável.",
+    "pronunciation": "/kæn aɪ dɪˈpɛnd ɑn ðɪs ˈkʌmpəni",
+    "portuguesePhonetic": "noʊ, ɪts ˌʌnrɪˈlaɪəbəl/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_92",
+    "word": "Who left the door unlocked? / The irresponsible intern.",
+    "translation": "Quem deixou a porta destrancada? / O estagiário irresponsável.",
+    "pronunciation": "/hu lɛft ðə dɔr ʌnˈlɑkt",
+    "portuguesePhonetic": "ði ˌɪrɪˈspɑnsəbəl ˈɪnˌtɝn/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_93",
+    "word": "Why does Paul look miserable? / He had a terrible day.",
+    "translation": "Por que Paul parece infeliz? / Ele teve um dia péssimo.",
+    "pronunciation": "/waɪ dʌz pɔl lʊk ˈmɪzərəbəl",
+    "portuguesePhonetic": "hi hæd ə ˈtɛrəbəl deɪ/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_94",
+    "word": "Is your daughter shy? / Yes, especially around strangers.",
+    "translation": "Sua filha é tímida? / Sim, principalmente perto de desconhecidos.",
+    "pronunciation": "/ɪz jʊr ˈdɔtər ʃaɪ",
+    "portuguesePhonetic": "jɛs, ɪˈspɛʃəli əˈraʊnd ˈstreɪndʒərz/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_95",
+    "word": "Why hasn’t Jack finished the task? / He’s being lazy.",
+    "translation": "Por que Jack ainda não terminou a tarefa? / Ele está sendo preguiçoso.",
+    "pronunciation": "/waɪ ˈhæzənt dʒæk ˈfɪnɪʃt ðə tæsk",
+    "portuguesePhonetic": "hiz ˈbiɪŋ ˈleɪzi/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_96",
+    "word": "What is your new teacher like? / She’s kind, cheerful, and patient.",
+    "translation": "Como é sua nova professora? / Ela é gentil, alegre e paciente.",
+    "pronunciation": "/wʌt ɪz jʊr nu ˈtitʃər laɪk",
+    "portuguesePhonetic": "ʃiz kaɪnd, ˈtʃɪrfəl, ænd ˈpeɪʃənt/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_97",
+    "word": "Why do you enjoy working with Emma? / She’s reliable and easygoing.",
+    "translation": "Por que você gosta de trabalhar com Emma? / Ela é confiável e tranquila.",
+    "pronunciation": "/waɪ du ju ɛnˈdʒɔɪ ˈwɝkɪŋ wɪð ˈɛmə",
+    "portuguesePhonetic": "ʃiz rɪˈlaɪəbəl ænd ˌiziˈɡoʊɪŋ/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_98",
+    "word": "Did Ben apologize for being rude? / Yes, he did.",
+    "translation": "Ben pediu desculpas por ter sido grosseiro? / Sim.",
+    "pronunciation": "/dɪd bɛn əˈpɑləˌdʒaɪz fɔr ˈbiɪŋ rud",
+    "portuguesePhonetic": "jɛs, hi dɪd/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_99",
+    "word": "Would you hire someone who was unreliable? / No, I wouldn’t.",
+    "translation": "Você contrataria alguém que não fosse confiável? / Não.",
+    "pronunciation": "/wʊd ju haɪər ˈsʌmˌwʌn hu wəz ˌʌnrɪˈlaɪəbəl",
+    "portuguesePhonetic": "noʊ, aɪ ˈwʊdənt/"
+  },
+  {
+    "id": "lesson_3_vocabulary_a2_card_100",
+    "word": "What makes a good team member? / Being responsible, hardworking, and kind.",
+    "translation": "O que caracteriza um bom integrante de equipe? / Ser responsável, esforçado e gentil.",
+    "pronunciation": "/wʌt meɪks ə ɡʊd tim ˈmɛmbər",
+    "portuguesePhonetic": "ˈbiɪŋ rɪˈspɑnsəbəl, ˌhɑrdˈwɝkɪŋ, ænd kaɪnd/"
+  }
+]
