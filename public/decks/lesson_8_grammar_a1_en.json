@@ -156,21 +156,21 @@
   {
     "id": "lesson_8_grammar_a1_en_card_23",
     "word": "He is never late.",
-    "translation": "Ele nunca está atrasado. (não \"isn't never\")",
+    "translation": "Ele nunca está atrasado. (não isn't never)",
     "pronunciation": "/hiː ɪz ˈnɛvər leɪt/",
     "portuguesePhonetic": "[rrí iz néver lêit]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_24",
     "word": "They hardly ever go to the library.",
-    "translation": "Eles quase nunca vão à biblioteca. (não \"don't hardly ever\")",
+    "translation": "Eles quase nunca vão à biblioteca. (não don't hardly ever)",
     "pronunciation": "/ðeɪ ˈhɑːrdli ˈɛvər ɡoʊ tə ðə ˈlaɪbrɛri/",
     "portuguesePhonetic": "[dhêi rrárdli éver gôu tu dha láibreri]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_25",
-    "word": "Frequency adverbs go before the verb, but after \"be\".",
-    "translation": "Os advérbios de frequência vêm antes do verbo, mas depois de \"be\".",
+    "word": "Frequency adverbs go before the verb, but after be.",
+    "translation": "Os advérbios de frequência vêm antes do verbo, mas depois de be.",
     "pronunciation": "/ˈfriːkwənsi ˈædvɜːrbz ɡoʊ bɪˈfɔːr ðə vɜːrb/",
     "portuguesePhonetic": "[fríkuensi édvârbz gôu bifór dha vârb]"
   },
@@ -526,176 +526,176 @@
   },
   {
     "id": "lesson_8_grammar_a1_en_card_76",
-    "word": "Do you often cook?\" / \"Yes, almost every day.",
-    "translation": "Você cozinha com frequência?\" / \"Sim, quase todo dia.",
+    "word": "Do you often cook? / Yes, almost every day.",
+    "translation": "Você cozinha com frequência? / Sim, quase todo dia.",
     "pronunciation": "/duː juː ˈɔːfn̩ kʊk · jɛs ˈɔːlmoʊst ˈɛvri deɪ/",
     "portuguesePhonetic": "[dú iú ófen kúk · iés ólmoust évri dêi]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_77",
-    "word": "Are you always this busy?\" / \"No, not always.",
-    "translation": "Você está sempre tão ocupado?\" / \"Não, nem sempre.",
+    "word": "Are you always this busy? / No, not always.",
+    "translation": "Você está sempre tão ocupado? / Não, nem sempre.",
     "pronunciation": "/ɑːr juː ˈɔːlweɪz ðɪs ˈbɪzi · noʊ nɑːt ˈɔːlweɪz/",
     "portuguesePhonetic": "[ár iú ólueiz dhís bízi · nôu nót ólueiz]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_78",
-    "word": "How often do you travel?\" / \"Sometimes, twice a year.",
-    "translation": "Com que frequência você viaja?\" / \"Às vezes, duas vezes por ano.",
+    "word": "How often do you travel? / Sometimes, twice a year.",
+    "translation": "Com que frequência você viaja? / Às vezes, duas vezes por ano.",
     "pronunciation": "/haʊ ˈɔːfn̩ duː juː ˈtrævl̩ · ˈsʌmtaɪmz twaɪs ə jɪr/",
     "portuguesePhonetic": "[rráu ófen dú iú trévou · sâmtaimz tuáis a íir]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_79",
-    "word": "Does she ever smile?\" / \"Hardly ever.",
-    "translation": "Ela sorri alguma vez?\" / \"Quase nunca.",
+    "word": "Does she ever smile? / Hardly ever.",
+    "translation": "Ela sorri alguma vez? / Quase nunca.",
     "pronunciation": "/dʌz ʃiː ˈɛvər smaɪl · ˈhɑːrdli ˈɛvər/",
     "portuguesePhonetic": "[dâz chí éver smáiou · rrárdli éver]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_80",
-    "word": "Are they usually at home?\" / \"No, they're never home.",
-    "translation": "Eles geralmente estão em casa?\" / \"Não, nunca estão.",
+    "word": "Are they usually at home? / No, they're never home.",
+    "translation": "Eles geralmente estão em casa? / Não, nunca estão.",
     "pronunciation": "/ɑːr ðeɪ ˈjuːʒuəli æt hoʊm · noʊ ðer ˈnɛvər hoʊm/",
     "portuguesePhonetic": "[ár dhêi iújuali ét rrôum · nôu dhér néver rrôum]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_81",
-    "word": "Do you always wake up early?\" / \"Yes, always.",
-    "translation": "Você sempre acorda cedo?\" / \"Sim, sempre.",
+    "word": "Do you always wake up early? / Yes, always.",
+    "translation": "Você sempre acorda cedo? / Sim, sempre.",
     "pronunciation": "/duː juː ˈɔːlweɪz weɪk ʌp ˈɜːrli · jɛs ˈɔːlweɪz/",
     "portuguesePhonetic": "[dú iú ólueiz uêik âp ârli · iés ólueiz]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_82",
-    "word": "How often do you eat out?\" / \"Rarely.",
-    "translation": "Com que frequência você come fora?\" / \"Raramente.",
+    "word": "How often do you eat out? / Rarely.",
+    "translation": "Com que frequência você come fora? / Raramente.",
     "pronunciation": "/haʊ ˈɔːfn̩ duː juː iːt aʊt · ˈrɛrli/",
     "portuguesePhonetic": "[rráu ófen dú iú ít áut · rérli]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_83",
-    "word": "Is he often late?\" / \"Yes, usually.",
-    "translation": "Ele se atrasa com frequência?\" / \"Sim, geralmente.",
+    "word": "Is he often late? / Yes, usually.",
+    "translation": "Ele se atrasa com frequência? / Sim, geralmente.",
     "pronunciation": "/ɪz hiː ˈɔːfn̩ leɪt · jɛs ˈjuːʒuəli/",
     "portuguesePhonetic": "[iz rrí ófen lêit · iés iújuali]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_84",
-    "word": "Do you ever play sports?\" / \"Sometimes.",
-    "translation": "Você pratica esporte às vezes?\" / \"Às vezes.",
+    "word": "Do you ever play sports? / Sometimes.",
+    "translation": "Você pratica esporte às vezes? / Às vezes.",
     "pronunciation": "/duː juː ˈɛvər pleɪ spɔːrts · ˈsʌmtaɪmz/",
     "portuguesePhonetic": "[dú iú éver plêi spórts · sâmtaimz]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_85",
-    "word": "Does she usually work weekends?\" / \"No, never.",
-    "translation": "Ela geralmente trabalha nos fins de semana?\" / \"Não, nunca.",
+    "word": "Does she usually work weekends? / No, never.",
+    "translation": "Ela geralmente trabalha nos fins de semana? / Não, nunca.",
     "pronunciation": "/dʌz ʃiː ˈjuːʒuəli wɜːrk ˈwiːkɛndz · noʊ ˈnɛvər/",
     "portuguesePhonetic": "[dâz chí iújuali uârk uíkendz · nôu néver]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_86",
-    "word": "Are you often tired?\" / \"Yes, usually.",
-    "translation": "Você fica cansado com frequência?\" / \"Sim, geralmente.",
+    "word": "Are you often tired? / Yes, usually.",
+    "translation": "Você fica cansado com frequência? / Sim, geralmente.",
     "pronunciation": "/ɑːr juː ˈɔːfn̩ ˈtaɪərd · jɛs ˈjuːʒuəli/",
     "portuguesePhonetic": "[ár iú ófen táierd · iés iújuali]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_87",
-    "word": "Do they often visit?\" / \"Rarely, actually.",
-    "translation": "Eles visitam com frequência?\" / \"Raramente, na verdade.",
+    "word": "Do they often visit? / Rarely, actually.",
+    "translation": "Eles visitam com frequência? / Raramente, na verdade.",
     "pronunciation": "/duː ðeɪ ˈɔːfn̩ ˈvɪzɪt · ˈrɛrli ˈæktʃuəli/",
     "portuguesePhonetic": "[dú dhêi ófen vízit · rérli éktchuali]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_88",
-    "word": "How often do you exercise?\" / \"Always, every day.",
-    "translation": "Com que frequência você se exercita?\" / \"Sempre, todo dia.",
+    "word": "How often do you exercise? / Always, every day.",
+    "translation": "Com que frequência você se exercita? / Sempre, todo dia.",
     "pronunciation": "/haʊ ˈɔːfn̩ duː juː ˈɛksərsaɪz · ˈɔːlweɪz ˈɛvri deɪ/",
     "portuguesePhonetic": "[rráu ófen dú iú éksersaiz · ólueiz évri dêi]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_89",
-    "word": "Is the store always open?\" / \"No, not on Sundays.",
-    "translation": "A loja está sempre aberta?\" / \"Não, aos domingos não.",
+    "word": "Is the store always open? / No, not on Sundays.",
+    "translation": "A loja está sempre aberta? / Não, aos domingos não.",
     "pronunciation": "/ɪz ðə stɔːr ˈɔːlweɪz ˈoʊpən · noʊ nɑːt ɑːn ˈsʌndeɪz/",
     "portuguesePhonetic": "[iz dha stór ólueiz ôupan · nôu nót ón sândeiz]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_90",
-    "word": "Do you usually drink coffee?\" / \"Yes, every morning.",
-    "translation": "Você geralmente toma café?\" / \"Sim, toda manhã.",
+    "word": "Do you usually drink coffee? / Yes, every morning.",
+    "translation": "Você geralmente toma café? / Sim, toda manhã.",
     "pronunciation": "/duː juː ˈjuːʒuəli drɪŋk ˈkɔːfi · jɛs ˈɛvri ˈmɔːrnɪŋ/",
     "portuguesePhonetic": "[dú iú iújuali drínk kófi · iés évri mórnin]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_91",
-    "word": "Does he ever cook?\" / \"Hardly ever.",
-    "translation": "Ele cozinha alguma vez?\" / \"Quase nunca.",
+    "word": "Does he ever cook? / Hardly ever.",
+    "translation": "Ele cozinha alguma vez? / Quase nunca.",
     "pronunciation": "/dʌz hiː ˈɛvər kʊk · ˈhɑːrdli ˈɛvər/",
     "portuguesePhonetic": "[dâz rrí éver kúk · rrárdli éver]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_92",
-    "word": "Are you always on time?\" / \"I try to be.",
-    "translation": "Você está sempre na hora?\" / \"Eu tento estar.",
+    "word": "Are you always on time? / I try to be.",
+    "translation": "Você está sempre na hora? / Eu tento estar.",
     "pronunciation": "/ɑːr juː ˈɔːlweɪz ɑːn taɪm · aɪ traɪ tə biː/",
     "portuguesePhonetic": "[ár iú ólueiz ón táim · ái trái tu bí]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_93",
-    "word": "How often does it rain here?\" / \"Often, in winter.",
-    "translation": "Com que frequência chove aqui?\" / \"Frequentemente, no inverno.",
+    "word": "How often does it rain here? / Often, in winter.",
+    "translation": "Com que frequência chove aqui? / Frequentemente, no inverno.",
     "pronunciation": "/haʊ ˈɔːfn̩ dʌz ɪt reɪn hɪr · ˈɔːfn̩ ɪn ˈwɪntər/",
     "portuguesePhonetic": "[rráu ófen dâz ít rêin rrír · ófen in uínter]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_94",
-    "word": "Do you sometimes feel tired?\" / \"Yes, sometimes.",
-    "translation": "Você às vezes se sente cansado?\" / \"Sim, às vezes.",
+    "word": "Do you sometimes feel tired? / Yes, sometimes.",
+    "translation": "Você às vezes se sente cansado? / Sim, às vezes.",
     "pronunciation": "/duː juː ˈsʌmtaɪmz fiːl ˈtaɪərd · jɛs ˈsʌmtaɪmz/",
     "portuguesePhonetic": "[dú iú sâmtaimz fíou táierd · iés sâmtaimz]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_95",
-    "word": "Is she usually friendly?\" / \"Yes, always.",
-    "translation": "Ela geralmente é simpática?\" / \"Sim, sempre.",
+    "word": "Is she usually friendly? / Yes, always.",
+    "translation": "Ela geralmente é simpática? / Sim, sempre.",
     "pronunciation": "/ɪz ʃiː ˈjuːʒuəli ˈfrɛndli · jɛs ˈɔːlweɪz/",
     "portuguesePhonetic": "[iz chí iújuali fréndli · iés ólueiz]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_96",
-    "word": "Do you ever skip breakfast?\" / \"Rarely.",
-    "translation": "Você pula o café da manhã alguma vez?\" / \"Raramente.",
+    "word": "Do you ever skip breakfast? / Rarely.",
+    "translation": "Você pula o café da manhã alguma vez? / Raramente.",
     "pronunciation": "/duː juː ˈɛvər skɪp ˈbrɛkfəst · ˈrɛrli/",
     "portuguesePhonetic": "[dú iú éver skíp brékfest · rérli]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_97",
-    "word": "Are they often busy?\" / \"Yes, usually.",
-    "translation": "Eles ficam ocupados com frequência?\" / \"Sim, geralmente.",
+    "word": "Are they often busy? / Yes, usually.",
+    "translation": "Eles ficam ocupados com frequência? / Sim, geralmente.",
     "pronunciation": "/ɑːr ðeɪ ˈɔːfn̩ ˈbɪzi · jɛs ˈjuːʒuəli/",
     "portuguesePhonetic": "[ár dhêi ófen bízi · iés iújuali]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_98",
-    "word": "Do you always study at night?\" / \"Usually, yes.",
-    "translation": "Você sempre estuda à noite?\" / \"Geralmente, sim.",
+    "word": "Do you always study at night? / Usually, yes.",
+    "translation": "Você sempre estuda à noite? / Geralmente, sim.",
     "pronunciation": "/duː juː ˈɔːlweɪz ˈstʌdi æt naɪt · ˈjuːʒuəli jɛs/",
     "portuguesePhonetic": "[dú iú ólueiz stâdi ét náit · iújuali iés]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_99",
-    "word": "Does he ever call you?\" / \"Never.",
-    "translation": "Ele te liga alguma vez?\" / \"Nunca.",
+    "word": "Does he ever call you? / Never.",
+    "translation": "Ele te liga alguma vez? / Nunca.",
     "pronunciation": "/dʌz hiː ˈɛvər kɔːl juː · ˈnɛvər/",
     "portuguesePhonetic": "[dâz rrí éver kól iú · néver]"
   },
   {
     "id": "lesson_8_grammar_a1_en_card_100",
-    "word": "How often do you read?\" / \"Every day.",
-    "translation": "Com que frequência você lê?\" / \"Todo dia.",
+    "word": "How often do you read? / Every day.",
+    "translation": "Com que frequência você lê? / Todo dia.",
     "pronunciation": "/haʊ ˈɔːfn̩ duː juː riːd · ˈɛvri deɪ/",
     "portuguesePhonetic": "[rráu ófen dú iú ríd · évri dêi]"
   }
