@@ -1,702 +1,1760 @@
 [
   {
-    "id": "lesson_3_grammar_a2_en_card_1",
-    "word": "I, you, we, and they work.",
-    "translation": "Eu, você, nós e eles trabalham.",
-    "pronunciation": "/aɪ, ju, wi, ænd ðeɪ wɝk/",
-    "portuguesePhonetic": "ái, iú, uí end dhêi uârk."
+    "id": "lesson_3_grammar_a2_id_htf2ytu",
+    "word": "I work.",
+    "translation": "Eu trabalho.",
+    "syllables": [
+      "I",
+      "work."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ wɜːrk/",
+    "portuguesePhonetic": "[ái uârk]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_2",
-    "word": "He, she, and it works**.**",
-    "translation": "Ele, ela e isso funcionam ou trabalham.",
-    "pronunciation": "/hi, ʃi, ænd ɪt wɝks/",
-    "portuguesePhonetic": "rí, shi end it uârks."
+    "id": "lesson_3_grammar_a2_id_qzai87g",
+    "word": "He works.",
+    "translation": "Ele trabalha.",
+    "syllables": [
+      "He",
+      "works."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː wɜːrks/",
+    "portuguesePhonetic": "[rrí uârks]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_3",
-    "word": "I, you, we, and they don’t work.",
-    "translation": "Eu, você, nós e eles não trabalham.",
-    "pronunciation": "/aɪ, ju, wi, ænd ðeɪ doʊnt wɝk/",
-    "portuguesePhonetic": "ái, iú, uí end dhêi dôunt uârk."
+    "id": "lesson_3_grammar_a2_id_fhja3ov",
+    "word": "They work.",
+    "translation": "Eles trabalham.",
+    "syllables": [
+      "They",
+      "work."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ wɜːrk/",
+    "portuguesePhonetic": "[dhêi uârk]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_4",
-    "word": "He, she, and it don’t work.",
-    "translation": "Forma incorreta: ele, ela e isso não trabalham.",
-    "pronunciation": "/hi, ʃi, ænd ɪt doʊnt wɝk/",
-    "portuguesePhonetic": "rí, shi end it dôunt uârk."
+    "id": "lesson_3_grammar_a2_id_lfw9ykw",
+    "word": "I don't work on Sundays.",
+    "translation": "Eu não trabalho aos domingos.",
+    "syllables": [
+      "I",
+      "don't",
+      "work",
+      "on",
+      "Sundays."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt wɜːrk ɑːn ˈsʌndeɪz/",
+    "portuguesePhonetic": "[ái dôunt uârk ón sândeiz]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_5",
-    "word": "He, she, and it don’t work.",
-    "translation": "Ele, ela e isso não trabalham.",
-    "pronunciation": "/hi, ʃi, ænd ɪt ˈdʌzənt wɝk/",
-    "portuguesePhonetic": "rí, shi end it dâzant uârk."
+    "id": "lesson_3_grammar_a2_id_yti8vyr",
+    "word": "He doesn't work on Sundays.",
+    "translation": "Ele não trabalha aos domingos.",
+    "syllables": [
+      "He",
+      "doesn't",
+      "work",
+      "on",
+      "Sundays."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ˈdʌznt wɜːrk ɑːn ˈsʌndeɪz/",
+    "portuguesePhonetic": "[rrí dâznt uârk ón sândeiz]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_6",
-    "word": "Do I, you, we, or they work?",
-    "translation": "Eu, você, nós ou eles trabalham?",
-    "pronunciation": "/du aɪ, ju, wi, ɔr ðeɪ wɝk/",
-    "portuguesePhonetic": "dú ái, iú, uí ór dhêi uârk?"
+    "id": "lesson_3_grammar_a2_id_jbq3527",
+    "word": "Do you work here?",
+    "translation": "Você trabalha aqui?",
+    "syllables": [
+      "Do",
+      "you",
+      "work",
+      "here?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː wɜːrk hɪr/",
+    "portuguesePhonetic": "[dú iú uârk rrír]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_7",
-    "word": "Does he, she, or it work?",
-    "translation": "Ele, ela ou isso trabalha ou funciona?",
-    "pronunciation": "/dʌz hi, ʃi, ɔr ɪt wɝk/",
-    "portuguesePhonetic": "dâz rí, shi ór it uârk?"
+    "id": "lesson_3_grammar_a2_id_qu4v6ds",
+    "word": "Does she work here?",
+    "translation": "Ela trabalha aqui?",
+    "syllables": [
+      "Does",
+      "she",
+      "work",
+      "here?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz ʃiː wɜːrk hɪr/",
+    "portuguesePhonetic": "[dâz chí uârk rrír]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_8",
-    "word": "Yes, I do. / Yes, she does.",
-    "translation": "Sim, eu trabalho. / Sim, ela trabalha.",
-    "pronunciation": "/jɛs, aɪ du",
-    "portuguesePhonetic": "jɛs, ʃi dʌz/"
+    "id": "lesson_3_grammar_a2_id_1puaubl",
+    "word": "Yes, she does.",
+    "translation": "Sim, ela trabalha.",
+    "syllables": [
+      "Yes,",
+      "she",
+      "does."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/jɛs ʃiː dʌz/",
+    "portuguesePhonetic": "[iés chí dâz]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_9",
-    "word": "No, I don’t. / No, she doesn’t.",
-    "translation": "Não, eu não trabalho. / Não, ela não trabalha.",
-    "pronunciation": "/noʊ, aɪ doʊnt",
-    "portuguesePhonetic": "noʊ, ʃi ˈdʌzənt/"
+    "id": "lesson_3_grammar_a2_id_bmeeyo2",
+    "word": "No, she doesn't.",
+    "translation": "Não, ela não trabalha.",
+    "syllables": [
+      "No,",
+      "she",
+      "doesn't."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noʊ ʃiː ˈdʌznt/",
+    "portuguesePhonetic": "[nôu chí dâznt]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_10",
-    "word": "He doesn’t work.",
-    "translation": "Ele não trabalha.",
-    "pronunciation": "/hi ˈdʌzənt wɝk/",
-    "portuguesePhonetic": "rí dâzant uârk."
+    "id": "lesson_3_grammar_a2_id_8lap6pf",
+    "word": "He plays soccer.",
+    "translation": "Ele joga futebol.",
+    "syllables": [
+      "He",
+      "plays",
+      "soccer."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː pleɪz ˈsɑːkər/",
+    "portuguesePhonetic": "[rrí plêiz sáker]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_11",
-    "word": "Does she work?",
-    "translation": "Ela trabalha?",
-    "pronunciation": "/dʌz ʃi wɝk/",
-    "portuguesePhonetic": "dâz shi uârk?"
+    "id": "lesson_3_grammar_a2_id_c57tjdb",
+    "word": "She watches TV.",
+    "translation": "Ela assiste TV.",
+    "syllables": [
+      "She",
+      "watches",
+      "TV."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈwɑːtʃɪz ˌtiːˈviː/",
+    "portuguesePhonetic": "[chí uátchiz ti-ví]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_12",
-    "word": "Play becomes plays; work becomes works.",
-    "translation": "“Play” vira “plays”; “work” vira “works”.",
-    "pronunciation": "/pleɪ bɪˈkʌmz pleɪz",
-    "portuguesePhonetic": "wɝk bɪˈkʌmz wɝks/"
+    "id": "lesson_3_grammar_a2_id_cf7r5ay",
+    "word": "He misses his family.",
+    "translation": "Ele sente falta da família.",
+    "syllables": [
+      "He",
+      "misses",
+      "his",
+      "family."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ˈmɪsɪz hɪz ˈfæməli/",
+    "portuguesePhonetic": "[rrí mísiz rríz fémili]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_13",
-    "word": "Watch becomes watches; miss becomes misses.",
-    "translation": "“Watch” vira “watches”; “miss” vira “misses”.",
-    "pronunciation": "/wɑtʃ bɪˈkʌmz ˈwɑtʃɪz",
-    "portuguesePhonetic": "mɪs bɪˈkʌmz ˈmɪsɪz/"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_14",
-    "word": "Study becomes studies; try becomes tries.",
-    "translation": "“Study” vira “studies”; “try” vira “tries”.",
-    "pronunciation": "/ˈstʌdi bɪˈkʌmz ˈstʌdiz",
-    "portuguesePhonetic": "traɪ bɪˈkʌmz traɪz/"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_15",
-    "word": "Do becomes does; go becomes goes.",
-    "translation": "“Do” vira “does”; “go” vira “goes”.",
-    "pronunciation": "/du bɪˈkʌmz dʌz",
-    "portuguesePhonetic": "ɡoʊ bɪˈkʌmz ɡoʊz/"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_16",
-    "word": "Have becomes has.",
-    "translation": "“Have” vira “has”.",
-    "pronunciation": "/hæv bɪˈkʌmz hæz/",
-    "portuguesePhonetic": "rév bicâms réz."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_17",
-    "word": "Use does or doesn’t with the base form of the verb.",
-    "translation": "Use “does” ou “doesn’t” com a forma básica do verbo.",
-    "pronunciation": "/juz dʌz ɔr ˈdʌzənt wɪð ðə beɪs fɔrm əv ðə vɝb/",
-    "portuguesePhonetic": "iúz dâz ór dâzant uíth dâ bêis fórm âv dâ vârb."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_18",
-    "word": "I am working. / I’m working.",
-    "translation": "Eu estou trabalhando.",
-    "pronunciation": "/aɪ æm ˈwɝkɪŋ",
-    "portuguesePhonetic": "aɪm ˈwɝkɪŋ/"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_19",
-    "word": "You are working. / You’re working.",
-    "translation": "Você está trabalhando.",
-    "pronunciation": "/ju ɑr ˈwɝkɪŋ",
-    "portuguesePhonetic": "jʊr ˈwɝkɪŋ/"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_20",
-    "word": "He is working. / He’s working.",
-    "translation": "Ele está trabalhando.",
-    "pronunciation": "/hi ɪz ˈwɝkɪŋ",
-    "portuguesePhonetic": "hiz ˈwɝkɪŋ/"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_21",
-    "word": "We aren’t working. / She isn’t working.",
-    "translation": "Nós não estamos trabalhando. / Ela não está trabalhando.",
-    "pronunciation": "/wi ɑrnt ˈwɝkɪŋ",
-    "portuguesePhonetic": "ʃi ˈɪzənt ˈwɝkɪŋ/"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_22",
-    "word": "Are they working? / Is she working?",
-    "translation": "Eles estão trabalhando? / Ela está trabalhando?",
-    "pronunciation": "/ɑr ðeɪ ˈwɝkɪŋ",
-    "portuguesePhonetic": "ɪz ʃi ˈwɝkɪŋ/"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_23",
-    "word": "Work becomes working; live becomes living; run becomes running.",
-    "translation": "“Work” vira “working”; “live” vira “living”; “run” vira “running”.",
-    "pronunciation": "/wɝk bɪˈkʌmz ˈwɝkɪŋ",
-    "portuguesePhonetic": "lɪv bɪˈkʌmz ˈlɪvɪŋ"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_24",
-    "word": "The present simple describes habits, facts, and permanent situations.",
-    "translation": "O presente simples descreve hábitos, fatos e situações permanentes.",
-    "pronunciation": "/ðə ˈprɛzənt ˈsɪmpəl dɪˈskraɪbz ˈhæbəts, fækts, ænd ˈpɝmənənt ˌsɪtʃuˈeɪʃənz/",
-    "portuguesePhonetic": "dâ prézant símpol discráibz rébits, fékts end pârmanant sitchuêishans."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_25",
-    "word": "I drink tea regularly, but I’m drinking tea now.",
-    "translation": "Eu bebo chá regularmente, mas estou bebendo chá agora.",
-    "pronunciation": "/aɪ drɪŋk ti ˈrɛɡjələrli, bət aɪm ˈdrɪŋkɪŋ ti naʊ/",
-    "portuguesePhonetic": "ái drínk tí réguiârli, bât áim drínkin tí náu."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_26",
-    "word": "I usually wake up at six thirty.",
-    "translation": "Eu geralmente acordo às seis e meia.",
-    "pronunciation": "/aɪ ˈjuʒuəli weɪk ʌp æt sɪks ˈθɝti/",
-    "portuguesePhonetic": "ái iújuâli uêik âp ét siks thârti."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_27",
-    "word": "My wife gets up at seven.",
-    "translation": "Minha esposa se levanta às sete.",
-    "pronunciation": "/maɪ waɪf ɡɛts ʌp æt ˈsɛvən/",
-    "portuguesePhonetic": "mái uáif guéts âp ét sévan."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_28",
-    "word": "Today, I’m getting up late.",
-    "translation": "Hoje estou me levantando tarde.",
-    "pronunciation": "/təˈdeɪ, aɪm ˈɡɛtɪŋ ʌp leɪt/",
-    "portuguesePhonetic": "tudêi, áim guétin âp lêit."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_29",
-    "word": "The kids are still sleeping.",
-    "translation": "As crianças ainda estão dormindo.",
-    "pronunciation": "/ðə kɪdz ɑr stɪl ˈslipɪŋ/",
-    "portuguesePhonetic": "dâ kídz ar stil slípin."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_30",
-    "word": "I make coffee every morning.",
-    "translation": "Eu faço café todas as manhãs.",
-    "pronunciation": "/aɪ meɪk ˈkɔfi ˈɛvri ˈmɔrnɪŋ/",
-    "portuguesePhonetic": "ái mêik cófi évri mórnin."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_31",
-    "word": "Right now, the coffee is brewing.",
-    "translation": "Neste momento, o café está sendo preparado.",
-    "pronunciation": "/raɪt naʊ, ðə ˈkɔfi ɪz ˈbruɪŋ/",
-    "portuguesePhonetic": "ráit náu, dâ cófi iz brúin."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_32",
-    "word": "I usually eat toast, but today I’m making eggs.",
-    "translation": "Geralmente como torradas, mas hoje estou preparando ovos.",
-    "pronunciation": "/aɪ ˈjuʒuəli it toʊst, bət təˈdeɪ aɪm ˈmeɪkɪŋ ɛɡz/",
-    "portuguesePhonetic": "ái iújuâli ít tôust, bât tudêi áim mêikin égz."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_33",
-    "word": "My son doesn’t like eggs.",
-    "translation": "Meu filho não gosta de ovos.",
-    "pronunciation": "/maɪ sʌn ˈdʌzənt laɪk ɛɡz/",
-    "portuguesePhonetic": "mái sân dâzant láik égz."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_34",
-    "word": "Is he eating cereal now?",
-    "translation": "Ele está comendo cereal agora?",
-    "pronunciation": "/ɪz hi ˈitɪŋ ˈsɪriəl naʊ/",
-    "portuguesePhonetic": "iz rí írin síriâl náu?"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_35",
-    "word": "Yes, he is.",
-    "translation": "Sim, ele está.",
-    "pronunciation": "/jɛs, hi ɪz/",
-    "portuguesePhonetic": "iés, rí iz."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_36",
-    "word": "We leave home at eight.",
-    "translation": "Nós saímos de casa às oito.",
-    "pronunciation": "/wi liv hoʊm æt eɪt/",
-    "portuguesePhonetic": "uí lív rôum ét êit."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_37",
-    "word": "Today, we’re waiting for a taxi.",
-    "translation": "Hoje estamos esperando um táxi.",
-    "pronunciation": "/təˈdeɪ, wɪr ˈweɪtɪŋ fɔr ə ˈtæksi/",
-    "portuguesePhonetic": "tudêi, uír uêirin fór â téksi."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_38",
-    "word": "The bus usually stops near our house.",
-    "translation": "O ônibus geralmente para perto da nossa casa.",
-    "pronunciation": "/ðə bʌs ˈjuʒuəli stɑps nɪr aʊər haʊs/",
-    "portuguesePhonetic": "dâ bâs iújuâli stáps nír áuer ráus."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_39",
-    "word": "It isn’t running today.",
-    "translation": "Ele não está circulando hoje.",
-    "pronunciation": "/ɪt ˈɪzənt ˈrʌnɪŋ təˈdeɪ/",
-    "portuguesePhonetic": "it ízant rânin tudêi."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_40",
-    "word": "Are you checking the route?",
-    "translation": "Você está verificando a rota?",
-    "pronunciation": "/ɑr ju ˈtʃɛkɪŋ ðə rut/",
-    "portuguesePhonetic": "ar iú tchékin dâ rút?"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_41",
-    "word": "I’m looking at the transportation app.",
-    "translation": "Estou consultando o aplicativo de transporte.",
-    "pronunciation": "/aɪm ˈlʊkɪŋ æt ðə ˌtrænspɔrˈteɪʃən æp/",
-    "portuguesePhonetic": "áim lúkin ét dâ transpórtêishan ép."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_42",
-    "word": "My manager starts work at nine.",
-    "translation": "Minha gerente começa a trabalhar às nove.",
-    "pronunciation": "/maɪ ˈmænɪdʒər stɑrts wɝk æt naɪn/",
-    "portuguesePhonetic": "mái ménidjer stárts uârk ét náin."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_43",
-    "word": "She is talking to a client now.",
-    "translation": "Ela está falando com um cliente agora.",
-    "pronunciation": "/ʃi ɪz ˈtɔkɪŋ tə ə ˈklaɪənt naʊ/",
-    "portuguesePhonetic": "shi iz tókin tâ â cláiant náu."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_44",
-    "word": "I usually answer emails first.",
-    "translation": "Eu geralmente respondo aos e-mails primeiro.",
-    "pronunciation": "/aɪ ˈjuʒuəli ˈænsər ˈimeɪlz fɝst/",
-    "portuguesePhonetic": "ái iújuâli énser ímeilz fârst."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_45",
-    "word": "Today, I’m preparing a security report.",
-    "translation": "Hoje estou preparando um relatório de segurança.",
-    "pronunciation": "/təˈdeɪ, aɪm prɪˈpɛrɪŋ ə sɪˈkjʊrəti rɪˈpɔrt/",
-    "portuguesePhonetic": "tudêi, áim pripérin â sicuíriti ripórt."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_46",
-    "word": "The printer doesn’t work very well.",
-    "translation": "A impressora não funciona muito bem.",
-    "pronunciation": "/ðə ˈprɪntər ˈdʌzənt wɝk ˈvɛri wɛl/",
-    "portuguesePhonetic": "dâ prínter dâzant uârk véri uél."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_47",
-    "word": "It is making a strange noise now.",
-    "translation": "Ela está fazendo um barulho estranho agora.",
-    "pronunciation": "/ɪt ɪz ˈmeɪkɪŋ ə streɪndʒ nɔɪz naʊ/",
-    "portuguesePhonetic": "it iz mêikin â strêindj nóiz náu."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_48",
-    "word": "Does the technician come every Tuesday?",
-    "translation": "O técnico vem todas as terças-feiras?",
-    "pronunciation": "/dʌz ðə tɛkˈnɪʃən kʌm ˈɛvri ˈtuzdeɪ/",
-    "portuguesePhonetic": "dâz dâ tekníshan câm évri túzdei?"
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_49",
-    "word": "He is checking another printer right now.",
-    "translation": "Ele está verificando outra impressora neste momento.",
-    "pronunciation": "/hi ɪz ˈtʃɛkɪŋ əˈnʌðər ˈprɪntər raɪt naʊ/",
-    "portuguesePhonetic": "rí iz tchékin anâdher prínter ráit náu."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_50",
-    "word": "We usually finish at five, but we’re staying late today.",
-    "translation": "Geralmente terminamos às cinco, mas hoje vamos ficar até mais tarde.",
-    "pronunciation": "/wi ˈjuʒuəli ˈfɪnɪʃ æt faɪv, bət wɪr ˈsteɪɪŋ leɪt təˈdeɪ/",
-    "portuguesePhonetic": "uí iújuâli fínish ét fáiv, bât uír stêiin lêit tudêi."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_51",
-    "word": "I work from home.",
-    "translation": "Eu trabalho em casa.",
-    "pronunciation": "/aɪ wɝk frəm hoʊm/",
-    "portuguesePhonetic": "ái uârk frâm rôum."
-  },
-  {
-    "id": "lesson_3_grammar_a2_en_card_52",
+    "id": "lesson_3_grammar_a2_id_aoydcmp",
     "word": "She studies English.",
     "translation": "Ela estuda inglês.",
-    "pronunciation": "/ʃi ˈstʌdiz ˈɪŋɡlɪʃ/",
-    "portuguesePhonetic": "shi stâdiz ínglish."
+    "syllables": [
+      "She",
+      "studies",
+      "English."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈstʌdiz ˈɪŋɡlɪʃ/",
+    "portuguesePhonetic": "[chí stâdiz ínglich]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_53",
-    "word": "We don’t drive to work.",
-    "translation": "Nós não vamos de carro ao trabalho.",
-    "pronunciation": "/wi doʊnt draɪv tə wɝk/",
-    "portuguesePhonetic": "uí dôunt dráiv tâ uârk."
+    "id": "lesson_3_grammar_a2_id_ah09k0h",
+    "word": "He tries his best.",
+    "translation": "Ele se esforça ao máximo.",
+    "syllables": [
+      "He",
+      "tries",
+      "his",
+      "best."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː traɪz hɪz bɛst/",
+    "portuguesePhonetic": "[rrí tráiz rríz bést]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_54",
-    "word": "Are they having lunch?",
-    "translation": "Eles estão almoçando?",
-    "pronunciation": "/ɑr ðeɪ ˈhævɪŋ lʌntʃ/",
-    "portuguesePhonetic": "ar dhêi révin lântch?"
+    "id": "lesson_3_grammar_a2_id_jq1ym4q",
+    "word": "She goes to work by bus.",
+    "translation": "Ela vai ao trabalho de ônibus.",
+    "syllables": [
+      "She",
+      "goes",
+      "to",
+      "work",
+      "by",
+      "bus."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ɡoʊz tə wɜːrk baɪ bʌs/",
+    "portuguesePhonetic": "[chí gôuz tu uârk bái bâs]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_55",
-    "word": "Does he usually call you?",
-    "translation": "Ele costuma ligar para você?",
-    "pronunciation": "/dʌz hi ˈjuʒuəli kɔl ju/",
-    "portuguesePhonetic": "dâz rí iújuâli cól iú?"
+    "id": "lesson_3_grammar_a2_id_7uk5tca",
+    "word": "He does the dishes.",
+    "translation": "Ele lava a louça.",
+    "syllables": [
+      "He",
+      "does",
+      "the",
+      "dishes."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː dʌz ðə ˈdɪʃɪz/",
+    "portuguesePhonetic": "[rrí dâz dha díchiz]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_56",
-    "word": "I’m not using the office today.",
-    "translation": "Não estou usando o escritório hoje.",
-    "pronunciation": "/aɪm nɑt ˈjuzɪŋ ði ˈɔfɪs təˈdeɪ/",
-    "portuguesePhonetic": "áim nát iúzin dhi ófis tudêi."
+    "id": "lesson_3_grammar_a2_id_ovid79a",
+    "word": "She has two brothers.",
+    "translation": "Ela tem dois irmãos.",
+    "syllables": [
+      "She",
+      "has",
+      "two",
+      "brothers."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː hæz tuː ˈbrʌðərz/",
+    "portuguesePhonetic": "[chí réz tú brâdherz]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_57",
-    "word": "My brother lives in Boston, but he is visiting us this week.",
-    "translation": "Meu irmão mora em Boston, mas está nos visitando esta semana.",
-    "pronunciation": "/maɪ ˈbrʌðər lɪvz ɪn ˈbɔstən, bət hi ɪz ˈvɪzɪtɪŋ ʌs ðɪs wik/",
-    "portuguesePhonetic": "mái brâdher livz in bóstan, bât rí iz vízitin âs dhis uík."
+    "id": "lesson_3_grammar_a2_id_sx8ogx2",
+    "word": "The hotel doesn't have a spa.",
+    "translation": "O hotel não tem spa.",
+    "syllables": [
+      "The",
+      "hotel",
+      "doesn't",
+      "have",
+      "a",
+      "spa."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə hoʊˈtɛl ˈdʌznt hæv ə spɑː/",
+    "portuguesePhonetic": "[dha routél dâznt réf a spá]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_58",
-    "word": "Water boils at one hundred degrees Celsius.",
-    "translation": "A água ferve a cem graus Celsius.",
-    "pronunciation": "/ˈwɔtər bɔɪlz æt wʌn ˈhʌndrəd dɪˈɡriz ˈsɛlsiəs/",
-    "portuguesePhonetic": "uórer bóilz ét uân rândred digríz sélsiâs."
+    "id": "lesson_3_grammar_a2_id_0sor87j",
+    "word": "Does Susan work in your office?",
+    "translation": "A Susan trabalha no seu escritório?",
+    "syllables": [
+      "Does",
+      "Susan",
+      "work",
+      "in",
+      "your",
+      "office?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz ˈsuːzn̩ wɜːrk ɪn jɔːr ˈɔːfɪs/",
+    "portuguesePhonetic": "[dâz súzan uârk in iór ófis]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_59",
-    "word": "I’m reading a new book, and I’m enjoying it.",
-    "translation": "Estou lendo um livro novo e estou gostando dele.",
-    "pronunciation": "/aɪm ˈridɪŋ ə nu bʊk, ænd aɪm ɛnˈdʒɔɪɪŋ ɪt/",
-    "portuguesePhonetic": "áim rídin â nú búk, end áim endjóiin it."
+    "id": "lesson_3_grammar_a2_id_w5zqi7e",
+    "word": "I'm working.",
+    "translation": "Eu estou trabalhando.",
+    "syllables": [
+      "I'm",
+      "working."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwɜːrkɪŋ/",
+    "portuguesePhonetic": "[áim uârkin]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_60",
-    "word": "She usually trains twice a week, but she is training every day this month.",
-    "translation": "Ela geralmente treina duas vezes por semana, mas está treinando todos os dias neste mês.",
-    "pronunciation": "/ʃi ˈjuʒuəli treɪnz twaɪs ə wik, bət ʃi ɪz ˈtreɪnɪŋ ˈɛvri deɪ ðɪs mʌnθ/",
-    "portuguesePhonetic": "shi iújuâli trêinz tuáis â uík, bât shi iz trêinin évri dêi dhis mânth."
+    "id": "lesson_3_grammar_a2_id_xjug5kd",
+    "word": "She isn't working.",
+    "translation": "Ela não está trabalhando.",
+    "syllables": [
+      "She",
+      "isn't",
+      "working."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈɪznt ˈwɜːrkɪŋ/",
+    "portuguesePhonetic": "[chí íznt uârkin]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_61",
-    "word": "Why are you wearing a coat?",
-    "translation": "Por que você está usando um casaco?",
-    "pronunciation": "/waɪ ɑr ju ˈwɛrɪŋ ə koʊt/",
-    "portuguesePhonetic": "uái ar iú uérin â côut?"
+    "id": "lesson_3_grammar_a2_id_264q0du",
+    "word": "Are they working?",
+    "translation": "Eles estão trabalhando?",
+    "syllables": [
+      "Are",
+      "they",
+      "working?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr ðeɪ ˈwɜːrkɪŋ/",
+    "portuguesePhonetic": "[ár dhêi uârkin]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_62",
-    "word": "I don’t understand this rule, so I’m asking the teacher for help.",
-    "translation": "Não entendo esta regra, então estou pedindo ajuda ao professor.",
-    "pronunciation": "/aɪ doʊnt ˌʌndərˈstænd ðɪs rul, soʊ aɪm ˈæskɪŋ ðə ˈtitʃər fɔr hɛlp/",
-    "portuguesePhonetic": "ái dôunt andersténd dhis rúl, sôu áim éskin dâ títcher fór rélp."
+    "id": "lesson_3_grammar_a2_id_j37venf",
+    "word": "He's making dinner.",
+    "translation": "Ele está fazendo o jantar.",
+    "syllables": [
+      "He's",
+      "making",
+      "dinner."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiːz ˈmeɪkɪŋ ˈdɪnər/",
+    "portuguesePhonetic": "[rríz mêikin díner]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_63",
-    "word": "Are you working, or are you taking a break?",
-    "translation": "Você está trabalhando ou fazendo uma pausa?",
-    "pronunciation": "/ɑr ju ˈwɝkɪŋ, ɔr ɑr ju ˈteɪkɪŋ ə breɪk/",
-    "portuguesePhonetic": "ar iú uârkin, ór ar iú têikin â brêik?"
+    "id": "lesson_3_grammar_a2_id_rq8f7hd",
+    "word": "They're running in the park.",
+    "translation": "Eles estão correndo no parque.",
+    "syllables": [
+      "They're",
+      "running",
+      "in",
+      "the",
+      "park."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ˈrʌnɪŋ ɪn ðə pɑːrk/",
+    "portuguesePhonetic": "[dhér rânin in dha párk]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_64",
-    "word": "He usually takes the train, but today he is driving because the trains aren’t running.",
-    "translation": "Ele geralmente vai de trem, mas hoje está dirigindo porque os trens não estão circulando.",
-    "pronunciation": "/hi ˈjuʒuəli teɪks ðə treɪn, bət təˈdeɪ hi ɪz ˈdraɪvɪŋ bɪˈkʌz ðə treɪnz ɑrnt ˈrʌnɪŋ/",
-    "portuguesePhonetic": "rí iújuâli têiks dâ trêin, bât tudêi rí iz dráivin bicâz dâ trêinz arnt rânin."
+    "id": "lesson_3_grammar_a2_id_lskb6sp",
+    "word": "Simple = habits and facts. Continuous = actions happening now.",
+    "translation": "Simples = hábitos e fatos. Contínuo = ações acontecendo agora.",
+    "syllables": [
+      "Simple",
+      "=",
+      "habits",
+      "and",
+      "facts.",
+      "Continuous",
+      "=",
+      "actions",
+      "happening",
+      "now."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsɪmpl̩ ˈhæbɪts ænd fækts kənˈtɪnjuəs ˈækʃn̩z ˈhæpənɪŋ naʊ/",
+    "portuguesePhonetic": "[símpou rébits énd fékts kantíniuas ékchanz rrépanin náu]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_65",
-    "word": "The hotel doesn’t have a spa, so we’re using the gym instead.",
-    "translation": "O hotel não tem spa, então estamos usando a academia.",
-    "pronunciation": "/ðə hoʊˈtɛl ˈdʌzənt hæv ə spɑ, soʊ wɪr ˈjuzɪŋ ðə dʒɪm ɪnˈstɛd/",
-    "portuguesePhonetic": "dâ routél dâzant rév â spá, sôu uír iúzin dâ djím instéd."
+    "id": "lesson_3_grammar_a2_id_lczu7vu",
+    "word": "I wash my hair every day.",
+    "translation": "Eu lavo o cabelo todo dia.",
+    "syllables": [
+      "I",
+      "wash",
+      "my",
+      "hair",
+      "every",
+      "day."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ wɑːʃ maɪ hɛr ˈɛvri deɪ/",
+    "portuguesePhonetic": "[ái uách mái rrér évri dêi]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_66",
-    "word": "Does Susan work in your office, or is she only helping this week?",
-    "translation": "A Susan trabalha no seu escritório ou está apenas ajudando esta semana?",
-    "pronunciation": "/dʌz ˈsuzən wɝk ɪn jʊr ˈɔfɪs, ɔr ɪz ʃi ˈoʊnli ˈhɛlpɪŋ ðɪs wik/",
-    "portuguesePhonetic": "dâz súzan uârk in iór ófis, ór iz shi ôunli rélpin dhis uík?"
+    "id": "lesson_3_grammar_a2_id_7t6eg8z",
+    "word": "He usually gets up very early.",
+    "translation": "Ele geralmente acorda bem cedo.",
+    "syllables": [
+      "He",
+      "usually",
+      "gets",
+      "up",
+      "very",
+      "early."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ˈjuːʒuəli ɡɛts ʌp ˈvɛri ˈɜːrli/",
+    "portuguesePhonetic": "[rrí iújuali guéts âp véri ârli]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_67",
-    "word": "I believe your explanation, but I still need more information.",
-    "translation": "Eu acredito na sua explicação, mas ainda preciso de mais informações.",
-    "pronunciation": "/aɪ bɪˈliv jʊr ˌɛkspləˈneɪʃən, bət aɪ stɪl nid mɔr ˌɪnfərˈmeɪʃən/",
-    "portuguesePhonetic": "ái bilív iór eksplanêishan, bât ái stil níd mór informêishan."
+    "id": "lesson_3_grammar_a2_id_g1r9hlc",
+    "word": "She brushes her teeth twice a day.",
+    "translation": "Ela escova os dentes duas vezes por dia.",
+    "syllables": [
+      "She",
+      "brushes",
+      "her",
+      "teeth",
+      "twice",
+      "a",
+      "day."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈbrʌʃɪz hɜːr tiːθ twaɪs ə deɪ/",
+    "portuguesePhonetic": "[chí brâchiz rrâr títh tuáis a dêi]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_68",
-    "word": "This month, the company is changing the way employees access the network.",
-    "translation": "Neste mês, a empresa está mudando a maneira como os funcionários acessam a rede.",
-    "pronunciation": "/ðɪs mʌnθ, ðə ˈkʌmpəni ɪz ˈtʃeɪndʒɪŋ ðə weɪ ɛmˈplɔɪiz ˈæksɛs ðə ˈnɛtˌwɝk/",
-    "portuguesePhonetic": "dhis mânth, dâ câmpani iz tchêindjin dâ uêi emplóiiz éksess dâ nét-uârk."
+    "id": "lesson_3_grammar_a2_id_vxhi607",
+    "word": "I can't talk. I'm brushing my teeth.",
+    "translation": "Não posso falar. Estou escovando os dentes.",
+    "syllables": [
+      "I",
+      "can't",
+      "talk.",
+      "I'm",
+      "brushing",
+      "my",
+      "teeth."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ kænt tɔːk aɪm ˈbrʌʃɪŋ maɪ tiːθ/",
+    "portuguesePhonetic": "[ái kênt tók áim brâchin mái títh]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_69",
-    "word": "We normally hold meetings on Mondays, but this week we’re meeting on Tuesday.",
-    "translation": "Normalmente fazemos reuniões às segundas-feiras, mas nesta semana vamos nos reunir na terça.",
-    "pronunciation": "/wi ˈnɔrməli hoʊld ˈmitɪŋz ɑn ˈmʌndeɪz, bət ðɪs wik wɪr ˈmitɪŋ ɑn ˈtuzdeɪ/",
-    "portuguesePhonetic": "uí nórmali rôuld mírinz ón mândeiz, bât dhis uík uír mírin ón túzdei."
+    "id": "lesson_3_grammar_a2_id_83oeoon",
+    "word": "He can't talk now. He's having a shower.",
+    "translation": "Ele não pode falar agora. Está tomando banho.",
+    "syllables": [
+      "He",
+      "can't",
+      "talk",
+      "now.",
+      "He's",
+      "having",
+      "a",
+      "shower."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː kænt tɔːk naʊ hiːz ˈhævɪŋ ə ˈʃaʊər/",
+    "portuguesePhonetic": "[rrí kênt tók náu rríz rrévin a cháuer]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_70",
-    "word": "What are you doing while the technician checks the server?",
-    "translation": "O que você está fazendo enquanto o técnico verifica o servidor?",
-    "pronunciation": "/wʌt ɑr ju ˈduɪŋ waɪl ðə tɛkˈnɪʃən tʃɛks ðə ˈsɝvər/",
-    "portuguesePhonetic": "uót ar iú dúin uáil dâ tekníshan tchéks dâ sârver?"
+    "id": "lesson_3_grammar_a2_id_0t3cat0",
+    "word": "She works in an office downtown.",
+    "translation": "Ela trabalha num escritório no centro.",
+    "syllables": [
+      "She",
+      "works",
+      "in",
+      "an",
+      "office",
+      "downtown."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː wɜːrks ɪn ən ˈɔːfɪs ˈdaʊntaʊn/",
+    "portuguesePhonetic": "[chí uârks in an ófis dáuntaun]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_71",
-    "word": "She isn’t answering the phone because she is presenting the monthly results.",
-    "translation": "Ela não está atendendo ao telefone porque está apresentando os resultados mensais.",
-    "pronunciation": "/ʃi ˈɪzənt ˈænsərɪŋ ðə foʊn bɪˈkʌz ʃi ɪz prɪˈzɛntɪŋ ðə ˈmʌnθli rɪˈzʌlts/",
-    "portuguesePhonetic": "shi ízant énserin dâ fôun bicâz shi iz prizéntin dâ mânthli rizâlts."
+    "id": "lesson_3_grammar_a2_id_r4pb9ss",
+    "word": "He's studying for a big presentation.",
+    "translation": "Ele está estudando para uma apresentação importante.",
+    "syllables": [
+      "He's",
+      "studying",
+      "for",
+      "a",
+      "big",
+      "presentation."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiːz ˈstʌdiɪŋ fɔːr ə bɪɡ ˌprɛzn̩ˈteɪʃn̩/",
+    "portuguesePhonetic": "[rríz stâdiin fór a bíg prezantêichan]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_72",
-    "word": "Although I usually prefer tea, I’m drinking coffee because I’m feeling tired.",
-    "translation": "Embora eu geralmente prefira chá, estou bebendo café porque estou me sentindo cansado.",
-    "pronunciation": "/ɔlˈðoʊ aɪ ˈjuʒuəli prɪˈfɝ ti, aɪm ˈdrɪŋkɪŋ ˈkɔfi bɪˈkʌz aɪm ˈfilɪŋ taɪərd/",
-    "portuguesePhonetic": "óldhôu ái iújuâli prifâr tí, áim drínkin cófi bicâz áim fílin táierd."
+    "id": "lesson_3_grammar_a2_id_p1qiscf",
+    "word": "Does she finish work at five?",
+    "translation": "Ela termina o trabalho às cinco?",
+    "syllables": [
+      "Does",
+      "she",
+      "finish",
+      "work",
+      "at",
+      "five?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz ʃiː ˈfɪnɪʃ wɜːrk æt faɪv/",
+    "portuguesePhonetic": "[dâz chí fínich uârk ét fáiv]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_73",
-    "word": "Why does the server restart every night, and why is it restarting now?",
-    "translation": "Por que o servidor reinicia todas as noites e por que está reiniciando agora?",
-    "pronunciation": "/waɪ dʌz ðə ˈsɝvər ˌriˈstɑrt ˈɛvri naɪt, ænd waɪ ɪz ɪt ˌriˈstɑrtɪŋ naʊ/",
-    "portuguesePhonetic": "uái dâz dâ sârver ristárt évri náit, end uái iz it ristártin náu?"
+    "id": "lesson_3_grammar_a2_id_ecm9klq",
+    "word": "She cooks dinner every night.",
+    "translation": "Ela cozinha o jantar toda noite.",
+    "syllables": [
+      "She",
+      "cooks",
+      "dinner",
+      "every",
+      "night."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː kʊks ˈdɪnər ˈɛvri naɪt/",
+    "portuguesePhonetic": "[chí kúks díner évri náit]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_74",
-    "word": "The team is testing a new system because the old one often fails when traffic increases.",
-    "translation": "A equipe está testando um sistema novo porque o antigo costuma falhar quando o tráfego aumenta.",
-    "pronunciation": "/ðə tim ɪz ˈtɛstɪŋ ə nu ˈsɪstəm bɪˈkʌz ði oʊld wʌn ˈɔfən feɪlz wɛn ˈtræfɪk ɪnˈkrisɪz/",
-    "portuguesePhonetic": "dâ tím iz téstin â nú sístem bicâz dhi ôuld uân ófan fêilz uén tréfik incríssiz."
+    "id": "lesson_3_grammar_a2_id_dog3ys5",
+    "word": "He's making a cake right now.",
+    "translation": "Ele está fazendo um bolo agora.",
+    "syllables": [
+      "He's",
+      "making",
+      "a",
+      "cake",
+      "right",
+      "now."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiːz ˈmeɪkɪŋ ə keɪk raɪt naʊ/",
+    "portuguesePhonetic": "[rríz mêikin a kêik ráit náu]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_75",
-    "word": "I don’t usually work on weekends, but I’m working this Saturday because we’re completing an important project.",
-    "translation": "Eu geralmente não trabalho nos fins de semana, mas vou trabalhar neste sábado porque estamos concluindo um projeto importante.",
-    "pronunciation": "/aɪ doʊnt ˈjuʒuəli wɝk ɑn ˈwikˌɛndz, bət aɪm ˈwɝkɪŋ ðɪs ˈsætərdeɪ bɪˈkʌz wɪr kəmˈplitɪŋ ən ɪmˈpɔrtənt ˈprɑdʒɛkt/",
-    "portuguesePhonetic": "ái dôunt iújuâli uârk ón uíkends, bât áim uârkin dhis sáterdei bicâz uír complítin an impórtant pródjékt."
+    "id": "lesson_3_grammar_a2_id_r4j5kwk",
+    "word": "They run in the park every morning.",
+    "translation": "Eles correm no parque toda manhã.",
+    "syllables": [
+      "They",
+      "run",
+      "in",
+      "the",
+      "park",
+      "every",
+      "morning."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ rʌn ɪn ðə pɑːrk ˈɛvri ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[dhêi rân in dha párk évri mórnin]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_76",
+    "id": "lesson_3_grammar_a2_id_ks4ela1",
+    "word": "He's training hard these days.",
+    "translation": "Ele está treinando pesado ultimamente.",
+    "syllables": [
+      "He's",
+      "training",
+      "hard",
+      "these",
+      "days."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiːz ˈtreɪnɪŋ hɑːrd ðiːz deɪz/",
+    "portuguesePhonetic": "[rríz trêinin rrárd dhíz dêiz]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_i8gdx92",
+    "word": "Water boils at 100 degrees.",
+    "translation": "A água ferve a 100 graus.",
+    "syllables": [
+      "Water",
+      "boils",
+      "at",
+      "100",
+      "degrees."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈwɔːtər bɔɪlz æt wʌn ˈhʌndrəd dɪˈɡriːz/",
+    "portuguesePhonetic": "[uóter bóilz ét uân rrândred digríz]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_oq1bc8e",
+    "word": "I have one brother.",
+    "translation": "Eu tenho um irmão.",
+    "syllables": [
+      "I",
+      "have",
+      "one",
+      "brother."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv wʌn ˈbrʌðər/",
+    "portuguesePhonetic": "[ái rrév uân brâdher]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_eqawewb",
+    "word": "He lives in Paris.",
+    "translation": "Ele mora em Paris.",
+    "syllables": [
+      "He",
+      "lives",
+      "in",
+      "Paris."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː lɪvz ɪn ˈpɛrɪs/",
+    "portuguesePhonetic": "[rrí lívz in péris]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_7x6e1ut",
+    "word": "I'm reading a new book. I love it!",
+    "translation": "Estou lendo um livro novo. Estou amando!",
+    "syllables": [
+      "I'm",
+      "reading",
+      "a",
+      "new",
+      "book.",
+      "I",
+      "love",
+      "it!"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈriːdɪŋ ə nuː bʊk aɪ lʌv ɪt/",
+    "portuguesePhonetic": "[áim rídin a niú búk ái lâv ít]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_fduyfvq",
+    "word": "This week, I'm staying home.",
+    "translation": "Esta semana, estou ficando em casa.",
+    "syllables": [
+      "This",
+      "week,",
+      "I'm",
+      "staying",
+      "home."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɪs wiːk aɪm ˈsteɪɪŋ hoʊm/",
+    "portuguesePhonetic": "[dhís uík áim stêin rrôum]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_socycqj",
+    "word": "Give me the money. I need it now.",
+    "translation": "Me dá o dinheiro. Preciso agora.",
+    "syllables": [
+      "Give",
+      "me",
+      "the",
+      "money.",
+      "I",
+      "need",
+      "it",
+      "now."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɡɪv miː ðə ˈmʌni aɪ niːd ɪt naʊ/",
+    "portuguesePhonetic": "[guív mí dha mâni ái níd ít náu]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_hc5awnl",
+    "word": "What happened? You look sad.",
+    "translation": "O que aconteceu? Você parece triste.",
+    "syllables": [
+      "What",
+      "happened?",
+      "You",
+      "look",
+      "sad."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt ˈhæpənd juː lʊk sæd/",
+    "portuguesePhonetic": "[uât rrépand iú lúk séd]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_cc0ymkk",
+    "word": "She studies every night after dinner.",
+    "translation": "Ela estuda toda noite depois do jantar.",
+    "syllables": [
+      "She",
+      "studies",
+      "every",
+      "night",
+      "after",
+      "dinner."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈstʌdiz ˈɛvri naɪt ˈæftər ˈdɪnər/",
+    "portuguesePhonetic": "[chí stâdiz évri náit éfter díner]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_cs3p1cg",
+    "word": "I'm studying for my exam right now.",
+    "translation": "Estou estudando para minha prova agora.",
+    "syllables": [
+      "I'm",
+      "studying",
+      "for",
+      "my",
+      "exam",
+      "right",
+      "now."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈstʌdiɪŋ fɔːr maɪ ɪɡˈzæm raɪt naʊ/",
+    "portuguesePhonetic": "[áim stâdiin fór mái igzém ráit náu]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_2nb4xvk",
+    "word": "He goes shopping on Saturdays.",
+    "translation": "Ele vai fazer compras aos sábados.",
+    "syllables": [
+      "He",
+      "goes",
+      "shopping",
+      "on",
+      "Saturdays."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ɡoʊz ˈʃɑːpɪŋ ɑːn ˈsætərdeɪz/",
+    "portuguesePhonetic": "[rrí gôuz chápin ón séterdeiz]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_wossabg",
+    "word": "She's buying groceries at the moment.",
+    "translation": "Ela está comprando mantimentos no momento.",
+    "syllables": [
+      "She's",
+      "buying",
+      "groceries",
+      "at",
+      "the",
+      "moment."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiːz ˈbaɪɪŋ ˈɡroʊsəriz æt ðə ˈmoʊmənt/",
+    "portuguesePhonetic": "[chíz báiin grôuseriz ét dha môument]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_qc9o5uu",
+    "word": "They travel to Spain every summer.",
+    "translation": "Eles viajam para a Espanha todo verão.",
+    "syllables": [
+      "They",
+      "travel",
+      "to",
+      "Spain",
+      "every",
+      "summer."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ ˈtrævl̩ tə speɪn ˈɛvri ˈsʌmər/",
+    "portuguesePhonetic": "[dhêi trévol tu spêin évri sâmer]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_ne01626",
+    "word": "We're traveling to Madrid this month.",
+    "translation": "Nós estamos viajando para Madri este mês.",
+    "syllables": [
+      "We're",
+      "traveling",
+      "to",
+      "Madrid",
+      "this",
+      "month."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪr ˈtrævl̩ɪŋ tə məˈdrɪd ðɪs mʌnθ/",
+    "portuguesePhonetic": "[uír trévolin tu madríd dhís mânth]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_sv2n7ep",
+    "word": "She works hard.",
+    "translation": "Ela trabalha duro.",
+    "syllables": [
+      "She",
+      "works",
+      "hard."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː wɜːrks hɑːrd/",
+    "portuguesePhonetic": "[chí uârks rrárd]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_o54wsie",
+    "word": "He's sleeping.",
+    "translation": "Ele está dormindo.",
+    "syllables": [
+      "He's",
+      "sleeping."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiːz ˈsliːpɪŋ/",
+    "portuguesePhonetic": "[rríz slípin]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_tprsuwm",
+    "word": "They study a lot.",
+    "translation": "Eles estudam muito.",
+    "syllables": [
+      "They",
+      "study",
+      "a",
+      "lot."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ ˈstʌdi ə lɑːt/",
+    "portuguesePhonetic": "[dhêi stâdi a lát]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_2al5ehc",
+    "word": "I'm watching TV.",
+    "translation": "Estou assistindo TV.",
+    "syllables": [
+      "I'm",
+      "watching",
+      "TV."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwɑːtʃɪŋ ˌtiːˈviː/",
+    "portuguesePhonetic": "[áim uátchin ti-ví]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_9lebdso",
+    "word": "Does he have a car?",
+    "translation": "Ele tem um carro?",
+    "syllables": [
+      "Does",
+      "he",
+      "have",
+      "a",
+      "car?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz hiː hæv ə kɑːr/",
+    "portuguesePhonetic": "[dâz rrí rrév a kár]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_zd9rppt",
+    "word": "She doesn't go to the gym often.",
+    "translation": "Ela não vai à academia com frequência.",
+    "syllables": [
+      "She",
+      "doesn't",
+      "go",
+      "to",
+      "the",
+      "gym",
+      "often."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈdʌznt ɡoʊ tə ðə dʒɪm ˈɔːfn̩/",
+    "portuguesePhonetic": "[chí dâznt gôu tu dha djím ófan]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_dbkgz3h",
+    "word": "Are you studying right now?",
+    "translation": "Você está estudando agora?",
+    "syllables": [
+      "Are",
+      "you",
+      "studying",
+      "right",
+      "now?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː ˈstʌdiɪŋ raɪt naʊ/",
+    "portuguesePhonetic": "[ár iú stâdiin ráit náu]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_gdq1s1v",
+    "word": "They're not working today.",
+    "translation": "Eles não estão trabalhando hoje.",
+    "syllables": [
+      "They're",
+      "not",
+      "working",
+      "today."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr nɑːt ˈwɜːrkɪŋ təˈdeɪ/",
+    "portuguesePhonetic": "[dhér nót uârkin tudêi]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_tq5womu",
+    "word": "Doesn't she like coffee?",
+    "translation": "Ela não gosta de café?",
+    "syllables": [
+      "Doesn't",
+      "she",
+      "like",
+      "coffee?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdʌznt ʃiː laɪk ˈkɔːfi/",
+    "portuguesePhonetic": "[dâznt chí láik kófi]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_je4gwkc",
+    "word": "Don't they live here?",
+    "translation": "Eles não moram aqui?",
+    "syllables": [
+      "Don't",
+      "they",
+      "live",
+      "here?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/doʊnt ðeɪ lɪv hɪr/",
+    "portuguesePhonetic": "[dôunt dhêi lív rrír]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_lolwdyq",
+    "word": "What is he doing?",
+    "translation": "O que ele está fazendo?",
+    "syllables": [
+      "What",
+      "is",
+      "he",
+      "doing?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt ɪz hiː ˈduːɪŋ/",
+    "portuguesePhonetic": "[uât iz rrí dúin]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_sph5mxk",
+    "word": "Why doesn't she answer?",
+    "translation": "Por que ela não atende?",
+    "syllables": [
+      "Why",
+      "doesn't",
+      "she",
+      "answer?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ˈdʌznt ʃiː ˈænsər/",
+    "portuguesePhonetic": "[uái dâznt chí énser]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_m22lvk6",
+    "word": "She usually walks to work, but today she's taking the bus.",
+    "translation": "Ela geralmente vai a pé ao trabalho, mas hoje está pegando o ônibus.",
+    "syllables": [
+      "She",
+      "usually",
+      "walks",
+      "to",
+      "work,",
+      "but",
+      "today",
+      "she's",
+      "taking",
+      "the",
+      "bus."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈjuːʒuəli wɔːks tə wɜːrk bʌt təˈdeɪ ʃiːz ˈteɪkɪŋ ðə bʌs/",
+    "portuguesePhonetic": "[chí iújuali uóks tu uârk bât tudêi chíz têikin dha bâs]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_j0xwyub",
+    "word": "He doesn't cook often, but he's cooking a big dinner tonight.",
+    "translation": "Ele não cozinha com frequência, mas está cozinhando um jantarzão hoje.",
+    "syllables": [
+      "He",
+      "doesn't",
+      "cook",
+      "often,",
+      "but",
+      "he's",
+      "cooking",
+      "a",
+      "big",
+      "dinner",
+      "tonight."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ˈdʌznt kʊk ˈɔːfn̩ bʌt hiːz ˈkʊkɪŋ ə bɪɡ ˈdɪnər təˈnaɪt/",
+    "portuguesePhonetic": "[rrí dâznt kúk ófan bât rríz kúkin a bíg díner tunáit]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_y4kcoob",
+    "word": "I need help because I don't understand this.",
+    "translation": "Eu preciso de ajuda porque não entendo isso.",
+    "syllables": [
+      "I",
+      "need",
+      "help",
+      "because",
+      "I",
+      "don't",
+      "understand",
+      "this."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ niːd hɛlp bɪˈkɔːz aɪ doʊnt ˌʌndərˈstænd ðɪs/",
+    "portuguesePhonetic": "[ái níd rrélp bikóz ái dôunt andersténd dhís]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_zfkq6ev",
+    "word": "When she's studying, she doesn't answer the phone.",
+    "translation": "Quando ela está estudando, ela não atende o telefone.",
+    "syllables": [
+      "When",
+      "she's",
+      "studying,",
+      "she",
+      "doesn't",
+      "answer",
+      "the",
+      "phone."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛn ʃiːz ˈstʌdiɪŋ ʃiː ˈdʌznt ˈænsər ðə foʊn/",
+    "portuguesePhonetic": "[uén chíz stâdiin chí dâznt énser dha fôun]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_purjh2y",
+    "word": "He works in London, but he's staying in Paris this week.",
+    "translation": "Ele trabalha em Londres, mas está ficando em Paris esta semana.",
+    "syllables": [
+      "He",
+      "works",
+      "in",
+      "London,",
+      "but",
+      "he's",
+      "staying",
+      "in",
+      "Paris",
+      "this",
+      "week."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː wɜːrks ɪn ˈlʌndən bʌt hiːz ˈsteɪɪŋ ɪn ˈpɛrɪs ðɪs wiːk/",
+    "portuguesePhonetic": "[rrí uârks in lândan bât rríz stêin in péris dhís uík]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_n44uqir",
+    "word": "She doesn't usually exercise, but she's trying a new routine this month.",
+    "translation": "Ela geralmente não se exercita, mas está tentando uma nova rotina este mês.",
+    "syllables": [
+      "She",
+      "doesn't",
+      "usually",
+      "exercise,",
+      "but",
+      "she's",
+      "trying",
+      "a",
+      "new",
+      "routine",
+      "this",
+      "month."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈdʌznt ˈjuːʒuəli ˈɛksərsaɪz bʌt ʃiːz ˈtraɪɪŋ ə nuː ruːˈtiːn ðɪs mʌnθ/",
+    "portuguesePhonetic": "[chí dâznt iújuali éksersaiz bât chíz tráiin a niú rutín dhís mânth]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_ht306b1",
+    "word": "Does he always study this late, or is he just preparing for the exam?",
+    "translation": "Ele sempre estuda até tão tarde, ou está só se preparando para a prova?",
+    "syllables": [
+      "Does",
+      "he",
+      "always",
+      "study",
+      "this",
+      "late,",
+      "or",
+      "is",
+      "he",
+      "just",
+      "preparing",
+      "for",
+      "the",
+      "exam?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz hiː ˈɔːlweɪz ˈstʌdi ðɪs leɪt ɔːr ɪz hiː dʒʌst prɪˈpɛrɪŋ fɔːr ðə ɪɡˈzæm/",
+    "portuguesePhonetic": "[dâz rrí ólueiz stâdi dhís lêit ór iz rrí djâst pripérin fór dhi igzém]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_uz84k8u",
+    "word": "They don't usually travel in winter, but they're visiting family this December.",
+    "translation": "Eles geralmente não travel no inverno, mas estão visitando a família neste dezembro.",
+    "syllables": [
+      "They",
+      "don't",
+      "usually",
+      "travel",
+      "in",
+      "winter,",
+      "but",
+      "they're",
+      "visiting",
+      "family",
+      "this",
+      "December."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ doʊnt ˈjuːʒuəli ˈtrævl̩ ɪn ˈwɪntər bʌt ðɛr ˈvɪzɪtɪŋ ˈfæməli ðɪs dɪˈsɛmbər/",
+    "portuguesePhonetic": "[dhêi dôunt iújuali trévol in uínter bât dhér vízitin fémili dhís disémber]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_4htwi08",
+    "word": "The hotel doesn't have a pool, but it's building one right now.",
+    "translation": "O hotel não tem piscina, mas está construindo uma agora.",
+    "syllables": [
+      "The",
+      "hotel",
+      "doesn't",
+      "have",
+      "a",
+      "pool,",
+      "but",
+      "it's",
+      "building",
+      "one",
+      "right",
+      "now."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə hoʊˈtɛl ˈdʌznt hæv ə puːl bʌt ɪts ˈbɪldɪŋ wʌn raɪt naʊ/",
+    "portuguesePhonetic": "[dha routél dâznt réf a púl bât íts bíldin uân ráit náu]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_wnh7gos",
+    "word": "She's not answering because she's driving right now.",
+    "translation": "Ela não está atendendo porque está dirigindo agora.",
+    "syllables": [
+      "She's",
+      "not",
+      "answering",
+      "because",
+      "she's",
+      "driving",
+      "right",
+      "now."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiːz nɑːt ˈænsərɪŋ bɪˈkɔːz ʃiːz ˈdraɪvɪŋ raɪt naʊ/",
+    "portuguesePhonetic": "[chíz nót énserin bikóz chíz dráivin ráit náu]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_91ze8q4",
+    "word": "He goes to the gym three times a week, but he's not going today because he's sick.",
+    "translation": "Ele vai à academia três vezes por semana, mas não vai hoje porque está doente.",
+    "syllables": [
+      "He",
+      "goes",
+      "to",
+      "the",
+      "gym",
+      "three",
+      "times",
+      "a",
+      "week,",
+      "but",
+      "he's",
+      "not",
+      "going",
+      "today",
+      "because",
+      "he's",
+      "sick."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ɡoʊz tə ðə dʒɪm θriː taɪmz ə wiːk bʌt hiːz nɑːt ˈɡoʊɪŋ təˈdeɪ bɪˈkɔːz hiːz sɪk/",
+    "portuguesePhonetic": "[rrí gôuz tu dha djím thrí táimz a uík bât rríz nót gôuin tudêi bikóz rríz sík]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_bczbtar",
+    "word": "Why isn't she studying, when the exam is tomorrow?",
+    "translation": "Por que ela não está estudando, sendo que a prova é amanhã?",
+    "syllables": [
+      "Why",
+      "isn't",
+      "she",
+      "studying,",
+      "when",
+      "the",
+      "exam",
+      "is",
+      "tomorrow?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ˈɪznt ʃiː ˈstʌdiɪŋ wɛn ðə ɪɡˈzæm ɪz təˈmɑːroʊ/",
+    "portuguesePhonetic": "[uái íznt chí stâdiin uén dhi igzém iz tumárou]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_fe55pe2",
+    "word": "We usually stay home on weekends, but we're going out tonight because it's her birthday.",
+    "translation": "Nós geralmente ficamos em casa nos fins de semana, mas vamos sair hoje à noite porque é aniversário dela.",
+    "syllables": [
+      "We",
+      "usually",
+      "stay",
+      "home",
+      "on",
+      "weekends,",
+      "but",
+      "we're",
+      "going",
+      "out",
+      "tonight",
+      "because",
+      "it's",
+      "her",
+      "birthday."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ˈjuːʒuəli steɪ hoʊm ɑːn ˈwiːkɛndz bʌt wɪr ˈɡoʊɪŋ aʊt təˈnaɪt bɪˈkɔːz ɪts hɜːr ˈbɜːrθdeɪ/",
+    "portuguesePhonetic": "[uí iújuali stêi rrôum ón uíkendz bât uír gôuin áut tunáit bikóz íts rrâr bârthdei]"
+  },
+  {
+    "id": "lesson_3_grammar_a2_id_jp9ghkr",
     "word": "Do you work here? / Yes, I do.",
     "translation": "Você trabalha aqui? / Sim, trabalho.",
-    "pronunciation": "/du ju wɝk hɪr",
-    "portuguesePhonetic": "jɛs, aɪ du/"
+    "syllables": [
+      "Do",
+      "you",
+      "work",
+      "here?",
+      "/",
+      "Yes,",
+      "I",
+      "do."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː wɜːrk hɪr · jɛs aɪ duː/",
+    "portuguesePhonetic": "[dú iú uârk rrír · iés ái dú]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_77",
-    "word": "Does she drive to work? / No, she takes the bus.",
-    "translation": "Ela vai de carro ao trabalho? / Não, ela pega o ônibus.",
-    "pronunciation": "/dʌz ʃi draɪv tə wɝk",
-    "portuguesePhonetic": "noʊ, ʃi teɪks ðə bʌs/"
+    "id": "lesson_3_grammar_a2_id_b85famd",
+    "word": "Does she work here? / No, she doesn't.",
+    "translation": "Ela trabalha aqui? / Não, não trabalha.",
+    "syllables": [
+      "Does",
+      "she",
+      "work",
+      "here?",
+      "/",
+      "No,",
+      "she",
+      "doesn't."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz ʃiː wɜːrk hɪr · noʊ ʃiː ˈdʌznt/",
+    "portuguesePhonetic": "[dâz chí uârk rrír · nôu chí dâznt]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_78",
-    "word": "Are they waiting outside? / Yes, they are.",
-    "translation": "Eles estão esperando lá fora? / Sim, estão.",
-    "pronunciation": "/ɑr ðeɪ ˈweɪtɪŋ ˌaʊtˈsaɪd",
-    "portuguesePhonetic": "jɛs, ðeɪ ɑr/"
+    "id": "lesson_3_grammar_a2_id_zhimu05",
+    "word": "What are you doing? / I'm cooking.",
+    "translation": "O que você está fazendo? / Estou cozinhando.",
+    "syllables": [
+      "What",
+      "are",
+      "you",
+      "doing?",
+      "/",
+      "I'm",
+      "cooking."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt ɑːr juː ˈduːɪŋ · aɪm ˈkʊkɪŋ/",
+    "portuguesePhonetic": "[uât ár iú dúin · áim kúkin]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_79",
-    "word": "Is he sleeping? / No, he’s studying.",
-    "translation": "Ele está dormindo? / Não, está estudando.",
-    "pronunciation": "/ɪz hi ˈslipɪŋ",
-    "portuguesePhonetic": "noʊ, hiz ˈstʌdiɪŋ/"
+    "id": "lesson_3_grammar_a2_id_down9dr",
+    "word": "Does he have a car? / Yes, he does.",
+    "translation": "Ele tem um carro? / Sim, tem.",
+    "syllables": [
+      "Does",
+      "he",
+      "have",
+      "a",
+      "car?",
+      "/",
+      "Yes,",
+      "he",
+      "does."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz hiː hæv ə kɑːr · jɛs hiː dʌz/",
+    "portuguesePhonetic": "[dâz rrí rrév a kár · iés rrí dâz]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_80",
-    "word": "What do you usually eat for breakfast? / I eat toast and fruit.",
-    "translation": "O que você geralmente come no café da manhã? / Como torradas e frutas.",
-    "pronunciation": "/wʌt du ju ˈjuʒuəli it fɔr ˈbrɛkfəst",
-    "portuguesePhonetic": "aɪ it toʊst ænd frut/"
+    "id": "lesson_3_grammar_a2_id_hw2ifjn",
+    "word": "Is she working today? / No, she isn't.",
+    "translation": "Ela está trabalhando hoje? / Não, não está.",
+    "syllables": [
+      "Is",
+      "she",
+      "working",
+      "today?",
+      "/",
+      "No,",
+      "she",
+      "isn't."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ʃiː ˈwɜːrkɪŋ təˈdeɪ · noʊ ʃiː ˈɪznt/",
+    "portuguesePhonetic": "[iz chí uârkin tudêi · nôu chí íznt]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_81",
-    "word": "What are you eating now? / I’m eating eggs.",
-    "translation": "O que você está comendo agora? / Estou comendo ovos.",
-    "pronunciation": "/wʌt ɑr ju ˈitɪŋ naʊ",
-    "portuguesePhonetic": "aɪm ˈitɪŋ ɛɡz/"
+    "id": "lesson_3_grammar_a2_id_ut0z911",
+    "word": "How often do you exercise? / Three times a week.",
+    "translation": "Com que frequência você se exercita? / Três vezes por semana.",
+    "syllables": [
+      "How",
+      "often",
+      "do",
+      "you",
+      "exercise?",
+      "/",
+      "Three",
+      "times",
+      "a",
+      "week."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ ˈɔːfn̩ duː juː ˈɛksərsaɪz · θriː taɪmz ə wiːk/",
+    "portuguesePhonetic": "[rráu ófan dú iú éksersaiz · thrí táimz a uík]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_82",
-    "word": "Does the store open on Sundays? / No, it doesn’t.",
-    "translation": "A loja abre aos domingos? / Não, não abre.",
-    "pronunciation": "/dʌz ðə stɔr ˈoʊpən ɑn ˈsʌndeɪz",
-    "portuguesePhonetic": "noʊ, ɪt ˈdʌzənt/"
+    "id": "lesson_3_grammar_a2_id_vx3rj88",
+    "word": "Are you studying now? / Yes, I am.",
+    "translation": "Você está estudando agora? / Sim, estou.",
+    "syllables": [
+      "Are",
+      "you",
+      "studying",
+      "now?",
+      "/",
+      "Yes,",
+      "I",
+      "am."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr juː ˈstʌdiɪŋ naʊ · jɛs aɪ æm/",
+    "portuguesePhonetic": "[ár iú stâdiin náu · iés ái ém]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_83",
-    "word": "Why are you running? / I’m late for the train.",
-    "translation": "Por que você está correndo? / Estou atrasado para o trem.",
-    "pronunciation": "/waɪ ɑr ju ˈrʌnɪŋ",
-    "portuguesePhonetic": "aɪm leɪt fɔr ðə treɪn/"
+    "id": "lesson_3_grammar_a2_id_gnhyd6w",
+    "word": "Does the hotel have a spa? / No, it doesn't.",
+    "translation": "O hotel tem spa? / Não, não tem.",
+    "syllables": [
+      "Does",
+      "the",
+      "hotel",
+      "have",
+      "a",
+      "spa?",
+      "/",
+      "No,",
+      "it",
+      "doesn't."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz ðə hoʊˈtɛl hæv ə spɑː · noʊ ɪt ˈdʌznt/",
+    "portuguesePhonetic": "[dâz dha routél rrév a spá · nôu ít dâznt]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_84",
-    "word": "Do your parents live nearby? / Yes, they live two blocks away.",
-    "translation": "Seus pais moram perto? / Sim, moram a dois quarteirões.",
-    "pronunciation": "/du jʊr ˈpɛrənts lɪv ˌnɪrˈbaɪ",
-    "portuguesePhonetic": "jɛs, ðeɪ lɪv tu blɑks əˈweɪ/"
+    "id": "lesson_3_grammar_a2_id_suu8rsn",
+    "word": "What does she do? / She's a teacher.",
+    "translation": "O que ela faz? / Ela é professora.",
+    "syllables": [
+      "What",
+      "does",
+      "she",
+      "do?",
+      "/",
+      "She's",
+      "a",
+      "teacher."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt dʌz ʃiː duː · ʃiːz ə ˈtiːtʃər/",
+    "portuguesePhonetic": "[uât dâz chí dú · chíz a títcher]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_85",
-    "word": "Is your sister living with them now? / Yes, she is.",
-    "translation": "Sua irmã está morando com eles agora? / Sim, está.",
-    "pronunciation": "/ɪz jʊr ˈsɪstər ˈlɪvɪŋ wɪð ðɛm naʊ",
-    "portuguesePhonetic": "jɛs, ʃi ɪz/"
+    "id": "lesson_3_grammar_a2_id_pfo5oa5",
+    "word": "Is he sleeping? / Yes, he is.",
+    "translation": "Ele está dormindo? / Sim, está.",
+    "syllables": [
+      "Is",
+      "he",
+      "sleeping?",
+      "/",
+      "Yes,",
+      "he",
+      "is."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz hiː ˈsliːpɪŋ · jɛs hiː ɪz/",
+    "portuguesePhonetic": "[iz rrí slípin · iés rrí iz]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_86",
-    "word": "Does this computer work? / Yes, but it runs slowly.",
-    "translation": "Este computador funciona? / Sim, mas funciona lentamente.",
-    "pronunciation": "/dʌz ðɪs kəmˈpjutər wɝk",
-    "portuguesePhonetic": "jɛs, bət ɪt rʌnz ˈsloʊli/"
+    "id": "lesson_3_grammar_a2_id_0t9zaiv",
+    "word": "Do they live near here? / Yes, they do.",
+    "translation": "Eles moram perto daqui? / Sim, moram.",
+    "syllables": [
+      "Do",
+      "they",
+      "live",
+      "near",
+      "here?",
+      "/",
+      "Yes,",
+      "they",
+      "do."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː ðeɪ lɪv nɪr hɪr · jɛs ðeɪ duː/",
+    "portuguesePhonetic": "[dú dhêi lív nír rrír · iés dhêi dú]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_87",
-    "word": "Why is the computer running slowly? / It’s installing an update.",
-    "translation": "Por que o computador está lento? / Ele está instalando uma atualização.",
-    "pronunciation": "/waɪ ɪz ðə kəmˈpjutər ˈrʌnɪŋ ˈsloʊli",
-    "portuguesePhonetic": "ɪts ɪnˈstɔlɪŋ ən ˈʌpˌdeɪt/"
+    "id": "lesson_3_grammar_a2_id_e2ao8fs",
+    "word": "Why is she smiling? / She's happy today.",
+    "translation": "Por que ela está sorrindo? / Ela está feliz hoje.",
+    "syllables": [
+      "Why",
+      "is",
+      "she",
+      "smiling?",
+      "/",
+      "She's",
+      "happy",
+      "today."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ɪz ʃiː ˈsmaɪlɪŋ · ʃiːz ˈhæpi təˈdeɪ/",
+    "portuguesePhonetic": "[uái iz chí smáilin · chíz rrépi tudêi]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_88",
-    "word": "Do you go to the gym every day? / No, I go three times a week.",
-    "translation": "Você vai à academia todos os dias? / Não, vou três vezes por semana.",
-    "pronunciation": "/du ju ɡoʊ tə ðə dʒɪm ˈɛvri deɪ",
-    "portuguesePhonetic": "noʊ, aɪ ɡoʊ θri taɪmz ə wik/"
+    "id": "lesson_3_grammar_a2_id_9phtw93",
+    "word": "Does he speak Spanish? / A little.",
+    "translation": "Ele fala espanhol? / Um pouco.",
+    "syllables": [
+      "Does",
+      "he",
+      "speak",
+      "Spanish?",
+      "/",
+      "A",
+      "little."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz hiː spiːk ˈspænɪʃ · ə ˈlɪtl̩/",
+    "portuguesePhonetic": "[dâz rrí spík spénich · a lítou]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_89",
-    "word": "Are you training today? / Yes, I’m training after work.",
-    "translation": "Você vai treinar hoje? / Sim, vou treinar depois do trabalho.",
-    "pronunciation": "/ɑr ju ˈtreɪnɪŋ təˈdeɪ",
-    "portuguesePhonetic": "jɛs, aɪm ˈtreɪnɪŋ ˈæftər wɝk/"
+    "id": "lesson_3_grammar_a2_id_inh91sc",
+    "word": "Are they watching a movie? / Yes, they are.",
+    "translation": "Eles estão assistindo a um filme? / Sim, estão.",
+    "syllables": [
+      "Are",
+      "they",
+      "watching",
+      "a",
+      "movie?",
+      "/",
+      "Yes,",
+      "they",
+      "are."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr ðeɪ ˈwɑːtʃɪŋ ə ˈmuːvi · jɛs ðeɪ ɑːr/",
+    "portuguesePhonetic": "[ár dhêi uátchin a múvi · iés dhêi ár]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_90",
-    "word": "Does Anna speak Spanish? / Yes, she speaks it fluently.",
-    "translation": "A Anna fala espanhol? / Sim, ela fala fluentemente.",
-    "pronunciation": "/dʌz ˈænə spik ˈspænɪʃ",
-    "portuguesePhonetic": "jɛs, ʃi spiks ɪt ˈfluəntli/"
+    "id": "lesson_3_grammar_a2_id_ql4pd1u",
+    "word": "How many brothers does she have? / Two.",
+    "translation": "Quantos irmãos ela tem? / Dois.",
+    "syllables": [
+      "How",
+      "many",
+      "brothers",
+      "does",
+      "she",
+      "have?",
+      "/",
+      "Two."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ ˈmɛni ˈbrʌðərz dʌz ʃiː hæv · tuː/",
+    "portuguesePhonetic": "[rráu méni brâdherz dâz chí rrév · tú]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_91",
-    "word": "Why is she speaking English now? / She’s talking to an American client.",
-    "translation": "Por que ela está falando inglês agora? / Ela está falando com um cliente americano.",
-    "pronunciation": "/waɪ ɪz ʃi ˈspikɪŋ ˈɪŋɡlɪʃ naʊ",
-    "portuguesePhonetic": "ʃiz ˈtɔkɪŋ tə ən əˈmɛrɪkən ˈklaɪənt/"
+    "id": "lesson_3_grammar_a2_id_yjfbpkd",
+    "word": "Is it raining now? / Yes, a little.",
+    "translation": "Está chovendo agora? / Sim, um pouco.",
+    "syllables": [
+      "Is",
+      "it",
+      "raining",
+      "now?",
+      "/",
+      "Yes,",
+      "a",
+      "little."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ɪt ˈreɪnɪŋ naʊ · jɛs ə ˈlɪtl̩/",
+    "portuguesePhonetic": "[iz ít rêinin náu · iés a lítou]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_92",
-    "word": "What does this word mean? / It means “temporary.”",
-    "translation": "O que esta palavra significa? / Significa “temporário”.",
-    "pronunciation": "/wʌt dʌz ðɪs wɝd min",
-    "portuguesePhonetic": "ɪt minz ˈtɛmpəˌrɛri/"
+    "id": "lesson_3_grammar_a2_id_nw54vcv",
+    "word": "Does she like her job? / Yes, she loves it.",
+    "translation": "Ela gosta do trabalho dela? / Sim, ela ama.",
+    "syllables": [
+      "Does",
+      "she",
+      "like",
+      "her",
+      "job?",
+      "/",
+      "Yes,",
+      "she",
+      "loves",
+      "it."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz ʃiː laɪk hɜːr dʒɑːb · jɛs ʃiː lʌvz ɪt/",
+    "portuguesePhonetic": "[dâz chí láik rrâr djób · iés chí lâvz ít]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_93",
-    "word": "Why are you looking at me? / You have something on your shirt.",
-    "translation": "Por que você está olhando para mim? / Há alguma coisa na sua camisa.",
-    "pronunciation": "/waɪ ɑr ju ˈlʊkɪŋ æt mi",
-    "portuguesePhonetic": "ju hæv ˈsʌmθɪŋ ɑn jʊr ʃɝt/"
+    "id": "lesson_3_grammar_a2_id_gs07q5f",
+    "word": "What is he studying? / Medicine.",
+    "translation": "O que ele está estudando? / Medicina.",
+    "syllables": [
+      "What",
+      "is",
+      "he",
+      "studying?",
+      "/",
+      "Medicine."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt ɪz hiː ˈstʌdiɪŋ · ˈmɛdɪsɪn/",
+    "portuguesePhonetic": "[uât iz rrí stâdiin · médisin]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_94",
-    "word": "Do you remember his name? / No, I don’t.",
-    "translation": "Você se lembra do nome dele? / Não, não me lembro.",
-    "pronunciation": "/du ju rɪˈmɛmbər hɪz neɪm",
-    "portuguesePhonetic": "noʊ, aɪ doʊnt/"
+    "id": "lesson_3_grammar_a2_id_g7v8e3p",
+    "word": "Do you have any pets? / Yes, a cat.",
+    "translation": "Você tem algum animal de estimação? / Sim, um gato.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "pets?",
+      "/",
+      "Yes,",
+      "a",
+      "cat."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni pɛts · jɛs ə kæt/",
+    "portuguesePhonetic": "[dú iú rrév éni péts · iés a két]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_95",
-    "word": "Are you thinking about the proposal? / Yes, I’m considering it carefully.",
-    "translation": "Você está pensando na proposta? / Sim, estou analisando-a com cuidado.",
-    "pronunciation": "/ɑr ju ˈθɪŋkɪŋ əˈbaʊt ðə prəˈpoʊzəl",
-    "portuguesePhonetic": "jɛs, aɪm kənˈsɪdərɪŋ ɪt ˈkɛrfəli/"
+    "id": "lesson_3_grammar_a2_id_ijfqpuo",
+    "word": "Is she coming to the party? / I think so.",
+    "translation": "Ela vai vir à festa? / Eu acho que sim.",
+    "syllables": [
+      "Is",
+      "she",
+      "coming",
+      "to",
+      "the",
+      "party?",
+      "/",
+      "I",
+      "think",
+      "so."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ʃiː ˈkʌmɪŋ tə ðə ˈpɑːrti · aɪ θɪŋk soʊ/",
+    "portuguesePhonetic": "[iz chí kâmin tu dha párti · ái thínk sôu]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_96",
-    "word": "Why doesn’t the printer work? / It doesn’t have any paper.",
-    "translation": "Por que a impressora não funciona? / Ela está sem papel.",
-    "pronunciation": "/waɪ ˈdʌzənt ðə ˈprɪntər wɝk",
-    "portuguesePhonetic": "ɪt ˈdʌzənt hæv ˈɛni ˈpeɪpər/"
+    "id": "lesson_3_grammar_a2_id_w2utwhn",
+    "word": "Does the store close early? / Yes, at six.",
+    "translation": "A loja fecha cedo? / Sim, às seis.",
+    "syllables": [
+      "Does",
+      "the",
+      "store",
+      "close",
+      "early?",
+      "/",
+      "Yes,",
+      "at",
+      "six."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz ðə stɔːr kloʊz ˈɜːrli · jɛs æt sɪks/",
+    "portuguesePhonetic": "[dâz dha stór klôuz ârli · iés ét síks]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_97",
-    "word": "Why is the printer making that noise? / It’s printing a large report.",
-    "translation": "Por que a impressora está fazendo esse barulho? / Ela está imprimindo um relatório grande.",
-    "pronunciation": "/waɪ ɪz ðə ˈprɪntər ˈmeɪkɪŋ ðæt nɔɪz",
-    "portuguesePhonetic": "ɪts ˈprɪntɪŋ ə lɑrdʒ rɪˈpɔrt/"
+    "id": "lesson_3_grammar_a2_id_spigul4",
+    "word": "What are they doing this weekend? / Traveling.",
+    "translation": "O que eles vão fazer neste fim de semana? / Viajar.",
+    "syllables": [
+      "What",
+      "are",
+      "they",
+      "doing",
+      "this",
+      "weekend?",
+      "/",
+      "Traveling."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt ɑːr ðeɪ ˈduːɪŋ ðɪs ˈwiːkɛnd · ˈtrævl̩ɪŋ/",
+    "portuguesePhonetic": "[uât ár dhêi dúin dhís uíkend · trévolin]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_98",
-    "word": "Do you normally work this late? / No, but we have an urgent problem.",
-    "translation": "Você normalmente trabalha até tão tarde? / Não, mas temos um problema urgente.",
-    "pronunciation": "/du ju ˈnɔrməli wɝk ðɪs leɪt",
-    "portuguesePhonetic": "noʊ, bət wi hæv ən ˈɝdʒənt ˈprɑbləm/"
+    "id": "lesson_3_grammar_a2_id_75h4zbh",
+    "word": "Do you usually cook at home? / Yes, every day.",
+    "translation": "Você geralmente cozinha em casa? / Sim, todo dia.",
+    "syllables": [
+      "Do",
+      "you",
+      "usually",
+      "cook",
+      "at",
+      "home?",
+      "/",
+      "Yes,",
+      "every",
+      "day."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː ˈjuːʒuəli kʊk æt hoʊm · jɛs ˈɛvri deɪ/",
+    "portuguesePhonetic": "[dú iú iújuali kúk ét rrôum · iés évri dêi]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_99",
-    "word": "What are you doing to solve it? / We’re checking the network connections.",
-    "translation": "O que vocês estão fazendo para resolvê-lo? / Estamos verificando as conexões de rede.",
-    "pronunciation": "/wʌt ɑr ju ˈduɪŋ tə sɑlv ɪt",
-    "portuguesePhonetic": "wɪr ˈtʃɛkɪŋ ðə ˈnɛtˌwɝk kəˈnɛkʃənz/"
+    "id": "lesson_3_grammar_a2_id_jj7fscz",
+    "word": "Is he working from home today? / Yes, he is.",
+    "translation": "Ele está trabalhando de casa hoje? / Sim, está.",
+    "syllables": [
+      "Is",
+      "he",
+      "working",
+      "from",
+      "home",
+      "today?",
+      "/",
+      "Yes,",
+      "he",
+      "is."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz hiː ˈwɜːrkɪŋ frəm hoʊm təˈdeɪ · jɛs hiː ɪz/",
+    "portuguesePhonetic": "[iz rrí uârkin from rrôum tudêi · iés rrí iz]"
   },
   {
-    "id": "lesson_3_grammar_a2_en_card_100",
-    "word": "Does the system usually fail during peak hours? / No, but it’s having problems today.",
-    "translation": "O sistema costuma falhar nos horários de pico? / Não, mas está apresentando problemas hoje.",
-    "pronunciation": "/dʌz ðə ˈsɪstəm ˈjuʒuəli feɪl ˈdʊrɪŋ pik ˈaʊərz",
-    "portuguesePhonetic": "noʊ, bət ɪts ˈhævɪŋ ˈprɑbləmz təˈdeɪ/"
+    "id": "lesson_3_grammar_a2_id_qqni53t",
+    "word": "Does it usually snow here? / Not often.",
+    "translation": "Costuma nevar aqui? / Não com frequência.",
+    "syllables": [
+      "Does",
+      "it",
+      "usually",
+      "snow",
+      "here?",
+      "/",
+      "Not",
+      "often."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz ɪt ˈjuːʒuəli snoʊ hɪr · nɑːt ˈɔːfn̩/",
+    "portuguesePhonetic": "[dâz ít iújuali snôu rrír · nót ófan]"
   }
 ]

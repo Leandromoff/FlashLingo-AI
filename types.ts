@@ -37,90 +37,6 @@ export const PREDEFINED_TOPICS = [
     description: 'Presente Simple vs Continuo'
   },
   {
-    id: 'leccion_1_gramatica_a2_s',
-    label: 'Lección 1',
-    isStatic: true,
-    group: 'Gramática A2',
-    description: 'Preguntas (Wh- words, auxiliares)'
-  },
-  {
-    id: 'leccion_2_gramatica_a2_s',
-    label: 'Lección 2',
-    isStatic: true,
-    group: 'Gramática A2',
-    description: 'Preguntas con Sujeto y Objeto'
-  },
-  {
-    id: 'leccion_3_gramatica_a2_s',
-    label: 'Lección 3',
-    isStatic: true,
-    group: 'Gramática A2',
-    description: 'Presente Simple y Presente Continuo'
-  },
-  {
-    id: 'lesson_1_grammar_a2',
-    label: 'Lesson 1',
-    isStatic: true,
-    group: 'Grammar A2',
-    description: 'Questions (Wh- words, auxiliaries)'
-  },
-  {
-    id: 'lesson_2_grammar_a2',
-    label: 'Lesson 2',
-    isStatic: true,
-    group: 'Grammar A2',
-    description: 'Subject and Object Questions'
-  },
-  {
-    id: 'lesson_3_grammar_a2',
-    label: 'Lesson 3',
-    isStatic: true,
-    group: 'Grammar A2',
-    description: 'Present Simple vs Present Continuous'
-  },
-  {
-    id: 'lesson_1_vocabulary_a2',
-    label: 'Lesson 1',
-    isStatic: true,
-    group: 'Vocabulary A2',
-    description: 'Prepositions with Adjectives and Verbs'
-  },
-  {
-    id: 'lesson_2_vocabulary_a2',
-    label: 'Lesson 2',
-    isStatic: true,
-    group: 'Vocabulary A2',
-    description: 'Physical Appearance'
-  },
-  {
-    id: 'lesson_3_vocabulary_a2',
-    label: 'Lesson 3',
-    isStatic: true,
-    group: 'Vocabulary A2',
-    description: 'Personality'
-  },
-  {
-    id: 'leccion_1_vocabulario_a2_s',
-    label: 'Lección 1',
-    isStatic: true,
-    group: 'Vocabulario A2',
-    description: 'Preposiciones con Adjetivos y Verbos'
-  },
-  {
-    id: 'leccion_2_vocabulario_a2_s',
-    label: 'Lección 2',
-    isStatic: true,
-    group: 'Vocabulario A2',
-    description: 'Apariencia Física'
-  },
-  {
-    id: 'leccion_3_vocabulario_a2_s',
-    label: 'Lección 3',
-    isStatic: true,
-    group: 'Vocabulario A2',
-    description: 'Personalidad'
-  },
-  {
     id: 'leccion_3_gramatica_c1_s',
     label: 'Lección 3',
     isStatic: true,
@@ -324,6 +240,27 @@ export const PREDEFINED_TOPICS = [
     group: "Grammar A1",
     description: "Questions (Wh- & Yes/No)",
   },
+  {
+    id: "lesson_1_grammar_a2",
+    label: "Lesson 1",
+    isStatic: true,
+    group: "Grammar A2",
+    description: "Questions (Wh- words, auxiliaries)",
+  },
+  {
+    id: "lesson_2_grammar_a2",
+    label: "Lesson 2",
+    isStatic: true,
+    group: "Grammar A2",
+    description: "Subject vs Object Questions",
+  },
+  {
+    id: "lesson_3_grammar_a2",
+    label: "Lesson 3",
+    isStatic: true,
+    group: "Grammar A2",
+    description: "Present Simple vs Continuous",
+  },
   { id: "leccion_1_w2_s", label: "Lección 1", isStatic: true, group: "W2-S" },
   { id: "leccion_3_w2_s", label: "Lección 3", isStatic: true, group: "W2-S" },
   { id: "leccion_5_w2_s", label: "Lección 5", isStatic: true, group: "W2-S" },
@@ -502,5 +439,26 @@ export const PREDEFINED_TOPICS = [
     isStatic: true,
     group: "Gramática A1",
     description: "Preposiciones de Tiempo",
+  },
+  {
+    id: "leccion_1_gramatica_a2_s",
+    label: "Lección 1",
+    isStatic: true,
+    group: "Gramática A2",
+    description: "Preguntas (palabras interrogativas, auxiliares)",
+  },
+  {
+    id: "leccion_2_gramatica_a2_s",
+    label: "Lección 2",
+    isStatic: true,
+    group: "Gramática A2",
+    description: "Preguntas de sujeto vs objeto",
+  },
+  {
+    id: "leccion_3_gramatica_a2_s",
+    label: "Lección 3",
+    isStatic: true,
+    group: "Gramática A2",
+    description: "Presente Simple vs Continuo",
   },
 ];

@@ -1,702 +1,1662 @@
 [
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_1",
+    "id": "leccion_1_gramatica_a2_s_id_y8f2pep",
     "word": "¿Te gusta la pizza?",
     "translation": "Você gosta de pizza?",
-    "pronunciation": "/te ˈɡusta la ˈpitsa/",
-    "portuguesePhonetic": "tê gústa la pítsa?"
+    "syllables": [
+      "¿Te",
+      "gusta",
+      "la",
+      "pizza?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te ˈɡusta la ˈpiːtsa/",
+    "portuguesePhonetic": "[te gústa la pítsa]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_2",
-    "word": "¿A qué hora se levanta?",
-    "translation": "A que horas ele se levanta?",
-    "pronunciation": "/a ke ˈoɾa se leˈbanta/",
-    "portuguesePhonetic": "a kê óra sê lebánta?"
+    "id": "leccion_1_gramatica_a2_s_id_2jzkvdl",
+    "word": "¿A qué hora se levanta él?",
+    "translation": "A que horas ele acorda?",
+    "syllables": [
+      "¿A",
+      "qué",
+      "hora",
+      "se",
+      "levanta",
+      "él?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke ˈoɾa se leˈβanta el/",
+    "portuguesePhonetic": "[a ke óra se lebánta él]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_3",
+    "id": "leccion_1_gramatica_a2_s_id_ebicu7d",
     "word": "¿Cuánto pagaste por eso?",
     "translation": "Quanto você pagou por isso?",
+    "syllables": [
+      "¿Cuánto",
+      "pagaste",
+      "por",
+      "eso?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
     "pronunciation": "/ˈkwanto paˈɣaste poɾ ˈeso/",
-    "portuguesePhonetic": "cuánto pagáste por êso?"
+    "portuguesePhonetic": "[kuánto pagáste por éso]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_4",
-    "word": "¿Dónde trabaja ella?",
-    "translation": "Onde ela trabalha?",
-    "pronunciation": "/ˈdonde tɾaˈbaxa ˈeʝa/",
-    "portuguesePhonetic": "dónde trabárra êia?"
+    "id": "leccion_1_gramatica_a2_s_id_w4agp4v",
+    "word": "¿Dónde está trabajando ella?",
+    "translation": "Onde ela está trabalhando?",
+    "syllables": [
+      "¿Dónde",
+      "está",
+      "trabajando",
+      "ella?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta tɾaβaˈxando ˈeʎa/",
+    "portuguesePhonetic": "[dônde está trabarrándo élha]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_5",
+    "id": "leccion_1_gramatica_a2_s_id_6fa1lnm",
     "word": "¿Qué coche tienes?",
     "translation": "Que carro você tem?",
+    "syllables": [
+      "¿Qué",
+      "coche",
+      "tienes?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
     "pronunciation": "/ke ˈkotʃe ˈtjenes/",
-    "portuguesePhonetic": "kê côtche tiênes?"
+    "portuguesePhonetic": "[ke kótche tiénes]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_6",
-    "word": "¿Sharon es de Estados Unidos?",
-    "translation": "Sharon é dos Estados Unidos?",
-    "pronunciation": "/ˈʃeɾon es de esˈtaðos uˈniðos/",
-    "portuguesePhonetic": "xéron es dê estádos unídos?"
+    "id": "leccion_1_gramatica_a2_s_id_3qagntb",
+    "word": "¿Es Sharon de los Estados Unidos?",
+    "translation": "A Sharon é dos EUA?",
+    "syllables": [
+      "¿Es",
+      "Sharon",
+      "de",
+      "los",
+      "Estados",
+      "Unidos?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es ˈʃaɾon de los esˈtaðos uˈniðos/",
+    "portuguesePhonetic": "[és cháron de los estádos unídos]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_7",
+    "id": "leccion_1_gramatica_a2_s_id_y2bwil4",
     "word": "¿Cuántos años tienes?",
     "translation": "Quantos anos você tem?",
+    "syllables": [
+      "¿Cuántos",
+      "años",
+      "tienes?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
     "pronunciation": "/ˈkwantos ˈaɲos ˈtjenes/",
-    "portuguesePhonetic": "cuántos ánhos tiênes?"
+    "portuguesePhonetic": "[kuántos ánhos tiénes]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_8",
+    "id": "leccion_1_gramatica_a2_s_id_zl68cdu",
     "word": "¿Dónde estabas ayer?",
-    "translation": "Onde você estava ontem?",
-    "pronunciation": "/ˈdonde esˈtabas aˈʝeɾ/",
-    "portuguesePhonetic": "dónde estábas aiér?"
+    "translation": "Onde você estaba ontem?",
+    "syllables": [
+      "¿Dónde",
+      "estabas",
+      "ayer?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈtaβas aˈʝeɾ/",
+    "portuguesePhonetic": "[dônde estábas aiér]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_9",
+    "id": "leccion_1_gramatica_a2_s_id_muhfzfu",
     "word": "¿Cuándo nació ella?",
     "translation": "Quando ela nasceu?",
-    "pronunciation": "/ˈkwando naˈθjo ˈeʝa/",
-    "portuguesePhonetic": "cuándo nathió êia?"
+    "syllables": [
+      "¿Cuándo",
+      "nació",
+      "ella?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwando naˈθjo ˈeʎa/",
+    "portuguesePhonetic": "[kuándo nathió élha]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_10",
-    "word": "¿Quién es ese hombre? / Es Peter.",
-    "translation": "Quem é aquele homem? / É o Peter.",
-    "pronunciation": "/ˈkjen es ˈese ˈombɾe",
-    "portuguesePhonetic": "es ˈpiteɾ/"
+    "id": "leccion_1_gramatica_a2_s_id_xyu6ro8",
+    "word": "¿Quién es ese hombre?",
+    "translation": "Quem é aquele homem?",
+    "syllables": [
+      "¿Quién",
+      "es",
+      "ese",
+      "hombre?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kjen es ˈese ˈombɾe/",
+    "portuguesePhonetic": "[kién és ése ómbre]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_11",
-    "word": "¿Dónde vives? / En Londres.",
-    "translation": "Onde você mora? / Em Londres.",
-    "pronunciation": "/ˈdonde ˈbiβes",
-    "portuguesePhonetic": "en ˈlondɾes/"
+    "id": "leccion_1_gramatica_a2_s_id_7b4cflf",
+    "word": "¿Dónde vives?",
+    "translation": "Onde você mora?",
+    "syllables": [
+      "¿Dónde",
+      "vives?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde ˈbiβes/",
+    "portuguesePhonetic": "[dônde bíbes]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_12",
-    "word": "¿Cuándo llegó? / Por la tarde.",
-    "translation": "Quando ele chegou? / À tarde.",
-    "pronunciation": "/ˈkwando ʝeˈɣo",
-    "portuguesePhonetic": "poɾ la ˈtaɾde/"
+    "id": "leccion_1_gramatica_a2_s_id_ah0vevn",
+    "word": "¿Cuándo llegó él?",
+    "translation": "Quando ele chegou?",
+    "syllables": [
+      "¿Cuándo",
+      "llegó",
+      "él?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwando ʎeˈɣo el/",
+    "portuguesePhonetic": "[kuándo lhegó él]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_13",
-    "word": "¿Por qué te fuiste? / Porque estaba cansado.",
-    "translation": "Por que você foi embora? / Porque estava cansado.",
-    "pronunciation": "/poɾ ˈke te ˈfwiste",
-    "portuguesePhonetic": "poɾˈke esˈtaba kanˈsaðo/"
+    "id": "leccion_1_gramatica_a2_s_id_l7djfod",
+    "word": "¿A qué hora llamó él?",
+    "translation": "A que horas ele ligou?",
+    "syllables": [
+      "¿A",
+      "qué",
+      "hora",
+      "llamó",
+      "él?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke ˈoɾa ʎaˈmo el/",
+    "portuguesePhonetic": "[a ke óra lhamó él]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_14",
-    "word": "¿Cómo fuiste? / En coche.",
-    "translation": "Como você foi? / De carro.",
-    "pronunciation": "/ˈkomo ˈfwiste",
-    "portuguesePhonetic": "en ˈkotʃe/"
+    "id": "leccion_1_gramatica_a2_s_id_h5iikfa",
+    "word": "¿Por qué te fuiste?",
+    "translation": "Por que você saiu?",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "te",
+      "fuiste?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke te ˈfwiste/",
+    "portuguesePhonetic": "[por ké te fuíste]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_15",
-    "word": "¿Qué estás haciendo? / Nada.",
-    "translation": "O que você está fazendo? / Nada.",
-    "pronunciation": "/ke esˈtas aˈθjendo",
-    "portuguesePhonetic": "ˈnaða/"
+    "id": "leccion_1_gramatica_a2_s_id_pv4bii3",
+    "word": "¿Cómo fuiste?",
+    "translation": "Como você foi?",
+    "syllables": [
+      "¿Cómo",
+      "fuiste?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkomo ˈfwiste/",
+    "portuguesePhonetic": "[kómo fuíste]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_16",
-    "word": "¿Qué coche es mejor? / El rojo.",
-    "translation": "Qual carro é melhor? / O vermelho.",
-    "pronunciation": "/ke ˈkotʃe es meˈxoɾ",
-    "portuguesePhonetic": "el ˈroxo/"
+    "id": "leccion_1_gramatica_a2_s_id_ou72rrw",
+    "word": "¿Qué estás haciendo?",
+    "translation": "O que você está fazendo?",
+    "syllables": [
+      "¿Qué",
+      "estás",
+      "haciendo?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke esˈtas aˈθjendo/",
+    "portuguesePhonetic": "[ke estás athiéndo]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_17",
-    "word": "¿De quién es este libro? / Es mío.",
-    "translation": "De quem é este livro? / É meu.",
-    "pronunciation": "/de ˈkjen es ˈeste ˈliβɾo",
-    "portuguesePhonetic": "es ˈmio/"
+    "id": "leccion_1_gramatica_a2_s_id_my0oqs8",
+    "word": "¿Qué tipo de coche es?",
+    "translation": "Que tipo de carro é?",
+    "syllables": [
+      "¿Qué",
+      "tipo",
+      "de",
+      "coche",
+      "es?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈtipo de ˈkotʃe es/",
+    "portuguesePhonetic": "[ke típo de kótche és]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_18",
-    "word": "¿A qué hora llamó? / A las siete.",
-    "translation": "A que horas ele ligou? / Às sete.",
-    "pronunciation": "/a ke ˈoɾa ʝaˈmo",
-    "portuguesePhonetic": "a las ˈsjete/"
+    "id": "leccion_1_gramatica_a2_s_id_o2dajgv",
+    "word": "¿Qué coche es mejor?",
+    "translation": "Qual carro é melhor?",
+    "syllables": [
+      "¿Qué",
+      "coche",
+      "es",
+      "mejor?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈkotʃe es meˈxoɾ/",
+    "portuguesePhonetic": "[ke kótche és merrór]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_19",
-    "word": "¿Qué tipo de coche es? / Un híbrido.",
-    "translation": "Que tipo de carro é? / Um híbrido.",
-    "pronunciation": "/ke ˈtipo de ˈkotʃe es",
-    "portuguesePhonetic": "un ˈiβɾiðo/"
+    "id": "leccion_1_gramatica_a2_s_id_nzser2v",
+    "word": "¿De quién es este libro?",
+    "translation": "De quem é este livro?",
+    "syllables": [
+      "¿De",
+      "quién",
+      "es",
+      "este",
+      "libro?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de kjen es ˈeste ˈliβɾo/",
+    "portuguesePhonetic": "[de kién és éste líbro]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_20",
-    "word": "¿Cuántas camas hay? / Tres.",
-    "translation": "Quantas camas há? / Três.",
-    "pronunciation": "/ˈkwantas ˈkamas aj",
-    "portuguesePhonetic": "tɾes/"
+    "id": "leccion_1_gramatica_a2_s_id_pgngmxg",
+    "word": "¿Cuántas camas hay?",
+    "translation": "Quantas camas tem?",
+    "syllables": [
+      "¿Cuántas",
+      "camas",
+      "hay?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwantas ˈkamas ai/",
+    "portuguesePhonetic": "[kuántas kámas ái]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_21",
-    "word": "¿Cuánto té hay? / Mucho.",
-    "translation": "Quanto chá há? / Muito.",
-    "pronunciation": "/ˈkwanto te aj",
-    "portuguesePhonetic": "ˈmutʃo/"
+    "id": "leccion_1_gramatica_a2_s_id_rh9qm84",
+    "word": "¿Cuánto té hay?",
+    "translation": "Quanto chá tem?",
+    "syllables": [
+      "¿Cuánto",
+      "té",
+      "hay?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto te ai/",
+    "portuguesePhonetic": "[kuánto té ái]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_22",
-    "word": "¿Cuánto tiempo te quedaste? / Dos semanas.",
-    "translation": "Quanto tempo você ficou? / Duas semanas.",
-    "pronunciation": "/ˈkwanto ˈtjempo te keˈðaste",
-    "portuguesePhonetic": "dos seˈmanas/"
+    "id": "leccion_1_gramatica_a2_s_id_nadxgjj",
+    "word": "¿Cuánto tiempo te quedaste?",
+    "translation": "Quanto tempo você ficou?",
+    "syllables": [
+      "¿Cuánto",
+      "tiempo",
+      "te",
+      "quedaste?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto ˈtjempo te keˈðaste/",
+    "portuguesePhonetic": "[kuánto tiémpo te kedáste]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_23",
-    "word": "¿Cada cuánto vas? / Todos los días.",
-    "translation": "Com que frequência você vai? / Todos os dias.",
-    "pronunciation": "/ˈkaða ˈkwanto bas",
-    "portuguesePhonetic": "ˈtoðos los ˈdias/"
+    "id": "leccion_1_gramatica_a2_s_id_ghm0baw",
+    "word": "¿Con qué frecuencia vas?",
+    "translation": "Com que frequência você vai?",
+    "syllables": [
+      "¿Con",
+      "qué",
+      "frecuencia",
+      "vas?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kon ke fɾeˈkwenθja bas/",
+    "portuguesePhonetic": "[kon ke frekuéntia bas]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_24",
-    "word": "¿A qué distancia está el pueblo? / A una milla.",
-    "translation": "A que distância fica a cidade? / A uma milha.",
-    "pronunciation": "/a ke disˈtanθja esˈta el ˈpweβlo",
-    "portuguesePhonetic": "a una ˈmiʝa/"
+    "id": "leccion_1_gramatica_a2_s_id_c6lcepr",
+    "word": "¿A qué distancia está el pueblo?",
+    "translation": "Quão longe fica a cidade?",
+    "syllables": [
+      "¿A",
+      "qué",
+      "distancia",
+      "está",
+      "el",
+      "pueblo?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke disˈtanθja esˈta el ˈpweβlo/",
+    "portuguesePhonetic": "[a ke distántia está el puéblo]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_25",
-    "word": "¿Cuántos años tiene tu hermana? / Tiene veintisiete.",
-    "translation": "Quantos anos sua irmã tem? / Ela tem 27.",
-    "pronunciation": "/ˈkwantos ˈaɲos ˈtjene tu eɾˈmana",
-    "portuguesePhonetic": "ˈtjene bejntiˈsjete/"
+    "id": "leccion_1_gramatica_a2_s_id_wwf321m",
+    "word": "¿Cuántos años tiene tu hermana?",
+    "translation": "Quantos anos sua irmã tem?",
+    "syllables": [
+      "¿Cuántos",
+      "años",
+      "tiene",
+      "tu",
+      "hermana?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwantos ˈaɲos ˈtjene tu eɾˈmana/",
+    "portuguesePhonetic": "[kuántos ánhos tiéne tu ermána]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_26",
-    "word": "¿Dónde está mi pasaporte?",
-    "translation": "Onde está meu passaporte?",
-    "pronunciation": "/ˈdonde esˈta mi pasaˈpoɾte/",
-    "portuguesePhonetic": "dónde está mi passapórte?"
+    "id": "leccion_1_gramatica_a2_s_id_kkjgwkk",
+    "word": "¿Dónde están mis llaves?",
+    "translation": "Onde estão minhas chaves?",
+    "syllables": [
+      "¿Dónde",
+      "están",
+      "mis",
+      "llaves?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈtan mis ˈʎaβes/",
+    "portuguesePhonetic": "[dônde están mis lhábes]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_27",
-    "word": "¿A qué hora sale el autobús lanzadera al aeropuerto?",
-    "translation": "A que horas sai o ônibus de traslado para o aeroporto?",
-    "pronunciation": "/a ke ˈoɾa ˈsale el autoˈβus lanθaˈðeɾa al aeɾoˈpweɾto/",
-    "portuguesePhonetic": "a kê óra sále el autobús lansadéra al aeropuérto?"
+    "id": "leccion_1_gramatica_a2_s_id_koz0xh1",
+    "word": "¿A qué hora sales para el trabajo?",
+    "translation": "A que horas você sai para o trabalho?",
+    "syllables": [
+      "¿A",
+      "qué",
+      "hora",
+      "sales",
+      "para",
+      "el",
+      "trabajo?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke ˈoɾa ˈsales ˈpaɾa el tɾaˈβaxo/",
+    "portuguesePhonetic": "[a ke óra sáles pára el trabárro]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_28",
-    "word": "¿Qué terminal necesitamos?",
-    "translation": "De qual terminal precisamos?",
-    "pronunciation": "/ke teɾmiˈnal neθesiˈtamos/",
-    "portuguesePhonetic": "kê terminál nethessitámos?"
+    "id": "leccion_1_gramatica_a2_s_id_bhya5cu",
+    "word": "¿Cómo llegas a la oficina?",
+    "translation": "Como você chega ao escritório?",
+    "syllables": [
+      "¿Cómo",
+      "llegas",
+      "a",
+      "la",
+      "oficina?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkomo ˈʎeɣas a la ofiˈθina/",
+    "portuguesePhonetic": "[kómo lhégas a la ofithína]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_29",
+    "id": "leccion_1_gramatica_a2_s_id_gw2ldrf",
+    "word": "¿Cuánto tiempo tarda?",
+    "translation": "Quanto tempo demora?",
+    "syllables": [
+      "¿Cuánto",
+      "tiempo",
+      "tarda?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto ˈtjempo ˈtaɾða/",
+    "portuguesePhonetic": "[kuánto tiémpo tárda]"
+  },
+  {
+    "id": "leccion_1_gramatica_a2_s_id_ta6qxii",
+    "word": "¿Cuánto cuesta este pan?",
+    "translation": "Quanto custa este pão?",
+    "syllables": [
+      "¿Cuánto",
+      "cuesta",
+      "este",
+      "pan?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto ˈkwesta ˈeste pan/",
+    "portuguesePhonetic": "[kuánto kuésta éste pan]"
+  },
+  {
+    "id": "leccion_1_gramatica_a2_s_id_tbyntpe",
+    "word": "¿Cuántas manzanas quieres?",
+    "translation": "Quantas maçãs você quer?",
+    "syllables": [
+      "¿Cuántas",
+      "manzanas",
+      "quieres?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwantas manˈθanas ˈkjeɾes/",
+    "portuguesePhonetic": "[kuántas mantHánas kiéres]"
+  },
+  {
+    "id": "leccion_1_gramatica_a2_s_id_kd57yzf",
+    "word": "¿Dónde puedo encontrar la leche?",
+    "translation": "Onde eu encontro o leite?",
+    "syllables": [
+      "¿Dónde",
+      "puedo",
+      "encontrar",
+      "la",
+      "leche?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde ˈpweðo eŋkonˈtɾaɾ la ˈletʃe/",
+    "portuguesePhonetic": "[dônde puédo enkontrár la létche]"
+  },
+  {
+    "id": "leccion_1_gramatica_a2_s_id_vskwsjx",
+    "word": "¿A qué hora empieza la reunión?",
+    "translation": "A que horas a reunião começa?",
+    "syllables": [
+      "¿A",
+      "qué",
+      "hora",
+      "empieza",
+      "la",
+      "reunión?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke ˈoɾa emˈpjeθa la reuˈnjon/",
+    "portuguesePhonetic": "[a ke óra empiétha la reunión]"
+  },
+  {
+    "id": "leccion_1_gramatica_a2_s_id_mnolvfs",
+    "word": "¿Quién está a cargo de este proyecto?",
+    "translation": "Quem está encarregado deste projeto?",
+    "syllables": [
+      "¿Quién",
+      "está",
+      "a",
+      "cargo",
+      "de",
+      "este",
+      "proyecto?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kjen esˈta a ˈkaɾɣo de ˈeste pɾoˈʝekto/",
+    "portuguesePhonetic": "[kién está a kárgo de éste proiékto]"
+  },
+  {
+    "id": "leccion_1_gramatica_a2_s_id_gjo5ya5",
+    "word": "¿Por qué está tarde el informe?",
+    "translation": "Por que o relatório está atrasado?",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "está",
+      "tarde",
+      "el",
+      "informe?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke esˈta ˈtaɾðe el imˈfoɾme/",
+    "portuguesePhonetic": "[por ké está tárde el imfórme]"
+  },
+  {
+    "id": "leccion_1_gramatica_a2_s_id_u8zkeo4",
     "word": "¿A qué distancia está el aeropuerto?",
-    "translation": "A que distância fica o aeroporto?",
+    "translation": "Quão longe fica o aeroporto?",
+    "syllables": [
+      "¿A",
+      "qué",
+      "distancia",
+      "está",
+      "el",
+      "aeropuerto?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
     "pronunciation": "/a ke disˈtanθja esˈta el aeɾoˈpweɾto/",
-    "portuguesePhonetic": "a kê distánthia está el aeropuérto?"
+    "portuguesePhonetic": "[a ke distántia está el aeropuérto]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_30",
-    "word": "¿Cuánto dura el trayecto?",
-    "translation": "Quanto tempo dura o trajeto?",
-    "pronunciation": "/ˈkwanto ˈðuɾa el tɾaˈʝekto/",
-    "portuguesePhonetic": "cuánto dúra el traiécto?"
+    "id": "leccion_1_gramatica_a2_s_id_sm3r0jn",
+    "word": "¿Cuánto dura el vuelo?",
+    "translation": "Quanto tempo dura o voo?",
+    "syllables": [
+      "¿Cuánto",
+      "dura",
+      "el",
+      "vuelo?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto ˈduɾa el ˈbwelo/",
+    "portuguesePhonetic": "[kuánto dúra el buélo]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_31",
-    "word": "¿Quién está facturando las maletas?",
-    "translation": "Quem está despachando as malas?",
-    "pronunciation": "/ˈkjen esˈta faktuˈɾando las maˈletas/",
-    "portuguesePhonetic": "quién está facturándo las malêtas?"
+    "id": "leccion_1_gramatica_a2_s_id_s9rp9p0",
+    "word": "¿Dónde está el hotel?",
+    "translation": "Onde fica o hotel?",
+    "syllables": [
+      "¿Dónde",
+      "está",
+      "el",
+      "hotel?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el oˈtel/",
+    "portuguesePhonetic": "[dônde está el otél]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_32",
-    "word": "¿Cuántas maletas tienes?",
-    "translation": "Quantas malas você tem?",
-    "pronunciation": "/ˈkwantas maˈletas ˈtjenes/",
-    "portuguesePhonetic": "cuántas malêtas tiênes?"
+    "id": "leccion_1_gramatica_a2_s_id_fy84925",
+    "word": "¿De qué puerta sale el avión?",
+    "translation": "De qual portão o avião sai?",
+    "syllables": [
+      "¿De",
+      "qué",
+      "puerta",
+      "sale",
+      "el",
+      "avión?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de ke ˈpweɾta ˈsale el aˈβjon/",
+    "portuguesePhonetic": "[de ke puérta sále el abión]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_33",
-    "word": "¿Cuánto pesa esta maleta?",
-    "translation": "Quanto pesa esta mala?",
-    "pronunciation": "/ˈkwanto ˈpesa ˈesta maˈleta/",
-    "portuguesePhonetic": "cuánto pêsa êsta malêta?"
+    "id": "leccion_1_gramatica_a2_s_id_kg6z5b2",
+    "word": "¿Qué recomiendas?",
+    "translation": "O que você recomenda?",
+    "syllables": [
+      "¿Qué",
+      "recomiendas?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke rekoˈmjendas/",
+    "portuguesePhonetic": "[ke rekomiéndas]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_34",
-    "word": "¿Por qué es tan larga la cola?",
-    "translation": "Por que a fila está tão longa?",
-    "pronunciation": "/poɾ ˈke es tan ˈlaɾɣa la ˈkola/",
-    "portuguesePhonetic": "por kê es tan lárga la côla?"
+    "id": "leccion_1_gramatica_a2_s_id_hko0id1",
+    "word": "¿Cuánto es en total?",
+    "translation": "Quanto é o total?",
+    "syllables": [
+      "¿Cuánto",
+      "es",
+      "en",
+      "total?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto es en toˈtal/",
+    "portuguesePhonetic": "[kuánto és en totál]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_35",
-    "word": "¿Qué tipo de documento necesito?",
-    "translation": "Que tipo de documento eu preciso?",
-    "pronunciation": "/ke ˈtipo de dokuˈmento neθeˈsito/",
-    "portuguesePhonetic": "kê típo dê documênto nethessíto?"
+    "id": "leccion_1_gramatica_a2_s_id_j1soxkh",
+    "word": "¿Cuánto tiempo llevas con este dolor?",
+    "translation": "Há quanto tempo você tem essa dor?",
+    "syllables": [
+      "¿Cuánto",
+      "tiempo",
+      "llevas",
+      "con",
+      "este",
+      "dolor?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto ˈtjempo ˈʎeβas kon ˈeste doˈloɾ/",
+    "portuguesePhonetic": "[kuánto tiémpo lhébas kon éste dolór]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_36",
-    "word": "¿Dónde puedo facturar?",
-    "translation": "Onde posso despachar a bagagem?",
-    "pronunciation": "/ˈdonde ˈpweðo faktuˈɾaɾ/",
-    "portuguesePhonetic": "dónde puêdo facturár?"
+    "id": "leccion_1_gramatica_a2_s_id_u9w4ymw",
+    "word": "¿Qué te pasa?",
+    "translation": "O que há de errado com você?",
+    "syllables": [
+      "¿Qué",
+      "te",
+      "pasa?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke te ˈpasa/",
+    "portuguesePhonetic": "[ke te pása]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_37",
-    "word": "¿Cuándo empieza el embarque?",
-    "translation": "Quando começa o embarque?",
-    "pronunciation": "/ˈkwando emˈpjeθa el emˈbaɾke/",
-    "portuguesePhonetic": "cuándo empiêtha el embárque?"
+    "id": "leccion_1_gramatica_a2_s_id_5jv9na5",
+    "word": "¿De quién fue esta idea?",
+    "translation": "De quem foi essa ideia?",
+    "syllables": [
+      "¿De",
+      "quién",
+      "fue",
+      "esta",
+      "idea?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de kjen fwe ˈesta iˈðea/",
+    "portuguesePhonetic": "[de kién fué ésta idéa]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_38",
-    "word": "¿Qué puerta vamos a usar?",
-    "translation": "Qual portão vamos usar?",
-    "pronunciation": "/ke ˈpweɾta ˈbamos a uˈsaɾ/",
-    "portuguesePhonetic": "kê puérta bámos a usár?"
+    "id": "leccion_1_gramatica_a2_s_id_o5nfgqu",
+    "word": "¿Con qué frecuencia quedáis vosotros dos?",
+    "translation": "Com que frequência vocês dois se encontram?",
+    "syllables": [
+      "¿Con",
+      "qué",
+      "frecuencia",
+      "quedáis",
+      "vosotros",
+      "dos?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kon ke fɾeˈkwenθja keˈðais boˈsotɾos dos/",
+    "portuguesePhonetic": "[kon ke frekuéntia kedáis bosótros dos]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_39",
-    "word": "¿De quién es esta mochila?",
-    "translation": "De quem é esta mochila?",
-    "pronunciation": "/de ˈkjen es ˈesta moˈtʃila/",
-    "portuguesePhonetic": "dê quién es êsta motchíla?"
+    "id": "leccion_1_gramatica_a2_s_id_9h56mee",
+    "word": "¿Qué película quieres ver?",
+    "translation": "Qual filme você quer assistir?",
+    "syllables": [
+      "¿Qué",
+      "película",
+      "quieres",
+      "ver?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke peˈlikula ˈkjeɾes beɾ/",
+    "portuguesePhonetic": "[ke pelíkula kiéres ber]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_40",
-    "word": "¿Cada cuánto se retrasan los vuelos?",
-    "translation": "Com que frequência os voos atrasam?",
-    "pronunciation": "/ˈkaða ˈkwanto se reˈtɾasan los ˈbwelos/",
-    "portuguesePhonetic": "cáda cuánto sê retrássan los buêlos?"
+    "id": "leccion_1_gramatica_a2_s_id_smfu914",
+    "word": "¿Qué tiempo hace hoy?",
+    "translation": "Como está o tempo hoje?",
+    "syllables": [
+      "¿Qué",
+      "tiempo",
+      "hace",
+      "hoy?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈtjempo ˈaθe oi/",
+    "portuguesePhonetic": "[ke tiémpo áthe ôi]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_41",
-    "word": "¿Qué estás buscando?",
-    "translation": "O que você está procurando?",
-    "pronunciation": "/ke esˈtas busˈkando/",
-    "portuguesePhonetic": "kê estás buscándo?"
+    "id": "leccion_1_gramatica_a2_s_id_yj3lrtg",
+    "word": "¿Cuánto frío hace fuera?",
+    "translation": "Quão frio está lá fora?",
+    "syllables": [
+      "¿Cuánto",
+      "frío",
+      "hace",
+      "fuera?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto ˈfɾio ˈaθe ˈfweɾa/",
+    "portuguesePhonetic": "[kuánto frío áthe fuéra]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_42",
-    "word": "¿Quién está sentado junto a la ventanilla?",
-    "translation": "Quem está sentado perto da janela?",
-    "pronunciation": "/ˈkjen esˈta senˈtaðo ˈxunto a la bentaˈniʝa/",
-    "portuguesePhonetic": "quién está sentádo rrúnto a la bentaníia?"
+    "id": "leccion_1_gramatica_a2_s_id_yr64fen",
+    "word": "¿Cuántos alumnos hay en tu clase?",
+    "translation": "Quantos alunos tem na sua turma?",
+    "syllables": [
+      "¿Cuántos",
+      "alumnos",
+      "hay",
+      "en",
+      "tu",
+      "clase?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwantos aˈlumnos ai en tu ˈklase/",
+    "portuguesePhonetic": "[kuántos alúmnos ái en tu kláse]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_43",
-    "word": "¿Por qué han cambiado nuestra puerta?",
-    "translation": "Por que mudaram nosso portão?",
-    "pronunciation": "/poɾ ˈke an kamˈbjaðo ˈnwestɾa ˈpweɾta/",
-    "portuguesePhonetic": "por kê an cambiádo nuêstra puérta?"
+    "id": "leccion_1_gramatica_a2_s_id_7q7npn8",
+    "word": "¿Cuándo es el examen?",
+    "translation": "Quando é a prova?",
+    "syllables": [
+      "¿Cuándo",
+      "es",
+      "el",
+      "examen?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwando es el eɣˈsamen/",
+    "portuguesePhonetic": "[kuándo és el eksámen]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_44",
-    "word": "¿Cómo reservaste los billetes?",
-    "translation": "Como você reservou as passagens?",
-    "pronunciation": "/ˈkomo reserˈβaste los biˈʝetes/",
-    "portuguesePhonetic": "cómo reserbáste los biiêtes?"
+    "id": "leccion_1_gramatica_a2_s_id_mn0w0qt",
+    "word": "¿Quién es ella?",
+    "translation": "Quem é ela?",
+    "syllables": [
+      "¿Quién",
+      "es",
+      "ella?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kjen es ˈeʎa/",
+    "portuguesePhonetic": "[kién és élha]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_45",
-    "word": "¿A qué hora aterrizamos?",
-    "translation": "A que horas aterrissamos?",
-    "pronunciation": "/a ke ˈoɾa ateriˈθamos/",
-    "portuguesePhonetic": "a kê óra aterrithámos?"
-  },
-  {
-    "id": "leccion_1_gramatica_a2_s_es_card_46",
-    "word": "¿Dónde nos alojamos?",
-    "translation": "Onde vamos nos hospedar?",
-    "pronunciation": "/ˈdonde nos aloˈxamos/",
-    "portuguesePhonetic": "dónde nos alorrámos?"
-  },
-  {
-    "id": "leccion_1_gramatica_a2_s_es_card_47",
-    "word": "¿Cuánto cuesta un taxi hasta el centro?",
-    "translation": "Quanto custa um táxi até o centro?",
-    "pronunciation": "/ˈkwanto ˈkwesta un ˈtaksi ˈasta el ˈθentɾo/",
-    "portuguesePhonetic": "cuánto cuêsta un táksi ásta el thêntro?"
-  },
-  {
-    "id": "leccion_1_gramatica_a2_s_es_card_48",
-    "word": "¿Cuánto tiempo nos quedamos?",
-    "translation": "Quanto tiempo vamos ficar?",
-    "pronunciation": "/ˈkwanto ˈtjempo nos keˈðamos/",
-    "portuguesePhonetic": "cuánto tiêmpo nos quedámos?"
-  },
-  {
-    "id": "leccion_1_gramatica_a2_s_es_card_49",
-    "word": "¿Qué quieres visitar primero?",
-    "translation": "O que você quer visitar primeiro?",
-    "pronunciation": "/ke ˈkjeɾes βisiˈtaɾ pɾiˈmeɾo/",
-    "portuguesePhonetic": "kê quiêres bissitár primêro?"
-  },
-  {
-    "id": "leccion_1_gramatica_a2_s_es_card_50",
-    "word": "¿Cuándo debemos volver al aeropuerto?",
-    "translation": "Quando devemos voltar ao aeroporto?",
-    "pronunciation": "/ˈkwando deˈβemos βolˈβeɾ al aeɾoˈpweɾto/",
-    "portuguesePhonetic": "cuándo debêmos bolbér al aeropuérto?"
-  },
-  {
-    "id": "leccion_1_gramatica_a2_s_es_card_51",
-    "word": "¿Quién te llamó?",
-    "translation": "Quem ligou para você?",
-    "pronunciation": "/ˈkjen te ʝaˈmo/",
-    "portuguesePhonetic": "quién tê iamô?"
-  },
-  {
-    "id": "leccion_1_gramatica_a2_s_es_card_52",
+    "id": "leccion_1_gramatica_a2_s_id_398ua5l",
     "word": "¿Dónde trabajas?",
     "translation": "Onde você trabalha?",
+    "syllables": [
+      "¿Dónde",
+      "trabajas?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
     "pronunciation": "/ˈdonde tɾaˈβaxas/",
-    "portuguesePhonetic": "dónde trabárras?"
+    "portuguesePhonetic": "[dônde trabárras]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_53",
-    "word": "¿Qué necesitas?",
-    "translation": "Do que você precisa?",
-    "pronunciation": "/ke neθeˈsitas/",
-    "portuguesePhonetic": "kê nethessítas?"
+    "id": "leccion_1_gramatica_a2_s_id_26nmpuz",
+    "word": "¿Qué es esto?",
+    "translation": "O que é isso?",
+    "syllables": [
+      "¿Qué",
+      "es",
+      "esto?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke es ˈesto/",
+    "portuguesePhonetic": "[ke és ésto]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_54",
-    "word": "¿Cuándo abre la tienda?",
-    "translation": "Quando a loja abre?",
-    "pronunciation": "/ˈkwando ˈaβɾe la ˈtjenda/",
-    "portuguesePhonetic": "cuándo ábre la tiênda?"
+    "id": "leccion_1_gramatica_a2_s_id_1lck8sg",
+    "word": "¿Cuándo es?",
+    "translation": "Quando é?",
+    "syllables": [
+      "¿Cuándo",
+      "es?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwando es/",
+    "portuguesePhonetic": "[kuándo és]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_55",
-    "word": "¿Por qué estás enfadado?",
-    "translation": "Por que você está chateado?",
-    "pronunciation": "/poɾ ˈke esˈtas emfaˈðaðo/",
-    "portuguesePhonetic": "por kê estás enfadádo?"
+    "id": "leccion_1_gramatica_a2_s_id_2crkpy4",
+    "word": "¿Cuántos años tiene tu perro?",
+    "translation": "Quantos anos seu cachorro tem?",
+    "syllables": [
+      "¿Cuántos",
+      "años",
+      "tiene",
+      "tu",
+      "perro?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwantos ˈaɲos ˈtjene tu ˈpero/",
+    "portuguesePhonetic": "[kuántos ánhos tiéne tu pérro]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_56",
-    "word": "¿Cómo puedo ayudarte?",
-    "translation": "Como posso ajudar você?",
-    "pronunciation": "/ˈkomo ˈpweðo aʝuˈðaɾte/",
-    "portuguesePhonetic": "cómo puêdo aiudárte?"
+    "id": "leccion_1_gramatica_a2_s_id_o3bs4uw",
+    "word": "¿Por qué llegas tarde?",
+    "translation": "Por que você está atrasado?",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "llegas",
+      "tarde?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke ˈʎeɣas ˈtaɾðe/",
+    "portuguesePhonetic": "[por ké lhégas tárde]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_57",
-    "word": "¿Qué autobús va al centro?",
-    "translation": "Qual ônibus vai para o centro?",
-    "pronunciation": "/ke autoˈβus βa al ˈθentɾo/",
-    "portuguesePhonetic": "kê autobús ba al thêntro?"
+    "id": "leccion_1_gramatica_a2_s_id_4o746hm",
+    "word": "¿A qué hora te despiertas normalmente?",
+    "translation": "A que horas você geralmente acorda?",
+    "syllables": [
+      "¿A",
+      "qué",
+      "hora",
+      "te",
+      "despiertas",
+      "normalmente?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke ˈoɾa te desˈpjeɾtas noɾˈmalmente/",
+    "portuguesePhonetic": "[a ke óra te despiértas normalménte]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_58",
-    "word": "¿De quién es el móvil que está sonando?",
-    "translation": "De quem é o celular que está tocando?",
-    "pronunciation": "/de ˈkjen es el ˈmoβil ke esˈta soˈnando/",
-    "portuguesePhonetic": "dê quién es el móbil kê está sonándo?"
+    "id": "leccion_1_gramatica_a2_s_id_zhuhyh7",
+    "word": "¿Cuánto cuesta esto?",
+    "translation": "Quanto isso custa?",
+    "syllables": [
+      "¿Cuánto",
+      "cuesta",
+      "esto?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto ˈkwesta ˈesto/",
+    "portuguesePhonetic": "[kuánto kuésta ésto]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_59",
-    "word": "¿Cuántos billetes necesitamos?",
-    "translation": "De quantas passagens precisamos?",
-    "pronunciation": "/ˈkwantos biˈʝetes neθesiˈtamos/",
-    "portuguesePhonetic": "cuántos biiêtes nethessitámos?"
+    "id": "leccion_1_gramatica_a2_s_id_94yh64a",
+    "word": "¿No te gusta el café?",
+    "translation": "Você não gosta de café?",
+    "syllables": [
+      "¿No",
+      "te",
+      "gusta",
+      "el",
+      "café?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no te ˈɡusta el kaˈfe/",
+    "portuguesePhonetic": "[no te gústa el kafé]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_60",
-    "word": "¿Cuánto cuesta?",
-    "translation": "Quanto custa?",
-    "pronunciation": "/ˈkwanto ˈkwesta/",
-    "portuguesePhonetic": "cuánto cuêsta?"
+    "id": "leccion_1_gramatica_a2_s_id_bt0180y",
+    "word": "¿No viene ella?",
+    "translation": "Ela não vem?",
+    "syllables": [
+      "¿No",
+      "viene",
+      "ella?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈbjene ˈeʎa/",
+    "portuguesePhonetic": "[no biéne élha]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_61",
-    "word": "¿Dónde pusiste las llaves?",
-    "translation": "Onde você colocou as chaves?",
-    "pronunciation": "/ˈdonde puˈsiste las ˈʝaβes/",
-    "portuguesePhonetic": "dónde pussíste las iábes?"
-  },
-  {
-    "id": "leccion_1_gramatica_a2_s_es_card_62",
-    "word": "¿A qué hora se suponía que debías llegar?",
-    "translation": "A que horas você deveria chegar?",
-    "pronunciation": "/a ke ˈoɾa se supoˈnia ke deˈβias ʝeˈɣaɾ/",
-    "portuguesePhonetic": "a kê óra sê suponía kê debías iegár?"
-  },
-  {
-    "id": "leccion_1_gramatica_a2_s_es_card_63",
-    "word": "¿Cuánto tiempo llevas viviendo aquí?",
-    "translation": "Há quanto tempo você mora aqui?",
-    "pronunciation": "/ˈkwanto ˈtjempo ˈʝeβas βiˈβjendo aˈki/",
-    "portuguesePhonetic": "cuánto tiêmpo iêbas bibiêndo aquí?"
-  },
-  {
-    "id": "leccion_1_gramatica_a2_s_es_card_64",
-    "word": "¿Con qué frecuencia has viajado solo?",
-    "translation": "Com que frequência você tem viajado sozinho?",
-    "pronunciation": "/kon ke fɾeˈkwenθja as βjaˈxaðo ˈsolo/",
-    "portuguesePhonetic": "con kê frecuênthia as biarrádo sólo?"
-  },
-  {
-    "id": "leccion_1_gramatica_a2_s_es_card_65",
+    "id": "leccion_1_gramatica_a2_s_id_gmk47jg",
     "word": "¿Por qué no me llamaste?",
     "translation": "Por que você não me ligou?",
-    "pronunciation": "/poɾ ˈke no me ʝaˈmaste/",
-    "portuguesePhonetic": "por kê no mê iamáste?"
+    "syllables": [
+      "¿Por",
+      "qué",
+      "no",
+      "me",
+      "llamaste?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke no me ʎaˈmaste/",
+    "portuguesePhonetic": "[por ké no me lhamáste]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_66",
-    "word": "¿Con quién hablabas cuando llegué?",
-    "translation": "Com quem você estava falando quando eu cheguei?",
-    "pronunciation": "/kon ˈkjen aˈβlaβas ˈkwando ʝeˈɣe/",
-    "portuguesePhonetic": "con quién ablábas cuándo ieguê?"
+    "id": "leccion_1_gramatica_a2_s_id_a45hrog",
+    "word": "¿Todavía no has terminado?",
+    "translation": "Você ainda não terminou?",
+    "syllables": [
+      "¿Todavía",
+      "no",
+      "has",
+      "terminado?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/toðaˈβia no as teɾmiˈnaðo/",
+    "portuguesePhonetic": "[todabía no as terminádo]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_67",
-    "word": "¿Qué restaurante elegirías si los dos estuvieran abiertos?",
-    "translation": "Qual restaurante você escolheria se os dois estivessem abertos?",
-    "pronunciation": "/ke restauˈɾante eleɣiˈɾias si los dos estuˈβjeɾan aˈβjeɾtos/",
-    "portuguesePhonetic": "kê restauránte elegirías si los dôs estubiêran abiêrtos?"
+    "id": "leccion_1_gramatica_a2_s_id_arofz94",
+    "word": "¿Qué estabas haciendo cuando te llamé?",
+    "translation": "O que você estava fazendo quando eu liguei?",
+    "syllables": [
+      "¿Qué",
+      "estabas",
+      "haciendo",
+      "cuando",
+      "te",
+      "llamé?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke esˈtaβas aˈθjendo ˈkwando te ʎaˈme/",
+    "portuguesePhonetic": "[ke estábas athiéndo kuándo te lhamé]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_68",
-    "word": "¿Cuánto más gastaste porque el hotel estaba lleno?",
-    "translation": "Quanto a mais você gastou porque o hotel estaba lotado?",
-    "pronunciation": "/ˈkwanto mas ɣasˈtaste poɾˈke el oˈtel esˈtaba ˈʝeno/",
-    "portuguesePhonetic": "cuánto más gastáste porkê el otél estába iêno?"
+    "id": "leccion_1_gramatica_a2_s_id_yxwdgmf",
+    "word": "¿Cuánto tiempo llevabas esperando antes de que llegara el autobús?",
+    "translation": "Quanto tempo você tinha esperado antes do ônibus chegar?",
+    "syllables": [
+      "¿Cuánto",
+      "tiempo",
+      "llevabas",
+      "esperando",
+      "antes",
+      "de",
+      "que",
+      "llegara",
+      "el",
+      "autobús?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto ˈtjempo ʎeˈβaβas espeˈɾando ˈantes de ke ʎeˈɣaɾa el awtoˈβus/",
+    "portuguesePhonetic": "[kuánto tiémpo lhebábas esperándo ántes de ke lhegára el autobús]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_69",
-    "word": "¿Dónde te alojarás cuando llegues a Madrid?",
-    "translation": "Onde você ficará quando chegar a Madri?",
-    "pronunciation": "/ˈdonde te aloxaˈɾas ˈkwando ˈʝeɣes a maˈðɾið/",
-    "portuguesePhonetic": "dónde tê alorrarás cuándo iêgues a madríd?"
+    "id": "leccion_1_gramatica_a2_s_id_7z1bior",
+    "word": "¿Por qué no me lo dijiste, si sabías la verdad?",
+    "translation": "Por que você não me contou, se sabia a verdade?",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "no",
+      "me",
+      "lo",
+      "dijiste,",
+      "si",
+      "sabías",
+      "la",
+      "verdad?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke no me lo diˈxiste si saˈβias la beɾˈðað/",
+    "portuguesePhonetic": "[por ké no me lo dirríste si sabías la berdád]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_70",
-    "word": "¿Qué tipo de trabajo estás buscando ahora?",
-    "translation": "Que tipo de emprego você está procurando agora?",
-    "pronunciation": "/ke ˈtipo de tɾaˈβaxo esˈtas busˈkando aˈoɾa/",
-    "portuguesePhonetic": "kê típo dê trabárro estás buscándo aóra?"
+    "id": "leccion_1_gramatica_a2_s_id_gqfd4k7",
+    "word": "¿Qué harás si llueve mañana?",
+    "translation": "O que você vai fazer se chover amanhã?",
+    "syllables": [
+      "¿Qué",
+      "harás",
+      "si",
+      "llueve",
+      "mañana?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke aˈɾas si ˈʎweβe maˈɲana/",
+    "portuguesePhonetic": "[ke arrás si lhuébe manhána]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_71",
-    "word": "¿Por qué todavía no nos han respondido?",
-    "translation": "Por que ainda não nos responderam?",
-    "pronunciation": "/poɾ ˈke todaˈβia no nos an responˈdiðo/",
-    "portuguesePhonetic": "por kê todabía no nos an respondído?"
+    "id": "leccion_1_gramatica_a2_s_id_d6cmzki",
+    "word": "¿Adónde irías si tuvieras más tiempo?",
+    "translation": "Onde você iria se tivesse mais tempo?",
+    "syllables": [
+      "¿Adónde",
+      "irías",
+      "si",
+      "tuvieras",
+      "más",
+      "tiempo?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈðonde iˈɾias si tuˈβjeɾas mas ˈtjempo/",
+    "portuguesePhonetic": "[adônde irías si tubiéras mas tiémpo]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_72",
-    "word": "¿Qué distancia habías caminado antes de que empezara a llover?",
-    "translation": "Que distância você tinha caminhado antes de começar a chover?",
-    "pronunciation": "/ke disˈtanθja aˈβias kamiˈnaðo ˈantes de ke empeˈθaɾa a ʝoˈβeɾ/",
-    "portuguesePhonetic": "kê distánthia abías caminádo ántes dê kê empethára a iobér?"
+    "id": "leccion_1_gramatica_a2_s_id_f7bvpbs",
+    "word": "¿Cuántas veces has estado aquí, y por qué sigues volviendo?",
+    "translation": "Quantas vezes você já esteve aqui, e por que continua voltando?",
+    "syllables": [
+      "¿Cuántas",
+      "veces",
+      "has",
+      "estado",
+      "aquí,",
+      "y",
+      "por",
+      "qué",
+      "sigues",
+      "volviendo?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwantas ˈbeθes as esˈtaðo aˈki i poɾ ke ˈsiɣes bolˈβjendo/",
+    "portuguesePhonetic": "[kuántas bétches as estádo akí i por ké sígues bolbiéndo]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_73",
-    "word": "¿Cuándo decidirás si aceptas la oferta?",
-    "translation": "Quando você decidirá se aceita a oferta?",
-    "pronunciation": "/ˈkwando deθiðiˈɾas si aˈθeptas la oˈfeɾta/",
-    "portuguesePhonetic": "cuándo dethidirás si athéptas la oférta?"
+    "id": "leccion_1_gramatica_a2_s_id_9v71hqr",
+    "word": "¿Qué habrías hecho si hubieras sabido la respuesta?",
+    "translation": "O que você teria feito se soubesse a respuesta?",
+    "syllables": [
+      "¿Qué",
+      "habrías",
+      "hecho",
+      "si",
+      "hubieras",
+      "sabido",
+      "la",
+      "respuesta?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke aˈβɾias ˈetʃo si uˈβjeɾas saˈβiðo la resˈpwesta/",
+    "portuguesePhonetic": "[ke abrías étcho si ubiéras sabído la respuésta]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_74",
-    "word": "¿A quién pedirías ayuda si el sistema dejara de funcionar?",
-    "translation": "A quem você pediria ajuda se o sistema parasse de funcionar?",
-    "pronunciation": "/a ˈkjen peðiˈɾias aˈʝuða si el sisˈtema deˈxaɾa de funθjoˈnaɾ/",
-    "portuguesePhonetic": "a quién pedirías aiúda si el sistêma derrára dê funthionár?"
+    "id": "leccion_1_gramatica_a2_s_id_ae5mlcg",
+    "word": "¿Cuánto tiempo lleva ella trabajando aquí, y por qué no la han ascendido?",
+    "translation": "Há quanto tempo ela trabalha aqui, e por que não foi promovida?",
+    "syllables": [
+      "¿Cuánto",
+      "tiempo",
+      "lleva",
+      "ella",
+      "trabajando",
+      "aquí,",
+      "y",
+      "por",
+      "qué",
+      "no",
+      "la",
+      "han",
+      "ascendido?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto ˈtjempo ˈʎeβa ˈeʎa tɾaβaˈxando aˈki i poɾ ke no la an asθenˈdiðo/",
+    "portuguesePhonetic": "[kuánto tiémpo lhéba élha trabarrándo akí i por ké no la an asthendído]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_75",
-    "word": "¿Qué habrías hecho si hubieras perdido el último tren?",
-    "translation": "O que você teria feito se tivesse perdido o último trem?",
-    "pronunciation": "/ke aˈβɾias ˈetʃo si uˈβjeɾas peɾˈðiðo el ˈultimo tɾen/",
-    "portuguesePhonetic": "kê abrías êtcho si ubiêras perdído el último tren?"
+    "id": "leccion_1_gramatica_a2_s_id_ytqg7oz",
+    "word": "¿A qué hora deberíamos salir si no queremos llegar tarde?",
+    "translation": "A que horas devemos sair se não quisermos nos atrasar?",
+    "syllables": [
+      "¿A",
+      "qué",
+      "hora",
+      "deberíamos",
+      "salir",
+      "si",
+      "no",
+      "queremos",
+      "llegar",
+      "tarde?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke ˈoɾa deβeˈɾiamos saˈliɾ si no keˈɾemos ʎeˈɣaɾ ˈtaɾðe/",
+    "portuguesePhonetic": "[a ke óra deberíamos salír si no kerémos lhegár tárde]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_76",
-    "word": "¿Dónde están mis llaves? / Están sobre la mesa.",
-    "translation": "Onde estão minhas chaves? / Estão sobre a mesa.",
-    "pronunciation": "/ˈdonde esˈtan mis ˈʝaβes",
-    "portuguesePhonetic": "esˈtan ˈsoβɾe la ˈmesa/"
+    "id": "leccion_1_gramatica_a2_s_id_fdrktjg",
+    "word": "¿Por qué hay gente que nunca parece satisfecha, pase lo que pase?",
+    "translation": "Por que algumas pessoas nunca parecem satisfeitas, não importa o que aconteça?",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "hay",
+      "gente",
+      "que",
+      "nunca",
+      "parece",
+      "satisfecha,",
+      "pase",
+      "lo",
+      "que",
+      "pase?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke ai ˈxente ke ˈnuŋka paˈɾeθe satisˈfetʃa ˈpase lo ke ˈpase/",
+    "portuguesePhonetic": "[por ké ái rrénte ke núnka parethe satisfétcha páse lo ke páse]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_77",
-    "word": "¿Quién está en la puerta? / Es el repartidor.",
-    "translation": "Quem está na porta? / É o entregador.",
-    "pronunciation": "/ˈkjen esˈta en la ˈpweɾta",
-    "portuguesePhonetic": "es el repaɾtiˈðoɾ/"
+    "id": "leccion_1_gramatica_a2_s_id_qoz445r",
+    "word": "¿Cuánto costaría arreglar el coche, y cuánto tiempo llevaría?",
+    "translation": "Quanto custaria consertar o carro, e quanto tempo levaria?",
+    "syllables": [
+      "¿Cuánto",
+      "costaría",
+      "arreglar",
+      "el",
+      "coche,",
+      "y",
+      "cuánto",
+      "tiempo",
+      "llevaría?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto kosˈtaɾia areˈɣlaɾ el ˈkotʃe i ˈkwanto ˈtjempo ʎeβaˈɾia/",
+    "portuguesePhonetic": "[kuánto kostaría arreglár el kótche i kuánto tiémpo lhebaría]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_78",
-    "word": "¿A qué hora es la reunión? / A las nueve y media.",
-    "translation": "A que horas é a reunião? / Às nove e meia.",
-    "pronunciation": "/a ke ˈoɾa es la reunˈjon",
-    "portuguesePhonetic": "a las ˈnweβe i ˈmeðja/"
+    "id": "leccion_1_gramatica_a2_s_id_obnegjo",
+    "word": "¿De quién es la responsabilidad cuando algo sale mal en el trabajo?",
+    "translation": "De quem é a responsabilidade quando algo dá errado no trabalho?",
+    "syllables": [
+      "¿De",
+      "quién",
+      "es",
+      "la",
+      "responsabilidad",
+      "cuando",
+      "algo",
+      "sale",
+      "mal",
+      "en",
+      "el",
+      "trabajo?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de kjen es la responsaβiliˈðað ˈkwando ˈalɣo ˈsale mal en el tɾaˈβaxo/",
+    "portuguesePhonetic": "[de kién és la responsabilidád kuándo álgo sále mal en el trabárro]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_79",
-    "word": "¿Qué camisa prefieres? / La azul.",
-    "translation": "Qual camisa você prefere? / A azul.",
-    "pronunciation": "/ke kaˈmisa pɾeˈfjeɾes",
-    "portuguesePhonetic": "la aˈθul/"
+    "id": "leccion_1_gramatica_a2_s_id_hosaoyj",
+    "word": "¿Cómo conseguiste terminar todo, a pesar de haber empezado tarde?",
+    "translation": "Como você conseguiu terminar tudo, mesmo tendo começado tarde?",
+    "syllables": [
+      "¿Cómo",
+      "conseguiste",
+      "terminar",
+      "todo,",
+      "a",
+      "pesar",
+      "de",
+      "haber",
+      "empezado",
+      "tarde?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkomo konseˈɣiste teɾmiˈnaɾ ˈtoðo a peˈsaɾ de aˈβeɾ empeˈθaðo ˈtaɾðe/",
+    "portuguesePhonetic": "[kómo konseguíste terminár tódo a pesár de abér empethádo tárde]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_80",
-    "word": "¿De quién es este paraguas? / Es mío.",
-    "translation": "De quem é este guarda-chuva? / É meu.",
-    "pronunciation": "/de ˈkjen es ˈeste paɾaˈɣwas",
-    "portuguesePhonetic": "es ˈmio/"
+    "id": "leccion_1_gramatica_a2_s_id_ior4nej",
+    "word": "¿Quién es ese hombre? / Es Peter.",
+    "translation": "Quem é aquele homem? / É o Peter.",
+    "syllables": [
+      "¿Quién",
+      "es",
+      "ese",
+      "hombre?",
+      "/",
+      "Es",
+      "Peter."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kjen es ˈese ˈombɾe · es ˈpiteɾ/",
+    "portuguesePhonetic": "[kién és ése ómbre · és píter]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_81",
-    "word": "¿Cuántos huevos necesitamos? / Seis.",
-    "translation": "De quantos ovos precisamos? / Seis.",
-    "pronunciation": "/ˈkwantos ˈweβos neθesiˈtamos",
-    "portuguesePhonetic": "sejs/"
+    "id": "leccion_1_gramatica_a2_s_id_wioe8i7",
+    "word": "¿Dónde vives? / En Londres.",
+    "translation": "Onde você mora? / Em Londres.",
+    "syllables": [
+      "¿Dónde",
+      "vives?",
+      "/",
+      "En",
+      "Londres."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde ˈbiβes · en ˈlondɾes/",
+    "portuguesePhonetic": "[dônde bíbes · en lóndres]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_82",
-    "word": "¿Cuánta leche queda? / Aproximadamente medio cartón.",
-    "translation": "Quanto leite resta? / Aproximadamente meia caixa.",
-    "pronunciation": "/ˈkwanta ˈletʃe ˈkeða",
-    "portuguesePhonetic": "apɾoksimaðaˈmente ˈmeðjo kaɾˈton/"
+    "id": "leccion_1_gramatica_a2_s_id_r08fgxh",
+    "word": "¿Cuándo llegó él? / Por la tarde.",
+    "translation": "Quando ele chegou? / À tarde.",
+    "syllables": [
+      "¿Cuándo",
+      "llegó",
+      "él?",
+      "/",
+      "Por",
+      "la",
+      "tarde."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwando ʎeˈɣo el · poɾ la ˈtaɾðe/",
+    "portuguesePhonetic": "[kuándo lhegó él · por la tárde]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_83",
-    "word": "¿Por qué llora el bebé? / Porque tiene hambre.",
-    "translation": "Por que o bebê está chorando? / Porque está com fome.",
-    "pronunciation": "/poɾ ˈke ˈʝoɾa el beˈβe",
-    "portuguesePhonetic": "poɾˈke ˈtjene ˈambɾe/"
+    "id": "leccion_1_gramatica_a2_s_id_dvsxty3",
+    "word": "¿Por qué te fuiste? / Porque estaba cansado.",
+    "translation": "Por que você saiu? / Porque eu estava cansado.",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "te",
+      "fuiste?",
+      "/",
+      "Porque",
+      "estaba",
+      "cansado."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke te ˈfwiste · ˈpoɾke esˈtaβa kanˈsaðo/",
+    "portuguesePhonetic": "[por ké te fuíste · pórke estába kansádo]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_84",
-    "word": "¿Con qué frecuencia haces ejercicio? / Tres veces por semana.",
-    "translation": "Com que frequência você se exercita? / Três vezes por semana.",
-    "pronunciation": "/kon ke fɾeˈkwenθja ˈaθes exeɾˈθiθjo",
-    "portuguesePhonetic": "tɾes ˈbeθes poɾ seˈmana/"
+    "id": "leccion_1_gramatica_a2_s_id_ulk39wb",
+    "word": "¿Cómo fuiste? / En coche.",
+    "translation": "Como você foi? / De carro.",
+    "syllables": [
+      "¿Cómo",
+      "fuiste?",
+      "/",
+      "En",
+      "coche."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkomo ˈfwiste · en ˈkotʃe/",
+    "portuguesePhonetic": "[kómo fuíste · en kótche]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_85",
-    "word": "¿A qué distancia está la estación? / A diez minutos andando.",
-    "translation": "A que distância fica a estação? / A dez minutos a pé.",
-    "pronunciation": "/a ke disˈtanθja esˈta la estaˈθjon",
-    "portuguesePhonetic": "a ˈdjeθ miˈnutos anˈdando/"
+    "id": "leccion_1_gramatica_a2_s_id_dcfr8ym",
+    "word": "¿Qué estás haciendo? / Nada.",
+    "translation": "O que você está fazendo? / Nada.",
+    "syllables": [
+      "¿Qué",
+      "estás",
+      "haciendo?",
+      "/",
+      "Nada."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke esˈtas aˈθjendo · ˈnaða/",
+    "portuguesePhonetic": "[ke estás athiéndo · náda]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_86",
-    "word": "¿Dónde aparcaste? / Enfrente del banco.",
-    "translation": "Onde você estacionou? / Em frente ao banco.",
-    "pronunciation": "/ˈdonde apaɾˈkaste",
-    "portuguesePhonetic": "emˈfɾente del ˈbaŋko/"
+    "id": "leccion_1_gramatica_a2_s_id_6ufkczn",
+    "word": "¿Qué coche es mejor? / El rojo.",
+    "translation": "Qual carro é melhor? / O vermelho.",
+    "syllables": [
+      "¿Qué",
+      "coche",
+      "es",
+      "mejor?",
+      "/",
+      "El",
+      "rojo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈkotʃe es meˈxoɾ · el ˈroxo/",
+    "portuguesePhonetic": "[ke kótche és merrór · el rrórro]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_87",
-    "word": "¿Cuándo vuelves a casa? / Sobre las ocho.",
-    "translation": "Quando você volta para casa? / Por volta das oito.",
-    "pronunciation": "/ˈkwando ˈβwelβes a ˈkasa",
-    "portuguesePhonetic": "ˈsoβɾe las ˈotʃo/"
+    "id": "leccion_1_gramatica_a2_s_id_z8lhns0",
+    "word": "¿De quién es este libro? / Es mío.",
+    "translation": "De quem é este livro? / É meu.",
+    "syllables": [
+      "¿De",
+      "quién",
+      "es",
+      "este",
+      "libro?",
+      "/",
+      "Es",
+      "mío."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de kjen es ˈeste ˈliβɾo · es ˈmio/",
+    "portuguesePhonetic": "[de kién és éste líbro · és mío]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_88",
-    "word": "¿Qué tipo de música te gusta? / Sobre todo, el jazz.",
-    "translation": "Que tipo de música você gosta? / Principalmente jazz.",
-    "pronunciation": "/ke ˈtipo de ˈmusika te ˈɣusta",
-    "portuguesePhonetic": "ˈsoβɾe ˈtoðo el ʝas/"
+    "id": "leccion_1_gramatica_a2_s_id_wva7gt3",
+    "word": "¿Cuántas camas hay? / Tres.",
+    "translation": "Quantas camas tem? / Três.",
+    "syllables": [
+      "¿Cuántas",
+      "camas",
+      "hay?",
+      "/",
+      "Tres."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwantas ˈkamas ai · tɾes/",
+    "portuguesePhonetic": "[kuántas kámas ái · trés]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_89",
-    "word": "¿Cuánto tiempo llevas esperando? / Unos veinte minutos.",
-    "translation": "Há quanto tempo você está esperando? / Uns vinte minutos.",
-    "pronunciation": "/ˈkwanto ˈtjempo ˈʝeβas espeˈɾando",
-    "portuguesePhonetic": "ˈunos ˈbeinte miˈnutos/"
+    "id": "leccion_1_gramatica_a2_s_id_5tuk6r9",
+    "word": "¿Cuánto té hay? / Mucho.",
+    "translation": "Quanto chá tem? / Muito.",
+    "syllables": [
+      "¿Cuánto",
+      "té",
+      "hay?",
+      "/",
+      "Mucho."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto te ai · ˈmutʃo/",
+    "portuguesePhonetic": "[kuánto té ái · mútcho]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_90",
-    "word": "¿A quién invitaste? / A unos amigos del trabajo.",
-    "translation": "Quem você convidou? / Alguns amigos do trabalho.",
-    "pronunciation": "/a ˈkjen imbiˈtaste",
-    "portuguesePhonetic": "a ˈunos aˈmiɣos del tɾaˈβaxo/"
+    "id": "leccion_1_gramatica_a2_s_id_0bt8tgr",
+    "word": "¿Cuánto tiempo te quedaste? / Dos semanas.",
+    "translation": "Quanto tempo você ficou? / Duas semanas.",
+    "syllables": [
+      "¿Cuánto",
+      "tiempo",
+      "te",
+      "quedaste?",
+      "/",
+      "Dos",
+      "semanas."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto ˈtjempo te keˈðaste · dos seˈmanas/",
+    "portuguesePhonetic": "[kuánto tiémpo te kedáste · dos semánas]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_91",
-    "word": "¿Por qué no funcionaba la impresora? / Se había quedado sin papel.",
-    "translation": "Por que a impressora não funcionava? / Ela estava sem papel.",
-    "pronunciation": "/poɾ ˈke no funθjoˈnaβa la impɾeˈsoɾa",
-    "portuguesePhonetic": "se aˈβia keˈðaðo sim paˈpel/"
+    "id": "leccion_1_gramatica_a2_s_id_uqdvto3",
+    "word": "¿Con qué frecuencia vas? / Cada día.",
+    "translation": "Com que frequência você vai? / Todo dia.",
+    "syllables": [
+      "¿Con",
+      "qué",
+      "frecuencia",
+      "vas?",
+      "/",
+      "Cada",
+      "día."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kon ke fɾeˈkwenθja bas · ˈkaða ˈdia/",
+    "portuguesePhonetic": "[kon ke frekuéntia bas · káda día]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_92",
-    "word": "¿Qué tren debemos coger? / El tren exprés.",
-    "translation": "Qual trem devemos pegar? / O trem expresso.",
-    "pronunciation": "/ke tɾen deˈβemos koˈxeɾ",
-    "portuguesePhonetic": "el tɾen eksˈpɾes/"
+    "id": "leccion_1_gramatica_a2_s_id_j40mywe",
+    "word": "¿A qué distancia está el pueblo? / A un kilómetro.",
+    "translation": "Quão longe fica a cidade? / A um quilômetro.",
+    "syllables": [
+      "¿A",
+      "qué",
+      "distancia",
+      "está",
+      "el",
+      "pueblo?",
+      "/",
+      "A",
+      "un",
+      "kilómetro."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke disˈtanθja esˈta el ˈpweβlo · a un kiˈlometɾo/",
+    "portuguesePhonetic": "[a ke distántia está el puéblo · a un kilómetro]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_93",
-    "word": "¿Cómo aprendiste español? / Hice un curso por internet.",
-    "translation": "Como você aprendeu espanhol? / Fiz um curso pela internet.",
-    "pronunciation": "/ˈkomo apɾenˈdiste espaˈɲol",
-    "portuguesePhonetic": "ˈiθe un ˈkuɾso poɾ inteɾˈnet/"
+    "id": "leccion_1_gramatica_a2_s_id_o22i5fr",
+    "word": "¿Cuántos años tiene tu hermana? / Tiene 27.",
+    "translation": "Quantos anos sua irmã tem? / Ela tem 27.",
+    "syllables": [
+      "¿Cuántos",
+      "años",
+      "tiene",
+      "tu",
+      "hermana?",
+      "/",
+      "Tiene",
+      "27."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwantos ˈaɲos ˈtjene tu eɾˈmana · ˈtjene ˈbejntiˈsjete/",
+    "portuguesePhonetic": "[kuántos ánhos tiéne tu ermána · tiéne béintisiéte]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_94",
-    "word": "¿Qué hacías cuando te llamé? / Estaba preparando la cena.",
-    "translation": "O que você estava fazendo quando liguei? / Eu estava preparando o jantar.",
-    "pronunciation": "/ke aˈθias ˈkwando te ʝaˈme",
-    "portuguesePhonetic": "esˈtaba pɾepaˈɾando la ˈθena/"
+    "id": "leccion_1_gramatica_a2_s_id_n4mqsdi",
+    "word": "¿Es Sharon de los Estados Unidos? / Sí, lo es.",
+    "translation": "A Sharon é dos EUA? / Sim, é.",
+    "syllables": [
+      "¿Es",
+      "Sharon",
+      "de",
+      "los",
+      "Estados",
+      "Unidos?",
+      "/",
+      "Sí,",
+      "lo",
+      "es."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es ˈʃaɾon de los esˈtaðos uˈniðos · si lo es/",
+    "portuguesePhonetic": "[és cháron de los estádos unídos · sí lo és]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_95",
-    "word": "¿Dónde nos veremos si llueve? / Dentro de la cafetería.",
-    "translation": "Onde nos encontraremos se chover? / Dentro da cafeteria.",
-    "pronunciation": "/ˈdonde nos βeˈɾemos si ˈʝweβe",
-    "portuguesePhonetic": "ˈdentɾo de la kafeteˈɾia/"
+    "id": "leccion_1_gramatica_a2_s_id_litrwjw",
+    "word": "¿Cuántos años tienes? / Tengo 30.",
+    "translation": "Quantos anos você tem? / Tenho 30.",
+    "syllables": [
+      "¿Cuántos",
+      "años",
+      "tienes?",
+      "/",
+      "Tengo",
+      "30."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwantos ˈaɲos ˈtjenes · ˈteŋɡo ˈtɾejnta/",
+    "portuguesePhonetic": "[kuántos ánhos tiénes · téngo tréinta]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_96",
-    "word": "¿Cuánto costaría repararlo? / Unos doscientos euros.",
-    "translation": "Quanto custaria para consertá-lo? / Cerca de duzentos euros.",
-    "pronunciation": "/ˈkwanto kostaˈɾia repaˈɾaɾlo",
-    "portuguesePhonetic": "ˈunos dosˈθjentos ˈewɾos/"
+    "id": "leccion_1_gramatica_a2_s_id_g2ifw10",
+    "word": "¿Dónde estabas ayer? / En casa.",
+    "translation": "Onde você estava ontem? / Em casa.",
+    "syllables": [
+      "¿Dónde",
+      "estabas",
+      "ayer?",
+      "/",
+      "En",
+      "casa."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈtaβas aˈʝeɾ · en ˈkasa/",
+    "portuguesePhonetic": "[dônde estábas aiér · en kása]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_97",
-    "word": "¿Cuándo te diste cuenta de que habías perdido la cartera? / Después de salir de la tienda.",
-    "translation": "Quando você percebeu que havia perdido a carteira? / Depois de sair da loja.",
-    "pronunciation": "/ˈkwando te ˈðiste ˈkwenta de ke aˈβias peɾˈðiðo la kaɾˈteɾa",
-    "portuguesePhonetic": "desˈpwes de saˈliɾ de la ˈtjenda/"
+    "id": "leccion_1_gramatica_a2_s_id_sgi0yu4",
+    "word": "¿A qué hora se levanta él? / A las siete.",
+    "translation": "A que horas ele acorda? / Às sete.",
+    "syllables": [
+      "¿A",
+      "qué",
+      "hora",
+      "se",
+      "levanta",
+      "él?",
+      "/",
+      "A",
+      "las",
+      "siete."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke ˈoɾa se leˈβanta el · a las ˈsjete/",
+    "portuguesePhonetic": "[a ke óra se lebánta él · a las siéte]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_98",
-    "word": "¿Quién puede ayudarnos si el servidor se cae? / El equipo de redes.",
-    "translation": "Quem pode nos ajudar se o servidor ficar indisponível? / A equipe de redes.",
-    "pronunciation": "/ˈkjen ˈpweðe aʝuˈðaɾnos si el seɾβiˈðoɾ se ˈkae",
-    "portuguesePhonetic": "el eˈkipo de ˈreðes/"
+    "id": "leccion_1_gramatica_a2_s_id_10vjup7",
+    "word": "¿Cuánto pagaste por eso? / Cincuenta euros.",
+    "translation": "Quanto você pagou por isso? / Cinquenta euros.",
+    "syllables": [
+      "¿Cuánto",
+      "pagaste",
+      "por",
+      "eso?",
+      "/",
+      "Cincuenta",
+      "euros."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto paˈɣaste poɾ ˈeso · θiŋˈkwenta ˈewɾos/",
+    "portuguesePhonetic": "[kuánto pagáste por éso · thinkuénta éuros]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_99",
-    "word": "¿Por qué rechazaría ella la oferta? / Porque el horario es poco flexible.",
-    "translation": "Por que ela recusaria a oferta? / Porque o horário é pouco flexível.",
-    "pronunciation": "/poɾ ˈke retʃaθaˈɾia ˈeʝa la oˈfeɾta",
-    "portuguesePhonetic": "poɾˈke el oˈɾaɾjo es ˈpoko flekˈsiβle/"
+    "id": "leccion_1_gramatica_a2_s_id_1395jco",
+    "word": "¿Qué coche tienes? / Uno azul.",
+    "translation": "Que carro você tem? / Um azul.",
+    "syllables": [
+      "¿Qué",
+      "coche",
+      "tienes?",
+      "/",
+      "Uno",
+      "azul."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈkotʃe ˈtjenes · ˈuno aˈθul/",
+    "portuguesePhonetic": "[ke kótche tiénes · úno athúl]"
   },
   {
-    "id": "leccion_1_gramatica_a2_s_es_card_100",
-    "word": "¿Qué harías si cancelaran tu vuelo? / Llamaría a la compañía aérea y cambiaría la reserva.",
-    "translation": "O que você faria se cancelassem seu voo? / Eu ligaria para a companhia aérea e alteraria a reserva.",
-    "pronunciation": "/ke aˈɾias si kanθeˈlaɾan tu ˈbwelo",
-    "portuguesePhonetic": "ʝamaˈɾia a la kompaˈɲia aˈeɾea i kambiaˈɾia la reˈseɾβa/"
+    "id": "leccion_1_gramatica_a2_s_id_bn3496k",
+    "word": "¿Qué tipo de coche es? / Un híbrido.",
+    "translation": "Que tipo de carro é? / Um híbrido.",
+    "syllables": [
+      "¿Qué",
+      "tipo",
+      "de",
+      "coche",
+      "es?",
+      "/",
+      "Un",
+      "híbrido."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈtipo de ˈkotʃe es · un ˈiβɾiðo/",
+    "portuguesePhonetic": "[ke típo de kótche és · un íbrido]"
+  },
+  {
+    "id": "leccion_1_gramatica_a2_s_id_zxcknpf",
+    "word": "¿A qué hora llamó él? / A las siete.",
+    "translation": "A que horas ele ligou? / Às sete.",
+    "syllables": [
+      "¿A",
+      "qué",
+      "hora",
+      "llamó",
+      "él?",
+      "/",
+      "A",
+      "las",
+      "siete."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke ˈoɾa ʎaˈmo el · a las ˈsjete/",
+    "portuguesePhonetic": "[a ke óra lhamó él · a las siéte]"
+  },
+  {
+    "id": "leccion_1_gramatica_a2_s_id_w2h1zg4",
+    "word": "¿Te gusta la pizza? / Sí, me encanta.",
+    "translation": "Você gosta de pizza? / Sim, eu adoro.",
+    "syllables": [
+      "¿Te",
+      "gusta",
+      "la",
+      "pizza?",
+      "/",
+      "Sí,",
+      "me",
+      "encanta."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te ˈɡusta la ˈpiːtsa · si me eŋˈkanta/",
+    "portuguesePhonetic": "[te gústa la pítsa · sí me enkánta]"
+  },
+  {
+    "id": "leccion_1_gramatica_a2_s_id_fw8njk0",
+    "word": "¿Dónde está trabajando ella? / En un hospital.",
+    "translation": "Onde ela está trabalhando? / Num hospital.",
+    "syllables": [
+      "¿Dónde",
+      "está",
+      "trabajando",
+      "ella?",
+      "/",
+      "En",
+      "un",
+      "hospital."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta tɾaβaˈxando ˈeʎa · en un ospiˈtal/",
+    "portuguesePhonetic": "[dônde está trabarrándo élha · en un ospitál]"
+  },
+  {
+    "id": "leccion_1_gramatica_a2_s_id_uhxmxxq",
+    "word": "¿Cuándo nació ella? / En 1995.",
+    "translation": "Quando ela nasceu? / Em 1995.",
+    "syllables": [
+      "¿Cuándo",
+      "nació",
+      "ella?",
+      "/",
+      "En",
+      "1995."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwando naˈθjo ˈeʎa · en mil noβeˈθjentos noˈβenta i ˈθiŋko/",
+    "portuguesePhonetic": "[kuándo nathió élha · en mil nobethiéntos nobénta i thínko]"
   }
 ]

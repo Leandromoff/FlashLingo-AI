@@ -1,702 +1,1748 @@
 [
   {
-    "id": "lesson_1_grammar_a2_en_card_1",
+    "id": "lesson_1_grammar_a2_id_uqip1df",
     "word": "Do you like pizza?",
     "translation": "Você gosta de pizza?",
-    "pronunciation": "/du jə laɪk ˈpiːtsə/",
-    "portuguesePhonetic": "dú iâ láik pítsa?"
+    "syllables": [
+      "Do",
+      "you",
+      "like",
+      "pizza?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː laɪk ˈpiːtsə/",
+    "portuguesePhonetic": "[dú iú láik pítsa]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_2",
+    "id": "lesson_1_grammar_a2_id_7iyo2go",
     "word": "What time does he get up?",
-    "translation": "A que horas ele se levanta?",
-    "pronunciation": "/wʌt taɪm dəz hi ɡɛt ʌp/",
-    "portuguesePhonetic": "uót táim dâz rí guét âp?"
+    "translation": "A que horas ele acorda?",
+    "syllables": [
+      "What",
+      "time",
+      "does",
+      "he",
+      "get",
+      "up?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm dʌz hiː ɡɛt ʌp/",
+    "portuguesePhonetic": "[uât táim dâz rrí guét âp]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_3",
+    "id": "lesson_1_grammar_a2_id_b1k48z1",
     "word": "How much did you pay for it?",
     "translation": "Quanto você pagou por isso?",
-    "pronunciation": "/haʊ mʌtʃ dɪd jə peɪ fɔr ɪt/",
-    "portuguesePhonetic": "ráu mâtch did iâ pêi fór it?"
+    "syllables": [
+      "How",
+      "much",
+      "did",
+      "you",
+      "pay",
+      "for",
+      "it?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ mʌtʃ dɪd juː peɪ fɔːr ɪt/",
+    "portuguesePhonetic": "[rráu mâtch díd iú pêi fór ít]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_4",
+    "id": "lesson_1_grammar_a2_id_4tlctde",
     "word": "Where is she working?",
     "translation": "Onde ela está trabalhando?",
-    "pronunciation": "/wɛr ɪz ʃi ˈwɝkɪŋ/",
-    "portuguesePhonetic": "uér iz shi uârkin?"
+    "syllables": [
+      "Where",
+      "is",
+      "she",
+      "working?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɪz ʃiː ˈwɜːrkɪŋ/",
+    "portuguesePhonetic": "[uér iz chí uârkin]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_5",
-    "word": "What car do you have?",
+    "id": "lesson_1_grammar_a2_id_xeae4ck",
+    "word": "What car have you got?",
     "translation": "Que carro você tem?",
-    "pronunciation": "/wʌt kɑr du jə hæv/",
-    "portuguesePhonetic": "uót car dú iâ rév?"
+    "syllables": [
+      "What",
+      "car",
+      "have",
+      "you",
+      "got?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt kɑːr hæv juː ɡɑːt/",
+    "portuguesePhonetic": "[uât kár rrév iú gát]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_6",
+    "id": "lesson_1_grammar_a2_id_2o6wkti",
     "word": "Is Sharon from the US?",
-    "translation": "Sharon é dos Estados Unidos?",
-    "pronunciation": "/ɪz ˈʃɛrən frəm ðə juˈɛs/",
-    "portuguesePhonetic": "iz shérân frâm dâ iú-és?"
+    "translation": "A Sharon é dos EUA?",
+    "syllables": [
+      "Is",
+      "Sharon",
+      "from",
+      "the",
+      "US?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ˈʃɛrən frəm ðə juː ɛs/",
+    "portuguesePhonetic": "[iz chéran from dhi iú és]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_7",
+    "id": "lesson_1_grammar_a2_id_xzp9j5g",
     "word": "How old are you?",
     "translation": "Quantos anos você tem?",
-    "pronunciation": "/haʊ oʊld ɑr ju/",
-    "portuguesePhonetic": "ráu ôuld ar iú?"
+    "syllables": [
+      "How",
+      "old",
+      "are",
+      "you?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ oʊld ɑːr juː/",
+    "portuguesePhonetic": "[rráu ôuld ár iú]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_8",
+    "id": "lesson_1_grammar_a2_id_xlpsaay",
     "word": "Where were you yesterday?",
     "translation": "Onde você estava ontem?",
-    "pronunciation": "/wɛr wɝ ju ˈjɛstərdeɪ/",
-    "portuguesePhonetic": "uér uâr iú iésterdêi?"
+    "syllables": [
+      "Where",
+      "were",
+      "you",
+      "yesterday?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr wɜːr juː ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[uér uâr iú iéster dei]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_9",
+    "id": "lesson_1_grammar_a2_id_668bhdh",
     "word": "When was she born?",
     "translation": "Quando ela nasceu?",
-    "pronunciation": "/wɛn wəz ʃi bɔrn/",
-    "portuguesePhonetic": "uén uâz shi bórn?"
+    "syllables": [
+      "When",
+      "was",
+      "she",
+      "born?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛn wəz ʃiː bɔːrn/",
+    "portuguesePhonetic": "[uén uâz chí bórn]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_10",
-    "word": "Who’s that man? / That’s Peter.",
-    "translation": "Quem é aquele homem? / É o Peter.",
-    "pronunciation": "/huz ðæt mæn",
-    "portuguesePhonetic": "ðæts ˈpiːtər/"
+    "id": "lesson_1_grammar_a2_id_1fi65p5",
+    "word": "Who's that man?",
+    "translation": "Quem é aquele homem?",
+    "syllables": [
+      "Who's",
+      "that",
+      "man?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/huːz ðæt mæn/",
+    "portuguesePhonetic": "[rrúz dhét mén]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_11",
-    "word": "Where do you live? / In London.",
-    "translation": "Onde você mora? / Em Londres.",
-    "pronunciation": "/wɛr du jə lɪv",
-    "portuguesePhonetic": "ɪn ˈlʌndən/"
+    "id": "lesson_1_grammar_a2_id_nae69o7",
+    "word": "Where do you live?",
+    "translation": "Onde você mora?",
+    "syllables": [
+      "Where",
+      "do",
+      "you",
+      "live?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr duː juː lɪv/",
+    "portuguesePhonetic": "[uér dú iú lív]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_12",
-    "word": "When did he arrive? / In the afternoon.",
-    "translation": "Quando ele chegou? / À tarde.",
-    "pronunciation": "/wɛn dɪd hi əˈraɪv",
-    "portuguesePhonetic": "ɪn ði ˌæftərˈnun/"
+    "id": "lesson_1_grammar_a2_id_ggc4lu1",
+    "word": "When did he arrive?",
+    "translation": "Quando ele chegou?",
+    "syllables": [
+      "When",
+      "did",
+      "he",
+      "arrive?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛn dɪd hiː əˈraɪv/",
+    "portuguesePhonetic": "[uén díd rrí aráiv]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_13",
-    "word": "Why did you leave? / Because I was tired.",
-    "translation": "Por que você foi embora? / Porque eu estava cansado.",
-    "pronunciation": "/waɪ dɪd jə liv",
-    "portuguesePhonetic": "bɪˈkʌz aɪ wəz ˈtaɪərd/"
+    "id": "lesson_1_grammar_a2_id_3xceysx",
+    "word": "What time did he call?",
+    "translation": "A que horas ele ligou?",
+    "syllables": [
+      "What",
+      "time",
+      "did",
+      "he",
+      "call?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm dɪd hiː kɔːl/",
+    "portuguesePhonetic": "[uât táim díd rrí kól]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_14",
-    "word": "How did you go? / By car.",
-    "translation": "Como você foi? / De carro.",
-    "pronunciation": "/haʊ dɪd jə ɡoʊ",
-    "portuguesePhonetic": "baɪ kɑr/"
+    "id": "lesson_1_grammar_a2_id_qwvn01v",
+    "word": "Why did you leave?",
+    "translation": "Por que você saiu?",
+    "syllables": [
+      "Why",
+      "did",
+      "you",
+      "leave?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ dɪd juː liːv/",
+    "portuguesePhonetic": "[uái díd iú lív]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_15",
-    "word": "What are you doing? / Nothing.",
-    "translation": "O que você está fazendo? / Nada.",
-    "pronunciation": "/wʌt ɑr jə ˈduɪŋ",
-    "portuguesePhonetic": "ˈnʌθɪŋ/"
+    "id": "lesson_1_grammar_a2_id_h4abm76",
+    "word": "How did you go?",
+    "translation": "Como você foi?",
+    "syllables": [
+      "How",
+      "did",
+      "you",
+      "go?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ dɪd juː ɡoʊ/",
+    "portuguesePhonetic": "[rráu díd iú gôu]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_16",
-    "word": "Which car is better? / The red one.",
-    "translation": "Qual carro é melhor? / O vermelho.",
-    "pronunciation": "/wɪtʃ kɑr ɪz ˈbɛtər",
-    "portuguesePhonetic": "ðə rɛd wʌn/"
+    "id": "lesson_1_grammar_a2_id_r8h2lcb",
+    "word": "What are you doing?",
+    "translation": "O que você está fazendo?",
+    "syllables": [
+      "What",
+      "are",
+      "you",
+      "doing?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt ɑːr juː ˈduːɪŋ/",
+    "portuguesePhonetic": "[uât ár iú dúin]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_17",
-    "word": "Whose book is this? / It’s mine.",
-    "translation": "De quem é este livro? / É meu.",
-    "pronunciation": "/huz bʊk ɪz ðɪs",
-    "portuguesePhonetic": "ɪts maɪn/"
+    "id": "lesson_1_grammar_a2_id_snhau1y",
+    "word": "What kind of car is it?",
+    "translation": "Que tipo de carro é?",
+    "syllables": [
+      "What",
+      "kind",
+      "of",
+      "car",
+      "is",
+      "it?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt kaɪnd əv kɑːr ɪz ɪt/",
+    "portuguesePhonetic": "[uât káind ov kár iz ít]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_18",
-    "word": "What time did he call? / At seven.",
-    "translation": "A que horas ele ligou? / Às sete.",
-    "pronunciation": "/wʌt taɪm dɪd hi kɔl",
-    "portuguesePhonetic": "æt ˈsɛvən/"
+    "id": "lesson_1_grammar_a2_id_c2c0r40",
+    "word": "Which car is better?",
+    "translation": "Qual carro é melhor?",
+    "syllables": [
+      "Which",
+      "car",
+      "is",
+      "better?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪtʃ kɑːr ɪz ˈbɛtər/",
+    "portuguesePhonetic": "[uítch kár iz béter]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_19",
-    "word": "What kind of car is it? / A hybrid.",
-    "translation": "Que tipo de carro é? / Um híbrido.",
-    "pronunciation": "/wʌt kaɪnd əv kɑr ɪz ɪt",
-    "portuguesePhonetic": "ə ˈhaɪbrɪd/"
+    "id": "lesson_1_grammar_a2_id_g6ihnu6",
+    "word": "Whose book is this?",
+    "translation": "De quem é este livro?",
+    "syllables": [
+      "Whose",
+      "book",
+      "is",
+      "this?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/huːz bʊk ɪz ðɪs/",
+    "portuguesePhonetic": "[rrúz búk iz dhís]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_20",
-    "word": "How many beds are there? / Three.",
-    "translation": "Quantas camas há? / Três.",
-    "pronunciation": "/haʊ ˈmɛni bɛdz ɑr ðɛr",
-    "portuguesePhonetic": "θri/"
+    "id": "lesson_1_grammar_a2_id_l1y3uq2",
+    "word": "How many beds are there?",
+    "translation": "Quantas camas tem?",
+    "syllables": [
+      "How",
+      "many",
+      "beds",
+      "are",
+      "there?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ ˈmɛni bɛdz ɑːr ðɛr/",
+    "portuguesePhonetic": "[rráu méni bédz ár dhér]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_21",
-    "word": "How much tea is there? / A lot.",
-    "translation": "Quanto chá há? / Muito.",
-    "pronunciation": "/haʊ mʌtʃ ti ɪz ðɛr",
-    "portuguesePhonetic": "ə lɑt/"
+    "id": "lesson_1_grammar_a2_id_adptere",
+    "word": "How much tea is there?",
+    "translation": "Quanto chá tem?",
+    "syllables": [
+      "How",
+      "much",
+      "tea",
+      "is",
+      "there?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ mʌtʃ tiː ɪz ðɛr/",
+    "portuguesePhonetic": "[rráu mâtch tí iz dhér]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_22",
-    "word": "How long did you stay? / Two weeks.",
-    "translation": "Quanto tempo você ficou? / Duas semanas.",
-    "pronunciation": "/haʊ lɔŋ dɪd jə steɪ",
-    "portuguesePhonetic": "tu wiks/"
+    "id": "lesson_1_grammar_a2_id_9qhvg7u",
+    "word": "How long did you stay?",
+    "translation": "Quanto tempo você ficou?",
+    "syllables": [
+      "How",
+      "long",
+      "did",
+      "you",
+      "stay?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ lɔːŋ dɪd juː steɪ/",
+    "portuguesePhonetic": "[rráu lóN díd iú stêi]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_23",
-    "word": "How often do you go? / Every day.",
-    "translation": "Com que frequência você vai? / Todos os dias.",
-    "pronunciation": "/haʊ ˈɔfən du jə ɡoʊ",
-    "portuguesePhonetic": "ˈɛvri deɪ/"
+    "id": "lesson_1_grammar_a2_id_3wmmdmo",
+    "word": "How often do you go?",
+    "translation": "Com que frequência você vai?",
+    "syllables": [
+      "How",
+      "often",
+      "do",
+      "you",
+      "go?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ ˈɔːfn̩ duː juː ɡoʊ/",
+    "portuguesePhonetic": "[rráu ófan dú iú gôu]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_24",
-    "word": "How far is the town? / One mile away.",
-    "translation": "A que distância fica a cidade? / A uma milha.",
-    "pronunciation": "/haʊ fɑr ɪz ðə taʊn",
-    "portuguesePhonetic": "wʌn maɪl əˈweɪ/"
+    "id": "lesson_1_grammar_a2_id_vph19uc",
+    "word": "How far is the town?",
+    "translation": "Quão longe fica a cidade?",
+    "syllables": [
+      "How",
+      "far",
+      "is",
+      "the",
+      "town?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ fɑːr ɪz ðə taʊn/",
+    "portuguesePhonetic": "[rráu fár iz dha táun]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_25",
-    "word": "How old is your sister? / She’s twenty-seven.",
-    "translation": "Quantos anos sua irmã tem? / Ela tem 27.",
-    "pronunciation": "/haʊ oʊld ɪz jər ˈsɪstər",
-    "portuguesePhonetic": "ʃiz ˌtwɛnti ˈsɛvən/"
+    "id": "lesson_1_grammar_a2_id_rkp6i7p",
+    "word": "How old is your sister?",
+    "translation": "Quantos anos sua irmã tem?",
+    "syllables": [
+      "How",
+      "old",
+      "is",
+      "your",
+      "sister?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ oʊld ɪz jɔːr ˈsɪstər/",
+    "portuguesePhonetic": "[rráu ôuld iz iór síster]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_26",
-    "word": "Where is my passport?",
-    "translation": "Onde está meu passaporte?",
-    "pronunciation": "/wɛr ɪz maɪ ˈpæspɔrt/",
-    "portuguesePhonetic": "uér iz mái péspórt?"
+    "id": "lesson_1_grammar_a2_id_gvg2ziq",
+    "word": "Where are my keys?",
+    "translation": "Onde estão minhas chaves?",
+    "syllables": [
+      "Where",
+      "are",
+      "my",
+      "keys?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɑːr maɪ kiːz/",
+    "portuguesePhonetic": "[uér ár mái kíz]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_27",
-    "word": "What time does the airport shuttle leave?",
-    "translation": "A que horas sai o transporte para o aeroporto?",
-    "pronunciation": "/wʌt taɪm dəz ði ˈɛrˌpɔrt ˈʃʌtəl liv/",
-    "portuguesePhonetic": "uót táim dâz dhi érport shâtol lív?"
+    "id": "lesson_1_grammar_a2_id_hw90a18",
+    "word": "What time do you leave for work?",
+    "translation": "A que horas você sai para o trabalho?",
+    "syllables": [
+      "What",
+      "time",
+      "do",
+      "you",
+      "leave",
+      "for",
+      "work?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm duː juː liːv fɔːr wɜːrk/",
+    "portuguesePhonetic": "[uât táim dú iú lív fór uârk]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_28",
-    "word": "Which terminal do we need?",
-    "translation": "De qual terminal precisamos?",
-    "pronunciation": "/wɪtʃ ˈtɝmənəl du wi nid/",
-    "portuguesePhonetic": "uítch târmanâl dú uí níd?"
+    "id": "lesson_1_grammar_a2_id_xc30diz",
+    "word": "How do you get to the office?",
+    "translation": "Como você chega ao escritório?",
+    "syllables": [
+      "How",
+      "do",
+      "you",
+      "get",
+      "to",
+      "the",
+      "office?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ duː juː ɡɛt tə ðə ˈɔːfɪs/",
+    "portuguesePhonetic": "[rráu dú iú guét tu dhi ófis]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_29",
+    "id": "lesson_1_grammar_a2_id_p0le92t",
+    "word": "How long does it take?",
+    "translation": "Quanto tempo demora?",
+    "syllables": [
+      "How",
+      "long",
+      "does",
+      "it",
+      "take?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ lɔːŋ dʌz ɪt teɪk/",
+    "portuguesePhonetic": "[rráu lóN dâz ít têik]"
+  },
+  {
+    "id": "lesson_1_grammar_a2_id_b8tyyxb",
+    "word": "How much is this bread?",
+    "translation": "Quanto custa este pão?",
+    "syllables": [
+      "How",
+      "much",
+      "is",
+      "this",
+      "bread?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ mʌtʃ ɪz ðɪs brɛd/",
+    "portuguesePhonetic": "[rráu mâtch iz dhís bréd]"
+  },
+  {
+    "id": "lesson_1_grammar_a2_id_rh76dzx",
+    "word": "How many apples do you want?",
+    "translation": "Quantas maçãs você quer?",
+    "syllables": [
+      "How",
+      "many",
+      "apples",
+      "do",
+      "you",
+      "want?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ ˈmɛni ˈæpl̩z duː juː wɑːnt/",
+    "portuguesePhonetic": "[rráu méni épouz dú iú uánt]"
+  },
+  {
+    "id": "lesson_1_grammar_a2_id_iv1kzi4",
+    "word": "Where can I find the milk?",
+    "translation": "Onde eu encontro o leite?",
+    "syllables": [
+      "Where",
+      "can",
+      "I",
+      "find",
+      "the",
+      "milk?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr kæn aɪ faɪnd ðə mɪlk/",
+    "portuguesePhonetic": "[uér kén ái fáind dha míouk]"
+  },
+  {
+    "id": "lesson_1_grammar_a2_id_fhulgiu",
+    "word": "What time does the meeting start?",
+    "translation": "A que horas a reunião começa?",
+    "syllables": [
+      "What",
+      "time",
+      "does",
+      "the",
+      "meeting",
+      "start?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm dʌz ðə ˈmiːtɪŋ stɑːrt/",
+    "portuguesePhonetic": "[uât táim dâz dha mítin stárt]"
+  },
+  {
+    "id": "lesson_1_grammar_a2_id_b3l2m5z",
+    "word": "Who is in charge of this project?",
+    "translation": "Quem está encarregado deste projeto?",
+    "syllables": [
+      "Who",
+      "is",
+      "in",
+      "charge",
+      "of",
+      "this",
+      "project?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/huː ɪz ɪn tʃɑːrdʒ əv ðɪs ˈprɑːdʒɛkt/",
+    "portuguesePhonetic": "[rrú iz in tchárdj ov dhís prádjekt]"
+  },
+  {
+    "id": "lesson_1_grammar_a2_id_psy3l4q",
+    "word": "Why is the report late?",
+    "translation": "Por que o relatório está atrasado?",
+    "syllables": [
+      "Why",
+      "is",
+      "the",
+      "report",
+      "late?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ɪz ðə rɪˈpɔːrt leɪt/",
+    "portuguesePhonetic": "[uái iz dha ripórt lêit]"
+  },
+  {
+    "id": "lesson_1_grammar_a2_id_e4qiyi6",
     "word": "How far is the airport?",
-    "translation": "A que distância fica o aeroporto?",
-    "pronunciation": "/haʊ fɑr ɪz ði ˈɛrˌpɔrt/",
-    "portuguesePhonetic": "ráu fár iz dhi érport?"
+    "translation": "Quão longe fica o aeroporto?",
+    "syllables": [
+      "How",
+      "far",
+      "is",
+      "the",
+      "airport?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ fɑːr ɪz ðə ˈɛrpɔːrt/",
+    "portuguesePhonetic": "[rráu fár iz dhi érport]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_30",
-    "word": "How long does the ride take?",
-    "translation": "Quanto tempo dura o trajeto?",
-    "pronunciation": "/haʊ lɔŋ dəz ðə raɪd teɪk/",
-    "portuguesePhonetic": "ráu lóng dâz dâ ráid têik?"
+    "id": "lesson_1_grammar_a2_id_gwocgba",
+    "word": "How long is the flight?",
+    "translation": "Quanto tempo dura o voo?",
+    "syllables": [
+      "How",
+      "long",
+      "is",
+      "the",
+      "flight?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ lɔːŋ ɪz ðə flaɪt/",
+    "portuguesePhonetic": "[rráu lóN iz dha fláit]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_31",
-    "word": "Who is checking the bags?",
-    "translation": "Quem está despachando as malas?",
-    "pronunciation": "/hu ɪz ˈtʃɛkɪŋ ðə bæɡz/",
-    "portuguesePhonetic": "rú iz tchékin dâ bégz?"
+    "id": "lesson_1_grammar_a2_id_6frutuf",
+    "word": "Where is the hotel located?",
+    "translation": "Onde fica o hotel?",
+    "syllables": [
+      "Where",
+      "is",
+      "the",
+      "hotel",
+      "located?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɪz ðə hoʊˈtɛl ˈloʊkeɪtɪd/",
+    "portuguesePhonetic": "[uér iz dha rroutél lôukeited]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_32",
-    "word": "How many suitcases do you have?",
-    "translation": "Quantas malas você tem?",
-    "pronunciation": "/haʊ ˈmɛni ˈsutˌkeɪsɪz du jə hæv/",
-    "portuguesePhonetic": "ráu méni sút-kêissiz dú iâ rév?"
+    "id": "lesson_1_grammar_a2_id_7roiw86",
+    "word": "Which gate does the plane leave from?",
+    "translation": "De qual portão o avião sai?",
+    "syllables": [
+      "Which",
+      "gate",
+      "does",
+      "the",
+      "plane",
+      "leave",
+      "from?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪtʃ ɡeɪt dʌz ðə pleɪn liːv frəm/",
+    "portuguesePhonetic": "[uítch guêit dâz dha plêin lív from]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_33",
-    "word": "How much does this bag weigh?",
-    "translation": "Quanto pesa esta mala?",
-    "pronunciation": "/haʊ mʌtʃ dəz ðɪs bæɡ weɪ/",
-    "portuguesePhonetic": "ráu mâtch dâz dhis bég uêi?"
+    "id": "lesson_1_grammar_a2_id_578mjic",
+    "word": "What do you recommend?",
+    "translation": "O que você recomenda?",
+    "syllables": [
+      "What",
+      "do",
+      "you",
+      "recommend?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt duː juː ˌrɛkəˈmɛnd/",
+    "portuguesePhonetic": "[uât dú iú rekamênd]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_34",
-    "word": "Why is the line so long?",
-    "translation": "Por que a fila está tão longa?",
-    "pronunciation": "/waɪ ɪz ðə laɪn soʊ lɔŋ/",
-    "portuguesePhonetic": "uái iz dâ láin sôu lóng?"
+    "id": "lesson_1_grammar_a2_id_u3fetyf",
+    "word": "How much is the total?",
+    "translation": "Quanto é o total?",
+    "syllables": [
+      "How",
+      "much",
+      "is",
+      "the",
+      "total?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ mʌtʃ ɪz ðə ˈtoʊtl̩/",
+    "portuguesePhonetic": "[rráu mâtch iz dha tôutou]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_35",
-    "word": "What kind of ID do I need?",
-    "translation": "Que tipo de documento de identificação eu preciso?",
-    "pronunciation": "/wʌt kaɪnd əv aɪˈdi du aɪ nid/",
-    "portuguesePhonetic": "uót káind âv ai-dí dú ái níd?"
+    "id": "lesson_1_grammar_a2_id_9ptyi49",
+    "word": "How long have you had this pain?",
+    "translation": "Há quanto tempo você tem essa dor?",
+    "syllables": [
+      "How",
+      "long",
+      "have",
+      "you",
+      "had",
+      "this",
+      "pain?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ lɔːŋ hæv juː hæd ðɪs peɪn/",
+    "portuguesePhonetic": "[rráu lóN rrév iú rréd dhís pêin]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_36",
-    "word": "Where can I check in?",
-    "translation": "Onde posso fazer o check-in?",
-    "pronunciation": "/wɛr kæn aɪ tʃɛk ɪn/",
-    "portuguesePhonetic": "uér kén ái tchék in?"
+    "id": "lesson_1_grammar_a2_id_yp82i7r",
+    "word": "What's wrong with you?",
+    "translation": "O que há de errado com você?",
+    "syllables": [
+      "What's",
+      "wrong",
+      "with",
+      "you?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts rɔːŋ wɪð juː/",
+    "portuguesePhonetic": "[uâts róN uídh iú]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_37",
-    "word": "When does boarding start?",
-    "translation": "Quando começa o embarque?",
-    "pronunciation": "/wɛn dəz ˈbɔrdɪŋ stɑrt/",
-    "portuguesePhonetic": "uén dâz bórdin stárt?"
+    "id": "lesson_1_grammar_a2_id_a2c78ck",
+    "word": "Whose idea was this?",
+    "translation": "De quem foi essa ideia?",
+    "syllables": [
+      "Whose",
+      "idea",
+      "was",
+      "this?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/huːz aɪˈdiːə wəz ðɪs/",
+    "portuguesePhonetic": "[rrúz aidía uâz dhís]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_38",
-    "word": "Which gate are we using?",
-    "translation": "Qual portão vamos usar?",
-    "pronunciation": "/wɪtʃ ɡeɪt ɑr wi ˈjuzɪŋ/",
-    "portuguesePhonetic": "uítch gêit ar uí iúzin?"
+    "id": "lesson_1_grammar_a2_id_absb1ll",
+    "word": "How often do you two meet up?",
+    "translation": "Com que frequência vocês dois se encontram?",
+    "syllables": [
+      "How",
+      "often",
+      "do",
+      "you",
+      "two",
+      "meet",
+      "up?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ ˈɔːfn̩ duː juː tuː miːt ʌp/",
+    "portuguesePhonetic": "[rráu ófan dú iú tú mít âp]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_39",
-    "word": "Whose backpack is this?",
-    "translation": "De quem é esta mochila?",
-    "pronunciation": "/huz ˈbækˌpæk ɪz ðɪs/",
-    "portuguesePhonetic": "rúz bék-pék iz dhis?"
+    "id": "lesson_1_grammar_a2_id_1jkemkd",
+    "word": "Which movie do you want to watch?",
+    "translation": "Qual filme você quer assistir?",
+    "syllables": [
+      "Which",
+      "movie",
+      "do",
+      "you",
+      "want",
+      "to",
+      "watch?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪtʃ ˈmuːvi duː juː wɑːnt tə wɑːtʃ/",
+    "portuguesePhonetic": "[uítch múvi dú iú uánt tu uátch]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_40",
-    "word": "How often do flights get delayed?",
-    "translation": "Com que frequência os voos atrasam?",
-    "pronunciation": "/haʊ ˈɔfən du flaɪts ɡɛt dɪˈleɪd/",
-    "portuguesePhonetic": "ráu ófen dú fláits guét dilêid?"
+    "id": "lesson_1_grammar_a2_id_g60ezc0",
+    "word": "What's the weather like today?",
+    "translation": "Como está o tempo hoje?",
+    "syllables": [
+      "What's",
+      "the",
+      "weather",
+      "like",
+      "today?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts ðə ˈwɛðər laɪk təˈdeɪ/",
+    "portuguesePhonetic": "[uâts dha uédher láik tudêi]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_41",
-    "word": "What are you looking for?",
-    "translation": "O que você está procurando?",
-    "pronunciation": "/wʌt ɑr jə ˈlʊkɪŋ fɔr/",
-    "portuguesePhonetic": "uót ar iâ lúkin fór?"
+    "id": "lesson_1_grammar_a2_id_bsx1jr8",
+    "word": "How cold is it outside?",
+    "translation": "Quão frio está lá fora?",
+    "syllables": [
+      "How",
+      "cold",
+      "is",
+      "it",
+      "outside?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ koʊld ɪz ɪt ˌaʊtˈsaɪd/",
+    "portuguesePhonetic": "[rráu kôuld iz ít autsáid]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_42",
-    "word": "Who is sitting by the window?",
-    "translation": "Quem está sentado perto da janela?",
-    "pronunciation": "/hu ɪz ˈsɪtɪŋ baɪ ðə ˈwɪndoʊ/",
-    "portuguesePhonetic": "rú iz sítin bái dâ uíndou?"
+    "id": "lesson_1_grammar_a2_id_pfefs91",
+    "word": "How many students are in your class?",
+    "translation": "Quantos alunos tem na sua turma?",
+    "syllables": [
+      "How",
+      "many",
+      "students",
+      "are",
+      "in",
+      "your",
+      "class?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ ˈmɛni ˈstuːdənts ɑːr ɪn jɔːr klæs/",
+    "portuguesePhonetic": "[rráu méni stúdents ár in iór klés]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_43",
-    "word": "Why did they change our gate?",
-    "translation": "Por que eles mudaram nosso portão?",
-    "pronunciation": "/waɪ dɪd ðeɪ tʃeɪndʒ aʊər ɡeɪt/",
-    "portuguesePhonetic": "uái did dhêi tchêindj áuer gêit?"
+    "id": "lesson_1_grammar_a2_id_0ny4zet",
+    "word": "When is the exam?",
+    "translation": "Quando é a prova?",
+    "syllables": [
+      "When",
+      "is",
+      "the",
+      "exam?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛn ɪz ðə ɪɡˈzæm/",
+    "portuguesePhonetic": "[uén iz dhi igzém]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_44",
-    "word": "How did you book the tickets?",
-    "translation": "Como você reservou as passagens?",
-    "pronunciation": "/haʊ dɪd jə bʊk ðə ˈtɪkəts/",
-    "portuguesePhonetic": "ráu did iâ búk dâ tíkets?"
+    "id": "lesson_1_grammar_a2_id_q6uwesi",
+    "word": "Who is she?",
+    "translation": "Quem é ela?",
+    "syllables": [
+      "Who",
+      "is",
+      "she?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/huː ɪz ʃiː/",
+    "portuguesePhonetic": "[rrú iz chí]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_45",
-    "word": "What time are we landing?",
-    "translation": "A que horas vamos aterrissar?",
-    "pronunciation": "/wʌt taɪm ɑr wi ˈlændɪŋ/",
-    "portuguesePhonetic": "uót táim ar uí léndin?"
-  },
-  {
-    "id": "lesson_1_grammar_a2_en_card_46",
-    "word": "Where are we staying?",
-    "translation": "Onde vamos nos hospedar?",
-    "pronunciation": "/wɛr ɑr wi ˈsteɪɪŋ/",
-    "portuguesePhonetic": "uér ar uí stêiin?"
-  },
-  {
-    "id": "lesson_1_grammar_a2_en_card_47",
-    "word": "How much is a taxi to downtown?",
-    "translation": "Quanto custa um táxi até o centro?",
-    "pronunciation": "/haʊ mʌtʃ ɪz ə ˈtæksi tə ˈdaʊnˌtaʊn/",
-    "portuguesePhonetic": "ráu mâtch iz â téksi tâ dáun-táun?"
-  },
-  {
-    "id": "lesson_1_grammar_a2_en_card_48",
-    "word": "How long are we staying?",
-    "translation": "Quanto tempo vamos ficar?",
-    "pronunciation": "/haʊ lɔŋ ɑr wi ˈsteɪɪŋ/",
-    "portuguesePhonetic": "ráu lóng ar uí stêiin?"
-  },
-  {
-    "id": "lesson_1_grammar_a2_en_card_49",
-    "word": "What do you want to visit first?",
-    "translation": "O que você quer visitar primeiro?",
-    "pronunciation": "/wʌt du jə wɑnt tə ˈvɪzɪt fɝst/",
-    "portuguesePhonetic": "uót dú iâ uánt tâ vízit fârst?"
-  },
-  {
-    "id": "lesson_1_grammar_a2_en_card_50",
-    "word": "When should we come back to the airport?",
-    "translation": "Quando devemos voltar ao aeroporto?",
-    "pronunciation": "/wɛn ʃʊd wi kʌm bæk tə ði ˈɛrˌpɔrt/",
-    "portuguesePhonetic": "uén shud uí câm bék tâ dhi érport?"
-  },
-  {
-    "id": "lesson_1_grammar_a2_en_card_51",
-    "word": "Who called you?",
-    "translation": "Quem ligou para você?",
-    "pronunciation": "/hu kɔld ju/",
-    "portuguesePhonetic": "rú cóld iú?"
-  },
-  {
-    "id": "lesson_1_grammar_a2_en_card_52",
+    "id": "lesson_1_grammar_a2_id_39dob5t",
     "word": "Where do you work?",
     "translation": "Onde você trabalha?",
-    "pronunciation": "/wɛr du jə wɝk/",
-    "portuguesePhonetic": "uér dú iâ uârk?"
+    "syllables": [
+      "Where",
+      "do",
+      "you",
+      "work?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr duː juː wɜːrk/",
+    "portuguesePhonetic": "[uér dú iú uârk]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_53",
-    "word": "What do you need?",
-    "translation": "Do que você precisa?",
-    "pronunciation": "/wʌt du jə nid/",
-    "portuguesePhonetic": "uót dú iâ níd?"
+    "id": "lesson_1_grammar_a2_id_xwjs6m7",
+    "word": "What is this?",
+    "translation": "O que é isso?",
+    "syllables": [
+      "What",
+      "is",
+      "this?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt ɪz ðɪs/",
+    "portuguesePhonetic": "[uât iz dhís]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_54",
-    "word": "When does the store open?",
-    "translation": "Quando a loja abre?",
-    "pronunciation": "/wɛn dəz ðə stɔr ˈoʊpən/",
-    "portuguesePhonetic": "uén dâz dâ stór ôupen?"
+    "id": "lesson_1_grammar_a2_id_bqzgtxk",
+    "word": "When is it?",
+    "translation": "Quando é?",
+    "syllables": [
+      "When",
+      "is",
+      "it?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛn ɪz ɪt/",
+    "portuguesePhonetic": "[uén iz ít]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_55",
-    "word": "Why are you upset?",
-    "translation": "Por que você está chateado?",
-    "pronunciation": "/waɪ ɑr jə ʌpˈsɛt/",
-    "portuguesePhonetic": "uái ar iâ apsét?"
+    "id": "lesson_1_grammar_a2_id_os8v8ic",
+    "word": "How old is your dog?",
+    "translation": "Quantos anos seu cachorro tem?",
+    "syllables": [
+      "How",
+      "old",
+      "is",
+      "your",
+      "dog?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ oʊld ɪz jɔːr dɔːɡ/",
+    "portuguesePhonetic": "[rráu ôuld iz iór dóg]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_56",
-    "word": "How can I help?",
-    "translation": "Como posso ajudar?",
-    "pronunciation": "/haʊ kæn aɪ hɛlp/",
-    "portuguesePhonetic": "ráu kén ái rélp?"
+    "id": "lesson_1_grammar_a2_id_8taukx7",
+    "word": "Why are you late?",
+    "translation": "Por que você está atrasado?",
+    "syllables": [
+      "Why",
+      "are",
+      "you",
+      "late?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ɑːr juː leɪt/",
+    "portuguesePhonetic": "[uái ár iú lêit]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_57",
-    "word": "Which bus goes downtown?",
-    "translation": "Qual ônibus vai para o centro?",
-    "pronunciation": "/wɪtʃ bʌs ɡoʊz ˈdaʊnˌtaʊn/",
-    "portuguesePhonetic": "uítch bâs gôuz dáun-táun?"
+    "id": "lesson_1_grammar_a2_id_7id75dn",
+    "word": "What time do you usually wake up?",
+    "translation": "A que horas você geralmente acorda?",
+    "syllables": [
+      "What",
+      "time",
+      "do",
+      "you",
+      "usually",
+      "wake",
+      "up?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm duː juː ˈjuːʒuəli weɪk ʌp/",
+    "portuguesePhonetic": "[uât táim dú iú iújuali uêik âp]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_58",
-    "word": "Whose phone is ringing?",
-    "translation": "O telefone de quem está tocando?",
-    "pronunciation": "/huz foʊn ɪz ˈrɪŋɪŋ/",
-    "portuguesePhonetic": "rúz fôun iz rínguin?"
+    "id": "lesson_1_grammar_a2_id_i8wix7b",
+    "word": "How much does this cost?",
+    "translation": "Quanto isso custa?",
+    "syllables": [
+      "How",
+      "much",
+      "does",
+      "this",
+      "cost?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ mʌtʃ dʌz ðɪs kɔːst/",
+    "portuguesePhonetic": "[rráu mâtch dâz dhís kóst]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_59",
-    "word": "How many tickets do we need?",
-    "translation": "De quantas passagens precisamos?",
-    "pronunciation": "/haʊ ˈmɛni ˈtɪkəts du wi nid/",
-    "portuguesePhonetic": "ráu méni tíkets dú uí níd?"
+    "id": "lesson_1_grammar_a2_id_wn2ap2r",
+    "word": "Don't you like coffee?",
+    "translation": "Você não gosta de café?",
+    "syllables": [
+      "Don't",
+      "you",
+      "like",
+      "coffee?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/doʊnt juː laɪk ˈkɔːfi/",
+    "portuguesePhonetic": "[dôunt iú láik kófi]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_60",
-    "word": "How much does it cost?",
-    "translation": "Quanto custa?",
-    "pronunciation": "/haʊ mʌtʃ dəz ɪt kɔst/",
-    "portuguesePhonetic": "ráu mâtch dâz it cóst?"
+    "id": "lesson_1_grammar_a2_id_pq9yjeu",
+    "word": "Isn't she coming?",
+    "translation": "Ela não vem?",
+    "syllables": [
+      "Isn't",
+      "she",
+      "coming?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɪznt ʃiː ˈkʌmɪŋ/",
+    "portuguesePhonetic": "[íznt chí kâmin]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_61",
-    "word": "Where did you put the keys?",
-    "translation": "Onde você colocou as chaves?",
-    "pronunciation": "/wɛr dɪd jə pʊt ðə kiz/",
-    "portuguesePhonetic": "uér did iâ put dâ kíz?"
-  },
-  {
-    "id": "lesson_1_grammar_a2_en_card_62",
-    "word": "What time were you supposed to arrive?",
-    "translation": "A que horas você deveria chegar?",
-    "pronunciation": "/wʌt taɪm wɝ jə səˈpoʊzd tə əˈraɪv/",
-    "portuguesePhonetic": "uót táim uâr iâ sapôuzd tâ arráiv?"
-  },
-  {
-    "id": "lesson_1_grammar_a2_en_card_63",
-    "word": "How long have you lived here?",
-    "translation": "Há quanto tempo você mora aqui?",
-    "pronunciation": "/haʊ lɔŋ hæv jə lɪvd hɪr/",
-    "portuguesePhonetic": "ráu lóng rév iâ livd rír?"
-  },
-  {
-    "id": "lesson_1_grammar_a2_en_card_64",
-    "word": "How often have you traveled alone?",
-    "translation": "Com que frequência você viajou sozinho?",
-    "pronunciation": "/haʊ ˈɔfən hæv jə ˈtrævəld əˈloʊn/",
-    "portuguesePhonetic": "ráu ófen rév iâ tréveld alôun?"
-  },
-  {
-    "id": "lesson_1_grammar_a2_en_card_65",
-    "word": "Why didn’t you call me?",
+    "id": "lesson_1_grammar_a2_id_h10xpik",
+    "word": "Why didn't you call me?",
     "translation": "Por que você não me ligou?",
-    "pronunciation": "/waɪ ˈdɪdənt jə kɔl mi/",
-    "portuguesePhonetic": "uái dídânt iâ cól mí?"
+    "syllables": [
+      "Why",
+      "didn't",
+      "you",
+      "call",
+      "me?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ˈdɪdnt juː kɔːl miː/",
+    "portuguesePhonetic": "[uái dídent iú kól mí]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_66",
-    "word": "Who were you talking to when I arrived?",
-    "translation": "Com quem você estava falando quando eu cheguei?",
-    "pronunciation": "/hu wɝ jə ˈtɔkɪŋ tu wɛn aɪ əˈraɪvd/",
-    "portuguesePhonetic": "rú uâr iâ tókin tú uén ái arráivd?"
+    "id": "lesson_1_grammar_a2_id_dbq3xw3",
+    "word": "Haven't you finished yet?",
+    "translation": "Você ainda não terminou?",
+    "syllables": [
+      "Haven't",
+      "you",
+      "finished",
+      "yet?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈhævnt juː ˈfɪnɪʃt jɛt/",
+    "portuguesePhonetic": "[rrévent iú fínicht iét]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_67",
-    "word": "Which restaurant would you choose if both were open?",
-    "translation": "Qual restaurante você escolheria se os dois estivessem abertos?",
-    "pronunciation": "/wɪtʃ ˈrɛstəˌrɑnt wʊd jə tʃuz ɪf boʊθ wɝ ˈoʊpən/",
-    "portuguesePhonetic": "uítch réstârânt ud iâ tchúz if bôuth uâr ôupen?"
+    "id": "lesson_1_grammar_a2_id_ub504x2",
+    "word": "What were you doing when I called?",
+    "translation": "O que você estava fazendo quando eu liguei?",
+    "syllables": [
+      "What",
+      "were",
+      "you",
+      "doing",
+      "when",
+      "I",
+      "called?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt wɜːr juː ˈduːɪŋ wɛn aɪ kɔːld/",
+    "portuguesePhonetic": "[uât uâr iú dúin uén ái kóld]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_68",
-    "word": "How much extra did you spend because the hotel was full?",
-    "translation": "Quanto a mais você gastou porque o hotel estava lotado?",
-    "pronunciation": "/haʊ mʌtʃ ˈɛkstrə dɪd jə spɛnd bɪˈkʌz ðə hoʊˈtɛl wəz fʊl/",
-    "portuguesePhonetic": "ráu mâtch ékstra did iâ spénd bicâz dâ routél uâz ful?"
+    "id": "lesson_1_grammar_a2_id_bot5rn9",
+    "word": "How long had you been waiting before the bus came?",
+    "translation": "Quanto tempo você tinha esperado antes do ônibus chegar?",
+    "syllables": [
+      "How",
+      "long",
+      "had",
+      "you",
+      "been",
+      "waiting",
+      "before",
+      "the",
+      "bus",
+      "came?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ lɔːŋ hæd juː bɪn ˈweɪtɪŋ bɪˈfɔːr ðə bʌs keɪm/",
+    "portuguesePhonetic": "[rráu lóN rréd iú bín uêitin bifór dha bâs kêim]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_69",
-    "word": "Where will you stay when you get to Madrid?",
-    "translation": "Onde você ficará quando chegar a Madri?",
-    "pronunciation": "/wɛr wɪl jə steɪ wɛn jə ɡɛt tə məˈdrɪd/",
-    "portuguesePhonetic": "uér uil iâ stêi uén iâ guét tâ madríd?"
+    "id": "lesson_1_grammar_a2_id_memc8uk",
+    "word": "Why didn't you tell me, when you knew the truth?",
+    "translation": "Por que você não me contou, quando sabia a verdade?",
+    "syllables": [
+      "Why",
+      "didn't",
+      "you",
+      "tell",
+      "me,",
+      "when",
+      "you",
+      "knew",
+      "the",
+      "truth?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ˈdɪdnt juː tɛl miː wɛn juː nuː ðə truːθ/",
+    "portuguesePhonetic": "[uái dídent iú tél mí uén iú niú dha trúth]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_70",
-    "word": "What kind of job are you looking for now?",
-    "translation": "Que tipo de emprego você está procurando agora?",
-    "pronunciation": "/wʌt kaɪnd əv dʒɑb ɑr jə ˈlʊkɪŋ fɔr naʊ/",
-    "portuguesePhonetic": "uót káind âv djób ar iâ lúkin fór náu?"
+    "id": "lesson_1_grammar_a2_id_5424fbh",
+    "word": "What will you do if it rains tomorrow?",
+    "translation": "O que você vai fazer se chover amanhã?",
+    "syllables": [
+      "What",
+      "will",
+      "you",
+      "do",
+      "if",
+      "it",
+      "rains",
+      "tomorrow?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt wɪl juː duː ɪf ɪt reɪnz təˈmɑːroʊ/",
+    "portuguesePhonetic": "[uât uíou iú dú if ít rêinz tumárou]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_71",
-    "word": "Why haven’t they answered us yet?",
-    "translation": "Por que eles ainda não nos responderam?",
-    "pronunciation": "/waɪ ˈhævənt ðeɪ ˈænsərd ʌs jɛt/",
-    "portuguesePhonetic": "uái révânt dhêi énserd âs iét?"
+    "id": "lesson_1_grammar_a2_id_00hov4c",
+    "word": "Where would you go if you had more time?",
+    "translation": "Onde você iria se tivesse mais tempo?",
+    "syllables": [
+      "Where",
+      "would",
+      "you",
+      "go",
+      "if",
+      "you",
+      "had",
+      "more",
+      "time?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr wʊd juː ɡoʊ ɪf juː hæd mɔːr taɪm/",
+    "portuguesePhonetic": "[uér uúd iú gôu if iú rréd mór táim]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_72",
-    "word": "How far had you walked before it started raining?",
-    "translation": "Que distância você tinha caminhado antes de começar a chover?",
-    "pronunciation": "/haʊ fɑr hæd jə wɔkt bɪˈfɔr ɪt ˈstɑrtəd ˈreɪnɪŋ/",
-    "portuguesePhonetic": "ráu fár réd iâ uókt bifór it stárted rêinin?"
+    "id": "lesson_1_grammar_a2_id_8psp3ts",
+    "word": "How many times have you been here, and why do you keep coming back?",
+    "translation": "Quantas vezes você já esteve aqui, e por que continua voltando?",
+    "syllables": [
+      "How",
+      "many",
+      "times",
+      "have",
+      "you",
+      "been",
+      "here,",
+      "and",
+      "why",
+      "do",
+      "you",
+      "keep",
+      "coming",
+      "back?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ ˈmɛni taɪmz hæv juː bɪn hɪr ænd waɪ duː juː kiːp ˈkʌmɪŋ bæk/",
+    "portuguesePhonetic": "[rráu méni táimz rrév iú bín rrír énd uái dú iú kíp kâmin bék]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_73",
-    "word": "When will you decide whether to accept the offer?",
-    "translation": "Quando você decidirá se aceitará a oferta?",
-    "pronunciation": "/wɛn wɪl jə dɪˈsaɪd ˈwɛðər tə əkˈsɛpt ði ˈɔfər/",
-    "portuguesePhonetic": "uén uil iâ dissáid uédher tâ aksépt dhi ófer?"
+    "id": "lesson_1_grammar_a2_id_seeo2m7",
+    "word": "What would you have done if you had known the answer?",
+    "translation": "O que você teria feito se soubesse a resposta?",
+    "syllables": [
+      "What",
+      "would",
+      "you",
+      "have",
+      "done",
+      "if",
+      "you",
+      "had",
+      "known",
+      "the",
+      "answer?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt wʊd juː hæv dʌn ɪf juː hæd noʊn ðə ˈænsər/",
+    "portuguesePhonetic": "[uât uúd iú rrév dân if iú rréd nôun dhi énser]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_74",
-    "word": "Who would you ask for help if the system stopped working?",
-    "translation": "A quem você pediria ajuda se o sistema parasse de funcionar?",
-    "pronunciation": "/hu wʊd jə æsk fɔr hɛlp ɪf ðə ˈsɪstəm stɑpt ˈwɝkɪŋ/",
-    "portuguesePhonetic": "rú ud iâ ésk fór rélp if dâ sístem stápt uârkin?"
+    "id": "lesson_1_grammar_a2_id_4yhq2pv",
+    "word": "How long has she been working here, and why hasn't she been promoted?",
+    "translation": "Há quanto tempo ela trabalha aqui, e por que não foi promovida?",
+    "syllables": [
+      "How",
+      "long",
+      "has",
+      "she",
+      "been",
+      "working",
+      "here,",
+      "and",
+      "why",
+      "hasn't",
+      "she",
+      "been",
+      "promoted?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ lɔːŋ hæz ʃiː bɪn ˈwɜːrkɪŋ hɪr ænd waɪ ˈhæznt ʃiː bɪn prəˈmoʊtɪd/",
+    "portuguesePhonetic": "[rráu lóN rréz chí bín uârkin rrír énd uái rréznt chí bín promôuted]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_75",
-    "word": "What would you have done if you had missed the last train?",
-    "translation": "O que você teria feito se tivesse perdido o último trem?",
-    "pronunciation": "/wʌt wʊd jə hæv dʌn ɪf jə hæd mɪst ðə læst treɪn/",
-    "portuguesePhonetic": "uót ud iâ rév dân if iâ réd mist dâ lést trêin?"
+    "id": "lesson_1_grammar_a2_id_a7zif7y",
+    "word": "What time should we leave if we don't want to be late?",
+    "translation": "A que horas devemos sair se não quisermos nos atrasar?",
+    "syllables": [
+      "What",
+      "time",
+      "should",
+      "we",
+      "leave",
+      "if",
+      "we",
+      "don't",
+      "want",
+      "to",
+      "be",
+      "late?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm ʃʊd wiː liːv ɪf wiː doʊnt wɑːnt tə biː leɪt/",
+    "portuguesePhonetic": "[uât táim chúd uí lív if uí dôunt uánt tu bí lêit]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_76",
-    "word": "Where are my keys? / They’re on the table.",
-    "translation": "Onde estão minhas chaves? / Elas estão sobre a mesa.",
-    "pronunciation": "/wɛr ɑr maɪ kiz",
-    "portuguesePhonetic": "ðɛr ɑn ðə ˈteɪbəl/"
+    "id": "lesson_1_grammar_a2_id_7z58ldl",
+    "word": "Why is it that some people never seem satisfied, no matter what happens?",
+    "translation": "Por que algumas pessoas nunca parecem satisfeitas, não importa o que aconteça?",
+    "syllables": [
+      "Why",
+      "is",
+      "it",
+      "that",
+      "some",
+      "people",
+      "never",
+      "seem",
+      "satisfied,",
+      "no",
+      "matter",
+      "what",
+      "happens?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ɪz ɪt ðæt sʌm ˈpiːpl̩ ˈnɛvər siːm ˈsætɪsfaɪd noʊ ˈmætər wʌt ˈhæpənz/",
+    "portuguesePhonetic": "[uái iz ít dhét sâm pípou néver sím sétisfaid nôu méter uât rrépanz]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_77",
-    "word": "Who’s at the door? / It’s the delivery driver.",
-    "translation": "Quem está na porta? / É o entregador.",
-    "pronunciation": "/huz æt ðə dɔr",
-    "portuguesePhonetic": "ɪts ðə dɪˈlɪvəri ˈdraɪvər/"
+    "id": "lesson_1_grammar_a2_id_vnd9rdz",
+    "word": "How much would it cost to fix the car, and how long would it take?",
+    "translation": "Quanto custaria consertar o carro, e quanto tempo levaria?",
+    "syllables": [
+      "How",
+      "much",
+      "would",
+      "it",
+      "cost",
+      "to",
+      "fix",
+      "the",
+      "car,",
+      "and",
+      "how",
+      "long",
+      "would",
+      "it",
+      "take?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ mʌtʃ wʊd ɪt kɔːst tə fɪks ðə kɑːr ænd haʊ lɔːŋ wʊd ɪt teɪk/",
+    "portuguesePhonetic": "[rráu mâtch uúd ít kóst tu fíks dha kár énd rráu lóN uúd ít têik]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_78",
-    "word": "What time is the meeting? / At nine thirty.",
-    "translation": "A que horas é a reunião? / Às nove e meia.",
-    "pronunciation": "/wʌt taɪm ɪz ðə ˈmitɪŋ",
-    "portuguesePhonetic": "æt naɪn ˈθɝti/"
+    "id": "lesson_1_grammar_a2_id_i5q2fpf",
+    "word": "Whose responsibility is it when something goes wrong at work?",
+    "translation": "De quem é a responsabilidade quando algo dá errado no trabalho?",
+    "syllables": [
+      "Whose",
+      "responsibility",
+      "is",
+      "it",
+      "when",
+      "something",
+      "goes",
+      "wrong",
+      "at",
+      "work?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/huːz rɪˌspɑːnsəˈbɪləti ɪz ɪt wɛn ˈsʌmθɪŋ ɡoʊz rɔːŋ æt wɜːrk/",
+    "portuguesePhonetic": "[rrúz rispansabíliti iz ít uén sâmthin gôuz róN ét uârk]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_79",
-    "word": "Which shirt do you prefer? / The blue one.",
-    "translation": "Qual camisa você prefere? / A azul.",
-    "pronunciation": "/wɪtʃ ʃɝt du jə prɪˈfɝ",
-    "portuguesePhonetic": "ðə blu wʌn/"
+    "id": "lesson_1_grammar_a2_id_z4pgdmm",
+    "word": "How did you manage to finish everything, even though you started late?",
+    "translation": "Como você conseguiu terminar tudo, mesmo tendo começado tarde?",
+    "syllables": [
+      "How",
+      "did",
+      "you",
+      "manage",
+      "to",
+      "finish",
+      "everything,",
+      "even",
+      "though",
+      "you",
+      "started",
+      "late?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ dɪd juː ˈmænɪdʒ tə ˈfɪnɪʃ ˈɛvriθɪŋ ˈiːvn̩ ðoʊ juː ˈstɑːrtɪd leɪt/",
+    "portuguesePhonetic": "[rráu díd iú ménidj tu fínich évrithin ívan dhôu iú stárted lêit]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_80",
-    "word": "Whose umbrella is this? / It’s mine.",
-    "translation": "De quem é este guarda-chuva? / É meu.",
-    "pronunciation": "/huz ʌmˈbrɛlə ɪz ðɪs",
-    "portuguesePhonetic": "ɪts maɪn/"
+    "id": "lesson_1_grammar_a2_id_xt8b613",
+    "word": "Who's that man? / That's Peter.",
+    "translation": "Quem é aquele homem? / É o Peter.",
+    "syllables": [
+      "Who's",
+      "that",
+      "man?",
+      "/",
+      "That's",
+      "Peter."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/huːz ðæt mæn · ðæts ˈpiːtər/",
+    "portuguesePhonetic": "[rrúz dhét mén · dhéts píter]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_81",
-    "word": "How many eggs do we need? / Six.",
-    "translation": "De quantos ovos precisamos? / Seis.",
-    "pronunciation": "/haʊ ˈmɛni ɛɡz du wi nid",
-    "portuguesePhonetic": "sɪks/"
+    "id": "lesson_1_grammar_a2_id_grfdqud",
+    "word": "Where do you live? / In London.",
+    "translation": "Onde você mora? / Em Londres.",
+    "syllables": [
+      "Where",
+      "do",
+      "you",
+      "live?",
+      "/",
+      "In",
+      "London."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr duː juː lɪv · ɪn ˈlʌndən/",
+    "portuguesePhonetic": "[uér dú iú lív · in lândan]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_82",
-    "word": "How much milk is left? / About half a carton.",
-    "translation": "Quanto leite resta? / Cerca de meia caixa.",
-    "pronunciation": "/haʊ mʌtʃ mɪlk ɪz lɛft",
-    "portuguesePhonetic": "əˈbaʊt hæf ə ˈkɑrtən/"
+    "id": "lesson_1_grammar_a2_id_0yicjmc",
+    "word": "When did he arrive? / In the afternoon.",
+    "translation": "Quando ele chegou? / À tarde.",
+    "syllables": [
+      "When",
+      "did",
+      "he",
+      "arrive?",
+      "/",
+      "In",
+      "the",
+      "afternoon."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛn dɪd hiː əˈraɪv · ɪn ðə ˌæftərˈnuːn/",
+    "portuguesePhonetic": "[uén díd rrí aráiv · in dhi éfternún]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_83",
-    "word": "Why is the baby crying? / Because she’s hungry.",
-    "translation": "Por que o bebê está chorando? / Porque ela está com fome.",
-    "pronunciation": "/waɪ ɪz ðə ˈbeɪbi ˈkraɪɪŋ",
-    "portuguesePhonetic": "bɪˈkʌz ʃiz ˈhʌŋɡri/"
+    "id": "lesson_1_grammar_a2_id_tjmo9ks",
+    "word": "Why did you leave? / Because I was tired.",
+    "translation": "Por que você saiu? / Porque eu estava cansado.",
+    "syllables": [
+      "Why",
+      "did",
+      "you",
+      "leave?",
+      "/",
+      "Because",
+      "I",
+      "was",
+      "tired."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ dɪd juː liːv · bɪˈkɔːz aɪ wəz ˈtaɪərd/",
+    "portuguesePhonetic": "[uái díd iú lív · bikóz ái uâz táierd]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_84",
-    "word": "How often do you exercise? / Three times a week.",
-    "translation": "Com que frequência você se exercita? / Três vezes por semana.",
-    "pronunciation": "/haʊ ˈɔfən du jə ˈɛksərˌsaɪz",
-    "portuguesePhonetic": "θri taɪmz ə wik/"
+    "id": "lesson_1_grammar_a2_id_muwp5sf",
+    "word": "How did you go? / By car.",
+    "translation": "Como você foi? / De carro.",
+    "syllables": [
+      "How",
+      "did",
+      "you",
+      "go?",
+      "/",
+      "By",
+      "car."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ dɪd juː ɡoʊ · baɪ kɑːr/",
+    "portuguesePhonetic": "[rráu díd iú gôu · bái kár]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_85",
-    "word": "How far is the station? / Ten minutes on foot.",
-    "translation": "A que distância fica a estação? / A dez minutos a pé.",
-    "pronunciation": "/haʊ fɑr ɪz ðə ˈsteɪʃən",
-    "portuguesePhonetic": "tɛn ˈmɪnəts ɑn fʊt/"
+    "id": "lesson_1_grammar_a2_id_1cbkq6z",
+    "word": "What are you doing? / Nothing.",
+    "translation": "O que você está fazendo? / Nada.",
+    "syllables": [
+      "What",
+      "are",
+      "you",
+      "doing?",
+      "/",
+      "Nothing."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt ɑːr juː ˈduːɪŋ · ˈnʌθɪŋ/",
+    "portuguesePhonetic": "[uât ár iú dúin · nâthin]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_86",
-    "word": "Where did you park? / Across from the bank.",
-    "translation": "Onde você estacionou? / Em frente ao banco.",
-    "pronunciation": "/wɛr dɪd jə pɑrk",
-    "portuguesePhonetic": "əˈkrɔs frəm ðə bæŋk/"
+    "id": "lesson_1_grammar_a2_id_5ea0aim",
+    "word": "Which car is better? / The red one.",
+    "translation": "Qual carro é melhor? / O vermelho.",
+    "syllables": [
+      "Which",
+      "car",
+      "is",
+      "better?",
+      "/",
+      "The",
+      "red",
+      "one."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪtʃ kɑːr ɪz ˈbɛtər · ðə rɛd wʌn/",
+    "portuguesePhonetic": "[uítch kár iz béter · dha réd uân]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_87",
-    "word": "When are you coming home? / Around eight.",
-    "translation": "Quando você volta para casa? / Por volta das oito.",
-    "pronunciation": "/wɛn ɑr jə ˈkʌmɪŋ hoʊm",
-    "portuguesePhonetic": "əˈraʊnd eɪt/"
+    "id": "lesson_1_grammar_a2_id_v0hy09w",
+    "word": "Whose book is this? / It's mine.",
+    "translation": "De quem é este livro? / É meu.",
+    "syllables": [
+      "Whose",
+      "book",
+      "is",
+      "this?",
+      "/",
+      "It's",
+      "mine."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/huːz bʊk ɪz ðɪs · ɪts maɪn/",
+    "portuguesePhonetic": "[rrúz búk iz dhís · íts máin]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_88",
-    "word": "What kind of music do you like? / Mostly jazz.",
-    "translation": "Que tipo de música você gosta? / Principalmente jazz.",
-    "pronunciation": "/wʌt kaɪnd əv ˈmjuzɪk du jə laɪk",
-    "portuguesePhonetic": "ˈmoʊstli dʒæz/"
+    "id": "lesson_1_grammar_a2_id_xio4u9c",
+    "word": "How many beds are there? / Three.",
+    "translation": "Quantas camas tem? / Três.",
+    "syllables": [
+      "How",
+      "many",
+      "beds",
+      "are",
+      "there?",
+      "/",
+      "Three."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ ˈmɛni bɛdz ɑːr ðɛr · θriː/",
+    "portuguesePhonetic": "[rráu méni bédz ár dhér · thrí]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_89",
-    "word": "How long have you been waiting? / About twenty minutes.",
-    "translation": "Há quanto tempo você está esperando? / Cerca de vinte minutos.",
-    "pronunciation": "/haʊ lɔŋ hæv jə bɪn ˈweɪtɪŋ",
-    "portuguesePhonetic": "əˈbaʊt ˈtwɛnti ˈmɪnəts/"
+    "id": "lesson_1_grammar_a2_id_erd9sc2",
+    "word": "How much tea is there? / A lot.",
+    "translation": "Quanto chá tem? / Muito.",
+    "syllables": [
+      "How",
+      "much",
+      "tea",
+      "is",
+      "there?",
+      "/",
+      "A",
+      "lot."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ mʌtʃ tiː ɪz ðɛr · ə lɑːt/",
+    "portuguesePhonetic": "[rráu mâtch tí iz dhér · a lát]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_90",
-    "word": "Who did you invite? / A few friends from work.",
-    "translation": "Quem você convidou? / Alguns amigos do trabalho.",
-    "pronunciation": "/hu dɪd jə ɪnˈvaɪt",
-    "portuguesePhonetic": "ə fju frɛndz frəm wɝk/"
+    "id": "lesson_1_grammar_a2_id_p88pn84",
+    "word": "How long did you stay? / Two weeks.",
+    "translation": "Quanto tempo você ficou? / Duas semanas.",
+    "syllables": [
+      "How",
+      "long",
+      "did",
+      "you",
+      "stay?",
+      "/",
+      "Two",
+      "weeks."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ lɔːŋ dɪd juː steɪ · tuː wiːks/",
+    "portuguesePhonetic": "[rráu lóN díd iú stêi · tú uíks]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_91",
-    "word": "Why didn’t the printer work? / It was out of paper.",
-    "translation": "Por que a impressora não funcionou? / Ela estava sem papel.",
-    "pronunciation": "/waɪ ˈdɪdənt ðə ˈprɪntər wɝk",
-    "portuguesePhonetic": "ɪt wəz aʊt əv ˈpeɪpər/"
+    "id": "lesson_1_grammar_a2_id_p2et5v9",
+    "word": "How often do you go? / Every day.",
+    "translation": "Com que frequência você vai? / Todo dia.",
+    "syllables": [
+      "How",
+      "often",
+      "do",
+      "you",
+      "go?",
+      "/",
+      "Every",
+      "day."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ ˈɔːfn̩ duː juː ɡoʊ · ˈɛvri deɪ/",
+    "portuguesePhonetic": "[rráu ófan dú iú gôu · évri dêi]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_92",
-    "word": "Which train should we take? / The express train.",
-    "translation": "Qual trem devemos pegar? / O trem expresso.",
-    "pronunciation": "/wɪtʃ treɪn ʃʊd wi teɪk",
-    "portuguesePhonetic": "ði ɪkˈsprɛs treɪn/"
+    "id": "lesson_1_grammar_a2_id_41z9elu",
+    "word": "How far is the town? / One mile away.",
+    "translation": "Quão longe fica a cidade? / A uma milha.",
+    "syllables": [
+      "How",
+      "far",
+      "is",
+      "the",
+      "town?",
+      "/",
+      "One",
+      "mile",
+      "away."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ fɑːr ɪz ðə taʊn · wʌn maɪl əˈweɪ/",
+    "portuguesePhonetic": "[rráu fár iz dha táun · uân máiou auêi]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_93",
-    "word": "How did you learn Spanish? / I took classes online.",
-    "translation": "Como você aprendeu espanhol? / Fiz aulas pela internet.",
-    "pronunciation": "/haʊ dɪd jə lɝn ˈspænɪʃ",
-    "portuguesePhonetic": "aɪ tʊk ˈklæsɪz ɑnˈlaɪn/"
+    "id": "lesson_1_grammar_a2_id_6sy668q",
+    "word": "How old is your sister? / She's 27.",
+    "translation": "Quantos anos sua irmã tem? / Ela tem 27.",
+    "syllables": [
+      "How",
+      "old",
+      "is",
+      "your",
+      "sister?",
+      "/",
+      "She's",
+      "27."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ oʊld ɪz jɔːr ˈsɪstər · ʃiːz ˈtwɛnti ˈsɛvn̩/",
+    "portuguesePhonetic": "[rráu ôuld iz iór síster · chíz tuénti sévan]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_94",
-    "word": "What were you doing when I called? / I was cooking dinner.",
-    "translation": "O que você estava fazendo quando liguei? / Eu estava preparando o jantar.",
-    "pronunciation": "/wʌt wɝ jə ˈduɪŋ wɛn aɪ kɔld",
-    "portuguesePhonetic": "aɪ wəz ˈkʊkɪŋ ˈdɪnər/"
+    "id": "lesson_1_grammar_a2_id_y0pk5zk",
+    "word": "Is Sharon from the US? / Yes, she is.",
+    "translation": "A Sharon é dos EUA? / Sim, é.",
+    "syllables": [
+      "Is",
+      "Sharon",
+      "from",
+      "the",
+      "US?",
+      "/",
+      "Yes,",
+      "she",
+      "is."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ˈʃɛrən frəm ðə juː ɛs · jɛs ʃiː ɪz/",
+    "portuguesePhonetic": "[iz chéran from dhi iú és · iés chí iz]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_95",
-    "word": "Where will we meet if it rains? / Inside the café.",
-    "translation": "Onde nos encontraremos se chover? / Dentro do café.",
-    "pronunciation": "/wɛr wɪl wi mit ɪf ɪt reɪnz",
-    "portuguesePhonetic": "ɪnˈsaɪd ðə kæˈfeɪ/"
+    "id": "lesson_1_grammar_a2_id_0yc8y9h",
+    "word": "How old are you? / I'm 30.",
+    "translation": "Quantos anos você tem? / Tenho 30.",
+    "syllables": [
+      "How",
+      "old",
+      "are",
+      "you?",
+      "/",
+      "I'm",
+      "30."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ oʊld ɑːr juː · aɪm ˈθɜːrti/",
+    "portuguesePhonetic": "[rráu ôuld ár iú · áim thârti]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_96",
-    "word": "How much would it cost to repair it? / Around two hundred dollars.",
-    "translation": "Quanto custaria para consertá-lo? / Cerca de duzentos dólares.",
-    "pronunciation": "/haʊ mʌtʃ wʊd ɪt kɔst tə rɪˈpɛr ɪt",
-    "portuguesePhonetic": "əˈraʊnd tu ˈhʌndrəd ˈdɑlərz/"
+    "id": "lesson_1_grammar_a2_id_4a0gb1n",
+    "word": "Where were you yesterday? / At home.",
+    "translation": "Onde você estava ontem? / Em casa.",
+    "syllables": [
+      "Where",
+      "were",
+      "you",
+      "yesterday?",
+      "/",
+      "At",
+      "home."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr wɜːr juː ˈjɛstərdeɪ · æt hoʊm/",
+    "portuguesePhonetic": "[uér uâr iú iéster dei · ét rrôum]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_97",
-    "word": "When did you realize you had lost your wallet? / After I left the store.",
-    "translation": "Quando você percebeu que havia perdido a carteira? / Depois que saí da loja.",
-    "pronunciation": "/wɛn dɪd jə ˈriəˌlaɪz jə hæd lɔst jər ˈwɑlət",
-    "portuguesePhonetic": "ˈæftər aɪ lɛft ðə stɔr/"
+    "id": "lesson_1_grammar_a2_id_lxg5nue",
+    "word": "What time does he get up? / At seven.",
+    "translation": "A que horas ele acorda? / Às sete.",
+    "syllables": [
+      "What",
+      "time",
+      "does",
+      "he",
+      "get",
+      "up?",
+      "/",
+      "At",
+      "seven."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm dʌz hiː ɡɛt ʌp · æt ˈsɛvn̩/",
+    "portuguesePhonetic": "[uât táim dâz rrí guét âp · ét sévan]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_98",
-    "word": "Who can help us if the server goes down? / The network team.",
-    "translation": "Quem pode nos ajudar se o servidor ficar indisponível? / A equipe de redes.",
-    "pronunciation": "/hu kæn hɛlp ʌs ɪf ðə ˈsɝvər ɡoʊz daʊn",
-    "portuguesePhonetic": "ðə ˈnɛtˌwɝk tim/"
+    "id": "lesson_1_grammar_a2_id_whyl8pk",
+    "word": "How much did you pay for it? / Fifty dollars.",
+    "translation": "Quanto você pagou por isso? / Cinquenta dólares.",
+    "syllables": [
+      "How",
+      "much",
+      "did",
+      "you",
+      "pay",
+      "for",
+      "it?",
+      "/",
+      "Fifty",
+      "dollars."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ mʌtʃ dɪd juː peɪ fɔːr ɪt · ˈfɪfti ˈdɑːlərz/",
+    "portuguesePhonetic": "[rráu mâtch díd iú pêi fór ít · fífti dálarz]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_99",
-    "word": "Why would she turn down the offer? / Because the schedule is inflexible.",
-    "translation": "Por que ela recusaria a oferta? / Porque o horário é inflexível.",
-    "pronunciation": "/waɪ wʊd ʃi tɝn daʊn ði ˈɔfər",
-    "portuguesePhonetic": "bɪˈkʌz ðə ˈskɛdʒul ɪz ɪnˈflɛksəbəl/"
+    "id": "lesson_1_grammar_a2_id_s9gy08d",
+    "word": "What car have you got? / A blue one.",
+    "translation": "Que carro você tem? / Um azul.",
+    "syllables": [
+      "What",
+      "car",
+      "have",
+      "you",
+      "got?",
+      "/",
+      "A",
+      "blue",
+      "one."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt kɑːr hæv juː ɡɑːt · ə bluː wʌn/",
+    "portuguesePhonetic": "[uât kár rrév iú gát · a blú uân]"
   },
   {
-    "id": "lesson_1_grammar_a2_en_card_100",
-    "word": "What would you do if your flight were canceled? / I’d call the airline and rebook.",
-    "translation": "O que você faria se seu voo fosse cancelado? / Eu ligaria para a companhia aérea e faria uma nova reserva.",
-    "pronunciation": "/wʌt wʊd jə du ɪf jər flaɪt wɝ ˈkænsəld",
-    "portuguesePhonetic": "aɪd kɔl ði ˈɛrlaɪn ænd ˌriˈbʊk/"
+    "id": "lesson_1_grammar_a2_id_bamd2i2",
+    "word": "What kind of car is it? / A hybrid.",
+    "translation": "Que tipo de carro é? / Um híbrido.",
+    "syllables": [
+      "What",
+      "kind",
+      "of",
+      "car",
+      "is",
+      "it?",
+      "/",
+      "A",
+      "hybrid."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt kaɪnd əv kɑːr ɪz ɪt · ə ˈhaɪbrɪd/",
+    "portuguesePhonetic": "[uât káind ov kár iz ít · a rráibrid]"
+  },
+  {
+    "id": "lesson_1_grammar_a2_id_50nalpk",
+    "word": "What time did he call? / At seven.",
+    "translation": "A que horas ele ligou? / Às sete.",
+    "syllables": [
+      "What",
+      "time",
+      "did",
+      "he",
+      "call?",
+      "/",
+      "At",
+      "seven."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm dɪd hiː kɔːl · æt ˈsɛvn̩/",
+    "portuguesePhonetic": "[uât táim díd rrí kól · ét sévan]"
+  },
+  {
+    "id": "lesson_1_grammar_a2_id_i2zmrdh",
+    "word": "Do you like pizza? / Yes, I love it.",
+    "translation": "Você gosta de pizza? / Sim, eu adoro.",
+    "syllables": [
+      "Do",
+      "you",
+      "like",
+      "pizza?",
+      "/",
+      "Yes,",
+      "I",
+      "love",
+      "it."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː laɪk ˈpiːtsə · jɛs aɪ lʌv ɪt/",
+    "portuguesePhonetic": "[dú iú láik pítsa · iés ái lâv ít]"
+  },
+  {
+    "id": "lesson_1_grammar_a2_id_tbabfkg",
+    "word": "Where is she working? / At a hospital.",
+    "translation": "Onde ela está trabalhando? / Num hospital.",
+    "syllables": [
+      "Where",
+      "is",
+      "she",
+      "working?",
+      "/",
+      "At",
+      "a",
+      "hospital."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɪz ʃiː ˈwɜːrkɪŋ · æt ə ˈhɑːspɪtl̩/",
+    "portuguesePhonetic": "[uér iz chí uârkin · ét a rráspitou]"
+  },
+  {
+    "id": "lesson_1_grammar_a2_id_32q53sx",
+    "word": "When was she born? / In 1995.",
+    "translation": "Quando ela nasceu? / Em 1995.",
+    "syllables": [
+      "When",
+      "was",
+      "she",
+      "born?",
+      "/",
+      "In",
+      "1995."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛn wəz ʃiː bɔːrn · ɪn ˌnaɪnˈtiːn ˌnaɪntiˈfaɪv/",
+    "portuguesePhonetic": "[uén uâz chí bórn · in naintín náinti fáiv]"
   }
 ]

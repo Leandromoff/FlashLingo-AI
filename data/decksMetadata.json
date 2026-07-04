@@ -369,33 +369,19 @@
     "es": 100
   },
   "lesson_2_grammar_a2": {
+    "cardCount": 100,
     "en": 100
   },
   "leccion_2_gramatica_a2_s": {
+    "cardCount": 100,
     "es": 100
   },
   "lesson_3_grammar_a2": {
+    "cardCount": 100,
     "en": 100
   },
   "leccion_3_gramatica_a2_s": {
-    "es": 100
-  },
-  "lesson_1_vocabulary_a2": {
-    "en": 100
-  },
-  "leccion_1_vocabulario_a2_s": {
-    "es": 100
-  },
-  "lesson_2_vocabulary_a2": {
-    "en": 100
-  },
-  "leccion_2_vocabulario_a2_s": {
-    "es": 100
-  },
-  "lesson_3_vocabulary_a2": {
-    "en": 100
-  },
-  "leccion_3_vocabulario_a2_s": {
+    "cardCount": 100,
     "es": 100
   }
 }
