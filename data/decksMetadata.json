@@ -402,5 +402,10 @@
     "cardCount": 100,
     "en": 0,
     "es": 100
+  },
+  "lesson_1_grammar_b1": {
+    "cardCount": 100,
+    "en": 100,
+    "es": 0
   }
 }

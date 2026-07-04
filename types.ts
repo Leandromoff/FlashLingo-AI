@@ -275,6 +275,13 @@ export const PREDEFINED_TOPICS = [
     group: "Grammar A2",
     description: "Past Continuous",
   },
+  {
+    id: "lesson_1_grammar_b1",
+    label: "Lesson 1",
+    isStatic: true,
+    group: "Grammar B1",
+    description: "Present Simple vs Continuous",
+  },
   { id: "leccion_1_w2_s", label: "Lección 1", isStatic: true, group: "W2-S" },
   { id: "leccion_3_w2_s", label: "Lección 3", isStatic: true, group: "W2-S" },
   { id: "leccion_5_w2_s", label: "Lección 5", isStatic: true, group: "W2-S" },
