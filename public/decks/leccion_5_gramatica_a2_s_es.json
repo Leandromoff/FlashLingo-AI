@@ -1,0 +1,1700 @@
+[
+  {
+    "id": "leccion_5_gramatica_a2_s_id_lenncp1",
+    "word": "Yo estaba trabajando.",
+    "translation": "Eu estava trabalhando.",
+    "syllables": [
+      "Yo",
+      "estaba",
+      "trabajando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝo esˈtaβa tɾaβaˈxando/",
+    "portuguesePhonetic": "[io estába trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_97hgx53",
+    "word": "Él estaba trabajando.",
+    "translation": "Ele estava trabalhando.",
+    "syllables": [
+      "Él",
+      "estaba",
+      "trabajando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el esˈtaβa tɾaβaˈxando/",
+    "portuguesePhonetic": "[él estába trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_lcq8j88",
+    "word": "Ella estaba trabajando.",
+    "translation": "Ela estava trabalhando.",
+    "syllables": [
+      "Ella",
+      "estaba",
+      "trabajando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeʎa esˈtaβa tɾaβaˈxando/",
+    "portuguesePhonetic": "[élha estába trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_1i2zfcm",
+    "word": "Tú estabas trabajando.",
+    "translation": "Você estava trabalhando.",
+    "syllables": [
+      "Tú",
+      "estabas",
+      "trabajando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tu esˈtaβas tɾaβaˈxando/",
+    "portuguesePhonetic": "[tu estábas trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_2e4w0lw",
+    "word": "Nosotros estábamos trabajando.",
+    "translation": "A gente estava trabalhando.",
+    "syllables": [
+      "Nosotros",
+      "estábamos",
+      "trabajando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noˈsotɾos esˈtaβamos tɾaβaˈxando/",
+    "portuguesePhonetic": "[nosótros estábamos trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_8k17aif",
+    "word": "Ellos estaban trabajando.",
+    "translation": "Eles estavam trabalhando.",
+    "syllables": [
+      "Ellos",
+      "estaban",
+      "trabajando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeʎos esˈtaβan tɾaβaˈxando/",
+    "portuguesePhonetic": "[élhos estában trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_3prndjd",
+    "word": "Yo no estaba trabajando.",
+    "translation": "Eu não estava trabalhando.",
+    "syllables": [
+      "Yo",
+      "no",
+      "estaba",
+      "trabajando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝo no esˈtaβa tɾaβaˈxando/",
+    "portuguesePhonetic": "[io no estába trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_n1kp488",
+    "word": "Nosotros no estábamos trabajando.",
+    "translation": "A gente não estava trabalhando.",
+    "syllables": [
+      "Nosotros",
+      "no",
+      "estábamos",
+      "trabajando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noˈsotɾos no esˈtaβamos tɾaβaˈxando/",
+    "portuguesePhonetic": "[nosótros no estábamos trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_r7bj70d",
+    "word": "¿Estaba yo trabajando?",
+    "translation": "Eu estava trabalhando?",
+    "syllables": [
+      "¿Estaba",
+      "yo",
+      "trabajando?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa ʝo tɾaβaˈxando/",
+    "portuguesePhonetic": "[estába io trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_yr84gvp",
+    "word": "¿Estaba él trabajando?",
+    "translation": "Ele estava trabalhando?",
+    "syllables": [
+      "¿Estaba",
+      "él",
+      "trabajando?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa el tɾaβaˈxando/",
+    "portuguesePhonetic": "[estába él trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_8u3iz9f",
+    "word": "¿Estabas tú trabajando?",
+    "translation": "Você estava trabalhando?",
+    "syllables": [
+      "¿Estabas",
+      "tú",
+      "trabajando?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβas tu tɾaβaˈxando/",
+    "portuguesePhonetic": "[estábas tu trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_srt0o63",
+    "word": "¿Estaban ellos trabajando?",
+    "translation": "Eles estavam trabalhando?",
+    "syllables": [
+      "¿Estaban",
+      "ellos",
+      "trabajando?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβan ˈeʎos tɾaβaˈxando/",
+    "portuguesePhonetic": "[estában élhos trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_ox4u7wk",
+    "word": "Sí, estaba.",
+    "translation": "Sim, estava.",
+    "syllables": [
+      "Sí,",
+      "estaba."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si esˈtaβa/",
+    "portuguesePhonetic": "[sí estába]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_xblplv9",
+    "word": "No, no estaba.",
+    "translation": "Não, não estava.",
+    "syllables": [
+      "No,",
+      "no",
+      "estaba."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no no esˈtaβa/",
+    "portuguesePhonetic": "[no no estába]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_rxsxqei",
+    "word": "Sí, estaban.",
+    "translation": "Sim, estavam.",
+    "syllables": [
+      "Sí,",
+      "estaban."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si esˈtaβan/",
+    "portuguesePhonetic": "[sí estában]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_61ipyem",
+    "word": "No, no estaban.",
+    "translation": "Não, não estavam.",
+    "syllables": [
+      "No,",
+      "no",
+      "estaban."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no no esˈtaβan/",
+    "portuguesePhonetic": "[no no estában]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_afu23jt",
+    "word": "Ella estaba estudiando.",
+    "translation": "Ela estava estudando.",
+    "syllables": [
+      "Ella",
+      "estaba",
+      "estudiando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeʎa esˈtaβa estuˈðjando/",
+    "portuguesePhonetic": "[élha estába estudiándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_wuxcf9s",
+    "word": "Él estaba durmiendo.",
+    "translation": "Ele estava dormindo.",
+    "syllables": [
+      "Él",
+      "estaba",
+      "durmiendo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el esˈtaβa duɾˈmjendo/",
+    "portuguesePhonetic": "[él estába durmiéndo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_5ahnjsw",
+    "word": "Ella estaba pidiendo ayuda.",
+    "translation": "Ela estava pedindo ajuda.",
+    "syllables": [
+      "Ella",
+      "estaba",
+      "pidiendo",
+      "ayuda."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeʎa esˈtaβa piˈðjendo aˈʝuða/",
+    "portuguesePhonetic": "[élha estába pidiéndo aiúda]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_w2qmqwe",
+    "word": "Estaba leyendo un libro.",
+    "translation": "Eu estava lendo um livro.",
+    "syllables": [
+      "Estaba",
+      "leyendo",
+      "un",
+      "libro."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa leˈʝendo un ˈliβɾo/",
+    "portuguesePhonetic": "[estába leiéndo un líbro]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_01jit0h",
+    "word": "Llovía mucho esa tarde.",
+    "translation": "Estava chovendo muito naquela tarde. (imperfeito simples, sem estar)",
+    "syllables": [
+      "Llovía",
+      "mucho",
+      "esa",
+      "tarde."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʎoˈβia ˈmutʃo ˈesa ˈtaɾðe/",
+    "portuguesePhonetic": "[lhobía mútcho ésa tárde]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_tsu5ua1",
+    "word": "Hacía frío esa noche.",
+    "translation": "Estava fazendo frio naquela noite.",
+    "syllables": [
+      "Hacía",
+      "frío",
+      "esa",
+      "noche."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈθia ˈfɾio ˈesa ˈnotʃe/",
+    "portuguesePhonetic": "[athía frío ésa nótche]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_vmki4at",
+    "word": "¿Qué estabas haciendo a las ocho?",
+    "translation": "O que você estava fazendo às oito?",
+    "syllables": [
+      "¿Qué",
+      "estabas",
+      "haciendo",
+      "a",
+      "las",
+      "ocho?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke esˈtaβas aˈθjendo a las ˈotʃo/",
+    "portuguesePhonetic": "[ke estábas athiéndo a las ótcho]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_scuce2k",
+    "word": "Estaba + gerundio = una acción en progreso en el pasado.",
+    "translation": "Estaba + gerúndio = uma ação em progresso no passado.",
+    "syllables": [
+      "Estaba",
+      "+",
+      "gerundio",
+      "=",
+      "una",
+      "acción",
+      "en",
+      "progreso",
+      "en",
+      "el",
+      "pasado."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa xeˈɾundjo una akˈθjon en pɾoˈɣɾeso en el paˈsaðo/",
+    "portuguesePhonetic": "[estába rrerúndio úna akthión en progréso en el pasádo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_pywyi8i",
+    "word": "En español, no hay dos palabras como was/were: siempre es estaba/estaban.",
+    "translation": "Em espanhol, não há duas palavras como was/were: sempre é estaba/estaban.",
+    "syllables": [
+      "En",
+      "español,",
+      "no",
+      "hay",
+      "dos",
+      "palabras",
+      "como",
+      "was/were:",
+      "siempre",
+      "es",
+      "estaba/estaban."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/en espaˈɲol no ai dos paˈlaβɾas ˈkomo/",
+    "portuguesePhonetic": "[en espánhol no ái dos palábras kómo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_k6u71fj",
+    "word": "Estaba durmiendo cuando sonó el teléfono.",
+    "translation": "Eu estava dormindo quando o telefone tocou.",
+    "syllables": [
+      "Estaba",
+      "durmiendo",
+      "cuando",
+      "sonó",
+      "el",
+      "teléfono."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa duɾˈmjendo ˈkwando soˈno el teˈlefono/",
+    "portuguesePhonetic": "[estába durmiéndo kuándo sonó el teléfono]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_a7fssn3",
+    "word": "Estaba cocinando cuando llegué.",
+    "translation": "Ela estava cozinhando quando eu cheguei.",
+    "syllables": [
+      "Estaba",
+      "cocinando",
+      "cuando",
+      "llegué."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa koθiˈnando ˈkwando ʎeˈɣe/",
+    "portuguesePhonetic": "[estába kothinándo kuándo lhegué]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_4xuiqrg",
+    "word": "Estábamos viendo la tele cuando se fue la luz.",
+    "translation": "A gente estava assistindo TV quando a luz acabou.",
+    "syllables": [
+      "Estábamos",
+      "viendo",
+      "la",
+      "tele",
+      "cuando",
+      "se",
+      "fue",
+      "la",
+      "luz."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβamos ˈbjendo la ˈtele ˈkwando se fwe la luθ/",
+    "portuguesePhonetic": "[estábamos biéndo la téle kuándo se fué la luth]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_vjri35p",
+    "word": "Estaba terminando el informe al mediodía.",
+    "translation": "Ele estava terminando o relatório ao meio-dia.",
+    "syllables": [
+      "Estaba",
+      "terminando",
+      "el",
+      "informe",
+      "al",
+      "mediodía."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa teɾmiˈnando el imˈfoɾme al meðjoˈðia/",
+    "portuguesePhonetic": "[estába terminándo el imfórme al mediodía]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_gviek9i",
+    "word": "Estaban en una reunión toda la mañana.",
+    "translation": "Eles estavam em reunião a manhã toda. (estaban en + substantivo)",
+    "syllables": [
+      "Estaban",
+      "en",
+      "una",
+      "reunión",
+      "toda",
+      "la",
+      "mañana."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβan en una reuˈnjon ˈtoða la maˈɲana/",
+    "portuguesePhonetic": "[estában en úna reunión tóda la manhána]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_75tczmo",
+    "word": "¿Qué estaba haciendo ella a las tres?",
+    "translation": "O que ela estava fazendo às três horas?",
+    "syllables": [
+      "¿Qué",
+      "estaba",
+      "haciendo",
+      "ella",
+      "a",
+      "las",
+      "tres?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke esˈtaβa aˈθjendo ˈeʎa a las tɾes/",
+    "portuguesePhonetic": "[ke estába athiéndo élha a las trés]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_cqatbnb",
+    "word": "Estaba preparando la cena cuando llamaste.",
+    "translation": "Eu estava fazendo o jantar quando você ligou.",
+    "syllables": [
+      "Estaba",
+      "preparando",
+      "la",
+      "cena",
+      "cuando",
+      "llamaste."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa pɾepaˈɾando la ˈθena ˈkwando ʎaˈmaste/",
+    "portuguesePhonetic": "[estába preparándo la théna kuándo lhamáste]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_lnbdxr1",
+    "word": "No estaba cocinando; estaba limpiando.",
+    "translation": "Ela não estava cozinhando; estava limpando.",
+    "syllables": [
+      "No",
+      "estaba",
+      "cocinando;",
+      "estaba",
+      "limpiando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa koθiˈnando esˈtaβa limˈpjando/",
+    "portuguesePhonetic": "[no estába kothinándo estába limpiándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_y8mt0gq",
+    "word": "Los niños estaban jugando en el parque.",
+    "translation": "As crianças estavam brincando no parque.",
+    "syllables": [
+      "Los",
+      "niños",
+      "estaban",
+      "jugando",
+      "en",
+      "el",
+      "parque."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/los ˈniɲos esˈtaβan xuˈɣando en el ˈpaɾke/",
+    "portuguesePhonetic": "[los nínhos estában rrugándo en el párke]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_2trunwz",
+    "word": "Estábamos paseando por la playa al atardecer.",
+    "translation": "A gente estava caminhando na praia ao pôr do sol.",
+    "syllables": [
+      "Estábamos",
+      "paseando",
+      "por",
+      "la",
+      "playa",
+      "al",
+      "atardecer."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβamos paseˈando poɾ la ˈplaʝa al ataɾðeˈθeɾ/",
+    "portuguesePhonetic": "[estábamos paseándo por la pláia al atardethér]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_uzj51tk",
+    "word": "Estaba nadando cuando empezó a llover.",
+    "translation": "Ele estava nadando quando começou a chover.",
+    "syllables": [
+      "Estaba",
+      "nadando",
+      "cuando",
+      "empezó",
+      "a",
+      "llover."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa naˈðando ˈkwando empeˈθo a ʎoˈβeɾ/",
+    "portuguesePhonetic": "[estába nadándo kuándo empethó a lhobér]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_5byzsoi",
+    "word": "Estábamos viajando cuando pasó el accidente.",
+    "translation": "A gente estava viajando quando o acidente aconteceu.",
+    "syllables": [
+      "Estábamos",
+      "viajando",
+      "cuando",
+      "pasó",
+      "el",
+      "accidente."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβamos bjaˈxando ˈkwando paˈso el aɣsiˈðente/",
+    "portuguesePhonetic": "[estábamos biarrándo kuándo pasó el aksidénte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_4ue5abq",
+    "word": "Estaba esperando en el aeropuerto durante dos horas.",
+    "translation": "Ela estava esperando no aeroporto por duas horas.",
+    "syllables": [
+      "Estaba",
+      "esperando",
+      "en",
+      "el",
+      "aeropuerto",
+      "durante",
+      "dos",
+      "horas."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa espeˈɾando en el aeɾoˈpweɾto duˈɾante dos ˈoɾas/",
+    "portuguesePhonetic": "[estába esperándo en el aeropuérto duránte dos óras]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_ybhjqjn",
+    "word": "Estaba haciendo ejercicio cuando se lastimó la espalda.",
+    "translation": "Ele estava se exercitando quando machucou as costas.",
+    "syllables": [
+      "Estaba",
+      "haciendo",
+      "ejercicio",
+      "cuando",
+      "se",
+      "lastimó",
+      "la",
+      "espalda."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa aˈθjendo exeɾˈθiθjo ˈkwando se lastiˈmo la esˈpalda/",
+    "portuguesePhonetic": "[estába athiéndo errertsíthio kuándo se lastimó la espálda]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_h8zi1qc",
+    "word": "¿Estabas corriendo esta mañana?",
+    "translation": "Você estava correndo hoje de manhã?",
+    "syllables": [
+      "¿Estabas",
+      "corriendo",
+      "esta",
+      "mañana?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβas koˈrjendo ˈesta maˈɲana/",
+    "portuguesePhonetic": "[estábas korriéndo ésta manhána]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_hu70pah",
+    "word": "Estaba estudiando toda la noche para el examen.",
+    "translation": "Eu estava estudando a noite toda para a prova.",
+    "syllables": [
+      "Estaba",
+      "estudiando",
+      "toda",
+      "la",
+      "noche",
+      "para",
+      "el",
+      "examen."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa estuˈðjando ˈtoða la ˈnotʃe ˈpaɾa el eɣˈsamen/",
+    "portuguesePhonetic": "[estába estudiándo tóda la nótche pára el eksámen]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_m76o40z",
+    "word": "No estaba escuchando en clase.",
+    "translation": "Ela não estava prestando atenção na aula.",
+    "syllables": [
+      "No",
+      "estaba",
+      "escuchando",
+      "en",
+      "clase."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa eskuˈtʃando en ˈklase/",
+    "portuguesePhonetic": "[no estába eskutchándo en kláse]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_mh0k9b5",
+    "word": "Estaba hablando con mi madre cuando me escribiste.",
+    "translation": "Eu estava falando com minha mãe quando você mandou mensagem.",
+    "syllables": [
+      "Estaba",
+      "hablando",
+      "con",
+      "mi",
+      "madre",
+      "cuando",
+      "me",
+      "escribiste."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa aˈβlando kon mi ˈmaðɾe ˈkwando me eskɾiˈβiste/",
+    "portuguesePhonetic": "[estába ablándo kon mi mádre kuándo me eskribíste]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_hd0bos0",
+    "word": "Estaba lloviendo toda la tarde.",
+    "translation": "Estava chovendo a tarde toda.",
+    "syllables": [
+      "Estaba",
+      "lloviendo",
+      "toda",
+      "la",
+      "tarde."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa ʎoˈβjendo ˈtoða la ˈtaɾðe/",
+    "portuguesePhonetic": "[estába lhobiéndo tóda la tárde]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_96xuvhm",
+    "word": "El sol estaba brillando cuando salimos.",
+    "translation": "O sol estaba brilhando quando saímos.",
+    "syllables": [
+      "El",
+      "sol",
+      "estaba",
+      "brillando",
+      "cuando",
+      "salimos."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el sol esˈtaβa βɾiˈʎando ˈkwando saˈlimos/",
+    "portuguesePhonetic": "[el sol estába brilhándo kuándo salímos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_19eu0pn",
+    "word": "Nos lo estábamos pasando bien en la fiesta.",
+    "translation": "A gente estava se divertindo na festa.",
+    "syllables": [
+      "Nos",
+      "lo",
+      "estábamos",
+      "pasando",
+      "bien",
+      "en",
+      "la",
+      "fiesta."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos lo esˈtaβamos paˈsando bjen en la ˈfjesta/",
+    "portuguesePhonetic": "[nos lo estábamos pasándo bién en la fiésta]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_zh0czeu",
+    "word": "Estaban bailando toda la noche.",
+    "translation": "Eles estavam dançando a noite toda.",
+    "syllables": [
+      "Estaban",
+      "bailando",
+      "toda",
+      "la",
+      "noche."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβan bajˈlando ˈtoða la ˈnotʃe/",
+    "portuguesePhonetic": "[estában bailándo tóda la nótche]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_9kbxuvb",
+    "word": "Estaba leyendo un libro cuando llamaste a la puerta.",
+    "translation": "Eu estava lendo um livro quando você bateu na porta.",
+    "syllables": [
+      "Estaba",
+      "leyendo",
+      "un",
+      "libro",
+      "cuando",
+      "llamaste",
+      "a",
+      "la",
+      "puerta."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa leˈʝendo un ˈliβɾo ˈkwando ʎaˈmaste a la ˈpweɾta/",
+    "portuguesePhonetic": "[estába leiéndo un líbro kuándo lhamáste a la puérta]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_7fdzk55",
+    "word": "El médico estaba examinando a otro paciente.",
+    "translation": "O médico estava examinando outro paciente.",
+    "syllables": [
+      "El",
+      "médico",
+      "estaba",
+      "examinando",
+      "a",
+      "otro",
+      "paciente."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈmeðiko esˈtaβa eɣsamiˈnando a ˈotɾo paˈθjente/",
+    "portuguesePhonetic": "[el médiko estába eksaminándo a ótro pathiénte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_dq8u2ds",
+    "word": "¿Dónde vivías en 2015?",
+    "translation": "Onde você morava em 2015? (imperfeito simples)",
+    "syllables": [
+      "¿Dónde",
+      "vivías",
+      "en",
+      "2015?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde biˈβias en dos mil ˈkinθe/",
+    "portuguesePhonetic": "[dônde bibías en dos mil kínthe]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_7yh5u4s",
+    "word": "Estaba durmiendo.",
+    "translation": "Eu estava dormindo.",
+    "syllables": [
+      "Estaba",
+      "durmiendo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa duɾˈmjendo/",
+    "portuguesePhonetic": "[estába durmiéndo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_84v6ke8",
+    "word": "Estaba cocinando.",
+    "translation": "Ela estava cozinhando.",
+    "syllables": [
+      "Estaba",
+      "cocinando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa koθiˈnando/",
+    "portuguesePhonetic": "[estába kothinándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_v29rdqv",
+    "word": "Estaban estudiando.",
+    "translation": "Eles estavam estudando.",
+    "syllables": [
+      "Estaban",
+      "estudiando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβan estuˈðjando/",
+    "portuguesePhonetic": "[estában estudiándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_a0r1g3f",
+    "word": "No estábamos trabajando.",
+    "translation": "A gente não estava trabalhando.",
+    "syllables": [
+      "No",
+      "estábamos",
+      "trabajando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβamos tɾaβaˈxando/",
+    "portuguesePhonetic": "[no estábamos trabarrándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_q64xkox",
+    "word": "¿Conducía él rápido?",
+    "translation": "Ele estava dirigindo rápido?",
+    "syllables": [
+      "¿Conducía",
+      "él",
+      "rápido?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/konduˈθia el ˈrapiðo/",
+    "portuguesePhonetic": "[kondutía él rrápido]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_2az29qv",
+    "word": "No estaba prestando atención.",
+    "translation": "Ela não estava prestando atenção.",
+    "syllables": [
+      "No",
+      "estaba",
+      "prestando",
+      "atención."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa presˈtando atenˈθjon/",
+    "portuguesePhonetic": "[no estába prestándo atenthión]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_g8dzsc7",
+    "word": "Nos lo estábamos pasando genial.",
+    "translation": "A gente estava se divertindo muito.",
+    "syllables": [
+      "Nos",
+      "lo",
+      "estábamos",
+      "pasando",
+      "genial."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos lo esˈtaβamos paˈsando xeˈnjal/",
+    "portuguesePhonetic": "[nos lo estábamos pasándo rrenIál]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_m6nv0z9",
+    "word": "¿De qué estaban hablando?",
+    "translation": "O que eles estavam discutindo?",
+    "syllables": [
+      "¿De",
+      "qué",
+      "estaban",
+      "hablando?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de ke esˈtaβan aˈβlando/",
+    "portuguesePhonetic": "[de ke estában ablándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_03q414p",
+    "word": "¿No estaba trabajando ese día?",
+    "translation": "Ele não estava trabalhando naquele dia?",
+    "syllables": [
+      "¿No",
+      "estaba",
+      "trabajando",
+      "ese",
+      "día?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa tɾaβaˈxando ˈese ˈdia/",
+    "portuguesePhonetic": "[no estába trabarrándo ése día]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_dvn1qkn",
+    "word": "¿No estabas durmiendo cuando llamé?",
+    "translation": "Você não estava dormindo quando eu liguei?",
+    "syllables": [
+      "¿No",
+      "estabas",
+      "durmiendo",
+      "cuando",
+      "llamé?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβas duɾˈmjendo ˈkwando ʎaˈme/",
+    "portuguesePhonetic": "[no estábas durmiéndo kuándo lhamé]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_lll1m3r",
+    "word": "¿Por qué no contestaba el teléfono?",
+    "translation": "Por que ela não estava atendendo o telefone?",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "no",
+      "contestaba",
+      "el",
+      "teléfono?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke no kontesˈtaβa el teˈlefono/",
+    "portuguesePhonetic": "[por ké no kontestába el teléfono]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_miu3ajm",
+    "word": "¿Estaban discutiendo otra vez?",
+    "translation": "Eles estavam brigando de novo?",
+    "syllables": [
+      "¿Estaban",
+      "discutiendo",
+      "otra",
+      "vez?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβan diskuˈtjendo ˈotɾa beθ/",
+    "portuguesePhonetic": "[estában diskutiéndo ótra beth]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_9u7tgsh",
+    "word": "Estaba estudiando cuando me llamó mi amigo.",
+    "translation": "Eu estava estudando quando meu amigo me ligou.",
+    "syllables": [
+      "Estaba",
+      "estudiando",
+      "cuando",
+      "me",
+      "llamó",
+      "mi",
+      "amigo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa estuˈðjando ˈkwando me ʎaˈmo mi aˈmiɣo/",
+    "portuguesePhonetic": "[estába estudiándo kuándo me lhamó mi amígo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_1yfnc5s",
+    "word": "Estaba llorando porque perdió las llaves.",
+    "translation": "Ela estava chorando porque perdeu as chaves.",
+    "syllables": [
+      "Estaba",
+      "llorando",
+      "porque",
+      "perdió",
+      "las",
+      "llaves."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa ʎoˈɾando ˈpoɾke peɾˈðjo las ˈʎaβes/",
+    "portuguesePhonetic": "[estába lhorándo pórke perdió las lhábes]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_3h8bitv",
+    "word": "Íbamos en coche a la playa cuando se averió el coche.",
+    "translation": "A gente estava indo de carro para a praia quando o carro quebrou.",
+    "syllables": [
+      "Íbamos",
+      "en",
+      "coche",
+      "a",
+      "la",
+      "playa",
+      "cuando",
+      "se",
+      "averió",
+      "el",
+      "coche."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈiβamos en ˈkotʃe a la ˈplaʝa ˈkwando se aβeˈɾjo el ˈkotʃe/",
+    "portuguesePhonetic": "[íbamos en kótche a la pláia kuándo se aberió el kótche]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_9rxmznn",
+    "word": "No estaba escuchando, pero fingió que sí.",
+    "translation": "Ele não estava ouvindo, mas fingiu que estava.",
+    "syllables": [
+      "No",
+      "estaba",
+      "escuchando,",
+      "pero",
+      "fingió",
+      "que",
+      "sí."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa eskuˈtʃando ˈpeɾo finˈxjo ke si/",
+    "portuguesePhonetic": "[no estába eskutchándo péro finrrió ke sí]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_05i5x1z",
+    "word": "Mientras ella estudiaba, su hermano veía la tele.",
+    "translation": "Enquanto ela estava estudando, o irmão dela estava assistindo TV.",
+    "syllables": [
+      "Mientras",
+      "ella",
+      "estudiaba,",
+      "su",
+      "hermano",
+      "veía",
+      "la",
+      "tele."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈmjentɾas ˈeʎa estuˈðjaβa su eɾˈmano beˈia la ˈtele/",
+    "portuguesePhonetic": "[miéntras élha estudiába su ermáno beía la téle]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_u12bjam",
+    "word": "Iba caminando a casa cuando vi a un viejo amigo al que no veía desde hacía años.",
+    "translation": "Eu estava caminhando para casa quando vi um amigo antigo que não via há anos.",
+    "syllables": [
+      "Iba",
+      "caminando",
+      "a",
+      "casa",
+      "cuando",
+      "vi",
+      "a",
+      "un",
+      "viejo",
+      "amigo",
+      "al",
+      "que",
+      "no",
+      "veía",
+      "desde",
+      "hacía",
+      "años."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈiβa kamiˈnando a ˈkasa ˈkwando bi a un ˈbjexo aˈmiɣo al ke no beˈia ˈdezðe aˈθia ˈaɲos/",
+    "portuguesePhonetic": "[íba kaminándo a kása kuándo bi a un biérro amígo al ke no beía désde athía ánhos]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_6gc50bd",
+    "word": "Estaban cenando cuando de repente se fue la luz.",
+    "translation": "Eles estavam jantando quando a luz de repente acabou.",
+    "syllables": [
+      "Estaban",
+      "cenando",
+      "cuando",
+      "de",
+      "repente",
+      "se",
+      "fue",
+      "la",
+      "luz."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβan θeˈnando ˈkwando de reˈpente se fwe la luθ/",
+    "portuguesePhonetic": "[estában thenándo kuándo de repénte se fué la luth]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_yl4puqu",
+    "word": "¿Qué estabas haciendo a medianoche, cuando intenté llamarte tres veces?",
+    "translation": "O que você estava fazendo à meia-noite, quando tentei te ligar três vezes?",
+    "syllables": [
+      "¿Qué",
+      "estabas",
+      "haciendo",
+      "a",
+      "medianoche,",
+      "cuando",
+      "intenté",
+      "llamarte",
+      "tres",
+      "veces?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke esˈtaβas aˈθjendo a meðjaˈnotʃe ˈkwando intenˈte ʎaˈmaɾte tɾes ˈbeθes/",
+    "portuguesePhonetic": "[ke estábas athiéndo a mediánótche kuándo intenté lhamárte trés bétches]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_0ck74qf",
+    "word": "Estuvo trabajando en el proyecto todo el fin de semana, aunque no se encontraba bien.",
+    "translation": "Ela estava trabalhando no projeto o fim de semana todo, mesmo não se sentindo bem.",
+    "syllables": [
+      "Estuvo",
+      "trabajando",
+      "en",
+      "el",
+      "proyecto",
+      "todo",
+      "el",
+      "fin",
+      "de",
+      "semana,",
+      "aunque",
+      "no",
+      "se",
+      "encontraba",
+      "bien."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtuβo tɾaβaˈxando en el pɾoˈʝekto ˈtoðo el fin de seˈmana ˈawŋke no se eŋkonˈtɾaβa bjen/",
+    "portuguesePhonetic": "[estúbo trabarrándo en el proiékto tódo el fin de semána áunke no se enkontrába bién]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_39b51sv",
+    "word": "No nos esperábamos la noticia, así que todos se sorprendieron al oírla.",
+    "translation": "A gente não estava esperando a notícia, então todo mundo ficou chocado quando ouviu.",
+    "syllables": [
+      "No",
+      "nos",
+      "esperábamos",
+      "la",
+      "noticia,",
+      "así",
+      "que",
+      "todos",
+      "se",
+      "sorprendieron",
+      "al",
+      "oírla."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no nos espeˈɾaβamos la noˈtiθja aˈsi ke ˈtoðos se soɾpɾenˈdjeɾon al oˈiɾla/",
+    "portuguesePhonetic": "[no nos esperábamos la notíthia así ke tódos se sorprendiéron al oírla]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_ly0gow9",
+    "word": "Iba demasiado rápido cuando la policía lo paró.",
+    "translation": "Ele estava dirigindo rápido demais quando a polícia o parou.",
+    "syllables": [
+      "Iba",
+      "demasiado",
+      "rápido",
+      "cuando",
+      "la",
+      "policía",
+      "lo",
+      "paró."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈiβa demaˈsjaðo ˈrapiðo ˈkwando la poliˈθia lo paˈɾo/",
+    "portuguesePhonetic": "[íba demasiádo rrápido kuándo la polithía lo paró]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_7v9z0rz",
+    "word": "Mientras viajábamos por España, nos alojábamos con familias locales.",
+    "translation": "Enquanto estávamos viajando na Espanha, ficávamos com famílias locais.",
+    "syllables": [
+      "Mientras",
+      "viajábamos",
+      "por",
+      "España,",
+      "nos",
+      "alojábamos",
+      "con",
+      "familias",
+      "locales."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈmjentɾas bjaˈxaβamos poɾ esˈpaɲa nos aloxaˈβamos kon faˈmiljas loˈkales/",
+    "portuguesePhonetic": "[miéntras biarrábamos por espánha nos alorrabámos kon famílias lokáles]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_d2y3l8h",
+    "word": "No estaban prestando atención porque estaban hablando de otra cosa.",
+    "translation": "Eles não estaban prestando atenção porque estaban hablando sobre outra cosa.",
+    "syllables": [
+      "No",
+      "estaban",
+      "prestando",
+      "atención",
+      "porque",
+      "estaban",
+      "hablando",
+      "de",
+      "otra",
+      "cosa."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβan presˈtando atenˈθjon ˈpoɾke esˈtaβan aˈβlando de ˈotɾa ˈkosa/",
+    "portuguesePhonetic": "[no estában prestándo atenthión pórke estában ablándo de ótra kósa]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_3qb37js",
+    "word": "¿Estaba trabajando? / Sí.",
+    "translation": "Ele estava trabalhando? / Sim, estava.",
+    "syllables": [
+      "¿Estaba",
+      "trabajando?",
+      "/",
+      "Sí."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa tɾaβaˈxando · si/",
+    "portuguesePhonetic": "[estába trabarrándo · sí]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_7w2tqtx",
+    "word": "¿Estabas durmiendo? / No.",
+    "translation": "Você estava dormindo? / Não, não estava.",
+    "syllables": [
+      "¿Estabas",
+      "durmiendo?",
+      "/",
+      "No."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβas duɾˈmjendo · no/",
+    "portuguesePhonetic": "[estábas durmiéndo · no]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_i5335tq",
+    "word": "¿Qué estaba haciendo? / Estaba cocinando.",
+    "translation": "O que ela estava fazendo? / Ela estava cozinhando.",
+    "syllables": [
+      "¿Qué",
+      "estaba",
+      "haciendo?",
+      "/",
+      "Estaba",
+      "cocinando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke esˈtaβa aˈθjendo · esˈtaβa koθiˈnando/",
+    "portuguesePhonetic": "[ke estába athiéndo · estába kothinándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_8cwny2y",
+    "word": "¿Estaban estudiando? / Sí.",
+    "translation": "Eles estavam estudando? / Sim, estavam.",
+    "syllables": [
+      "¿Estaban",
+      "estudiando?",
+      "/",
+      "Sí."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβan estuˈðjando · si/",
+    "portuguesePhonetic": "[estában estudiándo · sí]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_mnmwnrl",
+    "word": "¿Llovía? / Sí, todo el día.",
+    "translation": "Estava chovendo? / Sim, o dia todo.",
+    "syllables": [
+      "¿Llovía?",
+      "/",
+      "Sí,",
+      "todo",
+      "el",
+      "día."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈʎoβia · si ˈtoðo el ˈdia/",
+    "portuguesePhonetic": "[lhóbia · sí tódo el día]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_zzgphut",
+    "word": "¿Dónde estabas a las nueve? / En el gimnasio.",
+    "translation": "Onde você estava às nove? / Na academia.",
+    "syllables": [
+      "¿Dónde",
+      "estabas",
+      "a",
+      "las",
+      "nueve?",
+      "/",
+      "En",
+      "el",
+      "gimnasio."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈtaβas a las ˈnweβe · en el ximˈnasjo/",
+    "portuguesePhonetic": "[dônde estábas a las nuébe · en el rrimnásio]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_wc8mciz",
+    "word": "¿Conducías? / No, iba andando.",
+    "translation": "Você estava dirigindo? / Não, estava a pé.",
+    "syllables": [
+      "¿Conducías?",
+      "/",
+      "No,",
+      "iba",
+      "andando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/konduˈθias · no ˈiβa anˈdando/",
+    "portuguesePhonetic": "[kondutías · no íba andándo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_b373dtj",
+    "word": "¿Qué estaba haciendo a medianoche? / Viendo una película.",
+    "translation": "O que ele estava fazendo à meia-noite? / Assistindo a um filme.",
+    "syllables": [
+      "¿Qué",
+      "estaba",
+      "haciendo",
+      "a",
+      "medianoche?",
+      "/",
+      "Viendo",
+      "una",
+      "película."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke esˈtaβa aˈθjendo a meðjaˈnotʃe · ˈbjendo una peˈlikula/",
+    "portuguesePhonetic": "[ke estába athiéndo a mediánótche · biéndo úna pelíkula]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_mu994gc",
+    "word": "¿Esperaba mucho? / Casi una hora.",
+    "translation": "Ela estava esperando muito tempo? / Cerca de uma hora.",
+    "syllables": [
+      "¿Esperaba",
+      "mucho?",
+      "/",
+      "Casi",
+      "una",
+      "hora."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/espeˈɾaβa ˈmutʃo · ˈkasi una ˈoɾa/",
+    "portuguesePhonetic": "[esperába mútcho · kási úna óra]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_uyp7mkm",
+    "word": "¿Jugaban los niños fuera? / Sí.",
+    "translation": "As crianças estavam brincando lá fora? / Sim, estavam.",
+    "syllables": [
+      "¿Jugaban",
+      "los",
+      "niños",
+      "fuera?",
+      "/",
+      "Sí."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/xuˈɣaβan los ˈniɲos ˈfweɾa · si/",
+    "portuguesePhonetic": "[rrugában los nínhos fuéra · sí]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_g8x4szy",
+    "word": "¿Se encontraba mal? / Sí, un poco.",
+    "translation": "Ele estava se sentindo mal? / Sim, um pouco.",
+    "syllables": [
+      "¿Se",
+      "encontraba",
+      "mal?",
+      "/",
+      "Sí,",
+      "un",
+      "poco."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se eŋkonˈtɾaβa mal · si un ˈpoko/",
+    "portuguesePhonetic": "[se enkontrába mal · sí un póko]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_te52m38",
+    "word": "¿De qué hablabais? / De nada importante.",
+    "translation": "Sobre o que vocês estavam falando? / Nada importante.",
+    "syllables": [
+      "¿De",
+      "qué",
+      "hablabais?",
+      "/",
+      "De",
+      "nada",
+      "importante."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de ke aˈβlaβais · de ˈnaða impoɾˈtante/",
+    "portuguesePhonetic": "[de ke ablábais · de náda importánte]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_u9r9tkt",
+    "word": "¿Brillaba el sol esta mañana? / Sí, precioso.",
+    "translation": "O sol estava brilhando hoje de manhã? / Sim, estava lindo.",
+    "syllables": [
+      "¿Brillaba",
+      "el",
+      "sol",
+      "esta",
+      "mañana?",
+      "/",
+      "Sí,",
+      "precioso."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bɾiˈʎaβa el sol ˈesta maˈɲana · si pɾeˈθjoso/",
+    "portuguesePhonetic": "[brilhába el sol ésta manhána · sí prethióso]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_vobdta8",
+    "word": "¿Trabajabas hasta tarde? / Sí, hasta las diez.",
+    "translation": "Você estava trabalhando até tarde? / Sim, até as dez.",
+    "syllables": [
+      "¿Trabajabas",
+      "hasta",
+      "tarde?",
+      "/",
+      "Sí,",
+      "hasta",
+      "las",
+      "diez."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾaβaˈxaβas ˈasta ˈtaɾðe · si ˈasta las djeθ/",
+    "portuguesePhonetic": "[trabarrábas ásta tárde · sí ásta las diéth]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_v051vke",
+    "word": "¿Qué hacía ese ruido? / La lavadora.",
+    "translation": "O que estava fazendo aquele barulho? / A máquina de lavar.",
+    "syllables": [
+      "¿Qué",
+      "hacía",
+      "ese",
+      "ruido?",
+      "/",
+      "La",
+      "lavadora."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke aˈθia ˈese ˈrwiðo · la laβaˈðoɾa/",
+    "portuguesePhonetic": "[ke athía ése rruído · la labadóra]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_v30bgn2",
+    "word": "¿Lloraba ella? / Sí, estaba muy afectada.",
+    "translation": "Ela estava chorando? / Sim, estava bem chateada.",
+    "syllables": [
+      "¿Lloraba",
+      "ella?",
+      "/",
+      "Sí,",
+      "estaba",
+      "muy",
+      "afectada."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈʎoɾaβa ˈeʎa · si esˈtaβa mui afekˈtaða/",
+    "portuguesePhonetic": "[lhórava élha · sí estába múi afektáda]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_nbm9tmr",
+    "word": "¿Discutíais? / Solo un pequeño desacuerdo.",
+    "translation": "Vocês dois estavam brigando? / Só um pequeno desentendimento.",
+    "syllables": [
+      "¿Discutíais?",
+      "/",
+      "Solo",
+      "un",
+      "pequeño",
+      "desacuerdo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/diskuˈtiais · ˈsolo un peˈkeɲo desaˈkweɾðo/",
+    "portuguesePhonetic": "[diskutíais · sólo un pekénho desakuérdo]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_b9whcmr",
+    "word": "¿Nadaba cuando llegaste? / Sí, en la piscina.",
+    "translation": "Ele estava nadando quando você chegou? / Sim, na piscina.",
+    "syllables": [
+      "¿Nadaba",
+      "cuando",
+      "llegaste?",
+      "/",
+      "Sí,",
+      "en",
+      "la",
+      "piscina."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/naˈðaβa ˈkwando ʎeˈɣaste · si en la pisˈθina/",
+    "portuguesePhonetic": "[nadába kuándo lhegáste · sí en la pisthína]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_hdn1tsc",
+    "word": "¿Qué llevaba puesto? / Un vestido azul.",
+    "translation": "O que ela estava vestindo? / Um vestido azul.",
+    "syllables": [
+      "¿Qué",
+      "llevaba",
+      "puesto?",
+      "/",
+      "Un",
+      "vestido",
+      "azul."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ʎeˈβaβa ˈpwesto · un besˈtiðo aˈθul/",
+    "portuguesePhonetic": "[lhebába puésto · un bestído athúl]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_p0qbqtl",
+    "word": "¿Viajaban juntos? / Sí, toda la familia.",
+    "translation": "Eles estavam viajando juntos? / Sim, a família toda.",
+    "syllables": [
+      "¿Viajaban",
+      "juntos?",
+      "/",
+      "Sí,",
+      "toda",
+      "la",
+      "familia."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bjaˈxaβan ˈxuntos · si ˈtoða la faˈmilja/",
+    "portuguesePhonetic": "[biarrában rrúntos · sí tóda la famílha]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_m7rtpw1",
+    "word": "¿Estaba abierta la tienda? / No, estaba cerrada.",
+    "translation": "A loja estava aberta? / Não, estava fechada.",
+    "syllables": [
+      "¿Estaba",
+      "abierta",
+      "la",
+      "tienda?",
+      "/",
+      "No,",
+      "estaba",
+      "cerrada."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa aˈβjeɾta la ˈtjenda · no esˈtaβa θeˈraða/",
+    "portuguesePhonetic": "[estába abiérta la tiénda · no estába therráda]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_hg80jx6",
+    "word": "¿Qué leía? / Una novela de misterio.",
+    "translation": "O que ele estava lendo? / Um romance de mistério.",
+    "syllables": [
+      "¿Qué",
+      "leía?",
+      "/",
+      "Una",
+      "novela",
+      "de",
+      "misterio."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke leˈia · una noˈβela de misˈteɾjo/",
+    "portuguesePhonetic": "[ke leía · úna nobéla de mistério]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_f9yot2w",
+    "word": "¿Te lo esperabas? / La verdad, no mucho.",
+    "translation": "Você estava esperando isso? / Nem tanto.",
+    "syllables": [
+      "¿Te",
+      "lo",
+      "esperabas?",
+      "/",
+      "La",
+      "verdad,",
+      "no",
+      "mucho."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te lo espeˈɾaβas · la beɾˈðað no ˈmutʃo/",
+    "portuguesePhonetic": "[te lo esperábas · la berdád no mútcho]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_wrqsnsj",
+    "word": "¿Sonreía? / Sí, parecía feliz.",
+    "translation": "Ela estava sorrindo? / Sim, parecia feliz.",
+    "syllables": [
+      "¿Sonreía?",
+      "/",
+      "Sí,",
+      "parecía",
+      "feliz."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sonˈreia · si paˈɾeθia feˈliθ/",
+    "portuguesePhonetic": "[sonreía · sí parethía felíth]"
+  },
+  {
+    "id": "leccion_5_gramatica_a2_s_id_nn3qpv7",
+    "word": "¿Interrumpíamos algo? / No, para nada.",
+    "translation": "A gente estava interrompendo alguma coisa? / Não, de jeito nenhum.",
+    "syllables": [
+      "¿Interrumpíamos",
+      "algo?",
+      "/",
+      "No,",
+      "para",
+      "nada."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/interumˈpiamos ˈalɣo · no ˈpaɾa ˈnaða/",
+    "portuguesePhonetic": "[interrumpíamos álgo · no pára náda]"
+  }
+]

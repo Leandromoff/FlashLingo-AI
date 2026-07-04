@@ -268,6 +268,13 @@ export const PREDEFINED_TOPICS = [
     group: "Grammar A2",
     description: "Past Simple",
   },
+  {
+    id: "lesson_5_grammar_a2",
+    label: "Lesson 5",
+    isStatic: true,
+    group: "Grammar A2",
+    description: "Past Continuous",
+  },
   { id: "leccion_1_w2_s", label: "Lección 1", isStatic: true, group: "W2-S" },
   { id: "leccion_3_w2_s", label: "Lección 3", isStatic: true, group: "W2-S" },
   { id: "leccion_5_w2_s", label: "Lección 5", isStatic: true, group: "W2-S" },
@@ -474,5 +481,12 @@ export const PREDEFINED_TOPICS = [
     isStatic: true,
     group: "Gramática A2",
     description: "Pasado Simple",
+  },
+  {
+    id: "leccion_5_gramatica_a2_s",
+    label: "Lección 5",
+    isStatic: true,
+    group: "Gramática A2",
+    description: "Pasado Continuo",
   },
 ];
