@@ -383,5 +383,14 @@
   "leccion_3_gramatica_a2_s": {
     "cardCount": 100,
     "es": 100
+  },
+  "leccion_4_gramatica_a2_s": {
+    "cardCount": 100,
+    "es": 100
+  },
+  "lesson_4_grammar_a2": {
+    "cardCount": 100,
+    "en": 100,
+    "es": 0
   }
 }
