@@ -1,0 +1,1836 @@
+[
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_3cneekl",
+    "word": "¿A quién llamaste?",
+    "translation": "Quem você ligou? (pergunta direta)",
+    "syllables": [
+      "¿A",
+      "quién",
+      "llamaste?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a kjen ʎaˈmaste/",
+    "portuguesePhonetic": "[a kién lhamáste]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_c608ec6",
+    "word": "¿Podrías decirme a quién llamaste?",
+    "translation": "Você poderia me dizer quem você ligou? (indireta)",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "a",
+      "quién",
+      "llamaste?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme a kjen ʎaˈmaste/",
+    "portuguesePhonetic": "[podrías dethírme a kién lhamáste]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_tea2twi",
+    "word": "¿Qué hora es?",
+    "translation": "Que horas são?",
+    "syllables": [
+      "¿Qué",
+      "hora",
+      "es?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈoɾa es/",
+    "portuguesePhonetic": "[ke óra és]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_uvtxo19",
+    "word": "¿Sabes qué hora es?",
+    "translation": "Você sabe que horas são?",
+    "syllables": [
+      "¿Sabes",
+      "qué",
+      "hora",
+      "es?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes ke ˈoɾa es/",
+    "portuguesePhonetic": "[sábes ke óra és]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_z6j8ime",
+    "word": "¿Vendrá él?",
+    "translation": "Ele vai vir?",
+    "syllables": [
+      "¿Vendrá",
+      "él?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/benˈdɾa el/",
+    "portuguesePhonetic": "[bendrá él]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_zzwx1qv",
+    "word": "Me pregunto si vendrá.",
+    "translation": "Estou me perguntando se ele vai vir.",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "si",
+      "vendrá."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto si benˈdɾa/",
+    "portuguesePhonetic": "[me pregúnto si bendrá]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_dgqg7ya",
+    "word": "¿Está lloviendo?",
+    "translation": "Está chovendo?",
+    "syllables": [
+      "¿Está",
+      "lloviendo?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta ʎoˈβjendo/",
+    "portuguesePhonetic": "[está lhobiéndo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_4zu7dmu",
+    "word": "No sé si está lloviendo.",
+    "translation": "Eu não sei se está chovendo.",
+    "syllables": [
+      "No",
+      "sé",
+      "si",
+      "está",
+      "lloviendo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se si esˈta ʎoˈβjendo/",
+    "portuguesePhonetic": "[no sé si está lhobiéndo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_wnfm2wo",
+    "word": "¿Le gusta el café?",
+    "translation": "Ela gosta de café?",
+    "syllables": [
+      "¿Le",
+      "gusta",
+      "el",
+      "café?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/le ˈɡusta el kaˈfe/",
+    "portuguesePhonetic": "[le gústa el kafé]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_4ygy22r",
+    "word": "Me gustaría saber si le gusta el café.",
+    "translation": "Eu gostaria de saber se ela gosta de café.",
+    "syllables": [
+      "Me",
+      "gustaría",
+      "saber",
+      "si",
+      "le",
+      "gusta",
+      "el",
+      "café."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ɣustaˈɾia saˈβeɾ si le ˈɡusta el kaˈfe/",
+    "portuguesePhonetic": "[me gustaría sabér si le gústa el kafé]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_rks1l2l",
+    "word": "¿Dónde está el baño?",
+    "translation": "Onde fica o banheiro?",
+    "syllables": [
+      "¿Dónde",
+      "está",
+      "el",
+      "baño?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el ˈbaɲo/",
+    "portuguesePhonetic": "[dônde está el bánho]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_1de7l66",
+    "word": "¿Podrías decirme dónde está el baño?",
+    "translation": "Você poderia me dizer onde fica o banheiro?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "dónde",
+      "está",
+      "el",
+      "baño?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ˈdonde esˈta el ˈbaɲo/",
+    "portuguesePhonetic": "[podrías dethírme dônde está el bánho]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_6hjurm0",
+    "word": "¿Cuánto cuesta?",
+    "translation": "Quanto custa?",
+    "syllables": [
+      "¿Cuánto",
+      "cuesta?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwanto ˈkwesta/",
+    "portuguesePhonetic": "[kuánto kuésta]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_6jarcmb",
+    "word": "¿Sabes cuánto cuesta?",
+    "translation": "Você sabe quanto custa?",
+    "syllables": [
+      "¿Sabes",
+      "cuánto",
+      "cuesta?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes ˈkwanto ˈkwesta/",
+    "portuguesePhonetic": "[sábes kuánto kuésta]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_7itsin5",
+    "word": "¿De dónde es Sharon?",
+    "translation": "De onde a Sharon é?",
+    "syllables": [
+      "¿De",
+      "dónde",
+      "es",
+      "Sharon?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de ˈdonde es ˈʃaɾon/",
+    "portuguesePhonetic": "[de dônde és cháron]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_xb7z4ob",
+    "word": "No sé de dónde es Sharon.",
+    "translation": "Eu não sei de onde a Sharon é.",
+    "syllables": [
+      "No",
+      "sé",
+      "de",
+      "dónde",
+      "es",
+      "Sharon."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se de ˈdonde es ˈʃaɾon/",
+    "portuguesePhonetic": "[no sé de dônde és cháron]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_holi9dx",
+    "word": "¿Quién llamó?",
+    "translation": "Quem ligou? (sujeito)",
+    "syllables": [
+      "¿Quién",
+      "llamó?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kjen ʎaˈmo/",
+    "portuguesePhonetic": "[kién lhamó]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_2i35zg0",
+    "word": "Me pregunto quién llamó.",
+    "translation": "Eu me pergunto quem ligou. (a ordem já não muda)",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "quién",
+      "llamó."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto kjen ʎaˈmo/",
+    "portuguesePhonetic": "[me pregúnto kién lhamó]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_vcgmuej",
+    "word": "¿Qué quiere ella?",
+    "translation": "O que ela quer?",
+    "syllables": [
+      "¿Qué",
+      "quiere",
+      "ella?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈkjeɾe ˈeʎa/",
+    "portuguesePhonetic": "[ke kiére élha]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_t26effz",
+    "word": "No sé qué quiere.",
+    "translation": "Eu não sei o que ela quer.",
+    "syllables": [
+      "No",
+      "sé",
+      "qué",
+      "quiere."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se ke ˈkjeɾe/",
+    "portuguesePhonetic": "[no sé ke kiére]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_8hkzwws",
+    "word": "¿Cuándo empieza la película?",
+    "translation": "Quando o filme começa?",
+    "syllables": [
+      "¿Cuándo",
+      "empieza",
+      "la",
+      "película?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwando emˈpjeθa la peˈlikula/",
+    "portuguesePhonetic": "[kuándo empiétha la pelíkula]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_fen223k",
+    "word": "¿Sabes cuándo empieza la película?",
+    "translation": "Você sabe quando o filme começa?",
+    "syllables": [
+      "¿Sabes",
+      "cuándo",
+      "empieza",
+      "la",
+      "película?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes ˈkwando emˈpjeθa la peˈlikula/",
+    "portuguesePhonetic": "[sábes kuándo empiétha la pelíkula]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_lsis46s",
+    "word": "¿Por qué se fue?",
+    "translation": "Por que ele saiu?",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "se",
+      "fue?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke se fwe/",
+    "portuguesePhonetic": "[por ké se fué]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_xsp9oyl",
+    "word": "Me gustaría saber por qué se fue.",
+    "translation": "Eu gostaria de saber por que ele saiu.",
+    "syllables": [
+      "Me",
+      "gustaría",
+      "saber",
+      "por",
+      "qué",
+      "se",
+      "fue."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ɣustaˈɾia saˈβeɾ poɾ ke se fwe/",
+    "portuguesePhonetic": "[me gustaría sabér por ké se fué]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_2wn1ur1",
+    "word": "En español, la pregunta indirecta apenas cambia la estructura; solo se le añade una expresión delante.",
+    "translation": "Em espanhol, a pergunta indireta quase não muda a estrutura; só se acrescenta uma expressão na frente.",
+    "syllables": [
+      "En",
+      "español,",
+      "la",
+      "pregunta",
+      "indirecta",
+      "apenas",
+      "cambia",
+      "la",
+      "estructura;",
+      "solo",
+      "se",
+      "le",
+      "añade",
+      "una",
+      "expresión",
+      "delante."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/en espaˈɲol la pɾeˈɣunta indiˈɾekta aˈpenas ˈkambja la estɾukˈtuɾa/",
+    "portuguesePhonetic": "[en espánhol la pregúnta indirékta apénas kámbia la estruktúra]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_18gtzfc",
+    "word": "¿Podrías decirme dónde está la puerta de embarque?",
+    "translation": "Você poderia me dizer onde fica o portão de embarque?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "dónde",
+      "está",
+      "la",
+      "puerta",
+      "de",
+      "embarque?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ˈdonde esˈta la ˈpweɾta de emˈbaɾke/",
+    "portuguesePhonetic": "[podrías dethírme dônde está la puérta de embárke]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_to35td5",
+    "word": "¿Sabes a qué hora sale el vuelo?",
+    "translation": "Você sabe a que horas o voo sai?",
+    "syllables": [
+      "¿Sabes",
+      "a",
+      "qué",
+      "hora",
+      "sale",
+      "el",
+      "vuelo?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes a ke ˈoɾa ˈsale el ˈbwelo/",
+    "portuguesePhonetic": "[sábes a ke óra sále el buélo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_rrl7yaq",
+    "word": "Me pregunto si el vuelo está retrasado.",
+    "translation": "Estou me perguntando se o voo está atrasado.",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "si",
+      "el",
+      "vuelo",
+      "está",
+      "retrasado."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto si el ˈbwelo esˈta reˈtɾasaðo/",
+    "portuguesePhonetic": "[me pregúnto si el buélo está retrasádo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_besbbab",
+    "word": "¿Podrías decirme cuánto cuesta esto?",
+    "translation": "Você poderia me dizer quanto isso custa?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "cuánto",
+      "cuesta",
+      "esto?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ˈkwanto ˈkwesta ˈesto/",
+    "portuguesePhonetic": "[podrías dethírme kuánto kuésta ésto]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_bfaa544",
+    "word": "¿Sabes si el banco está abierto?",
+    "translation": "Você sabe se o banco está aberto?",
+    "syllables": [
+      "¿Sabes",
+      "si",
+      "el",
+      "banco",
+      "está",
+      "abierto?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes si el ˈbaŋko esˈta aˈβjeɾto/",
+    "portuguesePhonetic": "[sábes si el bánko está abiérto]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_3178u7w",
+    "word": "No sé dónde tengo que firmar.",
+    "translation": "Eu não sei onde preciso assinar.",
+    "syllables": [
+      "No",
+      "sé",
+      "dónde",
+      "tengo",
+      "que",
+      "firmar."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se ˈdonde ˈteŋɡo ke fiɾˈmaɾ/",
+    "portuguesePhonetic": "[no sé dônde téngo ke firmár]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_jt99ceu",
+    "word": "¿Podrías decirme cuánto va a durar la cita?",
+    "translation": "Você poderia me dizer quanto tempo a consulta vai demorar?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "cuánto",
+      "va",
+      "a",
+      "durar",
+      "la",
+      "cita?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ˈkwanto ba a duˈɾaɾ la ˈθita/",
+    "portuguesePhonetic": "[podrías dethírme kuánto ba a durár la thíta]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_35gu65c",
+    "word": "Me gustaría saber si esto es normal.",
+    "translation": "Eu gostaria de saber se isso é normal.",
+    "syllables": [
+      "Me",
+      "gustaría",
+      "saber",
+      "si",
+      "esto",
+      "es",
+      "normal."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ɣustaˈɾia saˈβeɾ si ˈesto es noɾˈmal/",
+    "portuguesePhonetic": "[me gustaría sabér si ésto és normál]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_n0m5nlf",
+    "word": "¿Sabes si tienen opciones vegetarianas?",
+    "translation": "Você sabe se eles têm opções vegetarianas?",
+    "syllables": [
+      "¿Sabes",
+      "si",
+      "tienen",
+      "opciones",
+      "vegetarianas?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes si ˈtjenen opˈθjones beɣetaˈɾjanas/",
+    "portuguesePhonetic": "[sábes si tiénen opthiónes begetariánas]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_zvx93lq",
+    "word": "¿Podrías decirme cuál es el plato del día?",
+    "translation": "Você poderia me dizer qual é o prato do dia?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "cuál",
+      "es",
+      "el",
+      "plato",
+      "del",
+      "día?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme kwal es el ˈplato del ˈdia/",
+    "portuguesePhonetic": "[podrías dethírme kuál és el pláto del día]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_huulp60",
+    "word": "Me pregunto cuándo empieza la reunión.",
+    "translation": "Estou me perguntando quando a reunião começa.",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "cuándo",
+      "empieza",
+      "la",
+      "reunión."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto ˈkwando emˈpjeθa la reuˈnjon/",
+    "portuguesePhonetic": "[me pregúnto kuándo empiétha la reunión]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_bpmwhcp",
+    "word": "¿Sabes quién presenta primero?",
+    "translation": "Você sabe quem vai apresentar primeiro?",
+    "syllables": [
+      "¿Sabes",
+      "quién",
+      "presenta",
+      "primero?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes kjen pɾeˈsenta pɾiˈmeɾo/",
+    "portuguesePhonetic": "[sábes kién presénta priméro]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_i2u833h",
+    "word": "No sé si terminó el informe.",
+    "translation": "Eu não sei se ele terminou o relatório.",
+    "syllables": [
+      "No",
+      "sé",
+      "si",
+      "terminó",
+      "el",
+      "informe."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se si teɾmiˈno el imˈfoɾme/",
+    "portuguesePhonetic": "[no sé si terminó el imfórme]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_9kzyevg",
+    "word": "¿Podrías decirme dónde está la leche?",
+    "translation": "Você poderia me dizer onde está o leite?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "dónde",
+      "está",
+      "la",
+      "leche?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ˈdonde esˈta la ˈletʃe/",
+    "portuguesePhonetic": "[podrías dethírme dônde está la létche]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_15v8k4w",
+    "word": "¿Sabes si esta tienda acepta tarjeta?",
+    "translation": "Você sabe se esta loja aceita cartão?",
+    "syllables": [
+      "¿Sabes",
+      "si",
+      "esta",
+      "tienda",
+      "acepta",
+      "tarjeta?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes si ˈesta ˈtjenda aˈθepta taɾˈxeta/",
+    "portuguesePhonetic": "[sábes si ésta tiénda athépta tarrréta]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_rujir3d",
+    "word": "¿Podrías decirme qué autobús va al centro?",
+    "translation": "Você poderia me dizer qual ônibus vai para o centro?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "qué",
+      "autobús",
+      "va",
+      "al",
+      "centro?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ke awtoˈβus ba al ˈθentɾo/",
+    "portuguesePhonetic": "[podrías dethírme ke autobús ba al théntro]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_1r7s5mx",
+    "word": "No sé con qué frecuencia pasa el tren.",
+    "translation": "Eu não sei com que frequência o trem passa.",
+    "syllables": [
+      "No",
+      "sé",
+      "con",
+      "qué",
+      "frecuencia",
+      "pasa",
+      "el",
+      "tren."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se kon ke fɾeˈkwenθja ˈpasa el tɾen/",
+    "portuguesePhonetic": "[no sé kon ke frekuéntia pása el trén]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_qrmzva5",
+    "word": "¿Sabes cuándo es el examen?",
+    "translation": "Você sabe quando é a prova?",
+    "syllables": [
+      "¿Sabes",
+      "cuándo",
+      "es",
+      "el",
+      "examen?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes ˈkwando es el eɣˈsamen/",
+    "portuguesePhonetic": "[sábes kuándo és el eksámen]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_2snfnfd",
+    "word": "Me gustaría saber cuántas preguntas hay.",
+    "translation": "Eu gostaria de saber quantas perguntas tem.",
+    "syllables": [
+      "Me",
+      "gustaría",
+      "saber",
+      "cuántas",
+      "preguntas",
+      "hay."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ɣustaˈɾia saˈβeɾ ˈkwantas pɾeˈɣuntas ai/",
+    "portuguesePhonetic": "[me gustaría sabér kuántas pregúntas ái]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_098ats6",
+    "word": "¿Podrías decirme si está disponible?",
+    "translation": "Você poderia me dizer se ela está disponível?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "si",
+      "está",
+      "disponible?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme si esˈta dispoˈniβle/",
+    "portuguesePhonetic": "[podrías dethírme si está disponíble]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_18cq954",
+    "word": "Me pregunto a qué hora volverá.",
+    "translation": "Estou me perguntando a que horas ela vai voltar.",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "a",
+      "qué",
+      "hora",
+      "volverá."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto a ke ˈoɾa bolβeˈɾa/",
+    "portuguesePhonetic": "[me pregúnto a ke óra bolberá]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_gp4ssk9",
+    "word": "¿Sabes dónde quedamos?",
+    "translation": "Você sabe onde a gente vai se encontrar?",
+    "syllables": [
+      "¿Sabes",
+      "dónde",
+      "quedamos?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes ˈdonde keˈðamos/",
+    "portuguesePhonetic": "[sábes dônde kedámos]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_hrxmt5y",
+    "word": "No sé si vienen esta noche.",
+    "translation": "Eu não sei se eles vão vir hoje à noite.",
+    "syllables": [
+      "No",
+      "sé",
+      "si",
+      "vienen",
+      "esta",
+      "noche."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se si ˈbjenen ˈesta ˈnotʃe/",
+    "portuguesePhonetic": "[no sé si biénen ésta nótche]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_f1kvpwm",
+    "word": "¿Sabes si va a llover mañana?",
+    "translation": "Você sabe se vai chover amanhã?",
+    "syllables": [
+      "¿Sabes",
+      "si",
+      "va",
+      "a",
+      "llover",
+      "mañana?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes si ba a ʎoˈβeɾ maˈɲana/",
+    "portuguesePhonetic": "[sábes si ba a lhobér manhána]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_g1xhuvg",
+    "word": "Me pregunto qué frío hará este fin de semana.",
+    "translation": "Estou me perguntando quão frio vai estar neste fim de semana.",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "qué",
+      "frío",
+      "hará",
+      "este",
+      "fin",
+      "de",
+      "semana."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto ke ˈfɾio aˈɾa ˈeste fin de seˈmana/",
+    "portuguesePhonetic": "[me pregúnto ke frío ará éste fin de semána]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_35md3eu",
+    "word": "¿Sabes su nombre?",
+    "translation": "Você sabe o nome dela?",
+    "syllables": [
+      "¿Sabes",
+      "su",
+      "nombre?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes su ˈnombɾe/",
+    "portuguesePhonetic": "[sábes su nómbre]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_930h8ee",
+    "word": "No sé dónde está.",
+    "translation": "Eu não sei onde ele está.",
+    "syllables": [
+      "No",
+      "sé",
+      "dónde",
+      "está."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se ˈdonde esˈta/",
+    "portuguesePhonetic": "[no sé dônde está]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_mzn2z84",
+    "word": "¿Podrías decirme la hora?",
+    "translation": "Você poderia me dizer as horas?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "la",
+      "hora?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme la ˈoɾa/",
+    "portuguesePhonetic": "[podrías dethírme la óra]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_uoz1eyz",
+    "word": "Me pregunto por qué llega tarde.",
+    "translation": "Eu me pergunto por que ela está atrasada.",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "por",
+      "qué",
+      "llega",
+      "tarde."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto poɾ ke ˈʎeɣa ˈtaɾðe/",
+    "portuguesePhonetic": "[me pregúnto por ké lhéga tárde]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_6s0fc3k",
+    "word": "¿Sabes si viene?",
+    "translation": "Você sabe se ele vai vir?",
+    "syllables": [
+      "¿Sabes",
+      "si",
+      "viene?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes si ˈbjene/",
+    "portuguesePhonetic": "[sábes si biéne]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_mpwc7d2",
+    "word": "Me gustaría saber qué pasó.",
+    "translation": "Eu gostaria de saber o que aconteceu.",
+    "syllables": [
+      "Me",
+      "gustaría",
+      "saber",
+      "qué",
+      "pasó."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ɣustaˈɾia saˈβeɾ ke paˈso/",
+    "portuguesePhonetic": "[me gustaría sabér ke pasó]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_i55qr6c",
+    "word": "¿Podrías decirme cómo funciona esto?",
+    "translation": "Você poderia me dizer como isso funciona?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "cómo",
+      "funciona",
+      "esto?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ˈkomo funˈθjona ˈesto/",
+    "portuguesePhonetic": "[podrías dethírme kómo funthióna ésto]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_dxryppk",
+    "word": "No sé si es verdad.",
+    "translation": "Eu não sei se isso é verdade.",
+    "syllables": [
+      "No",
+      "sé",
+      "si",
+      "es",
+      "verdad."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se si es beɾˈðað/",
+    "portuguesePhonetic": "[no sé si és berdád]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_ylg5x9d",
+    "word": "¿No sabes dónde está la salida?",
+    "translation": "Você não sabe onde fica a saída?",
+    "syllables": [
+      "¿No",
+      "sabes",
+      "dónde",
+      "está",
+      "la",
+      "salida?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈsaβes ˈdonde esˈta la saˈliða/",
+    "portuguesePhonetic": "[no sábes dônde está la salída]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_6lwzwzf",
+    "word": "¿No es extraño que nadie sepa qué pasó?",
+    "translation": "Não é estranho que ninguém saiba o que aconteceu?",
+    "syllables": [
+      "¿No",
+      "es",
+      "extraño",
+      "que",
+      "nadie",
+      "sepa",
+      "qué",
+      "pasó?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no es eksˈtɾaɲo ke ˈnaðje ˈsepa ke paˈso/",
+    "portuguesePhonetic": "[no és ekstránho ke nádie sépa ke pasó]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_h34599o",
+    "word": "¿Por qué no le preguntas si está libre esta noche?",
+    "translation": "Por que você não pergunta a ela se está livre hoje à noite?",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "no",
+      "le",
+      "preguntas",
+      "si",
+      "está",
+      "libre",
+      "esta",
+      "noche?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke no le pɾeˈɣuntas si esˈta ˈliβɾe ˈesta ˈnotʃe/",
+    "portuguesePhonetic": "[por ké no le pregúntas si está líbre ésta nótche]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_vhqd45l",
+    "word": "¿Nadie sabe cuándo llega el autobús?",
+    "translation": "Ninguém sabe quando o ônibus chega?",
+    "syllables": [
+      "¿Nadie",
+      "sabe",
+      "cuándo",
+      "llega",
+      "el",
+      "autobús?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈnaðje ˈsaβe ˈkwando ˈʎeɣa el awtoˈβus/",
+    "portuguesePhonetic": "[nádie sábe kuándo lhéga el autobús]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_qxm54tv",
+    "word": "No sé si llamó, porque estaba durmiendo.",
+    "translation": "Eu não sei se ela ligou, porque eu estava dormindo.",
+    "syllables": [
+      "No",
+      "sé",
+      "si",
+      "llamó,",
+      "porque",
+      "estaba",
+      "durmiendo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se si ʎaˈmo ˈpoɾke esˈtaβa duɾˈmjendo/",
+    "portuguesePhonetic": "[no sé si lhamó pórke estába durmiéndo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_m403jct",
+    "word": "¿Podrías decirme dónde estabas cuando pasó?",
+    "translation": "Você poderia me dizer onde você estava quando isso aconteceu?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "dónde",
+      "estabas",
+      "cuando",
+      "pasó?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ˈdonde esˈtaβas ˈkwando paˈso/",
+    "portuguesePhonetic": "[podrías dethírme dônde estábas kuándo pasó]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_760x71n",
+    "word": "Me pregunto si llamará antes de llegar.",
+    "translation": "Estou me perguntando se ele vai ligar antes de chegar.",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "si",
+      "llamará",
+      "antes",
+      "de",
+      "llegar."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto si ʎamaˈɾa ˈantes de ʎeˈɣaɾ/",
+    "portuguesePhonetic": "[me pregúnto si lhamará ántes de lhegár]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_ymwr6ys",
+    "word": "¿Sabes qué dijo cuando le contaste la noticia?",
+    "translation": "Você sabe o que ela disse quando você contou a notícia?",
+    "syllables": [
+      "¿Sabes",
+      "qué",
+      "dijo",
+      "cuando",
+      "le",
+      "contaste",
+      "la",
+      "noticia?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes ke ˈdixo ˈkwando le konˈtaste la noˈtiθja/",
+    "portuguesePhonetic": "[sábes ke dírro kuándo le kontáste la notíthia]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_h0xrp3g",
+    "word": "Me gustaría saber por qué se fue tan pronto, pero nadie me lo quiere decir.",
+    "translation": "Eu gostaria de saber por que ele saiu cedo, mas ninguém quer me contar.",
+    "syllables": [
+      "Me",
+      "gustaría",
+      "saber",
+      "por",
+      "qué",
+      "se",
+      "fue",
+      "tan",
+      "pronto,",
+      "pero",
+      "nadie",
+      "me",
+      "lo",
+      "quiere",
+      "decir."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ɣustaˈɾia saˈβeɾ poɾ ke se fwe tan ˈpɾonto ˈpeɾo ˈnaðje me lo ˈkjeɾe deˈθiɾ/",
+    "portuguesePhonetic": "[me gustaría sabér por ké se fué tan prónto péro nádie me lo kiére dethír]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_gqt4jc3",
+    "word": "¿Podrías decirme si la tienda todavía está abierta, ya que es bastante tarde?",
+    "translation": "Você poderia me dizer se a loja ainda está aberta, já que já está bem tarde?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "si",
+      "la",
+      "tienda",
+      "todavía",
+      "está",
+      "abierta,",
+      "ya",
+      "que",
+      "es",
+      "bastante",
+      "tarde?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme si la ˈtjenda toðaˈβia esˈta aˈβjeɾta ʝa ke es basˈtante ˈtaɾðe/",
+    "portuguesePhonetic": "[podrías dethírme si la tiénda todabía está abiérta ia ke és bastánte tárde]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_mozsylo",
+    "word": "No sé si entendió las instrucciones, porque no hizo ninguna pregunta.",
+    "translation": "Eu não sei se ele entendeu as instruções, porque não fez nenhuma pergunta.",
+    "syllables": [
+      "No",
+      "sé",
+      "si",
+      "entendió",
+      "las",
+      "instrucciones,",
+      "porque",
+      "no",
+      "hizo",
+      "ninguna",
+      "pregunta."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se si entenˈdjo las instɾukˈθjones ˈpoɾke no ˈiθo ninˈɡuna pɾeˈɣunta/",
+    "portuguesePhonetic": "[no sé si entendió las instruktiónes pórke no ítho ningúna pregúnta]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_jo1u1ul",
+    "word": "Me pregunto si deberíamos esperar o salir ya, ya que el tráfico está empeorando.",
+    "translation": "Estou me perguntando se devemos esperar ou sair agora, já que o trânsito continua piorando.",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "si",
+      "deberíamos",
+      "esperar",
+      "o",
+      "salir",
+      "ya,",
+      "ya",
+      "que",
+      "el",
+      "tráfico",
+      "está",
+      "empeorando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto si deβeˈɾiamos espeˈɾaɾ o saˈliɾ ʝa ʝa ke el ˈtɾafiko esˈta empeoˈɾando/",
+    "portuguesePhonetic": "[me pregúnto si deberíamos esperár o salír ia ia ke el tráfiko está empeorándo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_u6hn5ew",
+    "word": "¿Sabes quién le va a explicar al jefe lo que pasó?",
+    "translation": "Você sabe quem vai explicar o que aconteceu ao gerente?",
+    "syllables": [
+      "¿Sabes",
+      "quién",
+      "le",
+      "va",
+      "a",
+      "explicar",
+      "al",
+      "jefe",
+      "lo",
+      "que",
+      "pasó?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes kjen le ba a ekspliˈkaɾ al ˈxefe lo ke paˈso/",
+    "portuguesePhonetic": "[sábes kién le ba a eksplikár al rréfe lo ke pasó]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_40sfw84",
+    "word": "¿Podrías decirme cuánto más va a tardar esto, porque tengo otra cita?",
+    "translation": "Você poderia me dizer quanto tempo mais isso vai demorar, porque eu tenho outro compromisso?",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "cuánto",
+      "más",
+      "va",
+      "a",
+      "tardar",
+      "esto,",
+      "porque",
+      "tengo",
+      "otra",
+      "cita?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ˈkwanto mas ba a taɾˈðaɾ ˈesto ˈpoɾke ˈteŋɡo ˈotɾa ˈθita/",
+    "portuguesePhonetic": "[podrías dethírme kuánto mas ba a tardár ésto pórke téngo ótra thíta]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_lekg0wo",
+    "word": "Me gustaría saber si hay algún motivo por el que se canceló el vuelo.",
+    "translation": "Eu gostaria de saber se há um motivo pelo qual o voo foi cancelado.",
+    "syllables": [
+      "Me",
+      "gustaría",
+      "saber",
+      "si",
+      "hay",
+      "algún",
+      "motivo",
+      "por",
+      "el",
+      "que",
+      "se",
+      "canceló",
+      "el",
+      "vuelo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ɣustaˈɾia saˈβeɾ si ai alˈɣun moˈtiβo poɾ el ke se kanθeˈlo el ˈbwelo/",
+    "portuguesePhonetic": "[me gustaría sabér si ái algún motíbo por el ke se kanthelo el buélo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_nhdm51l",
+    "word": "Nadie sabe cuándo van a arreglar el ascensor, así que tenemos que usar las escaleras.",
+    "translation": "Ninguém sabe quando vão consertar o elevador, então temos que usar a escada.",
+    "syllables": [
+      "Nadie",
+      "sabe",
+      "cuándo",
+      "van",
+      "a",
+      "arreglar",
+      "el",
+      "ascensor,",
+      "así",
+      "que",
+      "tenemos",
+      "que",
+      "usar",
+      "las",
+      "escaleras."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈnaðje ˈsaβe ˈkwando ban a areˈɣlaɾ el asθenˈsoɾ aˈsi ke teˈnemos ke uˈsaɾ las eskaˈleɾas/",
+    "portuguesePhonetic": "[nádie sábe kuándo ban a arreglár el asthensór así ke tenémos ke usár las eskaléras]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_37feyex",
+    "word": "No estoy segura de si debería decirle la verdad, o esperar a que me pregunte directamente.",
+    "translation": "Não tenho certeza se devo contar a verdade a ela, ou esperar até que ela me pergunte diretamente.",
+    "syllables": [
+      "No",
+      "estoy",
+      "segura",
+      "de",
+      "si",
+      "debería",
+      "decirle",
+      "la",
+      "verdad,",
+      "o",
+      "esperar",
+      "a",
+      "que",
+      "me",
+      "pregunte",
+      "directamente."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtoi seˈɣuɾa de si deβeˈɾia deˈθiɾle la beɾˈðað o espeˈɾaɾ a ke me pɾeˈɣunte diɾektaˈmente/",
+    "portuguesePhonetic": "[no estôi segúra de si debería dethírle la berdád o esperár a ke me pregúnte direktaménte]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_4dsa6cs",
+    "word": "¿Podrías decirme dónde está el baño? / Está allí.",
+    "translation": "Você poderia me dizer onde fica o banheiro? / É ali.",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "dónde",
+      "está",
+      "el",
+      "baño?",
+      "/",
+      "Está",
+      "allí."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ˈdonde esˈta el ˈbaɲo · esˈta aˈʎi/",
+    "portuguesePhonetic": "[podrías dethírme dônde está el bánho · está alhí]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_smqg7f6",
+    "word": "¿Sabes qué hora es? / Es casi mediodía.",
+    "translation": "Você sabe que horas são? / É quase meio-dia.",
+    "syllables": [
+      "¿Sabes",
+      "qué",
+      "hora",
+      "es?",
+      "/",
+      "Es",
+      "casi",
+      "mediodía."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes ke ˈoɾa es · es ˈkasi meðjoˈðia/",
+    "portuguesePhonetic": "[sábes ke óra és · és kási mediodía]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_fb0xslp",
+    "word": "Me pregunto si va a llover. / Creo que sí.",
+    "translation": "Estou me perguntando se vai chover. / Eu acho que sim.",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "si",
+      "va",
+      "a",
+      "llover.",
+      "/",
+      "Creo",
+      "que",
+      "sí."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto si ba a ʎoˈβeɾ · ˈkɾeo ke si/",
+    "portuguesePhonetic": "[me pregúnto si ba a lhobér · kréo ke sí]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_o78ab6q",
+    "word": "¿Sabes quién llamó? / Sí, era tu madre.",
+    "translation": "Você sabe quem ligou? / Sim, foi sua mãe.",
+    "syllables": [
+      "¿Sabes",
+      "quién",
+      "llamó?",
+      "/",
+      "Sí,",
+      "era",
+      "tu",
+      "madre."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes kjen ʎaˈmo · si ˈeɾa tu ˈmaðɾe/",
+    "portuguesePhonetic": "[sábes kién lhamó · sí éra tu mádre]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_7n6h13x",
+    "word": "¿Podrías decirme cuánto cuesta esto? / Veinte euros.",
+    "translation": "Você poderia me dizer quanto isso custa? / Vinte euros.",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "cuánto",
+      "cuesta",
+      "esto?",
+      "/",
+      "Veinte",
+      "euros."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ˈkwanto ˈkwesta ˈesto · ˈbejnte ˈewɾos/",
+    "portuguesePhonetic": "[podrías dethírme kuánto kuésta ésto · béinte éuros]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_yk4zvom",
+    "word": "No sé si está en casa. / Vamos a llamarla.",
+    "translation": "Eu não sei se ela está em casa. / Vamos ligar para ela.",
+    "syllables": [
+      "No",
+      "sé",
+      "si",
+      "está",
+      "en",
+      "casa.",
+      "/",
+      "Vamos",
+      "a",
+      "llamarla."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se si esˈta en ˈkasa · ˈbamos a ʎaˈmaɾla/",
+    "portuguesePhonetic": "[no sé si está en kása · bámos a lhamárla]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_9xcen7l",
+    "word": "¿Sabes cuándo abre la tienda? / A las nueve.",
+    "translation": "Você sabe quando a loja abre? / Às nove.",
+    "syllables": [
+      "¿Sabes",
+      "cuándo",
+      "abre",
+      "la",
+      "tienda?",
+      "/",
+      "A",
+      "las",
+      "nueve."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes ˈkwando ˈaβɾe la ˈtjenda · a las ˈnweβe/",
+    "portuguesePhonetic": "[sábes kuándo ábre la tiénda · a las nuébe]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_7aa0vox",
+    "word": "Me gustaría saber por qué está disgustado. / Yo tampoco lo sé.",
+    "translation": "Eu gostaria de saber por que ele está chateado. / Eu também não sei.",
+    "syllables": [
+      "Me",
+      "gustaría",
+      "saber",
+      "por",
+      "qué",
+      "está",
+      "disgustado.",
+      "/",
+      "Yo",
+      "tampoco",
+      "lo",
+      "sé."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ɣustaˈɾia saˈβeɾ poɾ ke esˈta disɣusˈtaðo · ʝo tamˈpoko lo se/",
+    "portuguesePhonetic": "[me gustaría sabér por ké está disgustádo · io tampóko lo sé]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_yd3a6x0",
+    "word": "¿Podrías decirme qué tren va al centro? / La línea azul.",
+    "translation": "Você poderia me dizer qual trem vai para o centro? / A linha azul.",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "qué",
+      "tren",
+      "va",
+      "al",
+      "centro?",
+      "/",
+      "La",
+      "línea",
+      "azul."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ke tɾen ba al ˈθentɾo · la ˈlinea aˈθul/",
+    "portuguesePhonetic": "[podrías dethírme ke trén ba al théntro · la línea athúl]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_2955ksq",
+    "word": "¿Sabes si tienen mi talla? / Voy a comprobarlo.",
+    "translation": "Você sabe se eles têm o meu tamanho? / Vou conferir.",
+    "syllables": [
+      "¿Sabes",
+      "si",
+      "tienen",
+      "mi",
+      "talla?",
+      "/",
+      "Voy",
+      "a",
+      "comprobarlo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes si ˈtjenen mi ˈtaʎa · boi a kompɾoˈβaɾlo/",
+    "portuguesePhonetic": "[sábes si tiénen mi tálha · bôi a komprobárlo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_0qk06yj",
+    "word": "Me pregunto si el médico está disponible. / Estará libre pronto.",
+    "translation": "Estou me perguntando se o médico está disponível. / Ela vai estar livre logo.",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "si",
+      "el",
+      "médico",
+      "está",
+      "disponible.",
+      "/",
+      "Estará",
+      "libre",
+      "pronto."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto si el ˈmeðiko esˈta dispoˈniβle · estaˈɾa ˈliβɾe ˈpɾonto/",
+    "portuguesePhonetic": "[me pregúnto si el médiko está disponíble · estará líbre prónto]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_7iiw24e",
+    "word": "¿Sabes cuánto dura el vuelo? / Unas ocho horas.",
+    "translation": "Você sabe quanto tempo dura o voo? / Cerca de oito horas.",
+    "syllables": [
+      "¿Sabes",
+      "cuánto",
+      "dura",
+      "el",
+      "vuelo?",
+      "/",
+      "Unas",
+      "ocho",
+      "horas."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes ˈkwanto ˈduɾa el ˈbwelo · ˈunas ˈotʃo ˈoɾas/",
+    "portuguesePhonetic": "[sábes kuánto dúra el buélo · únas ótcho óras]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_1jfgo2o",
+    "word": "¿Podrías decirme dónde puedo aparcar? / Justo a la vuelta.",
+    "translation": "Você poderia me dizer onde eu posso estacionar? / Bem na esquina.",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "dónde",
+      "puedo",
+      "aparcar?",
+      "/",
+      "Justo",
+      "a",
+      "la",
+      "vuelta."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ˈdonde ˈpweðo apaɾˈkaɾ · ˈxusto a la ˈbwelta/",
+    "portuguesePhonetic": "[podrías dethírme dônde puédo aparkár · rrústo a la buélta]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_1rlqesy",
+    "word": "No sé si vienen. / Vamos a preguntarles.",
+    "translation": "Eu não sei se eles vão vir. / Vamos perguntar a eles.",
+    "syllables": [
+      "No",
+      "sé",
+      "si",
+      "vienen.",
+      "/",
+      "Vamos",
+      "a",
+      "preguntarles."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se si ˈbjenen · ˈbamos a pɾeɣunˈtaɾles/",
+    "portuguesePhonetic": "[no sé si biénen · bámos a preguntárles]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_g4pnqhc",
+    "word": "¿Sabes por qué se canceló la reunión? / Ni idea.",
+    "translation": "Você sabe por que a reunião foi cancelada? / Não tenho ideia.",
+    "syllables": [
+      "¿Sabes",
+      "por",
+      "qué",
+      "se",
+      "canceló",
+      "la",
+      "reunión?",
+      "/",
+      "Ni",
+      "idea."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes poɾ ke se kanθeˈlo la reuˈnjon · ni iˈðea/",
+    "portuguesePhonetic": "[sábes por ké se kanthelo la reunión · ni idéa]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_ermdpd5",
+    "word": "Me gustaría saber si esto es seguro. / Sí, es totalmente seguro.",
+    "translation": "Eu gostaria de saber se isso é seguro. / Sim, é totalmente seguro.",
+    "syllables": [
+      "Me",
+      "gustaría",
+      "saber",
+      "si",
+      "esto",
+      "es",
+      "seguro.",
+      "/",
+      "Sí,",
+      "es",
+      "totalmente",
+      "seguro."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ɣustaˈɾia saˈβeɾ si ˈesto es seˈɣuɾo · si es totalˈmente seˈɣuɾo/",
+    "portuguesePhonetic": "[me gustaría sabér si ésto és segúro · sí és totalménte segúro]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_il13gr8",
+    "word": "¿Podrías decirme qué significa esta palabra? / Significa feliz.",
+    "translation": "Você poderia me dizer o que essa palavra significa? / Significa feliz.",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "qué",
+      "significa",
+      "esta",
+      "palabra?",
+      "/",
+      "Significa",
+      "feliz."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme ke siɣniˈfika ˈesta paˈlaβɾa · siɣniˈfika feˈliθ/",
+    "portuguesePhonetic": "[podrías dethírme ke signifíka ésta palábra · signifíka felíth]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_ucma5p1",
+    "word": "¿Sabes si es demasiado tarde para apuntarse? / Creo que no.",
+    "translation": "Você sabe se é tarde demais para se inscrever? / Eu acho que não.",
+    "syllables": [
+      "¿Sabes",
+      "si",
+      "es",
+      "demasiado",
+      "tarde",
+      "para",
+      "apuntarse?",
+      "/",
+      "Creo",
+      "que",
+      "no."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes si es demaˈsjaðo ˈtaɾðe ˈpaɾa apunˈtaɾse · ˈkɾeo ke no/",
+    "portuguesePhonetic": "[sábes si és demasiádo tárde pára apuntárse · kréo ke no]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_e6vymei",
+    "word": "Me pregunto qué lejos está la playa. / No muy lejos.",
+    "translation": "Estou me perguntando quão longe fica a praia. / Não muito longe.",
+    "syllables": [
+      "Me",
+      "pregunto",
+      "qué",
+      "lejos",
+      "está",
+      "la",
+      "playa.",
+      "/",
+      "No",
+      "muy",
+      "lejos."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me pɾeˈɣunto ke ˈlexos esˈta la ˈplaʝa · no mui ˈlexos/",
+    "portuguesePhonetic": "[me pregúnto ke lérros está la pláia · no múi lérros]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_9hgyxca",
+    "word": "¿Sabes quién está al mando aquí? / El jefe.",
+    "translation": "Você sabe quem está no comando aqui? / O gerente.",
+    "syllables": [
+      "¿Sabes",
+      "quién",
+      "está",
+      "al",
+      "mando",
+      "aquí?",
+      "/",
+      "El",
+      "jefe."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes kjen esˈta al ˈmando aˈki · el ˈxefe/",
+    "portuguesePhonetic": "[sábes kién está al mándo akí · el rréfe]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_sew86i0",
+    "word": "¿Podrías decirme si hay wifi aquí? / Sí, es gratis.",
+    "translation": "Você poderia me dizer se tem wi-fi aqui? / Sim, é grátis.",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "si",
+      "hay",
+      "wifi",
+      "aquí?",
+      "/",
+      "Sí,",
+      "es",
+      "gratis."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme si ai ˈwifi aˈki · si es ˈɡɾatis/",
+    "portuguesePhonetic": "[podrías dethírme si ái uífi akí · sí és grátis]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_h97ynan",
+    "word": "No sé a qué hora deberíamos salir. / Sobre las seis.",
+    "translation": "Eu não sei que horas devemos sair. / Por volta das seis.",
+    "syllables": [
+      "No",
+      "sé",
+      "a",
+      "qué",
+      "hora",
+      "deberíamos",
+      "salir.",
+      "/",
+      "Sobre",
+      "las",
+      "seis."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se a ke ˈoɾa deβeˈɾiamos saˈliɾ · ˈsoβɾe las ˈsejs/",
+    "portuguesePhonetic": "[no sé a ke óra deberíamos salír · sóbre las séis]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_ql31t3z",
+    "word": "¿Sabes si la tienda abre los domingos? / No estoy seguro.",
+    "translation": "Você sabe se a loja abre aos domingos? / Não tenho certeza.",
+    "syllables": [
+      "¿Sabes",
+      "si",
+      "la",
+      "tienda",
+      "abre",
+      "los",
+      "domingos?",
+      "/",
+      "No",
+      "estoy",
+      "seguro."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβes si la ˈtjenda ˈaβɾe los doˈmiŋɡos · no esˈtoi seˈɣuɾo/",
+    "portuguesePhonetic": "[sábes si la tiénda ábre los domíngos · no estôi segúro]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_x55yint",
+    "word": "Me gustaría saber cuándo tendremos los resultados. / La semana que viene.",
+    "translation": "Eu gostaria de saber quando vamos receber os resultados. / Semana que vem.",
+    "syllables": [
+      "Me",
+      "gustaría",
+      "saber",
+      "cuándo",
+      "tendremos",
+      "los",
+      "resultados.",
+      "/",
+      "La",
+      "semana",
+      "que",
+      "viene."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ɣustaˈɾia saˈβeɾ ˈkwando tenˈdɾemos los resulˈtaðos · la seˈmana ke ˈbjene/",
+    "portuguesePhonetic": "[me gustaría sabér kuándo tendrémos los resultádos · la semána ke biéne]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_plus_s_id_sjs5v0t",
+    "word": "¿Podrías decirme si estoy en el lugar correcto? / Sí, lo estás.",
+    "translation": "Você poderia me dizer se estou no lugar certo? / Sim, está.",
+    "syllables": [
+      "¿Podrías",
+      "decirme",
+      "si",
+      "estoy",
+      "en",
+      "el",
+      "lugar",
+      "correcto?",
+      "/",
+      "Sí,",
+      "lo",
+      "estás."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðɾias deˈθiɾme si esˈtoi en el luˈɣaɾ koˈrekto · si lo esˈtas/",
+    "portuguesePhonetic": "[podrías dethírme si estôi en el lugár korrékto · sí lo estás]"
+  }
+]

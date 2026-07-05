@@ -1,0 +1,1783 @@
+[
+  {
+    "id": "leccion_1_gramatica_b1_s_id_y9urm33",
+    "word": "Trabajo en una oficina.",
+    "translation": "Eu trabalho num escritório. (presente)",
+    "syllables": [
+      "Trabajo",
+      "en",
+      "una",
+      "oficina."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾaˈβaxo en una ofiˈθina/",
+    "portuguesePhonetic": "[trabárro en úna ofithína]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_zxzphcp",
+    "word": "Estoy trabajando ahora mismo.",
+    "translation": "Eu estou trabalhando agora. (contínuo)",
+    "syllables": [
+      "Estoy",
+      "trabajando",
+      "ahora",
+      "mismo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtoi tɾaβaˈxando aˈoɾa ˈmizmo/",
+    "portuguesePhonetic": "[estôi trabarrándo aóra mízmo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_splu02j",
+    "word": "Él trabaja cada día.",
+    "translation": "Ele trabalha todo dia. (presente)",
+    "syllables": [
+      "Él",
+      "trabaja",
+      "cada",
+      "día."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el tɾaˈβaxa ˈkaða ˈdia/",
+    "portuguesePhonetic": "[él trabárra káda día]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_jiwsly9",
+    "word": "Él está trabajando hoy.",
+    "translation": "Ele está trabalhando hoje. (contínuo)",
+    "syllables": [
+      "Él",
+      "está",
+      "trabajando",
+      "hoy."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el esˈta tɾaβaˈxando oi/",
+    "portuguesePhonetic": "[él está trabarrándo ôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_1b44qbq",
+    "word": "No trabajo los domingos.",
+    "translation": "Eu não trabalho aos domingos.",
+    "syllables": [
+      "No",
+      "trabajo",
+      "los",
+      "domingos."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no tɾaˈβaxo los doˈmiŋɡos/",
+    "portuguesePhonetic": "[no trabárro los domíngos]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_xlkd543",
+    "word": "No estoy trabajando hoy.",
+    "translation": "Eu não estou trabalhando hoje.",
+    "syllables": [
+      "No",
+      "estoy",
+      "trabajando",
+      "hoy."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtoi tɾaβaˈxando oi/",
+    "portuguesePhonetic": "[no estôi trabarrándo ôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_1rs87vl",
+    "word": "Ella no trabaja aquí.",
+    "translation": "Ela não trabalha aqui.",
+    "syllables": [
+      "Ella",
+      "no",
+      "trabaja",
+      "aquí."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeʎa no tɾaˈβaxa aˈki/",
+    "portuguesePhonetic": "[élha no trabárra akí]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_tamo7z2",
+    "word": "Ella no está trabajando ahora mismo.",
+    "translation": "Ela não está trabajando agora.",
+    "syllables": [
+      "Ella",
+      "no",
+      "está",
+      "trabajando",
+      "ahora",
+      "mismo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeʎa no esˈta tɾaβaˈxando aˈoɾa ˈmizmo/",
+    "portuguesePhonetic": "[élha no está trabarrándo aóra mízmo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_x8ja1q3",
+    "word": "¿Trabajas aquí?",
+    "translation": "Você trabalha aqui?",
+    "syllables": [
+      "¿Trabajas",
+      "aquí?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾaˈβaxas aˈki/",
+    "portuguesePhonetic": "[trabárras akí]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_4u3f3px",
+    "word": "¿Estás trabajando ahora?",
+    "translation": "Você está trabalhando agora?",
+    "syllables": [
+      "¿Estás",
+      "trabajando",
+      "ahora?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtas tɾaβaˈxando aˈoɾa/",
+    "portuguesePhonetic": "[estás trabarrándo aóra]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_ho1insy",
+    "word": "Sí.",
+    "translation": "Sim, trabalho.",
+    "syllables": [
+      "Sí."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si/",
+    "portuguesePhonetic": "[sí]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_kbyvp9f",
+    "word": "Sí, estoy.",
+    "translation": "Sim, estou.",
+    "syllables": [
+      "Sí,",
+      "estoy."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si esˈtoi/",
+    "portuguesePhonetic": "[sí estôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_qahrl25",
+    "word": "Me lavo el pelo todos los días.",
+    "translation": "Eu lavo o cabelo todo dia.",
+    "syllables": [
+      "Me",
+      "lavo",
+      "el",
+      "pelo",
+      "todos",
+      "los",
+      "días."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈlaβo el ˈpelo ˈtoðos los ˈdias/",
+    "portuguesePhonetic": "[me lábo el pélo tódos los días]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_6a535um",
+    "word": "No puedo hablar. Me estoy cepillando los dientes.",
+    "translation": "Não posso falar. Estou escovando os dentes.",
+    "syllables": [
+      "No",
+      "puedo",
+      "hablar.",
+      "Me",
+      "estoy",
+      "cepillando",
+      "los",
+      "dientes."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈpweðo aˈβlaɾ me esˈtoi θepiˈʎando los ˈdjentes/",
+    "portuguesePhonetic": "[no puédo ablár me estôi thepilhándo los diéntes]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_5hv2re0",
+    "word": "Tengo un hermano. Vive en París.",
+    "translation": "Eu tenho um irmão. Ele mora em Paris.",
+    "syllables": [
+      "Tengo",
+      "un",
+      "hermano.",
+      "Vive",
+      "en",
+      "París."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋɡo un eɾˈmano ˈbiβe en paˈɾis/",
+    "portuguesePhonetic": "[téngo un ermáno bíbe en parís]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_ghoswsy",
+    "word": "Estoy viviendo con mis primos hasta encontrar un piso.",
+    "translation": "Estou morando com meus primos até encontrar um apartamento.",
+    "syllables": [
+      "Estoy",
+      "viviendo",
+      "con",
+      "mis",
+      "primos",
+      "hasta",
+      "encontrar",
+      "un",
+      "piso."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtoi biˈβjendo kon mis ˈpɾimos ˈasta eŋkonˈtɾaɾ un ˈpiso/",
+    "portuguesePhonetic": "[estôi bibiéndo kon mis prímos ásta enkontrár un píso]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_qofww54",
+    "word": "Dame el dinero. Lo necesito ahora.",
+    "translation": "Me dá o dinheiro. Preciso agora.",
+    "syllables": [
+      "Dame",
+      "el",
+      "dinero.",
+      "Lo",
+      "necesito",
+      "ahora."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdame el diˈneɾo lo neθeˈsito aˈoɾa/",
+    "portuguesePhonetic": "[dáme el dinéro lo nethesíto aóra]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_z5y2icc",
+    "word": "El clima está cambiando muy rápido.",
+    "translation": "O clima está mudando muito rápido.",
+    "syllables": [
+      "El",
+      "clima",
+      "está",
+      "cambiando",
+      "muy",
+      "rápido."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈklima esˈta kamˈbjando mui ˈrapiðo/",
+    "portuguesePhonetic": "[el klíma está kambiándo múi rrápido]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_pr7v4nr",
+    "word": "El tren sale a las cuatro.",
+    "translation": "O trem sai às quatro.",
+    "syllables": [
+      "El",
+      "tren",
+      "sale",
+      "a",
+      "las",
+      "cuatro."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el tɾen ˈsale a las ˈkwatɾo/",
+    "portuguesePhonetic": "[el trén sále a las kuátro]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_1d0wijd",
+    "word": "Quedo con Juan esta tarde.",
+    "translation": "Vou encontrar o Juan hoje à tarde. (presente para o futuro combinado",
+    "syllables": [
+      "Quedo",
+      "con",
+      "Juan",
+      "esta",
+      "tarde."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkeðo kon ˈxwan ˈesta ˈtaɾðe/",
+    "portuguesePhonetic": "[kédo kon rruán ésta tárde]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_xmmi9oo",
+    "word": "El agua hierve a 100 grados.",
+    "translation": "A água ferve a 100 graus.",
+    "syllables": [
+      "El",
+      "agua",
+      "hierve",
+      "a",
+      "100",
+      "grados."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈaɣwa ˈʝeɾβe a θjen ˈɡɾaðos/",
+    "portuguesePhonetic": "[el água iérbe a thién grádos]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_bozbav0",
+    "word": "Tu inglés está mejorando.",
+    "translation": "Seu inglês está melhorando.",
+    "syllables": [
+      "Tu",
+      "inglés",
+      "está",
+      "mejorando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tu iŋˈɡles esˈta mexoˈɾando/",
+    "portuguesePhonetic": "[tu inglés está merroándo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_soyadsx",
+    "word": "¿Qué pasó? Pareces triste.",
+    "translation": "O que aconteceu? Você parece triste.",
+    "syllables": [
+      "¿Qué",
+      "pasó?",
+      "Pareces",
+      "triste."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke paˈso paˈɾeθes ˈtɾiste/",
+    "portuguesePhonetic": "[ke pasó parethes tríste]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_wpnhi1x",
+    "word": "Estoy leyendo un libro nuevo. ¡Me encanta!",
+    "translation": "Estou lendo um livro novo. Estou amando!",
+    "syllables": [
+      "Estoy",
+      "leyendo",
+      "un",
+      "libro",
+      "nuevo.",
+      "¡Me",
+      "encanta!"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtoi leˈʝendo un ˈliβɾo ˈnweβo me eŋˈkanta/",
+    "portuguesePhonetic": "[estôi leiéndo un líbro nuébo me enkánta]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_l1m660i",
+    "word": "Presente = hábitos, hechos, estados, y futuro combinado. Continuo = ahora, temporal, cambiando.",
+    "translation": "Presente = hábitos, fatos, estados e futuro combinado. Contínuo = agora, temporário, em mudança.",
+    "syllables": [
+      "Presente",
+      "=",
+      "hábitos,",
+      "hechos,",
+      "estados,",
+      "y",
+      "futuro",
+      "combinado.",
+      "Continuo",
+      "=",
+      "ahora,",
+      "temporal,",
+      "cambiando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɾeˈsente ˈaβitos ˈetʃos esˈtaðos i fuˈtuɾo komˈbinaðo konˈtinwo aˈoɾa tempoˈɾal kamˈbjando/",
+    "portuguesePhonetic": "[preSénte ábitos étchos estádos i futúro kombinádo kontínuo aóra temporál kambiándo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_7ubmc5t",
+    "word": "Normalmente me levanto a las siete.",
+    "translation": "Eu geralmente acordo às sete.",
+    "syllables": [
+      "Normalmente",
+      "me",
+      "levanto",
+      "a",
+      "las",
+      "siete."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noɾˈmalmente me leˈβanto a las ˈsjete/",
+    "portuguesePhonetic": "[normalménte me lebánto a las siéte]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_fnf4bs6",
+    "word": "Pero hoy me estoy levantando tarde.",
+    "translation": "Mas hoje estou acordando tarde.",
+    "syllables": [
+      "Pero",
+      "hoy",
+      "me",
+      "estoy",
+      "levantando",
+      "tarde."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpeɾo oi me esˈtoi leβanˈtando ˈtaɾðe/",
+    "portuguesePhonetic": "[péro ôi me estôi lebantándo tárde]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_l1lhym8",
+    "word": "Normalmente no bebo té, pero estoy bebiendo un poco ahora.",
+    "translation": "Eu geralmente não tomo chá, mas estou tomando um pouco agora.",
+    "syllables": [
+      "Normalmente",
+      "no",
+      "bebo",
+      "té,",
+      "pero",
+      "estoy",
+      "bebiendo",
+      "un",
+      "poco",
+      "ahora."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noɾˈmalmente no ˈbeβo te ˈpeɾo esˈtoi beˈβjendo un ˈpoko aˈoɾa/",
+    "portuguesePhonetic": "[normalménte no bébo té péro estôi bebiéndo un póko aóra]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_dwtp6sr",
+    "word": "Trabaja desde casa tres días a la semana.",
+    "translation": "Ela trabalha de casa três dias por semana.",
+    "syllables": [
+      "Trabaja",
+      "desde",
+      "casa",
+      "tres",
+      "días",
+      "a",
+      "la",
+      "semana."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾaˈβaxa ˈdezðe ˈkasa tɾes ˈdias a la seˈmana/",
+    "portuguesePhonetic": "[trabárra désde kása trés días a la semána]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_hd69cdr",
+    "word": "Esta semana está trabajando desde la oficina.",
+    "translation": "Esta semana, ela está trabalhando do escritório.",
+    "syllables": [
+      "Esta",
+      "semana",
+      "está",
+      "trabajando",
+      "desde",
+      "la",
+      "oficina."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈesta seˈmana esˈta tɾaβaˈxando ˈdezðe la ofiˈθina/",
+    "portuguesePhonetic": "[ésta semána está trabarrándo désde la ofithína]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_7of1hfx",
+    "word": "¿Suele terminar a las cinco?",
+    "translation": "Ele geralmente termina às cinco?",
+    "syllables": [
+      "¿Suele",
+      "terminar",
+      "a",
+      "las",
+      "cinco?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈswele teɾmiˈnaɾ a las ˈθiŋko/",
+    "portuguesePhonetic": "[suéle terminár a las thínko]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_3xvk1ri",
+    "word": "Cocina la cena cada noche.",
+    "translation": "Ela cozinha o jantar toda noite.",
+    "syllables": [
+      "Cocina",
+      "la",
+      "cena",
+      "cada",
+      "noche."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/koˈθina la ˈθena ˈkaða ˈnotʃe/",
+    "portuguesePhonetic": "[kothína la théna káda nótche]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_wjuwhzf",
+    "word": "Está cocinando algo especial esta noche.",
+    "translation": "Ela está cozinhando algo especial hoje à noite.",
+    "syllables": [
+      "Está",
+      "cocinando",
+      "algo",
+      "especial",
+      "esta",
+      "noche."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta koθiˈnando ˈalɣo espeˈθjal ˈesta ˈnotʃe/",
+    "portuguesePhonetic": "[está kothinándo álgo espethiál ésta nótche]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_h7u6xpw",
+    "word": "Va al gimnasio tres veces a la semana.",
+    "translation": "Ele vai à academia três vezes por semana.",
+    "syllables": [
+      "Va",
+      "al",
+      "gimnasio",
+      "tres",
+      "veces",
+      "a",
+      "la",
+      "semana."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ba al ximˈnasjo tɾes ˈbeθes a la seˈmana/",
+    "portuguesePhonetic": "[ba al rrimnásio trés bétches a la semána]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_y0a0nav",
+    "word": "Está probando una nueva rutina este mes.",
+    "translation": "Ele está tentando um novo treino este mês.",
+    "syllables": [
+      "Está",
+      "probando",
+      "una",
+      "nueva",
+      "rutina",
+      "este",
+      "mes."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta pɾoˈβando una ˈnweβa ruˈtina ˈeste mes/",
+    "portuguesePhonetic": "[está probándo úna nuéba rrutína éste més]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_lzcc5a8",
+    "word": "El avión sale a las nueve.",
+    "translation": "O avião sai às nove. (programado)",
+    "syllables": [
+      "El",
+      "avión",
+      "sale",
+      "a",
+      "las",
+      "nueve."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el aˈβjon ˈsale a las ˈnweβe/",
+    "portuguesePhonetic": "[el abión sále a las nuébe]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_u8lqzm7",
+    "word": "Viajamos a Roma el mes que viene.",
+    "translation": "Nós vamos viajar para Roma no próximo mês. (presente para o combinado)",
+    "syllables": [
+      "Viajamos",
+      "a",
+      "Roma",
+      "el",
+      "mes",
+      "que",
+      "viene."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bjaˈxamos a ˈroma el mes ke ˈbjene/",
+    "portuguesePhonetic": "[biarrámos a rróma el més ke biéne]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_5vi58l4",
+    "word": "Estudia cada noche después de cenar.",
+    "translation": "Ela estuda toda noite depois do jantar.",
+    "syllables": [
+      "Estudia",
+      "cada",
+      "noche",
+      "después",
+      "de",
+      "cenar."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtuðja ˈkaða ˈnotʃe desˈpwes de θeˈnaɾ/",
+    "portuguesePhonetic": "[estúdia káda nótche después de thenár]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_klvf3mz",
+    "word": "Está estudiando para un examen importante ahora mismo.",
+    "translation": "Ela está estudando para uma prova importante agora.",
+    "syllables": [
+      "Está",
+      "estudiando",
+      "para",
+      "un",
+      "examen",
+      "importante",
+      "ahora",
+      "mismo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta estuˈðjando ˈpaɾa un eɣˈsamen impoɾˈtante aˈoɾa ˈmizmo/",
+    "portuguesePhonetic": "[está estudiándo pára un eksámen importánte aóra mízmo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_n9vd5ww",
+    "word": "Vamos a comprar los sábados.",
+    "translation": "A gente vai fazer compras aos sábados.",
+    "syllables": [
+      "Vamos",
+      "a",
+      "comprar",
+      "los",
+      "sábados."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbamos a komˈpɾaɾ los ˈsaβaðos/",
+    "portuguesePhonetic": "[bámos a komprár los sábados]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_7gu6kj5",
+    "word": "Estoy comprando comida en este momento.",
+    "translation": "Estou comprando mantimentos no momento.",
+    "syllables": [
+      "Estoy",
+      "comprando",
+      "comida",
+      "en",
+      "este",
+      "momento."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtoi komˈpɾando koˈmiða en ˈeste moˈmento/",
+    "portuguesePhonetic": "[estôi komprándo komída en éste moménto]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_hweeq49",
+    "word": "Quedamos cada viernes.",
+    "translation": "A gente se encontra toda sexta.",
+    "syllables": [
+      "Quedamos",
+      "cada",
+      "viernes."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/keˈðamos ˈkaða ˈbjeɾnes/",
+    "portuguesePhonetic": "[kedámos káda biérnes]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_jjd930i",
+    "word": "Quedo con ellos en la cafetería esta noche.",
+    "translation": "Vou encontrá-los no café hoje à noite. (presente para o futuro combinado)",
+    "syllables": [
+      "Quedo",
+      "con",
+      "ellos",
+      "en",
+      "la",
+      "cafetería",
+      "esta",
+      "noche."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkeðo kon ˈeʎos en la kafeteˈɾia ˈesta ˈnotʃe/",
+    "portuguesePhonetic": "[kédo kon élhos en la kafetería ésta nótche]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_po9hvi6",
+    "word": "Normalmente llueve en abril.",
+    "translation": "Geralmente chove em abril.",
+    "syllables": [
+      "Normalmente",
+      "llueve",
+      "en",
+      "abril."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noɾˈmalmente ˈʎweβe en aˈβɾil/",
+    "portuguesePhonetic": "[normalménte lhuébe en abríl]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_uarrzu3",
+    "word": "Está lloviendo ahora mismo.",
+    "translation": "Está chovendo agora.",
+    "syllables": [
+      "Está",
+      "lloviendo",
+      "ahora",
+      "mismo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta ʎoˈβjendo aˈoɾa ˈmizmo/",
+    "portuguesePhonetic": "[está lhobiéndo aóra mízmo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_bvxc5ir",
+    "word": "Leo antes de dormir cada noche.",
+    "translation": "Eu leio antes de dormir toda noite.",
+    "syllables": [
+      "Leo",
+      "antes",
+      "de",
+      "dormir",
+      "cada",
+      "noche."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈleo ˈantes de doɾˈmiɾ ˈkaða ˈnotʃe/",
+    "portuguesePhonetic": "[léo ántes de dormír káda nótche]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_8lmu5ez",
+    "word": "Estoy leyendo un libro genial esta semana.",
+    "translation": "Estou lendo um livro ótimo esta semana.",
+    "syllables": [
+      "Estoy",
+      "leyendo",
+      "un",
+      "libro",
+      "genial",
+      "esta",
+      "semana."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtoi leˈʝendo un ˈliβɾo xeˈnjal ˈesta seˈmana/",
+    "portuguesePhonetic": "[estôi leiéndo un líbro rrenIál ésta semána]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_yw7t5tj",
+    "word": "Va al médico dos veces al año.",
+    "translation": "Ela vai ao médico duas vezes por ano.",
+    "syllables": [
+      "Va",
+      "al",
+      "médico",
+      "dos",
+      "veces",
+      "al",
+      "año."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ba al ˈmeðiko dos ˈbeθes al ˈaɲo/",
+    "portuguesePhonetic": "[ba al médiko dos bétches al ánho]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_jkis2w6",
+    "word": "El médico la está examinando ahora.",
+    "translation": "O médico está examinando ela agora.",
+    "syllables": [
+      "El",
+      "médico",
+      "la",
+      "está",
+      "examinando",
+      "ahora."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈmeðiko la esˈta eɣsamiˈnando aˈoɾa/",
+    "portuguesePhonetic": "[el médiko la está eksaminándo aóra]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_jnzevh2",
+    "word": "¿Qué sueles hacer los fines de semana? ¿Qué vas a hacer este fin de semana?",
+    "translation": "O que você geralmente faz nos fins de semana? O que você vai fazer neste fim de semana?",
+    "syllables": [
+      "¿Qué",
+      "sueles",
+      "hacer",
+      "los",
+      "fines",
+      "de",
+      "semana?",
+      "¿Qué",
+      "vas",
+      "a",
+      "hacer",
+      "este",
+      "fin",
+      "de",
+      "semana?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈsweles aˈθeɾ los ˈfines de seˈmana ke bas a aˈθeɾ ˈeste fin de seˈmana/",
+    "portuguesePhonetic": "[ke suéles athér los fínes de semána ke bas a athér éste fin de semána]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_hz6i3nq",
+    "word": "Trabaja duro.",
+    "translation": "Ela trabalha duro.",
+    "syllables": [
+      "Trabaja",
+      "duro."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾaˈβaxa ˈduɾo/",
+    "portuguesePhonetic": "[trabárra dúro]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_mb83zas",
+    "word": "Está durmiendo.",
+    "translation": "Ela está dormindo.",
+    "syllables": [
+      "Está",
+      "durmiendo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta duɾˈmjendo/",
+    "portuguesePhonetic": "[está durmiéndo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_hndroga",
+    "word": "Estudiamos mucho.",
+    "translation": "A gente estuda muito.",
+    "syllables": [
+      "Estudiamos",
+      "mucho."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/estuˈðjamos ˈmutʃo/",
+    "portuguesePhonetic": "[estudiámos mútcho]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_brlkxb6",
+    "word": "Estamos estudiando ahora.",
+    "translation": "A gente está estudando agora.",
+    "syllables": [
+      "Estamos",
+      "estudiando",
+      "ahora."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtamos estuˈðjando aˈoɾa/",
+    "portuguesePhonetic": "[estámos estudiándo aóra]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_0v27fn2",
+    "word": "¿Le gusta su trabajo?",
+    "translation": "Ela gosta do trabalho dela?",
+    "syllables": [
+      "¿Le",
+      "gusta",
+      "su",
+      "trabajo?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/le ˈɡusta su tɾaˈβaxo/",
+    "portuguesePhonetic": "[le gústa su trabárro]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_4gzckij",
+    "word": "¿Le está gustando su nuevo trabajo?",
+    "translation": "Ela está gostando do novo trabalho?",
+    "syllables": [
+      "¿Le",
+      "está",
+      "gustando",
+      "su",
+      "nuevo",
+      "trabajo?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/le esˈta ɣusˈtando su ˈnweβo tɾaˈβaxo/",
+    "portuguesePhonetic": "[le está gustándo su nuébo trabárro]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_xupsexc",
+    "word": "No cocina a menudo.",
+    "translation": "Ele não cozinha com frequência.",
+    "syllables": [
+      "No",
+      "cocina",
+      "a",
+      "menudo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no koˈθina a meˈnuðo/",
+    "portuguesePhonetic": "[no kothína a menúdo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_4q7o60d",
+    "word": "No está cocinando hoy.",
+    "translation": "Ele não está cozinhando hoje.",
+    "syllables": [
+      "No",
+      "está",
+      "cocinando",
+      "hoy."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈta koθiˈnando oi/",
+    "portuguesePhonetic": "[no está kothinándo ôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_bi8isvu",
+    "word": "¿No sueles trabajar los viernes?",
+    "translation": "Você não trabalha normalmente às sextas?",
+    "syllables": [
+      "¿No",
+      "sueles",
+      "trabajar",
+      "los",
+      "viernes?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈsweles tɾaβaˈxaɾ los ˈbjeɾnes/",
+    "portuguesePhonetic": "[no suéles trabarrár los biérnes]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_zoid463",
+    "word": "¿No estás trabajando hoy?",
+    "translation": "Você não está trabajando hoje?",
+    "syllables": [
+      "¿No",
+      "estás",
+      "trabajando",
+      "hoy?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtas tɾaβaˈxando oi/",
+    "portuguesePhonetic": "[no estás trabarrándo ôi]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_2qw7i95",
+    "word": "¿Por qué no contesta?",
+    "translation": "Por que ele não atende?",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "no",
+      "contesta?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke no konˈtesta/",
+    "portuguesePhonetic": "[por ké no kontésta]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_ccwlocj",
+    "word": "¿Por qué no está contestando ahora?",
+    "translation": "Por que ele não está atendendo agora?",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "no",
+      "está",
+      "contestando",
+      "ahora?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke no esˈta kontesˈtando aˈoɾa/",
+    "portuguesePhonetic": "[por ké no está kontestándo aóra]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_c8ygdhl",
+    "word": "Normalmente va andando al trabajo, pero hoy va en coche porque llueve.",
+    "translation": "Ela geralmente vai a pé ao trabalho, mas hoje está indo de carro porque está chovendo.",
+    "syllables": [
+      "Normalmente",
+      "va",
+      "andando",
+      "al",
+      "trabajo,",
+      "pero",
+      "hoy",
+      "va",
+      "en",
+      "coche",
+      "porque",
+      "llueve."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noɾˈmalmente ba anˈdando al tɾaˈβaxo ˈpeɾo oi ba en ˈkotʃe ˈpoɾke ˈʎweβe/",
+    "portuguesePhonetic": "[normalménte ba andándo al trabárro péro ôi ba en kótche pórke lhuébe]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_cayeqzb",
+    "word": "Normalmente no como carne, pero la estoy probando hoy porque la cocinó mi amigo.",
+    "translation": "Eu geralmente não como carne, mas estou experimentando hoje porque meu amigo cozinhou.",
+    "syllables": [
+      "Normalmente",
+      "no",
+      "como",
+      "carne,",
+      "pero",
+      "la",
+      "estoy",
+      "probando",
+      "hoy",
+      "porque",
+      "la",
+      "cocinó",
+      "mi",
+      "amigo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noɾˈmalmente no ˈkomo ˈkaɾne ˈpeɾo la esˈtoi pɾoˈβando oi ˈpoɾke la koˈθino mi aˈmiɣo/",
+    "portuguesePhonetic": "[normalménte no kómo kárne péro la estôi probándo ôi pórke la kothinó mi amígo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_c825yo8",
+    "word": "Necesita ayuda porque no entiende las instrucciones.",
+    "translation": "Ele precisa de ajuda porque não entende as instruções.",
+    "syllables": [
+      "Necesita",
+      "ayuda",
+      "porque",
+      "no",
+      "entiende",
+      "las",
+      "instrucciones."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/neθeˈsita aˈʝuða ˈpoɾke no enˈtjende las instɾukˈθjones/",
+    "portuguesePhonetic": "[nethesíta aiúda pórke no entiénde las instruktiónes]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_735ql3v",
+    "word": "Cuando está estudiando, no le gusta que la interrumpan.",
+    "translation": "Quando ela está estudando, ela não gosta de ser interrompida.",
+    "syllables": [
+      "Cuando",
+      "está",
+      "estudiando,",
+      "no",
+      "le",
+      "gusta",
+      "que",
+      "la",
+      "interrumpan."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwando esˈta estuˈðjando no le ˈɡusta ke la interumˈpan/",
+    "portuguesePhonetic": "[kuándo está estudiándo no le gústa ke la interrúmpan]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_eyafufm",
+    "word": "Normalmente vive en Londres, pero está viviendo en Madrid este año.",
+    "translation": "Ele geralmente mora em Londres, mas está morando em Madri este ano.",
+    "syllables": [
+      "Normalmente",
+      "vive",
+      "en",
+      "Londres,",
+      "pero",
+      "está",
+      "viviendo",
+      "en",
+      "Madrid",
+      "este",
+      "año."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noɾˈmalmente ˈbiβe en ˈlondɾes ˈpeɾo esˈta biˈβjendo en maˈðɾið ˈeste ˈaɲo/",
+    "portuguesePhonetic": "[normalménte bíbe en lóndres péro está bibiéndo en madríd éste ánho]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_9lc7tb9",
+    "word": "Normalmente no hace ejercicio por la mañana, pero lo está probando este mes para ver si ayuda.",
+    "translation": "Ela geralmente não se exercita de manhã, mas está tentando isso este mês para ver se ajuda.",
+    "syllables": [
+      "Normalmente",
+      "no",
+      "hace",
+      "ejercicio",
+      "por",
+      "la",
+      "mañana,",
+      "pero",
+      "lo",
+      "está",
+      "probando",
+      "este",
+      "mes",
+      "para",
+      "ver",
+      "si",
+      "ayuda."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noɾˈmalmente no ˈaθe exeɾˈθiθjo poɾ la maˈɲana ˈpeɾo lo esˈta pɾoˈβando ˈeste mes ˈpaɾa beɾ si aˈʝuða/",
+    "portuguesePhonetic": "[normalménte no áthe errertsíthio por la manhána péro lo está probándo éste més pára ber si aiúda]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_r4lubiw",
+    "word": "¿Siempre viaja tanto, o solo está visitando a la familia este mes?",
+    "translation": "Ele sempre viaja tanto assim, ou está só visitando a família este mês?",
+    "syllables": [
+      "¿Siempre",
+      "viaja",
+      "tanto,",
+      "o",
+      "solo",
+      "está",
+      "visitando",
+      "a",
+      "la",
+      "familia",
+      "este",
+      "mes?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsjempɾe ˈbjaxa ˈtanto o ˈsolo esˈta bisiˈtando a la faˈmilja ˈeste mes/",
+    "portuguesePhonetic": "[siémpre biárra tánto o sólo está bisitándo a la famílha éste més]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_c2rsa57",
+    "word": "Normalmente no comen fuera, pero están celebrando una ocasión especial esta noche.",
+    "translation": "Eles geralmente não comem fora, mas estão comemorando uma ocasião especial hoje à noite.",
+    "syllables": [
+      "Normalmente",
+      "no",
+      "comen",
+      "fuera,",
+      "pero",
+      "están",
+      "celebrando",
+      "una",
+      "ocasión",
+      "especial",
+      "esta",
+      "noche."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noɾˈmalmente no ˈkomen ˈfweɾa ˈpeɾo esˈtan θeleˈβɾando una okaˈsjon espeˈθjal ˈesta ˈnotʃe/",
+    "portuguesePhonetic": "[normalménte no kómen fuéra péro están thelebrándo úna okasión espethiál ésta nótche]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_nd8hwci",
+    "word": "La empresa normalmente no contrata en diciembre, pero está contratando ahora por la alta demanda.",
+    "translation": "A empresa geralmente não contrata em dezembro, mas está contratando agora por causa da alta demanda.",
+    "syllables": [
+      "La",
+      "empresa",
+      "normalmente",
+      "no",
+      "contrata",
+      "en",
+      "diciembre,",
+      "pero",
+      "está",
+      "contratando",
+      "ahora",
+      "por",
+      "la",
+      "alta",
+      "demanda."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la emˈpɾesa noɾˈmalmente no kontɾaˈta en diˈθjembɾe ˈpeɾo esˈta kontɾaˈtando aˈoɾa poɾ la ˈalta deˈmanda/",
+    "portuguesePhonetic": "[la empréza normalménte no kontratá en dithiémbre péro está kontratándo aóra por la álta demánda]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_11pqpxl",
+    "word": "No contesta porque está conduciendo, pero normalmente responde rápido.",
+    "translation": "Ela não está atendendo porque está dirigindo, mas geralmente responde rápido.",
+    "syllables": [
+      "No",
+      "contesta",
+      "porque",
+      "está",
+      "conduciendo,",
+      "pero",
+      "normalmente",
+      "responde",
+      "rápido."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no konˈtesta ˈpoɾke esˈta konduˈθjendo ˈpeɾo noɾˈmalmente resˈponde ˈrapiðo/",
+    "portuguesePhonetic": "[no kontésta pórke está kondutiéndo péro normalménte respónde rrápido]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_eoogqr4",
+    "word": "Normalmente pasamos los fines de semana en casa, pero vamos a la playa este sábado porque es festivo.",
+    "translation": "A gente geralmente passa os fins de semana em casa, mas vamos à praia neste sábado porque é feriado.",
+    "syllables": [
+      "Normalmente",
+      "pasamos",
+      "los",
+      "fines",
+      "de",
+      "semana",
+      "en",
+      "casa,",
+      "pero",
+      "vamos",
+      "a",
+      "la",
+      "playa",
+      "este",
+      "sábado",
+      "porque",
+      "es",
+      "festivo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noɾˈmalmente paˈsamos los ˈfines de seˈmana en ˈkasa ˈpeɾo ˈbamos a la ˈplaʝa ˈeste ˈsaβaðo ˈpoɾke es fesˈtiβo/",
+    "portuguesePhonetic": "[normalménte pasámos los fínes de semána en kása péro bámos a la pláia éste sábado pórke és festíbo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_qcg34y9",
+    "word": "¿Por qué no está trabajando hoy, si normalmente nunca falta?",
+    "translation": "Por que ela não está trabalhando hoje, sendo que geralmente nunca falta?",
+    "syllables": [
+      "¿Por",
+      "qué",
+      "no",
+      "está",
+      "trabajando",
+      "hoy,",
+      "si",
+      "normalmente",
+      "nunca",
+      "falta?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke no esˈta tɾaβaˈxando oi si noɾˈmalmente ˈnuŋka ˈfalta/",
+    "portuguesePhonetic": "[por ké no está trabarrándo ôi si normalménte núnka fálta]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_z2lm7ms",
+    "word": "Normalmente cocina él, pero esta noche cocino yo porque es su cumpleaños.",
+    "translation": "Ele geralmente cozinha o jantar, mas hoje à noite estou cozinhando porque é aniversário dele.",
+    "syllables": [
+      "Normalmente",
+      "cocina",
+      "él,",
+      "pero",
+      "esta",
+      "noche",
+      "cocino",
+      "yo",
+      "porque",
+      "es",
+      "su",
+      "cumpleaños."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noɾˈmalmente koˈθina el ˈpeɾo ˈesta ˈnotʃe koˈθino ʝo ˈpoɾke es su kumpleˈaɲos/",
+    "portuguesePhonetic": "[normalménte kothína él péro ésta nótche kothíno io pórke és su kumpleánhos]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_pdr11q2",
+    "word": "¿Trabajas aquí? / Sí.",
+    "translation": "Você trabalha aqui? / Sim, trabalho.",
+    "syllables": [
+      "¿Trabajas",
+      "aquí?",
+      "/",
+      "Sí."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾaˈβaxas aˈki · si/",
+    "portuguesePhonetic": "[trabárras akí · sí]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_uf6ye3k",
+    "word": "¿Estás trabajando ahora? / Sí.",
+    "translation": "Você está trabalhando agora? / Sim, estou.",
+    "syllables": [
+      "¿Estás",
+      "trabajando",
+      "ahora?",
+      "/",
+      "Sí."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtas tɾaβaˈxando aˈoɾa · si/",
+    "portuguesePhonetic": "[estás trabarrándo aóra · sí]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_tfcbthb",
+    "word": "¿Qué estás haciendo? / Estoy cocinando.",
+    "translation": "O que você está fazendo? / Estou cozinhando.",
+    "syllables": [
+      "¿Qué",
+      "estás",
+      "haciendo?",
+      "/",
+      "Estoy",
+      "cocinando."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke esˈtas aˈθjendo · esˈtoi koθiˈnando/",
+    "portuguesePhonetic": "[ke estás athiéndo · estôi kothinándo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_xhjzz44",
+    "word": "¿A qué te dedicas? / Soy profesor.",
+    "translation": "O que você faz? / Sou professor.",
+    "syllables": [
+      "¿A",
+      "qué",
+      "te",
+      "dedicas?",
+      "/",
+      "Soy",
+      "profesor."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke te deˈðikas · soi pɾofeˈsoɾ/",
+    "portuguesePhonetic": "[a ke te dedíkas · sôi profesór]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_nv13zjx",
+    "word": "¿Trabaja los fines de semana? / No.",
+    "translation": "Ela trabalha nos fins de semana? / Não, não trabalha.",
+    "syllables": [
+      "¿Trabaja",
+      "los",
+      "fines",
+      "de",
+      "semana?",
+      "/",
+      "No."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾaˈβaxa los ˈfines de seˈmana · no/",
+    "portuguesePhonetic": "[trabárra los fínes de semána · no]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_jf1wdw4",
+    "word": "¿Está trabajando hoy? / No.",
+    "translation": "Ela está trabalhando hoje? / Não, não está.",
+    "syllables": [
+      "¿Está",
+      "trabajando",
+      "hoy?",
+      "/",
+      "No."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta tɾaβaˈxando oi · no/",
+    "portuguesePhonetic": "[está trabarrándo ôi · no]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_yivo4bg",
+    "word": "¿Con qué frecuencia haces ejercicio? / Dos veces a la semana.",
+    "translation": "Com que frequência você se exercita? / Duas vezes por semana.",
+    "syllables": [
+      "¿Con",
+      "qué",
+      "frecuencia",
+      "haces",
+      "ejercicio?",
+      "/",
+      "Dos",
+      "veces",
+      "a",
+      "la",
+      "semana."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kon ke fɾeˈkwenθja ˈaθes exeɾˈθiθjo · dos ˈbeθes a la seˈmana/",
+    "portuguesePhonetic": "[kon ke frekuéntia áthes errertsíthio · dos bétches a la semána]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_qoqsar3",
+    "word": "¿Estás haciendo ejercicio ahora? / Sí, en el gimnasio.",
+    "translation": "Você está se exercitando agora? / Sim, na academia.",
+    "syllables": [
+      "¿Estás",
+      "haciendo",
+      "ejercicio",
+      "ahora?",
+      "/",
+      "Sí,",
+      "en",
+      "el",
+      "gimnasio."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtas aˈθjendo exeɾˈθiθjo aˈoɾa · si en el ximˈnasjo/",
+    "portuguesePhonetic": "[estás athiéndo errertsíthio aóra · sí en el rrimnásio]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_gh71jee",
+    "word": "¿Cierra pronto la tienda? / Sí, a las seis.",
+    "translation": "A loja fecha cedo? / Sim, às seis.",
+    "syllables": [
+      "¿Cierra",
+      "pronto",
+      "la",
+      "tienda?",
+      "/",
+      "Sí,",
+      "a",
+      "las",
+      "seis."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈθjera ˈpɾonto la ˈtjenda · si a las ˈsejs/",
+    "portuguesePhonetic": "[thiérra prónto la tiénda · sí a las séis]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_b0vhttl",
+    "word": "¿Está cerrando la tienda ahora? / Sí, ahora mismo.",
+    "translation": "A loja está fechando agora? / Sim, agora mesmo.",
+    "syllables": [
+      "¿Está",
+      "cerrando",
+      "la",
+      "tienda",
+      "ahora?",
+      "/",
+      "Sí,",
+      "ahora",
+      "mismo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta θeˈrando la ˈtjenda aˈoɾa · si aˈoɾa ˈmizmo/",
+    "portuguesePhonetic": "[está therrándo la tiénda aóra · sí aóra mízmo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_882dkhh",
+    "word": "¿A qué hora sale el tren? / A las cuatro.",
+    "translation": "A que horas o trem sai? / Às quatro.",
+    "syllables": [
+      "¿A",
+      "qué",
+      "hora",
+      "sale",
+      "el",
+      "tren?",
+      "/",
+      "A",
+      "las",
+      "cuatro."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke ˈoɾa ˈsale el tɾen · a las ˈkwatɾo/",
+    "portuguesePhonetic": "[a ke óra sále el trén · a las kuátro]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_0slfhjn",
+    "word": "¿Te vas ahora? / Sí, ahora mismo.",
+    "translation": "Você está saindo agora? / Sim, agora mesmo.",
+    "syllables": [
+      "¿Te",
+      "vas",
+      "ahora?",
+      "/",
+      "Sí,",
+      "ahora",
+      "mismo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te bas aˈoɾa · si aˈoɾa ˈmizmo/",
+    "portuguesePhonetic": "[te bas aóra · sí aóra mízmo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_ywtsp2w",
+    "word": "¿Tienes hermanos? / Sí, uno.",
+    "translation": "Você tem algum irmão? / Sim, um.",
+    "syllables": [
+      "¿Tienes",
+      "hermanos?",
+      "/",
+      "Sí,",
+      "uno."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes eɾˈmanos · si ˈuno/",
+    "portuguesePhonetic": "[tiénes ermános · sí úno]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_ql3q2qi",
+    "word": "¿Te lo estás pasando bien? / Sí, genial.",
+    "translation": "Você está se divertindo? / Sim, muito.",
+    "syllables": [
+      "¿Te",
+      "lo",
+      "estás",
+      "pasando",
+      "bien?",
+      "/",
+      "Sí,",
+      "genial."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te lo esˈtas paˈsando bjen · si xeˈnjal/",
+    "portuguesePhonetic": "[te lo estás pasándo bién · sí rrenIál]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_tdilpw2",
+    "word": "¿Te gusta el café? / Sí, me encanta.",
+    "translation": "Você gosta de café? / Sim, eu adoro.",
+    "syllables": [
+      "¿Te",
+      "gusta",
+      "el",
+      "café?",
+      "/",
+      "Sí,",
+      "me",
+      "encanta."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te ˈɡusta el kaˈfe · si me eŋˈkanta/",
+    "portuguesePhonetic": "[te gústa el kafé · sí me enkánta]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_32rn07z",
+    "word": "¿Quedas con Juan hoy? / Sí, esta tarde.",
+    "translation": "Você vai encontrar o Juan hoje? / Sim, hoje à tarde.",
+    "syllables": [
+      "¿Quedas",
+      "con",
+      "Juan",
+      "hoy?",
+      "/",
+      "Sí,",
+      "esta",
+      "tarde."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkeðas kon ˈxwan oi · si ˈesta ˈtaɾðe/",
+    "portuguesePhonetic": "[kédas kon rruán ôi · sí ésta tárde]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_ssz7dyi",
+    "word": "¿Qué tiempo hace hoy? / Está lloviendo.",
+    "translation": "Como está o tempo hoje? / Está chovendo.",
+    "syllables": [
+      "¿Qué",
+      "tiempo",
+      "hace",
+      "hoy?",
+      "/",
+      "Está",
+      "lloviendo."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈtjempo ˈaθe oi · esˈta ʎoˈβjendo/",
+    "portuguesePhonetic": "[ke tiémpo áthe ôi · está lhobiéndo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_1dgt2j7",
+    "word": "¿Suele llover aquí? / Sí, mucho.",
+    "translation": "Costuma chover aqui? / Sim, bastante.",
+    "syllables": [
+      "¿Suele",
+      "llover",
+      "aquí?",
+      "/",
+      "Sí,",
+      "mucho."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈswele ʎoˈβeɾ aˈki · si ˈmutʃo/",
+    "portuguesePhonetic": "[suéle lhobér akí · sí mútcho]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_zc5cs8x",
+    "word": "¿Está mejorando tu inglés? / Sí, un poco.",
+    "translation": "Seu inglês está melhorando? / Sim, um pouco.",
+    "syllables": [
+      "¿Está",
+      "mejorando",
+      "tu",
+      "inglés?",
+      "/",
+      "Sí,",
+      "un",
+      "poco."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta mexoˈɾando tu iŋˈɡles · si un ˈpoko/",
+    "portuguesePhonetic": "[está merroándo tu inglés · sí un póko]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_247k72j",
+    "word": "¿Necesitas ayuda? / Sí, por favor.",
+    "translation": "Você precisa de ayuda? / Sim, por favor.",
+    "syllables": [
+      "¿Necesitas",
+      "ayuda?",
+      "/",
+      "Sí,",
+      "por",
+      "favor."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/neθeˈsitas aˈʝuða · si poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[nethesítas aiúda · sí por fabór]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_m8nc0h6",
+    "word": "¿Qué estás leyendo? / Una novela genial.",
+    "translation": "O que você está lendo? / Um ótimo romance.",
+    "syllables": [
+      "¿Qué",
+      "estás",
+      "leyendo?",
+      "/",
+      "Una",
+      "novela",
+      "genial."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke esˈtas leˈʝendo · una noˈβela xeˈnjal/",
+    "portuguesePhonetic": "[ke estás leiéndo · úna nobéla rrenIál]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_e2finme",
+    "word": "¿Viajas mucho? / No mucho.",
+    "translation": "Você viaja muito? / Não normalmente.",
+    "syllables": [
+      "¿Viajas",
+      "mucho?",
+      "/",
+      "No",
+      "mucho."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbjaxas ˈmutʃo · no ˈmutʃo/",
+    "portuguesePhonetic": "[biárras mútcho · no mútcho]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_1gjt79t",
+    "word": "¿Viajas el mes que viene? / Sí, a Roma.",
+    "translation": "Você vai viajar no mês que vem? / Sim, para Roma.",
+    "syllables": [
+      "¿Viajas",
+      "el",
+      "mes",
+      "que",
+      "viene?",
+      "/",
+      "Sí,",
+      "a",
+      "Roma."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbjaxas el mes ke ˈbjene · si a ˈroma/",
+    "portuguesePhonetic": "[biárras el més ke biéne · sí a rróma]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_2gjyxx6",
+    "word": "¿Qué pasó? Pareces triste. / Solo estoy cansado.",
+    "translation": "O que aconteceu? Você parece triste. / Só estou cansado.",
+    "syllables": [
+      "¿Qué",
+      "pasó?",
+      "Pareces",
+      "triste.",
+      "/",
+      "Solo",
+      "estoy",
+      "cansado."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke paˈso paˈɾeθes ˈtɾiste ˈsolo esˈtoi kanˈsaðo/",
+    "portuguesePhonetic": "[ke pasó parethes tríste sólo estôi kansádo]"
+  },
+  {
+    "id": "leccion_1_gramatica_b1_s_id_mgwxpu3",
+    "word": "¿Te encuentras bien? / Sí, mucho mejor ahora.",
+    "translation": "Você está se sentindo bem? / Sim, bem melhor agora.",
+    "syllables": [
+      "¿Te",
+      "encuentras",
+      "bien?",
+      "/",
+      "Sí,",
+      "mucho",
+      "mejor",
+      "ahora."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te eŋˈkwentɾas bjen · si ˈmutʃo meˈxoɾ aˈoɾa/",
+    "portuguesePhonetic": "[te enkuéntras bién · sí mútcho merrór aóra]"
+  }
+]

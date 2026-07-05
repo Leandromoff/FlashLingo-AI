@@ -1,0 +1,1977 @@
+[
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_t25ykxy",
+    "word": "Who did you call?",
+    "translation": "Quem você ligou? (pergunta direta)",
+    "syllables": [
+      "Who",
+      "did",
+      "you",
+      "call?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/huː dɪd juː kɔːl/",
+    "portuguesePhonetic": "[rrú díd iú kól]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_i6xbumy",
+    "word": "Could you tell me who you called?",
+    "translation": "Você poderia me dizer quem você ligou? (indireta)",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "who",
+      "you",
+      "called?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː huː juː kɔːld/",
+    "portuguesePhonetic": "[kúd iú tél mí rrú iú kóld]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_m8x1os8",
+    "word": "What time is it?",
+    "translation": "Que horas são?",
+    "syllables": [
+      "What",
+      "time",
+      "is",
+      "it?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm ɪz ɪt/",
+    "portuguesePhonetic": "[uât táim iz ít]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_eargc7d",
+    "word": "Do you know what time it is?",
+    "translation": "Você sabe que horas são?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "what",
+      "time",
+      "it",
+      "is?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ wʌt taɪm ɪt ɪz/",
+    "portuguesePhonetic": "[dú iú nôu uât táim ít iz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_3bofblb",
+    "word": "Will he come?",
+    "translation": "Ele vai vir?",
+    "syllables": [
+      "Will",
+      "he",
+      "come?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪl hiː kʌm/",
+    "portuguesePhonetic": "[uíou rrí kâm]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_x76syqy",
+    "word": "I'm wondering if he will come.",
+    "translation": "Estou me perguntando se ele vai vir.",
+    "syllables": [
+      "I'm",
+      "wondering",
+      "if",
+      "he",
+      "will",
+      "come."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwʌndərɪŋ ɪf hiː wɪl kʌm/",
+    "portuguesePhonetic": "[áim uânderin if rrí uíou kâm]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_uyzl1hd",
+    "word": "Is it raining?",
+    "translation": "Está chovendo?",
+    "syllables": [
+      "Is",
+      "it",
+      "raining?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ɪt ˈreɪnɪŋ/",
+    "portuguesePhonetic": "[iz ít rêinin]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_qobv1us",
+    "word": "I don't know if it's raining.",
+    "translation": "Eu não sei se está chovendo.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "if",
+      "it's",
+      "raining."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ ɪf ɪts ˈreɪnɪŋ/",
+    "portuguesePhonetic": "[ái dôunt nôu if íts rêinin]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_76wdwlj",
+    "word": "Does she like coffee?",
+    "translation": "Ela gosta de café?",
+    "syllables": [
+      "Does",
+      "she",
+      "like",
+      "coffee?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz ʃiː laɪk ˈkɔːfi/",
+    "portuguesePhonetic": "[dâz chí láik kófi]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_hpfaj5n",
+    "word": "I'd like to know whether she likes coffee.",
+    "translation": "Eu gostaria de saber se ela gosta de café.",
+    "syllables": [
+      "I'd",
+      "like",
+      "to",
+      "know",
+      "whether",
+      "she",
+      "likes",
+      "coffee."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪd laɪk tə noʊ ˈwɛðər ʃiː laɪks ˈkɔːfi/",
+    "portuguesePhonetic": "[áid láik tu nôu uédher chí láiks kófi]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_n8ve2aa",
+    "word": "Where is the bathroom?",
+    "translation": "Onde fica o banheiro?",
+    "syllables": [
+      "Where",
+      "is",
+      "the",
+      "bathroom?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɪz ðə ˈbæθruːm/",
+    "portuguesePhonetic": "[uér iz dha béthrum]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_bxwepg9",
+    "word": "Could you tell me where the bathroom is?",
+    "translation": "Você poderia me dizer onde fica o banheiro?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "where",
+      "the",
+      "bathroom",
+      "is?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː wɛr ðə ˈbæθruːm ɪz/",
+    "portuguesePhonetic": "[kúd iú tél mí uér dha béthrum iz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_ub6du1t",
+    "word": "How much does it cost?",
+    "translation": "Quanto custa?",
+    "syllables": [
+      "How",
+      "much",
+      "does",
+      "it",
+      "cost?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ mʌtʃ dʌz ɪt kɔːst/",
+    "portuguesePhonetic": "[rráu mâtch dâz ít kóst]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_mbj5d9w",
+    "word": "Do you know how much it costs?",
+    "translation": "Você sabe quanto custa?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "how",
+      "much",
+      "it",
+      "costs?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ haʊ mʌtʃ ɪt kɔːsts/",
+    "portuguesePhonetic": "[dú iú nôu rráu mâtch ít kósts]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_kyvgsjk",
+    "word": "Where is Sharon from?",
+    "translation": "De onde a Sharon é?",
+    "syllables": [
+      "Where",
+      "is",
+      "Sharon",
+      "from?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɪz ˈʃɛrən frəm/",
+    "portuguesePhonetic": "[uér iz chéran from]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_860wf8w",
+    "word": "I don't know where Sharon is from.",
+    "translation": "Eu não sei de onde a Sharon é.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "where",
+      "Sharon",
+      "is",
+      "from."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ wɛr ˈʃɛrən ɪz frəm/",
+    "portuguesePhonetic": "[ái dôunt nôu uér chéran iz from]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_n8f5fes",
+    "word": "Who called?",
+    "translation": "Quem ligou? (sujeito, já sem auxiliar)",
+    "syllables": [
+      "Who",
+      "called?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/huː kɔːld/",
+    "portuguesePhonetic": "[rrú kóld]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_m31249w",
+    "word": "I wonder who called.",
+    "translation": "Eu me pergunto quem ligou. (a ordem já era afirmativa, não muda)",
+    "syllables": [
+      "I",
+      "wonder",
+      "who",
+      "called."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ ˈwʌndər huː kɔːld/",
+    "portuguesePhonetic": "[ái uânder rrú kóld]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_nrjiolq",
+    "word": "What does she want?",
+    "translation": "O que ela quer?",
+    "syllables": [
+      "What",
+      "does",
+      "she",
+      "want?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt dʌz ʃiː wɑːnt/",
+    "portuguesePhonetic": "[uât dâz chí uánt]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_i0vftgx",
+    "word": "I don't know what she wants.",
+    "translation": "Eu não sei o que ela quer.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "what",
+      "she",
+      "wants."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ wʌt ʃiː wɑːnts/",
+    "portuguesePhonetic": "[ái dôunt nôu uât chí uánts]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_4d5bju5",
+    "word": "When does the movie start?",
+    "translation": "Quando o filme começa?",
+    "syllables": [
+      "When",
+      "does",
+      "the",
+      "movie",
+      "start?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛn dʌz ðə ˈmuːvi stɑːrt/",
+    "portuguesePhonetic": "[uén dâz dha múvi stárt]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_m20i8hu",
+    "word": "Do you know when the movie starts?",
+    "translation": "Você sabe quando o filme começa?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "when",
+      "the",
+      "movie",
+      "starts?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ wɛn ðə ˈmuːvi stɑːrts/",
+    "portuguesePhonetic": "[dú iú nôu uén dha múvi stárts]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_358og03",
+    "word": "Why did he leave?",
+    "translation": "Por que ele saiu?",
+    "syllables": [
+      "Why",
+      "did",
+      "he",
+      "leave?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ dɪd hiː liːv/",
+    "portuguesePhonetic": "[uái díd rrí lív]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_u27wl2v",
+    "word": "I'd like to know why he left.",
+    "translation": "Eu gostaria de saber por que ele saiu.",
+    "syllables": [
+      "I'd",
+      "like",
+      "to",
+      "know",
+      "why",
+      "he",
+      "left."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪd laɪk tə noʊ waɪ hiː lɛft/",
+    "portuguesePhonetic": "[áid láik tu nôu uái rrí léft]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_byoqnyb",
+    "word": "Direct questions invert the auxiliary; indirect questions use normal word order.",
+    "translation": "Perguntas diretas invertem o auxiliar; perguntas indiretas usam a ordem normal.",
+    "syllables": [
+      "Direct",
+      "questions",
+      "invert",
+      "the",
+      "auxiliary;",
+      "indirect",
+      "questions",
+      "use",
+      "normal",
+      "word",
+      "order."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dɪˈrɛkt ˈkwɛstʃənz ɪnˈvɜːrt ðiː ɔːɡˈzɪljəri ɪnˈdaɪrɛkt ˈkwɛstʃənz juːz ˈnɔːrml̩ wɜːrd ˈɔːrdər/",
+    "portuguesePhonetic": "[dirékt kuéstchanz invârt dhi ogzíliari indáirekt kuéstchanz iúz nórmou uârd órder]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_5h6myjw",
+    "word": "Could you tell me where the gate is?",
+    "translation": "Você poderia me dizer onde fica o portão de embarque?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "where",
+      "the",
+      "gate",
+      "is?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː wɛr ðə ɡeɪt ɪz/",
+    "portuguesePhonetic": "[kúd iú tél mí uér dha guêit iz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_h01pnm2",
+    "word": "Do you know what time the flight leaves?",
+    "translation": "Você sabe a que horas o voo sai?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "what",
+      "time",
+      "the",
+      "flight",
+      "leaves?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ wʌt taɪm ðə flaɪt liːvz/",
+    "portuguesePhonetic": "[dú iú nôu uât táim dha fláit lívz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_flwksgm",
+    "word": "I'm wondering if the flight is delayed.",
+    "translation": "Estou me perguntando se o voo está atrasado.",
+    "syllables": [
+      "I'm",
+      "wondering",
+      "if",
+      "the",
+      "flight",
+      "is",
+      "delayed."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwʌndərɪŋ ɪf ðə flaɪt ɪz dɪˈleɪd/",
+    "portuguesePhonetic": "[áim uânderin if dha fláit iz dilêid]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_wcpgh12",
+    "word": "Could you tell me how much this costs?",
+    "translation": "Você poderia me dizer quanto isso custa?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "how",
+      "much",
+      "this",
+      "costs?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː haʊ mʌtʃ ðɪs kɔːsts/",
+    "portuguesePhonetic": "[kúd iú tél mí rráu mâtch dhís kósts]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_e1t9ceg",
+    "word": "Do you know if the bank is open?",
+    "translation": "Você sabe se o banco está aberto?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "if",
+      "the",
+      "bank",
+      "is",
+      "open?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ ɪf ðə bæŋk ɪz ˈoʊpən/",
+    "portuguesePhonetic": "[dú iú nôu if dha bênk iz ôupan]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_u8j401p",
+    "word": "I don't know where I need to sign.",
+    "translation": "Eu não sei onde preciso assinar.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "where",
+      "I",
+      "need",
+      "to",
+      "sign."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ wɛr aɪ niːd tə saɪn/",
+    "portuguesePhonetic": "[ái dôunt nôu uér ái níd tu sáin]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_j04nuo7",
+    "word": "Could you tell me how long the appointment will take?",
+    "translation": "Você poderia me dizer quanto tempo a consulta vai demorar?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "how",
+      "long",
+      "the",
+      "appointment",
+      "will",
+      "take?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː haʊ lɔːŋ ðiː əˈpɔɪntmənt wɪl teɪk/",
+    "portuguesePhonetic": "[kúd iú tél mí rráu lóN dhi apóintment uíou têik]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_auhjlxf",
+    "word": "I'd like to know if this is normal.",
+    "translation": "Eu gostaria de saber se isso é normal.",
+    "syllables": [
+      "I'd",
+      "like",
+      "to",
+      "know",
+      "if",
+      "this",
+      "is",
+      "normal."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪd laɪk tə noʊ ɪf ðɪs ɪz ˈnɔːrml̩/",
+    "portuguesePhonetic": "[áid láik tu nôu if dhís iz nórmou]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_ftb74gf",
+    "word": "Do you know if they have vegetarian options?",
+    "translation": "Você sabe se eles têm opções vegetarianas?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "if",
+      "they",
+      "have",
+      "vegetarian",
+      "options?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ ɪf ðeɪ hæv ˌvɛdʒəˈtɛriən ˈɑːpʃn̩z/",
+    "portuguesePhonetic": "[dú iú nôu if dhêi rrév védjetérian ápchanz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_ddx4b9o",
+    "word": "Could you tell me what today's special is?",
+    "translation": "Você poderia me dizer qual é o prato do dia?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "what",
+      "today's",
+      "special",
+      "is?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː wʌt təˈdeɪz ˈspɛʃl̩ ɪz/",
+    "portuguesePhonetic": "[kúd iú tél mí uât tudêiz spéchou iz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_wsmux7t",
+    "word": "I'm wondering when the meeting starts.",
+    "translation": "Estou me perguntando quando a reunião começa.",
+    "syllables": [
+      "I'm",
+      "wondering",
+      "when",
+      "the",
+      "meeting",
+      "starts."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwʌndərɪŋ wɛn ðə ˈmiːtɪŋ stɑːrts/",
+    "portuguesePhonetic": "[áim uânderin uén dha mítin stárts]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_cyh6n9c",
+    "word": "Do you know who is presenting first?",
+    "translation": "Você sabe quem vai apresentar primeiro?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "who",
+      "is",
+      "presenting",
+      "first?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ huː ɪz ˌprɪˈzɛntɪŋ fɜːrst/",
+    "portuguesePhonetic": "[dú iú nôu rrú iz prizéntin fârst]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_dtkpvzj",
+    "word": "I don't know if he finished the report.",
+    "translation": "Eu não sei se ele terminou o relatório.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "if",
+      "he",
+      "finished",
+      "the",
+      "report."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ ɪf hiː ˈfɪnɪʃt ðə rɪˈpɔːrt/",
+    "portuguesePhonetic": "[ái dôunt nôu if rrí fínicht dha ripórt]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_zhztu0b",
+    "word": "Could you tell me where the milk is?",
+    "translation": "Você poderia me dizer onde está o leite?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "where",
+      "the",
+      "milk",
+      "is?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː wɛr ðə mɪlk ɪz/",
+    "portuguesePhonetic": "[kúd iú tél mí uér dha míouk iz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_e9tqo51",
+    "word": "Do you know if this store accepts cards?",
+    "translation": "Você sabe se esta loja aceita cartão?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "if",
+      "this",
+      "store",
+      "accepts",
+      "cards?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ ɪf ðɪs stɔːr əkˈsɛpts kɑːrdz/",
+    "portuguesePhonetic": "[dú iú nôu if dhís stór aksépts kárdz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_u9hbzja",
+    "word": "Could you tell me which bus goes downtown?",
+    "translation": "Você poderia me dizer qual ônibus vai para o centro?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "which",
+      "bus",
+      "goes",
+      "downtown?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː wɪtʃ bʌs ɡoʊz ˈdaʊntaʊn/",
+    "portuguesePhonetic": "[kúd iú tél mí uítch bâs gôuz dáuntaun]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_8wucw99",
+    "word": "I don't know how often the train comes.",
+    "translation": "Eu não sei com que frequência o trem passa.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "how",
+      "often",
+      "the",
+      "train",
+      "comes."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ haʊ ˈɔːfn̩ ðə treɪn kʌmz/",
+    "portuguesePhonetic": "[ái dôunt nôu rráu ófan dha trêin kâmz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_6yez0cj",
+    "word": "Do you know when the exam is?",
+    "translation": "Você sabe quando é a prova?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "when",
+      "the",
+      "exam",
+      "is?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ wɛn ðiː ɪɡˈzæm ɪz/",
+    "portuguesePhonetic": "[dú iú nôu uén dhi igzém iz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_iw491yj",
+    "word": "I'd like to know how many questions there are.",
+    "translation": "Eu gostaria de saber quantas perguntas tem.",
+    "syllables": [
+      "I'd",
+      "like",
+      "to",
+      "know",
+      "how",
+      "many",
+      "questions",
+      "there",
+      "are."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪd laɪk tə noʊ haʊ ˈmɛni ˈkwɛstʃənz ðɛr ɑːr/",
+    "portuguesePhonetic": "[áid láik tu nôu rráu méni kuéstchanz dhér ár]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_n7mqhav",
+    "word": "Could you tell me if she's available?",
+    "translation": "Você poderia me dizer se ela está disponível?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "if",
+      "she's",
+      "available?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː ɪf ʃiːz əˈveɪləbl̩/",
+    "portuguesePhonetic": "[kúd iú tél mí if chíz avêilabou]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_ops4bt8",
+    "word": "I'm wondering what time she'll be back.",
+    "translation": "Estou me perguntando a que horas ela vai voltar.",
+    "syllables": [
+      "I'm",
+      "wondering",
+      "what",
+      "time",
+      "she'll",
+      "be",
+      "back."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwʌndərɪŋ wʌt taɪm ʃiːl biː bæk/",
+    "portuguesePhonetic": "[áim uânderin uât táim chíou bí bék]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_cfxd7mq",
+    "word": "Do you know where we're meeting?",
+    "translation": "Você sabe onde a gente vai se encontrar?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "where",
+      "we're",
+      "meeting?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ wɛr wɪr ˈmiːtɪŋ/",
+    "portuguesePhonetic": "[dú iú nôu uér uír mítin]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_826j4lz",
+    "word": "I don't know if they're coming tonight.",
+    "translation": "Eu não sei se eles vão vir hoje à noite.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "if",
+      "they're",
+      "coming",
+      "tonight."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ ɪf ðɛr ˈkʌmɪŋ təˈnaɪt/",
+    "portuguesePhonetic": "[ái dôunt nôu if dhér kâmin tunáit]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_m9upovi",
+    "word": "Do you know if it's going to rain tomorrow?",
+    "translation": "Você sabe se vai chover amanhã?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "if",
+      "it's",
+      "going",
+      "to",
+      "rain",
+      "tomorrow?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ ɪf ɪts ˈɡoʊɪŋ tə reɪn təˈmɑːroʊ/",
+    "portuguesePhonetic": "[dú iú nôu if íts gôuin tu rêin tumárou]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_6lxiwcg",
+    "word": "I'm wondering how cold it will be this weekend.",
+    "translation": "Estou me perguntando quão frio vai estar neste fim de semana.",
+    "syllables": [
+      "I'm",
+      "wondering",
+      "how",
+      "cold",
+      "it",
+      "will",
+      "be",
+      "this",
+      "weekend."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwʌndərɪŋ haʊ koʊld ɪt wɪl biː ðɪs ˈwiːkɛnd/",
+    "portuguesePhonetic": "[áim uânderin rráu kôuld ít uíou bí dhís uíkend]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_7jfg9cl",
+    "word": "Do you know her name?",
+    "translation": "Você sabe o nome dela?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "her",
+      "name?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ hɜːr neɪm/",
+    "portuguesePhonetic": "[dú iú nôu rrâr nêim]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_g7897cv",
+    "word": "I don't know where he is.",
+    "translation": "Eu não sei onde ele está.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "where",
+      "he",
+      "is."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ wɛr hiː ɪz/",
+    "portuguesePhonetic": "[ái dôunt nôu uér rrí iz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_ttz267q",
+    "word": "Could you tell me the time?",
+    "translation": "Você poderia me dizer as horas?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "the",
+      "time?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː ðə taɪm/",
+    "portuguesePhonetic": "[kúd iú tél mí dha táim]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_99cdfrz",
+    "word": "I wonder why she's late.",
+    "translation": "Eu me pergunto por que ela está atrasada.",
+    "syllables": [
+      "I",
+      "wonder",
+      "why",
+      "she's",
+      "late."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ ˈwʌndər waɪ ʃiːz leɪt/",
+    "portuguesePhonetic": "[ái uânder uái chíz lêit]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_iwefryt",
+    "word": "Do you know if he's coming?",
+    "translation": "Você sabe se ele vai vir?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "if",
+      "he's",
+      "coming?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ ɪf hiːz ˈkʌmɪŋ/",
+    "portuguesePhonetic": "[dú iú nôu if rríz kâmin]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_v14nk6q",
+    "word": "I'd like to know what happened.",
+    "translation": "Eu gostaria de saber o que aconteceu.",
+    "syllables": [
+      "I'd",
+      "like",
+      "to",
+      "know",
+      "what",
+      "happened."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪd laɪk tə noʊ wʌt ˈhæpənd/",
+    "portuguesePhonetic": "[áid láik tu nôu uât rrépand]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_tzc0t01",
+    "word": "Could you tell me how this works?",
+    "translation": "Você poderia me dizer como isso funciona?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "how",
+      "this",
+      "works?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː haʊ ðɪs wɜːrks/",
+    "portuguesePhonetic": "[kúd iú tél mí rráu dhís uârks]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_nvgdm50",
+    "word": "I don't know whether it's true.",
+    "translation": "Eu não sei se isso é verdade.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "whether",
+      "it's",
+      "true."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ ˈwɛðər ɪts truː/",
+    "portuguesePhonetic": "[ái dôunt nôu uédher íts trú]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_lq2bqv1",
+    "word": "Don't you know where the exit is?",
+    "translation": "Você não sabe onde fica a saída?",
+    "syllables": [
+      "Don't",
+      "you",
+      "know",
+      "where",
+      "the",
+      "exit",
+      "is?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/doʊnt juː noʊ wɛr ðiː ˈɛksɪt ɪz/",
+    "portuguesePhonetic": "[dôunt iú nôu uér dhi éksit iz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_dtc78kk",
+    "word": "Isn't it strange that nobody knows what happened?",
+    "translation": "Não é estranho que ninguém saiba o que aconteceu?",
+    "syllables": [
+      "Isn't",
+      "it",
+      "strange",
+      "that",
+      "nobody",
+      "knows",
+      "what",
+      "happened?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɪznt ɪt streɪndʒ ðæt ˈnoʊbɑːdi noʊz wʌt ˈhæpənd/",
+    "portuguesePhonetic": "[íznt ít strêindj dhét nôubadi nôuz uât rrépand]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_rp2rwio",
+    "word": "Why don't you ask her if she's free tonight?",
+    "translation": "Por que você não pergunta a ela se está livre hoje à noite?",
+    "syllables": [
+      "Why",
+      "don't",
+      "you",
+      "ask",
+      "her",
+      "if",
+      "she's",
+      "free",
+      "tonight?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ doʊnt juː æsk hɜːr ɪf ʃiːz friː təˈnaɪt/",
+    "portuguesePhonetic": "[uái dôunt iú ésk rrâr if chíz frí tunáit]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_dta8nco",
+    "word": "Doesn't anyone know when the bus arrives?",
+    "translation": "Ninguém sabe quando o ônibus chega?",
+    "syllables": [
+      "Doesn't",
+      "anyone",
+      "know",
+      "when",
+      "the",
+      "bus",
+      "arrives?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdʌznt ˈɛniwʌn noʊ wɛn ðə bʌs əˈraɪvz/",
+    "portuguesePhonetic": "[dâznt éniuan nôu uén dha bâs aráivz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_ii82gue",
+    "word": "I don't know if she called, because I was sleeping.",
+    "translation": "Eu não sei se ela ligou, porque eu estava dormindo.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "if",
+      "she",
+      "called,",
+      "because",
+      "I",
+      "was",
+      "sleeping."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ ɪf ʃiː kɔːld bɪˈkɔːz aɪ wəz ˈsliːpɪŋ/",
+    "portuguesePhonetic": "[ái dôunt nôu if chí kóld bikóz ái uâz slípin]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_qpl1g3u",
+    "word": "Could you tell me where you were when it happened?",
+    "translation": "Você poderia me dizer onde você estava quando isso aconteceu?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "where",
+      "you",
+      "were",
+      "when",
+      "it",
+      "happened?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː wɛr juː wɜːr wɛn ɪt ˈhæpənd/",
+    "portuguesePhonetic": "[kúd iú tél mí uér iú uâr uén ít rrépand]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_mp5visk",
+    "word": "I'm wondering if he'll call before he arrives.",
+    "translation": "Estou me perguntando se ele vai ligar antes de chegar.",
+    "syllables": [
+      "I'm",
+      "wondering",
+      "if",
+      "he'll",
+      "call",
+      "before",
+      "he",
+      "arrives."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwʌndərɪŋ ɪf hiːl kɔːl bɪˈfɔːr hiː əˈraɪvz/",
+    "portuguesePhonetic": "[áim uânderin if rríou kól bifór rrí aráivz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_d0krl74",
+    "word": "Do you know what she said when you told her the news?",
+    "translation": "Você sabe o que ela disse quando você contou a notícia?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "what",
+      "she",
+      "said",
+      "when",
+      "you",
+      "told",
+      "her",
+      "the",
+      "news?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ wʌt ʃiː sɛd wɛn juː toʊld hɜːr ðə nuːz/",
+    "portuguesePhonetic": "[dú iú nôu uât chí séd uén iú tôuld rrâr dha niúz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_cuix7tc",
+    "word": "I'd like to know why he left early, but nobody will tell me.",
+    "translation": "Eu gostaria de saber por que ele saiu cedo, mas ninguém quer me contar.",
+    "syllables": [
+      "I'd",
+      "like",
+      "to",
+      "know",
+      "why",
+      "he",
+      "left",
+      "early,",
+      "but",
+      "nobody",
+      "will",
+      "tell",
+      "me."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪd laɪk tə noʊ waɪ hiː lɛft ˈɜːrli bʌt ˈnoʊbɑːdi wɪl tɛl miː/",
+    "portuguesePhonetic": "[áid láik tu nôu uái rrí léft ârli bât nôubadi uíou tél mí]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_1xw9rzn",
+    "word": "Could you tell me whether the store is still open, since it's already quite late?",
+    "translation": "Você poderia me dizer se a loja ainda está aberta, já que já está bem tarde?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "whether",
+      "the",
+      "store",
+      "is",
+      "still",
+      "open,",
+      "since",
+      "it's",
+      "already",
+      "quite",
+      "late?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː ˈwɛðər ðə stɔːr ɪz stɪl ˈoʊpən sɪns ɪts ɔːlˈrɛdi kwaɪt leɪt/",
+    "portuguesePhonetic": "[kúd iú tél mí uédher dha stór iz stíou ôupan síns íts olrédi kuáit lêit]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_q77ub9z",
+    "word": "I don't know if he understood the instructions, because he didn't ask any questions.",
+    "translation": "Eu não sei se ele entendeu as instruções, porque não fez nenhuma pergunta.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "if",
+      "he",
+      "understood",
+      "the",
+      "instructions,",
+      "because",
+      "he",
+      "didn't",
+      "ask",
+      "any",
+      "questions."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ ɪf hiː ˌʌndərˈstʊd ðiː ɪnˈstrʌkʃn̩z bɪˈkɔːz hiː ˈdɪdnt æsk ˈɛni ˈkwɛstʃənz/",
+    "portuguesePhonetic": "[ái dôunt nôu if rrí andersstúd dhi instrâkchanz bikóz rrí dídent ésk éni kuéstchanz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_dwvzbv1",
+    "word": "I'm wondering whether we should wait or leave now, since the traffic keeps getting worse.",
+    "translation": "Estou me perguntando se devemos esperar ou sair agora, já que o trânsito continua piorando.",
+    "syllables": [
+      "I'm",
+      "wondering",
+      "whether",
+      "we",
+      "should",
+      "wait",
+      "or",
+      "leave",
+      "now,",
+      "since",
+      "the",
+      "traffic",
+      "keeps",
+      "getting",
+      "worse."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwʌndərɪŋ ˈwɛðər wiː ʃʊd weɪt ɔːr liːv naʊ sɪns ðə ˈtræfɪk kiːps ˈɡɛtɪŋ wɜːrs/",
+    "portuguesePhonetic": "[áim uânderin uédher uí chúd uêit ór lív náu síns dha tréfik kíps guétin uârs]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_eg9pfwd",
+    "word": "Do you know who's going to explain what happened to the manager?",
+    "translation": "Você sabe quem vai explicar o que aconteceu ao gerente?",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "who's",
+      "going",
+      "to",
+      "explain",
+      "what",
+      "happened",
+      "to",
+      "the",
+      "manager?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ huːz ˈɡoʊɪŋ tə ɪkˈspleɪn wʌt ˈhæpənd tə ðə ˈmænɪdʒər/",
+    "portuguesePhonetic": "[dú iú nôu rrúz gôuin tu ikspleín uât rrépand tu dha ménidjer]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_opce43f",
+    "word": "Could you tell me how much longer this is going to take, because I have another appointment?",
+    "translation": "Você poderia me dizer quanto tempo mais isso vai demorar, porque eu tenho outro compromisso?",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "how",
+      "much",
+      "longer",
+      "this",
+      "is",
+      "going",
+      "to",
+      "take,",
+      "because",
+      "I",
+      "have",
+      "another",
+      "appointment?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː haʊ mʌtʃ ˈlɔːŋɡər ðɪs ɪz ˈɡoʊɪŋ tə teɪk bɪˈkɔːz aɪ hæv əˈnʌðər əˈpɔɪntmənt/",
+    "portuguesePhonetic": "[kúd iú tél mí rráu mâtch lónguer dhís iz gôuin tu têik bikóz ái rrév anâdher apóintment]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_65gfhi9",
+    "word": "I'd like to know if there's a reason why the flight was canceled.",
+    "translation": "Eu gostaria de saber se há um motivo pelo qual o voo foi cancelado.",
+    "syllables": [
+      "I'd",
+      "like",
+      "to",
+      "know",
+      "if",
+      "there's",
+      "a",
+      "reason",
+      "why",
+      "the",
+      "flight",
+      "was",
+      "canceled."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪd laɪk tə noʊ ɪf ðɛrz ə ˈriːzn̩ waɪ ðə flaɪt wəz ˈkænsl̩d/",
+    "portuguesePhonetic": "[áid láik tu nôu if dhérz a ríizan uái dha fláit uâz kénsold]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_szow1uj",
+    "word": "Nobody knows when they're going to fix the elevator, so we have to use the stairs.",
+    "translation": "Ninguém sabe quando vão consertar o elevador, então temos que usar a escada.",
+    "syllables": [
+      "Nobody",
+      "knows",
+      "when",
+      "they're",
+      "going",
+      "to",
+      "fix",
+      "the",
+      "elevator,",
+      "so",
+      "we",
+      "have",
+      "to",
+      "use",
+      "the",
+      "stairs."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈnoʊbɑːdi noʊz wɛn ðɛr ˈɡoʊɪŋ tə fɪks ðiː ˈɛlɪveɪtər soʊ wiː hæv tə juːz ðə stɛrz/",
+    "portuguesePhonetic": "[nôubadi nôuz uén dhér gôuin tu fíks dhi éliveiter sôu uí rrév tu iúz dha stérz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_73ucqop",
+    "word": "I'm not sure whether I should tell her the truth, or wait until she asks me directly.",
+    "translation": "Não tenho certeza se devo contar a verdade a ela, ou esperar até que ela me pergunte diretamente.",
+    "syllables": [
+      "I'm",
+      "not",
+      "sure",
+      "whether",
+      "I",
+      "should",
+      "tell",
+      "her",
+      "the",
+      "truth,",
+      "or",
+      "wait",
+      "until",
+      "she",
+      "asks",
+      "me",
+      "directly."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm nɑːt ʃʊr ˈwɛðər aɪ ʃʊd tɛl hɜːr ðə truːθ ɔːr weɪt ʌnˈtɪl ʃiː æsks miː dɪˈrɛktli/",
+    "portuguesePhonetic": "[áim nót chúr uédher ái chúd tél rrâr dha trúth ór uêit antíou chí ésks mí dirékitli]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_obugpo5",
+    "word": "Could you tell me where the bathroom is? / It's over there.",
+    "translation": "Você poderia me dizer onde fica o banheiro? / É ali.",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "where",
+      "the",
+      "bathroom",
+      "is?",
+      "/",
+      "It's",
+      "over",
+      "there."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː wɛr ðə ˈbæθruːm ɪz · ɪts ˈoʊvər ðɛr/",
+    "portuguesePhonetic": "[kúd iú tél mí uér dha béthrum iz · íts ôuver dhér]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_1iqvjhh",
+    "word": "Do you know what time it is? / It's almost noon.",
+    "translation": "Você sabe que horas são? / É quase meio-dia.",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "what",
+      "time",
+      "it",
+      "is?",
+      "/",
+      "It's",
+      "almost",
+      "noon."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ wʌt taɪm ɪt ɪz · ɪts ˈɔːlmoʊst nuːn/",
+    "portuguesePhonetic": "[dú iú nôu uât táim ít iz · íts ólmoust nún]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_bjn1jm8",
+    "word": "I'm wondering if it's going to rain. / I think so.",
+    "translation": "Estou me perguntando se vai chover. / Eu acho que sim.",
+    "syllables": [
+      "I'm",
+      "wondering",
+      "if",
+      "it's",
+      "going",
+      "to",
+      "rain.",
+      "/",
+      "I",
+      "think",
+      "so."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwʌndərɪŋ ɪf ɪts ˈɡoʊɪŋ tə reɪn · aɪ θɪŋk soʊ/",
+    "portuguesePhonetic": "[áim uânderin if íts gôuin tu rêin · ái thínk sôu]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_k1ykodz",
+    "word": "Do you know who called? / Yes, it was your mom.",
+    "translation": "Você sabe quem ligou? / Sim, foi sua mãe.",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "who",
+      "called?",
+      "/",
+      "Yes,",
+      "it",
+      "was",
+      "your",
+      "mom."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ huː kɔːld · jɛs ɪt wəz jɔːr mɑːm/",
+    "portuguesePhonetic": "[dú iú nôu rrú kóld · iés ít uâz iór mám]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_5x23fbw",
+    "word": "Could you tell me how much this costs? / Twenty dollars.",
+    "translation": "Você poderia me dizer quanto isso custa? / Vinte dólares.",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "how",
+      "much",
+      "this",
+      "costs?",
+      "/",
+      "Twenty",
+      "dollars."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː haʊ mʌtʃ ðɪs kɔːsts · ˈtwɛnti ˈdɑːlərz/",
+    "portuguesePhonetic": "[kúd iú tél mí rráu mâtch dhís kósts · tuénti dálarz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_apxwbne",
+    "word": "I don't know if she's home. / Let's call her.",
+    "translation": "Eu não sei se ela está em casa. / Vamos ligar para ela.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "if",
+      "she's",
+      "home.",
+      "/",
+      "Let's",
+      "call",
+      "her."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ ɪf ʃiːz hoʊm · lɛts kɔːl hɜːr/",
+    "portuguesePhonetic": "[ái dôunt nôu if chíz rrôum · léts kól rrâr]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_m6v4bi8",
+    "word": "Do you know when the store opens? / At nine.",
+    "translation": "Você sabe quando a loja abre? / Às nove.",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "when",
+      "the",
+      "store",
+      "opens?",
+      "/",
+      "At",
+      "nine."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ wɛn ðə stɔːr ˈoʊpənz · æt naɪn/",
+    "portuguesePhonetic": "[dú iú nôu uén dha stór ôupanz · ét náin]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_ax0j7b5",
+    "word": "I'd like to know why he's upset. / I'm not sure either.",
+    "translation": "Eu gostaria de saber por que ele está chateado. / Eu também não sei.",
+    "syllables": [
+      "I'd",
+      "like",
+      "to",
+      "know",
+      "why",
+      "he's",
+      "upset.",
+      "/",
+      "I'm",
+      "not",
+      "sure",
+      "either."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪd laɪk tə noʊ waɪ hiːz ʌpˈsɛt · aɪm nɑːt ʃʊr ˈiːðər/",
+    "portuguesePhonetic": "[áid láik tu nôu uái rríz âpsét · áim nót chúr ídher]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_iv0m07j",
+    "word": "Could you tell me which train goes downtown? / The blue line.",
+    "translation": "Você poderia me dizer qual trem vai para o centro? / A linha azul.",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "which",
+      "train",
+      "goes",
+      "downtown?",
+      "/",
+      "The",
+      "blue",
+      "line."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː wɪtʃ treɪn ɡoʊz ˈdaʊntaʊn · ðə bluː laɪn/",
+    "portuguesePhonetic": "[kúd iú tél mí uítch trêin gôuz dáuntaun · dha blú láin]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_xzpnzby",
+    "word": "Do you know if they have my size? / I'll check.",
+    "translation": "Você sabe se eles têm o meu tamanho? / Vou conferir.",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "if",
+      "they",
+      "have",
+      "my",
+      "size?",
+      "/",
+      "I'll",
+      "check."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ ɪf ðeɪ hæv maɪ saɪz · aɪl tʃɛk/",
+    "portuguesePhonetic": "[dú iú nôu if dhêi rrév mái sáiz · áiou tchék]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_cqy9p53",
+    "word": "I'm wondering if the doctor is available. / She'll be free soon.",
+    "translation": "Estou me perguntando se o médico está disponível. / Ela vai estar livre logo.",
+    "syllables": [
+      "I'm",
+      "wondering",
+      "if",
+      "the",
+      "doctor",
+      "is",
+      "available.",
+      "/",
+      "She'll",
+      "be",
+      "free",
+      "soon."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwʌndərɪŋ ɪf ðə ˈdɑːktər ɪz əˈveɪləbl̩ · ʃiːl biː friː suːn/",
+    "portuguesePhonetic": "[áim uânderin if dha dáktor iz avêilabou · chíou bí frí sún]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_39iyxtk",
+    "word": "Do you know how long the flight is? / About eight hours.",
+    "translation": "Você sabe quanto tempo dura o voo? / Cerca de oito horas.",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "how",
+      "long",
+      "the",
+      "flight",
+      "is?",
+      "/",
+      "About",
+      "eight",
+      "hours."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ haʊ lɔːŋ ðə flaɪt ɪz · əˈbaʊt eɪt ˈaʊərz/",
+    "portuguesePhonetic": "[dú iú nôu rráu lóN dha fláit iz · abáut êit áuerz]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_4fqdr06",
+    "word": "Could you tell me where I can park? / Right around the corner.",
+    "translation": "Você poderia me dizer onde eu posso estacionar? / Bem na esquina.",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "where",
+      "I",
+      "can",
+      "park?",
+      "/",
+      "Right",
+      "around",
+      "the",
+      "corner."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː wɛr aɪ kæn pɑːrk · raɪt əˈraʊnd ðə ˈkɔːrnər/",
+    "portuguesePhonetic": "[kúd iú tél mí uér ái kén párk · ráit aráund dha kórner]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_gn3r866",
+    "word": "I don't know if they're coming. / Let's ask them.",
+    "translation": "Eu não sei se eles vão vir. / Vamos perguntar a eles.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "if",
+      "they're",
+      "coming.",
+      "/",
+      "Let's",
+      "ask",
+      "them."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ ɪf ðɛr ˈkʌmɪŋ · lɛts æsk ðɛm/",
+    "portuguesePhonetic": "[ái dôunt nôu if dhér kâmin · léts ésk dhém]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_59xq3g0",
+    "word": "Do you know why the meeting was canceled? / No idea.",
+    "translation": "Você sabe por que a reunião foi cancelada? / Não tenho ideia.",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "why",
+      "the",
+      "meeting",
+      "was",
+      "canceled?",
+      "/",
+      "No",
+      "idea."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ waɪ ðə ˈmiːtɪŋ wəz ˈkænsl̩d · noʊ aɪˈdiːə/",
+    "portuguesePhonetic": "[dú iú nôu uái dha mítin uâz kénsold · nôu aidía]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_rj9shdy",
+    "word": "I'd like to know if this is safe. / Yes, it's completely safe.",
+    "translation": "Eu gostaria de saber se isso é seguro. / Sim, é totalmente seguro.",
+    "syllables": [
+      "I'd",
+      "like",
+      "to",
+      "know",
+      "if",
+      "this",
+      "is",
+      "safe.",
+      "/",
+      "Yes,",
+      "it's",
+      "completely",
+      "safe."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪd laɪk tə noʊ ɪf ðɪs ɪz seɪf · jɛs ɪts kəmˈpliːtli seɪf/",
+    "portuguesePhonetic": "[áid láik tu nôu if dhís iz sêif · iés íts kamplítli sêif]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_vvdy67u",
+    "word": "Could you tell me what this word means? / It means happy.",
+    "translation": "Você poderia me dizer o que essa palavra significa? / Significa feliz.",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "what",
+      "this",
+      "word",
+      "means?",
+      "/",
+      "It",
+      "means",
+      "happy."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː wʌt ðɪs wɜːrd miːnz · ɪt miːnz ˈhæpi/",
+    "portuguesePhonetic": "[kúd iú tél mí uât dhís uârd mínz · ít mínz rrépi]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_v0zexay",
+    "word": "Do you know if it's too late to sign up? / I don't think so.",
+    "translation": "Você sabe se é tarde demais para se inscrever? / Eu acho que não.",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "if",
+      "it's",
+      "too",
+      "late",
+      "to",
+      "sign",
+      "up?",
+      "/",
+      "I",
+      "don't",
+      "think",
+      "so."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ ɪf ɪts tuː leɪt tə saɪn ʌp · aɪ doʊnt θɪŋk soʊ/",
+    "portuguesePhonetic": "[dú iú nôu if íts tú lêit tu sáin âp · ái dôunt thínk sôu]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_nahtz2e",
+    "word": "I'm wondering how far the beach is. / Not very far.",
+    "translation": "Estou me perguntando quão longe fica a praia. / Não muito longe.",
+    "syllables": [
+      "I'm",
+      "wondering",
+      "how",
+      "far",
+      "the",
+      "beach",
+      "is.",
+      "/",
+      "Not",
+      "very",
+      "far."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwʌndərɪŋ haʊ fɑːr ðə biːtʃ ɪz · nɑːt ˈvɛri fɑːr/",
+    "portuguesePhonetic": "[áim uânderin rráu fár dha bítch iz · nót véri fár]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_6e7jyxh",
+    "word": "Do you know who's in charge here? / The manager.",
+    "translation": "Você sabe quem está no comando aqui? / O gerente.",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "who's",
+      "in",
+      "charge",
+      "here?",
+      "/",
+      "The",
+      "manager."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ huːz ɪn tʃɑːrdʒ hɪr · ðə ˈmænɪdʒər/",
+    "portuguesePhonetic": "[dú iú nôu rrúz in tchárdj rrír · dha ménidjer]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_9n96r34",
+    "word": "Could you tell me if there's Wi-Fi here? / Yes, it's free.",
+    "translation": "Você poderia me dizer se tem wi-fi aqui? / Sim, é grátis.",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "if",
+      "there's",
+      "Wi-Fi",
+      "here?",
+      "/",
+      "Yes,",
+      "it's",
+      "free."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː ɪf ðɛrz ˈwaɪfaɪ hɪr · jɛs ɪts friː/",
+    "portuguesePhonetic": "[kúd iú tél mí if dhérz uáifai rrír · iés íts frí]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_f3yf493",
+    "word": "I don't know what time we should leave. / Around six.",
+    "translation": "Eu não sei que horas devemos sair. / Por volta das seis.",
+    "syllables": [
+      "I",
+      "don't",
+      "know",
+      "what",
+      "time",
+      "we",
+      "should",
+      "leave.",
+      "/",
+      "Around",
+      "six."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt noʊ wʌt taɪm wiː ʃʊd liːv · əˈraʊnd sɪks/",
+    "portuguesePhonetic": "[ái dôunt nôu uât táim uí chúd lív · aráund síks]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_ylxddkt",
+    "word": "Do you know if the store is open on Sundays? / I'm not sure.",
+    "translation": "Você sabe se a loja abre aos domingos? / Não tenho certeza.",
+    "syllables": [
+      "Do",
+      "you",
+      "know",
+      "if",
+      "the",
+      "store",
+      "is",
+      "open",
+      "on",
+      "Sundays?",
+      "/",
+      "I'm",
+      "not",
+      "sure."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː noʊ ɪf ðə stɔːr ɪz ˈoʊpən ɑːn ˈsʌndeɪz · aɪm nɑːt ʃʊr/",
+    "portuguesePhonetic": "[dú iú nôu if dha stór iz ôupan ón sândeiz · áim nót chúr]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_f03von4",
+    "word": "I'd like to know when we'll get the results. / Next week.",
+    "translation": "Eu gostaria de saber quando vamos receber os resultados. / Semana que vem.",
+    "syllables": [
+      "I'd",
+      "like",
+      "to",
+      "know",
+      "when",
+      "we'll",
+      "get",
+      "the",
+      "results.",
+      "/",
+      "Next",
+      "week."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪd laɪk tə noʊ wɛn wiːl ɡɛt ðə rɪˈzʌlts · nɛkst wiːk/",
+    "portuguesePhonetic": "[áid láik tu nôu uén uíou guét dha rizâlts · nékst uík]"
+  },
+  {
+    "id": "lesson_1_grammar_b1_plus_en_id_ni8z8ec",
+    "word": "Could you tell me if I'm in the right place? / Yes, you are.",
+    "translation": "Você poderia me dizer se estou no lugar certo? / Sim, está.",
+    "syllables": [
+      "Could",
+      "you",
+      "tell",
+      "me",
+      "if",
+      "I'm",
+      "in",
+      "the",
+      "right",
+      "place?",
+      "/",
+      "Yes,",
+      "you",
+      "are."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd juː tɛl miː ɪf aɪm ɪn ðə raɪt pleɪs · jɛs juː ɑːr/",
+    "portuguesePhonetic": "[kúd iú tél mí if áim in dha ráit plêis · iés iú ár]"
+  }
+]
