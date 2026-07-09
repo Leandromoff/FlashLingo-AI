@@ -381,27 +381,25 @@
   },
   {
     "id": "leccion_1_gramatica_b1_s_id_l1m660i",
-    "word": "Presente = hábitos, hechos, estados, y futuro combinado. Continuo = ahora, temporal, cambiando.",
-    "translation": "Presente = hábitos, fatos, estados e futuro combinado. Contínuo = agora, temporário, em mudança.",
+    "word": "Leo todas las noches, pero esta noche estoy viendo una película.",
+    "translation": "Eu leio todas as noites, mas esta noite estou assistindo a um filme.",
     "syllables": [
-      "Presente",
-      "=",
-      "hábitos,",
-      "hechos,",
-      "estados,",
-      "y",
-      "futuro",
-      "combinado.",
-      "Continuo",
-      "=",
-      "ahora,",
-      "temporal,",
-      "cambiando."
+      "Leo",
+      "todas",
+      "las",
+      "noches,",
+      "pero",
+      "esta",
+      "noche",
+      "estoy",
+      "viendo",
+      "una",
+      "película."
     ],
     "exampleSentence": "",
     "exampleTranslation": "",
-    "pronunciation": "/pɾeˈsente ˈaβitos ˈetʃos esˈtaðos i fuˈtuɾo komˈbinaðo konˈtinwo aˈoɾa tempoˈɾal kamˈbjando/",
-    "portuguesePhonetic": "[preSénte ábitos étchos estádos i futúro kombinádo kontínuo aóra temporál kambiándo]"
+    "pronunciation": "/ˈleo ˈtoðas las ˈnotʃes ˈpeɾo ˈesta ˈnotʃe esˈtoi ˈbjendo una peˈlikula/",
+    "portuguesePhonetic": "[léo tódas las nótches péro ésta nótche estôi biéndo úna pelíkula]"
   },
   {
     "id": "leccion_1_gramatica_b1_s_id_7ubmc5t",

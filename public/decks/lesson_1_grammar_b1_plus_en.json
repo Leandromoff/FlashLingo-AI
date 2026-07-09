@@ -391,25 +391,22 @@
   },
   {
     "id": "lesson_1_grammar_b1_plus_en_id_byoqnyb",
-    "word": "Direct questions invert the auxiliary; indirect questions use normal word order.",
-    "translation": "Perguntas diretas invertem o auxiliar; perguntas indiretas usam a ordem normal.",
+    "word": "Can you tell me where the station is?",
+    "translation": "Você pode me dizer onde é a estação?",
     "syllables": [
-      "Direct",
-      "questions",
-      "invert",
+      "Can",
+      "you",
+      "tell",
+      "me",
+      "where",
       "the",
-      "auxiliary;",
-      "indirect",
-      "questions",
-      "use",
-      "normal",
-      "word",
-      "order."
+      "station",
+      "is?"
     ],
     "exampleSentence": "",
     "exampleTranslation": "",
-    "pronunciation": "/dɪˈrɛkt ˈkwɛstʃənz ɪnˈvɜːrt ðiː ɔːɡˈzɪljəri ɪnˈdaɪrɛkt ˈkwɛstʃənz juːz ˈnɔːrml̩ wɜːrd ˈɔːrdər/",
-    "portuguesePhonetic": "[dirékt kuéstchanz invârt dhi ogzíliari indáirekt kuéstchanz iúz nórmou uârd órder]"
+    "pronunciation": "/kæn juː tɛl miː wɛr ðə ˈsteɪʃn̩ ɪz/",
+    "portuguesePhonetic": "[kén iú téo mí uér dha stêichan íz]"
   },
   {
     "id": "lesson_1_grammar_b1_plus_en_id_5h6myjw",

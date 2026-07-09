@@ -351,25 +351,22 @@
   },
   {
     "id": "lesson_5_grammar_a2_id_agzqjne",
-    "word": "Was/were + verb-ing = an action in progress in the past.",
-    "translation": "Was/were + verbo-ing = uma ação em progresso no passado.",
+    "word": "They were sleeping when the alarm went off.",
+    "translation": "Eles estavam dormindo quando o alarme disparou.",
     "syllables": [
-      "Was/were",
-      "+",
-      "verb-ing",
-      "=",
-      "an",
-      "action",
-      "in",
-      "progress",
-      "in",
+      "They",
+      "were",
+      "sleeping",
+      "when",
       "the",
-      "past."
+      "alarm",
+      "went",
+      "off."
     ],
     "exampleSentence": "",
     "exampleTranslation": "",
-    "pronunciation": "/wəz wɜːr vɜːrb ɪŋ ən ˈækʃn̩ ɪn ˈprɑːɡrɛs ɪn ðə pæst/",
-    "portuguesePhonetic": "[uâz uâr vârb in an ékchan in prógres in dha pést]"
+    "pronunciation": "/ðeɪ wɜːr ˈsliːpɪŋ wɛn ðiː əˈlɑːrm wɛnt ɔːf/",
+    "portuguesePhonetic": "[dhêi uâr slípin uén dhi alárm uént óf]"
   },
   {
     "id": "lesson_5_grammar_a2_id_h8eqayn",

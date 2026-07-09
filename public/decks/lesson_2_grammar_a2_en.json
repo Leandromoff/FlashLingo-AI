@@ -58,22 +58,18 @@
   },
   {
     "id": "lesson_2_grammar_a2_id_nvbg8qd",
-    "word": "When question word = subject, no auxiliary verb.",
-    "translation": "Quando a palavra interrogativa é o sujeito, não há auxiliar.",
+    "word": "Who told you that?",
+    "translation": "Quem te contou isso?",
     "syllables": [
-      "When",
-      "question",
-      "word",
-      "=",
-      "subject,",
-      "no",
-      "auxiliary",
-      "verb."
+      "Who",
+      "told",
+      "you",
+      "that?"
     ],
     "exampleSentence": "",
     "exampleTranslation": "",
-    "pronunciation": "/wɛn ˈkwɛstʃən wɜːrd ˈiːkwl̩z ˈsʌbdʒɪkt noʊ ɔːɡˈzɪljəri vɜːrb/",
-    "portuguesePhonetic": "[uén kuéstchan uârd íkuolz sâbdjekt nôu ogzíliari vârb]"
+    "pronunciation": "/huː toʊld juː ðæt/",
+    "portuguesePhonetic": "[rrú tôuld iú dhét]"
   },
   {
     "id": "lesson_2_grammar_a2_id_ilmuah1",
@@ -362,23 +358,19 @@
   },
   {
     "id": "lesson_2_grammar_a2_id_nv61euy",
-    "word": "Remember: subject question = question word replaces the subject.",
-    "translation": "Lembre-se: pergunta de sujeito = a palavra interrogativa substitui o sujeito.",
+    "word": "What fell on the floor?",
+    "translation": "O que caiu no chão?",
     "syllables": [
-      "Remember:",
-      "subject",
-      "question",
-      "=",
-      "question",
-      "word",
-      "replaces",
+      "What",
+      "fell",
+      "on",
       "the",
-      "subject."
+      "floor?"
     ],
     "exampleSentence": "",
     "exampleTranslation": "",
-    "pronunciation": "/rɪˈmɛmbər ˈsʌbdʒɪkt ˈkwɛstʃən ˈkwɛstʃən wɜːrd rɪˈpleɪsɪz ðə ˈsʌbdʒɪkt/",
-    "portuguesePhonetic": "[rimémber sâbdjekt kuéstchan kuéstchan uârd riplêisiz dha sâbdjekt]"
+    "pronunciation": "/wʌt fɛl ɑːn ðə flɔːr/",
+    "portuguesePhonetic": "[uát féo on dha flór]"
   },
   {
     "id": "lesson_2_grammar_a2_id_1vxzfos",

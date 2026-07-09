@@ -363,30 +363,20 @@
   },
   {
     "id": "leccion_1_gramatica_b1_plus_s_id_2wn1ur1",
-    "word": "En español, la pregunta indirecta apenas cambia la estructura; solo se le añade una expresión delante.",
-    "translation": "Em espanhol, a pergunta indireta quase não muda a estrutura; só se acrescenta uma expressão na frente.",
+    "word": "¿Puedes decirme dónde está la estación?",
+    "translation": "Você pode me dizer onde fica a estação?",
     "syllables": [
-      "En",
-      "español,",
+      "¿Puedes",
+      "decirme",
+      "dónde",
+      "está",
       "la",
-      "pregunta",
-      "indirecta",
-      "apenas",
-      "cambia",
-      "la",
-      "estructura;",
-      "solo",
-      "se",
-      "le",
-      "añade",
-      "una",
-      "expresión",
-      "delante."
+      "estación?"
     ],
     "exampleSentence": "",
     "exampleTranslation": "",
-    "pronunciation": "/en espaˈɲol la pɾeˈɣunta indiˈɾekta aˈpenas ˈkambja la estɾukˈtuɾa/",
-    "portuguesePhonetic": "[en espánhol la pregúnta indirékta apénas kámbia la estruktúra]"
+    "pronunciation": "/ˈpweðes deˈθiɾme ˈdonde esˈta la estaˈθjon/",
+    "portuguesePhonetic": "[puédes dethírme dónde está la estathión]"
   },
   {
     "id": "leccion_1_gramatica_b1_plus_s_id_18gtzfc",
