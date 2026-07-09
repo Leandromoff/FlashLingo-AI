@@ -1,0 +1,1781 @@
+[
+  {
+    "id": "lesson_12_grammar_a1_id_weuwjl9",
+    "word": "at the entrance",
+    "translation": "na entrada",
+    "syllables": [
+      "at",
+      "the",
+      "entrance"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æt ðiː ˈɛntrəns/",
+    "portuguesePhonetic": "[ét dhi éntrans]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_foynvbl",
+    "word": "at the reception desk",
+    "translation": "na recepção",
+    "syllables": [
+      "at",
+      "the",
+      "reception",
+      "desk"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æt ðə rɪˈsɛpʃn̩ dɛsk/",
+    "portuguesePhonetic": "[ét dha risépchan désk]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_wj94526",
+    "word": "at the corner",
+    "translation": "na esquina",
+    "syllables": [
+      "at",
+      "the",
+      "corner"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æt ðə ˈkɔːrnər/",
+    "portuguesePhonetic": "[ét dha kórner]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_i1xwufo",
+    "word": "at the top of the mountain",
+    "translation": "no topo da montanha",
+    "syllables": [
+      "at",
+      "the",
+      "top",
+      "of",
+      "the",
+      "mountain"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æt ðə tɑːp əv ðə ˈmaʊntn̩/",
+    "portuguesePhonetic": "[ét dha táp ov dha máuntan]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_9uq2xq1",
+    "word": "at the bottom of the box",
+    "translation": "no fundo da caixa",
+    "syllables": [
+      "at",
+      "the",
+      "bottom",
+      "of",
+      "the",
+      "box"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æt ðə ˈbɑːtəm əv ðə bɑːks/",
+    "portuguesePhonetic": "[ét dha bátam ov dha báks]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_8k3rym5",
+    "word": "at a concert",
+    "translation": "num show",
+    "syllables": [
+      "at",
+      "a",
+      "concert"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æt ə ˈkɑːnsərt/",
+    "portuguesePhonetic": "[ét a kánsert]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_evu428q",
+    "word": "at a wedding",
+    "translation": "num casamento",
+    "syllables": [
+      "at",
+      "a",
+      "wedding"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æt ə ˈwɛdɪŋ/",
+    "portuguesePhonetic": "[ét a uédin]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_nx1wfa9",
+    "word": "at the pharmacy",
+    "translation": "na farmácia",
+    "syllables": [
+      "at",
+      "the",
+      "pharmacy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æt ðə ˈfɑːrməsi/",
+    "portuguesePhonetic": "[ét dha fármasi]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_hwa6wwt",
+    "word": "at the hairdresser's",
+    "translation": "no salão de cabeleireiro",
+    "syllables": [
+      "at",
+      "the",
+      "hairdresser's"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æt ðə ˈhɛrdrɛsərz/",
+    "portuguesePhonetic": "[ét dha rrérdreserz]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_l7m6uov",
+    "word": "at college",
+    "translation": "na faculdade",
+    "syllables": [
+      "at",
+      "college"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/æt ˈkɑːlɪdʒ/",
+    "portuguesePhonetic": "[ét kálidj]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_fvs0i5g",
+    "word": "in the fridge",
+    "translation": "na geladeira",
+    "syllables": [
+      "in",
+      "the",
+      "fridge"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪn ðə frɪdʒ/",
+    "portuguesePhonetic": "[in dha frídj]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_9lpsvcm",
+    "word": "in the drawer",
+    "translation": "na gaveta",
+    "syllables": [
+      "in",
+      "the",
+      "drawer"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪn ðə drɔːr/",
+    "portuguesePhonetic": "[in dha drór]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_5w3n223",
+    "word": "in the closet",
+    "translation": "no armário",
+    "syllables": [
+      "in",
+      "the",
+      "closet"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪn ðə ˈklɑːzɪt/",
+    "portuguesePhonetic": "[in dha klázit]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_3qr1nv4",
+    "word": "in France",
+    "translation": "na França",
+    "syllables": [
+      "in",
+      "France"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪn fræns/",
+    "portuguesePhonetic": "[in fréns]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_qcpi266",
+    "word": "in the Amazon",
+    "translation": "na Amazônia",
+    "syllables": [
+      "in",
+      "the",
+      "Amazon"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪn ðiː ˈæməzɑːn/",
+    "portuguesePhonetic": "[in dhi émazan]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_5rb1bzj",
+    "word": "in a taxi",
+    "translation": "num táxi",
+    "syllables": [
+      "in",
+      "a",
+      "taxi"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪn ə ˈtæksi/",
+    "portuguesePhonetic": "[in a téksi]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_ym0wtvr",
+    "word": "in a lake",
+    "translation": "num lago",
+    "syllables": [
+      "in",
+      "a",
+      "lake"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪn ə leɪk/",
+    "portuguesePhonetic": "[in a lêik]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_jdxt2cr",
+    "word": "in a magazine",
+    "translation": "numa revista",
+    "syllables": [
+      "in",
+      "a",
+      "magazine"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪn ə ˌmæɡəˈziːn/",
+    "portuguesePhonetic": "[in a magazín]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_0mde756",
+    "word": "on the wall",
+    "translation": "na parede",
+    "syllables": [
+      "on",
+      "the",
+      "wall"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːn ðə wɔːl/",
+    "portuguesePhonetic": "[ón dha uól]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_yiizj5f",
+    "word": "on the ceiling",
+    "translation": "no teto",
+    "syllables": [
+      "on",
+      "the",
+      "ceiling"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːn ðə ˈsiːlɪŋ/",
+    "portuguesePhonetic": "[ón dha sílin]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_yuhoxiq",
+    "word": "on the second floor",
+    "translation": "no segundo andar",
+    "syllables": [
+      "on",
+      "the",
+      "second",
+      "floor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːn ðə ˈsɛkənd flɔːr/",
+    "portuguesePhonetic": "[ón dha sékand flór]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_9f9pkkq",
+    "word": "on the ground floor",
+    "translation": "no térreo",
+    "syllables": [
+      "on",
+      "the",
+      "ground",
+      "floor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːn ðə ɡraʊnd flɔːr/",
+    "portuguesePhonetic": "[ón dha gráund flór]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_rx9bpdo",
+    "word": "on a bicycle",
+    "translation": "numa bicicleta",
+    "syllables": [
+      "on",
+      "a",
+      "bicycle"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːn ə ˈbaɪsɪkl̩/",
+    "portuguesePhonetic": "[ón a báisikou]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_p9xfb6j",
+    "word": "on a ship",
+    "translation": "num navio",
+    "syllables": [
+      "on",
+      "a",
+      "ship"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːn ə ʃɪp/",
+    "portuguesePhonetic": "[ón a chíp]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_kae9tjc",
+    "word": "on the news",
+    "translation": "no noticiário",
+    "syllables": [
+      "on",
+      "the",
+      "news"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːn ðə nuːz/",
+    "portuguesePhonetic": "[ón dha niúz]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_o8lh7m2",
+    "word": "The eggs are in the fridge.",
+    "translation": "Os ovos estão na geladeira.",
+    "syllables": [
+      "The",
+      "eggs",
+      "are",
+      "in",
+      "the",
+      "fridge."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðiː ɛɡz ɑːr ɪn ðə frɪdʒ/",
+    "portuguesePhonetic": "[dhi égz ár in dha frídj]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_gv2tn5g",
+    "word": "The knives are in the drawer.",
+    "translation": "As facas estão na gaveta.",
+    "syllables": [
+      "The",
+      "knives",
+      "are",
+      "in",
+      "the",
+      "drawer."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə naɪvz ɑːr ɪn ðə drɔːr/",
+    "portuguesePhonetic": "[dha náivz ár in dha drór]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_a12ybr2",
+    "word": "There's a clock on the wall.",
+    "translation": "Tem um relógio na parede.",
+    "syllables": [
+      "There's",
+      "a",
+      "clock",
+      "on",
+      "the",
+      "wall."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə klɑːk ɑːn ðə wɔːl/",
+    "portuguesePhonetic": "[dhérz a klák ón dha uól]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_qm5hvbd",
+    "word": "I work on the fifth floor.",
+    "translation": "Eu trabalho no quinto andar.",
+    "syllables": [
+      "I",
+      "work",
+      "on",
+      "the",
+      "fifth",
+      "floor."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ wɜːrk ɑːn ðə fɪfθ flɔːr/",
+    "portuguesePhonetic": "[ái uârk ón dha fífth flór]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_afyw3p0",
+    "word": "The meeting is at the reception desk.",
+    "translation": "A reunião é na recepção.",
+    "syllables": [
+      "The",
+      "meeting",
+      "is",
+      "at",
+      "the",
+      "reception",
+      "desk."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈmiːtɪŋ ɪz æt ðə rɪˈsɛpʃn̩ dɛsk/",
+    "portuguesePhonetic": "[dha mítin iz ét dha risépchan désk]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_wjqzzr1",
+    "word": "My files are in the closet.",
+    "translation": "Meus arquivos estão no armário.",
+    "syllables": [
+      "My",
+      "files",
+      "are",
+      "in",
+      "the",
+      "closet."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ faɪlz ɑːr ɪn ðə ˈklɑːzɪt/",
+    "portuguesePhonetic": "[mái fáiouz ár in dha klázit]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_t7zfzqz",
+    "word": "I'm at college this semester.",
+    "translation": "Estou na faculdade neste semestre.",
+    "syllables": [
+      "I'm",
+      "at",
+      "college",
+      "this",
+      "semester."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm æt ˈkɑːlɪdʒ ðɪs sɪˈmɛstər/",
+    "portuguesePhonetic": "[áim ét kálidj dhís siméster]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_6ofm1z1",
+    "word": "The map is on the wall.",
+    "translation": "O mapa está na parede.",
+    "syllables": [
+      "The",
+      "map",
+      "is",
+      "on",
+      "the",
+      "wall."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə mæp ɪz ɑːn ðə wɔːl/",
+    "portuguesePhonetic": "[dha mép iz ón dha uól]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_s0nx82x",
+    "word": "We're at a concert tonight.",
+    "translation": "A gente está num show hoje à noite.",
+    "syllables": [
+      "We're",
+      "at",
+      "a",
+      "concert",
+      "tonight."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪr æt ə ˈkɑːnsərt təˈnaɪt/",
+    "portuguesePhonetic": "[uír ét a kánsert tunáit]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_0bada71",
+    "word": "They met at a wedding.",
+    "translation": "Eles se conheceram num casamento.",
+    "syllables": [
+      "They",
+      "met",
+      "at",
+      "a",
+      "wedding."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ mɛt æt ə ˈwɛdɪŋ/",
+    "portuguesePhonetic": "[dhêi mét ét a uédin]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_8e3se7m",
+    "word": "I need to stop at the pharmacy.",
+    "translation": "Eu preciso parar na farmácia.",
+    "syllables": [
+      "I",
+      "need",
+      "to",
+      "stop",
+      "at",
+      "the",
+      "pharmacy."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ niːd tə stɑːp æt ðə ˈfɑːrməsi/",
+    "portuguesePhonetic": "[ái níd tu stáp ét dha fármasi]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_aaxtatl",
+    "word": "The medicine is in the closet.",
+    "translation": "O remédio está no armário.",
+    "syllables": [
+      "The",
+      "medicine",
+      "is",
+      "in",
+      "the",
+      "closet."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈmɛdɪsɪn ɪz ɪn ðə ˈklɑːzɪt/",
+    "portuguesePhonetic": "[dha médisin iz in dha klázit]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_l6ps9fz",
+    "word": "I have an appointment at the hairdresser's.",
+    "translation": "Eu tenho hora marcada no cabeleireiro.",
+    "syllables": [
+      "I",
+      "have",
+      "an",
+      "appointment",
+      "at",
+      "the",
+      "hairdresser's."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv ən əˈpɔɪntmənt æt ðə ˈhɛrdrɛsərz/",
+    "portuguesePhonetic": "[ái rrév an apóintment ét dha rrérdreserz]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_djqmw5d",
+    "word": "We're staying in France for a week.",
+    "translation": "A gente vai ficar na França por uma semana.",
+    "syllables": [
+      "We're",
+      "staying",
+      "in",
+      "France",
+      "for",
+      "a",
+      "week."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪr ˈsteɪɪŋ ɪn fræns fɔːr ə wiːk/",
+    "portuguesePhonetic": "[uír stêin in fréns fór a uík]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_q5771gb",
+    "word": "We took a boat trip on the river.",
+    "translation": "A gente fez um passeio de barco no rio.",
+    "syllables": [
+      "We",
+      "took",
+      "a",
+      "boat",
+      "trip",
+      "on",
+      "the",
+      "river."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː tʊk ə boʊt trɪp ɑːn ðə ˈrɪvər/",
+    "portuguesePhonetic": "[uí túk a bôut tríp ón dha ríver]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_194sjak",
+    "word": "We arrived in a taxi.",
+    "translation": "A gente chegou num táxi.",
+    "syllables": [
+      "We",
+      "arrived",
+      "in",
+      "a",
+      "taxi."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː əˈraɪvd ɪn ə ˈtæksi/",
+    "portuguesePhonetic": "[uí aráivd in a téksi]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_tth37gr",
+    "word": "He rides to work on a bicycle.",
+    "translation": "Ele vai ao trabalho de bicicleta.",
+    "syllables": [
+      "He",
+      "rides",
+      "to",
+      "work",
+      "on",
+      "a",
+      "bicycle."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː raɪdz tə wɜːrk ɑːn ə ˈbaɪsɪkl̩/",
+    "portuguesePhonetic": "[rrí ráidz tu uârk ón a báisikou]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_ruczlk4",
+    "word": "Wait at the entrance, please.",
+    "translation": "Espere na entrada, por favor.",
+    "syllables": [
+      "Wait",
+      "at",
+      "the",
+      "entrance,",
+      "please."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/weɪt æt ðiː ˈɛntrəns pliːz/",
+    "portuguesePhonetic": "[uêit ét dhi éntrans plíz]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_u2g8lp4",
+    "word": "Put the towels in the closet.",
+    "translation": "Coloque as toalhas no armário.",
+    "syllables": [
+      "Put",
+      "the",
+      "towels",
+      "in",
+      "the",
+      "closet."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pʊt ðə ˈtaʊəlz ɪn ðə ˈklɑːzɪt/",
+    "portuguesePhonetic": "[pút dha táuelz in dha klázit]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_yocwxwf",
+    "word": "There's a spider on the ceiling!",
+    "translation": "Tem uma aranha no teto!",
+    "syllables": [
+      "There's",
+      "a",
+      "spider",
+      "on",
+      "the",
+      "ceiling!"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə ˈspaɪdər ɑːn ðə ˈsiːlɪŋ/",
+    "portuguesePhonetic": "[dhérz a spáider ón dha sílin]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_ax4rjf0",
+    "word": "I saw the storm on the news.",
+    "translation": "Eu vi a tempestade no noticiário.",
+    "syllables": [
+      "I",
+      "saw",
+      "the",
+      "storm",
+      "on",
+      "the",
+      "news."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ sɔː ðə stɔːrm ɑːn ðə nuːz/",
+    "portuguesePhonetic": "[ái só dha stórm ón dha niúz]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_8i3c4ok",
+    "word": "We saw fish in the lake.",
+    "translation": "A gente viu peixes no lago.",
+    "syllables": [
+      "We",
+      "saw",
+      "fish",
+      "in",
+      "the",
+      "lake."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː sɔː fɪʃ ɪn ðə leɪk/",
+    "portuguesePhonetic": "[uí só fích in dha lêik]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_9bwsnfk",
+    "word": "Meet me at the corner of the terminal.",
+    "translation": "Me encontre na esquina do terminal.",
+    "syllables": [
+      "Meet",
+      "me",
+      "at",
+      "the",
+      "corner",
+      "of",
+      "the",
+      "terminal."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/miːt miː æt ðə ˈkɔːrnər əv ðə ˈtɜːrmɪnl̩/",
+    "portuguesePhonetic": "[mít mí ét dha kórner ov dha târminou]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_srg2vq8",
+    "word": "The dressing room is on the second floor.",
+    "translation": "O provador fica no segundo andar.",
+    "syllables": [
+      "The",
+      "dressing",
+      "room",
+      "is",
+      "on",
+      "the",
+      "second",
+      "floor."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈdrɛsɪŋ ruːm ɪz ɑːn ðə ˈsɛkənd flɔːr/",
+    "portuguesePhonetic": "[dha drésin rúm iz ón dha sékand flór]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_bprao36",
+    "word": "I read about it in a magazine.",
+    "translation": "Eu li sobre isso numa revista.",
+    "syllables": [
+      "I",
+      "read",
+      "about",
+      "it",
+      "in",
+      "a",
+      "magazine."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ rɛd əˈbaʊt ɪt ɪn ə ˌmæɡəˈziːn/",
+    "portuguesePhonetic": "[ái réd abáut ít in a magazín]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_j376bfy",
+    "word": "The car is at the corner.",
+    "translation": "O carro está na esquina.",
+    "syllables": [
+      "The",
+      "car",
+      "is",
+      "at",
+      "the",
+      "corner."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə kɑːr ɪz æt ðə ˈkɔːrnər/",
+    "portuguesePhonetic": "[dha kár iz ét dha kórner]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_pfe9qhv",
+    "word": "She lives in France.",
+    "translation": "Ela mora na França.",
+    "syllables": [
+      "She",
+      "lives",
+      "in",
+      "France."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː lɪvz ɪn fræns/",
+    "portuguesePhonetic": "[chí lívz in fréns]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_13j9fi3",
+    "word": "We live on the ground floor.",
+    "translation": "A gente mora no térreo.",
+    "syllables": [
+      "We",
+      "live",
+      "on",
+      "the",
+      "ground",
+      "floor."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː lɪv ɑːn ðə ɡraʊnd flɔːr/",
+    "portuguesePhonetic": "[uí lív ón dha gráund flór]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_m25l9yk",
+    "word": "He's at work.",
+    "translation": "Ele está no trabalho.",
+    "syllables": [
+      "He's",
+      "at",
+      "work."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiːz æt wɜːrk/",
+    "portuguesePhonetic": "[rríz ét uârk]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_1jgqdzg",
+    "word": "Is the milk in the fridge?",
+    "translation": "O leite está na geladeira?",
+    "syllables": [
+      "Is",
+      "the",
+      "milk",
+      "in",
+      "the",
+      "fridge?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðə mɪlk ɪn ðə frɪdʒ/",
+    "portuguesePhonetic": "[iz dha míouk in dha frídj]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_xdm74t3",
+    "word": "We aren't at the wedding yet.",
+    "translation": "A gente ainda não chegou no casamento.",
+    "syllables": [
+      "We",
+      "aren't",
+      "at",
+      "the",
+      "wedding",
+      "yet."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ˈɑːrnt æt ðə ˈwɛdɪŋ jɛt/",
+    "portuguesePhonetic": "[uí árent ét dha uédin iét]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_gsl89bp",
+    "word": "Isn't the pharmacy at the corner?",
+    "translation": "A farmácia não fica na esquina?",
+    "syllables": [
+      "Isn't",
+      "the",
+      "pharmacy",
+      "at",
+      "the",
+      "corner?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɪznt ðə ˈfɑːrməsi æt ðə ˈkɔːrnər/",
+    "portuguesePhonetic": "[íznt dha fármasi ét dha kórner]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_b8c2snc",
+    "word": "Why isn't the clock on the wall anymore?",
+    "translation": "Por que o relógio não está mais na parede?",
+    "syllables": [
+      "Why",
+      "isn't",
+      "the",
+      "clock",
+      "on",
+      "the",
+      "wall",
+      "anymore?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ˈɪznt ðə klɑːk ɑːn ðə wɔːl ˈɛnimɔːr/",
+    "portuguesePhonetic": "[uái íznt dha klák ón dha uól énimor]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_6f87epz",
+    "word": "We met at a concert, and we've been together since then.",
+    "translation": "A gente se conheceu num show, e estamos juntos desde então.",
+    "syllables": [
+      "We",
+      "met",
+      "at",
+      "a",
+      "concert,",
+      "and",
+      "we've",
+      "been",
+      "together",
+      "since",
+      "then."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː mɛt æt ə ˈkɑːnsərt ænd wiːv bɪn təˈɡɛðər sɪns ðɛn/",
+    "portuguesePhonetic": "[uí mét ét a kánsert énd uívi bín taguédher síns dhén]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_xp9we0k",
+    "word": "When I arrived at the hairdresser's, they were already closed.",
+    "translation": "Quando eu cheguei no cabeleireiro, já estava fechado.",
+    "syllables": [
+      "When",
+      "I",
+      "arrived",
+      "at",
+      "the",
+      "hairdresser's,",
+      "they",
+      "were",
+      "already",
+      "closed."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛn aɪ əˈraɪvd æt ðə ˈhɛrdrɛsərz ðeɪ wɜːr ɔːlˈrɛdi kloʊzd/",
+    "portuguesePhonetic": "[uén ái aráivd ét dha rrérdreserz dhêi uâr olrédi klôuzd]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_8e0bnel",
+    "word": "The keys were in the drawer, but now they aren't there.",
+    "translation": "As chaves estavam na gaveta, mas agora não estão mais lá.",
+    "syllables": [
+      "The",
+      "keys",
+      "were",
+      "in",
+      "the",
+      "drawer,",
+      "but",
+      "now",
+      "they",
+      "aren't",
+      "there."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə kiːz wɜːr ɪn ðə drɔːr bʌt naʊ ðeɪ ˈɑːrnt ðɛr/",
+    "portuguesePhonetic": "[dha kíz uâr in dha drór bât náu dhêi árent dhér]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_w5vpqu9",
+    "word": "We watched the game on the news because we missed it live.",
+    "translation": "A gente assistiu ao jogo no noticiário porque perdemos ao vivo.",
+    "syllables": [
+      "We",
+      "watched",
+      "the",
+      "game",
+      "on",
+      "the",
+      "news",
+      "because",
+      "we",
+      "missed",
+      "it",
+      "live."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː wɑːtʃt ðə ɡeɪm ɑːn ðə nuːz bɪˈkɔːz wiː mɪst ɪt laɪv/",
+    "portuguesePhonetic": "[uí uátcht dha guêim ón dha niúz bikóz uí míst ít láiv]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_u5g5fsa",
+    "word": "She works on the second floor, but her office is at the end of the hallway.",
+    "translation": "Ela trabalha no segundo andar, mas o escritório dela fica no fim do corredor.",
+    "syllables": [
+      "She",
+      "works",
+      "on",
+      "the",
+      "second",
+      "floor,",
+      "but",
+      "her",
+      "office",
+      "is",
+      "at",
+      "the",
+      "end",
+      "of",
+      "the",
+      "hallway."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː wɜːrks ɑːn ðə ˈsɛkənd flɔːr bʌt hɜːr ˈɔːfɪs ɪz æt ðiː ɛnd əv ðə ˈhɔːlweɪ/",
+    "portuguesePhonetic": "[chí uârks ón dha sékand flór bât rrâr ófis iz ét dhi énd ov dha rrólueí]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_1broo6w",
+    "word": "We stayed at a small hotel in the mountains, near a lake.",
+    "translation": "A gente ficou num hotel pequeno nas montanhas, perto de um lago.",
+    "syllables": [
+      "We",
+      "stayed",
+      "at",
+      "a",
+      "small",
+      "hotel",
+      "in",
+      "the",
+      "mountains,",
+      "near",
+      "a",
+      "lake."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː steɪd æt ə smɔːl hoʊˈtɛl ɪn ðə ˈmaʊntn̩z nɪr ə leɪk/",
+    "portuguesePhonetic": "[uí stêid ét a smól routél in dha máuntanz nír a lêik]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_n17jqd2",
+    "word": "The article was in a magazine, but I can't remember which one.",
+    "translation": "O artigo estava numa revista, mas não lembro qual.",
+    "syllables": [
+      "The",
+      "article",
+      "was",
+      "in",
+      "a",
+      "magazine,",
+      "but",
+      "I",
+      "can't",
+      "remember",
+      "which",
+      "one."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðiː ˈɑːrtɪkl̩ wəz ɪn ə ˌmæɡəˈziːn bʌt aɪ kænt rɪˈmɛmbər wɪtʃ wʌn/",
+    "portuguesePhonetic": "[dhi ártikou uâz in a magazín bât ái kênt rimémber uítch uân]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_teznain",
+    "word": "The photos are in the drawer.",
+    "translation": "As fotos estão na gaveta.",
+    "syllables": [
+      "The",
+      "photos",
+      "are",
+      "in",
+      "the",
+      "drawer."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈfoʊtoʊz ɑːr ɪn ðə drɔːr/",
+    "portuguesePhonetic": "[dha fôutouz ár in dha drór]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_iqxccol",
+    "word": "Is she at the reception desk?",
+    "translation": "Ela está na recepção?",
+    "syllables": [
+      "Is",
+      "she",
+      "at",
+      "the",
+      "reception",
+      "desk?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ʃiː æt ðə rɪˈsɛpʃn̩ dɛsk/",
+    "portuguesePhonetic": "[iz chí ét dha risépchan désk]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_stab5em",
+    "word": "We aren't at the top of the mountain yet.",
+    "translation": "Nós ainda não estamos no topo da montanha.",
+    "syllables": [
+      "We",
+      "aren't",
+      "at",
+      "the",
+      "top",
+      "of",
+      "the",
+      "mountain",
+      "yet."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ˈɑːrnt æt ðə tɑːp əv ðə ˈmaʊntn̩ jɛt/",
+    "portuguesePhonetic": "[uí árent ét dha táp ov dha máuntan iét]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_laobg17",
+    "word": "Don't you work at the hairdresser's anymore?",
+    "translation": "Você não trabalha mais no cabeleireiro?",
+    "syllables": [
+      "Don't",
+      "you",
+      "work",
+      "at",
+      "the",
+      "hairdresser's",
+      "anymore?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/doʊnt juː wɜːrk æt ðə ˈhɛrdrɛsərz ˈɛnimɔːr/",
+    "portuguesePhonetic": "[dôunt iú uârk ét dha rrérdreserz énimor]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_6vws9fl",
+    "word": "Wasn't the party at a wedding hall?",
+    "translation": "A festa não era num salão de casamento?",
+    "syllables": [
+      "Wasn't",
+      "the",
+      "party",
+      "at",
+      "a",
+      "wedding",
+      "hall?"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈwʌzənt ðə ˈpɑːrti æt ə ˈwɛdɪŋ hɔːl/",
+    "portuguesePhonetic": "[uázant dha párti ét a uédin rról]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_qdb3upo",
+    "word": "He was at the pharmacy when I called him.",
+    "translation": "Ele estava na farmácia quando eu liguei.",
+    "syllables": [
+      "He",
+      "was",
+      "at",
+      "the",
+      "pharmacy",
+      "when",
+      "I",
+      "called",
+      "him."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː wəz æt ðə ˈfɑːrməsi wɛn aɪ kɔːld hɪm/",
+    "portuguesePhonetic": "[rrí uâz ét dha fármasi uén ái kóld rrím]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_svvh2gs",
+    "word": "She wasn't at college because she was sick.",
+    "translation": "Ela não estava na faculdade porque estava doente.",
+    "syllables": [
+      "She",
+      "wasn't",
+      "at",
+      "college",
+      "because",
+      "she",
+      "was",
+      "sick."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈwʌzənt æt ˈkɑːlɪdʒ bɪˈkɔːz ʃiː wəz sɪk/",
+    "portuguesePhonetic": "[chí uázant ét kálidj bikóz chí uâz sík]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_6sq9s7p",
+    "word": "We saw elephants in the Amazon, and it was unforgettable.",
+    "translation": "A gente viu elefantes na Amazônia, e foi inesquecível.",
+    "syllables": [
+      "We",
+      "saw",
+      "elephants",
+      "in",
+      "the",
+      "Amazon,",
+      "and",
+      "it",
+      "was",
+      "unforgettable."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː sɔː ˈɛləfənts ɪn ðiː ˈæməzɑːn ænd ɪt wəz ˌʌnfərˈɡɛtəbl̩/",
+    "portuguesePhonetic": "[uí só élefants in dhi émazan énd ít uâz anforguétabou]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_5fr4wrw",
+    "word": "The poster fell off the ceiling because the tape was old.",
+    "translation": "O pôster caiu do teto porque a fita estava velha.",
+    "syllables": [
+      "The",
+      "poster",
+      "fell",
+      "off",
+      "the",
+      "ceiling",
+      "because",
+      "the",
+      "tape",
+      "was",
+      "old."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈpoʊstər fɛl ɔːf ðə ˈsiːlɪŋ bɪˈkɔːz ðə teɪp wəz oʊld/",
+    "portuguesePhonetic": "[dha pôuster fél óf dha sílin bikóz dha têip uâz ôuld]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_0i9f3yy",
+    "word": "He usually rides his bicycle to work, but he takes the bus when it rains, and he arrives late because of the traffic.",
+    "translation": "Ele geralmente vai de bicicleta ao trabalho, mas pega o ônibus quando chove, e chega atrasado por causa do trânsito.",
+    "syllables": [
+      "He",
+      "usually",
+      "rides",
+      "his",
+      "bicycle",
+      "to",
+      "work,",
+      "but",
+      "he",
+      "takes",
+      "the",
+      "bus",
+      "when",
+      "it",
+      "rains,",
+      "and",
+      "he",
+      "arrives",
+      "late",
+      "because",
+      "of",
+      "the",
+      "traffic."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ˈjuːʒuəli raɪdz hɪz ˈbaɪsɪkl̩ tə wɜːrk bʌt hiː teɪks ðə bʌs wɛn ɪt reɪnz ænd hiː əˈraɪvz leɪt bɪˈkɔːz əv ðə ˈtræfɪk/",
+    "portuguesePhonetic": "[rrí iújuali ráidz rríz báisikou tu uârk bât rrí têiks dha bâs uén ít rêinz énd rrí aráivz lêit bikóz ov dha tréfik]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_wu3kkpm",
+    "word": "Where are the eggs? / In the fridge.",
+    "translation": "Onde estão os ovos? / Na geladeira.",
+    "syllables": [
+      "Where",
+      "are",
+      "the",
+      "eggs?",
+      "/",
+      "In",
+      "the",
+      "fridge."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɑːr ðiː ɛɡz · ɪn ðə frɪdʒ/",
+    "portuguesePhonetic": "[uér ár dhi égz · in dha frídj]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_st4f6lw",
+    "word": "Where's the meeting? / At the reception desk.",
+    "translation": "Onde é a reunião? / Na recepção.",
+    "syllables": [
+      "Where's",
+      "the",
+      "meeting?",
+      "/",
+      "At",
+      "the",
+      "reception",
+      "desk."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈmiːtɪŋ · æt ðə rɪˈsɛpʃn̩ dɛsk/",
+    "portuguesePhonetic": "[uérz dha mítin · ét dha risépchan désk]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_k43pz4a",
+    "word": "Where do you work? / On the fifth floor.",
+    "translation": "Onde você trabalha? / No quinto andar.",
+    "syllables": [
+      "Where",
+      "do",
+      "you",
+      "work?",
+      "/",
+      "On",
+      "the",
+      "fifth",
+      "floor."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr duː juː wɜːrk · ɑːn ðə fɪfθ flɔːr/",
+    "portuguesePhonetic": "[uér dú iú uârk · ón dha fífth flór]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_3lip6xt",
+    "word": "Where are my keys? / In the drawer.",
+    "translation": "Onde estão minhas chaves? / Na gaveta.",
+    "syllables": [
+      "Where",
+      "are",
+      "my",
+      "keys?",
+      "/",
+      "In",
+      "the",
+      "drawer."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɑːr maɪ kiːz · ɪn ðə drɔːr/",
+    "portuguesePhonetic": "[uér ár mái kíz · in dha drór]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_417fcyq",
+    "word": "Where's the medicine? / In the closet.",
+    "translation": "Onde está o remédio? / No armário.",
+    "syllables": [
+      "Where's",
+      "the",
+      "medicine?",
+      "/",
+      "In",
+      "the",
+      "closet."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈmɛdɪsɪn · ɪn ðə ˈklɑːzɪt/",
+    "portuguesePhonetic": "[uérz dha médisin · in dha klázit]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_luol1gf",
+    "word": "Where did you meet? / At a wedding.",
+    "translation": "Onde vocês se conheceram? / Num casamento.",
+    "syllables": [
+      "Where",
+      "did",
+      "you",
+      "meet?",
+      "/",
+      "At",
+      "a",
+      "wedding."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr dɪd juː miːt · æt ə ˈwɛdɪŋ/",
+    "portuguesePhonetic": "[uér díd iú mít · ét a uédin]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_q8w60xb",
+    "word": "Where's the dressing room? / On the second floor.",
+    "translation": "Onde fica o provador? / No segundo andar.",
+    "syllables": [
+      "Where's",
+      "the",
+      "dressing",
+      "room?",
+      "/",
+      "On",
+      "the",
+      "second",
+      "floor."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈdrɛsɪŋ ruːm · ɑːn ðə ˈsɛkənd flɔːr/",
+    "portuguesePhonetic": "[uérz dha drésin rúm · ón dha sékand flór]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_o1uly2g",
+    "word": "Where's the pharmacy? / At the corner.",
+    "translation": "Onde fica a farmácia? / Na esquina.",
+    "syllables": [
+      "Where's",
+      "the",
+      "pharmacy?",
+      "/",
+      "At",
+      "the",
+      "corner."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈfɑːrməsi · æt ðə ˈkɔːrnər/",
+    "portuguesePhonetic": "[uérz dha fármasi · ét dha kórner]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_j9srny0",
+    "word": "How did you get here? / In a taxi.",
+    "translation": "Como você chegou aqui? / Num táxi.",
+    "syllables": [
+      "How",
+      "did",
+      "you",
+      "get",
+      "here?",
+      "/",
+      "In",
+      "a",
+      "taxi."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ dɪd juː ɡɛt hɪr · ɪn ə ˈtæksi/",
+    "portuguesePhonetic": "[rráu díd iú guét rrír · in a téksi]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_4xseha4",
+    "word": "Where did you see it? / On the news.",
+    "translation": "Onde você viu isso? / No noticiário.",
+    "syllables": [
+      "Where",
+      "did",
+      "you",
+      "see",
+      "it?",
+      "/",
+      "On",
+      "the",
+      "news."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr dɪd juː siː ɪt · ɑːn ðə nuːz/",
+    "portuguesePhonetic": "[uér díd iú sí ít · ón dha niúz]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_x5crt87",
+    "word": "Where's your office? / At the end of the hallway.",
+    "translation": "Onde fica seu escritório? / No fim do corredor.",
+    "syllables": [
+      "Where's",
+      "your",
+      "office?",
+      "/",
+      "At",
+      "the",
+      "end",
+      "of",
+      "the",
+      "hallway."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz jɔːr ˈɔːfɪs · æt ðiː ɛnd əv ðə ˈhɔːlweɪ/",
+    "portuguesePhonetic": "[uérz iór ófis · ét dhi énd ov dha rrólueí]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_abrjx64",
+    "word": "Where are you staying? / In France.",
+    "translation": "Onde você vai ficar? / Na França.",
+    "syllables": [
+      "Where",
+      "are",
+      "you",
+      "staying?",
+      "/",
+      "In",
+      "France."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɑːr juː ˈsteɪɪŋ · ɪn fræns/",
+    "portuguesePhonetic": "[uér ár iú stêin · in fréns]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_2xm4q03",
+    "word": "Where's the towel? / In the closet.",
+    "translation": "Onde está a toalha? / No armário.",
+    "syllables": [
+      "Where's",
+      "the",
+      "towel?",
+      "/",
+      "In",
+      "the",
+      "closet."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈtaʊəl · ɪn ðə ˈklɑːzɪt/",
+    "portuguesePhonetic": "[uérz dha táuel · in dha klázit]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_53l08sv",
+    "word": "How does he get to work? / On a bicycle.",
+    "translation": "Como ele vai trabalhar? / De bicicleta.",
+    "syllables": [
+      "How",
+      "does",
+      "he",
+      "get",
+      "to",
+      "work?",
+      "/",
+      "On",
+      "a",
+      "bicycle."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ dʌz hiː ɡɛt tə wɜːrk · ɑːn ə ˈbaɪsɪkl̩/",
+    "portuguesePhonetic": "[rráu dâz rrí guét tu uârk · ón a báisikou]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_z1p60oi",
+    "word": "Where did you read that? / In a magazine.",
+    "translation": "Onde você leu isso? / Numa revista.",
+    "syllables": [
+      "Where",
+      "did",
+      "you",
+      "read",
+      "that?",
+      "/",
+      "In",
+      "a",
+      "magazine."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr dɪd juː riːd ðæt · ɪn ə ˌmæɡəˈziːn/",
+    "portuguesePhonetic": "[uér díd iú ríd dhét · in a magazín]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_sjxns21",
+    "word": "Where were you? / At the top of the mountain.",
+    "translation": "Onde você estava? / No topo da montanha.",
+    "syllables": [
+      "Where",
+      "were",
+      "you?",
+      "/",
+      "At",
+      "the",
+      "top",
+      "of",
+      "the",
+      "mountain."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr wɜːr juː · æt ðə tɑːp əv ðə ˈmaʊntn̩/",
+    "portuguesePhonetic": "[uér uâr iú · ét dha táp ov dha máuntan]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_1n7vt1w",
+    "word": "Is she at college? / Yes, she is.",
+    "translation": "Ela está na faculdade? / Sim, está.",
+    "syllables": [
+      "Is",
+      "she",
+      "at",
+      "college?",
+      "/",
+      "Yes,",
+      "she",
+      "is."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ʃiː æt ˈkɑːlɪdʒ · jɛs ʃiː ɪz/",
+    "portuguesePhonetic": "[iz chí ét kálidj · iés chí iz]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_c1vvqm6",
+    "word": "What's on the ceiling? / A spider.",
+    "translation": "O que tem no teto? / Uma aranha.",
+    "syllables": [
+      "What's",
+      "on",
+      "the",
+      "ceiling?",
+      "/",
+      "A",
+      "spider."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts ɑːn ðə ˈsiːlɪŋ · ə ˈspaɪdər/",
+    "portuguesePhonetic": "[uâts ón dha sílin · a spáider]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_ie6yx3x",
+    "word": "Do you live on the ground floor? / Yes, I do.",
+    "translation": "Você mora no térreo? / Sim, moro.",
+    "syllables": [
+      "Do",
+      "you",
+      "live",
+      "on",
+      "the",
+      "ground",
+      "floor?",
+      "/",
+      "Yes,",
+      "I",
+      "do."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː lɪv ɑːn ðə ɡraʊnd flɔːr · jɛs aɪ duː/",
+    "portuguesePhonetic": "[dú iú lív ón dha gráund flór · iés ái dú]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_32snwm7",
+    "word": "Where did you travel? / On a ship.",
+    "translation": "Como você viajou? / De navio.",
+    "syllables": [
+      "Where",
+      "did",
+      "you",
+      "travel?",
+      "/",
+      "On",
+      "a",
+      "ship."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr dɪd juː ˈtrævl̩ · ɑːn ə ʃɪp/",
+    "portuguesePhonetic": "[uér díd iú trévol · ón a chíp]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_jdbriy1",
+    "word": "Where are you tonight? / At a concert.",
+    "translation": "Onde você está hoje à noite? / Num show.",
+    "syllables": [
+      "Where",
+      "are",
+      "you",
+      "tonight?",
+      "/",
+      "At",
+      "a",
+      "concert."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ɑːr juː təˈnaɪt · æt ə ˈkɑːnsərt/",
+    "portuguesePhonetic": "[uér ár iú tunáit · ét a kánsert]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_xb0hx4y",
+    "word": "Where's the old photo? / At the bottom of the box.",
+    "translation": "Onde está a foto antiga? / No fundo da caixa.",
+    "syllables": [
+      "Where's",
+      "the",
+      "old",
+      "photo?",
+      "/",
+      "At",
+      "the",
+      "bottom",
+      "of",
+      "the",
+      "box."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðiː oʊld ˈfoʊtoʊ · æt ðə ˈbɑːtəm əv ðə bɑːks/",
+    "portuguesePhonetic": "[uérz dhi ôuld fôutou · ét dha bátam ov dha báks]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_mbsm4js",
+    "word": "Did you see monkeys? / Yes, in the Amazon.",
+    "translation": "Você viu macacos? / Sim, na Amazônia.",
+    "syllables": [
+      "Did",
+      "you",
+      "see",
+      "monkeys?",
+      "/",
+      "Yes,",
+      "in",
+      "the",
+      "Amazon."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dɪd juː siː ˈmʌŋkiz · jɛs ɪn ðiː ˈæməzɑːn/",
+    "portuguesePhonetic": "[díd iú sí mânkiz · iés in dhi émazan]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_b4iiho1",
+    "word": "What's on the wall? / A painting.",
+    "translation": "O que tem na parede? / Um quadro.",
+    "syllables": [
+      "What's",
+      "on",
+      "the",
+      "wall?",
+      "/",
+      "A",
+      "painting."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts ɑːn ðə wɔːl · ə ˈpeɪntɪŋ/",
+    "portuguesePhonetic": "[uâts ón dha uól · a pêintin]"
+  },
+  {
+    "id": "lesson_12_grammar_a1_id_ctzpm55",
+    "word": "Did you catch any fish? / Yes, in a lake.",
+    "translation": "Você pescou algo? / Sim, num lago.",
+    "syllables": [
+      "Did",
+      "you",
+      "catch",
+      "any",
+      "fish?",
+      "/",
+      "Yes,",
+      "in",
+      "a",
+      "lake."
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dɪd juː kætʃ ˈɛni fɪʃ · jɛs ɪn ə leɪk/",
+    "portuguesePhonetic": "[díd iú kétch éni fích · iés in a lêik]"
+  }
+]

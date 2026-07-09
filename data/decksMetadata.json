@@ -462,5 +462,45 @@
     "cardCount": 100,
     "en": 0,
     "es": 100
+  },
+  "lesson_12_grammar_a1": {
+    "cardCount": 100,
+    "en": 100,
+    "es": 0
+  },
+  "leccion_12_gramatica_a1_s": {
+    "cardCount": 100,
+    "en": 0,
+    "es": 100
+  },
+  "lesson_13_grammar_a1": {
+    "cardCount": 100,
+    "en": 100,
+    "es": 0
+  },
+  "leccion_13_gramatica_a1_s": {
+    "cardCount": 100,
+    "en": 0,
+    "es": 100
+  },
+  "lesson_14_grammar_a1": {
+    "cardCount": 100,
+    "en": 100,
+    "es": 0
+  },
+  "leccion_14_gramatica_a1_s": {
+    "cardCount": 100,
+    "en": 0,
+    "es": 100
+  },
+  "lesson_15_grammar_a1": {
+    "cardCount": 100,
+    "en": 100,
+    "es": 0
+  },
+  "leccion_15_gramatica_a1_s": {
+    "cardCount": 100,
+    "en": 0,
+    "es": 100
   }
 }
