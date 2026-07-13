@@ -1,0 +1,1765 @@
+[
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_imkpqly",
+    "word": "cabeza",
+    "translation": "cabeça",
+    "syllables": [
+      "cabeza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kaˈβeθa/",
+    "portuguesePhonetic": "[kabétha]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_m3lu674",
+    "word": "ojos",
+    "translation": "olhos",
+    "syllables": [
+      "ojos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈoxos/",
+    "portuguesePhonetic": "[órros]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_5m8jgqh",
+    "word": "orejas",
+    "translation": "orelhas",
+    "syllables": [
+      "orejas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/oˈɾexas/",
+    "portuguesePhonetic": "[orérras]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_e8yxsqh",
+    "word": "nariz",
+    "translation": "nariz",
+    "syllables": [
+      "nariz"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/naˈɾiθ/",
+    "portuguesePhonetic": "[narít]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ki84umy",
+    "word": "boca",
+    "translation": "boca",
+    "syllables": [
+      "boca"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈboka/",
+    "portuguesePhonetic": "[bóka]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_828qm7h",
+    "word": "labios",
+    "translation": "lábios",
+    "syllables": [
+      "labios"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈlaβjos/",
+    "portuguesePhonetic": "[lábios]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_jvdt4jb",
+    "word": "diente",
+    "translation": "dente",
+    "syllables": [
+      "diente"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdjente/",
+    "portuguesePhonetic": "[diénte]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_biafrbj",
+    "word": "dientes",
+    "translation": "dentes",
+    "syllables": [
+      "dientes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdjentes/",
+    "portuguesePhonetic": "[diéntes]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_a9q6k2s",
+    "word": "lengua",
+    "translation": "língua",
+    "syllables": [
+      "lengua"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈleŋɡwa/",
+    "portuguesePhonetic": "[léngua]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_volw1y7",
+    "word": "cuello",
+    "translation": "pescoço",
+    "syllables": [
+      "cuello"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkweʎo/",
+    "portuguesePhonetic": "[kuélho]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_29fl6db",
+    "word": "hombro",
+    "translation": "ombro",
+    "syllables": [
+      "hombro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈombɾo/",
+    "portuguesePhonetic": "[ómbro]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_l3syb3d",
+    "word": "brazo",
+    "translation": "braço",
+    "syllables": [
+      "brazo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbɾaθo/",
+    "portuguesePhonetic": "[brátho]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_cpbeufm",
+    "word": "manos",
+    "translation": "mãos",
+    "syllables": [
+      "manos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈmanos/",
+    "portuguesePhonetic": "[mános]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ecas804",
+    "word": "dedos",
+    "translation": "dedos das mãos",
+    "syllables": [
+      "dedos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdeðos/",
+    "portuguesePhonetic": "[dédos]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_27myg2b",
+    "word": "pecho",
+    "translation": "peito",
+    "syllables": [
+      "pecho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpetʃo/",
+    "portuguesePhonetic": "[pétcho]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_erlmnpi",
+    "word": "estómago",
+    "translation": "estômago/barriga",
+    "syllables": [
+      "estómago"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtomaɣo/",
+    "portuguesePhonetic": "[estómago]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_fm6tdiw",
+    "word": "espalda",
+    "translation": "costas",
+    "syllables": [
+      "espalda"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈpalda/",
+    "portuguesePhonetic": "[espálda]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_r1xzlhh",
+    "word": "piernas",
+    "translation": "pernas",
+    "syllables": [
+      "piernas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpjeɾnas/",
+    "portuguesePhonetic": "[piérnas]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_mfpmak1",
+    "word": "rodilla",
+    "translation": "joelho",
+    "syllables": [
+      "rodilla"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/roˈðiʎa/",
+    "portuguesePhonetic": "[rodílha]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_0l5edxu",
+    "word": "pie",
+    "translation": "pé",
+    "syllables": [
+      "pie"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pje/",
+    "portuguesePhonetic": "[pié]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_qfmv228",
+    "word": "pies",
+    "translation": "pés",
+    "syllables": [
+      "pies"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pjes/",
+    "portuguesePhonetic": "[piés]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ihd817p",
+    "word": "dedos de los pies",
+    "translation": "dedos dos pés",
+    "syllables": [
+      "dedos",
+      "de",
+      "los",
+      "pies"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdeðos de los pjes/",
+    "portuguesePhonetic": "[dédos de los piés]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_tkd3le5",
+    "word": "Me duele la cabeza.",
+    "translation": "Minha cabeça dói.",
+    "syllables": [
+      "Me",
+      "duele",
+      "la",
+      "cabeza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈdwele la kaˈβeθa/",
+    "portuguesePhonetic": "[me duéle la kabétha]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_xa1qrpo",
+    "word": "Tiene los ojos azules.",
+    "translation": "Ela tem olhos azuis.",
+    "syllables": [
+      "Tiene",
+      "los",
+      "ojos",
+      "azules"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene los ˈoxos aˈθules/",
+    "portuguesePhonetic": "[tiéne los órros athúles]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_pmquidr",
+    "word": "Me duele la garganta.",
+    "translation": "Minha garganta está doendo.",
+    "syllables": [
+      "Me",
+      "duele",
+      "la",
+      "garganta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈdwele la ɣaɾˈɣanta/",
+    "portuguesePhonetic": "[me duéle la gargánta]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_bo5pril",
+    "word": "Me duele el estómago.",
+    "translation": "Minha barriga dói.",
+    "syllables": [
+      "Me",
+      "duele",
+      "el",
+      "estómago"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈdwele el esˈtomaɣo/",
+    "portuguesePhonetic": "[me duéle el estómago]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_f5t5qkg",
+    "word": "El médico me miró las orejas.",
+    "translation": "O médico examinou minhas orelhas.",
+    "syllables": [
+      "El",
+      "médico",
+      "me",
+      "miró",
+      "las",
+      "orejas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈmeðiko me miˈɾo las oˈɾexas/",
+    "portuguesePhonetic": "[el médiko me miró las orérras]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_cyvp4qd",
+    "word": "Tengo dolor en la espalda.",
+    "translation": "Eu tengo uma dor nas costas.",
+    "syllables": [
+      "Tengo",
+      "dolor",
+      "en",
+      "la",
+      "espalda"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋɡo doˈloɾ en la esˈpalda/",
+    "portuguesePhonetic": "[téngo dolór en la espálda]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_8mxcovc",
+    "word": "Tengo la rodilla hinchada.",
+    "translation": "Meu joelho está inchado.",
+    "syllables": [
+      "Tengo",
+      "la",
+      "rodilla",
+      "hinchada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋɡo la roˈðiʎa inˈtʃaða/",
+    "portuguesePhonetic": "[téngo la rodílha intcháda]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_eqlll7n",
+    "word": "Me hice daño en el hombro en el gimnasio.",
+    "translation": "Eu machuquei meu ombro na academia.",
+    "syllables": [
+      "Me",
+      "hice",
+      "daño",
+      "en",
+      "el",
+      "hombro",
+      "en",
+      "el",
+      "gimnasio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈiθe ˈdaɲo en el ˈombɾo en el ximˈnasjo/",
+    "portuguesePhonetic": "[me íthe dánho en el ómbro en el rrimnásio]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ifib8jf",
+    "word": "Me cepillo los dientes dos veces al día.",
+    "translation": "Eu escovo os dentes duas vezes por dia.",
+    "syllables": [
+      "Me",
+      "cepillo",
+      "los",
+      "dientes",
+      "dos",
+      "veces",
+      "al",
+      "día"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me θeˈpiʎo los ˈdjentes dos ˈbeθes al ˈdia/",
+    "portuguesePhonetic": "[me thepílho los diéntes dos bétches al día]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_gvqj9fm",
+    "word": "Lávate las manos antes de cenar.",
+    "translation": "Lave as mãos antes do jantar.",
+    "syllables": [
+      "Lávate",
+      "las",
+      "manos",
+      "antes",
+      "de",
+      "cenar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈlaβate las ˈmanos ˈantes de θeˈnaɾ/",
+    "portuguesePhonetic": "[lábate las mános ántes de thenár]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_l9g25pt",
+    "word": "Me pongo crema en las piernas.",
+    "translation": "Eu passo hidratante nas pernas.",
+    "syllables": [
+      "Me",
+      "pongo",
+      "crema",
+      "en",
+      "las",
+      "piernas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈponɡo ˈkɾema en las ˈpjeɾnas/",
+    "portuguesePhonetic": "[me póngo kréma en las piérnas]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ppo95jb",
+    "word": "Estiro los brazos antes de correr.",
+    "translation": "Eu alongo os braços antes de correr.",
+    "syllables": [
+      "Estiro",
+      "los",
+      "brazos",
+      "antes",
+      "de",
+      "correr"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtiɾo los ˈbɾaθos ˈantes de koˈreɾ/",
+    "portuguesePhonetic": "[estíro los bráthos ántes de korrér]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ji67x3z",
+    "word": "Tengo las piernas cansadas después de entrenar.",
+    "translation": "Minhas pernas estão cansadas depois do treino.",
+    "syllables": [
+      "Tengo",
+      "las",
+      "piernas",
+      "cansadas",
+      "después",
+      "de",
+      "entrenar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋɡo las ˈpjeɾnas kanˈsaðas desˈpwes de entɾeˈnaɾ/",
+    "portuguesePhonetic": "[téngo las piérnas kansádas después de entrenár]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_dtyhybl",
+    "word": "Estos zapatos son demasiado pequeños para mis pies.",
+    "translation": "Esses sapatos são pequenos demais para meus pés.",
+    "syllables": [
+      "Estos",
+      "zapatos",
+      "son",
+      "demasiado",
+      "pequeños",
+      "para",
+      "mis",
+      "pies"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈestos θaˈpatos son demaˈsjaðos peˈkeɲos ˈpaɾa mis pjes/",
+    "portuguesePhonetic": "[éstos thapátos son demasiádos pekénhos pára mis piés]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_j01rdpz",
+    "word": "Esta camisa me queda bien de pecho.",
+    "translation": "Essa camisa serve bem no meu peito.",
+    "syllables": [
+      "Esta",
+      "camisa",
+      "me",
+      "queda",
+      "bien",
+      "de",
+      "pecho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈesta kaˈmisa me ˈkeða bjen de ˈpetʃo/",
+    "portuguesePhonetic": "[ésta kamísa me kéda bién de pétcho]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_cgzrnkx",
+    "word": "Se me metió arena entre los dedos de los pies.",
+    "translation": "Ficou areia entre os meus dedos dos pés.",
+    "syllables": [
+      "Se",
+      "me",
+      "metió",
+      "arena",
+      "entre",
+      "los",
+      "dedos",
+      "de",
+      "los",
+      "pies"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se me meˈtjo aˈɾena ˈentɾe los ˈdeðos de los pjes/",
+    "portuguesePhonetic": "[se me metió aréna éntre los dédos de los piés]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_qhme0ik",
+    "word": "Caminamos durante horas, y ahora me duelen las piernas.",
+    "translation": "A gente caminhou por horas, e agora minhas pernas doem.",
+    "syllables": [
+      "Caminamos",
+      "durante",
+      "horas",
+      "y",
+      "ahora",
+      "me",
+      "duelen",
+      "las",
+      "piernas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kamiˈnamos duˈɾante ˈoɾas i aˈoɾa me ˈdwelen las ˈpjeɾnas/",
+    "portuguesePhonetic": "[kaminámos duránte óras i aóra me duélen las piérnas]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_if58f1y",
+    "word": "Tengo las manos frías.",
+    "translation": "Minhas mãos estão frias.",
+    "syllables": [
+      "Tengo",
+      "las",
+      "manos",
+      "frías"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋɡo las ˈmanos ˈfɾias/",
+    "portuguesePhonetic": "[téngo las mános frías]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_yajh4gx",
+    "word": "Tápate el cuello, hace viento.",
+    "translation": "Cubra o pescoço, está ventando.",
+    "syllables": [
+      "Tápate",
+      "el",
+      "cuello",
+      "hace",
+      "viento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtapate el ˈkweʎo ˈaθe ˈbjento/",
+    "portuguesePhonetic": "[tápate el kuélho áthe biénto]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_emtmw47",
+    "word": "Me duelen los brazos de limpiar la casa.",
+    "translation": "Meus braços doem de limpiar a casa.",
+    "syllables": [
+      "Me",
+      "duelen",
+      "los",
+      "brazos",
+      "de",
+      "limpiar",
+      "la",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈdwelen los ˈbɾaθos de limˈpjaɾ la ˈkasa/",
+    "portuguesePhonetic": "[me duélen los bráthos de limpiár la kása]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_7pmpyfp",
+    "word": "Tengo dolor de cabeza de mirar la pantalla.",
+    "translation": "Eu estou com dor de cabeça de ficar olhando para a tela.",
+    "syllables": [
+      "Tengo",
+      "dolor",
+      "de",
+      "cabeza",
+      "de",
+      "mirar",
+      "la",
+      "pantalla"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋɡo doˈloɾ de kaˈβeθa de miˈɾaɾ la panˈtaʎa/",
+    "portuguesePhonetic": "[téngo dolór de kabétha de mirár la pantálha]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_e0t6y00",
+    "word": "Estoy tumbado boca arriba en el sofá.",
+    "translation": "Eu estou deitado de costas no sofá.",
+    "syllables": [
+      "Estoy",
+      "tumbado",
+      "boca",
+      "arriba",
+      "en",
+      "el",
+      "sofá"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtoi tumˈbaðo ˈboka aˈriβa en el soˈfa/",
+    "portuguesePhonetic": "[estôi tumbádo bóka arríba en el sofá]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_jfkd5dr",
+    "word": "Levanta la mano si sabes la respuesta.",
+    "translation": "Levante a mão se souber a resposta.",
+    "syllables": [
+      "Levanta",
+      "la",
+      "mano",
+      "si",
+      "sabes",
+      "la",
+      "respuesta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/leˈβanta la ˈmano si ˈsaβes la resˈpwesta/",
+    "portuguesePhonetic": "[lebánta la máno si sábes la respuésta]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_2fj1xs6",
+    "word": "Sonrió y enseñó sus dientes blancos.",
+    "translation": "Ela sorriu e mostrou os dentes brancos.",
+    "syllables": [
+      "Sonrió",
+      "y",
+      "enseñó",
+      "sus",
+      "dientes",
+      "blancos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sonˈɾjo i enseˈɲo sus ˈdjentes ˈblaŋkos/",
+    "portuguesePhonetic": "[sonrió i ensenhó sus diéntes blánkos]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ly02rvk",
+    "word": "Me duele la espalda de estar tanto tiempo sentado en el avión.",
+    "translation": "Minhas costas doem de ficar sentado tanto tempo no avião.",
+    "syllables": [
+      "Me",
+      "duele",
+      "la",
+      "espalda",
+      "de",
+      "estar",
+      "tanto",
+      "tiempo",
+      "sentado",
+      "en",
+      "el",
+      "avión"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈdwele la esˈpalda de esˈtaɾ ˈtanto ˈtjempo senˈtaðo en el aˈβjon/",
+    "portuguesePhonetic": "[me duéle la espálda de estár tánto tiémpo sentádo en el abión]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_rbh0ty6",
+    "word": "Pon los dedos aquí para la huella dactilar.",
+    "translation": "Coloque os dedos aqui para a digital.",
+    "syllables": [
+      "Pon",
+      "los",
+      "dedos",
+      "aquí",
+      "para",
+      "la",
+      "huella",
+      "dactilar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pon los ˈdeðos aˈki ˈpaɾa la ˈweʎa daktiˈlaɾ/",
+    "portuguesePhonetic": "[pon los dédos akí pára la uélha daktilár]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_lep4b0d",
+    "word": "Me hice daño en el dedo cocinando.",
+    "translation": "Eu machuquei o dedo enquanto cozinhava.",
+    "syllables": [
+      "Me",
+      "hice",
+      "daño",
+      "en",
+      "el",
+      "dedo",
+      "cocinando"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈiθe ˈdaɲo en el ˈdeðo koθiˈnando/",
+    "portuguesePhonetic": "[me íthe dánho en el dédo kothinándo]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_n7gnmad",
+    "word": "Tiene una cicatriz en el brazo.",
+    "translation": "Ela tem uma cicatriz no braço.",
+    "syllables": [
+      "Tiene",
+      "una",
+      "cicatriz",
+      "en",
+      "el",
+      "brazo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene una θikaˈtɾiθ en el ˈbɾaθo/",
+    "portuguesePhonetic": "[tiéne úna thikatríth en el brátho]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_0s6imxy",
+    "word": "Me duele la cabeza.",
+    "translation": "Minha cabeça dói.",
+    "syllables": [
+      "Me",
+      "duele",
+      "la",
+      "cabeza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈdwele la kaˈβeθa/",
+    "portuguesePhonetic": "[me duéle la kabétha]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ovniex4",
+    "word": "Tiene las manos grandes.",
+    "translation": "Ele tem mãos grandes.",
+    "syllables": [
+      "Tiene",
+      "las",
+      "manos",
+      "grandes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene las ˈmanos ˈɡɾandes/",
+    "portuguesePhonetic": "[tiéne las mános grándes]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_odsuixn",
+    "word": "Se hizo daño en la rodilla.",
+    "translation": "Ela machucou o joelho.",
+    "syllables": [
+      "Se",
+      "hizo",
+      "daño",
+      "en",
+      "la",
+      "rodilla"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se ˈiθo ˈdaɲo en la roˈðiʎa/",
+    "portuguesePhonetic": "[se ítho dánho en la rodílha]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_9niynqj",
+    "word": "No siento los dedos de los pies.",
+    "translation": "Eu não sinto os dedos dos pés.",
+    "syllables": [
+      "No",
+      "siento",
+      "los",
+      "dedos",
+      "de",
+      "los",
+      "pies"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈsjento los ˈdeðos de los pjes/",
+    "portuguesePhonetic": "[no siénto los dédos de los piés]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_uilwwlq",
+    "word": "¿Te duele la espalda?",
+    "translation": "Suas costas estão doendo?",
+    "syllables": [
+      "Te",
+      "duele",
+      "la",
+      "espalda"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te ˈdwele la esˈpalda/",
+    "portuguesePhonetic": "[te duéle la espálda]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_0vzww66",
+    "word": "No tengo bien el estómago.",
+    "translation": "Minha barriga não está bem.",
+    "syllables": [
+      "No",
+      "tengo",
+      "bien",
+      "el",
+      "estómago"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈteŋɡo bjen el esˈtomaɣo/",
+    "portuguesePhonetic": "[no téngo bién el estómago]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_0vu4wn9",
+    "word": "Me rompí el brazo el año pasado.",
+    "translation": "Eu quebrei o braço ano pasado.",
+    "syllables": [
+      "Me",
+      "rompí",
+      "el",
+      "brazo",
+      "el",
+      "año",
+      "pasado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me romˈpi el ˈbɾaθo el ˈaɲo paˈsaðo/",
+    "portuguesePhonetic": "[me rrompí el brátho el ánho pasádo]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ok42vbl",
+    "word": "No nos hicimos daño en las piernas.",
+    "translation": "A gente não machucou as pernas.",
+    "syllables": [
+      "No",
+      "nos",
+      "hicimos",
+      "daño",
+      "en",
+      "las",
+      "piernas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no nos iˈθimos ˈdaɲo en las ˈpjeɾnas/",
+    "portuguesePhonetic": "[no nos ithímos dánho en las piérnas]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_kr1omj8",
+    "word": "¿Todavía no te ha mejorado el hombro?",
+    "translation": "Seu ombro ainda não mejorou?",
+    "syllables": [
+      "Todavía",
+      "no",
+      "te",
+      "ha",
+      "mejorado",
+      "el",
+      "hombro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/toðaˈβia no te a mexoˈɾaðo el ˈombɾo/",
+    "portuguesePhonetic": "[todabía no te a merroládo el ómbro]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_r1zopie",
+    "word": "¿Por qué te duele el cuello?",
+    "translation": "Por que seu pescoço está doendo?",
+    "syllables": [
+      "Por",
+      "qué",
+      "te",
+      "duele",
+      "el",
+      "cuello"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke te ˈdwele el ˈkweʎo/",
+    "portuguesePhonetic": "[por ké te duéle el kuélho]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_y2yflq1",
+    "word": "¿No te duelen los pies con esos zapatos?",
+    "translation": "Seus pés não doem nesses sapatos?",
+    "syllables": [
+      "No",
+      "te",
+      "duelen",
+      "los",
+      "pies",
+      "con",
+      "esos",
+      "zapatos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no te ˈdwelen los pjes kon ˈesos θaˈpatos/",
+    "portuguesePhonetic": "[no te duélen los piés kon ésos thapátos]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ot5jg7i",
+    "word": "¿No te miró los dientes el dentista?",
+    "translation": "O dentista não examinou seus dentes?",
+    "syllables": [
+      "No",
+      "te",
+      "miró",
+      "los",
+      "dientes",
+      "el",
+      "dentista"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no te miˈɾo los ˈdjentes el denˈtista/",
+    "portuguesePhonetic": "[no te miró los diéntes el dentísta]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_zutjz6e",
+    "word": "Me duele el brazo porque me caí ayer.",
+    "translation": "Meu braço dói porque eu caí ontem.",
+    "syllables": [
+      "Me",
+      "duele",
+      "el",
+      "brazo",
+      "porque",
+      "me",
+      "caí",
+      "ayer"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈdwele el ˈbɾaθo ˈpoɾke me kaˈi aˈʝeɾ/",
+    "portuguesePhonetic": "[me duéle el brátho pórke me kaí aiér]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_1kvnlh4",
+    "word": "Tenía dolor de cabeza cuando me desperté.",
+    "translation": "Eu estava com dor de cabeça quando acordei.",
+    "syllables": [
+      "Tenía",
+      "dolor",
+      "de",
+      "cabeza",
+      "cuando",
+      "me",
+      "desperté"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈnia doˈloɾ de kaˈβeθa ˈkwando me despeɾˈte/",
+    "portuguesePhonetic": "[tenía dolór de kabétha kuándo me desperté]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_kodhjxu",
+    "word": "Se torció la rodilla, pero siguió jugando.",
+    "translation": "Ela torceu o joelho, mas continuou jogando.",
+    "syllables": [
+      "Se",
+      "torció",
+      "la",
+      "rodilla",
+      "pero",
+      "siguió",
+      "jugando"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se toɾˈθjo la roˈðiʎa ˈpeɾo siˈɣjo xuˈɣando/",
+    "portuguesePhonetic": "[se torthió la rodílha péro siguió rrugándo]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_xtamfpd",
+    "word": "Me duele la espalda desde que empecé este trabajo.",
+    "translation": "Minhas costas estão doendo desde que comecei esse emprego.",
+    "syllables": [
+      "Me",
+      "duele",
+      "la",
+      "espalda",
+      "desde",
+      "que",
+      "empecé",
+      "este",
+      "trabajo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈdwele la esˈpalda ˈdezðe ke empeˈθe ˈeste tɾaˈβaxo/",
+    "portuguesePhonetic": "[me duéle la espálda désde ke empethé éste trabárro]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_20epiyz",
+    "word": "Nos tapamos el cuello y las manos, porque hacía muchísimo frío fuera.",
+    "translation": "A gente cobriu o pescoço e as mãos, porque estava congelando lá fora.",
+    "syllables": [
+      "Nos",
+      "tapamos",
+      "el",
+      "cuello",
+      "y",
+      "las",
+      "manos",
+      "porque",
+      "hacía",
+      "muchísimo",
+      "frío",
+      "fuera"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos taˈpamos el ˈkweʎo i las ˈmanos ˈpoɾke aˈθia muˈtʃisimo ˈfɾio ˈfweɾa/",
+    "portuguesePhonetic": "[nos tapámos el kuélho i las mános pórke athía mutchísimo frío fuéra]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_zs3xnzd",
+    "word": "El hombro empezó a dolerme la semana pasada, y ahora casi no puedo mover el brazo.",
+    "translation": "Meu ombro começou a doer semana pasada, e agora eu quase não consigo mexer o braço.",
+    "syllables": [
+      "El",
+      "hombro",
+      "empezó",
+      "a",
+      "dolerme",
+      "la",
+      "semana",
+      "pasada",
+      "y",
+      "ahora",
+      "casi",
+      "no",
+      "puedo",
+      "mover",
+      "el",
+      "brazo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈombɾo empeˈθo a doˈleɾme la seˈmana paˈsaða i aˈoɾa ˈkasi no ˈpweðo moˈβeɾ el ˈbɾaθo/",
+    "portuguesePhonetic": "[el ómbro empethó a dolérme la semána pasáda i aóra kási no puédo mobér el brátho]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_3hpl4xh",
+    "word": "Cuando corrí el maratón, me dolían mucho las piernas y los pies, pero no paré.",
+    "translation": "Quando eu corri a maratona, minhas pernas e pés estavam com muita dor, mas eu não parei.",
+    "syllables": [
+      "Cuando",
+      "corrí",
+      "el",
+      "maratón",
+      "me",
+      "dolían",
+      "mucho",
+      "las",
+      "piernas",
+      "y",
+      "los",
+      "pies",
+      "pero",
+      "no",
+      "paré"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwando koˈri el maɾaˈton me doˈlian ˈmutʃo las ˈpjeɾnas i los pjes ˈpeɾo no paˈɾe/",
+    "portuguesePhonetic": "[kuándo korrí el maratón me dolían mútcho las piérnas i los piés péro no paré]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_t051oio",
+    "word": "Me hice daño en el dedo mientras cocinaba, así que tuve que ir al médico.",
+    "translation": "Eu machuquei o dedo enquanto cozinhava, então tive que ir ao médico.",
+    "syllables": [
+      "Me",
+      "hice",
+      "daño",
+      "en",
+      "el",
+      "dedo",
+      "mientras",
+      "cocinaba",
+      "así",
+      "que",
+      "tuve",
+      "que",
+      "ir",
+      "al",
+      "médico"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈiθe ˈdaɲo en el ˈdeðo ˈmjentɾas koθiˈnaβa aˈsi ke ˈtuβe ke iɾ al ˈmeðiko/",
+    "portuguesePhonetic": "[me íthe dánho en el dédo miéntras kothinába así ke túbe ke ir al médiko]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_7guik66",
+    "word": "Tiene un tatuaje en el brazo que se hizo cuando estaba viajando por Tailandia.",
+    "translation": "Ela tem uma tatuagem no braço que fez quando estava viajando na Tailândia.",
+    "syllables": [
+      "Tiene",
+      "un",
+      "tatuaje",
+      "en",
+      "el",
+      "brazo",
+      "que",
+      "se",
+      "hizo",
+      "cuando",
+      "estaba",
+      "viajando",
+      "por",
+      "Tailandia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene un taˈtwaxe en el ˈbɾaθo ke se ˈiθo ˈkwando esˈtaβa bjaˈxando poɾ tailandja/",
+    "portuguesePhonetic": "[tiéne un tatuárre en el brátho ke se ítho kuándo estába biarrándo por tailándia]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_trp45uq",
+    "word": "Me dolía tanto el estómago que no podía comer nada durante dos días.",
+    "translation": "Minha barriga doeu tanto que eu não conseguia comer nada por dois dias.",
+    "syllables": [
+      "Me",
+      "dolía",
+      "tanto",
+      "el",
+      "estómago",
+      "que",
+      "no",
+      "podía",
+      "comer",
+      "nada",
+      "durante",
+      "dos",
+      "días"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me doˈlia ˈtanto el esˈtomaɣo ke no poˈðia koˈmeɾ ˈnaða duˈɾante dos ˈdias/",
+    "portuguesePhonetic": "[me dolía tánto el estómago ke no podía komér náda duránte dos días]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_vhmbotk",
+    "word": "Se hizo daño en la espalda levantando cajas pesadas, y ahora no puede moverse sin dolor.",
+    "translation": "Ele machucou as costas levantando caixas pesadas, e agora não consegue se mexer sem sentir dor.",
+    "syllables": [
+      "Se",
+      "hizo",
+      "daño",
+      "en",
+      "la",
+      "espalda",
+      "levantando",
+      "cajas",
+      "pesadas",
+      "y",
+      "ahora",
+      "no",
+      "puede",
+      "moverse",
+      "sin",
+      "dolor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se ˈiθo ˈdaɲo en la esˈpalda leβanˈtando ˈkaxas peˈsaðas i aˈoɾa no ˈpweðe moˈβeɾse sin doˈloɾ/",
+    "portuguesePhonetic": "[se ítho dánho en la espálda lebantándo kárras pesádas i aóra no puéde mobérse sin dolór]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_j4c1v8e",
+    "word": "El dentista dijo que mis dientes están sanos, aunque no me los cepillo tan a menudo como debería.",
+    "translation": "O dentista disse que meus dentes estão saudáveis, mesmo eu não escovando com a frequência que deveria.",
+    "syllables": [
+      "El",
+      "dentista",
+      "dijo",
+      "que",
+      "mis",
+      "dientes",
+      "están",
+      "sanos",
+      "aunque",
+      "no",
+      "me",
+      "los",
+      "cepillo",
+      "tan",
+      "a",
+      "menudo",
+      "como",
+      "debería"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el denˈtista ˈdixo ke mis ˈdjentes esˈtan ˈsanos ˈawŋke no me los θeˈpiʎo tan a meˈnuðo ˈkomo deβeˈɾia/",
+    "portuguesePhonetic": "[el dentísta dírro ke mis diéntes están sános áunke no me los thepílho tan a menúdo kómo debería]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_aai86y7",
+    "word": "Me duelen los ojos de mirar el móvil todo el día, así que decidí tomarme un descanso.",
+    "translation": "Meus olhos doem de olhar para o celular o dia todo, então decidi fazer uma pausa.",
+    "syllables": [
+      "Me",
+      "duelen",
+      "los",
+      "ojos",
+      "de",
+      "mirar",
+      "el",
+      "móvil",
+      "todo",
+      "el",
+      "día",
+      "así",
+      "que",
+      "decidí",
+      "tomarme",
+      "un",
+      "descanso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈdwelen los ˈoxos de miˈɾaɾ el ˈmoβil ˈtoðo el ˈdia aˈsi ke deθiˈdi toˈmaɾme un desˈkanso/",
+    "portuguesePhonetic": "[me duélen los órros de mirár el móbil tódo el día así ke dethidí tomárme un deskánso]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_0fbrrj2",
+    "word": "¿Te duele la cabeza? / Sí, un poco.",
+    "translation": "Sua cabeça dói? / Sim, um poco.",
+    "syllables": [
+      "Te",
+      "duele",
+      "la",
+      "cabeza",
+      "/",
+      "Sí",
+      "un",
+      "poco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te ˈdwele la kaˈβeθa · si un ˈpoko/",
+    "portuguesePhonetic": "[te duéle la kabétha · sí un póko]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_77hfsgl",
+    "word": "¿De qué color son sus ojos? / Verdes.",
+    "translation": "De que cor são os olhos dela? / Verdes.",
+    "syllables": [
+      "De",
+      "qué",
+      "color",
+      "son",
+      "sus",
+      "ojos",
+      "/",
+      "Verdes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de ke koˈloɾ son sus ˈoxos · ˈbeɾðes/",
+    "portuguesePhonetic": "[de ke kolór son sus órros · bérdes]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_rl5mbcs",
+    "word": "¿Estás bien de la espalda? / La verdad, no mucho.",
+    "translation": "Suas costas estão bem? / Nem tanto.",
+    "syllables": [
+      "Estás",
+      "bien",
+      "de",
+      "la",
+      "espalda",
+      "/",
+      "La",
+      "verdad",
+      "no",
+      "mucho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtas bjen de la esˈpalda · la beɾˈðað no ˈmutʃo/",
+    "portuguesePhonetic": "[estás bién de la espálda · la berdád no mútcho]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ho56dlq",
+    "word": "¿Te hiciste daño en la rodilla? / Sí, en el gimnasio.",
+    "translation": "Você machucou o joelho? / Sim, na academia.",
+    "syllables": [
+      "Te",
+      "hiciste",
+      "daño",
+      "en",
+      "la",
+      "rodilla",
+      "/",
+      "Sí",
+      "en",
+      "el",
+      "gimnasio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te iˈθiste ˈdaɲo en la roˈðiʎa · si en el ximˈnasjo/",
+    "portuguesePhonetic": "[te ithíste dánho en la rodílha · sí en el rrimnásio]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_g5p8g48",
+    "word": "¿Cómo tienes el hombro? / Todavía dolorido.",
+    "translation": "Como está seu ombro? / Ainda dolorido.",
+    "syllables": [
+      "Cómo",
+      "tienes",
+      "el",
+      "hombro",
+      "/",
+      "Todavía",
+      "dolorido"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkomo ˈtjenes el ˈombɾo · toðaˈβia doloˈɾiðo/",
+    "portuguesePhonetic": "[kómo tiénes el ómbro · todabía doloridó]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_ur0c43v",
+    "word": "¿Te duelen los pies? / Sí, mucho.",
+    "translation": "Seus pés doem? / Sim, muito.",
+    "syllables": [
+      "Te",
+      "duelen",
+      "los",
+      "pies",
+      "/",
+      "Sí",
+      "mucho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te ˈdwelen los pjes · si ˈmutʃo/",
+    "portuguesePhonetic": "[te duélen los piés · sí mútcho]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_my1f1y6",
+    "word": "¿Está mejor tu estómago? / Un poco.",
+    "translation": "Sua barriga está melhor? / Um poco.",
+    "syllables": [
+      "Está",
+      "mejor",
+      "tu",
+      "estómago",
+      "/",
+      "Un",
+      "poco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta meˈxoɾ tu esˈtomaɣo · un ˈpoko/",
+    "portuguesePhonetic": "[está merrór tu estómago · un póko]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_hw94q8y",
+    "word": "¿Te has cepillado los dientes? / Sí, esta mañana.",
+    "translation": "Você escovou os dentes? / Sim, hoje de manhã.",
+    "syllables": [
+      "Te",
+      "has",
+      "cepillado",
+      "los",
+      "dientes",
+      "/",
+      "Sí",
+      "esta",
+      "mañana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te as θepiˈʎaðo los ˈdjentes · si ˈesta maˈɲana/",
+    "portuguesePhonetic": "[te as thepilhádo los diéntes · sí ésta manhána]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_lj7i753",
+    "word": "¿Tienes las manos frías? / Heladas.",
+    "translation": "Suas mãos estão frias? / Congelando.",
+    "syllables": [
+      "Tienes",
+      "las",
+      "manos",
+      "frías",
+      "/",
+      "Heladas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes las ˈmanos ˈfɾias · eˈlaðas/",
+    "portuguesePhonetic": "[tiénes las mános frías · eládas]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_h1a86g8",
+    "word": "¿Qué le pasó a tu brazo? / Me caí.",
+    "translation": "O que aconteceu com seu braço? / Eu caí.",
+    "syllables": [
+      "Qué",
+      "le",
+      "pasó",
+      "a",
+      "tu",
+      "brazo",
+      "/",
+      "Me",
+      "caí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke le paˈso a tu ˈbɾaθo · me kaˈi/",
+    "portuguesePhonetic": "[ke le pasó a tu brátho · me kaí]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_xe0s1fd",
+    "word": "¿Te duele el cuello? / Un poquito.",
+    "translation": "Seu pescoço dói? / Um pouquinho.",
+    "syllables": [
+      "Te",
+      "duele",
+      "el",
+      "cuello",
+      "/",
+      "Un",
+      "poquito"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te ˈdwele el ˈkweʎo · un poˈkito/",
+    "portuguesePhonetic": "[te duéle el kuélho · un pokíto]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_qtfamer",
+    "word": "¿Se siente mejor tu pecho? / Mucho mejor.",
+    "translation": "Seu peito está melhor? / Bem mejor.",
+    "syllables": [
+      "Se",
+      "siente",
+      "mejor",
+      "tu",
+      "pecho",
+      "/",
+      "Mucho",
+      "mejor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se ˈsjente meˈxoɾ tu ˈpetʃo · ˈmutʃo meˈxoɾ/",
+    "portuguesePhonetic": "[se siénte merrór tu pétcho · mútcho merrór]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_27fns8v",
+    "word": "¿Cómo tienes las piernas después de correr? / Muy cansadas.",
+    "translation": "Como estão suas pernas depois da corrida? / Muito cansadas.",
+    "syllables": [
+      "Cómo",
+      "tienes",
+      "las",
+      "piernas",
+      "después",
+      "de",
+      "correr",
+      "/",
+      "Muy",
+      "cansadas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkomo ˈtjenes las ˈpjeɾnas desˈpwes de koˈreɾ · mui kanˈsaðas/",
+    "portuguesePhonetic": "[kómo tiénes las piérnas después de korrér · múi kansádas]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_jb1nm1p",
+    "word": "¿Tienes algún problema en los dientes? / Sí, una caries.",
+    "translation": "Você tem algum problema no dente? / Sim, uma cárie.",
+    "syllables": [
+      "Tienes",
+      "algún",
+      "problema",
+      "en",
+      "los",
+      "dientes",
+      "/",
+      "Sí",
+      "una",
+      "caries"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes alˈɣun pɾoˈβlema en los ˈdjentes · si una ˈkaɾjes/",
+    "portuguesePhonetic": "[tiénes algún probléma en los diéntes · sí úna kárias]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_e2ivdm2",
+    "word": "¿Te cortaste el dedo? / Sí, cocinando.",
+    "translation": "Você cortou o dedo? / Sim, cozinhando.",
+    "syllables": [
+      "Te",
+      "cortaste",
+      "el",
+      "dedo",
+      "/",
+      "Sí",
+      "cocinando"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te koɾˈtaste el ˈdeðo · si koθiˈnando/",
+    "portuguesePhonetic": "[te kortáste el dédo · sí kothinándo]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_gimli40",
+    "word": "¿Te moquea la nariz? / Sí, estoy resfriado.",
+    "translation": "Seu nariz está escorrendo? / Sim, estou resfriado.",
+    "syllables": [
+      "Te",
+      "moquea",
+      "la",
+      "nariz",
+      "/",
+      "Sí",
+      "estoy",
+      "resfriado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te moˈkea la naˈɾiθ · si esˈtoi resfɾiˈaðo/",
+    "portuguesePhonetic": "[te mokéa la narít · sí estôi resfriádo]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_nnef9eo",
+    "word": "¿Están bien tus oídos? / Sí, todo bien.",
+    "translation": "Suas orelhas estão bem? / Sim, tudo bem.",
+    "syllables": [
+      "Están",
+      "bien",
+      "tus",
+      "oídos",
+      "/",
+      "Sí",
+      "todo",
+      "bien"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtan bjen tus oˈiðos · si ˈtoðo bjen/",
+    "portuguesePhonetic": "[están bién tus oídos · sí tódo bién]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_tu4abk9",
+    "word": "¿Te hiciste daño en los dedos del pie? / Sí, con la puerta.",
+    "translation": "Você machucou o dedo do pé? / Sim, na porta.",
+    "syllables": [
+      "Te",
+      "hiciste",
+      "daño",
+      "en",
+      "los",
+      "dedos",
+      "del",
+      "pie",
+      "/",
+      "Sí",
+      "con",
+      "la",
+      "puerta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te iˈθiste ˈdaɲo en los ˈdeðos del pje · si kon la ˈpweɾta/",
+    "portuguesePhonetic": "[te ithíste dánho en los dédos del pié · sí kon la puérta]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_c5vo42j",
+    "word": "¿Cómo tienes la cabeza hoy? / Mejor, gracias.",
+    "translation": "Como está sua cabeça hoje? / Melhor, obrigado.",
+    "syllables": [
+      "Cómo",
+      "tienes",
+      "la",
+      "cabeza",
+      "hoy",
+      "/",
+      "Mejor",
+      "gracias"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkomo ˈtjenes la kaˈβeθa oi · meˈxoɾ ˈɡɾaθjas/",
+    "portuguesePhonetic": "[kómo tiénes la kabétha ôi · merrór gráthias]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_un4jcbl",
+    "word": "¿Te duelen las manos? / Sí, de escribir.",
+    "translation": "Suas mãos doem? / Sim, de digitar.",
+    "syllables": [
+      "Te",
+      "duelen",
+      "las",
+      "manos",
+      "/",
+      "Sí",
+      "de",
+      "escribir"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te ˈdwelen las ˈmanos · si de eskɾiˈβiɾ/",
+    "portuguesePhonetic": "[te duélen las mános · sí de eskribír]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_o3mbgbv",
+    "word": "¿Tienes el labio hinchado? / Sí, me lo mordí.",
+    "translation": "Seu lábio está inchado? / Sim, eu mordi.",
+    "syllables": [
+      "Tienes",
+      "el",
+      "labio",
+      "hinchado",
+      "/",
+      "Sí",
+      "me",
+      "lo",
+      "mordí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes el ˈlaβjo inˈtʃaðo · si me lo moɾˈði/",
+    "portuguesePhonetic": "[tiénes el lábio intchádo · sí me lo mordí]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_s1uogzi",
+    "word": "¿Te duele la lengua? / Un poco, de la comida picante.",
+    "translation": "Sua língua está doendo? / Um poco, da comida picante.",
+    "syllables": [
+      "Te",
+      "duele",
+      "la",
+      "lengua",
+      "/",
+      "Un",
+      "poco",
+      "de",
+      "la",
+      "comida",
+      "picante"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te ˈdwele la ˈleŋɡwa · un ˈpoko de la koˈmiða piˈkante/",
+    "portuguesePhonetic": "[te duéle la léngua · un póko de la komída pikánte]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_5ms1nss",
+    "word": "¿Tienes las piernas fuertes? / Sí, corro mucho.",
+    "translation": "Suas pernas são fortes? / Sim, eu corro bastante.",
+    "syllables": [
+      "Tienes",
+      "las",
+      "piernas",
+      "fuertes",
+      "/",
+      "Sí",
+      "corro",
+      "mucho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes las ˈpjeɾnas ˈfweɾtes · si ˈkoro ˈmutʃo/",
+    "portuguesePhonetic": "[tiénes las piérnas fuértes · sí kórro mútcho]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_rw0jmny",
+    "word": "¿Qué le pasa a tu pie? / Me lo torcí.",
+    "translation": "O que houve com seu pé? / Eu torci.",
+    "syllables": [
+      "Qué",
+      "le",
+      "pasa",
+      "a",
+      "tu",
+      "pie",
+      "/",
+      "Me",
+      "lo",
+      "torcí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke le ˈpasa a tu pje · me lo toɾˈθi/",
+    "portuguesePhonetic": "[ke le pása a tu pié · me lo tortHí]"
+  },
+  {
+    "id": "leccion_10_vocabulario_a1_s_id_giz67sn",
+    "word": "¿Te sientes mejor? / Sí, mucho mejor.",
+    "translation": "Você está se sentindo melhor? / Sim, bem mejor.",
+    "syllables": [
+      "Te",
+      "sientes",
+      "mejor",
+      "/",
+      "Sí",
+      "mucho",
+      "mejor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te ˈsjentes meˈxoɾ · si ˈmutʃo meˈxoɾ/",
+    "portuguesePhonetic": "[te siéntes merrór · sí mútcho merrór]"
+  }
+]

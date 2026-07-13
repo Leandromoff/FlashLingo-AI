@@ -1,0 +1,1815 @@
+[
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_ft4292v",
+    "word": "town",
+    "translation": "cidade pequena",
+    "syllables": [
+      "town"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/taʊn/",
+    "portuguesePhonetic": "[táun]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_t6693to",
+    "word": "city",
+    "translation": "cidade grande",
+    "syllables": [
+      "city"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsɪti/",
+    "portuguesePhonetic": "[síti]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_fc3we9x",
+    "word": "village",
+    "translation": "vilarejo",
+    "syllables": [
+      "village"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈvɪlɪdʒ/",
+    "portuguesePhonetic": "[vílidj]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_vc2rft6",
+    "word": "neighborhood",
+    "translation": "bairro",
+    "syllables": [
+      "neighborhood"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈneɪbərhʊd/",
+    "portuguesePhonetic": "[nêiberrrúd]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_f4pxegy",
+    "word": "downtown",
+    "translation": "centro da cidade",
+    "syllables": [
+      "downtown"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdaʊntaʊn/",
+    "portuguesePhonetic": "[dáuntaun]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_tmj299w",
+    "word": "street",
+    "translation": "rua",
+    "syllables": [
+      "street"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/striːt/",
+    "portuguesePhonetic": "[strít]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_yfuis4y",
+    "word": "avenue",
+    "translation": "avenida",
+    "syllables": [
+      "avenue"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈævənuː/",
+    "portuguesePhonetic": "[évaniu]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_tj0ffez",
+    "word": "square",
+    "translation": "praça",
+    "syllables": [
+      "square"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/skwɛr/",
+    "portuguesePhonetic": "[skuér]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_g19h2ip",
+    "word": "park",
+    "translation": "parque",
+    "syllables": [
+      "park"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɑːrk/",
+    "portuguesePhonetic": "[párk]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_ocnpg4x",
+    "word": "museum",
+    "translation": "museu",
+    "syllables": [
+      "museum"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mjuˈziːəm/",
+    "portuguesePhonetic": "[miuzíam]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_ws1py9f",
+    "word": "library",
+    "translation": "biblioteca",
+    "syllables": [
+      "library"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈlaɪbrɛri/",
+    "portuguesePhonetic": "[láibreri]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_g93n3or",
+    "word": "restaurant",
+    "translation": "restaurante",
+    "syllables": [
+      "restaurant"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈrɛstərɑːnt/",
+    "portuguesePhonetic": "[réstorant]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_qqyomb4",
+    "word": "cafe",
+    "translation": "café",
+    "syllables": [
+      "cafe"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kæˈfeɪ/",
+    "portuguesePhonetic": "[kafêi]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_wgsfoqs",
+    "word": "school",
+    "translation": "escola",
+    "syllables": [
+      "school"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/skuːl/",
+    "portuguesePhonetic": "[skúl]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_zagddwu",
+    "word": "hospital",
+    "translation": "hospital",
+    "syllables": [
+      "hospital"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈhɑːspɪtl̩/",
+    "portuguesePhonetic": "[ráspitou]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_r00lzvv",
+    "word": "post office",
+    "translation": "correios",
+    "syllables": [
+      "post",
+      "office"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poʊst ˈɔːfɪs/",
+    "portuguesePhonetic": "[pôust ófis]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_br0j7qv",
+    "word": "bank",
+    "translation": "banco",
+    "syllables": [
+      "bank"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bæŋk/",
+    "portuguesePhonetic": "[bênk]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_m87doy5",
+    "word": "hotel",
+    "translation": "hotel",
+    "syllables": [
+      "hotel"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hoʊˈtɛl/",
+    "portuguesePhonetic": "[routél]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_2vwpgej",
+    "word": "movie theater",
+    "translation": "cinema",
+    "syllables": [
+      "movie",
+      "theater"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈmuːvi ˈθiːətər/",
+    "portuguesePhonetic": "[múvi thíater]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_goul9xx",
+    "word": "theater",
+    "translation": "teatro",
+    "syllables": [
+      "theater"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈθiːətər/",
+    "portuguesePhonetic": "[thíater]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_q3dmaco",
+    "word": "bus stop",
+    "translation": "ponto de ônibus",
+    "syllables": [
+      "bus",
+      "stop"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bʌs stɑːp/",
+    "portuguesePhonetic": "[bâs stáp]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_sedpg4z",
+    "word": "train station",
+    "translation": "estação de trem",
+    "syllables": [
+      "train",
+      "station"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/treɪn ˈsteɪʃn̩/",
+    "portuguesePhonetic": "[trêin stêichan]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_icv36xy",
+    "word": "airport",
+    "translation": "aeroporto",
+    "syllables": [
+      "airport"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɛrpɔːrt/",
+    "portuguesePhonetic": "[érport]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_lp6wnja",
+    "word": "tourist attraction",
+    "translation": "atração turística",
+    "syllables": [
+      "tourist",
+      "attraction"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtʊrɪst əˈtrækʃn̩/",
+    "portuguesePhonetic": "[túrist atrékchan]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_39doznx",
+    "word": "This is a small town.",
+    "translation": "Essa é uma cidade pequena.",
+    "syllables": [
+      "This",
+      "is",
+      "a",
+      "small",
+      "town"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɪs ɪz ə smɔːl taʊn/",
+    "portuguesePhonetic": "[dhís iz a smól táun]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_235gr5r",
+    "word": "I live in a quiet neighborhood.",
+    "translation": "Eu moro num bairro tranquilo.",
+    "syllables": [
+      "I",
+      "live",
+      "in",
+      "a",
+      "quiet",
+      "neighborhood"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ lɪv ɪn ə ˈkwaɪət ˈneɪbərhʊd/",
+    "portuguesePhonetic": "[ái lív in a kuáiet nêiberrrúd]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_o8fytfb",
+    "word": "My street is very long.",
+    "translation": "Minha rua é muito comprida.",
+    "syllables": [
+      "My",
+      "street",
+      "is",
+      "very",
+      "long"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ striːt ɪz ˈvɛri lɔːŋ/",
+    "portuguesePhonetic": "[mái strít iz véri lóN]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_evkgm45",
+    "word": "Wait at the bus stop.",
+    "translation": "Espere no ponto de ônibus.",
+    "syllables": [
+      "Wait",
+      "at",
+      "the",
+      "bus",
+      "stop"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/weɪt æt ðə bʌs stɑːp/",
+    "portuguesePhonetic": "[uêit ét dha bâs stáp]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_rna7u2p",
+    "word": "The train station is downtown.",
+    "translation": "A estação de trem fica no centro.",
+    "syllables": [
+      "The",
+      "train",
+      "station",
+      "is",
+      "downtown"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə treɪn ˈsteɪʃn̩ ɪz ˈdaʊntaʊn/",
+    "portuguesePhonetic": "[dha trêin stêichan iz dáuntaun]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_cvw62ut",
+    "word": "I need to go to the bank.",
+    "translation": "Eu preciso ir ao banco.",
+    "syllables": [
+      "I",
+      "need",
+      "to",
+      "go",
+      "to",
+      "the",
+      "bank"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ niːd tə ɡoʊ tə ðə bæŋk/",
+    "portuguesePhonetic": "[ái níd tu gôu tu dha bênk]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_n8gniy9",
+    "word": "The post office closes at five.",
+    "translation": "Os correios fecham às cinco.",
+    "syllables": [
+      "The",
+      "post",
+      "office",
+      "closes",
+      "at",
+      "five"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə poʊst ˈɔːfɪs ˈkloʊzɪz æt faɪv/",
+    "portuguesePhonetic": "[dha pôust ófis klôuziz ét fáiv]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_xj2xfs3",
+    "word": "My office is on Main Avenue.",
+    "translation": "Meu escritório fica na avenida Main.",
+    "syllables": [
+      "My",
+      "office",
+      "is",
+      "on",
+      "Main",
+      "Avenue"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ ˈɔːfɪs ɪz ɑːn meɪn ˈævənuː/",
+    "portuguesePhonetic": "[mái ófis iz ón mêin évaniu]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_h9ygrru",
+    "word": "I walk to school every day.",
+    "translation": "Eu vou a pé para a escola todo dia.",
+    "syllables": [
+      "I",
+      "walk",
+      "to",
+      "school",
+      "every",
+      "day"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ wɔːk tə skuːl ˈɛvri deɪ/",
+    "portuguesePhonetic": "[ái uók tu skúl évri dêi]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_nq5p6zx",
+    "word": "The library is next to the school.",
+    "translation": "A biblioteca fica ao lado da escola.",
+    "syllables": [
+      "The",
+      "library",
+      "is",
+      "next",
+      "to",
+      "the",
+      "school"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈlaɪbrɛri ɪz nɛkst tə ðə skuːl/",
+    "portuguesePhonetic": "[dha láibreri iz nékst tu dha skúl]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_9ka65xw",
+    "word": "The hospital is very far from here.",
+    "translation": "O hospital fica muito longe daqui.",
+    "syllables": [
+      "The",
+      "hospital",
+      "is",
+      "very",
+      "far",
+      "from",
+      "here"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈhɑːspɪtl̩ ɪz ˈvɛri fɑːr frəm hɪr/",
+    "portuguesePhonetic": "[dha ráspitou iz véri fár from rrír]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_73qbs77",
+    "word": "Let's have dinner at that restaurant.",
+    "translation": "Vamos jantar naquele restaurante.",
+    "syllables": [
+      "Let's",
+      "have",
+      "dinner",
+      "at",
+      "that",
+      "restaurant"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/lɛts hæv ˈdɪnər æt ðæt ˈrɛstərɑːnt/",
+    "portuguesePhonetic": "[léts rrév díner ét dhét réstorant]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_r0pckl8",
+    "word": "I love this little cafe.",
+    "translation": "Eu amo esse cafezinho.",
+    "syllables": [
+      "I",
+      "love",
+      "this",
+      "little",
+      "cafe"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ lʌv ðɪs ˈlɪtl̩ kæˈfeɪ/",
+    "portuguesePhonetic": "[ái lâv dhís lítou kafêi]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_p6how8o",
+    "word": "We walked in the park all afternoon.",
+    "translation": "A gente caminhou no parque a tarde toda.",
+    "syllables": [
+      "We",
+      "walked",
+      "in",
+      "the",
+      "park",
+      "all",
+      "afternoon"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː wɔːkt ɪn ðə pɑːrk ɔːl ˌæftərˈnuːn/",
+    "portuguesePhonetic": "[uí uókt in dha párk ól éfternún]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_w44m9hy",
+    "word": "Let's meet at the square.",
+    "translation": "Vamos nos encontrar na praça.",
+    "syllables": [
+      "Let's",
+      "meet",
+      "at",
+      "the",
+      "square"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/lɛts miːt æt ðə skwɛr/",
+    "portuguesePhonetic": "[léts mít ét dha skuér]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_bngcxkv",
+    "word": "We're going to the movie theater tonight.",
+    "translation": "A gente vai ao cinema hoje à noite.",
+    "syllables": [
+      "We're",
+      "going",
+      "to",
+      "the",
+      "movie",
+      "theater",
+      "tonight"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪr ˈɡoʊɪŋ tə ðə ˈmuːvi ˈθiːətər təˈnaɪt/",
+    "portuguesePhonetic": "[uír gôuin tu dha múvi thíater tunáit]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_n9jt345",
+    "word": "The theater show starts at eight.",
+    "translation": "O espetáculo do teatro começa às oito.",
+    "syllables": [
+      "The",
+      "theater",
+      "show",
+      "starts",
+      "at",
+      "eight"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈθiːətər ʃoʊ stɑːrts æt eɪt/",
+    "portuguesePhonetic": "[dha thíater chôu stárts ét êit]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_n1345y8",
+    "word": "We're staying at a hotel downtown.",
+    "translation": "A gente vai ficar num hotel no centro.",
+    "syllables": [
+      "We're",
+      "staying",
+      "at",
+      "a",
+      "hotel",
+      "downtown"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪr ˈsteɪɪŋ æt ə hoʊˈtɛl ˈdaʊntaʊn/",
+    "portuguesePhonetic": "[uír stêin ét a routél dáuntaun]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_hfuog10",
+    "word": "The airport is thirty minutes away.",
+    "translation": "O aeroporto fica a trinta minutos.",
+    "syllables": [
+      "The",
+      "airport",
+      "is",
+      "thirty",
+      "minutes",
+      "away"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðiː ˈɛrpɔːrt ɪz ˈθɜːrti ˈmɪnɪts əˈweɪ/",
+    "portuguesePhonetic": "[dhi érport iz thârti mínits auêi]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_s96t2lp",
+    "word": "The Eiffel Tower is a famous tourist attraction.",
+    "translation": "A Torre Eiffel é uma atração turística famosa.",
+    "syllables": [
+      "The",
+      "Eiffel",
+      "Tower",
+      "is",
+      "a",
+      "famous",
+      "tourist",
+      "attraction"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðiː ˈaɪfl̩ ˈtaʊər ɪz ə ˈfeɪməs ˈtʊrɪst əˈtrækʃn̩/",
+    "portuguesePhonetic": "[dhi áifou táuer iz a fêimas túrist atrékchan]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_zgxhs5v",
+    "word": "The city center is beautiful in the fall.",
+    "translation": "O centro da cidade é lindo no outono.",
+    "syllables": [
+      "The",
+      "city",
+      "center",
+      "is",
+      "beautiful",
+      "in",
+      "the",
+      "fall"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈsɪti ˈsɛntər ɪz ˈbjuːtəfəl ɪn ðə fɔːl/",
+    "portuguesePhonetic": "[dha síti sénter iz biútifou in dha fól]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_zktukyb",
+    "word": "There are many shops in the city center.",
+    "translation": "Tem muitas lojas no centro da cidade.",
+    "syllables": [
+      "There",
+      "are",
+      "many",
+      "shops",
+      "in",
+      "the",
+      "city",
+      "center"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ɑːr ˈmɛni ʃɑːps ɪn ðə ˈsɪti ˈsɛntər/",
+    "portuguesePhonetic": "[dhér ár méni cháps in dha síti sénter]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_1ujpa7g",
+    "word": "We took a taxi from the airport to the hotel.",
+    "translation": "A gente pegou um táxi do aeroporto até o hotel.",
+    "syllables": [
+      "We",
+      "took",
+      "a",
+      "taxi",
+      "from",
+      "the",
+      "airport",
+      "to",
+      "the",
+      "hotel"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː tʊk ə ˈtæksi frəm ðiː ˈɛrpɔːrt tə ðə hoʊˈtɛl/",
+    "portuguesePhonetic": "[uí túk a téksi from dhi érport tu dha routél]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_mfsk27u",
+    "word": "I mailed the letter at the post office.",
+    "translation": "Eu enviei a carta nos correios.",
+    "syllables": [
+      "I",
+      "mailed",
+      "the",
+      "letter",
+      "at",
+      "the",
+      "post",
+      "office"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ meɪld ðə ˈlɛtər æt ðə poʊst ˈɔːfɪs/",
+    "portuguesePhonetic": "[ái mêild dha léter ét dha pôust ófis]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_z7vos0s",
+    "word": "I grew up in a small village.",
+    "translation": "Eu cresci num vilarejo pequeno.",
+    "syllables": [
+      "I",
+      "grew",
+      "up",
+      "in",
+      "a",
+      "small",
+      "village"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ ɡruː ʌp ɪn ə smɔːl ˈvɪlɪdʒ/",
+    "portuguesePhonetic": "[ái grú âp in a smól vílidj]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_kyne2x9",
+    "word": "This museum has a great art collection.",
+    "translation": "Esse museu tem uma coleção de arte ótima.",
+    "syllables": [
+      "This",
+      "museum",
+      "has",
+      "a",
+      "great",
+      "art",
+      "collection"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɪs mjuˈziːəm hæz ə ɡreɪt ɑːrt kəˈlɛkʃn̩/",
+    "portuguesePhonetic": "[dhís miuzíam réz a grêit árt kolékchan]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_ba2700e",
+    "word": "I like this city.",
+    "translation": "Eu gosto dessa cidade.",
+    "syllables": [
+      "I",
+      "like",
+      "this",
+      "city"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ laɪk ðɪs ˈsɪti/",
+    "portuguesePhonetic": "[ái láik dhís síti]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_yrtw9x1",
+    "word": "The park is closed.",
+    "translation": "O parque está fechado.",
+    "syllables": [
+      "The",
+      "park",
+      "is",
+      "closed"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə pɑːrk ɪz kloʊzd/",
+    "portuguesePhonetic": "[dha párk iz klôuzd]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_g47xahm",
+    "word": "We visited the museum.",
+    "translation": "A gente visitou o museu.",
+    "syllables": [
+      "We",
+      "visited",
+      "the",
+      "museum"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ˈvɪzɪtɪd ðə mjuˈziːəm/",
+    "portuguesePhonetic": "[uí vízited dha miuzíam]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_cgwhy36",
+    "word": "They don't have a library here.",
+    "translation": "Eles não têm biblioteca aqui.",
+    "syllables": [
+      "They",
+      "don't",
+      "have",
+      "a",
+      "library",
+      "here"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ doʊnt hæv ə ˈlaɪbrɛri hɪr/",
+    "portuguesePhonetic": "[dhêi dôunt rrév a láibreri rrír]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_1wx4dfw",
+    "word": "Is the hospital open twenty-four hours?",
+    "translation": "O hospital fica aberto vinte e quatro horas?",
+    "syllables": [
+      "Is",
+      "the",
+      "hospital",
+      "open",
+      "twenty-four",
+      "hours"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðə ˈhɑːspɪtl̩ ˈoʊpən ˈtwɛnti fɔːr ˈaʊərz/",
+    "portuguesePhonetic": "[iz dha ráspitou ôupan tuénti fór áuerz]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_j0e75v0",
+    "word": "The bank doesn't open on Sundays.",
+    "translation": "O banco não abre aos domingos.",
+    "syllables": [
+      "The",
+      "bank",
+      "doesn't",
+      "open",
+      "on",
+      "Sundays"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə bæŋk ˈdʌznt ˈoʊpən ɑːn ˈsʌndeɪz/",
+    "portuguesePhonetic": "[dha bênk dâznt ôupan ón sândeiz]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_oxq7a4c",
+    "word": "We found a great restaurant near the square.",
+    "translation": "A gente achou um restaurante ótimo perto da praça.",
+    "syllables": [
+      "We",
+      "found",
+      "a",
+      "great",
+      "restaurant",
+      "near",
+      "the",
+      "square"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː faʊnd ə ɡreɪt ˈrɛstərɑːnt nɪr ðə skwɛr/",
+    "portuguesePhonetic": "[uí fáund a grêit réstorant nír dha skuér]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_la6jh49",
+    "word": "This hotel isn't cheap.",
+    "translation": "Esse hotel não é barato.",
+    "syllables": [
+      "This",
+      "hotel",
+      "isn't",
+      "cheap"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɪs hoʊˈtɛl ˈɪznt tʃiːp/",
+    "portuguesePhonetic": "[dhís routél íznt tchíp]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_ds235p3",
+    "word": "Isn't there a train station nearby?",
+    "translation": "Não tem uma estação de trem por perto?",
+    "syllables": [
+      "Isn't",
+      "there",
+      "a",
+      "train",
+      "station",
+      "nearby"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɪznt ðɛr ə treɪn ˈsteɪʃn̩ ˈnɪrbaɪ/",
+    "portuguesePhonetic": "[íznt dhér a trêin stêichan nírbai]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_10arnc0",
+    "word": "Where's the nearest bus stop?",
+    "translation": "Onde fica o ponto de ônibus mais próximo?",
+    "syllables": [
+      "Where's",
+      "the",
+      "nearest",
+      "bus",
+      "stop"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈnɪrəst bʌs stɑːp/",
+    "portuguesePhonetic": "[uérz dha níirast bâs stáp]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_bb6o8jd",
+    "word": "Why isn't the museum open yet?",
+    "translation": "Por que o museu ainda não abriu?",
+    "syllables": [
+      "Why",
+      "isn't",
+      "the",
+      "museum",
+      "open",
+      "yet"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ˈɪznt ðə mjuˈziːəm ˈoʊpən jɛt/",
+    "portuguesePhonetic": "[uái íznt dha miuzíam ôupan iét]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_yqnugcc",
+    "word": "Don't they have a theater in this town?",
+    "translation": "Eles não têm teatro nessa cidade?",
+    "syllables": [
+      "Don't",
+      "they",
+      "have",
+      "a",
+      "theater",
+      "in",
+      "this",
+      "town"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/doʊnt ðeɪ hæv ə ˈθiːətər ɪn ðɪs taʊn/",
+    "portuguesePhonetic": "[dôunt dhêi rrév a thíater in dhís táun]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_u62qmxx",
+    "word": "I went to the post office because I needed to mail a package.",
+    "translation": "Eu fui aos correios porque precisava enviar um pacote.",
+    "syllables": [
+      "I",
+      "went",
+      "to",
+      "the",
+      "post",
+      "office",
+      "because",
+      "I",
+      "needed",
+      "to",
+      "mail",
+      "a",
+      "package"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ wɛnt tə ðə poʊst ˈɔːfɪs bɪˈkɔːz aɪ ˈniːdɪd tə meɪl ə ˈpækɪdʒ/",
+    "portuguesePhonetic": "[ái uént tu dha pôust ófis bikóz ái níded tu mêil a pékidj]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_lljub8w",
+    "word": "We were at the airport when the flight was delayed.",
+    "translation": "A gente estava no aeroporto quando o voo atrasou.",
+    "syllables": [
+      "We",
+      "were",
+      "at",
+      "the",
+      "airport",
+      "when",
+      "the",
+      "flight",
+      "was",
+      "delayed"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː wɜːr æt ðiː ˈɛrpɔːrt wɛn ðə flaɪt wəz dɪˈleɪd/",
+    "portuguesePhonetic": "[uí uâr ét dhi érport uén dha fláit uâz dilêid]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_8qjnyk8",
+    "word": "She works at a bank downtown, but she lives in the suburbs.",
+    "translation": "Ela trabalha num banco no centro, mas mora nos subúrbios.",
+    "syllables": [
+      "She",
+      "works",
+      "at",
+      "a",
+      "bank",
+      "downtown",
+      "but",
+      "she",
+      "lives",
+      "in",
+      "the",
+      "suburbs"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː wɜːrks æt ə bæŋk ˈdaʊntaʊn bʌt ʃiː lɪvz ɪn ðə ˈsʌbɜːrbz/",
+    "portuguesePhonetic": "[chí uârks ét a bênk dáuntaun bât chí lívz in dha sâbarbz]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_789qj2u",
+    "word": "When the movie theater closed, everyone was disappointed.",
+    "translation": "Quando o cinema fechou, todo mundo ficou decepcionado.",
+    "syllables": [
+      "When",
+      "the",
+      "movie",
+      "theater",
+      "closed",
+      "everyone",
+      "was",
+      "disappointed"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛn ðə ˈmuːvi ˈθiːətər kloʊzd ˈɛvriwʌn wəz ˌdɪsəˈpɔɪntɪd/",
+    "portuguesePhonetic": "[uén dha múvi thíater klôuzd évriuan uâz disapóinted]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_90d1sg8",
+    "word": "We usually eat at home, but we went to a restaurant because it was her birthday.",
+    "translation": "A gente geralmente come em casa, mas fomos a um restaurante porque era aniversário dela.",
+    "syllables": [
+      "We",
+      "usually",
+      "eat",
+      "at",
+      "home",
+      "but",
+      "we",
+      "went",
+      "to",
+      "a",
+      "restaurant",
+      "because",
+      "it",
+      "was",
+      "her",
+      "birthday"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ˈjuːʒuəli iːt æt hoʊm bʌt wiː wɛnt tə ə ˈrɛstərɑːnt bɪˈkɔːz ɪt wəz hɜːr ˈbɜːrθdeɪ/",
+    "portuguesePhonetic": "[uí iújuali ít ét rrôum bât uí uént tu a réstorant bikóz ít uâz rrâr bârthdei]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_u6v2877",
+    "word": "We spent the whole day visiting museums, and by the evening we were completely exhausted.",
+    "translation": "A gente passou o dia todo visitando museus, e à noite estávamos completamente exaustos.",
+    "syllables": [
+      "We",
+      "spent",
+      "the",
+      "whole",
+      "day",
+      "visiting",
+      "museums",
+      "and",
+      "by",
+      "the",
+      "evening",
+      "we",
+      "were",
+      "completely",
+      "exhausted"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː spɛnt ðə hoʊl deɪ ˈvɪzɪtɪŋ mjuˈziːəmz ænd baɪ ðiː ˈiːvnɪŋ wiː wɜːr kəmˈpliːtli ɪɡˈzɔːstɪd/",
+    "portuguesePhonetic": "[uí spént dha rrôul dêi vízitin miuzíamz énd bái dhi ívnin uí uâr komplítli igzósted]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_b1pzqan",
+    "word": "The neighborhood has changed a lot since I was a kid, and now there are so many new restaurants.",
+    "translation": "O bairro mudou muito desde que eu era criança, e agora tem tantos restaurantes novos.",
+    "syllables": [
+      "The",
+      "neighborhood",
+      "has",
+      "changed",
+      "a",
+      "lot",
+      "since",
+      "I",
+      "was",
+      "a",
+      "kid",
+      "and",
+      "now",
+      "there",
+      "are",
+      "so",
+      "many",
+      "new",
+      "restaurants"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈneɪbərhʊd hæz tʃeɪndʒd ə lɑːt sɪns aɪ wəz ə kɪd ænd naʊ ðɛr ɑːr soʊ ˈmɛni nuː ˈrɛstərɑːnts/",
+    "portuguesePhonetic": "[dha nêiberrrúd réz tchêindjd a lát síns ái uâz a kíd énd náu dhér ár sôu méni niú réstorants]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_q9o24y8",
+    "word": "If we had stayed closer to the city center, we wouldn't have needed to take the train every day.",
+    "translation": "Se a gente tivesse ficado mais perto do centro da cidade, não teríamos precisado pegar o trem todo dia.",
+    "syllables": [
+      "If",
+      "we",
+      "had",
+      "stayed",
+      "closer",
+      "to",
+      "the",
+      "city",
+      "center",
+      "we",
+      "wouldn't",
+      "have",
+      "needed",
+      "to",
+      "take",
+      "the",
+      "train",
+      "every",
+      "day"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪf wiː hæd steɪd ˈkloʊsər tə ðə ˈsɪti ˈsɛntər wiː ˈwʊdnt hæv ˈniːdɪd tə teɪk ðə treɪn ˈɛvri deɪ/",
+    "portuguesePhonetic": "[if uí réd stêid klôuser tu dha síti sénter uí uúdent rrév níded tu têik dha trêin évri dêi]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_wrd9c6t",
+    "word": "The old library downtown was demolished last year to build a new hotel, which made a lot of people sad.",
+    "translation": "A biblioteca antiga do centro foi demolida ano passado para construir um hotel novo, o que deixou muita gente triste.",
+    "syllables": [
+      "The",
+      "old",
+      "library",
+      "downtown",
+      "was",
+      "demolished",
+      "last",
+      "year",
+      "to",
+      "build",
+      "a",
+      "new",
+      "hotel",
+      "which",
+      "made",
+      "a",
+      "lot",
+      "of",
+      "people",
+      "sad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðiː oʊld ˈlaɪbrɛri ˈdaʊntaʊn wəz dɪˈmɑːlɪʃt læst jɪr tə bɪld ə nuː hoʊˈtɛl wɪtʃ meɪd ə lɑːt əv ˈpiːpl̩ sæd/",
+    "portuguesePhonetic": "[dhi ôuld láibreri dáuntaun uâz dimálicht lést íir tu bíld a niú routél uítch mêid a lát ov pípou séd]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_u1psvr1",
+    "word": "We got lost trying to find the museum, so we ended up asking someone at a cafe for directions.",
+    "translation": "A gente se perdeu tentando achar o museu, então acabamos pedindo informações para alguém num café.",
+    "syllables": [
+      "We",
+      "got",
+      "lost",
+      "trying",
+      "to",
+      "find",
+      "the",
+      "museum",
+      "so",
+      "we",
+      "ended",
+      "up",
+      "asking",
+      "someone",
+      "at",
+      "a",
+      "cafe",
+      "for",
+      "directions"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ɡɑːt lɔːst ˈtraɪɪŋ tə faɪnd ðə mjuˈziːəm soʊ wiː ˈɛndɪd ʌp ˈæskɪŋ ˈsʌmwʌn æt ə kæˈfeɪ fɔːr dəˈrɛkʃn̩z/",
+    "portuguesePhonetic": "[uí gát lóst tráiin tu fáind dha miuzíam sôu uí énded âp éskin sâmuan ét a kafêi fór dirékchanz]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_plc8nlo",
+    "word": "The city built a new park near the hospital, so patients could go for walks while they recovered.",
+    "translation": "A cidade construiu um parque novo perto do hospital, para os pacientes poderem passear enquanto se recuperavam.",
+    "syllables": [
+      "The",
+      "city",
+      "built",
+      "a",
+      "new",
+      "park",
+      "near",
+      "the",
+      "hospital",
+      "so",
+      "patients",
+      "could",
+      "go",
+      "for",
+      "walks",
+      "while",
+      "they",
+      "recovered"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈsɪti bɪlt ə nuː pɑːrk nɪr ðə ˈhɑːspɪtl̩ soʊ ˈpeɪʃn̩ts kʊd ɡoʊ fɔːr wɔːks waɪl ðeɪ rɪˈkʌvərd/",
+    "portuguesePhonetic": "[dha síti bíld a niú párk nír dha ráspitou sôu pêichants kúd gôu fór uóks uáil dhêi rikâverd]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_wnd0ysh",
+    "word": "We wanted to see a show at the theater, but the tickets were sold out, so we watched a movie instead.",
+    "translation": "A gente queria ver um espetáculo no teatro, mas os ingressos estavam esgotados, então assistimos a um filme em vez disso.",
+    "syllables": [
+      "We",
+      "wanted",
+      "to",
+      "see",
+      "a",
+      "show",
+      "at",
+      "the",
+      "theater",
+      "but",
+      "the",
+      "tickets",
+      "were",
+      "sold",
+      "out",
+      "so",
+      "we",
+      "watched",
+      "a",
+      "movie",
+      "instead"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ˈwɑːntɪd tə siː ə ʃoʊ æt ðə ˈθiːətər bʌt ðə ˈtɪkɪts wɜːr soʊld aʊt soʊ wiː wɑːtʃt ə ˈmuːvi ɪnˈstɛd/",
+    "portuguesePhonetic": "[uí uánted tu sí a chôu ét dha thíater bât dha tíkits uâr sôuld áut sôu uí uátcht a múvi instéd]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_kc4pqj6",
+    "word": "The train station was crowded because of the tourist season, and it took us forever to find our platform.",
+    "translation": "A estação de trem estava lotada por causa da temporada turística, e demoramos uma eternidade para achar nossa plataforma.",
+    "syllables": [
+      "The",
+      "train",
+      "station",
+      "was",
+      "crowded",
+      "because",
+      "of",
+      "the",
+      "tourist",
+      "season",
+      "and",
+      "it",
+      "took",
+      "us",
+      "forever",
+      "to",
+      "find",
+      "our",
+      "platform"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə treɪn ˈsteɪʃn̩ wəz ˈkraʊdɪd bɪˈkɔːz əv ðə ˈtʊrɪst ˈsiːzn̩ ænd ɪt tʊk ʌs fəˈrɛvər tə faɪnd ˈaʊər ˈplætfɔːrm/",
+    "portuguesePhonetic": "[dha trêin stêichan uâz kráuded bikóz ov dha túrist síizan énd ít túk âs farêver tu fáind áuer plétform]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_joxc1qq",
+    "word": "Where's the nearest bank? / Two blocks away.",
+    "translation": "Onde fica o banco mais próximo? / A dois quarteirões.",
+    "syllables": [
+      "Where's",
+      "the",
+      "nearest",
+      "bank",
+      "/",
+      "Two",
+      "blocks",
+      "away"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈnɪrəst bæŋk · tuː blɑːks əˈweɪ/",
+    "portuguesePhonetic": "[uérz dha níirast bênk · tú bláks auêi]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_2mun9a7",
+    "word": "Is there a park nearby? / Yes, just around the corner.",
+    "translation": "Tem um parque por perto? / Sim, logo na esquina.",
+    "syllables": [
+      "Is",
+      "there",
+      "a",
+      "park",
+      "nearby",
+      "/",
+      "Yes",
+      "just",
+      "around",
+      "the",
+      "corner"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ə pɑːrk ˈnɪrbaɪ · jɛs dʒʌst əˈraʊnd ðə ˈkɔːrnər/",
+    "portuguesePhonetic": "[iz dhér a párk nírbai · iés djâst aráund dha kórner]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_uwoupe6",
+    "word": "Where's the museum? / On the square.",
+    "translation": "Onde fica o museu? / Na praça.",
+    "syllables": [
+      "Where's",
+      "the",
+      "museum",
+      "/",
+      "On",
+      "the",
+      "square"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə mjuˈziːəm · ɑːn ðə skwɛr/",
+    "portuguesePhonetic": "[uérz dha miuzíam · ón dha skuér]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_2kyenav",
+    "word": "Do you have a library here? / Yes, downtown.",
+    "translation": "Vocês têm uma biblioteca aqui? / Sim, no centro.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "a",
+      "library",
+      "here",
+      "/",
+      "Yes",
+      "downtown"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ə ˈlaɪbrɛri hɪr · jɛs ˈdaʊntaʊn/",
+    "portuguesePhonetic": "[dú iú rrév a láibreri rrír · iés dáuntaun]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_mzjyccm",
+    "word": "Where's a good restaurant? / On Main Avenue.",
+    "translation": "Onde tem um bom restaurante? / Na avenida Main.",
+    "syllables": [
+      "Where's",
+      "a",
+      "good",
+      "restaurant",
+      "/",
+      "On",
+      "Main",
+      "Avenue"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ə ɡʊd ˈrɛstərɑːnt · ɑːn meɪn ˈævənuː/",
+    "portuguesePhonetic": "[uérz a gúd réstorant · ón mêin évaniu]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_5vy84ti",
+    "word": "Is the school far from here? / No, very close.",
+    "translation": "A escola fica longe daqui? / Não, bem perto.",
+    "syllables": [
+      "Is",
+      "the",
+      "school",
+      "far",
+      "from",
+      "here",
+      "/",
+      "No",
+      "very",
+      "close"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðə skuːl fɑːr frəm hɪr · noʊ ˈvɛri kloʊs/",
+    "portuguesePhonetic": "[iz dha skúl fár from rrír · nôu véri klôus]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_61p24zy",
+    "word": "Where's the hospital? / Behind the park.",
+    "translation": "Onde fica o hospital? / Atrás do parque.",
+    "syllables": [
+      "Where's",
+      "the",
+      "hospital",
+      "/",
+      "Behind",
+      "the",
+      "park"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈhɑːspɪtl̩ · bɪˈhaɪnd ðə pɑːrk/",
+    "portuguesePhonetic": "[uérz dha ráspitou · birráind dha párk]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_4pzchtd",
+    "word": "What time does the post office open? / At nine.",
+    "translation": "A que horas os correios abrem? / Às nove.",
+    "syllables": [
+      "What",
+      "time",
+      "does",
+      "the",
+      "post",
+      "office",
+      "open",
+      "/",
+      "At",
+      "nine"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm dʌz ðə poʊst ˈɔːfɪs ˈoʊpən · æt naɪn/",
+    "portuguesePhonetic": "[uât táim dâz dha pôust ófis ôupan · ét náin]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_y0i6hna",
+    "word": "Where can I catch the bus? / At the bus stop.",
+    "translation": "Onde eu pego o ônibus? / No ponto de ônibus.",
+    "syllables": [
+      "Where",
+      "can",
+      "I",
+      "catch",
+      "the",
+      "bus",
+      "/",
+      "At",
+      "the",
+      "bus",
+      "stop"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr kæn aɪ kætʃ ðə bʌs · æt ðə bʌs stɑːp/",
+    "portuguesePhonetic": "[uér kên ái kétch dha bâs · ét dha bâs stáp]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_kjfl3oa",
+    "word": "Is the hotel near the airport? / Yes, very close.",
+    "translation": "O hotel fica perto do aeroporto? / Sim, bem perto.",
+    "syllables": [
+      "Is",
+      "the",
+      "hotel",
+      "near",
+      "the",
+      "airport",
+      "/",
+      "Yes",
+      "very",
+      "close"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðə hoʊˈtɛl nɪr ðiː ˈɛrpɔːrt · jɛs ˈvɛri kloʊs/",
+    "portuguesePhonetic": "[iz dha routél nír dhi érport · iés véri klôus]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_h1g5464",
+    "word": "What's playing at the movie theater? / A new comedy.",
+    "translation": "O que está passando no cinema? / Uma comédia nova.",
+    "syllables": [
+      "What's",
+      "playing",
+      "at",
+      "the",
+      "movie",
+      "theater",
+      "/",
+      "A",
+      "new",
+      "comedy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts ˈpleɪɪŋ æt ðə ˈmuːvi ˈθiːətər · ə nuː ˈkɑːmədi/",
+    "portuguesePhonetic": "[uâts plêiin ét dha múvi thíater · a niú kámadi]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_p0crcer",
+    "word": "Where's the theater? / Right on the square.",
+    "translation": "Onde fica o teatro? / Bem na praça.",
+    "syllables": [
+      "Where's",
+      "the",
+      "theater",
+      "/",
+      "Right",
+      "on",
+      "the",
+      "square"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈθiːətər · raɪt ɑːn ðə skwɛr/",
+    "portuguesePhonetic": "[uérz dha thíater · ráit ón dha skuér]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_hnu961c",
+    "word": "How far is the train station? / About ten minutes.",
+    "translation": "Quão longe fica a estação de trem? / Cerca de dez minutos.",
+    "syllables": [
+      "How",
+      "far",
+      "is",
+      "the",
+      "train",
+      "station",
+      "/",
+      "About",
+      "ten",
+      "minutes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ fɑːr ɪz ðə treɪn ˈsteɪʃn̩ · əˈbaʊt tɛn ˈmɪnɪts/",
+    "portuguesePhonetic": "[rráu fár iz dha trêin stêichan · abáut tén mínits]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_zvrmgb9",
+    "word": "Is there an airport nearby? / Yes, thirty minutes away.",
+    "translation": "Tem um aeroporto por perto? / Sim, a trinta minutos.",
+    "syllables": [
+      "Is",
+      "there",
+      "an",
+      "airport",
+      "nearby",
+      "/",
+      "Yes",
+      "thirty",
+      "minutes",
+      "away"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ən ˈɛrpɔːrt ˈnɪrbaɪ · jɛs ˈθɜːrti ˈmɪnɪts əˈweɪ/",
+    "portuguesePhonetic": "[iz dhér an érport nírbai · iés thârti mínits auêi]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_qufqwzd",
+    "word": "What's the biggest tourist attraction here? / The old church.",
+    "translation": "Qual é a maior atração turística aqui? / A igreja antiga.",
+    "syllables": [
+      "What's",
+      "the",
+      "biggest",
+      "tourist",
+      "attraction",
+      "here",
+      "/",
+      "The",
+      "old",
+      "church"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts ðə ˈbɪɡɪst ˈtʊrɪst əˈtrækʃn̩ hɪr · ðiː oʊld tʃɜːrtʃ/",
+    "portuguesePhonetic": "[uâts dha bíguest túrist atrékchan rrír · dhi ôuld tchârtch]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_abp7j4w",
+    "word": "Do you live in the city or in a village? / In a small village.",
+    "translation": "Você mora na cidade ou num vilarejo? / Num vilarejo pequeno.",
+    "syllables": [
+      "Do",
+      "you",
+      "live",
+      "in",
+      "the",
+      "city",
+      "or",
+      "in",
+      "a",
+      "village",
+      "/",
+      "In",
+      "a",
+      "small",
+      "village"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː lɪv ɪn ðə ˈsɪti ɔːr ɪn ə ˈvɪlɪdʒ · ɪn ə smɔːl ˈvɪlɪdʒ/",
+    "portuguesePhonetic": "[dú iú lív in dha síti ór in a vílidj · in a smól vílidj]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_7z3am0t",
+    "word": "Where's the nearest cafe? / Right across the street.",
+    "translation": "Onde fica o café mais próximo? / Bem do outro lado da rua.",
+    "syllables": [
+      "Where's",
+      "the",
+      "nearest",
+      "cafe",
+      "/",
+      "Right",
+      "across",
+      "the",
+      "street"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈnɪrəst kæˈfeɪ · raɪt əˈkrɔːs ðə striːt/",
+    "portuguesePhonetic": "[uérz dha níirast kafêi · ráit akrós dha strít]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_tuntzrf",
+    "word": "Is your neighborhood quiet? / Yes, very peaceful.",
+    "translation": "Seu bairro é tranquilo? / Sim, bem pacífico.",
+    "syllables": [
+      "Is",
+      "your",
+      "neighborhood",
+      "quiet",
+      "/",
+      "Yes",
+      "very",
+      "peaceful"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz jɔːr ˈneɪbərhʊd ˈkwaɪət · jɛs ˈvɛri ˈpiːsfəl/",
+    "portuguesePhonetic": "[iz iór nêiberrrúd kuáiet · iés véri písfou]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_yimf73c",
+    "word": "What street do you live on? / Elm Street.",
+    "translation": "Em que rua você mora? / Rua Elm.",
+    "syllables": [
+      "What",
+      "street",
+      "do",
+      "you",
+      "live",
+      "on",
+      "/",
+      "Elm",
+      "Street"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt striːt duː juː lɪv ɑːn · ɛlm striːt/",
+    "portuguesePhonetic": "[uât strít dú iú lív ón · élm strít]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_d5op3im",
+    "word": "Where's the town square? / Just ahead.",
+    "translation": "Onde fica a praça da cidade? / Logo em frente.",
+    "syllables": [
+      "Where's",
+      "the",
+      "town",
+      "square",
+      "/",
+      "Just",
+      "ahead"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə taʊn skwɛr · dʒʌst əˈhɛd/",
+    "portuguesePhonetic": "[uérz dha táun skuér · djâst arréd]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_6hp0wjr",
+    "word": "Do they have a good bank here? / Yes, two of them.",
+    "translation": "Eles têm um bom banco aqui? / Sim, dois.",
+    "syllables": [
+      "Do",
+      "they",
+      "have",
+      "a",
+      "good",
+      "bank",
+      "here",
+      "/",
+      "Yes",
+      "two",
+      "of",
+      "them"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː ðeɪ hæv ə ɡʊd bæŋk hɪr · jɛs tuː əv ðɛm/",
+    "portuguesePhonetic": "[dú dhêi rrév a gúd bênk rrír · iés tú ov dhém]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_ute5yox",
+    "word": "Is the city center safe at night? / Yes, quite safe.",
+    "translation": "O centro da cidade é seguro à noite? / Sim, bem seguro.",
+    "syllables": [
+      "Is",
+      "the",
+      "city",
+      "center",
+      "safe",
+      "at",
+      "night",
+      "/",
+      "Yes",
+      "quite",
+      "safe"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðə ˈsɪti ˈsɛntər seɪf æt naɪt · jɛs kwaɪt seɪf/",
+    "portuguesePhonetic": "[iz dha síti sénter sêif ét náit · iés kuáit sêif]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_7x1bt1q",
+    "word": "Where's a good school around here? / Right down the street.",
+    "translation": "Onde tem uma boa escola por aqui? / Logo na rua abaixo.",
+    "syllables": [
+      "Where's",
+      "a",
+      "good",
+      "school",
+      "around",
+      "here",
+      "/",
+      "Right",
+      "down",
+      "the",
+      "street"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ə ɡʊd skuːl əˈraʊnd hɪr · raɪt daʊn ðə striːt/",
+    "portuguesePhonetic": "[uérz a gúd skúl aráund rrír · ráit dáun dha strít]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_g3dl07b",
+    "word": "Have you been to that new museum? / Not yet.",
+    "translation": "Você já foi àquele museu novo? / Ainda não.",
+    "syllables": [
+      "Have",
+      "you",
+      "been",
+      "to",
+      "that",
+      "new",
+      "museum",
+      "/",
+      "Not",
+      "yet"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hæv juː bɪn tə ðæt nuː mjuˈziːəm · nɑːt jɛt/",
+    "portuguesePhonetic": "[rrév iú bín tu dhét niú miuzíam · nót iét]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_en_id_2zs2map",
+    "word": "Where should we stay? / A hotel downtown.",
+    "translation": "Onde a gente deveria ficar? / Um hotel no centro.",
+    "syllables": [
+      "Where",
+      "should",
+      "we",
+      "stay",
+      "/",
+      "A",
+      "hotel",
+      "downtown"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛr ʃʊd wiː steɪ · ə hoʊˈtɛl ˈdaʊntaʊn/",
+    "portuguesePhonetic": "[uér chúd uí stêi · a routél dáuntaun]"
+  }
+]

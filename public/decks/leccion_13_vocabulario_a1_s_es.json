@@ -1,0 +1,1805 @@
+[
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_sj01z3c",
+    "word": "pueblo",
+    "translation": "cidade pequena",
+    "syllables": [
+      "pueblo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpweβlo/",
+    "portuguesePhonetic": "[puéblo]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_c2bfhx3",
+    "word": "ciudad",
+    "translation": "cidade grande",
+    "syllables": [
+      "ciudad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/θjuˈðað/",
+    "portuguesePhonetic": "[thiudád]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_r30zasc",
+    "word": "aldea",
+    "translation": "vilarejo",
+    "syllables": [
+      "aldea"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/alˈdea/",
+    "portuguesePhonetic": "[aldéa]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_unhso2w",
+    "word": "barrio",
+    "translation": "bairro",
+    "syllables": [
+      "barrio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbario/",
+    "portuguesePhonetic": "[bário]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_6g4bxrq",
+    "word": "centro",
+    "translation": "centro da cidade",
+    "syllables": [
+      "centro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈθentɾo/",
+    "portuguesePhonetic": "[théntro]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_jvuhguz",
+    "word": "calle",
+    "translation": "rua",
+    "syllables": [
+      "calle"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkaʎe/",
+    "portuguesePhonetic": "[kálhe]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_ph1fh9x",
+    "word": "avenida",
+    "translation": "avenida",
+    "syllables": [
+      "avenida"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aβeˈniða/",
+    "portuguesePhonetic": "[abenída]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_w63qlst",
+    "word": "plaza",
+    "translation": "praça",
+    "syllables": [
+      "plaza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈplaθa/",
+    "portuguesePhonetic": "[plátha]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_7m9crvr",
+    "word": "parque",
+    "translation": "parque",
+    "syllables": [
+      "parque"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpaɾke/",
+    "portuguesePhonetic": "[párke]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_rqewtug",
+    "word": "museo",
+    "translation": "museu",
+    "syllables": [
+      "museo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/muˈseo/",
+    "portuguesePhonetic": "[muséo]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_hzxf7e8",
+    "word": "biblioteca",
+    "translation": "biblioteca",
+    "syllables": [
+      "biblioteca"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/biβljoˈteka/",
+    "portuguesePhonetic": "[bibliotéka]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_7p7sxat",
+    "word": "restaurante",
+    "translation": "restaurante",
+    "syllables": [
+      "restaurante"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/restawˈɾante/",
+    "portuguesePhonetic": "[restauránte]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_pba7nam",
+    "word": "cafetería",
+    "translation": "café",
+    "syllables": [
+      "cafetería"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kafeteˈɾia/",
+    "portuguesePhonetic": "[kafetería]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_mufoei4",
+    "word": "colegio",
+    "translation": "escola",
+    "syllables": [
+      "colegio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/koˈlexjo/",
+    "portuguesePhonetic": "[kolérrio]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_9em511v",
+    "word": "hospital",
+    "translation": "hospital",
+    "syllables": [
+      "hospital"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ospiˈtal/",
+    "portuguesePhonetic": "[ospitál]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_vppxaa3",
+    "word": "oficina de correos",
+    "translation": "correios",
+    "syllables": [
+      "oficina",
+      "de",
+      "correos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ofiˈθina de koˈreos/",
+    "portuguesePhonetic": "[ofithína de korréos]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_30psnmm",
+    "word": "banco",
+    "translation": "banco",
+    "syllables": [
+      "banco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbaŋko/",
+    "portuguesePhonetic": "[bánko]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_iwsm85v",
+    "word": "hotel",
+    "translation": "hotel",
+    "syllables": [
+      "hotel"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/oˈtel/",
+    "portuguesePhonetic": "[otél]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_lohgnx0",
+    "word": "cine",
+    "translation": "cinema",
+    "syllables": [
+      "cine"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈθine/",
+    "portuguesePhonetic": "[thíne]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_ar0r6k2",
+    "word": "teatro",
+    "translation": "teatro",
+    "syllables": [
+      "teatro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈatɾo/",
+    "portuguesePhonetic": "[teátro]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_ypo5ays",
+    "word": "parada de autobús",
+    "translation": "ponto de ônibus",
+    "syllables": [
+      "parada",
+      "de",
+      "autobús"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/paˈɾaða de awtoˈβus/",
+    "portuguesePhonetic": "[paráda de autobús]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_7kc9stc",
+    "word": "estación de tren",
+    "translation": "estação de trem",
+    "syllables": [
+      "estación",
+      "de",
+      "tren"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/estaˈθjon de tɾen/",
+    "portuguesePhonetic": "[estathión de trén]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_5wzq4a9",
+    "word": "aeropuerto",
+    "translation": "aeroporto",
+    "syllables": [
+      "aeropuerto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aeɾoˈpweɾto/",
+    "portuguesePhonetic": "[aeropuérto]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_4v9puf0",
+    "word": "atracción turística",
+    "translation": "atração turística",
+    "syllables": [
+      "atracción",
+      "turística"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/atɾakˈθjon tuˈɾistika/",
+    "portuguesePhonetic": "[atrakthión turística]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_joy6zud",
+    "word": "Este es un pueblo pequeño.",
+    "translation": "Essa é uma cidade pequena.",
+    "syllables": [
+      "Este",
+      "es",
+      "un",
+      "pueblo",
+      "pequeño"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeste es un ˈpweβlo peˈkeɲo/",
+    "portuguesePhonetic": "[éste és un puéblo pekénho]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_j84wy19",
+    "word": "Vivo en un barrio tranquilo.",
+    "translation": "Eu moro num bairro tranquilo.",
+    "syllables": [
+      "Vivo",
+      "en",
+      "un",
+      "barrio",
+      "tranquilo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbiβo en un ˈbario tɾaŋˈkilo/",
+    "portuguesePhonetic": "[bíbo en un bário trankílo]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_p7w3fn5",
+    "word": "Mi calle es muy larga.",
+    "translation": "Minha rua é muito comprida.",
+    "syllables": [
+      "Mi",
+      "calle",
+      "es",
+      "muy",
+      "larga"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi ˈkaʎe es mui ˈlaɾɣa/",
+    "portuguesePhonetic": "[mi kálhe és múi lárga]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_1004h3h",
+    "word": "Espera en la parada de autobús.",
+    "translation": "Espere no ponto de ônibus.",
+    "syllables": [
+      "Espera",
+      "en",
+      "la",
+      "parada",
+      "de",
+      "autobús"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈpeɾa en la paˈɾaða de awtoˈβus/",
+    "portuguesePhonetic": "[espéra en la paráda de autobús]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_xwuo0ag",
+    "word": "La estación de tren está en el centro.",
+    "translation": "A estación de trem fica no centro.",
+    "syllables": [
+      "La",
+      "estación",
+      "de",
+      "tren",
+      "está",
+      "en",
+      "el",
+      "centro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la estaˈθjon de tɾen esˈta en el ˈθentɾo/",
+    "portuguesePhonetic": "[la estathión de trén está en el théntro]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_ghfc4oi",
+    "word": "Necesito ir al banco.",
+    "translation": "Eu preciso ir ao banco.",
+    "syllables": [
+      "Necesito",
+      "ir",
+      "al",
+      "banco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/neθeˈsito iɾ al ˈbaŋko/",
+    "portuguesePhonetic": "[nethesíto ir al bánko]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_r61vp87",
+    "word": "La oficina de correos cierra a las cinco.",
+    "translation": "Os correios fecham às cinco.",
+    "syllables": [
+      "La",
+      "oficina",
+      "de",
+      "correos",
+      "cierra",
+      "a",
+      "las",
+      "cinco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ofiˈθina de koˈreos ˈθjera a las ˈθiŋko/",
+    "portuguesePhonetic": "[la ofithína de korréos thiérra a las thínko]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_e1svwx2",
+    "word": "Mi oficina está en la avenida principal.",
+    "translation": "Meu escritório fica na avenida Main.",
+    "syllables": [
+      "Mi",
+      "oficina",
+      "está",
+      "en",
+      "la",
+      "avenida",
+      "principal"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi ofiˈθina esˈta en la aβeˈniða pɾinθiˈpal/",
+    "portuguesePhonetic": "[mi ofithína está en la abenída printhipál]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_sxm5ugb",
+    "word": "Voy andando al colegio todos los días.",
+    "translation": "Eu vou a pé para a escola todo dia.",
+    "syllables": [
+      "Voy",
+      "andando",
+      "al",
+      "colegio",
+      "todos",
+      "los",
+      "días"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/boi anˈdando al koˈlexjo ˈtoðos los ˈdias/",
+    "portuguesePhonetic": "[bôi andándo al kolérrio tódos los días]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_07i1i23",
+    "word": "La biblioteca está al lado del colegio.",
+    "translation": "A biblioteca fica ao lado da escola.",
+    "syllables": [
+      "La",
+      "biblioteca",
+      "está",
+      "al",
+      "lado",
+      "del",
+      "colegio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la biβljoˈteka esˈta al ˈlaðo del koˈlexjo/",
+    "portuguesePhonetic": "[la bibliotéka está al ládo del kolérrio]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_ctp5e9o",
+    "word": "El hospital está muy lejos de aquí.",
+    "translation": "O hospital fica muito longe daqui.",
+    "syllables": [
+      "El",
+      "hospital",
+      "está",
+      "muy",
+      "lejos",
+      "de",
+      "aquí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ospiˈtal esˈta mui ˈlexos de aˈki/",
+    "portuguesePhonetic": "[el ospitál está múi lérros de akí]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_htnr5t1",
+    "word": "Cenemos en ese restaurante.",
+    "translation": "Vamos jantar naquele restaurante.",
+    "syllables": [
+      "Cenemos",
+      "en",
+      "ese",
+      "restaurante"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/θeˈnemos en ˈese restawˈɾante/",
+    "portuguesePhonetic": "[thenémos en ése restauránte]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_oevpshz",
+    "word": "Me encanta esta cafetería pequeña.",
+    "translation": "Eu amo esse cafezinho.",
+    "syllables": [
+      "Me",
+      "encanta",
+      "esta",
+      "cafetería",
+      "pequeña"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me eŋˈkanta ˈesta kafeteˈɾia peˈkeɲa/",
+    "portuguesePhonetic": "[me enkánta ésta kafetería pekénha]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_u48zvs4",
+    "word": "Caminamos por el parque toda la tarde.",
+    "translation": "A gente caminhou no parque a tarde toda.",
+    "syllables": [
+      "Caminamos",
+      "por",
+      "el",
+      "parque",
+      "toda",
+      "la",
+      "tarde"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kamiˈnamos poɾ el ˈpaɾke ˈtoða la ˈtaɾðe/",
+    "portuguesePhonetic": "[kaminámos por el párke tóda la tárde]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_a3fj32h",
+    "word": "Quedamos en la plaza.",
+    "translation": "Vamos nos encontrar na praça.",
+    "syllables": [
+      "Quedamos",
+      "en",
+      "la",
+      "plaza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/keˈðamos en la ˈplaθa/",
+    "portuguesePhonetic": "[kedámos en la plátha]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_pmx3vzz",
+    "word": "Vamos al cine esta noche.",
+    "translation": "A gente vai ao cinema hoje à noite.",
+    "syllables": [
+      "Vamos",
+      "al",
+      "cine",
+      "esta",
+      "noche"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbamos al ˈθine ˈesta ˈnotʃe/",
+    "portuguesePhonetic": "[bámos al thíne ésta nótche]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_b2axym8",
+    "word": "La función del teatro empieza a las ocho.",
+    "translation": "O espetáculo do teatro começa às oito.",
+    "syllables": [
+      "La",
+      "función",
+      "del",
+      "teatro",
+      "empieza",
+      "a",
+      "las",
+      "ocho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la funˈθjon del teˈatɾo emˈpjeθa a las ˈotʃo/",
+    "portuguesePhonetic": "[la funthión del teátro empiétha a las ótcho]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_vev81v2",
+    "word": "Nos quedamos en un hotel en el centro.",
+    "translation": "A gente vai ficar num hotel no centro.",
+    "syllables": [
+      "Nos",
+      "quedamos",
+      "en",
+      "un",
+      "hotel",
+      "en",
+      "el",
+      "centro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos keˈðamos en un oˈtel en el ˈθentɾo/",
+    "portuguesePhonetic": "[nos kedámos en un otél en el théntro]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_9b8fdx9",
+    "word": "El aeropuerto está a treinta minutos.",
+    "translation": "O aeroporto fica a trinta minutos.",
+    "syllables": [
+      "El",
+      "aeropuerto",
+      "está",
+      "a",
+      "treinta",
+      "minutos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el aeɾoˈpweɾto esˈta a ˈtɾejnta miˈnutos/",
+    "portuguesePhonetic": "[el aeropuérto está a tréinta minútos]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_bbcgzn9",
+    "word": "La Torre Eiffel es una atracción turística famosa.",
+    "translation": "A Torre Eiffel é uma atração turística famosa.",
+    "syllables": [
+      "La",
+      "Torre",
+      "Eiffel",
+      "es",
+      "una",
+      "atracción",
+      "turística",
+      "famosa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈtore aɪˈfel es una atɾakˈθjon tuˈɾistika faˈmosa/",
+    "portuguesePhonetic": "[la tórre aifél és úna atrakthión turística famósa]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_godagea",
+    "word": "El centro de la ciudad es precioso en otoño.",
+    "translation": "O centro da cidade é lindo no outono.",
+    "syllables": [
+      "El",
+      "centro",
+      "de",
+      "la",
+      "ciudad",
+      "es",
+      "precioso",
+      "en",
+      "otoño"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈθentɾo de la θjuˈðað es pɾeˈθjoso en oˈtoɲo/",
+    "portuguesePhonetic": "[el théntro de la thiudád és prethiósso en otónho]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_w89mcjq",
+    "word": "Hay muchas tiendas en el centro.",
+    "translation": "Tem muitas lojas no centro da cidade.",
+    "syllables": [
+      "Hay",
+      "muchas",
+      "tiendas",
+      "en",
+      "el",
+      "centro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ai ˈmutʃas ˈtjendas en el ˈθentɾo/",
+    "portuguesePhonetic": "[ái mútchas tiéndas en el théntro]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_3uwiy25",
+    "word": "Cogimos un taxi del aeropuerto al hotel.",
+    "translation": "A gente pegou um táxi do aeroporto até o hotel.",
+    "syllables": [
+      "Cogimos",
+      "un",
+      "taxi",
+      "del",
+      "aeropuerto",
+      "al",
+      "hotel"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/koˈximos un ˈtaɣsi del aeɾoˈpweɾto al oˈtel/",
+    "portuguesePhonetic": "[korrímos un táksi del aeropuérto al otél]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_s6ad203",
+    "word": "Envié la carta en la oficina de correos.",
+    "translation": "Eu enviei a carta nos correios.",
+    "syllables": [
+      "Envié",
+      "la",
+      "carta",
+      "en",
+      "la",
+      "oficina",
+      "de",
+      "correos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/embiˈe la ˈkaɾta en la ofiˈθina de koˈreos/",
+    "portuguesePhonetic": "[embié la kárta en la ofithína de korréos]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_d2t9b7l",
+    "word": "Crecí en una aldea pequeña.",
+    "translation": "Eu cresci num vilarejo pequeno.",
+    "syllables": [
+      "Crecí",
+      "en",
+      "una",
+      "aldea",
+      "pequeña"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kɾeˈθi en una alˈdea peˈkeɲa/",
+    "portuguesePhonetic": "[krethí en úna aldéa pekénha]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_1hs8cc6",
+    "word": "Este museo tiene una colección de arte genial.",
+    "translation": "Esse museu tem uma coleção de arte ótima.",
+    "syllables": [
+      "Este",
+      "museo",
+      "tiene",
+      "una",
+      "colección",
+      "de",
+      "arte",
+      "genial"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeste muˈseo ˈtjene una koleˈkθjon de ˈaɾte xeˈnjal/",
+    "portuguesePhonetic": "[éste muséo tiéne úna kolekthión de árte rrenIál]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_zautkxg",
+    "word": "Me gusta esta ciudad.",
+    "translation": "Eu gosto dessa cidade.",
+    "syllables": [
+      "Me",
+      "gusta",
+      "esta",
+      "ciudad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈɡusta ˈesta θjuˈðað/",
+    "portuguesePhonetic": "[me gústa ésta thiudád]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_kt5t5ay",
+    "word": "El parque está cerrado.",
+    "translation": "O parque está fechado.",
+    "syllables": [
+      "El",
+      "parque",
+      "está",
+      "cerrado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈpaɾke esˈta θeˈraðo/",
+    "portuguesePhonetic": "[el párke está therrádo]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_ngvdqf7",
+    "word": "Visitamos el museo.",
+    "translation": "A gente visitou o museu.",
+    "syllables": [
+      "Visitamos",
+      "el",
+      "museo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bisiˈtamos el muˈseo/",
+    "portuguesePhonetic": "[bisitámos el muséo]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_bbaemia",
+    "word": "No tienen biblioteca aquí.",
+    "translation": "Eles não têm biblioteca aqui.",
+    "syllables": [
+      "No",
+      "tienen",
+      "biblioteca",
+      "aquí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈtjenen biβljoˈteka aˈki/",
+    "portuguesePhonetic": "[no tiénen bibliotéka akí]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_3o39gr6",
+    "word": "¿Está abierto el hospital veinticuatro horas?",
+    "translation": "O hospital fica aberto vinte e quatro horas?",
+    "syllables": [
+      "Está",
+      "abierto",
+      "el",
+      "hospital",
+      "veinticuatro",
+      "horas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta aˈβjeɾto el ospiˈtal βejntikuˈatɾo ˈoɾas/",
+    "portuguesePhonetic": "[está abiérto el ospitál béintikuátro óras]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_hbqa5uk",
+    "word": "El banco no abre los domingos.",
+    "translation": "O banco não abre aos domingos.",
+    "syllables": [
+      "El",
+      "banco",
+      "no",
+      "abre",
+      "los",
+      "domingos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈbaŋko no ˈaβɾe los doˈmiŋɡos/",
+    "portuguesePhonetic": "[el bánko no ábre los domíngos]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_5xjoltd",
+    "word": "Encontramos un restaurante genial cerca de la plaza.",
+    "translation": "A gente achou um restaurante ótimo perto da praça.",
+    "syllables": [
+      "Encontramos",
+      "un",
+      "restaurante",
+      "genial",
+      "cerca",
+      "de",
+      "la",
+      "plaza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/eŋkonˈtɾamos un restawˈɾante xeˈnjal ˈθeɾka de la ˈplaθa/",
+    "portuguesePhonetic": "[enkontrámos un restauránte rrenIál thérka de la plátha]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_7e98o9u",
+    "word": "Este hotel no es barato.",
+    "translation": "Esse hotel não é barato.",
+    "syllables": [
+      "Este",
+      "hotel",
+      "no",
+      "es",
+      "barato"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeste oˈtel no es baˈɾato/",
+    "portuguesePhonetic": "[éste otél no és baráto]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_tvg7kot",
+    "word": "¿No hay una estación de tren cerca?",
+    "translation": "Não tem uma estação de trem por perto?",
+    "syllables": [
+      "No",
+      "hay",
+      "una",
+      "estación",
+      "de",
+      "tren",
+      "cerca"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ai una estaˈθjon de tɾen ˈθeɾka/",
+    "portuguesePhonetic": "[no ái úna estathión de trén thérka]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_9of27ys",
+    "word": "¿Dónde está la parada de autobús más cercana?",
+    "translation": "Onde fica o ponto de ônibus mais próximo?",
+    "syllables": [
+      "Dónde",
+      "está",
+      "la",
+      "parada",
+      "de",
+      "autobús",
+      "más",
+      "cercana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta la paˈɾaða de awtoˈβus mas θeɾˈkana/",
+    "portuguesePhonetic": "[dônde está la paráda de autobús mas therkána]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_f5kvopd",
+    "word": "¿Por qué no ha abierto todavía el museo?",
+    "translation": "Por que o museu ainda não abriu?",
+    "syllables": [
+      "Por",
+      "qué",
+      "no",
+      "ha",
+      "abierto",
+      "todavía",
+      "el",
+      "museo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke no a aˈβjeɾto toðaˈβia el muˈseo/",
+    "portuguesePhonetic": "[por ké no a abiérto todabía el muséo]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_k9n4osd",
+    "word": "¿No tienen teatro en este pueblo?",
+    "translation": "Eles não têm teatro nessa cidade?",
+    "syllables": [
+      "No",
+      "tienen",
+      "teatro",
+      "en",
+      "este",
+      "pueblo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈtjenen teˈatɾo en ˈeste ˈpweβlo/",
+    "portuguesePhonetic": "[no tiénen teátro en éste puéblo]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_run21b6",
+    "word": "Fui a la oficina de correos porque necesitaba enviar un paquete.",
+    "translation": "Eu fui aos correios porque precisava enviar um pacote.",
+    "syllables": [
+      "Fui",
+      "a",
+      "la",
+      "oficina",
+      "de",
+      "correos",
+      "porque",
+      "necesitaba",
+      "enviar",
+      "un",
+      "paquete"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/fwi a la ofiˈθina de koˈreos ˈpoɾke neθesiˈtaβa embiˈaɾ un paˈkete/",
+    "portuguesePhonetic": "[fui a la ofithína de korréos pórke nethesitába embiár un pakéte]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_flvnrcc",
+    "word": "Estábamos en el aeropuerto cuando se retrasó el vuelo.",
+    "translation": "A gente estava no aeroporto quando o voo atrasou.",
+    "syllables": [
+      "Estábamos",
+      "en",
+      "el",
+      "aeropuerto",
+      "cuando",
+      "se",
+      "retrasó",
+      "el",
+      "vuelo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβamos en el aeɾoˈpweɾto ˈkwando se reˈtɾaso el ˈbwelo/",
+    "portuguesePhonetic": "[estábamos en el aeropuérto kuándo se retrasó el buélo]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_03dv181",
+    "word": "Trabaja en un banco del centro, pero vive en las afueras.",
+    "translation": "Ela trabalha num banco no centro, mas mora nos subúrbios.",
+    "syllables": [
+      "Trabaja",
+      "en",
+      "un",
+      "banco",
+      "del",
+      "centro",
+      "pero",
+      "vive",
+      "en",
+      "las",
+      "afueras"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾaˈβaxa en un ˈbaŋko del ˈθentɾo ˈpeɾo ˈbiβe en las aˈfweɾas/",
+    "portuguesePhonetic": "[trabárra en un bánko del théntro péro bíbe en las afuéras]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_ba4nef4",
+    "word": "Cuando cerró el cine, todos se decepcionaron.",
+    "translation": "Quando o cinema fechou, todo mundo ficou decepcionado.",
+    "syllables": [
+      "Cuando",
+      "cerró",
+      "el",
+      "cine",
+      "todos",
+      "se",
+      "decepcionaron"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwando θeˈro el ˈθine ˈtoðos se deθepθjoˈnaɾon/",
+    "portuguesePhonetic": "[kuándo therró el thíne tódos se dethepthionáron]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_tvzxbim",
+    "word": "Normalmente comemos en casa, pero fuimos a un restaurante porque era su cumpleaños.",
+    "translation": "A gente geralmente come em casa, mas fomos a um restaurante porque era aniversário dela.",
+    "syllables": [
+      "Normalmente",
+      "comemos",
+      "en",
+      "casa",
+      "pero",
+      "fuimos",
+      "a",
+      "un",
+      "restaurante",
+      "porque",
+      "era",
+      "su",
+      "cumpleaños"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/noɾˈmalmente koˈmemos en ˈkasa ˈpeɾo ˈfwimos a un restawˈɾante ˈpoɾke ˈeɾa su kumpleˈaɲos/",
+    "portuguesePhonetic": "[normalménte komémos en kása péro fuímos a un restauránte pórke éra su kumpleánhos]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_8rfw1aa",
+    "word": "Pasamos todo el día visitando museos, y por la noche estábamos completamente agotados.",
+    "translation": "A gente passou o dia todo visitando museus, e à noite estávamos completamente exaustos.",
+    "syllables": [
+      "Pasamos",
+      "todo",
+      "el",
+      "día",
+      "visitando",
+      "museos",
+      "y",
+      "por",
+      "la",
+      "noche",
+      "estábamos",
+      "completamente",
+      "agotados"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/paˈsamos ˈtoðo el ˈdia bisiˈtando muˈseos i poɾ la ˈnotʃe esˈtaβamos kompletaˈmente aɣoˈtaðos/",
+    "portuguesePhonetic": "[pasámos tódo el día bisitándo muséos i por la nótche estábamos kompletaménte agotádos]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_ww8pucc",
+    "word": "El barrio ha cambiado mucho desde que era niño, y ahora hay muchísimos restaurantes nuevos.",
+    "translation": "O bairro mudou muito desde que eu era criança, e agora tem tantos restaurantes novos.",
+    "syllables": [
+      "El",
+      "barrio",
+      "ha",
+      "cambiado",
+      "mucho",
+      "desde",
+      "que",
+      "era",
+      "niño",
+      "y",
+      "ahora",
+      "hay",
+      "muchísimos",
+      "restaurantes",
+      "nuevos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈbario a kamˈbjaðo ˈmutʃo ˈdezðe ke ˈeɾa ˈniɲo i aˈoɾa ai muˈtʃisimos restawˈɾantes ˈnweβos/",
+    "portuguesePhonetic": "[el bário a kambiádo mútcho désde ke éra nínho i aóra ái mutchísimos restauránts nuébos]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_m5cqkm6",
+    "word": "Si nos hubiéramos quedado más cerca del centro, no habríamos necesitado coger el tren todos los días.",
+    "translation": "Se a gente tivesse ficado mais perto do centro da cidade, não teríamos precisado pegar o trem todo dia.",
+    "syllables": [
+      "Si",
+      "nos",
+      "hubiéramos",
+      "quedado",
+      "más",
+      "cerca",
+      "del",
+      "centro",
+      "no",
+      "habríamos",
+      "necesitado",
+      "coger",
+      "el",
+      "tren",
+      "todos",
+      "los",
+      "días"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si nos uˈβjeɾamos keˈðaðo mas ˈθeɾka del ˈθentɾo no aˈβɾiamos neθesiˈtaðo koˈxeɾ el tɾen ˈtoðos los ˈdias/",
+    "portuguesePhonetic": "[si nos ubiéramos kedádo mas thérka del théntro no abríamos nethesitádo korrér el trén tódos los días]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_zt0vwuj",
+    "word": "La antigua biblioteca del centro fue demolida el año pasado para construir un hotel nuevo, lo cual entristeció a mucha gente.",
+    "translation": "A biblioteca antiga do centro foi demolida ano passado para construir um hotel novo, o que deixou muita gente triste.",
+    "syllables": [
+      "La",
+      "antigua",
+      "biblioteca",
+      "del",
+      "centro",
+      "fue",
+      "demolida",
+      "el",
+      "año",
+      "pasado",
+      "para",
+      "construir",
+      "un",
+      "hotel",
+      "nuevo",
+      "lo",
+      "cual",
+      "entristeció",
+      "a",
+      "mucha",
+      "gente"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la anˈtiɣwa biβljoˈteka del ˈθentɾo fwe demoˈliða el ˈaɲo paˈsaðo ˈpaɾa konstɾuˈiɾ un oˈtel ˈnweβo lo kwal entɾisteˈθjo a ˈmutʃa ˈxente/",
+    "portuguesePhonetic": "[la antígua bibliotéka del théntro fué demolída el ánho pasádo pára konstruír un otél nuébo lo kuál entristethió a mútcha rrénte]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_uf6u0l8",
+    "word": "Nos perdimos intentando encontrar el museo, así que acabamos preguntando a alguien en una cafetería.",
+    "translation": "A gente se perdeu tentando achar o museu, então acabamos pedindo informações para alguém num café.",
+    "syllables": [
+      "Nos",
+      "perdimos",
+      "intentando",
+      "encontrar",
+      "el",
+      "museo",
+      "así",
+      "que",
+      "acabamos",
+      "preguntando",
+      "a",
+      "alguien",
+      "en",
+      "una",
+      "cafetería"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos peɾˈdimos intenˈtando eŋkonˈtɾaɾ el muˈseo aˈsi ke akaˈβamos pɾeɣunˈtando a ˈalɣjen en una kafeteˈɾia/",
+    "portuguesePhonetic": "[nos perdímos intentándo enkontrár el muséo así ke akabámos preguntándo a álguien en úna kafetería]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_xqlu6k1",
+    "word": "La ciudad construyó un parque nuevo cerca del hospital, para que los pacientes pudieran pasear mientras se recuperaban.",
+    "translation": "A cidade construiu um parque novo perto do hospital, para os pacientes poderem passear enquanto se recuperavam.",
+    "syllables": [
+      "La",
+      "ciudad",
+      "construyó",
+      "un",
+      "parque",
+      "nuevo",
+      "cerca",
+      "del",
+      "hospital",
+      "para",
+      "que",
+      "los",
+      "pacientes",
+      "pudieran",
+      "pasear",
+      "mientras",
+      "se",
+      "recuperaban"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la θjuˈðað konstɾuˈʝo un ˈpaɾke ˈnweβo ˈθeɾka del ospiˈtal ˈpaɾa ke los paˈθjentes puˈdjeɾan paseˈaɾ ˈmjentɾas se rekupeˈɾaβan/",
+    "portuguesePhonetic": "[la thiudád konstruió un párke nuébo thérka del ospitál pára ke los pathiéntes pudiéran paseár miéntras se rekuperában]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_k1ja8f5",
+    "word": "Queríamos ver una función en el teatro, pero las entradas estaban agotadas, así que vimos una película en su lugar.",
+    "translation": "A gente queria ver um espetáculo no teatro, mas os ingressos estavam esgotados, então assistimos a um filme em vez disso.",
+    "syllables": [
+      "Queríamos",
+      "ver",
+      "una",
+      "función",
+      "en",
+      "el",
+      "teatro",
+      "pero",
+      "las",
+      "entradas",
+      "estaban",
+      "agotadas",
+      "así",
+      "que",
+      "vimos",
+      "una",
+      "película",
+      "en",
+      "su",
+      "lugar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/keˈɾiamos beɾ una funˈθjon en el teˈatɾo ˈpeɾo las enˈtɾaðas esˈtaβan aɣoˈtaðas aˈsi ke ˈbimos una peˈlikula en su luˈɣaɾ/",
+    "portuguesePhonetic": "[keríamos ber úna funthión en el teátro péro las entrádas estában agotádas así ke bímos úna pelíkula en su lugár]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_d0arz3e",
+    "word": "La estación de tren estaba a rebosar por la temporada turística, y tardamos una eternidad en encontrar nuestro andén.",
+    "translation": "A estação de trem estava lotada por causa da temporada turística, e demoramos uma eternidade para achar nossa plataforma.",
+    "syllables": [
+      "La",
+      "estación",
+      "de",
+      "tren",
+      "estaba",
+      "a",
+      "rebosar",
+      "por",
+      "la",
+      "temporada",
+      "turística",
+      "y",
+      "tardamos",
+      "una",
+      "eternidad",
+      "en",
+      "encontrar",
+      "nuestro",
+      "andén"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la estaˈθjon de tɾen esˈtaβa a reβoˈsaɾ poɾ la tempoˈɾaða tuˈɾistika i taɾˈðamos una eteɾniˈðað en eŋkonˈtɾaɾ ˈnwestɾo anˈden/",
+    "portuguesePhonetic": "[la estathión de trén estába a rebosár por la temporáda turística i tardámos úna eternidád en enkontrár nuéstro andén]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_yfzlcus",
+    "word": "¿Dónde está el banco más cercano? / A dos calles.",
+    "translation": "Onde fica o banco mais próximo? / A dois quarteirões.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "banco",
+      "más",
+      "cercano",
+      "/",
+      "A",
+      "dos",
+      "calles"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el ˈbaŋko mas θeɾˈkano · a dos ˈkaʎes/",
+    "portuguesePhonetic": "[dônde está el bánko mas therkáno · a dos kálhes]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_1ffcp50",
+    "word": "¿Hay un parque cerca? / Sí, justo a la vuelta.",
+    "translation": "Tem um parque por perto? / Sim, logo na esquina.",
+    "syllables": [
+      "Hay",
+      "un",
+      "parque",
+      "cerca",
+      "/",
+      "Sí",
+      "justo",
+      "a",
+      "la",
+      "vuelta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ai un ˈpaɾke ˈθeɾka · si ˈxusto a la ˈbwelta/",
+    "portuguesePhonetic": "[ái un párke thérka · sí rrústo a la buélta]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_5bcra1x",
+    "word": "¿Dónde está el museo? / En la plaza.",
+    "translation": "Onde fica o museu? / Na praça.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "museo",
+      "/",
+      "En",
+      "la",
+      "plaza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el muˈseo · en la ˈplaθa/",
+    "portuguesePhonetic": "[dônde está el muséo · en la plátha]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_xwol2x4",
+    "word": "¿Tenéis una biblioteca aquí? / Sí, en el centro.",
+    "translation": "Vocês têm uma biblioteca aqui? / Sim, no centro.",
+    "syllables": [
+      "Tenéis",
+      "una",
+      "biblioteca",
+      "aquí",
+      "/",
+      "Sí",
+      "en",
+      "el",
+      "centro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈneis una biβljoˈteka aˈki · si en el ˈθentɾo/",
+    "portuguesePhonetic": "[tenéis úna bibliotéka akí · sí en el théntro]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_gethqqd",
+    "word": "¿Dónde hay un buen restaurante? / En la avenida principal.",
+    "translation": "Onde tem um bom restaurante? / Na avenida Main.",
+    "syllables": [
+      "Dónde",
+      "hay",
+      "un",
+      "buen",
+      "restaurante",
+      "/",
+      "En",
+      "la",
+      "avenida",
+      "principal"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde ai un bwen restawˈɾante · en la aβeˈniða pɾinθiˈpal/",
+    "portuguesePhonetic": "[dônde ái un buén restauránte · en la abenída printhipál]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_5zxo6bi",
+    "word": "¿Está lejos el colegio? / No, muy cerca.",
+    "translation": "A escola fica longe daqui? / Não, bem perto.",
+    "syllables": [
+      "Está",
+      "lejos",
+      "el",
+      "colegio",
+      "/",
+      "No",
+      "muy",
+      "cerca"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta ˈlexos el koˈlexjo · no mui ˈθeɾka/",
+    "portuguesePhonetic": "[está lérros el kolérrio · no múi thérka]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_0gf12jn",
+    "word": "¿Dónde está el hospital? / Detrás del parque.",
+    "translation": "Onde fica o hospital? / Atrás do parque.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "hospital",
+      "/",
+      "Detrás",
+      "del",
+      "parque"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el ospiˈtal · deˈtɾas del ˈpaɾke/",
+    "portuguesePhonetic": "[dônde está el ospitál · detrás del párke]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_yjnfg9f",
+    "word": "¿A qué hora abre la oficina de correos? / A las nueve.",
+    "translation": "A que horas os correios abrem? / Às nove.",
+    "syllables": [
+      "A",
+      "qué",
+      "hora",
+      "abre",
+      "la",
+      "oficina",
+      "de",
+      "correos",
+      "/",
+      "A",
+      "las",
+      "nueve"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke ˈoɾa ˈaβɾe la ofiˈθina de koˈreos · a las ˈnweβe/",
+    "portuguesePhonetic": "[a ke óra ábre la ofithína de korréos · a las nuébe]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_6ldbc7t",
+    "word": "¿Dónde cojo el autobús? / En la parada.",
+    "translation": "Onde eu pego o ônibus? / No ponto de ônibus.",
+    "syllables": [
+      "Dónde",
+      "cojo",
+      "el",
+      "autobús",
+      "/",
+      "En",
+      "la",
+      "parada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde ˈkoxo el awtoˈβus · en la paˈɾaða/",
+    "portuguesePhonetic": "[dônde kórro el autobús · en la paráda]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_r9r32qo",
+    "word": "¿Está el hotel cerca del aeropuerto? / Sí, muy cerca.",
+    "translation": "O hotel fica perto do aeroporto? / Sim, bem perto.",
+    "syllables": [
+      "Está",
+      "el",
+      "hotel",
+      "cerca",
+      "del",
+      "aeropuerto",
+      "/",
+      "Sí",
+      "muy",
+      "cerca"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta el oˈtel ˈθeɾka del aeɾoˈpweɾto · si mui ˈθeɾka/",
+    "portuguesePhonetic": "[está el otél thérka del aeropuérto · sí múi thérka]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_0m6defa",
+    "word": "¿Qué ponen en el cine? / Una comedia nueva.",
+    "translation": "O que está passando no cinema? / Uma comédia nova.",
+    "syllables": [
+      "Qué",
+      "ponen",
+      "en",
+      "el",
+      "cine",
+      "/",
+      "Una",
+      "comedia",
+      "nueva"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈponen en el ˈθine · una koˈmeðja ˈnweβa/",
+    "portuguesePhonetic": "[ke pónen en el thíne · úna koméďia nuéba]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_w0vbm25",
+    "word": "¿Dónde está el teatro? / Justo en la plaza.",
+    "translation": "Onde fica o teatro? / Bem na praça.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "teatro",
+      "/",
+      "Justo",
+      "en",
+      "la",
+      "plaza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el teˈatɾo · ˈxusto en la ˈplaθa/",
+    "portuguesePhonetic": "[dônde está el teátro · rrústo en la plátha]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_z8yavy3",
+    "word": "¿A qué distancia está la estación de tren? / A unos diez minutos.",
+    "translation": "Quão longe fica a estación de trem? / Cerca de dez minutos.",
+    "syllables": [
+      "A",
+      "qué",
+      "distancia",
+      "está",
+      "la",
+      "estación",
+      "de",
+      "tren",
+      "/",
+      "A",
+      "unos",
+      "diez",
+      "minutos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ke disˈtanθja esˈta la estaˈθjon de tɾen · a ˈunos djeθ miˈnutos/",
+    "portuguesePhonetic": "[a ke distántia está la estathión de trén · a únos diéth minútos]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_c8r3x78",
+    "word": "¿Hay un aeropuerto cerca? / Sí, a treinta minutos.",
+    "translation": "Tem um aeroporto por perto? / Sim, a trinta minutos.",
+    "syllables": [
+      "Hay",
+      "un",
+      "aeropuerto",
+      "cerca",
+      "/",
+      "Sí",
+      "a",
+      "treinta",
+      "minutos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ai un aeɾoˈpweɾto ˈθeɾka · si a ˈtɾejnta miˈnutos/",
+    "portuguesePhonetic": "[ái un aeropuérto thérka · sí a tréinta minútos]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_v56nk0d",
+    "word": "¿Cuál es la mayor atracción turística de aquí? / La iglesia antigua.",
+    "translation": "Qual é a maior atração turística aqui? / A igreja antiga.",
+    "syllables": [
+      "Cuál",
+      "es",
+      "la",
+      "mayor",
+      "atracción",
+      "turística",
+      "de",
+      "aquí",
+      "/",
+      "La",
+      "iglesia",
+      "antigua"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kwal es la maˈʝoɾ atɾakˈθjon tuˈɾistika de aˈki · la iˈɣlesja anˈtiɣwa/",
+    "portuguesePhonetic": "[kuál és la maiór atrakthión turística de akí · la iglésia antígua]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_xejt2zk",
+    "word": "¿Vives en la ciudad o en una aldea? / En una aldea pequeña.",
+    "translation": "Você mora na cidade ou num vilarejo? / Num vilarejo pequeno.",
+    "syllables": [
+      "Vives",
+      "en",
+      "la",
+      "ciudad",
+      "o",
+      "en",
+      "una",
+      "aldea",
+      "/",
+      "En",
+      "una",
+      "aldea",
+      "pequeña"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbiβes en la θjuˈðað o en una alˈdea · en una alˈdea peˈkeɲa/",
+    "portuguesePhonetic": "[bíbes en la thiudád o en úna aldéa · en úna aldéa pekénha]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_wr7cn80",
+    "word": "¿Dónde está la cafetería más cercana? / Justo al otro lado de la calle.",
+    "translation": "Onde fica o café mais próximo? / Bem do outro lado da rua.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "la",
+      "cafetería",
+      "más",
+      "cercana",
+      "/",
+      "Justo",
+      "al",
+      "otro",
+      "lado",
+      "de",
+      "la",
+      "calle"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta la kafeteˈɾia mas θeɾˈkana · ˈxusto al ˈotɾo ˈlaðo de la ˈkaʎe/",
+    "portuguesePhonetic": "[dônde está la kafetería mas therkána · rrústo al ótro ládo de la kálhe]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_2nevoq9",
+    "word": "¿Es tranquilo tu barrio? / Sí, muy tranquilo.",
+    "translation": "Seu bairro é tranquilo? / Sim, bem pacífico.",
+    "syllables": [
+      "Es",
+      "tranquilo",
+      "tu",
+      "barrio",
+      "/",
+      "Sí",
+      "muy",
+      "tranquilo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es tɾaŋˈkilo tu ˈbario · si mui tɾaŋˈkilo/",
+    "portuguesePhonetic": "[és trankílo tu bário · sí múi trankílo]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_6scsqmg",
+    "word": "¿En qué calle vives? / En la calle Olmo.",
+    "translation": "Em que rua você mora? / Rua Elm.",
+    "syllables": [
+      "En",
+      "qué",
+      "calle",
+      "vives",
+      "/",
+      "En",
+      "la",
+      "calle",
+      "Olmo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/en ke ˈkaʎe ˈβiβes · en la ˈkaʎe ˈolmo/",
+    "portuguesePhonetic": "[en ke kálhe bíbes · en la kálhe ólmo]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_pgaavn6",
+    "word": "¿Dónde está la plaza del pueblo? / Justo delante.",
+    "translation": "Onde fica a praça da cidade? / Logo em frente.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "la",
+      "plaza",
+      "del",
+      "pueblo",
+      "/",
+      "Justo",
+      "delante"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta la ˈplaθa del ˈpweβlo · ˈxusto deˈlante/",
+    "portuguesePhonetic": "[dônde está la plátha del puéblo · rrústo delánte]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_7qt0og5",
+    "word": "¿Tienen un buen banco aquí? / Sí, dos.",
+    "translation": "Eles têm um bom banco aqui? / Sim, dois.",
+    "syllables": [
+      "Tienen",
+      "un",
+      "buen",
+      "banco",
+      "aquí",
+      "/",
+      "Sí",
+      "dos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenen un bwen ˈbaŋko aˈki · si dos/",
+    "portuguesePhonetic": "[tiénen un buén bánko akí · sí dos]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_d8te5dn",
+    "word": "¿Es seguro el centro por la noche? / Sí, bastante seguro.",
+    "translation": "O centro da cidade é seguro à noite? / Sim, bem seguro.",
+    "syllables": [
+      "Es",
+      "seguro",
+      "el",
+      "centro",
+      "por",
+      "la",
+      "noche",
+      "/",
+      "Sí",
+      "bastante",
+      "seguro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es seˈɣuɾo el ˈθentɾo poɾ la ˈnotʃe · si basˈtante seˈɣuɾo/",
+    "portuguesePhonetic": "[és segúro el théntro por la nótche · sí bastánte segúro]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_kfnpxe5",
+    "word": "¿Hay un buen colegio por aquí? / Ahí mismo en la calle.",
+    "translation": "Onde tem uma boa escola por aqui? / Logo na rua abaixo.",
+    "syllables": [
+      "Hay",
+      "un",
+      "buen",
+      "colegio",
+      "por",
+      "aquí",
+      "/",
+      "Ahí",
+      "mismo",
+      "en",
+      "la",
+      "calle"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ai un bwen koˈlexjo poɾ aˈki · aˈi ˈmizmo en la ˈkaʎe/",
+    "portuguesePhonetic": "[ái un buén kolérrio por akí · aí mízmo en la kálhe]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_h68r1mj",
+    "word": "¿Has estado en ese museo nuevo? / Todavía no.",
+    "translation": "Você já foi àquele museu novo? / Ainda não.",
+    "syllables": [
+      "Has",
+      "estado",
+      "en",
+      "ese",
+      "museo",
+      "nuevo",
+      "/",
+      "Todavía",
+      "no"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/as esˈtaðo en ˈese muˈseo ˈnweβo · toðaˈβia no/",
+    "portuguesePhonetic": "[as estádo en ése muséo nuébo · todabía no]"
+  },
+  {
+    "id": "lesson_13_vocabulary_a1_es_id_j8aeteo",
+    "word": "¿Dónde deberíamos quedarnos? / En un hotel del centro.",
+    "translation": "Onde a gente deveria ficar? / Um hotel no centro.",
+    "syllables": [
+      "Dónde",
+      "deberíamos",
+      "quedarnos",
+      "/",
+      "En",
+      "un",
+      "hotel",
+      "del",
+      "centro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde deβeˈɾiamos keˈðaɾnos · en un oˈtel del ˈθentɾo/",
+    "portuguesePhonetic": "[dônde deberíamos kedárnos · en un otél del théntro]"
+  }
+]

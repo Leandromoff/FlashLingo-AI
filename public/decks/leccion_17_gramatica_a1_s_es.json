@@ -1,0 +1,1593 @@
+[
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_smuk2qm",
+    "word": "Estaba en casa.",
+    "translation": "Eu estava em casa.",
+    "syllables": [
+      "Estaba",
+      "en",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa en ˈkasa/",
+    "portuguesePhonetic": "[estába en kása]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_c0otm5w",
+    "word": "Estaba cansado.",
+    "translation": "Ele estava cansado.",
+    "syllables": [
+      "Estaba",
+      "cansado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa kanˈsaðo/",
+    "portuguesePhonetic": "[estába kansádo]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_vx6uwhz",
+    "word": "Estaba contenta.",
+    "translation": "Ela estava feliz.",
+    "syllables": [
+      "Estaba",
+      "contenta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa konˈtenta/",
+    "portuguesePhonetic": "[estába konténta]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_tsrnz4c",
+    "word": "Hacía frío.",
+    "translation": "Estava frio.",
+    "syllables": [
+      "Hacía",
+      "frío"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈθia ˈfɾio/",
+    "portuguesePhonetic": "[athía frío]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_juuw2rc",
+    "word": "Llegabas tarde.",
+    "translation": "Você estava atrasado.",
+    "syllables": [
+      "Llegabas",
+      "tarde"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʎeˈɣaβas ˈtaɾðe/",
+    "portuguesePhonetic": "[lhegábas tárde]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_774n9fu",
+    "word": "Estábamos ocupados.",
+    "translation": "A gente estava ocupado.",
+    "syllables": [
+      "Estábamos",
+      "ocupados"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβamos okuˈpaðos/",
+    "portuguesePhonetic": "[estábamos okupádos]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_l675k4r",
+    "word": "Eran jóvenes.",
+    "translation": "Eles eram jovens.",
+    "syllables": [
+      "Eran",
+      "jóvenes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeɾan ˈxoβenes/",
+    "portuguesePhonetic": "[éran rróbenes]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_nw4sag9",
+    "word": "No estaba listo.",
+    "translation": "Eu não estava pronto.",
+    "syllables": [
+      "No",
+      "estaba",
+      "listo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa ˈlisto/",
+    "portuguesePhonetic": "[no estába lísto]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_llzgj6s",
+    "word": "No estaba listo.",
+    "translation": "Ele não estava pronto.",
+    "syllables": [
+      "No",
+      "estaba",
+      "listo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa ˈlisto/",
+    "portuguesePhonetic": "[no estába lísto]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_8pgn09d",
+    "word": "No estaba allí.",
+    "translation": "Ela não estava lá.",
+    "syllables": [
+      "No",
+      "estaba",
+      "allí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa aˈʎi/",
+    "portuguesePhonetic": "[no estába alhí]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_mzco63n",
+    "word": "No llegábamos tarde.",
+    "translation": "A gente não estava atrasado.",
+    "syllables": [
+      "No",
+      "llegábamos",
+      "tarde"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ʎeˈɣaβamos ˈtaɾðe/",
+    "portuguesePhonetic": "[no lhegábamos tárde]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_nariahu",
+    "word": "No estaban en casa.",
+    "translation": "Eles não estavam em casa.",
+    "syllables": [
+      "No",
+      "estaban",
+      "en",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβan en ˈkasa/",
+    "portuguesePhonetic": "[no estában en kása]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_312o1v4",
+    "word": "¿Tenía razón?",
+    "translation": "Eu estava certo?",
+    "syllables": [
+      "Tenía",
+      "razón"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈnia raˈθon/",
+    "portuguesePhonetic": "[tenía rathón]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_461q2c0",
+    "word": "¿Estaba allí?",
+    "translation": "Ele estava lá?",
+    "syllables": [
+      "Estaba",
+      "allí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa aˈʎi/",
+    "portuguesePhonetic": "[estába alhí]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_tmxgxkj",
+    "word": "¿Estaba contenta?",
+    "translation": "Ela estava feliz?",
+    "syllables": [
+      "Estaba",
+      "contenta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa konˈtenta/",
+    "portuguesePhonetic": "[estába konténta]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_pmoasm5",
+    "word": "¿Estabas cansado?",
+    "translation": "Você estava cansado?",
+    "syllables": [
+      "Estabas",
+      "cansado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβas kanˈsaðo/",
+    "portuguesePhonetic": "[estábas kansádo]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_r7ybjys",
+    "word": "¿Estaban listos?",
+    "translation": "Eles estaban prontos?",
+    "syllables": [
+      "Estaban",
+      "listos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβan ˈlistos/",
+    "portuguesePhonetic": "[estában lístos]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_gii5elv",
+    "word": "Sí, estaba.",
+    "translation": "Sim, estava.",
+    "syllables": [
+      "Sí",
+      "estaba"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si esˈtaβa/",
+    "portuguesePhonetic": "[sí estába]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_wyycofe",
+    "word": "No, no estaba.",
+    "translation": "Não, ele não estava.",
+    "syllables": [
+      "No",
+      "no",
+      "estaba"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no no esˈtaβa/",
+    "portuguesePhonetic": "[no no estába]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_iab93hk",
+    "word": "Sí, estaban.",
+    "translation": "Sim, estavam.",
+    "syllables": [
+      "Sí",
+      "estaban"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si esˈtaβan/",
+    "portuguesePhonetic": "[sí estában]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_jn1a9sp",
+    "word": "No, no estábamos.",
+    "translation": "Não, a gente não estava.",
+    "syllables": [
+      "No",
+      "no",
+      "estábamos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no no esˈtaβamos/",
+    "portuguesePhonetic": "[no no estábamos]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_nnjq234",
+    "word": "No estaba.",
+    "translation": "Ele não estava.",
+    "syllables": [
+      "No",
+      "estaba"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa/",
+    "portuguesePhonetic": "[no estába]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_rqzi0yl",
+    "word": "¿Estaba ella?",
+    "translation": "Ela estava?",
+    "syllables": [
+      "Estaba",
+      "ella"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa ˈeʎa/",
+    "portuguesePhonetic": "[estába élha]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_zpjd7xi",
+    "word": "Nací en Chicago.",
+    "translation": "Eu nasci em Chicago.",
+    "syllables": [
+      "Nací",
+      "en",
+      "Chicago"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/naˈθi en tʃiˈkaɣo/",
+    "portuguesePhonetic": "[nathí en tchikágo]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_7n92cs4",
+    "word": "Éramos estudiantes juntos.",
+    "translation": "A gente era estudante junto.",
+    "syllables": [
+      "Éramos",
+      "estudiantes",
+      "juntos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeɾamos estuˈðjantes ˈxuntos/",
+    "portuguesePhonetic": "[éramos estudiántes rrúntos]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_t7y026k",
+    "word": "Llegué tarde esta mañana.",
+    "translation": "Eu estava atrasado hoje de manhã.",
+    "syllables": [
+      "Llegué",
+      "tarde",
+      "esta",
+      "mañana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʎeˈɣe ˈtaɾðe ˈesta maˈɲana/",
+    "portuguesePhonetic": "[lhegué tárde ésta manhána]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_6ahtua0",
+    "word": "La puerta estaba cerrada con llave.",
+    "translation": "A porta estava trancada.",
+    "syllables": [
+      "La",
+      "puerta",
+      "estaba",
+      "cerrada",
+      "con",
+      "llave"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈpweɾta esˈtaβa θeˈraða kon ˈʎaβe/",
+    "portuguesePhonetic": "[la puérta estába therráda kon lhábe]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_ab96en8",
+    "word": "La reunión fue larga.",
+    "translation": "A reunião foi longa.",
+    "syllables": [
+      "La",
+      "reunión",
+      "fue",
+      "larga"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la reuˈnjon fwe ˈlaɾɣa/",
+    "portuguesePhonetic": "[la reunión fué lárga]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_7zdw5i8",
+    "word": "Estuvimos en una reunión toda la mañana.",
+    "translation": "A gente estava em reunião a manhã toda.",
+    "syllables": [
+      "Estuvimos",
+      "en",
+      "una",
+      "reunión",
+      "toda",
+      "la",
+      "mañana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/estuˈβimos en una reuˈnjon ˈtoða la maˈɲana/",
+    "portuguesePhonetic": "[estubímos en úna reunión tóda la manhána]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_1knvbl1",
+    "word": "¿Estaba terminado el informe?",
+    "translation": "O relatório estava pronto?",
+    "syllables": [
+      "Estaba",
+      "terminado",
+      "el",
+      "informe"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa teɾmiˈnaðo el imˈfoɾme/",
+    "portuguesePhonetic": "[estába terminádo el imfórme]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_zt6q01m",
+    "word": "El vuelo estaba retrasado.",
+    "translation": "O voo estava atrasado.",
+    "syllables": [
+      "El",
+      "vuelo",
+      "estaba",
+      "retrasado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈbwelo esˈtaβa reˈtɾasaðo/",
+    "portuguesePhonetic": "[el buélo estába retrasádo]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_u1n9aq5",
+    "word": "Estuvimos en el aeropuerto tres horas.",
+    "translation": "A gente ficou no aeroporto por três horas.",
+    "syllables": [
+      "Estuvimos",
+      "en",
+      "el",
+      "aeropuerto",
+      "tres",
+      "horas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/estuˈβimos en el aeɾoˈpweɾto tɾes ˈoɾas/",
+    "portuguesePhonetic": "[estubímos en el aeropuérto trés óras]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_samwcgf",
+    "word": "El hotel era muy bonito.",
+    "translation": "O hotel era muito bom.",
+    "syllables": [
+      "El",
+      "hotel",
+      "era",
+      "muy",
+      "bonito"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el oˈtel ˈeɾa mui boˈnito/",
+    "portuguesePhonetic": "[el otél éra múi boníto]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_dwtzdoz",
+    "word": "La comida estaba deliciosa.",
+    "translation": "A comida estava deliciosa.",
+    "syllables": [
+      "La",
+      "comida",
+      "estaba",
+      "deliciosa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la koˈmiða esˈtaβa deliˈθjosa/",
+    "portuguesePhonetic": "[la komída estába delithiósa]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_2op9huw",
+    "word": "El servicio no era muy bueno.",
+    "translation": "O atendimento não estava muito bom.",
+    "syllables": [
+      "El",
+      "servicio",
+      "no",
+      "era",
+      "muy",
+      "bueno"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el seɾˈβiθjo no ˈeɾa mui ˈbweno/",
+    "portuguesePhonetic": "[el serbíthio no éra múi buéno]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_yl4exms",
+    "word": "El médico estaba ocupado.",
+    "translation": "O médico estava ocupado.",
+    "syllables": [
+      "El",
+      "médico",
+      "estaba",
+      "ocupado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈmeðiko esˈtaβa okuˈpaðo/",
+    "portuguesePhonetic": "[el médiko estába okupádo]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_a1fn8u3",
+    "word": "¿Era muy fuerte el dolor?",
+    "translation": "A dor estava muito forte?",
+    "syllables": [
+      "Era",
+      "muy",
+      "fuerte",
+      "el",
+      "dolor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeɾa mui ˈfweɾte el doˈloɾ/",
+    "portuguesePhonetic": "[éra múi fuérte el dolór]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_sfwp64n",
+    "word": "La tienda estaba cerrada.",
+    "translation": "A loja estava fechada.",
+    "syllables": [
+      "La",
+      "tienda",
+      "estaba",
+      "cerrada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈtjenda esˈtaβa θeˈraða/",
+    "portuguesePhonetic": "[la tiénda estába therráda]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_rhymbe7",
+    "word": "Los precios eran demasiado altos.",
+    "translation": "Os preços estavam altos demais.",
+    "syllables": [
+      "Los",
+      "precios",
+      "eran",
+      "demasiado",
+      "altos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/los ˈpɾeθjos ˈeɾan demaˈsjaðos ˈaltos/",
+    "portuguesePhonetic": "[los préthios éran demasiádos áltos]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_n20k6un",
+    "word": "El gimnasio estaba lleno.",
+    "translation": "A academia estava cheia.",
+    "syllables": [
+      "El",
+      "gimnasio",
+      "estaba",
+      "lleno"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ximˈnasjo esˈtaβa ˈʎeno/",
+    "portuguesePhonetic": "[el rrimnásio estába lhéno]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_bz7fjqo",
+    "word": "Nuestra puerta era la número doce.",
+    "translation": "Nosso portão era o número doze.",
+    "syllables": [
+      "Nuestra",
+      "puerta",
+      "era",
+      "la",
+      "número",
+      "doce"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈnwestɾa ˈpweɾta ˈeɾa la ˈnumeɾo ˈdoθe/",
+    "portuguesePhonetic": "[nuéstra puérta éra la número dóthe]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_cx8akq8",
+    "word": "La cola era muy larga.",
+    "translation": "A fila estava muito longa.",
+    "syllables": [
+      "La",
+      "cola",
+      "era",
+      "muy",
+      "larga"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈkola ˈeɾa mui ˈlaɾɣa/",
+    "portuguesePhonetic": "[la kóla éra múi lárga]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_mvvnf7c",
+    "word": "La fiesta estuvo genial.",
+    "translation": "A festa estava ótima.",
+    "syllables": [
+      "La",
+      "fiesta",
+      "estuvo",
+      "genial"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈfjesta esˈtuβo xeˈnjal/",
+    "portuguesePhonetic": "[la fiésta estúbo rrenIál]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_1h9k90i",
+    "word": "Fuimos los últimos en irnos.",
+    "translation": "A gente foi o último a sair.",
+    "syllables": [
+      "Fuimos",
+      "los",
+      "últimos",
+      "en",
+      "irnos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfwimos los ˈultimos en ˈiɾnos/",
+    "portuguesePhonetic": "[fuímos los últimos en írnos]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_irfhbwk",
+    "word": "El tiempo era terrible.",
+    "translation": "O tempo estava terrível.",
+    "syllables": [
+      "El",
+      "tiempo",
+      "era",
+      "terrible"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈtjempo ˈeɾa teˈriβle/",
+    "portuguesePhonetic": "[el tiémpo éra terríble]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_c8g1kxi",
+    "word": "Hacía mucho viento ayer.",
+    "translation": "Estava muito ventoso ontem.",
+    "syllables": [
+      "Hacía",
+      "mucho",
+      "viento",
+      "ayer"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈθia ˈmutʃo ˈbjento aˈʝeɾ/",
+    "portuguesePhonetic": "[athía mútcho biénto aiér]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_uo44x7u",
+    "word": "El examen era difícil.",
+    "translation": "A prova estava difícil.",
+    "syllables": [
+      "El",
+      "examen",
+      "era",
+      "difícil"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el eɣˈsamen ˈeɾa diˈfiθil/",
+    "portuguesePhonetic": "[el eksámen éra difíthil]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_lfo76wr",
+    "word": "El agua estaba templada.",
+    "translation": "A água estava quente.",
+    "syllables": [
+      "El",
+      "agua",
+      "estaba",
+      "templada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈaɣwa esˈtaβa temˈplaða/",
+    "portuguesePhonetic": "[el água estába templáda]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_gu9a0xt",
+    "word": "La película era aburrida.",
+    "translation": "O filme estava chato.",
+    "syllables": [
+      "La",
+      "película",
+      "era",
+      "aburrida"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la peˈlikula ˈeɾa aβuˈriða/",
+    "portuguesePhonetic": "[la pelíkula éra aburrída]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_pcf3zbw",
+    "word": "Mis abuelos eran agricultores.",
+    "translation": "Meus avós eram fazendeiros.",
+    "syllables": [
+      "Mis",
+      "abuelos",
+      "eran",
+      "agricultores"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mis aˈβwelos ˈeɾan aɣɾikulˈtoɾes/",
+    "portuguesePhonetic": "[mis abuélos éran agrikultóres]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_lkpalkd",
+    "word": "Estaba enfermo.",
+    "translation": "Eu estava doente.",
+    "syllables": [
+      "Estaba",
+      "enfermo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa emˈfeɾmo/",
+    "portuguesePhonetic": "[estába emférmo]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_cf9fo0m",
+    "word": "Estaba enfadada.",
+    "translation": "Ela estava brava.",
+    "syllables": [
+      "Estaba",
+      "enfadada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa emfaˈðaða/",
+    "portuguesePhonetic": "[estába emfadáda]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_li56npf",
+    "word": "Nos sorprendimos.",
+    "translation": "A gente ficou surpreso.",
+    "syllables": [
+      "Nos",
+      "sorprendimos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos soɾpɾenˈdimos/",
+    "portuguesePhonetic": "[nos sorprendímos]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_g9hmd6z",
+    "word": "No estaban contentos.",
+    "translation": "Eles não estavam felizes.",
+    "syllables": [
+      "No",
+      "estaban",
+      "contentos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβan konˈtentos/",
+    "portuguesePhonetic": "[no estában konténtos]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_6tq5k20",
+    "word": "¿Estaba nervioso?",
+    "translation": "Ele estava nervoso?",
+    "syllables": [
+      "Estaba",
+      "nervioso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa neɾˈβjoso/",
+    "portuguesePhonetic": "[estába nerbióso]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_2e6vg9p",
+    "word": "No estábamos listos para el examen.",
+    "translation": "A gente não estava pronto para a prova.",
+    "syllables": [
+      "No",
+      "estábamos",
+      "listos",
+      "para",
+      "el",
+      "examen"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβamos ˈlistos ˈpaɾa el eɣˈsamen/",
+    "portuguesePhonetic": "[no estábamos lístos pára el eksámen]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_6usay4f",
+    "word": "La casa estaba vacía.",
+    "translation": "A casa estava vazia.",
+    "syllables": [
+      "La",
+      "casa",
+      "estaba",
+      "vacía"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈkasa esˈtaβa baˈθia/",
+    "portuguesePhonetic": "[la kása estába bathía]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_pgb5igg",
+    "word": "No estaba seguro de eso.",
+    "translation": "Eu não tinha certeza sobre isso.",
+    "syllables": [
+      "No",
+      "estaba",
+      "seguro",
+      "de",
+      "eso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa seˈɣuɾo de ˈeso/",
+    "portuguesePhonetic": "[no estába segúro de éso]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_5lgo7mx",
+    "word": "¿No estaba ella en la fiesta?",
+    "translation": "Ela não estava na festa?",
+    "syllables": [
+      "No",
+      "estaba",
+      "ella",
+      "en",
+      "la",
+      "fiesta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa ˈeʎa en la ˈfjesta/",
+    "portuguesePhonetic": "[no estába élha en la fiésta]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_5y3opcz",
+    "word": "¿Por qué no estabas en el colegio?",
+    "translation": "Por que você não estava na escola?",
+    "syllables": [
+      "Por",
+      "qué",
+      "no",
+      "estabas",
+      "en",
+      "el",
+      "colegio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke no esˈtaβas en el koˈlexjo/",
+    "portuguesePhonetic": "[por ké no estábas en el kolérrio]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_qw87mji",
+    "word": "¿Dónde se celebró la reunión?",
+    "translation": "Onde a reunião foi realizada?",
+    "syllables": [
+      "Dónde",
+      "se",
+      "celebró",
+      "la",
+      "reunión"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde se θeleˈβɾo la reuˈnjon/",
+    "portuguesePhonetic": "[dônde se thelebró la reunión]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_uhxxydu",
+    "word": "¿No estaban en casa anoche?",
+    "translation": "Eles não estavam em casa ontem à noite?",
+    "syllables": [
+      "No",
+      "estaban",
+      "en",
+      "casa",
+      "anoche"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβan en ˈkasa aˈnotʃe/",
+    "portuguesePhonetic": "[no estában en kása anótche]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_1q2p0r1",
+    "word": "Estaba cansado porque trabajé todo el día.",
+    "translation": "Eu estava cansado porque trabalhei o dia todo.",
+    "syllables": [
+      "Estaba",
+      "cansado",
+      "porque",
+      "trabajé",
+      "todo",
+      "el",
+      "día"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa kanˈsaðo ˈpoɾke tɾaβaˈxe ˈtoðo el ˈdia/",
+    "portuguesePhonetic": "[estába kansádo pórke trabarré tódo el día]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_i9e7ss9",
+    "word": "Se puso triste cuando oyó la noticia.",
+    "translation": "Ela ficou triste quando ouviu a notícia.",
+    "syllables": [
+      "Se",
+      "puso",
+      "triste",
+      "cuando",
+      "oyó",
+      "la",
+      "noticia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se ˈpuso ˈtɾiste ˈkwando oˈʝo la noˈtiθja/",
+    "portuguesePhonetic": "[se púso tríste kuándo oió la notíthia]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_tn6ir8b",
+    "word": "Estábamos contentos, pero también estábamos preocupados.",
+    "translation": "A gente estava feliz, mas também estava preocupado.",
+    "syllables": [
+      "Estábamos",
+      "contentos",
+      "pero",
+      "también",
+      "estábamos",
+      "preocupados"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβamos konˈtentos ˈpeɾo tamˈbjen esˈtaβamos pɾeokuˈpaðos/",
+    "portuguesePhonetic": "[estábamos konténtos péro también estábamos preokupádos]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_qwjmrmj",
+    "word": "No estaba allí cuando llegué, así que esperé.",
+    "translation": "Ele não estava lá quando eu cheguei, então esperei.",
+    "syllables": [
+      "No",
+      "estaba",
+      "allí",
+      "cuando",
+      "llegué",
+      "así",
+      "que",
+      "esperé"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa aˈʎi ˈkwando ʎeˈɣe aˈsi ke espeˈɾe/",
+    "portuguesePhonetic": "[no estába alhí kuándo lhegué así ke esperé]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_18yosxr",
+    "word": "¿Estabas en casa cuando pasó?",
+    "translation": "Você estava em casa cuando isso aconteceu?",
+    "syllables": [
+      "Estabas",
+      "en",
+      "casa",
+      "cuando",
+      "pasó"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβas en ˈkasa ˈkwando paˈso/",
+    "portuguesePhonetic": "[estábas en kása kuándo pasó]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_j4lnebr",
+    "word": "Los niños estaban callados porque estaban viendo una película.",
+    "translation": "As crianças estavam quietas porque estavam assistindo a um filme.",
+    "syllables": [
+      "Los",
+      "niños",
+      "estaban",
+      "callados",
+      "porque",
+      "estaban",
+      "viendo",
+      "una",
+      "película"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/los ˈniɲos esˈtaβan kaˈʎaðos ˈpoɾke esˈtaβan ˈbjendo una peˈlikula/",
+    "portuguesePhonetic": "[los nínhos estában kalhádos pórke estában biéndo úna pelíkula]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_soby1pe",
+    "word": "No tenía miedo, pero me temblaban las manos.",
+    "translation": "Eu não estava com medo, mas minhas mãos estavam tremendo.",
+    "syllables": [
+      "No",
+      "tenía",
+      "miedo",
+      "pero",
+      "me",
+      "temblaban",
+      "las",
+      "manos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no teˈnia ˈmjeðo ˈpeɾo me temˈblaβan las ˈmanos/",
+    "portuguesePhonetic": "[no tenía miédo péro me temblában las mános]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_f371mwp",
+    "word": "Estaban de vacaciones cuando llegó la tormenta.",
+    "translation": "Eles estavam de férias quando a tempestade atingiu.",
+    "syllables": [
+      "Estaban",
+      "de",
+      "vacaciones",
+      "cuando",
+      "llegó",
+      "la",
+      "tormenta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβan de bakaˈθjones ˈkwando ʎeˈɣo la toɾˈmenta/",
+    "portuguesePhonetic": "[estában de bakathiónes kuándo lhegó la torménta]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_yx02v5f",
+    "word": "¿Había mucho tráfico, o es que llegabas tarde?",
+    "translation": "O trânsito estava ruim, ou você estava só atrasado?",
+    "syllables": [
+      "Había",
+      "mucho",
+      "tráfico",
+      "o",
+      "es",
+      "que",
+      "llegabas",
+      "tarde"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈβia ˈmutʃo ˈtɾafiko o es ke ʎeˈɣaβas ˈtaɾðe/",
+    "portuguesePhonetic": "[abía mútcho tráfiko o és ke lhegábas tárde]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_cn6t4dd",
+    "word": "No esperábamos tanta gente, así que se acabó la comida.",
+    "translation": "A gente não estava esperando tanta gente, então ficou sem comida.",
+    "syllables": [
+      "No",
+      "esperábamos",
+      "tanta",
+      "gente",
+      "así",
+      "que",
+      "se",
+      "acabó",
+      "la",
+      "comida"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no espeˈɾaβamos ˈtanta ˈxente aˈsi ke se aˈkaβo la koˈmiða/",
+    "portuguesePhonetic": "[no esperábamos tánta rrénte así ke se akabó la komída]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_3e89esz",
+    "word": "No se encontraba bien, pero vino de todas formas.",
+    "translation": "Ela não estava se sentindo bem, mas veio mesmo assim.",
+    "syllables": [
+      "No",
+      "se",
+      "encontraba",
+      "bien",
+      "pero",
+      "vino",
+      "de",
+      "todas",
+      "formas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no se eŋkonˈtɾaβa bjen ˈpeɾo ˈbino de ˈtoðas ˈfoɾmas/",
+    "portuguesePhonetic": "[no se enkontrába bién péro bíno de tódas fórmas]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_ki67kj0",
+    "word": "¿Se sorprendieron cuando vieron los resultados?",
+    "translation": "Eles ficaram surpresos quando viram os resultados?",
+    "syllables": [
+      "Se",
+      "sorprendieron",
+      "cuando",
+      "vieron",
+      "los",
+      "resultados"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se soɾpɾenˈdjeɾon ˈkwando ˈbjeɾon los resulˈtaðos/",
+    "portuguesePhonetic": "[se sorprendiéron kuándo biéron los resultádos]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_2i5vb9b",
+    "word": "La ciudad era completamente diferente cuando volvimos, porque habían cambiado muchas cosas.",
+    "translation": "A cidade estava completamente diferente quando voltamos, porque muita coisa tinha mudado.",
+    "syllables": [
+      "La",
+      "ciudad",
+      "era",
+      "completamente",
+      "diferente",
+      "cuando",
+      "volvimos",
+      "porque",
+      "habían",
+      "cambiado",
+      "muchas",
+      "cosas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la θjuˈðað ˈeɾa kompletaˈmente difeˈɾente ˈkwando bolˈβimos ˈpoɾke aˈβian kamˈbjaðo ˈmutʃas ˈkosas/",
+    "portuguesePhonetic": "[la thiudád éra kompletaménte diferénte kuándo bolbímos pórke abían kambiádo mútchas kósas]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_pxpeo24",
+    "word": "¿Estaba en casa? / Sí.",
+    "translation": "Ele estava em casa? / Sim, estava.",
+    "syllables": [
+      "Estaba",
+      "en",
+      "casa",
+      "/",
+      "Sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa en ˈkasa · si/",
+    "portuguesePhonetic": "[estába en kása · sí]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_vy5fgse",
+    "word": "¿Estabas cansado? / No.",
+    "translation": "Você estava cansado? / Não, não estava.",
+    "syllables": [
+      "Estabas",
+      "cansado",
+      "/",
+      "No"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβas kanˈsaðo · no/",
+    "portuguesePhonetic": "[estábas kansádo · no]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_8e2sfik",
+    "word": "¿Estaba buena la comida? / Sí.",
+    "translation": "A comida estava boa? / Sim, estava.",
+    "syllables": [
+      "Estaba",
+      "buena",
+      "la",
+      "comida",
+      "/",
+      "Sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa ˈbwena la koˈmiða · si/",
+    "portuguesePhonetic": "[estába buéna la komída · sí]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_o71db8i",
+    "word": "¿Estaban en la fiesta? / Sí.",
+    "translation": "Eles estavam na festa? / Sim, estavam.",
+    "syllables": [
+      "Estaban",
+      "en",
+      "la",
+      "fiesta",
+      "/",
+      "Sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβan en la ˈfjesta · si/",
+    "portuguesePhonetic": "[estában en la fiésta · sí]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_ybzwkix",
+    "word": "¿Dónde naciste? / En Chicago.",
+    "translation": "Onde você nasceu? / Em Chicago.",
+    "syllables": [
+      "Dónde",
+      "naciste",
+      "/",
+      "En",
+      "Chicago"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde naˈθiste · en tʃiˈkaɣo/",
+    "portuguesePhonetic": "[dônde nathíste · en tchikágo]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_tb4et4h",
+    "word": "¿Qué tal el viaje? / Fue increíble.",
+    "translation": "Como foi sua viagem? / Foi incrível.",
+    "syllables": [
+      "Qué",
+      "tal",
+      "el",
+      "viaje",
+      "/",
+      "Fue",
+      "increíble"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke tal el ˈbjaxe · fwe iŋkɾeˈiβle/",
+    "portuguesePhonetic": "[ke tal el biárre · fué inkreíble]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_1sejrua",
+    "word": "¿Estaba contenta? / Sí, muy contenta.",
+    "translation": "Ela estava feliz? / Sim, muito feliz.",
+    "syllables": [
+      "Estaba",
+      "contenta",
+      "/",
+      "Sí",
+      "muy",
+      "contenta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa konˈtenta · si mui konˈtenta/",
+    "portuguesePhonetic": "[estába konténta · sí múi konténta]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_za8qzab",
+    "word": "¿Tenías miedo? / Un poco.",
+    "translation": "Você estava com medo? / Um poco.",
+    "syllables": [
+      "Tenías",
+      "miedo",
+      "/",
+      "Un",
+      "poco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈnias ˈmjeðo · un ˈpoko/",
+    "portuguesePhonetic": "[tenías miédo · un póko]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_3jax9q3",
+    "word": "¿Era buena la película? / Estaba bien.",
+    "translation": "O filme estava bom? / Estava mais ou menos.",
+    "syllables": [
+      "Era",
+      "buena",
+      "la",
+      "película",
+      "/",
+      "Estaba",
+      "bien"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeɾa ˈbwena la peˈlikula · esˈtaβa bjen/",
+    "portuguesePhonetic": "[éra buéna la pelíkula · estába bién]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_69eeu3h",
+    "word": "¿Dónde estabas ayer? / En el trabajo.",
+    "translation": "Onde você estava ontem? / No trabalho.",
+    "syllables": [
+      "Dónde",
+      "estabas",
+      "ayer",
+      "/",
+      "En",
+      "el",
+      "trabajo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈtaβas aˈʝeɾ · en el tɾaˈβaxo/",
+    "portuguesePhonetic": "[dônde estábas aiér · en el trabárro]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_vl4oqpr",
+    "word": "¿Hacía frío esta mañana? / Sí, mucho.",
+    "translation": "Estava frio hoje de manhã? / Sim, muito frio.",
+    "syllables": [
+      "Hacía",
+      "frío",
+      "esta",
+      "mañana",
+      "/",
+      "Sí",
+      "mucho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈθia ˈfɾio ˈesta maˈɲana · si ˈmutʃo/",
+    "portuguesePhonetic": "[athía frío ésta manhána · sí mútcho]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_4xvoss5",
+    "word": "¿Eran caras las entradas? / Un poco.",
+    "translation": "Os ingressos estavam caros? / Sim, um poco.",
+    "syllables": [
+      "Eran",
+      "caras",
+      "las",
+      "entradas",
+      "/",
+      "Un",
+      "poco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeɾan ˈkaɾas las enˈtɾaðas · un ˈpoko/",
+    "portuguesePhonetic": "[éran káras las entrádas · un póko]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_bjel4fw",
+    "word": "¿Era largo el vuelo? / Sí, ocho horas.",
+    "translation": "O voo era longo? / Sim, oito horas.",
+    "syllables": [
+      "Era",
+      "largo",
+      "el",
+      "vuelo",
+      "/",
+      "Sí",
+      "ocho",
+      "horas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeɾa ˈlaɾɣo el ˈbwelo · si ˈotʃo ˈoɾas/",
+    "portuguesePhonetic": "[éra lárgo el buélo · sí ótcho óras]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_oszaugj",
+    "word": "¿Estabas en la reunión? / No.",
+    "translation": "Você estava na reunião? / Não, não estava.",
+    "syllables": [
+      "Estabas",
+      "en",
+      "la",
+      "reunión",
+      "/",
+      "No"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβas en la reuˈnjon · no/",
+    "portuguesePhonetic": "[estábas en la reunión · no]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_vs6d9xy",
+    "word": "¿Estaba enfadado? / Sí, muy enfadado.",
+    "translation": "Ele estava bravo? / Sim, muito bravo.",
+    "syllables": [
+      "Estaba",
+      "enfadado",
+      "/",
+      "Sí",
+      "muy",
+      "enfadado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa emfaˈðaðo · si mui emfaˈðaðo/",
+    "portuguesePhonetic": "[estába emfadádo · sí múi emfadádo]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_0yvfn2x",
+    "word": "¿Qué tal el examen? / Fue difícil.",
+    "translation": "Como foi a prova? / Foi difícil.",
+    "syllables": [
+      "Qué",
+      "tal",
+      "el",
+      "examen",
+      "/",
+      "Fue",
+      "difícil"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke tal el eɣˈsamen · fwe diˈfiθil/",
+    "portuguesePhonetic": "[ke tal el eksámen · fué difíthil]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_7xqffro",
+    "word": "¿Estaba abierta la tienda? / No, estaba cerrada.",
+    "translation": "A loja estava aberta? / Não, estava fechada.",
+    "syllables": [
+      "Estaba",
+      "abierta",
+      "la",
+      "tienda",
+      "/",
+      "No",
+      "estaba",
+      "cerrada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa aˈβjeɾta la ˈtjenda · no esˈtaβa θeˈraða/",
+    "portuguesePhonetic": "[estába abiérta la tiénda · no estába therráda]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_tidjaik",
+    "word": "¿Eran agricultores tus abuelos? / Sí.",
+    "translation": "Seus avós eram fazendeiros? / Sim, eram.",
+    "syllables": [
+      "Eran",
+      "agricultores",
+      "tus",
+      "abuelos",
+      "/",
+      "Sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeɾan aɣɾikulˈtoɾes tus aˈβwelos · si/",
+    "portuguesePhonetic": "[éran agrikultóres tus abuélos · sí]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_y4qip7r",
+    "word": "¿Estaba templada el agua? / Sí, perfecta.",
+    "translation": "A água estava quente? / Sim, perfeita.",
+    "syllables": [
+      "Estaba",
+      "templada",
+      "el",
+      "agua",
+      "/",
+      "Sí",
+      "perfecta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa temˈplaða el ˈaɣwa · si peɾˈfekta/",
+    "portuguesePhonetic": "[estába templáda el água · sí perfékta]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_wlp96pr",
+    "word": "¿Estabas nervioso antes de la entrevista? / Muy nervioso.",
+    "translation": "Você estava nervoso antes da entrevista? / Muito nervoso.",
+    "syllables": [
+      "Estabas",
+      "nervioso",
+      "antes",
+      "de",
+      "la",
+      "entrevista",
+      "/",
+      "Muy",
+      "nervioso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβas neɾˈβjoso ˈantes de la entɾeˈβista · mui neɾˈβjoso/",
+    "portuguesePhonetic": "[estábas nerbióso ántes de la entrebísta · múi nerbióso]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_4dlg64o",
+    "word": "¿Era larga la cola? / Sí, muy larga.",
+    "translation": "A fila estava longa? / Sim, muito longa.",
+    "syllables": [
+      "Era",
+      "larga",
+      "la",
+      "cola",
+      "/",
+      "Sí",
+      "muy",
+      "larga"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeɾa ˈlaɾɣa la ˈkola · si mui ˈlaɾɣa/",
+    "portuguesePhonetic": "[éra lárga la kóla · sí múi lárga]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_vku4rkt",
+    "word": "¿Se sorprendieron? / Sí, mucho.",
+    "translation": "Eles ficaram surpresos? / Sim, muito surpresos.",
+    "syllables": [
+      "Se",
+      "sorprendieron",
+      "/",
+      "Sí",
+      "mucho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se soɾpɾenˈdjeɾon · si ˈmutʃo/",
+    "portuguesePhonetic": "[se sorprendiéron · sí mútcho]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_fk9897p",
+    "word": "¿Estaba enfermo ayer? / Sí.",
+    "translation": "Ele estava doente ontem? / Sim, estava.",
+    "syllables": [
+      "Estaba",
+      "enfermo",
+      "ayer",
+      "/",
+      "Sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβa emˈfeɾmo aˈʝeɾ · si/",
+    "portuguesePhonetic": "[estába emférmo aiér · sí]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_qcllfqc",
+    "word": "¿Llegamos tarde? / No, llegamos a tiempo.",
+    "translation": "A gente estava atrasado? / Não, estávamos na hora.",
+    "syllables": [
+      "Llegamos",
+      "tarde",
+      "/",
+      "No",
+      "llegamos",
+      "a",
+      "tiempo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʎeˈɣamos ˈtaɾðe · no ʎeˈɣamos a ˈtjempo/",
+    "portuguesePhonetic": "[lhegámos tárde · no lhegámos a tiémpo]"
+  },
+  {
+    "id": "leccion_17_gramatica_a1_s_es_id_gtsnfow",
+    "word": "¿Hacía buen tiempo en tu viaje? / Sí, perfecto.",
+    "translation": "O tempo estava bom na sua viagem? / Sim, perfeito.",
+    "syllables": [
+      "Hacía",
+      "buen",
+      "tiempo",
+      "en",
+      "tu",
+      "viaje",
+      "/",
+      "Sí",
+      "perfecto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈθia bwen ˈtjempo en tu ˈbjaxe · si peɾˈfekto/",
+    "portuguesePhonetic": "[athía buén tiémpo en tu biárre · sí perfékto]"
+  }
+]
