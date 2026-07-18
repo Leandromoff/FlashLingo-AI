@@ -150,6 +150,25 @@ const Card: React.FC<CardProps> = ({
     }
   }, [autoplayLocal, autoplaySlow, autoplayKnow]);
 
+  // Pause/Resume SpeechSynthesis on tab visibility change
+  useEffect(() => {
+    const handleVisibilityChange = () => {
+      if (document.hidden) {
+        if ('speechSynthesis' in window) {
+          window.speechSynthesis.pause();
+        }
+      } else {
+        if ('speechSynthesis' in window) {
+          window.speechSynthesis.resume();
+        }
+      }
+    };
+    document.addEventListener('visibilitychange', handleVisibilityChange);
+    return () => {
+      document.removeEventListener('visibilitychange', handleVisibilityChange);
+    };
+  }, []);
+
   // Autoplay sequence effect running programmatically in the requested sequence:
   // Fast Audio ('local') -> Slow Audio ('slow') -> Auto Advance
   useEffect(() => {
@@ -175,10 +194,37 @@ const Card: React.FC<CardProps> = ({
     }
 
     let isCancelled = false;
+    let cancelVisibilityWait: (() => void) | null = null;
+
+    const waitUntilVisible = async () => {
+      if (!document.hidden) return;
+      return new Promise<void>(resolve => {
+        const handleVisibilityChange = () => {
+          if (!document.hidden) {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            cancelVisibilityWait = null;
+            resolve();
+          }
+        };
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+        cancelVisibilityWait = () => {
+          document.removeEventListener('visibilitychange', handleVisibilityChange);
+          resolve();
+        };
+      });
+    };
+
+    const delay = async (ms: number) => {
+      await new Promise(resolve => setTimeout(resolve, ms));
+      await waitUntilVisible();
+    };
 
     const playAutoplaySequence = async () => {
+      await waitUntilVisible();
+      if (isCancelled || !isMounted.current) return;
+
       // 500ms delay to let sliding transitions finish smoothly
-      await new Promise(resolve => setTimeout(resolve, 500));
+      await delay(500);
       if (isCancelled || !isMounted.current) return;
 
       // 1. Local Autoplay (Áudio Rápido)
@@ -195,7 +241,7 @@ const Card: React.FC<CardProps> = ({
               setPlayingSource(null);
             }
           }
-          await new Promise(resolve => setTimeout(resolve, 600));
+          await delay(600);
         }
       }
 
@@ -213,7 +259,7 @@ const Card: React.FC<CardProps> = ({
               setPlayingSource(null);
             }
           }
-          await new Promise(resolve => setTimeout(resolve, 600));
+          await delay(600);
         }
       }
 
@@ -221,7 +267,7 @@ const Card: React.FC<CardProps> = ({
       if (shouldAutoKnow && !isCancelled && isMounted.current) {
         autoplayTrackRef.current.know = true;
         // Wait another 800ms for a natural pause before advancing
-        await new Promise(resolve => setTimeout(resolve, 800));
+        await delay(800);
         if (!isCancelled && isMounted.current) {
           onKnow();
         }
@@ -232,6 +278,7 @@ const Card: React.FC<CardProps> = ({
 
     return () => {
       isCancelled = true;
+      if (cancelVisibilityWait) cancelVisibilityWait();
       if ('speechSynthesis' in window) {
         window.speechSynthesis.cancel();
       }
