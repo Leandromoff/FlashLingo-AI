@@ -1,0 +1,1873 @@
+[
+  {
+    "id": "lesson_26_grammar_a1_en_id_8eunvt1",
+    "word": "next to",
+    "translation": "ao lado de",
+    "syllables": [
+      "next",
+      "to"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nɛkst tə/",
+    "portuguesePhonetic": "[nékst tu]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_ci7mh8j",
+    "word": "beside",
+    "translation": "ao lado de",
+    "syllables": [
+      "beside"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bɪˈsaɪd/",
+    "portuguesePhonetic": "[bisáid]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_nmykmqm",
+    "word": "between",
+    "translation": "entre",
+    "syllables": [
+      "between"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bɪˈtwiːn/",
+    "portuguesePhonetic": "[bituín]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_v2v7ik1",
+    "word": "opposite",
+    "translation": "em frente a",
+    "syllables": [
+      "opposite"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɑːpəzɪt/",
+    "portuguesePhonetic": "[ápazit]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_ynoj9vb",
+    "word": "in front of",
+    "translation": "na frente de",
+    "syllables": [
+      "in",
+      "front",
+      "of"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪn frʌnt əv/",
+    "portuguesePhonetic": "[in frânt ov]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_10zfhu0",
+    "word": "behind",
+    "translation": "atrás de",
+    "syllables": [
+      "behind"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bɪˈhaɪnd/",
+    "portuguesePhonetic": "[birráind]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_axomen0",
+    "word": "above",
+    "translation": "acima de",
+    "syllables": [
+      "above"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/əˈbʌv/",
+    "portuguesePhonetic": "[abâv]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_pwq7s9a",
+    "word": "over",
+    "translation": "sobre/acima de",
+    "syllables": [
+      "over"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈoʊvər/",
+    "portuguesePhonetic": "[ôuver]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_g05nvzv",
+    "word": "under",
+    "translation": "embaixo de",
+    "syllables": [
+      "under"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈʌndər/",
+    "portuguesePhonetic": "[ânder]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_k8x4jda",
+    "word": "The book is next to the lamp.",
+    "translation": "O livro está ao lado da luminária.",
+    "syllables": [
+      "The",
+      "book",
+      "is",
+      "next",
+      "to",
+      "the",
+      "lamp"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə bʊk ɪz nɛkst tə ðə læmp/",
+    "portuguesePhonetic": "[dha búk iz nékst tu dha lémp]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_kcklphn",
+    "word": "The chair is beside the desk.",
+    "translation": "A cadeira está ao lado da escrivaninha.",
+    "syllables": [
+      "The",
+      "chair",
+      "is",
+      "beside",
+      "the",
+      "desk"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə tʃɛr ɪz bɪˈsaɪd ðə dɛsk/",
+    "portuguesePhonetic": "[dha tchér iz bisáid dha désk]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_lvhqejl",
+    "word": "The cat is between the two boxes.",
+    "translation": "O gato está entre as duas caixas.",
+    "syllables": [
+      "The",
+      "cat",
+      "is",
+      "between",
+      "the",
+      "two",
+      "boxes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə kæt ɪz bɪˈtwiːn ðə tuː ˈbɑːksɪz/",
+    "portuguesePhonetic": "[dha két iz bituín dha tú báksiz]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_5ykpodc",
+    "word": "The bank is opposite the pharmacy.",
+    "translation": "O banco fica em frente à farmácia.",
+    "syllables": [
+      "The",
+      "bank",
+      "is",
+      "opposite",
+      "the",
+      "pharmacy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə bæŋk ɪz ˈɑːpəzɪt ðə ˈfɑːrməsi/",
+    "portuguesePhonetic": "[dha bênk iz ápazit dha fármasi]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_tkdji8v",
+    "word": "The car is in front of the house.",
+    "translation": "O carro está na frente da casa.",
+    "syllables": [
+      "The",
+      "car",
+      "is",
+      "in",
+      "front",
+      "of",
+      "the",
+      "house"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə kɑːr ɪz ɪn frʌnt əv ðə haʊs/",
+    "portuguesePhonetic": "[dha kár iz in frânt ov dha ráus]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_qzkt8m7",
+    "word": "The garden is behind the house.",
+    "translation": "O jardim fica atrás da casa.",
+    "syllables": [
+      "The",
+      "garden",
+      "is",
+      "behind",
+      "the",
+      "house"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈɡɑːrdn̩ ɪz bɪˈhaɪnd ðə haʊs/",
+    "portuguesePhonetic": "[dha gárdan iz birráind dha ráus]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_j4yj914",
+    "word": "The bird is above the tree.",
+    "translation": "O pássaro está acima da árvore.",
+    "syllables": [
+      "The",
+      "bird",
+      "is",
+      "above",
+      "the",
+      "tree"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə bɜːrd ɪz əˈbʌv ðə triː/",
+    "portuguesePhonetic": "[dha bârd iz abâv dha trí]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_aacmg8q",
+    "word": "The plane is flying over the city.",
+    "translation": "O avião está voando sobre a cidade.",
+    "syllables": [
+      "The",
+      "plane",
+      "is",
+      "flying",
+      "over",
+      "the",
+      "city"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə pleɪn ɪz ˈflaɪɪŋ ˈoʊvər ðə ˈsɪti/",
+    "portuguesePhonetic": "[dha plêin iz fláiin ôuver dha síti]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_ndmgb09",
+    "word": "The cat is sleeping under the table.",
+    "translation": "O gato está dormindo embaixo da mesa.",
+    "syllables": [
+      "The",
+      "cat",
+      "is",
+      "sleeping",
+      "under",
+      "the",
+      "table"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə kæt ɪz ˈsliːpɪŋ ˈʌndər ðə ˈteɪbl̩/",
+    "portuguesePhonetic": "[dha két iz slípin ânder dha têibou]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_6m3slfq",
+    "word": "My house is next to the park.",
+    "translation": "Minha casa fica ao lado do parque.",
+    "syllables": [
+      "My",
+      "house",
+      "is",
+      "next",
+      "to",
+      "the",
+      "park"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ haʊs ɪz nɛkst tə ðə pɑːrk/",
+    "portuguesePhonetic": "[mái ráus iz nékst tu dha párk]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_rcg4gcn",
+    "word": "She sat beside me.",
+    "translation": "Ela sentou ao meu lado.",
+    "syllables": [
+      "She",
+      "sat",
+      "beside",
+      "me"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː sæt bɪˈsaɪd miː/",
+    "portuguesePhonetic": "[chí sét bisáid mí]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_yupth5m",
+    "word": "The school is between the church and the library.",
+    "translation": "A escola fica entre a igreja e a biblioteca.",
+    "syllables": [
+      "The",
+      "school",
+      "is",
+      "between",
+      "the",
+      "church",
+      "and",
+      "the",
+      "library"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə skuːl ɪz bɪˈtwiːn ðə tʃɜːrtʃ ænd ðə ˈlaɪbrɛri/",
+    "portuguesePhonetic": "[dha skúl iz bituín dha tchârtch énd dha láibreri]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_u9qhh3h",
+    "word": "The hotel is opposite the beach.",
+    "translation": "O hotel fica em frente à praia.",
+    "syllables": [
+      "The",
+      "hotel",
+      "is",
+      "opposite",
+      "the",
+      "beach"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə hoʊˈtɛl ɪz ˈɑːpəzɪt ðə biːtʃ/",
+    "portuguesePhonetic": "[dha routél iz ápazit dha bítch]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_m773ygz",
+    "word": "There's a line in front of the store.",
+    "translation": "Tem uma fila na frente da loja.",
+    "syllables": [
+      "There's",
+      "a",
+      "line",
+      "in",
+      "front",
+      "of",
+      "the",
+      "store"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə laɪn ɪn frʌnt əv ðə stɔːr/",
+    "portuguesePhonetic": "[dhérz a láin in frânt ov dha stór]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_1z3i6fh",
+    "word": "The dog is hiding behind the sofa.",
+    "translation": "O cachorro está escondido atrás do sofá.",
+    "syllables": [
+      "The",
+      "dog",
+      "is",
+      "hiding",
+      "behind",
+      "the",
+      "sofa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə dɔːɡ ɪz ˈhaɪdɪŋ bɪˈhaɪnd ðə ˈsoʊfə/",
+    "portuguesePhonetic": "[dha dóg iz rráidin birráind dha sôufa]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_s8vpvi3",
+    "word": "There's a light above the door.",
+    "translation": "Tem uma luz acima da porta.",
+    "syllables": [
+      "There's",
+      "a",
+      "light",
+      "above",
+      "the",
+      "door"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə laɪt əˈbʌv ðə dɔːr/",
+    "portuguesePhonetic": "[dhérz a láit abâv dha dór]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_x2mqeyu",
+    "word": "My car is parked in front of the building.",
+    "translation": "Meu carro está estacionado na frente do prédio.",
+    "syllables": [
+      "My",
+      "car",
+      "is",
+      "parked",
+      "in",
+      "front",
+      "of",
+      "the",
+      "building"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ kɑːr ɪz pɑːrkt ɪn frʌnt əv ðə ˈbɪldɪŋ/",
+    "portuguesePhonetic": "[mái kár iz párkt in frânt ov dha bíldin]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_hthdqvi",
+    "word": "The milk is next to the eggs.",
+    "translation": "O leite está ao lado dos ovos.",
+    "syllables": [
+      "The",
+      "milk",
+      "is",
+      "next",
+      "to",
+      "the",
+      "eggs"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə mɪlk ɪz nɛkst tə ðiː ɛɡz/",
+    "portuguesePhonetic": "[dha míouk iz nékst tu dhi égz]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_kf4o5w5",
+    "word": "The bread is between the cereal and the coffee.",
+    "translation": "O pão está entre o cereal e o café.",
+    "syllables": [
+      "The",
+      "bread",
+      "is",
+      "between",
+      "the",
+      "cereal",
+      "and",
+      "the",
+      "coffee"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə brɛd ɪz bɪˈtwiːn ðə ˈsɪriəl ænd ðə ˈkɔːfi/",
+    "portuguesePhonetic": "[dha bréd iz bituín dha síriaou énd dha kófi]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_vfp89yo",
+    "word": "The bus stop is opposite the bank.",
+    "translation": "O ponto de ônibus fica em frente ao banco.",
+    "syllables": [
+      "The",
+      "bus",
+      "stop",
+      "is",
+      "opposite",
+      "the",
+      "bank"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə bʌs stɑːp ɪz ˈɑːpəzɪt ðə bæŋk/",
+    "portuguesePhonetic": "[dha bâs stáp iz ápazit dha bênk]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_qnncja2",
+    "word": "The salt is next to the pepper.",
+    "translation": "O sal está ao lado da pimenta.",
+    "syllables": [
+      "The",
+      "salt",
+      "is",
+      "next",
+      "to",
+      "the",
+      "pepper"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə sɔːlt ɪz nɛkst tə ðə ˈpɛpər/",
+    "portuguesePhonetic": "[dha sólt iz nékst tu dha péper]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_6e4u97y",
+    "word": "The pot is over the stove.",
+    "translation": "A panela está sobre o fogão.",
+    "syllables": [
+      "The",
+      "pot",
+      "is",
+      "over",
+      "the",
+      "stove"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə pɑːt ɪz ˈoʊvər ðə stoʊv/",
+    "portuguesePhonetic": "[dha pát iz ôuver dha stôuv]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_16orbey",
+    "word": "My desk is in front of the window.",
+    "translation": "Minha escrivaninha fica na frente da janela.",
+    "syllables": [
+      "My",
+      "desk",
+      "is",
+      "in",
+      "front",
+      "of",
+      "the",
+      "window"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ dɛsk ɪz ɪn frʌnt əv ðə ˈwɪndoʊ/",
+    "portuguesePhonetic": "[mái désk iz in frânt ov dha uíndou]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_n4ta8xu",
+    "word": "The printer is behind my chair.",
+    "translation": "A impressora fica atrás da minha cadeira.",
+    "syllables": [
+      "The",
+      "printer",
+      "is",
+      "behind",
+      "my",
+      "chair"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈprɪntər ɪz bɪˈhaɪnd maɪ tʃɛr/",
+    "portuguesePhonetic": "[dha prínter iz birráind mái tchér]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_34f69xa",
+    "word": "The hotel is opposite the train station.",
+    "translation": "O hotel fica em frente à estação de trem.",
+    "syllables": [
+      "The",
+      "hotel",
+      "is",
+      "opposite",
+      "the",
+      "train",
+      "station"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə hoʊˈtɛl ɪz ˈɑːpəzɪt ðə treɪn ˈsteɪʃn̩/",
+    "portuguesePhonetic": "[dha routél iz ápazit dha trêin stêichan]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_8k4ii8x",
+    "word": "The mirror is behind the treadmill.",
+    "translation": "O espelho fica atrás da esteira.",
+    "syllables": [
+      "The",
+      "mirror",
+      "is",
+      "behind",
+      "the",
+      "treadmill"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈmɪrər ɪz bɪˈhaɪnd ðə ˈtrɛdmɪl/",
+    "portuguesePhonetic": "[dha mírer iz birráind dha trédmiou]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_gjyrm4f",
+    "word": "Our table is next to the window.",
+    "translation": "Nossa mesa fica ao lado da janela.",
+    "syllables": [
+      "Our",
+      "table",
+      "is",
+      "next",
+      "to",
+      "the",
+      "window"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈaʊər ˈteɪbl̩ ɪz nɛkst tə ðə ˈwɪndoʊ/",
+    "portuguesePhonetic": "[áuer têibou iz nékst tu dha uíndou]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_gpemqqf",
+    "word": "The dressing room is behind the counter.",
+    "translation": "O provador fica atrás do balcão.",
+    "syllables": [
+      "The",
+      "dressing",
+      "room",
+      "is",
+      "behind",
+      "the",
+      "counter"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈdrɛsɪŋ ruːm ɪz bɪˈhaɪnd ðə ˈkaʊntər/",
+    "portuguesePhonetic": "[dha drésin rúm iz birráind dha káunter]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_nfviuh2",
+    "word": "The pharmacy is next to the clinic.",
+    "translation": "A farmácia fica ao lado da clínica.",
+    "syllables": [
+      "The",
+      "pharmacy",
+      "is",
+      "next",
+      "to",
+      "the",
+      "clinic"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈfɑːrməsi ɪz nɛkst tə ðə ˈklɪnɪk/",
+    "portuguesePhonetic": "[dha fármasi iz nékst tu dha klínik]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_qw55ndm",
+    "word": "The TV is above the fireplace.",
+    "translation": "A TV fica acima da lareira.",
+    "syllables": [
+      "The",
+      "TV",
+      "is",
+      "above",
+      "the",
+      "fireplace"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˌtiːˈviː ɪz əˈbʌv ðə ˈfaɪərpleɪs/",
+    "portuguesePhonetic": "[dha ti-ví iz abâv dha fáierplêis]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_9u0eqnv",
+    "word": "The remote is under the cushion.",
+    "translation": "O controle está embaixo da almofada.",
+    "syllables": [
+      "The",
+      "remote",
+      "is",
+      "under",
+      "the",
+      "cushion"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə rɪˈmoʊt ɪz ˈʌndər ðə ˈkʊʃn̩/",
+    "portuguesePhonetic": "[dha rimôut iz ânder dha kúchan]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_bxkxo12",
+    "word": "My desk is between two windows.",
+    "translation": "Minha carteira fica entre duas janelas.",
+    "syllables": [
+      "My",
+      "desk",
+      "is",
+      "between",
+      "two",
+      "windows"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ dɛsk ɪz bɪˈtwiːn tuː ˈwɪndoʊz/",
+    "portuguesePhonetic": "[mái désk iz bituín tú uíndouz]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_nkg7qvu",
+    "word": "The bench is under a big tree.",
+    "translation": "O banco fica embaixo de uma árvore grande.",
+    "syllables": [
+      "The",
+      "bench",
+      "is",
+      "under",
+      "a",
+      "big",
+      "tree"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə bɛntʃ ɪz ˈʌndər ə bɪɡ triː/",
+    "portuguesePhonetic": "[dha béntch iz ânder a bíg trí]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_lztaawv",
+    "word": "The broom is behind the door.",
+    "translation": "A vassoura está atrás da porta.",
+    "syllables": [
+      "The",
+      "broom",
+      "is",
+      "behind",
+      "the",
+      "door"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə bruːm ɪz bɪˈhaɪnd ðə dɔːr/",
+    "portuguesePhonetic": "[dha brúm iz birráind dha dór]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_p9b7vfo",
+    "word": "The ATM is next to the entrance.",
+    "translation": "O caixa eletrônico fica ao lado da entrada.",
+    "syllables": [
+      "The",
+      "ATM",
+      "is",
+      "next",
+      "to",
+      "the",
+      "entrance"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðiː eɪ tiː ɛm ɪz nɛkst tə ðiː ˈɛntrəns/",
+    "portuguesePhonetic": "[dhi êi tí ém iz nékst tu dhi éntrans]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_jc2x0ex",
+    "word": "The bar is opposite the movie theater.",
+    "translation": "O bar fica em frente ao cinema.",
+    "syllables": [
+      "The",
+      "bar",
+      "is",
+      "opposite",
+      "the",
+      "movie",
+      "theater"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə bɑːr ɪz ˈɑːpəzɪt ðə ˈmuːvi ˈθiːətər/",
+    "portuguesePhonetic": "[dha bár iz ápazit dha múvi thíater]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_rki5yyu",
+    "word": "Gate 12 is between gate 10 and gate 14.",
+    "translation": "O portão 12 fica entre o portão 10 e o portão 14.",
+    "syllables": [
+      "Gate",
+      "12",
+      "is",
+      "between",
+      "gate",
+      "10",
+      "and",
+      "gate",
+      "14"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɡeɪt twɛlv ɪz bɪˈtwiːn ɡeɪt tɛn ænd ɡeɪt fɔːrˈtiːn/",
+    "portuguesePhonetic": "[guêit tuélv iz bituín guêit tén énd guêit fortín]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_ht0ofp3",
+    "word": "There are clouds above the mountains.",
+    "translation": "Tem nuvens acima das montanhas.",
+    "syllables": [
+      "There",
+      "are",
+      "clouds",
+      "above",
+      "the",
+      "mountains"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ɑːr klaʊdz əˈbʌv ðə ˈmaʊntn̩z/",
+    "portuguesePhonetic": "[dhér ár kláudz abâv dha máuntanz]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_qxf81co",
+    "word": "The suitcase is under the seat.",
+    "translation": "A mala está embaixo do assento.",
+    "syllables": [
+      "The",
+      "suitcase",
+      "is",
+      "under",
+      "the",
+      "seat"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈsuːtkeɪs ɪz ˈʌndər ðə siːt/",
+    "portuguesePhonetic": "[dha sútkeis iz ânder dha sít]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_hgwx90q",
+    "word": "The conference room is in front of the elevator.",
+    "translation": "A sala de reunião fica na frente do elevador.",
+    "syllables": [
+      "The",
+      "conference",
+      "room",
+      "is",
+      "in",
+      "front",
+      "of",
+      "the",
+      "elevator"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈkɑːnfərəns ruːm ɪz ɪn frʌnt əv ðiː ˈɛləveɪtər/",
+    "portuguesePhonetic": "[dha kánferens rúm iz in frânt ov dhi éleveiter]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_jl1vnfs",
+    "word": "The picture is above the bed.",
+    "translation": "O quadro está acima da cama.",
+    "syllables": [
+      "The",
+      "picture",
+      "is",
+      "above",
+      "the",
+      "bed"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈpɪktʃər ɪz əˈbʌv ðə bɛd/",
+    "portuguesePhonetic": "[dha píktcher iz abâv dha béd]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_z9y4xhd",
+    "word": "The lamp is next to the bed.",
+    "translation": "A luminária está ao lado da cama.",
+    "syllables": [
+      "The",
+      "lamp",
+      "is",
+      "next",
+      "to",
+      "the",
+      "bed"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə læmp ɪz nɛkst tə ðə bɛd/",
+    "portuguesePhonetic": "[dha lémp iz nékst tu dha béd]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_xvq5lym",
+    "word": "The dog is under the table.",
+    "translation": "O cachorro está embaixo da mesa.",
+    "syllables": [
+      "The",
+      "dog",
+      "is",
+      "under",
+      "the",
+      "table"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə dɔːɡ ɪz ˈʌndər ðə ˈteɪbl̩/",
+    "portuguesePhonetic": "[dha dóg iz ânder dha têibou]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_9nt0uy0",
+    "word": "The car is behind the house.",
+    "translation": "O carro está atrás da casa.",
+    "syllables": [
+      "The",
+      "car",
+      "is",
+      "behind",
+      "the",
+      "house"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə kɑːr ɪz bɪˈhaɪnd ðə haʊs/",
+    "portuguesePhonetic": "[dha kár iz birráind dha ráus]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_tbgf9o1",
+    "word": "The store is opposite the school.",
+    "translation": "A loja fica em frente à escola.",
+    "syllables": [
+      "The",
+      "store",
+      "is",
+      "opposite",
+      "the",
+      "school"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə stɔːr ɪz ˈɑːpəzɪt ðə skuːl/",
+    "portuguesePhonetic": "[dha stór iz ápazit dha skúl]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_xknwfmh",
+    "word": "Isn't the bank next to the pharmacy?",
+    "translation": "O banco não fica ao lado da farmácia?",
+    "syllables": [
+      "Isn't",
+      "the",
+      "bank",
+      "next",
+      "to",
+      "the",
+      "pharmacy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɪznt ðə bæŋk nɛkst tə ðə ˈfɑːrməsi/",
+    "portuguesePhonetic": "[íznt dha bênk nékst tu dha fármasi]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_306r6at",
+    "word": "The park isn't behind the school.",
+    "translation": "O parque não fica atrás da escola.",
+    "syllables": [
+      "The",
+      "park",
+      "isn't",
+      "behind",
+      "the",
+      "school"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə pɑːrk ˈɪznt bɪˈhaɪnd ðə skuːl/",
+    "portuguesePhonetic": "[dha párk íznt birráind dha skúl]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_c653za4",
+    "word": "What's between the two buildings?",
+    "translation": "O que tem entre os dois prédios?",
+    "syllables": [
+      "What's",
+      "between",
+      "the",
+      "two",
+      "buildings"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts bɪˈtwiːn ðə tuː ˈbɪldɪŋz/",
+    "portuguesePhonetic": "[uâts bituín dha tú bíldinz]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_ad26irp",
+    "word": "There isn't anything under the bed.",
+    "translation": "Não tem nada embaixo da cama.",
+    "syllables": [
+      "There",
+      "isn't",
+      "anything",
+      "under",
+      "the",
+      "bed"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ˈɪznt ˈɛniθɪŋ ˈʌndər ðə bɛd/",
+    "portuguesePhonetic": "[dhér íznt énithin ânder dha béd]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_gjnlkij",
+    "word": "Isn't the museum in front of the park?",
+    "translation": "O museu não fica na frente do parque?",
+    "syllables": [
+      "Isn't",
+      "the",
+      "museum",
+      "in",
+      "front",
+      "of",
+      "the",
+      "park"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɪznt ðə mjuˈziːəm ɪn frʌnt əv ðə pɑːrk/",
+    "portuguesePhonetic": "[íznt dha miuzíam in frânt ov dha párk]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_xpszf2w",
+    "word": "Wasn't the plane above the clouds?",
+    "translation": "O avião não estava acima das nuvens?",
+    "syllables": [
+      "Wasn't",
+      "the",
+      "plane",
+      "above",
+      "the",
+      "clouds"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈwʌzənt ðə pleɪn əˈbʌv ðə klaʊdz/",
+    "portuguesePhonetic": "[uázant dha plêin abâv dha kláudz]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_okjz7xk",
+    "word": "Why is the box behind the door?",
+    "translation": "Por que a caixa está atrás da porta?",
+    "syllables": [
+      "Why",
+      "is",
+      "the",
+      "box",
+      "behind",
+      "the",
+      "door"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ ɪz ðə bɑːks bɪˈhaɪnd ðə dɔːr/",
+    "portuguesePhonetic": "[uái iz dha báks birráind dha dór]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_39x6u50",
+    "word": "What's opposite the school?",
+    "translation": "O que tem em frente à escola?",
+    "syllables": [
+      "What's",
+      "opposite",
+      "the",
+      "school"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts ˈɑːpəzɪt ðə skuːl/",
+    "portuguesePhonetic": "[uâts ápazit dha skúl]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_a6e0clx",
+    "word": "The dog was hiding under the bed because it was scared of the storm.",
+    "translation": "O cachorro estava escondido embaixo da cama porque estava com medo da tempestade.",
+    "syllables": [
+      "The",
+      "dog",
+      "was",
+      "hiding",
+      "under",
+      "the",
+      "bed",
+      "because",
+      "it",
+      "was",
+      "scared",
+      "of",
+      "the",
+      "storm"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə dɔːɡ wəz ˈhaɪdɪŋ ˈʌndər ðə bɛd bɪˈkɔːz ɪt wəz skɛrd əv ðə stɔːrm/",
+    "portuguesePhonetic": "[dha dóg uâz rráidin ânder dha béd bikóz ít uâz skérd ov dha stórm]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_p8uqoke",
+    "word": "We parked in front of the store, but there wasn't any space behind it.",
+    "translation": "A gente estacionou na frente da loja, mas não tinha espaço nenhum atrás.",
+    "syllables": [
+      "We",
+      "parked",
+      "in",
+      "front",
+      "of",
+      "the",
+      "store",
+      "but",
+      "there",
+      "wasn't",
+      "any",
+      "space",
+      "behind",
+      "it"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː pɑːrkt ɪn frʌnt əv ðə stɔːr bʌt ðɛr ˈwʌznt ˈɛni speɪs bɪˈhaɪnd ɪt/",
+    "portuguesePhonetic": "[uí párkt in frânt ov dha stór bât dhér uáznt éni spêis birráind ít]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_jreqg5o",
+    "word": "The cat sat between us while we were watching TV.",
+    "translation": "O gato sentou entre a gente enquanto estávamos assistindo TV.",
+    "syllables": [
+      "The",
+      "cat",
+      "sat",
+      "between",
+      "us",
+      "while",
+      "we",
+      "were",
+      "watching",
+      "TV"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə kæt sæt bɪˈtwiːn ʌs waɪl wiː wɜːr ˈwɑːtʃɪŋ ˌtiːˈviː/",
+    "portuguesePhonetic": "[dha két sét bituín âs uáil uí uâr uátchin ti-ví]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_78da1fh",
+    "word": "The plane flew over the ocean when we traveled to Europe.",
+    "translation": "O avião voou sobre o oceano quando viajamos para a Europa.",
+    "syllables": [
+      "The",
+      "plane",
+      "flew",
+      "over",
+      "the",
+      "ocean",
+      "when",
+      "we",
+      "traveled",
+      "to",
+      "Europe"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə pleɪn fluː ˈoʊvər ðiː ˈoʊʃn̩ wɛn wiː ˈtrævl̩d tə ˈjʊrəp/",
+    "portuguesePhonetic": "[dha plêin flú ôuver dhi ôuchan uén uí trévold tu iúrap]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_iwh7pw3",
+    "word": "Since the bakery is opposite my house, I go there every morning.",
+    "translation": "Já que a padaria fica em frente à minha casa, eu vou lá todo dia de manhã.",
+    "syllables": [
+      "Since",
+      "the",
+      "bakery",
+      "is",
+      "opposite",
+      "my",
+      "house",
+      "I",
+      "go",
+      "there",
+      "every",
+      "morning"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sɪns ðə ˈbeɪkəri ɪz ˈɑːpəzɪt maɪ haʊs aɪ ɡoʊ ðɛr ˈɛvri ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[síns dha bêikeri iz ápazit mái ráus ái gôu dhér évri mórnin]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_4pwqh6m",
+    "word": "The keys were between the couch cushions the whole time, but nobody thought to look there.",
+    "translation": "As chaves estavam entre as almofadas do sofá o tempo todo, mas ninguém pensou em olhar lá.",
+    "syllables": [
+      "The",
+      "keys",
+      "were",
+      "between",
+      "the",
+      "couch",
+      "cushions",
+      "the",
+      "whole",
+      "time",
+      "but",
+      "nobody",
+      "thought",
+      "to",
+      "look",
+      "there"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə kiːz wɜːr bɪˈtwiːn ðə kaʊtʃ ˈkʊʃn̩z ðə hoʊl taɪm bʌt ˈnoʊbɑːdi θɔːt tə lʊk ðɛr/",
+    "portuguesePhonetic": "[dha kíz uâr bituín dha káutch kúchanz dha rrôul táim bât nôubadi thót tu lúk dhér]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_9g3f3sd",
+    "word": "We were standing in front of the museum when it started to rain, so we had to run for shelter.",
+    "translation": "A gente estava em pé na frente do museu quando começou a chover, então tivemos que correr para nos abrigar.",
+    "syllables": [
+      "We",
+      "were",
+      "standing",
+      "in",
+      "front",
+      "of",
+      "the",
+      "museum",
+      "when",
+      "it",
+      "started",
+      "to",
+      "rain",
+      "so",
+      "we",
+      "had",
+      "to",
+      "run",
+      "for",
+      "shelter"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː wɜːr ˈstændɪŋ ɪn frʌnt əv ðə mjuˈziːəm wɛn ɪt ˈstɑːrtɪd tə reɪn soʊ wiː hæd tə rʌn fɔːr ˈʃɛltər/",
+    "portuguesePhonetic": "[uí uâr sténdin in frânt ov dha miuzíam uén ít stárted tu rêin sôu uí réd tu rân fór chélter]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_oa99354",
+    "word": "The company built its new office right next to the old one, because they wanted to keep the same location.",
+    "translation": "A empresa construiu o escritório novo bem ao lado do antigo, porque queriam manter o mesmo local.",
+    "syllables": [
+      "The",
+      "company",
+      "built",
+      "its",
+      "new",
+      "office",
+      "right",
+      "next",
+      "to",
+      "the",
+      "old",
+      "one",
+      "because",
+      "they",
+      "wanted",
+      "to",
+      "keep",
+      "the",
+      "same",
+      "location"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈkʌmpəni bɪlt ɪts nuː ˈɔːfɪs raɪt nɛkst tə ðiː oʊld wʌn bɪˈkɔːz ðeɪ ˈwɑːntɪd tə kiːp ðə seɪm loʊˈkeɪʃn̩/",
+    "portuguesePhonetic": "[dha kâmpani bíld íts niú ófis ráit nékst tu dhi ôuld uân bikóz dhêi uánted tu kíp dha sêim loukêichan]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_zd42rfo",
+    "word": "There was a strange noise coming from behind the wall, and it was impossible to ignore.",
+    "translation": "Tinha um barulho estranho vindo de atrás da parede, e era impossível ignorar.",
+    "syllables": [
+      "There",
+      "was",
+      "a",
+      "strange",
+      "noise",
+      "coming",
+      "from",
+      "behind",
+      "the",
+      "wall",
+      "and",
+      "it",
+      "was",
+      "impossible",
+      "to",
+      "ignore"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wəz ə streɪndʒ nɔɪz ˈkʌmɪŋ frəm bɪˈhaɪnd ðə wɔːl ænd ɪt wəz ɪmˈpɑːsəbl̩ tə ɪɡˈnɔːr/",
+    "portuguesePhonetic": "[dhér uâz a strêindj nóiz kâmin from birráind dha uól énd ít uâz impásabou tu ignór]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_sobioyn",
+    "word": "We hung the mirror above the fireplace, because it was the only spot that made sense in the room.",
+    "translation": "A gente pendurou o espelho acima da lareira, porque era o único lugar que fazia sentido no cômodo.",
+    "syllables": [
+      "We",
+      "hung",
+      "the",
+      "mirror",
+      "above",
+      "the",
+      "fireplace",
+      "because",
+      "it",
+      "was",
+      "the",
+      "only",
+      "spot",
+      "that",
+      "made",
+      "sense",
+      "in",
+      "the",
+      "room"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː hʌŋ ðə ˈmɪrər əˈbʌv ðə ˈfaɪərpleɪs bɪˈkɔːz ɪt wəz ðiː ˈoʊnli spɑːt ðæt meɪd sɛns ɪn ðə ruːm/",
+    "portuguesePhonetic": "[uí rrân dha mírer abâv dha fáierplêis bikóz ít uâz dhi ôunli spát dhét mêid sêns in dha rúm]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_kdcphkm",
+    "word": "The children were playing between the two houses, even though their parents had told them not to.",
+    "translation": "As crianças estavam brincando entre as duas casas, mesmo os pais tendo dito para não fazerem isso.",
+    "syllables": [
+      "The",
+      "children",
+      "were",
+      "playing",
+      "between",
+      "the",
+      "two",
+      "houses",
+      "even",
+      "though",
+      "their",
+      "parents",
+      "had",
+      "told",
+      "them",
+      "not",
+      "to"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈtʃɪldrən wɜːr ˈpleɪɪŋ bɪˈtwiːn ðə tuː ˈhaʊzɪz ˈiːvn̩ ðoʊ ðɛr ˈpɛrənts hæd toʊld ðɛm nɑːt tə/",
+    "portuguesePhonetic": "[dha tchíldran uâr plêiin bituín dha tú ráuziz ívan dhôu dhér pérints réd tôuld dhém nót tu]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_18ojz8a",
+    "word": "The dog kept following us and staying right beside us, no matter where we went.",
+    "translation": "O cachorro ficou nos seguindo e ficando bem ao nosso lado, não importa onde a gente fosse.",
+    "syllables": [
+      "The",
+      "dog",
+      "kept",
+      "following",
+      "us",
+      "and",
+      "staying",
+      "right",
+      "beside",
+      "us",
+      "no",
+      "matter",
+      "where",
+      "we",
+      "went"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə dɔːɡ kɛpt ˈfɑːloʊɪŋ ʌs ænd ˈsteɪɪŋ raɪt bɪˈsaɪd ʌs noʊ ˈmætər wɛr wiː wɛnt/",
+    "portuguesePhonetic": "[dha dóg képt fálouin âs énd stêin ráit bisáid âs nôu méter uér uí uént]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_7z1opka",
+    "word": "They found the missing documents under a pile of old newspapers, which nobody had touched in years.",
+    "translation": "Eles acharam os documentos perdidos embaixo de uma pilha de jornais velhos, que ninguém tinha tocado em anos.",
+    "syllables": [
+      "They",
+      "found",
+      "the",
+      "missing",
+      "documents",
+      "under",
+      "a",
+      "pile",
+      "of",
+      "old",
+      "newspapers",
+      "which",
+      "nobody",
+      "had",
+      "touched",
+      "in",
+      "years"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ faʊnd ðə ˈmɪsɪŋ ˈdɑːkjəmənts ˈʌndər ə paɪl əv oʊld ˈnuːzpeɪpərz wɪtʃ ˈnoʊbɑːdi hæd tʌtʃt ɪn jɪrz/",
+    "portuguesePhonetic": "[dhêi fáund dha mísin dákiuments ânder a páil ov ôuld niúzpeipers uítch nôubadi réd tâtcht in íirz]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_lluc4l3",
+    "word": "Where's the bank? / Opposite the pharmacy.",
+    "translation": "Onde fica o banco? / Em frente à farmácia.",
+    "syllables": [
+      "Where's",
+      "the",
+      "bank",
+      "/",
+      "Opposite",
+      "the",
+      "pharmacy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə bæŋk · ˈɑːpəzɪt ðə ˈfɑːrməsi/",
+    "portuguesePhonetic": "[uérz dha bênk · ápazit dha fármasi]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_vq1zfai",
+    "word": "Where's the cat? / Under the table.",
+    "translation": "Onde está o gato? / Embaixo da mesa.",
+    "syllables": [
+      "Where's",
+      "the",
+      "cat",
+      "/",
+      "Under",
+      "the",
+      "table"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə kæt · ˈʌndər ðə ˈteɪbl̩/",
+    "portuguesePhonetic": "[uérz dha két · ânder dha têibou]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_wblksfc",
+    "word": "What's between the two buildings? / A small park.",
+    "translation": "O que tem entre os dois prédios? / Um parque pequeno.",
+    "syllables": [
+      "What's",
+      "between",
+      "the",
+      "two",
+      "buildings",
+      "/",
+      "A",
+      "small",
+      "park"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts bɪˈtwiːn ðə tuː ˈbɪldɪŋz · ə smɔːl pɑːrk/",
+    "portuguesePhonetic": "[uâts bituín dha tú bíldinz · a smól párk]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_brn0wxf",
+    "word": "Where's the car parked? / In front of the house.",
+    "translation": "Onde o carro está estacionado? / Na frente da casa.",
+    "syllables": [
+      "Where's",
+      "the",
+      "car",
+      "parked",
+      "/",
+      "In",
+      "front",
+      "of",
+      "the",
+      "house"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə kɑːr pɑːrkt · ɪn frʌnt əv ðə haʊs/",
+    "portuguesePhonetic": "[uérz dha kár párkt · in frânt ov dha ráus]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_hzosi31",
+    "word": "Where's the garden? / Behind the house.",
+    "translation": "Onde fica o jardim? / Atrás da casa.",
+    "syllables": [
+      "Where's",
+      "the",
+      "garden",
+      "/",
+      "Behind",
+      "the",
+      "house"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈɡɑːrdn̩ · bɪˈhaɪnd ðə haʊs/",
+    "portuguesePhonetic": "[uérz dha gárdan · birráind dha ráus]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_5qh3ew7",
+    "word": "Is the bird above the tree? / Yes, it is.",
+    "translation": "O pássaro está acima da árvore? / Sim, está.",
+    "syllables": [
+      "Is",
+      "the",
+      "bird",
+      "above",
+      "the",
+      "tree",
+      "/",
+      "Yes",
+      "it",
+      "is"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðə bɜːrd əˈbʌv ðə triː · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz dha bârd abâv dha trí · iés ít iz]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_trt7su2",
+    "word": "Where's the remote? / Under the cushion.",
+    "translation": "Onde está o controle? / Embaixo da almofada.",
+    "syllables": [
+      "Where's",
+      "the",
+      "remote",
+      "/",
+      "Under",
+      "the",
+      "cushion"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə rɪˈmoʊt · ˈʌndər ðə ˈkʊʃn̩/",
+    "portuguesePhonetic": "[uérz dha rimôut · ânder dha kúchan]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_ymqp0a4",
+    "word": "Who's sitting next to you? / My sister.",
+    "translation": "Quem está sentado ao seu lado? / Minha irmã.",
+    "syllables": [
+      "Who's",
+      "sitting",
+      "next",
+      "to",
+      "you",
+      "/",
+      "My",
+      "sister"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/huːz ˈsɪtɪŋ nɛkst tə juː · maɪ ˈsɪstər/",
+    "portuguesePhonetic": "[rrúz sítin nékst tu iú · mái síster]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_d9zpzow",
+    "word": "Where's the hotel? / Opposite the beach.",
+    "translation": "Onde fica o hotel? / Em frente à praia.",
+    "syllables": [
+      "Where's",
+      "the",
+      "hotel",
+      "/",
+      "Opposite",
+      "the",
+      "beach"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə hoʊˈtɛl · ˈɑːpəzɪt ðə biːtʃ/",
+    "portuguesePhonetic": "[uérz dha routél · ápazit dha bítch]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_pr3xltn",
+    "word": "Where's the dressing room? / Behind the counter.",
+    "translation": "Onde fica o provador? / Atrás do balcão.",
+    "syllables": [
+      "Where's",
+      "the",
+      "dressing",
+      "room",
+      "/",
+      "Behind",
+      "the",
+      "counter"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈdrɛsɪŋ ruːm · bɪˈhaɪnd ðə ˈkaʊntər/",
+    "portuguesePhonetic": "[uérz dha drésin rúm · birráind dha káunter]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_ix4hwnf",
+    "word": "Where's the picture? / Above the bed.",
+    "translation": "Onde está o quadro? / Acima da cama.",
+    "syllables": [
+      "Where's",
+      "the",
+      "picture",
+      "/",
+      "Above",
+      "the",
+      "bed"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈpɪktʃər · əˈbʌv ðə bɛd/",
+    "portuguesePhonetic": "[uérz dha píktcher · abâv dha béd]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_cj83g72",
+    "word": "What's flying over the city? / A plane.",
+    "translation": "O que está voando sobre a cidade? / Um avião.",
+    "syllables": [
+      "What's",
+      "flying",
+      "over",
+      "the",
+      "city",
+      "/",
+      "A",
+      "plane"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts ˈflaɪɪŋ ˈoʊvər ðə ˈsɪti · ə pleɪn/",
+    "portuguesePhonetic": "[uâts fláiin ôuver dha síti · a plêin]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_9fs3zmp",
+    "word": "Where's the bus stop? / Opposite the bank.",
+    "translation": "Onde fica o ponto de ônibus? / Em frente ao banco.",
+    "syllables": [
+      "Where's",
+      "the",
+      "bus",
+      "stop",
+      "/",
+      "Opposite",
+      "the",
+      "bank"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə bʌs stɑːp · ˈɑːpəzɪt ðə bæŋk/",
+    "portuguesePhonetic": "[uérz dha bâs stáp · ápazit dha bênk]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_ic5b2pj",
+    "word": "Is the mirror behind the treadmill? / Yes, it is.",
+    "translation": "O espelho fica atrás da esteira? / Sim, fica.",
+    "syllables": [
+      "Is",
+      "the",
+      "mirror",
+      "behind",
+      "the",
+      "treadmill",
+      "/",
+      "Yes",
+      "it",
+      "is"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðə ˈmɪrər bɪˈhaɪnd ðə ˈtrɛdmɪl · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz dha mírer birráind dha trédmiou · iés ít iz]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_vzdomql",
+    "word": "Where's our table? / Next to the window.",
+    "translation": "Onde fica nossa mesa? / Ao lado da janela.",
+    "syllables": [
+      "Where's",
+      "our",
+      "table",
+      "/",
+      "Next",
+      "to",
+      "the",
+      "window"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ˈaʊər ˈteɪbl̩ · nɛkst tə ðə ˈwɪndoʊ/",
+    "portuguesePhonetic": "[uérz áuer têibou · nékst tu dha uíndou]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_0k78t0m",
+    "word": "Where's the suitcase? / Under the seat.",
+    "translation": "Onde está a mala? / Embaixo do assento.",
+    "syllables": [
+      "Where's",
+      "the",
+      "suitcase",
+      "/",
+      "Under",
+      "the",
+      "seat"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈsuːtkeɪs · ˈʌndər ðə siːt/",
+    "portuguesePhonetic": "[uérz dha sútkeis · ânder dha sít]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_xsitn0e",
+    "word": "Where's the ATM? / Next to the entrance.",
+    "translation": "Onde fica o caixa eletrônico? / Ao lado da entrada.",
+    "syllables": [
+      "Where's",
+      "the",
+      "ATM",
+      "/",
+      "Next",
+      "to",
+      "the",
+      "entrance"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðiː eɪ tiː ɛm · nɛkst tə ðiː ˈɛntrəns/",
+    "portuguesePhonetic": "[uérz dhi êi tí ém · nékst tu dhi éntrans]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_n41hhj7",
+    "word": "Where's the bar? / Opposite the movie theater.",
+    "translation": "Onde fica o bar? / Em frente ao cinema.",
+    "syllables": [
+      "Where's",
+      "the",
+      "bar",
+      "/",
+      "Opposite",
+      "the",
+      "movie",
+      "theater"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə bɑːr · ˈɑːpəzɪt ðə ˈmuːvi ˈθiːətər/",
+    "portuguesePhonetic": "[uérz dha bár · ápazit dha múvi thíater]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_hyys4fg",
+    "word": "Where's gate 12? / Between gate 10 and 14.",
+    "translation": "Onde fica o portão 12? / Entre o portão 10 e o 14.",
+    "syllables": [
+      "Where's",
+      "gate",
+      "12",
+      "/",
+      "Between",
+      "gate",
+      "10",
+      "and",
+      "14"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ɡeɪt twɛlv · bɪˈtwiːn ɡeɪt tɛn ænd fɔːrˈtiːn/",
+    "portuguesePhonetic": "[uérz guêit tuélv · bituín guêit tén énd fortín]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_iokgl4d",
+    "word": "Are there clouds above the mountains? / Yes, a lot.",
+    "translation": "Tem nuvens acima das montanhas? / Sim, bastante.",
+    "syllables": [
+      "Are",
+      "there",
+      "clouds",
+      "above",
+      "the",
+      "mountains",
+      "/",
+      "Yes",
+      "a",
+      "lot"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɑːr ðɛr klaʊdz əˈbʌv ðə ˈmaʊntn̩z · jɛs ə lɑːt/",
+    "portuguesePhonetic": "[ár dhér kláudz abâv dha máuntanz · iés a lát]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_4f1ag1m",
+    "word": "Where's the conference room? / In front of the elevator.",
+    "translation": "Onde fica a sala de reunião? / Na frente do elevador.",
+    "syllables": [
+      "Where's",
+      "the",
+      "conference",
+      "room",
+      "/",
+      "In",
+      "front",
+      "of",
+      "the",
+      "elevator"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈkɑːnfərəns ruːm · ɪn frʌnt əv ðiː ˈɛləveɪtər/",
+    "portuguesePhonetic": "[uérz dha kánferens rúm · in frânt ov dhi éleveiter]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_s8s4iu3",
+    "word": "Where's the broom? / Behind the door.",
+    "translation": "Onde está a vassoura? / Atrás da porta.",
+    "syllables": [
+      "Where's",
+      "the",
+      "broom",
+      "/",
+      "Behind",
+      "the",
+      "door"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə bruːm · bɪˈhaɪnd ðə dɔːr/",
+    "portuguesePhonetic": "[uérz dha brúm · birráind dha dór]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_m8lq4ek",
+    "word": "Where's the bench? / Under a big tree.",
+    "translation": "Onde fica o banco? / Embaixo de uma árvore grande.",
+    "syllables": [
+      "Where's",
+      "the",
+      "bench",
+      "/",
+      "Under",
+      "a",
+      "big",
+      "tree"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə bɛntʃ · ˈʌndər ə bɪɡ triː/",
+    "portuguesePhonetic": "[uérz dha béntch · ânder a bíg trí]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_0j3arub",
+    "word": "Where's my desk? / Between two windows.",
+    "translation": "Onde fica minha carteira? / Entre duas janelas.",
+    "syllables": [
+      "Where's",
+      "my",
+      "desk",
+      "/",
+      "Between",
+      "two",
+      "windows"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz maɪ dɛsk · bɪˈtwiːn tuː ˈwɪndoʊz/",
+    "portuguesePhonetic": "[uérz mái désk · bituín tú uíndouz]"
+  },
+  {
+    "id": "lesson_26_grammar_a1_en_id_xygaktr",
+    "word": "Where's the pharmacy? / Next to the clinic.",
+    "translation": "Onde fica a farmácia? / Ao lado da clínica.",
+    "syllables": [
+      "Where's",
+      "the",
+      "pharmacy",
+      "/",
+      "Next",
+      "to",
+      "the",
+      "clinic"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈfɑːrməsi · nɛkst tə ðə ˈklɪnɪk/",
+    "portuguesePhonetic": "[uérz dha fármasi · nékst tu dha klínik]"
+  }
+]

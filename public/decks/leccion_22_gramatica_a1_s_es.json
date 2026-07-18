@@ -1,0 +1,1639 @@
+[
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_21f5zdg",
+    "word": "Tiene un coche.",
+    "translation": "Ele tem um carro.",
+    "syllables": [
+      "Tiene",
+      "un",
+      "coche"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene un ˈkotʃe/",
+    "portuguesePhonetic": "[tiéne un kótche]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_9121mxp",
+    "word": "Tengo una bicicleta.",
+    "translation": "Eu tenho uma bicicleta.",
+    "syllables": [
+      "Tengo",
+      "una",
+      "bicicleta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋɡo una biθiˈkleta/",
+    "portuguesePhonetic": "[téngo úna bithikléta]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_j0vw9wk",
+    "word": "Tienes una casa bonita.",
+    "translation": "Você tem uma casa bonita.",
+    "syllables": [
+      "Tienes",
+      "una",
+      "casa",
+      "bonita"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes una ˈkasa boˈnita/",
+    "portuguesePhonetic": "[tiénes úna kása boníta]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_2eo4gei",
+    "word": "Tenemos dos perros.",
+    "translation": "A gente tem dois cachorros.",
+    "syllables": [
+      "Tenemos",
+      "dos",
+      "perros"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈnemos dos ˈperos/",
+    "portuguesePhonetic": "[tenémos dos pérros]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_eciedx5",
+    "word": "Tienen un jardín grande.",
+    "translation": "Eles têm um jardim grande.",
+    "syllables": [
+      "Tienen",
+      "un",
+      "jardín",
+      "grande"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenen un xaɾˈðin ˈɡɾande/",
+    "portuguesePhonetic": "[tiénen un rrardín gránde]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_dommi8e",
+    "word": "Tiene un móvil nuevo.",
+    "translation": "Ela tem um celular novo.",
+    "syllables": [
+      "Tiene",
+      "un",
+      "móvil",
+      "nuevo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene un ˈmoβil ˈnweβo/",
+    "portuguesePhonetic": "[tiéne un móbil nuébo]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_nv8qbdd",
+    "word": "Tiene cuatro ruedas.",
+    "translation": "Ele tem quatro rodas.",
+    "syllables": [
+      "Tiene",
+      "cuatro",
+      "ruedas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ˈkwatɾo ˈrweðas/",
+    "portuguesePhonetic": "[tiéne kuátro rruédas]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_fx8c95f",
+    "word": "No tengo nada de dinero.",
+    "translation": "Eu não tenho dinheiro nenhum.",
+    "syllables": [
+      "No",
+      "tengo",
+      "nada",
+      "de",
+      "dinero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈteŋɡo ˈnaða de diˈneɾo/",
+    "portuguesePhonetic": "[no téngo náda de dinéro]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_z3vbnsa",
+    "word": "No tienes mucho tiempo.",
+    "translation": "Você não tem muito tempo.",
+    "syllables": [
+      "No",
+      "tienes",
+      "mucho",
+      "tiempo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈtjenes ˈmutʃo ˈtjempo/",
+    "portuguesePhonetic": "[no tiénes mútcho tiémpo]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_1nd8ojy",
+    "word": "No tiene trabajo.",
+    "translation": "Ele não tem emprego.",
+    "syllables": [
+      "No",
+      "tiene",
+      "trabajo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈtjene tɾaˈβaxo/",
+    "portuguesePhonetic": "[no tiéne trabárro]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_bj6ilun",
+    "word": "No tiene coche.",
+    "translation": "Ela não tem carro.",
+    "syllables": [
+      "No",
+      "tiene",
+      "coche"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈtjene ˈkotʃe/",
+    "portuguesePhonetic": "[no tiéne kótche]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_8mtt83o",
+    "word": "No tenemos un plan.",
+    "translation": "A gente não tem um plano.",
+    "syllables": [
+      "No",
+      "tenemos",
+      "un",
+      "plan"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no teˈnemos un plan/",
+    "portuguesePhonetic": "[no tenémos un plan]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_pjggkfv",
+    "word": "¿Tienes un bolígrafo?",
+    "translation": "Você tem uma caneta?",
+    "syllables": [
+      "Tienes",
+      "un",
+      "bolígrafo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes un boˈliɣɾafo/",
+    "portuguesePhonetic": "[tiénes un bolígrafo]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_5spq7ku",
+    "word": "¿Tienen entradas?",
+    "translation": "Eles têm ingressos?",
+    "syllables": [
+      "Tienen",
+      "entradas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenen enˈtɾaðas/",
+    "portuguesePhonetic": "[tiénen entrádas]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_vd4jxg5",
+    "word": "¿Tiene una hermana?",
+    "translation": "Ele tem uma irmã?",
+    "syllables": [
+      "Tiene",
+      "una",
+      "hermana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene una eɾˈmana/",
+    "portuguesePhonetic": "[tiéne úna ermána]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_29d1wr3",
+    "word": "¿Tiene las llaves?",
+    "translation": "Ela tem as chaves?",
+    "syllables": [
+      "Tiene",
+      "las",
+      "llaves"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene las ˈʎaβes/",
+    "portuguesePhonetic": "[tiéne las lhábes]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_6bz80os",
+    "word": "¿Tiene garantía?",
+    "translation": "Ele tem garantia?",
+    "syllables": [
+      "Tiene",
+      "garantía"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ɣaɾanˈtia/",
+    "portuguesePhonetic": "[tiéne garantía]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ka3hxt1",
+    "word": "Sí, tengo.",
+    "translation": "Sim, tenho.",
+    "syllables": [
+      "Sí",
+      "tengo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si ˈteŋɡo/",
+    "portuguesePhonetic": "[sí téngo]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_sb3wjtq",
+    "word": "No, no tienen.",
+    "translation": "Não, não têm.",
+    "syllables": [
+      "No",
+      "no",
+      "tienen"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no no ˈtjenen/",
+    "portuguesePhonetic": "[no no tiénen]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_27nsidf",
+    "word": "Sí, tiene.",
+    "translation": "Sim, tem.",
+    "syllables": [
+      "Sí",
+      "tiene"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si ˈtjene/",
+    "portuguesePhonetic": "[sí tiéne]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_jubnemq",
+    "word": "No, no tiene.",
+    "translation": "Não, não tem.",
+    "syllables": [
+      "No",
+      "no",
+      "tiene"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no no ˈtjene/",
+    "portuguesePhonetic": "[no no tiéne]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_srfis33",
+    "word": "Tenemos todo lo que necesitamos.",
+    "translation": "A gente tem tudo que precisa.",
+    "syllables": [
+      "Tenemos",
+      "todo",
+      "lo",
+      "que",
+      "necesitamos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈnemos ˈtoðo lo ke neθesiˈtamos/",
+    "portuguesePhonetic": "[tenémos tódo lo ke nethesitámos]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_qksp6bk",
+    "word": "No tienen suficientes sillas.",
+    "translation": "Eles não tienen cadeiras suficientes.",
+    "syllables": [
+      "No",
+      "tienen",
+      "suficientes",
+      "sillas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈtjenen sufiˈθjentes ˈsiʎas/",
+    "portuguesePhonetic": "[no tiénen sufithiéntes sílhas]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ivmpfem",
+    "word": "¿Tienes alguna pregunta?",
+    "translation": "Você tem alguma pergunta?",
+    "syllables": [
+      "Tienes",
+      "alguna",
+      "pregunta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes alˈɣuna pɾeˈɣunta/",
+    "portuguesePhonetic": "[tiénes algúna pregúnta]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_cdk7yto",
+    "word": "Tiene los ojos marrones.",
+    "translation": "Ela tem olhos castanhos.",
+    "syllables": [
+      "Tiene",
+      "los",
+      "ojos",
+      "marrones"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene los ˈoxos maˈrones/",
+    "portuguesePhonetic": "[tiéne los órros marrónes]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_iy0vlq7",
+    "word": "¿Tienes tus llaves?",
+    "translation": "Você tem suas chaves?",
+    "syllables": [
+      "Tienes",
+      "tus",
+      "llaves"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes tus ˈʎaβes/",
+    "portuguesePhonetic": "[tiénes tus lhábes]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_f41ekut",
+    "word": "No tengo mi paraguas.",
+    "translation": "Eu não tenho meu guarda-chuva.",
+    "syllables": [
+      "No",
+      "tengo",
+      "mi",
+      "paraguas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈteŋɡo mi paˈɾaɣwas/",
+    "portuguesePhonetic": "[no téngo mi parágwas]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_h5f9mea",
+    "word": "¿Tienen pan fresco?",
+    "translation": "Eles têm pão fresco?",
+    "syllables": [
+      "Tienen",
+      "pan",
+      "fresco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenen pan ˈfɾesko/",
+    "portuguesePhonetic": "[tiénen pan frésko]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ck5gdr1",
+    "word": "No tenemos leche en casa.",
+    "translation": "A gente não tem leite em casa.",
+    "syllables": [
+      "No",
+      "tenemos",
+      "leche",
+      "en",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no teˈnemos ˈletʃe en ˈkasa/",
+    "portuguesePhonetic": "[no tenémos létche en kása]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ve9tr2l",
+    "word": "¿Tiene aire acondicionado el autobús?",
+    "translation": "O ônibus tem ar-condicionado?",
+    "syllables": [
+      "Tiene",
+      "aire",
+      "acondicionado",
+      "el",
+      "autobús"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ˈajɾe akondiθjoˈnaðo el awtoˈβus/",
+    "portuguesePhonetic": "[tiéne áire akondithionádo el autobús]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ux7a2m7",
+    "word": "Tiene una reunión a las diez.",
+    "translation": "Ela tem uma reunião às dez.",
+    "syllables": [
+      "Tiene",
+      "una",
+      "reunión",
+      "a",
+      "las",
+      "diez"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene una reuˈnjon a las djeθ/",
+    "portuguesePhonetic": "[tiéne úna reunión a las diéth]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_1src9mg",
+    "word": "Tengo mucho trabajo hoy.",
+    "translation": "Eu tenho muito trabalho hoje.",
+    "syllables": [
+      "Tengo",
+      "mucho",
+      "trabajo",
+      "hoy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋɡo ˈmutʃo tɾaˈβaxo oi/",
+    "portuguesePhonetic": "[téngo mútcho trabárro ôi]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_aama2fo",
+    "word": "¿Tienes tu pasaporte?",
+    "translation": "Você tem seu passaporte?",
+    "syllables": [
+      "Tienes",
+      "tu",
+      "pasaporte"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes tu pasaˈpoɾte/",
+    "portuguesePhonetic": "[tiénes tu pasapórte]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_myodcv8",
+    "word": "Tenemos dos maletas.",
+    "translation": "A gente tem duas malas.",
+    "syllables": [
+      "Tenemos",
+      "dos",
+      "maletas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈnemos dos maˈletas/",
+    "portuguesePhonetic": "[tenémos dos malétas]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_u9aqpfd",
+    "word": "Este gimnasio tiene un equipamiento genial.",
+    "translation": "Essa academia tem equipamentos ótimos.",
+    "syllables": [
+      "Este",
+      "gimnasio",
+      "tiene",
+      "un",
+      "equipamiento",
+      "genial"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈeste ximˈnasjo ˈtjene un ekipaˈmjento xeˈnjal/",
+    "portuguesePhonetic": "[éste rrimnásio tiéne un ekipaménto rrenIál]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ofxyeou",
+    "word": "¿Tienen mesa para cuatro?",
+    "translation": "Eles têm uma mesa para quatro?",
+    "syllables": [
+      "Tienen",
+      "mesa",
+      "para",
+      "cuatro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenen ˈmesa ˈpaɾa ˈkwatɾo/",
+    "portuguesePhonetic": "[tiénen mésa pára kuátro]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_0cfk2ec",
+    "word": "¿Tenéis esto en una talla más pequeña?",
+    "translation": "Vocês têm isso num tamanho menor?",
+    "syllables": [
+      "Tenéis",
+      "esto",
+      "en",
+      "una",
+      "talla",
+      "más",
+      "pequeña"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈneis ˈesto en una ˈtaʎa mas peˈkeɲa/",
+    "portuguesePhonetic": "[tenéis ésto en úna tálha mas pekénha]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_dwf7n4k",
+    "word": "¿Tiene fiebre?",
+    "translation": "Ele tem febre?",
+    "syllables": [
+      "Tiene",
+      "fiebre"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ˈfjeβɾe/",
+    "portuguesePhonetic": "[tiéne fiébre]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_xlzylo8",
+    "word": "No tengo ninguna alergia.",
+    "translation": "Eu não tenho alergias.",
+    "syllables": [
+      "No",
+      "tengo",
+      "ninguna",
+      "alergia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈteŋɡo ninˈɡuna aˈleɾxja/",
+    "portuguesePhonetic": "[no téngo ningúna alérrria]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_vre9mai",
+    "word": "Tenemos toda la tarde libre.",
+    "translation": "A gente tem a tarde toda livre.",
+    "syllables": [
+      "Tenemos",
+      "toda",
+      "la",
+      "tarde",
+      "libre"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈnemos ˈtoða la ˈtaɾðe ˈliβɾe/",
+    "portuguesePhonetic": "[tenémos tóda la tárde líbre]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_2vycruh",
+    "word": "¿Tienes champú?",
+    "translation": "Você tem shampoo?",
+    "syllables": [
+      "Tienes",
+      "champú"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes tʃamˈpu/",
+    "portuguesePhonetic": "[tiénes tchampú]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_sd3vfgn",
+    "word": "¿Tiene deberes hoy?",
+    "translation": "Ela tem dever de casa hoje?",
+    "syllables": [
+      "Tiene",
+      "deberes",
+      "hoy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene deˈβeɾes oi/",
+    "portuguesePhonetic": "[tiéne debéres ôi]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_zfbl05n",
+    "word": "Tengo una noticia para ti.",
+    "translation": "Eu tenho uma notícia para você.",
+    "syllables": [
+      "Tengo",
+      "una",
+      "noticia",
+      "para",
+      "ti"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋɡo una noˈtiθja ˈpaɾa ti/",
+    "portuguesePhonetic": "[téngo úna notíthia pára ti]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ofkn0ss",
+    "word": "¿Tienes crema solar?",
+    "translation": "Você tem protetor solar?",
+    "syllables": [
+      "Tienes",
+      "crema",
+      "solar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes ˈkɾema soˈlaɾ/",
+    "portuguesePhonetic": "[tiénes kréma solár]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ie416zi",
+    "word": "No tenemos toallas limpias.",
+    "translation": "A gente não tem toalhas limpas.",
+    "syllables": [
+      "No",
+      "tenemos",
+      "toallas",
+      "limpias"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no teˈnemos toˈaʎas ˈlimpjas/",
+    "portuguesePhonetic": "[no tenémos toálhas límpias]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_4jghqrb",
+    "word": "¿Llevas tu documento de identidad?",
+    "translation": "Você tem seu documento com você?",
+    "syllables": [
+      "Llevas",
+      "tu",
+      "documento",
+      "de",
+      "identidad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈʎeβas tu dokuˈmento de iðentiˈðað/",
+    "portuguesePhonetic": "[lhébas tu dokuménto de identidád]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_l1d5i74",
+    "word": "Tienen entradas para el concierto.",
+    "translation": "Eles têm ingressos para o show.",
+    "syllables": [
+      "Tienen",
+      "entradas",
+      "para",
+      "el",
+      "concierto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenen enˈtɾaðas ˈpaɾa el konˈθjeɾto/",
+    "portuguesePhonetic": "[tiénen entrádas pára el konthiérto]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ozbnyye",
+    "word": "¿Tienes tu tarjeta de embarque?",
+    "translation": "Você tem seu cartão de embarque?",
+    "syllables": [
+      "Tienes",
+      "tu",
+      "tarjeta",
+      "de",
+      "embarque"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes tu taɾˈxeta de emˈbaɾke/",
+    "portuguesePhonetic": "[tiénes tu tarrréta de embárke]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_9h31gbv",
+    "word": "No tenemos buen tiempo hoy.",
+    "translation": "A gente não tem bom tempo hoje.",
+    "syllables": [
+      "No",
+      "tenemos",
+      "buen",
+      "tiempo",
+      "hoy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no teˈnemos bwen ˈtjempo oi/",
+    "portuguesePhonetic": "[no tenémos buén tiémpo ôi]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_kxvdmvd",
+    "word": "Tiene muchos amigos.",
+    "translation": "Ela tem muitos amigos.",
+    "syllables": [
+      "Tiene",
+      "muchos",
+      "amigos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ˈmutʃos aˈmiɣos/",
+    "portuguesePhonetic": "[tiéne mútchos amígos]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_0igrk2k",
+    "word": "Tengo un perro.",
+    "translation": "Eu tenho um cachorro.",
+    "syllables": [
+      "Tengo",
+      "un",
+      "perro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋɡo un ˈpero/",
+    "portuguesePhonetic": "[téngo un pérro]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_f5cnyc7",
+    "word": "Tiene un trabajo.",
+    "translation": "Ela tem um emprego.",
+    "syllables": [
+      "Tiene",
+      "un",
+      "trabajo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene un tɾaˈβaxo/",
+    "portuguesePhonetic": "[tiéne un trabárro]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_xc2ioho",
+    "word": "Tenemos un coche.",
+    "translation": "A gente tem um carro.",
+    "syllables": [
+      "Tenemos",
+      "un",
+      "coche"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈnemos un ˈkotʃe/",
+    "portuguesePhonetic": "[tenémos un kótche]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_gg1he4y",
+    "word": "No tiene tiempo.",
+    "translation": "Ele não tem tempo.",
+    "syllables": [
+      "No",
+      "tiene",
+      "tiempo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈtjene ˈtjempo/",
+    "portuguesePhonetic": "[no tiéne tiémpo]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_zy1at4w",
+    "word": "¿Tienes un minuto?",
+    "translation": "Você tem um minuto?",
+    "syllables": [
+      "Tienes",
+      "un",
+      "minuto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes un miˈnuto/",
+    "portuguesePhonetic": "[tiénes un minúto]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_kj6yx4i",
+    "word": "No nos queda mucho dinero.",
+    "translation": "A gente não tem muito dinheiro sobrando.",
+    "syllables": [
+      "No",
+      "nos",
+      "queda",
+      "mucho",
+      "dinero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no nos ˈkeða ˈmutʃo diˈneɾo/",
+    "portuguesePhonetic": "[no nos kéda mútcho dinéro]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_dnldsbh",
+    "word": "¿Tiene coche?",
+    "translation": "Ela tem um carro?",
+    "syllables": [
+      "Tiene",
+      "coche"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ˈkotʃe/",
+    "portuguesePhonetic": "[tiéne kótche]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_k3bisng",
+    "word": "Todavía no tienen casa.",
+    "translation": "Eles ainda não têm uma casa.",
+    "syllables": [
+      "Todavía",
+      "no",
+      "tienen",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/toðaˈβia no ˈtjenen ˈkasa/",
+    "portuguesePhonetic": "[todabía no tiénen kása]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_7qup6cp",
+    "word": "¿No tienes uno más grande?",
+    "translation": "Você não tem um maior?",
+    "syllables": [
+      "No",
+      "tienes",
+      "uno",
+      "más",
+      "grande"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈtjenes ˈuno mas ˈɣɾande/",
+    "portuguesePhonetic": "[no tiénes úno mas gránde]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_rhy54qa",
+    "word": "¿No tiene hermanos?",
+    "translation": "Ele não tem irmãos?",
+    "syllables": [
+      "No",
+      "tiene",
+      "hermanos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈtjene eɾˈmanos/",
+    "portuguesePhonetic": "[no tiéne ermános]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_1ujwvlj",
+    "word": "¿Por qué no tienes tu móvil?",
+    "translation": "Por que você não tem seu telefone?",
+    "syllables": [
+      "Por",
+      "qué",
+      "no",
+      "tienes",
+      "tu",
+      "móvil"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke no ˈtjenes tu ˈmoβil/",
+    "portuguesePhonetic": "[por ké no tiénes tu móbil]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_epnabva",
+    "word": "¿Qué tienes en la bolsa?",
+    "translation": "O que você tem na sua bolsa?",
+    "syllables": [
+      "Qué",
+      "tienes",
+      "en",
+      "la",
+      "bolsa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈtjenes en la ˈbolsa/",
+    "portuguesePhonetic": "[ke tiénes en la bólsa]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ncxuz9i",
+    "word": "Tengo dolor de cabeza porque no dormí bien.",
+    "translation": "Eu tenho dor de cabeça porque não dormi bem.",
+    "syllables": [
+      "Tengo",
+      "dolor",
+      "de",
+      "cabeza",
+      "porque",
+      "no",
+      "dormí",
+      "bien"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋɡo doˈloɾ de kaˈβeθa ˈpoɾke no doɾˈmi bjen/",
+    "portuguesePhonetic": "[téngo dolór de kabétha pórke no dormí bién]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_mgy24fd",
+    "word": "No tiene coche, así que coge el autobús.",
+    "translation": "Ela não tem carro, então pega ônibus.",
+    "syllables": [
+      "No",
+      "tiene",
+      "coche",
+      "así",
+      "que",
+      "coge",
+      "el",
+      "autobús"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈtjene ˈkotʃe aˈsi ke ˈkoxe el awtoˈβus/",
+    "portuguesePhonetic": "[no tiéne kótche así ke kórre el autobús]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_zv951l4",
+    "word": "Tenemos tiempo suficiente, pero aun así deberíamos darnos prisa.",
+    "translation": "A gente tem tempo suficiente, mas mesmo assim deveríamos nos apressar.",
+    "syllables": [
+      "Tenemos",
+      "tiempo",
+      "suficiente",
+      "pero",
+      "aun",
+      "así",
+      "deberíamos",
+      "darnos",
+      "prisa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈnemos ˈtjempo sufiˈθjente ˈpeɾo aˈun aˈsi deβeˈɾiamos ˈdaɾnos ˈpɾisa/",
+    "portuguesePhonetic": "[tenémos tiémpo sufithiénte péro aún así deberíamos dárnos prísa]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_7i43tn3",
+    "word": "¿Tienes todo lo que necesitas, o te falta algo?",
+    "translation": "Você tem tudo que precisa, ou está faltando alguma coisa?",
+    "syllables": [
+      "Tienes",
+      "todo",
+      "lo",
+      "que",
+      "necesitas",
+      "o",
+      "te",
+      "falta",
+      "algo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes ˈtoðo lo ke neθeˈsitas o te ˈfalta ˈalɣo/",
+    "portuguesePhonetic": "[tiénes tódo lo ke nethesítas o te fálta álgo]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_aab3sjv",
+    "word": "No tienen un plan, así que están improvisando.",
+    "translation": "Eles não têm um plano, então estão improvisando.",
+    "syllables": [
+      "No",
+      "tienen",
+      "un",
+      "plan",
+      "así",
+      "que",
+      "están",
+      "improvisando"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈtjenen un plan aˈsi ke esˈtan impɾoβiˈsando/",
+    "portuguesePhonetic": "[no tiénen un plan así ke están improbisándo]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ubfspyz",
+    "word": "Tiene un trabajo genial, pero no tiene mucho tiempo libre porque trabaja demasiado.",
+    "translation": "Ele tem um emprego ótimo, mas não tem muito tempo livre porque trabalha demais.",
+    "syllables": [
+      "Tiene",
+      "un",
+      "trabajo",
+      "genial",
+      "pero",
+      "no",
+      "tiene",
+      "mucho",
+      "tiempo",
+      "libre",
+      "porque",
+      "trabaja",
+      "demasiado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene un tɾaˈβaxo xeˈnjal ˈpeɾo no ˈtjene ˈmutʃo ˈtjempo ˈliβɾe ˈpoɾke tɾaˈβaxa demaˈsjaðo/",
+    "portuguesePhonetic": "[tiéne un trabárro rrenIál péro no tiéne mútcho tiémpo líbre pórke trabárra demasiádo]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_5xf9b47",
+    "word": "Tenemos mucho trabajo por hacer, pero no tenemos suficiente gente para ayudar.",
+    "translation": "A gente tem muito trabalho para fazer, mas não tem gente suficiente para ajudar.",
+    "syllables": [
+      "Tenemos",
+      "mucho",
+      "trabajo",
+      "por",
+      "hacer",
+      "pero",
+      "no",
+      "tenemos",
+      "suficiente",
+      "gente",
+      "para",
+      "ayudar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈnemos ˈmutʃo tɾaˈβaxo poɾ aˈθeɾ ˈpeɾo no teˈnemos sufiˈθjente ˈxente ˈpaɾa aʝuˈðaɾ/",
+    "portuguesePhonetic": "[tenémos mútcho trabárro por athér péro no tenémos sufithiénte rrénte pára aiudár]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_adrtama",
+    "word": "¿Tienen idea de cuánto va a costar esto, o les va a sorprender?",
+    "translation": "Eles têm alguma ideia de quanto isso vai custar, ou vão levar um susto?",
+    "syllables": [
+      "Tienen",
+      "idea",
+      "de",
+      "cuánto",
+      "va",
+      "a",
+      "costar",
+      "esto",
+      "o",
+      "les",
+      "va",
+      "a",
+      "sorprender"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenen iˈðea de ˈkwanto ba a kosˈtaɾ ˈesto o les ba a soɾpɾenˈdeɾ/",
+    "portuguesePhonetic": "[tiénen idéa de kuánto ba a kostár ésto o les ba a sorprendér]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_kh9xaau",
+    "word": "Tiene la formación, pero no tiene la experiencia que están buscando.",
+    "translation": "Ela tem as qualificações, mas não tem a experiencia que eles estão procurando.",
+    "syllables": [
+      "Tiene",
+      "la",
+      "formación",
+      "pero",
+      "no",
+      "tiene",
+      "la",
+      "experiencia",
+      "que",
+      "están",
+      "buscando"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene la foɾmaˈθjon ˈpeɾo no ˈtjene la ekspeˈɾjenθja ke esˈtan busˈkando/",
+    "portuguesePhonetic": "[tiéne la formathión péro no tiéne la esperiéntia ke están buskándo]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_itj6fwu",
+    "word": "No tenemos reserva, pero esperamos que aún tengan una mesa para nosotros.",
+    "translation": "A gente não tem reserva, mas estamos esperando que ainda tenham uma mesa para nós.",
+    "syllables": [
+      "No",
+      "tenemos",
+      "reserva",
+      "pero",
+      "esperamos",
+      "que",
+      "aún",
+      "tengan",
+      "una",
+      "mesa",
+      "para",
+      "nosotros"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no teˈnemos reˈseɾβa ˈpeɾo espeˈɾamos ke aˈun ˈteŋɡan una ˈmesa ˈpaɾa noˈsotɾos/",
+    "portuguesePhonetic": "[no tenémos resérba péro esperámos ke aún téngan úna mésa pára nosótros]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_jwmhmpr",
+    "word": "Tiene tantos problemas en el trabajo que no tiene tiempo para pensar en nada más.",
+    "translation": "Ele tem tantos problemas no trabalho que não tem tempo para pensar em mais nada.",
+    "syllables": [
+      "Tiene",
+      "tantos",
+      "problemas",
+      "en",
+      "el",
+      "trabajo",
+      "que",
+      "no",
+      "tiene",
+      "tiempo",
+      "para",
+      "pensar",
+      "en",
+      "nada",
+      "más"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ˈtantos pɾoˈβlemas en el tɾaˈβaxo ke no ˈtjene ˈtjempo ˈpaɾa penˈsaɾ en ˈnaða mas/",
+    "portuguesePhonetic": "[tiéne tántos problémas en el trabárro ke no tiéne tiémpo pára pensár en náda mas]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_gxxl8sb",
+    "word": "¿Tienes algún arrepentimiento, o estás contento con las decisiones que tomaste?",
+    "translation": "Você tem algum arrependimento, ou está feliz com as decisões que tomou?",
+    "syllables": [
+      "Tienes",
+      "algún",
+      "arrepentimiento",
+      "o",
+      "estás",
+      "contento",
+      "con",
+      "las",
+      "decisiones",
+      "que",
+      "tomaste"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes alˈɣun arepentiˈmjento o esˈtas konˈtento kon las deθiˈsjones ke toˈmaste/",
+    "portuguesePhonetic": "[tiénes algún arrepentiménto o estás konténto kon las dethisiónes ke tomáste]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_je4rkrm",
+    "word": "Tienen todo lo que querían, pero todavía no tienen lo que realmente necesitaban.",
+    "translation": "Eles têm tudo que queriam, mas ainda não têm o que realmente precisavam.",
+    "syllables": [
+      "Tienen",
+      "todo",
+      "lo",
+      "que",
+      "querían",
+      "pero",
+      "todavía",
+      "no",
+      "tienen",
+      "lo",
+      "que",
+      "realmente",
+      "necesitaban"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenen ˈtoðo lo ke keˈɾian ˈpeɾo toðaˈβia no ˈtjenen lo ke reaɫˈmente neθesiˈtaβan/",
+    "portuguesePhonetic": "[tiénen tódo lo ke kerían péro todabía no tiénen lo ke realménte nethesitában]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_7i0t94e",
+    "word": "¿Tienes coche? / Sí.",
+    "translation": "Você tem carro? / Sim, tenho.",
+    "syllables": [
+      "Tienes",
+      "coche",
+      "/",
+      "Sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes ˈkotʃe · si/",
+    "portuguesePhonetic": "[tiénes kótche · sí]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_dmoclvo",
+    "word": "¿Tiene perro? / No.",
+    "translation": "Ela tem cachorro? / Não, não tem.",
+    "syllables": [
+      "Tiene",
+      "perro",
+      "/",
+      "No"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ˈpero · no/",
+    "portuguesePhonetic": "[tiéne pérro · no]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_rn809aq",
+    "word": "¿Tienen hijos? / Sí, dos.",
+    "translation": "Eles têm filhos? / Sim, dois.",
+    "syllables": [
+      "Tienen",
+      "hijos",
+      "/",
+      "Sí",
+      "dos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenen ˈixos · si dos/",
+    "portuguesePhonetic": "[tiénen írros · sí dos]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_egpc2v2",
+    "word": "¿Tiene trabajo? / Sí.",
+    "translation": "Ele tem emprego? / Sim, tem.",
+    "syllables": [
+      "Tiene",
+      "trabajo",
+      "/",
+      "Sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene tɾaˈβaxo · si/",
+    "portuguesePhonetic": "[tiéne trabárro · sí]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_b2zv0bh",
+    "word": "¿Tienes las llaves? / Sí, aquí mismo.",
+    "translation": "Você tem as chaves? / Sim, bem aqui.",
+    "syllables": [
+      "Tienes",
+      "las",
+      "llaves",
+      "/",
+      "Sí",
+      "aquí",
+      "mismo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes las ˈʎaβes · si aˈki ˈmizmo/",
+    "portuguesePhonetic": "[tiénes las lhábes · sí akí mízmo]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_nsmknnj",
+    "word": "¿Tenemos tiempo suficiente? / Creo que sí.",
+    "translation": "A gente tem tempo suficiente? / Eu acho que sim.",
+    "syllables": [
+      "Tenemos",
+      "tiempo",
+      "suficiente",
+      "/",
+      "Creo",
+      "que",
+      "sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈnemos ˈtjempo sufiˈθjente · ˈkɾeo ke si/",
+    "portuguesePhonetic": "[tenémos tiémpo sufithiénte · kréo ke sí]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_t873ghb",
+    "word": "¿Tiene garantía? / Sí, un año.",
+    "translation": "Ele tem garantia? / Sim, um ano.",
+    "syllables": [
+      "Tiene",
+      "garantía",
+      "/",
+      "Sí",
+      "un",
+      "año"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ɣaɾanˈtia · si un ˈaɲo/",
+    "portuguesePhonetic": "[tiéne garantía · sí un ánho]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_2s7nrwx",
+    "word": "¿Tienes hermanos? / Solo un hermano.",
+    "translation": "Você tem irmãos? / Só um irmão.",
+    "syllables": [
+      "Tienes",
+      "hermanos",
+      "/",
+      "Solo",
+      "un",
+      "hermano"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes eɾˈmanos · ˈsolo un eɾˈmano/",
+    "portuguesePhonetic": "[tiénes ermános · sólo un ermáno]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_k2n2rp8",
+    "word": "¿Tiene novio? / Sí.",
+    "translation": "Ela tem namorado? / Sim, tem.",
+    "syllables": [
+      "Tiene",
+      "novio",
+      "/",
+      "Sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ˈnoβjo · si/",
+    "portuguesePhonetic": "[tiéne nóbio · sí]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_a2w47y2",
+    "word": "¿Tienen casa? / Todavía no.",
+    "translation": "Eles têm uma casa? / Ainda não.",
+    "syllables": [
+      "Tienen",
+      "casa",
+      "/",
+      "Todavía",
+      "no"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenen ˈkasa · toðaˈβia no/",
+    "portuguesePhonetic": "[tiénen kása · todabía no]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_intsafl",
+    "word": "¿Tienes un boli que me prestes? / Claro, toma.",
+    "translation": "Você tem uma caneta emprestada? / Claro, aqui está.",
+    "syllables": [
+      "Tienes",
+      "un",
+      "boli",
+      "que",
+      "me",
+      "prestes",
+      "/",
+      "Claro",
+      "toma"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes un ˈboli ke me ˈpɾestes · ˈklaɾo ˈtoma/",
+    "portuguesePhonetic": "[tiénes un bóli ke me préstes · kláro tóma]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_jfvk34b",
+    "word": "¿Tiene aficiones? / Le encanta pintar.",
+    "translation": "Ele tem algum hobby? / Ele ama pintar.",
+    "syllables": [
+      "Tiene",
+      "aficiones",
+      "/",
+      "Le",
+      "encanta",
+      "pintar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene afiˈθjones · le eŋˈkanta pinˈtaɾ/",
+    "portuguesePhonetic": "[tiéne afithiónes · le enkánta pintár]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_crfh0zk",
+    "word": "¿Tienes las entradas? / Sí, en mi bolso.",
+    "translation": "Você tem os ingressos? / Sim, na minha bolsa.",
+    "syllables": [
+      "Tienes",
+      "las",
+      "entradas",
+      "/",
+      "Sí",
+      "en",
+      "mi",
+      "bolso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes las enˈtɾaðas · si en mi ˈbolso/",
+    "portuguesePhonetic": "[tiénes las entrádas · sí en mi bólso]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_06wl225",
+    "word": "¿Tiene jardín la casa? / Sí, uno grande.",
+    "translation": "A casa tem jardim? / Sim, um grande.",
+    "syllables": [
+      "Tiene",
+      "jardín",
+      "la",
+      "casa",
+      "/",
+      "Sí",
+      "uno",
+      "grande"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene xaɾˈðin la ˈkasa · si ˈuno ˈɣɾande/",
+    "portuguesePhonetic": "[tiéne rrardín la kása · sí úno gránde]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_dcvbi75",
+    "word": "¿Nos queda café? / Solo un poco.",
+    "translation": "A gente tem café sobrando? / Só um pouco.",
+    "syllables": [
+      "Nos",
+      "queda",
+      "café",
+      "/",
+      "Solo",
+      "un",
+      "poco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos ˈkeða kaˈfe · ˈsolo un ˈpoko/",
+    "portuguesePhonetic": "[nos kéda kafé · sólo un póko]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ace2cne",
+    "word": "¿Tiene experiencia? / Un poco.",
+    "translation": "Ela tem experiência? / Um pouco.",
+    "syllables": [
+      "Tiene",
+      "experiencia",
+      "/",
+      "Un",
+      "poco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ekspeˈɾjenθja · un ˈpoko/",
+    "portuguesePhonetic": "[tiéne esperiéntia · un póko]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_g9weazn",
+    "word": "¿Tienes un momento? / Claro, dime.",
+    "translation": "Você tem um momento? / Claro, o que foi?",
+    "syllables": [
+      "Tienes",
+      "un",
+      "momento",
+      "/",
+      "Claro",
+      "dime"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes un moˈmento · ˈklaɾo ˈdime/",
+    "portuguesePhonetic": "[tiénes un moménto · kláro díme]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_jggm809",
+    "word": "¿Tiene coche tu hermano? / Sí, uno nuevo.",
+    "translation": "Seu irmão tem carro? / Sim, um novo.",
+    "syllables": [
+      "Tiene",
+      "coche",
+      "tu",
+      "hermano",
+      "/",
+      "Sí",
+      "uno",
+      "nuevo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene ˈkotʃe tu eɾˈmano · si ˈuno ˈnweβo/",
+    "portuguesePhonetic": "[tiéne kótche tu ermáno · sí úno nuébo]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_ctbw9m0",
+    "word": "¿Tienes cambio de veinte? / Voy a mirar.",
+    "translation": "Você tem troco para vinte? / Deixa eu ver.",
+    "syllables": [
+      "Tienes",
+      "cambio",
+      "de",
+      "veinte",
+      "/",
+      "Voy",
+      "a",
+      "mirar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes ˈkambjo de ˈbejnte · boi a miˈɾaɾ/",
+    "portuguesePhonetic": "[tiénes kámbio de béinte · bôi a mirár]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_avy88wt",
+    "word": "¿Tiene alguna oportunidad tu equipo? / Una pequeña.",
+    "translation": "Seu time tem chance? / Uma pequena.",
+    "syllables": [
+      "Tiene",
+      "alguna",
+      "oportunidad",
+      "tu",
+      "equipo",
+      "/",
+      "Una",
+      "pequeña"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene alˈɣuna opoɾtuniˈðað tu eˈkipo · una peˈkeɲa/",
+    "portuguesePhonetic": "[tiéne algúna oportunidád tu ekípo · úna pekénha]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_fzmphw8",
+    "word": "¿Tienes algún consejo para mí? / Solo ten paciencia.",
+    "translation": "Você tem algum conselho para mim? / Só seja paciente.",
+    "syllables": [
+      "Tienes",
+      "algún",
+      "consejo",
+      "para",
+      "mí",
+      "/",
+      "Solo",
+      "ten",
+      "paciencia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes alˈɣun konˈsexo ˈpaɾa mi · ˈsolo ten paˈθjenθja/",
+    "portuguesePhonetic": "[tiénes algún konsérro pára mi · sólo ten pathiéntia]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_3njybq0",
+    "word": "¿Tiene GPS el coche? / Sí.",
+    "translation": "O carro tem GPS? / Sim, tem.",
+    "syllables": [
+      "Tiene",
+      "GPS",
+      "el",
+      "coche",
+      "/",
+      "Sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene xe pe ˈese el ˈkotʃe · si/",
+    "portuguesePhonetic": "[tiéne rre pe ése el kótche · sí]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_4iduthl",
+    "word": "¿Tenéis wifi aquí? / Sí, es gratis.",
+    "translation": "Vocês têm wi-fi aqui? / Sim, é grátis.",
+    "syllables": [
+      "Tenéis",
+      "wifi",
+      "aquí",
+      "/",
+      "Sí",
+      "es",
+      "gratis"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teˈneis ˈwifi aˈki · si es ˈɡɾatis/",
+    "portuguesePhonetic": "[tenéis uífi akí · sí és grátis]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_29qybrv",
+    "word": "¿Tiene lo que hace falta? / Creo que sí.",
+    "translation": "Ele tem o que é preciso? / Eu acredito que sim.",
+    "syllables": [
+      "Tiene",
+      "lo",
+      "que",
+      "hace",
+      "falta",
+      "/",
+      "Creo",
+      "que",
+      "sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjene lo ke ˈaθe ˈfalta · ˈkɾeo ke si/",
+    "portuguesePhonetic": "[tiéne lo ke áthe fálta · kréo ke sí]"
+  },
+  {
+    "id": "leccion_22_gramatica_a1_s_es_id_7j5xdg0",
+    "word": "¿Tienes todo lo que necesitas? / Sí, gracias.",
+    "translation": "Você tem tudo que precisa? / Sim, obrigado.",
+    "syllables": [
+      "Tienes",
+      "todo",
+      "lo",
+      "que",
+      "necesitas",
+      "/",
+      "Sí",
+      "gracias"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes ˈtoðo lo ke neθeˈsitas · si ˈɡɾaθjas/",
+    "portuguesePhonetic": "[tiénes tódo lo ke nethesítas · sí gráthias]"
+  }
+]

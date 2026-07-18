@@ -1,0 +1,1920 @@
+[
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_h4yz48j",
+    "word": "al lado de",
+    "translation": "ao lado de",
+    "syllables": [
+      "al",
+      "lado",
+      "de"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/al ˈlaðo de/",
+    "portuguesePhonetic": "[al ládo de]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_4qc10zv",
+    "word": "junto a",
+    "translation": "ao lado de",
+    "syllables": [
+      "junto",
+      "a"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈxunto a/",
+    "portuguesePhonetic": "[rrúnto a]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_1y2lhre",
+    "word": "entre",
+    "translation": "entre",
+    "syllables": [
+      "entre"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈentɾe/",
+    "portuguesePhonetic": "[éntre]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_mpagket",
+    "word": "enfrente de",
+    "translation": "em frente a",
+    "syllables": [
+      "enfrente",
+      "de"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/emˈfɾente de/",
+    "portuguesePhonetic": "[emfrénte de]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_gnaszgi",
+    "word": "delante de",
+    "translation": "na frente de",
+    "syllables": [
+      "delante",
+      "de"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/deˈlante de/",
+    "portuguesePhonetic": "[delánte de]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_aif2guz",
+    "word": "detrás de",
+    "translation": "atrás de",
+    "syllables": [
+      "detrás",
+      "de"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/deˈtɾas de/",
+    "portuguesePhonetic": "[detrás de]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_b5vy52d",
+    "word": "encima de",
+    "translation": "acima de",
+    "syllables": [
+      "encima",
+      "de"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/enˈθima de/",
+    "portuguesePhonetic": "[enthíma de]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_3r9d4z0",
+    "word": "sobre",
+    "translation": "sobre/acima de",
+    "syllables": [
+      "sobre"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsoβɾe/",
+    "portuguesePhonetic": "[sóbre]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_de25ndd",
+    "word": "debajo de",
+    "translation": "embaixo de",
+    "syllables": [
+      "debajo",
+      "de"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/deˈβaxo de/",
+    "portuguesePhonetic": "[debárro de]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_xf6xgzp",
+    "word": "El libro está al lado de la lámpara.",
+    "translation": "O livro está ao lado da luminária.",
+    "syllables": [
+      "El",
+      "libro",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "lámpara"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈliβɾo esˈta al ˈlaðo de la ˈlampaɾa/",
+    "portuguesePhonetic": "[el líbro está al ládo de la lámpara]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_4pmigll",
+    "word": "La silla está junto al escritorio.",
+    "translation": "A cadeira está ao lado da escrivaninha.",
+    "syllables": [
+      "La",
+      "silla",
+      "está",
+      "junto",
+      "al",
+      "escritorio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈsiʎa esˈta ˈxunto al eskɾiˈtoɾjo/",
+    "portuguesePhonetic": "[la sílha está rrúnto al eskritório]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_9vh1pox",
+    "word": "El gato está entre las dos cajas.",
+    "translation": "O gato está entre as duas caixas.",
+    "syllables": [
+      "El",
+      "gato",
+      "está",
+      "entre",
+      "las",
+      "dos",
+      "cajas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈɣato esˈta ˈentɾe las dos ˈkaxas/",
+    "portuguesePhonetic": "[el gáto está éntre las dos károas]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_fehlpxg",
+    "word": "El banco está enfrente de la farmacia.",
+    "translation": "O banco fica em frente à farmácia.",
+    "syllables": [
+      "El",
+      "banco",
+      "está",
+      "enfrente",
+      "de",
+      "la",
+      "farmacia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈbaŋko esˈta emˈfɾente de la faɾˈmaθja/",
+    "portuguesePhonetic": "[el bánko está emfrénte de la farmáthia]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_wv8u4v3",
+    "word": "El coche está delante de la casa.",
+    "translation": "O carro está na frente da casa.",
+    "syllables": [
+      "El",
+      "coche",
+      "está",
+      "delante",
+      "de",
+      "la",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈkotʃe esˈta deˈlante de la ˈkasa/",
+    "portuguesePhonetic": "[el kótche está delánte de la kása]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_9ded52l",
+    "word": "El jardín está detrás de la casa.",
+    "translation": "O jardim fica atrás da casa.",
+    "syllables": [
+      "El",
+      "jardín",
+      "está",
+      "detrás",
+      "de",
+      "la",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el xaɾˈðin esˈta deˈtɾas de la ˈkasa/",
+    "portuguesePhonetic": "[el rrardín está detrás de la kása]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_wnylzlh",
+    "word": "El pájaro está encima del árbol.",
+    "translation": "O pássaro está acima da árvore.",
+    "syllables": [
+      "El",
+      "pájaro",
+      "está",
+      "encima",
+      "del",
+      "árbol"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈpaxaɾo esˈta enˈθima del ˈaɾβol/",
+    "portuguesePhonetic": "[el párraro está enthíma del árbol]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_j3scldm",
+    "word": "El avión está volando sobre la ciudad.",
+    "translation": "O avião está voando sobre a cidade.",
+    "syllables": [
+      "El",
+      "avión",
+      "está",
+      "volando",
+      "sobre",
+      "la",
+      "ciudad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el aˈβjon esˈta boˈlando ˈsoβɾe la θjuˈðað/",
+    "portuguesePhonetic": "[el abión está bolándo sóbre la thiudád]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_g3yqrvd",
+    "word": "El gato está durmiendo debajo de la mesa.",
+    "translation": "O gato está dormindo embaixo da mesa.",
+    "syllables": [
+      "El",
+      "gato",
+      "está",
+      "durmiendo",
+      "debajo",
+      "de",
+      "la",
+      "mesa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈɣato esˈta duɾˈmjendo deˈβaxo de la ˈmesa/",
+    "portuguesePhonetic": "[el gáto está durmiéndo debárro de la mésa]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_63cuevw",
+    "word": "Mi casa está al lado del parque.",
+    "translation": "Minha casa fica ao lado do parque.",
+    "syllables": [
+      "Mi",
+      "casa",
+      "está",
+      "al",
+      "lado",
+      "del",
+      "parque"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi ˈkasa esˈta al ˈlaðo del ˈpaɾke/",
+    "portuguesePhonetic": "[mi kása está al ládo del párke]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_dkt4jty",
+    "word": "Se sentó junto a mí.",
+    "translation": "Ela sentou ao meu lado.",
+    "syllables": [
+      "Se",
+      "sentó",
+      "junto",
+      "a",
+      "mí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se senˈto ˈxunto a mi/",
+    "portuguesePhonetic": "[se sentó rrúnto a mi]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_ughsw4c",
+    "word": "El colegio está entre la iglesia y la biblioteca.",
+    "translation": "A escola fica entre a igreja e a biblioteca.",
+    "syllables": [
+      "El",
+      "colegio",
+      "está",
+      "entre",
+      "la",
+      "iglesia",
+      "y",
+      "la",
+      "biblioteca"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el koˈlexjo esˈta ˈentɾe la iˈɣlesja i la biβljoˈteka/",
+    "portuguesePhonetic": "[el kolérrio está éntre la iglésia i la bibliotéka]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_1kk17kg",
+    "word": "El hotel está enfrente de la playa.",
+    "translation": "O hotel fica em frente à praia.",
+    "syllables": [
+      "El",
+      "hotel",
+      "está",
+      "enfrente",
+      "de",
+      "la",
+      "playa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el oˈtel esˈta emˈfɾente de la ˈplaʝa/",
+    "portuguesePhonetic": "[el otél está emfrénte de la pláia]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_19748kl",
+    "word": "Hay una cola delante de la tienda.",
+    "translation": "Tem uma fila na frente da loja.",
+    "syllables": [
+      "Hay",
+      "una",
+      "cola",
+      "delante",
+      "de",
+      "la",
+      "tienda"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ai una ˈkola deˈlante de la ˈtjenda/",
+    "portuguesePhonetic": "[ái úna kóla delánte de la tiénda]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_es5xkar",
+    "word": "El perro se está escondiendo detrás del sofá.",
+    "translation": "O cachorro está escondido atrás do sofá.",
+    "syllables": [
+      "El",
+      "perro",
+      "se",
+      "está",
+      "escondiendo",
+      "detrás",
+      "del",
+      "sofá"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈpero se esˈta eskonˈdjendo deˈtɾas del soˈfa/",
+    "portuguesePhonetic": "[el pérro se está eskondiéndo detrás del sofá]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_45i4tx3",
+    "word": "Hay una luz encima de la puerta.",
+    "translation": "Tem uma luz acima da porta.",
+    "syllables": [
+      "Hay",
+      "una",
+      "luz",
+      "encima",
+      "de",
+      "la",
+      "puerta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ai una luθ enˈθima de la ˈpweɾta/",
+    "portuguesePhonetic": "[ái úna luth enthíma de la puérta]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_9ntk22i",
+    "word": "Mi coche está aparcado delante del edificio.",
+    "translation": "Meu carro está estacionado na frente do prédio.",
+    "syllables": [
+      "Mi",
+      "coche",
+      "está",
+      "aparcado",
+      "delante",
+      "del",
+      "edificio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi ˈkotʃe esˈta apaɾˈkaðo deˈlante del eðiˈfiθjo/",
+    "portuguesePhonetic": "[mi kótche está aparkádo delánte del edifíthio]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_bftjryn",
+    "word": "La leche está al lado de los huevos.",
+    "translation": "O leite está ao lado dos ovos.",
+    "syllables": [
+      "La",
+      "leche",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "los",
+      "huevos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈletʃe esˈta al ˈlaðo de los ˈweβos/",
+    "portuguesePhonetic": "[la létche está al ládo de los uébos]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_mv6bswc",
+    "word": "El pan está entre los cereales y el café.",
+    "translation": "O pão está entre o cereal e o café.",
+    "syllables": [
+      "El",
+      "pan",
+      "está",
+      "entre",
+      "los",
+      "cereales",
+      "y",
+      "el",
+      "café"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el pan esˈta ˈentɾe los seɾeˈales i el kaˈfe/",
+    "portuguesePhonetic": "[el pan está éntre los seréales i el kafé]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_zsajqtr",
+    "word": "La parada de autobús está enfrente del banco.",
+    "translation": "O ponto de ônibus fica em frente ao banco.",
+    "syllables": [
+      "La",
+      "parada",
+      "de",
+      "autobús",
+      "está",
+      "enfrente",
+      "del",
+      "banco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la paˈɾaða de awtoˈβus esˈta emˈfɾente del ˈbaŋko/",
+    "portuguesePhonetic": "[la paráda de autobús está emfrénte del bánko]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_aiebqdb",
+    "word": "La sal está al lado de la pimienta.",
+    "translation": "O sal está ao lado da pimenta.",
+    "syllables": [
+      "La",
+      "sal",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "pimienta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la sal esˈta al ˈlaðo de la piˈmjenta/",
+    "portuguesePhonetic": "[la sal está al ládo de la pimiénta]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_1cns2r2",
+    "word": "La olla está sobre el fuego.",
+    "translation": "A panela está sobre o fogão.",
+    "syllables": [
+      "La",
+      "olla",
+      "está",
+      "sobre",
+      "el",
+      "fuego"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈoʎa esˈta ˈsoβɾe el ˈfweɣo/",
+    "portuguesePhonetic": "[la ólha está sóbre el fuégo]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_1inq5k6",
+    "word": "Mi escritorio está delante de la ventana.",
+    "translation": "Minha escrivaninha fica na frente da janela.",
+    "syllables": [
+      "Mi",
+      "escritorio",
+      "está",
+      "delante",
+      "de",
+      "la",
+      "ventana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi eskɾiˈtoɾjo esˈta deˈlante de la benˈtana/",
+    "portuguesePhonetic": "[mi eskritório está delánte de la bentána]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_ftrtxzh",
+    "word": "La impresora está detrás de mi silla.",
+    "translation": "A impressora fica atrás da minha cadeira.",
+    "syllables": [
+      "La",
+      "impresora",
+      "está",
+      "detrás",
+      "de",
+      "mi",
+      "silla"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la impɾeˈsoɾa esˈta deˈtɾas de mi ˈsiʎa/",
+    "portuguesePhonetic": "[la impresóra está detrás de mi sílha]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_hq3543a",
+    "word": "El hotel está enfrente de la estación de tren.",
+    "translation": "O hotel fica em frente à estación de trem.",
+    "syllables": [
+      "El",
+      "hotel",
+      "está",
+      "enfrente",
+      "de",
+      "la",
+      "estación",
+      "de",
+      "tren"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el oˈtel esˈta emˈfɾente de la estaˈθjon de tɾen/",
+    "portuguesePhonetic": "[el otél está emfrénte de la estathión de trén]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_lez39ug",
+    "word": "El espejo está detrás de la cinta de correr.",
+    "translation": "O espelho fica atrás da esteira.",
+    "syllables": [
+      "El",
+      "espejo",
+      "está",
+      "detrás",
+      "de",
+      "la",
+      "cinta",
+      "de",
+      "correr"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el esˈpexo esˈta deˈtɾas de la ˈθinta de koˈreɾ/",
+    "portuguesePhonetic": "[el espérro está detrás de la thínta de korrér]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_aqxw4wm",
+    "word": "Nuestra mesa está al lado de la ventana.",
+    "translation": "Nossa mesa fica ao lado da janela.",
+    "syllables": [
+      "Nuestra",
+      "mesa",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "ventana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈnwestɾa ˈmesa esˈta al ˈlaðo de la benˈtana/",
+    "portuguesePhonetic": "[nuéstra mésa está al ládo de la bentána]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_2dag83s",
+    "word": "El probador está detrás del mostrador.",
+    "translation": "O provador fica atrás do balcão.",
+    "syllables": [
+      "El",
+      "probador",
+      "está",
+      "detrás",
+      "del",
+      "mostrador"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el pɾoβaˈðoɾ esˈta deˈtɾas del mostɾaˈðoɾ/",
+    "portuguesePhonetic": "[el probadór está detrás del mostradór]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_7fefck2",
+    "word": "La farmacia está al lado de la clínica.",
+    "translation": "A farmácia fica ao lado da clínica.",
+    "syllables": [
+      "La",
+      "farmacia",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "clínica"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la faɾˈmaθja esˈta al ˈlaðo de la ˈklinika/",
+    "portuguesePhonetic": "[la farmáthia está al ládo de la klínika]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_04kppt1",
+    "word": "La tele está encima de la chimenea.",
+    "translation": "A TV fica acima da lareira.",
+    "syllables": [
+      "La",
+      "tele",
+      "está",
+      "encima",
+      "de",
+      "la",
+      "chimenea"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈtele esˈta enˈθima de la tʃimeˈnea/",
+    "portuguesePhonetic": "[la téle está enthíma de la tchiminéa]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_hc6kg3p",
+    "word": "El mando está debajo del cojín.",
+    "translation": "O controle está embaixo da almofada.",
+    "syllables": [
+      "El",
+      "mando",
+      "está",
+      "debajo",
+      "del",
+      "cojín"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈmando esˈta deˈβaxo del koˈxin/",
+    "portuguesePhonetic": "[el mándo está debárro del korrín]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_20p4cu4",
+    "word": "Mi pupitre está entre dos ventanas.",
+    "translation": "Minha carteira fica entre duas janelas.",
+    "syllables": [
+      "Mi",
+      "pupitre",
+      "está",
+      "entre",
+      "dos",
+      "ventanas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi puˈpitɾe esˈta ˈentɾe dos benˈtanas/",
+    "portuguesePhonetic": "[mi pupítre está éntre dos bentánas]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_ldriddb",
+    "word": "El banco está debajo de un árbol grande.",
+    "translation": "O banco fica embaixo de uma árvore grande.",
+    "syllables": [
+      "El",
+      "banco",
+      "está",
+      "debajo",
+      "de",
+      "un",
+      "árbol",
+      "grande"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈbaŋko esˈta deˈβaxo de un ˈaɾβol ˈɣɾande/",
+    "portuguesePhonetic": "[el bánko está debárro de un árbol gránde]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_pg2yhnj",
+    "word": "La escoba está detrás de la puerta.",
+    "translation": "A vassoura está atrás da porta.",
+    "syllables": [
+      "La",
+      "escoba",
+      "está",
+      "detrás",
+      "de",
+      "la",
+      "puerta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la esˈkoβa esˈta deˈtɾas de la ˈpweɾta/",
+    "portuguesePhonetic": "[la eskóba está detrás de la puérta]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_3evdn9f",
+    "word": "El cajero está al lado de la entrada.",
+    "translation": "O caixa eletrônico fica ao lado da entrada.",
+    "syllables": [
+      "El",
+      "cajero",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "entrada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el kaˈxeɾo esˈta al ˈlaðo de la enˈtɾaða/",
+    "portuguesePhonetic": "[el karréro está al ládo de la entráda]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_xb40841",
+    "word": "El bar está enfrente del cine.",
+    "translation": "O bar fica em frente ao cinema.",
+    "syllables": [
+      "El",
+      "bar",
+      "está",
+      "enfrente",
+      "del",
+      "cine"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el bar esˈta emˈfɾente del ˈθine/",
+    "portuguesePhonetic": "[el bar está emfrénte del thíne]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_fwatnhm",
+    "word": "La puerta 12 está entre la 10 y la 14.",
+    "translation": "O portão 12 fica entre o portão 10 e o portão 14.",
+    "syllables": [
+      "La",
+      "puerta",
+      "12",
+      "está",
+      "entre",
+      "la",
+      "10",
+      "y",
+      "la",
+      "14"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈpweɾta ˈdoθe esˈta ˈentɾe la djeθ i la kaˈtoɾθe/",
+    "portuguesePhonetic": "[la puérta dóthe está éntre la diéth i la katórthe]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_uvs3z5m",
+    "word": "Hay nubes encima de las montañas.",
+    "translation": "Tem nuvens acima das montanhas.",
+    "syllables": [
+      "Hay",
+      "nubes",
+      "encima",
+      "de",
+      "las",
+      "montañas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ai ˈnuβes enˈθima de las monˈtaɲas/",
+    "portuguesePhonetic": "[ái núbes enthíma de las montánhas]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_0m5jbi2",
+    "word": "La maleta está debajo del asiento.",
+    "translation": "A mala está embaixo do assento.",
+    "syllables": [
+      "La",
+      "maleta",
+      "está",
+      "debajo",
+      "del",
+      "asiento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la maˈleta esˈta deˈβaxo del aˈsjento/",
+    "portuguesePhonetic": "[la maléta está debárro del asiénto]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_ht5q4jv",
+    "word": "La sala de reuniones está delante del ascensor.",
+    "translation": "A sala de reunião fica na frente do elevador.",
+    "syllables": [
+      "La",
+      "sala",
+      "de",
+      "reuniones",
+      "está",
+      "delante",
+      "del",
+      "ascensor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈsala de reuˈnjones esˈta deˈlante del asθenˈsoɾ/",
+    "portuguesePhonetic": "[la sála de reuniónes está delánte del asthensór]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_rabun55",
+    "word": "El cuadro está encima de la cama.",
+    "translation": "O quadro está acima da cama.",
+    "syllables": [
+      "El",
+      "cuadro",
+      "está",
+      "encima",
+      "de",
+      "la",
+      "cama"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈkwaðɾo esˈta enˈθima de la ˈkama/",
+    "portuguesePhonetic": "[el kuádro está enthíma de la káma]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_nxs9wwd",
+    "word": "La lámpara está al lado de la cama.",
+    "translation": "A luminária está ao lado da cama.",
+    "syllables": [
+      "La",
+      "lámpara",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "cama"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈlampaɾa esˈta al ˈlaðo de la ˈkama/",
+    "portuguesePhonetic": "[la lámpara está al ládo de la káma]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_rghs1kd",
+    "word": "El perro está debajo de la mesa.",
+    "translation": "O cachorro está embaixo da mesa.",
+    "syllables": [
+      "El",
+      "perro",
+      "está",
+      "debajo",
+      "de",
+      "la",
+      "mesa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈpero esˈta deˈβaxo de la ˈmesa/",
+    "portuguesePhonetic": "[el pérro está debárro de la mésa]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_ogon2p9",
+    "word": "El coche está detrás de la casa.",
+    "translation": "O carro está atrás da casa.",
+    "syllables": [
+      "El",
+      "coche",
+      "está",
+      "detrás",
+      "de",
+      "la",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈkotʃe esˈta deˈtɾas de la ˈkasa/",
+    "portuguesePhonetic": "[el kótche está detrás de la kása]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_kxzcwux",
+    "word": "La tienda está enfrente del colegio.",
+    "translation": "A loja fica em frente à escola.",
+    "syllables": [
+      "La",
+      "tienda",
+      "está",
+      "enfrente",
+      "del",
+      "colegio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la ˈtjenda esˈta emˈfɾente del koˈlexjo/",
+    "portuguesePhonetic": "[la tiénda está emfrénte del kolérrio]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_hjw3pid",
+    "word": "¿No está el banco al lado de la farmacia?",
+    "translation": "O banco não fica ao lado da farmácia?",
+    "syllables": [
+      "No",
+      "está",
+      "el",
+      "banco",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "farmacia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈta el ˈbaŋko al ˈlaðo de la faɾˈmaθja/",
+    "portuguesePhonetic": "[no está el bánko al ládo de la farmáthia]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_qd1epaf",
+    "word": "El parque no está detrás del colegio.",
+    "translation": "O parque não fica atrás da escola.",
+    "syllables": [
+      "El",
+      "parque",
+      "no",
+      "está",
+      "detrás",
+      "del",
+      "colegio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈpaɾke no esˈta deˈtɾas del koˈlexjo/",
+    "portuguesePhonetic": "[el párke no está detrás del kolérrio]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_9ebafd7",
+    "word": "¿Qué hay entre los dos edificios?",
+    "translation": "O que tem entre os dois prédios?",
+    "syllables": [
+      "Qué",
+      "hay",
+      "entre",
+      "los",
+      "dos",
+      "edificios"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ai ˈentɾe los dos eðiˈfiθjos/",
+    "portuguesePhonetic": "[ke ái éntre los dos edifíthios]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_y9dno8u",
+    "word": "No hay nada debajo de la cama.",
+    "translation": "Não tem nada embaixo da cama.",
+    "syllables": [
+      "No",
+      "hay",
+      "nada",
+      "debajo",
+      "de",
+      "la",
+      "cama"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ai ˈnaða deˈβaxo de la ˈkama/",
+    "portuguesePhonetic": "[no ái náda debárro de la káma]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_9g0z0lc",
+    "word": "¿No está el museo delante del parque?",
+    "translation": "O museu não fica na frente do parque?",
+    "syllables": [
+      "No",
+      "está",
+      "el",
+      "museo",
+      "delante",
+      "del",
+      "parque"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈta el muˈseo deˈlante del ˈpaɾke/",
+    "portuguesePhonetic": "[no está el muséo delánte del párke]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_e5w2aci",
+    "word": "¿No estaba el avión encima de las nubes?",
+    "translation": "O avião não estava acima das nuvens?",
+    "syllables": [
+      "No",
+      "estaba",
+      "el",
+      "avión",
+      "encima",
+      "de",
+      "las",
+      "nubes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no esˈtaβa el aˈβjon enˈθima de las ˈnuβes/",
+    "portuguesePhonetic": "[no estába el abión enthíma de las núbes]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_tnm4ydf",
+    "word": "¿Por qué está la caja detrás de la puerta?",
+    "translation": "Por que a caixa está atrás da porta?",
+    "syllables": [
+      "Por",
+      "qué",
+      "está",
+      "la",
+      "caja",
+      "detrás",
+      "de",
+      "la",
+      "puerta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke esˈta la ˈkaxa deˈtɾas de la ˈpweɾta/",
+    "portuguesePhonetic": "[por ké está la károa detrás de la puérta]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_x6knm5t",
+    "word": "¿Qué hay enfrente del colegio?",
+    "translation": "O que tem em frente à escola?",
+    "syllables": [
+      "Qué",
+      "hay",
+      "enfrente",
+      "del",
+      "colegio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ai emˈfɾente del koˈlexjo/",
+    "portuguesePhonetic": "[ke ái emfrénte del kolérrio]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_985n0lz",
+    "word": "El perro se escondía debajo de la cama porque tenía miedo de la tormenta.",
+    "translation": "O cachorro estava escondido embaixo da cama porque estava com medo da tempestade.",
+    "syllables": [
+      "El",
+      "perro",
+      "se",
+      "escondía",
+      "debajo",
+      "de",
+      "la",
+      "cama",
+      "porque",
+      "tenía",
+      "miedo",
+      "de",
+      "la",
+      "tormenta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈpero se eskonˈdia deˈβaxo de la ˈkama ˈpoɾke teˈnia ˈmjeðo de la toɾˈmenta/",
+    "portuguesePhonetic": "[el pérro se eskondía debárro de la káma pórke tenía miédo de la torménta]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_zhetp2n",
+    "word": "Aparcamos delante de la tienda, pero no había espacio detrás.",
+    "translation": "A gente estacionou na frente da loja, mas não tinha espaço nenhum atrás.",
+    "syllables": [
+      "Aparcamos",
+      "delante",
+      "de",
+      "la",
+      "tienda",
+      "pero",
+      "no",
+      "había",
+      "espacio",
+      "detrás"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/apaɾˈkamos deˈlante de la ˈtjenda ˈpeɾo no aˈβia esˈpaθjo deˈtɾas/",
+    "portuguesePhonetic": "[aparkámos delánte de la tiénda péro no abía espáthio detrás]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_ypj8f9v",
+    "word": "El gato se sentó entre nosotros mientras veíamos la tele.",
+    "translation": "O gato sentou entre a gente enquanto estávamos assistindo TV.",
+    "syllables": [
+      "El",
+      "gato",
+      "se",
+      "sentó",
+      "entre",
+      "nosotros",
+      "mientras",
+      "veíamos",
+      "la",
+      "tele"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈɣato se senˈto ˈentɾe noˈsotɾos ˈmjentɾas beˈiamos la ˈtele/",
+    "portuguesePhonetic": "[el gáto se sentó éntre nosótros miéntras beíamos la téle]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_i1rawh7",
+    "word": "El avión voló sobre el océano cuando viajamos a Europa.",
+    "translation": "O avião voou sobre o oceano quando viajamos para a Europa.",
+    "syllables": [
+      "El",
+      "avión",
+      "voló",
+      "sobre",
+      "el",
+      "océano",
+      "cuando",
+      "viajamos",
+      "a",
+      "Europa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el aˈβjon boˈlo ˈsoβɾe el oˈθeano ˈkwando bjaˈxamos a ewˈɾopa/",
+    "portuguesePhonetic": "[el abión boló sóbre el otheáno kuándo biarrámos a europa]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_t720wir",
+    "word": "Como la panadería está enfrente de mi casa, voy allí cada mañana.",
+    "translation": "Já que a padaria fica em frente à minha casa, eu vou lá todo dia de manhã.",
+    "syllables": [
+      "Como",
+      "la",
+      "panadería",
+      "está",
+      "enfrente",
+      "de",
+      "mi",
+      "casa",
+      "voy",
+      "allí",
+      "cada",
+      "mañana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkomo la panaðeˈɾia esˈta emˈfɾente de mi ˈkasa boi aˈʎi ˈkaða maˈɲana/",
+    "portuguesePhonetic": "[kómo la panadería está emfrénte de mi kása bôi alhí káda manhána]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_d8qeo2z",
+    "word": "Las llaves estuvieron entre los cojines del sofá todo el tiempo, pero a nadie se le ocurrió mirar ahí.",
+    "translation": "As chaves estavam entre as almofadas do sofá o tempo todo, mas ninguém pensou em olhar lá.",
+    "syllables": [
+      "Las",
+      "llaves",
+      "estuvieron",
+      "entre",
+      "los",
+      "cojines",
+      "del",
+      "sofá",
+      "todo",
+      "el",
+      "tiempo",
+      "pero",
+      "a",
+      "nadie",
+      "se",
+      "le",
+      "ocurrió",
+      "mirar",
+      "ahí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/las ˈʎaβes estuˈβjeɾon ˈentɾe los koˈxines del soˈfa ˈtoðo el ˈtjempo ˈpeɾo a ˈnaðje se le okuˈrjo miˈɾaɾ aˈi/",
+    "portuguesePhonetic": "[las lhábes estubiéron éntre los korrínes del sofá tódo el tiémpo péro a nádie se le okurrió mirár aí]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_nuj0kub",
+    "word": "Estábamos delante del museo cuando empezó a llover, así que tuvimos que correr a refugiarnos.",
+    "translation": "A gente estava em pé na frente do museu quando começou a chover, então tivemos que correr para nos abrigar.",
+    "syllables": [
+      "Estábamos",
+      "delante",
+      "del",
+      "museo",
+      "cuando",
+      "empezó",
+      "a",
+      "llover",
+      "así",
+      "que",
+      "tuvimos",
+      "que",
+      "correr",
+      "a",
+      "refugiarnos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtaβamos deˈlante del muˈseo ˈkwando empeˈθo a ʎoˈβeɾ aˈsi ke tuˈβimos ke koˈreɾ a refuxjaɾˈnos/",
+    "portuguesePhonetic": "[estábamos delánte del muséo kuándo empethó a lhobér así ke tubímos ke korrér a refurriarnos]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_faizfxj",
+    "word": "La empresa construyó su nueva oficina justo al lado de la antigua, porque querían mantener la misma ubicación.",
+    "translation": "A empresa construiu o escritório novo bem ao lado do antigo, porque queriam manter o mesmo local.",
+    "syllables": [
+      "La",
+      "empresa",
+      "construyó",
+      "su",
+      "nueva",
+      "oficina",
+      "justo",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "antigua",
+      "porque",
+      "querían",
+      "mantener",
+      "la",
+      "misma",
+      "ubicación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la emˈpɾesa konstɾuˈʝo su ˈnweβa ofiˈθina ˈxusto al ˈlaðo de la anˈtiɣwa ˈpoɾke keˈɾian manteˈneɾ la ˈmizma uβikaˈθjon/",
+    "portuguesePhonetic": "[la empréza konstruió su nuéba ofithína rrústo al ládo de la antígua pórke kerían mantenér la mízma ubikathión]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_nogccan",
+    "word": "Había un ruido extraño detrás de la pared, y era imposible ignorarlo.",
+    "translation": "Tinha um barulho estranho vindo de atrás da parede, e era impossível ignorar.",
+    "syllables": [
+      "Había",
+      "un",
+      "ruido",
+      "extraño",
+      "detrás",
+      "de",
+      "la",
+      "pared",
+      "y",
+      "era",
+      "imposible",
+      "ignorarlo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈβia un ˈrwiðo eksˈtɾaɲo deˈtɾas de la paˈɾeð i ˈeɾa impoˈsiβle iɣnoˈɾaɾlo/",
+    "portuguesePhonetic": "[abía un rruído ekstránho detrás de la paréd i éra imposíble ignorárlo]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_7ucsx0o",
+    "word": "Colgamos el espejo encima de la chimenea, porque era el único sitio que tenía sentido en la habitación.",
+    "translation": "A gente pendurou o espelho acima da lareira, porque era o único lugar que fazia sentido no cômodo.",
+    "syllables": [
+      "Colgamos",
+      "el",
+      "espejo",
+      "encima",
+      "de",
+      "la",
+      "chimenea",
+      "porque",
+      "era",
+      "el",
+      "único",
+      "sitio",
+      "que",
+      "tenía",
+      "sentido",
+      "en",
+      "la",
+      "habitación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kolˈɣamos el esˈpexo enˈθima de la tʃimeˈnea ˈpoɾke ˈeɾa el ˈuniko ˈsitjo ke teˈnia senˈtiðo en la aβitaˈθjon/",
+    "portuguesePhonetic": "[kolgámos el espérro enthíma de la tchiminéa pórke éra el úniko sítio ke tenía sentído en la abitathión]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_8udap1f",
+    "word": "Los niños jugaban entre las dos casas, aunque sus padres les habían dicho que no lo hicieran.",
+    "translation": "As crianças estavam brincando entre as duas casas, mesmo os pais tendo dito para não fazerem isso.",
+    "syllables": [
+      "Los",
+      "niños",
+      "jugaban",
+      "entre",
+      "las",
+      "dos",
+      "casas",
+      "aunque",
+      "sus",
+      "padres",
+      "les",
+      "habían",
+      "dicho",
+      "que",
+      "no",
+      "lo",
+      "hicieran"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/los ˈniɲos xuˈɣaβan ˈentɾe las dos ˈkasas ˈawŋke sus ˈpaðɾes les aˈβian ˈditʃo ke no lo iˈθjeɾan/",
+    "portuguesePhonetic": "[los nínhos rrugában éntre las dos kásas áunke sus pádres les abían dítcho ke no lo ithiéran]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_i0s8uqo",
+    "word": "El perro seguía siguiéndonos y quedándose justo a nuestro lado, fuera donde fuera.",
+    "translation": "O cachorro ficou nos seguindo e ficando bem ao nosso lado, não importa onde a gente fosse.",
+    "syllables": [
+      "El",
+      "perro",
+      "seguía",
+      "siguiéndonos",
+      "y",
+      "quedándose",
+      "justo",
+      "a",
+      "nuestro",
+      "lado",
+      "fuera",
+      "donde",
+      "fuera"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈpero seˈɣia siɣjenˈdonos i keˈðandose ˈxusto a ˈnwestɾo ˈlaðo ˈfweɾa ˈdonde ˈfweɾa/",
+    "portuguesePhonetic": "[el pérro seguía siguiéndonos i kedándose rrústo a nuéstro ládo fuéra dônde fuéra]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_yyd01c5",
+    "word": "Encontraron los documentos perdidos debajo de una pila de periódicos viejos, que nadie había tocado en años.",
+    "translation": "Eles acharam os documentos perdidos embaixo de uma pilha de jornais velhos, que ninguém tinha tocado em anos.",
+    "syllables": [
+      "Encontraron",
+      "los",
+      "documentos",
+      "perdidos",
+      "debajo",
+      "de",
+      "una",
+      "pila",
+      "de",
+      "periódicos",
+      "viejos",
+      "que",
+      "nadie",
+      "había",
+      "tocado",
+      "en",
+      "años"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/eŋkonˈtɾaɾon los dokuˈmentos peɾˈðiðos deˈβaxo de una ˈpila de peɾiˈoðikos ˈbjexos ke ˈnaðje aˈβia toˈkaðo en ˈaɲos/",
+    "portuguesePhonetic": "[enkontráron los dokuméntos perdídos debárro de úna píla de periódikos biérros ke nádie abía tokádo en ánhos]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_c2nikw9",
+    "word": "¿Dónde está el banco? / Enfrente de la farmacia.",
+    "translation": "Onde fica o banco? / Em frente à farmácia.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "banco",
+      "/",
+      "Enfrente",
+      "de",
+      "la",
+      "farmacia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el ˈbaŋko · emˈfɾente de la faɾˈmaθja/",
+    "portuguesePhonetic": "[dônde está el bánko · emfrénte de la farmáthia]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_bongh6c",
+    "word": "¿Dónde está el gato? / Debajo de la mesa.",
+    "translation": "Onde está o gato? / Embaixo da mesa.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "gato",
+      "/",
+      "Debajo",
+      "de",
+      "la",
+      "mesa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el ˈɣato · deˈβaxo de la ˈmesa/",
+    "portuguesePhonetic": "[dônde está el gáto · debárro de la mésa]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_kzzhres",
+    "word": "¿Qué hay entre los dos edificios? / Un parque pequeño.",
+    "translation": "O que tem entre os dois prédios? / Um parque pequeno.",
+    "syllables": [
+      "Qué",
+      "hay",
+      "entre",
+      "los",
+      "dos",
+      "edificios",
+      "/",
+      "Un",
+      "parque",
+      "pequeño"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ai ˈentɾe los dos eðiˈfiθjos · un ˈpaɾke peˈkeɲo/",
+    "portuguesePhonetic": "[ke ái éntre los dos edifíthios · un párke pekénho]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_1q7w3sn",
+    "word": "¿Dónde está aparcado el coche? / Delante de la casa.",
+    "translation": "Onde o carro está estacionado? / Na frente da casa.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "aparcado",
+      "el",
+      "coche",
+      "/",
+      "Delante",
+      "de",
+      "la",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta apaɾˈkaðo el ˈkotʃe · deˈlante de la ˈkasa/",
+    "portuguesePhonetic": "[dônde está aparkádo el kótche · delánte de la kása]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_1pk5p7u",
+    "word": "¿Dónde está el jardín? / Detrás de la casa.",
+    "translation": "Onde fica o jardim? / Atrás da casa.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "jardín",
+      "/",
+      "Detrás",
+      "de",
+      "la",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el xaɾˈðin · deˈtɾas de la ˈkasa/",
+    "portuguesePhonetic": "[dônde está el rrardín · detrás de la kása]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_8svu8xo",
+    "word": "¿Está el pájaro encima del árbol? / Sí.",
+    "translation": "O pássaro está acima da árvore? / Sim, está.",
+    "syllables": [
+      "Está",
+      "el",
+      "pájaro",
+      "encima",
+      "del",
+      "árbol",
+      "/",
+      "Sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta el ˈpaxaɾo enˈθima del ˈaɾβol · si/",
+    "portuguesePhonetic": "[está el párraro enthíma del árbol · sí]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_6boyndu",
+    "word": "¿Dónde está el mando? / Debajo del cojín.",
+    "translation": "Onde está o controle? / Embaixo da almofada.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "mando",
+      "/",
+      "Debajo",
+      "del",
+      "cojín"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el ˈmando · deˈβaxo del koˈxin/",
+    "portuguesePhonetic": "[dônde está el mándo · debárro del korrín]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_8ig8dui",
+    "word": "¿Quién está sentado junto a ti? / Mi hermana.",
+    "translation": "Quem está sentado ao seu lado? / Minha irmã.",
+    "syllables": [
+      "Quién",
+      "está",
+      "sentado",
+      "junto",
+      "a",
+      "ti",
+      "/",
+      "Mi",
+      "hermana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kjen esˈta senˈtaðo ˈxunto a ti · mi eɾˈmana/",
+    "portuguesePhonetic": "[kién está sentádo rrúnto a ti · mi ermána]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_5sgv637",
+    "word": "¿Dónde está el hotel? / Enfrente de la playa.",
+    "translation": "Onde fica o hotel? / Em frente à praia.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "hotel",
+      "/",
+      "Enfrente",
+      "de",
+      "la",
+      "playa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el oˈtel · emˈfɾente de la ˈplaʝa/",
+    "portuguesePhonetic": "[dônde está el otél · emfrénte de la pláia]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_3ekeyxn",
+    "word": "¿Dónde está el probador? / Detrás del mostrador.",
+    "translation": "Onde fica o provador? / Atrás do balcão.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "probador",
+      "/",
+      "Detrás",
+      "del",
+      "mostrador"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el pɾoβaˈðoɾ · deˈtɾas del mostɾaˈðoɾ/",
+    "portuguesePhonetic": "[dônde está el probadór · detrás del mostradór]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_7cpty6b",
+    "word": "¿Dónde está el cuadro? / Encima de la cama.",
+    "translation": "Onde está o quadro? / Acima da cama.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "cuadro",
+      "/",
+      "Encima",
+      "de",
+      "la",
+      "cama"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el ˈkwaðɾo · enˈθima de la ˈkama/",
+    "portuguesePhonetic": "[dônde está el kuádro · enthíma de la káma]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_6rya7pj",
+    "word": "¿Qué está volando sobre la ciudad? / Un avión.",
+    "translation": "O que está voando sobre a cidade? / Um avião.",
+    "syllables": [
+      "Qué",
+      "está",
+      "volando",
+      "sobre",
+      "la",
+      "ciudad",
+      "/",
+      "Un",
+      "avión"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke esˈta boˈlando ˈsoβɾe la θjuˈðað · un aˈβjon/",
+    "portuguesePhonetic": "[ke está bolándo sóbre la thiudád · un abión]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_lek1gsu",
+    "word": "¿Dónde está la parada de autobús? / Enfrente del banco.",
+    "translation": "Onde fica o ponto de ônibus? / Em frente ao banco.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "la",
+      "parada",
+      "de",
+      "autobús",
+      "/",
+      "Enfrente",
+      "del",
+      "banco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta la paˈɾaða de awtoˈβus · emˈfɾente del ˈbaŋko/",
+    "portuguesePhonetic": "[dônde está la paráda de autobús · emfrénte del bánko]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_sb9tdj2",
+    "word": "¿Está el espejo detrás de la cinta de correr? / Sí.",
+    "translation": "O espelho fica atrás da esteira? / Sim, fica.",
+    "syllables": [
+      "Está",
+      "el",
+      "espejo",
+      "detrás",
+      "de",
+      "la",
+      "cinta",
+      "de",
+      "correr",
+      "/",
+      "Sí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈta el esˈpexo deˈtɾas de la ˈθinta de koˈreɾ · si/",
+    "portuguesePhonetic": "[está el espérro detrás de la thínta de korrér · sí]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_2edsiom",
+    "word": "¿Dónde está nuestra mesa? / Al lado de la ventana.",
+    "translation": "Onde fica nossa mesa? / Ao lado da janela.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "nuestra",
+      "mesa",
+      "/",
+      "Al",
+      "lado",
+      "de",
+      "la",
+      "ventana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta ˈnwestɾa ˈmesa · al ˈlaðo de la benˈtana/",
+    "portuguesePhonetic": "[dônde está nuéstra mésa · al ládo de la bentána]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_6puyxdx",
+    "word": "¿Dónde está la maleta? / Debajo del asiento.",
+    "translation": "Onde está a mala? / Embaixo do assento.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "la",
+      "maleta",
+      "/",
+      "Debajo",
+      "del",
+      "asiento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta la maˈleta · deˈβaxo del aˈsjento/",
+    "portuguesePhonetic": "[dônde está la maléta · debárro del asiénto]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_8dui812",
+    "word": "¿Dónde está el cajero? / Al lado de la entrada.",
+    "translation": "Onde fica o caixa eletrônico? / Ao lado da entrada.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "cajero",
+      "/",
+      "Al",
+      "lado",
+      "de",
+      "la",
+      "entrada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el kaˈxeɾo · al ˈlaðo de la enˈtɾaða/",
+    "portuguesePhonetic": "[dônde está el karréro · al ládo de la entráda]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_eksu7gk",
+    "word": "¿Dónde está el bar? / Enfrente del cine.",
+    "translation": "Onde fica o bar? / Em frente ao cinema.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "bar",
+      "/",
+      "Enfrente",
+      "del",
+      "cine"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el bar · emˈfɾente del ˈθine/",
+    "portuguesePhonetic": "[dônde está el bar · emfrénte del thíne]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_3v44sxp",
+    "word": "¿Dónde está la puerta 12? / Entre la 10 y la 14.",
+    "translation": "Onde fica o portão 12? / Entre o portão 10 e o 14.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "la",
+      "puerta",
+      "12",
+      "/",
+      "Entre",
+      "la",
+      "10",
+      "y",
+      "la",
+      "14"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta la ˈpweɾta ˈdoθe · ˈentɾe la djeθ i la kaˈtoɾθe/",
+    "portuguesePhonetic": "[dônde está la puérta dóthe · éntre la diéth i la katórthe]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_sf4hvg3",
+    "word": "¿Hay nubes encima de las montañas? / Sí, muchas.",
+    "translation": "Tem nuvens acima das montanhas? / Sim, bastante.",
+    "syllables": [
+      "Hay",
+      "nubes",
+      "encima",
+      "de",
+      "las",
+      "montañas",
+      "/",
+      "Sí",
+      "muchas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ai ˈnuβes enˈθima de las monˈtaɲas · si ˈmutʃas/",
+    "portuguesePhonetic": "[ái núbes enthíma de las montánhas · sí mútchas]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_lquvzgi",
+    "word": "¿Dónde está la sala de reuniones? / Delante del ascensor.",
+    "translation": "Onde fica a sala de reunião? / Na frente do elevador.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "la",
+      "sala",
+      "de",
+      "reuniones",
+      "/",
+      "Delante",
+      "del",
+      "ascensor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta la ˈsala de reuˈnjones · deˈlante del asθenˈsoɾ/",
+    "portuguesePhonetic": "[dônde está la sála de reuniónes · delánte del asthensór]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_4qf0e3l",
+    "word": "¿Dónde está la escoba? / Detrás de la puerta.",
+    "translation": "Onde está a vassoura? / Atrás da porta.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "la",
+      "escoba",
+      "/",
+      "Detrás",
+      "de",
+      "la",
+      "puerta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta la esˈkoβa · deˈtɾas de la ˈpweɾta/",
+    "portuguesePhonetic": "[dônde está la eskóba · detrás de la puérta]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_2mxs3ub",
+    "word": "¿Dónde está el banco? / Debajo de un árbol grande.",
+    "translation": "Onde fica o banco? / Embaixo de uma árvore grande.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "banco",
+      "/",
+      "Debajo",
+      "de",
+      "un",
+      "árbol",
+      "grande"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta el ˈbaŋko · deˈβaxo de un ˈaɾβol ˈɣɾande/",
+    "portuguesePhonetic": "[dônde está el bánko · debárro de un árbol gránde]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_pdjg94d",
+    "word": "¿Dónde está mi pupitre? / Entre dos ventanas.",
+    "translation": "Onde fica minha carteira? / Entre duas janelas.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "mi",
+      "pupitre",
+      "/",
+      "Entre",
+      "dos",
+      "ventanas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta mi puˈpitɾe · ˈentɾe dos benˈtanas/",
+    "portuguesePhonetic": "[dônde está mi pupítre · éntre dos bentánas]"
+  },
+  {
+    "id": "leccion_26_gramatica_a1_s_es_id_tketde1",
+    "word": "¿Dónde está la farmacia? / Al lado de la clínica.",
+    "translation": "Onde fica a farmácia? / Ao lado da clínica.",
+    "syllables": [
+      "Dónde",
+      "está",
+      "la",
+      "farmacia",
+      "/",
+      "Al",
+      "lado",
+      "de",
+      "la",
+      "clínica"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdonde esˈta la faɾˈmaθja · al ˈlaðo de la ˈklinika/",
+    "portuguesePhonetic": "[dônde está la farmáthia · al ládo de la klínika]"
+  }
+]

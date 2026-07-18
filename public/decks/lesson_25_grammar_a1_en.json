@@ -1,0 +1,1812 @@
+[
+  {
+    "id": "lesson_25_grammar_a1_en_id_7g3nmy6",
+    "word": "There are some cups on the table.",
+    "translation": "Tem umas xícaras na mesa.",
+    "syllables": [
+      "There",
+      "are",
+      "some",
+      "cups",
+      "on",
+      "the",
+      "table"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ɑːr sʌm kʌps ɑːn ðə ˈteɪbl̩/",
+    "portuguesePhonetic": "[dhér ár sâm kâps ón dha têibou]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_560tevc",
+    "word": "There is a party tomorrow.",
+    "translation": "Tem uma festa amanhã.",
+    "syllables": [
+      "There",
+      "is",
+      "a",
+      "party",
+      "tomorrow"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ɪz ə ˈpɑːrti təˈmɑːroʊ/",
+    "portuguesePhonetic": "[dhér iz a párti tumárou]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ju2pb1h",
+    "word": "There is a problem.",
+    "translation": "Tem um problema.",
+    "syllables": [
+      "There",
+      "is",
+      "a",
+      "problem"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ɪz ə ˈprɑːbləm/",
+    "portuguesePhonetic": "[dhér iz a práblam]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_d1d2vfk",
+    "word": "There was an accident.",
+    "translation": "Teve um acidente.",
+    "syllables": [
+      "There",
+      "was",
+      "an",
+      "accident"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wəz ən ˈæksɪdənt/",
+    "portuguesePhonetic": "[dhér uâz an éksident]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_sgv9wga",
+    "word": "It's the 4th of July.",
+    "translation": "Hoje é dia 4 de julho.",
+    "syllables": [
+      "It's",
+      "the",
+      "4th",
+      "of",
+      "July"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ðə fɔːrθ əv dʒuˈlaɪ/",
+    "portuguesePhonetic": "[íts dha fórth ov djulái]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_byixnxu",
+    "word": "It's my birthday.",
+    "translation": "Hoje é meu aniversário.",
+    "syllables": [
+      "It's",
+      "my",
+      "birthday"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts maɪ ˈbɜːrθdeɪ/",
+    "portuguesePhonetic": "[íts mái bârthdei]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ojsowrk",
+    "word": "It's four o'clock.",
+    "translation": "São quatro horas.",
+    "syllables": [
+      "It's",
+      "four",
+      "o'clock"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts fɔːr əˈklɑːk/",
+    "portuguesePhonetic": "[íts fór aklák]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_21q6re5",
+    "word": "It's very late.",
+    "translation": "Está muito tarde.",
+    "syllables": [
+      "It's",
+      "very",
+      "late"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ˈvɛri leɪt/",
+    "portuguesePhonetic": "[íts véri lêit]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_0lr8xim",
+    "word": "It rained a lot yesterday.",
+    "translation": "Choveu muito ontem.",
+    "syllables": [
+      "It",
+      "rained",
+      "a",
+      "lot",
+      "yesterday"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪt reɪnd ə lɑːt ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[ít rêind a lát iéster dei]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ztr5nt0",
+    "word": "It's four degrees.",
+    "translation": "Está fazendo quatro graus.",
+    "syllables": [
+      "It's",
+      "four",
+      "degrees"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts fɔːr dɪˈɡriːz/",
+    "portuguesePhonetic": "[íts fór digríz]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_qwg5gok",
+    "word": "How far is it?",
+    "translation": "Quão longe fica?",
+    "syllables": [
+      "How",
+      "far",
+      "is",
+      "it"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ fɑːr ɪz ɪt/",
+    "portuguesePhonetic": "[rráu fár iz ít]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_m2e7rg7",
+    "word": "It's two kilometers from the hotel.",
+    "translation": "Fica a dois quilômetros do hotel.",
+    "syllables": [
+      "It's",
+      "two",
+      "kilometers",
+      "from",
+      "the",
+      "hotel"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts tuː kɪˈlɑːmɪtərz frəm ðə hoʊˈtɛl/",
+    "portuguesePhonetic": "[íts tú kilámitarz from dha routél]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_aswnrhw",
+    "word": "It's nice to see you again.",
+    "translation": "É bom te ver de novo.",
+    "syllables": [
+      "It's",
+      "nice",
+      "to",
+      "see",
+      "you",
+      "again"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts naɪs tə siː juː əˈɡɛn/",
+    "portuguesePhonetic": "[íts náis tu sí iú aguén]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_kxnz3wz",
+    "word": "It was difficult to find the hotel.",
+    "translation": "Foi difícil achar o hotel.",
+    "syllables": [
+      "It",
+      "was",
+      "difficult",
+      "to",
+      "find",
+      "the",
+      "hotel"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪt wəz ˈdɪfɪkəlt tə faɪnd ðə hoʊˈtɛl/",
+    "portuguesePhonetic": "[ít uâz dífikout tu fáind dha routél]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ecafto3",
+    "word": "There's a party tonight. It will be fun!",
+    "translation": "Tem uma festa hoje à noite. Vai ser divertida!",
+    "syllables": [
+      "There's",
+      "a",
+      "party",
+      "tonight",
+      "It",
+      "will",
+      "be",
+      "fun"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə ˈpɑːrti təˈnaɪt ɪt wɪl biː fʌn/",
+    "portuguesePhonetic": "[dhérz a párti tunáit ít uíou bí fân]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_6n06j7z",
+    "word": "We saw a snake. It was very big.",
+    "translation": "A gente viu uma cobra. Ela era muito grande.",
+    "syllables": [
+      "We",
+      "saw",
+      "a",
+      "snake",
+      "It",
+      "was",
+      "very",
+      "big"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː sɔː ə sneɪk ɪt wəz ˈvɛri bɪɡ/",
+    "portuguesePhonetic": "[uí só a snêik ít uâz véri bíg]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_nie8dwc",
+    "word": "There are two exits over there.",
+    "translation": "Tem duas saídas ali.",
+    "syllables": [
+      "There",
+      "are",
+      "two",
+      "exits",
+      "over",
+      "there"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ɑːr tuː ˈɛksɪts ˈoʊvər ðɛr/",
+    "portuguesePhonetic": "[dhér ár tú éksits ôuver dhér]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_l5e2rqp",
+    "word": "There was a meeting yesterday.",
+    "translation": "Teve uma reunião ontem.",
+    "syllables": [
+      "There",
+      "was",
+      "a",
+      "meeting",
+      "yesterday"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wəz ə ˈmiːtɪŋ ˈjɛstərdeɪ/",
+    "portuguesePhonetic": "[dhér uâz a mítin iéster dei]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_nxapi5p",
+    "word": "It's important to arrive on time.",
+    "translation": "É importante chegar na hora.",
+    "syllables": [
+      "It's",
+      "important",
+      "to",
+      "arrive",
+      "on",
+      "time"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ɪmˈpɔːrtənt tə əˈraɪv ɑːn taɪm/",
+    "portuguesePhonetic": "[íts impórtant tu aráiv ón táim]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_tsycr6i",
+    "word": "It's easy to get lost here.",
+    "translation": "É fácil se perder aqui.",
+    "syllables": [
+      "It's",
+      "easy",
+      "to",
+      "get",
+      "lost",
+      "here"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ˈiːzi tə ɡɛt lɔːst hɪr/",
+    "portuguesePhonetic": "[íts ízi tu guét lóst rrír]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_0iyj0ba",
+    "word": "There's a dog in the yard.",
+    "translation": "Tem um cachorro no quintal.",
+    "syllables": [
+      "There's",
+      "a",
+      "dog",
+      "in",
+      "the",
+      "yard"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə dɔːɡ ɪn ðə jɑːrd/",
+    "portuguesePhonetic": "[dhérz a dóg in dha iárd]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_98zbfw9",
+    "word": "It's a very friendly dog.",
+    "translation": "Ele é um cachorro muito amigável.",
+    "syllables": [
+      "It's",
+      "a",
+      "very",
+      "friendly",
+      "dog"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ə ˈvɛri ˈfrɛndli dɔːɡ/",
+    "portuguesePhonetic": "[íts a véri fréndli dóg]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_9xxz0q6",
+    "word": "There will be a storm later.",
+    "translation": "Vai ter uma tempestade mais tarde.",
+    "syllables": [
+      "There",
+      "will",
+      "be",
+      "a",
+      "storm",
+      "later"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wɪl biː ə stɔːrm ˈleɪtər/",
+    "portuguesePhonetic": "[dhér uíou bí a stórm lêiter]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_1dh8c39",
+    "word": "It's windy outside.",
+    "translation": "Está ventando lá fora.",
+    "syllables": [
+      "It's",
+      "windy",
+      "outside"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ˈwɪndi ˌaʊtˈsaɪd/",
+    "portuguesePhonetic": "[íts uíndi autsáid]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_upui5xo",
+    "word": "It's five kilometers to the beach.",
+    "translation": "Fica cinco quilômetros até a praia.",
+    "syllables": [
+      "It's",
+      "five",
+      "kilometers",
+      "to",
+      "the",
+      "beach"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts faɪv kɪˈlɑːmɪtərz tə ðə biːtʃ/",
+    "portuguesePhonetic": "[íts fáiv kilámitarz tu dha bítch]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_zvk2c9v",
+    "word": "There's a delivery at the door.",
+    "translation": "Tem uma entrega na porta.",
+    "syllables": [
+      "There's",
+      "a",
+      "delivery",
+      "at",
+      "the",
+      "door"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə dɪˈlɪvəri æt ðə dɔːr/",
+    "portuguesePhonetic": "[dhérz a dilíveri ét dha dór]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_8ub1web",
+    "word": "It's raining, so take an umbrella.",
+    "translation": "Está chovendo, então leve um guarda-chuva.",
+    "syllables": [
+      "It's",
+      "raining",
+      "so",
+      "take",
+      "an",
+      "umbrella"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ˈreɪnɪŋ soʊ teɪk ən ʌmˈbrɛlə/",
+    "portuguesePhonetic": "[íts rêinin sôu têik an ambréla]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_0xaa7kn",
+    "word": "There's a meeting at ten.",
+    "translation": "Tem uma reunião às dez.",
+    "syllables": [
+      "There's",
+      "a",
+      "meeting",
+      "at",
+      "ten"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə ˈmiːtɪŋ æt tɛn/",
+    "portuguesePhonetic": "[dhérz a mítin ét tén]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_bcn87kf",
+    "word": "It's important to finish this today.",
+    "translation": "É importante terminar isso hoje.",
+    "syllables": [
+      "It's",
+      "important",
+      "to",
+      "finish",
+      "this",
+      "today"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ɪmˈpɔːrtənt tə ˈfɪnɪʃ ðɪs təˈdeɪ/",
+    "portuguesePhonetic": "[íts impórtant tu fínich dhís tudêi]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_suioycn",
+    "word": "There's a bus stop nearby.",
+    "translation": "Tem um ponto de ônibus perto.",
+    "syllables": [
+      "There's",
+      "a",
+      "bus",
+      "stop",
+      "nearby"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə bʌs stɑːp ˈnɪrbaɪ/",
+    "portuguesePhonetic": "[dhérz a bâs stáp nírbai]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_znz5wf1",
+    "word": "It's not far from here.",
+    "translation": "Não é longe daqui.",
+    "syllables": [
+      "It's",
+      "not",
+      "far",
+      "from",
+      "here"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts nɑːt fɑːr frəm hɪr/",
+    "portuguesePhonetic": "[íts nót fár from rrír]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_lvq8s29",
+    "word": "There's a nice hotel downtown.",
+    "translation": "Tem um hotel bom no centro.",
+    "syllables": [
+      "There's",
+      "a",
+      "nice",
+      "hotel",
+      "downtown"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə naɪs hoʊˈtɛl ˈdaʊntaʊn/",
+    "portuguesePhonetic": "[dhérz a náis routél dáuntaun]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_xfmx3kl",
+    "word": "It's expensive, but it's worth it.",
+    "translation": "É caro, mas vale a pena.",
+    "syllables": [
+      "It's",
+      "expensive",
+      "but",
+      "it's",
+      "worth",
+      "it"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ɪkˈspɛnsɪv bʌt ɪts wɜːrθ ɪt/",
+    "portuguesePhonetic": "[íts ikspênsiv bât íts uârth ít]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_mo7yv1e",
+    "word": "How far is the airport? It's about an hour.",
+    "translation": "Quão longe fica o aeroporto? É cerca de uma hora.",
+    "syllables": [
+      "How",
+      "far",
+      "is",
+      "the",
+      "airport",
+      "It's",
+      "about",
+      "an",
+      "hour"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ fɑːr ɪz ðiː ˈɛrpɔːrt ɪts əˈbaʊt ən ˈaʊər/",
+    "portuguesePhonetic": "[rráu fár iz dhi érport íts abáut an áuer]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_koev3rb",
+    "word": "There's a long wait at the clinic.",
+    "translation": "Tem uma espera longa na clínica.",
+    "syllables": [
+      "There's",
+      "a",
+      "long",
+      "wait",
+      "at",
+      "the",
+      "clinic"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə lɔːŋ weɪt æt ðə ˈklɪnɪk/",
+    "portuguesePhonetic": "[dhérz a lóN uêit ét dha klínik]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_j5vzkpo",
+    "word": "It's normal to feel a little pain.",
+    "translation": "É normal sentir um pouco de dor.",
+    "syllables": [
+      "It's",
+      "normal",
+      "to",
+      "feel",
+      "a",
+      "little",
+      "pain"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ˈnɔːrml̩ tə fiːl ə ˈlɪtl̩ peɪn/",
+    "portuguesePhonetic": "[íts nórmou tu fíou a lítou pêin]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_py3jbqd",
+    "word": "There's a table by the window.",
+    "translation": "Tem uma mesa perto da janela.",
+    "syllables": [
+      "There's",
+      "a",
+      "table",
+      "by",
+      "the",
+      "window"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə ˈteɪbl̩ baɪ ðə ˈwɪndoʊ/",
+    "portuguesePhonetic": "[dhérz a têibou bái dha uíndou]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_xc0lgz6",
+    "word": "It's delicious!",
+    "translation": "Está delicioso!",
+    "syllables": [
+      "It's",
+      "delicious"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts dɪˈlɪʃəs/",
+    "portuguesePhonetic": "[íts delíchas]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_tb7iqei",
+    "word": "There's a new class starting today.",
+    "translation": "Tem uma aula nova começando hoje.",
+    "syllables": [
+      "There's",
+      "a",
+      "new",
+      "class",
+      "starting",
+      "today"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə nuː klæs ˈstɑːrtɪŋ təˈdeɪ/",
+    "portuguesePhonetic": "[dhérz a niú klés stártin tudêi]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ned082y",
+    "word": "It's hard, but it's worth it.",
+    "translation": "É difícil, mas vale a pena.",
+    "syllables": [
+      "It's",
+      "hard",
+      "but",
+      "it's",
+      "worth",
+      "it"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts hɑːrd bʌt ɪts wɜːrθ ɪt/",
+    "portuguesePhonetic": "[íts rrárd bât íts uârth ít]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_v0w94qr",
+    "word": "There's a sale this weekend.",
+    "translation": "Tem uma promoção neste fim de semana.",
+    "syllables": [
+      "There's",
+      "a",
+      "sale",
+      "this",
+      "weekend"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə seɪl ðɪs ˈwiːkɛnd/",
+    "portuguesePhonetic": "[dhérz a sêiou dhís uíkend]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_6delspc",
+    "word": "It's a bit too big.",
+    "translation": "Está um pouco grande demais.",
+    "syllables": [
+      "It's",
+      "a",
+      "bit",
+      "too",
+      "big"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ə bɪt tuː bɪɡ/",
+    "portuguesePhonetic": "[íts a bít tú bíg]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_aok3nyc",
+    "word": "There's an exam next week.",
+    "translation": "Tem uma prova semana que vem.",
+    "syllables": [
+      "There's",
+      "an",
+      "exam",
+      "next",
+      "week"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ən ɪɡˈzæm nɛkst wiːk/",
+    "portuguesePhonetic": "[dhérz an igzém nékst uík]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_hd4tssa",
+    "word": "It's difficult, but it's manageable.",
+    "translation": "É difícil, mas é administrável.",
+    "syllables": [
+      "It's",
+      "difficult",
+      "but",
+      "it's",
+      "manageable"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ˈdɪfɪkəlt bʌt ɪts ˈmænɪdʒəbl̩/",
+    "portuguesePhonetic": "[íts dífikout bât íts ménidjabou]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_n7ij7nh",
+    "word": "There are a lot of people at the beach.",
+    "translation": "Tem muita gente na praia.",
+    "syllables": [
+      "There",
+      "are",
+      "a",
+      "lot",
+      "of",
+      "people",
+      "at",
+      "the",
+      "beach"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ɑːr ə lɑːt əv ˈpiːpl̩ æt ðə biːtʃ/",
+    "portuguesePhonetic": "[dhér ár a lát ov pípou ét dha bítch]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_0cx6gkx",
+    "word": "It's a beautiful day.",
+    "translation": "É um dia lindo.",
+    "syllables": [
+      "It's",
+      "a",
+      "beautiful",
+      "day"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ə ˈbjuːtəfəl deɪ/",
+    "portuguesePhonetic": "[íts a biútifou dêi]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ar1iqgi",
+    "word": "There's a concert this Friday.",
+    "translation": "Tem um show nesta sexta.",
+    "syllables": [
+      "There's",
+      "a",
+      "concert",
+      "this",
+      "Friday"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə ˈkɑːnsərt ðɪs ˈfraɪdeɪ/",
+    "portuguesePhonetic": "[dhérz a kánsert dhís fráidei]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_iuvzb2b",
+    "word": "It's going to be amazing.",
+    "translation": "Vai ser incrível.",
+    "syllables": [
+      "It's",
+      "going",
+      "to",
+      "be",
+      "amazing"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ˈɡoʊɪŋ tə biː əˈmeɪzɪŋ/",
+    "portuguesePhonetic": "[íts gôuin tu bí amêizin]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_dyzajwi",
+    "word": "There's a delay with the flight.",
+    "translation": "Tem um atraso com o voo.",
+    "syllables": [
+      "There's",
+      "a",
+      "delay",
+      "with",
+      "the",
+      "flight"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə dɪˈleɪ wɪð ðə flaɪt/",
+    "portuguesePhonetic": "[dhérz a dilêi uídh dha fláit]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ckwpryj",
+    "word": "It's frustrating, but there's nothing we can do.",
+    "translation": "É frustrante, mas não tem nada que a gente possa fazer.",
+    "syllables": [
+      "It's",
+      "frustrating",
+      "but",
+      "there's",
+      "nothing",
+      "we",
+      "can",
+      "do"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts frʌˈstreɪtɪŋ bʌt ðɛrz ˈnʌθɪŋ wiː kæn duː/",
+    "portuguesePhonetic": "[íts frastrêitin bât dhérz nâthin uí kên dú]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_72kcif8",
+    "word": "There's a cat here.",
+    "translation": "Tem um gato aqui.",
+    "syllables": [
+      "There's",
+      "a",
+      "cat",
+      "here"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə kæt hɪr/",
+    "portuguesePhonetic": "[dhérz a két rrír]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_5w62s9v",
+    "word": "It's cold today.",
+    "translation": "Está frio hoje.",
+    "syllables": [
+      "It's",
+      "cold",
+      "today"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts koʊld təˈdeɪ/",
+    "portuguesePhonetic": "[íts kôuld tudêi]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_379mp7j",
+    "word": "There was a fire.",
+    "translation": "Teve um incêndio.",
+    "syllables": [
+      "There",
+      "was",
+      "a",
+      "fire"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wəz ə ˈfaɪər/",
+    "portuguesePhonetic": "[dhér uâz a fáier]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_u1g8kk4",
+    "word": "It's my turn.",
+    "translation": "É a minha vez.",
+    "syllables": [
+      "It's",
+      "my",
+      "turn"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts maɪ tɜːrn/",
+    "portuguesePhonetic": "[íts mái târn]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_jhixp4r",
+    "word": "There isn't a solution yet.",
+    "translation": "Ainda não tem uma solução.",
+    "syllables": [
+      "There",
+      "isn't",
+      "a",
+      "solution",
+      "yet"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ˈɪznt ə səˈluːʃn̩ jɛt/",
+    "portuguesePhonetic": "[dhér íznt a solúchan iét]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_97fyi50",
+    "word": "It's not fair.",
+    "translation": "Não é justo.",
+    "syllables": [
+      "It's",
+      "not",
+      "fair"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts nɑːt fɛr/",
+    "portuguesePhonetic": "[íts nót fér]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_fp9edwx",
+    "word": "There were three people waiting.",
+    "translation": "Tinha três pessoas esperando.",
+    "syllables": [
+      "There",
+      "were",
+      "three",
+      "people",
+      "waiting"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wɜːr θriː ˈpiːpl̩ ˈweɪtɪŋ/",
+    "portuguesePhonetic": "[dhér uâr thrí pípou uêitin]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_mpcinhr",
+    "word": "It's getting late.",
+    "translation": "Está ficando tarde.",
+    "syllables": [
+      "It's",
+      "getting",
+      "late"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ˈɡɛtɪŋ leɪt/",
+    "portuguesePhonetic": "[íts guétin lêit]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_grt25aq",
+    "word": "Isn't there a way to fix this?",
+    "translation": "Não tem um jeito de consertar isso?",
+    "syllables": [
+      "Isn't",
+      "there",
+      "a",
+      "way",
+      "to",
+      "fix",
+      "this"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɪznt ðɛr ə weɪ tə fɪks ðɪs/",
+    "portuguesePhonetic": "[íznt dhér a uêi tu fíks dhís]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ptqtpll",
+    "word": "Isn't it too late?",
+    "translation": "Não está tarde demais?",
+    "syllables": [
+      "Isn't",
+      "it",
+      "too",
+      "late"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɪznt ɪt tuː leɪt/",
+    "portuguesePhonetic": "[íznt ít tú lêit]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ecfelvn",
+    "word": "Wasn't there a discount?",
+    "translation": "Não tinha um desconto?",
+    "syllables": [
+      "Wasn't",
+      "there",
+      "a",
+      "discount"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈwʌzənt ðɛr ə ˈdɪskaʊnt/",
+    "portuguesePhonetic": "[uázant dhér a dískaunt]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ld48huv",
+    "word": "Wasn't it expensive?",
+    "translation": "Não era caro?",
+    "syllables": [
+      "Wasn't",
+      "it",
+      "expensive"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈwʌzənt ɪt ɪkˈspɛnsɪv/",
+    "portuguesePhonetic": "[uázant ít ikspênsiv]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_33w8cay",
+    "word": "There was a problem, but it's fixed now.",
+    "translation": "Teve um problema, mas já está resolvido agora.",
+    "syllables": [
+      "There",
+      "was",
+      "a",
+      "problem",
+      "but",
+      "it's",
+      "fixed",
+      "now"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wəz ə ˈprɑːbləm bʌt ɪts fɪkst naʊ/",
+    "portuguesePhonetic": "[dhér uâz a práblam bât íts fíkst náu]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_m1dwc5s",
+    "word": "It's important to relax, because there's a lot of stress at work.",
+    "translation": "É importante relaxar, porque tem muito estresse no trabalho.",
+    "syllables": [
+      "It's",
+      "important",
+      "to",
+      "relax",
+      "because",
+      "there's",
+      "a",
+      "lot",
+      "of",
+      "stress",
+      "at",
+      "work"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪts ɪmˈpɔːrtənt tə rɪˈlæks bɪˈkɔːz ðɛrz ə lɑːt əv strɛs æt wɜːrk/",
+    "portuguesePhonetic": "[íts impórtant tu riléks bikóz dhérz a lát ov strés ét uârk]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_16mzdwj",
+    "word": "There will be a lot of traffic, so it's better to leave early.",
+    "translation": "Vai ter muito trânsito, então é melhor sair cedo.",
+    "syllables": [
+      "There",
+      "will",
+      "be",
+      "a",
+      "lot",
+      "of",
+      "traffic",
+      "so",
+      "it's",
+      "better",
+      "to",
+      "leave",
+      "early"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wɪl biː ə lɑːt əv ˈtræfɪk soʊ ɪts ˈbɛtər tə liːv ˈɜːrli/",
+    "portuguesePhonetic": "[dhér uíou bí a lát ov tréfik sôu íts béter tu lív ârli]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ltjadxq",
+    "word": "There wasn't much time, but it was enough to finish.",
+    "translation": "Não tinha muito tempo, mas foi suficiente para terminar.",
+    "syllables": [
+      "There",
+      "wasn't",
+      "much",
+      "time",
+      "but",
+      "it",
+      "was",
+      "enough",
+      "to",
+      "finish"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ˈwʌznt mʌtʃ taɪm bʌt ɪt wəz ɪˈnʌf tə ˈfɪnɪʃ/",
+    "portuguesePhonetic": "[dhér uáznt mâtch táim bât ít uâz inâf tu fínich]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_vb8xzpk",
+    "word": "There's a new movie out, and it's supposed to be great.",
+    "translation": "Tem um filme novo, e dizem que é ótimo.",
+    "syllables": [
+      "There's",
+      "a",
+      "new",
+      "movie",
+      "out",
+      "and",
+      "it's",
+      "supposed",
+      "to",
+      "be",
+      "great"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə nuː ˈmuːvi aʊt ænd ɪts səˈpoʊzd tə biː ɡreɪt/",
+    "portuguesePhonetic": "[dhérz a niú múvi áut énd íts sapôuzd tu bí grêit]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_v9uiel0",
+    "word": "There was a lot of confusion at first, but it's much clearer now that everyone understands the plan.",
+    "translation": "Teve muita confusão no início, mas está bem mais claro agora que todo mundo entende o plano.",
+    "syllables": [
+      "There",
+      "was",
+      "a",
+      "lot",
+      "of",
+      "confusion",
+      "at",
+      "first",
+      "but",
+      "it's",
+      "much",
+      "clearer",
+      "now",
+      "that",
+      "everyone",
+      "understands",
+      "the",
+      "plan"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wəz ə lɑːt əv kənˈfjuːʒn̩ æt fɜːrst bʌt ɪts mʌtʃ ˈklɪrər naʊ ðæt ˈɛvriwʌn ˌʌndərˈstændz ðə plæn/",
+    "portuguesePhonetic": "[dhér uâz a lát ov konfiújan ét fârst bât íts mâtch klírar náu dhét évriuan andersténdz dha plén]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ia2ltny",
+    "word": "There's a chance it might rain later, so it would be smart to bring an umbrella just in case.",
+    "translation": "Tem uma chance de chover mais tarde, então seria inteligente trazer um guarda-chuva só por precaução.",
+    "syllables": [
+      "There's",
+      "a",
+      "chance",
+      "it",
+      "might",
+      "rain",
+      "later",
+      "so",
+      "it",
+      "would",
+      "be",
+      "smart",
+      "to",
+      "bring",
+      "an",
+      "umbrella",
+      "just",
+      "in",
+      "case"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz ə tʃæns ɪt maɪt reɪn ˈleɪtər soʊ ɪt wʊd biː smɑːrt tə brɪŋ ən ʌmˈbrɛlə dʒʌst ɪn keɪs/",
+    "portuguesePhonetic": "[dhérz a tchéns ít máit rêin lêiter sôu ít uúd bí smárt tu brín an ambréla djâst in kêis]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_zd8z2mf",
+    "word": "There were a lot of applicants, but it wasn't hard to see who the best candidate was.",
+    "translation": "Tinha muitos candidatos, mas não foi difícil ver quem era o melhor.",
+    "syllables": [
+      "There",
+      "were",
+      "a",
+      "lot",
+      "of",
+      "applicants",
+      "but",
+      "it",
+      "wasn't",
+      "hard",
+      "to",
+      "see",
+      "who",
+      "the",
+      "best",
+      "candidate",
+      "was"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wɜːr ə lɑːt əv ˈæplɪkənts bʌt ɪt ˈwɑːznt hɑːrd tə siː huː ðə bɛst ˈkændɪdət wəz/",
+    "portuguesePhonetic": "[dhér uâr a lát ov éplikants bât ít uáznt rrárd tu sí rrú dha bést kéndidat uâz]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_0nskh8j",
+    "word": "There isn't an easy answer to this question, and it's going to take some time to figure out.",
+    "translation": "Não tem uma resposta fácil para essa pergunta, e vai levar um tempo para descobrir.",
+    "syllables": [
+      "There",
+      "isn't",
+      "an",
+      "easy",
+      "answer",
+      "to",
+      "this",
+      "question",
+      "and",
+      "it's",
+      "going",
+      "to",
+      "take",
+      "some",
+      "time",
+      "to",
+      "figure",
+      "out"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ˈɪznt ən ˈiːzi ˈænsər tə ðɪs ˈkwɛstʃən ænd ɪts ˈɡoʊɪŋ tə teɪk sʌm taɪm tə ˈfɪɡjər aʊt/",
+    "portuguesePhonetic": "[dhér íznt an ízi énser tu dhís kuéstchan énd íts gôuin tu têik sâm táim tu fíguer áut]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_s9s1rbo",
+    "word": "There was so much noise outside that it was impossible to concentrate on anything.",
+    "translation": "Tinha tanto barulho lá fora que era impossível se concentrar em qualquer coisa.",
+    "syllables": [
+      "There",
+      "was",
+      "so",
+      "much",
+      "noise",
+      "outside",
+      "that",
+      "it",
+      "was",
+      "impossible",
+      "to",
+      "concentrate",
+      "on",
+      "anything"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wəz soʊ mʌtʃ nɔɪz ˌaʊtˈsaɪd ðæt ɪt wəz ɪmˈpɑːsəbl̩ tə ˈkɑːnsəntreɪt ɑːn ˈɛniθɪŋ/",
+    "portuguesePhonetic": "[dhér uâz sôu mâtch nóiz autsáid dhét ít uâz impásabou tu kánsantreit ón énithin]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_miv5jtj",
+    "word": "There's still a long way to go, but it feels good to see some progress.",
+    "translation": "Ainda tem um caminho longo pela frente, mas é bom ver algum progresso.",
+    "syllables": [
+      "There's",
+      "still",
+      "a",
+      "long",
+      "way",
+      "to",
+      "go",
+      "but",
+      "it",
+      "feels",
+      "good",
+      "to",
+      "see",
+      "some",
+      "progress"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛrz stɪl ə lɔːŋ weɪ tə ɡoʊ bʌt ɪt fiːlz ɡʊd tə siː sʌm ˈprɑːɡrɛs/",
+    "portuguesePhonetic": "[dhérz stíou a lóN uêi tu gôu bât ít fílz gúd tu sí sâm prógres]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_sgy9j19",
+    "word": "There was a misunderstanding, but it's all cleared up now, so we can move forward.",
+    "translation": "Teve um mal-entendido, mas já está tudo esclarecido agora, então podemos seguir em frente.",
+    "syllables": [
+      "There",
+      "was",
+      "a",
+      "misunderstanding",
+      "but",
+      "it's",
+      "all",
+      "cleared",
+      "up",
+      "now",
+      "so",
+      "we",
+      "can",
+      "move",
+      "forward"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr wəz ə ˌmɪsʌndərˈstændɪŋ bʌt ɪts ɔːl klɪrd ʌp naʊ soʊ wiː kæn muːv ˈfɔːrwərd/",
+    "portuguesePhonetic": "[dhér uâz a misandersstêndin bât íts ól klírd âp náu sôu uí kên múv fórwerd]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_b5fof2k",
+    "word": "There is no need to worry, because it's just a small problem that will fix itself.",
+    "translation": "Não tem necessidade de se preocupar, porque é só um probleminha que vai se resolver sozinho.",
+    "syllables": [
+      "There",
+      "is",
+      "no",
+      "need",
+      "to",
+      "worry",
+      "because",
+      "it's",
+      "just",
+      "a",
+      "small",
+      "problem",
+      "that",
+      "will",
+      "fix",
+      "itself"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ɪz noʊ niːd tə ˈwɜːri bɪˈkɔːz ɪts dʒʌst ə smɔːl ˈprɑːbləm ðæt wɪl fɪks ɪtˈsɛlf/",
+    "portuguesePhonetic": "[dhér iz nôu níd tu uâri bikóz íts djâst a smól práblam dhét uíou fíks itsélf]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_j7qrr2i",
+    "word": "What time is it? / It's ten o'clock.",
+    "translation": "Que horas são? / São dez horas.",
+    "syllables": [
+      "What",
+      "time",
+      "is",
+      "it",
+      "/",
+      "It's",
+      "ten",
+      "o'clock"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm ɪz ɪt · ɪts tɛn əˈklɑːk/",
+    "portuguesePhonetic": "[uât táim iz ít · íts tén aklák]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_b96ds02",
+    "word": "Is there a bathroom here? / Yes, over there.",
+    "translation": "Tem um banheiro aqui? / Sim, ali.",
+    "syllables": [
+      "Is",
+      "there",
+      "a",
+      "bathroom",
+      "here",
+      "/",
+      "Yes",
+      "over",
+      "there"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ə ˈbæθruːm hɪr · jɛs ˈoʊvər ðɛr/",
+    "portuguesePhonetic": "[iz dhér a béthrum rrír · iés ôuver dhér]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_dhk92du",
+    "word": "How's the weather? / It's sunny.",
+    "translation": "Como está o tempo? / Está ensolarado.",
+    "syllables": [
+      "How's",
+      "the",
+      "weather",
+      "/",
+      "It's",
+      "sunny"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊz ðə ˈwɛðər · ɪts ˈsʌni/",
+    "portuguesePhonetic": "[rráuz dha uédher · íts sâni]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_bphcd41",
+    "word": "Is there a party tonight? / Yes, at eight.",
+    "translation": "Tem uma festa hoje à noite? / Sim, às oito.",
+    "syllables": [
+      "Is",
+      "there",
+      "a",
+      "party",
+      "tonight",
+      "/",
+      "Yes",
+      "at",
+      "eight"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ə ˈpɑːrti təˈnaɪt · jɛs æt eɪt/",
+    "portuguesePhonetic": "[iz dhér a párti tunáit · iés ét êit]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_pgzvqtn",
+    "word": "How far is it? / About three miles.",
+    "translation": "Quão longe fica? / Cerca de cinco quilômetros.",
+    "syllables": [
+      "How",
+      "far",
+      "is",
+      "it",
+      "/",
+      "About",
+      "three",
+      "miles"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ fɑːr ɪz ɪt · əˈbaʊt θriː maɪlz/",
+    "portuguesePhonetic": "[rráu fár iz ít · abáut thrí máilz]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_8o0g8z2",
+    "word": "Was there an accident? / Yes, on the highway.",
+    "translation": "Teve um acidente? / Sim, na rodovia.",
+    "syllables": [
+      "Was",
+      "there",
+      "an",
+      "accident",
+      "/",
+      "Yes",
+      "on",
+      "the",
+      "highway"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wəz ðɛr ən ˈæksɪdənt · jɛs ɑːn ðə ˈhaɪweɪ/",
+    "portuguesePhonetic": "[uâz dhér an éksident · iés ón dha rráiuei]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_f4rbo0l",
+    "word": "Is it far from here? / Not really.",
+    "translation": "É longe daqui? / Nem tanto.",
+    "syllables": [
+      "Is",
+      "it",
+      "far",
+      "from",
+      "here",
+      "/",
+      "Not",
+      "really"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ɪt fɑːr frəm hɪr · nɑːt ˈrɪli/",
+    "portuguesePhonetic": "[iz ít fár from rrír · nót ríli]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_5iozbp0",
+    "word": "Is there a problem? / No, everything's fine.",
+    "translation": "Tem algum problema? / Não, está tudo bem.",
+    "syllables": [
+      "Is",
+      "there",
+      "a",
+      "problem",
+      "/",
+      "No",
+      "everything's",
+      "fine"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ə ˈprɑːbləm · noʊ ˈɛvriθɪŋz faɪn/",
+    "portuguesePhonetic": "[iz dhér a práblam · nôu évrithinz fáin]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_vj1i9a1",
+    "word": "What's the date today? / It's the tenth.",
+    "translation": "Que dia é hoje? / É dia dez.",
+    "syllables": [
+      "What's",
+      "the",
+      "date",
+      "today",
+      "/",
+      "It's",
+      "the",
+      "tenth"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts ðə deɪt təˈdeɪ · ɪts ðə tɛnθ/",
+    "portuguesePhonetic": "[uâts dha dêit tudêi · íts dha ténth]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_7whin3g",
+    "word": "Is there a discount? / Yes, ten percent.",
+    "translation": "Tem algum desconto? / Sim, dez por cento.",
+    "syllables": [
+      "Is",
+      "there",
+      "a",
+      "discount",
+      "/",
+      "Yes",
+      "ten",
+      "percent"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ə ˈdɪskaʊnt · jɛs tɛn pərˈsɛnt/",
+    "portuguesePhonetic": "[iz dhér a dískaunt · iés tén persént]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_52mvyl8",
+    "word": "Is it cold outside? / Yes, very.",
+    "translation": "Está frio lá fora? / Sim, muito.",
+    "syllables": [
+      "Is",
+      "it",
+      "cold",
+      "outside",
+      "/",
+      "Yes",
+      "very"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ɪt koʊld ˌaʊtˈsaɪd · jɛs ˈvɛri/",
+    "portuguesePhonetic": "[iz ít kôuld autsáid · iés véri]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_kul4uzu",
+    "word": "Was there a lot of traffic? / Yes, terrible.",
+    "translation": "Tinha muito trânsito? / Sim, terrível.",
+    "syllables": [
+      "Was",
+      "there",
+      "a",
+      "lot",
+      "of",
+      "traffic",
+      "/",
+      "Yes",
+      "terrible"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wəz ðɛr ə lɑːt əv ˈtræfɪk · jɛs ˈtɛrəbl̩/",
+    "portuguesePhonetic": "[uâz dhér a lát ov tréfik · iés térabou]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_ix9iv70",
+    "word": "Is it easy to learn? / Not really.",
+    "translation": "É fácil de aprender? / Nem tanto.",
+    "syllables": [
+      "Is",
+      "it",
+      "easy",
+      "to",
+      "learn",
+      "/",
+      "Not",
+      "really"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ɪt ˈiːzi tə lɜːrn · nɑːt ˈrɪli/",
+    "portuguesePhonetic": "[iz ít ízi tu lârn · nót ríli]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_nv9icuz",
+    "word": "Is there a meeting today? / Yes, at noon.",
+    "translation": "Tem uma reunião hoje? / Sim, ao meio-dia.",
+    "syllables": [
+      "Is",
+      "there",
+      "a",
+      "meeting",
+      "today",
+      "/",
+      "Yes",
+      "at",
+      "noon"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ə ˈmiːtɪŋ təˈdeɪ · jɛs æt nuːn/",
+    "portuguesePhonetic": "[iz dhér a mítin tudêi · iés ét nún]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_up3yd1c",
+    "word": "Is it your birthday? / Yes, it is!",
+    "translation": "Hoje é seu aniversário? / Sim, é!",
+    "syllables": [
+      "Is",
+      "it",
+      "your",
+      "birthday",
+      "/",
+      "Yes",
+      "it",
+      "is"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ɪt jɔːr ˈbɜːrθdeɪ · jɛs ɪt ɪz/",
+    "portuguesePhonetic": "[iz ít iór bârthdei · iés ít iz]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_tm55xs0",
+    "word": "Was there a storm last night? / Yes, a big one.",
+    "translation": "Teve uma tempestade ontem à noite? / Sim, uma grande.",
+    "syllables": [
+      "Was",
+      "there",
+      "a",
+      "storm",
+      "last",
+      "night",
+      "/",
+      "Yes",
+      "a",
+      "big",
+      "one"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wəz ðɛr ə stɔːrm læst naɪt · jɛs ə bɪɡ wʌn/",
+    "portuguesePhonetic": "[uâz dhér a stórm lést náit · iés a bíg uân]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_9n9l9oc",
+    "word": "Is it expensive? / A little.",
+    "translation": "É caro? / Um pouco.",
+    "syllables": [
+      "Is",
+      "it",
+      "expensive",
+      "/",
+      "A",
+      "little"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ɪt ɪkˈspɛnsɪv · ə ˈlɪtl̩/",
+    "portuguesePhonetic": "[iz ít ikspênsiv · a lítou]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_6l5isqj",
+    "word": "Is there a way to fix it? / I think so.",
+    "translation": "Tem um jeito de consertar? / Eu acho que sim.",
+    "syllables": [
+      "Is",
+      "there",
+      "a",
+      "way",
+      "to",
+      "fix",
+      "it",
+      "/",
+      "I",
+      "think",
+      "so"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ə weɪ tə fɪks ɪt · aɪ θɪŋk soʊ/",
+    "portuguesePhonetic": "[iz dhér a uêi tu fíks ít · ái thínk sôu]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_66blfbu",
+    "word": "What time does it start? / At seven.",
+    "translation": "A que horas começa? / Às sete.",
+    "syllables": [
+      "What",
+      "time",
+      "does",
+      "it",
+      "start",
+      "/",
+      "At",
+      "seven"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt taɪm dʌz ɪt stɑːrt · æt ˈsɛvn̩/",
+    "portuguesePhonetic": "[uât táim dâz ít stárt · ét sévan]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_n0hir3g",
+    "word": "Was there anyone home? / No, nobody.",
+    "translation": "Tinha alguém em casa? / Não, ninguém.",
+    "syllables": [
+      "Was",
+      "there",
+      "anyone",
+      "home",
+      "/",
+      "No",
+      "nobody"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wəz ðɛr ˈɛniwʌn hoʊm · noʊ ˈnoʊbɑːdi/",
+    "portuguesePhonetic": "[uâz dhér éniuan rrôum · nôu nôubadi]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_2uysmpu",
+    "word": "How was it? / It was amazing.",
+    "translation": "Como foi? / Foi incrível.",
+    "syllables": [
+      "How",
+      "was",
+      "it",
+      "/",
+      "It",
+      "was",
+      "amazing"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/haʊ wəz ɪt · ɪt wəz əˈmeɪzɪŋ/",
+    "portuguesePhonetic": "[rráu uâz ít · ít uâz amêizin]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_t4nur5l",
+    "word": "Is there any hope? / Always.",
+    "translation": "Tem esperança? / Sempre.",
+    "syllables": [
+      "Is",
+      "there",
+      "any",
+      "hope",
+      "/",
+      "Always"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ˈɛni hoʊp · ˈɔːlweɪz/",
+    "portuguesePhonetic": "[iz dhér éni rrôup · ólueiz]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_zwouzo1",
+    "word": "What's it like there? / It's beautiful.",
+    "translation": "Como é lá? / É lindo.",
+    "syllables": [
+      "What's",
+      "it",
+      "like",
+      "there",
+      "/",
+      "It's",
+      "beautiful"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌts ɪt laɪk ðɛr · ɪts ˈbjuːtəfəl/",
+    "portuguesePhonetic": "[uâts ít láik dhér · íts biútifou]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_pjvvbrq",
+    "word": "Was there a lot of people? / Yes, a huge crowd.",
+    "translation": "Tinha muita gente? / Sim, uma multidão enorme.",
+    "syllables": [
+      "Was",
+      "there",
+      "a",
+      "lot",
+      "of",
+      "people",
+      "/",
+      "Yes",
+      "a",
+      "huge",
+      "crowd"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wəz ðɛr ə lɑːt əv ˈpiːpl̩ · jɛs ə hjuːdʒ kraʊd/",
+    "portuguesePhonetic": "[uâz dhér a lát ov pípou · iés a rriúdj kráud]"
+  },
+  {
+    "id": "lesson_25_grammar_a1_en_id_8pkxnwn",
+    "word": "Is it worth it? / Definitely.",
+    "translation": "Vale a pena? / Com certeza.",
+    "syllables": [
+      "Is",
+      "it",
+      "worth",
+      "it",
+      "/",
+      "Definitely"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ɪt wɜːrθ ɪt · ˈdɛfɪnətli/",
+    "portuguesePhonetic": "[iz ít uârth ít · définatli]"
+  }
+]

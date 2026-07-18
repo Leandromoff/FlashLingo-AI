@@ -1,0 +1,1838 @@
+[
+  {
+    "id": "lesson_23_grammar_a1_en_id_ae1apbf",
+    "word": "I have a car.",
+    "translation": "Eu tenho um carro.",
+    "syllables": [
+      "I",
+      "have",
+      "a",
+      "car"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv ə kɑːr/",
+    "portuguesePhonetic": "[ái rrév a kár]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_jah1b78",
+    "word": "I have some cars.",
+    "translation": "Eu tenho alguns carros.",
+    "syllables": [
+      "I",
+      "have",
+      "some",
+      "cars"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv sʌm kɑːrz/",
+    "portuguesePhonetic": "[ái rrév sâm kárz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_twy1m91",
+    "word": "Do you have any cars?",
+    "translation": "Você tem algum carro?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "cars"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni kɑːrz/",
+    "portuguesePhonetic": "[dú iú rrév éni kárz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_3gbssch",
+    "word": "I have some milk.",
+    "translation": "Eu tenho um pouco de leite.",
+    "syllables": [
+      "I",
+      "have",
+      "some",
+      "milk"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv sʌm mɪlk/",
+    "portuguesePhonetic": "[ái rrév sâm míouk]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_euv6cw8",
+    "word": "Do you have any milk?",
+    "translation": "Você tem leite?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "milk"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni mɪlk/",
+    "portuguesePhonetic": "[dú iú rrév éni míouk]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_rk0y7nw",
+    "word": "I have some questions for you.",
+    "translation": "Eu tenho algumas perguntas para você.",
+    "syllables": [
+      "I",
+      "have",
+      "some",
+      "questions",
+      "for",
+      "you"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv sʌm ˈkwɛstʃənz fɔːr juː/",
+    "portuguesePhonetic": "[ái rrév sâm kuéstchanz fór iú]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_88l3uav",
+    "word": "Is there any sugar in the jar?",
+    "translation": "Tem açúcar no pote?",
+    "syllables": [
+      "Is",
+      "there",
+      "any",
+      "sugar",
+      "in",
+      "the",
+      "jar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ˈɛni ˈʃʊɡər ɪn ðə dʒɑːr/",
+    "portuguesePhonetic": "[iz dhér éni chúgar in dha djár]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_6czhvq4",
+    "word": "We don't have any problems.",
+    "translation": "A gente não tem problema nenhum.",
+    "syllables": [
+      "We",
+      "don't",
+      "have",
+      "any",
+      "problems"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː doʊnt hæv ˈɛni ˈprɑːbləmz/",
+    "portuguesePhonetic": "[uí dôunt rrév éni práblamz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_rprktsl",
+    "word": "Would you like some tea?",
+    "translation": "Você quer um pouco de chá?",
+    "syllables": [
+      "Would",
+      "you",
+      "like",
+      "some",
+      "tea"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː laɪk sʌm tiː/",
+    "portuguesePhonetic": "[uúd iú láik sâm tí]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_lrgxidp",
+    "word": "Can I have some tea?",
+    "translation": "Posso pegar um pouco de chá?",
+    "syllables": [
+      "Can",
+      "I",
+      "have",
+      "some",
+      "tea"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kæn aɪ hæv sʌm tiː/",
+    "portuguesePhonetic": "[kên ái rrév sâm tí]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_ml1xv30",
+    "word": "I need an umbrella.",
+    "translation": "Eu preciso de um guarda-chuva.",
+    "syllables": [
+      "I",
+      "need",
+      "an",
+      "umbrella"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ niːd ən ʌmˈbrɛlə/",
+    "portuguesePhonetic": "[ái níd an ambréla]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_udzdokg",
+    "word": "She has an apple.",
+    "translation": "Ela tem uma maçã.",
+    "syllables": [
+      "She",
+      "has",
+      "an",
+      "apple"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː hæz ən ˈæpl̩/",
+    "portuguesePhonetic": "[chí réz an épou]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_7mkg06r",
+    "word": "We have some apples.",
+    "translation": "A gente tem algumas maçãs.",
+    "syllables": [
+      "We",
+      "have",
+      "some",
+      "apples"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː hæv sʌm ˈæpl̩z/",
+    "portuguesePhonetic": "[uí rrév sâm époulz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_o56grbh",
+    "word": "Do you have any apples?",
+    "translation": "Você tem alguma maçã?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "apples"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˈæpl̩z/",
+    "portuguesePhonetic": "[dú iú rrév éni époulz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_ujx2u3x",
+    "word": "I don't have any bread.",
+    "translation": "Eu não tenho pão nenhum.",
+    "syllables": [
+      "I",
+      "don't",
+      "have",
+      "any",
+      "bread"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt hæv ˈɛni brɛd/",
+    "portuguesePhonetic": "[ái dôunt rrév éni bréd]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_8iw0g75",
+    "word": "We have some bread.",
+    "translation": "A gente tem um pouco de pão.",
+    "syllables": [
+      "We",
+      "have",
+      "some",
+      "bread"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː hæv sʌm brɛd/",
+    "portuguesePhonetic": "[uí rrév sâm bréd]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_b3i7i3h",
+    "word": "Would you like some water?",
+    "translation": "Você quer um pouco de água?",
+    "syllables": [
+      "Would",
+      "you",
+      "like",
+      "some",
+      "water"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː laɪk sʌm ˈwɔːtər/",
+    "portuguesePhonetic": "[uúd iú láik sâm uóter]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_w2sv4gt",
+    "word": "Can I have some water, please?",
+    "translation": "Posso pegar um pouco de água, por favor?",
+    "syllables": [
+      "Can",
+      "I",
+      "have",
+      "some",
+      "water",
+      "please"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kæn aɪ hæv sʌm ˈwɔːtər pliːz/",
+    "portuguesePhonetic": "[kên ái rrév sâm uóter plíz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_3zc0222",
+    "word": "There isn't any coffee left.",
+    "translation": "Não tem café sobrando.",
+    "syllables": [
+      "There",
+      "isn't",
+      "any",
+      "coffee",
+      "left"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ˈɪznt ˈɛni ˈkɔːfi lɛft/",
+    "portuguesePhonetic": "[dhér íznt éni kófi léft]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_h7zsyr6",
+    "word": "We have some coffee.",
+    "translation": "A gente tem um pouco de café.",
+    "syllables": [
+      "We",
+      "have",
+      "some",
+      "coffee"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː hæv sʌm ˈkɔːfi/",
+    "portuguesePhonetic": "[uí rrév sâm kófi]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_yqskmtt",
+    "word": "I have a question.",
+    "translation": "Eu tenho uma pergunta.",
+    "syllables": [
+      "I",
+      "have",
+      "a",
+      "question"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv ə ˈkwɛstʃən/",
+    "portuguesePhonetic": "[ái rrév a kuéstchan]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_chvr67e",
+    "word": "Do you have any advice?",
+    "translation": "Você tem algum conselho?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "advice"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ədˈvaɪs/",
+    "portuguesePhonetic": "[dú iú rrév éni advái]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_tm2u0k1",
+    "word": "I don't have any advice for you.",
+    "translation": "Eu não tenho nenhum conselho para você.",
+    "syllables": [
+      "I",
+      "don't",
+      "have",
+      "any",
+      "advice",
+      "for",
+      "you"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt hæv ˈɛni ədˈvaɪs fɔːr juː/",
+    "portuguesePhonetic": "[ái dôunt rrév éni advái fór iú]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_07z7652",
+    "word": "She has some money.",
+    "translation": "Ela tem um pouco de dinheiro.",
+    "syllables": [
+      "She",
+      "has",
+      "some",
+      "money"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː hæz sʌm ˈmʌni/",
+    "portuguesePhonetic": "[chí réz sâm mâni]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_ylo1uv5",
+    "word": "He doesn't have any money.",
+    "translation": "Ele não tem dinheiro nenhum.",
+    "syllables": [
+      "He",
+      "doesn't",
+      "have",
+      "any",
+      "money"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hiː ˈdʌznt hæv ˈɛni ˈmʌni/",
+    "portuguesePhonetic": "[rrí dâznt rrév éni mâni]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_wb1inz2",
+    "word": "Do you have any bananas?",
+    "translation": "Vocês têm bananas?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "bananas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni bəˈnænəz/",
+    "portuguesePhonetic": "[dú iú rrév éni banénaz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_vspynrp",
+    "word": "I need some rice and some beans.",
+    "translation": "Eu preciso de arroz e feijão.",
+    "syllables": [
+      "I",
+      "need",
+      "some",
+      "rice",
+      "and",
+      "some",
+      "beans"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ niːd sʌm raɪs ænd sʌm biːnz/",
+    "portuguesePhonetic": "[ái níd sâm ráis énd sâm bínz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_w9fgve0",
+    "word": "There isn't any cheese left.",
+    "translation": "Não tem queijo sobrando.",
+    "syllables": [
+      "There",
+      "isn't",
+      "any",
+      "cheese",
+      "left"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðɛr ˈɪznt ˈɛni tʃiːz lɛft/",
+    "portuguesePhonetic": "[dhér íznt éni tchíz léft]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_af06eyy",
+    "word": "I have an egg in the fridge.",
+    "translation": "Eu tenho um ovo na geladeira.",
+    "syllables": [
+      "I",
+      "have",
+      "an",
+      "egg",
+      "in",
+      "the",
+      "fridge"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv ən ɛɡ ɪn ðə frɪdʒ/",
+    "portuguesePhonetic": "[ái rrév an ég in dha frídj]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_wwdui4w",
+    "word": "Do we have any butter?",
+    "translation": "A gente tem manteiga?",
+    "syllables": [
+      "Do",
+      "we",
+      "have",
+      "any",
+      "butter"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː wiː hæv ˈɛni ˈbʌtər/",
+    "portuguesePhonetic": "[dú uí rrév éni bâter]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_uuje004",
+    "word": "I need some salt for the soup.",
+    "translation": "Eu preciso de um pouco de sal para a sopa.",
+    "syllables": [
+      "I",
+      "need",
+      "some",
+      "salt",
+      "for",
+      "the",
+      "soup"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ niːd sʌm sɔːlt fɔːr ðə suːp/",
+    "portuguesePhonetic": "[ái níd sâm sólt fór dha súp]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_1d6p554",
+    "word": "Would you like some bread while you wait?",
+    "translation": "Você quer um pouco de pão enquanto espera?",
+    "syllables": [
+      "Would",
+      "you",
+      "like",
+      "some",
+      "bread",
+      "while",
+      "you",
+      "wait"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː laɪk sʌm brɛd waɪl juː weɪt/",
+    "portuguesePhonetic": "[uúd iú láik sâm bréd uáil iú uêit]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_rwjc6ct",
+    "word": "Can I have some more napkins?",
+    "translation": "Posso pedir mais guardanapos?",
+    "syllables": [
+      "Can",
+      "I",
+      "have",
+      "some",
+      "more",
+      "napkins"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kæn aɪ hæv sʌm mɔːr ˈnæpkɪnz/",
+    "portuguesePhonetic": "[kên ái rrév sâm mór népkinz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_99kdako",
+    "word": "Do you have any vegetarian options?",
+    "translation": "Vocês têm opções vegetarianas?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "vegetarian",
+      "options"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˌvɛdʒəˈtɛriən ˈɑːpʃn̩z/",
+    "portuguesePhonetic": "[dú iú rrév éni védjetérian ápchanz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_k1898yz",
+    "word": "Do you have this shirt in a smaller size?",
+    "translation": "Vocês têm essa camisa num tamanho menor?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "this",
+      "shirt",
+      "in",
+      "a",
+      "smaller",
+      "size"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ðɪs ʃɜːrt ɪn ə ˈsmɔːlər saɪz/",
+    "portuguesePhonetic": "[dú iú rrév dhís chârt in a smóler sáiz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_n2suafe",
+    "word": "I don't have any black shoes.",
+    "translation": "Eu não tenho nenhum sapato preto.",
+    "syllables": [
+      "I",
+      "don't",
+      "have",
+      "any",
+      "black",
+      "shoes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt hæv ˈɛni blæk ʃuːz/",
+    "portuguesePhonetic": "[ái dôunt rrév éni blék chúz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_8dmqx1m",
+    "word": "Do you have any allergies?",
+    "translation": "Você tem alguma alergia?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "allergies"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˈælərdʒiz/",
+    "portuguesePhonetic": "[dú iú rrév éni élerrriz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_2igur1e",
+    "word": "I have a headache.",
+    "translation": "Eu estou com dor de cabeça.",
+    "syllables": [
+      "I",
+      "have",
+      "a",
+      "headache"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv ə ˈhɛdeɪk/",
+    "portuguesePhonetic": "[ái rrév a rédeik]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_me2o7bj",
+    "word": "The doctor gave me some medicine.",
+    "translation": "O médico me deu um remédio.",
+    "syllables": [
+      "The",
+      "doctor",
+      "gave",
+      "me",
+      "some",
+      "medicine"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈdɑːktər ɡeɪv miː sʌm ˈmɛdɪsɪn/",
+    "portuguesePhonetic": "[dha dáktor guêiv mí sâm médisin]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_axbka4o",
+    "word": "I have some emails to answer.",
+    "translation": "Eu tenho alguns e-mails para responder.",
+    "syllables": [
+      "I",
+      "have",
+      "some",
+      "emails",
+      "to",
+      "answer"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv sʌm ˈiːmeɪlz tə ˈænsər/",
+    "portuguesePhonetic": "[ái rrév sâm ímeilz tu énser]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_czu7rka",
+    "word": "Do you have any updates?",
+    "translation": "Você tem alguma atualização?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "updates"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˈʌpdeɪts/",
+    "portuguesePhonetic": "[dú iú rrév éni âpdeits]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_brszc8c",
+    "word": "We have some time before the flight.",
+    "translation": "A gente tem um pouco de tempo antes do voo.",
+    "syllables": [
+      "We",
+      "have",
+      "some",
+      "time",
+      "before",
+      "the",
+      "flight"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː hæv sʌm taɪm bɪˈfɔːr ðə flaɪt/",
+    "portuguesePhonetic": "[uí rrév sâm táim bifór dha fláit]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_qle8zq1",
+    "word": "Do you have any luggage to check?",
+    "translation": "Você tem alguma bagagem para despachar?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "luggage",
+      "to",
+      "check"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˈlʌɡɪdʒ tə tʃɛk/",
+    "portuguesePhonetic": "[dú iú rrév éni lâguidj tu tchék]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_uitgtfr",
+    "word": "I need some water after the workout.",
+    "translation": "Eu preciso de água depois do treino.",
+    "syllables": [
+      "I",
+      "need",
+      "some",
+      "water",
+      "after",
+      "the",
+      "workout"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ niːd sʌm ˈwɔːtər ˈæftər ðə ˈwɜːrkaʊt/",
+    "portuguesePhonetic": "[ái níd sâm uóter éfter dha uârkaut]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_o51svl5",
+    "word": "Is there any good news?",
+    "translation": "Tem alguma notícia boa?",
+    "syllables": [
+      "Is",
+      "there",
+      "any",
+      "good",
+      "news"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ˈɛni ɡʊd nuːz/",
+    "portuguesePhonetic": "[iz dhér éni gúd niúz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_plvhhf9",
+    "word": "Do you have any homework?",
+    "translation": "Você tem dever de casa?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "homework"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˈhoʊmwɜːrk/",
+    "portuguesePhonetic": "[dú iú rrév éni rrôumuârk]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_rls3enx",
+    "word": "Do you have any identification?",
+    "translation": "Você tem algum documento de identidade?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "identification"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni aɪˌdɛntɪfɪˈkeɪʃn̩/",
+    "portuguesePhonetic": "[dú iú rrév éni aidentifikêichan]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_rdu8kgq",
+    "word": "Would you like some more wine?",
+    "translation": "Você quer mais um pouco de vinho?",
+    "syllables": [
+      "Would",
+      "you",
+      "like",
+      "some",
+      "more",
+      "wine"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː laɪk sʌm mɔːr waɪn/",
+    "portuguesePhonetic": "[uúd iú láik sâm mór uáin]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_t32shz4",
+    "word": "Is there any chance of rain?",
+    "translation": "Tem alguma chance de chuva?",
+    "syllables": [
+      "Is",
+      "there",
+      "any",
+      "chance",
+      "of",
+      "rain"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ˈɛni tʃæns əv reɪn/",
+    "portuguesePhonetic": "[iz dhér éni tchéns ov rêin]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_uv0lrtm",
+    "word": "I don't have any plans for tonight.",
+    "translation": "Eu não tenho nenhum plano para hoje à noite.",
+    "syllables": [
+      "I",
+      "don't",
+      "have",
+      "any",
+      "plans",
+      "for",
+      "tonight"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt hæv ˈɛni plænz fɔːr təˈnaɪt/",
+    "portuguesePhonetic": "[ái dôunt rrév éni plénz fór tunáit]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_ao1gmxe",
+    "word": "I have a dog.",
+    "translation": "Eu tenho um cachorro.",
+    "syllables": [
+      "I",
+      "have",
+      "a",
+      "dog"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv ə dɔːɡ/",
+    "portuguesePhonetic": "[ái rrév a dóg]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_79vjiox",
+    "word": "We have some fruit.",
+    "translation": "A gente tem umas frutas.",
+    "syllables": [
+      "We",
+      "have",
+      "some",
+      "fruit"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː hæv sʌm fruːt/",
+    "portuguesePhonetic": "[uí rrév sâm frút]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_h7hxxuf",
+    "word": "Do you have any pets?",
+    "translation": "Você tem algum animal de estimação?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "pets"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni pɛts/",
+    "portuguesePhonetic": "[dú iú rrév éni péts]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_flj91i6",
+    "word": "I don't have any pets.",
+    "translation": "Eu não tenho nenhum animal de estimação.",
+    "syllables": [
+      "I",
+      "don't",
+      "have",
+      "any",
+      "pets"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt hæv ˈɛni pɛts/",
+    "portuguesePhonetic": "[ái dôunt rrév éni péts]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_b3lze53",
+    "word": "Would you like some cake?",
+    "translation": "Você quer um pouco de bolo?",
+    "syllables": [
+      "Would",
+      "you",
+      "like",
+      "some",
+      "cake"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː laɪk sʌm keɪk/",
+    "portuguesePhonetic": "[uúd iú láik sâm kêik]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_4gwvv0o",
+    "word": "Is there any left?",
+    "translation": "Tem algum sobrando?",
+    "syllables": [
+      "Is",
+      "there",
+      "any",
+      "left"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ˈɛni lɛft/",
+    "portuguesePhonetic": "[iz dhér éni léft]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_g5mglqz",
+    "word": "We don't have any eggs.",
+    "translation": "A gente não tem ovos nenhum.",
+    "syllables": [
+      "We",
+      "don't",
+      "have",
+      "any",
+      "eggs"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː doʊnt hæv ˈɛni ɛɡz/",
+    "portuguesePhonetic": "[uí dôunt rrév éni égz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_abtrc60",
+    "word": "I have an idea.",
+    "translation": "Eu tenho uma ideia.",
+    "syllables": [
+      "I",
+      "have",
+      "an",
+      "idea"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv ən aɪˈdiːə/",
+    "portuguesePhonetic": "[ái rrév an aidía]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_ytr001y",
+    "word": "Don't you have any siblings?",
+    "translation": "Você não tem irmãos?",
+    "syllables": [
+      "Don't",
+      "you",
+      "have",
+      "any",
+      "siblings"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/doʊnt juː hæv ˈɛni ˈsɪblɪŋz/",
+    "portuguesePhonetic": "[dôunt iú rrév éni síblinz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_9c31gm9",
+    "word": "Isn't there any hope?",
+    "translation": "Não tem esperança nenhuma?",
+    "syllables": [
+      "Isn't",
+      "there",
+      "any",
+      "hope"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɪznt ðɛr ˈɛni hoʊp/",
+    "portuguesePhonetic": "[íznt dhér éni rrôup]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_9tflesi",
+    "word": "Why don't you have any money?",
+    "translation": "Por que você não tem dinheiro nenhum?",
+    "syllables": [
+      "Why",
+      "don't",
+      "you",
+      "have",
+      "any",
+      "money"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/waɪ doʊnt juː hæv ˈɛni ˈmʌni/",
+    "portuguesePhonetic": "[uái dôunt iú rrév éni mâni]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_58mac4z",
+    "word": "What questions do you have?",
+    "translation": "Que perguntas você tem?",
+    "syllables": [
+      "What",
+      "questions",
+      "do",
+      "you",
+      "have"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt ˈkwɛstʃənz duː juː hæv/",
+    "portuguesePhonetic": "[uât kuéstchanz dú iú rrév]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_fybmbfy",
+    "word": "I have some time now, but I won't later.",
+    "translation": "Eu tenho um pouco de tempo agora, mas não vou ter depois.",
+    "syllables": [
+      "I",
+      "have",
+      "some",
+      "time",
+      "now",
+      "but",
+      "I",
+      "won't",
+      "later"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv sʌm taɪm naʊ bʌt aɪ woʊnt ˈleɪtər/",
+    "portuguesePhonetic": "[ái rrév sâm táim náu bât ái uôunt lêiter]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_rxq17id",
+    "word": "We didn't have any problems, because we planned everything carefully.",
+    "translation": "A gente não teve problema nenhum, porque planejamos tudo com cuidado.",
+    "syllables": [
+      "We",
+      "didn't",
+      "have",
+      "any",
+      "problems",
+      "because",
+      "we",
+      "planned",
+      "everything",
+      "carefully"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ˈdɪdnt hæv ˈɛni ˈprɑːbləmz bɪˈkɔːz wiː plænd ˈɛvriθɪŋ ˈkɛrfəli/",
+    "portuguesePhonetic": "[uí dídent rrév éni práblamz bikóz uí plénd évrithin kérfuli]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_viabunq",
+    "word": "She had some good news, but she didn't want to share it yet.",
+    "translation": "Ela tinha uma boa notícia, mas não queria contar ainda.",
+    "syllables": [
+      "She",
+      "had",
+      "some",
+      "good",
+      "news",
+      "but",
+      "she",
+      "didn't",
+      "want",
+      "to",
+      "share",
+      "it",
+      "yet"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː hæd sʌm ɡʊd nuːz bʌt ʃiː ˈdɪdnt wɑːnt tə ʃɛr ɪt jɛt/",
+    "portuguesePhonetic": "[chí réd sâm gúd niúz bât chí dídent uánt tu chér ít iét]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_zrc1bs8",
+    "word": "Do you have any suggestions, or should we just decide now?",
+    "translation": "Você tem alguma sugestão, ou a gente deveria decidir agora?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "suggestions",
+      "or",
+      "should",
+      "we",
+      "just",
+      "decide",
+      "now"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni səɡˈdʒɛstʃənz ɔːr ʃʊd wiː dʒʌst dɪˈsaɪd naʊ/",
+    "portuguesePhonetic": "[dú iú rrév éni sagdjéstchanz ór chúd uí djâst disáid náu]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_fohzu1c",
+    "word": "We didn't have any food at home, so we ordered pizza.",
+    "translation": "A gente não tinha comida nenhuma em casa, então pedimos pizza.",
+    "syllables": [
+      "We",
+      "didn't",
+      "have",
+      "any",
+      "food",
+      "at",
+      "home",
+      "so",
+      "we",
+      "ordered",
+      "pizza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː ˈdɪdnt hæv ˈɛni fuːd æt hoʊm soʊ wiː ˈɔːrdərd ˈpiːtsə/",
+    "portuguesePhonetic": "[uí dídent rrév éni fúd ét rrôum sôu uí órderd pítsa]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_zybnmwd",
+    "word": "We don't have any regrets, even though we didn't have a lot of money when we started.",
+    "translation": "A gente não tem nenhum arrependimento, mesmo não tendo muito dinheiro quando começamos.",
+    "syllables": [
+      "We",
+      "don't",
+      "have",
+      "any",
+      "regrets",
+      "even",
+      "though",
+      "we",
+      "didn't",
+      "have",
+      "a",
+      "lot",
+      "of",
+      "money",
+      "when",
+      "we",
+      "started"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː doʊnt hæv ˈɛni rɪˈɡrɛts ˈiːvn̩ ðoʊ wiː ˈdɪdnt hæv ə lɑːt əv ˈmʌni wɛn wiː ˈstɑːrtɪd/",
+    "portuguesePhonetic": "[uí dôunt rrév éni rigréts ívan dhôu uí dídent rrév a lát ov mâni uén uí stárted]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_cv9aill",
+    "word": "I have some concerns about the plan, but I don't have any better ideas right now.",
+    "translation": "Eu tenho algumas preocupações sobre o plano, mas não tenho ideias melhores agora.",
+    "syllables": [
+      "I",
+      "have",
+      "some",
+      "concerns",
+      "about",
+      "the",
+      "plan",
+      "but",
+      "I",
+      "don't",
+      "have",
+      "any",
+      "better",
+      "ideas",
+      "right",
+      "now"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ hæv sʌm kənˈsɜːrnz əˈbaʊt ðə plæn bʌt aɪ doʊnt hæv ˈɛni ˈbɛtər aɪˈdiːəz raɪt naʊ/",
+    "portuguesePhonetic": "[ái rrév sâm kansârnz abáut dha plén bât ái dôunt rrév éni béter aidíaz ráit náu]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_j3yg181",
+    "word": "She didn't have any experience, but she had some talent and a lot of determination.",
+    "translation": "Ela não tinha experiência nenhuma, mas tinha um pouco de talento e muita determinação.",
+    "syllables": [
+      "She",
+      "didn't",
+      "have",
+      "any",
+      "experience",
+      "but",
+      "she",
+      "had",
+      "some",
+      "talent",
+      "and",
+      "a",
+      "lot",
+      "of",
+      "determination"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʃiː ˈdɪdnt hæv ˈɛni ɪkˈspɪriəns bʌt ʃiː hæd sʌm ˈtælənt ænd ə lɑːt əv dɪˌtɜːrmɪˈneɪʃn̩/",
+    "portuguesePhonetic": "[chí dídent rrév éni ikspíriens bât chí réd sâm télant énd a lát ov ditârminêichan]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_j794ah2",
+    "word": "Do you have any evidence, or is this just a theory you have?",
+    "translation": "Você tem alguma prova, ou isso é só uma teoria que você tem?",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "evidence",
+      "or",
+      "is",
+      "this",
+      "just",
+      "a",
+      "theory",
+      "you",
+      "have"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˈɛvɪdəns ɔːr ɪz ðɪs dʒʌst ə ˈθɪəri juː hæv/",
+    "portuguesePhonetic": "[dú iú rrév éni évidans ór iz dhís djâst a thíari iú rrév]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_d6vce9v",
+    "word": "We had some doubts at first, but now we don't have any hesitation about moving forward.",
+    "translation": "A gente tinha algumas dúvidas no início, mas agora não temos hesitação nenhuma sobre seguir em frente.",
+    "syllables": [
+      "We",
+      "had",
+      "some",
+      "doubts",
+      "at",
+      "first",
+      "but",
+      "now",
+      "we",
+      "don't",
+      "have",
+      "any",
+      "hesitation",
+      "about",
+      "moving",
+      "forward"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː hæd sʌm daʊts æt fɜːrst bʌt naʊ wiː doʊnt hæv ˈɛni ˌhɛzɪˈteɪʃn̩ əˈbaʊt ˈmuːvɪŋ ˈfɔːrwərd/",
+    "portuguesePhonetic": "[uí réd sâm dáuts ét fârst bât náu uí dôunt rrév éni rrezitêichan abáut múvin fórwerd]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_msoahvx",
+    "word": "I don't have any patience left, because we've had some very long days at work.",
+    "translation": "Eu não tenho nenhuma paciência sobrando, porque tivemos uns dias muito longos no trabalho.",
+    "syllables": [
+      "I",
+      "don't",
+      "have",
+      "any",
+      "patience",
+      "left",
+      "because",
+      "we've",
+      "had",
+      "some",
+      "very",
+      "long",
+      "days",
+      "at",
+      "work"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ doʊnt hæv ˈɛni ˈpeɪʃəns lɛft bɪˈkɔːz wiːv hæd sʌm ˈvɛri lɔːŋ deɪz æt wɜːrk/",
+    "portuguesePhonetic": "[ái dôunt rrév éni pêichans léft bikóz uívi réd sâm véri lóN dêiz ét uârk]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_7m2kkq7",
+    "word": "They have some savings, but they don't have any idea how long it will last.",
+    "translation": "Eles têm algumas economias, mas não têm ideia de quanto tempo vai durar.",
+    "syllables": [
+      "They",
+      "have",
+      "some",
+      "savings",
+      "but",
+      "they",
+      "don't",
+      "have",
+      "any",
+      "idea",
+      "how",
+      "long",
+      "it",
+      "will",
+      "last"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ hæv sʌm ˈseɪvɪŋz bʌt ðeɪ doʊnt hæv ˈɛni aɪˈdiːə haʊ lɔːŋ ɪt wɪl læst/",
+    "portuguesePhonetic": "[dhêi rrév sâm sêivinz bât dhêi dôunt rrév éni aidía rráu lóN ít uíou lést]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_xesmnkx",
+    "word": "We don't have any complaints about the service, and we had a really good time overall.",
+    "translation": "A gente não tem nenhuma reclamação sobre o atendimento, e nos divertimos muito no geral.",
+    "syllables": [
+      "We",
+      "don't",
+      "have",
+      "any",
+      "complaints",
+      "about",
+      "the",
+      "service",
+      "and",
+      "we",
+      "had",
+      "a",
+      "really",
+      "good",
+      "time",
+      "overall"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː doʊnt hæv ˈɛni kəmˈpleɪnts əˈbaʊt ðə ˈsɜːrvɪs ænd wiː hæd ə ˈrɪli ɡʊd taɪm ˈoʊvərɔːl/",
+    "portuguesePhonetic": "[uí dôunt rrév éni kompleínts abáut dha sârvis énd uí réd a ríli gúd táim ôuveról]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_7ek60ww",
+    "word": "Do you have any brothers? / Yes, one.",
+    "translation": "Você tem irmãos? / Sim, um.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "brothers",
+      "/",
+      "Yes",
+      "one"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˈbrʌðərz · jɛs wʌn/",
+    "portuguesePhonetic": "[dú iú rrév éni brâdherz · iés uân]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_b5pii8h",
+    "word": "Would you like some coffee? / Yes, please.",
+    "translation": "Você quer um café? / Sim, por favor.",
+    "syllables": [
+      "Would",
+      "you",
+      "like",
+      "some",
+      "coffee",
+      "/",
+      "Yes",
+      "please"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː laɪk sʌm ˈkɔːfi · jɛs pliːz/",
+    "portuguesePhonetic": "[uúd iú láik sâm kófi · iés plíz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_skjssrd",
+    "word": "Do we have any milk? / Yes, in the fridge.",
+    "translation": "A gente tem leite? / Sim, na geladeira.",
+    "syllables": [
+      "Do",
+      "we",
+      "have",
+      "any",
+      "milk",
+      "/",
+      "Yes",
+      "in",
+      "the",
+      "fridge"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː wiː hæv ˈɛni mɪlk · jɛs ɪn ðə frɪdʒ/",
+    "portuguesePhonetic": "[dú uí rrév éni míouk · iés in dha frídj]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_u3xrabv",
+    "word": "Can I have some water? / Sure, here you go.",
+    "translation": "Posso pegar um pouco de água? / Claro, aqui está.",
+    "syllables": [
+      "Can",
+      "I",
+      "have",
+      "some",
+      "water",
+      "/",
+      "Sure",
+      "here",
+      "you",
+      "go"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kæn aɪ hæv sʌm ˈwɔːtər · ʃʊr hɪr juː ɡoʊ/",
+    "portuguesePhonetic": "[kên ái rrév sâm uóter · chúr rrír iú gôu]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_sqs84x8",
+    "word": "Do you have any questions? / Just one.",
+    "translation": "Você tem alguma pergunta? / Só uma.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "questions",
+      "/",
+      "Just",
+      "one"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˈkwɛstʃənz · dʒʌst wʌn/",
+    "portuguesePhonetic": "[dú iú rrév éni kuéstchanz · djâst uân]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_psj7ed2",
+    "word": "Is there any cheese left? / No, none.",
+    "translation": "Tem queijo sobrando? / Não, nenhum.",
+    "syllables": [
+      "Is",
+      "there",
+      "any",
+      "cheese",
+      "left",
+      "/",
+      "No",
+      "none"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ˈɛni tʃiːz lɛft · noʊ nʌn/",
+    "portuguesePhonetic": "[iz dhér éni tchíz léft · nôu nân]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_kbiag79",
+    "word": "Would you like some help? / Yes, please.",
+    "translation": "Você quer ajuda? / Sim, por favor.",
+    "syllables": [
+      "Would",
+      "you",
+      "like",
+      "some",
+      "help",
+      "/",
+      "Yes",
+      "please"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː laɪk sʌm hɛlp · jɛs pliːz/",
+    "portuguesePhonetic": "[uúd iú láik sâm rrélp · iés plíz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_15yu6kf",
+    "word": "Do you have any pets? / A cat.",
+    "translation": "Você tem algum animal de estimação? / Um gato.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "pets",
+      "/",
+      "A",
+      "cat"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni pɛts · ə kæt/",
+    "portuguesePhonetic": "[dú iú rrév éni péts · a két]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_5xkcb9z",
+    "word": "Is there any chance of snow? / Maybe.",
+    "translation": "Tem alguma chance de neve? / Talvez.",
+    "syllables": [
+      "Is",
+      "there",
+      "any",
+      "chance",
+      "of",
+      "snow",
+      "/",
+      "Maybe"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ˈɛni tʃæns əv snoʊ · ˈmeɪbiː/",
+    "portuguesePhonetic": "[iz dhér éni tchéns ov snôu · mêibi]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_63cj8g3",
+    "word": "Do you have any advice for me? / Just be patient.",
+    "translation": "Você tem algum conselho para mim? / Só seja paciente.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "advice",
+      "for",
+      "me",
+      "/",
+      "Just",
+      "be",
+      "patient"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ədˈvaɪs fɔːr miː · dʒʌst biː ˈpeɪʃənt/",
+    "portuguesePhonetic": "[dú iú rrév éni advái fór mí · djâst bí pêichant]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_eawb4a7",
+    "word": "Would you like some dessert? / I'd love some.",
+    "translation": "Você quer sobremesa? / Adoraria.",
+    "syllables": [
+      "Would",
+      "you",
+      "like",
+      "some",
+      "dessert",
+      "/",
+      "I'd",
+      "love",
+      "some"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː laɪk sʌm dɪˈzɜːrt · aɪd lʌv sʌm/",
+    "portuguesePhonetic": "[uúd iú láik sâm dizârt · áid lâv sâm]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_o92lyzk",
+    "word": "Do you have any allergies? / Just peanuts.",
+    "translation": "Você tem alguma alergia? / Só amendoim.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "allergies",
+      "/",
+      "Just",
+      "peanuts"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˈælərdʒiz · dʒʌst ˈpiːnʌts/",
+    "portuguesePhonetic": "[dú iú rrév éni élerrriz · djâst pínats]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_h30yqnb",
+    "word": "Is there any way to fix this? / Let me think.",
+    "translation": "Tem alguma forma de consertar isso? / Deixa eu pensar.",
+    "syllables": [
+      "Is",
+      "there",
+      "any",
+      "way",
+      "to",
+      "fix",
+      "this",
+      "/",
+      "Let",
+      "me",
+      "think"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ˈɛni weɪ tə fɪks ðɪs · lɛt miː θɪŋk/",
+    "portuguesePhonetic": "[iz dhér éni uêi tu fíks dhís · lét mí thínk]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_ocsnxjq",
+    "word": "Do you have any cash on you? / A little.",
+    "translation": "Você tem dinheiro em espécie? / Um pouco.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "cash",
+      "on",
+      "you",
+      "/",
+      "A",
+      "little"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni kæʃ ɑːn juː · ə ˈlɪtl̩/",
+    "portuguesePhonetic": "[dú iú rrév éni kéch ón iú · a lítou]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_d3vs9sm",
+    "word": "Would you like some sugar in your tea? / No, thanks.",
+    "translation": "Você quer açúcar no seu chá? / Não, obrigado.",
+    "syllables": [
+      "Would",
+      "you",
+      "like",
+      "some",
+      "sugar",
+      "in",
+      "your",
+      "tea",
+      "/",
+      "No",
+      "thanks"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː laɪk sʌm ˈʃʊɡər ɪn jɔːr tiː · noʊ θæŋks/",
+    "portuguesePhonetic": "[uúd iú láik sâm chúgar in iór tí · nôu thénks]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_zn9qsxm",
+    "word": "Do you have any spare time this week? / Not really.",
+    "translation": "Você tem tempo livre esta semana? / Nem tanto.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "spare",
+      "time",
+      "this",
+      "week",
+      "/",
+      "Not",
+      "really"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni spɛr taɪm ðɪs wiːk · nɑːt ˈrɪli/",
+    "portuguesePhonetic": "[dú iú rrév éni spér táim dhís uík · nót ríli]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_6yt64oz",
+    "word": "Is there any parking nearby? / Yes, around the corner.",
+    "translation": "Tem estacionamento por perto? / Sim, na esquina.",
+    "syllables": [
+      "Is",
+      "there",
+      "any",
+      "parking",
+      "nearby",
+      "/",
+      "Yes",
+      "around",
+      "the",
+      "corner"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ˈɛni ˈpɑːrkɪŋ ˈnɪrbaɪ · jɛs əˈraʊnd ðə ˈkɔːrnər/",
+    "portuguesePhonetic": "[iz dhér éni párkin nírbai · iés aráund dha kórner]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_gx2qn7z",
+    "word": "Do you have any recommendations? / Try the fish.",
+    "translation": "Você tem alguma recomendação? / Experimente o peixe.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "recommendations",
+      "/",
+      "Try",
+      "the",
+      "fish"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˌrɛkəmɛnˈdeɪʃn̩z · traɪ ðə fɪʃ/",
+    "portuguesePhonetic": "[dú iú rrév éni rekamendêichanz · trái dha fích]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_w8llm7c",
+    "word": "Would you like some more time? / Yes, please.",
+    "translation": "Você quer mais um pouco de tempo? / Sim, por favor.",
+    "syllables": [
+      "Would",
+      "you",
+      "like",
+      "some",
+      "more",
+      "time",
+      "/",
+      "Yes",
+      "please"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː laɪk sʌm mɔːr taɪm · jɛs pliːz/",
+    "portuguesePhonetic": "[uúd iú láik sâm mór táim · iés plíz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_93sgwx0",
+    "word": "Do you have any tissues? / Yes, here.",
+    "translation": "Você tem lenços de papel? / Sim, aqui.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "tissues",
+      "/",
+      "Yes",
+      "here"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ˈtɪʃuːz · jɛs hɪr/",
+    "portuguesePhonetic": "[dú iú rrév éni tíchuz · iés rrír]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_g5b6aap",
+    "word": "Is there any good news? / Actually, yes.",
+    "translation": "Tem alguma notícia boa? / Na verdade, sim.",
+    "syllables": [
+      "Is",
+      "there",
+      "any",
+      "good",
+      "news",
+      "/",
+      "Actually",
+      "yes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ˈɛni ɡʊd nuːz · ˈæktʃuəli jɛs/",
+    "portuguesePhonetic": "[iz dhér éni gúd niúz · éktchuali iés]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_aup3lc1",
+    "word": "Do you have any experience with this? / A little.",
+    "translation": "Você tem alguma experiência com isso? / Um pouco.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "experience",
+      "with",
+      "this",
+      "/",
+      "A",
+      "little"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni ɪkˈspɪriəns wɪð ðɪs · ə ˈlɪtl̩/",
+    "portuguesePhonetic": "[dú iú rrév éni ikspíriens uídh dhís · a lítou]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_44pgsor",
+    "word": "Would you like some ice in your drink? / Yes, please.",
+    "translation": "Você quer gelo na sua bebida? / Sim, por favor.",
+    "syllables": [
+      "Would",
+      "you",
+      "like",
+      "some",
+      "ice",
+      "in",
+      "your",
+      "drink",
+      "/",
+      "Yes",
+      "please"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː laɪk sʌm aɪs ɪn jɔːr drɪŋk · jɛs pliːz/",
+    "portuguesePhonetic": "[uúd iú láik sâm áis in iór drínk · iés plíz]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_1pcoyb4",
+    "word": "Do you have any plans this weekend? / Not yet.",
+    "translation": "Você tem algum plano para esse fim de semana? / Ainda não.",
+    "syllables": [
+      "Do",
+      "you",
+      "have",
+      "any",
+      "plans",
+      "this",
+      "weekend",
+      "/",
+      "Not",
+      "yet"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː hæv ˈɛni plænz ðɪs ˈwiːkɛnd · nɑːt jɛt/",
+    "portuguesePhonetic": "[dú iú rrév éni plénz dhís uíkend · nót iét]"
+  },
+  {
+    "id": "lesson_23_grammar_a1_en_id_48cmph0",
+    "word": "Is there anything else? / No, that's all.",
+    "translation": "Tem mais alguma coisa? / Não, é só isso.",
+    "syllables": [
+      "Is",
+      "there",
+      "anything",
+      "else",
+      "/",
+      "No",
+      "that's",
+      "all"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪz ðɛr ˈɛniθɪŋ ɛls · noʊ ðæts ɔːl/",
+    "portuguesePhonetic": "[iz dhér énithin éls · nôu dhéts ól]"
+  }
+]

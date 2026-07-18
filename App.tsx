@@ -772,7 +772,6 @@ const App: React.FC = () => {
             isFlipped={isCardFlipped}
             onFlip={() => setIsCardFlipped(!isCardFlipped)}
             targetLanguage={session.language}
-            onStudy={() => handleCardResult(false)}
             onKnow={() => handleCardResult(true)}
             onPrevious={handlePreviousCard}
             isPreviousDisabled={session.currentIndex === 0}
