@@ -965,4 +965,11 @@ export const PREDEFINED_TOPICS = [
     group: "Gramática B2",
     description: "Conectores",
   },
+  {
+    id: "homework_lesson_1",
+    label: "Lesson 1",
+    isStatic: true,
+    group: "Homework",
+    description: "Business English Vocabulary",
+  },
 ];

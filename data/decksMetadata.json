@@ -737,5 +737,10 @@
     "cardCount": 100,
     "en": 0,
     "es": 100
+  },
+  "homework_lesson_1": {
+    "cardCount": 20,
+    "en": 20,
+    "es": 0
   }
 }

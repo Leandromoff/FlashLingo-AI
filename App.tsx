@@ -412,11 +412,13 @@ const App: React.FC = () => {
             ? [
                 { title: "Gramática", groups: ["Gramática A1", "Gramática A2", "Gramática B1", "Gramática B1+", "Gramática B2", "Gramática C1"] },
                 { title: "Vocabulario", groups: ["Vocabulario A1", "Vocabulario A2", "Vocabulario B1", "Vocabulario B1+", "Vocabulario B2", "Vocabulario C1"] },
+                { title: "Homework", groups: ["Homework"] },
               ]
             : [
                 { title: "Grammar", groups: ["Grammar A1", "Grammar A2", "Grammar B1", "Grammar B1+", "Grammar B2", "Grammar C1"] },
                 { title: "Vocabulary", groups: ["Vocabulary A1", "Vocabulary A2", "Vocabulary B1", "Vocabulary B1+", "Vocabulary B2", "Vocabulary C1"] },
                 { title: "W", groups: ["W2", "W4"] },
+                { title: "Homework", groups: ["Homework"] },
               ]
           ).map((superCategory, index) => {
             const superKey = `super_${superCategory.title}`;
