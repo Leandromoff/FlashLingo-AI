@@ -972,4 +972,11 @@ export const PREDEFINED_TOPICS = [
     group: "Homework",
     description: "Business English Vocabulary",
   },
+  {
+    id: "deberes_lesson_1_es",
+    label: "Lección 1",
+    isStatic: true,
+    group: "Deberes",
+    description: "Saudações, Verbo SER e Rotina",
+  },
 ];

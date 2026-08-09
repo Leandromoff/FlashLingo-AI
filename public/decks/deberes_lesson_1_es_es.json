@@ -1,0 +1,549 @@
+[
+  {
+    "id": "deberes_lesson_1_es_id_8ydonbt",
+    "word": "¡Hola, Leandro!",
+    "translation": "Olá, Leandro!",
+    "syllables": [
+      "Hola",
+      "Leandro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈo.la leˈan.dɾo/",
+    "portuguesePhonetic": "[Óla, Leandro!]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_20vnl7q",
+    "word": "¡Buenos días!",
+    "translation": "Bom dia!",
+    "syllables": [
+      "Buenos",
+      "días"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbwe.nos ˈdi.as/",
+    "portuguesePhonetic": "[Buénos días]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_o63t6fq",
+    "word": "¡Buenas tardes!",
+    "translation": "Boa tarde!",
+    "syllables": [
+      "Buenas",
+      "tardes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbwe.nas ˈtaɾ.des/",
+    "portuguesePhonetic": "[Buénas tárdes]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_5dg5o7f",
+    "word": "¡Buenas noches!",
+    "translation": "Boa noite!",
+    "syllables": [
+      "Buenas",
+      "noches"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbwe.nas ˈno.tʃes/",
+    "portuguesePhonetic": "[Buénas nótches]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_e2j06sx",
+    "word": "¿Qué vas a hacer hoy?",
+    "translation": "O que você vai fazer hoje?",
+    "syllables": [
+      "Qué",
+      "vas",
+      "a",
+      "hacer",
+      "hoy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke βas a aˈseɾ oj/",
+    "portuguesePhonetic": "[Ke vás a assér ói?]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_x67ny45",
+    "word": "¿Qué plan tienes para hoy?",
+    "translation": "Qual é o seu plano para hoje?",
+    "syllables": [
+      "Qué",
+      "plan",
+      "tienes",
+      "para",
+      "hoy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke plan ˈtje.nes ˈpa.ɾa oj/",
+    "portuguesePhonetic": "[Ke plán tiénes pára ói?]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_f1kom3j",
+    "word": "Yo soy brasileño.",
+    "translation": "Eu sou brasileiro.",
+    "syllables": [
+      "Yo",
+      "soy",
+      "brasileño"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝo soj bɾa.siˈle.ɲo/",
+    "portuguesePhonetic": "[Iô sói brassiliênio]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_kg7tk90",
+    "word": "¿Tú eres español?",
+    "translation": "Você é espanhol?",
+    "syllables": [
+      "Tú",
+      "eres",
+      "español"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tu ˈe.ɾes es.paˈɲol/",
+    "portuguesePhonetic": "[Tú éres españól?]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_fs57drb",
+    "word": "Él es chino.",
+    "translation": "Ele é chinês.",
+    "syllables": [
+      "Él",
+      "es",
+      "chino"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el es ˈtʃi.no/",
+    "portuguesePhonetic": "[El és tchíno]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_k5jdfbn",
+    "word": "Ella es inteligente.",
+    "translation": "Ela é inteligente.",
+    "syllables": [
+      "Ella",
+      "es",
+      "inteligente"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈe.ʝa es in.te.liˈxen.te/",
+    "portuguesePhonetic": "[Éia és intelihente]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_ho71g3n",
+    "word": "Usted es muy alto.",
+    "translation": "O(a) senhor(a) é muito alto(a).",
+    "syllables": [
+      "Usted",
+      "es",
+      "muy",
+      "alto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/usˈted es mwi ˈal.to/",
+    "portuguesePhonetic": "[Ustéd és múi álto]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_yxfefcc",
+    "word": "Nosotros somos vecinos. [América Latina]",
+    "translation": "Nós somos vizinhos.",
+    "syllables": [
+      "Nosotros",
+      "somos",
+      "vecinos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no.ˈso.tɾos ˈso.mos beˈsi.nos/",
+    "portuguesePhonetic": "[Nossótros sómos vessínos]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_6dq2ixu",
+    "word": "Nosotros somos vecinos. [Espanha - \"zeta\"]",
+    "translation": "Nós somos vizinhos.",
+    "syllables": [
+      "Nosotros",
+      "somos",
+      "vecinos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no.ˈso.tɾos ˈso.mos beˈθi.nos/",
+    "portuguesePhonetic": "[Nossótros sómos ve(TH)ínos]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_dox5no7",
+    "word": "Vosotras sois nuestras amigas.",
+    "translation": "Vocês são nossas amigas.",
+    "syllables": [
+      "Vosotras",
+      "sois",
+      "nuestras",
+      "amigas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bo.ˈso.tɾas sojs ˈnwes.tɾas aˈmi.ɣas/",
+    "portuguesePhonetic": "[Vossótras sóis nuéstras amígas]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_3wsuhcl",
+    "word": "Ellos son nuestros amigos.",
+    "translation": "Eles são nossos amigos.",
+    "syllables": [
+      "Ellos",
+      "son",
+      "nuestros",
+      "amigos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈe.ʝos son ˈnwes.tɾos aˈmi.ɣos/",
+    "portuguesePhonetic": "[Éios són nuéstros amígos]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_ngez2u7",
+    "word": "Ellas son nuestras vecinas.",
+    "translation": "Elas são nossas vizinhas.",
+    "syllables": [
+      "Ellas",
+      "son",
+      "nuestras",
+      "vecinas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈe.ʝas son ˈnwes.tɾas beˈsi.nas/",
+    "portuguesePhonetic": "[Éias són nuéstras vessínas]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_txh7nva",
+    "word": "Ustedes son demasiado inteligentes.",
+    "translation": "Vocês são inteligentes demais.",
+    "syllables": [
+      "Ustedes",
+      "son",
+      "demasiado",
+      "inteligentes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/usˈte.des son de.maˈsja.ðo in.te.liˈxen.tes/",
+    "portuguesePhonetic": "[Ustédes són demassiádo intelihéntes]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_rxkdelf",
+    "word": "Mi casa es grande.",
+    "translation": "Minha casa é grande.",
+    "syllables": [
+      "Mi",
+      "casa",
+      "es",
+      "grande"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi ˈka.sa es ˈɣɾan.de/",
+    "portuguesePhonetic": "[Mi cássa és gránde]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_xtx3n7l",
+    "word": "Tu hermano está acá.",
+    "translation": "Teu irmão está aqui.",
+    "syllables": [
+      "Tu",
+      "hermano",
+      "está",
+      "acá"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tu eɾˈma.no es.ˈta aˈka/",
+    "portuguesePhonetic": "[Tu ermáno está acá]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_ycoxgkr",
+    "word": "Su hermano está acá.",
+    "translation": "Seu irmão está aqui.",
+    "syllables": [
+      "Su",
+      "hermano",
+      "está",
+      "acá"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/su eɾˈma.no es.ˈta aˈka/",
+    "portuguesePhonetic": "[Su ermáno está acá]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_lgf3zn0",
+    "word": "Nuestra ciudad se llama SP.",
+    "translation": "Nossa cidade se chama SP.",
+    "syllables": [
+      "Nuestra",
+      "ciudad",
+      "se",
+      "llama",
+      "SP"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈnwes.tɾa sjuˈðad se ˈʝa.ma ˌe.se ˈpe/",
+    "portuguesePhonetic": "[Nuéstra siudád se iáma éssepê]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_5pse26i",
+    "word": "Vuestra ropa es muy bonita.",
+    "translation": "Vossa roupa é muito bonita.",
+    "syllables": [
+      "Vuestra",
+      "ropa",
+      "es",
+      "muy",
+      "bonita"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbwes.tɾa ˈro.pa es mwi boˈni.ta/",
+    "portuguesePhonetic": "[Vuéstra rrópa és múi bonita]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_2c8s2ez",
+    "word": "Tus documentos están conmigo.",
+    "translation": "Teus documentos estão comigo.",
+    "syllables": [
+      "Tus",
+      "documentos",
+      "están",
+      "conmigo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tus do.ku.ˈmen.tos es.ˈtan kon.ˈmi.ɣo/",
+    "portuguesePhonetic": "[Tus documéntos están conmígo]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_mbngumy",
+    "word": "Sus documentos están conmigo.",
+    "translation": "Seus documentos estão comigo.",
+    "syllables": [
+      "Sus",
+      "documentos",
+      "están",
+      "conmigo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sus do.ku.ˈmen.tos es.ˈtan kon.ˈmi.ɣo/",
+    "portuguesePhonetic": "[Sus documéntos están conmígo]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_677w0g0",
+    "word": "¿Qué suelo hacer los fines de semana?",
+    "translation": "O que costumo fazer nos fins de semana?",
+    "syllables": [
+      "Qué",
+      "suelo",
+      "hacer",
+      "los",
+      "fines",
+      "de",
+      "semana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈswe.lo a.ˈseɾ los ˈfi.nes de se.ˈma.na/",
+    "portuguesePhonetic": "[Ke suélo assér los fines de semána?]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_4ni4yku",
+    "word": "Los fines de semana, me gusta mucho caminar.",
+    "translation": "Nos fins de semana, gosto muito de caminhar.",
+    "syllables": [
+      "Los",
+      "fines",
+      "de",
+      "semana",
+      "me",
+      "gusta",
+      "mucho",
+      "caminar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/los ˈfi.nes de se.ˈma.na me ˈɣus.ta ˈmu.tʃo ka.mi.ˈnaɾ/",
+    "portuguesePhonetic": "[Los fines de semána, me gústa mútcho caminár]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_3mdje28",
+    "word": "El sábado por la mañana, voy al parque.",
+    "translation": "No sábado de manhã, vou ao parque.",
+    "syllables": [
+      "El",
+      "sábado",
+      "por",
+      "la",
+      "mañana",
+      "voy",
+      "al",
+      "parque"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el ˈsa.βa.ðo poɾ la ma.ˈɲa.na boj al ˈpaɾ.ke/",
+    "portuguesePhonetic": "[El sábado por la mañána, vói al párke]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_5z7izp2",
+    "word": "A veces, voy con mis amigos.",
+    "translation": "Às vezes, vou com meus amigos.",
+    "syllables": [
+      "A",
+      "veces",
+      "voy",
+      "con",
+      "mis",
+      "amigos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ˈβe.ses boj kon mis a.ˈmi.ɣos/",
+    "portuguesePhonetic": "[A véces, vói con mis amígos]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_7rudnpw",
+    "word": "Después, como en casa con mi familia.",
+    "translation": "Depois, como em casa com minha família.",
+    "syllables": [
+      "Después",
+      "como",
+      "en",
+      "casa",
+      "con",
+      "mi",
+      "familia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/des.ˈpwes ˈko.mo en ˈka.sa kon mi fa.ˈmi.lja/",
+    "portuguesePhonetic": "[Después, cómo en cássa con mi família]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_m746zot",
+    "word": "Por la tarde, veo una película o leo un libro.",
+    "translation": "À tarde, vejo um filme ou leio um livro.",
+    "syllables": [
+      "Por",
+      "la",
+      "tarde",
+      "veo",
+      "una",
+      "película",
+      "o",
+      "leo",
+      "un",
+      "libro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ la ˈtaɾ.de ˈβe.o ˈu.na pe.ˈli.ku.la o ˈle.o un ˈli.βɾo/",
+    "portuguesePhonetic": "[Por la tárde, véo úna película o léo un líbro]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_z7mc6hh",
+    "word": "¿El domingo? Descanso.",
+    "translation": "E no domingo? Descanso.",
+    "syllables": [
+      "El",
+      "domingo",
+      "Descanso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el do.ˈmiŋ.go des.ˈkan.so/",
+    "portuguesePhonetic": "[El domíngo? Descánso]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_fx874cl",
+    "word": "Me gusta dormir mucho.",
+    "translation": "Gosto muito de dormir.",
+    "syllables": [
+      "Me",
+      "gusta",
+      "dormir",
+      "mucho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈɣus.ta doɾ.ˈmiɾ ˈmu.tʃo/",
+    "portuguesePhonetic": "[Me gústa dormír mútcho]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_g3fmyxl",
+    "word": "A veces, hago deporte, como fútbol o natación.",
+    "translation": "Às vezes, faço esporte, como futebol ou natação.",
+    "syllables": [
+      "A",
+      "veces",
+      "hago",
+      "deporte",
+      "como",
+      "fútbol",
+      "o",
+      "natación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ˈβe.ses ˈa.ɣo de.ˈpoɾ.te ˈko.mo ˈfut.βol o na.ta.ˈsjon/",
+    "portuguesePhonetic": "[A véces, ágo depórte, cómo fútbol o natassión]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_ioh631k",
+    "word": "Me gusta mucho compartir tiempo con mis amigos los fines de semana.",
+    "translation": "Gosto muito de compartilhar tempo com meus amigos nos fins de semana.",
+    "syllables": [
+      "Me",
+      "gusta",
+      "mucho",
+      "compartir",
+      "tiempo",
+      "con",
+      "mis",
+      "amigos",
+      "los",
+      "fines",
+      "de",
+      "semana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈɣus.ta ˈmu.tʃo kom.paɾ.ˈtiɾ ˈtjem.po kon mis a.ˈmi.ɣos los ˈfi.nes de se.ˈma.na/",
+    "portuguesePhonetic": "[Me gústa mútcho compartír tiémpo con mis amígos los fines de semána]"
+  },
+  {
+    "id": "deberes_lesson_1_es_id_jeif4tg",
+    "word": "¿Y a ti?",
+    "translation": "E você?",
+    "syllables": [
+      "Y",
+      "a",
+      "ti"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/i a ti/",
+    "portuguesePhonetic": "[I a ti?]"
+  }
+]
