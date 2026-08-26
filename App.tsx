@@ -418,7 +418,7 @@ const App: React.FC = () => {
                 { title: "Grammar", groups: ["Grammar A1", "Grammar A2", "Grammar B1", "Grammar B1+", "Grammar B2", "Grammar C1"] },
                 { title: "Vocabulary", groups: ["Vocabulary A1", "Vocabulary A2", "Vocabulary B1", "Vocabulary B1+", "Vocabulary B2", "Vocabulary C1"] },
                 { title: "W", groups: ["W2", "W4"] },
-                { title: "Homework", groups: ["Homework"] },
+                { title: "Dictionary", groups: ["Dictionary"] },
               ]
           ).map((superCategory, index) => {
             const superKey = `super_${superCategory.title}`;

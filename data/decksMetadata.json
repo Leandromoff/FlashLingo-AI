@@ -738,14 +738,19 @@
     "en": 0,
     "es": 100
   },
-  "homework_lesson_1": {
-    "cardCount": 20,
-    "en": 20,
+  "dictionary_words_1": {
+    "cardCount": 51,
+    "en": 51,
     "es": 0
   },
   "deberes_lesson_1_es": {
     "cardCount": 35,
     "en": 0,
     "es": 35
+  },
+  "deberes_lesson_2_es": {
+    "cardCount": 20,
+    "en": 0,
+    "es": 20
   }
 }

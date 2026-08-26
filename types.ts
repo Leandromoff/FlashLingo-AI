@@ -966,10 +966,10 @@ export const PREDEFINED_TOPICS = [
     description: "Conectores",
   },
   {
-    id: "homework_lesson_1",
-    label: "Lesson 1",
+    id: "dictionary_words_1",
+    label: "Words 1",
     isStatic: true,
-    group: "Homework",
+    group: "Dictionary",
     description: "Business English Vocabulary",
   },
   {
@@ -979,4 +979,12 @@ export const PREDEFINED_TOPICS = [
     group: "Deberes",
     description: "Saudações, Verbo SER e Rotina",
   },
+  {
+    id: "deberes_lesson_2_es",
+    label: "20 Verbos",
+    isStatic: true,
+    group: "Deberes",
+    description: "Principais verbos em Espanhol",
+  },
+
 ];
