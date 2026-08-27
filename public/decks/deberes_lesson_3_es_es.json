@@ -1,0 +1,673 @@
+[
+  {
+    "id": "deberes_lesson_3_es_id_66dibov",
+    "word": "especialista",
+    "translation": "especialista",
+    "syllables": [
+      "especialista"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/espesjaˈlista/",
+    "portuguesePhonetic": "[espessialista]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_0msiolc",
+    "word": "tecnología de la información",
+    "translation": "tecnologia da informação",
+    "syllables": [
+      "tecnología",
+      "de",
+      "la",
+      "información"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/teknoloˈxi.a ðe la infoɾmaˈsjon/",
+    "portuguesePhonetic": "[tecnolorría de la informassión]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_0dpeo47",
+    "word": "redes",
+    "translation": "redes",
+    "syllables": [
+      "redes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈreðes/",
+    "portuguesePhonetic": "[rrédes]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_5aayefs",
+    "word": "ciberseguridad",
+    "translation": "cibersegurança",
+    "syllables": [
+      "ciberseguridad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sibeɾseɣuɾiˈðað/",
+    "portuguesePhonetic": "[sibersegurridá]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_zqok5dq",
+    "word": "experiencia profesional",
+    "translation": "experiência profissional",
+    "syllables": [
+      "experiencia",
+      "profesional"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ekspeˈɾjensja pɾofesjoˈnal/",
+    "portuguesePhonetic": "[experriênsia professional]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_51d8wkm",
+    "word": "administrar",
+    "translation": "administrar",
+    "syllables": [
+      "administrar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/administˈɾaɾ/",
+    "portuguesePhonetic": "[administrrar]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_senz2tv",
+    "word": "configurar",
+    "translation": "configurar",
+    "syllables": [
+      "configurar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/konfiɣuˈɾaɾ/",
+    "portuguesePhonetic": "[confighurrar]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_bjt4y3k",
+    "word": "proteger",
+    "translation": "proteger",
+    "syllables": [
+      "proteger"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɾoteˈxeɾ/",
+    "portuguesePhonetic": "[protehér]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_f48zqhh",
+    "word": "infraestructura tecnológica",
+    "translation": "infraestrutura tecnológica",
+    "syllables": [
+      "infraestructura",
+      "tecnológica"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/infɾaestɾukˈtuɾa teknoloˈxika/",
+    "portuguesePhonetic": "[infraestrrutura tecnolórhica]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_3a2ataz",
+    "word": "herramientas de seguridad",
+    "translation": "ferramentas de segurança",
+    "syllables": [
+      "herramientas",
+      "de",
+      "seguridad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/erraˈmjentas ðe seɣuɾiˈðað/",
+    "portuguesePhonetic": "[errramiêntas de segurridá]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_zauj52l",
+    "word": "monitoreo",
+    "translation": "monitoramento",
+    "syllables": [
+      "monitoreo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/monitoˈɾeo/",
+    "portuguesePhonetic": "[monitorréo]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_w4hwah9",
+    "word": "servidores",
+    "translation": "servidores",
+    "syllables": [
+      "servidores"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/seɾβiˈðoɾes/",
+    "portuguesePhonetic": "[servidórres]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_y9fkxfr",
+    "word": "servicios en la nube",
+    "translation": "serviços em nuvem",
+    "syllables": [
+      "servicios",
+      "en",
+      "la",
+      "nube"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/seɾˈβisjos en la ˈnuβe/",
+    "portuguesePhonetic": "[servíssios en la núbe]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_c8orm7c",
+    "word": "virtualización",
+    "translation": "virtualização",
+    "syllables": [
+      "virtualización"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/biɾtwalisaˈsjon/",
+    "portuguesePhonetic": "[virrtualisassión]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_cna1ox4",
+    "word": "vulnerabilidades",
+    "translation": "vulnerabilidades",
+    "syllables": [
+      "vulnerabilidades"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bulneɾaβiliˈðaðes/",
+    "portuguesePhonetic": "[vulnerrabilidádes]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_o4y1hp2",
+    "word": "incidentes de seguridad",
+    "translation": "incidentes de segurança",
+    "syllables": [
+      "incidentes",
+      "de",
+      "seguridad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/insiˈðentes ðe seɣuɾiˈðað/",
+    "portuguesePhonetic": "[insidêntes de segurridá]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_452lafd",
+    "word": "liderar",
+    "translation": "liderar",
+    "syllables": [
+      "liderar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/lideˈɾaɾ/",
+    "portuguesePhonetic": "[liderrar]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_u0kqsbo",
+    "word": "proyectos",
+    "translation": "projetos",
+    "syllables": [
+      "proyectos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɾoˈʝektos/",
+    "portuguesePhonetic": "[proiéctos]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_yc08jwl",
+    "word": "modernización",
+    "translation": "modernização",
+    "syllables": [
+      "modernización"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/modeɾnisaˈsjon/",
+    "portuguesePhonetic": "[modernisassión]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_52xslzv",
+    "word": "migración",
+    "translation": "migração",
+    "syllables": [
+      "migración"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/miɣɾaˈsjon/",
+    "portuguesePhonetic": "[migrrassión]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_6gl96kf",
+    "word": "documentación técnica",
+    "translation": "documentação técnica",
+    "syllables": [
+      "documentación",
+      "técnica"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dokumentaˈsjon ˈteknika/",
+    "portuguesePhonetic": "[documentassión téquinica]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_kuh2igk",
+    "word": "capacitar",
+    "translation": "capacitar / treinar",
+    "syllables": [
+      "capacitar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kapasiˈtaɾ/",
+    "portuguesePhonetic": "[capassitar]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_hf9fu6y",
+    "word": "presentar soluciones",
+    "translation": "apresentar soluções",
+    "syllables": [
+      "presentar",
+      "soluciones"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɾesenˈtaɾ soluˈsjones/",
+    "portuguesePhonetic": "[prressentar solussiónes]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_9l7zjz7",
+    "word": "análisis de riesgos",
+    "translation": "análise de riscos",
+    "syllables": [
+      "análisis",
+      "de",
+      "riesgos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈnalisis ðe ˈrjesɣos/",
+    "portuguesePhonetic": "[análisis de rriêsgos]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_11qdzzl",
+    "word": "resolución de problemas",
+    "translation": "resolução de problemas",
+    "syllables": [
+      "resolución",
+      "de",
+      "problemas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/resoluˈsjon ðe pɾoˈβlemas/",
+    "portuguesePhonetic": "[rresolussión de problémas]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_dhdv4g6",
+    "word": "liderazgo técnico",
+    "translation": "liderança técnica",
+    "syllables": [
+      "liderazgo",
+      "técnico"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/lideˈɾasɣo ˈtekniko/",
+    "portuguesePhonetic": "[liderrasgo téquinico]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_k9byfx0",
+    "word": "gestión de proyectos",
+    "translation": "gestão de projetos",
+    "syllables": [
+      "gestión",
+      "de",
+      "proyectos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/xesˈtjon ðe pɾoˈʝektos/",
+    "portuguesePhonetic": "[hestión de proiéctos]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_czs2hcv",
+    "word": "inteligencia artificial",
+    "translation": "inteligência artificial",
+    "syllables": [
+      "inteligencia",
+      "artificial"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/inteliˈxensja artifiˈsjal/",
+    "portuguesePhonetic": "[intelirrênsia artifissiál]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_mfw06h3",
+    "word": "objetivo",
+    "translation": "objetivo",
+    "syllables": [
+      "objetivo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/oβxeˈtiβo/",
+    "portuguesePhonetic": "[obhetívo]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_j67zry1",
+    "word": "eficiencia",
+    "translation": "eficiência",
+    "syllables": [
+      "eficiencia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/efiˈsjensja/",
+    "portuguesePhonetic": "[efissiênsia]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_o64gtyd",
+    "word": "Háblame de tu experiencia profesional.",
+    "translation": "Fale-me sobre sua experiência profissional.",
+    "syllables": [
+      "Háblame",
+      "de",
+      "tu",
+      "experiencia",
+      "profesional"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈaβlame ðe tu ekspeˈɾjensja pɾofesjoˈnal/",
+    "portuguesePhonetic": "[áblame de tu experriênsia professional]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_bfdf06e",
+    "word": "¿Cuáles son tus principales habilidades técnicas?",
+    "translation": "Quais são suas principais habilidades técnicas?",
+    "syllables": [
+      "Cuáles",
+      "son",
+      "tus",
+      "principales",
+      "habilidades",
+      "técnicas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwales son tus pɾinsiˈpales aβiliˈðaðes ˈteknikas/",
+    "portuguesePhonetic": "[kuáles son tus prrinsipáles abilidádes téquinicas]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_q19paaw",
+    "word": "¿Con qué herramientas de ciberseguridad has trabajado?",
+    "translation": "Com quais ferramentas de cibersegurança você trabalhou?",
+    "syllables": [
+      "Con",
+      "qué",
+      "herramientas",
+      "de",
+      "ciberseguridad",
+      "has",
+      "trabajado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kon kon ke erraˈmjentas ðe sibeɾseɣuɾiˈðað as tɾaβaˈxaðo/",
+    "portuguesePhonetic": "[con ke errramiêntas de sibersegurridá as trabaráddo]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_11qt5qh",
+    "word": "¿Cómo respondes a un incidente de seguridad?",
+    "translation": "Como você responde a um incidente de segurança?",
+    "syllables": [
+      "Cómo",
+      "respondes",
+      "a",
+      "un",
+      "incidente",
+      "de",
+      "seguridad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkomo resˈpondes a un insiˈðente ðe seɣuɾiˈðað/",
+    "portuguesePhonetic": "[cómo rrespóndes a un insidênte de segurridá]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_nrkz8x7",
+    "word": "¿Tienes experiencia liderando proyectos?",
+    "translation": "Você tem experiência liderando projetos?",
+    "syllables": [
+      "Tienes",
+      "experiencia",
+      "liderando",
+      "proyectos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjenes ekspeˈɾjensja lideˈɾando pɾoˈʝektos/",
+    "portuguesePhonetic": "[tiênes experriênsia liderrando proiéctos]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_9l09w24",
+    "word": "¿Cuál ha sido tu proyecto profesional más importante?",
+    "translation": "Qual foi seu projeto profissional mais importante?",
+    "syllables": [
+      "Cuál",
+      "ha",
+      "sido",
+      "tu",
+      "proyecto",
+      "profesional",
+      "más",
+      "importante"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kwal a ˈsiðo tu pɾoˈʝekto pɾofesjoˈnal mas impoɾˈtante/",
+    "portuguesePhonetic": "[kual a sído tu proiécto professional mas importánte]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_1khw5vb",
+    "word": "¿Cómo mantienes tus conocimientos actualizados?",
+    "translation": "Como você mantém seus conhecimentos atualizados?",
+    "syllables": [
+      "Cómo",
+      "mantienes",
+      "tus",
+      "conocimientos",
+      "actualizados"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkomo manˈtjenes tus konosiˈmjentos aktwaliˈsaðos/",
+    "portuguesePhonetic": "[cómo mantiênes tus conossimiêntos aktualisáddos]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_3v78c8g",
+    "word": "¿Por qué quieres trabajar en nuestra empresa?",
+    "translation": "Por que você quer trabalhar na nossa empresa?",
+    "syllables": [
+      "Por",
+      "qué",
+      "quieres",
+      "trabajar",
+      "en",
+      "nuestra",
+      "empresa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ke ˈkjeɾes tɾaβaˈxaɾ en ˈnwestɾa emˈpɾesa/",
+    "portuguesePhonetic": "[por ke kiêres trabarár en nuéstra emprrésa]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_rpbfko0",
+    "word": "Leandro trabaja con tecnología de la información desde hace más de dieciocho años.",
+    "translation": "Leandro trabalha com tecnologia da informação há mais de dezoito anos.",
+    "syllables": [
+      "Leandro",
+      "trabaja",
+      "con",
+      "tecnología",
+      "de",
+      "la",
+      "información",
+      "desde",
+      "hace",
+      "más",
+      "de",
+      "dieciocho",
+      "años"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/leˈandɾo tɾaˈβaxa kon teknoloˈxia ðe la infoɾmaˈsjon ˈdesðe ˈase mas ðe djeˈsjoʧo ˈaɲos/",
+    "portuguesePhonetic": "[Leandro trrabáha con tecnolorría de la informassión dêsde áse mas de diessiócho áños]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_qbegitv",
+    "word": "Él configura firewalls y monitorea redes corporativas.",
+    "translation": "Ele configura firewalls e monitora redes corporativas.",
+    "syllables": [
+      "Él",
+      "configura",
+      "firewalls",
+      "y",
+      "monitorea",
+      "redes",
+      "corporativas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el konfiˈɣuɾa ˈfaɪɚwɔls i monitoˈɾea ˈreðes koɾpoɾaˈtiβas/",
+    "portuguesePhonetic": "[El confighúra fáierrols i monitoréa rrédes korporatívas]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_2lh4x5u",
+    "word": "Una de sus responsabilidades es identificar vulnerabilidades.",
+    "translation": "Uma de suas responsabilidades é identificar vulnerabilidades.",
+    "syllables": [
+      "Una",
+      "de",
+      "sus",
+      "responsabilidades",
+      "es",
+      "identificar",
+      "vulnerabilidades"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈuna ðe sus responsaβiliˈðaðes es identifiˈkaɾ bulneɾaβiliˈðaðes/",
+    "portuguesePhonetic": "[Úna de sus rresponsabilidádes es identifikár vulnerrabilidádes]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_07bdfb3",
+    "word": "También tiene experiencia con servidores y computación en la nube.",
+    "translation": "Ele também tem experiência com servidores e computação em nuvem.",
+    "syllables": [
+      "También",
+      "tiene",
+      "experiencia",
+      "con",
+      "servidores",
+      "y",
+      "computación",
+      "en",
+      "la",
+      "nube"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tamˈbjen ˈtjene ekspeˈɾjensja kon seɾβiˈðoɾes i komputaˈsjon en la ˈnuβe/",
+    "portuguesePhonetic": "[Tambiên tiêne experriênsia con servidórres i computassión en la núbe]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_xrb10wm",
+    "word": "Leandro lidera proyectos y capacita a equipos técnicos.",
+    "translation": "Leandro lidera projetos e treina equipes técnicas.",
+    "syllables": [
+      "Leandro",
+      "lidera",
+      "proyectos",
+      "y",
+      "capacita",
+      "a",
+      "equipos",
+      "técnicos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/leˈandɾo liˈðeɾa pɾoˈʝektos i kapaˈsita a eˈkipos ˈteknikos/",
+    "portuguesePhonetic": "[Leandro lidéra proiéctos i capassíta a ekípos téquinicos]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_ko89jdu",
+    "word": "Actualmente, estudia inteligencia artificial y ciberseguridad.",
+    "translation": "Atualmente, ele estuda inteligência artificial e cibersegurança.",
+    "syllables": [
+      "Actualmente",
+      "estudia",
+      "inteligencia",
+      "artificial",
+      "y",
+      "ciberseguridad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aktwalˈmente esˈtuðja inteliˈxensja artifiˈsjal i sibeɾseɣuɾiˈðað/",
+    "portuguesePhonetic": "[Aktualménte estúdia intelirrênsia artifissiál i sibersegurridá]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_muoavmt",
+    "word": "Sabe resolver problemas complejos.",
+    "translation": "Ele sabe resolver problemas complexos.",
+    "syllables": [
+      "Sabe",
+      "resolver",
+      "problemas",
+      "complejos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsaβe resolˈβeɾ pɾoˈβlemas komˈplexos/",
+    "portuguesePhonetic": "[Sábe rresolvér problémas komplérhos]"
+  },
+  {
+    "id": "deberes_lesson_3_es_id_vz7ipwg",
+    "word": "Su objetivo es mejorar la seguridad de las empresas.",
+    "translation": "Seu objetivo é melhorar a segurança das empresas.",
+    "syllables": [
+      "Su",
+      "objetivo",
+      "es",
+      "mejorar",
+      "la",
+      "seguridad",
+      "de",
+      "las",
+      "empresas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/su oβxeˈtiβo es mexoˈɾaɾ la seɣuɾiˈðað ðe las emˈpɾesas/",
+    "portuguesePhonetic": "[Su obhetívo es merhorrár la segurridá de las emprrésas]"
+  }
+]

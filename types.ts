@@ -986,5 +986,13 @@ export const PREDEFINED_TOPICS = [
     group: "Deberes",
     description: "Principais verbos em Espanhol",
   },
+  {
+    id: "deberes_lesson_3_es",
+    label: "La carrera profesional",
+    isStatic: true,
+    group: "Deberes",
+    description: "Vocabulario sobre carreira e trabalho",
+  },
+
 
 ];
