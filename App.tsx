@@ -1072,7 +1072,7 @@ const App: React.FC = () => {
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
     const pw = password.trim().toLowerCase();
-    if (pw === "europa" || pw === "amarula") {
+    if (pw === "grandmarula") {
       setAuthTimestamp(Date.now());
       setLoginError(false);
     } else {
