@@ -993,6 +993,38 @@ export const PREDEFINED_TOPICS = [
     group: "Deberes",
     description: "Vocabulario sobre carreira e trabalho",
   },
+  {
+    id: "mis_estudios_lesson_1_es",
+    label: "Lección 1",
+    isStatic: true,
+    group: "Mis estudios",
+    description: "Vocabulario básico y saludos",
+  },
+  {
+    id: "mis_estudios_lesson_2_es",
+    label: "Lección 2",
+    isStatic: true,
+    group: "Mis estudios",
+    description: "Presentaciones e informaciones personales",
+  },
+  {
+    id: "mis_estudios_lesson_3_es",
+    label: "Lección 3",
+    isStatic: true,
+    group: "Mis estudios",
+    description: "Frases útiles e interacciones",
+  },
+  {
+    id: "mis_estudios_lesson_4_es",
+    label: "Lección 4",
+    isStatic: true,
+    group: "Mis estudios",
+    description: "Adjetivos y descripciones",
+  },
+
+
+
+
 
 
 ];

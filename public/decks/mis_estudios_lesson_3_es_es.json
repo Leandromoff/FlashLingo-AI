@@ -1,0 +1,727 @@
+[
+  {
+    "id": "mis_estudios_lesson_3_es_id_v73f61k",
+    "word": "¡Hola!",
+    "translation": "Olá! / Oi!",
+    "syllables": [
+      "Hola"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈo.la/",
+    "portuguesePhonetic": "[ô-la]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_y9avxpr",
+    "word": "¿Qué tal?",
+    "translation": "Que tal? / Como vai?",
+    "syllables": [
+      "Qué",
+      "tal"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈtal/",
+    "portuguesePhonetic": "[kê tal]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_hyhxgv9",
+    "word": "¿Cómo estás?",
+    "translation": "Como você está?",
+    "syllables": [
+      "Cómo",
+      "estás"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈko.mo esˈtas/",
+    "portuguesePhonetic": "[kô-mo es-tás]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_82wajy6",
+    "word": "Muy bien, gracias",
+    "translation": "Muito bem, obrigado(a)",
+    "syllables": [
+      "Muy",
+      "bien",
+      "gracias"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mwi ˈbjen ˈɡɾa.sjas/",
+    "portuguesePhonetic": "[mui bi-ên, gra-ssi-as]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_pe8e5e7",
+    "word": "¿Y tú?",
+    "translation": "E você?",
+    "syllables": [
+      "Y",
+      "tú"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/i ˈtu/",
+    "portuguesePhonetic": "[i tu]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_zxm4swj",
+    "word": "Buenos días",
+    "translation": "Bom dia",
+    "syllables": [
+      "Buenos",
+      "días"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbwe.noz ˈði.as/",
+    "portuguesePhonetic": "[bu-ê-nos di-as]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_6dz31ge",
+    "word": "Buenas tardes",
+    "translation": "Boa tarde",
+    "syllables": [
+      "Buenas",
+      "tardes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbwe.nas ˈtaɾ.ðes/",
+    "portuguesePhonetic": "[bu-ê-nas tar-des]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_lufalhv",
+    "word": "Mucho gusto",
+    "translation": "Muito prazer",
+    "syllables": [
+      "Mucho",
+      "gusto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈmu.tʃo ˈɣws.to/",
+    "portuguesePhonetic": "[mu-tcho gus-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_ykzrw8u",
+    "word": "Encantado / Encantada",
+    "translation": "Encantado / Encantada",
+    "syllables": [
+      "Encantado",
+      "/",
+      "Encantada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/eŋ.kanˈta.ðo/ / /eŋ.kanˈta.ða/",
+    "portuguesePhonetic": "[ên-kan-ta-do / ên-kan-ta-da]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_t5t0221",
+    "word": "Igualmente",
+    "translation": "Igualmente / O mesmo para você",
+    "syllables": [
+      "Igualmente"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/i.ɣwalˈmen.te/",
+    "portuguesePhonetic": "[i-gual-mên-tê]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_5qfajun",
+    "word": "¿Cómo te llamas?",
+    "translation": "Como você se chama?",
+    "syllables": [
+      "Cómo",
+      "te",
+      "llamas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈko.mo te ˈʝa.mas/",
+    "portuguesePhonetic": "[kô-mo tê lha-mas]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_azmffc3",
+    "word": "Soy Leandro",
+    "translation": "Sou o Leandro",
+    "syllables": [
+      "Soy",
+      "Leandro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsoj leˈan.dɾo/",
+    "portuguesePhonetic": "[sôi le-an-dro]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_dhewzl1",
+    "word": "Mi nombre es Leandro",
+    "translation": "Meu nome é Leandro",
+    "syllables": [
+      "Mi",
+      "nombre",
+      "es",
+      "Leandro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi ˈnom.bɾe ˈes leˈan.dɾo/",
+    "portuguesePhonetic": "[mi nom-brê és le-an-dro]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_ql70hs2",
+    "word": "Me llamo Leandro",
+    "translation": "Me chamo Leandro",
+    "syllables": [
+      "Me",
+      "llamo",
+      "Leandro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈʝa.mo leˈan.dɾo/",
+    "portuguesePhonetic": "[mê lha-mo le-an-dro]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_gib98pt",
+    "word": "¿De dónde eres?",
+    "translation": "De onde você é?",
+    "syllables": [
+      "De",
+      "dónde",
+      "eres"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de ˈðon.de ˈe.ɾes/",
+    "portuguesePhonetic": "[dê don-dê ê-rês]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_a1jidys",
+    "word": "Soy de São Paulo",
+    "translation": "Sou de São Paulo",
+    "syllables": [
+      "Soy",
+      "de",
+      "São",
+      "Paulo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsoj ðe sam ˈpaw.lo/",
+    "portuguesePhonetic": "[sôi dê san pau-lo]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_y4vg8a4",
+    "word": "Vivo en Valencia",
+    "translation": "Moro em Valência",
+    "syllables": [
+      "Vivo",
+      "en",
+      "Valencia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbi.βw en baˈlen.sja/",
+    "portuguesePhonetic": "[bi-vo ên va-lên-ssia]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_ldj1vmk",
+    "word": "Somos de aquí",
+    "translation": "Somos daqui",
+    "syllables": [
+      "Somos",
+      "de",
+      "aquí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈso.moz ðe aˈki/",
+    "portuguesePhonetic": "[so-mos dê a-ki]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_kh1ncuo",
+    "word": "¿Qué idiomas hablas?",
+    "translation": "Quais idiomas você fala?",
+    "syllables": [
+      "Qué",
+      "idiomas",
+      "hablas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke jˈðjo.mas ˈa.βlas/",
+    "portuguesePhonetic": "[kê i-di-ô-mas a-blas]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_zol6pkh",
+    "word": "Hablo inglés / español / francés",
+    "translation": "Falo inglês / espanhol / francês",
+    "syllables": [
+      "Hablo",
+      "inglés",
+      "/",
+      "español",
+      "/",
+      "francés"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈa.βlo iŋˈɡles / es.paˈɲol / fɾanˈses/",
+    "portuguesePhonetic": "[a-blo in-glês / es-pa-nhol / fran-ssês]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_8den1jx",
+    "word": "Un poco / Un poquito",
+    "translation": "Um pouco / Um pouquinho",
+    "syllables": [
+      "Un",
+      "poco",
+      "/",
+      "Un",
+      "poquito"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/um ˈpo.ko/ / /um poˈki.to/",
+    "portuguesePhonetic": "[um po-ko / um po-ki-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_p4sk1wq",
+    "word": "Estoy aprendiendo",
+    "translation": "Estou aprendendo",
+    "syllables": [
+      "Estoy",
+      "aprendiendo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtoj a.pɾenˈdjen.do/",
+    "portuguesePhonetic": "[es-tôi a-prên-di-ên-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_cws0cdy",
+    "word": "Hablas bien",
+    "translation": "Você fala bem",
+    "syllables": [
+      "Hablas",
+      "bien"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈa.βlaz ˈbjen/",
+    "portuguesePhonetic": "[a-blas bi-ên]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_ah9cz9r",
+    "word": "¿Me entiendes?",
+    "translation": "Você me entende?",
+    "syllables": [
+      "Me",
+      "entiendes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me enˈtjen.des/",
+    "portuguesePhonetic": "[mê ên-ti-ên-des]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_mc73tw4",
+    "word": "Perdón",
+    "translation": "Perdão / Desculpe",
+    "syllables": [
+      "Perdón"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/peɾˈðon/",
+    "portuguesePhonetic": "[pêr-don]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_5u9aqli",
+    "word": "No te entiendo",
+    "translation": "Não estou te entendendo",
+    "syllables": [
+      "No",
+      "te",
+      "entiendo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no te enˈtjen.do/",
+    "portuguesePhonetic": "[nô tê ên-ti-ên-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_k8ybz5n",
+    "word": "No te escucho bien",
+    "translation": "Não estou te ouvindo bem",
+    "syllables": [
+      "No",
+      "te",
+      "escucho",
+      "bien"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no te esˈku.tʃo ˈβjen/",
+    "portuguesePhonetic": "[nô tê es-ku-tcho bi-ên]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_d2tienj",
+    "word": "¿Puedes repetir, por favor?",
+    "translation": "Pode repetir, por favor?",
+    "syllables": [
+      "Puedes",
+      "repetir",
+      "por",
+      "favor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpwe.ðez re.peˈtiɾ poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[pu-ê-des rê-pê-tir por fa-vor]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_ktofa52",
+    "word": "No te entendí",
+    "translation": "Não te entendi",
+    "syllables": [
+      "No",
+      "te",
+      "entendí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no te en.tenˈdi/",
+    "portuguesePhonetic": "[nô tê ên-tên-di]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_l4m8392",
+    "word": "¿Qué significa...?",
+    "translation": "O que significa...?",
+    "syllables": [
+      "Qué",
+      "significa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke siɣ.niˈfi.ka/",
+    "portuguesePhonetic": "[kê sig-ni-fi-ka]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_cnu16af",
+    "word": "Ahora entiendo",
+    "translation": "Agora eu entendo / Agora entendi",
+    "syllables": [
+      "Ahora",
+      "entiendo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈo.ɾa enˈtjen.do/",
+    "portuguesePhonetic": "[a-ô-ra ên-ti-ên-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_q6epfr1",
+    "word": "No pasa nada",
+    "translation": "Não tem problema / De boa",
+    "syllables": [
+      "No",
+      "pasa",
+      "nada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈpa.sa ˈna.ða/",
+    "portuguesePhonetic": "[nô pa-sa na-da]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_3ffs0zb",
+    "word": "No hablo español muy bien",
+    "translation": "Não falo espanhol muito bem",
+    "syllables": [
+      "No",
+      "hablo",
+      "español",
+      "muy",
+      "bien"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈa.βlw es.paˈɲol mwi ˈbjen/",
+    "portuguesePhonetic": "[nô a-blo es-pa-nhol mui bi-ên]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_7exypsy",
+    "word": "¿Podemos hablar en inglés?",
+    "translation": "Podemos falar em inglês?",
+    "syllables": [
+      "Podemos",
+      "hablar",
+      "en",
+      "inglés"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poˈðe.mos aˈβlaɾ en iŋˈɡles/",
+    "portuguesePhonetic": "[po-dê-mos a-blar ên in-glês]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_w4fdjeq",
+    "word": "¿Va bien...?",
+    "translation": "Tudo bem se...? / Fica bom...?",
+    "syllables": [
+      "Va",
+      "bien"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ba ˈbjen/",
+    "portuguesePhonetic": "[va bi-ên]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_80hm9vs",
+    "word": "No hay problema",
+    "translation": "Não há problema",
+    "syllables": [
+      "No",
+      "hay",
+      "problema"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no aj pɾoˈβle.ma/",
+    "portuguesePhonetic": "[nô ai pro-blê-ma]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_s8njacl",
+    "word": "Quiero...",
+    "translation": "Eu quero...",
+    "syllables": [
+      "Quiero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkje.ɾo/",
+    "portuguesePhonetic": "[ki-ê-ro]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_x6bilcj",
+    "word": "Quiero un café con leche, por favor",
+    "translation": "Quero um café com leite, por favor",
+    "syllables": [
+      "Quiero",
+      "un",
+      "café",
+      "con",
+      "leche",
+      "por",
+      "favor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkje.ɾo uŋ kaˈfe kon ˈle.tʃe poɾ faˈβoɾ/",
+    "portuguesePhonetic": "[ki-ê-ro um ka-fé kon lê-tche por fa-vor]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_58nacst",
+    "word": "¿Puedo pagar con tarjeta?",
+    "translation": "Posso pagar com cartão?",
+    "syllables": [
+      "Puedo",
+      "pagar",
+      "con",
+      "tarjeta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpwe.ðo paˈɣaɾ kon taɾˈxe.ta/",
+    "portuguesePhonetic": "[pu-ê-do pa-gar kon tar-rrê-ta]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_4v08e9u",
+    "word": "Por supuesto",
+    "translation": "Claro / Com certeza",
+    "syllables": [
+      "Por",
+      "supuesto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ suˈpwes.to/",
+    "portuguesePhonetic": "[por su-pu-ês-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_ff4txsf",
+    "word": "Necesito...",
+    "translation": "Eu preciso de...",
+    "syllables": [
+      "Necesito"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ne.seˈsi.to/",
+    "portuguesePhonetic": "[nê-ssê-ssi-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_77uo4oo",
+    "word": "Necesito agua",
+    "translation": "Preciso de água",
+    "syllables": [
+      "Necesito",
+      "agua"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ne.seˈsi.tw ˈa.ɣwa/",
+    "portuguesePhonetic": "[nê-ssê-ssi-to a-gua]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_7t0wnxp",
+    "word": "Agua del grifo",
+    "translation": "Água da torneira (Espanha)",
+    "syllables": [
+      "Agua",
+      "del",
+      "grifo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈa.ɣwa ðel ˈɡɾi.fo/",
+    "portuguesePhonetic": "[a-gua dêl gri-fo]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_wl7mp0k",
+    "word": "Agua de la llave",
+    "translation": "Água da torneira (América Latina)",
+    "syllables": [
+      "Agua",
+      "de",
+      "la",
+      "llave"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈa.ɣwa ðe la ˈʝa.βe/",
+    "portuguesePhonetic": "[a-gua dê la lha-vê]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_wna96vo",
+    "word": "¿Dónde está el baño?",
+    "translation": "Onde fica o banheiro?",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "baño"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdon.de esˈta el ˈba.ɲo/",
+    "portuguesePhonetic": "[don-dê es-tá êl ba-nho]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_9znxdzs",
+    "word": "Al fondo a la izquierda",
+    "translation": "Ao fundo à esquerda",
+    "syllables": [
+      "Al",
+      "fondo",
+      "a",
+      "la",
+      "izquierda"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/al ˈfon.dw a la isˈkjeɾ.ða/",
+    "portuguesePhonetic": "[al fon-do a la is-ki-êr-da]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_t7p466m",
+    "word": "¿Cómo se dice esto en español?",
+    "translation": "Como se diz isto em espanhol?",
+    "syllables": [
+      "Cómo",
+      "se",
+      "dice",
+      "esto",
+      "en",
+      "español"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈko.mo se ˈði.se ˈes.tw en es.paˈɲol/",
+    "portuguesePhonetic": "[kô-mo sê di-ssê és-to ên es-pa-nhol]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_b6363l4",
+    "word": "¿Algo más?",
+    "translation": "Algo mais? / Mais alguma coisa?",
+    "syllables": [
+      "Algo",
+      "más"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈal.ɣo ˈmas/",
+    "portuguesePhonetic": "[al-go mas]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_fjzcq79",
+    "word": "De acuerdo",
+    "translation": "De acordo / Está bem",
+    "syllables": [
+      "De",
+      "acuerdo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de aˈkweɾ.ðo/",
+    "portuguesePhonetic": "[dê a-ku-êr-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_07ju9h0",
+    "word": "A ti",
+    "translation": "A você / Obrigado(a) a você",
+    "syllables": [
+      "A",
+      "ti"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ˈti/",
+    "portuguesePhonetic": "[a ti]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_ec85l9r",
+    "word": "Hasta luego / Hasta la próxima",
+    "translation": "Até logo / Até a próxima",
+    "syllables": [
+      "Hasta",
+      "luego",
+      "/",
+      "Hasta",
+      "la",
+      "próxima"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈas.ta ˈlwe.ɣo/ / /ˈas.ta la ˈpɾok.si.ma/",
+    "portuguesePhonetic": "[as-ta lu-ê-go / as-ta la prok-si-ma]"
+  },
+  {
+    "id": "mis_estudios_lesson_3_es_id_307l9hw",
+    "word": "Adiós",
+    "translation": "Adeus / Tchau",
+    "syllables": [
+      "Adiós"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈðjos/",
+    "portuguesePhonetic": "[a-di-ós]"
+  }
+]

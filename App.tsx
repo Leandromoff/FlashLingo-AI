@@ -413,6 +413,7 @@ const App: React.FC = () => {
                 { title: "Gramática", groups: ["Gramática A1", "Gramática A2", "Gramática B1", "Gramática B1+", "Gramática B2", "Gramática C1"] },
                 { title: "Vocabulario", groups: ["Vocabulario A1", "Vocabulario A2", "Vocabulario B1", "Vocabulario B1+", "Vocabulario B2", "Vocabulario C1"] },
                 { title: "Deberes", groups: ["Deberes"] },
+                { title: "Mis estudios", groups: ["Mis estudios"] },
               ]
             : [
                 { title: "Grammar", groups: ["Grammar A1", "Grammar A2", "Grammar B1", "Grammar B1+", "Grammar B2", "Grammar C1"] },

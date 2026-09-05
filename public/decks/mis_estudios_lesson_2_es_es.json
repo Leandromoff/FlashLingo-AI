@@ -1,0 +1,728 @@
+[
+  {
+    "id": "mis_estudios_lesson_2_es_id_sxz4d3z",
+    "word": "¿Cómo te llamas?",
+    "translation": "Como você se chama?",
+    "syllables": [
+      "Cómo",
+      "te",
+      "llamas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈko.mo te ˈʝa.mas/",
+    "portuguesePhonetic": "[kô-mo tê lha-mas]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_7zmlx03",
+    "word": "Me llamo Leandro",
+    "translation": "Eu me chamo Leandro",
+    "syllables": [
+      "Me",
+      "llamo",
+      "Leandro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈʝa.mo leˈan.dɾo/",
+    "portuguesePhonetic": "[mê lha-mo le-an-dro]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_pikh5cc",
+    "word": "Mi nombre es Leandro",
+    "translation": "Meu nome é Leandro",
+    "syllables": [
+      "Mi",
+      "nombre",
+      "es",
+      "Leandro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi ˈnom.bɾe ˈes leˈan.dɾo/",
+    "portuguesePhonetic": "[mi nom-brê és le-an-dro]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_kiqugu6",
+    "word": "Yo soy Leandro",
+    "translation": "Eu sou o Leandro",
+    "syllables": [
+      "Yo",
+      "soy",
+      "Leandro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝo ˈsoj leˈan.dɾo/",
+    "portuguesePhonetic": "[iô sôi le-an-dro]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_9f1hnzq",
+    "word": "¿Cuál es tu nombre?",
+    "translation": "Qual é o seu nome?",
+    "syllables": [
+      "Cuál",
+      "es",
+      "tu",
+      "nombre"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwal ˈes tu ˈnom.bɾe/",
+    "portuguesePhonetic": "[kual és tu nom-brê]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_7743q9d",
+    "word": "Encantado / Encantada",
+    "translation": "Encantado / Encantada",
+    "syllables": [
+      "Encantado",
+      "/",
+      "Encantada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/eŋ.kanˈta.ðo/ / /eŋ.kanˈta.ða/",
+    "portuguesePhonetic": "[ên-kan-ta-do / ên-kan-ta-da]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_5tkz0sm",
+    "word": "¿Cuántos años tienes?",
+    "translation": "Quantos anos você tem?",
+    "syllables": [
+      "Cuántos",
+      "años",
+      "tienes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwan.tos ˈa.ɲos ˈtje.nes/",
+    "portuguesePhonetic": "[kuan-tos a-nhos ti-ê-nês]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_9azhbrs",
+    "word": "Tengo 40 (cuarenta) años",
+    "translation": "Eu tenho 40 anos",
+    "syllables": [
+      "Tengo",
+      "40",
+      "años"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋ.ɡo kwaˈɾen.ta ˈa.ɲos/",
+    "portuguesePhonetic": "[tên-go kua-rên-ta a-nhos]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_v6bq2tf",
+    "word": "¿De dónde eres?",
+    "translation": "De onde você é?",
+    "syllables": [
+      "De",
+      "dónde",
+      "eres"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de ˈðon.de ˈe.ɾes/",
+    "portuguesePhonetic": "[dê don-dê ê-rês]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_1rwfpy5",
+    "word": "Soy de São Paulo",
+    "translation": "Sou de São Paulo",
+    "syllables": [
+      "Soy",
+      "de",
+      "São",
+      "Paulo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsoj ðe sam ˈpaw.lo/",
+    "portuguesePhonetic": "[sôi dê san pau-lo]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_tjfknh3",
+    "word": "Nací y vivo ahí",
+    "translation": "Nasci e moro aí/lá",
+    "syllables": [
+      "Nací",
+      "y",
+      "vivo",
+      "ahí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/naˈsi i ˈβi.βo aˈi/",
+    "portuguesePhonetic": "[na-ssi i bi-vo a-i]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_flpqeuc",
+    "word": "Originalmente soy de São Paulo",
+    "translation": "Originalmente sou de São Paulo",
+    "syllables": [
+      "Originalmente",
+      "soy",
+      "de",
+      "São",
+      "Paulo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/o.ɾi.xi.nalˈmen.te ˈsoj ðe sam ˈpaw.lo/",
+    "portuguesePhonetic": "[ô-ri-rri-nal-mên-tê sôi dê san pau-lo]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_15uiplt",
+    "word": "¿Dónde vives?",
+    "translation": "Onde você mora?",
+    "syllables": [
+      "Dónde",
+      "vives"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdon.de ˈβi.βes/",
+    "portuguesePhonetic": "[don-dê bi-vês]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_fdwc234",
+    "word": "Vivo en Valencia",
+    "translation": "Moro em Valência",
+    "syllables": [
+      "Vivo",
+      "en",
+      "Valencia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbi.βw en baˈlen.sja/",
+    "portuguesePhonetic": "[bi-vo ên va-lên-ssia]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_xmsn5u8",
+    "word": "Actualmente vivo en Valencia",
+    "translation": "Atualmente moro em Valência",
+    "syllables": [
+      "Actualmente",
+      "vivo",
+      "en",
+      "Valencia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ak.twalˈmen.te ˈβi.βw en baˈlen.sja/",
+    "portuguesePhonetic": "[ak-tual-mên-tê bi-vo ên va-lên-ssia]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_59muq3w",
+    "word": "¿Desde hace cuánto vives en...?",
+    "translation": "Há quanto tempo você mora em...?",
+    "syllables": [
+      "Desde",
+      "hace",
+      "cuánto",
+      "vives",
+      "en"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdez.ðe ˈa.se ˈkwan.to ˈβi.βes en/",
+    "portuguesePhonetic": "[dês-dê a-ssê kuan-to bi-vês ên]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_uls7xa1",
+    "word": "Vivo desde hace ... años",
+    "translation": "Moro há ... anos",
+    "syllables": [
+      "Vivo",
+      "desde",
+      "hace",
+      "años"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbi.βo ˈðez.ðe ˈa.se ... ˈa.ɲos/",
+    "portuguesePhonetic": "[bi-vo dês-dê a-ssê ... a-nhos]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_ibg3mqm",
+    "word": "Llevo ... años viviendo en Valencia",
+    "translation": "Faz ... anos que moro em Valência",
+    "syllables": [
+      "Llevo",
+      "años",
+      "viviendo",
+      "en",
+      "Valencia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈʝe.βo ... ˈa.ɲoz βiˈβjen.dw en baˈlen.sja/",
+    "portuguesePhonetic": "[lhê-vo ... a-nhos bi-vi-ên-do ên va-lên-ssia]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_2gfg48f",
+    "word": "¿Tienes pareja?",
+    "translation": "Você tem parceiro(a) / namorado(a)?",
+    "syllables": [
+      "Tienes",
+      "pareja"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtje.nes paˈɾe.xa/",
+    "portuguesePhonetic": "[ti-ê-nês pa-rê-rra]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_bmfnsfa",
+    "word": "Tengo novio / novia",
+    "translation": "Tenho namorado / namorada",
+    "syllables": [
+      "Tengo",
+      "novio",
+      "/",
+      "novia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋ.ɡo ˈno.βjo/ / /ˈno.βja/",
+    "portuguesePhonetic": "[tên-go nô-vio / nô-via]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_i6g5ktj",
+    "word": "Soy soltero / soltera",
+    "translation": "Sou solteiro / solteira",
+    "syllables": [
+      "Soy",
+      "soltero",
+      "/",
+      "soltera"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/soj solˈte.ɾo/ / /solˈte.ɾa/",
+    "portuguesePhonetic": "[sôi sol-tê-ro / sol-tê-ra]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_yukxa9q",
+    "word": "¿Estás casado / casada?",
+    "translation": "Você é casado / casada?",
+    "syllables": [
+      "Estás",
+      "casado",
+      "/",
+      "casada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtas kaˈsa.ðo/ / /kaˈsa.ða/",
+    "portuguesePhonetic": "[es-tás ka-sa-do / ka-sa-da]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_lqsasze",
+    "word": "Todavía no",
+    "translation": "Ainda não",
+    "syllables": [
+      "Todavía",
+      "no"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/to.ðaˈβi.a ˈno/",
+    "portuguesePhonetic": "[to-da-vi-a nô]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_876p5e6",
+    "word": "Estoy comprometido(a)",
+    "translation": "Estou noivo(a)",
+    "syllables": [
+      "Estoy",
+      "comprometido"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtoj kom.pɾo.meˈti.ðo/",
+    "portuguesePhonetic": "[es-tôi kom-prô-mê-ti-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_anfi1zo",
+    "word": "¿Tienes hijos?",
+    "translation": "Você tem filhos?",
+    "syllables": [
+      "Tienes",
+      "hijos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtje.nes ˈi.xos/",
+    "portuguesePhonetic": "[ti-ê-nês i-rrôs]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_13u9j11",
+    "word": "¿Tienes hermanos?",
+    "translation": "Você tem irmãos?",
+    "syllables": [
+      "Tienes",
+      "hermanos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtje.nes eɾˈma.nos/",
+    "portuguesePhonetic": "[ti-ê-nês êr-ma-nos]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_sboz7wb",
+    "word": "Hermano mayor / menor",
+    "translation": "Irmão mais velho / mais novo",
+    "syllables": [
+      "Hermano",
+      "mayor",
+      "/",
+      "menor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/eɾˈma.no maˈʝoɾ/ / /meˈnoɾ/",
+    "portuguesePhonetic": "[êr-ma-no ma-ior / mê-nor]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_kuzgend",
+    "word": "Soy hijo único / hija única",
+    "translation": "Sou filho único / filha única",
+    "syllables": [
+      "Soy",
+      "hijo",
+      "único",
+      "/",
+      "hija",
+      "única"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsoj ˈi.xo ˈu.ni.ko/ / /ˈi.xa ˈu.ni.ka/",
+    "portuguesePhonetic": "[sôi i-rro u-ni-ko / i-rra u-ni-ka]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_yfnak5r",
+    "word": "¿Qué estudiaste?",
+    "translation": "O que você estudou?",
+    "syllables": [
+      "Qué",
+      "estudiaste"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke es.tuˈðjas.te/",
+    "portuguesePhonetic": "[kê es-tu-di-as-tê]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_yszs96e",
+    "word": "Estudié idiomas",
+    "translation": "Estudei idiomas",
+    "syllables": [
+      "Estudié",
+      "idiomas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.tuˈðje iˈðjo.mas/",
+    "portuguesePhonetic": "[es-tu-di-ê i-di-ô-mas]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_0bf6hv5",
+    "word": "Un máster / Un doctorado",
+    "translation": "Mestrado / Doutorado",
+    "syllables": [
+      "Un",
+      "máster",
+      "/",
+      "Un",
+      "doctorado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/um ˈmas.teɾ/ / /un dok.toˈɾa.ðo/",
+    "portuguesePhonetic": "[um mas-têr / um dok-to-ra-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_03vv9qo",
+    "word": "¿A qué te dedicas?",
+    "translation": "Com o que você trabalha? / O que faz?",
+    "syllables": [
+      "A",
+      "qué",
+      "te",
+      "dedicas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ˈke te ðeˈði.kas/",
+    "portuguesePhonetic": "[a kê tê dê-di-kas]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_kjfy6eh",
+    "word": "Soy profesor(a)",
+    "translation": "Sou professor(a)",
+    "syllables": [
+      "Soy",
+      "profesor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/soj pɾo.feˈsoɾ/ / /pɾo.feˈso.ɾa/",
+    "portuguesePhonetic": "[sôi pro-fê-sor / pro-fê-so-ra]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_dwxet3q",
+    "word": "Me dedico a la investigación",
+    "translation": "Me dedico à pesquisa",
+    "syllables": [
+      "Me",
+      "dedico",
+      "a",
+      "la",
+      "investigación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ðeˈði.kw a la im.bes.ti.ɣaˈsjon/",
+    "portuguesePhonetic": "[mê dê-di-ko a la in-vês-ti-ga-ssi-on]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_d8pkyhk",
+    "word": "¿Cuáles son tus hobbies?",
+    "translation": "Quais são seus hobbies?",
+    "syllables": [
+      "Cuáles",
+      "son",
+      "tus",
+      "hobbies"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwa.les ˈson tuz ˈxo.βis/",
+    "portuguesePhonetic": "[kua-lês son tus rró-bis]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_9gimn6a",
+    "word": "¿Qué te gusta hacer?",
+    "translation": "O que você gosta de fazer?",
+    "syllables": [
+      "Qué",
+      "te",
+      "gusta",
+      "hacer"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke te ˈɣws.ta aˈseɾ/",
+    "portuguesePhonetic": "[kê tê gus-ta a-ssêr]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_nvy6cq7",
+    "word": "Quedar con amigos",
+    "translation": "Encontrar os amigos",
+    "syllables": [
+      "Quedar",
+      "con",
+      "amigos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/keˈðaɾ kon aˈmi.ɣos/",
+    "portuguesePhonetic": "[kê-dar kon a-mi-gos]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_itq0j77",
+    "word": "Leer / Viajar / Cocinar",
+    "translation": "Ler / Viajar / Cozinhar",
+    "syllables": [
+      "Leer",
+      "/",
+      "Viajar",
+      "/",
+      "Cocinar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/leˈeɾ/ / /bjaˈxaɾ/ / /ko.siˈnaɾ/",
+    "portuguesePhonetic": "[lê-êr / bi-a-rrar / kô-ssi-nar]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_2waswhr",
+    "word": "Hacer rompecabezas",
+    "translation": "Montar quebra-cabeças",
+    "syllables": [
+      "Hacer",
+      "rompecabezas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈseɾ rom.pe.kaˈβe.sas/",
+    "portuguesePhonetic": "[a-ssêr rom-pê-ka-bê-ssas]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_p2bc60j",
+    "word": "Tocar la guitarra",
+    "translation": "Tocar violão / guitarra",
+    "syllables": [
+      "Tocar",
+      "la",
+      "guitarra"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/toˈkaɾ la ɣiˈta.ra/",
+    "portuguesePhonetic": "[to-kar la gi-tar-ra]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_4efgq58",
+    "word": "¿Haces deporte?",
+    "translation": "Você pratica esportes?",
+    "syllables": [
+      "Haces",
+      "deporte"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈa.sez ðeˈpoɾ.te/",
+    "portuguesePhonetic": "[a-ssês dê-por-tê]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_ampt0az",
+    "word": "Hago natación",
+    "translation": "Faço natação",
+    "syllables": [
+      "Hago",
+      "natación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈa.ɣo na.taˈsjon/",
+    "portuguesePhonetic": "[a-go na-ta-ssi-on]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_az1c9aj",
+    "word": "Ir al gimnasio / al gym",
+    "translation": "Ir à academia",
+    "syllables": [
+      "Ir",
+      "al",
+      "gimnasio",
+      "/",
+      "al",
+      "gym"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈiɾ al xiɱˈna.sjo/ / /al ˈdʒim/",
+    "portuguesePhonetic": "[ir al rrim-na-ssio / al djim]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_vra7jqr",
+    "word": "Levantar pesas / Correr",
+    "translation": "Levantar peso / Correr",
+    "syllables": [
+      "Levantar",
+      "pesas",
+      "/",
+      "Correr"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/le.βanˈtaɾ ˈpe.sas/ / /koˈreɾ/",
+    "portuguesePhonetic": "[lê-van-tar pê-sas / kor-rêr]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_y7werxm",
+    "word": "¿Cuál es tu comida favorita?",
+    "translation": "Qual é a sua comida favorita?",
+    "syllables": [
+      "Cuál",
+      "es",
+      "tu",
+      "comida",
+      "favorita"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwal ˈes tu koˈmi.ða fa.βoˈɾi.ta/",
+    "portuguesePhonetic": "[kual és tu kô-mi-da fa-vo-ri-ta]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_ggb49w2",
+    "word": "¿Tienes mascotas?",
+    "translation": "Você tem animais de estimação?",
+    "syllables": [
+      "Tienes",
+      "mascotas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtje.nez masˈko.tas/",
+    "portuguesePhonetic": "[ti-ê-nês mas-ko-tas]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_yq2hr09",
+    "word": "Un perrito / Un gato",
+    "translation": "Um cachorrinho / Um gato",
+    "syllables": [
+      "Un",
+      "perrito",
+      "/",
+      "Un",
+      "gato"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/um peˈri.to/ / /uŋ ˈɡa.to/",
+    "portuguesePhonetic": "[um pêr-ri-to / um ga-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_lerqvlx",
+    "word": "¿Qué música te gusta?",
+    "translation": "Que tipo de música você gosta?",
+    "syllables": [
+      "Qué",
+      "música",
+      "te",
+      "gusta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈmu.si.ka te ˈɣws.ta/",
+    "portuguesePhonetic": "[kê mu-ssi-ka tê gus-ta]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_fs3g0x2",
+    "word": "¿Qué idiomas hablas?",
+    "translation": "Que idiomas você fala?",
+    "syllables": [
+      "Qué",
+      "idiomas",
+      "hablas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke jˈðjo.mas ˈa.βlas/",
+    "portuguesePhonetic": "[kê i-di-ô-mas a-blas]"
+  },
+  {
+    "id": "mis_estudios_lesson_2_es_id_vikz23e",
+    "word": "¿Cuál es tu talento secreto?",
+    "translation": "Qual é o seu talento secreto?",
+    "syllables": [
+      "Cuál",
+      "es",
+      "tu",
+      "talento",
+      "secreto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwal ˈes tu taˈlen.to seˈkɾe.to/",
+    "portuguesePhonetic": "[kual és tu ta-lên-to sê-krê-to]"
+  }
+]

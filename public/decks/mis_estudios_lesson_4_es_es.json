@@ -1,0 +1,646 @@
+[
+  {
+    "id": "mis_estudios_lesson_4_es_id_bbjjz7q",
+    "word": "Grande",
+    "translation": "Grande",
+    "syllables": [
+      "Grande"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɡɾan.de/",
+    "portuguesePhonetic": "[gran-dê]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_v2dzvyo",
+    "word": "Mediano",
+    "translation": "Médio",
+    "syllables": [
+      "Mediano"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/meˈðja.no/",
+    "portuguesePhonetic": "[mê-di-a-no]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_t2u08kv",
+    "word": "Pequeño / Chico",
+    "translation": "Pequeno",
+    "syllables": [
+      "Pequeño",
+      "/",
+      "Chico"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/peˈke.ɲo/ / /ˈtʃi.ko/",
+    "portuguesePhonetic": "[pê-kê-nho / tchi-ko]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_gsijbd7",
+    "word": "Bonito / Lindo",
+    "translation": "Bonito / Lindo",
+    "syllables": [
+      "Bonito",
+      "/",
+      "Lindo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/boˈni.to/ / /ˈlin.do/",
+    "portuguesePhonetic": "[bo-ni-to / lin-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_uogoi45",
+    "word": "Valencia es una ciudad hermosa",
+    "translation": "Valência é uma cidade linda/maravilhosa",
+    "syllables": [
+      "Valencia",
+      "es",
+      "una",
+      "ciudad",
+      "hermosa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/baˈlen.sja ˈes ˈu.na sjuˈðað eɾˈmo.sa/",
+    "portuguesePhonetic": "[va-lên-ssia és u-na ssiu-dad êr-mo-sa]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_w030p13",
+    "word": "Hermoso",
+    "translation": "Lindo / Formoso / Belo",
+    "syllables": [
+      "Hermoso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/eɾˈmo.so/",
+    "portuguesePhonetic": "[êr-mo-so]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_w6ym25i",
+    "word": "Feo",
+    "translation": "Feio",
+    "syllables": [
+      "Feo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfe.o/",
+    "portuguesePhonetic": "[fê-o]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_6n5m0g1",
+    "word": "Horrible",
+    "translation": "Horrível",
+    "syllables": [
+      "Horrible"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/oˈri.βle/",
+    "portuguesePhonetic": "[or-ri-blê]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_xu2xcm0",
+    "word": "Alto",
+    "translation": "Alto (estatura / volume)",
+    "syllables": [
+      "Alto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈal.to/",
+    "portuguesePhonetic": "[al-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_dh1ew97",
+    "word": "Bajo / Bajito",
+    "translation": "Baixo (estatura / volume)",
+    "syllables": [
+      "Bajo",
+      "/",
+      "Bajito"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈba.xo/ / /baˈxi.to/",
+    "portuguesePhonetic": "[ba-rro / ba-rri-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_cn62q4q",
+    "word": "Chaparro",
+    "translation": "Baixinho (típico do México)",
+    "syllables": [
+      "Chaparro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tʃaˈpa.ro/",
+    "portuguesePhonetic": "[tcha-par-ro]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_uj017qy",
+    "word": "Rápido",
+    "translation": "Rápido",
+    "syllables": [
+      "Rápido"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈra.pi.ðo/",
+    "portuguesePhonetic": "[rra-pi-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_sxtcplz",
+    "word": "Lento",
+    "translation": "Lento / Devagar",
+    "syllables": [
+      "Lento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈlen.to/",
+    "portuguesePhonetic": "[lên-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_970mivq",
+    "word": "Fuerte",
+    "translation": "Forte",
+    "syllables": [
+      "Fuerte"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfweɾ.te/",
+    "portuguesePhonetic": "[fu-êr-tê]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_2pgckr1",
+    "word": "Débil",
+    "translation": "Fraco / Frágil",
+    "syllables": [
+      "Débil"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈde.βil/",
+    "portuguesePhonetic": "[dê-bil]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_ode6b6y",
+    "word": "Nuevo",
+    "translation": "Novo (objeto/ideia)",
+    "syllables": [
+      "Nuevo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈnwe.βo/",
+    "portuguesePhonetic": "[nu-ê-vo]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_qjnap5k",
+    "word": "Joven",
+    "translation": "Jovem",
+    "syllables": [
+      "Joven"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈxo.βen/",
+    "portuguesePhonetic": "[rro-vên]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_tqrzjce",
+    "word": "Leandro tiene 40 años pero es joven",
+    "translation": "Leandro tem 40 anos, mas é jovem",
+    "syllables": [
+      "Leandro",
+      "tiene",
+      "40",
+      "años",
+      "pero",
+      "es",
+      "joven"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/leˈan.dɾo ˈtje.ne kwaˈɾen.ta ˈa.ɲos ˈpe.ɾo ˈes ˈxo.βen/",
+    "portuguesePhonetic": "[le-an-dro ti-ê-nê kua-rên-ta a-nhos pê-ro és rro-vên]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_g824k2r",
+    "word": "Viejo",
+    "translation": "Velho / Idoso",
+    "syllables": [
+      "Viejo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbje.xo/",
+    "portuguesePhonetic": "[vi-ê-rro]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_j1fi579",
+    "word": "Caliente",
+    "translation": "Quente",
+    "syllables": [
+      "Caliente"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kaˈljen.te/",
+    "portuguesePhonetic": "[ka-li-ên-tê]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_tbyir4w",
+    "word": "Tibio",
+    "translation": "Morno",
+    "syllables": [
+      "Tibio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈti.βjo/",
+    "portuguesePhonetic": "[ti-bi-o]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_4x36cgu",
+    "word": "Frío",
+    "translation": "Frio",
+    "syllables": [
+      "Frío"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfɾi.o/",
+    "portuguesePhonetic": "[fri-o]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_k4rcp70",
+    "word": "Fácil",
+    "translation": "Fácil",
+    "syllables": [
+      "Fácil"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfa.sil/",
+    "portuguesePhonetic": "[fa-ssil]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_yjw2arz",
+    "word": "Difícil",
+    "translation": "Difícil",
+    "syllables": [
+      "Difícil"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/diˈfi.sil/",
+    "portuguesePhonetic": "[di-fi-ssil]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_cu9546i",
+    "word": "Bueno",
+    "translation": "Bom",
+    "syllables": [
+      "Bueno"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbwe.no/",
+    "portuguesePhonetic": "[bu-ê-no]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_i4h1kp5",
+    "word": "Malo",
+    "translation": "Mau / Ruim",
+    "syllables": [
+      "Malo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈma.lo/",
+    "portuguesePhonetic": "[ma-lo]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_7q2tuzi",
+    "word": "Perfecto",
+    "translation": "Perfeito",
+    "syllables": [
+      "Perfecto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/peɾˈfek.to/",
+    "portuguesePhonetic": "[pêr-fêk-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_1q1g8c6",
+    "word": "Caro",
+    "translation": "Caro",
+    "syllables": [
+      "Caro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈka.ɾo/",
+    "portuguesePhonetic": "[ka-ro]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_qdimu5q",
+    "word": "Barato",
+    "translation": "Barato",
+    "syllables": [
+      "Barato"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/baˈɾa.to/",
+    "portuguesePhonetic": "[ba-ra-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_ufnb85c",
+    "word": "Largo",
+    "translation": "Longo / Comprido",
+    "syllables": [
+      "Largo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈlaɾ.ɣo/",
+    "portuguesePhonetic": "[lar-go]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_gtspbrs",
+    "word": "Corto",
+    "translation": "Curto",
+    "syllables": [
+      "Corto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkoɾ.to/",
+    "portuguesePhonetic": "[kor-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_yksyfpf",
+    "word": "Gordo",
+    "translation": "Gordo",
+    "syllables": [
+      "Gordo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈɡoɾ.ðo/",
+    "portuguesePhonetic": "[gor-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_b9cvvy9",
+    "word": "Delgado",
+    "translation": "Magro",
+    "syllables": [
+      "Delgado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/delˈɣa.ðo/",
+    "portuguesePhonetic": "[dêl-ga-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_iunh8ec",
+    "word": "Limpio",
+    "translation": "Limpo",
+    "syllables": [
+      "Limpio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈlim.pjo/",
+    "portuguesePhonetic": "[lim-pi-o]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_nhly51g",
+    "word": "Sucio",
+    "translation": "Sujo",
+    "syllables": [
+      "Sucio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsu.sjo/",
+    "portuguesePhonetic": "[su-ssio]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_ahrf2hd",
+    "word": "Ancho",
+    "translation": "Largo / Amplo",
+    "syllables": [
+      "Ancho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈan.tʃo/",
+    "portuguesePhonetic": "[an-tcho]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_qzbgo1q",
+    "word": "Estrecho / Angosto",
+    "translation": "Estreito",
+    "syllables": [
+      "Estrecho",
+      "/",
+      "Angosto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/esˈtɾe.tʃo/ / /aŋˈɡos.to/",
+    "portuguesePhonetic": "[es-trê-tcho / an-gos-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_yhfuuki",
+    "word": "Claro",
+    "translation": "Claro",
+    "syllables": [
+      "Claro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkla.ɾo/",
+    "portuguesePhonetic": "[kla-ro]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_5wpdzqw",
+    "word": "Oscuro / Obscuro",
+    "translation": "Escuro",
+    "syllables": [
+      "Oscuro",
+      "/",
+      "Obscuro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/osˈku.ɾo/",
+    "portuguesePhonetic": "[os-ku-ro]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_tkqu6ga",
+    "word": "Abierto",
+    "translation": "Aberto",
+    "syllables": [
+      "Abierto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aˈβjeɾ.to/",
+    "portuguesePhonetic": "[a-bi-êr-to]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_4jxy0bk",
+    "word": "Cerrado",
+    "translation": "Fechado",
+    "syllables": [
+      "Cerrado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/seˈra.ðo/",
+    "portuguesePhonetic": "[ssêr-ra-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_5jd5duc",
+    "word": "Dulce",
+    "translation": "Doce",
+    "syllables": [
+      "Dulce"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdul.se/",
+    "portuguesePhonetic": "[dul-ssê]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_2caitww",
+    "word": "Salado",
+    "translation": "Salgado",
+    "syllables": [
+      "Salado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/saˈla.ðo/",
+    "portuguesePhonetic": "[sa-la-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_usw836p",
+    "word": "Suave",
+    "translation": "Macio / Suave",
+    "syllables": [
+      "Suave"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈswa.βe/",
+    "portuguesePhonetic": "[su-a-vê]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_z61lg9i",
+    "word": "Duro",
+    "translation": "Duro",
+    "syllables": [
+      "Duro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdu.ɾo/",
+    "portuguesePhonetic": "[du-ro]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_hnxlfmb",
+    "word": "Ligero",
+    "translation": "Leve",
+    "syllables": [
+      "Ligero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/liˈxe.ɾo/",
+    "portuguesePhonetic": "[li-rrê-ro]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_5hboczi",
+    "word": "Pesado",
+    "translation": "Pesado",
+    "syllables": [
+      "Pesado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/peˈsa.ðo/",
+    "portuguesePhonetic": "[pê-sa-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_rxyf5op",
+    "word": "Raro",
+    "translation": "Estranho / Raro",
+    "syllables": [
+      "Raro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈra.ɾo/",
+    "portuguesePhonetic": "[rra-ro]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_u9is87t",
+    "word": "Mojado",
+    "translation": "Molhado",
+    "syllables": [
+      "Mojado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/moˈxa.ðo/",
+    "portuguesePhonetic": "[mô-rra-do]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_32oxlta",
+    "word": "Seco",
+    "translation": "Seco",
+    "syllables": [
+      "Seco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈse.ko/",
+    "portuguesePhonetic": "[sê-ko]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_nfkx5xn",
+    "word": "Lleno",
+    "translation": "Cheio",
+    "syllables": [
+      "Lleno"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈʝe.no/",
+    "portuguesePhonetic": "[lhê-no]"
+  },
+  {
+    "id": "mis_estudios_lesson_4_es_id_xohm03a",
+    "word": "Vacío",
+    "translation": "Vazio",
+    "syllables": [
+      "Vacío"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/baˈsi.o/",
+    "portuguesePhonetic": "[va-ssi-o]"
+  }
+]
