@@ -1,0 +1,182 @@
+[
+  {
+    "id": "saude_es_id_jvs2f31",
+    "word": "médico",
+    "translation": "médico",
+    "syllables": [
+      "médico"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈme.di.ko/",
+    "portuguesePhonetic": "[MÊ-di-kô]"
+  },
+  {
+    "id": "saude_es_id_h0injjd",
+    "word": "farmacia",
+    "translation": "farmácia",
+    "syllables": [
+      "farmacia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/faɾ.ˈma.θja/",
+    "portuguesePhonetic": "[far-MA-thia]"
+  },
+  {
+    "id": "saude_es_id_g7cjegy",
+    "word": "hospital",
+    "translation": "hospital",
+    "syllables": [
+      "hospital"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/os.pi.ˈtal/",
+    "portuguesePhonetic": "[ôs-pi-TAL]"
+  },
+  {
+    "id": "saude_es_id_nvcr9pf",
+    "word": "urgencias",
+    "translation": "pronto-socorro",
+    "syllables": [
+      "urgencias"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/uɾ.ˈxen.θjas/",
+    "portuguesePhonetic": "[ur-RRÊN-thias]"
+  },
+  {
+    "id": "saude_es_id_29e64t7",
+    "word": "ambulancia",
+    "translation": "ambulância",
+    "syllables": [
+      "ambulancia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/am.bu.ˈlan.θja/",
+    "portuguesePhonetic": "[am-bu-LAN-thia]"
+  },
+  {
+    "id": "saude_es_id_74tybs9",
+    "word": "cita",
+    "translation": "consulta; horário marcado",
+    "syllables": [
+      "cita"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈθi.ta/",
+    "portuguesePhonetic": "[THI-ta]"
+  },
+  {
+    "id": "saude_es_id_78kavye",
+    "word": "receta",
+    "translation": "receita médica; culinária",
+    "syllables": [
+      "receta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.ˈθe.ta/",
+    "portuguesePhonetic": "[rrê-THÊ-ta]"
+  },
+  {
+    "id": "saude_es_id_9z4i75z",
+    "word": "medicamento",
+    "translation": "medicamento",
+    "syllables": [
+      "medicamento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me.di.ka.ˈmen.to/",
+    "portuguesePhonetic": "[mê-di-ka-MÊN-tô]"
+  },
+  {
+    "id": "saude_es_id_cupvlt9",
+    "word": "pastilla",
+    "translation": "comprimido",
+    "syllables": [
+      "pastilla"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pas.ˈti.ʝa/",
+    "portuguesePhonetic": "[pas-TI-ia]"
+  },
+  {
+    "id": "saude_es_id_vvdcjkt",
+    "word": "fiebre",
+    "translation": "febre",
+    "syllables": [
+      "fiebre"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfje.bɾe/",
+    "portuguesePhonetic": "[FIÊ-brê]"
+  },
+  {
+    "id": "saude_es_id_qy1syde",
+    "word": "tos",
+    "translation": "tosse",
+    "syllables": [
+      "tos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tos/",
+    "portuguesePhonetic": "[TÔS]"
+  },
+  {
+    "id": "saude_es_id_xnfwxsk",
+    "word": "dolor",
+    "translation": "dor",
+    "syllables": [
+      "dolor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/do.ˈloɾ/",
+    "portuguesePhonetic": "[dô-LÔR]"
+  },
+  {
+    "id": "saude_es_id_cc3nk7t",
+    "word": "alergia",
+    "translation": "alergia",
+    "syllables": [
+      "alergia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈleɾ.xja/",
+    "portuguesePhonetic": "[a-LÊR-rria]"
+  },
+  {
+    "id": "saude_es_id_lg0ypvp",
+    "word": "herida",
+    "translation": "ferida",
+    "syllables": [
+      "herida"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/e.ˈɾi.da/",
+    "portuguesePhonetic": "[ê-RI-da]"
+  },
+  {
+    "id": "saude_es_id_0hzy9ob",
+    "word": "mareo",
+    "translation": "tontura",
+    "syllables": [
+      "mareo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ma.ˈɾe.o/",
+    "portuguesePhonetic": "[ma-RÊ-ô]"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "bancos_financas_es_id_phq1nrp",
+    "word": "cuenta",
+    "translation": "conta bancária",
+    "syllables": [
+      "cuenta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwen.ta/",
+    "portuguesePhonetic": "[KUÊN-ta]"
+  },
+  {
+    "id": "bancos_financas_es_id_00al29g",
+    "word": "tarjeta",
+    "translation": "cartão",
+    "syllables": [
+      "tarjeta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/taɾ.ˈxe.ta/",
+    "portuguesePhonetic": "[tar-RRÊ-ta]"
+  },
+  {
+    "id": "bancos_financas_es_id_ar7pzwa",
+    "word": "efectivo",
+    "translation": "dinheiro em espécie",
+    "syllables": [
+      "efectivo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/e.fek.ˈti.bo/",
+    "portuguesePhonetic": "[ê-fêk-TI-bô]"
+  },
+  {
+    "id": "bancos_financas_es_id_5d7uiju",
+    "word": "cajero",
+    "translation": "caixa eletrônico; caixa",
+    "syllables": [
+      "cajero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.ˈxe.ɾo/",
+    "portuguesePhonetic": "[ka-RRÊ-rô]"
+  },
+  {
+    "id": "bancos_financas_es_id_8ym28md",
+    "word": "transferencia",
+    "translation": "transferência",
+    "syllables": [
+      "transferencia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾans.fe.ˈɾen.θja/",
+    "portuguesePhonetic": "[trans-fê-RÊN-thia]"
+  },
+  {
+    "id": "bancos_financas_es_id_77ga2ya",
+    "word": "ingreso",
+    "translation": "depósito; entrada de dinheiro",
+    "syllables": [
+      "ingreso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/in.ˈgɾe.so/",
+    "portuguesePhonetic": "[in-GRÊ-sô]"
+  },
+  {
+    "id": "bancos_financas_es_id_3tiemey",
+    "word": "retirada",
+    "translation": "saque",
+    "syllables": [
+      "retirada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.ti.ˈɾa.da/",
+    "portuguesePhonetic": "[rrê-ti-RA-da]"
+  },
+  {
+    "id": "bancos_financas_es_id_bz7dsw4",
+    "word": "saldo",
+    "translation": "saldo",
+    "syllables": [
+      "saldo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsal.do/",
+    "portuguesePhonetic": "[SAL-dô]"
+  },
+  {
+    "id": "bancos_financas_es_id_t8ucvep",
+    "word": "comisión",
+    "translation": "tarifa; comissão",
+    "syllables": [
+      "comisión"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ko.mi.ˈsjon/",
+    "portuguesePhonetic": "[kô-mi-SIÔN]"
+  },
+  {
+    "id": "bancos_financas_es_id_rr47wus",
+    "word": "ahorro",
+    "translation": "poupança; economia",
+    "syllables": [
+      "ahorro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈo.ro/",
+    "portuguesePhonetic": "[a-Ô-rrô]"
+  },
+  {
+    "id": "bancos_financas_es_id_mz7xi58",
+    "word": "préstamo",
+    "translation": "empréstimo",
+    "syllables": [
+      "préstamo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpɾes.ta.mo/",
+    "portuguesePhonetic": "[PRÊS-ta-mô]"
+  },
+  {
+    "id": "bancos_financas_es_id_52vqz42",
+    "word": "deuda",
+    "translation": "dívida",
+    "syllables": [
+      "deuda"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdew.da/",
+    "portuguesePhonetic": "[DÊU-da]"
+  },
+  {
+    "id": "bancos_financas_es_id_cfks7l4",
+    "word": "interés",
+    "translation": "juro; interesse",
+    "syllables": [
+      "interés"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/in.te.ˈɾes/",
+    "portuguesePhonetic": "[in-tê-RÊS]"
+  },
+  {
+    "id": "bancos_financas_es_id_fjn8v4v",
+    "word": "cuota",
+    "translation": "parcela; mensalidade",
+    "syllables": [
+      "cuota"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwo.ta/",
+    "portuguesePhonetic": "[KUÔ-ta]"
+  },
+  {
+    "id": "bancos_financas_es_id_n5aiym9",
+    "word": "domiciliación",
+    "translation": "débito automático",
+    "syllables": [
+      "domiciliación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/do.mi.θi.lja.ˈθjon/",
+    "portuguesePhonetic": "[dô-mi-thi-lia-THIÔN]"
+  }
+]

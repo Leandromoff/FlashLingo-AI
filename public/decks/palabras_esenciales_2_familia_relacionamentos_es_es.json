@@ -1,0 +1,182 @@
+[
+  {
+    "id": "familia_relacionamentos_es_id_9likob8",
+    "word": "familia",
+    "translation": "família",
+    "syllables": [
+      "familia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/fa.ˈmi.lja/",
+    "portuguesePhonetic": "[fa-MI-lia]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_j1ladta",
+    "word": "madre",
+    "translation": "mãe",
+    "syllables": [
+      "madre"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈma.dɾe/",
+    "portuguesePhonetic": "[MA-drê]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_6s6cpjn",
+    "word": "padre",
+    "translation": "pai",
+    "syllables": [
+      "padre"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpa.dɾe/",
+    "portuguesePhonetic": "[PA-drê]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_fj8l0vj",
+    "word": "hijo",
+    "translation": "filho",
+    "syllables": [
+      "hijo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈi.xo/",
+    "portuguesePhonetic": "[I-rrô]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_67kdvrr",
+    "word": "hija",
+    "translation": "filha",
+    "syllables": [
+      "hija"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈi.xa/",
+    "portuguesePhonetic": "[I-rra]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_cjqzk1h",
+    "word": "hermano",
+    "translation": "irmão",
+    "syllables": [
+      "hermano"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/eɾ.ˈma.no/",
+    "portuguesePhonetic": "[êr-MA-nô]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_x0oiuqq",
+    "word": "hermana",
+    "translation": "irmã",
+    "syllables": [
+      "hermana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/eɾ.ˈma.na/",
+    "portuguesePhonetic": "[êr-MA-na]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_y682ay3",
+    "word": "abuelo",
+    "translation": "avô",
+    "syllables": [
+      "abuelo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈbwe.lo/",
+    "portuguesePhonetic": "[a-BUÊ-lô]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_4mn084i",
+    "word": "abuela",
+    "translation": "avó",
+    "syllables": [
+      "abuela"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈbwe.la/",
+    "portuguesePhonetic": "[a-BUÊ-la]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_d4856el",
+    "word": "pareja",
+    "translation": "parceiro; parceira; casal",
+    "syllables": [
+      "pareja"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pa.ˈɾe.xa/",
+    "portuguesePhonetic": "[pa-RÊ-rra]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_67ynu46",
+    "word": "marido",
+    "translation": "marido",
+    "syllables": [
+      "marido"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ma.ˈɾi.do/",
+    "portuguesePhonetic": "[ma-RI-dô]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_8z3vr9j",
+    "word": "mujer",
+    "translation": "mulher; esposa",
+    "syllables": [
+      "mujer"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mu.ˈxeɾ/",
+    "portuguesePhonetic": "[mu-RRÊR]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_d8txuxl",
+    "word": "amigo",
+    "translation": "amigo",
+    "syllables": [
+      "amigo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈmi.go/",
+    "portuguesePhonetic": "[a-MI-gô]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_hc3evls",
+    "word": "soltero",
+    "translation": "solteiro",
+    "syllables": [
+      "soltero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sol.ˈte.ɾo/",
+    "portuguesePhonetic": "[sôl-TÊ-rô]"
+  },
+  {
+    "id": "familia_relacionamentos_es_id_7o0io93",
+    "word": "casado",
+    "translation": "casado",
+    "syllables": [
+      "casado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.ˈsa.do/",
+    "portuguesePhonetic": "[ka-SA-dô]"
+  }
+]

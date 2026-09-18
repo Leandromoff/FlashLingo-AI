@@ -1,0 +1,302 @@
+[
+  {
+    "id": "alimentos_es_id_mt5smu1",
+    "word": "agua",
+    "translation": "água",
+    "syllables": [
+      "agua"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈa.gwa/",
+    "portuguesePhonetic": "[A-gua]"
+  },
+  {
+    "id": "alimentos_es_id_sehhs2b",
+    "word": "leche",
+    "translation": "leite",
+    "syllables": [
+      "leche"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈle.tʃe/",
+    "portuguesePhonetic": "[LÊ-tchê]"
+  },
+  {
+    "id": "alimentos_es_id_rmj29p3",
+    "word": "café",
+    "translation": "café",
+    "syllables": [
+      "café"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.ˈfe/",
+    "portuguesePhonetic": "[ka-FÊ]"
+  },
+  {
+    "id": "alimentos_es_id_44gvmu1",
+    "word": "té",
+    "translation": "chá",
+    "syllables": [
+      "té"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te/",
+    "portuguesePhonetic": "[TÊ]"
+  },
+  {
+    "id": "alimentos_es_id_62mdjyl",
+    "word": "zumo",
+    "translation": "suco",
+    "syllables": [
+      "zumo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈθu.mo/",
+    "portuguesePhonetic": "[THU-mô]"
+  },
+  {
+    "id": "alimentos_es_id_zffvibi",
+    "word": "pan",
+    "translation": "pão",
+    "syllables": [
+      "pan"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pan/",
+    "portuguesePhonetic": "[PAN]"
+  },
+  {
+    "id": "alimentos_es_id_9b6bnf4",
+    "word": "arroz",
+    "translation": "arroz",
+    "syllables": [
+      "arroz"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈroθ/",
+    "portuguesePhonetic": "[a-RRÔTH]"
+  },
+  {
+    "id": "alimentos_es_id_5hnlfxn",
+    "word": "pasta",
+    "translation": "macarrão",
+    "syllables": [
+      "pasta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpas.ta/",
+    "portuguesePhonetic": "[PAS-ta]"
+  },
+  {
+    "id": "alimentos_es_id_m2bwagm",
+    "word": "azúcar",
+    "translation": "açúcar",
+    "syllables": [
+      "azúcar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈθu.kaɾ/",
+    "portuguesePhonetic": "[a-THU-kar]"
+  },
+  {
+    "id": "alimentos_es_id_520jdib",
+    "word": "sal",
+    "translation": "sal",
+    "syllables": [
+      "sal"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sal/",
+    "portuguesePhonetic": "[SAL]"
+  },
+  {
+    "id": "alimentos_es_id_7mpggd1",
+    "word": "aceite",
+    "translation": "óleo; azeite",
+    "syllables": [
+      "aceite"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈθej.te/",
+    "portuguesePhonetic": "[a-THÊI-tê]"
+  },
+  {
+    "id": "alimentos_es_id_32jz01r",
+    "word": "queso",
+    "translation": "queijo",
+    "syllables": [
+      "queso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈke.so/",
+    "portuguesePhonetic": "[KÊ-sô]"
+  },
+  {
+    "id": "alimentos_es_id_r538f0d",
+    "word": "huevo",
+    "translation": "ovo",
+    "syllables": [
+      "huevo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈwe.bo/",
+    "portuguesePhonetic": "[UÊ-bô]"
+  },
+  {
+    "id": "alimentos_es_id_8hs8r7f",
+    "word": "carne",
+    "translation": "carne",
+    "syllables": [
+      "carne"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkaɾ.ne/",
+    "portuguesePhonetic": "[KAR-nê]"
+  },
+  {
+    "id": "alimentos_es_id_1gk4tj7",
+    "word": "pollo",
+    "translation": "frango",
+    "syllables": [
+      "pollo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpo.ʝo/",
+    "portuguesePhonetic": "[PÔ-iô]"
+  },
+  {
+    "id": "alimentos_es_id_4ansaxj",
+    "word": "pescado",
+    "translation": "peixe (alimento)",
+    "syllables": [
+      "pescado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pes.ˈka.do/",
+    "portuguesePhonetic": "[pês-KA-dô]"
+  },
+  {
+    "id": "alimentos_es_id_rnk070f",
+    "word": "patata",
+    "translation": "batata",
+    "syllables": [
+      "patata"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pa.ˈta.ta/",
+    "portuguesePhonetic": "[pa-TA-ta]"
+  },
+  {
+    "id": "alimentos_es_id_0xi7qys",
+    "word": "tomate",
+    "translation": "tomate",
+    "syllables": [
+      "tomate"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/to.ˈma.te/",
+    "portuguesePhonetic": "[tô-MA-tê]"
+  },
+  {
+    "id": "alimentos_es_id_dixxpd4",
+    "word": "cebolla",
+    "translation": "cebola",
+    "syllables": [
+      "cebolla"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/θe.ˈbo.ʝa/",
+    "portuguesePhonetic": "[thê-BÔ-ia]"
+  },
+  {
+    "id": "alimentos_es_id_6nbc9rn",
+    "word": "ajo",
+    "translation": "alho",
+    "syllables": [
+      "ajo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈa.xo/",
+    "portuguesePhonetic": "[A-rrô]"
+  },
+  {
+    "id": "alimentos_es_id_e8zh2ti",
+    "word": "lechuga",
+    "translation": "alface",
+    "syllables": [
+      "lechuga"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/le.ˈtʃu.ga/",
+    "portuguesePhonetic": "[lê-TCHU-ga]"
+  },
+  {
+    "id": "alimentos_es_id_e5f7h1x",
+    "word": "manzana",
+    "translation": "maçã",
+    "syllables": [
+      "manzana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/man.ˈθa.na/",
+    "portuguesePhonetic": "[man-THA-na]"
+  },
+  {
+    "id": "alimentos_es_id_501zthe",
+    "word": "plátano",
+    "translation": "banana",
+    "syllables": [
+      "plátano"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpla.ta.no/",
+    "portuguesePhonetic": "[PLA-ta-nô]"
+  },
+  {
+    "id": "alimentos_es_id_a6mvxmb",
+    "word": "naranja",
+    "translation": "laranja",
+    "syllables": [
+      "naranja"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/na.ˈɾan.xa/",
+    "portuguesePhonetic": "[na-RAN-rra]"
+  },
+  {
+    "id": "alimentos_es_id_yaxw2fr",
+    "word": "jamón",
+    "translation": "presunto",
+    "syllables": [
+      "jamón"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/xa.ˈmon/",
+    "portuguesePhonetic": "[rra-MÔN]"
+  }
+]

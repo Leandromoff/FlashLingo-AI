@@ -1,0 +1,182 @@
+[
+  {
+    "id": "urbanismo_espacos_es_id_w296tbn",
+    "word": "plaza",
+    "translation": "praça",
+    "syllables": [
+      "plaza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpla.θa/",
+    "portuguesePhonetic": "[PLA-tha]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_m1qvnhs",
+    "word": "barrio",
+    "translation": "bairro",
+    "syllables": [
+      "barrio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈba.rjo/",
+    "portuguesePhonetic": "[BA-rriô]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_gzs7v0z",
+    "word": "manzana",
+    "translation": "quarteirão",
+    "syllables": [
+      "manzana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/man.ˈθa.na/",
+    "portuguesePhonetic": "[man-THA-na]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_xbbhhhh",
+    "word": "acera",
+    "translation": "calçada",
+    "syllables": [
+      "acera"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈθe.ɾa/",
+    "portuguesePhonetic": "[a-THÊ-ra]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_rssejmv",
+    "word": "calzada",
+    "translation": "pista de circulação",
+    "syllables": [
+      "calzada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kal.ˈθa.da/",
+    "portuguesePhonetic": "[kal-THA-da]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_ap7kyaf",
+    "word": "cruce",
+    "translation": "cruzamento",
+    "syllables": [
+      "cruce"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkɾu.θe/",
+    "portuguesePhonetic": "[KRU-thê]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_kwya18e",
+    "word": "rotonda",
+    "translation": "rotatória",
+    "syllables": [
+      "rotonda"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ro.ˈton.da/",
+    "portuguesePhonetic": "[rrô-TÔN-da]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_p046lvn",
+    "word": "puente",
+    "translation": "ponte",
+    "syllables": [
+      "puente"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpwen.te/",
+    "portuguesePhonetic": "[PUÊN-tê]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_cnmuwwq",
+    "word": "pasarela",
+    "translation": "passarela",
+    "syllables": [
+      "pasarela"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pa.sa.ˈɾe.la/",
+    "portuguesePhonetic": "[pa-sa-RÊ-la]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_yst2oq9",
+    "word": "parque",
+    "translation": "parque",
+    "syllables": [
+      "parque"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpaɾ.ke/",
+    "portuguesePhonetic": "[PAR-kê]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_n4ejk04",
+    "word": "jardín",
+    "translation": "jardim",
+    "syllables": [
+      "jardín"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/xaɾ.ˈdin/",
+    "portuguesePhonetic": "[rrar-DIN]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_gcy3iev",
+    "word": "banco",
+    "translation": "banco de sentar",
+    "syllables": [
+      "banco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈban.ko/",
+    "portuguesePhonetic": "[BAN-kô]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_oyon3x9",
+    "word": "papelera",
+    "translation": "lixeira de papéis",
+    "syllables": [
+      "papelera"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pa.pe.ˈle.ɾa/",
+    "portuguesePhonetic": "[pa-pê-LÊ-ra]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_02gr5p0",
+    "word": "farola",
+    "translation": "poste de iluminação",
+    "syllables": [
+      "farola"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/fa.ˈɾo.la/",
+    "portuguesePhonetic": "[fa-RÔ-la]"
+  },
+  {
+    "id": "urbanismo_espacos_es_id_zkmcs36",
+    "word": "fuente",
+    "translation": "fonte; bebedouro público",
+    "syllables": [
+      "fuente"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfwen.te/",
+    "portuguesePhonetic": "[FUÊN-tê]"
+  }
+]

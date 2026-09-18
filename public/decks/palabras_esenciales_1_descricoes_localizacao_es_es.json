@@ -1,0 +1,182 @@
+[
+  {
+    "id": "descricoes_localizacao_es_id_0so7313",
+    "word": "grande",
+    "translation": "grande",
+    "syllables": [
+      "grande"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈgɾan.de/",
+    "portuguesePhonetic": "[GRAN-dê]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_i8a1wv6",
+    "word": "pequeño",
+    "translation": "pequeno",
+    "syllables": [
+      "pequeño"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pe.ˈke.ɲo/",
+    "portuguesePhonetic": "[pê-KÊ-nhô]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_rtwk5w3",
+    "word": "barato",
+    "translation": "barato",
+    "syllables": [
+      "barato"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ba.ˈɾa.to/",
+    "portuguesePhonetic": "[ba-RA-tô]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_hbwmfik",
+    "word": "caro",
+    "translation": "caro",
+    "syllables": [
+      "caro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈka.ɾo/",
+    "portuguesePhonetic": "[KA-rô]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_nkuwmc5",
+    "word": "caliente",
+    "translation": "quente",
+    "syllables": [
+      "caliente"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.ˈljen.te/",
+    "portuguesePhonetic": "[ka-LIÊN-tê]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_4k0tydi",
+    "word": "limpio",
+    "translation": "limpo",
+    "syllables": [
+      "limpio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈlim.pjo/",
+    "portuguesePhonetic": "[LIM-piô]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_p8en328",
+    "word": "sucio",
+    "translation": "sujo",
+    "syllables": [
+      "sucio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsu.θjo/",
+    "portuguesePhonetic": "[SU-thiô]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_5qfbonr",
+    "word": "abierto",
+    "translation": "aberto",
+    "syllables": [
+      "abierto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈbjeɾ.to/",
+    "portuguesePhonetic": "[a-BIÊR-tô]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_qw6c8lt",
+    "word": "cerrado",
+    "translation": "fechado",
+    "syllables": [
+      "cerrado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/θe.ˈra.do/",
+    "portuguesePhonetic": "[thê-RRA-dô]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_k6x0rw0",
+    "word": "cerca",
+    "translation": "perto",
+    "syllables": [
+      "cerca"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈθeɾ.ka/",
+    "portuguesePhonetic": "[THÊR-ka]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_8mw1uix",
+    "word": "lejos",
+    "translation": "longe",
+    "syllables": [
+      "lejos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈle.xos/",
+    "portuguesePhonetic": "[LÊ-rrôs]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_53q9oi4",
+    "word": "derecha",
+    "translation": "direita",
+    "syllables": [
+      "derecha"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de.ˈɾe.tʃa/",
+    "portuguesePhonetic": "[dê-RÊ-tcha]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_23f3gln",
+    "word": "izquierda",
+    "translation": "esquerda",
+    "syllables": [
+      "izquierda"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/iθ.ˈkjeɾ.da/",
+    "portuguesePhonetic": "[ith-KIÊR-da]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_w254st6",
+    "word": "dentro",
+    "translation": "dentro",
+    "syllables": [
+      "dentro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈden.tɾo/",
+    "portuguesePhonetic": "[DÊN-trô]"
+  },
+  {
+    "id": "descricoes_localizacao_es_id_3pk07rc",
+    "word": "fuera",
+    "translation": "fora",
+    "syllables": [
+      "fuera"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfwe.ɾa/",
+    "portuguesePhonetic": "[FUÊ-ra]"
+  }
+]

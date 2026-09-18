@@ -1,0 +1,362 @@
+[
+  {
+    "id": "verbos_essenciais_es_id_vgdr8eq",
+    "word": "ser",
+    "translation": "ser",
+    "syllables": [
+      "ser"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/seɾ/",
+    "portuguesePhonetic": "[SÊR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_cxji5i4",
+    "word": "estar",
+    "translation": "estar",
+    "syllables": [
+      "estar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.ˈtaɾ/",
+    "portuguesePhonetic": "[ês-TAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_4g108lw",
+    "word": "tener",
+    "translation": "ter",
+    "syllables": [
+      "tener"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te.ˈneɾ/",
+    "portuguesePhonetic": "[tê-NÊR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_vthzxtr",
+    "word": "ir",
+    "translation": "ir",
+    "syllables": [
+      "ir"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/iɾ/",
+    "portuguesePhonetic": "[IR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_g026jxg",
+    "word": "venir",
+    "translation": "vir",
+    "syllables": [
+      "venir"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/be.ˈniɾ/",
+    "portuguesePhonetic": "[bê-NIR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_staybxt",
+    "word": "querer",
+    "translation": "querer",
+    "syllables": [
+      "querer"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke.ˈɾeɾ/",
+    "portuguesePhonetic": "[kê-RÊR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_szrke3u",
+    "word": "poder",
+    "translation": "poder",
+    "syllables": [
+      "poder"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/po.ˈdeɾ/",
+    "portuguesePhonetic": "[pô-DÊR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_mauth9o",
+    "word": "necesitar",
+    "translation": "precisar",
+    "syllables": [
+      "necesitar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ne.θe.si.ˈtaɾ/",
+    "portuguesePhonetic": "[nê-thê-si-TAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_0e67s47",
+    "word": "hablar",
+    "translation": "falar",
+    "syllables": [
+      "hablar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈblaɾ/",
+    "portuguesePhonetic": "[a-BLAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_1t99i20",
+    "word": "entender",
+    "translation": "entender",
+    "syllables": [
+      "entender"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/en.ten.ˈdeɾ/",
+    "portuguesePhonetic": "[ên-tên-DÊR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_hg1kx2r",
+    "word": "preguntar",
+    "translation": "perguntar",
+    "syllables": [
+      "preguntar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɾe.gun.ˈtaɾ/",
+    "portuguesePhonetic": "[prê-gun-TAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_jtej76c",
+    "word": "pedir",
+    "translation": "pedir",
+    "syllables": [
+      "pedir"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pe.ˈdiɾ/",
+    "portuguesePhonetic": "[pê-DIR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_s73amrb",
+    "word": "ayudar",
+    "translation": "ajudar",
+    "syllables": [
+      "ayudar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ʝu.ˈdaɾ/",
+    "portuguesePhonetic": "[a-iu-DAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_62b9efu",
+    "word": "llamar",
+    "translation": "chamar; telefonar",
+    "syllables": [
+      "llamar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝa.ˈmaɾ/",
+    "portuguesePhonetic": "[ia-MAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_vd7eu86",
+    "word": "comprar",
+    "translation": "comprar",
+    "syllables": [
+      "comprar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kom.ˈpɾaɾ/",
+    "portuguesePhonetic": "[kôm-PRAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_lfvqrkz",
+    "word": "pagar",
+    "translation": "pagar",
+    "syllables": [
+      "pagar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pa.ˈgaɾ/",
+    "portuguesePhonetic": "[pa-GAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_uzjrcmi",
+    "word": "buscar",
+    "translation": "procurar",
+    "syllables": [
+      "buscar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bus.ˈkaɾ/",
+    "portuguesePhonetic": "[bus-KAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_xpoa72s",
+    "word": "llegar",
+    "translation": "chegar",
+    "syllables": [
+      "llegar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝe.ˈgaɾ/",
+    "portuguesePhonetic": "[iê-GAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_18d0w2v",
+    "word": "salir",
+    "translation": "sair",
+    "syllables": [
+      "salir"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sa.ˈliɾ/",
+    "portuguesePhonetic": "[sa-LIR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_3qvtynb",
+    "word": "volver",
+    "translation": "voltar",
+    "syllables": [
+      "volver"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bol.ˈbeɾ/",
+    "portuguesePhonetic": "[bôl-BÊR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_zy5doi9",
+    "word": "coger",
+    "translation": "pegar",
+    "syllables": [
+      "coger"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ko.ˈxeɾ/",
+    "portuguesePhonetic": "[kô-RRÊR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_ifxi5za",
+    "word": "llevar",
+    "translation": "levar; vestir",
+    "syllables": [
+      "llevar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝe.ˈbaɾ/",
+    "portuguesePhonetic": "[iê-BAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_k5kv6vb",
+    "word": "abrir",
+    "translation": "abrir",
+    "syllables": [
+      "abrir"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈbɾiɾ/",
+    "portuguesePhonetic": "[a-BRIR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_0nhx5jz",
+    "word": "cerrar",
+    "translation": "fechar",
+    "syllables": [
+      "cerrar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/θe.ˈraɾ/",
+    "portuguesePhonetic": "[thê-RRAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_13o6aqt",
+    "word": "comer",
+    "translation": "comer",
+    "syllables": [
+      "comer"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ko.ˈmeɾ/",
+    "portuguesePhonetic": "[kô-MÊR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_tft3bda",
+    "word": "beber",
+    "translation": "beber",
+    "syllables": [
+      "beber"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/be.ˈbeɾ/",
+    "portuguesePhonetic": "[bê-BÊR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_i51wuqk",
+    "word": "dormir",
+    "translation": "dormir",
+    "syllables": [
+      "dormir"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/doɾ.ˈmiɾ/",
+    "portuguesePhonetic": "[dôr-MIR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_kjko0c2",
+    "word": "trabajar",
+    "translation": "trabalhar",
+    "syllables": [
+      "trabajar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾa.ba.ˈxaɾ/",
+    "portuguesePhonetic": "[tra-ba-RRAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_jn1i80t",
+    "word": "esperar",
+    "translation": "esperar",
+    "syllables": [
+      "esperar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.pe.ˈɾaɾ/",
+    "portuguesePhonetic": "[ês-pê-RAR]"
+  },
+  {
+    "id": "verbos_essenciais_es_id_9zqrx6g",
+    "word": "aprender",
+    "translation": "aprender",
+    "syllables": [
+      "aprender"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.pɾen.ˈdeɾ/",
+    "portuguesePhonetic": "[a-prên-DÊR]"
+  }
+]

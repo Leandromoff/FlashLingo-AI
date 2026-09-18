@@ -1,0 +1,182 @@
+[
+  {
+    "id": "documentacao_imigracao_es_id_vfntswt",
+    "word": "pasaporte",
+    "translation": "passaporte",
+    "syllables": [
+      "pasaporte"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pa.sa.ˈpoɾ.te/",
+    "portuguesePhonetic": "[pa-sa-PÔR-tê]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_329b0vc",
+    "word": "visado",
+    "translation": "visto",
+    "syllables": [
+      "visado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bi.ˈsa.do/",
+    "portuguesePhonetic": "[bi-SA-dô]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_yhedfrt",
+    "word": "residencia",
+    "translation": "residência",
+    "syllables": [
+      "residencia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.si.ˈden.θja/",
+    "portuguesePhonetic": "[rrê-si-DÊN-thia]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_7yvnib4",
+    "word": "extranjero",
+    "translation": "estrangeiro",
+    "syllables": [
+      "extranjero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/eks.tɾan.ˈxe.ɾo/",
+    "portuguesePhonetic": "[êks-tran-RRÊ-rô]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_wwmxnck",
+    "word": "extranjería",
+    "translation": "assuntos de imigração",
+    "syllables": [
+      "extranjería"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/eks.tɾan.xe.ˈɾi.a/",
+    "portuguesePhonetic": "[êks-tran-rrê-RI-a]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_hh7f9jq",
+    "word": "empadronamiento",
+    "translation": "registro municipal de residência",
+    "syllables": [
+      "empadronamiento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/em.pa.dɾo.na.ˈmjen.to/",
+    "portuguesePhonetic": "[êm-pa-drô-na-MIÊN-tô]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_uw63jtg",
+    "word": "padrón",
+    "translation": "cadastro municipal de moradores",
+    "syllables": [
+      "padrón"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pa.ˈdɾon/",
+    "portuguesePhonetic": "[pa-DRÔN]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_p5z23qy",
+    "word": "documento",
+    "translation": "documento",
+    "syllables": [
+      "documento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/do.ku.ˈmen.to/",
+    "portuguesePhonetic": "[dô-ku-MÊN-tô]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_wb9hhgm",
+    "word": "formulario",
+    "translation": "formulário",
+    "syllables": [
+      "formulario"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/foɾ.mu.ˈla.ɾjo/",
+    "portuguesePhonetic": "[fôr-mu-LA-riô]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_b7qfrpa",
+    "word": "solicitud",
+    "translation": "solicitação; requerimento",
+    "syllables": [
+      "solicitud"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/so.li.θi.ˈtud/",
+    "portuguesePhonetic": "[sô-li-thi-TUD]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_f9huyw2",
+    "word": "autorización",
+    "translation": "autorização",
+    "syllables": [
+      "autorización"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aw.to.ɾi.θa.ˈθjon/",
+    "portuguesePhonetic": "[au-tô-ri-tha-THIÔN]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_5d4qws4",
+    "word": "permiso",
+    "translation": "permissão; autorização",
+    "syllables": [
+      "permiso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/peɾ.ˈmi.so/",
+    "portuguesePhonetic": "[pêr-MI-sô]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_lpycrna",
+    "word": "renovación",
+    "translation": "renovação",
+    "syllables": [
+      "renovación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.no.ba.ˈθjon/",
+    "portuguesePhonetic": "[rrê-nô-ba-THIÔN]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_t6489yg",
+    "word": "caducidad",
+    "translation": "vencimento; fim da validade",
+    "syllables": [
+      "caducidad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.du.θi.ˈdad/",
+    "portuguesePhonetic": "[ka-du-thi-DAD]"
+  },
+  {
+    "id": "documentacao_imigracao_es_id_9tbxori",
+    "word": "firma",
+    "translation": "assinatura",
+    "syllables": [
+      "firma"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfiɾ.ma/",
+    "portuguesePhonetic": "[FIR-ma]"
+  }
+]

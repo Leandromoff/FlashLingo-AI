@@ -413,7 +413,7 @@ const App: React.FC = () => {
                 { title: "Gramática", groups: ["Gramática A1", "Gramática A2", "Gramática B1", "Gramática B1+", "Gramática B2", "Gramática C1"] },
                 { title: "Vocabulario", groups: ["Vocabulario A1", "Vocabulario A2", "Vocabulario B1", "Vocabulario B1+", "Vocabulario B2", "Vocabulario C1"] },
                 { title: "Deberes", groups: ["Deberes"] },
-                { title: "Mis estudios", groups: ["Mis estudios"] },
+                { title: "Mis estudios", groups: ["Mis estudios", "Palabras esenciales 1", "Palabras esenciales 2"] },
               ]
             : [
                 { title: "Grammar", groups: ["Grammar A1", "Grammar A2", "Grammar B1", "Grammar B1+", "Grammar B2", "Grammar C1"] },
@@ -450,7 +450,7 @@ const App: React.FC = () => {
               });
             });
 
-            if (superTotalDecks === 0) return null;
+            if (superTotalDecks === 0 && superCategory.title !== "Mis estudios") return null;
 
             return (
               <div key={superCategory.title} className="mb-10 w-full relative">

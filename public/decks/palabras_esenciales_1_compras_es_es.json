@@ -1,0 +1,182 @@
+[
+  {
+    "id": "compras_es_id_r8xqco9",
+    "word": "tienda",
+    "translation": "loja",
+    "syllables": [
+      "tienda"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtjen.da/",
+    "portuguesePhonetic": "[TIÊN-da]"
+  },
+  {
+    "id": "compras_es_id_c49rkc7",
+    "word": "supermercado",
+    "translation": "supermercado",
+    "syllables": [
+      "supermercado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/su.peɾ.meɾ.ˈka.do/",
+    "portuguesePhonetic": "[su-pêr-mêr-KA-dô]"
+  },
+  {
+    "id": "compras_es_id_1vqgqbj",
+    "word": "panadería",
+    "translation": "padaria",
+    "syllables": [
+      "panadería"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pa.na.de.ˈɾi.a/",
+    "portuguesePhonetic": "[pa-na-dê-RI-a]"
+  },
+  {
+    "id": "compras_es_id_4qymlfu",
+    "word": "carnicería",
+    "translation": "açougue",
+    "syllables": [
+      "carnicería"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kaɾ.ni.θe.ˈɾi.a/",
+    "portuguesePhonetic": "[kar-ni-thê-RI-a]"
+  },
+  {
+    "id": "compras_es_id_eu1cgzz",
+    "word": "frutería",
+    "translation": "quitanda; frutaria",
+    "syllables": [
+      "frutería"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/fɾu.te.ˈɾi.a/",
+    "portuguesePhonetic": "[fru-tê-RI-a]"
+  },
+  {
+    "id": "compras_es_id_v3o2d91",
+    "word": "precio",
+    "translation": "preço",
+    "syllables": [
+      "precio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpɾe.θjo/",
+    "portuguesePhonetic": "[PRÊ-thiô]"
+  },
+  {
+    "id": "compras_es_id_dnjanpq",
+    "word": "oferta",
+    "translation": "oferta; promoção",
+    "syllables": [
+      "oferta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/o.ˈfeɾ.ta/",
+    "portuguesePhonetic": "[ô-FÊR-ta]"
+  },
+  {
+    "id": "compras_es_id_l2vewc8",
+    "word": "descuento",
+    "translation": "desconto",
+    "syllables": [
+      "descuento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/des.ˈkwen.to/",
+    "portuguesePhonetic": "[dês-KUÊN-tô]"
+  },
+  {
+    "id": "compras_es_id_cq189a7",
+    "word": "caja",
+    "translation": "caixa",
+    "syllables": [
+      "caja"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈka.xa/",
+    "portuguesePhonetic": "[KA-rra]"
+  },
+  {
+    "id": "compras_es_id_g55t8xj",
+    "word": "cajero",
+    "translation": "caixa (funcionário ou eletrônico)",
+    "syllables": [
+      "cajero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.ˈxe.ɾo/",
+    "portuguesePhonetic": "[ka-RRÊ-rô]"
+  },
+  {
+    "id": "compras_es_id_cha40ib",
+    "word": "efectivo",
+    "translation": "dinheiro em espécie",
+    "syllables": [
+      "efectivo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/e.fek.ˈti.bo/",
+    "portuguesePhonetic": "[ê-fêk-TI-bô]"
+  },
+  {
+    "id": "compras_es_id_a7b0z9b",
+    "word": "cambio",
+    "translation": "troco; mudança",
+    "syllables": [
+      "cambio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkam.bjo/",
+    "portuguesePhonetic": "[KAM-biô]"
+  },
+  {
+    "id": "compras_es_id_5luri0a",
+    "word": "recibo",
+    "translation": "recibo",
+    "syllables": [
+      "recibo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.ˈθi.bo/",
+    "portuguesePhonetic": "[rrê-THI-bô]"
+  },
+  {
+    "id": "compras_es_id_edi1uqn",
+    "word": "bolsa",
+    "translation": "sacola",
+    "syllables": [
+      "bolsa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbol.sa/",
+    "portuguesePhonetic": "[BÔL-sa]"
+  },
+  {
+    "id": "compras_es_id_6nye1ac",
+    "word": "devolución",
+    "translation": "devolução",
+    "syllables": [
+      "devolución"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de.bo.lu.ˈθjon/",
+    "portuguesePhonetic": "[dê-bô-lu-THIÔN]"
+  }
+]

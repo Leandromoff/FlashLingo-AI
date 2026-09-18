@@ -1,0 +1,170 @@
+[
+  {
+    "id": "casa_aluguel_es_id_y8tshrn",
+    "word": "casa",
+    "translation": "casa",
+    "syllables": [
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈka.sa/",
+    "portuguesePhonetic": "[KA-sa]"
+  },
+  {
+    "id": "casa_aluguel_es_id_cbs9c9c",
+    "word": "piso",
+    "translation": "apartamento; andar",
+    "syllables": [
+      "piso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpi.so/",
+    "portuguesePhonetic": "[PI-sô]"
+  },
+  {
+    "id": "casa_aluguel_es_id_xrqncil",
+    "word": "alquiler",
+    "translation": "aluguel",
+    "syllables": [
+      "alquiler"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/al.ki.ˈleɾ/",
+    "portuguesePhonetic": "[al-ki-LÊR]"
+  },
+  {
+    "id": "casa_aluguel_es_id_wub19si",
+    "word": "fianza",
+    "translation": "caução",
+    "syllables": [
+      "fianza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfjan.θa/",
+    "portuguesePhonetic": "[FIAN-tha]"
+  },
+  {
+    "id": "casa_aluguel_es_id_yueckqv",
+    "word": "contrato",
+    "translation": "contrato",
+    "syllables": [
+      "contrato"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kon.ˈtɾa.to/",
+    "portuguesePhonetic": "[kôn-TRA-tô]"
+  },
+  {
+    "id": "casa_aluguel_es_id_898t4bd",
+    "word": "propietario",
+    "translation": "proprietário",
+    "syllables": [
+      "propietario"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɾo.pje.ˈta.ɾjo/",
+    "portuguesePhonetic": "[prô-piê-TA-riô]"
+  },
+  {
+    "id": "casa_aluguel_es_id_xu7tcmp",
+    "word": "habitación",
+    "translation": "quarto; cômodo",
+    "syllables": [
+      "habitación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.bi.ta.ˈθjon/",
+    "portuguesePhonetic": "[a-bi-ta-THIÔN]"
+  },
+  {
+    "id": "casa_aluguel_es_id_lnimpi6",
+    "word": "salón",
+    "translation": "sala de estar",
+    "syllables": [
+      "salón"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sa.ˈlon/",
+    "portuguesePhonetic": "[sa-LÔN]"
+  },
+  {
+    "id": "casa_aluguel_es_id_yjg53tr",
+    "word": "baño",
+    "translation": "banheiro",
+    "syllables": [
+      "baño"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈba.ɲo/",
+    "portuguesePhonetic": "[BA-nhô]"
+  },
+  {
+    "id": "casa_aluguel_es_id_txnlzfv",
+    "word": "ventana",
+    "translation": "janela",
+    "syllables": [
+      "ventana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ben.ˈta.na/",
+    "portuguesePhonetic": "[bên-TA-na]"
+  },
+  {
+    "id": "casa_aluguel_es_id_iaunzn6",
+    "word": "llave",
+    "translation": "chave",
+    "syllables": [
+      "llave"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈʝa.be/",
+    "portuguesePhonetic": "[IA-bê]"
+  },
+  {
+    "id": "casa_aluguel_es_id_21u6006",
+    "word": "ascensor",
+    "translation": "elevador",
+    "syllables": [
+      "ascensor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/as.θen.ˈsoɾ/",
+    "portuguesePhonetic": "[as-thên-SÔR]"
+  },
+  {
+    "id": "casa_aluguel_es_id_km3tdpq",
+    "word": "mesa",
+    "translation": "mesa",
+    "syllables": [
+      "mesa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈme.sa/",
+    "portuguesePhonetic": "[MÊ-sa]"
+  },
+  {
+    "id": "casa_aluguel_es_id_86sbtte",
+    "word": "silla",
+    "translation": "cadeira",
+    "syllables": [
+      "silla"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsi.ʝa/",
+    "portuguesePhonetic": "[SI-ia]"
+  }
+]

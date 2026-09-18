@@ -1,0 +1,278 @@
+[
+  {
+    "id": "clima_calendario_es_id_15pm70d",
+    "word": "lluvia",
+    "translation": "chuva",
+    "syllables": [
+      "lluvia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈʝu.bja/",
+    "portuguesePhonetic": "[IU-bia]"
+  },
+  {
+    "id": "clima_calendario_es_id_8qyk4sx",
+    "word": "viento",
+    "translation": "vento",
+    "syllables": [
+      "viento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbjen.to/",
+    "portuguesePhonetic": "[BIÊN-tô]"
+  },
+  {
+    "id": "clima_calendario_es_id_lcwag0p",
+    "word": "calor",
+    "translation": "calor",
+    "syllables": [
+      "calor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.ˈloɾ/",
+    "portuguesePhonetic": "[ka-LÔR]"
+  },
+  {
+    "id": "clima_calendario_es_id_xmv3eqj",
+    "word": "frío",
+    "translation": "frio",
+    "syllables": [
+      "frío"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfɾi.o/",
+    "portuguesePhonetic": "[FRI-ô]"
+  },
+  {
+    "id": "clima_calendario_es_id_5p6b68j",
+    "word": "primavera",
+    "translation": "primavera",
+    "syllables": [
+      "primavera"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɾi.ma.ˈbe.ɾa/",
+    "portuguesePhonetic": "[pri-ma-BÊ-ra]"
+  },
+  {
+    "id": "clima_calendario_es_id_eedzvbj",
+    "word": "verano",
+    "translation": "verão",
+    "syllables": [
+      "verano"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/be.ˈɾa.no/",
+    "portuguesePhonetic": "[bê-RA-nô]"
+  },
+  {
+    "id": "clima_calendario_es_id_wljeq71",
+    "word": "otoño",
+    "translation": "outono",
+    "syllables": [
+      "otoño"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/o.ˈto.ɲo/",
+    "portuguesePhonetic": "[ô-TÔ-nhô]"
+  },
+  {
+    "id": "clima_calendario_es_id_grm6452",
+    "word": "invierno",
+    "translation": "inverno",
+    "syllables": [
+      "invierno"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/in.ˈbjeɾ.no/",
+    "portuguesePhonetic": "[in-BIÊR-nô]"
+  },
+  {
+    "id": "clima_calendario_es_id_ut1rsda",
+    "word": "hoy",
+    "translation": "hoje",
+    "syllables": [
+      "hoy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/oj/",
+    "portuguesePhonetic": "[ÔI]"
+  },
+  {
+    "id": "clima_calendario_es_id_3upq3tp",
+    "word": "ayer",
+    "translation": "ontem",
+    "syllables": [
+      "ayer"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈʝeɾ/",
+    "portuguesePhonetic": "[a-IÊR]"
+  },
+  {
+    "id": "clima_calendario_es_id_p74wvky",
+    "word": "mañana",
+    "translation": "amanhã; manhã",
+    "syllables": [
+      "mañana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ma.ˈɲa.na/",
+    "portuguesePhonetic": "[ma-NHA-na]"
+  },
+  {
+    "id": "clima_calendario_es_id_4u4vg2r",
+    "word": "tarde",
+    "translation": "tarde",
+    "syllables": [
+      "tarde"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtaɾ.de/",
+    "portuguesePhonetic": "[TAR-dê]"
+  },
+  {
+    "id": "clima_calendario_es_id_lt9i915",
+    "word": "noche",
+    "translation": "noite",
+    "syllables": [
+      "noche"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈno.tʃe/",
+    "portuguesePhonetic": "[NÔ-tchê]"
+  },
+  {
+    "id": "clima_calendario_es_id_bf9fxo2",
+    "word": "semana",
+    "translation": "semana",
+    "syllables": [
+      "semana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se.ˈma.na/",
+    "portuguesePhonetic": "[sê-MA-na]"
+  },
+  {
+    "id": "clima_calendario_es_id_inzwqm0",
+    "word": "mes",
+    "translation": "mês",
+    "syllables": [
+      "mes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mes/",
+    "portuguesePhonetic": "[MÊS]"
+  },
+  {
+    "id": "clima_calendario_es_id_iuhmfkq",
+    "word": "año",
+    "translation": "ano",
+    "syllables": [
+      "año"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈa.ɲo/",
+    "portuguesePhonetic": "[A-nhô]"
+  },
+  {
+    "id": "clima_calendario_es_id_bnqlen6",
+    "word": "lunes",
+    "translation": "segunda-feira",
+    "syllables": [
+      "lunes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈlu.nes/",
+    "portuguesePhonetic": "[LU-nês]"
+  },
+  {
+    "id": "clima_calendario_es_id_u6fj9pl",
+    "word": "martes",
+    "translation": "terça-feira",
+    "syllables": [
+      "martes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈmaɾ.tes/",
+    "portuguesePhonetic": "[MAR-tês]"
+  },
+  {
+    "id": "clima_calendario_es_id_3bxb7ox",
+    "word": "miércoles",
+    "translation": "quarta-feira",
+    "syllables": [
+      "miércoles"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈmjeɾ.ko.les/",
+    "portuguesePhonetic": "[MIÊR-kô-lês]"
+  },
+  {
+    "id": "clima_calendario_es_id_el3yhxr",
+    "word": "jueves",
+    "translation": "quinta-feira",
+    "syllables": [
+      "jueves"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈxwe.bes/",
+    "portuguesePhonetic": "[RRUÊ-bês]"
+  },
+  {
+    "id": "clima_calendario_es_id_bqpsbo2",
+    "word": "viernes",
+    "translation": "sexta-feira",
+    "syllables": [
+      "viernes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbjeɾ.nes/",
+    "portuguesePhonetic": "[BIÊR-nês]"
+  },
+  {
+    "id": "clima_calendario_es_id_fmtz6hq",
+    "word": "sábado",
+    "translation": "sábado",
+    "syllables": [
+      "sábado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsa.ba.do/",
+    "portuguesePhonetic": "[SA-ba-dô]"
+  },
+  {
+    "id": "clima_calendario_es_id_m8n5ulq",
+    "word": "domingo",
+    "translation": "domingo",
+    "syllables": [
+      "domingo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/do.ˈmin.go/",
+    "portuguesePhonetic": "[dô-MIN-gô]"
+  }
+]

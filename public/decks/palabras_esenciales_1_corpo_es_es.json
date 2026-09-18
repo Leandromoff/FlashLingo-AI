@@ -1,0 +1,182 @@
+[
+  {
+    "id": "corpo_es_id_fh75ijp",
+    "word": "cabeza",
+    "translation": "cabeça",
+    "syllables": [
+      "cabeza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.ˈbe.θa/",
+    "portuguesePhonetic": "[ka-BÊ-tha]"
+  },
+  {
+    "id": "corpo_es_id_8yks1y4",
+    "word": "ojo",
+    "translation": "olho",
+    "syllables": [
+      "ojo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈo.xo/",
+    "portuguesePhonetic": "[Ô-rrô]"
+  },
+  {
+    "id": "corpo_es_id_1dka47x",
+    "word": "oreja",
+    "translation": "orelha",
+    "syllables": [
+      "oreja"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/o.ˈɾe.xa/",
+    "portuguesePhonetic": "[ô-RÊ-rra]"
+  },
+  {
+    "id": "corpo_es_id_g87lm13",
+    "word": "nariz",
+    "translation": "nariz",
+    "syllables": [
+      "nariz"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/na.ˈɾiθ/",
+    "portuguesePhonetic": "[na-RITH]"
+  },
+  {
+    "id": "corpo_es_id_27bju4q",
+    "word": "boca",
+    "translation": "boca",
+    "syllables": [
+      "boca"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbo.ka/",
+    "portuguesePhonetic": "[BÔ-ka]"
+  },
+  {
+    "id": "corpo_es_id_ce4iqr6",
+    "word": "diente",
+    "translation": "dente",
+    "syllables": [
+      "diente"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdjen.te/",
+    "portuguesePhonetic": "[DIÊN-tê]"
+  },
+  {
+    "id": "corpo_es_id_tsb6qaq",
+    "word": "pelo",
+    "translation": "cabelo",
+    "syllables": [
+      "pelo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpe.lo/",
+    "portuguesePhonetic": "[PÊ-lô]"
+  },
+  {
+    "id": "corpo_es_id_iezi42e",
+    "word": "garganta",
+    "translation": "garganta",
+    "syllables": [
+      "garganta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/gaɾ.ˈgan.ta/",
+    "portuguesePhonetic": "[gar-GAN-ta]"
+  },
+  {
+    "id": "corpo_es_id_r1qtv4q",
+    "word": "brazo",
+    "translation": "braço",
+    "syllables": [
+      "brazo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbɾa.θo/",
+    "portuguesePhonetic": "[BRA-thô]"
+  },
+  {
+    "id": "corpo_es_id_por5j35",
+    "word": "mano",
+    "translation": "mão",
+    "syllables": [
+      "mano"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈma.no/",
+    "portuguesePhonetic": "[MA-nô]"
+  },
+  {
+    "id": "corpo_es_id_zv5yn31",
+    "word": "espalda",
+    "translation": "costas",
+    "syllables": [
+      "espalda"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.ˈpal.da/",
+    "portuguesePhonetic": "[ês-PAL-da]"
+  },
+  {
+    "id": "corpo_es_id_udo7kdh",
+    "word": "pierna",
+    "translation": "perna",
+    "syllables": [
+      "pierna"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpjeɾ.na/",
+    "portuguesePhonetic": "[PIÊR-na]"
+  },
+  {
+    "id": "corpo_es_id_ayue8le",
+    "word": "rodilla",
+    "translation": "joelho",
+    "syllables": [
+      "rodilla"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ro.ˈdi.ʝa/",
+    "portuguesePhonetic": "[rrô-DI-ia]"
+  },
+  {
+    "id": "corpo_es_id_ubs0c1w",
+    "word": "pie",
+    "translation": "pé",
+    "syllables": [
+      "pie"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pje/",
+    "portuguesePhonetic": "[PIÊ]"
+  },
+  {
+    "id": "corpo_es_id_esk48vh",
+    "word": "estómago",
+    "translation": "estômago",
+    "syllables": [
+      "estómago"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.ˈto.ma.go/",
+    "portuguesePhonetic": "[ês-TÔ-ma-gô]"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "emergencias_seguranca_es_id_lv2hwei",
+    "word": "socorro",
+    "translation": "socorro",
+    "syllables": [
+      "socorro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/so.ˈko.ro/",
+    "portuguesePhonetic": "[sô-KÔ-rrô]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_zclt9ei",
+    "word": "ayuda",
+    "translation": "ajuda",
+    "syllables": [
+      "ayuda"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈʝu.da/",
+    "portuguesePhonetic": "[a-IU-da]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_ksypz1a",
+    "word": "emergencia",
+    "translation": "emergência",
+    "syllables": [
+      "emergencia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/e.meɾ.ˈxen.θja/",
+    "portuguesePhonetic": "[ê-mêr-RRÊN-thia]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_kpacsyx",
+    "word": "incendio",
+    "translation": "incêndio",
+    "syllables": [
+      "incendio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/in.ˈθen.djo/",
+    "portuguesePhonetic": "[in-THÊN-diô]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_4hobjsy",
+    "word": "humo",
+    "translation": "fumaça",
+    "syllables": [
+      "humo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈu.mo/",
+    "portuguesePhonetic": "[U-mô]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_s027dcq",
+    "word": "accidente",
+    "translation": "acidente",
+    "syllables": [
+      "accidente"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ak.θi.ˈden.te/",
+    "portuguesePhonetic": "[ak-thi-DÊN-tê]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_o2sxx7f",
+    "word": "robo",
+    "translation": "roubo; furto",
+    "syllables": [
+      "robo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈro.bo/",
+    "portuguesePhonetic": "[RRÔ-bô]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_q0tzd0r",
+    "word": "policía",
+    "translation": "polícia; policial",
+    "syllables": [
+      "policía"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/po.li.ˈθi.a/",
+    "portuguesePhonetic": "[pô-li-THI-a]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_ao1ynj3",
+    "word": "bombero",
+    "translation": "bombeiro",
+    "syllables": [
+      "bombero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bom.ˈbe.ɾo/",
+    "portuguesePhonetic": "[bôm-BÊ-rô]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_dvc4096",
+    "word": "ambulancia",
+    "translation": "ambulância",
+    "syllables": [
+      "ambulancia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/am.bu.ˈlan.θja/",
+    "portuguesePhonetic": "[am-bu-LAN-thia]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_qga239c",
+    "word": "evacuación",
+    "translation": "evacuação",
+    "syllables": [
+      "evacuación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/e.ba.kwa.ˈθjon/",
+    "portuguesePhonetic": "[ê-ba-kua-THIÔN]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_pus1mmi",
+    "word": "extintor",
+    "translation": "extintor",
+    "syllables": [
+      "extintor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/eks.tin.ˈtoɾ/",
+    "portuguesePhonetic": "[êks-tin-TÔR]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_sut2t5z",
+    "word": "alarma",
+    "translation": "alarme",
+    "syllables": [
+      "alarma"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈlaɾ.ma/",
+    "portuguesePhonetic": "[a-LAR-ma]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_btzubr3",
+    "word": "denuncia",
+    "translation": "denúncia; registro de ocorrência",
+    "syllables": [
+      "denuncia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de.ˈnun.θja/",
+    "portuguesePhonetic": "[dê-NUN-thia]"
+  },
+  {
+    "id": "emergencias_seguranca_es_id_be9quzh",
+    "word": "seguro",
+    "translation": "seguro; em segurança",
+    "syllables": [
+      "seguro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se.ˈgu.ɾo/",
+    "portuguesePhonetic": "[sê-GU-rô]"
+  }
+]

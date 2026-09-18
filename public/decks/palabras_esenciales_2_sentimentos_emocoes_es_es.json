@@ -1,0 +1,182 @@
+[
+  {
+    "id": "sentimentos_emocoes_es_id_mydnc06",
+    "word": "alegría",
+    "translation": "alegria",
+    "syllables": [
+      "alegría"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.le.ˈgɾi.a/",
+    "portuguesePhonetic": "[a-lê-GRI-a]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_c8uyve4",
+    "word": "tristeza",
+    "translation": "tristeza",
+    "syllables": [
+      "tristeza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾis.ˈte.θa/",
+    "portuguesePhonetic": "[tris-TÊ-tha]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_kwljyxk",
+    "word": "miedo",
+    "translation": "medo",
+    "syllables": [
+      "miedo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈmje.do/",
+    "portuguesePhonetic": "[MIÊ-dô]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_na446b9",
+    "word": "amor",
+    "translation": "amor",
+    "syllables": [
+      "amor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈmoɾ/",
+    "portuguesePhonetic": "[a-MÔR]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_5fb941q",
+    "word": "cariño",
+    "translation": "carinho",
+    "syllables": [
+      "cariño"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.ˈɾi.ɲo/",
+    "portuguesePhonetic": "[ka-RI-nhô]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_rd02uui",
+    "word": "nostalgia",
+    "translation": "saudade; nostalgia",
+    "syllables": [
+      "nostalgia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos.ˈtal.xja/",
+    "portuguesePhonetic": "[nôs-TAL-rria]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_8ybtq7x",
+    "word": "preocupación",
+    "translation": "preocupação",
+    "syllables": [
+      "preocupación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɾe.o.ku.pa.ˈθjon/",
+    "portuguesePhonetic": "[prê-ô-ku-pa-THIÔN]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_01un3qm",
+    "word": "tranquilidad",
+    "translation": "tranquilidade",
+    "syllables": [
+      "tranquilidad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾan.ki.li.ˈdad/",
+    "portuguesePhonetic": "[tran-ki-li-DAD]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_8u5fg8h",
+    "word": "enfado",
+    "translation": "raiva; aborrecimento",
+    "syllables": [
+      "enfado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/en.ˈfa.do/",
+    "portuguesePhonetic": "[ên-FA-dô]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_onz7p34",
+    "word": "vergüenza",
+    "translation": "vergonha",
+    "syllables": [
+      "vergüenza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/beɾ.ˈgwen.θa/",
+    "portuguesePhonetic": "[bêr-GUÊN-tha]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_rkfu57d",
+    "word": "sorpresa",
+    "translation": "surpresa",
+    "syllables": [
+      "sorpresa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/soɾ.ˈpɾe.sa/",
+    "portuguesePhonetic": "[sôr-PRÊ-sa]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_ficoyp5",
+    "word": "ilusión",
+    "translation": "entusiasmo; expectativa feliz",
+    "syllables": [
+      "ilusión"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/i.lu.ˈsjon/",
+    "portuguesePhonetic": "[i-lu-SIÔN]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_8f5zgks",
+    "word": "esperanza",
+    "translation": "esperança",
+    "syllables": [
+      "esperanza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.pe.ˈɾan.θa/",
+    "portuguesePhonetic": "[ês-pê-RAN-tha]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_6vlasgy",
+    "word": "orgullo",
+    "translation": "orgulho",
+    "syllables": [
+      "orgullo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/oɾ.ˈgu.ʝo/",
+    "portuguesePhonetic": "[ôr-GU-iô]"
+  },
+  {
+    "id": "sentimentos_emocoes_es_id_xagblea",
+    "word": "alivio",
+    "translation": "alívio",
+    "syllables": [
+      "alivio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈli.bjo/",
+    "portuguesePhonetic": "[a-LI-biô]"
+  }
+]

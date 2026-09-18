@@ -1,0 +1,182 @@
+[
+  {
+    "id": "transportes_es_id_3tpq18k",
+    "word": "coche",
+    "translation": "carro",
+    "syllables": [
+      "coche"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈko.tʃe/",
+    "portuguesePhonetic": "[KÔ-tchê]"
+  },
+  {
+    "id": "transportes_es_id_uh6il8d",
+    "word": "autobús",
+    "translation": "ônibus",
+    "syllables": [
+      "autobús"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aw.to.ˈbus/",
+    "portuguesePhonetic": "[au-tô-BUS]"
+  },
+  {
+    "id": "transportes_es_id_i35m2cw",
+    "word": "tren",
+    "translation": "trem",
+    "syllables": [
+      "tren"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾen/",
+    "portuguesePhonetic": "[TRÊN]"
+  },
+  {
+    "id": "transportes_es_id_sawd2f1",
+    "word": "metro",
+    "translation": "metrô",
+    "syllables": [
+      "metro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈme.tɾo/",
+    "portuguesePhonetic": "[MÊ-trô]"
+  },
+  {
+    "id": "transportes_es_id_eqczo3j",
+    "word": "estación",
+    "translation": "estação",
+    "syllables": [
+      "estación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.ta.ˈθjon/",
+    "portuguesePhonetic": "[ês-ta-THIÔN]"
+  },
+  {
+    "id": "transportes_es_id_p53btbg",
+    "word": "parada",
+    "translation": "ponto de ônibus; parada",
+    "syllables": [
+      "parada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pa.ˈɾa.da/",
+    "portuguesePhonetic": "[pa-RA-da]"
+  },
+  {
+    "id": "transportes_es_id_kfhtybd",
+    "word": "andén",
+    "translation": "plataforma",
+    "syllables": [
+      "andén"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/an.ˈden/",
+    "portuguesePhonetic": "[an-DÊN]"
+  },
+  {
+    "id": "transportes_es_id_el5lhke",
+    "word": "transbordo",
+    "translation": "baldeação",
+    "syllables": [
+      "transbordo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾans.ˈboɾ.do/",
+    "portuguesePhonetic": "[trans-BÔR-dô]"
+  },
+  {
+    "id": "transportes_es_id_r7mhl6r",
+    "word": "billete",
+    "translation": "passagem; bilhete",
+    "syllables": [
+      "billete"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bi.ˈʝe.te/",
+    "portuguesePhonetic": "[bi-IÊ-tê]"
+  },
+  {
+    "id": "transportes_es_id_4olhy61",
+    "word": "abono",
+    "translation": "passe de transporte",
+    "syllables": [
+      "abono"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈbo.no/",
+    "portuguesePhonetic": "[a-BÔ-nô]"
+  },
+  {
+    "id": "transportes_es_id_xx7r3kj",
+    "word": "tarjeta",
+    "translation": "cartão",
+    "syllables": [
+      "tarjeta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/taɾ.ˈxe.ta/",
+    "portuguesePhonetic": "[tar-RRÊ-ta]"
+  },
+  {
+    "id": "transportes_es_id_4n3jn32",
+    "word": "horario",
+    "translation": "horário",
+    "syllables": [
+      "horario"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/o.ˈɾa.ɾjo/",
+    "portuguesePhonetic": "[ô-RA-riô]"
+  },
+  {
+    "id": "transportes_es_id_99u9wcq",
+    "word": "calle",
+    "translation": "rua",
+    "syllables": [
+      "calle"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈka.ʝe/",
+    "portuguesePhonetic": "[KA-iê]"
+  },
+  {
+    "id": "transportes_es_id_8mo3dxx",
+    "word": "dirección",
+    "translation": "endereço; direção",
+    "syllables": [
+      "dirección"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/di.ɾek.ˈθjon/",
+    "portuguesePhonetic": "[di-rêk-THIÔN]"
+  },
+  {
+    "id": "transportes_es_id_kiqmtlr",
+    "word": "salida",
+    "translation": "saída",
+    "syllables": [
+      "salida"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sa.ˈli.da/",
+    "portuguesePhonetic": "[sa-LI-da]"
+  }
+]

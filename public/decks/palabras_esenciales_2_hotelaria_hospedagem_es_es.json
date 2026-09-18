@@ -1,0 +1,182 @@
+[
+  {
+    "id": "hotelaria_hospedagem_es_id_9z0933l",
+    "word": "hotel",
+    "translation": "hotel",
+    "syllables": [
+      "hotel"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/o.ˈtel/",
+    "portuguesePhonetic": "[ô-TÊL]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_88w0u2g",
+    "word": "hostal",
+    "translation": "pensão; hospedaria",
+    "syllables": [
+      "hostal"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/os.ˈtal/",
+    "portuguesePhonetic": "[ôs-TAL]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_gaff0e9",
+    "word": "albergue",
+    "translation": "albergue; hostel",
+    "syllables": [
+      "albergue"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/al.ˈbeɾ.ge/",
+    "portuguesePhonetic": "[al-BÊR-guê]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_8vpuu0f",
+    "word": "alojamiento",
+    "translation": "hospedagem",
+    "syllables": [
+      "alojamiento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.lo.xa.ˈmjen.to/",
+    "portuguesePhonetic": "[a-lô-rra-MIÊN-tô]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_lt97edf",
+    "word": "recepción",
+    "translation": "recepção",
+    "syllables": [
+      "recepción"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.θep.ˈθjon/",
+    "portuguesePhonetic": "[rrê-thêp-THIÔN]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_9dnqcgn",
+    "word": "recepcionista",
+    "translation": "recepcionista",
+    "syllables": [
+      "recepcionista"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.θep.θjo.ˈnis.ta/",
+    "portuguesePhonetic": "[rrê-thêp-thiô-NIS-ta]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_kkzq6sy",
+    "word": "huésped",
+    "translation": "hóspede",
+    "syllables": [
+      "huésped"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈwes.ped/",
+    "portuguesePhonetic": "[UÊS-pêd]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_z4iv80w",
+    "word": "habitación",
+    "translation": "quarto",
+    "syllables": [
+      "habitación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.bi.ta.ˈθjon/",
+    "portuguesePhonetic": "[a-bi-ta-THIÔN]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_3jnohnr",
+    "word": "reserva",
+    "translation": "reserva",
+    "syllables": [
+      "reserva"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.ˈseɾ.ba/",
+    "portuguesePhonetic": "[rrê-SÊR-ba]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_745ne9j",
+    "word": "disponibilidad",
+    "translation": "disponibilidade",
+    "syllables": [
+      "disponibilidad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dis.po.ni.bi.li.ˈdad/",
+    "portuguesePhonetic": "[dis-pô-ni-bi-li-DAD]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_e40emxk",
+    "word": "tarifa",
+    "translation": "tarifa; preço da hospedagem",
+    "syllables": [
+      "tarifa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ta.ˈɾi.fa/",
+    "portuguesePhonetic": "[ta-RI-fa]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_je39e5j",
+    "word": "estancia",
+    "translation": "estadia",
+    "syllables": [
+      "estancia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.ˈtan.θja/",
+    "portuguesePhonetic": "[ês-TAN-thia]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_rv91wy4",
+    "word": "desayuno",
+    "translation": "café da manhã",
+    "syllables": [
+      "desayuno"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de.sa.ˈʝu.no/",
+    "portuguesePhonetic": "[dê-sa-IU-nô]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_utddil0",
+    "word": "consigna",
+    "translation": "guarda-volumes",
+    "syllables": [
+      "consigna"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kon.ˈsig.na/",
+    "portuguesePhonetic": "[kôn-SIG-na]"
+  },
+  {
+    "id": "hotelaria_hospedagem_es_id_6amiwjq",
+    "word": "cancelación",
+    "translation": "cancelamento",
+    "syllables": [
+      "cancelación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kan.θe.la.ˈθjon/",
+    "portuguesePhonetic": "[kan-thê-la-THIÔN]"
+  }
+]

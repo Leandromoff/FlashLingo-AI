@@ -763,19 +763,164 @@
     "en": 0,
     "es": 94
   },
-  "mis_estudios_lesson_2_es": {
-    "cardCount": 50,
+  "palabras_esenciales_1_corpo_es": {
+    "cardCount": 15,
     "en": 0,
-    "es": 50
+    "es": 15
   },
-  "mis_estudios_lesson_3_es": {
-    "cardCount": 52,
+  "palabras_esenciales_1_cozinha_es": {
+    "cardCount": 15,
     "en": 0,
-    "es": 52
+    "es": 15
   },
-  "mis_estudios_lesson_4_es": {
-    "cardCount": 52,
+  "palabras_esenciales_1_alimentos_bebidas_es": {
+    "cardCount": 25,
     "en": 0,
-    "es": 52
+    "es": 25
+  },
+  "palabras_esenciales_1_aeroporto_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_1_transportes_cidade_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_1_casa_aluguel_es": {
+    "cardCount": 14,
+    "en": 0,
+    "es": 14
+  },
+  "palabras_esenciales_1_higiene_limpeza_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_1_roupas_acessorios_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_1_saude_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_1_compras_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_1_restaurantes_refeicoes_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_1_trabalho_tecnologia_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_1_lazer_natureza_es": {
+    "cardCount": 14,
+    "en": 0,
+    "es": 14
+  },
+  "palabras_esenciales_1_clima_calendario_es": {
+    "cardCount": 23,
+    "en": 0,
+    "es": 23
+  },
+  "palabras_esenciales_1_verbos_essenciais_es": {
+    "cardCount": 30,
+    "en": 0,
+    "es": 30
+  },
+  "palabras_esenciales_1_descricoes_localizacao_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_meses_dias_semana_es": {
+    "cardCount": 21,
+    "en": 0,
+    "es": 21
+  },
+  "palabras_esenciales_2_sinais_transito_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_urbanismo_espacos_publicos_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_documentacao_imigracao_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_bancos_financas_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_correios_entregas_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_servicos_publicos_es": {
+    "cardCount": 14,
+    "en": 0,
+    "es": 14
+  },
+  "palabras_esenciales_2_familia_relacionamentos_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_sentimentos_emocoes_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_personalidade_comportamento_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_educacao_estudos_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_numeros_medidas_es": {
+    "cardCount": 32,
+    "en": 0,
+    "es": 32
+  },
+  "palabras_esenciales_2_cores_formas_materiais_es": {
+    "cardCount": 20,
+    "en": 0,
+    "es": 20
+  },
+  "palabras_esenciales_2_ferramentas_manutencao_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_hotelaria_hospedagem_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "palabras_esenciales_2_emergencias_seguranca_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
   }
 }

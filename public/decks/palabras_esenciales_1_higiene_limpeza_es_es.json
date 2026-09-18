@@ -1,0 +1,182 @@
+[
+  {
+    "id": "higiene_limpeza_es_id_rv4eg0o",
+    "word": "ducha",
+    "translation": "chuveiro; ducha",
+    "syllables": [
+      "ducha"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdu.tʃa/",
+    "portuguesePhonetic": "[DU-tcha]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_9m1buhe",
+    "word": "inodoro",
+    "translation": "vaso sanitário",
+    "syllables": [
+      "inodoro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/i.no.ˈdo.ɾo/",
+    "portuguesePhonetic": "[i-nô-DÔ-rô]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_1u27oc3",
+    "word": "lavabo",
+    "translation": "pia do banheiro",
+    "syllables": [
+      "lavabo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la.ˈba.bo/",
+    "portuguesePhonetic": "[la-BA-bô]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_erjremr",
+    "word": "toalla",
+    "translation": "toalha",
+    "syllables": [
+      "toalla"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/to.ˈa.ʝa/",
+    "portuguesePhonetic": "[tô-A-ia]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_bfyg7kk",
+    "word": "jabón",
+    "translation": "sabão; sabonete",
+    "syllables": [
+      "jabón"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/xa.ˈbon/",
+    "portuguesePhonetic": "[rra-BÔN]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_gnxvt9j",
+    "word": "champú",
+    "translation": "xampu",
+    "syllables": [
+      "champú"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tʃam.ˈpu/",
+    "portuguesePhonetic": "[tcham-PU]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_jd9zyt5",
+    "word": "cepillo",
+    "translation": "escova",
+    "syllables": [
+      "cepillo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/θe.ˈpi.ʝo/",
+    "portuguesePhonetic": "[thê-PI-iô]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_lonp6tg",
+    "word": "peine",
+    "translation": "pente",
+    "syllables": [
+      "peine"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpej.ne/",
+    "portuguesePhonetic": "[PÊI-nê]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_mpmd2uo",
+    "word": "lavadora",
+    "translation": "máquina de lavar roupa",
+    "syllables": [
+      "lavadora"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la.ba.ˈdo.ɾa/",
+    "portuguesePhonetic": "[la-ba-DÔ-ra]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_fj5ym5c",
+    "word": "escoba",
+    "translation": "vassoura",
+    "syllables": [
+      "escoba"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.ˈko.ba/",
+    "portuguesePhonetic": "[ês-KÔ-ba]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_sudj84r",
+    "word": "fregona",
+    "translation": "esfregão",
+    "syllables": [
+      "fregona"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/fɾe.ˈgo.na/",
+    "portuguesePhonetic": "[frê-GÔ-na]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_w6q1ztx",
+    "word": "cubo",
+    "translation": "balde",
+    "syllables": [
+      "cubo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈku.bo/",
+    "portuguesePhonetic": "[KU-bô]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_zayu6a1",
+    "word": "basura",
+    "translation": "lixo",
+    "syllables": [
+      "basura"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ba.ˈsu.ɾa/",
+    "portuguesePhonetic": "[ba-SU-ra]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_pcffggb",
+    "word": "detergente",
+    "translation": "detergente",
+    "syllables": [
+      "detergente"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de.teɾ.ˈxen.te/",
+    "portuguesePhonetic": "[dê-têr-RRÊN-tê]"
+  },
+  {
+    "id": "higiene_limpeza_es_id_wkst1p0",
+    "word": "tendedero",
+    "translation": "varal",
+    "syllables": [
+      "tendedero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ten.de.ˈde.ɾo/",
+    "portuguesePhonetic": "[tên-dê-DÊ-rô]"
+  }
+]

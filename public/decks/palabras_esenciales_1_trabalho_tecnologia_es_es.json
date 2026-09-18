@@ -1,0 +1,182 @@
+[
+  {
+    "id": "trabalho_tecnologia_es_id_rs4tgub",
+    "word": "trabajo",
+    "translation": "trabalho",
+    "syllables": [
+      "trabajo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾa.ˈba.xo/",
+    "portuguesePhonetic": "[tra-BA-rrô]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_t2vs7ai",
+    "word": "empleo",
+    "translation": "emprego",
+    "syllables": [
+      "empleo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/em.ˈple.o/",
+    "portuguesePhonetic": "[êm-PLÊ-ô]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_mnj50oe",
+    "word": "empresa",
+    "translation": "empresa",
+    "syllables": [
+      "empresa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/em.ˈpɾe.sa/",
+    "portuguesePhonetic": "[êm-PRÊ-sa]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_30mav8y",
+    "word": "oficina",
+    "translation": "escritório",
+    "syllables": [
+      "oficina"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/o.fi.ˈθi.na/",
+    "portuguesePhonetic": "[ô-fi-THI-na]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_q1n2sbv",
+    "word": "reunión",
+    "translation": "reunião",
+    "syllables": [
+      "reunión"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/rew.ˈnjon/",
+    "portuguesePhonetic": "[rrêu-NIÔN]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_4kmqcty",
+    "word": "entrevista",
+    "translation": "entrevista",
+    "syllables": [
+      "entrevista"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/en.tɾe.ˈbis.ta/",
+    "portuguesePhonetic": "[ên-trê-BIS-ta]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_148ujvg",
+    "word": "sueldo",
+    "translation": "salário",
+    "syllables": [
+      "sueldo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈswel.do/",
+    "portuguesePhonetic": "[SUÊL-dô]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_str2w94",
+    "word": "compañero",
+    "translation": "colega",
+    "syllables": [
+      "compañero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kom.pa.ˈɲe.ɾo/",
+    "portuguesePhonetic": "[kôm-pa-NHÊ-rô]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_w6e83h0",
+    "word": "ordenador",
+    "translation": "computador",
+    "syllables": [
+      "ordenador"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/oɾ.de.na.ˈdoɾ/",
+    "portuguesePhonetic": "[ôr-dê-na-DÔR]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_hriu9z1",
+    "word": "móvil",
+    "translation": "celular",
+    "syllables": [
+      "móvil"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈmo.bil/",
+    "portuguesePhonetic": "[MÔ-bil]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_bezq49d",
+    "word": "cargador",
+    "translation": "carregador",
+    "syllables": [
+      "cargador"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kaɾ.ga.ˈdoɾ/",
+    "portuguesePhonetic": "[kar-ga-DÔR]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_mfeaxla",
+    "word": "batería",
+    "translation": "bateria",
+    "syllables": [
+      "batería"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ba.te.ˈɾi.a/",
+    "portuguesePhonetic": "[ba-tê-RI-a]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_r8z3bwt",
+    "word": "contraseña",
+    "translation": "senha",
+    "syllables": [
+      "contraseña"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kon.tɾa.ˈse.ɲa/",
+    "portuguesePhonetic": "[kôn-tra-SÊ-nha]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_b5a1rwm",
+    "word": "correo",
+    "translation": "correio; e-mail",
+    "syllables": [
+      "correo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ko.ˈre.o/",
+    "portuguesePhonetic": "[kô-RRÊ-ô]"
+  },
+  {
+    "id": "trabalho_tecnologia_es_id_ttzbxu7",
+    "word": "mensaje",
+    "translation": "mensagem",
+    "syllables": [
+      "mensaje"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/men.ˈsa.xe/",
+    "portuguesePhonetic": "[mên-SA-rrê]"
+  }
+]

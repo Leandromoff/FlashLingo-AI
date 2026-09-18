@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cozinha_es_id_5a9958g",
+    "word": "cocina",
+    "translation": "cozinha",
+    "syllables": [
+      "cocina"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ko.ˈθi.na/",
+    "portuguesePhonetic": "[kô-THI-na]"
+  },
+  {
+    "id": "cozinha_es_id_hrxermz",
+    "word": "plato",
+    "translation": "prato",
+    "syllables": [
+      "plato"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpla.to/",
+    "portuguesePhonetic": "[PLA-tô]"
+  },
+  {
+    "id": "cozinha_es_id_4y4svko",
+    "word": "vaso",
+    "translation": "copo",
+    "syllables": [
+      "vaso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈba.so/",
+    "portuguesePhonetic": "[BA-sô]"
+  },
+  {
+    "id": "cozinha_es_id_o18cq73",
+    "word": "taza",
+    "translation": "xícara",
+    "syllables": [
+      "taza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈta.θa/",
+    "portuguesePhonetic": "[TA-tha]"
+  },
+  {
+    "id": "cozinha_es_id_iorxmj9",
+    "word": "cuchara",
+    "translation": "colher",
+    "syllables": [
+      "cuchara"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ku.ˈtʃa.ɾa/",
+    "portuguesePhonetic": "[ku-TCHA-ra]"
+  },
+  {
+    "id": "cozinha_es_id_14qidic",
+    "word": "tenedor",
+    "translation": "garfo",
+    "syllables": [
+      "tenedor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te.ne.ˈdoɾ/",
+    "portuguesePhonetic": "[tê-nê-DÔR]"
+  },
+  {
+    "id": "cozinha_es_id_270x7su",
+    "word": "cuchillo",
+    "translation": "faca",
+    "syllables": [
+      "cuchillo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ku.ˈtʃi.ʝo/",
+    "portuguesePhonetic": "[ku-TCHI-iô]"
+  },
+  {
+    "id": "cozinha_es_id_c9kniux",
+    "word": "olla",
+    "translation": "panela",
+    "syllables": [
+      "olla"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈo.ʝa/",
+    "portuguesePhonetic": "[Ô-ia]"
+  },
+  {
+    "id": "cozinha_es_id_gwcmvan",
+    "word": "sartén",
+    "translation": "frigideira",
+    "syllables": [
+      "sartén"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/saɾ.ˈten/",
+    "portuguesePhonetic": "[sar-TÊN]"
+  },
+  {
+    "id": "cozinha_es_id_8rhpkru",
+    "word": "botella",
+    "translation": "garrafa",
+    "syllables": [
+      "botella"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bo.ˈte.ʝa/",
+    "portuguesePhonetic": "[bô-TÊ-ia]"
+  },
+  {
+    "id": "cozinha_es_id_z5e0lsc",
+    "word": "grifo",
+    "translation": "torneira",
+    "syllables": [
+      "grifo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈgɾi.fo/",
+    "portuguesePhonetic": "[GRI-fô]"
+  },
+  {
+    "id": "cozinha_es_id_bngyvbh",
+    "word": "nevera",
+    "translation": "geladeira",
+    "syllables": [
+      "nevera"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ne.ˈbe.ɾa/",
+    "portuguesePhonetic": "[nê-BÊ-ra]"
+  },
+  {
+    "id": "cozinha_es_id_uq0tzs7",
+    "word": "horno",
+    "translation": "forno",
+    "syllables": [
+      "horno"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈoɾ.no/",
+    "portuguesePhonetic": "[ÔR-nô]"
+  },
+  {
+    "id": "cozinha_es_id_palhw48",
+    "word": "microondas",
+    "translation": "micro-ondas",
+    "syllables": [
+      "microondas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi.kɾo.ˈon.das/",
+    "portuguesePhonetic": "[mi-krô-ÔN-das]"
+  },
+  {
+    "id": "cozinha_es_id_i6emcgd",
+    "word": "cafetera",
+    "translation": "cafeteira",
+    "syllables": [
+      "cafetera"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.fe.ˈte.ɾa/",
+    "portuguesePhonetic": "[ka-fê-TÊ-ra]"
+  }
+]

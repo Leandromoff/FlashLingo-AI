@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ferramentas_manutencao_es_id_s0c844c",
+    "word": "martillo",
+    "translation": "martelo",
+    "syllables": [
+      "martillo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɾ.ˈti.ʝo/",
+    "portuguesePhonetic": "[mar-TI-iô]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_fkr2ry5",
+    "word": "destornillador",
+    "translation": "chave de fenda",
+    "syllables": [
+      "destornillador"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/des.toɾ.ni.ˈʝa.doɾ/",
+    "portuguesePhonetic": "[dês-tôr-ni-IA-dôr]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_qcuu6nx",
+    "word": "alicates",
+    "translation": "alicate",
+    "syllables": [
+      "alicates"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.li.ˈka.tes/",
+    "portuguesePhonetic": "[a-li-KA-tês]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_kavw0ei",
+    "word": "taladro",
+    "translation": "furadeira",
+    "syllables": [
+      "taladro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ta.ˈla.dɾo/",
+    "portuguesePhonetic": "[ta-LA-drô]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_oj85jhl",
+    "word": "tornillo",
+    "translation": "parafuso",
+    "syllables": [
+      "tornillo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/toɾ.ˈni.ʝo/",
+    "portuguesePhonetic": "[tôr-NI-iô]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_lk511ax",
+    "word": "clavo",
+    "translation": "prego",
+    "syllables": [
+      "clavo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkla.bo/",
+    "portuguesePhonetic": "[KLA-bô]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_z4bqgnf",
+    "word": "tuerca",
+    "translation": "porca (peça)",
+    "syllables": [
+      "tuerca"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtweɾ.ka/",
+    "portuguesePhonetic": "[TUÊR-ka]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_pdl76nk",
+    "word": "taco",
+    "translation": "bucha de parede",
+    "syllables": [
+      "taco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈta.ko/",
+    "portuguesePhonetic": "[TA-kô]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_ejy8ph4",
+    "word": "pegamento",
+    "translation": "cola",
+    "syllables": [
+      "pegamento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pe.ga.ˈmen.to/",
+    "portuguesePhonetic": "[pê-ga-MÊN-tô]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_s4qjkg5",
+    "word": "pintura",
+    "translation": "tinta; pintura",
+    "syllables": [
+      "pintura"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pin.ˈtu.ɾa/",
+    "portuguesePhonetic": "[pin-TU-ra]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_8xmvuv1",
+    "word": "brocha",
+    "translation": "pincel de pintura",
+    "syllables": [
+      "brocha"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbɾo.tʃa/",
+    "portuguesePhonetic": "[BRÔ-tcha]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_ip4aeo6",
+    "word": "fuga",
+    "translation": "vazamento",
+    "syllables": [
+      "fuga"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈfu.ga/",
+    "portuguesePhonetic": "[FU-ga]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_a3kku95",
+    "word": "avería",
+    "translation": "defeito; avaria",
+    "syllables": [
+      "avería"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.be.ˈɾi.a/",
+    "portuguesePhonetic": "[a-bê-RI-a]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_4kq1rbo",
+    "word": "reparación",
+    "translation": "conserto",
+    "syllables": [
+      "reparación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.pa.ɾa.ˈθjon/",
+    "portuguesePhonetic": "[rrê-pa-ra-THIÔN]"
+  },
+  {
+    "id": "ferramentas_manutencao_es_id_10gv6kd",
+    "word": "fontanero",
+    "translation": "encanador",
+    "syllables": [
+      "fontanero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/fon.ta.ˈne.ɾo/",
+    "portuguesePhonetic": "[fôn-ta-NÊ-rô]"
+  }
+]

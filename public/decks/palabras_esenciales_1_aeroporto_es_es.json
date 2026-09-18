@@ -1,0 +1,182 @@
+[
+  {
+    "id": "aeroporto_es_id_tlc2yee",
+    "word": "aeropuerto",
+    "translation": "aeroporto",
+    "syllables": [
+      "aeropuerto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.e.ɾo.ˈpweɾ.to/",
+    "portuguesePhonetic": "[a-ê-rô-PUÊR-tô]"
+  },
+  {
+    "id": "aeroporto_es_id_3y46it8",
+    "word": "avión",
+    "translation": "avião",
+    "syllables": [
+      "avión"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈbjon/",
+    "portuguesePhonetic": "[a-BIÔN]"
+  },
+  {
+    "id": "aeroporto_es_id_01muy8h",
+    "word": "vuelo",
+    "translation": "voo",
+    "syllables": [
+      "vuelo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbwe.lo/",
+    "portuguesePhonetic": "[BUÊ-lô]"
+  },
+  {
+    "id": "aeroporto_es_id_0mfe02a",
+    "word": "pasaporte",
+    "translation": "passaporte",
+    "syllables": [
+      "pasaporte"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pa.sa.ˈpoɾ.te/",
+    "portuguesePhonetic": "[pa-sa-PÔR-tê]"
+  },
+  {
+    "id": "aeroporto_es_id_hmom8ab",
+    "word": "equipaje",
+    "translation": "bagagem",
+    "syllables": [
+      "equipaje"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/e.ki.ˈpa.xe/",
+    "portuguesePhonetic": "[ê-ki-PA-rrê]"
+  },
+  {
+    "id": "aeroporto_es_id_f7nbxgb",
+    "word": "maleta",
+    "translation": "mala",
+    "syllables": [
+      "maleta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ma.ˈle.ta/",
+    "portuguesePhonetic": "[ma-LÊ-ta]"
+  },
+  {
+    "id": "aeroporto_es_id_cuwv3zi",
+    "word": "embarque",
+    "translation": "embarque",
+    "syllables": [
+      "embarque"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/em.ˈbaɾ.ke/",
+    "portuguesePhonetic": "[êm-BAR-kê]"
+  },
+  {
+    "id": "aeroporto_es_id_qscc440",
+    "word": "aduana",
+    "translation": "alfândega",
+    "syllables": [
+      "aduana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈdwa.na/",
+    "portuguesePhonetic": "[a-DUA-na]"
+  },
+  {
+    "id": "aeroporto_es_id_efn7vrx",
+    "word": "mostrador",
+    "translation": "balcão",
+    "syllables": [
+      "mostrador"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mos.tɾa.ˈdoɾ/",
+    "portuguesePhonetic": "[môs-tra-DÔR]"
+  },
+  {
+    "id": "aeroporto_es_id_azvoscb",
+    "word": "facturación",
+    "translation": "despacho; check-in",
+    "syllables": [
+      "facturación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/fak.tu.ɾa.ˈθjon/",
+    "portuguesePhonetic": "[fak-tu-ra-THIÔN]"
+  },
+  {
+    "id": "aeroporto_es_id_nrqqrjc",
+    "word": "puerta",
+    "translation": "porta; portão",
+    "syllables": [
+      "puerta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpweɾ.ta/",
+    "portuguesePhonetic": "[PUÊR-ta]"
+  },
+  {
+    "id": "aeroporto_es_id_x2vijnd",
+    "word": "asiento",
+    "translation": "assento",
+    "syllables": [
+      "asiento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈsjen.to/",
+    "portuguesePhonetic": "[a-SIÊN-tô]"
+  },
+  {
+    "id": "aeroporto_es_id_f2ic177",
+    "word": "escala",
+    "translation": "escala",
+    "syllables": [
+      "escala"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.ˈka.la/",
+    "portuguesePhonetic": "[ês-KA-la]"
+  },
+  {
+    "id": "aeroporto_es_id_zrscal1",
+    "word": "retraso",
+    "translation": "atraso",
+    "syllables": [
+      "retraso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.ˈtɾa.so/",
+    "portuguesePhonetic": "[rrê-TRA-sô]"
+  },
+  {
+    "id": "aeroporto_es_id_h4cbid0",
+    "word": "llegada",
+    "translation": "chegada",
+    "syllables": [
+      "llegada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝe.ˈga.da/",
+    "portuguesePhonetic": "[iê-GA-da]"
+  }
+]

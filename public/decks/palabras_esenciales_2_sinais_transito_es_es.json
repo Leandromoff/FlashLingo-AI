@@ -1,0 +1,182 @@
+[
+  {
+    "id": "sinais_transito_es_id_zbud0ku",
+    "word": "señal",
+    "translation": "sinal; placa de sinalização",
+    "syllables": [
+      "señal"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se.ˈɲal/",
+    "portuguesePhonetic": "[sê-NHAL]"
+  },
+  {
+    "id": "sinais_transito_es_id_g8ps6zs",
+    "word": "tráfico",
+    "translation": "trânsito",
+    "syllables": [
+      "tráfico"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtɾa.fi.ko/",
+    "portuguesePhonetic": "[TRA-fi-kô]"
+  },
+  {
+    "id": "sinais_transito_es_id_d3ddl0r",
+    "word": "semáforo",
+    "translation": "semáforo",
+    "syllables": [
+      "semáforo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se.ˈma.fo.ɾo/",
+    "portuguesePhonetic": "[sê-MA-fô-rô]"
+  },
+  {
+    "id": "sinais_transito_es_id_wvum826",
+    "word": "prohibido",
+    "translation": "proibido",
+    "syllables": [
+      "prohibido"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɾoj.ˈbi.do/",
+    "portuguesePhonetic": "[prôi-BI-dô]"
+  },
+  {
+    "id": "sinais_transito_es_id_ia9n928",
+    "word": "obligatorio",
+    "translation": "obrigatório",
+    "syllables": [
+      "obligatorio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/o.bli.ga.ˈto.ɾjo/",
+    "portuguesePhonetic": "[ô-bli-ga-TÔ-riô]"
+  },
+  {
+    "id": "sinais_transito_es_id_m0cizo2",
+    "word": "peligro",
+    "translation": "perigo",
+    "syllables": [
+      "peligro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pe.ˈli.gɾo/",
+    "portuguesePhonetic": "[pê-LI-grô]"
+  },
+  {
+    "id": "sinais_transito_es_id_qyaa0pn",
+    "word": "precaución",
+    "translation": "cuidado; precaução",
+    "syllables": [
+      "precaución"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɾe.kaw.ˈθjon/",
+    "portuguesePhonetic": "[prê-kau-THIÔN]"
+  },
+  {
+    "id": "sinais_transito_es_id_k2em3hk",
+    "word": "prioridad",
+    "translation": "preferência; prioridade",
+    "syllables": [
+      "prioridad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pɾjo.ɾi.ˈdad/",
+    "portuguesePhonetic": "[priô-ri-DAD]"
+  },
+  {
+    "id": "sinais_transito_es_id_oljjqxu",
+    "word": "velocidad",
+    "translation": "velocidade",
+    "syllables": [
+      "velocidad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/be.lo.θi.ˈdad/",
+    "portuguesePhonetic": "[bê-lô-thi-DAD]"
+  },
+  {
+    "id": "sinais_transito_es_id_5764zux",
+    "word": "límite",
+    "translation": "limite",
+    "syllables": [
+      "límite"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈli.mi.te/",
+    "portuguesePhonetic": "[LI-mi-tê]"
+  },
+  {
+    "id": "sinais_transito_es_id_z9biw0j",
+    "word": "sentido",
+    "translation": "sentido da via",
+    "syllables": [
+      "sentido"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sen.ˈti.do/",
+    "portuguesePhonetic": "[sên-TI-dô]"
+  },
+  {
+    "id": "sinais_transito_es_id_56c767m",
+    "word": "desvío",
+    "translation": "desvio",
+    "syllables": [
+      "desvío"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/des.ˈbi.o/",
+    "portuguesePhonetic": "[dês-BI-ô]"
+  },
+  {
+    "id": "sinais_transito_es_id_froe4k3",
+    "word": "peatón",
+    "translation": "pedestre",
+    "syllables": [
+      "peatón"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/pe.a.ˈton/",
+    "portuguesePhonetic": "[pê-a-TÔN]"
+  },
+  {
+    "id": "sinais_transito_es_id_r7by8fk",
+    "word": "adelantamiento",
+    "translation": "ultrapassagem",
+    "syllables": [
+      "adelantamiento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.de.lan.ta.ˈmjen.to/",
+    "portuguesePhonetic": "[a-dê-lan-ta-MIÊN-tô]"
+  },
+  {
+    "id": "sinais_transito_es_id_acupsyv",
+    "word": "estacionamiento",
+    "translation": "estacionamento",
+    "syllables": [
+      "estacionamiento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.ta.θjo.na.ˈmjen.to/",
+    "portuguesePhonetic": "[ês-ta-thiô-na-MIÊN-tô]"
+  }
+]

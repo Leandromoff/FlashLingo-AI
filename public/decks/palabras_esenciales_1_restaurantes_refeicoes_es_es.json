@@ -1,0 +1,182 @@
+[
+  {
+    "id": "restaurantes_es_id_s5vdrne",
+    "word": "restaurante",
+    "translation": "restaurante",
+    "syllables": [
+      "restaurante"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/res.taw.ˈɾan.te/",
+    "portuguesePhonetic": "[rrês-tau-RAN-tê]"
+  },
+  {
+    "id": "restaurantes_es_id_dmy4kgi",
+    "word": "camarero",
+    "translation": "garçom",
+    "syllables": [
+      "camarero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.ma.ˈɾe.ɾo/",
+    "portuguesePhonetic": "[ka-ma-RÊ-rô]"
+  },
+  {
+    "id": "restaurantes_es_id_qxrpyi7",
+    "word": "carta",
+    "translation": "cardápio; carta",
+    "syllables": [
+      "carta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkaɾ.ta/",
+    "portuguesePhonetic": "[KAR-ta]"
+  },
+  {
+    "id": "restaurantes_es_id_36reph3",
+    "word": "menú",
+    "translation": "menu; refeição combinada",
+    "syllables": [
+      "menú"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me.ˈnu/",
+    "portuguesePhonetic": "[mê-NU]"
+  },
+  {
+    "id": "restaurantes_es_id_db02yqc",
+    "word": "cuenta",
+    "translation": "conta",
+    "syllables": [
+      "cuenta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwen.ta/",
+    "portuguesePhonetic": "[KUÊN-ta]"
+  },
+  {
+    "id": "restaurantes_es_id_o1ub7bh",
+    "word": "reserva",
+    "translation": "reserva",
+    "syllables": [
+      "reserva"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.ˈseɾ.ba/",
+    "portuguesePhonetic": "[rrê-SÊR-ba]"
+  },
+  {
+    "id": "restaurantes_es_id_7d594f1",
+    "word": "desayuno",
+    "translation": "café da manhã",
+    "syllables": [
+      "desayuno"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de.sa.ˈʝu.no/",
+    "portuguesePhonetic": "[dê-sa-IU-nô]"
+  },
+  {
+    "id": "restaurantes_es_id_g4fu8c3",
+    "word": "comida",
+    "translation": "comida; almoço",
+    "syllables": [
+      "comida"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ko.ˈmi.da/",
+    "portuguesePhonetic": "[kô-MI-da]"
+  },
+  {
+    "id": "restaurantes_es_id_djxt9j7",
+    "word": "cena",
+    "translation": "jantar",
+    "syllables": [
+      "cena"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈθe.na/",
+    "portuguesePhonetic": "[THÊ-na]"
+  },
+  {
+    "id": "restaurantes_es_id_9n6uyrl",
+    "word": "bocadillo",
+    "translation": "sanduíche de pão tipo baguete",
+    "syllables": [
+      "bocadillo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/bo.ka.ˈdi.ʝo/",
+    "portuguesePhonetic": "[bô-ka-DI-iô]"
+  },
+  {
+    "id": "restaurantes_es_id_o6t56zi",
+    "word": "tostada",
+    "translation": "torrada",
+    "syllables": [
+      "tostada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tos.ˈta.da/",
+    "portuguesePhonetic": "[tôs-TA-da]"
+  },
+  {
+    "id": "restaurantes_es_id_fnvgjbi",
+    "word": "postre",
+    "translation": "sobremesa",
+    "syllables": [
+      "postre"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpos.tɾe/",
+    "portuguesePhonetic": "[PÔS-trê]"
+  },
+  {
+    "id": "restaurantes_es_id_mafclp7",
+    "word": "ración",
+    "translation": "porção",
+    "syllables": [
+      "ración"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ra.ˈθjon/",
+    "portuguesePhonetic": "[rra-THIÔN]"
+  },
+  {
+    "id": "restaurantes_es_id_m3lemm6",
+    "word": "hambre",
+    "translation": "fome",
+    "syllables": [
+      "hambre"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈam.bɾe/",
+    "portuguesePhonetic": "[AM-brê]"
+  },
+  {
+    "id": "restaurantes_es_id_l8v9jns",
+    "word": "sed",
+    "translation": "sede",
+    "syllables": [
+      "sed"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sed/",
+    "portuguesePhonetic": "[SÊD]"
+  }
+]

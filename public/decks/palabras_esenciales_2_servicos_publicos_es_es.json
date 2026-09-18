@@ -1,0 +1,170 @@
+[
+  {
+    "id": "servicos_publicos_es_id_wn0qv6l",
+    "word": "ayuntamiento",
+    "translation": "prefeitura",
+    "syllables": [
+      "ayuntamiento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ʝun.ta.ˈmjen.to/",
+    "portuguesePhonetic": "[a-iun-ta-MIÊN-tô]"
+  },
+  {
+    "id": "servicos_publicos_es_id_parsuuj",
+    "word": "oficina",
+    "translation": "escritório; repartição",
+    "syllables": [
+      "oficina"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/o.fi.ˈθi.na/",
+    "portuguesePhonetic": "[ô-fi-THI-na]"
+  },
+  {
+    "id": "servicos_publicos_es_id_2kj6ijz",
+    "word": "funcionario",
+    "translation": "servidor público",
+    "syllables": [
+      "funcionario"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/fun.θjo.ˈna.ɾjo/",
+    "portuguesePhonetic": "[fun-thiô-NA-riô]"
+  },
+  {
+    "id": "servicos_publicos_es_id_dzolstp",
+    "word": "atención",
+    "translation": "atendimento; atenção",
+    "syllables": [
+      "atención"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ten.ˈθjon/",
+    "portuguesePhonetic": "[a-tên-THIÔN]"
+  },
+  {
+    "id": "servicos_publicos_es_id_c87e3au",
+    "word": "cita",
+    "translation": "agendamento; horário marcado",
+    "syllables": [
+      "cita"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈθi.ta/",
+    "portuguesePhonetic": "[THI-ta]"
+  },
+  {
+    "id": "servicos_publicos_es_id_03e679z",
+    "word": "turno",
+    "translation": "vez; turno",
+    "syllables": [
+      "turno"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtuɾ.no/",
+    "portuguesePhonetic": "[TUR-nô]"
+  },
+  {
+    "id": "servicos_publicos_es_id_0b1mt7g",
+    "word": "ventanilla",
+    "translation": "guichê",
+    "syllables": [
+      "ventanilla"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ben.ta.ˈni.ʝa/",
+    "portuguesePhonetic": "[bên-ta-NI-ia]"
+  },
+  {
+    "id": "servicos_publicos_es_id_30njuar",
+    "word": "trámite",
+    "translation": "procedimento administrativo",
+    "syllables": [
+      "trámite"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtɾa.mi.te/",
+    "portuguesePhonetic": "[TRA-mi-tê]"
+  },
+  {
+    "id": "servicos_publicos_es_id_vrn6w1e",
+    "word": "registro",
+    "translation": "registro; protocolo",
+    "syllables": [
+      "registro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/re.ˈxis.tɾo/",
+    "portuguesePhonetic": "[rrê-RRIS-trô]"
+  },
+  {
+    "id": "servicos_publicos_es_id_4v7gvfc",
+    "word": "certificado",
+    "translation": "certidão; certificado",
+    "syllables": [
+      "certificado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/θeɾ.ti.fi.ˈka.do/",
+    "portuguesePhonetic": "[thêr-ti-fi-KA-dô]"
+  },
+  {
+    "id": "servicos_publicos_es_id_bvdumzg",
+    "word": "justificante",
+    "translation": "comprovante",
+    "syllables": [
+      "justificante"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/xus.ti.fi.ˈkan.te/",
+    "portuguesePhonetic": "[rrus-ti-fi-KAN-tê]"
+  },
+  {
+    "id": "servicos_publicos_es_id_7h2pd8m",
+    "word": "tasa",
+    "translation": "taxa",
+    "syllables": [
+      "tasa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈta.sa/",
+    "portuguesePhonetic": "[TA-sa]"
+  },
+  {
+    "id": "servicos_publicos_es_id_hkg032h",
+    "word": "impuesto",
+    "translation": "imposto",
+    "syllables": [
+      "impuesto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/im.ˈpwes.to/",
+    "portuguesePhonetic": "[im-PUÊS-tô]"
+  },
+  {
+    "id": "servicos_publicos_es_id_rwm7e0e",
+    "word": "plazo",
+    "translation": "prazo",
+    "syllables": [
+      "plazo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpla.θo/",
+    "portuguesePhonetic": "[PLA-thô]"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "numeros_medidas_es_id_7aongvd",
+    "word": "cero",
+    "translation": "zero",
+    "syllables": [
+      "cero"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈθe.ɾo/",
+    "portuguesePhonetic": "[THÊ-rô]"
+  },
+  {
+    "id": "numeros_medidas_es_id_lg2o9t5",
+    "word": "uno",
+    "translation": "um",
+    "syllables": [
+      "uno"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈu.no/",
+    "portuguesePhonetic": "[U-nô]"
+  },
+  {
+    "id": "numeros_medidas_es_id_aiiyh99",
+    "word": "dos",
+    "translation": "dois",
+    "syllables": [
+      "dos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dos/",
+    "portuguesePhonetic": "[DÔS]"
+  },
+  {
+    "id": "numeros_medidas_es_id_2jdubv4",
+    "word": "tres",
+    "translation": "três",
+    "syllables": [
+      "tres"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tɾes/",
+    "portuguesePhonetic": "[TRÊS]"
+  },
+  {
+    "id": "numeros_medidas_es_id_7uvndnm",
+    "word": "cuatro",
+    "translation": "quatro",
+    "syllables": [
+      "cuatro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwa.tɾo/",
+    "portuguesePhonetic": "[KUA-trô]"
+  },
+  {
+    "id": "numeros_medidas_es_id_oozndc4",
+    "word": "cinco",
+    "translation": "cinco",
+    "syllables": [
+      "cinco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈθin.ko/",
+    "portuguesePhonetic": "[THIN-kô]"
+  },
+  {
+    "id": "numeros_medidas_es_id_4vhm2ad",
+    "word": "seis",
+    "translation": "seis",
+    "syllables": [
+      "seis"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/sejs/",
+    "portuguesePhonetic": "[SÊIS]"
+  },
+  {
+    "id": "numeros_medidas_es_id_71tvs2r",
+    "word": "siete",
+    "translation": "sete",
+    "syllables": [
+      "siete"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈsje.te/",
+    "portuguesePhonetic": "[SIÊ-tê]"
+  },
+  {
+    "id": "numeros_medidas_es_id_oo1ufts",
+    "word": "ocho",
+    "translation": "oito",
+    "syllables": [
+      "ocho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈo.tʃo/",
+    "portuguesePhonetic": "[Ô-tchô]"
+  },
+  {
+    "id": "numeros_medidas_es_id_e1066fj",
+    "word": "nueve",
+    "translation": "nove",
+    "syllables": [
+      "nueve"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈnwe.be/",
+    "portuguesePhonetic": "[NUÊ-bê]"
+  },
+  {
+    "id": "numeros_medidas_es_id_2779bnh",
+    "word": "diez",
+    "translation": "dez",
+    "syllables": [
+      "diez"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/djeθ/",
+    "portuguesePhonetic": "[DIÊTH]"
+  },
+  {
+    "id": "numeros_medidas_es_id_y7fgjfn",
+    "word": "once",
+    "translation": "onze",
+    "syllables": [
+      "once"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈon.θe/",
+    "portuguesePhonetic": "[ÔN-thê]"
+  },
+  {
+    "id": "numeros_medidas_es_id_dtrpbsz",
+    "word": "doce",
+    "translation": "doze",
+    "syllables": [
+      "doce"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdo.θe/",
+    "portuguesePhonetic": "[DÔ-thê]"
+  },
+  {
+    "id": "numeros_medidas_es_id_q0jdeaa",
+    "word": "trece",
+    "translation": "treze",
+    "syllables": [
+      "trece"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtɾe.θe/",
+    "portuguesePhonetic": "[TRÊ-thê]"
+  },
+  {
+    "id": "numeros_medidas_es_id_ug6jx71",
+    "word": "catorce",
+    "translation": "catorze",
+    "syllables": [
+      "catorce"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ka.ˈtoɾ.θe/",
+    "portuguesePhonetic": "[ka-TÔR-thê]"
+  },
+  {
+    "id": "numeros_medidas_es_id_j3bgnjf",
+    "word": "quince",
+    "translation": "quinze",
+    "syllables": [
+      "quince"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkin.θe/",
+    "portuguesePhonetic": "[KIN-thê]"
+  },
+  {
+    "id": "numeros_medidas_es_id_5f7sg59",
+    "word": "dieciséis",
+    "translation": "dezesseis",
+    "syllables": [
+      "dieciséis"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dje.θi.ˈsejs/",
+    "portuguesePhonetic": "[diê-thi-SÊIS]"
+  },
+  {
+    "id": "numeros_medidas_es_id_0zv5r7c",
+    "word": "diecisiete",
+    "translation": "dezessete",
+    "syllables": [
+      "diecisiete"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dje.θi.ˈsje.te/",
+    "portuguesePhonetic": "[diê-thi-SIÊ-tê]"
+  },
+  {
+    "id": "numeros_medidas_es_id_ih4jk7a",
+    "word": "dieciocho",
+    "translation": "dezoito",
+    "syllables": [
+      "dieciocho"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dje.ˈθjo.tʃo/",
+    "portuguesePhonetic": "[diê-THIÔ-tchô]"
+  },
+  {
+    "id": "numeros_medidas_es_id_4kbdihg",
+    "word": "diecinueve",
+    "translation": "dezenove",
+    "syllables": [
+      "diecinueve"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dje.θi.ˈnwe.be/",
+    "portuguesePhonetic": "[diê-thi-NUÊ-bê]"
+  },
+  {
+    "id": "numeros_medidas_es_id_t7viual",
+    "word": "veinte",
+    "translation": "vinte",
+    "syllables": [
+      "veinte"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbejn.te/",
+    "portuguesePhonetic": "[BÊIN-tê]"
+  },
+  {
+    "id": "numeros_medidas_es_id_yrc8xsn",
+    "word": "treinta",
+    "translation": "trinta",
+    "syllables": [
+      "treinta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtɾejn.ta/",
+    "portuguesePhonetic": "[TRÊIN-ta]"
+  },
+  {
+    "id": "numeros_medidas_es_id_ivp1vo5",
+    "word": "cuarenta",
+    "translation": "quarenta",
+    "syllables": [
+      "cuarenta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kwa.ˈɾen.ta/",
+    "portuguesePhonetic": "[kua-RÊN-ta]"
+  },
+  {
+    "id": "numeros_medidas_es_id_o095oda",
+    "word": "cincuenta",
+    "translation": "cinquenta",
+    "syllables": [
+      "cincuenta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/θin.ˈkwen.ta/",
+    "portuguesePhonetic": "[thin-KUÊN-ta]"
+  },
+  {
+    "id": "numeros_medidas_es_id_mazhaav",
+    "word": "cien",
+    "translation": "cem",
+    "syllables": [
+      "cien"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/θjen/",
+    "portuguesePhonetic": "[THIÊN]"
+  },
+  {
+    "id": "numeros_medidas_es_id_23lnr6h",
+    "word": "mil",
+    "translation": "mil",
+    "syllables": [
+      "mil"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mil/",
+    "portuguesePhonetic": "[MIL]"
+  },
+  {
+    "id": "numeros_medidas_es_id_jn2frgh",
+    "word": "metro",
+    "translation": "metro (medida)",
+    "syllables": [
+      "metro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈme.tɾo/",
+    "portuguesePhonetic": "[MÊ-trô]"
+  },
+  {
+    "id": "numeros_medidas_es_id_ii3r2h5",
+    "word": "kilómetro",
+    "translation": "quilômetro",
+    "syllables": [
+      "kilómetro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ki.ˈlo.me.tɾo/",
+    "portuguesePhonetic": "[ki-LÔ-mê-trô]"
+  },
+  {
+    "id": "numeros_medidas_es_id_rlwmzbo",
+    "word": "kilo",
+    "translation": "quilo",
+    "syllables": [
+      "kilo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈki.lo/",
+    "portuguesePhonetic": "[KI-lô]"
+  },
+  {
+    "id": "numeros_medidas_es_id_2ctjupk",
+    "word": "litro",
+    "translation": "litro",
+    "syllables": [
+      "litro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈli.tɾo/",
+    "portuguesePhonetic": "[LI-trô]"
+  },
+  {
+    "id": "numeros_medidas_es_id_ss06z6p",
+    "word": "mitad",
+    "translation": "metade",
+    "syllables": [
+      "mitad"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi.ˈtad/",
+    "portuguesePhonetic": "[mi-TAD]"
+  },
+  {
+    "id": "numeros_medidas_es_id_bxre3m0",
+    "word": "doble",
+    "translation": "dobro",
+    "syllables": [
+      "doble"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdo.ble/",
+    "portuguesePhonetic": "[DÔ-blê]"
+  }
+]
