@@ -1,0 +1,530 @@
+[
+  {
+    "id": "deberes_lesson_4_es_id_omksk4i",
+    "word": "¡Vale!",
+    "translation": "Tá bom! / Combinado!",
+    "syllables": [
+      "Vale"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈba.le/",
+    "portuguesePhonetic": "[BÁ-lê]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_35cz47q",
+    "word": "¡Qué bien!",
+    "translation": "Que bom!",
+    "syllables": [
+      "Qué",
+      "bien"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈbjen/",
+    "portuguesePhonetic": "[kê BIÊN]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_tmooot3",
+    "word": "¡Qué pena!",
+    "translation": "Que pena!",
+    "syllables": [
+      "Qué",
+      "pena"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈpe.na/",
+    "portuguesePhonetic": "[kê PÊ-na]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_lp19qh0",
+    "word": "No pasa nada.",
+    "translation": "Tudo bem. / Sem problema.",
+    "syllables": [
+      "No",
+      "pasa",
+      "nada"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no ˈpa.sa ˈna.da/",
+    "portuguesePhonetic": "[nô PA-sa NA-da]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_uulkpjy",
+    "word": "No te preocupes.",
+    "translation": "Não se preocupe.",
+    "syllables": [
+      "No",
+      "te",
+      "preocupes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no te pɾe.o.ˈku.pes/",
+    "portuguesePhonetic": "[nô tê prê-ô-KU-pês]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_eyz2gu1",
+    "word": "No importa.",
+    "translation": "Não importa.",
+    "syllables": [
+      "No",
+      "importa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no im.ˈpoɾ.ta/",
+    "portuguesePhonetic": "[nô im-PÔR-ta]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_ujfhcl1",
+    "word": "Da igual.",
+    "translation": "Tanto faz.",
+    "syllables": [
+      "Da",
+      "igual"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/da i.ˈgwal/",
+    "portuguesePhonetic": "[da i-GUAL]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_8aqddel",
+    "word": "Me da igual.",
+    "translation": "Para mim, tanto faz.",
+    "syllables": [
+      "Me",
+      "da",
+      "igual"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me da i.ˈgwal/",
+    "portuguesePhonetic": "[mê da i-GUAL]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_8v0rp18",
+    "word": "Depende.",
+    "translation": "Depende.",
+    "syllables": [
+      "Depende"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/de.ˈpen.de/",
+    "portuguesePhonetic": "[dê-PÊN-dê]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_yyq8x10",
+    "word": "Puede ser.",
+    "translation": "Pode ser.",
+    "syllables": [
+      "Puede",
+      "ser"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpwe.ðe ˈseɾ/",
+    "portuguesePhonetic": "[PUÊ-dê SÊR]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_9yh6hwp",
+    "word": "A lo mejor…",
+    "translation": "Talvez…",
+    "syllables": [
+      "A",
+      "lo",
+      "mejor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a lo me.ˈxoɾ/",
+    "portuguesePhonetic": "[a lô mê-RRÔR]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_88b98db",
+    "word": "Por si acaso.",
+    "translation": "Por precaução. / Por via das dúvidas.",
+    "syllables": [
+      "Por",
+      "si",
+      "acaso"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ si a.ˈka.so/",
+    "portuguesePhonetic": "[pôr si a-KA-sô]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_zrrtvjd",
+    "word": "Por cierto…",
+    "translation": "Por falar nisso…",
+    "syllables": [
+      "Por",
+      "cierto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/poɾ ˈθjeɾ.to/",
+    "portuguesePhonetic": "[pôr THIÊR-tô]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_etv1hwi",
+    "word": "O sea…",
+    "translation": "Ou seja…",
+    "syllables": [
+      "O",
+      "sea"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/o ˈse.a/",
+    "portuguesePhonetic": "[ô SÊ-a]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_r1rmngu",
+    "word": "Es que…",
+    "translation": "É que…",
+    "syllables": [
+      "Es",
+      "que"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es ke/",
+    "portuguesePhonetic": "[ês kê]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_bzm63ol",
+    "word": "A ver…",
+    "translation": "Vamos ver…",
+    "syllables": [
+      "A",
+      "ver"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a ˈbeɾ/",
+    "portuguesePhonetic": "[a BÊR]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_0y3ir96",
+    "word": "Ya veremos.",
+    "translation": "Vamos ver. / Veremos depois.",
+    "syllables": [
+      "Ya",
+      "veremos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝa be.ˈɾe.mos/",
+    "portuguesePhonetic": "[iá bê-RÊ-môs]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_xmproo1",
+    "word": "Aún no. / Todavía no.",
+    "translation": "Ainda não.",
+    "syllables": [
+      "Aún",
+      "no",
+      "Todavía",
+      "no"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈun no / to.ða.ˈβi.a no/",
+    "portuguesePhonetic": "[a-UN nô / tô-da-BI-a nô]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_9cns1fq",
+    "word": "Ya voy.",
+    "translation": "Já vou.",
+    "syllables": [
+      "Ya",
+      "voy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝa ˈboj/",
+    "portuguesePhonetic": "[iá BÓI]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_x00mewp",
+    "word": "Ahora mismo.",
+    "translation": "Agora mesmo.",
+    "syllables": [
+      "Ahora",
+      "mismo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈo.ɾa ˈmiz.mo/",
+    "portuguesePhonetic": "[a-Ô-ra MIZ-mô]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_utzrss2",
+    "word": "Enseguida.",
+    "translation": "Já, já. / Em seguida.",
+    "syllables": [
+      "Enseguida"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/en.se.ˈgi.da/",
+    "portuguesePhonetic": "[ên-sê-GI-da]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_adf5xmv",
+    "word": "Hasta luego.",
+    "translation": "Até mais.",
+    "syllables": [
+      "Hasta",
+      "luego"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈas.ta ˈlwe.go/",
+    "portuguesePhonetic": "[AS-ta LUÊ-gô]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_2mjihtf",
+    "word": "Nos vemos.",
+    "translation": "A gente se vê.",
+    "syllables": [
+      "Nos",
+      "vemos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos ˈbe.mos/",
+    "portuguesePhonetic": "[nôs BÊ-môs]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_od3fo18",
+    "word": "¡Cuánto tiempo!",
+    "translation": "Quanto tempo!",
+    "syllables": [
+      "Cuánto",
+      "tiempo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwan.to ˈtjem.po/",
+    "portuguesePhonetic": "[KUAN-tô TIÊM-pô]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_0abqn4g",
+    "word": "¿Qué tal?",
+    "translation": "Tudo bem? / Como vai?",
+    "syllables": [
+      "Qué",
+      "tal"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈtal/",
+    "portuguesePhonetic": "[kê TAL]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_8bt0y8x",
+    "word": "¿Cómo te va?",
+    "translation": "Como estão as coisas?",
+    "syllables": [
+      "Cómo",
+      "te",
+      "va"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈko.mo te ˈβa/",
+    "portuguesePhonetic": "[KÔ-mô tê BA]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_uas6ewu",
+    "word": "¿Qué te parece?",
+    "translation": "O que você acha?",
+    "syllables": [
+      "Qué",
+      "te",
+      "parece"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke te pa.ˈɾe.θe/",
+    "portuguesePhonetic": "[kê tê pa-RÊ-thê]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_p41xr6s",
+    "word": "¿Te apetece?",
+    "translation": "Você está a fim?",
+    "syllables": [
+      "Te",
+      "apetece"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te a.pe.ˈte.θe/",
+    "portuguesePhonetic": "[tê a-pê-TÊ-thê]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_5s0tqe6",
+    "word": "Me apetece…",
+    "translation": "Estou com vontade de…",
+    "syllables": [
+      "Me",
+      "apetece"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me a.pe.ˈte.θe/",
+    "portuguesePhonetic": "[mê a-pê-TÊ-thê]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_noyon3f",
+    "word": "No me apetece.",
+    "translation": "Não estou a fim.",
+    "syllables": [
+      "No",
+      "me",
+      "apetece"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no me a.pe.ˈte.θe/",
+    "portuguesePhonetic": "[nô mê a-pê-TÊ-thê]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_z39q1vo",
+    "word": "Tengo ganas de…",
+    "translation": "Estou com vontade de…",
+    "syllables": [
+      "Tengo",
+      "ganas",
+      "de"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈteŋ.go ˈga.nas de/",
+    "portuguesePhonetic": "[TÊN-gô GA-nas dê]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_31ct3o3",
+    "word": "Tienes razón.",
+    "translation": "Você tem razão.",
+    "syllables": [
+      "Tienes",
+      "razón"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈtje.nes ra.ˈson/",
+    "portuguesePhonetic": "[TIÊ-nês rra-SÔN]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_4yt7ja4",
+    "word": "No lo tengo claro.",
+    "translation": "Não tenho certeza.",
+    "syllables": [
+      "No",
+      "lo",
+      "tengo",
+      "claro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no lo ˈteŋ.go ˈkla.ɾo/",
+    "portuguesePhonetic": "[nô lô TÊN-gô KLA-rô]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_5bwpxlz",
+    "word": "Ni idea.",
+    "translation": "Não faço ideia.",
+    "syllables": [
+      "Ni",
+      "idea"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ni i.ˈde.a/",
+    "portuguesePhonetic": "[ni i-DÊ-a]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_ukabhtr",
+    "word": "Menos mal.",
+    "translation": "Ainda bem.",
+    "syllables": [
+      "Menos",
+      "mal"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈme.nos ˈmal/",
+    "portuguesePhonetic": "[MÊ-nôs MAL]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_g4gs70m",
+    "word": "¡Qué va!",
+    "translation": "Que nada! / De jeito nenhum!",
+    "syllables": [
+      "Qué",
+      "va"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈba/",
+    "portuguesePhonetic": "[kê BA]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_l89ksoz",
+    "word": "¡Venga!",
+    "translation": "Vamos! / Bora! — depende do contexto.",
+    "syllables": [
+      "Venga"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbeŋ.ga/",
+    "portuguesePhonetic": "[BÊN-ga]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_gb5rdxh",
+    "word": "No te creas.",
+    "translation": "Não vá pensando. / Não é bem assim.",
+    "syllables": [
+      "No",
+      "te",
+      "creas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no te ˈkɾe.as/",
+    "portuguesePhonetic": "[nô tê KRÊ-as]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_hn2jtj0",
+    "word": "Aunque…",
+    "translation": "Embora… / Mesmo que… / Se bem que…",
+    "syllables": [
+      "Aunque"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈun.ke/",
+    "portuguesePhonetic": "[a-UN-kê]"
+  },
+  {
+    "id": "deberes_lesson_4_es_id_a8w3vhl",
+    "word": "Tampoco.",
+    "translation": "Também não.",
+    "syllables": [
+      "Tampoco"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tam.ˈpo.ko/",
+    "portuguesePhonetic": "[tam-PÔ-kô]"
+  }
+]

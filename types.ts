@@ -994,6 +994,13 @@ export const PREDEFINED_TOPICS = [
     description: "Vocabulario sobre carreira e trabalho",
   },
   {
+    id: "deberes_lesson_4_es",
+    label: "Expresiones cotidianas",
+    isStatic: true,
+    group: "Deberes",
+    description: "Expresiones cotidianas y reacciones del día a día",
+  },
+  {
     id: "mis_estudios_lesson_1_es",
     label: "Lección 1",
     isStatic: true,
