@@ -927,5 +927,45 @@
     "cardCount": 40,
     "en": 0,
     "es": 40
+  },
+  "deberes_apresentacoes_vizinhos_adaptacao_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "deberes_rotina_casa_conversas_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "deberes_supermercado_compras_alimentos_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "deberes_cafeterias_padarias_restaurantes_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "deberes_metro_onibus_deslocamentos_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "deberes_apartamento_moveis_problemas_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "deberes_documentos_banco_pedidos_ajuda_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
+  },
+  "deberes_academia_lazer_novos_amigos_es": {
+    "cardCount": 15,
+    "en": 0,
+    "es": 15
   }
 }

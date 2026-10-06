@@ -1,0 +1,258 @@
+[
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_d30c6t1",
+    "word": "Perdona, ¿dónde está la estación de metro?",
+    "translation": "Com licença, onde fica a estação de metrô?",
+    "syllables": [
+      "Perdona",
+      "dónde",
+      "está",
+      "la",
+      "estación",
+      "de",
+      "metro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/peɾ.ˈðo.na ˈdon.de es.ˈta la es.ta.ˈθjon de ˈme.tɾo/",
+    "portuguesePhonetic": "[pêr-DÔ-na, DÔN-dê ês-TA la ês-ta-THIÔN dê MÊ-trô?]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_ud13uim",
+    "word": "Queremos ir al centro de Valencia.",
+    "translation": "Queremos ir ao centro de Valência.",
+    "syllables": [
+      "Queremos",
+      "ir",
+      "al",
+      "centro",
+      "de",
+      "Valencia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke.ˈɾe.mos iɾ al ˈθen.tɾo de ba.ˈlen.θja/",
+    "portuguesePhonetic": "[kê-RÊ-môs IR al THÊN-trô dê ba-LÊN-thia]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_b0bzvv7",
+    "word": "¿Qué línea tenemos que coger?",
+    "translation": "Qual linha precisamos pegar?",
+    "syllables": [
+      "Qué",
+      "línea",
+      "tenemos",
+      "que",
+      "coger"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈli.ne.a te.ˈne.mos ke ko.ˈxeɾ/",
+    "portuguesePhonetic": "[kê LI-nê-a tê-NÊ-môs kê kô-RRÊR?]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_1jk4izg",
+    "word": "¿Este metro va hacia Mislata?",
+    "translation": "Este metrô vai em direção a Mislata?",
+    "syllables": [
+      "Este",
+      "metro",
+      "va",
+      "hacia",
+      "Mislata"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈes.te ˈme.tɾo ba ˈa.θja mis.ˈla.ta/",
+    "portuguesePhonetic": "[ÊS-tê MÊ-trô BA A-thia mis-LA-ta?]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_uyj46gg",
+    "word": "¿Tenemos que hacer transbordo?",
+    "translation": "Precisamos fazer baldeação?",
+    "syllables": [
+      "Tenemos",
+      "que",
+      "hacer",
+      "transbordo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te.ˈne.mos ke a.ˈθeɾ tɾanz.ˈboɾ.do/",
+    "portuguesePhonetic": "[tê-NÊ-môs kê a-THÊR tranz-BÔR-dô?]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_tegqv2z",
+    "word": "¿En qué parada tenemos que bajarnos?",
+    "translation": "Em qual parada precisamos descer?",
+    "syllables": [
+      "En",
+      "qué",
+      "parada",
+      "tenemos",
+      "que",
+      "bajarnos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/en ke pa.ˈɾa.ða te.ˈne.mos ke ba.ˈxaɾ.nos/",
+    "portuguesePhonetic": "[ên kê pa-RA-da tê-NÊ-môs kê ba-RRAR-nôs?]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_lbtsh4z",
+    "word": "¿Cuánto se tarda en llegar?",
+    "translation": "Quanto tempo leva para chegar?",
+    "syllables": [
+      "Cuánto",
+      "se",
+      "tarda",
+      "en",
+      "llegar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwan.to se ˈtaɾ.ða en ʝe.ˈgaɾ/",
+    "portuguesePhonetic": "[KUAN-tô sê TAR-da ên iê-GAR?]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_ov91lu8",
+    "word": "¿Qué título de transporte nos conviene para este trayecto?",
+    "translation": "Qual bilhete ou passe de transporte é mais adequado para este trajeto?",
+    "syllables": [
+      "Qué",
+      "título",
+      "de",
+      "transporte",
+      "nos",
+      "conviene",
+      "para",
+      "este",
+      "trayecto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈti.tu.lo de tɾans.ˈpoɾ.te nos kom.ˈbje.ne ˈpa.ɾa ˈes.te tɾa.ˈʝek.to/",
+    "portuguesePhonetic": "[kê TI-tu-lô dê trans-PÔR-tê nôs kôm-BIÊ-nê PA-ra ÊS-tê tra-IÊK-tô?]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_bqcn1x2",
+    "word": "¿Podemos usar la misma tarjeta los dos?",
+    "translation": "Nós dois podemos usar o mesmo cartão?",
+    "syllables": [
+      "Podemos",
+      "usar",
+      "la",
+      "misma",
+      "tarjeta",
+      "los",
+      "dos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/po.ˈðe.mos u.ˈsaɾ la ˈmiz.ma taɾ.ˈxe.ta los dos/",
+    "portuguesePhonetic": "[pô-DÊ-môs u-SAR la MIZ-ma tar-RRÊ-ta lôs DÔS?]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_xo4xmi8",
+    "word": "¿Dónde podemos recargar esta tarjeta?",
+    "translation": "Onde podemos recarregar este cartão?",
+    "syllables": [
+      "Dónde",
+      "podemos",
+      "recargar",
+      "esta",
+      "tarjeta"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdon.de po.ˈðe.mos re.kaɾ.ˈgaɾ ˈes.ta taɾ.ˈxe.ta/",
+    "portuguesePhonetic": "[DÔN-dê pô-DÊ-môs rrê-kar-GAR ÊS-ta tar-RRÊ-ta?]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_nsd0zgk",
+    "word": "No funciona la máquina. ¿Puede ayudarnos?",
+    "translation": "A máquina não funciona. Pode nos ajudar?",
+    "syllables": [
+      "No",
+      "funciona",
+      "la",
+      "máquina",
+      "Puede",
+      "ayudarnos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/no fun.ˈθjo.na la ˈma.ki.na ˈpwe.ðe a.ʝu.ˈðaɾ.nos/",
+    "portuguesePhonetic": "[nô fun-THIÔ-na la MA-ki-na. PUÊ-dê a-iu-DAR-nôs?]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_9ellqtj",
+    "word": "Solemos ir andando cuando está cerca.",
+    "translation": "Costumamos ir a pé quando é perto.",
+    "syllables": [
+      "Solemos",
+      "ir",
+      "andando",
+      "cuando",
+      "está",
+      "cerca"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/so.ˈle.mos iɾ an.ˈdan.do ˈkwan.do es.ˈta ˈθeɾ.ka/",
+    "portuguesePhonetic": "[sô-LÊ-môs IR an-DAN-dô KUAN-dô ês-TA THÊR-ka]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_yyptin5",
+    "word": "Ayer cogimos el metro para ir al centro.",
+    "translation": "Ontem pegamos o metrô para ir ao centro.",
+    "syllables": [
+      "Ayer",
+      "cogimos",
+      "el",
+      "metro",
+      "para",
+      "ir",
+      "al",
+      "centro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/a.ˈʝeɾ ko.ˈxi.mos el ˈme.tɾo ˈpa.ɾa iɾ al ˈθen.tɾo/",
+    "portuguesePhonetic": "[a-IÊR kô-RRI-môs êl MÊ-trô PA-ra IR al THÊN-trô]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_hlghwdz",
+    "word": "Nos hemos equivocado de dirección.",
+    "translation": "Pegamos o sentido errado.",
+    "syllables": [
+      "Nos",
+      "hemos",
+      "equivocado",
+      "de",
+      "dirección"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos ˈe.mos e.ki.βo.ˈka.ðo de di.ɾek.ˈθjon/",
+    "portuguesePhonetic": "[nôs Ê-môs ê-ki-bô-KA-dô dê di-rrêk-THIÔN]"
+  },
+  {
+    "id": "deberes_metro_onibus_deslocamentos_es_id_6oih3ip",
+    "word": "Menos mal que hemos llegado a tiempo.",
+    "translation": "Ainda bem que chegamos a tempo.",
+    "syllables": [
+      "Menos",
+      "mal",
+      "que",
+      "hemos",
+      "llegado",
+      "a",
+      "tiempo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈme.nos ˈmal ke ˈe.mos ʝe.ˈga.ðo a ˈtjem.po/",
+    "portuguesePhonetic": "[MÊ-nôs MAL kê Ê-môs iê-GA-dô a TIÊM-pô]"
+  }
+]

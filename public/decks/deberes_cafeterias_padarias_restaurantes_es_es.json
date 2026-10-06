@@ -1,0 +1,261 @@
+[
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_fkwklwg",
+    "word": "Buenos días, ¿nos pone dos cafés con leche, por favor?",
+    "translation": "Bom dia, pode nos trazer dois cafés com leite, por favor?",
+    "syllables": [
+      "Buenos",
+      "días",
+      "nos",
+      "pone",
+      "dos",
+      "cafés",
+      "con",
+      "leche",
+      "por",
+      "favor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈbwe.nos ˈdi.as nos ˈpo.ne dos ka.ˈfes kon ˈle.tʃe poɾ fa.ˈβoɾ/",
+    "portuguesePhonetic": "[BUÊ-nôs DI-as, nôs PÔ-nê DÔS ka-FÉS kôn LÊ-tchê, pôr fa-BÔR?]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_ewk7w22",
+    "word": "Quería una tostada con tomate y aceite.",
+    "translation": "Queria uma torrada com tomate e azeite.",
+    "syllables": [
+      "Quería",
+      "una",
+      "tostada",
+      "con",
+      "tomate",
+      "y",
+      "aceite"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke.ˈɾi.a ˈu.na tos.ˈta.ða kon to.ˈma.te i a.ˈθej.te/",
+    "portuguesePhonetic": "[kê-RI-a U-na tôs-TA-da kôn tô-MA-tê i a-THÊI-tê]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_d8x801k",
+    "word": "Para mí, un café solo, por favor.",
+    "translation": "Para mim, um café sem leite, por favor.",
+    "syllables": [
+      "Para",
+      "mí",
+      "un",
+      "café",
+      "solo",
+      "por",
+      "favor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpa.ɾa ˈmi un ka.ˈfe ˈso.lo poɾ fa.ˈβoɾ/",
+    "portuguesePhonetic": "[PA-ra MI, un ka-FÉ SÔ-lô, pôr fa-BÔR]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_g0cvj6w",
+    "word": "¿Podemos sentarnos en la terraza?",
+    "translation": "Podemos nos sentar na área externa?",
+    "syllables": [
+      "Podemos",
+      "sentarnos",
+      "en",
+      "la",
+      "terraza"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/po.ˈðe.mos sen.ˈtaɾ.nos en la te.ˈra.sa/",
+    "portuguesePhonetic": "[pô-DÊ-môs sên-TAR-nôs ên la tê-RRA-sa?]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_kppus95",
+    "word": "¿Tenéis una mesa para dos?",
+    "translation": "Vocês têm uma mesa para dois?",
+    "syllables": [
+      "Tenéis",
+      "una",
+      "mesa",
+      "para",
+      "dos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te.ˈnejs ˈu.na ˈme.sa ˈpa.ɾa dos/",
+    "portuguesePhonetic": "[tê-NÊIS U-na MÊ-sa PA-ra DÔS?]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_ypvut3e",
+    "word": "¿Nos trae la carta, por favor?",
+    "translation": "Pode nos trazer o cardápio, por favor?",
+    "syllables": [
+      "Nos",
+      "trae",
+      "la",
+      "carta",
+      "por",
+      "favor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos ˈtɾa.e la ˈkaɾ.ta poɾ fa.ˈβoɾ/",
+    "portuguesePhonetic": "[nôs TRA-ê la KAR-ta, pôr fa-BÔR?]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_9d8jdo7",
+    "word": "¿Qué lleva este plato?",
+    "translation": "O que vai neste prato?",
+    "syllables": [
+      "Qué",
+      "lleva",
+      "este",
+      "plato"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ke ˈʝe.βa ˈes.te ˈpla.to/",
+    "portuguesePhonetic": "[kê IÊ-ba ÊS-tê PLA-tô?]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_dq8y0v8",
+    "word": "¿Tenéis menú del día?",
+    "translation": "Vocês têm menu do dia?",
+    "syllables": [
+      "Tenéis",
+      "menú",
+      "del",
+      "día"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/te.ˈnejs me.ˈnu del ˈdi.a/",
+    "portuguesePhonetic": "[tê-NÊIS mê-NU dêl DI-a?]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_to8d94e",
+    "word": "¿El menú incluye bebida y postre?",
+    "translation": "O menu inclui bebida e sobremesa?",
+    "syllables": [
+      "El",
+      "menú",
+      "incluye",
+      "bebida",
+      "y",
+      "postre"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el me.ˈnu iŋ.ˈklu.ʝe be.ˈβi.ða i ˈpos.tɾe/",
+    "portuguesePhonetic": "[êl mê-NU in-KLU-iê bê-BI-da i PÔS-trê?]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_lv63uzr",
+    "word": "Nos apetece probar algo típico de aquí.",
+    "translation": "Estamos com vontade de experimentar algo típico daqui.",
+    "syllables": [
+      "Nos",
+      "apetece",
+      "probar",
+      "algo",
+      "típico",
+      "de",
+      "aquí"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos a.pe.ˈte.θe pɾo.ˈβaɾ ˈal.go ˈti.pi.ko de a.ˈki/",
+    "portuguesePhonetic": "[nôs a-pê-TÊ-thê prô-BAR AL-gô TI-pi-kô dê a-KI]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_z9mjdyz",
+    "word": "¿Podemos pedir este plato para compartir?",
+    "translation": "Podemos pedir este prato para dividir?",
+    "syllables": [
+      "Podemos",
+      "pedir",
+      "este",
+      "plato",
+      "para",
+      "compartir"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/po.ˈðe.mos pe.ˈðiɾ ˈes.te ˈpla.to ˈpa.ɾa kom.paɾ.ˈtiɾ/",
+    "portuguesePhonetic": "[pô-DÊ-môs pê-DIR ÊS-tê PLA-tô PA-ra kôm-par-TIR?]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_317ujcz",
+    "word": "Para beber, una botella de agua sin gas.",
+    "translation": "Para beber, uma garrafa de água sem gás.",
+    "syllables": [
+      "Para",
+      "beber",
+      "una",
+      "botella",
+      "de",
+      "agua",
+      "sin",
+      "gas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpa.ɾa be.ˈβeɾ ˈu.na bo.ˈte.ʝa de ˈa.gwa sin gas/",
+    "portuguesePhonetic": "[PA-ra bê-BÊR, U-na bô-TÊ-ia dê A-gua sin GAS]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_ay5lvit",
+    "word": "Estaba todo muy bueno.",
+    "translation": "Estava tudo muito gostoso.",
+    "syllables": [
+      "Estaba",
+      "todo",
+      "muy",
+      "bueno"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.ˈta.βa ˈto.ðo mwi ˈbwe.no/",
+    "portuguesePhonetic": "[ês-TA-ba TÔ-dô mui BUÊ-nô]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_znagr1z",
+    "word": "¿Nos trae la cuenta, por favor?",
+    "translation": "Pode nos trazer a conta, por favor?",
+    "syllables": [
+      "Nos",
+      "trae",
+      "la",
+      "cuenta",
+      "por",
+      "favor"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos ˈtɾa.e la ˈkwen.ta poɾ fa.ˈβoɾ/",
+    "portuguesePhonetic": "[nôs TRA-ê la KUÊN-ta, pôr fa-BÔR?]"
+  },
+  {
+    "id": "deberes_cafeterias_padarias_restaurantes_es_id_4rpdp6p",
+    "word": "¿Nos puede poner lo que ha sobrado para llevar?",
+    "translation": "Pode embalar o que sobrou para viagem?",
+    "syllables": [
+      "Nos",
+      "puede",
+      "poner",
+      "lo",
+      "que",
+      "ha",
+      "sobrado",
+      "para",
+      "llevar"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos ˈpwe.ðe po.ˈneɾ lo ke a so.ˈβɾa.ðo ˈpa.ɾa ʝe.ˈβaɾ/",
+    "portuguesePhonetic": "[nôs PUÊ-dê pô-NÊR lô kê a sô-BRA-dô PA-ra iê-BAR?]"
+  }
+]
