@@ -1,0 +1,109 @@
+[
+  {
+    "id": "dialogues_ai_agents_production_es_id_1",
+    "speaker": "A",
+    "word": "¿Le darías a un agente de IA acceso al entorno de producción?",
+    "translation": "Você daria a um agente de IA acesso ao ambiente de produção?",
+    "syllables": [
+      "Le",
+      "darías",
+      "a",
+      "un",
+      "agente",
+      "de",
+      "IA",
+      "acceso",
+      "al",
+      "entorno",
+      "de",
+      "producción"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/le da.ˈɾi.as a un a.ˈxen.te de ˈi.a ak.ˈθe.so al en.ˈtoɾ.no de pɾo.duk.ˈθjon/",
+    "portuguesePhonetic": "[lê da-RI-as a un a-RRÊN-tê dê I-a ak-THÊ-sô al ên-TÔR-nô dê prô-duk-THIÔN?]"
+  },
+  {
+    "id": "dialogues_ai_agents_production_es_id_2",
+    "speaker": "B",
+    "word": "Yo empezaría con acceso de solo lectura.",
+    "translation": "Eu começaria com acesso somente de leitura.",
+    "syllables": [
+      "Yo",
+      "empezaría",
+      "con",
+      "acceso",
+      "de",
+      "solo",
+      "lectura"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝo em.pe.θa.ˈɾi.a kon ak.ˈθe.so de ˈso.lo lek.ˈtu.ɾa/",
+    "portuguesePhonetic": "[iô êm-pê-tha-RI-a kôn ak-THÊ-sô dê SÔ-lô lêk-TU-ra]"
+  },
+  {
+    "id": "dialogues_ai_agents_production_es_id_3",
+    "speaker": "A",
+    "word": "¿Y si necesita cambiar alguna configuración?",
+    "translation": "E se ele precisar alterar alguma configuração?",
+    "syllables": [
+      "Y",
+      "si",
+      "necesita",
+      "cambiar",
+      "alguna",
+      "configuración"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/i si ne.θe.ˈsi.ta kam.ˈbjaɾ al.ˈgu.na koɱ.fi.gu.ɾa.ˈθjon/",
+    "portuguesePhonetic": "[i si nê-thê-SI-ta kam-BIAR al-GU-na kôn-fi-gu-ra-THIÔN?]"
+  },
+  {
+    "id": "dialogues_ai_agents_production_es_id_4",
+    "speaker": "B",
+    "word": "En ese caso, pediría la aprobación de alguien del equipo.",
+    "translation": "Nesse caso, eu pediria aprovação de alguém da equipe.",
+    "syllables": [
+      "En",
+      "ese",
+      "caso",
+      "pediría",
+      "la",
+      "aprobación",
+      "de",
+      "alguien",
+      "del",
+      "equipo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/en ˈe.se ˈka.so pe.ði.ˈɾi.a la a.pɾo.βa.ˈθjon de ˈal.gjen del e.ˈki.po/",
+    "portuguesePhonetic": "[ên Ê-sê KA-sô, pê-di-RI-a la a-prô-ba-THIÔN dê AL-guiên dêl ê-KI-pô]"
+  },
+  {
+    "id": "dialogues_ai_agents_production_es_id_5",
+    "speaker": "A",
+    "word": "Estoy de acuerdo. También quiero un registro de todo lo que haga.",
+    "translation": "Concordo. Também quero um registro de tudo o que ele fizer.",
+    "syllables": [
+      "Estoy",
+      "de",
+      "acuerdo",
+      "También",
+      "quiero",
+      "un",
+      "registro",
+      "de",
+      "todo",
+      "lo",
+      "que",
+      "haga"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/es.ˈtoj de a.ˈkweɾ.do tam.ˈbjen ˈkje.ɾo un re.ˈxis.tɾo de ˈto.ðo lo ke ˈa.ga/",
+    "portuguesePhonetic": "[ês-TÓI dê a-KUÊR-dô. tam-BIÊN KIÊ-rô un rrê-RRIS-trô dê TÔ-dô lô kê A-ga]"
+  }
+]

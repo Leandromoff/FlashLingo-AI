@@ -1,0 +1,107 @@
+[
+  {
+    "id": "dialogues_ai_knowledge_base_es_id_1",
+    "speaker": "A",
+    "word": "Sería útil que la IA pudiera consultar nuestra documentación interna.",
+    "translation": "Seria útil se a IA conseguisse consultar nossa documentação interna.",
+    "syllables": [
+      "Sería",
+      "útil",
+      "que",
+      "la",
+      "IA",
+      "pudiera",
+      "consultar",
+      "nuestra",
+      "documentación",
+      "interna"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/se.ˈɾi.a ˈu.til ke la ˈi.a pu.ˈðje.ɾa kon.sul.ˈtaɾ ˈnwes.tɾa do.ku.men.ta.ˈθjon in.ˈteɾ.na/",
+    "portuguesePhonetic": "[sê-RI-a U-til kê la I-a pu-DIÊ-ra kôn-sul-TAR NUÊS-tra dô-ku-mên-ta-THIÔN in-TÊR-na]"
+  },
+  {
+    "id": "dialogues_ai_knowledge_base_es_id_2",
+    "speaker": "B",
+    "word": "Desde luego. Perdemos mucho tiempo buscando información.",
+    "translation": "Com certeza. A gente perde muito tempo procurando informações.",
+    "syllables": [
+      "Desde",
+      "luego",
+      "Perdemos",
+      "mucho",
+      "tiempo",
+      "buscando",
+      "información"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdez.ðe ˈlwe.go peɾ.ˈðe.mos ˈmu.tʃo ˈtjem.po bus.ˈkan.do in.foɾ.ma.ˈθjon/",
+    "portuguesePhonetic": "[DÊS-dê LUÊ-gô. pêr-DÊ-môs MU-tchô TIÊM-pô bus-KAN-dô in-fôr-ma-THIÔN]"
+  },
+  {
+    "id": "dialogues_ai_knowledge_base_es_id_3",
+    "speaker": "A",
+    "word": "¿Crees que podríamos conectar nuestra base de conocimiento?",
+    "translation": "Você acha que conseguiríamos conectar a nossa base de conhecimento?",
+    "syllables": [
+      "Crees",
+      "que",
+      "podríamos",
+      "conectar",
+      "nuestra",
+      "base",
+      "de",
+      "conocimiento"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkɾe.es ke po.ˈðɾi.a.mos ko.nek.ˈtaɾ ˈnwes.tɾa ˈba.se de ko.no.θi.ˈmjen.to/",
+    "portuguesePhonetic": "[KRÊ-ês kê pô-DRI-a-môs kô-nêk-TAR NUÊS-tra BA-sê dê kô-nô-thi-MIÊN-tô?]"
+  },
+  {
+    "id": "dialogues_ai_knowledge_base_es_id_4",
+    "speaker": "B",
+    "word": "Creo que sí, pero primero tenemos que revisar los permisos.",
+    "translation": "Acho que sim, mas primeiro precisamos revisar as permissões.",
+    "syllables": [
+      "Creo",
+      "que",
+      "sí",
+      "pero",
+      "primero",
+      "tenemos",
+      "que",
+      "revisar",
+      "los",
+      "permisos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkɾe.o ke si ˈpe.ɾo pɾi.ˈme.ɾo te.ˈne.mos ke re.βi.ˈsaɾ los peɾ.ˈmi.sos/",
+    "portuguesePhonetic": "[KRÊ-ô kê SI, PÊ-rô pri-MÊ-rô tê-NÊ-môs kê rrê-bi-SAR lôs pêr-MI-sôs]"
+  },
+  {
+    "id": "dialogues_ai_knowledge_base_es_id_5",
+    "speaker": "A",
+    "word": "Y actualizar también los procedimientos que se han quedado obsoletos.",
+    "translation": "E também atualizar os procedimentos que estão desatualizados.",
+    "syllables": [
+      "Y",
+      "actualizar",
+      "también",
+      "los",
+      "procedimientos",
+      "que",
+      "se",
+      "han",
+      "quedado",
+      "obsoletos"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/i ak.twa.li.ˈθaɾ tam.ˈbjen los pɾo.θe.ði.ˈmjen.tos ke se an ke.ˈða.ðo ob.so.ˈle.tos/",
+    "portuguesePhonetic": "[i ak-tua-li-THAR tam-BIÊN lôs prô-thê-di-MIÊN-tôs kê sê an kê-DA-dô ôb-sô-LÊ-tôs]"
+  }
+]

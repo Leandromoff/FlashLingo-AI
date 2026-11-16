@@ -1,0 +1,228 @@
+[
+  {
+    "id": "nivelamento_licao_1_en_id_1",
+    "word": "My house is near the supermarket.",
+    "translation": "A minha casa fica perto do supermercado.",
+    "syllables": [
+      "My",
+      "house",
+      "is",
+      "near",
+      "the",
+      "supermarket"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ haʊs ɪz nɪr ðə ˈsuːpərmɑːrkɪt/",
+    "portuguesePhonetic": "[mái ráus iz nír dâ SÚ-pâr-már-kit]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_2",
+    "word": "The subway station is far from the gym.",
+    "translation": "A estação de metrô fica longe da academia.",
+    "syllables": [
+      "The",
+      "subway",
+      "station",
+      "is",
+      "far",
+      "from",
+      "the",
+      "gym"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈsʌbweɪ ˈsteɪʃən ɪz fɑːr frʌm ðə dʒɪm/",
+    "portuguesePhonetic": "[dâ SÂB-uêi STÊI-shân iz fár frâm dâ djím]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_3",
+    "word": "Where’s the pharmacy?",
+    "translation": "Onde fica a farmácia?",
+    "syllables": [
+      "Where’s",
+      "the",
+      "pharmacy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈfɑːrməsi/",
+    "portuguesePhonetic": "[uérz dâ FÁR-mâ-si?]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_4",
+    "word": "My brothers are at home.",
+    "translation": "Meus irmãos estão em casa.",
+    "syllables": [
+      "My",
+      "brothers",
+      "are",
+      "at",
+      "home"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ ˈbrʌðərz ɑːr æt hoʊm/",
+    "portuguesePhonetic": "[mái BRÂ-dârz ár ét rôum]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_5",
+    "word": "The restaurant is near here, but it’s closed.",
+    "translation": "O restaurante fica perto daqui, mas está fechado.",
+    "syllables": [
+      "The",
+      "restaurant",
+      "is",
+      "near",
+      "here",
+      "but",
+      "it’s",
+      "closed"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈrɛstərɑːnt ɪz nɪr hɪr bʌt ɪts kloʊzd/",
+    "portuguesePhonetic": "[dâ RÉS-tâ-ránt iz nír rír, bât íts klôuzd]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_6",
+    "word": "I’m Brazilian, and I’m in Spain.",
+    "translation": "Sou brasileiro e estou na Espanha.",
+    "syllables": [
+      "I’m",
+      "Brazilian",
+      "and",
+      "I’m",
+      "in",
+      "Spain"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm brəˈzɪliən ænd aɪm ɪn speɪn/",
+    "portuguesePhonetic": "[áim bra-ZÍ-liân énd áim in spêin]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_7",
+    "word": "Our house is on a quiet street.",
+    "translation": "Nossa casa fica numa rua tranquila.",
+    "syllables": [
+      "Our",
+      "house",
+      "is",
+      "on",
+      "a",
+      "quiet",
+      "street"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈaʊər haʊs ɪz ɑːn ə ˈkwaɪət striːt/",
+    "portuguesePhonetic": "[ÁU-âr ráus iz ón a KUAI-ât strít]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_8",
+    "word": "The gym is next to the subway station.",
+    "translation": "A academia fica ao lado da estação de metrô.",
+    "syllables": [
+      "The",
+      "gym",
+      "is",
+      "next",
+      "to",
+      "the",
+      "subway",
+      "station"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə dʒɪm ɪz nɛkst tuː ðə ˈsʌbweɪ ˈsteɪʃən/",
+    "portuguesePhonetic": "[dâ djím iz nékst tú dâ SÂB-uêi STÊI-shân]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_9",
+    "word": "The pharmacy is near my house.",
+    "translation": "A farmácia fica perto da minha casa.",
+    "syllables": [
+      "The",
+      "pharmacy",
+      "is",
+      "near",
+      "my",
+      "house"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈfɑːrməsi ɪz nɪr maɪ haʊs/",
+    "portuguesePhonetic": "[dâ FÁR-mâ-si iz nír mái ráus]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_10",
+    "word": "My friends are in Spain.",
+    "translation": "Meus amigos estão na Espanha.",
+    "syllables": [
+      "My",
+      "friends",
+      "are",
+      "in",
+      "Spain"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ frɛndz ɑːr ɪn speɪn/",
+    "portuguesePhonetic": "[mái fréndz ár in spêin]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_11",
+    "word": "Where’s the supermarket?",
+    "translation": "Onde fica o supermercado?",
+    "syllables": [
+      "Where’s",
+      "the",
+      "supermarket"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɛrz ðə ˈsuːpərmɑːrkɪt/",
+    "portuguesePhonetic": "[uérz dâ SÚ-pâr-már-kit?]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_12",
+    "word": "Our house is next to the gym.",
+    "translation": "Nossa casa fica ao lado da academia.",
+    "syllables": [
+      "Our",
+      "house",
+      "is",
+      "next",
+      "to",
+      "the",
+      "gym"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈaʊər haʊs ɪz nɛkst tuː ðə dʒɪm/",
+    "portuguesePhonetic": "[ÁU-âr ráus iz nékst tú dâ djím]"
+  },
+  {
+    "id": "nivelamento_licao_1_en_id_13",
+    "word": "The station is far from here, but the restaurant is nearby.",
+    "translation": "A estação fica longe daqui, mas o restaurante fica perto.",
+    "syllables": [
+      "The",
+      "station",
+      "is",
+      "far",
+      "from",
+      "here",
+      "but",
+      "the",
+      "restaurant",
+      "is",
+      "nearby"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈsteɪʃən ɪz fɑːr frʌm hɪr bʌt ðə ˈrɛstərɑːnt ɪz ˈnɪrbaɪ/",
+    "portuguesePhonetic": "[dâ STÊI-shân iz fár frâm rír, bât dâ RÉS-tâ-ránt iz NIR-bai]"
+  }
+]

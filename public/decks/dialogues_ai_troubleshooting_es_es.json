@@ -1,0 +1,112 @@
+[
+  {
+    "id": "dialogues_ai_troubleshooting_es_id_1",
+    "speaker": "A",
+    "word": "La aplicación ha vuelto a ir lenta esta mañana.",
+    "translation": "A aplicação voltou a ficar lenta hoje de manhã.",
+    "syllables": [
+      "La",
+      "aplicación",
+      "ha",
+      "vuelto",
+      "a",
+      "ir",
+      "lenta",
+      "esta",
+      "mañana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la a.pli.ka.ˈθjon a ˈbwel.to a iɾ ˈlen.ta ˈes.ta ma.ˈɲa.na/",
+    "portuguesePhonetic": "[la a-pli-ka-THIÔN a BUÊL-tô a IR LÊN-ta ÊS-ta ma-NHA-na]"
+  },
+  {
+    "id": "dialogues_ai_troubleshooting_es_id_2",
+    "speaker": "B",
+    "word": "¿Has podido averiguar dónde está el problema?",
+    "translation": "Você conseguiu descobrir onde está o problema?",
+    "syllables": [
+      "Has",
+      "podido",
+      "averiguar",
+      "dónde",
+      "está",
+      "el",
+      "problema"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/as po.ˈði.ðo a.βe.ɾi.ˈgwaɾ ˈdon.de es.ˈta el pɾo.ˈβle.ma/",
+    "portuguesePhonetic": "[as pô-DI-dô a-bê-ri-GUAR DÔN-dê ês-TA êl prô-BLÊ-ma?]"
+  },
+  {
+    "id": "dialogues_ai_troubleshooting_es_id_3",
+    "speaker": "A",
+    "word": "Todavía no. Estoy probando una herramienta de IA para ayudar con la investigación.",
+    "translation": "Ainda não. Estou testando uma ferramenta de IA para ajudar na investigação.",
+    "syllables": [
+      "Todavía",
+      "no",
+      "Estoy",
+      "probando",
+      "una",
+      "herramienta",
+      "de",
+      "IA",
+      "para",
+      "ayudar",
+      "con",
+      "la",
+      "investigación"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/to.ða.ˈβi.a no es.ˈtoj pɾo.ˈβan.do ˈu.na e.ra.ˈmjen.ta de ˈi.a ˈpa.ɾa a.ʝu.ˈðaɾ kon la im.bes.ti.ga.ˈθjon/",
+    "portuguesePhonetic": "[tô-da-BI-a nô. ês-TÓI prô-BAN-dô U-na ê-rra-MIÊN-ta dê I-a PA-ra a-iu-DAR kôn la im-bês-ti-ga-THIÔN]"
+  },
+  {
+    "id": "dialogues_ai_troubleshooting_es_id_4",
+    "speaker": "B",
+    "word": "¿Muestra qué datos ha utilizado para llegar a esa conclusión?",
+    "translation": "Ela mostra quais dados usou para chegar à conclusão?",
+    "syllables": [
+      "Muestra",
+      "qué",
+      "datos",
+      "ha",
+      "utilizado",
+      "para",
+      "llegar",
+      "a",
+      "esa",
+      "conclusión"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈmwes.tɾa ke ˈda.tos a u.ti.li.ˈθa.ðo ˈpa.ɾa ʝe.ˈgaɾ a ˈe.sa koŋ.klu.ˈsjon/",
+    "portuguesePhonetic": "[MUÊS-tra kê DA-tôs a u-ti-li-THA-dô PA-ra iê-GAR a Ê-sa kôn-klu-SIÔN?]"
+  },
+  {
+    "id": "dialogues_ai_troubleshooting_es_id_5",
+    "speaker": "A",
+    "word": "Sí. Voy a revisar los datos antes de hacer ningún cambio.",
+    "translation": "Sim. Vou conferir os dados antes de fazer qualquer alteração.",
+    "syllables": [
+      "Sí",
+      "Voy",
+      "a",
+      "revisar",
+      "los",
+      "datos",
+      "antes",
+      "de",
+      "hacer",
+      "ningún",
+      "cambio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si boj a re.βi.ˈsaɾ los ˈda.tos ˈan.tes de a.ˈθeɾ niŋ.ˈgun ˈkam.bjo/",
+    "portuguesePhonetic": "[SI. BÓI a rrê-bi-SAR lôs DA-tôs AN-tês dê a-THÊR nin-GUN KAM-biô]"
+  }
+]

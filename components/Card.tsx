@@ -486,6 +486,17 @@ const Card: React.FC<CardProps> = ({
             
             {/* Word Section */}
             <div className="flex flex-col items-center gap-2 w-full mt-4 md:mt-8">
+              {data.speaker && (
+                <span
+                  className={`inline-flex items-center px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider mb-1 ${
+                    data.speaker === 'A'
+                      ? 'bg-indigo-100 text-indigo-700 dark:bg-indigo-900/50 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800'
+                      : 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/50 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800'
+                  }`}
+                >
+                  Pessoa {data.speaker}
+                </span>
+              )}
               {renderWord()}
               
               {/* Combined Pill based on selections */}
@@ -744,7 +755,9 @@ const Card: React.FC<CardProps> = ({
           <div className="flex flex-col items-center text-center space-y-2 md:space-y-4 w-full h-full justify-center">
             
             <div className="shrink-0 w-full px-4">
-               <p className="text-slate-400 dark:text-slate-500 text-xs uppercase font-bold mb-2">Palavra</p>
+               <p className="text-slate-400 dark:text-slate-500 text-xs uppercase font-bold mb-2">
+                 {data.speaker ? `Pessoa ${data.speaker}` : 'Palavra'}
+               </p>
                <h3 className={`font-bold leading-tight ${data.translation.length > 60 ? 'text-xl' : data.translation.length > 30 ? 'text-2xl' : 'text-3xl'}`}>
                 {data.translation}
               </h3>

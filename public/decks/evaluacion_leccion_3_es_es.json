@@ -1,0 +1,163 @@
+[
+  {
+    "id": "evaluacion_leccion_3_es_id_1",
+    "word": "Mis hermanos viven en España.",
+    "translation": "Meus irmãos moram na Espanha.",
+    "syllables": [
+      "Mis",
+      "hermanos",
+      "viven",
+      "en",
+      "España"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mis eɾ.ˈma.nos ˈbi.βen en es.ˈpa.ɲa/",
+    "portuguesePhonetic": "[mis êr-MA-nôs BI-bên ên ês-PA-nha]"
+  },
+  {
+    "id": "evaluacion_leccion_3_es_id_2",
+    "word": "Mi amiga está en casa.",
+    "translation": "Minha amiga está em casa.",
+    "syllables": [
+      "Mi",
+      "amiga",
+      "está",
+      "en",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi a.ˈmi.ga es.ˈta en ˈka.sa/",
+    "portuguesePhonetic": "[mi a-MI-ga ês-TA ên KA-sa]"
+  },
+  {
+    "id": "evaluacion_leccion_3_es_id_3",
+    "word": "Nuestros amigos van a entrenar mañana.",
+    "translation": "Nossos amigos vão treinar amanhã.",
+    "syllables": [
+      "Nuestros",
+      "amigos",
+      "van",
+      "a",
+      "entrenar",
+      "mañana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈnwes.tɾos a.ˈmi.gos ban a en.tɾe.ˈnaɾ ma.ˈɲa.na/",
+    "portuguesePhonetic": "[NUÊS-trôs a-MI-gôs BAN a ên-trê-NAR ma-NHA-na]"
+  },
+  {
+    "id": "evaluacion_leccion_3_es_id_4",
+    "word": "¿Cuánto cuesta un café?",
+    "translation": "Quanto custa um café?",
+    "syllables": [
+      "Cuánto",
+      "cuesta",
+      "un",
+      "café"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwan.to ˈkwes.ta un ka.ˈfe/",
+    "portuguesePhonetic": "[KUAN-tô KUÊS-ta un ka-FÉ?]"
+  },
+  {
+    "id": "evaluacion_leccion_3_es_id_5",
+    "word": "¿Cuánto cuestan dos tostadas?",
+    "translation": "Quanto custam duas torradas?",
+    "syllables": [
+      "Cuánto",
+      "cuestan",
+      "dos",
+      "tostadas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwan.to ˈkwes.tan dos tos.ˈta.ðas/",
+    "portuguesePhonetic": "[KUAN-tô KUÊS-tan dôs tôs-TA-das?]"
+  },
+  {
+    "id": "evaluacion_leccion_3_es_id_6",
+    "word": "¿Tus hermanas están en el gimnasio?",
+    "translation": "Suas irmãs estão na academia?",
+    "syllables": [
+      "Tus",
+      "hermanas",
+      "están",
+      "en",
+      "el",
+      "gimnasio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tus eɾ.ˈma.nas es.ˈtan en el xim.ˈna.sjo/",
+    "portuguesePhonetic": "[tus êr-MA-nas ês-TAN ên êl rrim-NA-siô?]"
+  },
+  {
+    "id": "evaluacion_leccion_3_es_id_7",
+    "word": "Mis amigos viven en España.",
+    "translation": "Meus amigos moram na Espanha.",
+    "syllables": [
+      "Mis",
+      "amigos",
+      "viven",
+      "en",
+      "España"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mis a.ˈmi.gos ˈbi.βen en es.ˈpa.ɲa/",
+    "portuguesePhonetic": "[mis a-MI-gôs BI-bên ên ês-PA-nha]"
+  },
+  {
+    "id": "evaluacion_leccion_3_es_id_8",
+    "word": "Quiero un café y dos tostadas.",
+    "translation": "Quero um café e duas torradas.",
+    "syllables": [
+      "Quiero",
+      "un",
+      "café",
+      "y",
+      "dos",
+      "tostadas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkje.ɾo un ka.ˈfe i dos tos.ˈta.ðas/",
+    "portuguesePhonetic": "[KIÊ-rô un ka-FÉ i dôs tôs-TA-das]"
+  },
+  {
+    "id": "evaluacion_leccion_3_es_id_9",
+    "word": "¿Tus hermanos van a viajar mañana?",
+    "translation": "Seus irmãos vão viajar amanhã?",
+    "syllables": [
+      "Tus",
+      "hermanos",
+      "van",
+      "a",
+      "viajar",
+      "mañana"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/tus eɾ.ˈma.nos ban a bja.ˈxaɾ ma.ˈɲa.na/",
+    "portuguesePhonetic": "[tus êr-MA-nôs BAN a bia-RRAR ma-NHA-na?]"
+  },
+  {
+    "id": "evaluacion_leccion_3_es_id_10",
+    "word": "¿Cuánto cuestan tres cafés?",
+    "translation": "Quanto custam três cafés?",
+    "syllables": [
+      "Cuánto",
+      "cuestan",
+      "tres",
+      "cafés"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkwan.to ˈkwes.tan tɾes ka.ˈfes/",
+    "portuguesePhonetic": "[KUAN-tô KUÊS-tan três ka-FÉS?]"
+  }
+]

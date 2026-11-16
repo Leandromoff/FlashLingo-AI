@@ -1,0 +1,108 @@
+[
+  {
+    "id": "dialogues_ai_agents_production_en_id_1",
+    "speaker": "A",
+    "word": "Would you give an AI agent access to the production environment?",
+    "translation": "Você daria a um agente de IA acesso ao ambiente de produção?",
+    "syllables": [
+      "Would",
+      "you",
+      "give",
+      "an",
+      "AI",
+      "agent",
+      "access",
+      "to",
+      "the",
+      "production",
+      "environment"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʊd juː ɡɪv æn ˌeɪˈaɪ ˈeɪdʒənt ˈæksɛs tuː ðə prəˈdʌkʃən ɪnˈvaɪrənmənt/",
+    "portuguesePhonetic": "[uûd iú guív én ÊI-ÁI ÊI-djânt ÉK-sés tú dâ pra-DÂK-shân in-VAI-rân-mânt]"
+  },
+  {
+    "id": "dialogues_ai_agents_production_en_id_2",
+    "speaker": "B",
+    "word": "I’d start with read-only access.",
+    "translation": "Eu começaria com acesso somente de leitura.",
+    "syllables": [
+      "I’d",
+      "start",
+      "with",
+      "read-only",
+      "access"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪd stɑːrt wɪð ˈriːdˌoʊnli ˈæksɛs/",
+    "portuguesePhonetic": "[áid stárt uíf RÍD-ôun-li ÉK-sés]"
+  },
+  {
+    "id": "dialogues_ai_agents_production_en_id_3",
+    "speaker": "A",
+    "word": "What if it needs to change a setting?",
+    "translation": "E se ele precisar alterar alguma configuração?",
+    "syllables": [
+      "What",
+      "if",
+      "it",
+      "needs",
+      "to",
+      "change",
+      "a",
+      "setting"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wʌt ɪf ɪt niːdz tuː tʃeɪndʒ ə ˈsɛtɪŋ/",
+    "portuguesePhonetic": "[uât íf ít nídz tú tchêindj a SÉ-tin]"
+  },
+  {
+    "id": "dialogues_ai_agents_production_en_id_4",
+    "speaker": "B",
+    "word": "In that case, I’d require approval from someone on the team.",
+    "translation": "Nesse caso, eu pediria aprovação de alguém da equipe.",
+    "syllables": [
+      "In",
+      "that",
+      "case",
+      "I’d",
+      "require",
+      "approval",
+      "from",
+      "someone",
+      "on",
+      "the",
+      "team"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪn ðæt keɪs aɪd rɪˈkwaɪər əˈpruːvəl frʌm ˈsʌmwʌn ɑːn ðə tiːm/",
+    "portuguesePhonetic": "[in dét kêis, áid ri-KUAI-âr a-PRÚ-vâl frâm SÂM-uân ón dâ tím]"
+  },
+  {
+    "id": "dialogues_ai_agents_production_en_id_5",
+    "speaker": "A",
+    "word": "I agree. I also want a record of everything it does.",
+    "translation": "Concordo. Também quero um registro de tudo o que ele fizer.",
+    "syllables": [
+      "I",
+      "agree",
+      "I",
+      "also",
+      "want",
+      "a",
+      "record",
+      "of",
+      "everything",
+      "it",
+      "does"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ əˈɡriː aɪ ˈɔːlsoʊ wɑːnt ə ˈrɛkərd ʌv ˈɛvriθɪŋ ɪt dʌz/",
+    "portuguesePhonetic": "[ái a-GRÍ. ái ÓL-sôu uónt a RÉ-kârd âv É-vri-fin ít dâz]"
+  }
+]

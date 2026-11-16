@@ -1,0 +1,110 @@
+[
+  {
+    "id": "dialogues_ai_agents_es_id_1",
+    "speaker": "A",
+    "word": "¿Has visto que se está hablando mucho de los agentes de IA?",
+    "translation": "Você viu que estão falando bastante de agentes de IA?",
+    "syllables": [
+      "Has",
+      "visto",
+      "que",
+      "se",
+      "está",
+      "hablando",
+      "mucho",
+      "de",
+      "los",
+      "agentes",
+      "de",
+      "IA"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/as ˈbis.to ke se es.ˈta a.ˈβlan.do ˈmu.tʃo de los a.ˈxen.tes de ˈi.a/",
+    "portuguesePhonetic": "[as BIS-tô kê sê ês-TA a-BLAN-dô MU-tchô dê lôs a-RRÊN-tês dê I-a?]"
+  },
+  {
+    "id": "dialogues_ai_agents_es_id_2",
+    "speaker": "B",
+    "word": "Sí, pero todavía no tengo muy claro qué hacen.",
+    "translation": "Sim, mas ainda não entendi direito o que eles fazem.",
+    "syllables": [
+      "Sí",
+      "pero",
+      "todavía",
+      "no",
+      "tengo",
+      "muy",
+      "claro",
+      "qué",
+      "hacen"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si ˈpe.ɾo to.ða.ˈβi.a no ˈteŋ.go mwi ˈkla.ɾo ke ˈa.θen/",
+    "portuguesePhonetic": "[SI, PÊ-rô tô-da-BI-a nô TÊN-gô mui KLA-rô kê A-thên]"
+  },
+  {
+    "id": "dialogues_ai_agents_es_id_3",
+    "speaker": "A",
+    "word": "Pueden utilizar herramientas y realizar varios pasos de una tarea.",
+    "translation": "Eles podem usar ferramentas e executar várias etapas de uma tarefa.",
+    "syllables": [
+      "Pueden",
+      "utilizar",
+      "herramientas",
+      "y",
+      "realizar",
+      "varios",
+      "pasos",
+      "de",
+      "una",
+      "tarea"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpwe.ðen u.ti.li.ˈθaɾ e.ra.ˈmjen.tas i re.a.li.ˈθaɾ ˈba.ɾjos ˈpa.sos de ˈu.na ta.ˈɾe.a/",
+    "portuguesePhonetic": "[PUÊ-dên u-ti-li-THAR ê-rra-MIÊN-tas i rrê-a-li-THAR BA-riôs PA-sôs dê U-na ta-RÊ-a]"
+  },
+  {
+    "id": "dialogues_ai_agents_es_id_4",
+    "speaker": "B",
+    "word": "¿Crees que podríamos usar eso para gestionar incidencias?",
+    "translation": "Será que daria para usar isso no atendimento de chamados?",
+    "syllables": [
+      "Crees",
+      "que",
+      "podríamos",
+      "usar",
+      "eso",
+      "para",
+      "gestionar",
+      "incidencias"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkɾe.es ke po.ˈðɾi.a.mos u.ˈsaɾ ˈe.so ˈpa.ɾa xes.tjo.ˈnaɾ in.θi.ˈðen.θjas/",
+    "portuguesePhonetic": "[KRÊ-ês kê pô-DRI-a-môs u-SAR Ê-sô PA-ra rrês-tiô-NAR in-thi-DÊN-thias?]"
+  },
+  {
+    "id": "dialogues_ai_agents_es_id_5",
+    "speaker": "A",
+    "word": "Creo que sí. Podríamos empezar con una pequeña prueba.",
+    "translation": "Acho que sim. Podemos começar com um teste pequeno.",
+    "syllables": [
+      "Creo",
+      "que",
+      "sí",
+      "Podríamos",
+      "empezar",
+      "con",
+      "una",
+      "pequeña",
+      "prueba"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkɾe.o ke si po.ˈðɾi.a.mos em.pe.ˈθaɾ kon ˈu.na pe.ˈke.ɲa ˈpɾwe.βa/",
+    "portuguesePhonetic": "[KRÊ-ô kê SI. Pô-DRI-a-môs êm-pê-THAR kôn U-na pê-KÊ-nha PRUÊ-ba]"
+  }
+]

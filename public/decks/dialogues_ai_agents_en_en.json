@@ -1,0 +1,116 @@
+[
+  {
+    "id": "dialogues_ai_agents_en_id_1",
+    "speaker": "A",
+    "word": "Have you noticed how much people are talking about AI agents?",
+    "translation": "Você viu que estão falando bastante de agentes de IA?",
+    "syllables": [
+      "Have",
+      "you",
+      "noticed",
+      "how",
+      "much",
+      "people",
+      "are",
+      "talking",
+      "about",
+      "AI",
+      "agents"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hæv juː ˈnoʊtɪst haʊ mʌtʃ ˈpiːpəl ɑːr ˈtɔːkɪŋ əˈbaʊt ˌeɪˈaɪ ˈeɪdʒənts/",
+    "portuguesePhonetic": "[rév iú NÔU-tist ráu mâtch PI-pôl ár TÓ-kin a-báut ÊI-ÁI ÊI-djânts]"
+  },
+  {
+    "id": "dialogues_ai_agents_en_id_2",
+    "speaker": "B",
+    "word": "Yeah, but I still don’t quite understand what they do.",
+    "translation": "Sim, mas ainda não entendi direito o que eles fazem.",
+    "syllables": [
+      "Yeah",
+      "but",
+      "I",
+      "still",
+      "don’t",
+      "quite",
+      "understand",
+      "what",
+      "they",
+      "do"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/jɛə bʌt aɪ stɪl doʊnt kwaɪt ˌʌndərˈstænd wʌt ðeɪ duː/",
+    "portuguesePhonetic": "[ié, bât ái stil dôunt kuáit ân-dâr-STÉND uât dêi dú]"
+  },
+  {
+    "id": "dialogues_ai_agents_en_id_3",
+    "speaker": "A",
+    "word": "They can use tools and carry out several steps of a task.",
+    "translation": "Eles podem usar ferramentas e executar várias etapas de uma tarefa.",
+    "syllables": [
+      "They",
+      "can",
+      "use",
+      "tools",
+      "and",
+      "carry",
+      "out",
+      "several",
+      "steps",
+      "of",
+      "a",
+      "task"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðeɪ kæn juːz tuːlz ænd ˈkæri aʊt ˈsɛvrəl stɛps ʌv ə tæsk/",
+    "portuguesePhonetic": "[dêi kén iúz túl-z énd KÉ-ri áut SÉ-vrâl stéps âv a tésk]"
+  },
+  {
+    "id": "dialogues_ai_agents_en_id_4",
+    "speaker": "B",
+    "word": "Do you think we could use that to handle support tickets?",
+    "translation": "Será que daria para usar isso no atendimento de chamados?",
+    "syllables": [
+      "Do",
+      "you",
+      "think",
+      "we",
+      "could",
+      "use",
+      "that",
+      "to",
+      "handle",
+      "support",
+      "tickets"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː θɪŋk wiː kʊd juːz ðæt tuː ˈhændəl səˈpɔːrt ˈtɪkɪts/",
+    "portuguesePhonetic": "[dú iú fínk uí kûd iúz dét tú RÉN-dôl sa-PÓRT TI-kits]"
+  },
+  {
+    "id": "dialogues_ai_agents_en_id_5",
+    "speaker": "A",
+    "word": "I think so. We could start with a small trial.",
+    "translation": "Acho que sim. Podemos começar com um teste pequeno.",
+    "syllables": [
+      "I",
+      "think",
+      "so",
+      "We",
+      "could",
+      "start",
+      "with",
+      "a",
+      "small",
+      "trial"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ θɪŋk soʊ wiː kʊd stɑːrt wɪð ə smɔːl ˈtraɪəl/",
+    "portuguesePhonetic": "[ái fínk sôu. uí kûd stárt uíf a smól TRAI-âl]"
+  }
+]

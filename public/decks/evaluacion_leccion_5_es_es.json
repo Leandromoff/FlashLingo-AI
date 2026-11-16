@@ -1,0 +1,183 @@
+[
+  {
+    "id": "evaluacion_leccion_5_es_id_1",
+    "word": "Hoy voy al supermercado a pie.",
+    "translation": "Hoje vou ao supermercado a pé.",
+    "syllables": [
+      "Hoy",
+      "voy",
+      "al",
+      "supermercado",
+      "a",
+      "pie"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/oj boj al su.peɾ.meɾ.ˈka.ðo a pje/",
+    "portuguesePhonetic": "[ÓI BÓI al su-pêr-mêr-KA-dô a PIÊ]"
+  },
+  {
+    "id": "evaluacion_leccion_5_es_id_2",
+    "word": "Mi esposa está en el gimnasio.",
+    "translation": "Minha esposa está na academia.",
+    "syllables": [
+      "Mi",
+      "esposa",
+      "está",
+      "en",
+      "el",
+      "gimnasio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi es.ˈpo.sa es.ˈta en el xim.ˈna.sjo/",
+    "portuguesePhonetic": "[mi ês-PÔ-sa ês-TA ên êl rrim-NA-siô]"
+  },
+  {
+    "id": "evaluacion_leccion_5_es_id_3",
+    "word": "Después del trabajo, vuelvo a casa.",
+    "translation": "Depois do trabalho, volto para casa.",
+    "syllables": [
+      "Después",
+      "del",
+      "trabajo",
+      "vuelvo",
+      "a",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/des.ˈpwes del tɾa.ˈβa.xo ˈbwel.βo a ˈka.sa/",
+    "portuguesePhonetic": "[dês-PUÊS dêl tra-BA-rrô, BUÊL-bô a KA-sa]"
+  },
+  {
+    "id": "evaluacion_leccion_5_es_id_4",
+    "word": "La farmacia está al lado de la estación de metro.",
+    "translation": "A farmácia fica ao lado da estação de metrô.",
+    "syllables": [
+      "La",
+      "farmacia",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "estación",
+      "de",
+      "metro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la faɾ.ˈma.θja es.ˈta al ˈla.ðo de la es.ta.ˈθjon de ˈme.tɾo/",
+    "portuguesePhonetic": "[la far-MA-thia ês-TA al LA-dô dê la ês-ta-THIÔN dê MÊ-trô]"
+  },
+  {
+    "id": "evaluacion_leccion_5_es_id_5",
+    "word": "Mañana vamos a viajar a España.",
+    "translation": "Amanhã vamos viajar para a Espanha.",
+    "syllables": [
+      "Mañana",
+      "vamos",
+      "a",
+      "viajar",
+      "a",
+      "España"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ma.ˈɲa.na ˈba.mos a bja.ˈxaɾ a es.ˈpa.ɲa/",
+    "portuguesePhonetic": "[ma-NHA-na BA-môs a bia-RRAR a ês-PA-nha]"
+  },
+  {
+    "id": "evaluacion_leccion_5_es_id_6",
+    "word": "Me gusta caminar con mi esposa cerca de casa.",
+    "translation": "Gosto de caminhar com minha esposa perto de casa.",
+    "syllables": [
+      "Me",
+      "gusta",
+      "caminar",
+      "con",
+      "mi",
+      "esposa",
+      "cerca",
+      "de",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me ˈgus.ta ka.mi.ˈnaɾ kon mi es.ˈpo.sa ˈθeɾ.ka de ˈka.sa/",
+    "portuguesePhonetic": "[mê GUS-ta ka-mi-NAR kôn mi ês-PÔ-sa THÊR-ka dê KA-sa]"
+  },
+  {
+    "id": "evaluacion_leccion_5_es_id_7",
+    "word": "Después del gimnasio, vuelvo a casa.",
+    "translation": "Depois da academia, volto para casa.",
+    "syllables": [
+      "Después",
+      "del",
+      "gimnasio",
+      "vuelvo",
+      "a",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/des.ˈpwes del xim.ˈna.sjo ˈbwel.βo a ˈka.sa/",
+    "portuguesePhonetic": "[dês-PUÊS dêl rrim-NA-siô, BUÊL-bô a KA-sa]"
+  },
+  {
+    "id": "evaluacion_leccion_5_es_id_8",
+    "word": "El supermercado está al lado de la farmacia.",
+    "translation": "O supermercado fica ao lado da farmácia.",
+    "syllables": [
+      "El",
+      "supermercado",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "farmacia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el su.peɾ.meɾ.ˈka.ðo es.ˈta al ˈla.ðo de la faɾ.ˈma.θja/",
+    "portuguesePhonetic": "[êl su-pêr-mêr-KA-dô ês-TA al LA-dô dê la far-MA-thia]"
+  },
+  {
+    "id": "evaluacion_leccion_5_es_id_9",
+    "word": "Mañana mi esposa va a viajar a España.",
+    "translation": "Amanhã minha esposa vai viajar para a Espanha.",
+    "syllables": [
+      "Mañana",
+      "mi",
+      "esposa",
+      "va",
+      "a",
+      "viajar",
+      "a",
+      "España"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ma.ˈɲa.na mi es.ˈpo.sa ba a bja.ˈxaɾ a es.ˈpa.ɲa/",
+    "portuguesePhonetic": "[ma-NHA-na mi ês-PÔ-sa BA a bia-RRAR a ês-PA-nha]"
+  },
+  {
+    "id": "evaluacion_leccion_5_es_id_10",
+    "word": "Nos gusta caminar cerca de casa.",
+    "translation": "Gostamos de caminhar perto de casa.",
+    "syllables": [
+      "Nos",
+      "gusta",
+      "caminar",
+      "cerca",
+      "de",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nos ˈgus.ta ka.mi.ˈnaɾ ˈθeɾ.ka de ˈka.sa/",
+    "portuguesePhonetic": "[nôs GUS-ta ka-mi-NAR THÊR-ka dê KA-sa]"
+  }
+]

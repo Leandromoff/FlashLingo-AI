@@ -1,0 +1,111 @@
+[
+  {
+    "id": "dialogues_ai_knowledge_base_en_id_1",
+    "speaker": "A",
+    "word": "It would be useful if the AI could look up our internal documentation.",
+    "translation": "Seria útil se a IA conseguisse consultar nossa documentação interna.",
+    "syllables": [
+      "It",
+      "would",
+      "be",
+      "useful",
+      "if",
+      "the",
+      "AI",
+      "could",
+      "look",
+      "up",
+      "our",
+      "internal",
+      "documentation"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɪt wʊd biː ˈjuːsfəl ɪf ði ˌeɪˈaɪ kʊd lʊk ʌp ˈaʊər ɪnˈtɜːrnəl ˌdɑːkjəmɛnˈteɪʃən/",
+    "portuguesePhonetic": "[ít uûd bi IÚS-fôl íf di ÊI-ÁI kûd lûk âp ÁU-âr in-TÂR-nâl dó-kiu-mên-TÊI-shân]"
+  },
+  {
+    "id": "dialogues_ai_knowledge_base_en_id_2",
+    "speaker": "B",
+    "word": "Definitely. We spend a lot of time looking for information.",
+    "translation": "Com certeza. A gente perde muito tempo procurando informações.",
+    "syllables": [
+      "Definitely",
+      "We",
+      "spend",
+      "a",
+      "lot",
+      "of",
+      "time",
+      "looking",
+      "for",
+      "information"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdɛfənətli wiː spɛnd ə lɑːt ʌv taɪm ˈlʊkɪŋ fɔːr ˌɪnfərˈmeɪʃən/",
+    "portuguesePhonetic": "[DÉ-fi-nât-li. uí spénd a lót âv táim LÛ-kin fór in-fâr-MÊI-shân]"
+  },
+  {
+    "id": "dialogues_ai_knowledge_base_en_id_3",
+    "speaker": "A",
+    "word": "Do you think we could connect our knowledge base?",
+    "translation": "Você acha que conseguiríamos conectar a nossa base de conhecimento?",
+    "syllables": [
+      "Do",
+      "you",
+      "think",
+      "we",
+      "could",
+      "connect",
+      "our",
+      "knowledge",
+      "base"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/duː juː θɪŋk wiː kʊd kəˈnɛkt ˈaʊər ˈnɑːlɪdʒ beɪs/",
+    "portuguesePhonetic": "[dú iú fínk uí kûd ka-NÉKT ÁU-âr NÓ-lidj bêis]"
+  },
+  {
+    "id": "dialogues_ai_knowledge_base_en_id_4",
+    "speaker": "B",
+    "word": "I think so, but first we need to review the permissions.",
+    "translation": "Acho que sim, mas primeiro precisamos revisar as permissões.",
+    "syllables": [
+      "I",
+      "think",
+      "so",
+      "but",
+      "first",
+      "we",
+      "need",
+      "to",
+      "review",
+      "the",
+      "permissions"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ θɪŋk soʊ bʌt fɜːrst wiː niːd tuː rɪˈvjuː ðə pərˈmɪʃənz/",
+    "portuguesePhonetic": "[ái fínk sôu, bât fârst uí níd tú ri-VIÚ dâ pâr-MI-shânz]"
+  },
+  {
+    "id": "dialogues_ai_knowledge_base_en_id_5",
+    "speaker": "A",
+    "word": "And update the outdated procedures too.",
+    "translation": "E também atualizar os procedimentos que estão desatualizados.",
+    "syllables": [
+      "And",
+      "update",
+      "the",
+      "outdated",
+      "procedures",
+      "too"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ænd ˌʌpˈdeɪt ði ˌaʊtˈdeɪtɪd prəˈsiːdʒərz tuː/",
+    "portuguesePhonetic": "[énd âp-DÊIT di áut-DÊI-tid pra-SÍ-djârz tú]"
+  }
+]

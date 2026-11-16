@@ -1,0 +1,112 @@
+[
+  {
+    "id": "dialogues_ai_future_of_work_es_id_1",
+    "speaker": "A",
+    "word": "¿Crees que la IA va a cambiar mucho nuestro trabajo?",
+    "translation": "Você acha que a IA vai mudar muito o nosso trabalho?",
+    "syllables": [
+      "Crees",
+      "que",
+      "la",
+      "IA",
+      "va",
+      "a",
+      "cambiar",
+      "mucho",
+      "nuestro",
+      "trabajo"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkɾe.es ke la ˈi.a ba a kam.ˈbjaɾ ˈmu.tʃo ˈnwes.tɾo tɾa.ˈβa.xo/",
+    "portuguesePhonetic": "[KRÊ-ês kê la I-a ba a kam-BIAR MU-tchô NUÊS-trô tra-BA-rrô?]"
+  },
+  {
+    "id": "dialogues_ai_future_of_work_es_id_2",
+    "speaker": "B",
+    "word": "Creo que sí, sobre todo las tareas repetitivas.",
+    "translation": "Acho que sim, principalmente as tarefas repetitivas.",
+    "syllables": [
+      "Creo",
+      "que",
+      "sí",
+      "sobre",
+      "todo",
+      "las",
+      "tareas",
+      "repetitivas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈkɾe.o ke si ˈso.βɾe ˈto.ðo las ta.ˈɾe.as re.pe.ti.ˈti.βas/",
+    "portuguesePhonetic": "[KRÊ-ô kê SI, SÔ-brê TÔ-dô las ta-RÊ-as rrê-pê-ti-TI-bas]"
+  },
+  {
+    "id": "dialogues_ai_future_of_work_es_id_3",
+    "speaker": "A",
+    "word": "Me gustaría dedicar menos tiempo a hacer informes.",
+    "translation": "Eu queria gastar menos tempo fazendo relatórios.",
+    "syllables": [
+      "Me",
+      "gustaría",
+      "dedicar",
+      "menos",
+      "tiempo",
+      "a",
+      "hacer",
+      "informes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/me gus.ta.ˈɾi.a de.ði.ˈkaɾ ˈme.nos ˈtjem.po a a.ˈθeɾ iɱ.ˈfoɾ.mes/",
+    "portuguesePhonetic": "[mê gus-ta-RI-a dê-di-KAR MÊ-nôs TIÊM-pô a a-THÊR in-FÔR-mês]"
+  },
+  {
+    "id": "dialogues_ai_future_of_work_es_id_4",
+    "speaker": "B",
+    "word": "Yo también. Tendríamos más tiempo para investigar los problemas.",
+    "translation": "Eu também. Teríamos mais tempo para investigar os problemas.",
+    "syllables": [
+      "Yo",
+      "también",
+      "Tendríamos",
+      "más",
+      "tiempo",
+      "para",
+      "investigar",
+      "los",
+      "problemas"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ʝo tam.ˈbjen ten.ˈdɾi.a.mos mas ˈtjem.po ˈpa.ɾa im.bes.ti.ˈgaɾ los pɾo.ˈβle.mas/",
+    "portuguesePhonetic": "[iô tam-BIÊN. tên-DRI-a-môs MAS TIÊM-pô PA-ra im-bês-ti-GAR lôs prô-BLÊ-mas]"
+  },
+  {
+    "id": "dialogues_ai_future_of_work_es_id_5",
+    "speaker": "A",
+    "word": "Voy a empezar a estudiar el tema y a probar algunas ideas en mi laboratorio.",
+    "translation": "Vou começar a estudar isso e testar algumas ideias no meu laboratório.",
+    "syllables": [
+      "Voy",
+      "a",
+      "empezar",
+      "a",
+      "estudiar",
+      "el",
+      "tema",
+      "y",
+      "a",
+      "probar",
+      "algunas",
+      "ideas",
+      "en",
+      "mi",
+      "laboratorio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/boj a em.pe.ˈθaɾ a es.tu.ˈðjaɾ el ˈte.ma i a pɾo.ˈβaɾ al.ˈgu.nas i.ˈðe.as en mi la.βo.ɾa.ˈto.ɾjo/",
+    "portuguesePhonetic": "[BÓI a êm-pê-THAR a ês-tu-DIAR êl TÊ-ma i a prô-BAR al-GU-nas i-DÊ-as ên mi la-bô-ra-TÔ-riô]"
+  }
+]

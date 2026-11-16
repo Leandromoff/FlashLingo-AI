@@ -1,0 +1,234 @@
+[
+  {
+    "id": "nivelamento_licao_1_es_id_1",
+    "word": "Mi casa está cerca del supermercado.",
+    "translation": "A minha casa fica perto do supermercado.",
+    "syllables": [
+      "Mi",
+      "casa",
+      "está",
+      "cerca",
+      "del",
+      "supermercado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mi ˈka.sa es.ˈta ˈθeɾ.ka del su.peɾ.meɾ.ˈka.ðo/",
+    "portuguesePhonetic": "[mi KA-sa ês-TA THÊR-ka dêl su-pêr-mêr-KA-dô]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_2",
+    "word": "La estación de metro está lejos del gimnasio.",
+    "translation": "A estação de metrô fica longe da academia.",
+    "syllables": [
+      "La",
+      "estación",
+      "de",
+      "metro",
+      "está",
+      "lejos",
+      "del",
+      "gimnasio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la es.ta.ˈθjon de ˈme.tɾo es.ˈta ˈle.xos del xim.ˈna.sjo/",
+    "portuguesePhonetic": "[la ês-ta-THIÔN dê MÊ-trô ês-TA LÊ-rrôs dêl rrim-NA-siô]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_3",
+    "word": "¿Dónde está la farmacia?",
+    "translation": "Onde fica a farmácia?",
+    "syllables": [
+      "Dónde",
+      "está",
+      "la",
+      "farmacia"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdon.de es.ˈta la faɾ.ˈma.θja/",
+    "portuguesePhonetic": "[DÔN-dê ês-TA la far-MA-thia?]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_4",
+    "word": "Mis hermanos están en casa.",
+    "translation": "Meus irmãos estão em casa.",
+    "syllables": [
+      "Mis",
+      "hermanos",
+      "están",
+      "en",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mis eɾ.ˈma.nos es.ˈtan en ˈka.sa/",
+    "portuguesePhonetic": "[mis êr-MA-nôs ês-TAN ên KA-sa]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_5",
+    "word": "El restaurante está cerca de aquí, pero está cerrado.",
+    "translation": "O restaurante fica perto daqui, mas está fechado.",
+    "syllables": [
+      "El",
+      "restaurante",
+      "está",
+      "cerca",
+      "de",
+      "aquí",
+      "pero",
+      "está",
+      "cerrado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el res.tau.ˈɾan.te es.ˈta ˈθeɾ.ka de a.ˈki ˈpe.ɾo es.ˈta θe.ˈra.ðo/",
+    "portuguesePhonetic": "[êl rrês-tau-RAN-tê ês-TA THÊR-ka dê a-KI, PÊ-rô ês-TA thê-RRA-dô]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_6",
+    "word": "Soy brasileño y estoy en España.",
+    "translation": "Sou brasileiro e estou na Espanha.",
+    "syllables": [
+      "Soy",
+      "brasileño",
+      "y",
+      "estoy",
+      "en",
+      "España"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/soj bɾa.si.ˈle.ɲo i es.ˈtoj en es.ˈpa.ɲa/",
+    "portuguesePhonetic": "[sói bra-si-LÊ-nhô i ês-TÓI ên ês-PA-nha]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_7",
+    "word": "Nuestra casa está en una calle tranquila.",
+    "translation": "Nossa casa fica numa rua tranquila.",
+    "syllables": [
+      "Nuestra",
+      "casa",
+      "está",
+      "en",
+      "una",
+      "calle",
+      "tranquila"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈnwes.tɾa ˈka.sa es.ˈta en ˈu.na ˈka.ʝe tɾaŋ.ˈki.la/",
+    "portuguesePhonetic": "[NUÊS-tra KA-sa ês-TA ên U-na KA-iê tran-KI-la]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_8",
+    "word": "El gimnasio está al lado de la estación de metro.",
+    "translation": "A academia fica ao lado da estação de metrô.",
+    "syllables": [
+      "El",
+      "gimnasio",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "estación",
+      "de",
+      "metro"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/el xim.ˈna.sjo es.ˈta al ˈla.ðo de la es.ta.ˈθjon de ˈme.tɾo/",
+    "portuguesePhonetic": "[êl rrim-NA-siô ês-TA al LA-dô dê la ês-ta-THIÔN dê MÊ-trô]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_9",
+    "word": "La farmacia está cerca de mi casa.",
+    "translation": "A farmácia fica perto da minha casa.",
+    "syllables": [
+      "La",
+      "farmacia",
+      "está",
+      "cerca",
+      "de",
+      "mi",
+      "casa"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la faɾ.ˈma.θja es.ˈta ˈθeɾ.ka de mi ˈka.sa/",
+    "portuguesePhonetic": "[la far-MA-thia ês-TA THÊR-ka dê mi KA-sa]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_10",
+    "word": "Mis amigos están en España.",
+    "translation": "Meus amigos estão na Espanha.",
+    "syllables": [
+      "Mis",
+      "amigos",
+      "están",
+      "en",
+      "España"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/mis a.ˈmi.gos es.ˈtan en es.ˈpa.ɲa/",
+    "portuguesePhonetic": "[mis a-MI-gôs ês-TAN ên ês-PA-nha]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_11",
+    "word": "¿Dónde está el supermercado?",
+    "translation": "Onde fica o supermercado?",
+    "syllables": [
+      "Dónde",
+      "está",
+      "el",
+      "supermercado"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈdon.de es.ˈta el su.peɾ.meɾ.ˈka.ðo/",
+    "portuguesePhonetic": "[DÔN-dê ês-TA êl su-pêr-mêr-KA-dô?]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_12",
+    "word": "Nuestra casa está al lado del gimnasio.",
+    "translation": "Nossa casa fica ao lado da academia.",
+    "syllables": [
+      "Nuestra",
+      "casa",
+      "está",
+      "al",
+      "lado",
+      "del",
+      "gimnasio"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈnwes.tɾa ˈka.sa es.ˈta al ˈla.ðo del xim.ˈna.sjo/",
+    "portuguesePhonetic": "[NUÊS-tra KA-sa ês-TA al LA-dô dêl rrim-NA-siô]"
+  },
+  {
+    "id": "nivelamento_licao_1_es_id_13",
+    "word": "La estación está lejos de aquí, pero el restaurante está cerca.",
+    "translation": "A estação fica longe daqui, mas o restaurante fica perto.",
+    "syllables": [
+      "La",
+      "estación",
+      "está",
+      "lejos",
+      "de",
+      "aquí",
+      "pero",
+      "el",
+      "restaurante",
+      "está",
+      "cerca"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/la es.ta.ˈθjon es.ˈta ˈle.xos de a.ˈki ˈpe.ɾo el res.tau.ˈɾan.te es.ˈta ˈθeɾ.ka/",
+    "portuguesePhonetic": "[la ês-ta-THIÔN ês-TA LÊ-rrôs dê a-KI, PÊ-rô êl rrês-tau-RAN-tê ês-TA THÊR-ka]"
+  }
+]

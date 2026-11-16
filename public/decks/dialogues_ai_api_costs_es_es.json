@@ -1,0 +1,109 @@
+[
+  {
+    "id": "dialogues_ai_api_costs_es_id_1",
+    "speaker": "A",
+    "word": "¿Has visto cuánto hemos gastado en la API de IA este mes?",
+    "translation": "Você viu quanto gastamos com a API de IA este mês?",
+    "syllables": [
+      "Has",
+      "visto",
+      "cuánto",
+      "hemos",
+      "gastado",
+      "en",
+      "la",
+      "API",
+      "de",
+      "IA",
+      "este",
+      "mes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/as ˈbis.to ˈkwan.to ˈe.mos gas.ˈta.ðo en la ˈa.pi de ˈi.a ˈes.te mes/",
+    "portuguesePhonetic": "[as BIS-tô KUAN-tô Ê-môs gas-TA-dô ên la A-pi dê I-a ÊS-tê mês?]"
+  },
+  {
+    "id": "dialogues_ai_api_costs_es_id_2",
+    "speaker": "B",
+    "word": "Sí. Ha sido bastante más de lo que esperaba.",
+    "translation": "Vi. Ficou bem acima do que eu esperava.",
+    "syllables": [
+      "Sí",
+      "Ha",
+      "sido",
+      "bastante",
+      "más",
+      "de",
+      "lo",
+      "que",
+      "esperaba"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/si a ˈsi.ðo bas.ˈtan.te mas de lo ke es.pe.ˈɾa.βa/",
+    "portuguesePhonetic": "[SI. a SI-dô bas-TAN-tê MAS dê lô kê ês-pê-RA-ba]"
+  },
+  {
+    "id": "dialogues_ai_api_costs_es_id_3",
+    "speaker": "A",
+    "word": "¿Puede que la aplicación esté haciendo llamadas innecesarias?",
+    "translation": "Será que a aplicação está fazendo chamadas desnecessárias?",
+    "syllables": [
+      "Puede",
+      "que",
+      "la",
+      "aplicación",
+      "esté",
+      "haciendo",
+      "llamadas",
+      "innecesarias"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpwe.ðe ke la a.pli.ka.ˈθjon es.ˈte a.ˈθjen.do ʝa.ˈma.ðas in.ne.θe.ˈsa.ɾjas/",
+    "portuguesePhonetic": "[PUÊ-dê kê la a-pli-ka-THIÔN ês-TÊ a-THIÊN-dô ia-MA-das in-nê-thê-SA-rias?]"
+  },
+  {
+    "id": "dialogues_ai_api_costs_es_id_4",
+    "speaker": "B",
+    "word": "Puede ser. Voy a revisar el consumo de tokens por tarea.",
+    "translation": "Pode ser. Vou verificar o consumo de tokens por tarefa.",
+    "syllables": [
+      "Puede",
+      "ser",
+      "Voy",
+      "a",
+      "revisar",
+      "el",
+      "consumo",
+      "de",
+      "tokens",
+      "por",
+      "tarea"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpwe.ðe ˈseɾ boj a re.βi.ˈsaɾ el kon.ˈsu.mo de ˈto.kens poɾ ta.ˈɾe.a/",
+    "portuguesePhonetic": "[PUÊ-dê SÊR. BÓI a rrê-bi-SAR êl kôn-SU-mô dê TÔ-kêns pôr ta-RÊ-a]"
+  },
+  {
+    "id": "dialogues_ai_api_costs_es_id_5",
+    "speaker": "A",
+    "word": "Perfecto. Después podemos configurar alertas de gasto.",
+    "translation": "Ótimo. Depois podemos definir alertas de gastos.",
+    "syllables": [
+      "Perfecto",
+      "Después",
+      "podemos",
+      "configurar",
+      "alertas",
+      "de",
+      "gasto"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/peɾ.ˈfek.to des.ˈpwes po.ˈðe.mos koɱ.fi.gu.ˈɾaɾ a.ˈleɾ.tas de ˈgas.to/",
+    "portuguesePhonetic": "[pêr-FÊK-tô. dês-PUÊS pô-DÊ-môs kôn-fi-gu-RAR a-LÊR-tas dê GAS-tô]"
+  }
+]

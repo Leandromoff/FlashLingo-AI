@@ -1,0 +1,111 @@
+[
+  {
+    "id": "dialogues_ai_troubleshooting_en_id_1",
+    "speaker": "A",
+    "word": "The application slowed down again this morning.",
+    "translation": "A aplicação voltou a ficar lenta hoje de manhã.",
+    "syllables": [
+      "The",
+      "application",
+      "slowed",
+      "down",
+      "again",
+      "this",
+      "morning"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ði ˌæplɪˈkeɪʃən sloʊd daʊn əˈɡɛn ðɪs ˈmɔːrnɪŋ/",
+    "portuguesePhonetic": "[di é-pli-KÊI-shân slôud dáun a-GUÉN dis MÓR-nin]"
+  },
+  {
+    "id": "dialogues_ai_troubleshooting_en_id_2",
+    "speaker": "B",
+    "word": "Were you able to figure out where the problem is?",
+    "translation": "Você conseguiu descobrir onde está o problema?",
+    "syllables": [
+      "Were",
+      "you",
+      "able",
+      "to",
+      "figure",
+      "out",
+      "where",
+      "the",
+      "problem",
+      "is"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɜːr juː ˈeɪbəl tuː ˈfɪɡjər aʊt wɛr ðə ˈprɑːbləm ɪz/",
+    "portuguesePhonetic": "[uâr iú ÊI-bôl tú FI-guiâr áut uér dâ PRÓ-blâm iz]"
+  },
+  {
+    "id": "dialogues_ai_troubleshooting_en_id_3",
+    "speaker": "A",
+    "word": "Not yet. I’m trying an AI tool to help with the investigation.",
+    "translation": "Ainda não. Estou testando uma ferramenta de IA para ajudar na investigação.",
+    "syllables": [
+      "Not",
+      "yet",
+      "I’m",
+      "trying",
+      "an",
+      "AI",
+      "tool",
+      "to",
+      "help",
+      "with",
+      "the",
+      "investigation"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/nɑːt jɛt aɪm ˈtraɪɪŋ æn ˌeɪˈaɪ tuːl tuː hɛlp wɪð ði ɪnˌvɛstɪˈɡeɪʃən/",
+    "portuguesePhonetic": "[nót iét. áim TRAI-in én ÊI-ÁI túl tú rélp uíf di in-vés-ti-GUÊI-shân]"
+  },
+  {
+    "id": "dialogues_ai_troubleshooting_en_id_4",
+    "speaker": "B",
+    "word": "Does it show which data it used to reach its conclusion?",
+    "translation": "Ela mostra quais dados usou para chegar à conclusão?",
+    "syllables": [
+      "Does",
+      "it",
+      "show",
+      "which",
+      "data",
+      "it",
+      "used",
+      "to",
+      "reach",
+      "its",
+      "conclusion"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/dʌz ɪt ʃoʊ wɪtʃ ˈdeɪtə ɪt juːzd tuː riːtʃ ɪts kənˈkluːʒən/",
+    "portuguesePhonetic": "[dâz ít shôu uítch DÊI-tâ ít iúzd tú rítch íts kân-KLÚ-jân]"
+  },
+  {
+    "id": "dialogues_ai_troubleshooting_en_id_5",
+    "speaker": "A",
+    "word": "Yes. I’ll check the data before making any changes.",
+    "translation": "Sim. Vou conferir os dados antes de fazer qualquer alteração.",
+    "syllables": [
+      "Yes",
+      "I’ll",
+      "check",
+      "the",
+      "data",
+      "before",
+      "making",
+      "any",
+      "changes"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/jɛs aɪl tʃɛk ðə ˈdeɪtə bɪˈfɔːr ˈmeɪkɪŋ ˈɛni ˈtʃeɪndʒɪz/",
+    "portuguesePhonetic": "[iés. áil tchék dâ DÊI-tâ bi-FÓR MÊI-kin É-ni TCHÊIN-djiz]"
+  }
+]

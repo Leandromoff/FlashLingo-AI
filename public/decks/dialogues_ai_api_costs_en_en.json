@@ -1,0 +1,106 @@
+[
+  {
+    "id": "dialogues_ai_api_costs_en_id_1",
+    "speaker": "A",
+    "word": "Have you seen how much we’ve spent on the AI API this month?",
+    "translation": "Você viu quanto gastamos com a API de IA este mês?",
+    "syllables": [
+      "Have",
+      "you",
+      "seen",
+      "how",
+      "much",
+      "we’ve",
+      "spent",
+      "on",
+      "the",
+      "AI",
+      "API",
+      "this",
+      "month"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/hæv juː siːn haʊ mʌtʃ wiːv spɛnt ɑːn ði ˌeɪˈaɪ ˌeɪpiːˈaɪ ðɪs mʌnθ/",
+    "portuguesePhonetic": "[rév iú sín ráu mâtch uív spént ón di ÊI-ÁI êi-pi-ÁI dis mânf]"
+  },
+  {
+    "id": "dialogues_ai_api_costs_en_id_2",
+    "speaker": "B",
+    "word": "Yeah. It was much higher than I expected.",
+    "translation": "Vi. Ficou bem acima do que eu esperava.",
+    "syllables": [
+      "Yeah",
+      "It",
+      "was",
+      "much",
+      "higher",
+      "than",
+      "I",
+      "expected"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/jɛə ɪt wʌz mʌtʃ ˈhaɪər ðæn aɪ ɪkˈspɛktɪd/",
+    "portuguesePhonetic": "[ié. ít uâz mâtch RAI-âr dén ái ik-SPÉK-tid]"
+  },
+  {
+    "id": "dialogues_ai_api_costs_en_id_3",
+    "speaker": "A",
+    "word": "Could the application be making unnecessary calls?",
+    "translation": "Será que a aplicação está fazendo chamadas desnecessárias?",
+    "syllables": [
+      "Could",
+      "the",
+      "application",
+      "be",
+      "making",
+      "unnecessary",
+      "calls"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/kʊd ði ˌæplɪˈkeɪʃən biː ˈmeɪkɪŋ ʌnˈnɛsəsɛri kɔːlz/",
+    "portuguesePhonetic": "[kûd di é-pli-KÊI-shân bi MÊI-kin ân-NÉ-sâ-sé-ri kólz]"
+  },
+  {
+    "id": "dialogues_ai_api_costs_en_id_4",
+    "speaker": "B",
+    "word": "Possibly. I’ll check the token usage per task.",
+    "translation": "Pode ser. Vou verificar o consumo de tokens por tarefa.",
+    "syllables": [
+      "Possibly",
+      "I’ll",
+      "check",
+      "the",
+      "token",
+      "usage",
+      "per",
+      "task"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ˈpɑːsəbli aɪl tʃɛk ðə ˈtoʊkən ˈjuːsɪdʒ pɜːr tæsk/",
+    "portuguesePhonetic": "[PÓ-sâ-bli. áil tchék dâ TÔU-kân IÚ-sidj pâr tésk]"
+  },
+  {
+    "id": "dialogues_ai_api_costs_en_id_5",
+    "speaker": "A",
+    "word": "Great. Then we can set up spending alerts.",
+    "translation": "Ótimo. Depois podemos definir alertas de gastos.",
+    "syllables": [
+      "Great",
+      "Then",
+      "we",
+      "can",
+      "set",
+      "up",
+      "spending",
+      "alerts"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ɡreɪt ðɛn wiː kæn sɛt ʌp ˈspɛndɪŋ əˈlɜːrts/",
+    "portuguesePhonetic": "[grêit. dén uí kén sét âp SPÉN-din a-LÂRTS]"
+  }
+]

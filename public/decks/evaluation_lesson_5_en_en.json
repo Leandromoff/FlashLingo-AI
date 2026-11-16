@@ -1,0 +1,179 @@
+[
+  {
+    "id": "evaluation_lesson_5_en_id_1",
+    "word": "I’m walking to the supermarket today.",
+    "translation": "Hoje vou ao supermercado a pé.",
+    "syllables": [
+      "I’m",
+      "walking",
+      "to",
+      "the",
+      "supermarket",
+      "today"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪm ˈwɔːkɪŋ tuː ðə ˈsuːpərmɑːrkɪt təˈdeɪ/",
+    "portuguesePhonetic": "[áim UÓ-kin tú dâ SÚ-pâr-már-kit ta-DÊI]"
+  },
+  {
+    "id": "evaluation_lesson_5_en_id_2",
+    "word": "My wife is at the gym.",
+    "translation": "Minha esposa está na academia.",
+    "syllables": [
+      "My",
+      "wife",
+      "is",
+      "at",
+      "the",
+      "gym"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ waɪf ɪz æt ðə dʒɪm/",
+    "portuguesePhonetic": "[mái uáif iz ét dâ djím]"
+  },
+  {
+    "id": "evaluation_lesson_5_en_id_3",
+    "word": "I go home after work.",
+    "translation": "Depois do trabalho, volto para casa.",
+    "syllables": [
+      "I",
+      "go",
+      "home",
+      "after",
+      "work"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ ɡoʊ hoʊm ˈæftər wɜːrk/",
+    "portuguesePhonetic": "[ái gôu rôum ÉF-târ uârk]"
+  },
+  {
+    "id": "evaluation_lesson_5_en_id_4",
+    "word": "The pharmacy is next to the subway station.",
+    "translation": "A farmácia fica ao lado da estação de metrô.",
+    "syllables": [
+      "The",
+      "pharmacy",
+      "is",
+      "next",
+      "to",
+      "the",
+      "subway",
+      "station"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈfɑːrməsi ɪz nɛkst tuː ðə ˈsʌbweɪ ˈsteɪʃən/",
+    "portuguesePhonetic": "[dâ FÁR-mâ-si iz nékst tú dâ SÂB-uêi STÊI-shân]"
+  },
+  {
+    "id": "evaluation_lesson_5_en_id_5",
+    "word": "We’re traveling to Spain tomorrow.",
+    "translation": "Amanhã vamos viajar para a Espanha.",
+    "syllables": [
+      "We’re",
+      "traveling",
+      "to",
+      "Spain",
+      "tomorrow"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wɪr ˈtrævəlɪŋ tuː speɪn təˈmɔːroʊ/",
+    "portuguesePhonetic": "[uír TRÉ-vâ-lin tú spêin ta-MÓ-rôu]"
+  },
+  {
+    "id": "evaluation_lesson_5_en_id_6",
+    "word": "I like going for walks with my wife near home.",
+    "translation": "Gosto de caminhar com minha esposa perto de casa.",
+    "syllables": [
+      "I",
+      "like",
+      "going",
+      "for",
+      "walks",
+      "with",
+      "my",
+      "wife",
+      "near",
+      "home"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ laɪk ˈɡoʊɪŋ fɔːr wɔːks wɪð maɪ waɪf nɪr hoʊm/",
+    "portuguesePhonetic": "[ái láik GÔU-in fór uóks uíf mái uáif nír rôum]"
+  },
+  {
+    "id": "evaluation_lesson_5_en_id_7",
+    "word": "I go home after the gym.",
+    "translation": "Depois da academia, volto para casa.",
+    "syllables": [
+      "I",
+      "go",
+      "home",
+      "after",
+      "the",
+      "gym"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/aɪ ɡoʊ hoʊm ˈæftər ðə dʒɪm/",
+    "portuguesePhonetic": "[ái gôu rôum ÉF-târ dâ djím]"
+  },
+  {
+    "id": "evaluation_lesson_5_en_id_8",
+    "word": "The supermarket is next to the pharmacy.",
+    "translation": "O supermercado fica ao lado da farmácia.",
+    "syllables": [
+      "The",
+      "supermarket",
+      "is",
+      "next",
+      "to",
+      "the",
+      "pharmacy"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/ðə ˈsuːpərmɑːrkɪt ɪz nɛkst tuː ðə ˈfɑːrməsi/",
+    "portuguesePhonetic": "[dâ SÚ-pâr-már-kit iz nékst tú dâ FÁR-mâ-si]"
+  },
+  {
+    "id": "evaluation_lesson_5_en_id_9",
+    "word": "My wife is traveling to Spain tomorrow.",
+    "translation": "Amanhã minha esposa vai viajar para a Espanha.",
+    "syllables": [
+      "My",
+      "wife",
+      "is",
+      "traveling",
+      "to",
+      "Spain",
+      "tomorrow"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/maɪ waɪf ɪz ˈtrævəlɪŋ tuː speɪn təˈmɔːroʊ/",
+    "portuguesePhonetic": "[mái uáif iz TRÉ-vâ-lin tú spêin ta-MÓ-rôu]"
+  },
+  {
+    "id": "evaluation_lesson_5_en_id_10",
+    "word": "We like going for walks near home.",
+    "translation": "Gostamos de caminhar perto de casa.",
+    "syllables": [
+      "We",
+      "like",
+      "going",
+      "for",
+      "walks",
+      "near",
+      "home"
+    ],
+    "exampleSentence": "",
+    "exampleTranslation": "",
+    "pronunciation": "/wiː laɪk ˈɡoʊɪŋ fɔːr wɔːks nɪr hoʊm/",
+    "portuguesePhonetic": "[uí láik GÔU-in fór uóks nír rôum]"
+  }
+]
